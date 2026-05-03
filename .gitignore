@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Hemmeligheter - ALDRI legg disse til repoet
+.env
+.env.*
+secrets.py
+*_token.txt
+*_key.txt
+chromium_profile/
+chromium-user-data/
+
+# Lokal data som ikke skal pushes (for store / midlertidige filer)
+data/tmp/
+data/cache/
+*.tmp
+
+# Logg fra Pi
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
