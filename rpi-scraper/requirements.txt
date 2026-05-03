@@ -1,14 +1,5 @@
-# Norges Lover – RPi scraper avhengigheter
-# Installasjon: pip install -r requirements.txt
+# Norges Lover – Python-avhengigheter
+# Scrapling erstatter requests, BeautifulSoup og nodriver
 
-# HTTP og HTML-parsing
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-lxml>=4.9.0
-
-# Headless browser for Lovdata og Kommuner (bot-beskyttede sider)
-# Krever også: sudo apt install chromium-browser
-nodriver>=0.37
-
-# (Valgfri) Raskere HTML-parsing
-html5lib>=1.1
+# Scrapling med alle hentere (StealthyFetcher + DynamicFetcher/Playwright)
+scrapling[fetchers]>=0.2

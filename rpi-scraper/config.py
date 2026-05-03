@@ -7,7 +7,9 @@ import os
 from pathlib import Path
 
 # --- Repo og git ---
-REPO_ROOT = Path(__file__).parent.parent
+# I Docker settes REPO_ROOT=/repo via miljøvariabel.
+# På Pi uten Docker brukes standard relativ sti.
+REPO_ROOT = Path(os.environ.get("REPO_ROOT", str(Path(__file__).parent.parent)))
 DATA_DIR = REPO_ROOT / "data"
 LOGS_DIR = REPO_ROOT / "logs"
 

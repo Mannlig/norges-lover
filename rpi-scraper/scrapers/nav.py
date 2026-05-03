@@ -1,15 +1,10 @@
 """
-Scraper for NAV (Arbeids- og velferdsdirektoratet).
-Henter informasjon om stønader, ytelser og rettigheter fra nav.no.
-
+Scraper for NAV – bruker Scrapling StealthyFetcher.
 Kilde: https://www.nav.no
-Innholdet er offentlig og gratis tilgjengelig.
 """
 
 import logging
 from pathlib import Path
-
-from bs4 import BeautifulSoup
 
 from .base import BaseScraper
 
@@ -17,24 +12,19 @@ logger = logging.getLogger(__name__)
 
 NAV_SIDER = [
     ("dagpenger/om-dagpenger", "https://www.nav.no/dagpenger"),
-    ("dagpenger/satser", "https://www.nav.no/dagpenger#satser"),
+    ("dagpenger/satser", "https://www.nav.no/dagpenger"),
     ("sykepenger/om-sykepenger", "https://www.nav.no/sykepenger"),
-    ("sykepenger/satser", "https://www.nav.no/sykepenger#satser"),
-    ("sykepenger/arbeidsgivere", "https://www.nav.no/sykepenger#for-arbeidsgivere"),
+    ("sykepenger/arbeidsgivere", "https://www.nav.no/sykepenger"),
     ("foreldrepenger/om", "https://www.nav.no/foreldrepenger"),
-    ("foreldrepenger/fedrekvote", "https://www.nav.no/foreldrepenger#fedrekvote"),
-    ("foreldrepenger/satser", "https://www.nav.no/foreldrepenger#satser"),
+    ("foreldrepenger/satser", "https://www.nav.no/foreldrepenger"),
     ("barnetrygd/om", "https://www.nav.no/barnetrygd"),
-    ("barnetrygd/satser", "https://www.nav.no/barnetrygd#satser"),
+    ("barnetrygd/satser", "https://www.nav.no/barnetrygd"),
     ("kontantstotte/om", "https://www.nav.no/kontantstotte"),
     ("uforetrygd/om", "https://www.nav.no/uforetrygd"),
-    ("uforetrygd/satser", "https://www.nav.no/uforetrygd#satser"),
+    ("uforetrygd/satser", "https://www.nav.no/uforetrygd"),
     ("alderspensjon/om", "https://www.nav.no/alderspensjon"),
-    ("alderspensjon/satser", "https://www.nav.no/alderspensjon#satser"),
     ("aap/om", "https://www.nav.no/arbeidsavklaringspenger"),
-    ("aap/satser", "https://www.nav.no/arbeidsavklaringspenger#satser"),
     ("sosialhjelp/om", "https://www.nav.no/sosialhjelp"),
-    ("sosialhjelp/veiledende-satser", "https://www.nav.no/sosialhjelp#veiledende-satser"),
     ("hjelpemidler/om", "https://www.nav.no/hjelpemidler"),
     ("bostotte/om", "https://www.husbanken.no/bostotte/"),
     ("overgangsstonad/om", "https://www.nav.no/overgangsstonad-enslig"),
@@ -43,6 +33,8 @@ NAV_SIDER = [
     ("gravid/svangerskapspenger", "https://www.nav.no/svangerskapspenger"),
     ("grunnbelop", "https://www.nav.no/grunnbelopet"),
 ]
+
+_INNHOLD_SELEKTORER = ["main", "article", "[role='main']", ".article-body", "#maincontent"]
 
 
 class NavScraper(BaseScraper):
@@ -53,27 +45,19 @@ class NavScraper(BaseScraper):
         output_dir.mkdir(parents=True, exist_ok=True)
         created = []
         for slug, url in NAV_SIDER[:max_pages]:
-            request_url = url.split("#")[0]
-            path = self._hent_side(output_dir, slug, request_url, url)
+            path = self._hent_side(output_dir, slug, url)
             if path:
                 created.append(path)
         logger.info("NAV: %d filer endret/nye", len(created))
         return created
 
-    def _hent_side(self, output_dir: Path, slug: str, url: str, original_url: str) -> Path | None:
-        resp = self.get(url)
-        if not resp:
+    def _hent_side(self, output_dir: Path, slug: str, url: str) -> Path | None:
+        page = self.fetch(url)
+        if not page:
             return None
 
-        try:
-            soup = BeautifulSoup(resp.text, "html.parser")
-        except Exception as e:
-            logger.warning("HTML-parsing feilet for %s: %s", url, e)
-            return None
-
-        tittel = self._hent_tittel(soup)
-        raa_innhold = self._hent_innhold(soup)
-
+        tittel = self.hent_tittel(page)
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
         if not raa_innhold.strip():
             logger.warning("Ingen innhold for %s", url)
             return None
@@ -85,44 +69,8 @@ class NavScraper(BaseScraper):
         target_dir.mkdir(parents=True, exist_ok=True)
         filepath = target_dir / f"{parts[-1]}.md"
 
-        formatert = self._formater(tittel, raa_innhold, original_url)
-        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
-        return filepath if endret else None
-
-    def _hent_tittel(self, soup: BeautifulSoup) -> str:
-        tag = soup.find("h1")
-        return tag.get_text(strip=True) if tag else "Ukjent tittel"
-
-    def _hent_innhold(self, soup: BeautifulSoup) -> str:
-        for tag in soup(["script", "style", "nav", "footer", "header", "aside"]):
-            tag.decompose()
-        for selector in ["main", "article", "[role='main']", ".article-body", "#maincontent"]:
-            el = soup.select_one(selector)
-            if el:
-                return self._til_markdown(el)
-        return ""
-
-    def _til_markdown(self, element) -> str:
-        linjer = []
-        for tag in element.find_all(["h1", "h2", "h3", "h4", "p", "li", "dt", "dd"]):
-            tekst = tag.get_text(separator=" ", strip=True)
-            if not tekst:
-                continue
-            if tag.name == "h1":
-                linjer.append(f"\n## {tekst}\n")
-            elif tag.name == "h2":
-                linjer.append(f"\n### {tekst}\n")
-            elif tag.name in ("h3", "h4"):
-                linjer.append(f"\n#### {tekst}\n")
-            elif tag.name == "p":
-                linjer.append(f"{tekst}\n")
-            elif tag.name == "li":
-                linjer.append(f"- {tekst}")
-            elif tag.name == "dt":
-                linjer.append(f"\n**{tekst}**")
-            elif tag.name == "dd":
-                linjer.append(f"  {tekst}")
-        return "\n".join(linjer)
+        formatert = self._formater(tittel, raa_innhold, url)
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
 
     def _formater(self, tittel: str, innhold: str, url: str) -> str:
         return "\n".join([
@@ -134,7 +82,7 @@ class NavScraper(BaseScraper):
             f"- **Kategori:** Stønader og ytelser",
             f"- **Sist hentet:** {self.now_iso()}",
             "",
-            "> **Merk:** Satser og beløp endres normalt hvert år (1. mai ved G-regulering).",
+            "> **Merk:** Satser endres normalt 1. mai ved G-regulering.",
             f"> Sjekk alltid [nav.no]({url}) for oppdaterte tall.",
             "",
             "## Innhold",
@@ -142,7 +90,5 @@ class NavScraper(BaseScraper):
             innhold,
             "",
             "---",
-            "",
-            f"*Automatisk hentet fra [NAV]({url}) av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra [NAV]({url}) av norges-lover-bot.*",
         ])

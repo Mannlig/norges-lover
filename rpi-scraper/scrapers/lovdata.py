@@ -1,33 +1,16 @@
 """
-Scraper for Lovdata.
-Bruker nodriver (headless Chromium) for å omgå bot-deteksjon.
-Henter nasjonale lover og forskrifter fra lovdata.no.
+Scraper for Lovdata – bruker Scrapling DynamicFetcher (Playwright).
+Henter nasjonale lover og forskrifter.
 
 Kilde: https://lovdata.no
-Vilkår: Kun offentlig tilgjengelig innhold. Respekterer rate limits.
-nodriver: https://github.com/ultrafunkamsterdam/nodriver
 """
 
-import asyncio
-import json
 import logging
 from pathlib import Path
 
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
-
-LOV_KATEGORIER = [
-    ("arbeidsliv", "https://lovdata.no/register/lover?topic=arbeidsliv"),
-    ("skatt", "https://lovdata.no/register/lover?topic=skatt"),
-    ("trygd", "https://lovdata.no/register/lover?topic=trygd"),
-    ("bygg", "https://lovdata.no/register/lover?topic=bygg"),
-    ("familie", "https://lovdata.no/register/lover?topic=familie"),
-    ("helse", "https://lovdata.no/register/lover?topic=helse"),
-    ("miljoe", "https://lovdata.no/register/lover?topic=miljo"),
-    ("naering", "https://lovdata.no/register/lover?topic=naering"),
-    ("offentlig-forvaltning", "https://lovdata.no/register/lover?topic=forvaltning"),
-]
 
 PRIORITERTE_LOVER = [
     ("arbeidsmiljoeloven", "https://lovdata.no/lov/2005-06-17-62"),
@@ -47,6 +30,20 @@ PRIORITERTE_LOVER = [
     ("konkursloven", "https://lovdata.no/lov/1984-06-08-58"),
 ]
 
+LOV_KATEGORIER = [
+    ("arbeidsliv", "https://lovdata.no/register/lover?topic=arbeidsliv"),
+    ("skatt", "https://lovdata.no/register/lover?topic=skatt"),
+    ("trygd", "https://lovdata.no/register/lover?topic=trygd"),
+    ("bygg", "https://lovdata.no/register/lover?topic=bygg"),
+    ("familie", "https://lovdata.no/register/lover?topic=familie"),
+    ("helse", "https://lovdata.no/register/lover?topic=helse"),
+    ("miljoe", "https://lovdata.no/register/lover?topic=miljo"),
+    ("naering", "https://lovdata.no/register/lover?topic=naering"),
+    ("forvaltning", "https://lovdata.no/register/lover?topic=forvaltning"),
+]
+
+_INNHOLD_SELEKTORER = ["div.law-content", "article.law", "main", "#lovtekst", ".lovtekst"]
+
 
 class LovdataScraper(BaseScraper):
     name = "lovdata"
@@ -54,134 +51,85 @@ class LovdataScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        return asyncio.run(self._scrape_async(output_dir, max_pages))
-
-    async def _scrape_async(self, output_dir: Path, max_pages: int) -> list[Path]:
-        try:
-            import nodriver as uc
-        except ImportError:
-            logger.error(
-                "nodriver er ikke installert. Kjør: pip install nodriver\n"
-                "Chromium kreves: sudo apt install chromium-browser"
-            )
-            return []
-
         created = []
-        browser = None
-        try:
-            browser = await uc.start(
-                headless=True,
-                browser_executable_path="/usr/bin/chromium-browser",
-                browser_args=["--no-sandbox", "--disable-dev-shm-usage"],
-            )
 
-            for navn, url in PRIORITERTE_LOVER[:max_pages]:
-                try:
-                    path = await self._hent_lov(browser, output_dir / "lover", url, navn)
+        for navn, url in PRIORITERTE_LOVER[:max_pages]:
+            path = self._hent_lov(output_dir / "lover", url, navn)
+            if path:
+                created.append(path)
+
+        remaining = max_pages - len(created)
+        if remaining > 0:
+            for kategori, kat_url in LOV_KATEGORIER:
+                for lenke_url, tittel in self._hent_lenker(kat_url)[:5]:
+                    if len(created) >= max_pages:
+                        break
+                    slug = self.slugify(tittel)
+                    path = self._hent_lov(output_dir / "kategorier" / kategori, lenke_url, slug)
                     if path:
                         created.append(path)
-                except Exception as e:
-                    logger.warning("Feil ved henting av %s: %s", url, e)
-                await asyncio.sleep(5)
-
-            remaining = max_pages - len(created)
-            if remaining > 0:
-                for kategori, url in LOV_KATEGORIER:
-                    links = await self._hent_lenker_fra_kategori(browser, url)
-                    for lenke_url, tittel in links[:5]:
-                        if len(created) >= max_pages:
-                            break
-                        slug = self.slugify(tittel)
-                        try:
-                            path = await self._hent_lov(
-                                browser, output_dir / "kategorier" / kategori, lenke_url, slug
-                            )
-                            if path:
-                                created.append(path)
-                        except Exception as e:
-                            logger.warning("Feil ved %s: %s", lenke_url, e)
-                        await asyncio.sleep(6)
-
-        finally:
-            if browser:
-                try:
-                    await browser.stop()
-                except Exception:
-                    pass
 
         logger.info("Lovdata: %d filer endret/nye", len(created))
         return created
 
-    async def _hent_lov(self, browser, output_dir: Path, url: str, navn: str) -> Path | None:
+    def _hent_lov(self, output_dir: Path, url: str, navn: str) -> Path | None:
         output_dir.mkdir(parents=True, exist_ok=True)
         filepath = output_dir / f"{navn}.md"
 
-        page = None
-        try:
-            page = await browser.get(url)
-            await asyncio.sleep(3)
-
-            tittel = await page.evaluate(
-                "document.querySelector('h1')?.innerText || document.title || ''"
-            )
-
-            raa_innhold = ""
-            for selector in ["div.law-content", "article", "main", "#lovtekst", ".lovtekst"]:
-                raa_innhold = await page.evaluate(
-                    f"document.querySelector('{selector}')?.innerText || ''"
-                )
-                if raa_innhold.strip():
-                    break
-
-            if not raa_innhold.strip():
-                logger.warning("Ingen innhold funnet for %s", url)
-                return None
-
-            oppdatert = await page.evaluate(
-                "document.querySelector('.last-updated, .date-modified, time')?.innerText || ''"
-            )
-
-            formatert = self._formater_lov(tittel.strip(), raa_innhold.strip(), url, oppdatert.strip())
-            # Hash kun selve lovteksten, ikke tidsstempler
-            endret = self.skriv_hvis_endret(filepath, raa_innhold.strip(), formatert)
-            return filepath if endret else None
-
-        except Exception as e:
-            logger.warning("Feil ved henting av %s: %s", url, e)
+        page = self._dynamic_fetch(url)
+        if not page:
             return None
-        finally:
-            if page:
-                try:
-                    await page.close()
-                except Exception:
-                    pass
 
-    async def _hent_lenker_fra_kategori(self, browser, url: str) -> list[tuple[str, str]]:
-        page = None
-        try:
-            page = await browser.get(url)
-            await asyncio.sleep(3)
-            lenker_json = await page.evaluate("""
-                JSON.stringify(
-                    Array.from(document.querySelectorAll('a[href*="/lov/"]'))
-                    .map(a => ({href: a.href, text: a.innerText.trim()}))
-                    .filter(a => a.text.length > 5)
-                    .slice(0, 20)
-                )
-            """)
-            lenker = json.loads(lenker_json or "[]")
-            return [(l["href"], l["text"]) for l in lenker]
-        except Exception as e:
-            logger.warning("Feil ved henting av kategori %s: %s", url, e)
+        tittel = self.hent_tittel(page)
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
+        if not raa_innhold.strip():
+            logger.warning("Ingen innhold for %s", url)
+            return None
+
+        oppdatert = ""
+        dato_el = page.css_first(".last-updated, .date-modified, time")
+        if dato_el:
+            oppdatert = dato_el.text or ""
+
+        formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
+
+    def _hent_lenker(self, url: str) -> list[tuple[str, str]]:
+        page = self._dynamic_fetch(url)
+        if not page:
             return []
-        finally:
-            if page:
-                try:
-                    await page.close()
-                except Exception:
-                    pass
+        lenker = []
+        for el in page.css("a[href*='/lov/']")[:20]:
+            href = el.attrib.get("href", "")
+            tekst = (el.text or "").strip()
+            if href and len(tekst) > 5:
+                if href.startswith("/"):
+                    href = f"https://lovdata.no{href}"
+                lenker.append((href, tekst))
+        return lenker
 
-    def _formater_lov(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
+    def _dynamic_fetch(self, url: str, retries: int = 3):
+        """Hent JS-rendret side med Scrapling DynamicFetcher (Playwright)."""
+        from scrapling.fetchers import DynamicFetcher
+        import time, random
+
+        for attempt in range(retries):
+            self._polite_delay()
+            try:
+                page = DynamicFetcher.fetch(
+                    url,
+                    headless=True,
+                    network_idle=True,
+                    disable_resources=True,
+                )
+                self._last_request_time = time.time()
+                return page
+            except Exception as e:
+                logger.warning("DynamicFetcher feil (forsøk %d/%d) %s: %s", attempt + 1, retries, url, e)
+                time.sleep(8 * (attempt + 1))
+        return None
+
+    def _formater(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
         return "\n".join([
             f"# {tittel}",
             "",
@@ -196,7 +144,5 @@ class LovdataScraper(BaseScraper):
             innhold,
             "",
             "---",
-            "",
-            f"*Automatisk hentet fra [Lovdata]({url}) av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra [Lovdata]({url}) av norges-lover-bot.*",
         ])
