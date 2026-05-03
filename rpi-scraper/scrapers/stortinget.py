@@ -28,16 +28,13 @@ class StortingetScraper(BaseScraper):
         return created
 
     def _hent_saker(self, output_dir: Path, max_pages: int) -> list[Path]:
-        """Henter behandlede saker (lover og proposisjoner) fra inneværende stortingsperiode."""
         created = []
         resp = self.get(f"{API_BASE}/stortingsperioder")
         if not resp:
             return created
 
-        data = resp.json()
-        perioder = data.get("stortingsperioder_liste", {}).get("stortingsperiode", [])
+        perioder = resp.json().get("stortingsperioder_liste", {}).get("stortingsperiode", [])
         if not perioder:
-            logger.warning("Ingen stortingsperioder funnet")
             return created
 
         siste_periode = perioder[-1].get("id", "")
@@ -59,7 +56,6 @@ class StortingetScraper(BaseScraper):
             sak_id = sak.get("id", "")
             tittel = sak.get("tittel", "ukjent")
             saktype = sak.get("type", "").lower()
-
             if saktype not in ("lovsak", "proposisjon", "melding"):
                 continue
 
@@ -68,11 +64,10 @@ class StortingetScraper(BaseScraper):
                 created.append(path)
                 count += 1
 
-        logger.info("Stortinget: lagret %d saker", count)
+        logger.info("Stortinget: %d saker behandlet", count)
         return created
 
     def _hent_lover(self, output_dir: Path, max_pages: int) -> list[Path]:
-        """Henter vedtatte lover."""
         created = []
         resp = self.get(f"{API_BASE}/lovsaker", params={"antall": min(max_pages, 100), "start": 0})
         if not resp:
@@ -80,9 +75,9 @@ class StortingetScraper(BaseScraper):
 
         lovsaker = resp.json().get("lovsaker_liste", {}).get("lovsak", [])
         for lov in lovsaker[:max_pages]:
-            lov_id = lov.get("id", "")
+            sak_id = lov.get("id", "")
             tittel = lov.get("tittel", "ukjent")
-            path = self._lagre_sak(output_dir / "lovsaker", lov_id, tittel, lov, periode="")
+            path = self._lagre_sak(output_dir / "lovsaker", sak_id, tittel, lov, periode="")
             if path:
                 created.append(path)
 
@@ -98,18 +93,21 @@ class StortingetScraper(BaseScraper):
         slug = self.slugify(tittel)
         filepath = output_dir / f"{sak_id}-{slug}.md"
 
-        innhold = self._formater_sak(sak_id, tittel, data, periode)
-        filepath.write_text(innhold, encoding="utf-8")
-        return filepath
+        # Råinnhold for hashing: kun selve sak-dataene fra API (ikke tidsstempler)
+        raa_innhold = json.dumps(data, ensure_ascii=False, sort_keys=True)
+        formatert = self._formater_sak(sak_id, tittel, data, periode)
+
+        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
+        return filepath if endret else None
 
     def _formater_sak(self, sak_id: str, tittel: str, data: dict, periode: str) -> str:
         sakstype = data.get("type", "")
-        kortтитtel = data.get("korttittel", "")
+        korttittel = data.get("korttittel", "")
         status = data.get("status", "")
         behandlet = data.get("behandlet_dato", "")
         sak_url = f"https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p={sak_id}"
 
-        linjer = [
+        return "\n".join([
             f"# {tittel}",
             "",
             "## Metadata",
@@ -117,11 +115,11 @@ class StortingetScraper(BaseScraper):
             f"- **Kilde:** Stortingets åpne API – {self.source_url}",
             f"- **Sak-ID:** {sak_id}",
             f"- **Type:** {sakstype}",
-            f"- **Korttittel:** {kortтитtel}",
+            f"- **Korttittel:** {korttittel}",
             f"- **Status:** {status}",
             f"- **Stortingsperiode:** {periode}",
             f"- **Behandlet:** {behandlet}",
-            f"- **Hentet:** {self.now_iso()}",
+            f"- **Sist hentet:** {self.now_iso()}",
             f"- **Sak-URL:** {sak_url}",
             "",
             "## Rådata (JSON fra API)",
@@ -132,5 +130,4 @@ class StortingetScraper(BaseScraper):
             "",
             f"*Automatisk hentet fra {self.source_url} av norges-lover-bot. "
             "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
-        ]
-        return "\n".join(linjer)
+        ])
