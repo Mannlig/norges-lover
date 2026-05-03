@@ -16,47 +16,31 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 NAV_SIDER = [
-    # Dagpenger
     ("dagpenger/om-dagpenger", "https://www.nav.no/dagpenger"),
     ("dagpenger/satser", "https://www.nav.no/dagpenger#satser"),
-    ("dagpenger/soek", "https://www.nav.no/dagpenger#soek"),
-    # Sykepenger
     ("sykepenger/om-sykepenger", "https://www.nav.no/sykepenger"),
     ("sykepenger/satser", "https://www.nav.no/sykepenger#satser"),
     ("sykepenger/arbeidsgivere", "https://www.nav.no/sykepenger#for-arbeidsgivere"),
-    # Foreldrepenger
     ("foreldrepenger/om", "https://www.nav.no/foreldrepenger"),
     ("foreldrepenger/fedrekvote", "https://www.nav.no/foreldrepenger#fedrekvote"),
     ("foreldrepenger/satser", "https://www.nav.no/foreldrepenger#satser"),
-    # Barnetrygd
     ("barnetrygd/om", "https://www.nav.no/barnetrygd"),
     ("barnetrygd/satser", "https://www.nav.no/barnetrygd#satser"),
-    # Kontantstøtte
     ("kontantstotte/om", "https://www.nav.no/kontantstotte"),
-    # Uføretrygd
     ("uforetrygd/om", "https://www.nav.no/uforetrygd"),
     ("uforetrygd/satser", "https://www.nav.no/uforetrygd#satser"),
-    # Alderspensjon
     ("alderspensjon/om", "https://www.nav.no/alderspensjon"),
     ("alderspensjon/satser", "https://www.nav.no/alderspensjon#satser"),
-    # AAP (Arbeidsavklaringspenger)
     ("aap/om", "https://www.nav.no/arbeidsavklaringspenger"),
     ("aap/satser", "https://www.nav.no/arbeidsavklaringspenger#satser"),
-    # Sosialhjelp
     ("sosialhjelp/om", "https://www.nav.no/sosialhjelp"),
     ("sosialhjelp/veiledende-satser", "https://www.nav.no/sosialhjelp#veiledende-satser"),
-    # Hjelpemidler
     ("hjelpemidler/om", "https://www.nav.no/hjelpemidler"),
-    # Bostøtte
     ("bostotte/om", "https://www.husbanken.no/bostotte/"),
-    # Overgangsstønad
     ("overgangsstonad/om", "https://www.nav.no/overgangsstonad-enslig"),
-    # Pleie- og omsorgspenger
     ("omsorgspenger/om", "https://www.nav.no/omsorgspenger"),
     ("pleiepenger/om", "https://www.nav.no/pleiepenger-sykt-barn"),
-    # Gravid
     ("gravid/svangerskapspenger", "https://www.nav.no/svangerskapspenger"),
-    # Grunnbeløp
     ("grunnbelop", "https://www.nav.no/grunnbelopet"),
 ]
 
@@ -68,15 +52,12 @@ class NavScraper(BaseScraper):
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
         created = []
-
         for slug, url in NAV_SIDER[:max_pages]:
-            # Fjern anker fra URL for HTTP-request
             request_url = url.split("#")[0]
             path = self._hent_side(output_dir, slug, request_url, url)
             if path:
                 created.append(path)
-
-        logger.info("NAV: lagret %d sider", len(created))
+        logger.info("NAV: %d filer endret/nye", len(created))
         return created
 
     def _hent_side(self, output_dir: Path, slug: str, url: str, original_url: str) -> Path | None:
@@ -91,9 +72,9 @@ class NavScraper(BaseScraper):
             return None
 
         tittel = self._hent_tittel(soup)
-        innhold = self._hent_innhold(soup)
+        raa_innhold = self._hent_innhold(soup)
 
-        if not innhold.strip():
+        if not raa_innhold.strip():
             logger.warning("Ingen innhold for %s", url)
             return None
 
@@ -102,14 +83,11 @@ class NavScraper(BaseScraper):
         for part in parts[:-1]:
             target_dir = target_dir / part
         target_dir.mkdir(parents=True, exist_ok=True)
-
         filepath = target_dir / f"{parts[-1]}.md"
-        filepath.write_text(
-            self._formater(tittel, innhold, original_url),
-            encoding="utf-8",
-        )
-        logger.info("Lagret: %s", filepath.name)
-        return filepath
+
+        formatert = self._formater(tittel, raa_innhold, original_url)
+        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
+        return filepath if endret else None
 
     def _hent_tittel(self, soup: BeautifulSoup) -> str:
         tag = soup.find("h1")
@@ -118,7 +96,6 @@ class NavScraper(BaseScraper):
     def _hent_innhold(self, soup: BeautifulSoup) -> str:
         for tag in soup(["script", "style", "nav", "footer", "header", "aside"]):
             tag.decompose()
-
         for selector in ["main", "article", "[role='main']", ".article-body", "#maincontent"]:
             el = soup.select_one(selector)
             if el:
@@ -155,10 +132,10 @@ class NavScraper(BaseScraper):
             "",
             f"- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – {url}",
             f"- **Kategori:** Stønader og ytelser",
-            f"- **Hentet:** {self.now_iso()}",
+            f"- **Sist hentet:** {self.now_iso()}",
             "",
             "> **Merk:** Satser og beløp endres normalt hvert år (1. mai ved G-regulering).",
-            "> Sjekk alltid [nav.no]({url}) for oppdaterte tall.",
+            f"> Sjekk alltid [nav.no]({url}) for oppdaterte tall.",
             "",
             "## Innhold",
             "",

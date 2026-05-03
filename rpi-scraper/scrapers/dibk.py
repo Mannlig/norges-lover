@@ -2,7 +2,7 @@
 Scraper for Direktoratet for byggkvalitet (DiBK).
 Henter tekniske forskrifter, veiledere og regelverk for bygg og anlegg.
 
-Kilde: https://www.dibk.no og https://byggeregler.dibk.no
+Kilde: https://www.dibk.no
 Innholdet er offentlig tilgjengelig.
 """
 
@@ -16,40 +16,29 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 DIBK_SIDER = [
-    # TEK17 – Teknisk forskrift
     ("tek17/krav-til-byggverk", "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/"),
-    ("tek17/brannsikkerhet", "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/11-brannsikkerhet/"),
-    ("tek17/energi", "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/14-energi/"),
+    ("tek17/brannsikkerhet",
+     "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/11-brannsikkerhet/"),
+    ("tek17/energi",
+     "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/14-energi/"),
     ("tek17/universell-utforming",
      "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/12-planlosning-og-bygningsdeler/"),
     ("tek17/sikkerhet-i-bruk",
      "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/13-sikkerhet-ved-bruk/"),
-    ("tek17/inneklima",
-     "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/13-sikkerhet-ved-bruk/"),
-    # SAK10 – Byggesaksforskriften
     ("sak10/soknadspliktige-tiltak",
      "https://dibk.no/regelverk/byggesaksforskriften-sak10/"),
     ("sak10/unntak-fra-soknadsplikt",
      "https://dibk.no/regelverk/byggesaksforskriften-sak10/2-unntak-fra-soknadsplikt/"),
-    # GOF – Forskrift om omsetning og dokumentasjon
     ("gof/produktdokumentasjon",
      "https://dibk.no/regelverk/forskrift-om-omsetning-og-dokumentasjon-av-produkter-til-byggverk-dof/"),
-    # Veiledere
     ("veiledere/tilbygg", "https://dibk.no/byggeregler/tilbygg/"),
     ("veiledere/garasje", "https://dibk.no/byggeregler/garasje-og-uthus/"),
     ("veiledere/terrasse", "https://dibk.no/byggeregler/terrasse/"),
     ("veiledere/gjerde", "https://dibk.no/byggeregler/gjerde-og-levegg/"),
     ("veiledere/bod", "https://dibk.no/byggeregler/bod-og-sykkeloppbevaring/"),
-    ("veiledere/soknadsguide",
-     "https://dibk.no/soknadspliktig-eller-ikke/"),
-    # Energi og miljø
-    ("energi/energimerking",
-     "https://www.enova.no/privatperson/bolig/energimerking/"),
-    # Søknadsprosess
-    ("soknader/nabovarsling",
-     "https://dibk.no/byggesok/nabo-og-gjenboer/nabovarsel/"),
-    ("soknader/rammetillatelse",
-     "https://dibk.no/byggesok/saksgangen/rammetillatelse/"),
+    ("veiledere/soknadsguide", "https://dibk.no/soknadspliktig-eller-ikke/"),
+    ("soknader/nabovarsling", "https://dibk.no/byggesok/nabo-og-gjenboer/nabovarsel/"),
+    ("soknader/rammetillatelse", "https://dibk.no/byggesok/saksgangen/rammetillatelse/"),
     ("soknader/igangsettingstillatelse",
      "https://dibk.no/byggesok/saksgangen/igangsettingstillatelse/"),
     ("soknader/ferdigattest",
@@ -64,13 +53,11 @@ class DibkScraper(BaseScraper):
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
         created = []
-
         for slug, url in DIBK_SIDER[:max_pages]:
             path = self._hent_side(output_dir, slug, url)
             if path:
                 created.append(path)
-
-        logger.info("DiBK: lagret %d sider", len(created))
+        logger.info("DiBK: %d filer endret/nye", len(created))
         return created
 
     def _hent_side(self, output_dir: Path, slug: str, url: str) -> Path | None:
@@ -85,10 +72,10 @@ class DibkScraper(BaseScraper):
             return None
 
         tittel = self._hent_tittel(soup)
-        innhold = self._hent_innhold(soup)
+        raa_innhold = self._hent_innhold(soup)
         oppdatert = self._hent_dato(soup)
 
-        if not innhold.strip():
+        if not raa_innhold.strip():
             logger.warning("Ingen innhold for %s", url)
             return None
 
@@ -97,23 +84,19 @@ class DibkScraper(BaseScraper):
         for part in parts[:-1]:
             target_dir = target_dir / part
         target_dir.mkdir(parents=True, exist_ok=True)
-
         filepath = target_dir / f"{parts[-1]}.md"
-        filepath.write_text(
-            self._formater(tittel, innhold, url, oppdatert),
-            encoding="utf-8",
-        )
-        logger.info("Lagret: %s", filepath.name)
-        return filepath
+
+        formatert = self._formater(tittel, raa_innhold, url, oppdatert)
+        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
+        return filepath if endret else None
 
     def _hent_tittel(self, soup: BeautifulSoup) -> str:
         tag = soup.find("h1")
-        return tag.get_text(strip=True) if tag else soup.title.string if soup.title else "Ukjent"
+        return tag.get_text(strip=True) if tag else (soup.title.string if soup.title else "Ukjent")
 
     def _hent_innhold(self, soup: BeautifulSoup) -> str:
         for tag in soup(["script", "style", "nav", "footer", "header"]):
             tag.decompose()
-
         for selector in ["main", "article", ".article-body", "#main", "[role='main']"]:
             el = soup.select_one(selector)
             if el:
@@ -154,7 +137,7 @@ class DibkScraper(BaseScraper):
             f"- **Kilde:** Direktoratet for byggkvalitet (DiBK) – {url}",
             f"- **Kategori:** Byggteknisk regelverk",
             f"- **Sist oppdatert (kilde):** {oppdatert or 'ukjent'}",
-            f"- **Hentet:** {self.now_iso()}",
+            f"- **Sist hentet:** {self.now_iso()}",
             "",
             "## Innhold",
             "",

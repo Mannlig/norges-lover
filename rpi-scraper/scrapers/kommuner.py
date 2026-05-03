@@ -53,16 +53,17 @@ class KommunerScraper(BaseScraper):
                 url = f"{self.source_url}/{kommunenr}"
                 forskrifter = await self._hent_kommuneforskrifter(browser, url, kommunenavn, kommunenr)
 
-                for tittel, forskrift_url, innhold in forskrifter:
+                for tittel, forskrift_url, raa_innhold in forskrifter:
                     if total >= max_pages:
                         break
                     slug = self.slugify(tittel)
                     filepath = kommune_dir / f"{slug}.md"
-                    md = self._formater(tittel, innhold, forskrift_url, kommunenavn, kommunenr)
-                    filepath.write_text(md, encoding="utf-8")
-                    created.append(filepath)
+                    formatert = self._formater(tittel, raa_innhold, forskrift_url, kommunenavn, kommunenr)
+                    endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
+                    if endret:
+                        created.append(filepath)
                     total += 1
-                    logger.info("Lagret: %s/%s", kommunenavn, slug)
+                    logger.info("%s/%s: %s", kommunenavn, slug, "endret" if endret else "uendret")
                     await asyncio.sleep(4)
 
         finally:
@@ -72,21 +73,18 @@ class KommunerScraper(BaseScraper):
                 except Exception:
                     pass
 
-        logger.info("Kommuner: lagret %d forskrifter", len(created))
+        logger.info("Kommuner: %d filer endret/nye", len(created))
         return created
 
     async def _hent_kommuneforskrifter(
         self, browser, url: str, kommunenavn: str, kommunenr: str
     ) -> list[tuple[str, str, str]]:
-        """Henter liste over forskrifter for en kommune og innholdet."""
         page = None
         forskrifter = []
-
         try:
             page = await browser.get(url)
             await asyncio.sleep(3)
 
-            # Hent alle lenker til lokale forskrifter
             lenker_json = await page.evaluate("""
                 JSON.stringify(
                     Array.from(document.querySelectorAll('a[href*="/forskrift/"]'))
@@ -100,9 +98,9 @@ class KommunerScraper(BaseScraper):
             for lenke in lenker[:5]:
                 forskrift_url = lenke["href"]
                 tittel = lenke["text"]
-                innhold = await self._hent_forskrift_innhold(browser, forskrift_url)
-                if innhold:
-                    forskrifter.append((tittel, forskrift_url, innhold))
+                raa_innhold = await self._hent_forskrift_innhold(browser, forskrift_url)
+                if raa_innhold:
+                    forskrifter.append((tittel, forskrift_url, raa_innhold))
                 await asyncio.sleep(4)
 
         except Exception as e:
@@ -121,7 +119,6 @@ class KommunerScraper(BaseScraper):
         try:
             page = await browser.get(url)
             await asyncio.sleep(3)
-
             innhold = ""
             for selector in ["div.law-content", "article", "main"]:
                 innhold = await page.evaluate(
@@ -151,7 +148,7 @@ class KommunerScraper(BaseScraper):
             f"- **Kilde:** Lovdata – {url}",
             f"- **Kommune:** {kommunenavn.capitalize()} (kommunenr. {kommunenr})",
             f"- **Kategori:** Kommunal/lokal forskrift",
-            f"- **Hentet:** {self.now_iso()}",
+            f"- **Sist hentet:** {self.now_iso()}",
             "",
             "## Innhold",
             "",

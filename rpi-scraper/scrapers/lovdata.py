@@ -9,15 +9,14 @@ nodriver: https://github.com/ultrafunkamsterdam/nodriver
 """
 
 import asyncio
+import json
 import logging
-import re
 from pathlib import Path
 
 from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-# Kategorier av lover vi vil hente
 LOV_KATEGORIER = [
     ("arbeidsliv", "https://lovdata.no/register/lover?topic=arbeidsliv"),
     ("skatt", "https://lovdata.no/register/lover?topic=skatt"),
@@ -30,7 +29,6 @@ LOV_KATEGORIER = [
     ("offentlig-forvaltning", "https://lovdata.no/register/lover?topic=forvaltning"),
 ]
 
-# Sentrale lover vi alltid henter uansett kategori
 PRIORITERTE_LOVER = [
     ("arbeidsmiljoeloven", "https://lovdata.no/lov/2005-06-17-62"),
     ("skatteloven", "https://lovdata.no/lov/1999-03-26-14"),
@@ -44,7 +42,6 @@ PRIORITERTE_LOVER = [
     ("straffeloven", "https://lovdata.no/lov/2005-05-20-28"),
     ("likestillingsloven", "https://lovdata.no/lov/2017-06-16-51"),
     ("personopplysningsloven", "https://lovdata.no/lov/2018-06-15-38"),
-    ("diskrimineringsloven", "https://lovdata.no/lov/2017-06-16-50"),
     ("aksjeloven", "https://lovdata.no/lov/1997-06-13-44"),
     ("regnskapsloven", "https://lovdata.no/lov/1998-07-17-56"),
     ("konkursloven", "https://lovdata.no/lov/1984-06-08-58"),
@@ -78,7 +75,6 @@ class LovdataScraper(BaseScraper):
                 browser_args=["--no-sandbox", "--disable-dev-shm-usage"],
             )
 
-            # Hent prioriterte lover først
             for navn, url in PRIORITERTE_LOVER[:max_pages]:
                 try:
                     path = await self._hent_lov(browser, output_dir / "lover", url, navn)
@@ -86,9 +82,8 @@ class LovdataScraper(BaseScraper):
                         created.append(path)
                 except Exception as e:
                     logger.warning("Feil ved henting av %s: %s", url, e)
-                await asyncio.sleep(5)  # Høflig pause
+                await asyncio.sleep(5)
 
-            # Hent kategorilister
             remaining = max_pages - len(created)
             if remaining > 0:
                 for kategori, url in LOV_KATEGORIER:
@@ -114,7 +109,7 @@ class LovdataScraper(BaseScraper):
                 except Exception:
                     pass
 
-        logger.info("Lovdata: hentet %d dokumenter", len(created))
+        logger.info("Lovdata: %d filer endret/nye", len(created))
         return created
 
     async def _hent_lov(self, browser, output_dir: Path, url: str, navn: str) -> Path | None:
@@ -126,33 +121,30 @@ class LovdataScraper(BaseScraper):
             page = await browser.get(url)
             await asyncio.sleep(3)
 
-            # Hent tittel
             tittel = await page.evaluate(
                 "document.querySelector('h1')?.innerText || document.title || ''"
             )
 
-            # Prøv ulike selektorer for lovtekst
-            innhold = ""
+            raa_innhold = ""
             for selector in ["div.law-content", "article", "main", "#lovtekst", ".lovtekst"]:
-                innhold = await page.evaluate(
+                raa_innhold = await page.evaluate(
                     f"document.querySelector('{selector}')?.innerText || ''"
                 )
-                if innhold.strip():
+                if raa_innhold.strip():
                     break
 
-            if not innhold.strip():
+            if not raa_innhold.strip():
                 logger.warning("Ingen innhold funnet for %s", url)
                 return None
 
-            # Hent sist oppdatert hvis tilgjengelig
             oppdatert = await page.evaluate(
                 "document.querySelector('.last-updated, .date-modified, time')?.innerText || ''"
             )
 
-            md = self._formater_lov(tittel.strip(), innhold.strip(), url, oppdatert.strip())
-            filepath.write_text(md, encoding="utf-8")
-            logger.info("Lagret: %s", filepath.name)
-            return filepath
+            formatert = self._formater_lov(tittel.strip(), raa_innhold.strip(), url, oppdatert.strip())
+            # Hash kun selve lovteksten, ikke tidsstempler
+            endret = self.skriv_hvis_endret(filepath, raa_innhold.strip(), formatert)
+            return filepath if endret else None
 
         except Exception as e:
             logger.warning("Feil ved henting av %s: %s", url, e)
@@ -177,7 +169,6 @@ class LovdataScraper(BaseScraper):
                     .slice(0, 20)
                 )
             """)
-            import json
             lenker = json.loads(lenker_json or "[]")
             return [(l["href"], l["text"]) for l in lenker]
         except Exception as e:
@@ -191,14 +182,14 @@ class LovdataScraper(BaseScraper):
                     pass
 
     def _formater_lov(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
-        linjer = [
+        return "\n".join([
             f"# {tittel}",
             "",
             "## Kildeinformasjon",
             "",
             f"- **Kilde:** Lovdata – {url}",
             f"- **Sist oppdatert (kilde):** {oppdatert or 'ukjent'}",
-            f"- **Hentet:** {self.now_iso()}",
+            f"- **Sist hentet:** {self.now_iso()}",
             "",
             "## Lovtekst",
             "",
@@ -208,5 +199,4 @@ class LovdataScraper(BaseScraper):
             "",
             f"*Automatisk hentet fra [Lovdata]({url}) av norges-lover-bot. "
             "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
-        ]
-        return "\n".join(linjer)
+        ])
