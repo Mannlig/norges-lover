@@ -41,81 +41,53 @@ Hvert dokument inneholder:
 - Python 3.11+
 - Internettilgang
 
-### Rask installasjon
+### Installasjon – én kommando
+
+Kjør dette på Pi-en din:
 
 ```bash
-# Klon repoet
-git clone https://github.com/mannlig/norges-lover.git
-cd norges-lover
-
-# Kjør installasjonsskriptet
-bash rpi-scraper/setup/install.sh
+curl -sSL https://raw.githubusercontent.com/mannlig/norges-lover/main/rpi-scraper/setup/install.sh | bash
 ```
 
-Skriptet installerer alle avhengigheter, setter opp Python-miljø og konfigurerer systemd-tjeneste.
+Skriptet vil:
+1. Spørre om GitHub-token (se under)
+2. Installere alle avhengigheter automatisk
+3. Klone repoet
+4. Sette opp Python-miljø
+5. Starte scraperen som en systemd-tjeneste
 
-### Manuell installasjon
+Etter det kjører den autonomt i bakgrunnen og pusher til GitHub hvert 6. time.
 
-```bash
-# Systempakker
-sudo apt update
-sudo apt install python3 python3-pip python3-venv chromium-browser git
+### GitHub Personal Access Token
 
-# Python-avhengigheter
-cd rpi-scraper
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-## Konfigurasjon (ingen hemmeligheter i repoet!)
-
-Lag filen `~/.norges-lover-env` (denne filen skal **aldri** commites):
-
-```bash
-export GITHUB_TOKEN="ghp_ditt_token_her"
-export GIT_USER_NAME="norges-lover-rpi"
-export GIT_USER_EMAIL="rpi@norges-lover"
-```
-
-### Generer GitHub Personal Access Token
+Skriptet spør om dette under installasjon. Slik oppretter du det:
 
 1. Gå til [github.com/settings/tokens](https://github.com/settings/tokens)
 2. Klikk «Generate new token (classic)»
 3. Gi den et navn, f.eks. «norges-lover-rpi»
-4. Velg scope: **repo** → Contents: read/write
-5. Kopier tokenen og lim inn i `~/.norges-lover-env`
+4. Velg scope: **repo** (gir lese- og skrivetilgang)
+5. Klikk «Generate token» og kopier verdien
 
-> Tokenen lagres kun lokalt på Pi-en. Den commites **aldri** til repoet.
+> Token lagres kun lokalt på Pi-en i `~/.norges-lover-env` (chmod 600).
+> Den commites **aldri** til repoet.
 
-## Kjøring
-
-```bash
-cd rpi-scraper
-source .venv/bin/activate
-source ~/.norges-lover-env
-
-# Test én kilde
-python main.py --kilde stortinget
-python main.py --kilde skatteetaten
-python main.py --kilde nav
-
-# Full kjøring (alle kilder)
-python main.py
-
-# Daemon-modus (kjør automatisk hvert 6. time)
-python main.py --daemon --intervall 6
-```
-
-### Automatisk oppstart med systemd
+## Nyttige kommandoer etter installasjon
 
 ```bash
-sudo systemctl enable norges-lover
-sudo systemctl start norges-lover
-
-# Status og logger
+# Sjekk at tjenesten kjører
 sudo systemctl status norges-lover
+
+# Følg logger live
 journalctl -u norges-lover -f
+
+# Kjør én kilde manuelt (for testing)
+cd ~/norges-lover/rpi-scraper
+source .venv/bin/activate && source ~/.norges-lover-env
+python main.py --kilde stortinget
+
+# Stopp / start
+sudo systemctl stop norges-lover
+sudo systemctl start norges-lover
 ```
 
 ## Rate limiting og høflighet
