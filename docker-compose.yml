@@ -1,0 +1,17 @@
+services:
+  norges-lover:
+    build: .
+    image: norges-lover-scraper
+    env_file: .env                    # Token her – aldri i repoet
+    volumes:
+      - repo-data:/repo               # Git-repo og scraped data
+      - logs:/repo/logs               # Logger tilgjengelig utenfor container
+    restart: unless-stopped
+    # Chromium trenger disse på ARM/RPi
+    security_opt:
+      - seccomp:unconfined
+    shm_size: 256mb
+
+volumes:
+  repo-data:
+  logs:

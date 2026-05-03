@@ -1,15 +1,10 @@
 """
-Scraper for Skatteetaten.
-Henter skatteregler, veiledere og satser fra skatteetaten.no.
-
+Scraper for Skatteetaten – bruker Scrapling StealthyFetcher.
 Kilde: https://www.skatteetaten.no
-Innholdet er offentlig og tilgjengelig uten innlogging.
 """
 
 import logging
 from pathlib import Path
-
-from bs4 import BeautifulSoup
 
 from .base import BaseScraper
 
@@ -43,6 +38,8 @@ SKATTEETATEN_SIDER = [
     ("naering/skattekort", "https://www.skatteetaten.no/person/skattekort/"),
 ]
 
+_INNHOLD_SELEKTORER = ["main", "article", "[role='main']", ".article-content", "#main-content"]
+
 
 class SkatteetatenScraper(BaseScraper):
     name = "skatteetaten"
@@ -59,23 +56,20 @@ class SkatteetatenScraper(BaseScraper):
         return created
 
     def _hent_side(self, output_dir: Path, slug: str, url: str) -> Path | None:
-        resp = self.get(url)
-        if not resp:
+        page = self.fetch(url)
+        if not page:
             return None
 
-        try:
-            soup = BeautifulSoup(resp.text, "html.parser")
-        except Exception as e:
-            logger.warning("HTML-parsing feilet for %s: %s", url, e)
-            return None
-
-        tittel = self._hent_tittel(soup)
-        raa_innhold = self._hent_innhold(soup)
-        oppdatert = self._hent_dato(soup)
-
+        tittel = self.hent_tittel(page)
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
         if not raa_innhold.strip():
             logger.warning("Ingen innhold for %s", url)
             return None
+
+        oppdatert = ""
+        dato_el = page.css_first("time, .last-updated, [datetime]")
+        if dato_el:
+            oppdatert = dato_el.attrib.get("datetime", "") or (dato_el.text or "")
 
         parts = slug.split("/")
         target_dir = output_dir
@@ -84,52 +78,8 @@ class SkatteetatenScraper(BaseScraper):
         target_dir.mkdir(parents=True, exist_ok=True)
         filepath = target_dir / f"{parts[-1]}.md"
 
-        formatert = self._formater(tittel, raa_innhold, url, oppdatert)
-        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
-        return filepath if endret else None
-
-    def _hent_tittel(self, soup: BeautifulSoup) -> str:
-        for selector in ["h1", "title"]:
-            tag = soup.select_one(selector)
-            if tag:
-                return tag.get_text(strip=True)
-        return "Ukjent tittel"
-
-    def _hent_innhold(self, soup: BeautifulSoup) -> str:
-        for tag in soup(["script", "style", "nav", "footer", "header", "aside"]):
-            tag.decompose()
-        for selector in ["main", "article", "[role='main']", ".article-content", "#main-content"]:
-            element = soup.select_one(selector)
-            if element:
-                return self._html_til_markdown(element)
-        return ""
-
-    def _html_til_markdown(self, element) -> str:
-        lines = []
-        for tag in element.find_all(["h1", "h2", "h3", "h4", "p", "li", "th", "td"]):
-            text = tag.get_text(separator=" ", strip=True)
-            if not text:
-                continue
-            if tag.name == "h1":
-                lines.append(f"\n## {text}\n")
-            elif tag.name == "h2":
-                lines.append(f"\n### {text}\n")
-            elif tag.name in ("h3", "h4"):
-                lines.append(f"\n#### {text}\n")
-            elif tag.name == "p":
-                lines.append(f"{text}\n")
-            elif tag.name == "li":
-                lines.append(f"- {text}")
-            elif tag.name in ("th", "td"):
-                lines.append(f"| {text} ")
-        return "\n".join(lines)
-
-    def _hent_dato(self, soup: BeautifulSoup) -> str:
-        for selector in ["time", ".last-updated", ".date", "[datetime]"]:
-            tag = soup.select_one(selector)
-            if tag:
-                return tag.get("datetime", "") or tag.get_text(strip=True)
-        return ""
+        formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
 
     def _formater(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
         return "\n".join([
@@ -146,7 +96,5 @@ class SkatteetatenScraper(BaseScraper):
             innhold,
             "",
             "---",
-            "",
-            f"*Automatisk hentet fra [Skatteetaten]({url}) av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra [Skatteetaten]({url}) av norges-lover-bot.*",
         ])

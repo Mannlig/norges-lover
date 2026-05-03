@@ -1,0 +1,12 @@
+.git
+.env
+.env.*
+data/
+logs/
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/venv/
+rpi-scraper/setup/install.sh
+*.md
+LICENSE

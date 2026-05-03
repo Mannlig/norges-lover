@@ -1,14 +1,10 @@
 """
-Scraper for kommunale og fylkeskommunale forskrifter.
-Henter lokale forskrifter fra Lovdata sitt kommuneregister.
-
+Scraper for kommunale forskrifter – bruker Scrapling DynamicFetcher (Playwright).
 Kilde: https://lovdata.no/register/lokaleforskrifter
-SSB kommunenummer: https://www.ssb.no/klass/klassifikasjoner/131
 """
 
-import asyncio
-import json
 import logging
+import time
 from pathlib import Path
 
 from .base import BaseScraper
@@ -23,123 +19,78 @@ class KommunerScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        return asyncio.run(self._scrape_async(output_dir, max_pages))
-
-    async def _scrape_async(self, output_dir: Path, max_pages: int) -> list[Path]:
-        try:
-            import nodriver as uc
-        except ImportError:
-            logger.error("nodriver ikke installert. Kjør: pip install nodriver")
-            return []
-
         created = []
-        browser = None
         total = 0
 
-        try:
-            browser = await uc.start(
-                headless=True,
-                browser_executable_path="/usr/bin/chromium-browser",
-                browser_args=["--no-sandbox", "--disable-dev-shm-usage"],
-            )
+        for kommunenr, kommunenavn in KOMMUNER.items():
+            if total >= max_pages:
+                break
 
-            for kommunenr, kommunenavn in KOMMUNER.items():
+            kommune_dir = output_dir / f"{kommunenr}-{kommunenavn}"
+            kommune_dir.mkdir(parents=True, exist_ok=True)
+
+            url = f"{self.source_url}/{kommunenr}"
+            for tittel, forskrift_url, raa_innhold in self._hent_kommuneforskrifter(url, kommunenavn):
                 if total >= max_pages:
                     break
 
-                kommune_dir = output_dir / f"{kommunenr}-{kommunenavn}"
-                kommune_dir.mkdir(parents=True, exist_ok=True)
-
-                url = f"{self.source_url}/{kommunenr}"
-                forskrifter = await self._hent_kommuneforskrifter(browser, url, kommunenavn, kommunenr)
-
-                for tittel, forskrift_url, raa_innhold in forskrifter:
-                    if total >= max_pages:
-                        break
-                    slug = self.slugify(tittel)
-                    filepath = kommune_dir / f"{slug}.md"
-                    formatert = self._formater(tittel, raa_innhold, forskrift_url, kommunenavn, kommunenr)
-                    endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
-                    if endret:
-                        created.append(filepath)
-                    total += 1
-                    logger.info("%s/%s: %s", kommunenavn, slug, "endret" if endret else "uendret")
-                    await asyncio.sleep(4)
-
-        finally:
-            if browser:
-                try:
-                    await browser.stop()
-                except Exception:
-                    pass
+                slug = self.slugify(tittel)
+                filepath = kommune_dir / f"{slug}.md"
+                formatert = self._formater(tittel, raa_innhold, forskrift_url, kommunenavn, kommunenr)
+                endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
+                if endret:
+                    created.append(filepath)
+                logger.info("%s/%s: %s", kommunenavn, slug, "endret" if endret else "uendret")
+                total += 1
+                time.sleep(4)
 
         logger.info("Kommuner: %d filer endret/nye", len(created))
         return created
 
-    async def _hent_kommuneforskrifter(
-        self, browser, url: str, kommunenavn: str, kommunenr: str
+    def _hent_kommuneforskrifter(
+        self, url: str, kommunenavn: str
     ) -> list[tuple[str, str, str]]:
-        page = None
+        page = self._dynamic_fetch(url)
+        if not page:
+            return []
+
         forskrifter = []
-        try:
-            page = await browser.get(url)
-            await asyncio.sleep(3)
+        for el in page.css("a[href*='/forskrift/']")[:10]:
+            href = el.attrib.get("href", "")
+            tittel = (el.text or "").strip()
+            if not href or len(tittel) < 5:
+                continue
+            if href.startswith("/"):
+                href = f"https://lovdata.no{href}"
 
-            lenker_json = await page.evaluate("""
-                JSON.stringify(
-                    Array.from(document.querySelectorAll('a[href*="/forskrift/"]'))
-                    .map(a => ({href: a.href, text: a.innerText.trim()}))
-                    .filter(a => a.text.length > 5)
-                    .slice(0, 10)
-                )
-            """)
-            lenker = json.loads(lenker_json or "[]")
+            innhold_page = self._dynamic_fetch(href)
+            if not innhold_page:
+                continue
 
-            for lenke in lenker[:5]:
-                forskrift_url = lenke["href"]
-                tittel = lenke["text"]
-                raa_innhold = await self._hent_forskrift_innhold(browser, forskrift_url)
-                if raa_innhold:
-                    forskrifter.append((tittel, forskrift_url, raa_innhold))
-                await asyncio.sleep(4)
+            raa_innhold = self.side_til_markdown(
+                innhold_page, ["div.law-content", "article", "main"]
+            )
+            if raa_innhold:
+                forskrifter.append((tittel, href, raa_innhold))
+            time.sleep(4)
 
-        except Exception as e:
-            logger.warning("Feil ved henting av %s (%s): %s", kommunenavn, kommunenr, e)
-        finally:
-            if page:
-                try:
-                    await page.close()
-                except Exception:
-                    pass
+        return forskrifter[:5]
 
-        return forskrifter
+    def _dynamic_fetch(self, url: str, retries: int = 3):
+        from scrapling.fetchers import DynamicFetcher
 
-    async def _hent_forskrift_innhold(self, browser, url: str) -> str:
-        page = None
-        try:
-            page = await browser.get(url)
-            await asyncio.sleep(3)
-            innhold = ""
-            for selector in ["div.law-content", "article", "main"]:
-                innhold = await page.evaluate(
-                    f"document.querySelector('{selector}')?.innerText || ''"
-                )
-                if innhold.strip():
-                    break
-            return innhold.strip()
-        except Exception as e:
-            logger.warning("Feil ved henting av forskrift %s: %s", url, e)
-            return ""
-        finally:
-            if page:
-                try:
-                    await page.close()
-                except Exception:
-                    pass
+        for attempt in range(retries):
+            self._polite_delay()
+            try:
+                page = DynamicFetcher.fetch(url, headless=True, network_idle=True, disable_resources=True)
+                self._last_request_time = time.time()
+                return page
+            except Exception as e:
+                logger.warning("DynamicFetcher feil (forsøk %d/%d) %s: %s", attempt + 1, retries, url, e)
+                time.sleep(8 * (attempt + 1))
+        return None
 
-    def _formater(
-        self, tittel: str, innhold: str, url: str, kommunenavn: str, kommunenr: str
-    ) -> str:
+    def _formater(self, tittel: str, innhold: str, url: str, kommunenavn: str, kommunenr: str) -> str:
         return "\n".join([
             f"# {tittel}",
             "",
@@ -155,7 +106,5 @@ class KommunerScraper(BaseScraper):
             innhold,
             "",
             "---",
-            "",
-            f"*Automatisk hentet fra [Lovdata – lokale forskrifter]({url}) av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra [Lovdata – lokale forskrifter]({url}) av norges-lover-bot.*",
         ])

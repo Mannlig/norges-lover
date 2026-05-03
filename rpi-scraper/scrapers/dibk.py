@@ -1,15 +1,10 @@
 """
-Scraper for Direktoratet for byggkvalitet (DiBK).
-Henter tekniske forskrifter, veiledere og regelverk for bygg og anlegg.
-
+Scraper for DiBK – bruker Scrapling StealthyFetcher.
 Kilde: https://www.dibk.no
-Innholdet er offentlig tilgjengelig.
 """
 
 import logging
 from pathlib import Path
-
-from bs4 import BeautifulSoup
 
 from .base import BaseScraper
 
@@ -45,6 +40,8 @@ DIBK_SIDER = [
      "https://dibk.no/byggesok/saksgangen/ferdigattest-og-midlertidig-brukstillatelse/"),
 ]
 
+_INNHOLD_SELEKTORER = ["main", "article", ".article-body", "#main", "[role='main']"]
+
 
 class DibkScraper(BaseScraper):
     name = "dibk"
@@ -61,23 +58,20 @@ class DibkScraper(BaseScraper):
         return created
 
     def _hent_side(self, output_dir: Path, slug: str, url: str) -> Path | None:
-        resp = self.get(url)
-        if not resp:
+        page = self.fetch(url)
+        if not page:
             return None
 
-        try:
-            soup = BeautifulSoup(resp.text, "html.parser")
-        except Exception as e:
-            logger.warning("HTML-parsing feilet for %s: %s", url, e)
-            return None
-
-        tittel = self._hent_tittel(soup)
-        raa_innhold = self._hent_innhold(soup)
-        oppdatert = self._hent_dato(soup)
-
+        tittel = self.hent_tittel(page)
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
         if not raa_innhold.strip():
             logger.warning("Ingen innhold for %s", url)
             return None
+
+        oppdatert = ""
+        dato_el = page.css_first("time[datetime], .date, .published")
+        if dato_el:
+            oppdatert = dato_el.attrib.get("datetime", "") or (dato_el.text or "")
 
         parts = slug.split("/")
         target_dir = output_dir
@@ -86,47 +80,8 @@ class DibkScraper(BaseScraper):
         target_dir.mkdir(parents=True, exist_ok=True)
         filepath = target_dir / f"{parts[-1]}.md"
 
-        formatert = self._formater(tittel, raa_innhold, url, oppdatert)
-        endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
-        return filepath if endret else None
-
-    def _hent_tittel(self, soup: BeautifulSoup) -> str:
-        tag = soup.find("h1")
-        return tag.get_text(strip=True) if tag else (soup.title.string if soup.title else "Ukjent")
-
-    def _hent_innhold(self, soup: BeautifulSoup) -> str:
-        for tag in soup(["script", "style", "nav", "footer", "header"]):
-            tag.decompose()
-        for selector in ["main", "article", ".article-body", "#main", "[role='main']"]:
-            el = soup.select_one(selector)
-            if el:
-                return self._til_markdown(el)
-        return ""
-
-    def _til_markdown(self, element) -> str:
-        linjer = []
-        for tag in element.find_all(["h1", "h2", "h3", "h4", "p", "li"]):
-            tekst = tag.get_text(separator=" ", strip=True)
-            if not tekst:
-                continue
-            if tag.name == "h1":
-                linjer.append(f"\n## {tekst}\n")
-            elif tag.name == "h2":
-                linjer.append(f"\n### {tekst}\n")
-            elif tag.name in ("h3", "h4"):
-                linjer.append(f"\n#### {tekst}\n")
-            elif tag.name == "p":
-                linjer.append(f"{tekst}\n")
-            elif tag.name == "li":
-                linjer.append(f"- {tekst}")
-        return "\n".join(linjer)
-
-    def _hent_dato(self, soup: BeautifulSoup) -> str:
-        for selector in ["time[datetime]", ".date", ".published"]:
-            tag = soup.select_one(selector)
-            if tag:
-                return tag.get("datetime", "") or tag.get_text(strip=True)
-        return ""
+        formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
 
     def _formater(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
         return "\n".join([
@@ -144,7 +99,5 @@ class DibkScraper(BaseScraper):
             innhold,
             "",
             "---",
-            "",
-            f"*Automatisk hentet fra [DiBK]({url}) av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra [DiBK]({url}) av norges-lover-bot.*",
         ])
