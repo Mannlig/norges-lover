@@ -35,7 +35,7 @@ USER_AGENT = (
 
 # --- Kilde-URL-er ---
 SOURCES = {
-    "stortinget_api": "https://data.stortinget.no/eksporter/json",
+    "stortinget_api": "https://data.stortinget.no/eksport",
     "lovdata_base": "https://lovdata.no",
     "skatteetaten_base": "https://www.skatteetaten.no",
     "dibk_base": "https://www.dibk.no",
@@ -46,7 +46,6 @@ SOURCES = {
 # --- Data-undermapper ---
 DATA_PATHS = {
     "lover": DATA_DIR / "lover",
-    "forskrifter": DATA_DIR / "forskrifter",
     "skatt": DATA_DIR / "skatt",
     "byggteknisk": DATA_DIR / "byggteknisk",
     "nav": DATA_DIR / "nav",

@@ -54,7 +54,7 @@ class LovdataScraper(BaseScraper):
         created = []
 
         for navn, url in PRIORITERTE_LOVER[:max_pages]:
-            path = self._hent_lov(output_dir / "lover", url, navn)
+            path = self._hent_lov(output_dir, url, navn)
             if path:
                 created.append(path)
 
@@ -65,7 +65,7 @@ class LovdataScraper(BaseScraper):
                     if len(created) >= max_pages:
                         break
                     slug = self.slugify(tittel)
-                    path = self._hent_lov(output_dir / "kategorier" / kategori, lenke_url, slug)
+                    path = self._hent_lov(output_dir / kategori, lenke_url, slug)
                     if path:
                         created.append(path)
 
