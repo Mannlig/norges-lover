@@ -94,6 +94,18 @@ class LovdataScraper(BaseScraper):
     # Fase 1 – Register-crawl
     # -------------------------------------------------------------------------
 
+    @staticmethod
+    def _er_utdatert(iso_tid: str, maks_dager: int) -> bool:
+        if not iso_tid:
+            return True
+        try:
+            from datetime import datetime, timezone
+            sist = datetime.fromisoformat(iso_tid.replace("Z", "+00:00"))
+            alder_dager = (datetime.now(timezone.utc) - sist).days
+            return alder_dager >= maks_dager
+        except Exception:
+            return True
+
     def _bor_crawle_register(self) -> bool:
         sist = self._state.get("sist_register_crawl", "")
         if not sist:
@@ -203,12 +215,30 @@ class LovdataScraper(BaseScraper):
     # -------------------------------------------------------------------------
 
     def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:
+        from config import LOVDATA_RESJEKK_DAGER
         kø = self._state.get("kø", {})
-        venter = [(k, v) for k, v in kø.items() if not v["hentet"]]
 
+        # Nye URL-er (aldri hentet) har prioritet
+        nye = [(k, v) for k, v in kø.items() if not v["hentet"]]
+
+        # Dokumenter som ikke er sjekket på LOVDATA_RESJEKK_DAGER
+        gamle = [
+            (k, v) for k, v in kø.items()
+            if v["hentet"] and self._er_utdatert(v.get("sist_hentet", ""), LOVDATA_RESJEKK_DAGER)
+        ]
+
+        venter = nye + gamle
         if not venter:
-            logger.info("Lovdata-kø er tom")
+            logger.info("Lovdata: alle dokumenter er à jour (re-sjekkes om %d dager)",
+                        LOVDATA_RESJEKK_DAGER)
             return []
+
+        if nye:
+            logger.info("Lovdata: %d nye + %d klare for re-sjekk (henter %d nå)",
+                        len(nye), len(gamle), min(len(venter), max_pages))
+        else:
+            logger.info("Lovdata: %d dokumenter klare for re-sjekk (henter %d nå)",
+                        len(gamle), min(len(venter), max_pages))
 
         created = []
         for nøkkel, meta in venter[:max_pages]:
@@ -220,8 +250,9 @@ class LovdataScraper(BaseScraper):
             if path:
                 created.append(path)
 
-            # Marker som hentet uansett (unngå evige retries på feisende sider)
+            # Marker som hentet og oppdater tidsstempel
             kø[nøkkel]["hentet"] = True
+            kø[nøkkel]["sist_hentet"] = self.now_iso()
 
         self._lagre_state()
         return created
