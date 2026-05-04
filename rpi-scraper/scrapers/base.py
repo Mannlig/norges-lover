@@ -61,6 +61,10 @@ class BaseScraper(ABC):
                     extra_headers={"Accept-Language": "nb-NO,nb;q=0.9"},
                 )
                 self._last_request_time = time.time()
+                status = getattr(page, "status", 200)
+                if status >= 400:
+                    logger.warning("HTTP %d: %s – hopper over", status, url)
+                    return None
                 logger.debug("Hentet: %s", url)
                 return page
             except Exception as e:

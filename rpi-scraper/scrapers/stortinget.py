@@ -13,7 +13,8 @@ from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-API_BASE = "https://data.stortinget.no/eksporter/json"
+API_BASE = "https://data.stortinget.no/eksport"
+JSON_PARAM = {"format": "json"}
 
 
 class StortingetScraper(BaseScraper):
@@ -29,7 +30,7 @@ class StortingetScraper(BaseScraper):
 
     def _hent_saker(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
-        data = self.get_json(f"{API_BASE}/stortingsperioder")
+        data = self.get_json(f"{API_BASE}/stortingsperioder", params=JSON_PARAM)
         if not data:
             return created
 
@@ -44,6 +45,7 @@ class StortingetScraper(BaseScraper):
             "stortingsperiodeid": siste_periode,
             "antall": 100,
             "start": 0,
+            "format": "json",
         })
         if not data:
             return created
@@ -69,7 +71,11 @@ class StortingetScraper(BaseScraper):
 
     def _hent_lover(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
-        data = self.get_json(f"{API_BASE}/lovsaker", params={"antall": min(max_pages, 100), "start": 0})
+        data = self.get_json(f"{API_BASE}/lovsaker", params={
+            "antall": min(max_pages, 100),
+            "start": 0,
+            "format": "json",
+        })
         if not data:
             return created
 
