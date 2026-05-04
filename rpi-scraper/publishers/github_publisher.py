@@ -177,7 +177,7 @@ class GitHubPublisher:
         try:
             self._konfigurer_remote()
             branch = self._gjeldende_branch()
-            self._run(["git", "pull", "--ff-only", "origin", branch])
+            self._run(["git", "pull", "--rebase", "origin", branch])
             logger.info("Hentet siste endringer fra origin/%s", branch)
             return True
         except subprocess.CalledProcessError as e:

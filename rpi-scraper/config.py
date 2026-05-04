@@ -26,7 +26,7 @@ DELAY_BETWEEN_SOURCES = 30.0  # Pause mellom ulike kilder
 # --- Scraping-grenser ---
 MAX_PAGES_PER_RUN = 50    # Maks sider per kilde per kjøring
 REQUEST_TIMEOUT = 30      # Sekunder før timeout
-LOVDATA_RESJEKK_DAGER = 30  # Re-sjekk lovdokumenter for endringer hver 30. dag
+LOVDATA_RESJEKK_DAGER = 90  # Re-sjekk lovdokumenter for endringer hver 90. dag
 
 # --- Brukeragent - identifiser oss høflig ---
 USER_AGENT = (
