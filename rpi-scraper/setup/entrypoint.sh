@@ -12,7 +12,11 @@ if [ -z "${GITHUB_TOKEN:-}" ]; then
 fi
 
 # --- Klon eller oppdater repo ---
-if [ ! -d "$REPO_DIR/.git" ]; then
+if [ -d "$REPO_DIR/.git" ]; then
+    echo "Repo finnes – oppdaterer..."
+    git -C "$REPO_DIR" remote set-url origin "https://${GITHUB_TOKEN}@github.com/mannlig/norges-lover.git"
+    git -C "$REPO_DIR" pull --ff-only origin main -q 2>/dev/null || true
+else
     echo "Kloner repo til $REPO_DIR ..."
     git clone "https://${GITHUB_TOKEN}@github.com/mannlig/norges-lover.git" "$REPO_DIR"
 fi
