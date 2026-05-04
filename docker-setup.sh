@@ -40,17 +40,18 @@ else
 fi
 
 # =============================================================================
-# 2. Klon repo hvis ikke allerede gjort
+# 2. Klon eller oppdater repo
 # =============================================================================
-REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" 2>/dev/null && pwd || echo "$HOME/norges-lover")"
+REPO_DIR="$HOME/norges-lover"
 
-if [ ! -f "$REPO_DIR/Dockerfile" ]; then
-    echo "[2/4] Kloner repo..."
-    git clone https://github.com/mannlig/norges-lover.git "$HOME/norges-lover"
-    REPO_DIR="$HOME/norges-lover"
-    ok "Repo klonet"
+if [ -d "$REPO_DIR/.git" ]; then
+    info "Repo finnes allerede – oppdaterer..."
+    git -C "$REPO_DIR" pull --ff-only origin main -q 2>/dev/null || true
+    ok "Repo oppdatert: $REPO_DIR"
 else
-    ok "Repo funnet: $REPO_DIR"
+    echo "[2/4] Kloner repo..."
+    git clone https://github.com/mannlig/norges-lover.git "$REPO_DIR"
+    ok "Repo klonet"
 fi
 cd "$REPO_DIR"
 
@@ -68,7 +69,8 @@ if [ -z "${GITHUB_TOKEN:-}" ]; then
     echo "  4. Scope: huk av 'repo'"
     echo "  5. Klikk 'Generate token' og kopier"
     echo ""
-    read -rsp "  Lim inn token (vises ikke): " GITHUB_TOKEN
+    # Les fra /dev/tty slik at det fungerer selv ved curl | bash
+    read -rsp "  Lim inn token (vises ikke): " GITHUB_TOKEN </dev/tty
     echo ""
     [ -z "$GITHUB_TOKEN" ] && feil "Ingen token oppgitt."
 fi
