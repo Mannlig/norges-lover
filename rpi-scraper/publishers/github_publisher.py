@@ -62,6 +62,8 @@ class GitHubPublisher:
             self._run(["git", "commit", "-m", msg])
 
             branch = self._gjeldende_branch()
+            # Rebase mot remote før push – håndterer samtidige commits (f.eks. kode-oppdateringer)
+            self._run(["git", "pull", "--rebase", "origin", branch], check=False)
             self._run(["git", "push", "-u", "origin", branch])
             logger.info("Pushet til %s: %d nye, %d endrede filer", branch, len(nye), len(endrede))
             return True
