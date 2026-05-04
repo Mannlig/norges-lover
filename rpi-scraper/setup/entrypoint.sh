@@ -37,6 +37,8 @@ git checkout main -q 2>/dev/null || true
 git pull --ff-only origin main -q 2>/dev/null || true
 
 echo "Repo klar: $(git rev-parse --abbrev-ref HEAD) @ $(git rev-parse --short HEAD)"
-echo "Starter scraper: python /app/main.py $*"
 
-exec python /app/main.py "$@"
+# Kjør koden direkte fra repo – sikrer alltid fersk versjon uten rebuild
+cd "$REPO_DIR/rpi-scraper"
+echo "Starter scraper: python main.py $*"
+exec python main.py "$@"
