@@ -48,12 +48,12 @@ logger = logging.getLogger("main")
 # --- Oversikt over alle kjøringer ---
 # Format: (kilde-nøkkel, scraper-klasse, data-mappe-nøkkel, maks-sider)
 KJØRINGER = [
-    ("stortinget", StortingetScraper, "lover", 100),
-    ("lovdata", LovdataScraper, "lover", 30),      # Chromium, ta det rolig
-    ("skatteetaten", SkatteetatenScraper, "skatt", 50),
-    ("dibk", DibkScraper, "byggteknisk", 50),
-    ("nav", NavScraper, "nav", 50),
-    ("kommuner", KommunerScraper, "kommuner", 30),  # Chromium, ta det rolig
+    ("stortinget",   StortingetScraper,   "stortinget",  100),
+    ("lovdata",      LovdataScraper,      "lovdata",     100),  # Chromium – henter 100 dok/kjøring
+    ("skatteetaten", SkatteetatenScraper, "skatt",        50),
+    ("dibk",         DibkScraper,         "byggteknisk",  50),
+    ("nav",          NavScraper,          "nav",          50),
+    ("kommuner",     KommunerScraper,     "kommuner",     30),  # Chromium
 ]
 
 

@@ -24,6 +24,9 @@ data/tmp/
 data/cache/
 *.tmp
 
+# Scraper-kø (lagres i Docker-volum, ikke i git)
+data/.lovdata-state.json
+
 # Logg fra Pi
 logs/*.log
 

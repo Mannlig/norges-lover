@@ -45,11 +45,12 @@ SOURCES = {
 
 # --- Data-undermapper ---
 DATA_PATHS = {
-    "lover": DATA_DIR / "lover",
+    "lovdata": DATA_DIR,          # Lovdata styrer egne undermapper (lover/, stortingsvedtak/, lokale-forskrifter/)
     "skatt": DATA_DIR / "skatt",
     "byggteknisk": DATA_DIR / "byggteknisk",
     "nav": DATA_DIR / "nav",
     "kommuner": DATA_DIR / "kommuner",
+    "stortinget": DATA_DIR / "lover",
 }
 
 # SSB kommunenummer for alle norske kommuner (utvalg av store)
