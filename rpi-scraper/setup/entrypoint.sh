@@ -19,10 +19,13 @@ if [ -d "$REPO_DIR/.git" ]; then
     git -C "$REPO_DIR" pull --ff-only origin main -q 2>/dev/null || true
 else
     echo "Kloner repo..."
-    # Docker volume-mount oppretter /repo som tom mappe – git clone krever at den ikke finnes.
-    # Tøm innholdet men behold selve mount-punktet.
-    find "$REPO_DIR" -mindepth 1 -delete 2>/dev/null || true
-    git clone "$REMOTE" "$REPO_DIR"
+    # Docker volume-mount oppretter /repo som eksisterende mappe – git clone feiler da.
+    # Bruk git init + fetch + checkout i stedet, som fungerer uansett.
+    cd "$REPO_DIR"
+    git init -q
+    git remote add origin "$REMOTE"
+    git fetch origin main -q
+    git checkout -b main --track origin/main -q
 fi
 
 cd "$REPO_DIR"
