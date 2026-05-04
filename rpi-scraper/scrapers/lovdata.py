@@ -87,9 +87,9 @@ class LovdataScraper(BaseScraper):
             return None
 
         oppdatert = ""
-        dato_el = page.css_first(".last-updated, .date-modified, time")
-        if dato_el:
-            oppdatert = dato_el.text or ""
+        dato_el = self.css_first(page, ".last-updated, .date-modified, time")
+        if dato_el and dato_el.text:
+            oppdatert = str(dato_el.text)
 
         formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())
         return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
@@ -101,7 +101,7 @@ class LovdataScraper(BaseScraper):
         lenker = []
         for el in page.css("a[href*='/lov/']")[:20]:
             href = el.attrib.get("href", "")
-            tekst = (el.text or "").strip()
+            tekst = str(el.text or "").strip()
             if href and len(tekst) > 5:
                 if href.startswith("/"):
                     href = f"https://lovdata.no{href}"

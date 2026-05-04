@@ -67,9 +67,9 @@ class SkatteetatenScraper(BaseScraper):
             return None
 
         oppdatert = ""
-        dato_el = page.css_first("time, .last-updated, [datetime]")
+        dato_el = self.css_first(page, "time, .last-updated, [datetime]")
         if dato_el:
-            oppdatert = dato_el.attrib.get("datetime", "") or (dato_el.text or "")
+            oppdatert = dato_el.attrib.get("datetime", "") or str(dato_el.text or "")
 
         parts = slug.split("/")
         target_dir = output_dir
