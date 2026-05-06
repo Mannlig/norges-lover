@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-06 09:05 UTC*
+*Sist oppdatert: 2026-05-06 09:19 UTC*
 
-**Antall dokumenter:** 35
+**Antall dokumenter:** 40
 
 ## Innhold
 
@@ -45,6 +45,14 @@ Lovdata
 - [Hovedmeny](lover/regnskapsloven.md)
 - [Hovedmeny](lover/skatteloven.md)
 - [Hovedmeny](lover/straffeloven.md)
+
+### Skatt
+
+- [Arbeidsgiveravgift](skatt/satser/arbeidsgiveravgift.md)
+- [Merverdiavgift](skatt/satser/merverdiavgift.md)
+- [Minstefradrag](skatt/satser/minstefradrag.md)
+- [Personfradrag](skatt/satser/personfradrag.md)
+- [Aksjer og verdipapirer](skatt/veiledere/aksjer.md)
 
 ---
 

@@ -2,11 +2,22 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-05-06 09:05 UTC*
+*Sist oppdatert: 2026-05-06 09:19 UTC*
 
-**Antall dokumenter:** 0
+**Antall dokumenter:** 5
 
 ## Innhold
+
+### Satser
+
+- [Arbeidsgiveravgift](satser/arbeidsgiveravgift.md)
+- [Merverdiavgift](satser/merverdiavgift.md)
+- [Minstefradrag](satser/minstefradrag.md)
+- [Personfradrag](satser/personfradrag.md)
+
+### Veiledere
+
+- [Aksjer og verdipapirer](veiledere/aksjer.md)
 
 ---
 
