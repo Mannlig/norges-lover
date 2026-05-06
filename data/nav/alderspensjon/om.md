@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4f4623bfcde003d24c86952f2bad8dd9a12458c698d29d67c71c5e8b158f5055 -->
+<!-- innholds-hash: 1e770cebf7ff8f898355f91758dd63dce01455101172f9e83a40a69732eb63b5 -->
 
 # Alderspensjon
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-06T09:36:20Z
+- **Sist hentet:** 2026-05-06T16:11:26Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/alderspensjon) for oppdaterte tall.
@@ -990,8 +990,6 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Når du får skattemeldingen fra Skatteetaten, bør du sjekke at opplysningene stemmer med
-
 Når du logger inn på
 
 - kommende utbetaling ca. sju dager før utbetalingsdatoen
@@ -1234,7 +1232,7 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 10.03.2026
+Oppdatert 06.05.2026
 
 
 #### Chat med oss
@@ -1243,7 +1241,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1253,7 +1251,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1262,3 +1260,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-06** Første gang hentet
+- **2026-05-06** Innhold endret (se git-historikk for diff)
