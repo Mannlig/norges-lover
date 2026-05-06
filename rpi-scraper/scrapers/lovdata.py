@@ -76,7 +76,7 @@ class LovdataScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 100) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        self._state_path = output_dir.parent / ".lovdata-state.json"
+        self._state_path = output_dir / ".lovdata-state.json"
         self._state = self._les_state()
 
         # Fase 1: Oppdater URL-kø fra registersider om det er lenge siden
@@ -166,15 +166,7 @@ class LovdataScraper(BaseScraper):
 
             logger.info("Register %s side %d: %d lenker (totalt %d)",
                         type_slug, side, nye_på_side, len(resultater))
-
-            # Stopp om vi ikke finner neste-lenke
-            neste = (
-                self.css_first(page, "a[rel='next']") or
-                self.css_first(page, "a.next") or
-                self.css_first(page, ".pagination a.active + a")
-            )
-            if not neste:
-                break
+            self._lagre_state()  # Lagre etter hver side – crash-sikker
 
         return resultater
 

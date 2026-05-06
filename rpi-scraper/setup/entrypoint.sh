@@ -16,7 +16,7 @@ REMOTE="https://${GITHUB_TOKEN}@github.com/mannlig/norges-lover.git"
 if [ -d "$REPO_DIR/.git" ]; then
     echo "Repo finnes – oppdaterer..."
     git -C "$REPO_DIR" remote set-url origin "$REMOTE"
-    git -C "$REPO_DIR" pull --ff-only origin main -q 2>/dev/null || true
+    git -C "$REPO_DIR" pull --rebase origin main -q 2>/dev/null || true
 else
     echo "Kloner repo..."
     # Docker volume-mount oppretter /repo som eksisterende mappe – git clone feiler da.
@@ -34,7 +34,7 @@ git remote set-url origin "$REMOTE"
 # Bruk main-branch
 git fetch origin -q
 git checkout main -q 2>/dev/null || true
-git pull --ff-only origin main -q 2>/dev/null || true
+git pull --rebase origin main -q 2>/dev/null || true
 
 echo "Repo klar: $(git rev-parse --abbrev-ref HEAD) @ $(git rev-parse --short HEAD)"
 

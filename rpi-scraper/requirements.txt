@@ -2,4 +2,4 @@
 # Scrapling erstatter requests, BeautifulSoup og nodriver
 
 # Scrapling med alle hentere (StealthyFetcher + DynamicFetcher/Playwright)
-scrapling[fetchers]>=0.2
+scrapling[fetchers]==0.4.7

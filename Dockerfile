@@ -28,20 +28,19 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 ENV PLAYWRIGHT_BROWSERS_PATH=/usr/bin
 ENV SCRAPLING_CHROMIUM_PATH=/usr/bin/chromium
 
-WORKDIR /app
+WORKDIR /tmp/build
 
-# Installer Python-avhengigheter
+# Installer Python-avhengigheter (kun deps – koden kjøres fra /repo via git pull)
 COPY rpi-scraper/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Installer Scrapling-nettlesere – bruker system-Chromium på ARM
 RUN scrapling install || true
 
-# Kopier scraper-koden
-COPY rpi-scraper/ .
-
-# Repo klones i entrypoint til /repo (volum)
+# Repo klones i entrypoint til /repo (volum) – og er WORKDIR slik at
+# `docker compose exec ... python smoke_test.py` finner ferskt-pullet kode.
 ENV REPO_ROOT=/repo
+WORKDIR /repo/rpi-scraper
 ENV GIT_USER_NAME="norges-lover-bot"
 ENV GIT_USER_EMAIL="bot@norges-lover"
 

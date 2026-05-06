@@ -53,7 +53,7 @@ KJØRINGER = [
     ("skatteetaten", SkatteetatenScraper, "skatt",        50),
     ("dibk",         DibkScraper,         "byggteknisk",  50),
     ("nav",          NavScraper,          "nav",          50),
-    ("kommuner",     KommunerScraper,     "kommuner",     30),  # Chromium
+    # KommunerScraper deaktivert – LovdataScraper henter lokale-forskrifter fra lovdata.no/register/lokaleForskrifter
 ]
 
 
