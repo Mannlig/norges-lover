@@ -79,7 +79,7 @@ class StortingetScraper(BaseScraper):
                 break
             sak_id = sak.get("id", "")
             tittel = sak.get("tittel", "ukjent")
-            saktype = sak.get("type", "").lower()
+            saktype = str(sak.get("type", "")).lower()
             if saktype not in ("lovsak", "proposisjon", "melding"):
                 continue
 

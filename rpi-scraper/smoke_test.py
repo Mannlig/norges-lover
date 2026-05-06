@@ -38,7 +38,6 @@ from scrapers import (
     SkatteetatenScraper,
     DibkScraper,
     NavScraper,
-    KommunerScraper,
 )
 
 logging.basicConfig(
@@ -54,7 +53,7 @@ SCRAPERS = [
     ("nav",          NavScraper,           1, True),
     ("dibk",         DibkScraper,          1, True),
     ("lovdata",      LovdataScraper,       1, True),
-    ("kommuner",     KommunerScraper,      1, True),
+    # KommunerScraper deaktivert – LovdataScraper henter lokale-forskrifter
 ]
 
 
