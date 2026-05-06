@@ -2,11 +2,15 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-06 09:19 UTC*
+*Sist oppdatert: 2026-05-06 09:29 UTC*
 
-**Antall dokumenter:** 0
+**Antall dokumenter:** 1
 
 ## Innhold
+
+### Tek17
+
+- [Byggteknisk forskrift (TEK17) med veiledning](tek17/krav-til-byggverk.md)
 
 ---
 
