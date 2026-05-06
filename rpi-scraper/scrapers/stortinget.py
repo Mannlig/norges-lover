@@ -21,6 +21,28 @@ class StortingetScraper(BaseScraper):
     name = "stortinget"
     source_url = "https://data.stortinget.no"
 
+    @staticmethod
+    def _liste(data: dict | list, ytre_nokkel: str, indre_nokkel: str = "") -> list:
+        """
+        Stortinget-API returnerer iblant {ytre: [...]} og iblant {ytre: {indre: [...]}}.
+        Denne hjelperen finner lista uansett shape.
+        """
+        if isinstance(data, list):
+            return data
+        if not isinstance(data, dict):
+            return []
+        ytre = data.get(ytre_nokkel, [])
+        if isinstance(ytre, list):
+            return ytre
+        if isinstance(ytre, dict):
+            if indre_nokkel and indre_nokkel in ytre:
+                return ytre[indre_nokkel] if isinstance(ytre[indre_nokkel], list) else []
+            # Fallback: ta første liste-verdi
+            for v in ytre.values():
+                if isinstance(v, list):
+                    return v
+        return []
+
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
         created = []
@@ -34,7 +56,7 @@ class StortingetScraper(BaseScraper):
         if not data:
             return created
 
-        perioder = data.get("stortingsperioder_liste", {}).get("stortingsperiode", [])
+        perioder = self._liste(data, "stortingsperioder_liste", "stortingsperiode")
         if not perioder:
             return created
 
@@ -50,7 +72,7 @@ class StortingetScraper(BaseScraper):
         if not data:
             return created
 
-        saker = data.get("saker_liste", {}).get("sak", [])
+        saker = self._liste(data, "saker_liste", "sak")
         count = 0
         for sak in saker:
             if count >= max_pages:
@@ -79,7 +101,7 @@ class StortingetScraper(BaseScraper):
         if not data:
             return created
 
-        lovsaker = data.get("lovsaker_liste", {}).get("lovsak", [])
+        lovsaker = self._liste(data, "lovsaker_liste", "lovsak")
         for lov in lovsaker[:max_pages]:
             sak_id = lov.get("id", "")
             tittel = lov.get("tittel", "ukjent")
