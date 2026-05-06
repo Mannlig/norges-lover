@@ -1,6 +1,11 @@
 #!/bin/bash
 # Entrypoint for Docker-container.
-# Kloner/oppdaterer repo og starter scraperen.
+#
+# /repo behandles som en DEPLOY-mappe, ikke en utviklingsmappe:
+# vi tvinger den til å matche origin/main eksakt ved hver oppstart.
+# Dette unngår at uncommitted scraper-output (mid-run) eller divergerende
+# lokale commits stopper kode-oppdatering. Bot-en pusher data fortløpende
+# under run, så reset --hard mister ikke noe som har verdi.
 set -euo pipefail
 
 REPO_DIR="${REPO_ROOT:-/repo}"
@@ -12,29 +17,27 @@ fi
 
 REMOTE="https://${GITHUB_TOKEN}@github.com/mannlig/norges-lover.git"
 
-# --- Klon eller oppdater repo ---
-if [ -d "$REPO_DIR/.git" ]; then
-    echo "Repo finnes – oppdaterer..."
-    git -C "$REPO_DIR" remote set-url origin "$REMOTE"
-    git -C "$REPO_DIR" pull --rebase origin main -q 2>/dev/null || true
-else
-    echo "Kloner repo..."
-    # Docker volume-mount oppretter /repo som eksisterende mappe – git clone feiler da.
-    # Bruk git init + fetch + checkout i stedet, som fungerer uansett.
+# --- Init repo om det ikke finnes ---
+if [ ! -d "$REPO_DIR/.git" ]; then
+    echo "Initierer repo i $REPO_DIR..."
     cd "$REPO_DIR"
     git init -q
     git remote add origin "$REMOTE"
-    git fetch origin main -q
-    git checkout -b main --track origin/main -q
 fi
 
 cd "$REPO_DIR"
 git remote set-url origin "$REMOTE"
 
-# Bruk main-branch
-git fetch origin -q
-git checkout main -q 2>/dev/null || true
-git pull --rebase origin main -q 2>/dev/null || true
+# --- Tving full sync til origin/main ---
+echo "Henter origin/main..."
+git fetch origin main -q
+
+# Rydd uncommitted endringer (mid-run scraper-output som vil regenereres)
+git reset --hard -q
+git clean -fd -q
+
+# Hopp til origin/main eksakt – overstyrer divergerende lokale commits
+git checkout -B main origin/main -q
 
 echo "Repo klar: $(git rev-parse --abbrev-ref HEAD) @ $(git rev-parse --short HEAD)"
 
