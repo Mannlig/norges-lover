@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-06 09:29 UTC*
+*Sist oppdatert: 2026-05-06 09:41 UTC*
 
-**Antall dokumenter:** 41
+**Antall dokumenter:** 60
 
 ## Innhold
 
@@ -49,6 +49,28 @@ Lovdata
 - [Hovedmeny](lover/regnskapsloven.md)
 - [Hovedmeny](lover/skatteloven.md)
 - [Hovedmeny](lover/straffeloven.md)
+
+### Nav
+
+- [Alderspensjon](nav/alderspensjon/om.md)
+- [Barnetrygd](nav/barnetrygd/om.md)
+- [Barnetrygd](nav/barnetrygd/satser.md)
+- [Bostøtte](nav/bostotte/om.md)
+- [Dagpenger](nav/dagpenger/om-dagpenger.md)
+- [Dagpenger](nav/dagpenger/satser.md)
+- [Foreldrepenger](nav/foreldrepenger/om.md)
+- [Foreldrepenger](nav/foreldrepenger/satser.md)
+- [Svangerskapspenger](nav/gravid/svangerskapspenger.md)
+- [Grunnbeløpet i folketrygden](nav/grunnbelop.md)
+- [Hjelpemidler og tilrettelegging](nav/hjelpemidler/om.md)
+- [Kontantstøtte](nav/kontantstotte/om.md)
+- [Omsorgspenger (hjemme med sykt barn-dager)](nav/omsorgspenger/om.md)
+- [Overgangsstønad til enslig mor eller far](nav/overgangsstonad/om.md)
+- [Økonomisk sosialhjelp](nav/sosialhjelp/om.md)
+- [Sykepenger](nav/sykepenger/arbeidsgivere.md)
+- [Sykepenger](nav/sykepenger/om-sykepenger.md)
+- [Uføretrygd](nav/uforetrygd/om.md)
+- [Uføretrygd](nav/uforetrygd/satser.md)
 
 ### Skatt
 
