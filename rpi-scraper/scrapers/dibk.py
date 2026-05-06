@@ -69,7 +69,7 @@ class DibkScraper(BaseScraper):
             return None
 
         oppdatert = ""
-        dato_el = page.css_first("time[datetime], .date, .published")
+        dato_el = self.css_first(page, "time[datetime], .date, .published")
         if dato_el:
             oppdatert = dato_el.attrib.get("datetime", "") or (dato_el.text or "")
 

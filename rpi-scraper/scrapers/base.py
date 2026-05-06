@@ -6,6 +6,7 @@ nettsiden endrer HTML-struktur.
 """
 
 import hashlib
+import json
 import logging
 import random
 import re
@@ -39,6 +40,24 @@ class BaseScraper(ABC):
         wait = random.uniform(DELAY_MIN, DELAY_MAX)
         if elapsed < wait:
             time.sleep(wait - elapsed)
+
+    def get_json(self, url: str, params: dict | None = None, retries: int = 3) -> dict | None:
+        """Hent JSON fra et åpent API uten autentisering (bruker urllib, ingen ekstra deps)."""
+        import urllib.request
+        import urllib.parse
+        if params:
+            url = url + "?" + urllib.parse.urlencode(params)
+        for attempt in range(retries):
+            self._polite_delay()
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
+                with urllib.request.urlopen(req, timeout=30) as resp:
+                    self._last_request_time = time.time()
+                    return json.loads(resp.read().decode("utf-8"))
+            except Exception as e:
+                logger.warning("get_json feil (forsøk %d/%d) %s: %s", attempt + 1, retries, url, e)
+                time.sleep(5 * (attempt + 1))
+        return None
 
     def fetch(self, url: str, retries: int = 3):
         """
@@ -76,6 +95,17 @@ class BaseScraper(ABC):
         logger.error("Alle %d forsøk feilet: %s", retries, url)
         return None
 
+    @staticmethod
+    def css_first(page, selector: str):
+        """Scrapling 0.4-kompatibel css_first – returnerer første treff eller None."""
+        if page is None:
+            return None
+        try:
+            matches = page.css(selector)
+            return matches[0] if matches else None
+        except Exception:
+            return None
+
     def side_til_markdown(self, page, selektorer: list[str]) -> str:
         """
         Konverter Scrapling-side til Markdown.
@@ -85,7 +115,7 @@ class BaseScraper(ABC):
             return ""
 
         for selector in selektorer:
-            element = page.css_first(selector)
+            element = self.css_first(page, selector)
             if element:
                 return self._element_til_markdown(element)
         return ""
@@ -117,7 +147,7 @@ class BaseScraper(ABC):
         if page is None:
             return "Ukjent tittel"
         for selector in ["h1", "title"]:
-            el = page.css_first(selector)
+            el = self.css_first(page, selector)
             if el and el.text:
                 return el.text.strip()
         return "Ukjent tittel"

@@ -13,7 +13,8 @@ from .base import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-API_BASE = "https://data.stortinget.no/eksporter/json"
+API_BASE = "https://data.stortinget.no/eksport"
+_JSON = {"format": "json"}
 
 
 class StortingetScraper(BaseScraper):
@@ -29,26 +30,26 @@ class StortingetScraper(BaseScraper):
 
     def _hent_saker(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
-        resp = self.get(f"{API_BASE}/stortingsperioder")
-        if not resp:
+        data = self.get_json(f"{API_BASE}/stortingsperioder", _JSON)
+        if not data:
             return created
 
-        perioder = resp.json().get("stortingsperioder_liste", {}).get("stortingsperiode", [])
+        perioder = data.get("stortingsperioder_liste", {}).get("stortingsperiode", [])
         if not perioder:
             return created
 
         siste_periode = perioder[-1].get("id", "")
         logger.info("Henter saker fra periode: %s", siste_periode)
 
-        resp = self.get(f"{API_BASE}/saker", params={
+        data = self.get_json(f"{API_BASE}/saker", {**_JSON,
             "stortingsperiodeid": siste_periode,
             "antall": 100,
             "start": 0,
         })
-        if not resp:
+        if not data:
             return created
 
-        saker = resp.json().get("saker_liste", {}).get("sak", [])
+        saker = data.get("saker_liste", {}).get("sak", [])
         count = 0
         for sak in saker:
             if count >= max_pages:
@@ -69,11 +70,11 @@ class StortingetScraper(BaseScraper):
 
     def _hent_lover(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
-        resp = self.get(f"{API_BASE}/lovsaker", params={"antall": min(max_pages, 100), "start": 0})
-        if not resp:
+        data = self.get_json(f"{API_BASE}/lovsaker", {**_JSON, "antall": min(max_pages, 100), "start": 0})
+        if not data:
             return created
 
-        lovsaker = resp.json().get("lovsaker_liste", {}).get("lovsak", [])
+        lovsaker = data.get("lovsaker_liste", {}).get("lovsak", [])
         for lov in lovsaker[:max_pages]:
             sak_id = lov.get("id", "")
             tittel = lov.get("tittel", "ukjent")
