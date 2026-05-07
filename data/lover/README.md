@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-05-06 16:15 UTC*
+*Sist oppdatert: 2026-05-07 15:09 UTC*
 
-**Antall dokumenter:** 35
+**Antall dokumenter:** 37
 
 ## Innhold
 
@@ -28,6 +28,8 @@ Stortinget
 - [Hovedmeny](2026-03-06-8.md)
 - [Hovedmeny](2026-04-10-12.md)
 - [Hovedmeny](2026-04-10-14.md)
+- [Hovedmeny](2026-05-07-16.md)
+- [Hovedmeny](2026-05-07-17.md)
 - [Hovedmeny](aksjeloven.md)
 - [Hovedmeny](arbeidsmiljoeloven.md)
 - [Hovedmeny](avtaleloven.md)

@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-06 16:15 UTC*
+*Sist oppdatert: 2026-05-07 15:09 UTC*
 
-**Antall dokumenter:** 60
+**Antall dokumenter:** 62
 
 ## Innhold
 
@@ -34,6 +34,8 @@ Lovdata
 - [Hovedmeny](lover/2026-03-06-8.md)
 - [Hovedmeny](lover/2026-04-10-12.md)
 - [Hovedmeny](lover/2026-04-10-14.md)
+- [Hovedmeny](lover/2026-05-07-16.md)
+- [Hovedmeny](lover/2026-05-07-17.md)
 - [Hovedmeny](lover/aksjeloven.md)
 - [Hovedmeny](lover/arbeidsmiljoeloven.md)
 - [Hovedmeny](lover/avtaleloven.md)
