@@ -29,6 +29,103 @@ REGISTRE = [
 # Maks timer mellom register-crawl
 REGISTER_CRAWL_INTERVALL_TIMER = 24
 
+# Viktige lover som alltid skal være i køen – supplement til register-crawl
+# som bare finner nyeste endringer. Format: (url, slug, tittel)
+SEED_LOVER = [
+    ("https://lovdata.no/dokument/NL/lov/1814-05-17",     "grunnloven",                    "Kongeriket Norges Grunnlov"),
+    ("https://lovdata.no/dokument/NL/lov/1902-05-22-10",  "straffeloven-1902",             "Straffeloven 1902"),
+    ("https://lovdata.no/dokument/NL/lov/2005-05-20-28",  "straffeloven",                  "Straffeloven"),
+    ("https://lovdata.no/dokument/NL/lov/1981-05-22-25",  "straffeprosessloven",           "Straffeprosessloven"),
+    ("https://lovdata.no/dokument/NL/lov/2005-06-17-90",  "tvisteloven",                   "Tvisteloven"),
+    ("https://lovdata.no/dokument/NL/lov/1967-02-10",     "forvaltningsloven",             "Forvaltningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2006-05-19-16",  "offentleglova",                 "Offentleglova"),
+    ("https://lovdata.no/dokument/NL/lov/1999-05-21-30",  "menneskerettsloven",            "Menneskerettsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1918-05-31-4",   "avtaleloven",                   "Avtaleloven"),
+    ("https://lovdata.no/dokument/NL/lov/1988-05-13-27",  "kjopsloven",                    "Kjøpsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2002-06-21-34",  "forbrukerkjopsloven",           "Forbrukerkjøpsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2014-06-20-27",  "angrerettloven",                "Angrerettloven"),
+    ("https://lovdata.no/dokument/NL/lov/1969-06-13-26",  "skadeserstatningsloven",        "Skadeserstatningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1988-12-23-104", "produktansvarsloven",           "Produktansvarsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-03-26-14",  "skatteloven",                   "Skatteloven"),
+    ("https://lovdata.no/dokument/NL/lov/2016-05-27-14",  "skatteforvaltningsloven",       "Skatteforvaltningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2005-06-17-67",  "skattebetalingsloven",          "Skattebetalingsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2009-06-19-58",  "merverdiavgiftsloven",          "Merverdiavgiftsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2007-12-21-119", "tolloven",                      "Tolloven"),
+    ("https://lovdata.no/dokument/NL/lov/1980-02-29-4",   "ligningsloven",                 "Ligningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1997-06-13-44",  "aksjeloven",                    "Aksjeloven"),
+    ("https://lovdata.no/dokument/NL/lov/1997-06-13-45",  "allmennaksjeloven",             "Allmennaksjeloven"),
+    ("https://lovdata.no/dokument/NL/lov/1985-06-21-83",  "selskapsloven",                 "Selskapsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2007-06-29-81",  "samvirkelova",                  "Samvirkelova"),
+    ("https://lovdata.no/dokument/NL/lov/1998-07-17-56",  "regnskapsloven",                "Regnskapsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1984-06-08-58",  "konkursloven",                  "Konkursloven"),
+    ("https://lovdata.no/dokument/NL/lov/1984-06-08-59",  "dekningsloven",                 "Dekningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1992-06-26-86",  "tvangsfullbyrdelsesloven",      "Tvangsfullbyrdelsesloven"),
+    ("https://lovdata.no/dokument/NL/lov/2005-06-17-62",  "arbeidsmiljoloven",             "Arbeidsmiljøloven"),
+    ("https://lovdata.no/dokument/NL/lov/1988-04-29-21",  "ferieloven",                    "Ferieloven"),
+    ("https://lovdata.no/dokument/NL/lov/2012-01-27-9",   "arbeidstvistloven",             "Arbeidstvistloven"),
+    ("https://lovdata.no/dokument/NL/lov/1993-06-04-58",  "allmenngjoringsloven",          "Allmenngjøringsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1989-06-16-65",  "yrkesskadeforsikringsloven",    "Yrkesskadeforsikringsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1973-03-14-4",   "lonnsgarantiloven",             "Lønnsgarantiloven"),
+    ("https://lovdata.no/dokument/NL/lov/1997-02-28-19",  "folketrygdloven",               "Folketrygdloven"),
+    ("https://lovdata.no/dokument/NL/lov/2000-03-24-16",  "foretakspensjonsloven",         "Foretakspensjonsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2000-11-24-81",  "innskuddspensjonsloven",        "Innskuddspensjonsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1981-04-08-7",   "barnelova",                     "Barnelova"),
+    ("https://lovdata.no/dokument/NL/lov/1991-07-04-47",  "ekteskapsloven",                "Ekteskapsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2019-06-14-21",  "arveloven",                     "Arveloven"),
+    ("https://lovdata.no/dokument/NL/lov/2021-06-18-97",  "barnevernsloven",               "Barnevernsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-03-26-17",  "husleieloven",                  "Husleieloven"),
+    ("https://lovdata.no/dokument/NL/lov/1997-06-13-43",  "bustadoppforingslova",          "Bustadoppføringslova"),
+    ("https://lovdata.no/dokument/NL/lov/2017-06-16-65",  "eierseksjonsloven",             "Eierseksjonsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2003-06-06-39",  "borettslagslova",               "Borettslagslova"),
+    ("https://lovdata.no/dokument/NL/lov/1980-02-08-2",   "panteloven",                    "Panteloven"),
+    ("https://lovdata.no/dokument/NL/lov/1935-06-07-2",   "tinglysingsloven",              "Tinglysingsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1996-12-20-106", "tomtefesteloven",               "Tomtefesteloven"),
+    ("https://lovdata.no/dokument/NL/lov/2003-11-28-98",  "konsesjonsloven",               "Konsesjonsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1995-05-12-23",  "jordlova",                      "Jordlova"),
+    ("https://lovdata.no/dokument/NL/lov/2008-06-27-71",  "plan-og-bygningsloven",         "Plan- og bygningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2009-06-19-100", "naturmangfoldloven",            "Naturmangfoldloven"),
+    ("https://lovdata.no/dokument/NL/lov/1981-03-13-6",   "forurensningsloven",            "Forurensningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1957-06-28-16",  "friluftsloven",                 "Friluftsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1990-06-29-50",  "energiloven",                   "Energiloven"),
+    ("https://lovdata.no/dokument/NL/lov/1996-11-29-72",  "petroleumsloven",               "Petroleumsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1998-07-17-61",  "opplaringslova",                "Opplæringslova"),
+    ("https://lovdata.no/dokument/NL/lov/2005-04-01-15",  "universitets-og-hoyskolelov",   "Universitets- og høyskoleloven"),
+    ("https://lovdata.no/dokument/NL/lov/2008-05-15-35",  "utlendingsloven",               "Utlendingsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2005-06-10-51",  "statsborgerskapsloven",         "Statsborgerskapsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2018-06-22-83",  "kommuneloven",                  "Kommuneloven"),
+    ("https://lovdata.no/dokument/NL/lov/2002-06-28-57",  "valgloven",                     "Valgloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-07-02-63",  "pasient-og-brukerrettighetsloven", "Pasient- og brukerrettighetsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-07-02-64",  "helsepersonelloven",            "Helsepersonelloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-07-02-61",  "spesialisthelsetjenesteloven",  "Spesialisthelsetjenesteloven"),
+    ("https://lovdata.no/dokument/NL/lov/1999-07-02-62",  "psykisk-helsevernloven",        "Psykisk helsevernloven"),
+    ("https://lovdata.no/dokument/NL/lov/1994-08-05-55",  "smittevernloven",               "Smittevernloven"),
+    ("https://lovdata.no/dokument/NL/lov/1992-12-04-132", "legemiddelloven",               "Legemiddelloven"),
+    ("https://lovdata.no/dokument/NL/lov/1992-12-04-126", "arkivloven",                    "Arkivloven"),
+    ("https://lovdata.no/dokument/NL/lov/2018-06-15-38",  "personopplysningsloven",        "Personopplysningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2016-06-17-73",  "anskaffelsesloven",             "Anskaffelsesloven"),
+    ("https://lovdata.no/dokument/NL/lov/2017-06-16-51",  "likestillings-og-diskrimineringsloven", "Likestillings- og diskrimineringsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2017-06-16-67",  "statsansatteloven",             "Statsansatteloven"),
+    ("https://lovdata.no/dokument/NL/lov/2009-01-09-2",   "markedsforingsloven",           "Markedsføringsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2020-11-18-146", "finansavtaleloven",             "Finansavtaleloven"),
+    ("https://lovdata.no/dokument/NL/lov/1989-06-16-69",  "forsikringsavtaleloven",        "Forsikringsavtaleloven"),
+    ("https://lovdata.no/dokument/NL/lov/2007-06-29-75",  "verdipapirhandelloven",         "Verdipapirhandelloven"),
+    ("https://lovdata.no/dokument/NL/lov/2015-04-10-17",  "finansforetaksloven",           "Finansforetaksloven"),
+    ("https://lovdata.no/dokument/NL/lov/1965-06-18-4",   "vegtrafikkloven",               "Vegtrafikkloven"),
+    ("https://lovdata.no/dokument/NL/lov/1993-06-11-101", "luftfartsloven",                "Luftfartsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1994-06-24-39",  "sjoloven",                      "Sjøloven"),
+    ("https://lovdata.no/dokument/NL/lov/2003-12-19-124", "matloven",                      "Matloven"),
+    ("https://lovdata.no/dokument/NL/lov/1989-06-02-27",  "alkoholloven",                  "Alkoholloven"),
+    ("https://lovdata.no/dokument/NL/lov/2009-06-19-97",  "dyrevelferdsloven",             "Dyrevelferdsloven"),
+    ("https://lovdata.no/dokument/NL/lov/2009-12-18-131", "sosialtjenesteloven",           "Sosialtjenesteloven"),
+    ("https://lovdata.no/dokument/NL/lov/2016-12-09-88",  "folkeregisterloven",            "Folkeregisterloven"),
+    ("https://lovdata.no/dokument/NL/lov/2003-12-05-100", "bioteknologiloven",             "Bioteknologiloven"),
+    ("https://lovdata.no/dokument/NL/lov/2016-06-10-23",  "politiloven",                   "Politiloven"),
+    ("https://lovdata.no/dokument/NL/lov/1995-08-04-53",  "politiloven-1995",              "Politiloven"),
+    ("https://lovdata.no/dokument/NL/lov/1992-07-17-99",  "gjeldsordningsloven",           "Gjeldsordningsloven"),
+    ("https://lovdata.no/dokument/NL/lov/1961-02-03",     "bilansvarslova",                "Bilansvarslova"),
+    ("https://lovdata.no/dokument/NL/lov/2020-11-06-127", "integreringsloven",             "Integreringsloven"),
+]
+
 # Linker vi er interessert i (path-prefix)
 _LOV_PREFIXES = ("/lov/", "/stv/", "/lf/", "/dokument/NL/", "/dokument/LT/", "/dokument/SF/")
 
@@ -79,6 +176,9 @@ class LovdataScraper(BaseScraper):
         self._state_path = output_dir / ".lovdata-state.json"
         self._state = self._les_state()
 
+        # Fase 0: Legg til viktige lover som mangler i køen (kjøres alltid, rask)
+        self._seed_koen()
+
         # Fase 1: Oppdater URL-kø fra registersider om det er lenge siden
         if self._bor_crawle_register():
             self._crawl_alle_registre(output_dir)
@@ -89,6 +189,25 @@ class LovdataScraper(BaseScraper):
         gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
         logger.info("Lovdata: %d filer endret/nye | %d gjenstår i kø", len(created), gjenstaar)
         return created
+
+    def _seed_koen(self):
+        """Legg til lovene fra SEED_LOVER i køen om de mangler (rask, ingen nettverkskall)."""
+        kø = self._state.setdefault("kø", {})
+        nye = 0
+        for url, slug, tittel in SEED_LOVER:
+            nøkkel = f"lover/{slug}"
+            if nøkkel not in kø:
+                kø[nøkkel] = {
+                    "url": url,
+                    "slug": slug,
+                    "tittel": tittel,
+                    "type": "lover",
+                    "hentet": False,
+                }
+                nye += 1
+        if nye:
+            self._lagre_state()
+            logger.info("Seed: %d nye lover lagt til køen", nye)
 
     # -------------------------------------------------------------------------
     # Fase 1 – Register-crawl
