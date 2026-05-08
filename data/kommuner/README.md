@@ -2,7 +2,7 @@
 
 Kommunale og lokale forskrifter.
 
-*Sist oppdatert: 2026-05-08 11:24 UTC*
+*Sist oppdatert: 2026-05-08 12:44 UTC*
 
 **Antall dokumenter:** 0
 

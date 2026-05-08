@@ -1,17 +1,14 @@
-<!-- innholds-hash: d02b13770a8e4f06823bc7b1e5c7ff9b0f2ad925df9bc6f7ff16623443ec6e4a -->
+<!-- innholds-hash: f323324bfec1f134bc12054bc6b53c0865e43a97e64609a6de86d88a86b49bd3 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1918-05-31-4
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1918-05-31-4
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:41:44Z
+- **Sist hentet:** 2026-05-08T12:14:19Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]
 
@@ -202,12 +199,11 @@ Denne lov gjælder bare paa formuerettens omraade.
 
 Ved denne lov ophæves – – –
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1918-05-31-4) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1918-05-31-4) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

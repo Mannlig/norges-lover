@@ -1,17 +1,14 @@
-<!-- innholds-hash: 668f518558161afb1052b9cfcf2a2c8324d036f0e790359e7d6a8e0956006292 -->
+<!-- innholds-hash: d58031156f28ee7051b77cdbcef009ee952347c4030ebc523e8e6ece659808c5 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1984-06-08-58
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1984-06-08-58
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:44:00Z
+- **Sist hentet:** 2026-05-08T12:20:32Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om gjeldsforhandling og konkurs (konkursloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om gjeldsforhandling og konkurs (konkursloven)
-
-Jf.
 
 
 ### Kort om loven
@@ -1032,12 +1027,11 @@ Det kan i overenskomsten fastsettes nærmere bestemmelser om hvilke av statenes 
 
 Kongen kan gi forskrifter til gjennomføring og utfylling av bestemmelsene i
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1984-06-08-58) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1984-06-08-58) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

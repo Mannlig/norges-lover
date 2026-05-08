@@ -1,17 +1,14 @@
-<!-- innholds-hash: 974619b9111d5c7d02a6da5cb1e5a8fe2123f46f241c0ddae54aaf8cd2c1a065 -->
+<!-- innholds-hash: acc10907b463669a272a20af25b4b1e9df2cbb18ccdc64e2efa3964d163602e3 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/2018-06-15-38
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/2018-06-15-38
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:42:47Z
+- **Sist hentet:** 2026-05-08T12:36:46Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om behandling av personopplysninger (personopplysningsloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om behandling av personopplysninger (personopplysningsloven)
-
-Jf.
 
 
 ### Kort om loven
@@ -31,12 +26,11 @@ Personopplysningsloven er en norsk lov som regulerer hvordan personopplysningen
 
 Loven erstattet personopplysningsloven fra 2000. Bakgrunnen for både loven og forordningen er rask utvikling av teknologi og den overordnede digitaliseringen av samfunnet. Dette har gjort det lettere å samle inn, bruke og utveksle personopplysninger, både i Norge og på tvers av landegrenser, og dermed også å misbruke slike opplysninger, og et ønske om å gjøre det lettere å utveksle personopplysninger over landegrenser, på en måte som ivaretar personvernet.
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/2018-06-15-38) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/2018-06-15-38) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

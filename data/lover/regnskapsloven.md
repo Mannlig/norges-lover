@@ -1,17 +1,14 @@
-<!-- innholds-hash: 5d8348c37bf9d18f5b4ab2a0f478993bb59d6dd102f9fb17f5600bc5b850afb6 -->
+<!-- innholds-hash: 7b63dbd1d2d2e89fc35c41d94f8b068f9bd2b4af2bcaf5d34df3b1fbf083fd24 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1998-07-17-56
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1998-07-17-56
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:43:39Z
+- **Sist hentet:** 2026-05-08T12:20:08Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om årsregnskap m.v. (regnskapsloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om årsregnskap m.v. (regnskapsloven)
-
-Jf.
 
 
 ### Kapittel 1. Virkeområde, regnskapspliktige, definisjoner
@@ -242,12 +237,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 19. juli 2002.
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1998-07-17-56) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1998-07-17-56) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

@@ -1,17 +1,14 @@
-<!-- innholds-hash: ec01c496e9058296f986a4239920c9aab387adad214d69776b54d449883d2023 -->
+<!-- innholds-hash: 0b3e16324bb6d16f26581dbd2eac473b165252b2e7ab2ac976d10dbd6756b34a -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1999-03-26-17
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1999-03-26-17
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:41:20Z
+- **Sist hentet:** 2026-05-08T12:26:25Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om husleieavtaler (husleieloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om husleieavtaler (husleieloven)
-
-Jf.
 
 
 ### Kapittel 1. Alminnelige bestemmelser
@@ -557,12 +552,11 @@ Fra den tid loven her trer i kraft, oppheves
 
 Fra samme tidspunkt gjøres følgende endringer i andre lover: – – –
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1999-03-26-17) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1999-03-26-17) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

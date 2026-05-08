@@ -1,17 +1,14 @@
-<!-- innholds-hash: 2fd5948799968dbcc41365d50fbe3fdfd8385f0617238e8ad76521eb341ce1b4 -->
+<!-- innholds-hash: fe1d304ca0825a32dd347ceada5ad994efbcf4be4a94e1268db349f02bcb2aea -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/2005-05-20-28
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/2005-05-20-28
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:42:04Z
+- **Sist hentet:** 2026-05-08T12:12:07Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om straff (straffeloven)
 
@@ -35,12 +32,11 @@ Til grunn for strafferetten ligger prinsippet om at ingen kan straffes uten lov 
 
 Straffeloven ble vedtatt 20. mai 2005, men trådte først i kraft 1. oktober 2015. Da erstattet den straffeloven av 1902. En årsak til at det tok så lang tid før loven trådte i kraft var at det var nødvendig med endringer i politiets datasystemer.
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/2005-05-20-28) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/2005-05-20-28) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

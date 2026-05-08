@@ -1,17 +1,14 @@
-<!-- innholds-hash: cc6cbbf9c5d8c6f96eb0d0b849665f3cd634d8a0ce5f3a1950ed6ae71cb79ef1 -->
+<!-- innholds-hash: 4a9f8a7c93a29ebf28e4d763b3efdd9a762d6709cb83f37b323255ebdb78d1e8 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1981-04-08-7
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1981-04-08-7
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:40:56Z
+- **Sist hentet:** 2026-05-08T12:24:54Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om barn og foreldre (barnelova)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om barn og foreldre (barnelova)
-
-Jf.
 
 
 ### Kort om loven
@@ -659,12 +654,11 @@ Lova gjeld også barn som er født før lova tek til å gjelde. Frå dette er gj
 
 Frå den tid lova tek til å gjelde, vert gjort slike brigde i andre lover: – – –
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1981-04-08-7) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1981-04-08-7) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

@@ -1,17 +1,14 @@
-<!-- innholds-hash: d937a3b6e0b9c6c3d8c0868fc3aad7dccfa2582044c738c75e6e9d590d2578ac -->
+<!-- innholds-hash: 540074a067a579840ce0274b40d3e18dc8cfbd8f62a16e4d3a4b19d09315bd6d -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/2009-06-19-58
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/2009-06-19-58
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:39:26Z
+- **Sist hentet:** 2026-05-08T12:17:34Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om merverdiavgift (merverdiavgiftsloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om merverdiavgift (merverdiavgiftsloven)
-
-Jf.
 
 
 ### Kapittel 1. Lovens virkeområde. Definisjoner
@@ -258,12 +253,11 @@ Tilbyder i forenklet registreringsordning har ikke rett til fradrag for inngåen
 
 Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/2009-06-19-58) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/2009-06-19-58) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

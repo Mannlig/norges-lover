@@ -1,17 +1,14 @@
-<!-- innholds-hash: ed2b68cdbc2f5ba6f5cd98b249ffea113b3e7b78af479d8504b1ddd99a71c207 -->
+<!-- innholds-hash: 5c0b31f8526346ec7481d47ec119c9fa4d7c4b148c58d8dabe50984a6e44b8fd -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1997-06-13-44
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1997-06-13-44
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:43:15Z
+- **Sist hentet:** 2026-05-08T12:18:44Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om aksjeselskaper (aksjeloven)
 
@@ -35,12 +32,11 @@ Aksjeloven er den sentrale loven på dette området, men det finnes også andre 
 
 Loven bygger i hovedsak på den første norske aksjeloven av 1910, og senere revisjoner av denne. I 1997 ble det med de to nye lovene aksjeloven og allmennaksjeloven innført et skille mellom aksjeselskaper som reguleres av aksjeloven, og allmennaksjeselskaper som reguleres av allmennaksjeloven.
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1997-06-13-44) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1997-06-13-44) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)

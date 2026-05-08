@@ -1,17 +1,14 @@
-<!-- innholds-hash: 0b5fd0847ce97ca1c047c249e81623c882bc16b3a73c699382f879e9f6c9dcb1 -->
+<!-- innholds-hash: a1e1a51c33a31e0c8ba479b87bd4a29d89995eaadeb4c7d8758136f638f996df -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
-- **Kilde:** Lovdata – https://lovdata.no/lov/1967-02-10
+- **Kilde:** Lovdata – https://lovdata.no/dokument/NL/lov/1967-02-10
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-04T11:40:12Z
+- **Sist hentet:** 2026-05-08T12:13:09Z
 
-## Lovtekst
-
-
-## Verktøylinje
+## Innhold
 
 Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)
 
@@ -19,8 +16,6 @@ Trykk Escape for å lukke innholdsfortegnelse
 
 
 ## Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)
-
-Jf.
 
 
 ### Kort om loven
@@ -432,12 +427,11 @@ Forhold knyttet til ileggelsen av tvangsmulkt kan påklages særskilt. Reglene i
 
 Tidspunktet for lovens ikrafttredelse fastsettes ved særskilt lov.
 
-Del dokument
-
 
 ---
-*Automatisk hentet fra [Lovdata](https://lovdata.no/lov/1967-02-10) av norges-lover-bot.*
+*Automatisk hentet fra [Lovdata](https://lovdata.no/dokument/NL/lov/1967-02-10) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-04** Første gang hentet
+- **2026-05-08** Innhold endret (se git-historikk for diff)
