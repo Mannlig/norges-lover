@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4f0d085a3253d4fc045287889f4e6a8795aa71a3aed640d48eb42db3e98fed73 -->
+<!-- innholds-hash: 716dcc2db17bed235f2c084a3f16bbb778713095b654b45fa5c2a31ec17b8be2 -->
 
 # Uføretrygd
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-06T16:10:27Z
+- **Sist hentet:** 2026-05-08T11:18:44Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/uforetrygd) for oppdaterte tall.
@@ -136,7 +136,11 @@ Full trygdetid er 40 år. Hvis du har bodd hele livet i Norge, har du vanligvis 
 
 #### Rettigheter som ung ufør
 
-Har du rettigheter som «ung ufør», blir uføretrygden din beregnet etter egne regler som kan gi deg rett til en høyere minstesats. Kravet til alvorlighet er strengere enn for vanlig uføretrygd. Det betyr at du må ha en betydelig mer alvorlig sykdom enn det som normalt gir rett til uføretrygd.
+Har du rettigheter som «ung ufør», blir uføretrygden din beregnet etter egne regler som kan gi deg rett til en høyere minstesats.
+
+Du trenger ikke søke om denne rettigheten. Saksbehandler vil alltid vurdere om søkeren oppfyller vilkårene for ung ufør.
+
+Kravet til alvorlighet er strengere enn for vanlig uføretrygd. Det betyr at du må ha en betydelig mer alvorlig sykdom enn det som normalt gir rett til uføretrygd.
 
 For å få innvilget rettigheter som ung ufør, må du i tillegg fylle disse tre vilkårene:
 
@@ -144,8 +148,6 @@ For å få innvilget rettigheter som ung ufør, må du i tillegg fylle disse tre
 - Lege eller spesialist har klart dokumentert at sykdommen eller skaden førte til uførhet før du fylte 26 år.
 - Har du jobbet mer enn 50 prosent etter at du fylte 26 år, må du søke før du fyller 36 år.
 - Har du jobbet mindre enn 50 prosent, er det ikke noe krav til når du må søke.
-Du trenger ikke søke om rettigheter som ung ufør. Saksbehandler vil alltid vurdere om søkeren oppfyller vilkårene for ung ufør.
-
 Det er egne minstesatser for unge uføre, se oversikt over minstesatser litt lenger ned på siden.
 
 Sivilstanden din kan påvirke uføretrygden din hvis
@@ -746,7 +748,7 @@ Nav jobber nå med å rette opp rundt 1800 saker der det har vært løpende feil
 
 Når disse sakene er ferdig behandlet vil vi fortsette med å rette de sakene med størst beløp, av de 80.000 sakene som gjelder feil i én enkeltmåned. Dette arbeidet er planlagt å starte høsten 2026, og Nav tar kontakt med de som er berørt i saker vi retter opp. Hvis du likevel ønsker å ta kontakt, kan du skrive til oss på nav.no, eller ringe oss. Vær oppmerksom på at det kan ta lang tid hvis vi skal vurdere saken din.
 
-Oppdatert 06.05.2026
+Oppdatert 08.05.2026
 
 
 #### Chat med oss
@@ -755,7 +757,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -765,7 +767,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -775,3 +777,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-06** Første gang hentet
 - **2026-05-06** Innhold endret (se git-historikk for diff)
+- **2026-05-08** Innhold endret (se git-historikk for diff)
