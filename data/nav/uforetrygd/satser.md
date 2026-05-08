@@ -1,4 +1,4 @@
-<!-- innholds-hash: 716dcc2db17bed235f2c084a3f16bbb778713095b654b45fa5c2a31ec17b8be2 -->
+<!-- innholds-hash: ced4a792130a99d23e886f65dc7c9778b02a34421f37c384623a4609635e506c -->
 
 # Uføretrygd
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-08T11:19:12Z
+- **Sist hentet:** 2026-05-08T13:12:48Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/uforetrygd) for oppdaterte tall.
@@ -757,7 +757,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -767,7 +767,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -777,4 +777,5 @@ Still oss et spørsmål og få skriftlig svar.
 
 - **2026-05-06** Første gang hentet
 - **2026-05-06** Innhold endret (se git-historikk for diff)
+- **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)

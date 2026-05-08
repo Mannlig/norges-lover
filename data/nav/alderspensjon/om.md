@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3703ddc83475c69d5d90c434272edefe4b7d8fb19590d8319fc1e64382e8084d -->
+<!-- innholds-hash: 138af4c25d7d675ecc16bc8e64b080d8c9cc8c54cf7e24c46a60a91b9480d436 -->
 
 # Alderspensjon
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-08T11:19:43Z
+- **Sist hentet:** 2026-05-08T13:13:16Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/alderspensjon) for oppdaterte tall.
@@ -1241,7 +1241,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -1251,7 +1251,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -1261,4 +1261,5 @@ Still oss et spørsmål og få skriftlig svar.
 
 - **2026-05-06** Første gang hentet
 - **2026-05-06** Innhold endret (se git-historikk for diff)
+- **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)

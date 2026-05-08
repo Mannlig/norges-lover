@@ -1,4 +1,4 @@
-<!-- innholds-hash: 35bc3dcc809e621e9b47ef1bbcbd37bde8702e46feac3589653815829e82fcfc -->
+<!-- innholds-hash: d7d75b29de3f17fd7151dec81d0c12d388348e31be3d3280342e6deb36cf1812 -->
 
 # Barnetrygd
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetrygd
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-08T11:17:20Z
+- **Sist hentet:** 2026-05-08T13:10:46Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/barnetrygd) for oppdaterte tall.
@@ -370,7 +370,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -380,7 +380,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -390,4 +390,5 @@ Still oss et spørsmål og få skriftlig svar.
 
 - **2026-05-06** Første gang hentet
 - **2026-05-06** Innhold endret (se git-historikk for diff)
+- **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
