@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5c6ab1b39af88b953b4637f61f8ee0dc2f94a81f0a42f8cfc7e7866a3c02c17e -->
+<!-- innholds-hash: b93875b8b64fb1918163edf88d9a34b1e3cf891cccf0dc83c8fce16c21ff9828 -->
 
 # Økonomisk sosialhjelp
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sosialhjelp
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-08T13:14:23Z
+- **Sist hentet:** 2026-05-09T06:18:12Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/sosialhjelp) for oppdaterte tall.
@@ -304,7 +304,7 @@ Oppdatert 08.04.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn ditt Nav-kontor
@@ -319,3 +319,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-05-06** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
+- **2026-05-09** Innhold endret (se git-historikk for diff)

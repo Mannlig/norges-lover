@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4cc7c0d5534e4c386ac86ecbd249bdcd4057a37de8f80b3e45d9e675eb3e4251 -->
+<!-- innholds-hash: e97d27a745dfb67943c4161f6c742df63fa7d1b731a94fe31136f73cbd980c37 -->
 
 # Hjelpemidler og tilrettelegging
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-08T13:14:54Z
+- **Sist hentet:** 2026-05-09T06:18:39Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/hjelpemidler) for oppdaterte tall.
@@ -30,7 +30,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -50,3 +50,4 @@ Meld deg på nyhetsbrevet fra Nav hjelpemidler og tilrettelegging for å få opp
 - **2026-05-06** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
+- **2026-05-09** Innhold endret (se git-historikk for diff)
