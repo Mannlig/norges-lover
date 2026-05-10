@@ -34,7 +34,6 @@ os.environ.setdefault("REPO_ROOT", str(_TMP_LOGS))
 
 from scrapers import (
     StortingetScraper,
-    LovdataScraper,
     SkatteetatenScraper,
     DibkScraper,
     NavScraper,
@@ -52,8 +51,6 @@ SCRAPERS = [
     ("skatteetaten", SkatteetatenScraper,  1, True),
     ("nav",          NavScraper,           1, True),
     ("dibk",         DibkScraper,          1, True),
-    ("lovdata",      LovdataScraper,       1, True),
-    # KommunerScraper deaktivert – LovdataScraper henter lokale-forskrifter
 ]
 
 
@@ -117,14 +114,13 @@ def statisk_sjekk() -> int:
         in_docstring = False
         for line_no, line in enumerate(f.read_text().splitlines(), 1):
             stripped = line.strip()
-            # Toggle docstring-state ved hver """ (også når det åpner og lukker på samme linje)
             triple_count = stripped.count('"""') + stripped.count("'''")
             if in_docstring:
                 if triple_count % 2 == 1:
                     in_docstring = False
                 continue
             if triple_count >= 2:
-                continue  # Åpnet og lukket på samme linje
+                continue
             if triple_count == 1:
                 in_docstring = True
                 continue
@@ -179,7 +175,6 @@ def main():
             print(f"    feil: {forste_linje}")
         print()
 
-    # Detaljert rapport for feilende scrapere
     feil = [r for r in resultater if not r["ok"]]
     if feil:
         print(f"\n{'=' * 70}")
@@ -190,7 +185,6 @@ def main():
             print(r["feil"])
             print()
 
-    # Oppsummering
     ok = sum(1 for r in resultater if r["ok"])
     print(f"\n{'=' * 70}")
     print(f"RESULTAT: {ok}/{len(resultater)} scrapere OK")
