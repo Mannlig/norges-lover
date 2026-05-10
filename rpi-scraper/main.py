@@ -26,11 +26,9 @@ from formatters.markdown import lag_indeks, KATEGORI_INFO
 from publishers.github_publisher import GitHubPublisher
 from scrapers import (
     StortingetScraper,
-    LovdataScraper,
     SkatteetatenScraper,
     DibkScraper,
     NavScraper,
-    KommunerScraper,
 )
 
 # --- Logging ---
@@ -49,11 +47,9 @@ logger = logging.getLogger("main")
 # Format: (kilde-nøkkel, scraper-klasse, data-mappe-nøkkel, maks-sider)
 KJØRINGER = [
     ("stortinget",   StortingetScraper,   "stortinget",  100),
-    ("lovdata",      LovdataScraper,      "lovdata",     100),  # Chromium – henter 100 dok/kjøring
-    ("skatteetaten", SkatteetatenScraper, "skatt",        50),
+    ("skatteetaten", SkatteetatenScraper, "skatt",       100),
     ("dibk",         DibkScraper,         "byggteknisk",  50),
     ("nav",          NavScraper,          "nav",          50),
-    # KommunerScraper deaktivert – LovdataScraper henter lokale-forskrifter fra lovdata.no/register/lokaleForskrifter
 ]
 
 
