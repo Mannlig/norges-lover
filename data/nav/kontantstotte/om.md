@@ -1,4 +1,4 @@
-<!-- innholds-hash: 465df83c998391f58726c72ec1ed1e5b6e5a80b768db8a395dd02004ec625a50 -->
+<!-- innholds-hash: 16b0e5ea8b100f6ec5977ee3db82a69f1f4d03448f37b1eb2168b0665ed9f3d2 -->
 
 # Kontantstøtte
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-09T06:15:36Z
+- **Sist hentet:** 2026-05-10T05:41:04Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/kontantstotte) for oppdaterte tall.
@@ -272,7 +272,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -282,7 +282,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -295,3 +295,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-09** Innhold endret (se git-historikk for diff)
+- **2026-05-10** Innhold endret (se git-historikk for diff)
