@@ -64,14 +64,19 @@ def lag_indeks(data_dir: Path, kategori: str, beskrivelse: str) -> Path:
     return readme
 
 
+_GENERISKE_TITLER = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation", "ukjent tittel"}
+
+
 def _hent_tittel(filepath: Path) -> str:
-    """Les første H1-overskrift fra en markdown-fil."""
+    """Les tittel fra en markdown-fil, hopper over generiske navigasjonstitler."""
     try:
         with open(filepath, encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if line.startswith("# "):
-                    return line[2:].strip()
+                    tittel = line[2:].strip()
+                    if tittel.lower() not in _GENERISKE_TITLER:
+                        return tittel
     except Exception:
         pass
     return filepath.stem.replace("-", " ").title()

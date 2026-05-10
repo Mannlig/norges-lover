@@ -178,6 +178,7 @@ class LovdataScraper(BaseScraper):
 
         # Fase 0: Legg til viktige lover som mangler i køen (kjøres alltid, rask)
         self._seed_koen()
+        self._reparer_feil_titler(output_dir)
 
         # Fase 1: Oppdater URL-kø fra registersider om det er lenge siden
         if self._bor_crawle_register():
@@ -189,6 +190,30 @@ class LovdataScraper(BaseScraper):
         gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
         logger.info("Lovdata: %d filer endret/nye | %d gjenstår i kø", len(created), gjenstaar)
         return created
+
+    def _reparer_feil_titler(self, output_dir: Path):
+        """Fiks filer der tittelen er en generisk navigasjonstitel (f.eks. 'Hoved­meny')."""
+        _GENERISKE = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation"}
+        kø = self._state.get("kø", {})
+        fikset = 0
+        for meta in kø.values():
+            kjent_tittel = meta.get("tittel", "")
+            if not kjent_tittel:
+                continue
+            filepath = output_dir / meta["type"] / f"{meta['slug']}.md"
+            if not filepath.exists():
+                continue
+            innhold = filepath.read_text(encoding="utf-8")
+            for line in innhold.splitlines():
+                if line.startswith("# "):
+                    current_title = line[2:].strip()
+                    if current_title.lower() in _GENERISKE:
+                        ny_innhold = innhold.replace(f"# {current_title}\n", f"# {kjent_tittel}\n", 1)
+                        filepath.write_text(ny_innhold, encoding="utf-8")
+                        fikset += 1
+                    break
+        if fikset:
+            logger.info("Reparerte %d filer med feil navigasjonstitel", fikset)
 
     def _seed_koen(self):
         """Legg til lovene fra SEED_LOVER i køen om de mangler (rask, ingen nettverkskall)."""
@@ -409,7 +434,13 @@ class LovdataScraper(BaseScraper):
         if not page:
             return None
 
-        tittel = self.hent_tittel(page) or kjent_tittel or slug
+        raa_tittel = self.hent_tittel(page)
+        # Lovdata-sider har "Hoved­meny" som første h1 (skip-link til navigasjon)
+        _GENERISKE = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation"}
+        if not raa_tittel or raa_tittel.lower().strip() in _GENERISKE:
+            tittel = kjent_tittel or slug
+        else:
+            tittel = raa_tittel
         innhold = self._hent_lovtekst(page)
 
         if len(innhold.strip()) < _MIN_INNHOLD_LENGDE:
