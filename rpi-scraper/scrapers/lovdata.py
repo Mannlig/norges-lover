@@ -293,7 +293,7 @@ class LovdataScraper(BaseScraper):
 
         for side in range(1, 600):  # Lovdata har maks ~475 sider for lokale forskrifter
             url = neste_url or f"{base_url}?start={(side - 1) * 25}"
-            page = self._dynamic_fetch(url)
+            page = self._fetch_register(url)
             if not page:
                 logger.warning("Register %s side %d: fetch feilet for %s", type_slug, side, url)
                 break
@@ -312,6 +312,7 @@ class LovdataScraper(BaseScraper):
 
             lenker = self._trekk_ut_register_lenker(page)
             if not lenker:
+                # Fallback 1: next-link i HTML
                 neste_el = self.css_first(
                     page,
                     "a[rel='next'], a.neste, a[aria-label='Neste'], "
@@ -321,9 +322,16 @@ class LovdataScraper(BaseScraper):
                     href = str(neste_el.attrib.get("href", "")).strip()
                     if href and href != url:
                         neste_url = f"https://lovdata.no{href}" if href.startswith("/") else href
-                        logger.info("Ingen lenker på side %d, men fant neste-lenke: %s",
-                                    side, neste_url)
+                        logger.info("Ingen lenker side %d, fant next-link: %s", side, neste_url)
                         continue
+
+                # Fallback 2: URL-offset – prøv neste side manuelt om vi er på side 1
+                # (Lovdata kan ignorere ?start= men verdt å prøve én gang)
+                if side == 1 and "?" not in base_url:
+                    neste_url = f"{base_url}?start=25"
+                    logger.info("Ingen lenker side 1, prøver URL-offset: %s", neste_url)
+                    continue
+
                 logger.info("Ingen lovlenker og ingen neste-side på side %d av %s – stopper",
                             side, base_url)
                 break
@@ -339,6 +347,7 @@ class LovdataScraper(BaseScraper):
                         type_slug, side, nye_på_side, len(resultater))
             self._lagre_state()
 
+            # Finn neste side via next-link; faller tilbake til URL-offset
             neste_el = self.css_first(
                 page,
                 "a[rel='next'], a.neste, a[aria-label='Neste'], "
@@ -348,7 +357,14 @@ class LovdataScraper(BaseScraper):
                 href = str(neste_el.attrib.get("href", "")).strip()
                 neste_url = f"https://lovdata.no{href}" if href.startswith("/") else href
             else:
-                neste_url = None
+                # Ingen next-link – prøv URL-offset som fallback
+                offset = side * 25
+                kandidat = f"{base_url}?start={offset}"
+                if kandidat != url:
+                    neste_url = kandidat
+                    logger.info("Ingen next-link etter side %d, prøver offset: %s", side, neste_url)
+                else:
+                    neste_url = None
 
         return resultater
 
@@ -430,17 +446,17 @@ class LovdataScraper(BaseScraper):
     ) -> Path | None:
         filepath = output_dir / f"{slug}.md"
 
-        page = self._dynamic_fetch(url)
+        page, strategi = self._fetch_dokument(url)
         if not page:
             return None
 
         raa_tittel = self.hent_tittel(page)
-        # Lovdata-sider har "Hoved­meny" som første h1 (skip-link til navigasjon)
-        _GENERISKE = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation"}
-        if not raa_tittel or raa_tittel.lower().strip() in _GENERISKE:
+        _GENERISKE = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation", ""}
+        if raa_tittel.lower().strip() in _GENERISKE:
             tittel = kjent_tittel or slug
         else:
             tittel = raa_tittel
+        logger.debug("Tittel for %s: %r (strategi: %s)", slug, tittel, strategi)
         innhold = self._hent_lovtekst(page)
 
         if len(innhold.strip()) < _MIN_INNHOLD_LENGDE:
@@ -511,16 +527,64 @@ class LovdataScraper(BaseScraper):
         return "\n".join(linjer)
 
     # -------------------------------------------------------------------------
-    # DynamicFetcher (Playwright)
+    # Fetch med fallback-strategier
     # -------------------------------------------------------------------------
 
-    def _dynamic_fetch(self, url: str, retries: int = 3):
-        from scrapling.fetchers import DynamicFetcher
+    def _fetch_dokument(self, url: str) -> tuple[object | None, str]:
+        """
+        Henter en Lovdata-dokumentside med progressivt lettere strategier.
+        Returnerer (page, strategi_navn) eller (None, "").
+        Lovdata krever JS for å rendre lovtekst, så DynamicFetcher er primær.
+        """
+        # Strategi 1: DynamicFetcher – full Playwright med JS
+        page = self._dynamic_fetch(url, fetcher="dynamic")
+        if page and self._har_nok_innhold(page):
+            return page, "dynamic"
 
+        # Strategi 2: StealthyFetcher – lettere Playwright (raskere, men noen JS-sider feiler)
+        logger.info("Fallback til StealthyFetcher for %s", url)
+        page = self._dynamic_fetch(url, fetcher="stealth")
+        if page and self._har_nok_innhold(page):
+            return page, "stealth"
+
+        # Strategi 3: Plain urllib – fungerer kun om siden rendres server-side
+        logger.info("Fallback til urllib for %s", url)
+        page = self._plain_fetch(url)
+        if page and self._har_nok_innhold(page):
+            return page, "urllib"
+
+        # Returner det vi har (selv om lite innhold) slik at logger kan rapportere
+        return page, "urllib" if page else ""
+
+    def _fetch_register(self, url: str) -> object | None:
+        """
+        Henter en registerside. Prøver StealthyFetcher først (raskere),
+        faller tilbake til DynamicFetcher om siden krever tung JS.
+        """
+        page = self._dynamic_fetch(url, fetcher="stealth")
+        if page:
+            return page
+        logger.info("Fallback til DynamicFetcher for registerside %s", url)
+        return self._dynamic_fetch(url, fetcher="dynamic")
+
+    def _har_nok_innhold(self, page) -> bool:
+        """Sjekk at siden har tilstrekkelig tekstinnhold (ikke bare nav/header)."""
+        if page is None:
+            return False
+        el = self.css_first(page, "main, article, body")
+        if not el:
+            return False
+        tekst = str(el.text or "")
+        return len(tekst.strip()) >= _MIN_INNHOLD_LENGDE * 2
+
+    def _dynamic_fetch(self, url: str, retries: int = 3, fetcher: str = "dynamic"):
+        from scrapling.fetchers import DynamicFetcher, StealthyFetcher
+
+        klass = DynamicFetcher if fetcher == "dynamic" else StealthyFetcher
         for attempt in range(retries):
             self._polite_delay()
             try:
-                page = DynamicFetcher.fetch(
+                page = klass.fetch(
                     url,
                     headless=True,
                     network_idle=True,
@@ -533,10 +597,34 @@ class LovdataScraper(BaseScraper):
                     return None
                 return page
             except Exception as e:
-                logger.warning("DynamicFetcher feil (forsøk %d/%d) %s: %s",
-                               attempt + 1, retries, url, e)
+                logger.warning("%s feil (forsøk %d/%d) %s: %s",
+                               klass.__name__, attempt + 1, retries, url, e)
                 time.sleep(10 * (attempt + 1))
         return None
+
+    def _plain_fetch(self, url: str):
+        """Hent side med ren urllib – rask, men uten JS-rendering."""
+        import urllib.request
+        from scrapling import Selector
+        from config import USER_AGENT
+
+        self._polite_delay()
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "text/html,application/xhtml+xml",
+                "Accept-Language": "nb-NO,nb;q=0.9",
+            })
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                self._last_request_time = time.time()
+                if resp.status >= 400:
+                    logger.warning("urllib HTTP %d: %s", resp.status, url)
+                    return None
+                html = resp.read().decode("utf-8", errors="replace")
+                return Selector(content=html, url=url)
+        except Exception as e:
+            logger.warning("urllib feil for %s: %s", url, e)
+            return None
 
     # -------------------------------------------------------------------------
     # State-fil

@@ -117,7 +117,7 @@ class BaseScraper(ABC):
     def side_til_markdown(self, page, selektorer: list[str]) -> str:
         """
         Konverter Scrapling-side til Markdown.
-        Prøver selektorer i rekkefølge til én gir innhold.
+        Prøver selektorer i rekkeflølge til én gir innhold.
         """
         if page is None:
             return ""
@@ -152,13 +152,42 @@ class BaseScraper(ABC):
         return "\n".join(linjer)
 
     def hent_tittel(self, page) -> str:
+        """Hent sidetittel med flere fallback-strategier."""
         if page is None:
-            return "Ukjent tittel"
-        for selector in ["h1", "title"]:
-            el = self.css_first(page, selector)
+            return ""
+
+        # 1. og:title meta-tag (mest spesifikk for dokument-titler)
+        for el in page.css("meta[property='og:title'], meta[name='title']"):
+            verdi = str(el.attrib.get("content", "")).strip()
+            if verdi:
+                return verdi
+
+        # 2. Dedikert tittel-element
+        for sel in [
+            ".document-title", "[class*='document-title']",
+            "h1.title", "[aria-label='Dokumenttittel']",
+        ]:
+            el = self.css_first(page, sel)
             if el and el.text:
                 return str(el.text).strip()
-        return "Ukjent tittel"
+
+        # 3. Første h1
+        el = self.css_first(page, "h1")
+        if el and el.text:
+            return str(el.text).strip()
+
+        # 4. <title>-tag, renset for nettstedssuffikser
+        el = self.css_first(page, "title")
+        if el and el.text:
+            tittel = str(el.text).strip()
+            # Fjern "– Lovdata", "| nav.no" o.l.
+            for sep in [" – ", " | ", " - ", " :: "]:
+                if sep in tittel:
+                    tittel = tittel.split(sep)[0].strip()
+            if tittel:
+                return tittel
+
+        return ""
 
     # ------------------------------------------------------------------
     # Endringsdeteksjon og filskriving (uendret fra forrige versjon)
