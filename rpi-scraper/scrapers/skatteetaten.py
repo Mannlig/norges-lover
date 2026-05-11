@@ -1,1 +1,242 @@
-"""\nScraper for Skatteetaten – crawler som følger lenker fra tematiske hubsider.\n\nKjører i to faser:\n  1. Hub-crawl (én gang per 24t): Henter alle innholdslenker fra startpunktene\n     og lagrer dem i en state-fil\n  2. Innholdshenting: Prosesserer køen inntil max_pages per kjøring\n\nKilde: https://www.skatteetaten.no\n"""\n\nimport json\nimport logging\nimport re\nfrom pathlib import Path\n\nfrom .base import BaseScraper\n\nlogger = logging.getLogger(__name__)\n\nHUB_CRAWL_INTERVALL_TIMER = 24\n\n# Startpunkter – én per tema. Crawleren følger lenker herfra automatisk.\nSKATT_STARTPUNKTER = [\n    # Satser (alltid nyttig – konkrete tall)\n    \"https://www.skatteetaten.no/satser/\",\n    # Person – privatpersoner\n    \"https://www.skatteetaten.no/person/skatt/\",\n    \"https://www.skatteetaten.no/person/aksjer-og-verdipapirer/\",\n    \"https://www.skatteetaten.no/person/bolig-og-eiendom/\",\n    \"https://www.skatteetaten.no/person/arv-og-gaver/\",\n    \"https://www.skatteetaten.no/person/skattekort/\",\n    \"https://www.skatteetaten.no/person/skattemelding/\",\n    \"https://www.skatteetaten.no/person/utland/\",\n    \"https://www.skatteetaten.no/person/fradrag/\",\n    \"https://www.skatteetaten.no/person/selvstendig-naringsdrivende/\",\n    # Bedrift og organisasjon\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/\",\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/mva/\",\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/\",\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/starte-bedrift/\",\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/\",\n    # Næringsdrivende\n    \"https://www.skatteetaten.no/naringsdrivende/\",\n]\n\n# URL-mønstre som IKKE er innholdssider\n_EKSKLUDER = re.compile(\n    r\"/(nn|en|se|kontakt|sok|login|logg-inn|om-skatteetaten|\"\n    r\"presse|kurs|arrangementer|sitemap|404|500|\"\n    r\"skjema|ettersendelse|klage)(/|$)\",\n    re.IGNORECASE,\n)\n\n# Bare disse prefiksene er relevante innholdssider\n_INKLUDER_PREFIKS = (\n    \"https://www.skatteetaten.no/person/\",\n    \"https://www.skatteetaten.no/bedrift-og-organisasjon/\",\n    \"https://www.skatteetaten.no/naringsdrivende/\",\n    \"https://www.skatteetaten.no/satser/\",\n    \"https://www.skatteetaten.no/rettskilder/\",\n    \"https://www.skatteetaten.no/tema/\",\n)\n\n_INNHOLD_SELEKTORER = [\n    \"main article\",\n    \"main\",\n    \"article\",\n    \"[role='main']\",\n    \".article-content\",\n    \"#main-content\",\n    \".page-content\",\n]\n\n\nclass SkatteetatenScraper(BaseScraper):\n    name = \"skatteetaten\"\n    source_url = \"https://www.skatteetaten.no\"\n\n    def __init__(self):\n        super().__init__()\n        self._state: dict = {}\n        self._state_path: Path | None = None\n\n    def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:\n        output_dir.mkdir(parents=True, exist_ok=True)\n        self._state_path = output_dir / \".skatt-state.json\"\n        self._state = self._les_state()\n\n        if self._bor_crawle_huber():\n            self._crawl_huber()\n\n        created = self._hent_fra_ko(output_dir, max_pages)\n        gjenstaar = sum(1 for v in self._state.get(\"kø\", {}).values() if not v[\"hentet\"])\n        logger.info(\"Skatteetaten: %d filer | %d gjenstår i kø\", len(created), gjenstaar)\n        return created\n\n    # -------------------------------------------------------------------------\n    # Fase 1 – Hub-crawl\n    # -------------------------------------------------------------------------\n\n    def _bor_crawle_huber(self) -> bool:\n        sist = self._state.get(\"sist_hub_crawl\", \"\")\n        if not sist:\n            return True\n        try:\n            from datetime import datetime, timezone\n            sist_tid = datetime.fromisoformat(sist.replace(\"Z\", \"+00:00\"))\n            timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600\n            return timer >= HUB_CRAWL_INTERVALL_TIMER\n        except Exception:\n            return True\n\n    def _crawl_huber(self):\n        logger.info(\"Starter Skatteetaten hub-crawl...\")\n        kø = self._state.setdefault(\"kø\", {})\n        nye = 0\n\n        for hub_url in SKATT_STARTPUNKTER:\n            lenker = self._hent_lenker_fra_side(hub_url)\n            logger.info(\"Hub %s: %d relevante lenker\", hub_url, len(lenker))\n            for url in lenker:\n                nøkkel = self._url_til_nokkel(url)\n                if nøkkel not in kø:\n                    kø[nøkkel] = {\"url\": url, \"hentet\": False}\n                    nye += 1\n            # Legg også hub-siden selv i køen\n            nøkkel = self._url_til_nokkel(hub_url)\n            if nøkkel not in kø:\n                kø[nøkkel] = {\"url\": hub_url, \"hentet\": False}\n                nye += 1\n\n        self._state[\"sist_hub_crawl\"] = self.now_iso()\n        self._lagre_state()\n        logger.info(\"Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)\", nye, len(kø))\n\n    def _hent_lenker_fra_side(self, url: str) -> list[str]:\n        \"\"\"Hent alle relevante innholdslenker fra en side.\"\"\"\n        page = self.fetch(url)\n        if not page:\n            return []\n\n        lenker = set()\n        for el in page.css(\"a[href]\"):\n            href = str(el.attrib.get(\"href\", \"\")).strip()\n            if not href:\n                continue\n            # Gjør relative lenker absolutte\n            if href.startswith(\"/\"):\n                href = f\"https://www.skatteetaten.no{href}\"\n            # Fjern anker og query\n            href = href.split(\"#\")[0].split(\"?\")[0].rstrip(\"/\") + \"/\"\n            if self._er_relevant_side(href):\n                lenker.add(href)\n\n        return sorted(lenker)\n\n    def _er_relevant_side(self, url: str) -> bool:\n        if not any(url.startswith(p) for p in _INKLUDER_PREFIKS):\n            return False\n        if _EKSKLUDER.search(url):\n            return False\n        # Ikke PDF eller andre filer\n        if re.search(r\"\\.(pdf|docx?|xlsx?|zip|png|jpg)$\", url, re.I):\n            return False\n        return True\n\n    @staticmethod\n    def _url_til_nokkel(url: str) -> str:\n        \"\"\"Lag en unik nøkkel av URL for state-fil.\"\"\"\n        return url.replace(\"https://www.skatteetaten.no/\", \"\").strip(\"/\")\n\n    # -------------------------------------------------------------------------\n    # Fase 2 – Hent innhold fra kø\n    # -------------------------------------------------------------------------\n\n    def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:\n        kø = self._state.get(\"kø\", {})\n        venter = [(k, v) for k, v in kø.items() if not v[\"hentet\"]]\n\n        if not venter:\n            logger.info(\"Skatteetaten: alle sider à jour\")\n            return []\n\n        logger.info(\"Skatteetaten: %d sider gjenstår, henter %d nå\",\n                    len(venter), min(len(venter), max_pages))\n\n        created = []\n        for nøkkel, meta in venter[:max_pages]:\n            path = self._hent_side(output_dir, nøkkel, meta[\"url\"])\n            if path:\n                created.append(path)\n            kø[nøkkel][\"hentet\"] = True\n            kø[nøkkel][\"sist_hentet\"] = self.now_iso()\n\n        self._lagre_state()\n        return created\n\n    def _hent_side(self, output_dir: Path, nøkkel: str, url: str) -> Path | None:\n        page = self.fetch(url)\n        if not page:\n            return None\n\n        tittel = self.hent_tittel(page)\n        if not tittel:\n            tittel = nøkkel.replace(\"/\", \" – \").replace(\"-\", \" \").title()\n\n        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)\n        if len(raa_innhold.strip()) < 100:\n            logger.warning(\"For lite innhold (%d tegn) for %s\", len(raa_innhold.strip()), url)\n            return None\n\n        oppdatert = \"\"\n        dato_el = self.css_first(page, \"time[datetime], .last-updated, [class*='updated']\")\n        if dato_el:\n            oppdatert = dato_el.attrib.get(\"datetime\", \"\") or str(dato_el.text or \"\")\n\n        # Bygg filsti fra URL-struktur\n        deler = [d for d in nøkkel.split(\"/\") if d]\n        target_dir = output_dir\n        for del_ in deler[:-1]:\n            target_dir = target_dir / del_\n        target_dir.mkdir(parents=True, exist_ok=True)\n        filnavn = deler[-1] if deler else \"index\"\n        filepath = target_dir / f\"{filnavn}.md\"\n\n        formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())\n        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None\n\n    def _formater(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:\n        return \"\\n\".join([\n            f\"# {tittel}\",\n            \"\",\n            \"## Kildeinformasjon\",\n            \"\",\n            f\"- **Kilde:** Skatteetaten – {url}\",\n            f\"- **Sist oppdatert (kilde):** {oppdatert or 'ukjent'}\",\n            f\"- **Sist hentet:** {self.now_iso()}\",\n            \"\",\n            \"## Innhold\",\n            \"\",\n            innhold,\n            \"\",\n            \"---\",\n            f\"*Automatisk hentet fra [Skatteetaten]({url}) av norges-lover-bot.*\",\n        ])\n\n    # -------------------------------------------------------------------------\n    # State\n    # -------------------------------------------------------------------------\n\n    def _les_state(self) -> dict:\n        if self._state_path and self._state_path.exists():\n            try:\n                return json.loads(self._state_path.read_text(encoding=\"utf-8\"))\n            except Exception:\n                pass\n        return {\"sist_hub_crawl\": \"\", \"kø\": {}}\n\n    def _lagre_state(self):\n        if not self._state_path:\n            return\n        self._state_path.parent.mkdir(parents=True, exist_ok=True)\n        self._state_path.write_text(\n            json.dumps(self._state, ensure_ascii=False, indent=2),\n            encoding=\"utf-8\",\n        )\n
+"""
+Scraper for Skatteetaten – crawler som følger lenker fra tematiske hubsider.
+
+Kjører i to faser:
+  1. Hub-crawl (én gang per 24t): Henter alle innholdslenker fra startpunktene
+     og lagrer dem i en state-fil
+  2. Innholdshenting: Prosesserer køen inntil max_pages per kjøring
+
+Kilde: https://www.skatteetaten.no
+"""
+
+import json
+import logging
+import re
+from pathlib import Path
+
+from .base import BaseScraper
+
+logger = logging.getLogger(__name__)
+
+HUB_CRAWL_INTERVALL_TIMER = 24
+
+# Startpunkter – én per tema. Crawleren følger lenker herfra automatisk.
+SKATT_STARTPUNKTER = [
+    "https://www.skatteetaten.no/satser/",
+    "https://www.skatteetaten.no/person/skatt/",
+    "https://www.skatteetaten.no/person/aksjer-og-verdipapirer/",
+    "https://www.skatteetaten.no/person/bolig-og-eiendom/",
+    "https://www.skatteetaten.no/person/arv-og-gaver/",
+    "https://www.skatteetaten.no/person/skattekort/",
+    "https://www.skatteetaten.no/person/skattemelding/",
+    "https://www.skatteetaten.no/person/utland/",
+    "https://www.skatteetaten.no/person/fradrag/",
+    "https://www.skatteetaten.no/person/selvstendig-naringsdrivende/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/mva/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/starte-bedrift/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/",
+    "https://www.skatteetaten.no/naringsdrivende/",
+]
+
+_EKSKLUDER = re.compile(
+    r"/(nn|en|se|kontakt|sok|login|logg-inn|om-skatteetaten|"
+    r"presse|kurs|arrangementer|sitemap|404|500|"
+    r"skjema|ettersendelse|klage)(/|$)",
+    re.IGNORECASE,
+)
+
+_INKLUDER_PREFIKS = (
+    "https://www.skatteetaten.no/person/",
+    "https://www.skatteetaten.no/bedrift-og-organisasjon/",
+    "https://www.skatteetaten.no/naringsdrivende/",
+    "https://www.skatteetaten.no/satser/",
+    "https://www.skatteetaten.no/rettskilder/",
+    "https://www.skatteetaten.no/tema/",
+)
+
+_INNHOLD_SELEKTORER = [
+    "main article",
+    "main",
+    "article",
+    "[role='main']",
+    ".article-content",
+    "#main-content",
+    ".page-content",
+]
+
+
+class SkatteetatenScraper(BaseScraper):
+    name = "skatteetaten"
+    source_url = "https://www.skatteetaten.no"
+
+    def __init__(self):
+        super().__init__()
+        self._state: dict = {}
+        self._state_path: Path | None = None
+
+    def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
+        output_dir.mkdir(parents=True, exist_ok=True)
+        self._state_path = output_dir / ".skatt-state.json"
+        self._state = self._les_state()
+
+        if self._bor_crawle_huber():
+            self._crawl_huber()
+
+        created = self._hent_fra_ko(output_dir, max_pages)
+        gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
+        logger.info("Skatteetaten: %d filer | %d gjenstår i kø", len(created), gjenstaar)
+        return created
+
+    def _bor_crawle_huber(self) -> bool:
+        sist = self._state.get("sist_hub_crawl", "")
+        if not sist:
+            return True
+        try:
+            from datetime import datetime, timezone
+            sist_tid = datetime.fromisoformat(sist.replace("Z", "+00:00"))
+            timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600
+            return timer >= HUB_CRAWL_INTERVALL_TIMER
+        except Exception:
+            return True
+
+    def _crawl_huber(self):
+        logger.info("Starter Skatteetaten hub-crawl...")
+        kø = self._state.setdefault("kø", {})
+        nye = 0
+
+        for hub_url in SKATT_STARTPUNKTER:
+            lenker = self._hent_lenker_fra_side(hub_url)
+            logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
+            for url in lenker:
+                nøkkel = self._url_til_nokkel(url)
+                if nøkkel not in kø:
+                    kø[nøkkel] = {"url": url, "hentet": False}
+                    nye += 1
+            nøkkel = self._url_til_nokkel(hub_url)
+            if nøkkel not in kø:
+                kø[nøkkel] = {"url": hub_url, "hentet": False}
+                nye += 1
+
+        self._state["sist_hub_crawl"] = self.now_iso()
+        self._lagre_state()
+        logger.info("Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)", nye, len(kø))
+
+    def _hent_lenker_fra_side(self, url: str) -> list[str]:
+        page = self.fetch(url)
+        if not page:
+            return []
+
+        lenker = set()
+        for el in page.css("a[href]"):
+            href = str(el.attrib.get("href", "")).strip()
+            if not href:
+                continue
+            if href.startswith("/"):
+                href = f"https://www.skatteetaten.no{href}"
+            href = href.split("#")[0].split("?")[0].rstrip("/") + "/"
+            if self._er_relevant_side(href):
+                lenker.add(href)
+
+        return sorted(lenker)
+
+    def _er_relevant_side(self, url: str) -> bool:
+        if not any(url.startswith(p) for p in _INKLUDER_PREFIKS):
+            return False
+        if _EKSKLUDER.search(url):
+            return False
+        if re.search(r"\.(pdf|docx?|xlsx?|zip|png|jpg)$", url, re.I):
+            return False
+        return True
+
+    @staticmethod
+    def _url_til_nokkel(url: str) -> str:
+        return url.replace("https://www.skatteetaten.no/", "").strip("/")
+
+    def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:
+        kø = self._state.get("kø", {})
+        venter = [(k, v) for k, v in kø.items() if not v["hentet"]]
+
+        if not venter:
+            logger.info("Skatteetaten: alle sider à jour")
+            return []
+
+        logger.info("Skatteetaten: %d sider gjenstår, henter %d nå",
+                    len(venter), min(len(venter), max_pages))
+
+        created = []
+        for nøkkel, meta in venter[:max_pages]:
+            path = self._hent_side(output_dir, nøkkel, meta["url"])
+            if path:
+                created.append(path)
+            kø[nøkkel]["hentet"] = True
+            kø[nøkkel]["sist_hentet"] = self.now_iso()
+
+        self._lagre_state()
+        return created
+
+    def _hent_side(self, output_dir: Path, nøkkel: str, url: str) -> Path | None:
+        page = self.fetch(url)
+        if not page:
+            return None
+
+        tittel = self.hent_tittel(page)
+        if not tittel:
+            tittel = nøkkel.replace("/", " – ").replace("-", " ").title()
+
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
+        if len(raa_innhold.strip()) < 100:
+            logger.warning("For lite innhold (%d tegn) for %s", len(raa_innhold.strip()), url)
+            return None
+
+        oppdatert = ""
+        dato_el = self.css_first(page, "time[datetime], .last-updated, [class*='updated']")
+        if dato_el:
+            oppdatert = dato_el.attrib.get("datetime", "") or str(dato_el.text or "")
+
+        deler = [d for d in nøkkel.split("/") if d]
+        target_dir = output_dir
+        for del_ in deler[:-1]:
+            target_dir = target_dir / del_
+        target_dir.mkdir(parents=True, exist_ok=True)
+        filnavn = deler[-1] if deler else "index"
+        filepath = target_dir / f"{filnavn}.md"
+
+        formatert = self._formater(tittel, raa_innhold, url, oppdatert.strip())
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
+
+    def _formater(self, tittel: str, innhold: str, url: str, oppdatert: str) -> str:
+        return "\n".join([
+            f"# {tittel}",
+            "",
+            "## Kildeinformasjon",
+            "",
+            f"- **Kilde:** Skatteetaten – {url}",
+            f"- **Sist oppdatert (kilde):** {oppdatert or 'ukjent'}",
+            f"- **Sist hentet:** {self.now_iso()}",
+            "",
+            "## Innhold",
+            "",
+            innhold,
+            "",
+            "---",
+            f"*Automatisk hentet fra [Skatteetaten]({url}) av norges-lover-bot.*",
+        ])
+
+    def _les_state(self) -> dict:
+        if self._state_path and self._state_path.exists():
+            try:
+                return json.loads(self._state_path.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+        return {"sist_hub_crawl": "", "kø": {}}
+
+    def _lagre_state(self):
+        if not self._state_path:
+            return
+        self._state_path.parent.mkdir(parents=True, exist_ok=True)
+        self._state_path.write_text(
+            json.dumps(self._state, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
