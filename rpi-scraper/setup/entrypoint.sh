@@ -1,14 +1,19 @@
 #!/bin/bash
 # Entrypoint for Docker-container.
 #
-# /repo behandles som en DEPLOY-mappe, ikke en utviklingsmappe:
-# vi tvinger den til å matche origin/main eksakt ved hver oppstart.
-# Dette unngår at uncommitted scraper-output (mid-run) eller divergerende
-# lokale commits stopper kode-oppdatering. Bot-en pusher data fortløpende
-# under run, så reset --hard mister ikke noe som har verdi.
+# Kjører en evig løkke som:
+#   1. Henter siste kode fra origin/main
+#   2. Kjører én full scraping-runde
+#   3. Sover INTERVALL_TIMER timer
+#   4. Gjentar
+#
+# På denne måten plukkes nye kode-endringer opp automatisk
+# uten at noen trenger å røre Pi-en.
 set -euo pipefail
 
 REPO_DIR="${REPO_ROOT:-/repo}"
+INTERVALL_TIMER="${SCRAPER_INTERVALL:-6}"
+INTERVALL_SEK=$(( INTERVALL_TIMER * 3600 ))
 
 if [ -z "${GITHUB_TOKEN:-}" ]; then
     echo "FEIL: GITHUB_TOKEN er ikke satt. Sett den i .env-filen."
@@ -28,20 +33,26 @@ fi
 cd "$REPO_DIR"
 git remote set-url origin "$REMOTE"
 
-# --- Tving full sync til origin/main ---
-echo "Henter origin/main..."
-git fetch origin main -q
+echo "Starter scraper-løkke (intervall: ${INTERVALL_TIMER}t)"
 
-# Rydd uncommitted endringer (mid-run scraper-output som vil regenereres)
-git reset --hard -q
-git clean -fd -q
+while true; do
+    echo ""
+    echo "=== $(date -u '+%Y-%m-%d %H:%M UTC') – henter ny kode fra origin/main ==="
 
-# Hopp til origin/main eksakt – overstyrer divergerende lokale commits
-git checkout -B main origin/main -q
+    # Tving full sync til origin/main – plukker opp alle kode-endringer
+    git fetch origin main -q
+    git reset --hard -q
+    git clean -fd -q
+    git checkout -B main origin/main -q
 
-echo "Repo klar: $(git rev-parse --abbrev-ref HEAD) @ $(git rev-parse --short HEAD)"
+    echo "Kode: $(git rev-parse --short HEAD) – $(git log -1 --format='%s')"
 
-# Kjør koden direkte fra repo – sikrer alltid fersk versjon uten rebuild
-cd "$REPO_DIR/rpi-scraper"
-echo "Starter scraper: python main.py $*"
-exec python main.py "$@"
+    # Kjør én full scraping-runde
+    cd "$REPO_DIR/rpi-scraper"
+    python main.py || echo "ADVARSEL: scraper returnerte feil, fortsetter løkken"
+
+    echo "Sover ${INTERVALL_TIMER} timer til neste kjøring..."
+    sleep "$INTERVALL_SEK"
+
+    cd "$REPO_DIR"
+done
