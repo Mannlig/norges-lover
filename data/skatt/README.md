@@ -2,21 +2,100 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-05-11 14:37 UTC*
+*Sist oppdatert: 2026-05-11 22:11 UTC*
 
-**Antall dokumenter:** 90
+**Antall dokumenter:** 178
 
 ## Innhold
 
+- [Bedrift og organisasjon](bedrift-og-organisasjon.md)
+- [Person](person.md)
 - [Tabeller og satser](satser.md)
 
 ### Bedrift Og Organisasjon
 
+- [Frister og betaling i a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/frister-og-betaling-i-a-meldingen.md)
+- [A-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen.md)
+- [Arbeidsgiveravgift](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift.md)
+- [Barnehageplass finansiert av arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/arbeidsgivers-tilskudd-til-barnehage-som-ikke-er-bedriftsbarnehage.md)
+- [Filmer med tips for deg som er arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/film-om-skatt.md)
+- [Lag KID når du er arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/lag-kid-nar-du-er-arbeidsgiver.md)
+- [Regn om fra nettolønn til bruttolønn](bedrift-og-organisasjon/arbeidsgiver/omregning-fra-nettolonn-til-bruttolonn.md)
+- [OTP - Obligatorisk tjenestepensjon](bedrift-og-organisasjon/arbeidsgiver/otp---obligatorisk-tjenestepensjon.md)
+- [Personalliste](bedrift-og-organisasjon/arbeidsgiver/personalliste.md)
+- [Rollen som arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/rollen-som-arbeidsgiver.md)
+- [Skattekort og skattetrekk](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk.md)
+- [Solidaransvar ved utleie av arbeidskraft](bedrift-og-organisasjon/arbeidsgiver/solidaransvar.md)
+- [Arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver.md)
+- [Mva-melding: Se, endre og levere](bedrift-og-organisasjon/avgifter/mva/mva-melding.md)
 - [Dokumentavgift](bedrift-og-organisasjon/avgifter/saravgifter/om/dokumentavgift.md)
+- [Trekk i lønn hos ansatte](bedrift-og-organisasjon/betaling-og-innkreving/tema/trekk-i-lonn-hos-ansatte.md)
+- [Aksjonærregisteroppgaven](bedrift-og-organisasjon/rapportering-og-bransjer/aksjonarregisteroppgaven.md)
+- [Billedkunstnere med egen bedrift](bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/kunst-og-kultur/billedkunstnere.md)
+- [Særskilt registrering for overnattings- og serveringssteder](bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/transport-overnatting-service/sarskilt-registrering-overnattings-og-serveringssteder.md)
+- [Transport, overnatting og service](bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/transport-overnatting-service.md)
+- [Bransjer med egne regler](bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler.md)
+- [Finansskatt](bedrift-og-organisasjon/rapportering-og-bransjer/finansskatt.md)
+- [Rapportere i Oppdrags- og arbeidsforholdsregisteret (OAR)](bedrift-og-organisasjon/rapportering-og-bransjer/rapportere-i-oppdrags--og-arbeidsforholdsregisteret-oar.md)
+- [Suppleringsskatt](bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt.md)
+- [Tredjepartsopplysninger](bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger.md)
+- [Rapportering og bransjer](bedrift-og-organisasjon/rapportering-og-bransjer.md)
+- [Forskuddsskatt](bedrift-og-organisasjon/skatt/forskuddsskatt.md)
+- [Bitcoin og andre virtuelle eiendeler](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/digitale-plattformer-delingsokonomi/bitcoin-virtuell-valuta.md)
+- [Tema og fradrag for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag.md)
+- [Skattemelding for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende.md)
+- [Skatteoppgjør for næringsdrivende](bedrift-og-organisasjon/skatt/skatteoppgjor.md)
+- [Skatt for bedrift og organisasjon](bedrift-og-organisasjon/skatt.md)
+- [Arbeidstaker eller næringsdrivende?](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/arbeidstaker-eller-naringsdrivende.md)
+- [Eksempel på hvordan hobby kan bli næring: Hester og travsport](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/eksempel-hester-og-travsport.md)
+- [Er jeg næringsdrivende?](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende.md)
+- [Frister og oppgaver for næringsdrivende](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver.md)
+- [Starte, drive og avslutte bedrift](bedrift-og-organisasjon/starte-og-drive.md)
 
 ### Person
 
+- [Aksjer og verdipapirer](person/aksjer-og-verdipapirer.md)
+- [Se dine personlige krav og betalinger](person/betaling-og-innkreving/om-innkreving/generelt/se-krav-og-betalinger.md)
+- [Arbeidsfradrag for unge](person/skatt/arbeidsfradrag.md)
+- [Gi eller få tilgang til skatteforhold](person/skatt/delegere.md)
+- [Aksjesparekonto (ASK)](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/aksjesparekonto-ask.md)
+- [Aksjonærmodellen](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/aksjonarmodellen.md)
+- [Beskatning av andeler i verdipapirfond](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/beskatning-av-andeler-i-verdipapirfond.md)
+- [Du eide aksjer og/eller andre finansprodukter i løpet av 2025](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/du-eide-aksjer-og-eller-andre-finansprodukter-i-lopet-av-aret.md)
+- [Slik fastsetter du inngangsverdien på aksjene dine](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/fastsette-inngangsverdien.md)
+- [Skattepliktig lån til personlig aksjonær](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/lan-til-personlig-aksjonar.md)
+- [Obligasjoner](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/obligasjoner.md)
+- [Redusert kildeskatt på aksjeutbytte for utenlandske aksjonærer](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/redusert-kildeskatt-pa-aksjeutbytte.md)
+- [Inntektsfradrag ved investering i oppstartselskap (aksjeselskap) - skatteinsentivordningen](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/skatteinsentivordningen.md)
+- [Skatteregler (skjermingsregler) for gevinst/tap ved realisasjoner og aksjeutbytte](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/skatteregler-for-gevinsttap-ved-realisasjoner-og-aksjeutbytte.md)
+- [Fondskonto](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/skatteregler-investere-i-aksjer-og-andre-verdipapirer-gjennom-kapitalforsikring-fondskonto.md)
+- [Søk i RISK-registeret](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/sok-i-risk-registeret.md)
+- [Utenlandske aksjer og andre finansprodukter](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/utenlandske-aksjer-og-andre-finansprodukter.md)
+- [Virtuelle eiendeler (kryptovaluta med mer)](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta.md)
+- [Aksjer og verdipapirer](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer.md)
+- [Arbeid, trygd og pensjon](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon.md)
+- [Bank og lån](person/skatt/hjelp-til-riktig-skatt/bank-og-lan.md)
+- [Bolig og eiendeler](person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler.md)
+- [Familie og helse](person/skatt/hjelp-til-riktig-skatt/familie-og-helse.md)
+- [Fradragsveilederen](person/skatt/hjelp-til-riktig-skatt/fradragsveilederen.md)
 - [Arveavgift er fjernet](person/skatt/hjelp-til-riktig-skatt/gave-og-arv/arveavgift-er-fjernet.md)
+- [Gave og arv](person/skatt/hjelp-til-riktig-skatt/gave-og-arv.md)
+- [Når livet endrer seg, vil ofte også skatten endres](person/skatt/hjelp-til-riktig-skatt/skatt-nar-noe-skjer-i-livet.md)
+- [Skatt på 1-2-3](person/skatt/hjelp-til-riktig-skatt/skatt123.md)
+- [Jobb og skatt for deg som er ung](person/skatt/hjelp-til-riktig-skatt/ungdom-arbeid-og-skatt.md)
+- [Skatt når du har inntekter og eiendeler i utlandet. Skatt når du flytter til eller fra Norge](person/skatt/hjelp-til-riktig-skatt/utland.md)
+- [Verdsettingsrabatt ved fastsetting av formue](person/skatt/hjelp-til-riktig-skatt/verdsettingsrabatt-ved-fastsetting-av-formue.md)
+- [Hjelp til å få riktig skatt](person/skatt/hjelp-til-riktig-skatt.md)
+- [Datoer og frister for person](person/skatt/skattekalender.md)
+- [Skattekalkulator](person/skatt/skattekalkulator.md)
+- [Forskuddsskatt for privatpersoner](person/skatt/skattekort/forskuddsskatt.md)
+- [Skattekort, frikort og forskuddsskatt](person/skatt/skattekort.md)
+- [Skattemeldingen – se, endre eller levere](person/skatt/skattemelding/skattemelding-for-person.md)
+- [Skattemelding](person/skatt/skattemelding.md)
+- [Restskatt – må betale penger](person/skatt/skatteoppgjor/restskatt.md)
+- [Se skatteoppgjøret ditt](person/skatt/skatteoppgjor/se-skatteoppgjoret-ditt.md)
+- [Skatteoppgjør](person/skatt/skatteoppgjor.md)
+- [Skatt for person](person/skatt.md)
 
 ### Satser
 
@@ -106,6 +185,15 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Skjermingsrente for aksjer og enkeltpersonforetak](satser/skjermingsrente-for-aksjer-og-enkeltpersonforetak.md)
 - [Skjermingsrente for ekstra skatt på lån](satser/skjermingsrente-for-ekstra-skatt-pa-lan.md)
 - [Tobakksavgift](satser/tobakk.md)
+- [Toppskatt](satser/toppskatt.md)
+- [Trekktabeller i tekstformat](satser/trekktabeller-i-tekstformat.md)
+- [Trinnskatt](satser/trinnskatt.md)
+- [Trygdeavgift](satser/trygdeavgift.md)
+- [Veibruksavgift på drivstoff](satser/veibruksavgift.md)
+- [Vektårsavgift for vogntog (tunge kjøretøy som trekker tilhenger)](satser/vektarsavgift-tilhenger.md)
+- [Vektårsavgift](satser/vektarsavgift.md)
+- [Viltlevende marine ressurser](satser/viltlevende-marine-ressurser.md)
+- [Vrakpant](satser/vrakpant.md)
 
 ### Veiledere
 
