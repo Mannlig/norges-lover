@@ -14,72 +14,46 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 API_BASE = "https://data.stortinget.no/eksport"
-JSON_PARAM = {"format": "json"}
+_JSON = {"format": "json"}
 
 
 class StortingetScraper(BaseScraper):
     name = "stortinget"
     source_url = "https://data.stortinget.no"
 
-    @staticmethod
-    def _liste(data: dict | list, ytre_nokkel: str, indre_nokkel: str = "") -> list:
-        """
-        Stortinget-API returnerer iblant {ytre: [...]} og iblant {ytre: {indre: [...]}}.
-        Denne hjelperen finner lista uansett shape.
-        """
-        if isinstance(data, list):
-            return data
-        if not isinstance(data, dict):
-            return []
-        ytre = data.get(ytre_nokkel, [])
-        if isinstance(ytre, list):
-            return ytre
-        if isinstance(ytre, dict):
-            if indre_nokkel and indre_nokkel in ytre:
-                return ytre[indre_nokkel] if isinstance(ytre[indre_nokkel], list) else []
-            # Fallback: ta første liste-verdi
-            for v in ytre.values():
-                if isinstance(v, list):
-                    return v
-        return []
-
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        created = []
-        created += self._hent_saker(output_dir, max_pages)
-        created += self._hent_lover(output_dir, max_pages)
-        return created
+        return self._hent_saker(output_dir, max_pages)
 
     def _hent_saker(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
-        data = self.get_json(f"{API_BASE}/stortingsperioder", params=JSON_PARAM)
+        data = self.get_json(f"{API_BASE}/stortingsperioder", _JSON)
         if not data:
             return created
 
-        perioder = self._liste(data, "stortingsperioder_liste", "stortingsperiode")
+        perioder = data.get("stortingsperioder_liste", {}).get("stortingsperiode", [])
         if not perioder:
             return created
 
-        siste_periode = perioder[-1].get("id", "")
+        siste_periode = perioder[0].get("id", "")  # API returnerer nyeste periode først
         logger.info("Henter saker fra periode: %s", siste_periode)
 
-        data = self.get_json(f"{API_BASE}/saker", params={
+        data = self.get_json(f"{API_BASE}/saker", {**_JSON,
             "stortingsperiodeid": siste_periode,
             "antall": 100,
             "start": 0,
-            "format": "json",
         })
         if not data:
             return created
 
-        saker = self._liste(data, "saker_liste", "sak")
+        saker = data.get("saker_liste", {}).get("sak", [])
         count = 0
         for sak in saker:
             if count >= max_pages:
                 break
             sak_id = sak.get("id", "")
             tittel = sak.get("tittel", "ukjent")
-            saktype = str(sak.get("type", "")).lower()
+            saktype = sak.get("type", "").lower()
             if saktype not in ("lovsak", "proposisjon", "melding"):
                 continue
 
@@ -89,26 +63,6 @@ class StortingetScraper(BaseScraper):
                 count += 1
 
         logger.info("Stortinget: %d saker behandlet", count)
-        return created
-
-    def _hent_lover(self, output_dir: Path, max_pages: int) -> list[Path]:
-        created = []
-        data = self.get_json(f"{API_BASE}/lovsaker", params={
-            "antall": min(max_pages, 100),
-            "start": 0,
-            "format": "json",
-        })
-        if not data:
-            return created
-
-        lovsaker = self._liste(data, "lovsaker_liste", "lovsak")
-        for lov in lovsaker[:max_pages]:
-            sak_id = lov.get("id", "")
-            tittel = lov.get("tittel", "ukjent")
-            path = self._lagre_sak(output_dir / "lovsaker", sak_id, tittel, lov, periode="")
-            if path:
-                created.append(path)
-
         return created
 
     def _lagre_sak(
