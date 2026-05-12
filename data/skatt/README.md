@@ -2,13 +2,14 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-05-11 22:11 UTC*
+*Sist oppdatert: 2026-05-12 04:41 UTC*
 
-**Antall dokumenter:** 178
+**Antall dokumenter:** 190
 
 ## Innhold
 
 - [Bedrift og organisasjon](bedrift-og-organisasjon.md)
+- [Er jeg næringsdrivende?](naringsdrivende.md)
 - [Person](person.md)
 - [Tabeller og satser](satser.md)
 
@@ -48,8 +49,13 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Skatt for bedrift og organisasjon](bedrift-og-organisasjon/skatt.md)
 - [Arbeidstaker eller næringsdrivende?](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/arbeidstaker-eller-naringsdrivende.md)
 - [Eksempel på hvordan hobby kan bli næring: Hester og travsport](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/eksempel-hester-og-travsport.md)
+- [Eksempel på hvordan hobby kan bli næring: Lefseproduksjon](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/eksempel-lefseproduksjon.md)
+- [Eksempel på hvordan hobby kan bli næring: Verksted](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/eksempel-verksted.md)
 - [Er jeg næringsdrivende?](bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende.md)
 - [Frister og oppgaver for næringsdrivende](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver.md)
+- [Tilleggsskatt](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/tilleggsskatt.md)
+- [Kom i gang med ditt nye enkeltpersonforetak](bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/nytt-enk.md)
+- [Oppstartsperiode og oppstartskostnader for nye næringsdrivende](bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/oppstartsperiode.md)
 - [Starte, drive og avslutte bedrift](bedrift-og-organisasjon/starte-og-drive.md)
 
 ### Person
@@ -73,8 +79,14 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Utenlandske aksjer og andre finansprodukter](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/utenlandske-aksjer-og-andre-finansprodukter.md)
 - [Virtuelle eiendeler (kryptovaluta med mer)](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta.md)
 - [Aksjer og verdipapirer](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer.md)
+- [Delingsøkonomi](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/delingsokonomi.md)
+- [Fritidsfiske](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/fritidsfiske.md)
+- [E-sport (gaming)](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/inntekter-fra-e-sport-gaming.md)
+- [Småjobber og tjenester](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/smajobber-og-tjenester.md)
+- [Aktivitet på sosiale medier og internett](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/sosiale-medier.md)
 - [Arbeid, trygd og pensjon](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon.md)
 - [Bank og lån](person/skatt/hjelp-til-riktig-skatt/bank-og-lan.md)
+- [Skatt når du leier ut bolig og eiendom](person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/utleie.md)
 - [Bolig og eiendeler](person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler.md)
 - [Familie og helse](person/skatt/hjelp-til-riktig-skatt/familie-og-helse.md)
 - [Fradragsveilederen](person/skatt/hjelp-til-riktig-skatt/fradragsveilederen.md)
