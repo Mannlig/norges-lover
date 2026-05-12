@@ -2,7 +2,7 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-05-12 04:41 UTC*
+*Sist oppdatert: 2026-05-12 11:24 UTC*
 
 **Antall dokumenter:** 19
 
@@ -12,12 +12,12 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Alderspensjon
 
-- [Alderspensjon](alderspensjon/om.md)
+- [Alderspensjon - nav.no](alderspensjon/om.md)
 
 ### Barnetrygd
 
-- [Barnetrygd](barnetrygd/om.md)
-- [Barnetrygd](barnetrygd/satser.md)
+- [Barnetrygd - nav.no](barnetrygd/om.md)
+- [Barnetrygd - nav.no](barnetrygd/satser.md)
 
 ### Bostotte
 
@@ -25,47 +25,47 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Dagpenger
 
-- [Dagpenger](dagpenger/om-dagpenger.md)
-- [Dagpenger](dagpenger/satser.md)
+- [Dagpenger - nav.no](dagpenger/om-dagpenger.md)
+- [Dagpenger - nav.no](dagpenger/satser.md)
 
 ### Foreldrepenger
 
-- [Foreldrepenger](foreldrepenger/om.md)
-- [Foreldrepenger](foreldrepenger/satser.md)
+- [Foreldrepenger - nav.no](foreldrepenger/om.md)
+- [Foreldrepenger - nav.no](foreldrepenger/satser.md)
 
 ### Gravid
 
-- [Svangerskapspenger](gravid/svangerskapspenger.md)
+- [Svangerskapspenger - nav.no](gravid/svangerskapspenger.md)
 
 ### Hjelpemidler
 
-- [Hjelpemidler og tilrettelegging](hjelpemidler/om.md)
+- [Hjelpemidler og tilrettelegging - nav.no](hjelpemidler/om.md)
 
 ### Kontantstotte
 
-- [Kontantstøtte](kontantstotte/om.md)
+- [Kontantstøtte - nav.no](kontantstotte/om.md)
 
 ### Omsorgspenger
 
-- [Omsorgspenger (hjemme med sykt barn-dager)](omsorgspenger/om.md)
+- [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](omsorgspenger/om.md)
 
 ### Overgangsstonad
 
-- [Overgangsstønad til enslig mor eller far](overgangsstonad/om.md)
+- [Overgangsstønad til enslig mor eller far - nav.no](overgangsstonad/om.md)
 
 ### Sosialhjelp
 
-- [Økonomisk sosialhjelp](sosialhjelp/om.md)
+- [Økonomisk sosialhjelp - nav.no](sosialhjelp/om.md)
 
 ### Sykepenger
 
-- [Sykepenger](sykepenger/arbeidsgivere.md)
-- [Sykepenger](sykepenger/om-sykepenger.md)
+- [Sykepenger - nav.no](sykepenger/arbeidsgivere.md)
+- [Sykepenger - nav.no](sykepenger/om-sykepenger.md)
 
 ### Uforetrygd
 
-- [Uføretrygd](uforetrygd/om.md)
-- [Uføretrygd](uforetrygd/satser.md)
+- [Uføretrygd - nav.no](uforetrygd/om.md)
+- [Uføretrygd - nav.no](uforetrygd/satser.md)
 
 ---
 

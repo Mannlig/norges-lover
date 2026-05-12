@@ -1,12 +1,12 @@
-<!-- innholds-hash: ba37c465084a2bdec93f58722fce9ab7900a269df821ac7ce291084da8c66d29 -->
+<!-- innholds-hash: 93c5ee1ed4e6a856f90b7b59211431ce08da3b6518c8d550763371417a866e63 -->
 
-# Foreldrepenger
+# Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-10T05:39:04Z
+- **Sist hentet:** 2026-05-12T11:16:38Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/foreldrepenger) for oppdaterte tall.
@@ -1390,7 +1390,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -1400,7 +1400,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -1414,3 +1414,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-08** Innhold endret (se git-historikk for diff)
 - **2026-05-09** Innhold endret (se git-historikk for diff)
 - **2026-05-10** Innhold endret (se git-historikk for diff)
+- **2026-05-12** Innhold endret (se git-historikk for diff)

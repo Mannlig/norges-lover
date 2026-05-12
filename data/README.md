@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-12 04:41 UTC*
+*Sist oppdatert: 2026-05-12 11:24 UTC*
 
 **Antall dokumenter:** 313
 
@@ -120,25 +120,25 @@ Lovdata
 
 ### Nav
 
-- [Alderspensjon](nav/alderspensjon/om.md)
-- [Barnetrygd](nav/barnetrygd/om.md)
-- [Barnetrygd](nav/barnetrygd/satser.md)
+- [Alderspensjon - nav.no](nav/alderspensjon/om.md)
+- [Barnetrygd - nav.no](nav/barnetrygd/om.md)
+- [Barnetrygd - nav.no](nav/barnetrygd/satser.md)
 - [Bostøtte](nav/bostotte/om.md)
-- [Dagpenger](nav/dagpenger/om-dagpenger.md)
-- [Dagpenger](nav/dagpenger/satser.md)
-- [Foreldrepenger](nav/foreldrepenger/om.md)
-- [Foreldrepenger](nav/foreldrepenger/satser.md)
-- [Svangerskapspenger](nav/gravid/svangerskapspenger.md)
+- [Dagpenger - nav.no](nav/dagpenger/om-dagpenger.md)
+- [Dagpenger - nav.no](nav/dagpenger/satser.md)
+- [Foreldrepenger - nav.no](nav/foreldrepenger/om.md)
+- [Foreldrepenger - nav.no](nav/foreldrepenger/satser.md)
+- [Svangerskapspenger - nav.no](nav/gravid/svangerskapspenger.md)
 - [Grunnbeløpet i folketrygden](nav/grunnbelop.md)
-- [Hjelpemidler og tilrettelegging](nav/hjelpemidler/om.md)
-- [Kontantstøtte](nav/kontantstotte/om.md)
-- [Omsorgspenger (hjemme med sykt barn-dager)](nav/omsorgspenger/om.md)
-- [Overgangsstønad til enslig mor eller far](nav/overgangsstonad/om.md)
-- [Økonomisk sosialhjelp](nav/sosialhjelp/om.md)
-- [Sykepenger](nav/sykepenger/arbeidsgivere.md)
-- [Sykepenger](nav/sykepenger/om-sykepenger.md)
-- [Uføretrygd](nav/uforetrygd/om.md)
-- [Uføretrygd](nav/uforetrygd/satser.md)
+- [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler/om.md)
+- [Kontantstøtte - nav.no](nav/kontantstotte/om.md)
+- [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](nav/omsorgspenger/om.md)
+- [Overgangsstønad til enslig mor eller far - nav.no](nav/overgangsstonad/om.md)
+- [Økonomisk sosialhjelp - nav.no](nav/sosialhjelp/om.md)
+- [Sykepenger - nav.no](nav/sykepenger/arbeidsgivere.md)
+- [Sykepenger - nav.no](nav/sykepenger/om-sykepenger.md)
+- [Uføretrygd - nav.no](nav/uforetrygd/om.md)
+- [Uføretrygd - nav.no](nav/uforetrygd/satser.md)
 
 ### Skatt
 
