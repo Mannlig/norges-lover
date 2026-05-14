@@ -1,4 +1,4 @@
-<!-- innholds-hash: 66e681299568d6e7d1c806d594b5b1bdb83226722a6f462e31f9829a74fd553f -->
+<!-- innholds-hash: 53c8aa13ab3c7f63df7a370f50fc544be493828381bf49dae55f4bff464fac72 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T13:04:08Z
+- **Sist hentet:** 2026-05-14T02:01:11Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/omsorgspenger) for oppdaterte tall.
@@ -467,7 +467,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -477,7 +477,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -494,3 +494,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)

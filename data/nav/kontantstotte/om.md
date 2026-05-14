@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce4293cbbfebce3a34cb5eecaa29faebdbd952b12e9e5704e07d29dbc40f969f -->
+<!-- innholds-hash: 12d1ebd63451bf6998f2fe9916e6971630aabf0336f5b4667b75f06868734116 -->
 
 # Kontantstøtte - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T19:34:11Z
+- **Sist hentet:** 2026-05-14T01:56:41Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/kontantstotte) for oppdaterte tall.
@@ -272,7 +272,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -282,7 +282,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -300,3 +300,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)

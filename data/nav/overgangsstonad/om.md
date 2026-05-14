@@ -1,4 +1,4 @@
-<!-- innholds-hash: 38b435770895df1ad2be3be9696b4016b1a3dd0ed6c85bd8a99bf9f44adf7d20 -->
+<!-- innholds-hash: f81c1dd0ce23a920d5c0ce11c7142930527c6122f6dc6a7b29e092f75af3bd4f -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T13:03:35Z
+- **Sist hentet:** 2026-05-14T02:00:42Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/overgangsstonad-enslig) for oppdaterte tall.
@@ -529,7 +529,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -539,7 +539,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -556,3 +556,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 444de478a400c3ce8aead2026919d4338fad908792e9c65b945eba994d52ded7 -->
+<!-- innholds-hash: 7e3ce24c4994347c9de8045ecd9f0ccf72d55795534a5cf65d697d645f863f1a -->
 
 # Dagpenger - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T19:30:10Z
+- **Sist hentet:** 2026-05-14T01:52:44Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/dagpenger) for oppdaterte tall.
@@ -1043,7 +1043,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1053,7 +1053,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1071,3 +1071,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6adc3c0bac83e003006e4e90ca5e5f7d48e526cdc3614ef19d8e148542bf7aa0 -->
+<!-- innholds-hash: e4fddb1c090c216244676f9eefb2903365e53e979d2d0d9483bbc3d243e7cb29 -->
 
 # Sykepenger - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T19:31:38Z
+- **Sist hentet:** 2026-05-14T01:54:13Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/sykepenger) for oppdaterte tall.
@@ -987,7 +987,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -997,7 +997,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1015,3 +1015,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)

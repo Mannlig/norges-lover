@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8a338519d38c4ab88a5ba403187e2bd3bf5933031b78ec7a413067c4b19cfc16 -->
+<!-- innholds-hash: d306e2beee7ae553a846a98813e0b09ac211e7ea5f2a2517626f614e6791c17d -->
 
 # Svangerskapspenger - nav.no
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/svangerskapspenger
 - **Kategori:** Stønader og ytelser
-- **Sist hentet:** 2026-05-13T13:05:13Z
+- **Sist hentet:** 2026-05-14T02:02:12Z
 
 > **Merk:** Satser endres normalt 1. mai ved G-regulering.
 > Sjekk alltid [nav.no](https://www.nav.no/svangerskapspenger) for oppdaterte tall.
@@ -590,7 +590,7 @@ Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -600,7 +600,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -617,3 +617,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-12** Innhold endret (se git-historikk for diff)
 - **2026-05-13** Innhold endret (se git-historikk for diff)
+- **2026-05-14** Innhold endret (se git-historikk for diff)
