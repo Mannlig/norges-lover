@@ -1,10 +1,10 @@
 """
-Scraper for Skatteetaten – crawler som følger lenker fra tematiske hubsider.
+Scraper for Skatteetaten – rekursiv crawler som følger alle lenker.
 
 Kjører i to faser:
-  1. Hub-crawl (én gang per 24t): Henter alle innholdslenker fra startpunktene
-     og lagrer dem i en state-fil
-  2. Innholdshenting: Prosesserer køen inntil max_pages per kjøring
+  1. Hub-crawl (én gang per 24t): Seed-køen fra 16 tematiske startpunkter
+  2. Innholdshenting: Prosesserer køen og legger nye lenker til fra hver side
+     som besøkes – crawlen vokser rekursivt til hele nettstedet er dekt.
 
 Kilde: https://www.skatteetaten.no
 """
@@ -20,7 +20,6 @@ logger = logging.getLogger(__name__)
 
 HUB_CRAWL_INTERVALL_TIMER = 24
 
-# Startpunkter – én per tema. Crawleren følger lenker herfra automatisk.
 SKATT_STARTPUNKTER = [
     "https://www.skatteetaten.no/satser/",
     "https://www.skatteetaten.no/person/skatt/",
@@ -123,8 +122,9 @@ class SkatteetatenScraper(BaseScraper):
         self._lagre_state()
         logger.info("Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)", nye, len(kø))
 
-    def _hent_lenker_fra_side(self, url: str) -> list[str]:
-        page = self.fetch(url)
+    def _hent_lenker_fra_side(self, url: str, page=None) -> list[str]:
+        if page is None:
+            page = self.fetch(url)
         if not page:
             return []
 
@@ -180,6 +180,13 @@ class SkatteetatenScraper(BaseScraper):
         page = self.fetch(url)
         if not page:
             return None
+
+        # Rekursiv crawling: legg nye lenker fra denne siden i køen
+        kø = self._state.get("kø", {})
+        for lenke_url in self._hent_lenker_fra_side(url, page=page):
+            lenke_nøkkel = self._url_til_nokkel(lenke_url)
+            if lenke_nøkkel not in kø:
+                kø[lenke_nøkkel] = {"url": lenke_url, "hentet": False}
 
         tittel = self.hent_tittel(page)
         if not tittel:

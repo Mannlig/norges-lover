@@ -17,6 +17,7 @@ Miljøvariabler som MÅ settes:
 
 import argparse
 import logging
+import os
 import sys
 import time
 from pathlib import Path
@@ -121,19 +122,22 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
 
 
 def daemon_modus(intervall_timer: int = 6):
-    """Kjør kontinuerlig med angitt intervall (timer)."""
+    """Kjør én runde, sov, restart prosessen for å laste ny kode."""
     publisher = GitHubPublisher()
     logger.info("Daemon-modus: kjører hvert %d time(r)", intervall_timer)
 
-    while True:
-        try:
-            en_kjoring(publisher=publisher)
-        except Exception as e:
-            logger.error("Uventet feil i daemon-løkke: %s", e, exc_info=True)
+    try:
+        en_kjoring(publisher=publisher)
+    except Exception as e:
+        logger.error("Uventet feil i daemon-løkke: %s", e, exc_info=True)
 
-        neste = intervall_timer * 3600
-        logger.info("Sover %d timer til neste kjøring...", intervall_timer)
-        time.sleep(neste)
+    neste = intervall_timer * 3600
+    logger.info("Sover %d timer til neste kjøring...", intervall_timer)
+    time.sleep(neste)
+
+    # Restart Python-prosessen – laster ny kode fra disk (git pull skjer i neste en_kjoring)
+    logger.info("Restarter for å laste eventuelle kode-endringer...")
+    os.execv(sys.executable, [sys.executable] + sys.argv)
 
 
 def main():
