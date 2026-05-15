@@ -18,6 +18,7 @@ Miljøvariabler som MÅ settes:
 import argparse
 import logging
 import os
+import subprocess
 import sys
 import time
 from pathlib import Path
@@ -121,7 +122,46 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
     logger.info("=== Kjøring fullført ===")
 
 
-def daemon_modus(intervall_timer: int = 6):
+_SJEKK_INTERVALL = 600  # sekunder mellom kode-sjekker under søvn
+
+
+def _git_sha(ref: str = "HEAD") -> str:
+    try:
+        return subprocess.check_output(
+            ["git", "rev-parse", ref], stderr=subprocess.DEVNULL
+        ).decode().strip()
+    except Exception:
+        return ""
+
+
+def _sov_med_kode_sjekk(sekunder: int):
+    """Sov i `sekunder`, men restart tidlig om ny kode er tilgjengelig på origin/main."""
+    lokal_sha = _git_sha("HEAD")
+    sovet = 0
+    while sovet < sekunder:
+        neste_sjekk = min(_SJEKK_INTERVALL, sekunder - sovet)
+        time.sleep(neste_sjekk)
+        sovet += neste_sjekk
+
+        try:
+            subprocess.run(
+                ["git", "fetch", "origin", "main", "-q"],
+                check=True, capture_output=True
+            )
+        except Exception:
+            continue
+
+        remote_sha = _git_sha("origin/main")
+        if remote_sha and remote_sha != lokal_sha:
+            logger.info("Ny kode oppdaget (%s → %s) – restarter umiddelbart",
+                        lokal_sha[:7], remote_sha[:7])
+            return
+
+        gjenstaar = sekunder - sovet
+        logger.info("Ingen nye endringer – sover %.0f min til...", gjenstaar / 60)
+
+
+def daemon_modus(intervall_timer: int = 2):
     """Kjør én runde, sov, restart prosessen for å laste ny kode."""
     publisher = GitHubPublisher()
     logger.info("Daemon-modus: kjører hvert %d time(r)", intervall_timer)
@@ -131,11 +171,10 @@ def daemon_modus(intervall_timer: int = 6):
     except Exception as e:
         logger.error("Uventet feil i daemon-løkke: %s", e, exc_info=True)
 
-    neste = intervall_timer * 3600
-    logger.info("Sover %d timer til neste kjøring...", intervall_timer)
-    time.sleep(neste)
+    logger.info("Sover opptil %d timer (sjekker for ny kode hvert %ds)...",
+                intervall_timer, _SJEKK_INTERVALL)
+    _sov_med_kode_sjekk(intervall_timer * 3600)
 
-    # Restart Python-prosessen – laster ny kode fra disk (git pull skjer i neste en_kjoring)
     logger.info("Restarter for å laste eventuelle kode-endringer...")
     os.execv(sys.executable, [sys.executable] + sys.argv)
 
@@ -157,8 +196,8 @@ def main():
     parser.add_argument(
         "--intervall",
         type=int,
-        default=6,
-        help="Timer mellom kjøringer i daemon-modus (default: 6)",
+        default=2,
+        help="Timer mellom kjøringer i daemon-modus (default: 2)",
     )
     args = parser.parse_args()
 
