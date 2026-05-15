@@ -31,7 +31,8 @@ class StortingetScraper(BaseScraper):
         if not data:
             return created
 
-        perioder = data.get("stortingsperioder_liste", {}).get("stortingsperiode", [])
+        liste = data.get("stortingsperioder_liste", [])
+        perioder = liste if isinstance(liste, list) else liste.get("stortingsperiode", [])
         if not perioder:
             return created
 
@@ -46,7 +47,8 @@ class StortingetScraper(BaseScraper):
         if not data:
             return created
 
-        saker = data.get("saker_liste", {}).get("sak", [])
+        saker_data = data.get("saker_liste", [])
+        saker = saker_data if isinstance(saker_data, list) else saker_data.get("sak", [])
         count = 0
         for sak in saker:
             if count >= max_pages:
@@ -75,7 +77,6 @@ class StortingetScraper(BaseScraper):
         slug = self.slugify(tittel)
         filepath = output_dir / f"{sak_id}-{slug}.md"
 
-        # Råinnhold for hashing: kun selve sak-dataene fra API (ikke tidsstempler)
         raa_innhold = json.dumps(data, ensure_ascii=False, sort_keys=True)
         formatert = self._formater_sak(sak_id, tittel, data, periode)
 
@@ -110,6 +111,5 @@ class StortingetScraper(BaseScraper):
             json.dumps(data, ensure_ascii=False, indent=2),
             "```",
             "",
-            f"*Automatisk hentet fra {self.source_url} av norges-lover-bot. "
-            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
+            f"*Automatisk hentet fra {self.source_url} av norges-lover-bot.*",
         ])

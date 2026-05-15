@@ -6,6 +6,7 @@ Kilde: https://www.dibk.no
 import json
 import logging
 import re
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from .base import BaseScraper
@@ -13,16 +14,17 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 HUB_CRAWL_INTERVALL_TIMER = 24
+RECRAWL_DAGER = 7
 
 DIBK_STARTPUNKTER = [
-    "https://dibk.no/regelverk/byggteknisk-forskrift-tek17/",
-    "https://dibk.no/regelverk/byggesaksforskriften-sak10/",
-    "https://dibk.no/regelverk/forskrift-om-omsetning-og-dokumentasjon-av-produkter-til-byggverk-dof/",
-    "https://dibk.no/byggeregler/",
-    "https://dibk.no/byggesok/",
-    "https://dibk.no/soknadspliktig-eller-ikke/",
-    "https://dibk.no/regelverk/",
-    "https://dibk.no/tilsyn/",
+    "https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/",
+    "https://www.dibk.no/regelverk/byggesaksforskriften-sak10/",
+    "https://www.dibk.no/regelverk/",
+    "https://www.dibk.no/byggeregler/",
+    "https://www.dibk.no/byggesok/",
+    "https://www.dibk.no/soknadspliktig-eller-ikke/",
+    "https://www.dibk.no/tilsyn/",
+    "https://www.dibk.no/veiledere/",
 ]
 
 _EKSKLUDER = re.compile(
@@ -32,13 +34,13 @@ _EKSKLUDER = re.compile(
 )
 
 _INKLUDER_PREFIKS = (
-    "https://dibk.no/regelverk/",
-    "https://dibk.no/byggeregler/",
-    "https://dibk.no/byggesok/",
-    "https://dibk.no/soknadspliktig-eller-ikke/",
-    "https://dibk.no/tilsyn/",
-    "https://dibk.no/veiledere/",
-    "https://dibk.no/produkter-og-materialer/",
+    "https://www.dibk.no/regelverk/",
+    "https://www.dibk.no/byggeregler/",
+    "https://www.dibk.no/byggesok/",
+    "https://www.dibk.no/soknadspliktig-eller-ikke/",
+    "https://www.dibk.no/tilsyn/",
+    "https://www.dibk.no/veiledere/",
+    "https://www.dibk.no/produkter-og-materialer/",
 )
 
 _INNHOLD_SELEKTORER = ["main", "article", ".article-body", "#main", "[role='main']"]
@@ -71,7 +73,6 @@ class DibkScraper(BaseScraper):
         if not sist:
             return True
         try:
-            from datetime import datetime, timezone
             sist_tid = datetime.fromisoformat(sist.replace("Z", "+00:00"))
             timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600
             return timer >= HUB_CRAWL_INTERVALL_TIMER
@@ -81,8 +82,19 @@ class DibkScraper(BaseScraper):
     def _crawl_huber(self):
         logger.info("Starter DiBK hub-crawl...")
         kø = self._state.setdefault("kø", {})
-        nye = 0
 
+        # Reset gamle oppføringer så rekursiv crawling finner nye lenker
+        grense = datetime.now(timezone.utc) - timedelta(days=RECRAWL_DAGER)
+        for meta in kø.values():
+            if meta.get("hentet") and meta.get("sist_hentet"):
+                try:
+                    sist = datetime.fromisoformat(meta["sist_hentet"].replace("Z", "+00:00"))
+                    if sist < grense:
+                        meta["hentet"] = False
+                except Exception:
+                    pass
+
+        nye = 0
         for hub_url in DIBK_STARTPUNKTER:
             lenker = self._hent_lenker_fra_side(hub_url)
             logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
@@ -112,7 +124,9 @@ class DibkScraper(BaseScraper):
             if not href:
                 continue
             if href.startswith("/"):
-                href = f"https://dibk.no{href}"
+                href = f"https://www.dibk.no{href}"
+            # Normaliser dibk.no → www.dibk.no
+            href = href.replace("https://dibk.no/", "https://www.dibk.no/")
             href = href.split("#")[0].split("?")[0].rstrip("/") + "/"
             if self._er_relevant_side(href):
                 lenker.add(href)
@@ -130,7 +144,7 @@ class DibkScraper(BaseScraper):
 
     @staticmethod
     def _url_til_nokkel(url: str) -> str:
-        return url.replace("https://dibk.no/", "").strip("/")
+        return url.replace("https://www.dibk.no/", "").replace("https://dibk.no/", "").strip("/")
 
     def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:
         kø = self._state.get("kø", {})
@@ -159,7 +173,6 @@ class DibkScraper(BaseScraper):
         if not page:
             return None
 
-        # Rekursiv crawling: legg nye lenker fra denne siden i køen
         kø = self._state.get("kø", {})
         for lenke_url in self._hent_lenker_fra_side(url, page=page):
             lenke_nøkkel = self._url_til_nokkel(lenke_url)

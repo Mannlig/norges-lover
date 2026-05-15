@@ -1,17 +1,12 @@
 """
 Scraper for Skatteetaten – rekursiv crawler som følger alle lenker.
-
-Kjører i to faser:
-  1. Hub-crawl (én gang per 24t): Seed-køen fra 16 tematiske startpunkter
-  2. Innholdshenting: Prosesserer køen og legger nye lenker til fra hver side
-     som besøkes – crawlen vokser rekursivt til hele nettstedet er dekt.
-
 Kilde: https://www.skatteetaten.no
 """
 
 import json
 import logging
 import re
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from .base import BaseScraper
@@ -19,6 +14,7 @@ from .base import BaseScraper
 logger = logging.getLogger(__name__)
 
 HUB_CRAWL_INTERVALL_TIMER = 24
+RECRAWL_DAGER = 7
 
 SKATT_STARTPUNKTER = [
     "https://www.skatteetaten.no/satser/",
@@ -56,13 +52,8 @@ _INKLUDER_PREFIKS = (
 )
 
 _INNHOLD_SELEKTORER = [
-    "main article",
-    "main",
-    "article",
-    "[role='main']",
-    ".article-content",
-    "#main-content",
-    ".page-content",
+    "main article", "main", "article", "[role='main']",
+    ".article-content", "#main-content", ".page-content",
 ]
 
 
@@ -93,7 +84,6 @@ class SkatteetatenScraper(BaseScraper):
         if not sist:
             return True
         try:
-            from datetime import datetime, timezone
             sist_tid = datetime.fromisoformat(sist.replace("Z", "+00:00"))
             timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600
             return timer >= HUB_CRAWL_INTERVALL_TIMER
@@ -103,8 +93,19 @@ class SkatteetatenScraper(BaseScraper):
     def _crawl_huber(self):
         logger.info("Starter Skatteetaten hub-crawl...")
         kø = self._state.setdefault("kø", {})
-        nye = 0
 
+        # Reset gamle oppføringer så rekursiv crawling finner nye lenker
+        grense = datetime.now(timezone.utc) - timedelta(days=RECRAWL_DAGER)
+        for meta in kø.values():
+            if meta.get("hentet") and meta.get("sist_hentet"):
+                try:
+                    sist = datetime.fromisoformat(meta["sist_hentet"].replace("Z", "+00:00"))
+                    if sist < grense:
+                        meta["hentet"] = False
+                except Exception:
+                    pass
+
+        nye = 0
         for hub_url in SKATT_STARTPUNKTER:
             lenker = self._hent_lenker_fra_side(hub_url)
             logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
@@ -138,7 +139,6 @@ class SkatteetatenScraper(BaseScraper):
             href = href.split("#")[0].split("?")[0].rstrip("/") + "/"
             if self._er_relevant_side(href):
                 lenker.add(href)
-
         return sorted(lenker)
 
     def _er_relevant_side(self, url: str) -> bool:
@@ -181,7 +181,6 @@ class SkatteetatenScraper(BaseScraper):
         if not page:
             return None
 
-        # Rekursiv crawling: legg nye lenker fra denne siden i køen
         kø = self._state.get("kø", {})
         for lenke_url in self._hent_lenker_fra_side(url, page=page):
             lenke_nøkkel = self._url_til_nokkel(lenke_url)
