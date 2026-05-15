@@ -2,14 +2,17 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-14 02:02 UTC*
+*Sist oppdatert: 2026-05-15 08:36 UTC*
 
-**Antall dokumenter:** 313
+**Antall dokumenter:** 316
 
 ## Innhold
 
 ### Byggteknisk
 
+- [Regelverk](byggteknisk/byggeregler.md)
+- [Byggteknisk forskrift (TEK17) med veiledning](byggteknisk/regelverk/byggteknisk-forskrift-tek17.md)
+- [Regelverk](byggteknisk/regelverk.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](byggteknisk/tek17/krav-til-byggverk.md)
 
 ### Lover
