@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-15 08:36 UTC*
+*Sist oppdatert: 2026-05-15 09:12 UTC*
 
-**Antall dokumenter:** 316
+**Antall dokumenter:** 354
 
 ## Innhold
 
@@ -124,19 +124,57 @@ Lovdata
 ### Nav
 
 - [Alderspensjon - nav.no](nav/alderspensjon/om.md)
+- [Mine Dagpenger](nav/arbeid/dagpenger/mine-dagpenger.md)
+- [Registrer deg som arbeidssøker - nav.no](nav/arbeid/registrering.md)
+- [Arbeid - nav.no](nav/arbeid.md)
+- [Er arbeidsledig eller permittert - nav.no](nav/arbeidsledig-permittert.md)
+- [Bekreftelse](nav/arbeidssoekerregisteret/bekreftelse.md)
 - [Barnetrygd - nav.no](nav/barnetrygd/om.md)
 - [Barnetrygd - nav.no](nav/barnetrygd/satser.md)
+- [Bekreft at du vil være registrert som arbeidssøker - nav.no](nav/bekreft-arbeidssoker.md)
 - [Bostøtte](nav/bostotte/om.md)
+- [Dagpenger kalkulator - nav.no](nav/dagpenger/kalkulator.md)
 - [Dagpenger - nav.no](nav/dagpenger/om-dagpenger.md)
 - [Dagpenger - nav.no](nav/dagpenger/satser.md)
+- [Dagpenger - nav.no](nav/dagpenger.md)
+- [Forside privatperson - nav.no](nav/en.md)
+- [Ettersende - nav.no](nav/ettersende.md)
+- [Familie og barn - nav.no](nav/familie.md)
 - [Foreldrepenger - nav.no](nav/foreldrepenger/om.md)
 - [Foreldrepenger - nav.no](nav/foreldrepenger/satser.md)
+- [Bekreftelse på ansettelsesforhold | www.nav.no](nav/fyllut/nav040203.md)
+- [Næringsfaglig vurdering av etableringsplaner | www.nav.no](nav/fyllut/nav040610.md)
+- [Bekreftelse på sluttårsak/nedsatt arbeidstid (ikke permittert) | www.nav.no](nav/fyllut/nav040803.md)
+- [Bekreftelse på arbeidsforhold og permittering | www.nav.no](nav/fyllut/nav040804.md)
 - [Svangerskapspenger - nav.no](nav/gravid/svangerskapspenger.md)
 - [Grunnbeløpet i folketrygden](nav/grunnbelop.md)
+- [Grunnbeløpet i folketrygden - nav.no](nav/grunnbelopet.md)
+- [Helse og sykdom - nav.no](nav/helse.md)
 - [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler/om.md)
+- [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler.md)
+- [Informasjonskapsler og tilsvarende teknologi på nav.no - nav.no](nav/informasjonskapsler.md)
+- [Søke jobb i EU/EØS og Sveits - nav.no](nav/jobbsok-eu.md)
+- [Klage og anke - nav.no](nav/klage.md)
+- [Klagerettigheter - nav.no](nav/klagerettigheter.md)
+- [Trenger hjelp til å komme i jobb - nav.no](nav/komme-i-jobb.md)
+- [Kontakt oss - nav.no](nav/kontaktoss.md)
 - [Kontantstøtte - nav.no](nav/kontantstotte/om.md)
+- [Lønnsgaranti - nav.no](nav/lonnsgaranti.md)
+- [Feiltolkningen av EØS-reglene - nav.no](nav/no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene.md)
+- [Kurs fra Nav - nav.no](nav/no/nav-og-samfunn/kontakt-nav/kurs-fra-nav.md)
+- [Nav i ditt fylke - nav.no](nav/no/nav-og-samfunn/kontakt-nav/nav-i-ditt-fylke.md)
+- [Statistikk, analyse og FoU - nav.no](nav/no/nav-og-samfunn/statistikk-analyse-og-fou.md)
+- [Oljepionerene - nav.no](nav/oljepionerene.md)
 - [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](nav/omsorgspenger/om.md)
 - [Overgangsstønad til enslig mor eller far - nav.no](nav/overgangsstonad/om.md)
+- [Pensjon - nav.no](nav/pensjon.md)
+- [Personopplysninger](nav/person/personopplysninger.md)
+- [Personvern i Arbeids- og velferdsetaten - nav.no](nav/personvern.md)
+- [Registrer deg som arbeidssøker - nav.no](nav/registrer-arbeidssoker.md)
+- [Saksbehandlingstider - nav.no](nav/saksbehandlingstider.md)
+- [Satser - nav.no](nav/satser.md)
+- [Jearaldat bagadallama oažžut sámegillii telefovnnas](nav/se.md)
+- [Send meldekort - nav.no](nav/send-meldekort.md)
 - [Økonomisk sosialhjelp - nav.no](nav/sosialhjelp/om.md)
 - [Sykepenger - nav.no](nav/sykepenger/arbeidsgivere.md)
 - [Sykepenger - nav.no](nav/sykepenger/om-sykepenger.md)
