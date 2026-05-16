@@ -1,4 +1,4 @@
-<!-- innholds-hash: 510694a27d8b1ab8ab77c4be03f67d3acf4b73cc001ebbfafb8e7ffc76c74a1c -->
+<!-- innholds-hash: dfdce3d86cb44af14d5fdce3ce1177c8fb45c83216f95446174bbc4a3eb846e7 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum, Bengt Fasteraune, Erling Sande og Ole Herman Sveian om naturskadeordningen
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200057
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941330686+0200)/",
+  "respons_dato_tid": "/Date(1778966861111+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330748+0200)/",
+      "respons_dato_tid": "/Date(1778966861158+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330717+0200)/",
+      "respons_dato_tid": "/Date(1778966861111+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330717+0200)/",
+      "respons_dato_tid": "/Date(1778966861111+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330717+0200)/",
+      "respons_dato_tid": "/Date(1778966861111+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330748+0200)/",
+      "respons_dato_tid": "/Date(1778966861158+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330748+0200)/",
+      "respons_dato_tid": "/Date(1778966861158+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -165,7 +165,7 @@
   "innstilling_id": 17325,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200057,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330717+0200)/",
+      "respons_dato_tid": "/Date(1778966861111+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -211,3 +211,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

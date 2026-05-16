@@ -1,4 +1,4 @@
-<!-- innholds-hash: 904913efd94198accac9ae459b522f65688d4007c63d76ab7201d004336aeef3 -->
+<!-- innholds-hash: 9a950e3fd27f6bd070d3d42fa2cb7a41dde854a08aae96533de5650e588767ea -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Tor André Johnsen, Per-Willy Amundsen og Kristian August Eilertsen om å stanse innføring av overtredelsesgebyr ved avrenning fra kjøretøy
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200085
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941331498+0200)/",
+  "respons_dato_tid": "/Date(1778966862018+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941331717+0200)/",
+      "respons_dato_tid": "/Date(1778966862252+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941331498+0200)/",
+      "respons_dato_tid": "/Date(1778966862018+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331514+0200)/",
+      "respons_dato_tid": "/Date(1778966862018+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331561+0200)/",
+      "respons_dato_tid": "/Date(1778966862018+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331607+0200)/",
+      "respons_dato_tid": "/Date(1778966862142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331654+0200)/",
+      "respons_dato_tid": "/Date(1778966862220+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331686+0200)/",
+      "respons_dato_tid": "/Date(1778966862252+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331701+0200)/",
+      "respons_dato_tid": "/Date(1778966862252+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -210,7 +210,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941331717+0200)/",
+      "respons_dato_tid": "/Date(1778966862252+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -240,7 +240,7 @@
   "innstilling_id": 17324,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -249,7 +249,7 @@
   "sak_fremmet_id": 200085,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941331498+0200)/",
+      "respons_dato_tid": "/Date(1778966862018+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Karlsen",
@@ -286,3 +286,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

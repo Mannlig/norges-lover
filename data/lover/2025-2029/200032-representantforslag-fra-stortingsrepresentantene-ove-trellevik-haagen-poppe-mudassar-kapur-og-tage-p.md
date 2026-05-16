@@ -1,4 +1,4 @@
-<!-- innholds-hash: 95d40e9e71246c909fb2181e266ece6a553b1058b4c46204c98d57b9288f7bb1 -->
+<!-- innholds-hash: 5ef05a1f3e08733ee1fa7186edda7b5cca9f51fb2711b11e2fc96f32a527466c -->
 
 # Representantforslag fra stortingsrepresentantene Ove Trellevik, Haagen Poppe, Mudassar Kapur og Tage Pettersen om en klarere strandsonepolitikk
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200032
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941332639+0200)/",
+  "respons_dato_tid": "/Date(1778966863064+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -149,7 +149,7 @@
   "innstilling_id": 17304,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200032,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332639+0200)/",
+      "respons_dato_tid": "/Date(1778966863064+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -195,3 +195,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

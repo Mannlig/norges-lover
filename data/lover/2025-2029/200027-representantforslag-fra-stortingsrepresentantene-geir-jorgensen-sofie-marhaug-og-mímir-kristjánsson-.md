@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9b4256f45bc2829af490507d1cf3349c1b32414fdb9d711ceb6e1c73c1d1a5c8 -->
+<!-- innholds-hash: d13bf68e458f2665a50af8d65abaae32a73a84bff2372130471a8b38d791c39d -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen, Sofie Marhaug og Mímir Kristjánsson om Nysnø
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200027
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333732+0200)/",
+  "respons_dato_tid": "/Date(1778966863877+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -133,7 +133,7 @@
   "innstilling_id": 17290,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200027,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -179,3 +179,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

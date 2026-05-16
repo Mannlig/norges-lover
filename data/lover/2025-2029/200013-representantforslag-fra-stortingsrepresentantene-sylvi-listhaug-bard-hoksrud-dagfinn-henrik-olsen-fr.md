@@ -1,4 +1,4 @@
-<!-- innholds-hash: dc8bacac78785a505b847348d0c2a8dced40d1188db53c024136666ef559b4ec -->
+<!-- innholds-hash: df32f26eb61016e935009d4883cc7fe9fe6d3b954e86d1d98f5fd60d06b2803e -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Bjørn Larsen, Silje Hjemdal og Kristian August Eilertsen om å oppheve klimakrav til kjøretøy for å ivareta og styrke samfunnets beredskap
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200013
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333732+0200)/",
+  "respons_dato_tid": "/Date(1778966863877+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -187,7 +187,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -212,7 +212,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -237,7 +237,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -262,7 +262,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -292,7 +292,7 @@
   "innstilling_id": 17261,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -301,7 +301,7 @@
   "sak_fremmet_id": 200013,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -338,3 +338,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

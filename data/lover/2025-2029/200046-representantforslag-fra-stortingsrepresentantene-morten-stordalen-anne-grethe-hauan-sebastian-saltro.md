@@ -1,4 +1,4 @@
-<!-- innholds-hash: de916c1d8cdc29df4915a48c1aecb8603170eee4adb00460d869df3f6df89a63 -->
+<!-- innholds-hash: 2a9856b488967dc3ff052c1a74c35b32ab011c7ebc725d6a3a35448e5b4bd0c9 -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Anne Grethe Hauan, Sebastian Saltrø Ytrevik, Bård Hoksrud og Simen Velle om tilrettelegging for studentene fra Pilot Flight Academy
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200046
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333795+0200)/",
+  "respons_dato_tid": "/Date(1778966863939+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333904+0200)/",
+      "respons_dato_tid": "/Date(1778966864127+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333904+0200)/",
+      "respons_dato_tid": "/Date(1778966864127+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333842+0200)/",
+      "respons_dato_tid": "/Date(1778966864017+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333842+0200)/",
+      "respons_dato_tid": "/Date(1778966864017+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333857+0200)/",
+      "respons_dato_tid": "/Date(1778966864017+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333904+0200)/",
+      "respons_dato_tid": "/Date(1778966864127+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333904+0200)/",
+      "respons_dato_tid": "/Date(1778966864127+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -174,7 +174,7 @@
   "innstilling_id": 17259,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200046,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333842+0200)/",
+      "respons_dato_tid": "/Date(1778966864017+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gorseth",
@@ -220,3 +220,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

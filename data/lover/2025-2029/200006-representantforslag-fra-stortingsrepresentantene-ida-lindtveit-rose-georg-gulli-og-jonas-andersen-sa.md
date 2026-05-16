@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4513d24e5de309ae80a550eef8d076e9fe7108ec5d2cbcfd47188659fb15b29d -->
+<!-- innholds-hash: f882b529aaf8a12c217155d5a8a2e6cea76532f43575423a822ee2366d23563e -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Georg Gulli og Jonas Andersen Sayed om et nasjonalt røykesluttprogram - uten kostnad for staten
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200006
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333107+0200)/",
+  "respons_dato_tid": "/Date(1778966863439+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gulli",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -115,7 +115,7 @@
   "innstilling_id": 17295,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200006,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333107+0200)/",
+      "respons_dato_tid": "/Date(1778966863439+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -161,3 +161,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

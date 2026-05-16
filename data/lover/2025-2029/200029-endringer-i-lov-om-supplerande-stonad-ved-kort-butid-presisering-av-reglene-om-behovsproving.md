@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1d370d2d91032fdb957e5425e179a5d8fefc6e13aabb69c68e35fe8c3f63d61c -->
+<!-- innholds-hash: 536dc0824c6467680faa049d83361b5c023ade07fb9020315c008d7b51ec9fad -->
 
 # Endringer i lov om supplerande stønad ved kort butid (presisering av reglene om behovsprøving)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200029
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333592+0200)/",
+  "respons_dato_tid": "/Date(1778966863752+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333592+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333592+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333592+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -57,7 +57,7 @@
   "innstilling_id": 17263,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200029,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333592+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -103,3 +103,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

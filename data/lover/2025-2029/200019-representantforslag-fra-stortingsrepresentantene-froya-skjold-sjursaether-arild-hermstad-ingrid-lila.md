@@ -1,4 +1,4 @@
-<!-- innholds-hash: 69256d5ad714b65e2fda6972c47dde21a6fd2590c996088c777fb7f46e69eb4c -->
+<!-- innholds-hash: 9411a0d5398774c795ba8d9a28c331ea4b84f5613c861a933c55bf04d1dd5776 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Arild Hermstad, Ingrid Liland, Oda Indgaard og Julie E. Stuestøl om norsk deltakelse i EUs sosiale klimafond
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200019
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333732+0200)/",
+  "respons_dato_tid": "/Date(1778966863877+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -174,7 +174,7 @@
   "innstilling_id": 17262,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200019,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -220,3 +220,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

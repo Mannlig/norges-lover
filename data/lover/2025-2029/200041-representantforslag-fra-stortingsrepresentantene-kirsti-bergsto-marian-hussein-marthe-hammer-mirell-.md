@@ -1,4 +1,4 @@
-<!-- innholds-hash: 05cafdd226902f9083e5f40ef046e8c6e0036f3d7b88171dc8ff746302b7f823 -->
+<!-- innholds-hash: d2b1d9e99e1cc296212274fee5034b7808350f9c59333081fa5eae2212b6a1b1 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Marian Hussein, Marthe Hammer, Mirell Høyer-Berntsen, Ingrid Fiskaa, Kathy Lie og Anne Lise Gjerstad Fredlund om å kutte sykefravær, ikke sykelønn
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200041
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333639+0200)/",
+  "respons_dato_tid": "/Date(1778966863814+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333686+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333686+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333732+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -224,7 +224,7 @@
   "innstilling_id": 17287,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200041,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333686+0200)/",
+      "respons_dato_tid": "/Date(1778966863877+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Viljugrein",
@@ -270,3 +270,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

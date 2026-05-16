@@ -1,4 +1,4 @@
-<!-- innholds-hash: 06eee5380dddf96042a08e83dfcaacf0abd10679abf5c9c0479548aaefdf3459 -->
+<!-- innholds-hash: cbe138f61cbd129c156ae14f32462bd335314b7079a4b0331d0cddbc564d3b7f -->
 
 # Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Jørgen H. Kristiansen, Hans Edvard Askjer og Harry Valderhaug om å la ukrainere reise hjem
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200059
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941330826+0200)/",
+  "respons_dato_tid": "/Date(1778966861220+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330998+0200)/",
+      "respons_dato_tid": "/Date(1778966861470+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330889+0200)/",
+      "respons_dato_tid": "/Date(1778966861267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330936+0200)/",
+      "respons_dato_tid": "/Date(1778966861377+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330998+0200)/",
+      "respons_dato_tid": "/Date(1778966861470+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330998+0200)/",
+      "respons_dato_tid": "/Date(1778966861470+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -140,7 +140,7 @@
   "innstilling_id": 17313,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200059,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330826+0200)/",
+      "respons_dato_tid": "/Date(1778966861220+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -186,3 +186,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

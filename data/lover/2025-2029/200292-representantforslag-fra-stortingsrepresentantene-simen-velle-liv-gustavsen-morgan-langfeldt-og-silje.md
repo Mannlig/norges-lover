@@ -1,4 +1,4 @@
-<!-- innholds-hash: 90b925c323720630fcd5d0a1fcf5947d9b7fee940ae38d5baef8568311b98d52 -->
+<!-- innholds-hash: b55472a0d063902b1344d82502e9e6ccb49d371459417f5300f4f02be546c94a -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Liv Gustavsen, Morgan Langfeldt og Silje Hjemdal om en kjønnsnøytral likestillings- og diskrimineringslov
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200292
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333217+0200)/",
+  "respons_dato_tid": "/Date(1778966863502+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200292,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333217+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -186,3 +186,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

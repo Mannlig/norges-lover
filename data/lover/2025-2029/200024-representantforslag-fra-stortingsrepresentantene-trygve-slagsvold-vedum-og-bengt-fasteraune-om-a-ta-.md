@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7aa7807a3bbef591a1964719a2ac31d9a0dd9b181abc82f3e40ff1225f7b4ea4 -->
+<!-- innholds-hash: 7101b8b5cee460029c5f0aba734b7763cbef8a0ed3caab4a87218bb918cf7786 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum og Bengt Fasteraune om å ta i bruk Haslemoen som midlertidig supplement for å øke utdanningskapasiteten ved rekruttutdanningen på Terningmoen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200024
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941330201+0200)/",
+  "respons_dato_tid": "/Date(1778966860752+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330264+0200)/",
+      "respons_dato_tid": "/Date(1778966860798+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941330264+0200)/",
+      "respons_dato_tid": "/Date(1778966860798+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330264+0200)/",
+      "respons_dato_tid": "/Date(1778966860798+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941330264+0200)/",
+      "respons_dato_tid": "/Date(1778966860798+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -99,7 +99,7 @@
   "innstilling_id": 17312,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200024,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941330248+0200)/",
+      "respons_dato_tid": "/Date(1778966860798+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -145,3 +145,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

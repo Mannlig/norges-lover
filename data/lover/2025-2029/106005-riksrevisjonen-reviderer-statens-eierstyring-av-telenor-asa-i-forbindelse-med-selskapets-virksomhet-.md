@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1f69a15220a11313bef370ed397bc714cf9b27e6416943dd4bf6b372e807b39f -->
+<!-- innholds-hash: ecd14fe26a399c7f897a618faaae9b78385b76eec46fa39b7db0972ca99f7c8e -->
 
 # Riksrevisjonen reviderer statens eierstyring av Telenor ASA i forbindelse med selskapets virksomhet i Myanmar
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106005
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333170+0200)/",
+  "respons_dato_tid": "/Date(1778966863502+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -57,7 +57,7 @@
   "innstilling_id": 17291,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 106005,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333170+0200)/",
+      "respons_dato_tid": "/Date(1778966863502+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -103,3 +103,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

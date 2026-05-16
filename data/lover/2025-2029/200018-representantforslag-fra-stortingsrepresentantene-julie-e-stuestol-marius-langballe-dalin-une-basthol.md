@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ff6c996e24512c6c33f0d01ee270f467be90af1e496f3b899769759312f898a -->
+<!-- innholds-hash: c7a49545627dc626e0d122c52026a53ae57edf7b2cae126edf93daa0ac135d46 -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Marius Langballe Dalin, Une Bastholm, Frøya Skjold Sjursæther, Ingrid Liland, Anne Lise Gjerstad Fredlund, Marian Hussein og Mirell Høyer-Berntsen om en tilbakekallspraksis som verdsetter inkludering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200018
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941332592+0200)/",
+  "respons_dato_tid": "/Date(1778966863049+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332607+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332607+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -210,7 +210,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941332607+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -240,7 +240,7 @@
   "innstilling_id": 17288,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -249,7 +249,7 @@
   "sak_fremmet_id": 200018,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332592+0200)/",
+      "respons_dato_tid": "/Date(1778966863049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -286,3 +286,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

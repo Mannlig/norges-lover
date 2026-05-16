@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24e05c20d4451a0ad3283cdcfaa4a5067d9e9c27d8e908ab24ed5e9df8cc1972 -->
+<!-- innholds-hash: 7897812e8878c4db893e56ec6ebba4d89c54520e0bde9803135533cc9e1085ea -->
 
 # Redegjørelse av kultur- og likestillingsministeren om status i arbeidet med å fremme likestilling og mangfold i alle sektorer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106024
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941332748+0200)/",
+  "respons_dato_tid": "/Date(1778966863142+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941332748+0200)/",
+      "respons_dato_tid": "/Date(1778966863142+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -54,3 +54,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)

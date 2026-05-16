@@ -1,4 +1,4 @@
-<!-- innholds-hash: 74e3be36726942efafe3d305a1988f5f36d53e85333e335a4e10175f8bc5ec4d -->
+<!-- innholds-hash: 4a9e0d82dc07539b784d10d0243b51c87fe1f7adbaedde15accf4ac5f26ce185 -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Marie Sneve Martinussen og Alf Erik Andersen om åpenhet og rettferdighet for ofrene i trygdeskandalen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T14:44:47Z
+- **Sist hentet:** 2026-05-16T21:52:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200055
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778941333514+0200)/",
+  "respons_dato_tid": "/Date(1778966863689+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333561+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333561+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333561+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778941333561+0200)/",
+      "respons_dato_tid": "/Date(1778966863752+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -115,7 +115,7 @@
   "innstilling_id": 17286,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778940386824+0200)/",
+    "respons_dato_tid": "/Date(1778965789380+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200055,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778941333514+0200)/",
+      "respons_dato_tid": "/Date(1778966863689+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -161,3 +161,4 @@
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-16** Innhold endret (se git-historikk for diff)
