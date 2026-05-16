@@ -2,15 +2,65 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-16 14:44 UTC*
+*Sist oppdatert: 2026-05-16 15:13 UTC*
 
-**Antall dokumenter:** 611
+**Antall dokumenter:** 661
 
 ## Innhold
 
 ### Byggteknisk
 
 - [Regelverk](byggteknisk/byggeregler.md)
+- [Slik leser du byggteknisk forskrift](byggteknisk/regelverk/alt-om-tek/slik-leser-du-tek17.md)
+- [§ 1-1. Formål](byggteknisk/regelverk/byggteknisk-forskrift-tek17/1/1-1.md)
+- [§ 1-2. Forskriftens anvendelse på særskilte tiltak](byggteknisk/regelverk/byggteknisk-forskrift-tek17/1/1-2.md)
+- [§ 1-3. Definisjoner](byggteknisk/regelverk/byggteknisk-forskrift-tek17/1/1-3.md)
+- [§ 10-1. Personlig og materiell sikkerhet](byggteknisk/regelverk/byggteknisk-forskrift-tek17/10/10-1.md)
+- [§ 10-2. Konstruksjonssikkerhet](byggteknisk/regelverk/byggteknisk-forskrift-tek17/10/10-2.md)
+- [§ 10-3. Nedfall fra og sammenstøt med byggverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/10/10-3.md)
+- [Innledning til kapittel 10 Konstruksjonssikkerhet](byggteknisk/regelverk/byggteknisk-forskrift-tek17/10/innledning.md)
+- [§ 11-1. Sikkerhet ved brann](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/i/11-1.md)
+- [§ 11-2. Risikoklasser](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/i/11-2.md)
+- [§ 11-3. Brannklasser](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/i/11-3.md)
+- [Innledning til kapittel 11 Sikkerhet ved brann](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/i/innledning.md)
+- [§ 11-4. Bæreevne og stabilitet](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/ii/11-4.md)
+- [§ 11-5. Sikkerhet ved eksplosjon](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/ii/11-5.md)
+- [§ 11-10. Tekniske installasjoner](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iii/11-10.md)
+- [§ 11-6. Tiltak mot brannspredning mellom byggverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iii/11-6.md)
+- [§ 11-7. Brannseksjoner](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iii/11-7.md)
+- [§ 11-8. Brannceller](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iii/11-8.md)
+- [§ 11-9. Materialer og produkters egenskaper ved brann](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iii/11-9.md)
+- [§ 11-11. Generelle krav om rømning og redning](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iv/11-11.md)
+- [§ 11-12. Tiltak for å påvirke rømnings- og redningstider](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iv/11-12.md)
+- [§ 11-13. Utgang fra branncelle](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iv/11-13.md)
+- [§ 11-14. Rømningsvei](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iv/11-14.md)
+- [§ 11-15. Tilrettelegging for redning av husdyr](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/iv/11-15.md)
+- [§ 11-16. Tilrettelegging for manuell slokking](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/v/11-16.md)
+- [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](byggteknisk/regelverk/byggteknisk-forskrift-tek17/11/v/11-17.md)
+- [§ 12-1. Krav til planløsning og universell utforming av byggverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/i/12-1.md)
+- [§ 12-2. Krav om tilgjengelig boenhet](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/i/12-2.md)
+- [§ 12-3. Krav om heis i byggverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/i/12-3.md)
+- [Innledning til kapittel 12 Planløsning og bygningsdeler i byggverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/i/innledning2.md)
+- [§ 12-10. Bod og oppbevaringsplass](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-10.md)
+- [§ 12-11. Balkong, terrasse og lignende](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-11.md)
+- [§ 12-12. Avfallssystem og kildesortering](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-12.md)
+- [§ 12-4. Inngangsparti](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-4.md)
+- [§ 12-5. Sikkerhet i bruk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-5.md)
+- [§ 12-6. Kommunikasjonsvei](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-6.md)
+- [§ 12-7. Krav til utforming av rom og annet oppholdsareal](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-7.md)
+- [§ 12-8. Entré og garderobe](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-8.md)
+- [§ 12-9. Bad og toalett](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/ii/12-9.md)
+- [§ 12-13. Dør, port og lignende](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-13.md)
+- [§ 12-14. Trapp](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-14.md)
+- [§ 12-15. Utforming av rekkverk](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-15.md)
+- [§ 12-16. Rampe](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-16.md)
+- [§ 12-17. Vindu og andre glassfelt](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-17.md)
+- [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](byggteknisk/regelverk/byggteknisk-forskrift-tek17/12/iii/12-18.md)
+- [§ 13-1. Generelle krav til ventilasjon](byggteknisk/regelverk/byggteknisk-forskrift-tek17/13/i/13-1.md)
+- [§ 13-2. Ventilasjon i boligbygning](byggteknisk/regelverk/byggteknisk-forskrift-tek17/13/i/13-2.md)
+- [§ 13-3. Ventilasjon i byggverk for publikum og arbeidsbygning](byggteknisk/regelverk/byggteknisk-forskrift-tek17/13/i/13-3.md)
+- [Innledning til kapittel 13 Inneklima og helse](byggteknisk/regelverk/byggteknisk-forskrift-tek17/13/i/innledning.md)
+- [§ 13-4. Termisk inneklima](byggteknisk/regelverk/byggteknisk-forskrift-tek17/13/ii/13-4.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](byggteknisk/regelverk/byggteknisk-forskrift-tek17.md)
 - [Regelverk](byggteknisk/regelverk.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](byggteknisk/tek17/krav-til-byggverk.md)
