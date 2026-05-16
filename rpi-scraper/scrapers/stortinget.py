@@ -1,10 +1,11 @@
 """
 Scraper for Stortingets åpne data-API.
-Henter lover og proposisjoner via det offisielle REST-APIet.
+Henter saker (alle typer) via det offisielle REST-APIet.
 API-dokumentasjon: https://data.stortinget.no
 Ingen autentisering nødvendig – dette er et åpent offentlig API.
 """
 
+import hashlib
 import json
 import logging
 from pathlib import Path
@@ -16,66 +17,117 @@ logger = logging.getLogger(__name__)
 API_BASE = "https://data.stortinget.no/eksport"
 _JSON = {"format": "json"}
 
+ANTALL_PERIODER = 3
+SAKER_PER_SIDE = 200
+
 
 class StortingetScraper(BaseScraper):
     name = "stortinget"
     source_url = "https://data.stortinget.no"
 
-    def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
+    def __init__(self):
+        super().__init__()
+        self._state: dict = {}
+        self._state_path: Path | None = None
+
+    def scrape(self, output_dir: Path, max_pages: int = 100) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        return self._hent_saker(output_dir, max_pages)
+        self._state_path = output_dir / ".stortinget-state.json"
+        self._state = self._les_state()
+        created = self._hent_saker(output_dir, max_pages)
+        self._lagre_state()
+        return created
 
     def _hent_saker(self, output_dir: Path, max_pages: int) -> list[Path]:
         created = []
+
+        perioder = self._hent_perioder()
+        if not perioder:
+            logger.error("Stortinget: ingen perioder hentet fra API")
+            return created
+
+        logger.info("Stortinget: henter saker fra %d periode(r): %s",
+                    len(perioder), [p.get("id") for p in perioder])
+
+        for periode in perioder:
+            if len(created) >= max_pages:
+                break
+            periode_id = periode.get("id", "")
+            filer = self._hent_saker_for_periode(output_dir, periode_id, max_pages - len(created))
+            created.extend(filer)
+
+        logger.info("Stortinget: %d nye/endrede filer totalt", len(created))
+        return created
+
+    def _hent_perioder(self) -> list[dict]:
         data = self.get_json(f"{API_BASE}/stortingsperioder", _JSON)
         if not data:
-            return created
-
+            return []
         liste = data.get("stortingsperioder_liste", [])
         perioder = liste if isinstance(liste, list) else liste.get("stortingsperiode", [])
-        if not perioder:
-            return created
+        return perioder[:ANTALL_PERIODER]
 
-        siste_periode = perioder[0].get("id", "")  # API returnerer nyeste periode først
-        logger.info("Henter saker fra periode: %s", siste_periode)
+    def _hent_saker_for_periode(self, output_dir: Path, periode_id: str, max_pages: int) -> list[Path]:
+        created = []
+        start = 0
 
-        data = self.get_json(f"{API_BASE}/saker", {**_JSON,
-            "stortingsperiodeid": siste_periode,
-            "antall": 100,
-            "start": 0,
-        })
-        if not data:
-            return created
-
-        saker_data = data.get("saker_liste", [])
-        saker = saker_data if isinstance(saker_data, list) else saker_data.get("sak", [])
-        count = 0
-        for sak in saker:
-            if count >= max_pages:
+        while len(created) < max_pages:
+            data = self.get_json(f"{API_BASE}/saker", {
+                **_JSON,
+                "stortingsperiodeid": periode_id,
+                "antall": SAKER_PER_SIDE,
+                "start": start,
+            })
+            if not data:
                 break
-            sak_id = sak.get("id", "")
-            tittel = sak.get("tittel", "ukjent")
-            saktype = sak.get("type", "").lower()
-            if saktype not in ("lovsak", "proposisjon", "melding"):
-                continue
 
-            path = self._lagre_sak(output_dir, sak_id, tittel, sak, siste_periode)
-            if path:
-                created.append(path)
-                count += 1
+            saker_data = data.get("saker_liste", [])
+            saker = saker_data if isinstance(saker_data, list) else saker_data.get("sak", [])
 
-        logger.info("Stortinget: %d saker behandlet", count)
+            if not saker:
+                break
+
+            if start == 0:
+                typer = {s.get("type", "ukjent") for s in saker}
+                logger.info("Stortinget periode %s: sakstyper funnet i API: %s", periode_id, typer)
+
+            for sak in saker:
+                if len(created) >= max_pages:
+                    break
+                sak_id = sak.get("id", "")
+                if not sak_id:
+                    continue
+
+                nøkkel = f"{periode_id}/{sak_id}"
+                sak_hash = self._sak_hash(sak)
+                if self._state.get(nøkkel) == sak_hash:
+                    continue
+
+                tittel = sak.get("tittel", "ukjent")
+                path = self._lagre_sak(output_dir, sak_id, tittel, sak, periode_id)
+                if path:
+                    created.append(path)
+                self._state[nøkkel] = sak_hash
+
+            if len(saker) < SAKER_PER_SIDE:
+                break
+            start += SAKER_PER_SIDE
+
         return created
+
+    @staticmethod
+    def _sak_hash(sak: dict) -> str:
+        return hashlib.sha256(
+            json.dumps(sak, ensure_ascii=False, sort_keys=True).encode()
+        ).hexdigest()[:16]
 
     def _lagre_sak(
         self, output_dir: Path, sak_id: str, tittel: str, data: dict, periode: str
     ) -> Path | None:
-        if not sak_id:
-            return None
-
-        output_dir.mkdir(parents=True, exist_ok=True)
         slug = self.slugify(tittel)
-        filepath = output_dir / f"{sak_id}-{slug}.md"
+        periode_dir = output_dir / periode
+        periode_dir.mkdir(parents=True, exist_ok=True)
+        filepath = periode_dir / f"{sak_id}-{slug}.md"
 
         raa_innhold = json.dumps(data, ensure_ascii=False, sort_keys=True)
         formatert = self._formater_sak(sak_id, tittel, data, periode)
@@ -111,5 +163,23 @@ class StortingetScraper(BaseScraper):
             json.dumps(data, ensure_ascii=False, indent=2),
             "```",
             "",
-            f"*Automatisk hentet fra {self.source_url} av norges-lover-bot.*",
+            f"*Automatisk hentet fra {self.source_url} av norges-lover-bot. "
+            "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*",
         ])
+
+    def _les_state(self) -> dict:
+        if self._state_path and self._state_path.exists():
+            try:
+                return json.loads(self._state_path.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+        return {}
+
+    def _lagre_state(self):
+        if not self._state_path:
+            return
+        self._state_path.parent.mkdir(parents=True, exist_ok=True)
+        self._state_path.write_text(
+            json.dumps(self._state, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
