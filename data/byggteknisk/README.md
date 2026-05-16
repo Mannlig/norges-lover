@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-16 21:52 UTC*
+*Sist oppdatert: 2026-05-16 22:18 UTC*
 
-**Antall dokumenter:** 54
+**Antall dokumenter:** 104
 
 ## Innhold
 
@@ -63,6 +63,56 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 13-3. Ventilasjon i byggverk for publikum og arbeidsbygning](regelverk/byggteknisk-forskrift-tek17/13/i/13-3.md)
 - [Innledning til kapittel 13 Inneklima og helse](regelverk/byggteknisk-forskrift-tek17/13/i/innledning.md)
 - [§ 13-4. Termisk inneklima](regelverk/byggteknisk-forskrift-tek17/13/ii/13-4.md)
+- [§ 13-5. Radon](regelverk/byggteknisk-forskrift-tek17/13/iii/13-5.md)
+- [§ 13-6. Lyd og vibrasjoner](regelverk/byggteknisk-forskrift-tek17/13/iv/13-6.md)
+- [§ 13-7. Lys](regelverk/byggteknisk-forskrift-tek17/13/v/13-7.md)
+- [§ 13-8. Utsyn](regelverk/byggteknisk-forskrift-tek17/13/v/13-8.md)
+- [§ 13-10. Fukt fra grunnen](regelverk/byggteknisk-forskrift-tek17/13/vi/13-10.md)
+- [§ 13-11. Overvann](regelverk/byggteknisk-forskrift-tek17/13/vi/13-11.md)
+- [§ 13-12. Nedbør](regelverk/byggteknisk-forskrift-tek17/13/vi/13-12.md)
+- [§ 13-13. Fukt fra inneluft](regelverk/byggteknisk-forskrift-tek17/13/vi/13-13.md)
+- [§ 13-14. Byggfukt](regelverk/byggteknisk-forskrift-tek17/13/vi/13-14.md)
+- [§ 13-15. Våtrom og rom med vanninstallasjoner](regelverk/byggteknisk-forskrift-tek17/13/vi/13-15.md)
+- [§ 13-9. Generelle krav om fukt](regelverk/byggteknisk-forskrift-tek17/13/vi/13-9.md)
+- [§ 13-16. Rengjøring før bygningen tas i bruk](regelverk/byggteknisk-forskrift-tek17/13/vii/13-16.md)
+- [§ 14-1. Generelle krav](regelverk/byggteknisk-forskrift-tek17/14/14-1.md)
+- [§ 14-2. Krav til energieffektivitet](regelverk/byggteknisk-forskrift-tek17/14/14-2.md)
+- [§ 14-3. Minimumsnivå for energieffektivitet](regelverk/byggteknisk-forskrift-tek17/14/14-3.md)
+- [§ 14-4. Krav til løsninger for energiforsyning](regelverk/byggteknisk-forskrift-tek17/14/14-4.md)
+- [§ 14-5. Unntak og krav til særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/14/14-5.md)
+- [Innledning til kapittel 14 Energi](regelverk/byggteknisk-forskrift-tek17/14/innledning-til-kapittel-14-energi.md)
+- [§ 15-1. Generelle krav til varme- og kjøleinstallasjoner](regelverk/byggteknisk-forskrift-tek17/15/i/15-1.md)
+- [§ 15-2. Sentralvarmeinstallasjon](regelverk/byggteknisk-forskrift-tek17/15/i/15-2.md)
+- [§ 15-3. Røykkanal og skorstein](regelverk/byggteknisk-forskrift-tek17/15/i/15-3.md)
+- [§ 15-4. Varmepumpe- og kuldeinstallasjon](regelverk/byggteknisk-forskrift-tek17/15/i/15-4.md)
+- [Innledning til kapittel 15 Installasjoner og anlegg](regelverk/byggteknisk-forskrift-tek17/15/i/innledning.md)
+- [§ 15-5. Innvendig vanninstallasjon](regelverk/byggteknisk-forskrift-tek17/15/ii/15-5.md)
+- [§ 15-6. Innvendig avløpsinstallasjon](regelverk/byggteknisk-forskrift-tek17/15/ii/15-6.md)
+- [§ 15-7. Utvendig vannforsyningsanlegg med ledningsnett](regelverk/byggteknisk-forskrift-tek17/15/iii/15-7.md)
+- [§ 15-8. Utvendig avløpsanlegg med ledningsnett. Overvann og drensvann](regelverk/byggteknisk-forskrift-tek17/15/iii/15-8.md)
+- [§ 15-10. Rom og sjakt for heis](regelverk/byggteknisk-forskrift-tek17/15/iv/15-10.md)
+- [§ 15-11. Fritt sikkerhetsrom for heis](regelverk/byggteknisk-forskrift-tek17/15/iv/15-11.md)
+- [§ 15-12. Løfteplattformer](regelverk/byggteknisk-forskrift-tek17/15/iv/15-12.md)
+- [§ 15-13. Rulletrapp og rullende fortau](regelverk/byggteknisk-forskrift-tek17/15/iv/15-13.md)
+- [§ 15-14. Trappeheiser](regelverk/byggteknisk-forskrift-tek17/15/iv/15-14.md)
+- [§ 15-15. Sammenhengen mellom løfteinnretninger og harmoniserte standarder](regelverk/byggteknisk-forskrift-tek17/15/iv/15-15.md)
+- [§ 15-9. Heiser](regelverk/byggteknisk-forskrift-tek17/15/iv/15-9.md)
+- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1.md)
+- [§ 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-2.md)
+- [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for heis for personer med yrkeskvalifikasjoner fra annen EØS-stat](regelverk/byggteknisk-forskrift-tek17/16/16-3.md)
+- [§ 16-4. Midlertidig utøvelse av sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-4.md)
+- [§ 16-5. Språkkrav](regelverk/byggteknisk-forskrift-tek17/16/16-5.md)
+- [§ 16-6. Installasjonsregister](regelverk/byggteknisk-forskrift-tek17/16/16-6.md)
+- [§ 16-7. Administrativt samarbeid](regelverk/byggteknisk-forskrift-tek17/16/16-7.md)
+- [§ 16-8. Prisregulering](regelverk/byggteknisk-forskrift-tek17/16/16-8.md)
+- [Innledning til kapittel 16 Sikkerhetskontroll av heis](regelverk/byggteknisk-forskrift-tek17/16/innledning.md)
+- [§ 17-1. Klimagassregnskap fra materialer](regelverk/byggteknisk-forskrift-tek17/17/17-1.md)
+- [§ 18-1. Ikrafttredelse](regelverk/byggteknisk-forskrift-tek17/18/18-1.md)
+- [§ 18-2. Overgangsbestemmelser](regelverk/byggteknisk-forskrift-tek17/18/18-2.md)
+- [§ 2-1. Dokumentasjon for oppfyllelse av krav. Generelt](regelverk/byggteknisk-forskrift-tek17/2/2-1.md)
+- [§ 2-2. Dokumentasjon for oppfyllelse av funksjonskrav. Underlag for detaljprosjektering](regelverk/byggteknisk-forskrift-tek17/2/2-2.md)
+- [§ 2-3. Dokumentasjon for oppfyllelse av ytelser. Produksjonsunderlag](regelverk/byggteknisk-forskrift-tek17/2/2-3.md)
+- [§ 2-4. Dokumentasjon av utførelsen](regelverk/byggteknisk-forskrift-tek17/2/2-4.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](regelverk/byggteknisk-forskrift-tek17.md)
 
 ### Tek17
