@@ -1,0 +1,162 @@
+<!-- innholds-hash: 7cd2a3e8e0907a12af45a223db2ba8a80c2b7083bae1f50d52ea0ee8a2586a84 -->
+
+# § 8-3. Uteoppholdsareal
+
+## Kildeinformasjon
+
+- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-3/3/b/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist hentet:** 2026-05-17T18:59:34Z
+
+## Innhold
+
+
+## Byggteknisk forskrift (TEK17) med veiledning
+
+
+### INNHOLD TEK17
+
+
+### § 8-3. Uteoppholdsareal
+
+(1) Uteoppholdsarealer skal etter sin funksjon være egnet for rekreasjon, lek og aktiviteter for ulike aldersgrupper.
+
+Grunnlaget for utforming av utearealer legges i planarbeidet (områdeplan og detaljplan).
+
+Viktige egenskaper for egnet uteoppholdsareal er at
+
+- deler av området reserveres til felles uteoppholds- og lekearealer med solinnfall, skjerming mot vær og klima, og vern mot støy.
+- uteoppholdsarealet for boenheter er variert slik at det kan benyttes til ulike aktiviteter og for ulike aldersgrupper av beboere.
+Disponeringen og utformingen av uteoppholdsarealet som viser at uteoppholdsarealet etter sin funksjon er egnet, skal dokumenteres på situasjonsplan, utomhusplan eller på annen egnet kartillustrasjon.
+
+Hvilke vurderinger knyttet til egnethet som ligger til grunn for utforming av arealet, må framgå av situasjonsplan, utomhusplan eller tilhørende notat.
+
+(2) Uteoppholdsarealer skal plasseres og utformes slik at det oppnås god kvalitet med hensyn til
+
+Plasseringen av uteoppholdsarealet er avgjørende for kvaliteten på lek, rekreasjon og aktiviteter.
+
+God kvalitet oppnås enklere ved gjennomtenkte løsninger der målgruppenes behov er vurdert.
+
+a) sol- og lysforhold
+
+Sol- og lysforhold er viktige kvaliteter på ethvert uteoppholdsareal. Lysforhold omfatter dagslys og kunstig belysning. Belysning på kvelds- og nattestid vil kunne øke sikkerheten og tryggheten ved bruk av arealene.
+
+Der det ikke er mulig å oppnå gode solforhold på alle uteoppholdsareal, er det viktig å plassere stillesittende aktiviteter der det er uteoppholdsareal med gunstige solforhold, både for barn, unge, voksne og eldre. Dette gjelder også sosiale møtesteder med bord, sittegrupper og lignende.
+
+b) støy- og annen miljøbelastning.
+
+Å kunne oppholde seg eller konsentrere seg om lek uten å bli forstyrret eller forstyrre andre, er en kvalitet som kan oppnås med en gjennomtenkt plassering og utforming.
+
+Uteoppholdsareal som skal være egnet for ro og hvile egner seg dårlig for plassering like inntil støykilder eller et uteoppholdsareal der det forutsettes støyende aktivitet, for eksempel ballspill.
+
+Miljøbelastning som for eksempel forurenset luft, vil redusere kvaliteten på et uteoppholdsareal. Eksos fra biltrafikk og utslipp fra industri vil kunne redusere kvaliteten på området. Det samme gjelder forurensing i grunnen.
+
+Der det er mistanke om forurensing i grunnen, må det gjennomføres undersøkelser før uteoppholdsarealet plasseres, se
+
+Lydforhold på uteoppholdsareal er regulert i
+
+
+### Preaksepterte ytelser
+
+- Der det er flere valgmuligheter for plassering av uteoppholdsarealet må det velges det arealet som får minst miljøbelastning.
+(3) Uteoppholdsarealer skal utformes slik at personer ikke utsettes for farer. Følgende skal minst være oppfylt:
+
+Faremomenter som trafikk, sammenstøt og fall må vurderes med hensyn til sikringstiltak.
+
+a) Lekearealer skal avskjermes mot trafikk.
+
+Kravet gjelder også ballbaner.
+
+b) Nivåforskjeller skal sikres slik at fallskader forebygges.
+
+Hvilken type sikringstiltak som velges vil være avhengig av høydeforskjell og underlag.
+
+
+### Preaksepterte ytelser
+
+- Nivåforskjell på mer enn 3 meter må sikres med rekkverk, gjerde, tett vegetasjon eller lignende slik at fallskader forebygges.
+- Nivåforskjell på mer enn 0,5 meter der det er hardt underlag som betong, asfalt, steinheller og lignende, må sikres med rekkverk, gjerde, tett vegetasjon eller liknende slik at fallskader forebygges.
+(4) Basseng, brønn eller lignende i uteoppholdsarealer skal sikres med gjerde, overdekking eller tilsvarende avstenging for å hindre at personer faller i dem.
+
+God sikring oppnås når gjerde rundt dammen går helt ned til bakken, er 1,5 meter høyt og har solid fundament.
+
+Overdekking, overbygging, lokk, lås og gjerde med port eller grind må holdes i forsvarlig stand, jamfør
+
+For hagedam og andre mindre damanlegg vil inngjerding normalt ikke være nødvendig dersom det er truffet andre tiltak for å hindre drukningsulykker. Slike tiltak kan være:
+
+- å anlegge grunne partier med dybde maksimum 0,20 meter der barn kan komme til,
+- å sikre med gitter, rist eller lignende slik at dybden fra vannspeilet til sikringen ikke overstiger 0,20 meter der barn kan komme til, eller
+- å bruke vegetasjon eller andre tiltak slik at barn ikke kommer lett til vann.
+
+### Preaksepterte ytelser
+
+- Gjerde rundt basseng, brønn eller lignende må utformes slik at det ikke er mulig for barn å krype under, gjennom eller klatre over det.
+- Port eller grind må ha solid lås eller annen lukningsanordning.
+- Overdekking eller overbygging av basseng, brønn eller lignende må være utført av solide materialer og være godt festet til forsvarlig fundament.
+- Overdekking må være sikret med lås eller liknende for å unngå at overdekkingen fjernes av barn eller uvedkommende.
+(5) Følgende gjelder i tillegg for uteoppholdsarealer med krav om universell utforming:
+
+a) Opparbeidet areal avsatt til lek og rekreasjon skal ha et horisontalt felt med fast dekke på minimum 1,6 m x 1,6 m som muliggjør deltakelse og likestilt bruk.
+
+Byggesaksdelen i plan- og bygningsloven regulerer arealet til lekeplasser, men ikke utstyret til lekeplasser. Dette er regulert i forskrift om sikkerhet ved lekeplassutstyr.
+
+Hensikten med kravet er at personer som bruker rullestol skal kunne delta i lek, enten ved aktivt å benytte lekeplassutstyr eller ved å være sammen med andre som leker.
+
+For å muliggjøre deltakelse og likestilt bruk kreves det at det anlegges et felt som gjør det mulig å oppholde seg ved lekeapparatene. Dette arealet gjør det også mulig for foreldre som benytter rullestol å passe på barn eller delta i leken.
+
+Størrelsen på arealet er dimensjonert for at en rullestol kan være parkert, at den kan snu og at det er plass for personer ved siden av. Arealet kan inngå i annet dekke som legges på lekearealet, forutsatt at dette er et fast dekke som hjulene ikke kjører seg fast i. Det er ikke behov for markering eller merking av arealet.
+
+
+### Preaksepterte ytelser
+
+- Horisontalt felt må plasseres hensiktsmessig i forhold til lekeapparater. Der det er flere typer lekeplassutstyr må det være flere felt dersom feltet ikke er plassert sentralt i forhold til lekeapparatene.
+- Der det etableres et rekreasjonsareal med bord og stoler eller annen type rekreasjonsareal, må det også etableres et horisontalt felt slik at rullestolbruker har plass til å delta på en likestilt måte og kunne snu.
+- Atkomst må gå helt fram til det horisontale feltet og mellom øvrige felt.
+b) Opparbeidet utendørs nivåforskjell skal være merket visuelt og taktilt.
+
+Hensikten med kravet er å sikre mot fall. Fall kan forhindres ved å gjøre oppmerksom på nivåforskjellen på for eksempel på torg og plasser, mellom terrasser eller mellom gatenivåer.
+
+Det er kanten mellom nivåene som skal merkes visuelt og taktilt.
+
+Se for øvrig
+
+
+### Preaksepterte ytelser
+
+- Den taktile merkingen må utføres slik at merkingen er følbart med føttene. Den visuelle merkingen må ha synlig kontrast med luminanskontrast 0,4 mellom bakgrunnen og markeringen.
+c) Stolper, rekkverk og lignende skal ha synlig kontrast til omgivelsene.
+
+Løse klistrelapper eller tape vurderes ikke som god universell utforming.
+
+
+### Preaksepterte ytelser
+
+- Den synlige kontrasten med luminanskontrast 0,4 må være en del av utformingen, enten ved
+- at stolper, rekkverk og lignende gir en fargekontrast til omgivelsene, eller
+- at de er markert slik at man gjøres oppmerksom på fare for sammenstøt. Luminanskontrasten må da være mellom stolpen, rekkverket og lignende, og markeringen.
+d) Det skal være plass for rullestol der det anlegges sitteplasser.
+
+Hensikten med kravet er å sikre likestilt bruk.
+
+Arealet plasseres slik at bruken former en naturlig sittegruppe, slik at personer i rullestol kan delta likestilt.
+
+Ved benker kan det frie areal plasseres ved siden av eller overfor benk. Plassering av arealet i veibanen er ikke tilstrekkelig.
+
+e) Opparbeidet badeplass skal være utstyrt eller utformet slik at det er lett å komme seg ned i og opp av vannet.
+
+Hensikten med kravet er å sikre likestilt bruk.
+
+Tiltak kan for eksempel være ramper som legges ut i vannet, eller andre tiltak som oppfyller samme funksjon.
+
+Rampe skal oppfylle krav til utforming som angitt i
+
+
+### Henvisninger
+
+
+---
+*Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-3/3/b/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-05-17** Første gang hentet

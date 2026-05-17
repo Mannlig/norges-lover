@@ -1,0 +1,192 @@
+<!-- innholds-hash: 7e8d20cb26d869e9648d029950402f2bae2c3ddd2718e8d5a350fe1788bf63cd -->
+
+# § 1-3. Definisjoner
+
+## Kildeinformasjon
+
+- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-3/1/l/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist hentet:** 2026-05-17T18:50:51Z
+
+## Innhold
+
+
+## Byggteknisk forskrift (TEK17) med veiledning
+
+
+### INNHOLD TEK17
+
+
+### § 1-3. Definisjoner
+
+I forskriften menes med
+
+I byggteknisk forskrift brukes mange begreper. For å gjøre byggteknisk forskrift lettere å forstå er de mest sentrale begrepene definert i denne bestemmelsen. Tydelige definisjoner er ment å bidra til redusert tidsbruk ved prosjektering, uavhengig kontroll og tilsyn.
+
+I tillegg til definisjonene gitt i denne bestemmelsen brukes en rekke andre begreper i regelverket, blant annet begreper som er definert i standarder. Definisjoner av de viktigste begrepene følger nedenfor etter bokstav n.
+
+Noen kapitler og paragrafer gir også definisjoner av begreper som bare benyttes der.
+
+a)
+
+Begrepet boenhet brukes særlig i forskriftens kapittel 12
+
+b)
+
+Byggverk er et samlebegrep og omfatter konstruksjoner, anlegg og bygninger. Begrepet benyttes i de fleste kapitlene i forskriften og i plan- og bygningsloven. Der begrepet byggverk er brukt gjelder kravet ikke bare for bygninger men også for konstruksjoner og anlegg så langt det er relevant.
+
+c)
+
+Funksjonskrav er krav som er formulert som overordnet formål, som skal oppfylles i det ferdige byggverket. Kravene i byggteknisk forskrift er i stor grad formulert som funksjonskrav. Funksjonskravene er angitt kvalitativt og kan gjelde byggverket som helhet eller bygningsdeler, installasjoner og utearealer. Funksjonskravene i forskriften er videre konkretisert enten som ytelseskrav i forskriften eller som preaksepterte ytelser i veiledningen til forskriften. Forskriftens kapittel 2 gir nærmere regler om forholdet mellom funksjonskrav, ytelser og preaksepterte ytelser samt dokumentasjon, i tillegg til forholdet til standarder.
+
+d)
+
+Gangatkomst er et begrep som i hovedsak benyttes i kapittel 8
+
+e)
+
+Hovedfunksjoner er et begrep som kun benyttes i forbindelse med bolig og krav om tilgjengelig boenhet. Begrepet benyttes i hovedsak i kapittel 12
+
+f)
+
+Inngangsparti er et begrep som benyttes for byggverk og særlig for bygning med boenhet, arbeids- og publikumsbygninger. Begrepet benyttes i hovedsak i kapittel 12
+
+g)
+
+Likeverdige standarder er et begrep som benyttes i § 2-1
+
+h)
+
+Mellometasje er et begrep som benyttes ved beregningen av måleverdige plan etter § 6-1 og for krav til sikkerhet ved brann og utgang fra branncelle.
+
+i)
+
+Opparbeidet uteareal er et begrep som benyttes i kapittel 8
+
+j)
+
+Preakseptert ytelse er et begrep som benyttes særlig i kapittel 2
+
+k)
+
+Produksjonsunderlag er et begrep som benyttes i § 2-3
+
+l)
+
+Rom for varig opphold er et begrep som særlig benyttes i kapittel 12
+
+For bolig er rom for varig opphold stue og tilsvarende rom, kjøkken og soverom.
+
+m)
+
+Trinnfri er et begrep som benyttes i forskriftens kapittel 8
+
+n)
+
+Ytelse er et begrep som blant annet benyttes i § 2-3
+
+I tillegg til definisjonene gitt i forskriften brukes det en rekke andre begreper i regelverket. Nedenfor følger en liste med flere definisjoner.
+
+
+### Arealbegreper definert i standarder
+
+1. Bebygd areal (BYA): horisontalprojeksjon av enten bygning(er), bygningsdeler eller tilhørende konstruksjoner over bakken, jf. NS 3940:2012
+
+2. Bruksareal (BRA): areal innenfor omsluttende vegger, jf. NS 3940:2012
+
+Oppvarmet (del av) BRA: den delen av BRA som tilføres varme fra bygningens varmesystem og eventuelt kjøling fra bygningens kjølesystem og som er omsluttet av bygningens klimaskjerm, jf. NS 3031:2014
+
+3. Bruttoareal (BTA): areal begrenset av ytterveggens utside eller midt i delevegg, jf. NS 3940:2012
+
+Ved beregning av bruttoareal i tilknytning til kap. 11 Sikkerhet ved brann gjelder følgende supplement til definisjonen i NS 3940:2012.
+
+Bruttoareal for en etasje eller et plan beregnes fra utvendig avsluttende overflate av yttervegg eller andre omsluttende bygningsdeler, f.eks. kledning eller rekkverk. Hvis rekkverk plasseres inne på dekket, måles til ytterkant dekke. Innhuk og framspring av konstruksjonsmessig eller estetisk art medregnes ikke.
+
+Bruttoarealet for en bygning er summen av bruttoarealene for alle plan og etasjer. Planene kan være helt eller delvis under terreng. Loft, takterrasser, balkonger, svalganger, altanganger o.l. og tekniske plan skal medregnes.
+
+
+### Andre begreper definert i standarder
+
+1. Bruksenhet: rom eller samling av rom og åpne deler som sammen anvendes i en bestemt hensikt av én bruker, som kan være eier, leier eller annen bruksretthaver, jf. NS 3940:2012
+
+En bruksenhet kan være én bygning, f.eks. kontorbygg, eller flere bygninger, f.eks. sykehus, men kan også være del av en bygning, f.eks. boenhet (bolig), kontorenhet, eller for eksempel avdeling eller post på et sykehus.
+
+2. Luminanskontrast: kontrast som oppstår grunnet synlige forskjeller mellom objektets og bakgrunnens luminans, jf. NS 11001-1:2018.
+
+Luminans: et objekts lyshet, måles i candela/m
+
+3. Netto varmebehov: netto energibehov til romoppvarming, ventilasjonsvarme og varmtvann, jf. NS 3700:2013
+
+4. Normalisert kuldebroverdi: samlet stasjonær varmestrøm fra kuldebroer dividert med oppvarmet del av BRA, jf. NS 3031:2014
+
+5. Småhus: enebolig, to- til firemannsbolig, rekkehus, kjedehus og terrassehus til og med tre etasjer, jf. NS 3457-3:2013
+
+6. Varmegjennomgangskoeffisient: stasjonær varmestrøm dividert med arealet og temperaturforskjellen mellom hver side av et system, jf. NS 3031:2014
+
+Kalles ofte for U-verdi som er varmetapet i watt gjennom 1 m2 areal ved en temperaturforskjell på 1 K.
+
+7. Varmetapstall: varmetransportkoeffisienten for transmisjon, infiltrasjon og ventilasjon dividert på oppvarmet del av BRA, jf. NS 3031:2014
+
+
+### Andre begreper
+
+1. Biobrensel: Biomasse som benyttes som brensel
+
+2. Branntekniske termer: se
+
+3. Bygningsteknisk installasjon: installasjoner (innendørs eller utendørs) som er nødvendige for byggverkets drift
+
+Omfatter faste installasjoner som inngår i selve byggverket. Installasjoner knyttet til aktiviteter i byggverket, for eksempel prosessanlegg i næringsvirksomhet, er ikke en del av de bygningstekniske installasjonene.
+
+Eksempler på bygningstekniske installasjoner er varmeinstallasjon, kuldeinstallasjon, ventilasjonsanlegg, vann- og avløpsinstallasjoner, løfteinnretning (f.eks. heis, rulletrapp).
+
+4. Drift: alle oppgaver og rutiner som er nødvendig for at et byggverk skal fungere som planlagt
+
+5. Direktevirkende elektrisitet: panelovner, stråleovner, elektriske varmekabler og elektrokjel. Omfatter ikke elektrisitet som benyttes til drift av varmepumper
+
+7. Forvaltning: økonomisk styring og administrasjon av drift og vedlikehold i et byggverk
+
+8. Fossile brensler: petroleumsprodukter som mineralsk fyringsolje, parafin, kull, koks, naturgass, propan o.l.
+
+9. Grunnlast: effekten opp til et visst nivå som skal til for å dekke hoveddelen av årlig varmebehov på en mest mulig lønnsom måte
+
+10. Lukket ildsted: ovn og lukket peis
+
+11. Overvann: overflateavrenning fra nedbør og smeltevann på plasser, gater, takflater mv.
+
+12. Parapet: vegg- eller rekkverklignende barriere langs kanten av tak, terrasse eller en forlengelse av veggens fasadeliv opp forbi takflaten
+
+13. Røykkanal: hele kanalen for røykgass fra fyringsenheten til utslipp i atmosfæren
+
+Omfatter røykrør fra ildsted til skorstein (av stål eller støpejern, eventuelt støpt eller murt anbringer fra kjel) samt skorstein.
+
+14. Skorstein: Konstruksjon av ett eller flere lag som omslutter den vertikale delen av røykkanalen.
+
+En skorstein kan inneholde flere vertikale røykkanaler.
+
+Prefabrikkerte skorsteiner kan også inneholde tilluftskanal til ildsted.
+
+15. Takoppbygg: fellesbetegnelse på ulike konstruksjoner i takﬂaten
+
+Eksempel kan være en ark eller et takopplett.
+
+16. Total solfaktor: angir andelen av solstrålingen som slipper gjennom en kombinasjon av glass og solskjermingssystemer
+
+17. Universell utforming: utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig
+
+18. Vedlikehold: nødvendige tiltak for å opprettholde byggverket med de tekniske installasjonene på et fastsatt kvalitetsnivå
+
+19. Våtrom: rom hvor overflater på vegger og gulv jevnlig eller av og til blir utsatt for fritt vann (vannsøl)
+
+Våtrom omfatter bad, dusjrom og vaskerom
+
+
+### Henvisninger
+
+
+---
+*Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-3/1/l/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-05-17** Første gang hentet
