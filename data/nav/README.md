@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-05-17 19:12 UTC*
+*Sist oppdatert: 2026-05-17 19:48 UTC*
 
-**Antall dokumenter:** 406
+**Antall dokumenter:** 452
 
 ## Innhold
 
@@ -12,11 +12,14 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Avtalefestet pensjon (AFP) i privat sektor - nav.no](afp-i-privat-sektor.md)
 - [Livsvarig avtalefestet pensjon (AFP) i offentlig sektor, født i 1963 eller senere - nav.no](afp-offentlig-livsvarig.md)
 - [Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no](afp-offentlig.md)
+- [Aktivitetshjelpemidler for personer over 26 år - nav.no](aktivitetshjelpemidler-over-26.md)
 - [Aktivitetsplan - nav.no](aktivitetsplan.md)
 - [Alderspensjon - nav.no](alderspensjon.md)
 - [Er alene med barn fordi den andre forelderen er død - nav.no](alene-med-barn-etter-dodsfall.md)
 - [Er helt eller delvis alene med barn - nav.no](alene-med-barn.md)
+- [Briller til forebygging eller behandling av amblyopi - nav.no](amblyopi.md)
 - [Har ansvar for andres barn - nav.no](andres-barn.md)
+- [Ansiktsprotese - nav.no](ansiktsprotese.md)
 - [Tilskudd til apper og programvare - nav.no](apper-og-programvare.md)
 - [Arbeid med støtte - nav.no](arbeid-med-stotte.md)
 - [Arbeid - nav.no](arbeid.md)
@@ -27,7 +30,10 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Be om arbeidsrettet oppfølging - nav.no](arbeidsrettet-oppfolging.md)
 - [Arbeidsrettet rehabilitering - nav.no](arbeidsrettet-rehabilitering.md)
 - [Trenger tilrettelegging på jobb eller i utdanning - nav.no](arbeidsrettet-veiledningstjeneste.md)
+- [Stoler og bord - nav.no](arbeidsstoler.md)
 - [Arbeidstrening - nav.no](arbeidstrening.md)
+- [Arm- og benproteser - nav.no](armogbenproteser.md)
+- [Automatikk og styring i bolig - nav.no](automatikk-i-bolig.md)
 - [Automatisk behandling av søknader i Nav - nav.no](automatisk-behandling.md)
 - [Avklaring - nav.no](avklaring.md)
 - [Stønad ved båretransport - nav.no](baretransport.md)
@@ -46,6 +52,8 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Bidragsforskudd - nav.no](bidragsforskudd.md)
 - [Bilstønad - nav.no](bilstonad.md)
 - [Bor ikke sammen med barnet mitt - nav.no](bor-ikke-med-barnet-mitt.md)
+- [Briller og kontaktlinser for synshemmede - nav.no](briller-kontaktlinser-for-synshemmede.md)
+- [Briller til barn - nav.no](briller-til-barn.md)
 - [Bruk av oversettelsesverktøy i Nav – brudd på personopplysningssikkerheten   - nav.no](bruk-av-oversettelsesverktoy.md)
 - [Tips ved tekniske problemer - nav.no](brukerstotte.md)
 - [Dagpenger - nav.no](dagpenger.md)
@@ -129,6 +137,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Trenger rådgivning om økonomi og gjeld - nav.no](okonomi-gjeld.md)
 - [Økonomisk sosialhjelp - nav.no](okonomisk-sosialhjelp.md)
 - [Oljepionerene - nav.no](oljepionerene.md)
+- [Oljepionernemnda er etablert - nav.no](oljepionernemnda.md)
 - [Informasjon om hjelpemidler og tilrettelegging - nav.no](om-hjelpemidler.md)
 - [Pensjonsopptjening ved omsorg for barn - nav.no](omsorgsopptjening-barn.md)
 - [Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser - nav.no](omsorgsopptjening-eldre.md)
@@ -145,9 +154,12 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Trenger råd og veiledning - nav.no](opplysning-rad-veiledning.md)
 - [Overgangsstønad til enslig mor eller far - nav.no](overgangsstonad-enslig.md)
 - [Overgangsstønad til gjenlevende - nav.no](overgangsstonad-gjenlevende.md)
+- [Har bodd eller jobbet i flere land - nav.no](pensjon-utland.md)
 - [Pensjon - nav.no](pensjon.md)
 - [Permittere - nav.no](permittering.md)
+- [Personvern og sikkerhet på nav.no - nav.no](personvern-sikkerhet-navno.md)
 - [Personvern i Arbeids- og velferdsetaten - nav.no](personvern.md)
+- [Personvernerklæring for Nav - nav.no](personvernerklaering.md)
 - [Personvernombudet i Nav  - nav.no](personvernombudet.md)
 - [Planlegger pensjon - nav.no](planlegger-pensjon.md)
 - [Pleiepenger for sykt barn - nav.no](pleiepenger-barn.md)
@@ -156,6 +168,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](protese-ortose-ortopediskesko-parykk.md)
 - [Har psykiske helseproblemer - nav.no](psykiske-helseproblemer.md)
 - [Regelendringer for uføretrygd i 2026 - nav.no](regelendring-uforetrygd.md)
+- [Regelendringer og satser fra 2026 - nav.no](regelendringer-2026.md)
 - [Registrer deg som arbeidssøker - nav.no](registrer-arbeidssoker.md)
 - [Vil registrere farskap, morskap eller medmorskap - nav.no](registrere-far-eller-mor.md)
 - [Reisetilskudd - nav.no](reisetilskudd.md)
@@ -176,6 +189,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Stønad til skolepenger for enslig mor eller far - nav.no](skolepenger-enslig.md)
 - [Stønad til skolepenger for tidligere familiepleiere - nav.no](skolepenger-familiepleier.md)
 - [Stønad til skolepenger for gjenlevende ektefelle - nav.no](skolepenger-gjenlevende.md)
+- [Skriv til oss - nav.no](skriv-til-oss.md)
 - [Trenger råd og veiledning - nav.no](snakke-med-nav.md)
 - [Søk jobb i Nav - nav.no](sok-jobb-i-nav.md)
 - [Søk opp Nav-kontor](sok-nav-kontor.md)
@@ -223,10 +237,12 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Ungdomsgarantien - nav.no](ungdomsgarantien.md)
 - [Ungdomsprogrammet - nav.no](ungdomsprogrammet.md)
 - [Utbetalinger fra Nav til utlandet - nav.no](utbetaling-utland.md)
+- [Utbetalingsdatoer - nav.no](utbetalingsdatoer.md)
 - [Utvidet barnetrygd - nav.no](utvidet-barnetrygd.md)
 - [Varig lønnstilskudd - nav.no](varig-lonnstilskudd.md)
 - [Har en varig sykdom eller skade og kan ikke jobbe - nav.no](varig-sykdom-skade.md)
 - [Varig tilrettelagt arbeid - nav.no](varig-tilrettelagt-arbeid.md)
+- [Råd og veiledning for veteraner - nav.no](veteran.md)
 - [Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste - nav.no](yrkesskade.md)
 
 ### Alderspensjon
@@ -370,6 +386,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Inntektsskjema for næringsdrivende og ansatt i eget aksjeselskap - uføretrygd | www.nav.no](fyllut/nav120607.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609.md)
 - [Søknad om alderspensjon | www.nav.no](fyllut/nav190105.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101.md)
 - [Melding om nytt bankkontonummer | www.nav.no](fyllut/nav952000.md)
 
 ### Fyllut Ettersending
@@ -423,13 +440,19 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Nav.No Ressurser
 
+- [Dekningsloven](nav.no-ressurser/lenker/regelverk/lovdata/dekningsloven.md)
 - [Kapittel 12. Uføretrygd](nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven-kap.12.uforetrygd.md)
+- [Konkursloven](nav.no-ressurser/lenker/regelverk/lovdata/konkursloven.md)
 - [Lov Om Reindrift](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-reindrift.md)
 - [Kapittel 3. Arbeidsgivers meldeplikt](nav.no-ressurser/lenker/regelverk/rettskildene/arbeidsmarkedsloven--8.md)
+- [Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)](nav.no-ressurser/lenker/regelverk/rettskildene/arbeidsmiljoloven-aml.md)
 - [Kapittel 3. Visse beregningsregler, trygdetid, pensjonspoeng og pensjonsgivende inntekt](nav.no-ressurser/lenker/regelverk/rettskildene/beregning-av-pensjon.folketrygdloven-kap.3-gamle-opptjeningsregler.md)
 - [Kapittel 8. Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-kap.8.md)
+- [Forskrift om avskrivning av statens krav etter lønnsgarantiordningen](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-avskrivning-og-ettergivelse-av-statens-krav-etter-lonnsgarantiordningen.md)
+- [Forskrift om statsgaranti for lønnskrav ved konkurs m.v.](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-statsgaranti-for-lonnskrav-ved-konkurs.md)
 - [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](nav.no-ressurser/lenker/regelverk/rettskildene/kontantstotteloven.hovednr.34.md)
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
+- [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-statsgaranti-for-lonnskrav-ved-konkurs-m.v.md)
 - [Ditt Sykefravaer](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
 - [Logg Inn Pa Ditt Nav](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/logg-inn-pa-ditt-nav.md)
 - [Søk opp Nav-kontor](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/sok-opp-nav-kontor.md)
@@ -438,11 +461,32 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Din Pensjon](no/ditt-nav/flere-tjenester/din-pensjon.md)
 - [Forside privatperson - nav.no](no/en.md)
+- [Agder - nav.no](no/lokalt/agder.md)
+- [Innlandet - nav.no](no/lokalt/innlandet.md)
+- [Møre og Romsdal - nav.no](no/lokalt/more-og-romsdal.md)
+- [Nordland - nav.no](no/lokalt/nordland.md)
+- [Oslo - nav.no](no/lokalt/oslo.md)
+- [Øst-Viken - nav.no](no/lokalt/ost-viken.md)
+- [Rogaland - nav.no](no/lokalt/rogaland.md)
+- [Troms og Finnmark - nav.no](no/lokalt/troms-og-finnmark.md)
+- [Trøndelag - nav.no](no/lokalt/trondelag.md)
+- [Vest-Viken - nav.no](no/lokalt/vest-viken.md)
+- [Vestfold og Telemark - nav.no](no/lokalt/vestfold-og-telemark.md)
+- [Vestland - nav.no](no/lokalt/vestland.md)
 - [Spørsmål og svar om praksisendringer på familieytelsene - nav.no](no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/endret-praksis-i-saker-om-overgangsstonad-til-enslig-mor-eller-far.md)
+- [Informasjon om arbeidsavklaringspenger, sykepenger, pleiepenger, rehabiliteringspenger eller attføringspenger - nav.no](no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/informasjon-om-arbeidsavklaringspenger-sykepenger-pleiepenger-rehabiliteringspenger-eller-attforingspenger.md)
+- [Informasjon om barnetrygd, utvidet barnetrygd, kontantstøtte og stønad til enslig mor eller far - nav.no](no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/informasjon-om-barnetrygd-utvidet-barnetrygd-kontantstotte-og-stonad-til-enslig-mor-eller-far.md)
 - [Feiltolkningen av EØS-reglene - nav.no](no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene.md)
 - [Kurs fra Nav - nav.no](no/nav-og-samfunn/kontakt-nav/kurs-fra-nav.md)
 - [Nav i ditt fylke - nav.no](no/nav-og-samfunn/kontakt-nav/nav-i-ditt-fylke.md)
 - [Finn ditt Nav-kontor - nav.no](no/nav-og-samfunn/kontakt-nav/relatert-informasjon/finn-ditt-nav-kontor.md)
+- [Analyser fra Nav - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav.md)
+- [Praksis, rutiner og retningslinjer rundt offisiell og offentlig statistikk fra Nav - nav.no](no/nav-og-samfunn/kunnskap/data-og-forskning-pa-nav/praksis-rutiner-og-retningslinjer-rundt-offisiell-og-offentlig-statistikk-fra-nav.md)
+- [Data og forskning på Nav - nav.no](no/nav-og-samfunn/kunnskap/data-og-forskning-pa-nav.md)
+- [Forskning og utvikling (FoU) - nav.no](no/nav-og-samfunn/kunnskap/fou-midler.md)
+- [Infografikk fra Nav - nav.no](no/nav-og-samfunn/kunnskap/infografikk-fra-nav.md)
+- [Publiseringskalender - nav.no](no/nav-og-samfunn/statistikk/publiseringskalender.md)
+- [Statistikk - nav.no](no/nav-og-samfunn/statistikk/statistikk.md)
 - [Statistikk, analyse og FoU - nav.no](no/nav-og-samfunn/statistikk-analyse-og-fou.md)
 
 ### Okonomi Gjeld
@@ -467,6 +511,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Person
 
+- [Jearaldat bagadallama oažžut sámegillii telefovnnas](person/bestilling-av-samisk-samtale.md)
 - [Nb](person/personopplysninger/nb.md)
 - [Personopplysninger](person/personopplysninger.md)
 
@@ -478,6 +523,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Contact us - nav.no](redirects/footer-contactus-en.md)
 - [Grunnbeløpet i folketrygden - nav.no](redirects/grunnbelop.md)
+- [Grunnbeløpet i folketrygden - nav.no](redirects/grunnbelopet.md)
 - [Forside privatperson - nav.no](redirects/logg-inn-din-side.md)
 
 ### Registrer Arbeidssoker
