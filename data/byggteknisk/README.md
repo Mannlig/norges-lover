@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-17 11:53 UTC*
+*Sist oppdatert: 2026-05-17 12:16 UTC*
 
-**Antall dokumenter:** 153
+**Antall dokumenter:** 191
 
 ## Innhold
 
@@ -13,8 +13,14 @@ Byggtekniske krav og veiledere fra DiBK.
 
 ### Regelverk
 
+- [Building Acts and Regulations](regelverk/Building-Regulations-in-English.md)
+- [Bod og oppbevaringsplass i boligen](regelverk/alt-om-tek/bod-og-oppbevaringsplass-i-boligen.md)
 - [Slik leser du byggteknisk forskrift](regelverk/alt-om-tek/slik-leser-du-tek17.md)
+- [Alt om TEK17](regelverk/alt-om-tek.md)
 - [§ 1-1. Formål](regelverk/byggteknisk-forskrift-tek17/1/1-1.md)
+- [§ 1-2. Forskriftens anvendelse på særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/1/1-2/6/c.md)
+- [§ 1-2. Forskriftens anvendelse på særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/1/1-2/6.md)
+- [§ 1-2. Forskriftens anvendelse på særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/1/1-2/8.md)
 - [§ 1-2. Forskriftens anvendelse på særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/1/1-2.md)
 - [§ 1-3. Definisjoner](regelverk/byggteknisk-forskrift-tek17/1/1-3.md)
 - [§ 10-1. Personlig og materiell sikkerhet](regelverk/byggteknisk-forskrift-tek17/10/10-1.md)
@@ -28,35 +34,52 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 11-4. Bæreevne og stabilitet](regelverk/byggteknisk-forskrift-tek17/11/ii/11-4.md)
 - [§ 11-5. Sikkerhet ved eksplosjon](regelverk/byggteknisk-forskrift-tek17/11/ii/11-5.md)
 - [§ 11-10. Tekniske installasjoner](regelverk/byggteknisk-forskrift-tek17/11/iii/11-10.md)
+- [§ 11-6. Tiltak mot brannspredning mellom byggverk](regelverk/byggteknisk-forskrift-tek17/11/iii/11-6/2.md)
 - [§ 11-6. Tiltak mot brannspredning mellom byggverk](regelverk/byggteknisk-forskrift-tek17/11/iii/11-6.md)
 - [§ 11-7. Brannseksjoner](regelverk/byggteknisk-forskrift-tek17/11/iii/11-7.md)
+- [§ 11-8. Brannceller](regelverk/byggteknisk-forskrift-tek17/11/iii/11-8/2.md)
 - [§ 11-8. Brannceller](regelverk/byggteknisk-forskrift-tek17/11/iii/11-8.md)
 - [§ 11-9. Materialer og produkters egenskaper ved brann](regelverk/byggteknisk-forskrift-tek17/11/iii/11-9.md)
 - [§ 11-11. Generelle krav om rømning og redning](regelverk/byggteknisk-forskrift-tek17/11/iv/11-11.md)
 - [§ 11-12. Tiltak for å påvirke rømnings- og redningstider](regelverk/byggteknisk-forskrift-tek17/11/iv/11-12.md)
+- [§ 11-13. Utgang fra branncelle](regelverk/byggteknisk-forskrift-tek17/11/iv/11-13/3/veiledning-til-tredje-ledd.md)
+- [§ 11-13. Utgang fra branncelle](regelverk/byggteknisk-forskrift-tek17/11/iv/11-13/7.md)
 - [§ 11-13. Utgang fra branncelle](regelverk/byggteknisk-forskrift-tek17/11/iv/11-13.md)
+- [§ 11-14. Rømningsvei](regelverk/byggteknisk-forskrift-tek17/11/iv/11-14/5.md)
 - [§ 11-14. Rømningsvei](regelverk/byggteknisk-forskrift-tek17/11/iv/11-14.md)
 - [§ 11-15. Tilrettelegging for redning av husdyr](regelverk/byggteknisk-forskrift-tek17/11/iv/11-15.md)
+- [§ 11-16. Tilrettelegging for manuell slokking](regelverk/byggteknisk-forskrift-tek17/11/v/11-16/4.md)
 - [§ 11-16. Tilrettelegging for manuell slokking](regelverk/byggteknisk-forskrift-tek17/11/v/11-16.md)
 - [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](regelverk/byggteknisk-forskrift-tek17/11/v/11-17.md)
 - [§ 12-1. Krav til planløsning og universell utforming av byggverk](regelverk/byggteknisk-forskrift-tek17/12/i/12-1.md)
 - [§ 12-2. Krav om tilgjengelig boenhet](regelverk/byggteknisk-forskrift-tek17/12/i/12-2.md)
 - [§ 12-3. Krav om heis i byggverk](regelverk/byggteknisk-forskrift-tek17/12/i/12-3.md)
 - [Innledning til kapittel 12 Planløsning og bygningsdeler i byggverk](regelverk/byggteknisk-forskrift-tek17/12/i/innledning2.md)
+- [§ 12-10. Bod og oppbevaringsplass](regelverk/byggteknisk-forskrift-tek17/12/ii/12-10/3.md)
 - [§ 12-10. Bod og oppbevaringsplass](regelverk/byggteknisk-forskrift-tek17/12/ii/12-10.md)
+- [§ 12-11. Balkong, terrasse og lignende](regelverk/byggteknisk-forskrift-tek17/12/ii/12-11/3.md)
 - [§ 12-11. Balkong, terrasse og lignende](regelverk/byggteknisk-forskrift-tek17/12/ii/12-11.md)
+- [§ 12-12. Avfallssystem og kildesortering](regelverk/byggteknisk-forskrift-tek17/12/ii/12-12/2.md)
 - [§ 12-12. Avfallssystem og kildesortering](regelverk/byggteknisk-forskrift-tek17/12/ii/12-12.md)
+- [§ 12-4. Inngangsparti](regelverk/byggteknisk-forskrift-tek17/12/ii/12-4/2.md)
 - [§ 12-4. Inngangsparti](regelverk/byggteknisk-forskrift-tek17/12/ii/12-4.md)
 - [§ 12-5. Sikkerhet i bruk](regelverk/byggteknisk-forskrift-tek17/12/ii/12-5.md)
+- [§ 12-6. Kommunikasjonsvei](regelverk/byggteknisk-forskrift-tek17/12/ii/12-6/5/b.md)
+- [§ 12-6. Kommunikasjonsvei](regelverk/byggteknisk-forskrift-tek17/12/ii/12-6/5.md)
 - [§ 12-6. Kommunikasjonsvei](regelverk/byggteknisk-forskrift-tek17/12/ii/12-6.md)
+- [§ 12-7. Krav til utforming av rom og annet oppholdsareal](regelverk/byggteknisk-forskrift-tek17/12/ii/12-7/4.md)
+- [§ 12-7. Krav til utforming av rom og annet oppholdsareal](regelverk/byggteknisk-forskrift-tek17/12/ii/12-7/7.md)
 - [§ 12-7. Krav til utforming av rom og annet oppholdsareal](regelverk/byggteknisk-forskrift-tek17/12/ii/12-7.md)
 - [§ 12-8. Entré og garderobe](regelverk/byggteknisk-forskrift-tek17/12/ii/12-8.md)
+- [§ 12-9. Bad og toalett](regelverk/byggteknisk-forskrift-tek17/12/ii/12-9/2/b.md)
 - [§ 12-9. Bad og toalett](regelverk/byggteknisk-forskrift-tek17/12/ii/12-9.md)
+- [§ 12-13. Dør, port og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-13/3.md)
 - [§ 12-13. Dør, port og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-13.md)
 - [§ 12-14. Trapp](regelverk/byggteknisk-forskrift-tek17/12/iii/12-14.md)
 - [§ 12-15. Utforming av rekkverk](regelverk/byggteknisk-forskrift-tek17/12/iii/12-15.md)
 - [§ 12-16. Rampe](regelverk/byggteknisk-forskrift-tek17/12/iii/12-16.md)
 - [§ 12-17. Vindu og andre glassfelt](regelverk/byggteknisk-forskrift-tek17/12/iii/12-17.md)
+- [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-18/3.md)
 - [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-18.md)
 - [§ 13-1. Generelle krav til ventilasjon](regelverk/byggteknisk-forskrift-tek17/13/i/13-1.md)
 - [§ 13-2. Ventilasjon i boligbygning](regelverk/byggteknisk-forskrift-tek17/13/i/13-2.md)
@@ -162,7 +185,22 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Innledning til kapittel 9 Ytre miljø](regelverk/byggteknisk-forskrift-tek17/9/innledning-til-kapittel-9.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](regelverk/byggteknisk-forskrift-tek17.md)
 - [Forskrift om dokumentasjon av byggevarer (DOK)](regelverk/dok.md)
+- [Endringshistorikk for byggesaksforskriften (SAK)](regelverk/endringshistorikk-tek17/endringshistorikk.md)
 - [Endringshistorikk TEK17](regelverk/endringshistorikk-tek17.md)
+- [Forskrift til avhendingslova (tryggere bolighandel)](regelverk/forskrift-til-avhendingslova-tryggere-bolighandel.md)
+- [Forskrift om omsetning og dokumentasjon av heiser mv.](regelverk/forskrift.md)
+- [Høringer](regelverk/horinger/hoyringar/horinger.md)
+- [Eldre rundskriv etter plan- og bygningsloven](regelverk/liste-over-tidligere-regelverk/Eldre-rundskriv.md)
+- [Eldre temaveiledninger](regelverk/liste-over-tidligere-regelverk/Eldre-temaveiledninger.md)
+- [Byggesaksforskriften (SAK) 1997-2010](regelverk/liste-over-tidligere-regelverk/Saksbehandlingsforskriften-SAK-1997-2010.md)
+- [Teknisk forskrift 1997-2010](regelverk/liste-over-tidligere-regelverk/Teknisk-forskrift-1997-2010.md)
+- [§ 8-2. Overlevering av dokumentasjon for forvaltning, drift og vedlikehold](regelverk/sak/2/8/8-2.md)
+- [§ 14-6. Gjennomføring av uavhengig kontroll etter § 14-2 første ledd og annen uavhengig kontroll i tiltaksklasse 1](regelverk/sak/4/14/14-6.md)
+- [Byggesaksforskriften (SAK10) med veiledning](regelverk/sak.md)
+- [§ 12-10. Bod og oppbevaringsplass](regelverk/tek/3/12/ii/12-10.md)
+- [Byggteknisk forskrift (TEK10)](regelverk/tek.md)
+- [De mest sentrale endringene fra TEK10 til TEK17](regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17.md)
+- [Tidligere nyheter om endringer i regelverket](regelverk/tidligere-nyheter-om-endringer-i-regelverket.md)
 
 ### Tek17
 
