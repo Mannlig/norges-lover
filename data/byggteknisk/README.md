@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-17 04:47 UTC*
+*Sist oppdatert: 2026-05-17 05:23 UTC*
 
-**Antall dokumenter:** 104
+**Antall dokumenter:** 153
 
 ## Innhold
 
@@ -113,7 +113,56 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 2-2. Dokumentasjon for oppfyllelse av funksjonskrav. Underlag for detaljprosjektering](regelverk/byggteknisk-forskrift-tek17/2/2-2.md)
 - [§ 2-3. Dokumentasjon for oppfyllelse av ytelser. Produksjonsunderlag](regelverk/byggteknisk-forskrift-tek17/2/2-3.md)
 - [§ 2-4. Dokumentasjon av utførelsen](regelverk/byggteknisk-forskrift-tek17/2/2-4.md)
+- [Innledning til kapittel 2 Dokumentasjon for oppfyllelse av krav](regelverk/byggteknisk-forskrift-tek17/2/innledning.md)
+- [§ 3-1. Dokumentasjon av byggevarer til byggverk](regelverk/byggteknisk-forskrift-tek17/3/3-1.md)
+- [§ 4-1. Dokumentasjon for driftsfasen](regelverk/byggteknisk-forskrift-tek17/4/4-1.md)
+- [§ 4-2. Oppbevaring av dokumentasjon for driftsfasen](regelverk/byggteknisk-forskrift-tek17/4/4-2.md)
+- [Innledning til kapittel 4 Dokumentasjon for forvaltning, drift og vedlikehold (FDV)](regelverk/byggteknisk-forskrift-tek17/4/innledning.md)
+- [§ 5-1. Fastsetting av grad av utnytting](regelverk/byggteknisk-forskrift-tek17/5/5-1.md)
+- [§ 5-2. Bebygd areal (BYA)](regelverk/byggteknisk-forskrift-tek17/5/5-2.md)
+- [§ 5-3. Prosent bebygd areal (%-BYA)](regelverk/byggteknisk-forskrift-tek17/5/5-3.md)
+- [§ 5-4. Bruksareal (BRA)](regelverk/byggteknisk-forskrift-tek17/5/5-4.md)
+- [§ 5-5. Prosent bruksareal (%-BRA)](regelverk/byggteknisk-forskrift-tek17/5/5-5.md)
+- [§ 5-6. Minste uteoppholdsareal (MUA)](regelverk/byggteknisk-forskrift-tek17/5/5-6.md)
+- [§ 5-7. Parkeringsareal](regelverk/byggteknisk-forskrift-tek17/5/5-7.md)
+- [§ 5-8. Tomt](regelverk/byggteknisk-forskrift-tek17/5/5-8.md)
+- [§ 5-9. Bygningers høyde](regelverk/byggteknisk-forskrift-tek17/5/5-9.md)
+- [Innledning til kapittel 5 Grad av utnytting](regelverk/byggteknisk-forskrift-tek17/5/innledning.md)
+- [§ 6-1. Etasjeantall](regelverk/byggteknisk-forskrift-tek17/6/6-1.md)
+- [§ 6-2. Høyde](regelverk/byggteknisk-forskrift-tek17/6/6-2.md)
+- [§ 6-3. Avstand](regelverk/byggteknisk-forskrift-tek17/6/6-3.md)
+- [§ 6-4. Areal](regelverk/byggteknisk-forskrift-tek17/6/6-4.md)
+- [§ 6-5. Frittliggende bygning](regelverk/byggteknisk-forskrift-tek17/6/6-5.md)
+- [Innledning til kapittel 6 Beregnings- og måleregler](regelverk/byggteknisk-forskrift-tek17/6/innledning.md)
+- [§ 7-1. Generelle krav om sikkerhet mot naturpåkjenninger](regelverk/byggteknisk-forskrift-tek17/7/7-1.md)
+- [§ 7-2. Sikkerhet mot flom og stormflo](regelverk/byggteknisk-forskrift-tek17/7/7-2.md)
+- [§ 7-3. Sikkerhet mot skred](regelverk/byggteknisk-forskrift-tek17/7/7-3.md)
+- [§ 7-4. Unntaksbestemmelse for utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred](regelverk/byggteknisk-forskrift-tek17/7/7-4.md)
+- [Innledning til kapittel 7 Sikkerhet mot naturpåkjenninger](regelverk/byggteknisk-forskrift-tek17/7/innledning.md)
+- [§ 8-1. Opparbeidet uteareal](regelverk/byggteknisk-forskrift-tek17/8/8-1.md)
+- [§ 8-2. Opparbeidet uteareal med krav om universell utforming](regelverk/byggteknisk-forskrift-tek17/8/8-2.md)
+- [§ 8-3. Uteoppholdsareal](regelverk/byggteknisk-forskrift-tek17/8/8-3.md)
+- [§ 8-4. Generelle krav til gangatkomst og ganglinjer](regelverk/byggteknisk-forskrift-tek17/8/8-4.md)
+- [§ 8-5. Gangatkomst til bygning med boenhet](regelverk/byggteknisk-forskrift-tek17/8/8-5.md)
+- [§ 8-6. Gangatkomst til byggverk med krav om universell utforming](regelverk/byggteknisk-forskrift-tek17/8/8-6.md)
+- [§ 8-7. Gangatkomst til uteoppholdsareal med krav om universell utforming](regelverk/byggteknisk-forskrift-tek17/8/8-7.md)
+- [§ 8-8. Parkeringsplass, annet oppstillingsareal og kjøreatkomst](regelverk/byggteknisk-forskrift-tek17/8/8-8.md)
+- [§ 8-9. Trapp i uteareal](regelverk/byggteknisk-forskrift-tek17/8/8-9.md)
+- [Innledning kapittel 8 Opparbeidet uteareal](regelverk/byggteknisk-forskrift-tek17/8/innledning.md)
+- [§ 9-1. Generelle krav til ytre miljø](regelverk/byggteknisk-forskrift-tek17/9/9-1.md)
+- [§ 9-10. Utslippskrav til vedovner](regelverk/byggteknisk-forskrift-tek17/9/9-10.md)
+- [§ 9-2. Helse- og miljøfarlige stoffer](regelverk/byggteknisk-forskrift-tek17/9/9-2.md)
+- [§ 9-3. Forurensning i grunnen](regelverk/byggteknisk-forskrift-tek17/9/9-3.md)
+- [§ 9-4. Utvalgte naturtyper](regelverk/byggteknisk-forskrift-tek17/9/9-4.md)
+- [§ 9-5. Byggavfall og ombruk](regelverk/byggteknisk-forskrift-tek17/9/9-5.md)
+- [§ 9-6. Avfallsplan](regelverk/byggteknisk-forskrift-tek17/9/9-6.md)
+- [§ 9-7. Kartlegging av farlig avfall, bygningsfraksjoner som må fjernes og materialer som er egnet for ombruk. Krav til rapportering](regelverk/byggteknisk-forskrift-tek17/9/9-7.md)
+- [§ 9-8. Avfallssortering](regelverk/byggteknisk-forskrift-tek17/9/9-8.md)
+- [§ 9-9. Sluttrapport for faktisk disponering av avfall](regelverk/byggteknisk-forskrift-tek17/9/9-9.md)
+- [Innledning til kapittel 9 Ytre miljø](regelverk/byggteknisk-forskrift-tek17/9/innledning-til-kapittel-9.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](regelverk/byggteknisk-forskrift-tek17.md)
+- [Forskrift om dokumentasjon av byggevarer (DOK)](regelverk/dok.md)
+- [Endringshistorikk TEK17](regelverk/endringshistorikk-tek17.md)
 
 ### Tek17
 
