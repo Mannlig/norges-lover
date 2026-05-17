@@ -1,4 +1,4 @@
-<!-- innholds-hash: ada6bf84f75d4ae5975f0daf401b0f83a7663a2d013abe1c0c697fad7704a358 -->
+<!-- innholds-hash: 10cd79d09fa8a1b5439b355c1dc387a45070c8cbc7ad967735b7c7b9c3c9f2d6 -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe og Geir Inge Lien om ein betre pasientreiseordning
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200039
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791155+0200)/",
+  "respons_dato_tid": "/Date(1779018375757+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791155+0200)/",
+      "respons_dato_tid": "/Date(1779018375773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791155+0200)/",
+      "respons_dato_tid": "/Date(1779018375773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791155+0200)/",
+      "respons_dato_tid": "/Date(1779018375757+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791155+0200)/",
+      "respons_dato_tid": "/Date(1779018375773+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -99,7 +99,7 @@
   "innstilling_id": 17305,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200039,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791155+0200)/",
+      "respons_dato_tid": "/Date(1779018375757+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -146,4 +146,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

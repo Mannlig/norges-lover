@@ -1,4 +1,4 @@
-<!-- innholds-hash: 20365f29d5d3a3590a71ae6f62e54e93d1142baa6e58487197f0154bac9d4142 -->
+<!-- innholds-hash: 3b8decb15bef644e1c9accad8c8a002e01107fb8dd3ffcb7b07af8be85af1bbb -->
 
 # Endringer i støtteprosessloven (registreringsplikt)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200296
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791828+0200)/",
+  "respons_dato_tid": "/Date(1779018376571+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200296,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376633+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vitanza",
@@ -76,4 +76,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

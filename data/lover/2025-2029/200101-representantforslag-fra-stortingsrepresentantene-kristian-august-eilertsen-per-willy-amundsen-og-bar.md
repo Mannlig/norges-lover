@@ -1,4 +1,4 @@
-<!-- innholds-hash: fcd4df494a6572bb19273d6f640a3cc93b22b0215dd367eb3e570f8bce8888c3 -->
+<!-- innholds-hash: c115fdaf6164e47e589da94f679550c39a5bba41419dad5790300b7564112877 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Per-Willy Amundsen og Bård Hoksrud om å sette i gang et forprosjekt for ny innfartsveg til Tromsø
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200101
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790967+0200)/",
+  "respons_dato_tid": "/Date(1779018375086+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -115,7 +115,7 @@
   "innstilling_id": 17329,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200101,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Karlsen",
@@ -162,4 +162,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

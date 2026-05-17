@@ -1,4 +1,4 @@
-<!-- innholds-hash: d1f7d53009559e719f164164cb93193921a776521677d991c0ddac4c49ddd061 -->
+<!-- innholds-hash: d809c905563ee5a94b8dd2757116bf8070fa66b73448bf06d1358324ccdcb033 -->
 
 # Endring av fylkestilhørighet for Gran kommune fra Innlandet fylke til Akershus fylke og endringer i valgloven (endringer i valgdistriktene)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200031
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790983+0200)/",
+  "respons_dato_tid": "/Date(1779018375351+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17310,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200031,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375367+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -76,4 +76,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

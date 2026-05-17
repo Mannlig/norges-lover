@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24bc470776389a31bbb1eed690fd0b591d3c3f1efba184a558d0b8f8fcb3f14e -->
+<!-- innholds-hash: 0315c4ad73ac3b38a60701a039f1b703dbb2afde5842aa52cfb89d71cfc66ab0 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne Grethe Hauan om tiltak for bedre behandling av personer med alvorlige psykiske lidelser og styrket vern av samfunnet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106366
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791546+0200)/",
+  "respons_dato_tid": "/Date(1779018376179+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791671+0200)/",
+      "respons_dato_tid": "/Date(1779018376279+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376321+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376321+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791702+0200)/",
+      "respons_dato_tid": "/Date(1779018376336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -158,7 +158,7 @@
   "innstilling_id": 17273,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 106366,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791608+0200)/",
+      "respons_dato_tid": "/Date(1779018376226+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krutå",
@@ -205,4 +205,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

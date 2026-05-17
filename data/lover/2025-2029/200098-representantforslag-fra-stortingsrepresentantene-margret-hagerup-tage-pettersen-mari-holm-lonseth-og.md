@@ -1,4 +1,4 @@
-<!-- innholds-hash: acd680f89a3d547e8ae48eeb48e648c55939e9c4c564cc7c077fd68be8188d12 -->
+<!-- innholds-hash: 26e41259a7f8451cac2832c835f66e296d75fd9cb9785faf3c939d5979ffe7cf -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Tage Pettersen, Mari Holm Lønseth og Tone Wilhelmsen Trøen om å sikre forutsigbar finansiering for krisesenterbygg
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200098
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790967+0200)/",
+  "respons_dato_tid": "/Date(1779018375086+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -158,7 +158,7 @@
   "innstilling_id": 17340,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200098,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
@@ -205,4 +205,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

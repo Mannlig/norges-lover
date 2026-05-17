@@ -1,4 +1,4 @@
-<!-- innholds-hash: 556184250435b9b7cee0942ce449413c0ebb54e78e2ab294b8ba14cd339a320d -->
+<!-- innholds-hash: fc7716b4dd272516843764e47072e92f85427787f3e849d821439107d0806e0e -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats Henriksen om stans i bruk av dagens synsfelttest som grunnlag for tap av førerkort samt endring av regelverket for vurdering av kjøreevne
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200042
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791546+0200)/",
+  "respons_dato_tid": "/Date(1779018376148+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -165,7 +165,7 @@
   "innstilling_id": 17296,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200042,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791546+0200)/",
+      "respons_dato_tid": "/Date(1779018376164+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -212,4 +212,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

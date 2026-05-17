@@ -1,4 +1,4 @@
-<!-- innholds-hash: f96f17a1087e6b63d713fe498780f2fad48a05c9ef58192973df49f4e6306b72 -->
+<!-- innholds-hash: 80c475300c39330378fee4656c540a776bfbd0d2fa4f9051556e834f2124eb39 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør Norge
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200316
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992789639+0200)/",
+  "respons_dato_tid": "/Date(1779018372601+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789701+0200)/",
+      "respons_dato_tid": "/Date(1779018372679+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789701+0200)/",
+      "respons_dato_tid": "/Date(1779018372710+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789701+0200)/",
+      "respons_dato_tid": "/Date(1779018372757+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789701+0200)/",
+      "respons_dato_tid": "/Date(1779018372788+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789748+0200)/",
+      "respons_dato_tid": "/Date(1779018372835+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789811+0200)/",
+      "respons_dato_tid": "/Date(1779018372882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -175,7 +175,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789873+0200)/",
+      "respons_dato_tid": "/Date(1779018372929+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -200,7 +200,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789873+0200)/",
+      "respons_dato_tid": "/Date(1779018372944+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
@@ -246,4 +246,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

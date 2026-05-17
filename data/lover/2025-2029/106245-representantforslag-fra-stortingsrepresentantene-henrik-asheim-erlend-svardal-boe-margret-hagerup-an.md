@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5e28be1969a471005f3f005cf78a033ccc14e67beba93e56153bb3cd5a88a820 -->
+<!-- innholds-hash: 81ea27e2664bc104e48ae7f653eb0d65cd7a4ff3027306be931bc6e6c4d00d8a -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Erlend Svardal Bøe, Margret Hagerup, Anne Kristine Linnestad, Erna Solberg og Tone Wilhelmsen Trøen om et helhetlig løft for kvinnehelse og overgangsalderen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106245
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791828+0200)/",
+  "respons_dato_tid": "/Date(1779018376758+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solberg",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -178,7 +178,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -208,7 +208,7 @@
   "innstilling_id": 17271,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -217,7 +217,7 @@
   "sak_fremmet_id": 106245,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376805+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -255,4 +255,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

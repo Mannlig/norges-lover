@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9a243ee77331e93014fd25945a373705e39a19558a0ebbb72e9f76e533bc20e9 -->
+<!-- innholds-hash: 5d9c72511f4757fe5d239a710045cd0d781b1fce570ee1b34864be3269f4d242 -->
 
 # Representantforslag fra stortingsrepresentantene Mathilde Tybring-Gjedde, Monica Molvær og Ola Svenneby om å beholde og forbedre nasjonale prøver og kartleggingsprøver
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200174
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790967+0200)/",
+  "respons_dato_tid": "/Date(1779018375273+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375304+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375273+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375289+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tybring-Gjedde",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375304+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Svenneby",
@@ -115,7 +115,7 @@
   "innstilling_id": 17321,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200174,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375273+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -162,4 +162,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

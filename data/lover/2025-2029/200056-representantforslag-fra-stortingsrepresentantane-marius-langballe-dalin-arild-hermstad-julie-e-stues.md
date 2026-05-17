@@ -1,4 +1,4 @@
-<!-- innholds-hash: bd8cc03c769f803faa20ec15b2727b019b3244b5b1f99752b2cb6fc79dd62e7d -->
+<!-- innholds-hash: 0b246118474f5386d43cddf4633c8f99f886ac12b26aaeb2c7925d244a4067b2 -->
 
 # Representantforslag frå stortingsrepresentantane Marius Langballe Dalin, Arild Hermstad, Julie E. Stuestøl, Siren Julianne Jensen, Oda Indgaard og Ingrid Liland om utvikling av mindre sjukehus, desentralisering av polikliniske tenester og kortare reiseveg for å få helsehjelp
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200056
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790170+0200)/",
+  "respons_dato_tid": "/Date(1779018373726+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790311+0200)/",
+      "respons_dato_tid": "/Date(1779018374007+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790311+0200)/",
+      "respons_dato_tid": "/Date(1779018374007+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790186+0200)/",
+      "respons_dato_tid": "/Date(1779018373789+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790264+0200)/",
+      "respons_dato_tid": "/Date(1779018373835+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790264+0200)/",
+      "respons_dato_tid": "/Date(1779018373898+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790264+0200)/",
+      "respons_dato_tid": "/Date(1779018373898+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790311+0200)/",
+      "respons_dato_tid": "/Date(1779018373945+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790311+0200)/",
+      "respons_dato_tid": "/Date(1779018374007+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -199,7 +199,7 @@
   "innstilling_id": 17331,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200056,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373773+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -246,4 +246,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

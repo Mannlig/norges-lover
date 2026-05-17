@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d5fd1ac4469f8421de927dd0aa6e9cf9b26fcfe8e51dde7e21176133733b0b2 -->
+<!-- innholds-hash: bf02fea89f8fefefdc153e2e1bb707dd146fbc4540c1d4e54e74a7cf949d2213 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om å stimulere til økt bruk av samkjøring for å nå nullvekstmålet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200097
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790967+0200)/",
+  "respons_dato_tid": "/Date(1779018375086+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -124,7 +124,7 @@
   "innstilling_id": 17327,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200097,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790967+0200)/",
+      "respons_dato_tid": "/Date(1779018375086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -171,4 +171,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

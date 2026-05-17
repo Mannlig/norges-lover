@@ -1,4 +1,4 @@
-<!-- innholds-hash: be52edc656cb03533c02618e9198e956d59a86aac620c25b7ccfcc75e747caeb -->
+<!-- innholds-hash: 5f203c34d490bc607cc7129e14bf1dbb790840aae20290e8a28413fd02088163 -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe og Erling Sande om å endre rammebetingelsene for bingospill for å sikre inntekter til frivilligheten
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200021
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791374+0200)/",
+  "respons_dato_tid": "/Date(1779018376039+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791483+0200)/",
+      "respons_dato_tid": "/Date(1779018376099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791483+0200)/",
+      "respons_dato_tid": "/Date(1779018376099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791483+0200)/",
+      "respons_dato_tid": "/Date(1779018376099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791483+0200)/",
+      "respons_dato_tid": "/Date(1779018376099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grøthe",
@@ -99,7 +99,7 @@
   "innstilling_id": 17297,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200021,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791483+0200)/",
+      "respons_dato_tid": "/Date(1779018376098+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Estil",
@@ -146,4 +146,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

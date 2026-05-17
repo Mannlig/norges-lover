@@ -1,4 +1,4 @@
-<!-- innholds-hash: a7da0411c1742425c476369be201e27587537b6a49084d22abc0077fc0bd3d6f -->
+<!-- innholds-hash: f4f1cc789fae2e6c6ff90b39c45c665a384b3bed4600a96eb19d468e56a94ec7 -->
 
 # Representantforslag frå stortingsrepresentantane Sylvi Listhaug, Frank Edvard Sve, Joakim Myklebost Tangen, Monica Molvær og Harry Valderhaug om redusert bompengebelastning på Nordøyvegen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200054
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791265+0200)/",
+  "respons_dato_tid": "/Date(1779018375992+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791374+0200)/",
+      "respons_dato_tid": "/Date(1779018376039+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375992+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375992+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791374+0200)/",
+      "respons_dato_tid": "/Date(1779018376039+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791374+0200)/",
+      "respons_dato_tid": "/Date(1779018376039+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791374+0200)/",
+      "respons_dato_tid": "/Date(1779018376039+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -165,7 +165,7 @@
   "innstilling_id": 17308,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200054,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375992+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -212,4 +212,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

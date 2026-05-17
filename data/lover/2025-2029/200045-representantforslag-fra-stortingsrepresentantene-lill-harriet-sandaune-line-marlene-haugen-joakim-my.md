@@ -1,4 +1,4 @@
-<!-- innholds-hash: 911b9f33ebda6d3eafaa6d02c5af4a4347be6f85226b10ba13f4d2a65b2e8450 -->
+<!-- innholds-hash: 51220c51a6d7dc1ca2d9eee53a7b5d7a2463c157f5d1efc4b639c80787186f3b -->
 
 # Representantforslag fra stortingsrepresentantene Lill Harriet Sandaune, Line Marlene Haugen, Joakim Myklebost Tangen og Simen Velle om nasjonale regler mot sikkerhetstrusler ved forskningsinstitusjonene
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:03Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200045
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992792016+0200)/",
+  "respons_dato_tid": "/Date(1779018377086+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 45,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -167,7 +167,7 @@
   "innstilling_id": 17264,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -176,7 +176,7 @@
   "sak_fremmet_id": 200045,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792016+0200)/",
+      "respons_dato_tid": "/Date(1779018377086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -214,4 +214,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

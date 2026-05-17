@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c6e70ce470c17af419262ef1c0fef4a3892e38c0e9301b61d31e1a8a45cb831 -->
+<!-- innholds-hash: edec5374458d478895ac4f15ee581569565ea5a63e0e68a803ada38352678c79 -->
 
 # Endringar i skatte- og avgiftslovgivinga
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200313
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992789904+0200)/",
+  "respons_dato_tid": "/Date(1779018373147+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373147+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373147+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373147+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373147+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
@@ -66,7 +66,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 200313,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373147+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -113,4 +113,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

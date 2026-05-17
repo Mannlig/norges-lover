@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c9b5a6d6b9f0ec1e60213efadc7fc4eb9efb862e07bd1d6386a2da23a8efc73 -->
+<!-- innholds-hash: a2b448a62f25ec6724442cfae59bad3ebfb9a7e90ef224d9b544248d56e0162e -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Bjørn Larsen, Helge André Njåstad, Rune Midtun, Simen Velle, Silje Hjemdal og Lill Harriet Sandaune om å forby barnehijab i barnehage og grunnskole
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200153
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992789904+0200)/",
+  "respons_dato_tid": "/Date(1779018373241+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790061+0200)/",
+      "respons_dato_tid": "/Date(1779018373507+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790061+0200)/",
+      "respons_dato_tid": "/Date(1779018373507+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789936+0200)/",
+      "respons_dato_tid": "/Date(1779018373319+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789936+0200)/",
+      "respons_dato_tid": "/Date(1779018373335+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789936+0200)/",
+      "respons_dato_tid": "/Date(1779018373351+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789951+0200)/",
+      "respons_dato_tid": "/Date(1779018373366+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789998+0200)/",
+      "respons_dato_tid": "/Date(1779018373429+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789998+0200)/",
+      "respons_dato_tid": "/Date(1779018373444+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790061+0200)/",
+      "respons_dato_tid": "/Date(1779018373507+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -224,7 +224,7 @@
   "innstilling_id": 17320,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200153,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373288+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bakke",
@@ -271,4 +271,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

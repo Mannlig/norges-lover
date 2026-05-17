@@ -1,4 +1,4 @@
-<!-- innholds-hash: fd6a77ba3c1793c1314bcf1e329e4b7cfcbf276410e3b180f98fc933cf22932e -->
+<!-- innholds-hash: 3cea4ee09112d2d1705f4395f9c3ffd9aa26966b4827a9c88226304bd2ba342e -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Marius Langballe Dalin, Une Bastholm, Frøya Skjold Sjursæther, Ingrid Liland, Anne Lise Gjerstad Fredlund, Marian Hussein og Mirell Høyer-Berntsen om en tilbakekallspraksis som verdsetter inkludering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200018
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791249+0200)/",
+  "respons_dato_tid": "/Date(1779018375882+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375898+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375898+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -210,7 +210,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375898+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -240,7 +240,7 @@
   "innstilling_id": 17288,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -249,7 +249,7 @@
   "sak_fremmet_id": 200018,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791249+0200)/",
+      "respons_dato_tid": "/Date(1779018375882+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -287,4 +287,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

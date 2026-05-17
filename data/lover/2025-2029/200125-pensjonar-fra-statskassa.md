@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0d1444f5baa47c8e7024eab06017ee49265c8a7947554d213cdb22c958f7d4f5 -->
+<!-- innholds-hash: b6c6504d77e622331c97155a4a343947f23b54f1b7ff0df18b705837870aeb0a -->
 
 # Pensjonar frå statskassa
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:03Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200125
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791953+0200)/",
+  "respons_dato_tid": "/Date(1779018377039+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018377039+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018377039+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -48,7 +48,7 @@
   "innstilling_id": 17283,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200125,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018377039+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -95,4 +95,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

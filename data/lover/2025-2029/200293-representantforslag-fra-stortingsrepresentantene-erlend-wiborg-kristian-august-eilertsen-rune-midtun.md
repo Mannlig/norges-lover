@@ -1,4 +1,4 @@
-<!-- innholds-hash: c65d6e3d919b1ef0cbd24e90ca030182b9475015633c1d628862e837e674a652 -->
+<!-- innholds-hash: b0328a10ef942a7feb5360dc331ba9b91b8aa58e66961aed8f1c0ead5360e2bf -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791781+0200)/",
+  "respons_dato_tid": "/Date(1779018376492+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -165,7 +165,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200293,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791781+0200)/",
+      "respons_dato_tid": "/Date(1779018376492+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -212,4 +212,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b85a7946a893abc6b01a61f5a590385fa4536dce635bc4c8ce90b3093675725d -->
+<!-- innholds-hash: 9bd61cf4cc21d800909554e98e8718fcf439305324ee07d9dfbcaffa542cf4c3 -->
 
 # Representantforslag fra stortingsrepresentantene Hanne Beate Stenvaag og Bjørnar Moxnes om å evaluere kommunereformen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200044
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790983+0200)/",
+  "respons_dato_tid": "/Date(1779018375336+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375351+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375351+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375351+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375351+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375351+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
@@ -108,7 +108,7 @@
   "innstilling_id": 17307,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 200044,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790983+0200)/",
+      "respons_dato_tid": "/Date(1779018375336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -155,4 +155,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

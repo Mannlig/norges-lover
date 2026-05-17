@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6a9ac1bcbc40effb40797e992a538208afc08d61fce9f35d4d480de0bdcb9c63 -->
+<!-- innholds-hash: 01b1ecc6d9da734d5438d6086d5dca493f6a02dbc038cdbc23df19653f521507 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200303
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992789904+0200)/",
+  "respons_dato_tid": "/Date(1779018373194+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373241+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373241+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373241+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373194+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Farahmand",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373226+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992789904+0200)/",
+      "respons_dato_tid": "/Date(1779018373241+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -133,7 +133,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -154,4 +154,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

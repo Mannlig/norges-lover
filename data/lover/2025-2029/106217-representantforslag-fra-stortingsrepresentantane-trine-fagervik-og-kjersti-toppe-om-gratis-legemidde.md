@@ -1,4 +1,4 @@
-<!-- innholds-hash: 75f561f34fc64c821b52760a68d93a36376548156a894666600892cb4ec5bfb6 -->
+<!-- innholds-hash: 2e1486942f1d6d7e6a2440433ec426b527272b2b0bcacc125a6e03580014d7f9 -->
 
 # Representantforslag frå stortingsrepresentantane Trine Fagervik og Kjersti Toppe om gratis legemiddel på kvit resept for barn opp til seks år
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106217
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791828+0200)/",
+  "respons_dato_tid": "/Date(1779018376711+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376758+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376758+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376711+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376758+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fagervik",
@@ -99,7 +99,7 @@
   "innstilling_id": 17293,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 106217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791828+0200)/",
+      "respons_dato_tid": "/Date(1779018376711+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -146,4 +146,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

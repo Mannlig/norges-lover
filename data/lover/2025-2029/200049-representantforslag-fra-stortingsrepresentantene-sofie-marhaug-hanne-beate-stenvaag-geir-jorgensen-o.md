@@ -1,4 +1,4 @@
-<!-- innholds-hash: 182986951ec1d6e5d29806fb39209807c719dbc056c11203e801d7ac709f9623 -->
+<!-- innholds-hash: 4fc3cf4268b5458a32f5670065f290cf3cc734df4e24ad9e40d1d5b4211349e2 -->
 
 # Representantforslag fra stortingsrepresentantene Sofie Marhaug, Hanne Beate Stenvaag, Geir Jørgensen og Hege Bae Nyholt om å styrke vernet av samisk kultur- og næringsutøvelse
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200049
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790108+0200)/",
+  "respons_dato_tid": "/Date(1779018373569+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373696+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 39,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373696+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790108+0200)/",
+      "respons_dato_tid": "/Date(1779018373569+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373645+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373696+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790170+0200)/",
+      "respons_dato_tid": "/Date(1779018373696+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -149,7 +149,7 @@
   "innstilling_id": 17314,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200049,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790108+0200)/",
+      "respons_dato_tid": "/Date(1779018373569+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -196,4 +196,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

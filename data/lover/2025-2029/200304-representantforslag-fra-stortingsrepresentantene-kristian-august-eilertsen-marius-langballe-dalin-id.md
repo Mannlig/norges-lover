@@ -1,4 +1,4 @@
-<!-- innholds-hash: a84a8e111ec9191f7d0bbc66ff8e184a1fb5601a0929b968a73b7a1cecb024f6 -->
+<!-- innholds-hash: ef36490be90b9545fb3d97c0ac94ebcd215848e794fb16415d39cdb8e37c917f -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Marius Langballe Dalin, Ida Lindtveit Røse og Kjersti Toppe om å stille i bero alle kontraktsinngåelser innen rehabilitering i Helse Sør-Øst RHF og Helse Midt-Norge RHF
 
@@ -11,20 +11,20 @@
 - **Status:** 5
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200304
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791171+0200)/",
+  "respons_dato_tid": "/Date(1779018375789+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791171+0200)/",
+      "respons_dato_tid": "/Date(1779018375789+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791171+0200)/",
+      "respons_dato_tid": "/Date(1779018375789+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791171+0200)/",
+      "respons_dato_tid": "/Date(1779018375789+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791171+0200)/",
+      "respons_dato_tid": "/Date(1779018375789+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791171+0200)/",
+      "respons_dato_tid": "/Date(1779018375789+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -156,4 +156,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

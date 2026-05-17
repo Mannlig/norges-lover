@@ -1,4 +1,4 @@
-<!-- innholds-hash: bfe9cd8417a584312d02e0d3b3d59844b02739001a3a031e68b03bd63529aba3 -->
+<!-- innholds-hash: f8f5c97f476a3abe900c956b1e309c17e20d3972b70f549e49919c27e8c34279 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å midlertidig suspendere den nye modellen for beregning av formuesverdi av bolig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:03Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200012
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791891+0200)/",
+  "respons_dato_tid": "/Date(1779018376867+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018376930+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018376930+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376867+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376867+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791953+0200)/",
+      "respons_dato_tid": "/Date(1779018376930+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vea",
@@ -124,7 +124,7 @@
   "innstilling_id": 17274,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200012,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791891+0200)/",
+      "respons_dato_tid": "/Date(1779018376867+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -171,4 +171,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

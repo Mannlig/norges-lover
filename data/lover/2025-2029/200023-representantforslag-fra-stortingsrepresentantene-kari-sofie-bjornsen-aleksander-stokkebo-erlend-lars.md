@@ -1,4 +1,4 @@
-<!-- innholds-hash: f25b11fee5366be0dd459643eb9b64047462ffe175a665c7c667b5d6be38ad4a -->
+<!-- innholds-hash: d7d3283b91d4f3264f6b9130c7c5b6449630bd76ed199c444aadda256cb71233 -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Aleksander Stokkebø, Erlend Larsen, Tage Pettersen og Ove Trellevik om en plan for håndtering av sprengstoff og ammunisjon i norsk natur og i kystnære farvann
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200023
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992791249+0200)/",
+  "respons_dato_tid": "/Date(1779018375898+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -183,7 +183,7 @@
   "innstilling_id": 17282,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -192,7 +192,7 @@
   "sak_fremmet_id": 200023,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992791265+0200)/",
+      "respons_dato_tid": "/Date(1779018375914+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -230,4 +230,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

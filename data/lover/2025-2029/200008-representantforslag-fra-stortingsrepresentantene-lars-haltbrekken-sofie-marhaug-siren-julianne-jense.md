@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8f066675765bf6a9082fab382b88d6b3d2efd4cf511d9c92666f186be2acffb7 -->
+<!-- innholds-hash: 79057e5fa62b1ad89de487cf4ab4ebca01c8b795035464795ebf5caedcd1756d -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Sofie Marhaug, Siren Julianne Jensen, Frøya Skjold Sjursæther og Marit Vea om tilbaketrekning av utslippstillatelsen for gruveavfall i Repparfjorden
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:03Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200008
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992792125+0200)/",
+  "respons_dato_tid": "/Date(1779018377211+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vea",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -174,7 +174,7 @@
   "innstilling_id": 17260,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200008,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992792187+0200)/",
+      "respons_dato_tid": "/Date(1779018377274+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagenborg",
@@ -221,4 +221,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

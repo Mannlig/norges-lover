@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0ed804751489e6a263d5b1f3e7d8ed3b5f384654605a2dc7547d28fb3094cfd6 -->
+<!-- innholds-hash: 3ac79e6f3f050daffbf640dd1824c07ea15ab32c17f362adf8eedacc45713a2c -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Larsen, Margret Hagerup, Kari Sofie Bjørnsen, Monica Molvær, Haagen Poppe, Ove Trellevik og Bård Ludvig Thorheim om økt produksjon og eksport av norsk lokalmat og drikke
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T04:47:02Z
+- **Sist hentet:** 2026-05-17T11:53:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200072
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778992790592+0200)/",
+  "respons_dato_tid": "/Date(1779018374507+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374773+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790654+0200)/",
+      "respons_dato_tid": "/Date(1779018374570+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790654+0200)/",
+      "respons_dato_tid": "/Date(1779018374586+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790686+0200)/",
+      "respons_dato_tid": "/Date(1779018374632+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790748+0200)/",
+      "respons_dato_tid": "/Date(1779018374679+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790748+0200)/",
+      "respons_dato_tid": "/Date(1779018374711+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -187,7 +187,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374757+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -212,7 +212,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778992790795+0200)/",
+      "respons_dato_tid": "/Date(1779018374773+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -242,7 +242,7 @@
   "innstilling_id": 17330,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778992668521+0200)/",
+    "respons_dato_tid": "/Date(1779018321443+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -251,7 +251,7 @@
   "sak_fremmet_id": 200072,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778992790654+0200)/",
+      "respons_dato_tid": "/Date(1779018374554+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hop",
@@ -289,4 +289,5 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
