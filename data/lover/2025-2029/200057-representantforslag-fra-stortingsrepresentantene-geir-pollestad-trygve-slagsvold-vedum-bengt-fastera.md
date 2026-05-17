@@ -1,4 +1,4 @@
-<!-- innholds-hash: e9947e2d54cfae2f2772a74c483ce9d666a6d49767565b8759a354b9238dd802 -->
+<!-- innholds-hash: 63b8aaf8af1a40ebfc4fbbaee5ffe3770d04a357eec608ab646eeb6a52841a6c -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum, Bengt Fasteraune, Erling Sande og Ole Herman Sveian om naturskadeordningen
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200057
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018374007+0200)/",
+  "respons_dato_tid": "/Date(1779040255395+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779018374070+0200)/",
+      "respons_dato_tid": "/Date(1779040255441+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779018374023+0200)/",
+      "respons_dato_tid": "/Date(1779040255410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -44,7 +44,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018374023+0200)/",
+      "respons_dato_tid": "/Date(1779040255410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -69,7 +69,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018374023+0200)/",
+      "respons_dato_tid": "/Date(1779040255410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -94,7 +94,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018374070+0200)/",
+      "respons_dato_tid": "/Date(1779040255441+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -119,7 +119,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018374070+0200)/",
+      "respons_dato_tid": "/Date(1779040255441+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -144,7 +144,7 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -165,7 +165,7 @@
   "innstilling_id": 17325,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779018321443+0200)/",
+    "respons_dato_tid": "/Date(1779040254473+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200057,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779018374023+0200)/",
+      "respons_dato_tid": "/Date(1779040255410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -183,7 +183,7 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -212,5 +212,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

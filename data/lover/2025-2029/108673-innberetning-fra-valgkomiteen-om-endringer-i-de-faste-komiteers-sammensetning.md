@@ -1,4 +1,4 @@
-<!-- innholds-hash: aa22690ba389bc4f203c5c8176430e6492032a3652b9ab2abb7086175a5c3165 -->
+<!-- innholds-hash: 5188e576556e1b9e6f9a4f69823d2727e1e5677672951668de984db0b7e9f236 -->
 
 # Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -11,14 +11,14 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108673
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018373507+0200)/",
+  "respons_dato_tid": "/Date(1779040254910+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 8,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779018321443+0200)/",
+    "respons_dato_tid": "/Date(1779040254473+0200)/",
     "versjon": "1.6",
     "id": "VALG",
     "navn": "Valgkomiteen"
@@ -50,5 +50,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ef36490be90b9545fb3d97c0ac94ebcd215848e794fb16415d39cdb8e37c917f -->
+<!-- innholds-hash: c36c36df191f5f153d2c3e31036ffcad5be659f61dc28847bdd9fae401f29e90 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Marius Langballe Dalin, Ida Lindtveit Røse og Kjersti Toppe om å stille i bero alle kontraktsinngåelser innen rehabilitering i Helse Sør-Øst RHF og Helse Midt-Norge RHF
 
@@ -11,20 +11,20 @@
 - **Status:** 5
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200304
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018375789+0200)/",
+  "respons_dato_tid": "/Date(1779040257130+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779018375789+0200)/",
+      "respons_dato_tid": "/Date(1779040257130+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779018375789+0200)/",
+      "respons_dato_tid": "/Date(1779040257130+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -44,7 +44,7 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018375789+0200)/",
+      "respons_dato_tid": "/Date(1779040257130+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -69,7 +69,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018375789+0200)/",
+      "respons_dato_tid": "/Date(1779040257130+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -94,7 +94,7 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018375789+0200)/",
+      "respons_dato_tid": "/Date(1779040257130+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -119,7 +119,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -156,5 +156,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

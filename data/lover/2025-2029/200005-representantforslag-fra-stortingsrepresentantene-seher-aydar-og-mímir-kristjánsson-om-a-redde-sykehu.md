@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5972280478f214b2c60912fe7c9676d5f90765167c736c95608e8d079ec5d2a -->
+<!-- innholds-hash: ef853426c3c469006692f8b1525f8e79b00383f65fce75b5ab87859ac93a732e -->
 
 # Representantforslag fra stortingsrepresentantene Seher Aydar og Mímir Kristjánsson om å redde sykehusdriften i Egersund
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200005
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018376336+0200)/",
+  "respons_dato_tid": "/Date(1779040257692+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779018376383+0200)/",
+      "respons_dato_tid": "/Date(1779040257755+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779018376383+0200)/",
+      "respons_dato_tid": "/Date(1779040257755+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
@@ -44,7 +44,7 @@
       "id": "MMIKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018376383+0200)/",
+      "respons_dato_tid": "/Date(1779040257755+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -69,7 +69,7 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -90,7 +90,7 @@
   "innstilling_id": 17294,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779018321443+0200)/",
+    "respons_dato_tid": "/Date(1779040254473+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200005,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779018376336+0200)/",
+      "respons_dato_tid": "/Date(1779040257692+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -108,7 +108,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -137,5 +137,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

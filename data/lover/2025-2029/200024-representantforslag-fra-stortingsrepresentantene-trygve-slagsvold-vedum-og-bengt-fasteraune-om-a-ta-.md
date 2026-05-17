@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc693fcfc538f3ca74e589f4b45f484010f3965c6ea1219f644ca5e246b85361 -->
+<!-- innholds-hash: 09960090c66aa38cb8aa0cd8e995886e7c4cb7a2cbdf78de02082f216159353d -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum og Bengt Fasteraune om å ta i bruk Haslemoen som midlertidig supplement for å øke utdanningskapasiteten ved rekruttutdanningen på Terningmoen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200024
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018373507+0200)/",
+  "respons_dato_tid": "/Date(1779040254910+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779018373569+0200)/",
+      "respons_dato_tid": "/Date(1779040254973+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018373569+0200)/",
+      "respons_dato_tid": "/Date(1779040254973+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779018373569+0200)/",
+      "respons_dato_tid": "/Date(1779040254973+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -53,7 +53,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779018373569+0200)/",
+      "respons_dato_tid": "/Date(1779040254973+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -78,7 +78,7 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -99,7 +99,7 @@
   "innstilling_id": 17312,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779018321443+0200)/",
+    "respons_dato_tid": "/Date(1779040254473+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200024,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779018373554+0200)/",
+      "respons_dato_tid": "/Date(1779040254957+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -117,7 +117,7 @@
       "id": "MORKOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778978074035+0200)/",
+        "respons_dato_tid": "/Date(1779021361035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -146,5 +146,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)

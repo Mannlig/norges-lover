@@ -1,4 +1,4 @@
-<!-- innholds-hash: 408bfe52c29808d58f758d60e485465f5bea8a2cb59a96d90e4566ed214ebdb2 -->
+<!-- innholds-hash: 4be2bd8eeae12ab2b7b8b7dd6a819e3a68a7ea0ac504f28aae12b2b50cfa2d7c -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T11:53:10Z
+- **Sist hentet:** 2026-05-17T18:45:47Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200297
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779018376633+0200)/",
+  "respons_dato_tid": "/Date(1779040257989+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -69,7 +69,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -78,7 +78,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -87,7 +87,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779018376633+0200)/",
+      "respons_dato_tid": "/Date(1779040257989+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -102,7 +102,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779018321443+0200)/",
+    "respons_dato_tid": "/Date(1779040254473+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -123,5 +123,6 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
