@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9411a0d5398774c795ba8d9a28c331ea4b84f5613c861a933c55bf04d1dd5776 -->
+<!-- innholds-hash: 96f1aab86f4af16607986a35cecf8bcf1c5ede493774cf70584b1f0c58dfe7b4 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Arild Hermstad, Ingrid Liland, Oda Indgaard og Julie E. Stuestøl om norsk deltakelse i EUs sosiale klimafond
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T21:52:41Z
+- **Sist hentet:** 2026-05-17T04:47:03Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200019
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778966863877+0200)/",
+  "respons_dato_tid": "/Date(1778992791953+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -53,14 +53,14 @@
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -78,14 +78,14 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -103,14 +103,14 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -128,14 +128,14 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -153,14 +153,14 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -174,7 +174,7 @@
   "innstilling_id": 17262,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778965789380+0200)/",
+    "respons_dato_tid": "/Date(1778992668521+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200019,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -192,14 +192,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -221,3 +221,4 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)

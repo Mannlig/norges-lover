@@ -1,4 +1,4 @@
-<!-- innholds-hash: 884268622501eadfefa9aab7459c9b6be83c8fa564b661477b6a6122eae4ce87 -->
+<!-- innholds-hash: 77e7202572b5a3d7e6044dada4b7027176a5c3c158cdf7d008e0b36afa8c16e5 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T21:52:40Z
+- **Sist hentet:** 2026-05-17T04:47:02Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778966860564+0200)/",
+  "respons_dato_tid": "/Date(1778992789889+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778966860564+0200)/",
+      "respons_dato_tid": "/Date(1778992789889+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -34,14 +34,14 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966860564+0200)/",
+      "respons_dato_tid": "/Date(1778992789889+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -59,14 +59,14 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966860564+0200)/",
+      "respons_dato_tid": "/Date(1778992789889+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -84,14 +84,14 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -121,3 +121,4 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)

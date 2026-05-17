@@ -1,4 +1,4 @@
-<!-- innholds-hash: d13bf68e458f2665a50af8d65abaae32a73a84bff2372130471a8b38d791c39d -->
+<!-- innholds-hash: ac481324f89095cffcff29e6536578a64853889c6a4c055d40f3e0772cda5359 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen, Sofie Marhaug og Mímir Kristjánsson om Nysnø
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-16T21:52:41Z
+- **Sist hentet:** 2026-05-17T04:47:03Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200027
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1778966863877+0200)/",
+  "respons_dato_tid": "/Date(1778992791953+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -62,14 +62,14 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
@@ -87,14 +87,14 @@
       "id": "MMIKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -112,14 +112,14 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -133,7 +133,7 @@
   "innstilling_id": 17290,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1778965789380+0200)/",
+    "respons_dato_tid": "/Date(1778992668521+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200027,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1778966863877+0200)/",
+      "respons_dato_tid": "/Date(1778992791953+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -151,14 +151,14 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1778929333763+0200)/",
+        "respons_dato_tid": "/Date(1778978074035+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778886015334+0200)/",
+        "respons_dato_tid": "/Date(1778978073988+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -180,3 +180,4 @@
 
 - **2026-05-16** Første gang hentet
 - **2026-05-16** Innhold endret (se git-historikk for diff)
+- **2026-05-17** Innhold endret (se git-historikk for diff)
