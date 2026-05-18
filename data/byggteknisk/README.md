@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-18 15:53 UTC*
+*Sist oppdatert: 2026-05-18 16:18 UTC*
 
-**Antall dokumenter:** 332
+**Antall dokumenter:** 376
 
 ## Innhold
 
@@ -84,6 +84,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 12-17. Vindu og andre glassfelt](regelverk/byggteknisk-forskrift-tek17/12/iii/12-17.md)
 - [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-18/3.md)
 - [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](regelverk/byggteknisk-forskrift-tek17/12/iii/12-18.md)
+- [Innledning til kapittel 12 Planløsning og bygningsdeler i byggverk](regelverk/byggteknisk-forskrift-tek17/12.md)
 - [§ 13-1. Generelle krav til ventilasjon](regelverk/byggteknisk-forskrift-tek17/13/i/13-1.md)
 - [§ 13-2. Ventilasjon i boligbygning](regelverk/byggteknisk-forskrift-tek17/13/i/13-2.md)
 - [§ 13-3. Ventilasjon i byggverk for publikum og arbeidsbygning](regelverk/byggteknisk-forskrift-tek17/13/i/13-3.md)
@@ -318,9 +319,52 @@ Byggtekniske krav og veiledere fra DiBK.
 - [1. Innledning](regelverk/dok/veiledning-til/1.-innledning.md)
 - [10. Frivillig CE-merking og ytelseserklæring (rett til å CE-merke)](regelverk/dok/veiledning-til/10.-frivillig-ce-merking-og.md)
 - [11. Tekniske bedømmelsesorgan](regelverk/dok/veiledning-til/11.-tekniske-bedommelsesorgan.md)
+- [12. CE-merking](regelverk/dok/veiledning-til/12.-ce-merking.md)
+- [13. Ytelseserklæringen](regelverk/dok/veiledning-til/13.-ytelseserklaringen.md)
+- [14. Hvordan meddeles ytelseserklæringen?](regelverk/dok/veiledning-til/14.-hvordan-meddeles.md)
+- [15. Byggevarer som er individuelt produsert eller etter mål i en prosess som ikke innebærer serieproduksjon](regelverk/dok/veiledning-til/15.-byggevarer-som-er.md)
+- [16. Farlige stoffer](regelverk/dok/veiledning-til/16.-farlige-stoffer.md)
+- [17. Forpliktelser til produsenter, importører og distributører](regelverk/dok/veiledning-til/17.-forpliktelser-til.md)
+- [18. Importører og distributører som omsetter byggevarer under sitt eget navn eller varemerke eller som endrer byggevarer](regelverk/dok/veiledning-til/18.-importorer-og-distributorer.md)
+- [19. Forenklede fremgangsmåter for svært små foretak](regelverk/dok/veiledning-til/19.-forenklede-fremgangsmater.md)
+- [2. Begrepet byggevarer](regelverk/dok/veiledning-til/2.-begrepet-byggevarer.md)
+- [20. Overgangsbestemmelser](regelverk/dok/veiledning-til/20.-overgangsbestemmelser.md)
+- [21. Produktkontaktpunker](regelverk/dok/veiledning-til/21.-produktkontaktpunker.md)
+- [3. Grunnleggende krav til byggverk](regelverk/dok/veiledning-til/3.-grunnleggende-krav-til.md)
+- [4. Harmoniserte tekniske spesifikasjoner](regelverk/dok/veiledning-til/4.-harmoniserte-tekniske.md)
+- [5. Byggevarens vesentlige egenskaper](regelverk/dok/veiledning-til/5.-byggevarens-vesentlige.md)
+- [6. Forskjell mellom teknisk dokumentasjon og produktdokumentasjon](regelverk/dok/veiledning-til/6.-forskjell-mellom-teknisk.md)
+- [7. Systemer for vurdering og verifikasjon av ytelse](regelverk/dok/veiledning-til/7.-systemer-for-vurdering-og.md)
+- [8. Tekniske kontrollorgan](regelverk/dok/veiledning-til/8.-tekniske-kontrollorgan.md)
+- [9. Obligatorisk CE-merking og ytelseserklæring (plikt til å CE-merke)](regelverk/dok/veiledning-til/9.-obligatorisk-ce-merking-og.md)
+- [Veiledning til byggevareforordningen](regelverk/dok/veiledning-til/veiledning-til.md)
 - [Forskrift om dokumentasjon av byggevarer (DOK)](regelverk/dok.md)
 - [Endringshistorikk for byggesaksforskriften (SAK)](regelverk/endringshistorikk-tek17/endringshistorikk.md)
 - [Endringshistorikk TEK17](regelverk/endringshistorikk-tek17.md)
+- [§ 1. Formål](regelverk/forskrift/i/1.md)
+- [§ 2. Virkeområde](regelverk/forskrift/i/2.md)
+- [§ 3. Definisjoner](regelverk/forskrift/i/3.md)
+- [§ 4. Omsetning, tilgjengeliggjøring på markedet og ibruktaking og grunnleggende helse- og sikkerhetskrav](regelverk/forskrift/i/4.md)
+- [§ 5. Installatørenes forpliktelser knyttet til tekniske krav, merking og dokumentasjon](regelverk/forskrift/ii/i/5.md)
+- [§ 6. Installatørens plikter ved manglende samsvar](regelverk/forskrift/ii/i/6.md)
+- [§ 7. Representant for installatør](regelverk/forskrift/ii/i/7.md)
+- [§ 10. Importørenes forpliktelser](regelverk/forskrift/ii/ii/10.md)
+- [§ 11. Distributørenes forpliktelser](regelverk/forskrift/ii/ii/11.md)
+- [§ 12. Tilfeller der produsentenes forpliktelser får anvendelse på importører og distributører](regelverk/forskrift/ii/ii/12.md)
+- [§ 13. Identifikasjon av markedsdeltakere](regelverk/forskrift/ii/ii/13.md)
+- [§ 8. Produsentenes forpliktelser](regelverk/forskrift/ii/ii/8.md)
+- [§ 9. Representant for produsent](regelverk/forskrift/ii/ii/9.md)
+- [§ 14. Samsvarsformodning](regelverk/forskrift/iii/14.md)
+- [§ 15. Framgangsmåter for samsvarsvurdering av sikkerhetskomponenter](regelverk/forskrift/iii/15.md)
+- [§ 16. Framgangsmåter for samsvarsvurdering av heiser](regelverk/forskrift/iii/16.md)
+- [§ 17. EU-samsvarserklæring](regelverk/forskrift/iii/17.md)
+- [§ 18. Allmenne prinsipper for CE-merking](regelverk/forskrift/iii/18.md)
+- [§ 19. Regler og vilkår for påføring av CE-merking og annen merking](regelverk/forskrift/iii/19.md)
+- [§ 20. Utpeking av tekniske kontrollorganer](regelverk/forskrift/iv/20.md)
+- [§ 21. Søknad om utpeking](regelverk/forskrift/iv/21.md)
+- [§ 22. Krav til tekniske kontrollorganer](regelverk/forskrift/iv/22.md)
+- [§ 23. Tekniske kontrollorganers datterforetak og underleverandører](regelverk/forskrift/iv/23.md)
+- [§ 24. Endringer av utpeking](regelverk/forskrift/iv/24.md)
 - [Forskrift til avhendingslova (tryggere bolighandel)](regelverk/forskrift-til-avhendingslova-tryggere-bolighandel.md)
 - [Forskrift om omsetning og dokumentasjon av heiser mv.](regelverk/forskrift.md)
 - [Høringer](regelverk/horinger/hoyringar/horinger.md)
