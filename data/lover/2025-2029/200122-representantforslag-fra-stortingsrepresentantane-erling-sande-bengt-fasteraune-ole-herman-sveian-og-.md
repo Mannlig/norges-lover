@@ -1,4 +1,4 @@
-<!-- innholds-hash: 438746cdb0aa32b1954d2d04513979964edafc84ba232b5b65fdfe40af9234e8 -->
+<!-- innholds-hash: 34967a064867ea6fe17bf51c06065c4391d808a5ffa4ca6b2f3c9cf03f269492 -->
 
 # Representantforslag frå stortingsrepresentantane Erling Sande, Bengt Fasteraune, Ole Herman Sveian og Geir Inge Lien om meir ja og mindre nei i byggjesaker
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200122
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550943+0200)/",
+  "respons_dato_tid": "/Date(1779116926601+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -53,7 +53,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -78,7 +78,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -103,7 +103,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -128,7 +128,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -149,7 +149,7 @@
   "innstilling_id": 17337,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200122,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -167,7 +167,7 @@
       "id": "HNJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -199,5 +199,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

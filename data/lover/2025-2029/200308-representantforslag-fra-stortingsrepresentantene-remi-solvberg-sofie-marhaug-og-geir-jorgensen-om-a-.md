@@ -1,4 +1,4 @@
-<!-- innholds-hash: 15d60eb0f42baf52385858cf5607cd4b58e3143a84c70e7cffbb774718606bf0 -->
+<!-- innholds-hash: 22e0020242e144eb785c698ee997cbea6053c33447604133c68c89e644e31f4a -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550396+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -34,7 +34,7 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -59,7 +59,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -84,7 +84,7 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -124,5 +124,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

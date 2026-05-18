@@ -1,4 +1,4 @@
-<!-- innholds-hash: 02cc0d6d5b8f51015a53a98834e213cd0c9b53948bb0535572d78fa570005ac1 -->
+<!-- innholds-hash: 7f3cc3b43fc7ce69eb4c45157137a4ab35f45dbee4e350d93e1d475633c55633 -->
 
 # Representantforslag frå stortingsrepresentantane Marius Langballe Dalin, Arild Hermstad, Julie E. Stuestøl, Siren Julianne Jensen, Oda Indgaard og Ingrid Liland om utvikling av mindre sjukehus, desentralisering av polikliniske tenester og kortare reiseveg for å få helsehjelp
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200056
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550568+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -53,7 +53,7 @@
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -78,7 +78,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -103,7 +103,7 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -128,7 +128,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -153,7 +153,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -178,7 +178,7 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -199,7 +199,7 @@
   "innstilling_id": 17331,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200056,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550615+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -217,7 +217,7 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -249,5 +249,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

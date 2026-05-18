@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4957746d5b1b3b98e43949f1f3ab5443dfe23622f6ea398c6d6f1c3fdb67dc53 -->
+<!-- innholds-hash: b89bd79798dcbff335c7be5afe6ee69c096a2c38f487b92f6f9edab71d2a31bb -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Liv Gustavsen, Morgan Langfeldt og Silje Hjemdal om en kjønnsnøytral likestillings- og diskrimineringslov
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200292
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551443+0200)/",
+  "respons_dato_tid": "/Date(1779116926726+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -44,7 +44,7 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -69,7 +69,7 @@
       "id": "MORL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -94,7 +94,7 @@
       "id": "SIHJE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -119,7 +119,7 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200292,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -158,7 +158,7 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -190,5 +190,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

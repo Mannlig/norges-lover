@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2ac09c9abb116fa4c3fbae9b0a8ea125bff4d5e64a38fa8181d1cf263ba20943 -->
+<!-- innholds-hash: e4991b9a3a5808fdf006bf2a1f534223daf43e6800a49348965ff8909805db33 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å midlertidig suspendere den nye modellen for beregning av formuesverdi av bolig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200012
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551678+0200)/",
+  "respons_dato_tid": "/Date(1779116926866+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -53,7 +53,7 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -78,7 +78,7 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551725+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vea",
@@ -103,7 +103,7 @@
       "id": "MARVEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -124,7 +124,7 @@
   "innstilling_id": 17274,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200012,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -142,7 +142,7 @@
       "id": "EVR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -174,5 +174,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

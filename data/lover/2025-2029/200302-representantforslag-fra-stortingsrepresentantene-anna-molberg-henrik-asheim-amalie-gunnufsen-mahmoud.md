@@ -1,4 +1,4 @@
-<!-- innholds-hash: 175de8eede491d2069084497245f565597010215523d9e921a33b3532920459e -->
+<!-- innholds-hash: aedcdca1aa31f790cb6aa23018e7ebac2cee8173c93f92bf6cc3f70d73dca4a4 -->
 
 # Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen, Mahmoud Farahmand om forskuttering av sykepenger
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200302
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550412+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -53,7 +53,7 @@
       "id": "AIM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -78,7 +78,7 @@
       "id": "AMAGUN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -103,7 +103,7 @@
       "id": "HEA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550412+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Farahmand",
@@ -128,7 +128,7 @@
       "id": "MAHF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -149,7 +149,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -173,5 +173,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

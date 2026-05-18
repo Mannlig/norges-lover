@@ -1,4 +1,4 @@
-<!-- innholds-hash: c9ab8301ff6995c010f77539c2da500deb89bd1ba871272aecd4eb9c1a141167 -->
+<!-- innholds-hash: 9b35d120a277f69f30f852de48300665258ce604aecd649efe23bed5cc42ee5c -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim og Ola Svenneby om lavere og mer forutsigbar skatt på folks bolig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200007
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551615+0200)/",
+  "respons_dato_tid": "/Date(1779116926726+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551662+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551662+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551662+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -53,7 +53,7 @@
       "id": "HEA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551662+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Svenneby",
@@ -78,7 +78,7 @@
       "id": "OLASVE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -99,7 +99,7 @@
   "innstilling_id": 17274,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200007,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551662+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -117,7 +117,7 @@
       "id": "EVR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -149,5 +149,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

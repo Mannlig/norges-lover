@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9e52259a349dff7ef303679a0178705ccdcf5cf33a32110b3bcb94e47dfa8e68 -->
+<!-- innholds-hash: 0b44394d5fca85405f51a6686c72dab831dbcf07e80d567c76179226499936a9 -->
 
 # Endring av fylkestilhørighet for Gran kommune fra Innlandet fylke til Akershus fylke og endringer i valgloven (endringer i valgdistriktene)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200031
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550943+0200)/",
+  "respons_dato_tid": "/Date(1779116926616+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17310,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200031,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550959+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -47,7 +47,7 @@
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -79,5 +79,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

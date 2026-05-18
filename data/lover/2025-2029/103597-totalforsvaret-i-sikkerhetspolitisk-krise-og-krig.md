@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0e0fe50e893744729241ef9eec161345a7573a57c68149e105cccacf6dbbe200 -->
+<!-- innholds-hash: 70694aa335ad1d9a602b13755d399e28d761970a85cc49fd3579b5a520a06b5b -->
 
 # Totalforsvaret i sikkerhetspolitisk krise og krig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103597
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551365+0200)/",
+  "respons_dato_tid": "/Date(1779116926726+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -57,7 +57,7 @@
   "innstilling_id": 17266,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 103597,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551428+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
@@ -75,7 +75,7 @@
       "id": "LISSEL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -107,5 +107,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

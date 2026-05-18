@@ -1,4 +1,4 @@
-<!-- innholds-hash: dde2f94afdeccb5074b64901b30d6f0d543ad65ca777cd8679d728bb8376d6ff -->
+<!-- innholds-hash: 67f0d3ec0fc923d72c0b70f568eee37220cee08bdac4a9b23c23d180113a2b2c -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Marie Sneve Martinussen og Alf Erik Andersen om åpenhet og rettferdighet for ofrene i trygdeskandalen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200055
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551678+0200)/",
+  "respons_dato_tid": "/Date(1779116926866+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
@@ -44,7 +44,7 @@
       "id": "ALFAND",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -69,7 +69,7 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -94,7 +94,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -115,7 +115,7 @@
   "innstilling_id": 17286,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200055,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551678+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -133,7 +133,7 @@
       "id": "AIM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -165,5 +165,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 52e7716b539dba283c7e87fbff0e6524e4b57f02cc7a69143725d3c8c7054dfb -->
+<!-- innholds-hash: e4c4afc85e3e66ff325653ed11a7d84b08e9e98e793cf2c6e039588c3221df9e -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200309
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550396+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
@@ -34,7 +34,7 @@
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -59,7 +59,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -84,7 +84,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -124,5 +124,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

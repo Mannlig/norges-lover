@@ -1,4 +1,4 @@
-<!-- innholds-hash: 641aae1ccd297dc9b737e62e5e60cd4ede03e9a6ef1ad7edbd18a23281d9cddb -->
+<!-- innholds-hash: 8f262124db0ff45ce90bc1af9d3c9288665ea8440f45c9d6aaacb4d16b093af2 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200310
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550396+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -34,7 +34,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -59,7 +59,7 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -99,5 +99,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

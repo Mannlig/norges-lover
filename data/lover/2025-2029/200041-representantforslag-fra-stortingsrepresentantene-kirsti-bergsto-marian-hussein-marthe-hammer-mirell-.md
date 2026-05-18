@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8b82d1dfde673fa109890e9e210500616ee6a7d903f5fa4f0d046d675cb19d03 -->
+<!-- innholds-hash: c90638fcb981361560bae5a08eefb3dcad8dfc34cae9f97bd6e5e0f661765383 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Marian Hussein, Marthe Hammer, Mirell Høyer-Berntsen, Ingrid Fiskaa, Kathy Lie og Anne Lise Gjerstad Fredlund om å kutte sykefravær, ikke sykelønn
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200041
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551740+0200)/",
+  "respons_dato_tid": "/Date(1779116926866+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -53,7 +53,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -78,7 +78,7 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -103,7 +103,7 @@
       "id": "KATLIE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -128,7 +128,7 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -153,7 +153,7 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -178,7 +178,7 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -203,7 +203,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -224,7 +224,7 @@
   "innstilling_id": 17287,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200041,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Viljugrein",
@@ -242,7 +242,7 @@
       "id": "AGNVIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -274,5 +274,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

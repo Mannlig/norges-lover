@@ -1,4 +1,4 @@
-<!-- innholds-hash: f27a8d1cb04984c835470bfb34247256ed45312cae0f59b5245107c0e197288f -->
+<!-- innholds-hash: 8afe989f671383d9434c55c23456701cfa8467a838d7aa165a4c8d80bd7182fd -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Marius Langballe Dalin, Une Bastholm, Frøya Skjold Sjursæther, Ingrid Liland, Anne Lise Gjerstad Fredlund, Marian Hussein og Mirell Høyer-Berntsen om en tilbakekallspraksis som verdsetter inkludering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200018
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551131+0200)/",
+  "respons_dato_tid": "/Date(1779116926616+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -44,7 +44,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -69,7 +69,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -119,7 +119,7 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -144,7 +144,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -169,7 +169,7 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -194,7 +194,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -210,7 +210,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -219,7 +219,7 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -240,7 +240,7 @@
   "innstilling_id": 17288,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -249,7 +249,7 @@
   "sak_fremmet_id": 200018,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551131+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -258,7 +258,7 @@
       "id": "EW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -290,5 +290,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

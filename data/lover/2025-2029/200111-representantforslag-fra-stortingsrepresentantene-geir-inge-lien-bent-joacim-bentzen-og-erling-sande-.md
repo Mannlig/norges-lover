@@ -1,4 +1,4 @@
-<!-- innholds-hash: a34d8ce9cf742f21c31628fefeae3356dd8feb2f055b4702525bd476868d0bab -->
+<!-- innholds-hash: 2430fc2a0a31c66703632e8dfa167133a2d70bce6cfbf3f8d551af4a87097524 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Erling Sande om å sikre mobildekning på alle offentlige veier
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200111
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550943+0200)/",
+  "respons_dato_tid": "/Date(1779116926601+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -53,7 +53,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -78,7 +78,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -103,7 +103,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -124,7 +124,7 @@
   "innstilling_id": 17341,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200111,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550943+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -142,7 +142,7 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -174,5 +174,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

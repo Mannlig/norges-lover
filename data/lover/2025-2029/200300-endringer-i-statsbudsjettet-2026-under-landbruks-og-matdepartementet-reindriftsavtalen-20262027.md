@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3b082b575f57d672cfe89b7704f22f900ff419eb5afe9a7b9b80d05aed4c102d -->
+<!-- innholds-hash: bf60e175245667ba754a927757b7e69e89408a79238ab0ff44217fab7c7e927e -->
 
 # Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Reindriftsavtalen 2026/2027)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200300
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551115+0200)/",
+  "respons_dato_tid": "/Date(1779116926616+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200300,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551115+0200)/",
+      "respons_dato_tid": "/Date(1779116926616+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -47,7 +47,7 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -79,5 +79,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

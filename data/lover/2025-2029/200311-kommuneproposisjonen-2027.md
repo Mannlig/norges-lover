@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a27692c4cc7a1e4d43ec5597de06c182c87f9107c66d270f45db74c48a25097 -->
+<!-- innholds-hash: 378bd9247998543c57a5bcf03f3342a22ceffded2038e2f6b21824cacacc7ef3 -->
 
 # Kommuneproposisjonen 2027
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200311
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550396+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550396+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -57,7 +57,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -81,5 +81,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

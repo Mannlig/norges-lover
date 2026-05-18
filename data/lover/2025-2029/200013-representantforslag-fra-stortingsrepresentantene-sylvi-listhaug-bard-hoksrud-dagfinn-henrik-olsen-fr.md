@@ -1,4 +1,4 @@
-<!-- innholds-hash: a78f9cb4bbb99f113c47ad5aabfb4afebfff27cdaa20aefc0acdb4026017e2b1 -->
+<!-- innholds-hash: c3190f667e7e32ee8f1818ad1a6923a70cc8435d113f1a70ff65d22fe5478529 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Bjørn Larsen, Silje Hjemdal og Kristian August Eilertsen om å oppheve klimakrav til kjøretøy for å ivareta og styrke samfunnets beredskap
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200013
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551740+0200)/",
+  "respons_dato_tid": "/Date(1779116926866+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -71,7 +71,7 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -96,7 +96,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -121,7 +121,7 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -146,7 +146,7 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -171,7 +171,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -187,7 +187,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -196,7 +196,7 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -212,7 +212,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -221,7 +221,7 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -237,7 +237,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -246,7 +246,7 @@
       "id": "SIHJE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -262,7 +262,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -271,7 +271,7 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -292,7 +292,7 @@
   "innstilling_id": 17261,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -301,7 +301,7 @@
   "sak_fremmet_id": 200013,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551740+0200)/",
+      "respons_dato_tid": "/Date(1779116926866+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -310,7 +310,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -342,5 +342,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

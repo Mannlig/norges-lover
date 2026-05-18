@@ -1,4 +1,4 @@
-<!-- innholds-hash: f3464ca6c07467d3760fabc5581569b780d2c27d40567b961449f05142353186 -->
+<!-- innholds-hash: 37e798e1d33e06cb4a5f64b8f6425411041317bf3b44e6924917a6f3a14e8409 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091551443+0200)/",
+  "respons_dato_tid": "/Date(1779116926726+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -44,7 +44,7 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -69,7 +69,7 @@
       "id": "EW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -94,7 +94,7 @@
       "id": "HNJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -119,7 +119,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -144,7 +144,7 @@
       "id": "RUNMID",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -165,7 +165,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200293,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091551443+0200)/",
+      "respons_dato_tid": "/Date(1779116926726+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -183,7 +183,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -215,5 +215,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6a2cc7cb81a4d3ba37a102ec9f8f0c5bb9af2e78cb1dae6d163a4544c9cf377b -->
+<!-- innholds-hash: fba23b23da3164aaa9d3745e47f3683cf44130a8a4814a43caed3be1d2cb6db2 -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Fasteraune og Bent-Joacim Bentzen om bedre integrering av familieinnvandrere
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200067
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550803+0200)/",
+  "respons_dato_tid": "/Date(1779116926585+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550803+0200)/",
+      "respons_dato_tid": "/Date(1779116926585+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550803+0200)/",
+      "respons_dato_tid": "/Date(1779116926585+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 40,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550803+0200)/",
+      "respons_dato_tid": "/Date(1779116926585+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -53,7 +53,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550803+0200)/",
+      "respons_dato_tid": "/Date(1779116926585+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -78,7 +78,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -99,7 +99,7 @@
   "innstilling_id": 17317,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200067,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550803+0200)/",
+      "respons_dato_tid": "/Date(1779116926585+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -117,7 +117,7 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -149,5 +149,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

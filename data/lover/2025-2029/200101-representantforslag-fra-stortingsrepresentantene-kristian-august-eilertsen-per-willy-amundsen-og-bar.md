@@ -1,4 +1,4 @@
-<!-- innholds-hash: c2d4d77f9ae7e7ad43625454b61bb79ada138eee0246e08108ccd591ad10bbca -->
+<!-- innholds-hash: ba5de38ba2be765f91bfd2192d37d9d133a79afe6885e0533beb149da7c1ba9c -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Per-Willy Amundsen og Bård Hoksrud om å sette i gang et forprosjekt for ny innfartsveg til Tromsø
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200101
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550881+0200)/",
+  "respons_dato_tid": "/Date(1779116926601+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -44,7 +44,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -69,7 +69,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -94,7 +94,7 @@
       "id": "PTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -115,7 +115,7 @@
   "innstilling_id": 17329,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200101,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Karlsen",
@@ -133,7 +133,7 @@
       "id": "TOMKAR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -165,5 +165,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

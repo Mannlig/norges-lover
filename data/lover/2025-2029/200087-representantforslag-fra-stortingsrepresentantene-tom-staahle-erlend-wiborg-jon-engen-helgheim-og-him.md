@@ -1,4 +1,4 @@
-<!-- innholds-hash: b37f91447449a0cf8fd89ca197772e97469f3239e124ebabf48ecec54796a06e -->
+<!-- innholds-hash: b784e700ab89ac08f85843bab741d8166e3773072feecee953a4ec86447b97c8 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Erlend Wiborg, Jon Engen-Helgheim og Himanshu Gulati om en plan- og bygningslov for krig og krise
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200087
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550881+0200)/",
+  "respons_dato_tid": "/Date(1779116926601+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -53,7 +53,7 @@
       "id": "EW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gulati",
@@ -78,7 +78,7 @@
       "id": "HGU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -103,7 +103,7 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -128,7 +128,7 @@
       "id": "TSTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -149,7 +149,7 @@
   "innstilling_id": 17338,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779091550396+0200)/",
+    "respons_dato_tid": "/Date(1779116861883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200087,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550881+0200)/",
+      "respons_dato_tid": "/Date(1779116926601+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -167,7 +167,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -199,5 +199,6 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

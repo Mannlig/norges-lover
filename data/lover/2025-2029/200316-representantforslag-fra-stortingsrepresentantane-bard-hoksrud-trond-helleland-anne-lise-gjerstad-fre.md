@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5b38bffa4492a1c24d0e77c83ea488b4371b9fef507da7a6dcb92b5ae7fd2ee4 -->
+<!-- innholds-hash: b46aee739583219a49d7ea87703cf8ca1f15755d69789f36552d814343bca19c -->
 
 # Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T08:46:39Z
+- **Sist hentet:** 2026-05-18T15:53:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200316
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779091550318+0200)/",
+  "respons_dato_tid": "/Date(1779116926538+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779091550318+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -34,7 +34,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550318+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -59,7 +59,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550318+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -84,7 +84,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550318+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -109,7 +109,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550381+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -134,7 +134,7 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550381+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -159,7 +159,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -175,7 +175,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550381+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -184,7 +184,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -200,7 +200,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779091550381+0200)/",
+      "respons_dato_tid": "/Date(1779116926538+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
@@ -209,7 +209,7 @@
       "id": "TROH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "respons_dato_tid": "/Date(1779102015031+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -245,4 +245,5 @@
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
