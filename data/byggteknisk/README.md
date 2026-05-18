@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-18 01:52 UTC*
+*Sist oppdatert: 2026-05-18 02:17 UTC*
 
-**Antall dokumenter:** 232
+**Antall dokumenter:** 282
 
 ## Innhold
 
@@ -218,6 +218,56 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Artikkel 27 Ytelsesnivåer eller -klasser](regelverk/dok/byggevareforordningen/artikkel-27-ytelsesnivaer-eller.md)
 - [Artikkel 28 Vurdering og verifikasjon av ytelse](regelverk/dok/byggevareforordningen/artikkel-28-vurdering-og.md)
 - [Artikkel 29 Utpeking, overvåking og evaluering av tekniske bedømmelsesorganer](regelverk/dok/byggevareforordningen/artikkel-29-utpeking.md)
+- [Artikkel 3 Grunnleggende krav til byggverk og byggevarers vesentlige egenskaper](regelverk/dok/byggevareforordningen/artikkel-3-grunnleggende-krav.md)
+- [Artikkel 30 Krav til tekniske bedømmelsesorganer](regelverk/dok/byggevareforordningen/artikkel-30-krav-til-tekniske.md)
+- [Artikkel 31 Samordning av tekniske bedømmelsesorganer](regelverk/dok/byggevareforordningen/artikkel-31-samordning-av.md)
+- [Artikkel 32 Unionsfinansiering](regelverk/dok/byggevareforordningen/artikkel-32-unionsfinansiering.md)
+- [Artikkel 33 Finansieringsordninger](regelverk/dok/byggevareforordningen/artikkel-33.md)
+- [Artikkel 34 Forvaltning og overvåking](regelverk/dok/byggevareforordningen/artikkel-34-forvaltning-og.md)
+- [Artikkel 35 Beskyttelse av Unionens økonomiske interesser](regelverk/dok/byggevareforordningen/artikkel-35-beskyttelse-av.md)
+- [Artikkel 36 Bruk av hensiktsmessig teknisk dokumentasjon](regelverk/dok/byggevareforordningen/artikkel-36-bruk-av.md)
+- [Artikkel 37 Svært små foretaks bruk av forenklede framgangsmåter](regelverk/dok/byggevareforordningen/artikkel-37-svart-sma-foretaks.md)
+- [Artikkel 38 Andre forenklede framgangsmåter](regelverk/dok/byggevareforordningen/artikkel-38-andre-forenklede.md)
+- [Artikkel 39 Underretning](regelverk/dok/byggevareforordningen/artikkel-39-underretning.md)
+- [Artikkel 4 Ytelseserklæring](regelverk/dok/byggevareforordningen/artikkel-4-ytelseserklaring.md)
+- [Artikkel 40 Utpekende myndigheter](regelverk/dok/byggevareforordningen/artikkel-40-utpekende.md)
+- [Artikkel 41 Krav til utpekende myndigheter](regelverk/dok/byggevareforordningen/artikkel-41-krav-til-utpekende.md)
+- [Artikkel 42 Medlemsstatenes opplysningsplikt](regelverk/dok/byggevareforordningen/artikkel-42-medlemsstatenes.md)
+- [Artikkel 43 Krav til tekniske kontrollorganer](regelverk/dok/byggevareforordningen/artikkel-43-krav-til-tekniske.md)
+- [Artikkel 44 Samsvarsvurdering](regelverk/dok/byggevareforordningen/artikkel-44-samsvarsvurdering.md)
+- [Artikkel 45 Tekniske kontrollorganers datterforetak og underleverandører](regelverk/dok/byggevareforordningen/artikkel-45-tekniske.md)
+- [Artikkel 46 Bruk av anlegg utenfor det teknisk kontrollorgans prøvingslaboratorium](regelverk/dok/byggevareforordningen/artikkel-46-bruk-av-anlegg.md)
+- [Artikkel 47 Søknad om utpeking](regelverk/dok/byggevareforordningen/artikkel-47-soknad-om-utpeking.md)
+- [Artikkel 48 Framgangsmåte for utpeking](regelverk/dok/byggevareforordningen/artikkel-48-framgangsmate-for.md)
+- [Artikkel 49 Identifikasjonsnumre og lister over tekniske kontrollorganer](regelverk/dok/byggevareforordningen/artikkel-49.md)
+- [Artikkel 5 Unntak fra kravet om å utarbeide en ytelseserklæring](regelverk/dok/byggevareforordningen/artikkel-5-unntak-fra-kravet-om.md)
+- [Artikkel 50 Endringer av underretningen](regelverk/dok/byggevareforordningen/artikkel-50-endringer-av.md)
+- [Artikkel 51 Tvil om tekniske kontrollorganers kompetanse](regelverk/dok/byggevareforordningen/artikkel-51-tvil-om-tekniske.md)
+- [Artikkel 52 Tekniske kontrollorganers driftsmessige forpliktelser](regelverk/dok/byggevareforordningen/artikkel-52-tekniske.md)
+- [Artikkel 53 Tekniske kontrollorganers opplysningsplikt](regelverk/dok/byggevareforordningen/artikkel-53-tekniske.md)
+- [Artikkel 54 Erfaringsutveksling](regelverk/dok/byggevareforordningen/artikkel-54-erfaringsutveksling.md)
+- [Artikkel 55 Samordning av tekniske kontrollorganer](regelverk/dok/byggevareforordningen/artikkel-55-samordning-av.md)
+- [Artikkel 56 Framgangsmåte for behandling på nasjonalt plan av byggevarer som utgjør en risiko](regelverk/dok/byggevareforordningen/artikkel-56-framgangsmate-for.md)
+- [Artikkel 57 Unionens framgangsmåte ved beslutninger om beskyttelsestiltak](regelverk/dok/byggevareforordningen/artikkel-57-unionens.md)
+- [Artikkel 58 Byggevarer som oppfyller kravene, men som likevel utgjør en risiko for helse og sikkerhet](regelverk/dok/byggevareforordningen/artikkel-58-byggevarer-som.md)
+- [Artikkel 59 Formelt manglende samsvar](regelverk/dok/byggevareforordningen/artikkel-59-formelt-manglende.md)
+- [Artikkel 6 Ytelseserklæringens innhold](regelverk/dok/byggevareforordningen/artikkel-6-ytelseserklaringens.md)
+- [Artikkel 60 Delegerte rettsakter](regelverk/dok/byggevareforordningen/artikkel-60-delegerte.md)
+- [Artikkel 61 Utøvelse av delegeringen](regelverk/dok/byggevareforordningen/artikkel-61-utovelse-av.md)
+- [Artikkel 62 Tilbakekalling av delegering](regelverk/dok/byggevareforordningen/artikkel-62-tilbakekalling-av.md)
+- [Artikkel 63 Innvendinger mot delegerte rettsakter](regelverk/dok/byggevareforordningen/artikkel-63-innvendinger-mot.md)
+- [Artikkel 64 Utvalg](regelverk/dok/byggevareforordningen/artikkel-64-utvalg.md)
+- [Artikkel 65 Oppheving](regelverk/dok/byggevareforordningen/artikkel-65-oppheving.md)
+- [Artikkel 66 Overgangsbestemmelser](regelverk/dok/byggevareforordningen/artikkel-66.md)
+- [Artikkel 67 Kommisjonens rapportering](regelverk/dok/byggevareforordningen/artikkel-67-kommisjonens.md)
+- [Artikkel 68 Ikrafttredelse](regelverk/dok/byggevareforordningen/artikkel-68-ikrafttredelse.md)
+- [Artikkel 7 Framleggelse av ytelseserklæring](regelverk/dok/byggevareforordningen/artikkel-7-framleggelse-av.md)
+- [Artikkel 8 Allmenne prinsipper og bruken av CE-merking](regelverk/dok/byggevareforordningen/artikkel-8-allmenne-prinsipper.md)
+- [Artikkel 9 Regler og vilkår for påføring av CE merking](regelverk/dok/byggevareforordningen/artikkel-9-regler-og-vilkar-for.md)
+- [Byggevareforordningen](regelverk/dok/byggevareforordningen/byggevareforordningen.md)
+- [Fortale](regelverk/dok/byggevareforordningen/fortale.md)
+- [Vedlegg I Grunnleggende krav til byggverk](regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav.md)
+- [Vedlegg II Framgangsmåte for vedtakelse av et europeisk bedømmelsesdokument](regelverk/dok/byggevareforordningen/vedlegg-ii-framgangsmate-for.md)
 - [Forskrift om dokumentasjon av byggevarer (DOK)](regelverk/dok.md)
 - [Endringshistorikk for byggesaksforskriften (SAK)](regelverk/endringshistorikk-tek17/endringshistorikk.md)
 - [Endringshistorikk TEK17](regelverk/endringshistorikk-tek17.md)
