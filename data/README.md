@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-18 23:17 UTC*
+*Sist oppdatert: 2026-05-18 23:53 UTC*
 
-**Antall dokumenter:** 1406
+**Antall dokumenter:** 1414
 
 ## Innhold
 
@@ -857,12 +857,16 @@ Lovdata
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](nav/fyllut/nav040804/vedlegg.md)
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](nav/fyllut/nav040804/veiledning.md)
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](nav/fyllut/nav040804.md)
+- [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som lider av en langvarig eller kronisk sykdom | www.nav.no](nav/fyllut/nav082005.md)
+- [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som har sykefravær på grunn av svangerskap | www.nav.no](nav/fyllut/nav082020.md)
 - [Søknad fra selvstendig næringsdrivende/frilansere om opptak/endring i forsikring for tillegg til sykepenger | www.nav.no](nav/fyllut/nav083605.md)
+- [Nav083606](nav/fyllut/nav083606.md)
 - [Inntektsskjema for næringsdrivende og ansatt i eget aksjeselskap - uføretrygd | www.nav.no](nav/fyllut/nav120607.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](nav/fyllut/nav120609.md)
 - [Søknad om alderspensjon | www.nav.no](nav/fyllut/nav190105.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](nav/fyllut/nav670101.md)
 - [Melding om nytt bankkontonummer | www.nav.no](nav/fyllut/nav952000.md)
+- [Digital](nav/fyllut-ettersending/lospost/digital.md)
 - [Send dokumenter til Nav](nav/fyllut-ettersending/lospost/paper.md)
 - [Ganghjelpemidler - nav.no](nav/ganghjelpemidler.md)
 - [Gjenlevendepensjon - nav.no](nav/gjenlevendepensjon.md)
@@ -980,10 +984,13 @@ Lovdata
 - [Kapittel 8. Sykepenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-kap.8.md)
 - [Kapittel 11. Arbeidsavklaringspenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-kapittel-11.md)
 - [Forskrift om avskrivning av statens krav etter lønnsgarantiordningen](nav/nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-avskrivning-og-ettergivelse-av-statens-krav-etter-lonnsgarantiordningen.md)
+- [Forskrift om forsikring for tillegg til sykepenger for frilansere](nav/nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-forsikring-for-tillegg-til-sykepenger-for-frilansere-8-39.md)
 - [Forskrift om statsgaranti for lønnskrav ved konkurs m.v.](nav/nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-statsgaranti-for-lonnskrav-ved-konkurs.md)
 - [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](nav/nav.no-ressurser/lenker/regelverk/rettskildene/kontantstotteloven.hovednr.34.md)
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav/nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
 - [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](nav/nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-statsgaranti-for-lonnskrav-ved-konkurs-m.v.md)
+- [Rundskriv til ftrl kap 8 – Sykepenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-til-8-36.md)
+- [Vedlegg 4 til ftrl kap 8 – Premiesatser for tillegg til sykepenger for selvstendig næringsdrivende og forsikring for tilleggssykepenger for frilansere](nav/nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-4-til-kap.8.md)
 - [Dine Utbetalinger](nav/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/dine-utbetalinger.md)
 - [Ditt Sykefravaer](nav/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
 - [Ledige stillinger - arbeidsplassen.no](nav/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav.md)
@@ -1082,6 +1089,7 @@ Lovdata
 - [Contact us - nav.no](nav/redirects/footer-contactus-en.md)
 - [Grunnbeløpet i folketrygden - nav.no](nav/redirects/grunnbelop.md)
 - [Grunnbeløpet i folketrygden - nav.no](nav/redirects/grunnbelopet.md)
+- [Inntektsmelding - nav.no](nav/redirects/inntektsmelding.md)
 - [Forside privatperson - nav.no](nav/redirects/logg-inn-din-side.md)
 - [Regelendringer for uføretrygd i 2026 - nav.no](nav/regelendring-uforetrygd.md)
 - [Regelendringer og satser fra 2026 - nav.no](nav/regelendringer-2026.md)

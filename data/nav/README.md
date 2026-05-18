@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-05-18 23:17 UTC*
+*Sist oppdatert: 2026-05-18 23:53 UTC*
 
-**Antall dokumenter:** 587
+**Antall dokumenter:** 595
 
 ## Innhold
 
@@ -504,7 +504,10 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](fyllut/nav040804/vedlegg.md)
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](fyllut/nav040804/veiledning.md)
 - [Bekreftelse på arbeidsforhold og permittering | www.nav.no](fyllut/nav040804.md)
+- [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som lider av en langvarig eller kronisk sykdom | www.nav.no](fyllut/nav082005.md)
+- [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som har sykefravær på grunn av svangerskap | www.nav.no](fyllut/nav082020.md)
 - [Søknad fra selvstendig næringsdrivende/frilansere om opptak/endring i forsikring for tillegg til sykepenger | www.nav.no](fyllut/nav083605.md)
+- [Nav083606](fyllut/nav083606.md)
 - [Inntektsskjema for næringsdrivende og ansatt i eget aksjeselskap - uføretrygd | www.nav.no](fyllut/nav120607.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609.md)
 - [Søknad om alderspensjon | www.nav.no](fyllut/nav190105.md)
@@ -513,6 +516,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Fyllut Ettersending
 
+- [Digital](fyllut-ettersending/lospost/digital.md)
 - [Send dokumenter til Nav](fyllut-ettersending/lospost/paper.md)
 
 ### Gravid
@@ -581,10 +585,13 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Kapittel 8. Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-kap.8.md)
 - [Kapittel 11. Arbeidsavklaringspenger](nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-kapittel-11.md)
 - [Forskrift om avskrivning av statens krav etter lønnsgarantiordningen](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-avskrivning-og-ettergivelse-av-statens-krav-etter-lonnsgarantiordningen.md)
+- [Forskrift om forsikring for tillegg til sykepenger for frilansere](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-forsikring-for-tillegg-til-sykepenger-for-frilansere-8-39.md)
 - [Forskrift om statsgaranti for lønnskrav ved konkurs m.v.](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-statsgaranti-for-lonnskrav-ved-konkurs.md)
 - [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](nav.no-ressurser/lenker/regelverk/rettskildene/kontantstotteloven.hovednr.34.md)
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
 - [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-statsgaranti-for-lonnskrav-ved-konkurs-m.v.md)
+- [Rundskriv til ftrl kap 8 – Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-til-8-36.md)
+- [Vedlegg 4 til ftrl kap 8 – Premiesatser for tillegg til sykepenger for selvstendig næringsdrivende og forsikring for tilleggssykepenger for frilansere](nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-4-til-kap.8.md)
 - [Dine Utbetalinger](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/dine-utbetalinger.md)
 - [Ditt Sykefravaer](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
 - [Ledige stillinger - arbeidsplassen.no](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav.md)
@@ -663,6 +670,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Contact us - nav.no](redirects/footer-contactus-en.md)
 - [Grunnbeløpet i folketrygden - nav.no](redirects/grunnbelop.md)
 - [Grunnbeløpet i folketrygden - nav.no](redirects/grunnbelopet.md)
+- [Inntektsmelding - nav.no](redirects/inntektsmelding.md)
 - [Forside privatperson - nav.no](redirects/logg-inn-din-side.md)
 
 ### Registrer Arbeidssoker
