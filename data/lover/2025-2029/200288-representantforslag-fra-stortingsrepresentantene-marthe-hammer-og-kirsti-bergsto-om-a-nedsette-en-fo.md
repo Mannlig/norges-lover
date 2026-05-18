@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce891aba531a7a7b0a8994a86f11171e6ca925e1fadf8368ab4d05d2144eca9c -->
+<!-- innholds-hash: f680bea0d88f5a12f4b2816e1c066c472102d5b69d1fc9084bd58868c91c945e -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200288
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040257989+0200)/",
+  "respons_dato_tid": "/Date(1779066079091+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258005+0200)/",
+      "respons_dato_tid": "/Date(1779066079107+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258005+0200)/",
+      "respons_dato_tid": "/Date(1779066079107+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258005+0200)/",
+      "respons_dato_tid": "/Date(1779066079107+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -53,14 +53,14 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040258005+0200)/",
+      "respons_dato_tid": "/Date(1779066079107+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -78,14 +78,14 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -99,7 +99,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200288,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258005+0200)/",
+      "respons_dato_tid": "/Date(1779066079107+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
@@ -117,14 +117,14 @@
       "id": "FROJAC",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -149,3 +149,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

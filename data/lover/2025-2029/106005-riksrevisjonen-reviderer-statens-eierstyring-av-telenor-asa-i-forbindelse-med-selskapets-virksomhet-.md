@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0919aeee81e06265e26f35d6e3658438fd148e48e8d45e04ef7182ff979d52de -->
+<!-- innholds-hash: c155cd7c6d72490d82d4263c19a0eacec07aa700a30b3db7228f55e23f2f2750 -->
 
 # Riksrevisjonen reviderer statens eierstyring av Telenor ASA i forbindelse med selskapets virksomhet i Myanmar
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106005
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040257802+0200)/",
+  "respons_dato_tid": "/Date(1779066078903+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040257802+0200)/",
+      "respons_dato_tid": "/Date(1779066078903+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040257802+0200)/",
+      "respons_dato_tid": "/Date(1779066078903+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040257802+0200)/",
+      "respons_dato_tid": "/Date(1779066078903+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -57,7 +57,7 @@
   "innstilling_id": 17291,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 106005,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040257802+0200)/",
+      "respons_dato_tid": "/Date(1779066078903+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -75,14 +75,14 @@
       "id": "PTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -107,3 +107,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: a652c17749f01ea0285ef364d0914f18f314208d5fc105473f6c5e0080d14650 -->
+<!-- innholds-hash: 895fa6172beb34b33d84069e9f695d60885e9a5f8704017e38f05baa2d769b33 -->
 
 # Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103595
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040257848+0200)/",
+  "respons_dato_tid": "/Date(1779066078966+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040257848+0200)/",
+      "respons_dato_tid": "/Date(1779066078966+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040257848+0200)/",
+      "respons_dato_tid": "/Date(1779066078966+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040257848+0200)/",
+      "respons_dato_tid": "/Date(1779066078966+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040257848+0200)/",
+      "respons_dato_tid": "/Date(1779066078966+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -66,7 +66,7 @@
   "innstilling_id": 17266,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 103595,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040257848+0200)/",
+      "respons_dato_tid": "/Date(1779066078966+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -84,14 +84,14 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -116,3 +116,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

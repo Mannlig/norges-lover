@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6f6297fdba662be9a99891d8e91f5e5effa78d7a397da59609fed63a7bd79718 -->
+<!-- innholds-hash: e6e3dd58e236a521488e31bbb09404a93d81c4ac1ba45396c1aa55c92555d62c -->
 
 # Kommuneproposisjonen 2027
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:46Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200311
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040254566+0200)/",
+  "respons_dato_tid": "/Date(1779066075607+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075607+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075607+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075607+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -57,7 +57,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -81,3 +81,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

@@ -1,66 +1,56 @@
-<!-- innholds-hash: 2c64aa61ac5d7699c7cbd195ec74f9ca061b065e76a355c754935450c88a00c4 -->
+<!-- innholds-hash: c6823981502ef24f6cd7b999737f25864dcefe6d56d2b00e69aef8f18fa120d4 -->
 
-# Representantforslag fra stortingsrepresentantene Rune Midtun, Bård Hoksrud, May Helen Hetland Ervik, Trond Helleland, Aleksander Stokkebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om salg av Haugesund Lufthavn Karmøy
+# Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
-- **Sak-ID:** 200299
+- **Sak-ID:** 200316
 - **Type:** 2
-- **Korttittel:** Representantforslag om salg av Haugesund Lufthavn Karmøy
-- **Status:** 2
+- **Korttittel:** Representantforslag om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
+- **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
 - **Sist hentet:** 2026-05-18T01:52:00Z
-- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200299
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200316
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066078310+0200)/",
+  "respons_dato_tid": "/Date(1779066075122+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 109,
-      "navn": "Luftfart",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075169+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
-      "etternavn": "Stokkebø",
-      "foedselsdato": "/Date(783730800000+0100)/",
-      "fornavn": "Aleksander",
-      "id": "ALES",
-      "kjoenn": 2,
+      "etternavn": "Fredlund",
+      "foedselsdato": "/Date(402098400000+0200)/",
+      "fornavn": "Anne Lise Gjerstad",
+      "id": "ANNFRE",
+      "kjoenn": 1,
       "fylke": {
         "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
+        "id": "Op",
+        "navn": "Oppland"
       },
       "parti": {
         "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
-        "id": "H",
-        "navn": "Høyre",
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
       },
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075185+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -85,32 +75,57 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075247+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
-      "etternavn": "Sayed",
-      "foedselsdato": "/Date(877125600000+0200)/",
-      "fornavn": "Jonas Andersen",
-      "id": "JONSAY",
+      "etternavn": "Sande",
+      "foedselsdato": "/Date(279327600000+0100)/",
+      "fornavn": "Erling",
+      "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
         "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
+        "id": "SF",
+        "navn": "Sogn og Fjordane"
       },
       "parti": {
         "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
-        "id": "KrF",
-        "navn": "Kristelig Folkeparti",
+        "id": "Sp",
+        "navn": "Senterpartiet",
         "representert_parti": true
       },
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075263+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Almeland",
+      "foedselsdato": "/Date(670201200000+0100)/",
+      "fornavn": "Grunde",
+      "id": "GKAL",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1779066075310+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -135,57 +150,57 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075357+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
-      "etternavn": "Ervik",
-      "foedselsdato": "/Date(169200000+0100)/",
-      "fornavn": "May Helen Hetland",
-      "id": "MHER",
-      "kjoenn": 1,
-      "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
-        "versjon": "1.6",
-        "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
-      },
-      "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
-        "versjon": "1.6",
-        "id": "FrP",
-        "navn": "Fremskrittspartiet",
-        "representert_parti": true
-      },
-      "vara_representant": false
-    },
-    {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
-      "versjon": "1.6",
-      "doedsdato": null,
-      "etternavn": "Midtun",
-      "foedselsdato": "/Date(106437600000+0200)/",
-      "fornavn": "Rune",
-      "id": "RUNMID",
+      "etternavn": "Dalin",
+      "foedselsdato": "/Date(-95475600000+0100)/",
+      "fornavn": "Marius Langballe",
+      "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
         "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
+        "id": "SF",
+        "navn": "Sogn og Fjordane"
       },
       "parti": {
         "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
-        "id": "FrP",
-        "navn": "Fremskrittspartiet",
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
       },
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078325+0200)/",
+      "respons_dato_tid": "/Date(1779066075404+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Sølvberg",
+      "foedselsdato": "/Date(208044000000+0200)/",
+      "fornavn": "Remi",
+      "id": "REMSLV",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "versjon": "1.6",
+        "id": "R",
+        "navn": "Rødt",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1779066075419+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
@@ -210,48 +225,17 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:284 S (2025-2026)",
-  "id": 200299,
+  "henvisning": "Dokument 8:291 S (2025-2026)",
+  "id": 200316,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
-    "versjon": "1.6",
-    "id": "TRANSKOM",
-    "navn": "Transport- og kommunikasjonskomiteen"
-  },
-  "korttittel": "Representantforslag om salg av Haugesund Lufthavn Karmøy",
-  "sak_fremmet_id": 200299,
-  "saksordfoerer_liste": [
-    {
-      "respons_dato_tid": "/Date(1779066078310+0200)/",
-      "versjon": "1.6",
-      "doedsdato": null,
-      "etternavn": "Blikra",
-      "foedselsdato": "/Date(-228016800000+0200)/",
-      "fornavn": "Jone",
-      "id": "JONBLI",
-      "kjoenn": 2,
-      "fylke": {
-        "respons_dato_tid": "/Date(1779058815000+0200)/",
-        "versjon": "1.6",
-        "historisk_fylke": false,
-        "id": "Te",
-        "navn": "Telemark"
-      },
-      "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
-        "versjon": "1.6",
-        "id": "A",
-        "navn": "Arbeiderpartiet",
-        "representert_parti": true
-      },
-      "vara_representant": false
-    }
-  ],
-  "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Rune Midtun, Bård Hoksrud, May Helen Hetland Ervik, Trond Helleland, Aleksander Stokkebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om salg av Haugesund Lufthavn Karmøy",
+  "komite": null,
+  "korttittel": "Representantforslag om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg",
+  "sak_fremmet_id": 200316,
+  "saksordfoerer_liste": [],
+  "sist_oppdatert_dato": "/Date(1778623200000+0200)/",
+  "status": 3,
+  "tittel": "Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg",
   "type": 2
 }
 ```
@@ -260,9 +244,4 @@
 
 ## Endringshistorikk
 
-- **2026-05-16** Første gang hentet
-- **2026-05-16** Innhold endret (se git-historikk for diff)
-- **2026-05-17** Innhold endret (se git-historikk for diff)
-- **2026-05-17** Innhold endret (se git-historikk for diff)
-- **2026-05-17** Innhold endret (se git-historikk for diff)
-- **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Første gang hentet

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f4e4e144d8bc44276aa56f494dbf03055d88ee92c4f8e73375427140015a9e4d -->
+<!-- innholds-hash: 5eaf3268863b8bebed81df8347458ba72196406b4327bd39a193c18b8632fb7a -->
 
 # Representantforslag fra stortingsrepresentantene Lill Harriet Sandaune, Line Marlene Haugen, Joakim Myklebost Tangen og Simen Velle om nasjonale regler mot sikkerhetstrusler ved forskningsinstitusjonene
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200045
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040258411+0200)/",
+  "respons_dato_tid": "/Date(1779066079544+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 45,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -71,14 +71,14 @@
       "id": "JOATAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -96,14 +96,14 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -121,14 +121,14 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -146,14 +146,14 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -167,7 +167,7 @@
   "innstilling_id": 17264,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -176,7 +176,7 @@
   "sak_fremmet_id": 200045,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258411+0200)/",
+      "respons_dato_tid": "/Date(1779066079544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -185,14 +185,14 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -217,3 +217,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

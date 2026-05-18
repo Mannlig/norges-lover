@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9d7c3e68b052c684434d0a894463d64be87e11cab314990ef45f3168ce43bc8e -->
+<!-- innholds-hash: a3e6d376962aa3bfef9c2d499150025f7e6d1749e86b0dd7dcfa1fa1f0407770 -->
 
 # Endringer i lov om supplerande stønad ved kort butid (presisering av reglene om behovsprøving)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200029
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040258192+0200)/",
+  "respons_dato_tid": "/Date(1779066079325+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258192+0200)/",
+      "respons_dato_tid": "/Date(1779066079325+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258192+0200)/",
+      "respons_dato_tid": "/Date(1779066079325+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258192+0200)/",
+      "respons_dato_tid": "/Date(1779066079325+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -57,7 +57,7 @@
   "innstilling_id": 17263,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200029,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258192+0200)/",
+      "respons_dato_tid": "/Date(1779066079325+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -75,14 +75,14 @@
       "id": "AMAGUN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -107,3 +107,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

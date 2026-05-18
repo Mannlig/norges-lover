@@ -1,4 +1,4 @@
-<!-- innholds-hash: 33ada0ffa5cba30d1c46f60430795a9d4ecdaecb075f39f4e7c14f480bccefd7 -->
+<!-- innholds-hash: d47de39655a7a9bbbaa102d7e7f26b030fd2b5e81f66f8385cb6c7908b1c2ba9 -->
 
 # Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:47Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105929
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040258005+0200)/",
+  "respons_dato_tid": "/Date(1779066079107+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258020+0200)/",
+      "respons_dato_tid": "/Date(1779066079122+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258020+0200)/",
+      "respons_dato_tid": "/Date(1779066079122+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779040258020+0200)/",
+      "respons_dato_tid": "/Date(1779066079122+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
@@ -57,7 +57,7 @@
   "innstilling_id": 17284,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779040254473+0200)/",
+    "respons_dato_tid": "/Date(1779066075435+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 105929,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779040258020+0200)/",
+      "respons_dato_tid": "/Date(1779066079122+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aasen-Svensrud",
@@ -75,14 +75,14 @@
       "id": "AASE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -107,3 +107,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

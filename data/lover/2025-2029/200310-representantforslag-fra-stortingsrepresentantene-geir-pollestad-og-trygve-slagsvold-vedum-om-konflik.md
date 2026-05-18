@@ -1,31 +1,31 @@
-<!-- innholds-hash: 6059bc07f90c17b79009db62ca75d491139ce2ef0f834ab271f77d0f8458ce2c -->
+<!-- innholds-hash: 26279bef71964b5cab2cfaa7084e47a021f79b011ac6d6daa625c255cdbb00e7 -->
 
-# Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen, samt oppfølging av Fosen-dommen
+# Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200310
 - **Type:** 2
-- **Korttittel:** Representantforslag om konflikt mellom reindrift og jordbruk i Tufsingdalen, samt oppfølging av Fosen-dommen
+- **Korttittel:** Representantforslag om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:46Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200310
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040254566+0200)/",
+  "respons_dato_tid": "/Date(1779066075591+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075591+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -34,14 +34,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075607+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -59,14 +59,14 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -80,12 +80,12 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": null,
-  "korttittel": "Representantforslag om konflikt mellom reindrift og jordbruk i Tufsingdalen, samt oppfølging av Fosen-dommen",
+  "korttittel": "Representantforslag om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen",
   "sak_fremmet_id": 200310,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
   "status": 3,
-  "tittel": "Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen, samt oppfølging av Fosen-dommen",
+  "tittel": "Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen",
   "type": 2
 }
 ```
@@ -99,3 +99,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

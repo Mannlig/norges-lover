@@ -1,31 +1,31 @@
-<!-- innholds-hash: 226fa042f08290eb7e6b7ecedcec16720d71a788dc4f383ce090bb81c6d15454 -->
+<!-- innholds-hash: a7cdf152d8d841740dd4df1129756edd572f417af3cc21910448e3424579feb9 -->
 
-# Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i Skattefunn-ordningen
+# Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200309
 - **Type:** 2
-- **Korttittel:** Representantforslag om forenklinger i Skattefunn-ordningen
+- **Korttittel:** Representantforslag om forenklinger i SkatteFUNN-ordningen
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-17T18:45:46Z
+- **Sist hentet:** 2026-05-18T01:52:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200309
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779040254535+0200)/",
+  "respons_dato_tid": "/Date(1779066075560+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779040254551+0200)/",
+      "respons_dato_tid": "/Date(1779066075575+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
@@ -34,14 +34,14 @@
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040254551+0200)/",
+      "respons_dato_tid": "/Date(1779066075575+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -59,14 +59,14 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779040254566+0200)/",
+      "respons_dato_tid": "/Date(1779066075591+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -84,14 +84,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779021361035+0200)/",
+        "respons_dato_tid": "/Date(1779058815000+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1778978073988+0200)/",
+        "respons_dato_tid": "/Date(1779058814953+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -105,12 +105,12 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": null,
-  "korttittel": "Representantforslag om forenklinger i Skattefunn-ordningen",
+  "korttittel": "Representantforslag om forenklinger i SkatteFUNN-ordningen",
   "sak_fremmet_id": 200309,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
   "status": 3,
-  "tittel": "Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i Skattefunn-ordningen",
+  "tittel": "Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen",
   "type": 2
 }
 ```
@@ -124,3 +124,4 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)

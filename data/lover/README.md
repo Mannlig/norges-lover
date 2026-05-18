@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-05-17 19:48 UTC*
+*Sist oppdatert: 2026-05-18 01:52 UTC*
 
-**Antall dokumenter:** 203
+**Antall dokumenter:** 204
 
 ## Innhold
 
@@ -206,13 +206,14 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Marius Langballe Dalin, Ida Lindtveit Røse og Kjersti Toppe om å stille i bero alle kontraktsinngåelser innen rehabilitering i Helse Sør-Øst RHF og Helse Midt-Norge RHF](2025-2029/200304-representantforslag-fra-stortingsrepresentantene-kristian-august-eilertsen-marius-langballe-dalin-id.md)
 - [Endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)](2025-2029/200305-endringer-i-folketrygdloven-utvidet-arbeidsulykkesbegrep-og-tydeliggjoring-av-bevisbyrden.md)
 - [Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart](2025-2029/200308-representantforslag-fra-stortingsrepresentantene-remi-solvberg-sofie-marhaug-og-geir-jorgensen-om-a-.md)
-- [Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i Skattefunn-ordningen](2025-2029/200309-representantforslag-fra-stortingsrepresentantene-bjorn-arild-gram-erling-sande-og-geir-pollestad-om-.md)
-- [Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen, samt oppfølging av Fosen-dommen](2025-2029/200310-representantforslag-fra-stortingsrepresentantene-geir-pollestad-og-trygve-slagsvold-vedum-om-konflik.md)
+- [Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen](2025-2029/200309-representantforslag-fra-stortingsrepresentantene-bjorn-arild-gram-erling-sande-og-geir-pollestad-om-.md)
+- [Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om konflikt mellom reindrift og jordbruk i Tufsingdalen samt oppfølging av Fosen-dommen](2025-2029/200310-representantforslag-fra-stortingsrepresentantene-geir-pollestad-og-trygve-slagsvold-vedum-om-konflik.md)
 - [Kommuneproposisjonen 2027](2025-2029/200311-kommuneproposisjonen-2027.md)
 - [Endringar i skatte- og avgiftslovgivinga](2025-2029/200312-endringar-i-skatte-og-avgiftslovgivinga.md)
 - [Endringar i skatte- og avgiftslovgivinga](2025-2029/200313-endringar-i-skatte-og-avgiftslovgivinga.md)
 - [Revidert nasjonalbudsjett 2026](2025-2029/200314-revidert-nasjonalbudsjett-2026.md)
 - [Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026](2025-2029/200315-tilleggsbevilgninger-og-omprioriteringer-i-statsbudsjettet-2026.md)
+- [Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg](2025-2029/200316-representantforslag-fra-stortingsrepresentantane-bard-hoksrud-trond-helleland-anne-lise-gjerstad-fre.md)
 - [Representantforslag fra stortingsrepresentantene Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør Norge](2025-2029/200316-representantforslag-fra-stortingsrepresentantene-bard-hoksrud-trond-helleland-anne-lise-gjerstad-fre.md)
 
 ---
