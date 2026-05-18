@@ -1,4 +1,4 @@
-<!-- innholds-hash: c1664048b56af8063ed68aa79e455115837724c5ce218f056858158fae0a9220 -->
+<!-- innholds-hash: b37f91447449a0cf8fd89ca197772e97469f3239e124ebabf48ecec54796a06e -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Erlend Wiborg, Jon Engen-Helgheim og Himanshu Gulati om en plan- og bygningslov for krig og krise
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200087
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066077529+0200)/",
+  "respons_dato_tid": "/Date(1779091550881+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077529+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077544+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gulati",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -149,7 +149,7 @@
   "innstilling_id": 17338,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200087,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077529+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -199,4 +199,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 222b47e136c3e0b162f4dde5903ab0c9cca1335f97d061d423bdc53daa465c01 -->
+<!-- innholds-hash: a34d8ce9cf742f21c31628fefeae3356dd8feb2f055b4702525bd476868d0bab -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Erling Sande om å sikre mobildekning på alle offentlige veier
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200111
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066077763+0200)/",
+  "respons_dato_tid": "/Date(1779091550943+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077779+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066077779+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077763+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077763+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077779+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -124,7 +124,7 @@
   "innstilling_id": 17341,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200111,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077763+0200)/",
+      "respons_dato_tid": "/Date(1779091550943+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -174,4 +174,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

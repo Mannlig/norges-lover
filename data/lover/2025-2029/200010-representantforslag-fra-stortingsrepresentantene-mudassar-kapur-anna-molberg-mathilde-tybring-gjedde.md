@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2c64cb8ddd1c2344c668db7d01ea4635a5766d47d4eb3dc537529e37233d8830 -->
+<!-- innholds-hash: 853dd68985b98f3a21abe43197d583d0852d7d25b81d4f17f0cb1834c5b3b637 -->
 
 # Representantforslag fra stortingsrepresentantene Mudassar Kapur, Anna Molberg, Mathilde Tybring-Gjedde og Tage Pettersen om borgerkontrakt
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200010
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066078388+0200)/",
+  "respons_dato_tid": "/Date(1779091551131+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tybring-Gjedde",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -140,7 +140,7 @@
   "innstilling_id": 17303,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200010,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Busch",
@@ -190,4 +190,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

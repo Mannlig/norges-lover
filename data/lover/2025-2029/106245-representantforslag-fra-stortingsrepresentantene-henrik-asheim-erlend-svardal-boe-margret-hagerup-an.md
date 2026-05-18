@@ -1,4 +1,4 @@
-<!-- innholds-hash: 61ac1a56d656e6d0a6fb851814045becf85ebcb3168fc15829664af2029c4b10 -->
+<!-- innholds-hash: 358ee46b09061acee86fbe7a0bd988122eebed3140e1c930f44b70a1e16e5ec9 -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Erlend Svardal Bøe, Margret Hagerup, Anne Kristine Linnestad, Erna Solberg og Tone Wilhelmsen Trøen om et helhetlig løft for kvinnehelse og overgangsalderen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106245
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066079216+0200)/",
+  "respons_dato_tid": "/Date(1779091551678+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solberg",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -178,7 +178,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -208,7 +208,7 @@
   "innstilling_id": 17271,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -217,7 +217,7 @@
   "sak_fremmet_id": 106245,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079263+0200)/",
+      "respons_dato_tid": "/Date(1779091551678+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -258,4 +258,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

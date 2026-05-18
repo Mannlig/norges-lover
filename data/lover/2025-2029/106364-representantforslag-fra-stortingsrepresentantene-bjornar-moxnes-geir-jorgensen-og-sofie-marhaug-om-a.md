@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9060e0b4e43196b4a00d827ec47ca3c1dffa7c9ee608d16d7adfc3ef73f9dba1 -->
+<!-- innholds-hash: 2691cd7f975cbbe0e2607ca51685b798d342d620e9e9b072e073fef364e9d0e8 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen og Sofie Marhaug om å innføre nabosjekk av EU-regelverk
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106364
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066078622+0200)/",
+  "respons_dato_tid": "/Date(1779091551256+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -124,7 +124,7 @@
   "innstilling_id": 17272,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 106364,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078638+0200)/",
+      "respons_dato_tid": "/Date(1779091551256+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solberg",
@@ -174,4 +174,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

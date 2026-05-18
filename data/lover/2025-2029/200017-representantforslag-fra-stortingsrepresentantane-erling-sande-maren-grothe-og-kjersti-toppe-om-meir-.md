@@ -1,4 +1,4 @@
-<!-- innholds-hash: b37de0a6f7939352282bc5fac9b41b30c3355cafa24b56e332453efdda46673d -->
+<!-- innholds-hash: 09477c3d175e7ef41714b7c4a84c8a3604a116346746e5e318c4530550c774ad -->
 
 # Representantforslag frå stortingsrepresentantane Erling Sande, Maren Grøthe og Kjersti Toppe om meir frileik og aktivitet i skulen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200017
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066079497+0200)/",
+  "respons_dato_tid": "/Date(1779091551740+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grøthe",
@@ -124,7 +124,7 @@
   "innstilling_id": 17265,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200017,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079544+0200)/",
+      "respons_dato_tid": "/Date(1779091551740+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -174,4 +174,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

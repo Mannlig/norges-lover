@@ -1,4 +1,4 @@
-<!-- innholds-hash: c28ce08f79d15874223e5d30ea6174a781a93e0218c4cebd6141300cb0f8687f -->
+<!-- innholds-hash: 95020fdc3915a540ef85f55753f865b044cc9b2507ebe6c9ced6858ee733379f -->
 
 # Initiativdebatt om industripolitikk (initiativ fra næringskomiteen)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200272
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066079107+0200)/",
+  "respons_dato_tid": "/Date(1779091551600+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 0,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -69,7 +69,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -103,4 +103,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

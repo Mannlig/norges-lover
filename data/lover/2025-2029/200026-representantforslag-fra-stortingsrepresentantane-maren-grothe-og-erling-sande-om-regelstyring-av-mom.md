@@ -1,4 +1,4 @@
-<!-- innholds-hash: ee8bdac49c3304ef275fb02a1e9466d17b4a42d111aa83b5b859e44d5da26573 -->
+<!-- innholds-hash: 5ec7abaabd437d80d71f8e530d83a2389db70d991143c954e2dc5becc9703e3d -->
 
 # Representantforslag frå stortingsrepresentantane Maren Grøthe og Erling Sande om regelstyring av momskompensasjonsordninga for frivillige organisasjonar
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200026
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066078388+0200)/",
+  "respons_dato_tid": "/Date(1779091551131+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078435+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066078435+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066078435+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grøthe",
@@ -99,7 +99,7 @@
   "innstilling_id": 17299,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200026,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066078388+0200)/",
+      "respons_dato_tid": "/Date(1779091551131+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -149,4 +149,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

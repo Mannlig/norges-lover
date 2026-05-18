@@ -1,4 +1,4 @@
-<!-- innholds-hash: f680bea0d88f5a12f4b2816e1c066c472102d5b69d1fc9084bd58868c91c945e -->
+<!-- innholds-hash: 03b2d52f470af90ffceea0252e64df05035bcfb1ff71bfebef3b647fa0989b3d -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200288
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066079091+0200)/",
+  "respons_dato_tid": "/Date(1779091551584+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -99,7 +99,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200288,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066079107+0200)/",
+      "respons_dato_tid": "/Date(1779091551600+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
@@ -149,4 +149,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

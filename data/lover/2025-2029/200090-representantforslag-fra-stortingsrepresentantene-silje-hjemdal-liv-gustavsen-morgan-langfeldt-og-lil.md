@@ -1,4 +1,4 @@
-<!-- innholds-hash: dde5d30a1b09f7a618fd2916da8de8f7e134c7b3529fee9fa3e0a607611d32a0 -->
+<!-- innholds-hash: 09e65f11bfae952bf570badb2236523aac74db115e7755d3858c382eec3589f1 -->
 
 # Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen, Morgan Langfeldt og Lill Harriet Sandaune om praktiske og alternative opplæringstilbud for barn og unge på barnevernsinstitusjon
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200090
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066077560+0200)/",
+  "respons_dato_tid": "/Date(1779091550881+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077607+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066077607+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066077607+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077575+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077607+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077607+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -158,7 +158,7 @@
   "innstilling_id": 17319,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200090,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077560+0200)/",
+      "respons_dato_tid": "/Date(1779091550881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -208,4 +208,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

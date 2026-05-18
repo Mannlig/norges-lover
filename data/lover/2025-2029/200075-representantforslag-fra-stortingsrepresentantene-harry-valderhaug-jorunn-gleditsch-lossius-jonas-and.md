@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9753f4aa1fd66f8fa3be10e29574598fec7322f2e834ebd80bbdba982c100d8e -->
+<!-- innholds-hash: 2e8627bb197a1a22c9c07b170dfc2cbb698a3f7bd0f2346b41534f90f646c460 -->
 
 # Representantforslag fra stortingsrepresentantene Harry Valderhaug, Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Jørgen H. Kristiansen om å forenkle kravene til boligbygg for å redusere byggekostnader og boligpriser
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T01:52:00Z
+- **Sist hentet:** 2026-05-18T08:46:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200075
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779066077216+0200)/",
+  "respons_dato_tid": "/Date(1779091550865+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -149,7 +149,7 @@
   "innstilling_id": 17336,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779066075435+0200)/",
+    "respons_dato_tid": "/Date(1779091550396+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200075,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779066077216+0200)/",
+      "respons_dato_tid": "/Date(1779091550865+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -199,4 +199,5 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
