@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-18 08:46 UTC*
+*Sist oppdatert: 2026-05-18 09:23 UTC*
 
-**Antall dokumenter:** 1178
+**Antall dokumenter:** 1228
 
 ## Innhold
 
@@ -266,6 +266,56 @@ Lovdata
 - [Fortale](byggteknisk/regelverk/dok/byggevareforordningen/fortale.md)
 - [Vedlegg I Grunnleggende krav til byggverk](byggteknisk/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav.md)
 - [Vedlegg II Framgangsmåte for vedtakelse av et europeisk bedømmelsesdokument](byggteknisk/regelverk/dok/byggevareforordningen/vedlegg-ii-framgangsmate-for.md)
+- [Vedlegg III Ytelseserklæring](byggteknisk/regelverk/dok/byggevareforordningen/vedlegg-iii-ytelseserklaring.md)
+- [Vedlegg IV Produktområder og krav til tekniske bedømmelsesorganer](byggteknisk/regelverk/dok/byggevareforordningen/vedlegg-iv-produktomrader-og.md)
+- [Vedlegg V Vurdering og verifikasjon av ytelse](byggteknisk/regelverk/dok/byggevareforordningen/vedlegg-v-vurdering-og.md)
+- [Begrepsliste](byggteknisk/regelverk/dok/definisjoner/begrepsliste.md)
+- [§ 1. Forskriftens virkeområde](byggteknisk/regelverk/dok/i/1.md)
+- [§ 2. Omsetning, markedsføring og distribusjon av produkter](byggteknisk/regelverk/dok/i/2.md)
+- [Innledning](byggteknisk/regelverk/dok/i/innledning.md)
+- [Forordning (EU) nr. 305/2011](byggteknisk/regelverk/dok/i.vedlegg/2.md)
+- [Forordning (EU) nr. 1062/2013 av 30. oktober 2013](byggteknisk/regelverk/dok/i.vedlegg/3.md)
+- [Forordning (EU) nr. 157/2014 av 30. oktober 2013](byggteknisk/regelverk/dok/i.vedlegg/4.md)
+- [Forordning (EU) nr. 574/2014 av 21. februar 2014](byggteknisk/regelverk/dok/i.vedlegg/5.md)
+- [Forordning (EU) nr. 568/2014 av 18. februar 2014](byggteknisk/regelverk/dok/i.vedlegg/6.md)
+- [Kommisjonsdelegert forordning (EU) nr. 1291/2014 av 16. juli 2014](byggteknisk/regelverk/dok/i.vedlegg/7.md)
+- [Kommisjonsdelegert forordning (EU) nr. 1292/2014 av 17. juli 2014](byggteknisk/regelverk/dok/i.vedlegg/8.md)
+- [Kommisjonsdelegert forordning (EU) nr. 1293/2014 av 17. juli 2014](byggteknisk/regelverk/dok/i.vedlegg/9.md)
+- [Vedlegg I](byggteknisk/regelverk/dok/i1/vedlegg-i.md)
+- [Vedlegg II](byggteknisk/regelverk/dok/i1/vedlegg-ii.md)
+- [§ 3. Gjennomføring av byggevareforordningen samt delegerte rettsakter og gjennomføringsrettsakter](byggteknisk/regelverk/dok/ii/3.md)
+- [§ 3a. Gjennomføring av delegerte rettsakter av teknisk karakter](byggteknisk/regelverk/dok/ii/3a.md)
+- [§ 4. Språk i ytelseserklæring](byggteknisk/regelverk/dok/ii/4.md)
+- [§ 5. Språk på anvisninger og sikkerhetsinformasjon](byggteknisk/regelverk/dok/ii/5.md)
+- [§ 6. Varekontaktpunkt for byggevarer](byggteknisk/regelverk/dok/ii/6.md)
+- [§ 7. Teknisk bedømmelsesorgan](byggteknisk/regelverk/dok/ii/7.md)
+- [§ 8. Tekniske kontrollorgan etter byggevareforordningen](byggteknisk/regelverk/dok/ii/8.md)
+- [Innledning](byggteknisk/regelverk/dok/ii/innledning.md)
+- [§ 10. Dokumentasjon av vesentlige egenskaper](byggteknisk/regelverk/dok/iii/10.md)
+- [§ 11. Markedsdeltakernes plikter](byggteknisk/regelverk/dok/iii/11.md)
+- [§ 12. Vurdering og verifikasjon av byggevarers ytelser](byggteknisk/regelverk/dok/iii/12.md)
+- [§ 13. Innhold i dokumentasjonen](byggteknisk/regelverk/dok/iii/13.md)
+- [§ 14. Gjensidig godkjenning](byggteknisk/regelverk/dok/iii/14.md)
+- [§ 9. Virkeområde for kapittel III](byggteknisk/regelverk/dok/iii/9.md)
+- [Innledning](byggteknisk/regelverk/dok/iii/innledning.md)
+- [§ 15. Virkeområde for kapittel IV](byggteknisk/regelverk/dok/iv/15.md)
+- [§ 16. Løfteinnretning](byggteknisk/regelverk/dok/iv/16.md)
+- [§ 17. Varmtvannskjel som fyres med flytende eller gassformig brensel](byggteknisk/regelverk/dok/iv/17.md)
+- [§ 18. CE-merking av løfteinnretninger og varmtvannskjeler](byggteknisk/regelverk/dok/iv/18.md)
+- [§ 19. Teknisk kontrollorgan for løfteinnretninger og varmtvannskjel](byggteknisk/regelverk/dok/iv/19.md)
+- [Innledning](byggteknisk/regelverk/dok/iv/innledning.md)
+- [§ 20. Forbud mot villedende informasjon](byggteknisk/regelverk/dok/v/20.md)
+- [§ 21. Tilsynsmyndighet](byggteknisk/regelverk/dok/v/21.md)
+- [§ 22. Tilsyn med produkter til byggverk](byggteknisk/regelverk/dok/v/22.md)
+- [§ 23. Reaksjoner fra tilsynsmyndigheten](byggteknisk/regelverk/dok/v/23.md)
+- [§ 24. Overtredelsesgebyr. Gebyrenes størrelse](byggteknisk/regelverk/dok/v/24.md)
+- [§ 25. Utmåling av overtredelsesgebyr](byggteknisk/regelverk/dok/v/25.md)
+- [§ 26. Gebyr](byggteknisk/regelverk/dok/v/26.md)
+- [§ 27. Ikrafttredelse, overgangsbestemmelse og endringer i andre forskrifter](byggteknisk/regelverk/dok/v/27.md)
+- [Innledning](byggteknisk/regelverk/dok/v/innledning.md)
+- [1. Innledning](byggteknisk/regelverk/dok/veiledning-til/1.-innledning.md)
+- [10. Frivillig CE-merking og ytelseserklæring (rett til å CE-merke)](byggteknisk/regelverk/dok/veiledning-til/10.-frivillig-ce-merking-og.md)
+- [11. Tekniske bedømmelsesorgan](byggteknisk/regelverk/dok/veiledning-til/11.-tekniske-bedommelsesorgan.md)
 - [Forskrift om dokumentasjon av byggevarer (DOK)](byggteknisk/regelverk/dok.md)
 - [Endringshistorikk for byggesaksforskriften (SAK)](byggteknisk/regelverk/endringshistorikk-tek17/endringshistorikk.md)
 - [Endringshistorikk TEK17](byggteknisk/regelverk/endringshistorikk-tek17.md)
