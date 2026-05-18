@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5c4c0a60e1d9f928c961401113df5d218ebd71a1b7bf1ed3f7fff036f9c66d90 -->
+<!-- innholds-hash: 4111bc4cf04854bcee425ab448cd4f72254e1e5538079a7c90774072602bc72a -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe, Bjørn Arild Gram og Geir Pollestad om å utrede en økt elavgift for datasentre
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T15:53:43Z
+- **Sist hentet:** 2026-05-18T22:49:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200022
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779116926866+0200)/",
+  "respons_dato_tid": "/Date(1779142566508+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grøthe",
@@ -124,7 +124,7 @@
   "innstilling_id": 17276,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779116861883+0200)/",
+    "respons_dato_tid": "/Date(1779142521368+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200022,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -174,6 +174,7 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)

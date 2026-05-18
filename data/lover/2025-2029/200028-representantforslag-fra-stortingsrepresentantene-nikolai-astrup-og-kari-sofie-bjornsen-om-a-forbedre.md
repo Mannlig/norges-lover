@@ -1,4 +1,4 @@
-<!-- innholds-hash: b45e3542d0427a1778b138505a28419f127913a9d2166d222677006f61aca75f -->
+<!-- innholds-hash: ec9b29a15f562c0b6bb1284ba2493fb7d464abfd77ca70885cfd46b0883d3910 -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup og Kari Sofie Bjørnsen om å forbedre aksjesparekontoordningen for å øke investeringer i vekstbedrifter
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T15:53:43Z
+- **Sist hentet:** 2026-05-18T22:49:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200028
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779116926866+0200)/",
+  "respons_dato_tid": "/Date(1779142566477+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566477+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566508+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
@@ -90,7 +90,7 @@
   "innstilling_id": 17267,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779116861883+0200)/",
+    "respons_dato_tid": "/Date(1779142521368+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200028,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779116926866+0200)/",
+      "respons_dato_tid": "/Date(1779142566477+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -140,6 +140,7 @@
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
 - **2026-05-17** Innhold endret (se git-historikk for diff)
+- **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
