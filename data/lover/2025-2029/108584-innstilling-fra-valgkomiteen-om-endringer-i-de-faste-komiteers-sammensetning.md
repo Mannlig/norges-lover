@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4dff8c6869b70394ae7b36edf0560ad258f8f2449677ec6043b2a50452b0b74b -->
+<!-- innholds-hash: 9a955d525676c75d7c391b06b77ab278062c0be7110201f7f27884412f420d30 -->
 
 # Innstilling fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:11Z
+- **Sist hentet:** 2026-05-19T12:51:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108584
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167064307+0200)/",
+  "respons_dato_tid": "/Date(1779192568928+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167064307+0200)/",
+      "respons_dato_tid": "/Date(1779192568928+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167064307+0200)/",
+      "respons_dato_tid": "/Date(1779192568928+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -48,7 +48,7 @@
   "innstilling_id": 17344,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
+    "respons_dato_tid": "/Date(1779192359936+0200)/",
     "versjon": "1.6",
     "id": "VALG",
     "navn": "Valgkomiteen"
@@ -76,4 +76,5 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

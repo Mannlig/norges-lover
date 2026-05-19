@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7d06c1ded10ac97679515761a4926ce6f5f64262af1cdc5e84af9569f8660c42 -->
+<!-- innholds-hash: 07d6170be1c8244e12fbf6a8399e544a8d027b854b538b6ca5b896e423e2af5d -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup og Kari Sofie Bjørnsen om å forbedre aksjesparekontoordningen for å øke investeringer i vekstbedrifter
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:12Z
+- **Sist hentet:** 2026-05-19T12:51:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200028
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167065932+0200)/",
+  "respons_dato_tid": "/Date(1779192570031+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167065932+0200)/",
+      "respons_dato_tid": "/Date(1779192570031+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779167065932+0200)/",
+      "respons_dato_tid": "/Date(1779192570031+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -44,7 +44,7 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
+        "respons_dato_tid": "/Date(1779188415264+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167065932+0200)/",
+      "respons_dato_tid": "/Date(1779192570031+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
@@ -69,7 +69,7 @@
       "id": "NA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
+        "respons_dato_tid": "/Date(1779188415264+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -90,7 +90,7 @@
   "innstilling_id": 17267,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
+    "respons_dato_tid": "/Date(1779192359936+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200028,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779167065932+0200)/",
+      "respons_dato_tid": "/Date(1779192570031+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -108,7 +108,7 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
+        "respons_dato_tid": "/Date(1779188415264+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -144,4 +144,5 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

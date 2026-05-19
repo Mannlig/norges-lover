@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-19 06:22 UTC*
+*Sist oppdatert: 2026-05-19 12:51 UTC*
 
 **Antall dokumenter:** 475
 

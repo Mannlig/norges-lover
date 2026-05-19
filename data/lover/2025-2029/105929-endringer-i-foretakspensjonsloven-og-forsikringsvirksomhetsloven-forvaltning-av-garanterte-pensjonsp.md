@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3282a52a242d295db9c315eb93050c3996fe2093a48643999b61a9e5a15dfaac -->
+<!-- innholds-hash: 33debd63caa753e0b04951039e2627c9c4a800a3388b4e8c4133a736a7c1d7b8 -->
 
 # Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:11Z
+- **Sist hentet:** 2026-05-19T12:51:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105929
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167065854+0200)/",
+  "respons_dato_tid": "/Date(1779192569967+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167065870+0200)/",
+      "respons_dato_tid": "/Date(1779192569985+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167065870+0200)/",
+      "respons_dato_tid": "/Date(1779192569985+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167065870+0200)/",
+      "respons_dato_tid": "/Date(1779192569985+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
@@ -57,7 +57,7 @@
   "innstilling_id": 17284,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
+    "respons_dato_tid": "/Date(1779192359936+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 105929,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779167065870+0200)/",
+      "respons_dato_tid": "/Date(1779192569985+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aasen-Svensrud",
@@ -75,7 +75,7 @@
       "id": "AASE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
+        "respons_dato_tid": "/Date(1779188415264+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -111,4 +111,5 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

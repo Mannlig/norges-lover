@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-19 06:22 UTC*
+*Sist oppdatert: 2026-05-19 12:51 UTC*
 
-**Antall dokumenter:** 1464
+**Antall dokumenter:** 1471
 
 ## Innhold
 
@@ -601,6 +601,13 @@ Lovdata
 - [Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026](lover/2025-2029/200315-tilleggsbevilgninger-og-omprioriteringer-i-statsbudsjettet-2026.md)
 - [Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg](lover/2025-2029/200316-representantforslag-fra-stortingsrepresentantane-bard-hoksrud-trond-helleland-anne-lise-gjerstad-fre.md)
 - [Representantforslag fra stortingsrepresentantene Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør Norge](lover/2025-2029/200316-representantforslag-fra-stortingsrepresentantene-bard-hoksrud-trond-helleland-anne-lise-gjerstad-fre.md)
+- [Riksrevisjonens undersøkelse av Norads kontroll og oppfølging av tilskudd til sivil støtte gjennom Nansen-programmet](lover/2025-2029/200317-riksrevisjonens-undersokelse-av-norads-kontroll-og-oppfolging-av-tilskudd-til-sivil-stotte-gjennom-n.md)
+- [Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet](lover/2025-2029/200318-riksrevisjonens-undersokelse-av-norsk-stotte-gjennom-den-sivile-delen-av-nansen-programmet.md)
+- [Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet](lover/2025-2029/200319-riksrevisjonens-undersokelse-av-forsvarsdepartementets-forvaltning-av-tilskudd-til-militaer-stotte-g.md)
+- [Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina](lover/2025-2029/200320-riksrevisjonens-undersokelse-av-effektiviteten-i-forvaltningen-av-den-norske-militaere-stotten-til-u.md)
+- [Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse](lover/2025-2029/200321-representantforslag-fra-stortingsrepresentantene-marian-hussein-anne-lise-gjerstad-fredlund-mirell-h.md)
+- [Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina](lover/2025-2029/200322-representantforslag-fra-stortingsrepresentantene-marthe-hammer-ingrid-fiskaa-og-marian-hussein-om-at.md)
+- [Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter](lover/2025-2029/200323-representantforslag-fra-stortingsrepresentantene-joel-ystebo-ida-lindtveit-rose-og-jorunn-gleditsch-.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)
