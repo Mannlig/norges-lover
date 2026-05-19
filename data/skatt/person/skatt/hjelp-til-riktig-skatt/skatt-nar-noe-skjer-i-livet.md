@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2ec15dc5ec22c93499dd5de3c6f90ea8cf69b31b47c2846cd6fb6622473c60fe -->
+<!-- innholds-hash: 74cf308741216f9bee57564f0a492539a539372575a37c63b5298b95b67caf69 -->
 
 # Når livet endrer seg, vil ofte også skatten endres
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/skatt-nar-noe-skjer-i-livet/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:19:09Z
+- **Sist hentet:** 2026-05-19T21:35:28Z
 
 ## Innhold
 
@@ -61,7 +61,7 @@ Du bør
 - Har du gått fra etterlattepensjon til alderspensjon må du huske å
 - Uføretrygd fra folketrygden og uføreytelser fra andre ordninger, skattlegges på samme måte som lønnsinntekt.
 - Informasjon om
-- Ikke betal for mye skatt -
+- Ikke betal for mye skatt –
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/skatt-nar-noe-skjer-i-livet/) av norges-lover-bot.*
@@ -69,3 +69,4 @@ Du bør
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)
