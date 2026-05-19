@@ -20,6 +20,14 @@ _JSON = {"format": "json"}
 ANTALL_PERIODER = 3
 SAKER_PER_SIDE = 200
 
+# Felter som er stabile mellom API-kall (brukes for hash-sjekk).
+# Dynamiske felter som sist_oppdatert/cache-timestamps ekskluderes.
+_STABILE_FELTER = {
+    "id", "tittel", "korttittel", "type", "status",
+    "behandlet_dato", "innstillingstekst", "emne",
+    "komite", "forslagstiller", "parenteses",
+}
+
 
 class StortingetScraper(BaseScraper):
     name = "stortinget"
@@ -116,9 +124,14 @@ class StortingetScraper(BaseScraper):
         return created
 
     @staticmethod
-    def _sak_hash(sak: dict) -> str:
+    def _stabilt_innhold(sak: dict) -> str:
+        """Returner bare stabile felter som JSON – ekskluderer dynamiske timestamps."""
+        stabilt = {k: v for k, v in sak.items() if k in _STABILE_FELTER}
+        return json.dumps(stabilt, ensure_ascii=False, sort_keys=True)
+
+    def _sak_hash(self, sak: dict) -> str:
         return hashlib.sha256(
-            json.dumps(sak, ensure_ascii=False, sort_keys=True).encode()
+            self._stabilt_innhold(sak).encode()
         ).hexdigest()[:16]
 
     def _lagre_sak(
@@ -129,7 +142,7 @@ class StortingetScraper(BaseScraper):
         periode_dir.mkdir(parents=True, exist_ok=True)
         filepath = periode_dir / f"{sak_id}-{slug}.md"
 
-        raa_innhold = json.dumps(data, ensure_ascii=False, sort_keys=True)
+        raa_innhold = self._stabilt_innhold(data)
         formatert = self._formater_sak(sak_id, tittel, data, periode)
 
         endret = self.skriv_hvis_endret(filepath, raa_innhold, formatert)
