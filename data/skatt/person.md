@@ -1,4 +1,4 @@
-<!-- innholds-hash: 247e01555acf17601b68c27caed93fb75ce66c783902f800d37d56c7ec196f56 -->
+<!-- innholds-hash: 2d83ffd0f43250be816783d2e604f02c9a1c35aa88aeb065bac68baaa943492d -->
 
 # Person
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:10:58Z
+- **Sist hentet:** 2026-05-19T21:27:27Z
 
 ## Innhold
 
@@ -21,7 +21,7 @@ Har du fått nye opplysninger eller noe er feil, kan du fortsatt
 Siden 31. mai er på en søndag i år, er det ikke for sent om du leverer 1. juni.
 
 
-## Hva kan vi hjelpe deg med?
+### Hva kan vi hjelpe deg med?
 
 
 ### Skatt
@@ -48,3 +48,4 @@ Siden 31. mai er på en søndag i år, er det ikke for sent om du leverer 1. jun
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)
