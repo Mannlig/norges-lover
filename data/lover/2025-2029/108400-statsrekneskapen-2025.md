@@ -1,4 +1,4 @@
-<!-- innholds-hash: e7ccadc9c303397b6502f85dd0abe89487f2734f6062454d488d4857cecbf0ad -->
+<!-- innholds-hash: 1b7d40ab760bc6f1e30bbf8ffb6f92148e552ffa8c5f64f8f02c6bccdeeaa9b3 -->
 
 # Statsrekneskapen 2025
 
@@ -11,25 +11,25 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108400
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569745+0200)/",
+  "respons_dato_tid": "/Date(1779221841206+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Meld. St. 3 (2025-2026)",
+  "henvisning": "Meld. St. 3 (2025-2026), Innst. 300 S (2025-2026)",
   "id": 108400,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17385,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 108400,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569745+0200)/",
+      "respons_dato_tid": "/Date(1779221841206+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -63,7 +63,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777327200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
   "status": 2,
   "tittel": "Statsrekneskapen 2025",
   "type": 2
@@ -83,5 +83,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

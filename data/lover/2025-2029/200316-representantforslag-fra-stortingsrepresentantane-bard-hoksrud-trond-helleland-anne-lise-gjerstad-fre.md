@@ -1,4 +1,4 @@
-<!-- innholds-hash: c43c16c9556df7c08eb3da8ab792fbcaad7d9259e014500a38a5649322aa0f45 -->
+<!-- innholds-hash: 04853e1708585f540ec64cc444b0a61be398f4d7e88525d9fd803220c6110cc3 -->
 
 # Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200316
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200316
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568769+0200)/",
+  "respons_dato_tid": "/Date(1779221839691+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568769+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,11 +50,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568769+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101944800000+0200)/",
+      "foedselsdato": "/Date(101948400000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568769+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568769+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568817+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568817+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -175,7 +175,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568817+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -200,11 +200,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568817+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
-      "foedselsdato": "/Date(-236052000000+0200)/",
+      "foedselsdato": "/Date(-236048400000+0200)/",
       "fornavn": "Trond",
       "id": "TROH",
       "kjoenn": 2,
@@ -233,8 +233,8 @@
   "korttittel": "Representantforslag om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg",
   "sak_fremmet_id": 200316,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1778623200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg",
   "type": 2
 }
@@ -248,5 +248,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

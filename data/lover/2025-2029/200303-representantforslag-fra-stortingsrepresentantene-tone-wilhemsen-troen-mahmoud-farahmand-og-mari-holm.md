@@ -1,4 +1,4 @@
-<!-- innholds-hash: 71d4d1383f8dd0c3c12cc0c441b402f12555c0d1be78042beb411ee54177d4fc -->
+<!-- innholds-hash: 9fe78e0a1fb2deb48db849239be49dfc6d831c85f86adb0bdd25ccdbdb730086 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200303
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568860+0200)/",
+  "respons_dato_tid": "/Date(1779221840003+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Farahmand",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568860+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -133,14 +133,40 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
   "korttittel": "Representantforslag om å stoppe internettrelaterte overgrep mot barn",
   "sak_fremmet_id": 200303,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Askjer",
+      "foedselsdato": "/Date(-247539600000+0100)/",
+      "fornavn": "Hans Edvard",
+      "id": "HANASK",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1779188415264+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Te",
+        "navn": "Telemark"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn",
@@ -161,5 +187,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

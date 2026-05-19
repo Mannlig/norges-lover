@@ -1,4 +1,4 @@
-<!-- innholds-hash: 600a6e27197660d9c02222496b041bc274ff312254e16622905bd437e1c70aef -->
+<!-- innholds-hash: 9ed8c0ddc119a5478f82d55cb2ec5654cb8402b57a476bd935dd60fc05e8c568 -->
 
 # Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 106220
 - **Type:** 2
 - **Korttittel:** Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106220
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568928+0200)/",
+  "respons_dato_tid": "/Date(1779221836113+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568928+0200)/",
+      "respons_dato_tid": "/Date(1779221836113+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -43,7 +43,7 @@
   "sak_fremmet_id": 106220,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
   "type": 2
 }
@@ -62,5 +62,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

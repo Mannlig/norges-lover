@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9b7899b2de6a1f85cbf73e9c1144d8bc85ff5a3ebd1636c791a24291ab169012 -->
+<!-- innholds-hash: 006d45aacf947a4779b9a05d433fe216eadd4266737104263e5a307134a8c736 -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200323
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568674+0200)/",
+  "respons_dato_tid": "/Date(1779221839847+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568722+0200)/",
+      "respons_dato_tid": "/Date(1779221839925+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568722+0200)/",
+      "respons_dato_tid": "/Date(1779221839925+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568769+0200)/",
+      "respons_dato_tid": "/Date(1779221839925+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -120,3 +120,4 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)

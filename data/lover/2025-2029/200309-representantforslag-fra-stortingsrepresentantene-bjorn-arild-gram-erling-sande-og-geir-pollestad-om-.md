@@ -1,4 +1,4 @@
-<!-- innholds-hash: 64e0ef3fe5ce48baa6c92413669bc7374d2444ea019c32041ef478ff49fed53b -->
+<!-- innholds-hash: 43bcd783120b365c2bd7038dc27536b799d98404b7c1a4ac2174248edaed8ac1 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200309
 - **Type:** 2
 - **Korttittel:** Representantforslag om forenklinger i SkatteFUNN-ordningen
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200309
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568833+0200)/",
+  "respons_dato_tid": "/Date(1779221839691+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -75,11 +75,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
-      "foedselsdato": "/Date(271807200000+0200)/",
+      "foedselsdato": "/Date(271810800000+0200)/",
       "fornavn": "Geir",
       "id": "GP",
       "kjoenn": 2,
@@ -104,12 +104,17 @@
   "id": 200309,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
+    "versjon": "1.6",
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om forenklinger i SkatteFUNN-ordningen",
   "sak_fremmet_id": 200309,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Erling Sande og Geir Pollestad om forenklinger i SkatteFUNN-ordningen",
   "type": 2
 }
@@ -128,5 +133,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

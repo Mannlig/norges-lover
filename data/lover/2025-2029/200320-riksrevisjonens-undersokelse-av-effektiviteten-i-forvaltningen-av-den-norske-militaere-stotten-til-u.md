@@ -1,4 +1,4 @@
-<!-- innholds-hash: fea06fa55cf124d0edb01ad0ed8fff02e45e564e407f871c78c83104bc16c1cb -->
+<!-- innholds-hash: 1cd3781d52cf63cc3168c1c41fec2da8ceff35af704a8bb4c1c06aa70250a763 -->
 
 # Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina
 
@@ -11,24 +11,57 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200320
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568611+0200)/",
+  "respons_dato_tid": "/Date(1779221839691+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 29,
+      "navn": "Riksrevisjonen",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 155,
+      "id": 51,
+      "navn": "Departementer",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 59,
+      "id": 60,
+      "navn": "Forsvarsmateriell",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:14 (2025-2026)",
   "id": 200320,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
+    "versjon": "1.6",
+    "id": "KONTROLL",
+    "navn": "Kontroll- og konstitusjonskomiteen"
+  },
   "korttittel": "Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina",
   "sak_fremmet_id": 200320,
   "saksordfoerer_liste": [],
@@ -44,3 +77,4 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)
