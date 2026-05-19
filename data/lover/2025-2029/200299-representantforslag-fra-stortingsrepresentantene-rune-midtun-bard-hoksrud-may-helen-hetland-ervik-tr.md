@@ -1,4 +1,4 @@
-<!-- innholds-hash: b768d01ab2ca90f5193541be8bc62578653cfb452b02020c6da7fc2628df5916 -->
+<!-- innholds-hash: b44957732fc3ae21a9b44e00cb4dd4bb8bb236fd1c15cb8e9f4f49a389d59dff -->
 
 # Representantforslag fra stortingsrepresentantene Rune Midtun, Bård Hoksrud, May Helen Hetland Ervik, Trond Helleland, Aleksander Stokkebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om salg av Haugesund Lufthavn Karmøy
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200299
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569493+0200)/",
+  "respons_dato_tid": "/Date(1779221840738+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -60,11 +60,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101944800000+0200)/",
+      "foedselsdato": "/Date(101948400000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -185,11 +185,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
-      "foedselsdato": "/Date(-236052000000+0200)/",
+      "foedselsdato": "/Date(-236048400000+0200)/",
       "fornavn": "Trond",
       "id": "TROH",
       "kjoenn": 2,
@@ -215,7 +215,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -224,7 +224,7 @@
   "sak_fremmet_id": 200299,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -269,5 +269,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

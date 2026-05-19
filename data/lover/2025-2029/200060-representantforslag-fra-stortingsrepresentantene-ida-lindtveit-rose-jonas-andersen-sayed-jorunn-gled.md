@@ -1,4 +1,4 @@
-<!-- innholds-hash: 810c9a5a3ab6c7a13fbe14dc77007557399b298684f55ca7a8665d9be179cf94 -->
+<!-- innholds-hash: eb9d080f5cee13a6e6d6d5b10fa0a0230d0aacb4b3317104aedb8df35fe7ae62 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jonas Andersen Sayed, Jorunn Gleditsch Lossius og Hans Edvard Askjer om en stortingsmelding om innvandring og integrering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200060
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569134+0200)/",
+  "respons_dato_tid": "/Date(1779221840269+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -140,7 +140,7 @@
   "innstilling_id": 17315,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200060,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Busch",
@@ -194,5 +194,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

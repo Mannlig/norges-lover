@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4b2f555755b4998899fa3c6ffcf8ad14e33400555cc4b568389c0c124c947de1 -->
+<!-- innholds-hash: 7f1c0a21491819bb91a7c505eb697432b66e5c447c532ec29bb2e7a06d783fe6 -->
 
 # Representantforslag frå stortingsrepresentantane Marius Langballe Dalin, Arild Hermstad, Julie E. Stuestøl, Siren Julianne Jensen, Oda Indgaard og Ingrid Liland om utvikling av mindre sjukehus, desentralisering av polikliniske tenester og kortare reiseveg for å få helsehjelp
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200056
 - **Type:** 2
 - **Korttittel:** Representantforslag om utvikling av mindre sjukehus, desentralisering av polikliniske tenester og kortare reiseveg for å få helsehjelp
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200056
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568975+0200)/",
+  "respons_dato_tid": "/Date(1779221836113+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836519+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836519+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836191+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836269+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836348+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836457+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836519+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -199,7 +199,7 @@
   "innstilling_id": 17331,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200056,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569023+0200)/",
+      "respons_dato_tid": "/Date(1779221836176+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -234,7 +234,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag frå stortingsrepresentantane Marius Langballe Dalin, Arild Hermstad, Julie E. Stuestøl, Siren Julianne Jensen, Oda Indgaard og Ingrid Liland om utvikling av mindre sjukehus, desentralisering av polikliniske tenester og kortare reiseveg for å få helsehjelp",
   "type": 2
 }
@@ -253,5 +253,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 240b6ddcdef567efafdfdae63371ca3ca6ca28b73eec92f7fc28bcb3335503d5 -->
+<!-- innholds-hash: 40c787486a00d05224ceb9c763c51cb6d6a729a27e85fc82b84f362e11c1e8b4 -->
 
 # Representantforslag fra stortingsrepresentantene Une Bastholm, Frøya Skjold Sjursæther, Marius Langballe Dalin, Lars Haltbrekken, Kirsti Bergstø, Sofie Marhaug, Bjørnar Moxnes og Marie Sneve Martinussen om å bevare Hurummarka
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200038
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569399+0200)/",
+  "respons_dato_tid": "/Date(1779221840566+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -219,7 +219,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -249,7 +249,7 @@
   "innstilling_id": 17311,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -258,7 +258,7 @@
   "sak_fremmet_id": 200038,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569415+0200)/",
+      "respons_dato_tid": "/Date(1779221840612+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussaini",
@@ -303,5 +303,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

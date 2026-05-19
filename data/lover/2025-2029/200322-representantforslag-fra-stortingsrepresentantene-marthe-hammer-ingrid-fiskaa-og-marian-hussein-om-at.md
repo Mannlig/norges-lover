@@ -1,4 +1,4 @@
-<!-- innholds-hash: 94c7fe2d0f36d714833fd33f52f890121b637c08070e8f5bd311dd6f3693c5b8 -->
+<!-- innholds-hash: 37d1838f5bb7e70667b983ea894f27cc1dd999db06dd582f45c07faedafa9361 -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200322
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568626+0200)/",
+  "respons_dato_tid": "/Date(1779221839847+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568626+0200)/",
+      "respons_dato_tid": "/Date(1779221839847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568674+0200)/",
+      "respons_dato_tid": "/Date(1779221839847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568674+0200)/",
+      "respons_dato_tid": "/Date(1779221839847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -120,3 +120,4 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)

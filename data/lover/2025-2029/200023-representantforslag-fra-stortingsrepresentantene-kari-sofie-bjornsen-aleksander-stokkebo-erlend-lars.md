@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2fe6772379707f72a3472c1427980a77ba9a9633c813daaaf22785faf94fd773 -->
+<!-- innholds-hash: 0e4df52a6c9ba1511111ad7e2568bb2eada0f0f1830e0c7bad101276f29481a4 -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Aleksander Stokkebø, Erlend Larsen, Tage Pettersen og Ove Trellevik om en plan for håndtering av sprengstoff og ammunisjon i norsk natur og i kystnære farvann
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200023
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569509+0200)/",
+  "respons_dato_tid": "/Date(1779221840769+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -153,11 +153,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
-      "foedselsdato": "/Date(80863200000+0200)/",
+      "foedselsdato": "/Date(80866800000+0200)/",
       "fornavn": "Tage",
       "id": "TAGP",
       "kjoenn": 2,
@@ -183,7 +183,7 @@
   "innstilling_id": 17282,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -192,7 +192,7 @@
   "sak_fremmet_id": 200023,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840769+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -237,5 +237,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

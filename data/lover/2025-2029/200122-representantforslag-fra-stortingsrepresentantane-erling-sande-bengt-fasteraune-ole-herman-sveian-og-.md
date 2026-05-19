@@ -1,4 +1,4 @@
-<!-- innholds-hash: 29897c4d9cd808f21b83f2edae94750e5da039d7a84ed03fa33186290e5649ff -->
+<!-- innholds-hash: 83969d0d559a31a01c4a9d0d877d9fa5bada90f19d291c59748195af5418aa3c -->
 
 # Representantforslag frå stortingsrepresentantane Erling Sande, Bengt Fasteraune, Ole Herman Sveian og Geir Inge Lien om meir ja og mindre nei i byggjesaker
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200122
 - **Type:** 2
 - **Korttittel:** Representantforslag om meir ja og mindre nei i byggjesaker
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200122
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569337+0200)/",
+  "respons_dato_tid": "/Date(1779221839003+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -44,11 +44,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
-      "foedselsdato": "/Date(-176090400000+0200)/",
+      "foedselsdato": "/Date(-176083200000+0200)/",
       "fornavn": "Bengt",
       "id": "BFA",
       "kjoenn": 2,
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -149,7 +149,7 @@
   "innstilling_id": 17337,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200122,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -184,7 +184,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag frå stortingsrepresentantane Erling Sande, Bengt Fasteraune, Ole Herman Sveian og Geir Inge Lien om meir ja og mindre nei i byggjesaker",
   "type": 2
 }
@@ -203,5 +203,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

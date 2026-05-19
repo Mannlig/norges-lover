@@ -1,4 +1,4 @@
-<!-- innholds-hash: 159f9f10281b8c20f4f2e3c98a1f657ebd3606633ab15095d9495822a01b9e46 -->
+<!-- innholds-hash: bf76a3a380e4082abd1ce6e7479d6844671bb40cd9b01914b5d2cb509f020618 -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund, Ingrid Fiskaa og Sunniva Holmås Eidsvoll om å bekjempe voldelige og ekstremistiske digitale nettverk rettet mot barn og unge
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200298
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569431+0200)/",
+  "respons_dato_tid": "/Date(1779221840644+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -158,7 +158,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200298,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569493+0200)/",
+      "respons_dato_tid": "/Date(1779221840738+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -212,5 +212,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

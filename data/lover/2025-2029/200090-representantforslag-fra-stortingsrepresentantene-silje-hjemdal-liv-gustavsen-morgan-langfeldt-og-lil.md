@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1d4f54c4295fb537f73fdde667e8e3232f66a5ee63352220c6a74e158b113511 -->
+<!-- innholds-hash: b88b1ecf1eec0d9c252b807dce88ec9d7a97c61062ff83bb485ca8aa189d37c6 -->
 
 # Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen, Morgan Langfeldt og Lill Harriet Sandaune om praktiske og alternative opplæringstilbud for barn og unge på barnevernsinstitusjon
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200090
 - **Type:** 2
 - **Korttittel:** Representantforslag om praktiske og alternative opplæringstilbud for barn og unge på barnevernsinstitusjon
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200090
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569243+0200)/",
+  "respons_dato_tid": "/Date(1779221838143+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569274+0200)/",
+      "respons_dato_tid": "/Date(1779221838268+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569274+0200)/",
+      "respons_dato_tid": "/Date(1779221838268+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569274+0200)/",
+      "respons_dato_tid": "/Date(1779221838268+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838221+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838237+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569274+0200)/",
+      "respons_dato_tid": "/Date(1779221838268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569274+0200)/",
+      "respons_dato_tid": "/Date(1779221838268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -158,7 +158,7 @@
   "innstilling_id": 17319,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200090,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838206+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -193,7 +193,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen, Morgan Langfeldt og Lill Harriet Sandaune om praktiske og alternative opplæringstilbud for barn og unge på barnevernsinstitusjon",
   "type": 2
 }
@@ -212,5 +212,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

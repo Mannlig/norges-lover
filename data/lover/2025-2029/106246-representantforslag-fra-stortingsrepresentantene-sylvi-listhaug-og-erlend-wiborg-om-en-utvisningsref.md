@@ -1,4 +1,4 @@
-<!-- innholds-hash: 72fdd9df59f3e0fe925fbd3cccf32a20038c40a071b39b5720607d6919fb49e5 -->
+<!-- innholds-hash: 254ca7633848ed55f2512f4149d4f1600dba77f4bd33d10a3e00cfc3bf2ce2f5 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug og Erlend Wiborg om en utvisningsreform for kriminelle innvandrere
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106246
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569509+0200)/",
+  "respons_dato_tid": "/Date(1779221840847+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -108,7 +108,7 @@
   "innstilling_id": 17289,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 106246,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569509+0200)/",
+      "respons_dato_tid": "/Date(1779221840847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -162,5 +162,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

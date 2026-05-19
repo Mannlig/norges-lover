@@ -1,4 +1,4 @@
-<!-- innholds-hash: de2b58591e784fbd08b62fb1bb584080bcfae672fff9d385a6dcb60af6eeb267 -->
+<!-- innholds-hash: 3166f696de51cd1b78fd061a0a919f962abe95512104c9714ef67c3cc045797f -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200308
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre rullestolbrukere likeverdig tilgang til luftfart
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568833+0200)/",
+  "respons_dato_tid": "/Date(1779221839581+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -104,12 +104,17 @@
   "id": 200308,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
+    "versjon": "1.6",
+    "id": "TRANSKOM",
+    "navn": "Transport- og kommunikasjonskomiteen"
+  },
   "korttittel": "Representantforslag om å sikre rullestolbrukere likeverdig tilgang til luftfart",
   "sak_fremmet_id": 200308,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568833+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -134,8 +139,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart",
   "type": 2
 }
@@ -154,5 +159,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d1729c3e7fd36e79b1804b50cbcea16b7a4986e8e9e673f2edadbd0e82c7888 -->
+<!-- innholds-hash: 8d5b58f20e93d6b5dcdf1d68bf742b71e7a94092f2364a50b6ba0375a305b2a8 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Bjørn Larsen, Rune Midtun, Helge André Njåstad og Tom Staahle om innstramminger i familieinnvandringspolitikken
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200068
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569181+0200)/",
+  "respons_dato_tid": "/Date(1779221840347+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 40,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -174,7 +174,7 @@
   "innstilling_id": 17317,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -183,11 +183,11 @@
   "sak_fremmet_id": 200068,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569181+0200)/",
+      "respons_dato_tid": "/Date(1779221840347+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
-      "foedselsdato": "/Date(80863200000+0200)/",
+      "foedselsdato": "/Date(80866800000+0200)/",
       "fornavn": "Tage",
       "id": "TAGP",
       "kjoenn": 2,
@@ -228,5 +228,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

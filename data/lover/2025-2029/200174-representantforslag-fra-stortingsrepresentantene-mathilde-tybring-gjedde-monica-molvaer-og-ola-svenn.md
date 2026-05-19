@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8c47b46113ab6d048d49dedb9cf4f48c98bbb1ae1bec8f4dc5e876d632aeb1d3 -->
+<!-- innholds-hash: 6c2e10114af6eae7af9f9ee63b8b045e4aef1ae5672598bfa54751e44f4974fe -->
 
 # Representantforslag fra stortingsrepresentantene Mathilde Tybring-Gjedde, Monica Molvær og Ola Svenneby om å beholde og forbedre nasjonale prøver og kartleggingsprøver
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200174
 - **Type:** 2
 - **Korttittel:** Representantforslag om å beholde og forbedre nasjonale prøver og kartleggingsprøver
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200174
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569337+0200)/",
+  "respons_dato_tid": "/Date(1779221839581+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tybring-Gjedde",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Svenneby",
@@ -115,7 +115,7 @@
   "innstilling_id": 17321,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200174,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221839581+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -150,7 +150,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Mathilde Tybring-Gjedde, Monica Molvær og Ola Svenneby om å beholde og forbedre nasjonale prøver og kartleggingsprøver",
   "type": 2
 }
@@ -169,5 +169,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

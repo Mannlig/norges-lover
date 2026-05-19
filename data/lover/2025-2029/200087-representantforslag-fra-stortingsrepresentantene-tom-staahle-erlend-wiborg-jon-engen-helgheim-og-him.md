@@ -1,4 +1,4 @@
-<!-- innholds-hash: 642a53873b9849df090435f2a1ac101f4151eb6253912d0d579b7acde587986b -->
+<!-- innholds-hash: ff774ec3c3711b6b72eedecf3a1706dc1dfa7c295844eb09957f77ead3874eab -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Erlend Wiborg, Jon Engen-Helgheim og Himanshu Gulati om en plan- og bygningslov for krig og krise
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200087
 - **Type:** 2
 - **Korttittel:** Representantforslag om en plan- og bygningslov for krig og krise
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200087
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569243+0200)/",
+  "respons_dato_tid": "/Date(1779221838049+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838143+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838143+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gulati",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838081+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838143+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -149,7 +149,7 @@
   "innstilling_id": 17338,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200087,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569243+0200)/",
+      "respons_dato_tid": "/Date(1779221838049+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -184,7 +184,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Erlend Wiborg, Jon Engen-Helgheim og Himanshu Gulati om en plan- og bygningslov for krig og krise",
   "type": 2
 }
@@ -203,5 +203,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

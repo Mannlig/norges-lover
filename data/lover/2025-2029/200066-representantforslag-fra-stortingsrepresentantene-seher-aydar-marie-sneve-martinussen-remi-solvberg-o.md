@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8526b8127b63ff15cfb6d3c87e7efd037305dfbe2e67aef503e82b70c8c6a1f5 -->
+<!-- innholds-hash: cf2a9eaf6f1e7cf13604c27e4d9288dd3cf86abf209e7ee60f391869e8a0e859 -->
 
 # Representantforslag fra stortingsrepresentantene Seher Aydar, Marie Sneve Martinussen, Remi Sølvberg og Hege Bae Nyholt om å reservere anbud for ideelle aktører
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200066
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569337+0200)/",
+  "respons_dato_tid": "/Date(1779221840644+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -158,7 +158,7 @@
   "innstilling_id": 17300,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200066,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840644+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -212,5 +212,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)

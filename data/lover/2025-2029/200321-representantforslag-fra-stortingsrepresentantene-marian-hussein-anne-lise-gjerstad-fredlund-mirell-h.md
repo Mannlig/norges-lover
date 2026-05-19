@@ -1,4 +1,4 @@
-<!-- innholds-hash: da2ce0e4bbd3bb597a1a414fbceada5e92a5577eb53574dc5f75e9536149a59c -->
+<!-- innholds-hash: 9e422d34f17b7d1c2697f052c60b98ae9fae0cd0e6ad1521f52c89be9aaabea4 -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200321
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192568611+0200)/",
+  "respons_dato_tid": "/Date(1779221839691+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192568611+0200)/",
+      "respons_dato_tid": "/Date(1779221839691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568611+0200)/",
+      "respons_dato_tid": "/Date(1779221839784+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568626+0200)/",
+      "respons_dato_tid": "/Date(1779221839847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192568626+0200)/",
+      "respons_dato_tid": "/Date(1779221839847+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -145,3 +145,4 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)

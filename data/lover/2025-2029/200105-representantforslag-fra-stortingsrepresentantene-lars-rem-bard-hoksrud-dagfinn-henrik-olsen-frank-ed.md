@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3a080b9abfa530cf725541e31d8d3e54ac026ba7138423f53009334922af94b2 -->
+<!-- innholds-hash: 1a877a7d069d98df8f204078fc4f30b9ba454d66633bdadf3d226e5b8afccfec -->
 
 # Representantforslag fra stortingsrepresentantene Lars Rem, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Finn Krokeide, Tor André Johnsen og Morten Kolbjørnsen om å redusere bompengebelastningen på rv. 4
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Sist hentet:** 2026-05-19T21:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200105
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192569274+0200)/",
+  "respons_dato_tid": "/Date(1779221840003+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840269+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840269+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,11 +44,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569321+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101944800000+0200)/",
+      "foedselsdato": "/Date(101948400000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569321+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840097+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840191+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rem",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840206+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840206+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -219,7 +219,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840269+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -244,7 +244,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192569337+0200)/",
+      "respons_dato_tid": "/Date(1779221840269+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -274,7 +274,7 @@
   "innstilling_id": 17328,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
+    "respons_dato_tid": "/Date(1779221252165+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -283,7 +283,7 @@
   "sak_fremmet_id": 200105,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192569321+0200)/",
+      "respons_dato_tid": "/Date(1779221840003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -328,5 +328,6 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
