@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3f0a2b34a9c26bcba722997a59665a09019fef0248c5d21b3aa27b64c4c86a8d -->
+<!-- innholds-hash: 9603d953354956857105d3b3f1f6b1d16cb8a1dd77986c0809283ff6322c5bb7 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å midlertidig suspendere den nye modellen for beregning av formuesverdi av bolig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T22:49:00Z
+- **Sist hentet:** 2026-05-19T05:57:12Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200012
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779142566508+0200)/",
+  "respons_dato_tid": "/Date(1779167065932+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566571+0200)/",
+      "respons_dato_tid": "/Date(1779167066058+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142566571+0200)/",
+      "respons_dato_tid": "/Date(1779167066058+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566508+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -53,14 +53,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566508+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -78,14 +78,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566571+0200)/",
+      "respons_dato_tid": "/Date(1779167066058+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vea",
@@ -103,14 +103,14 @@
       "id": "MARVEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -124,7 +124,7 @@
   "innstilling_id": 17274,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779142521368+0200)/",
+    "respons_dato_tid": "/Date(1779166825701+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200012,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566508+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -142,14 +142,14 @@
       "id": "EVR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -178,3 +178,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)

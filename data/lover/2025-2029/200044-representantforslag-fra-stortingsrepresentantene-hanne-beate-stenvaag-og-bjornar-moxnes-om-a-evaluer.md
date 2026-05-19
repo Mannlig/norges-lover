@@ -1,4 +1,4 @@
-<!-- innholds-hash: b4d7fffa9fa34b8f9396dfd57367a4e88688f2e14e69fb7a1d608e2ceb7057c1 -->
+<!-- innholds-hash: 4daac391e16c1ce1839fe3e9e32498e86ec7adb7265816acd404bcdd4454f573 -->
 
 # Representantforslag fra stortingsrepresentantene Hanne Beate Stenvaag og Bjørnar Moxnes om å evaluere kommunereformen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T22:49:00Z
+- **Sist hentet:** 2026-05-19T05:57:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200044
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779142565602+0200)/",
+  "respons_dato_tid": "/Date(1779167064901+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
@@ -62,14 +62,14 @@
       "id": "BJMO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
@@ -87,14 +87,14 @@
       "id": "HANSTE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -108,7 +108,7 @@
   "innstilling_id": 17307,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779142521368+0200)/",
+    "respons_dato_tid": "/Date(1779166825701+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 200044,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779142565602+0200)/",
+      "respons_dato_tid": "/Date(1779167064901+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -126,14 +126,14 @@
       "id": "MUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -162,3 +162,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)

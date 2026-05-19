@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c5429bd0ac5816a7da298a718c5d0b2ea50d8ad2ad5286f5f1ff2b79437eabf -->
+<!-- innholds-hash: bd6c47c7890d6fe659dbb5087d44d5232c60cac78495a7a8d998029a3cb942e0 -->
 
 # Representantforslag frå stortingsrepresentantane Trine Fagervik og Kjersti Toppe om gratis legemiddel på kvit resept for barn opp til seks år
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T22:49:00Z
+- **Sist hentet:** 2026-05-19T05:57:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106217
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779142566430+0200)/",
+  "respons_dato_tid": "/Date(1779167065932+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566477+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142566477+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566430+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -53,14 +53,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566477+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fagervik",
@@ -78,14 +78,14 @@
       "id": "TRINFA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -99,7 +99,7 @@
   "innstilling_id": 17293,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779142521368+0200)/",
+    "respons_dato_tid": "/Date(1779166825701+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 106217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566430+0200)/",
+      "respons_dato_tid": "/Date(1779167065932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -117,14 +117,14 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -153,3 +153,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 78f4a9ab0f5513f19bf91d232cb4941d9e1c3291dd8a43bfc9b9d46d13eb43ca -->
+<!-- innholds-hash: 9bb605f17e86ee0e409020f699c515524a375a7c92ab458a75639cc7a29fe8d7 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne Grethe Hauan om tiltak for bedre behandling av personer med alvorlige psykiske lidelser og styrket vern av samfunnet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-18T22:49:00Z
+- **Sist hentet:** 2026-05-19T05:57:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106366
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779142566008+0200)/",
+  "respons_dato_tid": "/Date(1779167065308+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566071+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142566071+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779142566071+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566055+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -62,14 +62,14 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566055+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -87,14 +87,14 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566055+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -112,14 +112,14 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779142566071+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -137,14 +137,14 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -158,7 +158,7 @@
   "innstilling_id": 17273,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779142521368+0200)/",
+    "respons_dato_tid": "/Date(1779166825701+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 106366,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779142566055+0200)/",
+      "respons_dato_tid": "/Date(1779167065417+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krutå",
@@ -176,14 +176,14 @@
       "id": "RUKRUT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779102015031+0200)/",
+        "respons_dato_tid": "/Date(1779145215194+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779058814953+0200)/",
+        "respons_dato_tid": "/Date(1779145215147+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -212,3 +212,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
+- **2026-05-19** Innhold endret (se git-historikk for diff)
