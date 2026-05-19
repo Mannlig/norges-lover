@@ -1,4 +1,4 @@
-<!-- innholds-hash: c379dbf2f1c5b5c213cbb753a0bb2c0cc6b30a83a290fb80371d4d818779c449 -->
+<!-- innholds-hash: 3d8f88b8547a1384a89d88e417bc009c4afc31bf439809c75f3748e67e0bdacb -->
 
 # Arveavgift er fjernet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/gave-og-arv/arveavgift-er-fjernet/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:24:15Z
+- **Sist hentet:** 2026-05-19T13:05:10Z
 
 ## Innhold
 
@@ -93,8 +93,6 @@ Det er vedtatt innføring av kontinuitesprinsippet som hovedregel for arv- og ga
 
 Det er vedtatt unntak fra kontinuitetsprinsippet for boliger, fritidseiendom, gårdsbruk og skogbruk som kunne vært solgt skattefritt av arvelater eller giver på gave- eller dødsfallstidspunktet. Dette innbærer at inngangsverdien for bolig- og fritidseiendom skal settes til markedsverdien på ervervstidspunktet. For alminnelig gårdsbruk eller skogbruk innebærer dette at inngangsverdien på mottakers hånd maksimalt kan settes til ¾ deler av eiendommens antatte salgsverdi.
 
-Les mer om de
-
 Hvis du selger en eiendom du har arvet eller fått i gave, vil en
 
 En overføring av eiendom til ny eier, må ikke være tinglyst. Du kan
@@ -128,3 +126,4 @@ Jeg har fått et vedtak om utsatt rådighet. Blir det arveavgift hvis jeg får r
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-05-19** Innhold endret (se git-historikk for diff)
