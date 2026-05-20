@@ -1,0 +1,153 @@
+<!-- innholds-hash: 6e0933438a6f1a109bd15f4788aa1eb2eeb4ecbd8d7f09aa1d7d53e60807cc71 -->
+
+# § 1-2. Definisjoner
+
+## Kildeinformasjon
+
+- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/sak/1/1/1-2/1/ledd-g/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist hentet:** 2026-05-20T23:31:14Z
+
+## Innhold
+
+
+## Byggesaksforskriften (SAK10) med veiledning
+
+
+### INNHOLD SAK10
+
+Første del Generelle bestemmelser
+
+Andre del Søknadsplikt, innhold i og behandling av søknader
+
+Tredje del Kvalifikasjoner og ansvar
+
+Fjerde del Kontroll, tilsyn og overtredelsesgebyr
+
+Femte del Diverse bestemmelser
+
+
+### § 1-2. Definisjoner
+
+I byggesaksforskriften finner vi mange begreper. For å gjøre byggesaksforskriften lettere å forstå er de mest sentrale begrepene forklart her.
+
+I denne forskrift menes med
+
+a)
+
+En "funksjon" er en beskrivelse av den rollen et ansvarlig foretak har i en byggesak i de tilfelle det er krav om ansvarsrett. Plan- og bygningsloven har som utgangspunkt at gjennomføring av et tiltak kan inndeles i fire funksjoner:
+
+- Ansvarlig søker
+- Ansvarlig prosjekterende
+- Ansvarlig utførende
+- Ansvarlig kontrollerende
+Funksjonene kan deles opp etter fagområder. Ett foretak kan ha ansvar for flere funksjoner. Funksjonen som ansvarlig søker kan ikke innehas av flere samtidig, men kan deles for eksempel mellom prosjekteringsfasen og utførelsesfasen. Funksjonen ansvarlig kontrollerende omfatter både prosjektering og utførelse, og regnes som én funksjon. På samme måte som for de andre funksjonene kan kontrollfunksjonen deles mellom flere foretak.
+
+Oppgavene som ligger i den enkelte funksjon i byggesaken er beskrevet i kapittel 12 i denne forskriften. Ansvaret i det enkelte byggetiltaket beskrives i ansvarsområdet, jf. bokstav d.
+
+b)
+
+Et byggetiltak omfatter normalt ulike fagområder og oppgaver. Det skal
+                fastsettes tiltaksklasse for alle oppgaver avhengig av oppgavenes vanskelighetsgrad,
+                kompleksitet og konsekvens ved feil og mangler. Det kan inndeles i tre
+                tiltaksklasser, og oppgaver knyttet til det konkrete tiltaket kan plasseres i ulik
+                tiltaksklasse for det enkelte fagområdet og funksjon.
+
+Godkjenningsområdene i den sentrale godkjenningen, jf. bokstav c, inneholder
+                også tiltaksklasse.
+
+I denne forskriften reguleres tiltaksklasse nærmere i §§ 9-3 og 9-4.
+                Tiltaksklasse er et av tre elementer i et godkjenningsområde for den sentrale
+                godkjenningen, som er beskrevet i § 13-5. I den enkelte byggesak skal kommunen
+                fastsette tiltaksklasse etter en konkret vurdering på bakgrunn av forslag fra
+                ansvarlig søker. Det er derfor vanskelig å gi helt presise definisjoner på hva som
+                ligger i de ulike tiltaksklassene, men i veiledningen til de nevnte bestemmelsene er
+                det angitt relevante kriterier og eksempler på plassering i tiltaksklasse. Kommunens
+                fastsettelse av tiltaksklasse er et vedtak som kan påklages.
+
+c)
+
+Begrepet godkjenningsområde brukes kun i den sentrale godkjenningsordningen for å beskrive hva godkjenningen omfatter. Med sentral godkjenning får foretak dokumentert at de er kvalifisert for ansvarsrett. Et godkjenningsområde beskriver hvilket fagområde foretaket er sentralt godkjent for og består av følgende:
+
+- funksjon
+- fagområde
+- tiltaksklasse
+Inndelingen i godkjenningsområder for den sentrale godkjenningsordningen framgår av § 13-5. Her gis en oversikt over fagområder det kan gis sentral godkjenning for, som sammen med funksjon og tiltaksklasse utgjør et godkjenningsområde.
+
+d)
+
+e)
+
+Foretak som erklærer ansvarsrett eller søker om sentral godkjenning må ha en faglig ledelse med både teoretisk og praktisk kompetanse for de oppgaver foretaket skal utføre i tiltaket og for de godkjenningsområder det søker sentral godkjenning for.
+
+Det er en forutsetning at faglig ledelse har reell beslutningsmyndighet og reell innflytelse over arbeidene i konkrete prosjekter. Faglig ledelse må ha tilknytning til byggetiltaket slik at den kan stille krav til materialvalg og prosjekterings-/utførelsesmetoder mv., og på den måten sørge for at kravene i plan- og bygningsloven blir ivaretatt.
+
+Kvalifikasjonskravene som stilles til faglig ledelse fremgår av kapittel 11.
+
+Det er foretaket som sådan som har ansvarsrett, og ikke dets faglige ledelse. Eventuelle sanksjoner og pålegg skal rettes mot foretaket.
+
+f)
+
+Den sentrale godkjenningsordningen vil fremdeles ha krav om organisasjonsplan som del av foretakets kvalitetssikringsrutiner.
+
+Dette vil kun være en ordinær organisasjonsplan som viser foretakets organisasjonsstruktur.
+
+g)
+
+Krav til gjennomføringsplan følger av § 5-3. Gjennomføringsplanen skal vise gjennomføringen av et tiltak, og skal gi de opplysninger som er nødvendige for kommunen, dvs. ansvarsområder, tiltaksprofil og oversikt over ansvarlige foretak. Oppdatert gjennomføringsplan skal sendes kommunen hver gang et nytt foretak erklærer ansvar. Gjennomføring av kontroll skal synliggjøres, og ved avslutningen av tiltaket skal den utkvitterte planen vise at oppgavene, inkludert kontroll, er gjennomført.
+
+Planen skal være et verktøy for kommunen, og bl.a. gi kommunen en oversikt over den kontrollen som skal føres i tiltaket, og gi et grunnlag for kommunens tilsyn. Gjennomføringsplanen skal være en enkel oversikt over de forskjellige delene av tiltaket og skal gi kommunen tilstrekkelig dokumentasjon, uten at de forskjellige planer for kontroll og andre vedlegg dermed trenger å sendes inn til kommunen.
+
+Søker skal innhente samtlige samsvarserklæringer og kontrollerklæringer. Den dokumentasjon av prosjektering, utførelse og kontroll som fremkommer av planen vil være grunnlag for ferdigattest.
+
+h)
+
+Produksjonsunderlag er det materialet som den utførende skal ha som grunnlag
+                for utførelsen. Produksjonsunderlag skal utarbeides av ansvarlig prosjekterende og
+                overleveres til ansvarlig utførende. Produksjonsunderlaget er en del av resultatet
+                av prosjekteringen og inneholder bl.a. arbeidstegninger, beskrivelsestekster,
+                spesifikasjoner og annet underlagsmateriale som skal brukes som grunnlag for
+                utførelse.
+
+i)
+
+1.
+
+2.
+
+Samsvarserklæring skal bekrefte at prosjekteringen og utførelsen er i samsvar
+                med krav gitt i eller i medhold av plan- og bygningsloven, herunder eventuelle krav
+                gitt i tillatelsen. Det vil ikke være nødvendig å sende samsvarserklæringen inn til
+                kommunen. Disse skal sendes ansvarlig søker som oppdaterer gjennomføringsplanen, jf.
+                § 5-3. Erklæringene skal foreligge hos søker og hos de aktuelle foretakene, og kan
+                forlanges forevist ved tilsyn, jf. §§ 5-5 og 15-3. Samsvarserklæring avløser
+                kontrollerklæring for egenkontroll av prosjektering og utførelse.
+
+j)
+
+1.
+
+2.
+
+En kontrollerklæring dokumenterer den ferdig utførte kontrollen. Erklæringen
+                skal sendes til ansvarlig søker og ligge til grunn for ferdigstillelse av
+                gjennomføringsplanen. Ved tilsyn kan kommunen kreve innsyn i grunnlagsmaterialet for
+                gjennomføringsplanen, herunder kontrollerklæringene, jf. §§ 5-3, 5-5 og 15-3.
+
+k)
+
+Med avvik menes i denne forskriften manglende eller feilaktig oppfyllelse av
+                krav gitt i eller i medhold av plan- og bygningsloven. Manglende eller feilaktig
+                oppfyllelse av kontraktsforpliktelser faller utenfor denne definisjonen.
+
+Krav til system for å identifisere, behandle og forebygge avvik følger av §
+                10-1. Ansvarlig kontrollerendes ansvar for å avdekke avvik innenfor eget
+                ansvarsområde/kontrollområde følger av § 12-5.
+
+
+---
+*Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/sak/1/1/1-2/1/ledd-g/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-05-20** Første gang hentet

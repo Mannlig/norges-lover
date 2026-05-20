@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-20 23:06 UTC*
+*Sist oppdatert: 2026-05-20 23:31 UTC*
 
-**Antall dokumenter:** 675
+**Antall dokumenter:** 720
 
 ## Innhold
 
@@ -15,7 +15,11 @@ Byggtekniske krav og veiledere fra DiBK.
 
 - [Building Acts and Regulations](regelverk/Building-Regulations-in-English.md)
 - [Bod og oppbevaringsplass i boligen](regelverk/alt-om-tek/bod-og-oppbevaringsplass-i-boligen.md)
+- [Rimeligere studentboliger med TEK17](regelverk/alt-om-tek/rimeligere-studentboliger-med-tek17.md)
 - [Slik leser du byggteknisk forskrift](regelverk/alt-om-tek/slik-leser-du-tek17.md)
+- [Snusirkel eller snurektangel i bolig?](regelverk/alt-om-tek/snusirkel-eller-snurektangel-i-bolig.md)
+- [Sprinklaranlegg tilstrekkeleg som sløkkeanlegg](regelverk/alt-om-tek/sprinkleranlegg-tilstrekkelig-som-slokkeanlegg.md)
+- [Større rom for tilpasninger i arealplaner](regelverk/alt-om-tek/storre-rom-for-tilpasninger-i-arealplaner.md)
 - [Alt om TEK17](regelverk/alt-om-tek.md)
 - [§ 1-1. Formål](regelverk/byggteknisk-forskrift-tek17/1/1-1.md)
 - [§ 1-2. Forskriftens anvendelse på særskilte tiltak](regelverk/byggteknisk-forskrift-tek17/1/1-2/6/c.md)
@@ -432,6 +436,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Teknisk forskrift 1997-2010](regelverk/liste-over-tidligere-regelverk/Teknisk-forskrift-1997-2010.md)
 - [§ 1-5. Byggesaksbestemmelsenes virkeområde for fartøy](regelverk/sak/1/1/-1-5.-byggesaksbestemmelsenes-virkeomrade-for-fartoy.md)
 - [§ 1-1. Formål](regelverk/sak/1/1/1-1.md)
+- [§ 1-2. Definisjoner](regelverk/sak/1/1/1-2/1/ledd-g.md)
 - [§ 1-2. Definisjoner](regelverk/sak/1/1/1-2.md)
 - [§ 1-3. Opplysningsplikt](regelverk/sak/1/1/1-3.md)
 - [§ 1-4. Virkeområdet for bestemmelser som omhandler utvalgte naturtyper](regelverk/sak/1/1/1-4.md)
@@ -487,6 +492,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 12-3. Ansvarlig prosjekterendes ansvar](regelverk/sak/3/12/12-3.md)
 - [§ 12-4. Ansvarlig utførendes ansvar](regelverk/sak/3/12/12-4.md)
 - [§ 12-5. Ansvarlig kontrollerendes ansvar](regelverk/sak/3/12/12-5.md)
+- [§ 12-6. Særskilte bestemmelser om ansvar](regelverk/sak/3/12/12-6/3.md)
 - [§ 12-6. Særskilte bestemmelser om ansvar](regelverk/sak/3/12/12-6.md)
 - [Innledning](regelverk/sak/3/12/innledning.md)
 - [§ 13-1. Organ for sentral godkjenning for ansvarsrett](regelverk/sak/3/13/13-1.md)
@@ -682,8 +688,47 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 15-1. Generelle krav til varme- og kuldeinstallasjon](regelverk/tek/3/15/i/15-1.md)
 - [§ 15-2. Sentralvarmeinstallasjon](regelverk/tek/3/15/i/15-2.md)
 - [§ 15-3. Røykkanal og skorstein](regelverk/tek/3/15/i/15-3.md)
+- [§ 15-4. Varmepumpe- og kuldeinstallasjon](regelverk/tek/3/15/i/15-4.md)
+- [§ 15-5. Generelle krav til innvendige vann- og avløpsinstallasjoner](regelverk/tek/3/15/ii/15-5.md)
+- [§ 15-6. Innvendig vanninstallasjon](regelverk/tek/3/15/ii/15-6.md)
+- [§ 15-7. Innvendig avløpsinstallasjon](regelverk/tek/3/15/ii/15-7.md)
+- [§ 15-10. Avløpsanlegg med ledningsnett](regelverk/tek/3/15/iii/15-10.md)
+- [§ 15-8. Generelle krav til utvendige vannforsynings- og avløpsanlegg](regelverk/tek/3/15/iii/15-8.md)
+- [§ 15-9. Vannforsyningsanlegg med ledningsnett](regelverk/tek/3/15/iii/15-9.md)
+- [§ 15-11. Heiser](regelverk/tek/3/15/iv/15-11.md)
+- [§ 15-11a. Rom og sjakt for heis](regelverk/tek/3/15/iv/15-11a.md)
+- [§ 15-11b. Fritt sikkerhetsrom for heis](regelverk/tek/3/15/iv/15-11b.md)
+- [§ 15-12. Løfteplattformer](regelverk/tek/3/15/iv/15-12.md)
+- [§ 15-13. Rulletrapp og rullende fortau](regelverk/tek/3/15/iv/15-13.md)
+- [§ 15-14. Trappeheiser](regelverk/tek/3/15/iv/15-14.md)
+- [§ 15-15. Sammenhengen mellom løfteinnretninger og harmoniserte standarder](regelverk/tek/3/15/iv/15-15.md)
+- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/tek/4/16/16-1.md)
+- [§ 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll](regelverk/tek/4/16/16-2.md)
+- [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for heis for personer med yrkeskvalifikasjoner fra annen EØS-stat](regelverk/tek/4/16/16-3.md)
+- [§ 16-4. Midlertidig utøvelse av sikkerhetskontroll](regelverk/tek/4/16/16-4.md)
+- [§ 16-5. Språkkrav](regelverk/tek/4/16/16-5.md)
+- [§ 16-6. Installasjonsregister](regelverk/tek/4/16/16-6.md)
+- [§ 16-7. Administrativt samarbeid](regelverk/tek/4/16/16-7.md)
+- [§ 16-8. Prisregulering](regelverk/tek/4/16/16-8.md)
+- [Innledning](regelverk/tek/4/16/innledning.md)
+- [§ 17-1. Ikrafttreden](regelverk/tek/4/17/17-1.md)
+- [§ 17-2. Overgangsbestemmelser](regelverk/tek/4/17/17-2.md)
+- [Innledning](regelverk/tek/4/17/innledning.md)
+- [Liste over definisjoner i TEK](regelverk/tek/definisjoner/innledning.md)
 - [Byggteknisk forskrift (TEK10)](regelverk/tek.md)
+- [Direktoratet trekker tilbake veiledning til TEK17 § 12-3](regelverk/tidligere-nyheter-om-endringer-i-regelverket/direktoratet-trekker-tilbake-veiledning-til-tek17--12-3.md)
+- [Endringer fra 1. mai 2021](regelverk/tidligere-nyheter-om-endringer-i-regelverket/endringer-fra-1.-mai.md)
+- [Endringer i byggereglene fra nyttår](regelverk/tidligere-nyheter-om-endringer-i-regelverket/endringer-i-byggereglene-fra-nyttar.md)
+- [Endringer i SAK10 fra 1. januar 2017](regelverk/tidligere-nyheter-om-endringer-i-regelverket/endringer-i-sak10-fra-1.-januar-2017.md)
+- [Endringer i veiledningen til SAK10 § 9-4](regelverk/tidligere-nyheter-om-endringer-i-regelverket/endringer-i-veiledningen-til-sak10--9-4.md)
 - [De mest sentrale endringene fra TEK10 til TEK17](regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17.md)
+- [Mer om de nye reglene for terrasse og små tilbygg](regelverk/tidligere-nyheter-om-endringer-i-regelverket/mer-om-de-nye-reglene-for-terrasse-og-sma-tilbygg.md)
+- [Mindre endring i DOK-forskriften](regelverk/tidligere-nyheter-om-endringer-i-regelverket/mindre-endring-i-dok-forskriften.md)
+- [Nye bygg skal være ladeklare](regelverk/tidligere-nyheter-om-endringer-i-regelverket/nye-bygg-skal-vare-ladeklare.md)
+- [Oppdatert veiledning til TEK17 § 7-3 Sikkerhet mot skred](regelverk/tidligere-nyheter-om-endringer-i-regelverket/oppdatert-veiledning-til-tek17--7-3-sikkerhet-mot-skred.md)
+- [Opphevelse av bestemmelse om plassering av byggverk i TEK17 trer i kraft fra 1. juli 2021](regelverk/tidligere-nyheter-om-endringer-i-regelverket/opphevelse-av-bestemmelse-om-plassering-av-byggverk-i-tek17-trer-i-kraft-fra-1.-juli-2021.md)
+- [Regelendringer fra 1. juli](regelverk/tidligere-nyheter-om-endringer-i-regelverket/regelendringer-fra-1.-juli.md)
+- [Tryggere bolighandel fra nyttår](regelverk/tidligere-nyheter-om-endringer-i-regelverket/tryggere-bolighandel-fra-nyttar.md)
 - [Tidligere nyheter om endringer i regelverket](regelverk/tidligere-nyheter-om-endringer-i-regelverket.md)
 
 ### Tek17
