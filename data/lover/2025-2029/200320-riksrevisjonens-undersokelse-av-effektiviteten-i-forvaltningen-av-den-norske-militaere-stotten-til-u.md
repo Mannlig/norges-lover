@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1cd3781d52cf63cc3168c1c41fec2da8ceff35af704a8bb4c1c06aa70250a763 -->
+<!-- innholds-hash: b4f03545a2508a41e2f51168b32bdce33b9f9d5c8ac1f98fc3f395451964fa42 -->
 
 # Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-19T21:16:07Z
+- **Sist hentet:** 2026-05-20T05:20:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200320
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779221839691+0200)/",
+  "respons_dato_tid": "/Date(1779253273469+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "respons_dato_tid": "/Date(1779253273469+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "respons_dato_tid": "/Date(1779253273469+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779221839691+0200)/",
+      "respons_dato_tid": "/Date(1779253273469+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -57,7 +57,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779221252165+0200)/",
+    "respons_dato_tid": "/Date(1779253251594+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -78,3 +78,4 @@
 
 - **2026-05-19** Første gang hentet
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-05-20** Innhold endret (se git-historikk for diff)
