@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-20 06:57 UTC*
+*Sist oppdatert: 2026-05-20 13:36 UTC*
 
-**Antall dokumenter:** 1722
+**Antall dokumenter:** 1724
 
 ## Innhold
 
@@ -775,6 +775,8 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina](lover/2025-2029/200322-representantforslag-fra-stortingsrepresentantene-marthe-hammer-ingrid-fiskaa-og-marian-hussein-om-at.md)
 - [Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter](lover/2025-2029/200323-representantforslag-fra-stortingsrepresentantene-joel-ystebo-ida-lindtveit-rose-og-jorunn-gleditsch-.md)
 - [Myndighetenes håndtering av Utvik Seniors forliset](lover/2025-2029/200324-myndighetenes-handtering-av-utvik-seniors-forliset.md)
+- [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang](lover/2025-2029/200325-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-hans-andreas-limi-helge-andré-njastad.md)
+- [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest](lover/2025-2029/200326-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-ole-h.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)
