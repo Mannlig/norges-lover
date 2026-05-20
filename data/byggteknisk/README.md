@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-05-20 06:29 UTC*
+*Sist oppdatert: 2026-05-20 06:57 UTC*
 
-**Antall dokumenter:** 575
+**Antall dokumenter:** 625
 
 ## Innhold
 
@@ -581,6 +581,56 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 6-4. Areal](regelverk/tek/1/6/6-4.md)
 - [Innledning](regelverk/tek/1/6/innledning.md)
 - [§ 7-1. Generelle krav om sikkerhet mot naturpåkjenninger](regelverk/tek/2/7/7-1.md)
+- [§ 7-2. Sikkerhet mot flom og stormflo](regelverk/tek/2/7/7-2.md)
+- [§ 7-3. Sikkerhet mot skred](regelverk/tek/2/7/7-3.md)
+- [§ 7-4. Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred](regelverk/tek/2/7/7-4.md)
+- [Innledning](regelverk/tek/2/7/innledning.md)
+- [§ 8-1. Uteareal](regelverk/tek/2/8/8-1.md)
+- [§ 8-10. Trapp i uteareal](regelverk/tek/2/8/8-10.md)
+- [§ 8-2. Uteareal med krav om universell utforming](regelverk/tek/2/8/8-2.md)
+- [§ 8-3. Plassering av byggverk](regelverk/tek/2/8/8-3.md)
+- [§ 8-4. Uteoppholdsareal](regelverk/tek/2/8/8-4.md)
+- [§ 8-5. Generelle krav til gangatkomst og ganglinjer](regelverk/tek/2/8/8-5.md)
+- [§ 8-6. Gangatkomst til byggverk](regelverk/tek/2/8/8-6.md)
+- [§ 8-7. Gangatkomst til uteoppholdsareal med krav om universell utforming](regelverk/tek/2/8/8-7.md)
+- [§ 8-8. Kjøreatkomst](regelverk/tek/2/8/8-8.md)
+- [§ 8-9. Parkerings- og annen oppstillingsplass](regelverk/tek/2/8/8-9.md)
+- [Innledning](regelverk/tek/2/8/innledning.md)
+- [§ 9-1. Generelle krav til ytre miljø](regelverk/tek/2/9/9-1.md)
+- [§ 9-10. Utslippskrav til vedovner](regelverk/tek/2/9/9-10.md)
+- [§ 9-2. Helse- og miljøskadelige stoffer](regelverk/tek/2/9/9-2.md)
+- [§ 9-3. Forurensing i grunnen](regelverk/tek/2/9/9-3.md)
+- [§ 9-4. Utvalgte naturtyper](regelverk/tek/2/9/9-4.md)
+- [§ 9-5. Avfall](regelverk/tek/2/9/9-5.md)
+- [§ 9-6. Avfallsplan](regelverk/tek/2/9/9-6.md)
+- [§ 9-7. Kartlegging av farlig avfall og miljøsaneringsbeskrivelse](regelverk/tek/2/9/9-7.md)
+- [§ 9-8. Avfallssortering](regelverk/tek/2/9/9-8.md)
+- [§ 9-9. Sluttrapport for faktisk disponering av avfall](regelverk/tek/2/9/9-9.md)
+- [Innledning](regelverk/tek/2/9/innledning.md)
+- [§ 10-1. Personlig og materiell sikkerhet](regelverk/tek/3/10/10-1.md)
+- [§ 10-2. Konstruksjonssikkerhet](regelverk/tek/3/10/10-2.md)
+- [§ 10-3. Nedfall fra og sammenstøt med byggverk](regelverk/tek/3/10/10-3.md)
+- [Innledning](regelverk/tek/3/10/innledning.md)
+- [§ 11-1. Sikkerhet ved brann](regelverk/tek/3/11/i/11-1.md)
+- [§ 11-2. Risikoklasser](regelverk/tek/3/11/i/11-2.md)
+- [§ 11-3. Brannklasser](regelverk/tek/3/11/i/11-3.md)
+- [§ 11-4. Bæreevne og stabilitet](regelverk/tek/3/11/ii/11-4.md)
+- [§ 11-5. Sikkerhet ved eksplosjon](regelverk/tek/3/11/ii/11-5.md)
+- [§ 11-10. Tekniske installasjoner](regelverk/tek/3/11/iii/11-10.md)
+- [§ 11-6. Tiltak mot brannspredning mellom byggverk](regelverk/tek/3/11/iii/11-6.md)
+- [§ 11-7. Brannseksjoner](regelverk/tek/3/11/iii/11-7.md)
+- [§ 11-8. Brannceller](regelverk/tek/3/11/iii/11-8.md)
+- [§ 11-9. Materialer og produkters egenskaper ved brann](regelverk/tek/3/11/iii/11-9.md)
+- [§ 11-11. Generelle krav om rømning og redning](regelverk/tek/3/11/iv/11-11.md)
+- [§ 11-12. Tiltak for å påvirke rømnings- og redningstider](regelverk/tek/3/11/iv/11-12.md)
+- [§ 11-13. Utgang fra branncelle](regelverk/tek/3/11/iv/11-13.md)
+- [§ 11-14. Rømningsvei](regelverk/tek/3/11/iv/11-14.md)
+- [§ 11-15. Tilrettelegging for redning av husdyr](regelverk/tek/3/11/iv/11-15.md)
+- [§ 11-16. Tilrettelegging for manuell slokking](regelverk/tek/3/11/v/11-16.md)
+- [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](regelverk/tek/3/11/v/11-17.md)
+- [§ 12-1. Krav om universell utforming av byggverk](regelverk/tek/3/12/i/12-1.md)
+- [§ 12-2. Krav om tilgjengelig boenhet](regelverk/tek/3/12/i/12-2.md)
+- [§ 12-3. Krav om heis i byggverk](regelverk/tek/3/12/i/12-3.md)
 - [§ 12-10. Bod og oppbevaringsplass](regelverk/tek/3/12/ii/12-10.md)
 - [Byggteknisk forskrift (TEK10)](regelverk/tek.md)
 - [De mest sentrale endringene fra TEK10 til TEK17](regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17.md)
