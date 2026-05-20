@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-20 15:01 UTC*
+*Sist oppdatert: 2026-05-20 15:26 UTC*
 
-**Antall dokumenter:** 1822
+**Antall dokumenter:** 1872
 
 ## Innhold
 
@@ -630,6 +630,56 @@ Lovdata
 - [§ 12-2. Krav om tilgjengelig boenhet](byggteknisk/regelverk/tek/3/12/i/12-2.md)
 - [§ 12-3. Krav om heis i byggverk](byggteknisk/regelverk/tek/3/12/i/12-3.md)
 - [§ 12-10. Bod og oppbevaringsplass](byggteknisk/regelverk/tek/3/12/ii/12-10.md)
+- [§ 12-11. Balkong og terrasse mv.](byggteknisk/regelverk/tek/3/12/ii/12-11.md)
+- [§ 12-12. Avfallssystem og kildesortering](byggteknisk/regelverk/tek/3/12/ii/12-12.md)
+- [§ 12-13. Badstue, kjølerom og fryserom](byggteknisk/regelverk/tek/3/12/ii/12-13.md)
+- [§ 12-14. Varemottak](byggteknisk/regelverk/tek/3/12/ii/12-14.md)
+- [§ 12-4. Inngangsparti](byggteknisk/regelverk/tek/3/12/ii/12-4.md)
+- [§ 12-5. Planløsning](byggteknisk/regelverk/tek/3/12/ii/12-5.md)
+- [§ 12-6. Kommunikasjonsvei](byggteknisk/regelverk/tek/3/12/ii/12-6.md)
+- [§ 12-7. Krav til rom og annet oppholdsareal](byggteknisk/regelverk/tek/3/12/ii/12-7.md)
+- [§ 12-8. Entre og garderobe](byggteknisk/regelverk/tek/3/12/ii/12-8.md)
+- [§ 12-9. Bad og toalett](byggteknisk/regelverk/tek/3/12/ii/12-9.md)
+- [§ 12-15. Dør, port mv.](byggteknisk/regelverk/tek/3/12/iii/12-15.md)
+- [§ 12-16. Trapp](byggteknisk/regelverk/tek/3/12/iii/12-16.md)
+- [§ 12-17. Rekkverk](byggteknisk/regelverk/tek/3/12/iii/12-17.md)
+- [§ 12-18. Rampe](byggteknisk/regelverk/tek/3/12/iii/12-18.md)
+- [§ 12-19. Leider](byggteknisk/regelverk/tek/3/12/iii/12-19.md)
+- [§ 12-20. Vindu og andre glassfelt](byggteknisk/regelverk/tek/3/12/iii/12-20.md)
+- [§ 12-21. Skilt, styrings- og betjeningspanel, håndtak, armaturer mv.](byggteknisk/regelverk/tek/3/12/iii/12-21.md)
+- [§ 13-1. Generelle krav til ventilasjon](byggteknisk/regelverk/tek/3/13/i/13-1.md)
+- [§ 13-2. Ventilasjon i boenhet](byggteknisk/regelverk/tek/3/13/i/13-2.md)
+- [§ 13-3. Ventilasjon i byggverk for publikum og arbeidsbygning](byggteknisk/regelverk/tek/3/13/i/13-3.md)
+- [§ 13-4. Termisk inneklima](byggteknisk/regelverk/tek/3/13/ii/13-4.md)
+- [§ 13-5. Radon](byggteknisk/regelverk/tek/3/13/iii/13-5.md)
+- [§ 13-10. Lyd- og taleoverføringsutstyr](byggteknisk/regelverk/tek/3/13/iv/13-10.md)
+- [§ 13-11. Vibrasjonsforhold](byggteknisk/regelverk/tek/3/13/iv/13-11.md)
+- [§ 13-6. Generelle krav om lyd og vibrasjoner](byggteknisk/regelverk/tek/3/13/iv/13-6.md)
+- [§ 13-7. Lydisolasjon](byggteknisk/regelverk/tek/3/13/iv/13-7.md)
+- [§ 13-8. Romakustikk](byggteknisk/regelverk/tek/3/13/iv/13-8.md)
+- [§ 13-9. Støy fra bygningstekniske installasjoner og utendørs lydkilder](byggteknisk/regelverk/tek/3/13/iv/13-9.md)
+- [§ 13-12. Lys](byggteknisk/regelverk/tek/3/13/v/13-12.md)
+- [§ 13-13. Utsyn](byggteknisk/regelverk/tek/3/13/v/13-13.md)
+- [§ 13-14. Generelle krav om fukt](byggteknisk/regelverk/tek/3/13/vi/13-14.md)
+- [§ 13-15. Fukt fra grunnen](byggteknisk/regelverk/tek/3/13/vi/13-15.md)
+- [§ 13-16. Overflatevann](byggteknisk/regelverk/tek/3/13/vi/13-16.md)
+- [§ 13-17. Nedbør](byggteknisk/regelverk/tek/3/13/vi/13-17.md)
+- [§ 13-18. Fukt fra inneluft](byggteknisk/regelverk/tek/3/13/vi/13-18.md)
+- [§ 13-19. Byggfukt](byggteknisk/regelverk/tek/3/13/vi/13-19.md)
+- [§ 13-20. Våtrom og rom med vanninstallasjoner](byggteknisk/regelverk/tek/3/13/vi/13-20.md)
+- [§ 13-21. Rengjøring før bygning tas i bruk](byggteknisk/regelverk/tek/3/13/vii/13-21.md)
+- [§ 14-1. Generelle krav](byggteknisk/regelverk/tek/3/14/14-1.md)
+- [§ 14-2. Krav til energieffektivitet](byggteknisk/regelverk/tek/3/14/14-2.md)
+- [§ 14-3. Minimumskrav til energieffektivitet](byggteknisk/regelverk/tek/3/14/14-3.md)
+- [§ 14-4. Krav til løsninger for energiforsyning](byggteknisk/regelverk/tek/3/14/14-4.md)
+- [§ 14-5. Unntak og krav til særskilte tiltak](byggteknisk/regelverk/tek/3/14/14-5.md)
+- [§ 14-6.](byggteknisk/regelverk/tek/3/14/14-6.md)
+- [§ 14-7.](byggteknisk/regelverk/tek/3/14/14-7.md)
+- [§ 14-8.](byggteknisk/regelverk/tek/3/14/14-8.md)
+- [Innledning](byggteknisk/regelverk/tek/3/14/innledning.md)
+- [§ 15-1. Generelle krav til varme- og kuldeinstallasjon](byggteknisk/regelverk/tek/3/15/i/15-1.md)
+- [§ 15-2. Sentralvarmeinstallasjon](byggteknisk/regelverk/tek/3/15/i/15-2.md)
+- [§ 15-3. Røykkanal og skorstein](byggteknisk/regelverk/tek/3/15/i/15-3.md)
 - [Byggteknisk forskrift (TEK10)](byggteknisk/regelverk/tek.md)
 - [De mest sentrale endringene fra TEK10 til TEK17](byggteknisk/regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17.md)
 - [Tidligere nyheter om endringer i regelverket](byggteknisk/regelverk/tidligere-nyheter-om-endringer-i-regelverket.md)
