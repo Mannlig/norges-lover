@@ -1,4 +1,4 @@
-<!-- innholds-hash: 79495bed266df08a52a5045edaef4e9b428a9b0cb3ac5f00e8787e7b2d093540 -->
+<!-- innholds-hash: 1fbb2c0380faa68fc7d3e39c75329ffedc0cecfdf2106cdd9ce860cc4f1360ff -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om å sikre fullføring og kvalitet i videregående opplæring
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T13:36:57Z
+- **Sist hentet:** 2026-05-20T21:55:51Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200172
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779282252360+0200)/",
+  "respons_dato_tid": "/Date(1779311290073+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779282252360+0200)/",
+      "respons_dato_tid": "/Date(1779311290073+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779282252360+0200)/",
+      "respons_dato_tid": "/Date(1779311290073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779282252360+0200)/",
+      "respons_dato_tid": "/Date(1779311290073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779282252360+0200)/",
+      "respons_dato_tid": "/Date(1779311290073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -115,7 +115,7 @@
   "innstilling_id": 17360,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779282148111+0200)/",
+    "respons_dato_tid": "/Date(1779311188105+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200172,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779282252360+0200)/",
+      "respons_dato_tid": "/Date(1779311290073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -161,5 +161,6 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
