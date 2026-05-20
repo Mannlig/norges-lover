@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-20 06:29 UTC*
+*Sist oppdatert: 2026-05-20 06:57 UTC*
 
-**Antall dokumenter:** 1672
+**Antall dokumenter:** 1722
 
 ## Innhold
 
@@ -579,6 +579,56 @@ Lovdata
 - [§ 6-4. Areal](byggteknisk/regelverk/tek/1/6/6-4.md)
 - [Innledning](byggteknisk/regelverk/tek/1/6/innledning.md)
 - [§ 7-1. Generelle krav om sikkerhet mot naturpåkjenninger](byggteknisk/regelverk/tek/2/7/7-1.md)
+- [§ 7-2. Sikkerhet mot flom og stormflo](byggteknisk/regelverk/tek/2/7/7-2.md)
+- [§ 7-3. Sikkerhet mot skred](byggteknisk/regelverk/tek/2/7/7-3.md)
+- [§ 7-4. Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred](byggteknisk/regelverk/tek/2/7/7-4.md)
+- [Innledning](byggteknisk/regelverk/tek/2/7/innledning.md)
+- [§ 8-1. Uteareal](byggteknisk/regelverk/tek/2/8/8-1.md)
+- [§ 8-10. Trapp i uteareal](byggteknisk/regelverk/tek/2/8/8-10.md)
+- [§ 8-2. Uteareal med krav om universell utforming](byggteknisk/regelverk/tek/2/8/8-2.md)
+- [§ 8-3. Plassering av byggverk](byggteknisk/regelverk/tek/2/8/8-3.md)
+- [§ 8-4. Uteoppholdsareal](byggteknisk/regelverk/tek/2/8/8-4.md)
+- [§ 8-5. Generelle krav til gangatkomst og ganglinjer](byggteknisk/regelverk/tek/2/8/8-5.md)
+- [§ 8-6. Gangatkomst til byggverk](byggteknisk/regelverk/tek/2/8/8-6.md)
+- [§ 8-7. Gangatkomst til uteoppholdsareal med krav om universell utforming](byggteknisk/regelverk/tek/2/8/8-7.md)
+- [§ 8-8. Kjøreatkomst](byggteknisk/regelverk/tek/2/8/8-8.md)
+- [§ 8-9. Parkerings- og annen oppstillingsplass](byggteknisk/regelverk/tek/2/8/8-9.md)
+- [Innledning](byggteknisk/regelverk/tek/2/8/innledning.md)
+- [§ 9-1. Generelle krav til ytre miljø](byggteknisk/regelverk/tek/2/9/9-1.md)
+- [§ 9-10. Utslippskrav til vedovner](byggteknisk/regelverk/tek/2/9/9-10.md)
+- [§ 9-2. Helse- og miljøskadelige stoffer](byggteknisk/regelverk/tek/2/9/9-2.md)
+- [§ 9-3. Forurensing i grunnen](byggteknisk/regelverk/tek/2/9/9-3.md)
+- [§ 9-4. Utvalgte naturtyper](byggteknisk/regelverk/tek/2/9/9-4.md)
+- [§ 9-5. Avfall](byggteknisk/regelverk/tek/2/9/9-5.md)
+- [§ 9-6. Avfallsplan](byggteknisk/regelverk/tek/2/9/9-6.md)
+- [§ 9-7. Kartlegging av farlig avfall og miljøsaneringsbeskrivelse](byggteknisk/regelverk/tek/2/9/9-7.md)
+- [§ 9-8. Avfallssortering](byggteknisk/regelverk/tek/2/9/9-8.md)
+- [§ 9-9. Sluttrapport for faktisk disponering av avfall](byggteknisk/regelverk/tek/2/9/9-9.md)
+- [Innledning](byggteknisk/regelverk/tek/2/9/innledning.md)
+- [§ 10-1. Personlig og materiell sikkerhet](byggteknisk/regelverk/tek/3/10/10-1.md)
+- [§ 10-2. Konstruksjonssikkerhet](byggteknisk/regelverk/tek/3/10/10-2.md)
+- [§ 10-3. Nedfall fra og sammenstøt med byggverk](byggteknisk/regelverk/tek/3/10/10-3.md)
+- [Innledning](byggteknisk/regelverk/tek/3/10/innledning.md)
+- [§ 11-1. Sikkerhet ved brann](byggteknisk/regelverk/tek/3/11/i/11-1.md)
+- [§ 11-2. Risikoklasser](byggteknisk/regelverk/tek/3/11/i/11-2.md)
+- [§ 11-3. Brannklasser](byggteknisk/regelverk/tek/3/11/i/11-3.md)
+- [§ 11-4. Bæreevne og stabilitet](byggteknisk/regelverk/tek/3/11/ii/11-4.md)
+- [§ 11-5. Sikkerhet ved eksplosjon](byggteknisk/regelverk/tek/3/11/ii/11-5.md)
+- [§ 11-10. Tekniske installasjoner](byggteknisk/regelverk/tek/3/11/iii/11-10.md)
+- [§ 11-6. Tiltak mot brannspredning mellom byggverk](byggteknisk/regelverk/tek/3/11/iii/11-6.md)
+- [§ 11-7. Brannseksjoner](byggteknisk/regelverk/tek/3/11/iii/11-7.md)
+- [§ 11-8. Brannceller](byggteknisk/regelverk/tek/3/11/iii/11-8.md)
+- [§ 11-9. Materialer og produkters egenskaper ved brann](byggteknisk/regelverk/tek/3/11/iii/11-9.md)
+- [§ 11-11. Generelle krav om rømning og redning](byggteknisk/regelverk/tek/3/11/iv/11-11.md)
+- [§ 11-12. Tiltak for å påvirke rømnings- og redningstider](byggteknisk/regelverk/tek/3/11/iv/11-12.md)
+- [§ 11-13. Utgang fra branncelle](byggteknisk/regelverk/tek/3/11/iv/11-13.md)
+- [§ 11-14. Rømningsvei](byggteknisk/regelverk/tek/3/11/iv/11-14.md)
+- [§ 11-15. Tilrettelegging for redning av husdyr](byggteknisk/regelverk/tek/3/11/iv/11-15.md)
+- [§ 11-16. Tilrettelegging for manuell slokking](byggteknisk/regelverk/tek/3/11/v/11-16.md)
+- [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](byggteknisk/regelverk/tek/3/11/v/11-17.md)
+- [§ 12-1. Krav om universell utforming av byggverk](byggteknisk/regelverk/tek/3/12/i/12-1.md)
+- [§ 12-2. Krav om tilgjengelig boenhet](byggteknisk/regelverk/tek/3/12/i/12-2.md)
+- [§ 12-3. Krav om heis i byggverk](byggteknisk/regelverk/tek/3/12/i/12-3.md)
 - [§ 12-10. Bod og oppbevaringsplass](byggteknisk/regelverk/tek/3/12/ii/12-10.md)
 - [Byggteknisk forskrift (TEK10)](byggteknisk/regelverk/tek.md)
 - [De mest sentrale endringene fra TEK10 til TEK17](byggteknisk/regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17.md)
