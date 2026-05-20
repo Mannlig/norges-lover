@@ -1,4 +1,4 @@
-<!-- innholds-hash: bedc7f0b2bb7c88d1e7513a1ffe0c4fcf3fcc7caa164f6b438f8544296fe8eb9 -->
+<!-- innholds-hash: 0f295e424756b8b091b15d57beed0981cea1ea816c59156fcbf07525c4a1bd5d -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Lill Harriet Sandaune og Rikard Spets om redusert bompengebelastning på E6 Ulsberg-Melhus
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T05:20:09Z
+- **Sist hentet:** 2026-05-20T13:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200035
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779253274046+0200)/",
+  "respons_dato_tid": "/Date(1779282252407+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -53,7 +53,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -78,7 +78,7 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -103,7 +103,7 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -128,7 +128,7 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -153,7 +153,7 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -178,7 +178,7 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -203,7 +203,7 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -224,7 +224,7 @@
   "innstilling_id": 17298,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779253251594+0200)/",
+    "respons_dato_tid": "/Date(1779282148111+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200035,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779253274046+0200)/",
+      "respons_dato_tid": "/Date(1779282252407+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -242,7 +242,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -281,4 +281,5 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)

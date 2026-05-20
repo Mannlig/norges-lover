@@ -1,4 +1,4 @@
-<!-- innholds-hash: 73cb288089526cc068112c3dc416e1281b23b1539b81e01bc44f01ab61cbb128 -->
+<!-- innholds-hash: a625ae21ed52436e771c8f07f9d65ea6c8efa90299c9681f4e503836e7be0186 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther og Oda Indgaard om å slå ned på grov miljøkriminalitet
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T05:20:09Z
+- **Sist hentet:** 2026-05-20T13:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200096
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779253272555+0200)/",
+  "respons_dato_tid": "/Date(1779282252360+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -71,7 +71,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253272617+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -96,7 +96,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -117,7 +117,7 @@
   "innstilling_id": 17370,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779253251594+0200)/",
+    "respons_dato_tid": "/Date(1779282148111+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -126,7 +126,7 @@
   "sak_fremmet_id": 200096,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779253272555+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -135,7 +135,7 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -163,4 +163,5 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)

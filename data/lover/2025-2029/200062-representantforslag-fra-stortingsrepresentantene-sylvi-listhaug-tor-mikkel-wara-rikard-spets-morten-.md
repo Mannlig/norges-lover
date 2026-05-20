@@ -1,4 +1,4 @@
-<!-- innholds-hash: d6a6c5659377ee114bc8dfc5766226800c0e5aec8ad4bae6d21de0dc03db6730 -->
+<!-- innholds-hash: c9c0ef4e203f7f47af7d99ba0eb62903f07c9777ddedb35fff9a5dafaec59529 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Tor Mikkel Wara, Rikard Spets, Morten Stordalen, Pål Morten Borgli, Marius Arion Nilsen og Kristoffer Sivertsen om tiltak for mer effektiv og økonomisk utnyttelse av strømnettet
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T05:20:09Z
+- **Sist hentet:** 2026-05-20T13:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200062
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779253271813+0200)/",
+  "respons_dato_tid": "/Date(1779282252360+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779253272000+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253272000+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779253271891+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -53,7 +53,7 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253271906+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -78,7 +78,7 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253271906+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
@@ -103,7 +103,7 @@
       "id": "MARNIL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253271923+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
@@ -128,7 +128,7 @@
       "id": "PAMB",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253271985+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -153,7 +153,7 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253271985+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -178,7 +178,7 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779253272000+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -203,7 +203,7 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -224,7 +224,7 @@
   "innstilling_id": 17339,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779253251594+0200)/",
+    "respons_dato_tid": "/Date(1779282148111+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200062,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779253271875+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vereide",
@@ -242,7 +242,7 @@
       "id": "TVER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -270,4 +270,5 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)

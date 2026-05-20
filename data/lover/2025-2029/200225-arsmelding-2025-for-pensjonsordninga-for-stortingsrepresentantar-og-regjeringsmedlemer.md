@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5325e947e4c0a50d753a617cd4d992f708530e5e2c15d4c011f518846e5fed3b -->
+<!-- innholds-hash: 5e40197b7bf9e900aa1eb1f3338217fa130f10849c3bb3ff19c2f091dc4fa93f -->
 
 # Årsmelding 2025 for pensjonsordninga for stortingsrepresentantar og regjeringsmedlemer
 
@@ -11,14 +11,14 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T05:20:09Z
+- **Sist hentet:** 2026-05-20T13:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200225
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779253273355+0200)/",
+  "respons_dato_tid": "/Date(1779282252360+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": 17302,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779253251594+0200)/",
+    "respons_dato_tid": "/Date(1779282148111+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200225,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779253273355+0200)/",
+      "respons_dato_tid": "/Date(1779282252360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -47,7 +47,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779231614541+0200)/",
+        "respons_dato_tid": "/Date(1779274814930+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -75,4 +75,5 @@
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
