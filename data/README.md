@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-21 07:10 UTC*
+*Sist oppdatert: 2026-05-21 07:27 UTC*
 
-**Antall dokumenter:** 2103
+**Antall dokumenter:** 2105
 
 ## Innhold
 
@@ -453,6 +453,7 @@ Lovdata
 - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](byggteknisk/regelverk/sak/2/5/5-1.md)
 - [§ 5-2. Varsel til naboer og gjenboere](byggteknisk/regelverk/sak/2/5/5-2.md)
 - [§ 5-3. Gjennomføringsplan](byggteknisk/regelverk/sak/2/5/5-3.md)
+- [§ 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak](byggteknisk/regelverk/sak/2/5/5-4/3/n.md)
 - [§ 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak](byggteknisk/regelverk/sak/2/5/5-4.md)
 - [§ 5-5. Dokumentasjon som skal foreligge i tiltaket](byggteknisk/regelverk/sak/2/5/5-5.md)
 - [Innledning](byggteknisk/regelverk/sak/2/5/innledning.md)
@@ -519,6 +520,7 @@ Lovdata
 - [§ 14-5. Unntak fra krav om obligatorisk uavhengig kontroll](byggteknisk/regelverk/sak/4/14/14-5.md)
 - [§ 14-6. Gjennomføring av uavhengig kontroll etter § 14-2 første ledd og annen uavhengig kontroll i tiltaksklasse 1](byggteknisk/regelverk/sak/4/14/14-6.md)
 - [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](byggteknisk/regelverk/sak/4/14/14-7.md)
+- [§ 14-8. Sluttkontroll](byggteknisk/regelverk/sak/4/14/14-8/2.md)
 - [§ 14-8. Sluttkontroll](byggteknisk/regelverk/sak/4/14/14-8.md)
 - [Innledning](byggteknisk/regelverk/sak/4/14/innledning.md)
 - [§ 15-1. Strategi for tilsyn. Rapportering](byggteknisk/regelverk/sak/4/15/15-1.md)

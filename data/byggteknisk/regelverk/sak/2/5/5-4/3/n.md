@@ -1,0 +1,208 @@
+<!-- innholds-hash: 65e091effaace4b101513c439fcc35dc2479fda5451861a59d1bb7d7f4147096 -->
+
+# § 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak
+
+## Kildeinformasjon
+
+- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/sak/2/5/5-4/3/n/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist hentet:** 2026-05-21T07:14:33Z
+
+## Innhold
+
+
+## Byggesaksforskriften (SAK10) med veiledning
+
+
+### INNHOLD SAK10
+
+Første del Generelle bestemmelser
+
+Andre del Søknadsplikt, innhold i og behandling av søknader
+
+Tredje del Kvalifikasjoner og ansvar
+
+Fjerde del Kontroll, tilsyn og overtredelsesgebyr
+
+Femte del Diverse bestemmelser
+
+
+### § 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak
+
+En byggesøknad skal gi de opplysninger som er nødvendige for at kommunen skal kunne behandle søknaden. Veiledningen forklarer nærmere hvilke opplysninger som kreves ved søknad om byggetillatelse, herunder ramme- og igangsettingstillatelse. Kommunen har ansvar for behandling av søknader og kan be om flere opplysninger eller avvise søknaden hvis opplysningene ikke er tilfredsstillende.
+
+Bestemmelsen er hjemlet i pbl. § 21-2 syvende ledd, og regulerer både hvilken dokumentasjon som skal sendes inn til kommunen, og når dette skal skje.
+
+Søknad om tillatelse til tiltak etter plan- og bygningsloven § 20-2 og § 20-4 skal inneholde opplysninger som nevnt nedenfor i tredje ledd bokstav a til q i den utstrekning de er relevante for tiltaket og nødvendige for kommunens behandling.
+
+For søknader gjelder i utgangspunktet alle krav til opplysninger nevnt i bokstav a - q, men bare så langt de er relevante og nødvendige i forhold til tiltaket. Begrensingen innebærer i første rekke at det ikke skal leveres dokumentasjon for forhold som ikke berører tiltaket, for eksempel beskrivelser av håndtering av fare fra naturforhold der det ikke er grunn til å mistenke at det foreligger slik fare.
+
+Kommunen har ansvar for behandling av søknader og kan be om manglende opplysninger eller avvise søknaden hvis opplysningene ikke er tilfredsstillende. Dokumentasjon av detaljprosjekteringen skal ikke sendes kommunen, men foreligge i tiltaket, jf.
+
+Ansvarlig søker, eventuelt tiltakshaver, skal gi de opplysninger som er nødvendige for at kommunen skal kunne vurdere de forhold kommunen skal ta stilling til, altså tiltakets ”ytre rammer”, behovet for kontroll og opplysninger om foretak. Videre skal dokumentasjonen sette kommunen i stand til å vurdere behovet for tilsyn, ytterligere kontroll med videre.
+
+Søknad om tiltak som kan forestås av tiltakshaver skal i utgangspunktet inneholde de samme opplysningene som søknader om tiltak der det skal godkjennes ansvarlige foretak, med unntak av gjennomføringsplan og søknader om godkjenning for ansvarsrett.
+
+For midlertidige tiltak etter plan- og bygningsloven § 20-4 bokstav c skal det i tillegg opplyses om plasseringens varighet, og søknaden skal i nødvendig utstrekning inneholde opplysninger om hvordan kravene i plan- og bygningsloven § 30-5 er ivaretatt.
+
+Andre ledd presiserer dokumentasjonskravet for midlertidige tiltak, jf.
+
+Tiltak som skal brukes til varig opphold, innendørs arbeidsplasser eller hvor mer enn 25 personer kan oppholde seg samtidig, trenger ikke å inneholde opplysninger om hvordan plan- og bygningslovgivningens krav til helse, miljø og sikkerhet er ivaretatt. Dette dokumenteres i tiltaket, og vurderes eventuelt av kommunen ved tilsyn.
+
+For midlertidige tiltak etter pbl. § 20-4 bokstav c skal det opplyses om plasseringens varighet. Søknaden skal inneholde nødvendige opplysninger om hvordan kravene i pbl. § 30-5 er ivaretatt. Dette vil særlig gjelde hensynet til allmenn ferdsel, friluftsliv og ulemper for omgivelsene.
+
+Opplysninger som er relevante ved søknad er
+
+a) tiltakshaver
+
+Det skal oppgis hvem som er tiltakshaver og tilstrekkelig kontaktinformasjon.
+
+b) eiendom og eksisterende bebyggelse som berøres av tiltaket
+
+Det skal oppgis entydig adresse på eiendommen som tiltaket omfatter. Dette vil i praksis være kommune, gårds- og bruksnummer og eventuelt festenummer eller seksjonsnummer. Ved endring på eksisterende bygning skal også bygningsnummer oppgis. Hvis bygningen inneholder boliger skal bolignummeret på de enheter som omfattes oppgis.
+
+c) beskrivelse av tiltakets art
+
+Det må fremkomme av søknaden hva tiltaket består i og hva det skal brukes til. For de fleste bygninger kan dette gjøres ved å beskrive type bygning (enebolig, flermannsbolig, garasje, sykehus), hvilken næringsgruppe som skal benytte det og beskrivelse av bruk. For anlegg vil en beskrivelse av bruken i de fleste tilfelle gi en tilfredsstillende beskrivelse.
+
+d) tiltakets størrelse og grad av utnytting
+
+Det skal i søknaden oppgis bruks- eller bebygd areal samt antall etasjer på ny bebyggelse og eventuell eksisterende bebyggelse. Arealer skal beregnes i samsvar med
+
+Det kan effektivisere kommunens saksbehandling at det beskrives hvordan man har kommet fram til den utnyttelsesgrad som legges til grunn i søknaden.
+
+e) forhold til plangrunnlaget og plan- og bygningsloven § 1-8
+
+I arealplanene kan det finnes bestemmelser som regulerer utnyttelsen av arealer. Arealplaner er juridisk bindende for tiltak og fastlegger arealbruken med hensyn til formål, utnyttelse, byggehøyder, avstander og byggegrenser. Det finnes to plannivåer; kommuneplanens arealdel og reguleringsplan. Reguleringsplan kan utarbeides som områderegulering eller detaljregulering. Vedtatte bebyggelsesplaner etter tidligere plan- og bygningslov tilsvarer detaljreguleringsplan. Tiltaket skal være i samsvar med plangrunnlaget. Det må derfor gis sentrale opplysninger om plangrunnlaget slik som plantype, identifikasjon, formål (bolig forretning osv.) og hvor mye en kan utnytte arealene (grad av utnytting). Det finnes flere måter å beregne grad av utnytting på. I mange eldre planer beskrives beregningsmetoden for u-grad ofte i planen, men ofte er den uten nærmere beskrivelse. Intensjon da planen ble laget og senere praksis må i så fall legges til grunn.
+
+f) ivaretakelse av krav til universell utforming og arkitektonisk utforming, herunder visuelle kvaliteter
+
+I plangrunnlaget eller i egne retningslinjer kan kommunen gi bestemmelser om visuelle kvaliteter eller arkitektonisk utforming av tiltak. I så fall må søker vise at disse bestemmelsene er ivaretatt. Dokumentasjon kan for eksempel være fotomontasje. Universell utforming vil i første rekke inngå i den øvrige dokumentasjonen slik at den enten synliggjøres i innsendt tegningsmateriale eller eventuelt er ivaretatt i prosjekteringsmaterialet i tiltaket, jf. bokstav m og
+
+g) tiltakets sikkerhet mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, og behov for eventuelle sikringstiltak
+
+Grunn kan bare bebygges dersom det er tilstrekkelig sikkerhet mot fare eller vesentlig ulempe som følge av natur- og miljøforhold. Krav til sikkerhet følger i hovedsak av byggteknisk forskrift kap 7, 9 og 13.
+
+Undersøkelse av natur og miljøforhold skal gjennomføres av tiltakshaver i forkant av søknad. Søker skal i søknad bekrefte at tilstrekkelig sikkerhet foreligger.
+
+Det må henvises til kartlegging av grunnforhold, ras- og skredfare mv. der slike finnes, eller til egne undersøkelser. Når det gjelder miljøforhold, vil det kunne være nødvendig å dokumentere løsningene i forhold til luft- og støyforurensing fra trafikk, industri, m.m.
+
+Tiltakshaver har ansvaret for å framskaffe dokumentasjon på at byggegrunnen har tilstrekkelig sikkerhet mot fare eller vesentlig ulempe. Dette vil bl.a. innebære at det vil være tiltakshavers ansvar å skaffe til veie, og bære den økonomiske byrden, ved innhenting av rådgivende uttalelser om grunnforhold, miljøforhold, flom-, stormflo- og skredfare mv. Tilstrekkelig sikkerhet kan eventuelt oppnås gjennom sikringstiltak. Disse må i så fall dokumenteres.
+
+Kommunen skal avslå søknad dersom søker ikke bekrefter at tilstrekkelig sikkerhet foreligger, eller dersom kommunen sitter med kjennskap om at krav til sikkerhet likevel ikke er oppfylt, jf. pbl. § 28-1.
+
+Det vises til temaveiledning
+
+h) konsekvensanalyse som framgår av byggteknisk forskrift § 9-4
+
+Dersom tiltaket berører utvalgte naturtyper fastsatt etter reglene i naturmangfoldsloven som ikke er vurdert etter lovens regler om konsekvensutredninger, skal konsekvensene utredes etter krav i
+
+i) minsteavstand til annen bebyggelse, kraftlinjer, vegmidte, vann- og avløpsledninger
+
+Kommunen skal i sin behandling vurdere om krav til minsteavstand til annen bebyggelse, vei, vann- og avløpsledninger samt kraftlinjer er ivaretatt. Det må derfor oppgis minsteavstander hvis noe av det overstående er relevant.
+
+
+#### Ledninger i grunnen
+
+Hensynet til ledninger i grunnen er et av flere hensyn som kommunen skal vurdere ved tiltakets plassering etter
+
+Det kan ikke gis tillatelse til tiltak som medfører et ulovlig forhold på annen eiendom, jf. pbl. § 29-11. Dette gjelder der krav til vannforsyning, avløp, atkomst og parkering fastsatt i byggetillatelse på annen eiendom ikke lenger oppfylles.
+
+En mulig konflikt mellom et tiltak og eksisterende ledninger vil i de aller fleste tilfeller løses i byggesaken med et vilkår om at eksisterende ledning sikres eller flyttes. Hvis kommunen har grunn til å mistenke at et tiltak kommer i konflikt med ledninger som ikke kan flyttes eller sikres, for eksempel gjennom merknader fra en nabo, må kommunen be om ytterligere dokumentasjon.
+
+Dersom søknaden og/eller nabomerknader viser at det planlagte byggetiltaket kan komme i strid med vann- og avløpsledninger, kan kommunen ved behandlingen av søknaden be om flere opplysninger hvis disse ikke er tilfredsstillende. Dette kan være relevant både i forhold til den vurderingen kommunen skal foreta etter pbl. § 29-4 og i forhold til spørsmålet om søknaden skal avvises etter
+
+Dersom kommunen anser at slike opplysninger er nødvendige, men mangler, vil tidsfristen ikke starte før kommunen har mottatt fullstendig søknad. Slike mangler kan også gi grunnlag for at søknaden avvises.
+
+j) atkomst, vannforsyning, avløp, avledning av overvann, flomveier for overvann og fjernvarmetilknytning
+
+Kommunen skal vurdere om et tiltak har nødvendig tilknytning til infrastruktur som vei, vann- og avløp. I noen spesielle områder kan det også ligge krav om tilknytning til fjernvarmeanlegg. Det må derfor gis tilstrekkelige opplysninger slik at kommunen kan vurdere disse forholdene. Det bør også fremgå om tiltaket rammes av krav om opparbeidelse av offentlig infrastruktur etter reglene i
+
+Opplysninger om at avløpsordningen er sikret i samsvar med forurensningsloven, er relevant ved innsending av søknad. Avløpsordning skal være sikret før det blir gitt (ramme)tillatelse til deling av eiendom eller oppføring av bygning, jf. pbl. § 27-2.
+
+Overvann skal håndteres i tråd med eventuelle krav i arealplan. Dersom håndtering av overvann ikke er regulert i plan, skal
+
+Kravet om opplysninger er begrenset til avledning av og flomveier for overvann som faller på egen eiendom. Flomveier for annet vann enn overvann må opplyses om i redegjørelsen for naturpåkjenninger der dette er relevant, se plan-og bygningsloven § 28-1 og SAK10 § 5-4 tredje ledd bokstav g.
+
+k) eventuelt behov og grunnlag for dispensasjon
+
+I spesielle tilfeller ønsker tiltakshaver å fravike plangrunnlaget eller andre bestemmelser. I slike tilfelle kan det søkes om dispensasjon. Kommunen har anledning til å gi dispensasjon i særlige tilfeller. Søkeren må da vise til hvilke bestemmelser det søkes dispensasjon fra og begrunne hvorfor han mener at kommunen skal gi dispensasjon. Kommunen tar så stilling til dette i sin behandling av saken. Krav til søknad om dispensasjon følger av pbl. § 19-1 og for eksisterende bygg kan kommunen også unnta fra tekniske krav etter pbl. § 31-4.
+
+l) om det er avholdt forhåndskonferanse
+
+Det skal opplyses om det er avholdt forhåndskonferanse. Se for øvrig
+
+m) tegninger og målsatt situasjonsplan
+
+Utforming av tiltaket skal vises på tegninger og plassering av tiltaket skal vises på situasjonsplan. Hva som skal vises på tegninger, detaljeringsgrad og målestokk, avhenger av tiltaket. Normalt vil det være tilstrekkelig med fasade-, snitt- og plantegninger utført i normal detaljeringsgrad og målestokk 1:100. Hovedmål på tiltaket må påføres planer og snitt.
+
+Situasjonsplanen utarbeides på grunnlag av situasjonskartet som utstedes av kommunen. Normalt skal tiltaket eller tiltakene tegnes inn med plassering, orientering (møneretning), målsetting og avstander til nabogrenser, andre bygg, vei og kraftlinjer. I tillegg skal endring av adkomstforhold, parkering og terrengarbeider (nye terrenglinjer) fremgå. Hvilke opplysninger, detaljering, målsetting m.m. som skal tegnes inn avhenger av tiltakstypen. Minste avstand til eiendomsgrense og senterlinje vei må påføres. For spesielle tiltak anbefales det å søke informasjon hos kommunen.
+
+Standard Norge har utviklet egne spesifikasjoner som et hjelpemiddel for de som skal lage tegninger og situasjonsplaner i byggesaker. Disse spesifikasjonene vil kunne være anvendelige for de fleste saker.
+
+n) redegjørelse for nabovarsling og nabomerknader, samt kvittering for nabovarsel
+
+Kommunen skal ha opplysninger om hvilke naboer og gjenboere som er varslet, slik at den kan ta stilling til om varslingsplikten er oppfylt. Kommunen skal ha dokumentasjon på at naboene faktisk er varslet ved kvittering for at varselsbrevene er sendt.
+
+Nabovarsling kan sendes pr e-post. E-post fra nabo om at varsel er mottatt er tilstrekkelig som kvittering etter denne bestemmelsen. Rekommandert sending kan fortsatt brukes der det er usikkerhet med hensyn til e-postadresse eller e-postadresse ikke foreligger.
+
+Videre skal naboenes eventuelle merknader være beskrevet og kopi av disse vedlegges, jf. pbl. § 21-2 fjerde ledd. Fremstillingen av nabomerknadene må inneholde en beskrivelse av hva som er gjort for å imøtekomme merknadene, eventuelt begrunnelse for hvorfor disse ikke er imøtekommet.
+
+o) forholdet til andre myndigheter
+
+Tillatelse eller uttalelse fra annen myndighet skal vedlegges søknaden dersom slik er innhentet og den har betydning for kommunens behandling av søknaden.
+
+For bygninger med arbeidsplasser skal det innhentes samtykke fra Arbeidstilsynet. Kopi av søknad om tillatelse til tiltak (inkl. alle vedlegg) sendes Arbeidstilsynet.
+
+Kommunen kan gi rammetillatelse innenfor sitt myndighetsområde selv om gjennomføring av prosjektet er avhengig av godkjenning fra andre myndigheter, jf. pbl. § 21-5, forutsatt at dette skjer etter ønske fra tiltakshaver. Et vilkår for igangsettingstillatelse og dermed realisering av tiltaket, er at slik godkjenning fra annen myndighet foreligger. Godkjenningen skal vedlegges søknad om igangsettingstillatelse.
+
+p) gjennomføringsplan
+
+Gjennomføringsplanen etter § 5-3 skal sendes inn både ved søknad om rammetillatelse og søknad om igangsettingstillatelse, samt ved endringssøknader. I tillegg skal gjennomføringsplan sendes inn ved søknad om ferdigattest og midlertidig brukstillatelse, jf.
+
+q) erklæringer om ansvarsrett.
+
+Det skal erklæres ansvarsrett for alle ansvarsområder i tiltaket. For søknad om rammetillatelse er det oftest tilstrekkelig med erklæring om ansvarsrett for ansvarlig søker, men også for ansvarlig prosjekterende dersom prosjekteringsforhold avklares i rammetillatelsen, jf. fjerde ledd bokstav e. Før igangsettingstillatelse gis skal det erklæres ansvarsrett for alle fagområdene som omfatter prosjektering. Før det gis midlertidig brukstillatelse og ferdigattest skal det erklæres ansvarsrett for alle fagområdene som omfatter utførelse og kontroll.
+
+Søknaden skal inneholde informasjon om foretaket, nødvendig kontaktinformasjon og opplysninger om foretakets kvalitetssikringsrutiner og kvalifikasjoner samt oversikt over kompetansen foretaket benytter i tiltaket.
+
+Ved søknad om rammetillatelse, jf. § 6-4, må alle opplysninger som er nevnt i tredje ledd følge søknaden i den utstrekning de er relevante for tiltaket, med følgende unntak
+
+Reglene skal sikre at rammetillatelsen i tilstrekkelig grad avklarer forholdet til omgivelsene, jf.
+
+Bestemmelsen er bygget opp slik at det listes opp forhold der full dokumentasjon som nevnt i tredje ledd ikke er nødvendig.
+
+a) universell utforming og arkitektonisk utforming, jf. tredje ledd bokstav f, skal bare dokumenteres i den utstrekning forholdet avklares i rammetillatelsen
+
+Bestemmelsen innebærer at de sider av tiltaket som ikke berører utseende, utnyttingsgrad, universell utforming eller oppfyllelsen av (andre) krav i plan, ikke behøver dokumenteres. Dette gjelder også indre forhold som rominndeling med videre.
+
+b) for forhold som gjelder sikring mot fare eller vesentlig ulempe som følge av natur- eller miljøforhold, jf. tredje ledd bokstav g, er det tilstrekkelig at faren er identifisert og muligheten for sikring er utredet
+
+For å tillate byggetiltaket er det tilstrekkelig at faren er identifisert, og at det kan sikres. Mer detaljert prosjektering av sikringstiltak kan i så fall vente til søknaden om igangsettingstillatelse.
+
+c) for forhold som atkomst, vannforsyning, avløp og fjernvarmetilknytning, jf. tredje ledd bokstav j, er det tilstrekkelig at det er dokumentert at nødvendige rettigheter er sikret
+
+Det kreves at veiforbindelse med videre er sikret, herunder at bruk av nabogrunn er avklart, eventuell opparbeiding av offentlige veier og vann- og avløpsanlegg er tilfredsstillende avklart med videre, jf. pbl. § 18-1. Tekniske løsninger og dokumentasjon vedrørende refusjon må senest være avklart og utarbeidet i forbindelse med igangsettingstillatelsen.
+
+d) det er tilstrekkelig å dokumentere hvilke myndigheter tiltaket er avklart i forhold til, jf. tredje ledd bokstav o
+
+Det er ikke krav om at tiltakshaver avklarer mot andre myndigheter. Hvis dette er gjort, skal det imidlertid opplyses om det ved søknad om rammetillatelse.
+
+e) erklæringer om ansvarsrett, jf. tredje ledd bokstav q, kreves for ansvarlig søker og for ansvarlig prosjekterende for forhold som avklares i rammetillatelsen.
+
+Ved søknad om rammetillatelse der rammetillatelsen avklarer forhold som omfattes av prosjektering av konsept, skal det stilles krav om erklæring fra ansvarlig prosjekterende i tillegg til ansvarlig søker. Det kan likevel i noen tilfeller være tilstrekkelig at ansvaret for prosjekteringen og eventuell uavhengig kontroll av den foreligger først ved søknaden om igangsettingstillatelse.
+
+Et eksempel kan være der tiltakshaver ønsker rammetillatelse på grunnlag av en arkitektskisse, der overordnede krav i plan og regelverk for øvrig er ivaretatt tilstrekkelig til at kommunen kan ta stilling til søknaden, men der denne skissen ikke er detaljert i så stor grad at det er naturlig å engasjere ansvarlig foretak. Dette kan tenkes i forbindelse med en arkitektkonkurranse hvor det søkes om rammetillatelse på grunnlag av vinnerutkastet, men hvor det ikke er inngått avtale med noe prosjekteringsforetak.
+
+Det er imidlertid klart at også denne delen av prosjekteringen må omfattes av ansvarsretten for prosjektering før det gis igangsettingstillatelse. Det er ikke meningen at ”forprosjekteringen” skal unntas fra ansvarsbelegging.
+
+Gjennomføringsplanen skal være oppdatert i forhold til tiltakets fremdrift. Det vises til merknadene til § 5-3. Det vises for øvrig til merknad til
+
+- 01.07.15 Endret veiledning som følge av lovendringer.
+
+---
+*Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/sak/2/5/5-4/3/n/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-05-21** Første gang hentet
