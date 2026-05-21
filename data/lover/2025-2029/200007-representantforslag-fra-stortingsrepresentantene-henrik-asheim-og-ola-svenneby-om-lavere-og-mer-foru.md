@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ad47a20bb2d8eff62b663902b25a075f771794c1a1ba8ffd069a5883aede8f3 -->
+<!-- innholds-hash: 69908a7a306b620861de018a594aff6860b43250c8159f806ef242202b855d3e -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim og Ola Svenneby om lavere og mer forutsigbar skatt på folks bolig
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T06:00:22Z
+- **Sist hentet:** 2026-05-21T12:06:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200007
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779339714743+0200)/",
+  "respons_dato_tid": "/Date(1779365133939+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779339714743+0200)/",
+      "respons_dato_tid": "/Date(1779365133939+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779339714743+0200)/",
+      "respons_dato_tid": "/Date(1779365133939+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779339714743+0200)/",
+      "respons_dato_tid": "/Date(1779365133939+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779339714743+0200)/",
+      "respons_dato_tid": "/Date(1779365133939+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Svenneby",
@@ -99,7 +99,7 @@
   "innstilling_id": 17274,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779339659587+0200)/",
+    "respons_dato_tid": "/Date(1779364903760+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200007,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779339714743+0200)/",
+      "respons_dato_tid": "/Date(1779365133939+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -156,4 +156,5 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
+- **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
