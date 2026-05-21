@@ -1,4 +1,4 @@
-<!-- innholds-hash: 53522f34a5cd9acaff9d39b0ffcb9823cd9eefdf4b6507fb9bd1bf644ba1533e -->
+<!-- innholds-hash: 42a1c4a98b9ca616e13757024ed9156430eb4ffb4abe2e1251f8a228b8db3e8b -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Fiskaa, Marthe Hammer, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Kirsti Bergstø og Anne Lise Gjerstad Fredlund om digital suverenitet i en urolig tid
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T21:55:52Z
+- **Sist hentet:** 2026-05-21T06:00:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200036
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779311290073+0200)/",
+  "respons_dato_tid": "/Date(1779339714634+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -71,14 +71,14 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -96,14 +96,14 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -121,14 +121,14 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -146,14 +146,14 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -171,14 +171,14 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -187,7 +187,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -196,14 +196,14 @@
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -217,7 +217,7 @@
   "innstilling_id": 17306,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779311188105+0200)/",
+    "respons_dato_tid": "/Date(1779339659587+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -226,7 +226,7 @@
   "sak_fremmet_id": 200036,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -235,14 +235,14 @@
       "id": "SIGRAF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -277,3 +277,4 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
+- **2026-05-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23d4eae4e26eea05cc4544328ebb905e3e13721aa1f08cdc206583be365593a6 -->
+<!-- innholds-hash: 4bca6e7a2f67be980c5d287ef8d7114838aa16d5bd63a9b1c79cae0af2b77612 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Per-Willy Amundsen og Bård Hoksrud om å sette i gang et forprosjekt for ny innfartsveg til Tromsø
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-20T21:55:51Z
+- **Sist hentet:** 2026-05-21T06:00:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200101
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779311290073+0200)/",
+  "respons_dato_tid": "/Date(1779339714634+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -44,14 +44,14 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -69,14 +69,14 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -94,14 +94,14 @@
       "id": "PTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -115,7 +115,7 @@
   "innstilling_id": 17329,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779311188105+0200)/",
+    "respons_dato_tid": "/Date(1779339659587+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200101,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779311290073+0200)/",
+      "respons_dato_tid": "/Date(1779339714634+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Karlsen",
@@ -133,14 +133,14 @@
       "id": "TOMKAR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779274814930+0200)/",
+        "respons_dato_tid": "/Date(1779329683217+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779231614494+0200)/",
+        "respons_dato_tid": "/Date(1779318014638+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -175,3 +175,4 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
+- **2026-05-21** Innhold endret (se git-historikk for diff)
