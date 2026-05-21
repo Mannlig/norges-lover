@@ -1,6 +1,7 @@
 """
-Scraper for DiBK – rekursiv crawler som følger alle lenker fra startpunkter.
-Kilde: https://www.dibk.no
+Scraper for Husbanken – rekursiv crawler.
+Kilde: https://www.husbanken.no
+Dekker bostøtte, startlån, tilskudd og boligvirkemidler.
 """
 
 import json
@@ -17,39 +18,43 @@ logger = logging.getLogger(__name__)
 HUB_CRAWL_INTERVALL_TIMER = 24
 RECRAWL_DAGER = 7
 
-DIBK_STARTPUNKTER = [
-    "https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/",
-    "https://www.dibk.no/regelverk/byggesaksforskriften-sak10/",
-    "https://www.dibk.no/regelverk/",
-    "https://www.dibk.no/byggeregler/",
-    "https://www.dibk.no/byggesok/",
-    "https://www.dibk.no/soknadspliktig-eller-ikke/",
-    "https://www.dibk.no/tilsyn/",
-    "https://www.dibk.no/veiledere/",
+HUSBANKEN_STARTPUNKTER = [
+    "https://www.husbanken.no/bostotte/",
+    "https://www.husbanken.no/startlan/",
+    "https://www.husbanken.no/tilskudd/",
+    "https://www.husbanken.no/boligtilskudd/",
+    "https://www.husbanken.no/utleieboliger/",
+    "https://www.husbanken.no/grunnlan/",
+    "https://www.husbanken.no/kommuner/",
+    "https://www.husbanken.no/regelverk/",
+    "https://www.husbanken.no/tema/",
 ]
 
 _EKSKLUDER = re.compile(
-    r"/(nyheter|presse|om-dibk|kontakt|sok|login|arrangementer|"
-    r"sitemap|404|500|english|kurs)(/|$)",
+    r"/(om-husbanken|presse|nyheter|kontakt|sok|english|sitemap|"
+    r"404|500|arrangementer|kurs|statistikk|ansatte)(/|$)",
     re.IGNORECASE,
 )
 
 _INKLUDER_PREFIKS = (
-    "https://www.dibk.no/regelverk/",
-    "https://www.dibk.no/byggeregler/",
-    "https://www.dibk.no/byggesok/",
-    "https://www.dibk.no/soknadspliktig-eller-ikke/",
-    "https://www.dibk.no/tilsyn/",
-    "https://www.dibk.no/veiledere/",
-    "https://www.dibk.no/produkter-og-materialer/",
+    "https://www.husbanken.no/bostotte/",
+    "https://www.husbanken.no/startlan/",
+    "https://www.husbanken.no/tilskudd/",
+    "https://www.husbanken.no/boligtilskudd/",
+    "https://www.husbanken.no/utleieboliger/",
+    "https://www.husbanken.no/grunnlan/",
+    "https://www.husbanken.no/kommuner/",
+    "https://www.husbanken.no/regelverk/",
+    "https://www.husbanken.no/tema/",
+    "https://www.husbanken.no/laane-og-tilskuddsordninger/",
 )
 
-_INNHOLD_SELEKTORER = ["main", "article", ".article-body", "#main", "[role='main']"]
+_INNHOLD_SELEKTORER = ["main", "article", "[role='main']", ".article-body", "#main-content"]
 
 
-class DibkScraper(BaseScraper):
-    name = "dibk"
-    source_url = "https://www.dibk.no"
+class HusbankScraper(BaseScraper):
+    name = "husbanken"
+    source_url = "https://www.husbanken.no"
 
     def __init__(self):
         super().__init__()
@@ -59,7 +64,7 @@ class DibkScraper(BaseScraper):
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
         STATE_DIR.mkdir(parents=True, exist_ok=True)
-        self._state_path = STATE_DIR / "dibk-state.json"
+        self._state_path = STATE_DIR / "husbanken-state.json"
         self._state = self._les_state()
 
         if self._bor_crawle_huber():
@@ -67,7 +72,7 @@ class DibkScraper(BaseScraper):
 
         created = self._hent_fra_ko(output_dir, max_pages)
         gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
-        logger.info("DiBK: %d filer | %d gjenstår i kø", len(created), gjenstaar)
+        logger.info("Husbanken: %d filer | %d gjenstår i kø", len(created), gjenstaar)
         return created
 
     def _bor_crawle_huber(self) -> bool:
@@ -82,10 +87,9 @@ class DibkScraper(BaseScraper):
             return True
 
     def _crawl_huber(self):
-        logger.info("Starter DiBK hub-crawl...")
+        logger.info("Starter Husbanken hub-crawl...")
         kø = self._state.setdefault("kø", {})
 
-        # Reset gamle oppføringer så rekursiv crawling finner nye lenker
         grense = datetime.now(timezone.utc) - timedelta(days=RECRAWL_DAGER)
         for meta in kø.values():
             if meta.get("hentet") and meta.get("sist_hentet"):
@@ -97,7 +101,7 @@ class DibkScraper(BaseScraper):
                     pass
 
         nye = 0
-        for hub_url in DIBK_STARTPUNKTER:
+        for hub_url in HUSBANKEN_STARTPUNKTER:
             lenker = self._hent_lenker_fra_side(hub_url)
             logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
             for url in lenker:
@@ -112,7 +116,7 @@ class DibkScraper(BaseScraper):
 
         self._state["sist_hub_crawl"] = self.now_iso()
         self._lagre_state()
-        logger.info("Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)", nye, len(kø))
+        logger.info("Hub-crawl ferdig: %d nye URL-er (totalt %d)", nye, len(kø))
 
     def _hent_lenker_fra_side(self, url: str, page=None) -> list[str]:
         if page is None:
@@ -126,13 +130,10 @@ class DibkScraper(BaseScraper):
             if not href:
                 continue
             if href.startswith("/"):
-                href = f"https://www.dibk.no{href}"
-            # Normaliser dibk.no → www.dibk.no
-            href = href.replace("https://dibk.no/", "https://www.dibk.no/")
+                href = f"https://www.husbanken.no{href}"
             href = href.split("#")[0].split("?")[0].rstrip("/") + "/"
             if self._er_relevant_side(href):
                 lenker.add(href)
-
         return sorted(lenker)
 
     def _er_relevant_side(self, url: str) -> bool:
@@ -146,17 +147,17 @@ class DibkScraper(BaseScraper):
 
     @staticmethod
     def _url_til_nokkel(url: str) -> str:
-        return url.replace("https://www.dibk.no/", "").replace("https://dibk.no/", "").strip("/")
+        return url.replace("https://www.husbanken.no/", "").strip("/")
 
     def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:
         kø = self._state.get("kø", {})
         venter = [(k, v) for k, v in kø.items() if not v["hentet"]]
 
         if not venter:
-            logger.info("DiBK: alle sider à jour")
+            logger.info("Husbanken: alle sider à jour")
             return []
 
-        logger.info("DiBK: %d sider gjenstår, henter %d nå",
+        logger.info("Husbanken: %d sider gjenstår, henter %d nå",
                     len(venter), min(len(venter), max_pages))
 
         created = []
@@ -212,7 +213,7 @@ class DibkScraper(BaseScraper):
             "",
             "## Kildeinformasjon",
             "",
-            f"- **Kilde:** Direktoratet for byggkvalitet (DiBK) – {url}",
+            f"- **Kilde:** Husbanken – {url}",
             f"- **Sist oppdatert (kilde):** {oppdatert or 'ukjent'}",
             f"- **Sist hentet:** {self.now_iso()}",
             "",
@@ -221,7 +222,7 @@ class DibkScraper(BaseScraper):
             innhold,
             "",
             "---",
-            f"*Automatisk hentet fra [DiBK]({url}) av norges-lover-bot.*",
+            f"*Automatisk hentet fra [Husbanken]({url}) av norges-lover-bot.*",
         ])
 
     def _les_state(self) -> dict:

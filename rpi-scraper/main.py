@@ -31,6 +31,8 @@ from scrapers import (
     SkatteetatenScraper,
     DibkScraper,
     NavScraper,
+    ArbeidstilsynetScraper,
+    HusbankScraper,
 )
 
 # --- Logging ---
@@ -48,10 +50,12 @@ logger = logging.getLogger("main")
 # --- Oversikt over alle kjøringer ---
 # Format: (kilde-nøkkel, scraper-klasse, data-mappe-nøkkel, maks-sider)
 KJØRINGER = [
-    ("stortinget",   StortingetScraper,   "stortinget",  100),
-    ("skatteetaten", SkatteetatenScraper, "skatt",       100),
-    ("dibk",         DibkScraper,         "byggteknisk",  50),
-    ("nav",          NavScraper,          "nav",          50),
+    ("stortinget",     StortingetScraper,     "stortinget",     100),
+    ("skatteetaten",   SkatteetatenScraper,   "skatt",          100),
+    ("dibk",           DibkScraper,           "byggteknisk",     50),
+    ("nav",            NavScraper,            "nav",             50),
+    ("arbeidstilsynet", ArbeidstilsynetScraper, "arbeidstilsynet", 50),
+    ("husbanken",      HusbankScraper,        "husbanken",       50),
 ]
 
 
@@ -103,18 +107,11 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
         filer = kjor_kilde(kilde_navn, scraper_klasse, data_path, max_sider)
         alle_nye_filer.extend(filer)
 
-        if filer:
-            # Publiser etter hver kilde for å unngå å miste data ved feil
-            indekser = oppdater_indekser(alle_nye_filer)
-            alle_nye_filer.extend(indekser)
-            publisher.publish(alle_nye_filer)
-            alle_nye_filer = []  # Reset – allerede pushet
-
         if not kun_kilde:
             logger.info("Venter %.0fs før neste kilde...", DELAY_BETWEEN_SOURCES)
             time.sleep(DELAY_BETWEEN_SOURCES)
 
-    # Siste publisering om noe gjenstår
+    # Én commit for hele kjøringen
     if alle_nye_filer:
         indekser = oppdater_indekser(alle_nye_filer)
         publisher.publish(alle_nye_filer + indekser)

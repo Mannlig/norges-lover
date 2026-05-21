@@ -24,8 +24,13 @@ data/tmp/
 data/cache/
 *.tmp
 
-# Scraper-kø (lagres i Docker-volum, ikke i git)
+# Scraper-tilstand (lagres utenfor git i ~/.norges-lover-state/)
 data/.lovdata-state.json
+data/lover/.stortinget-state.json
+data/nav/.nav-state.json
+data/skatt/.skatt-state.json
+data/byggteknisk/.dibk-state.json
+*-state.json
 
 # Logg fra Pi
 logs/*.log

@@ -11,6 +11,7 @@ import logging
 from pathlib import Path
 
 from .base import BaseScraper
+from config import STATE_DIR
 
 logger = logging.getLogger(__name__)
 
@@ -40,7 +41,8 @@ class StortingetScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 100) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        self._state_path = output_dir / ".stortinget-state.json"
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        self._state_path = STATE_DIR / "stortinget-state.json"
         self._state = self._les_state()
         created = self._hent_saker(output_dir, max_pages)
         self._lagre_state()

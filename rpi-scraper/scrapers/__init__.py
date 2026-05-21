@@ -3,6 +3,8 @@ from .skatteetaten import SkatteetatenScraper
 from .dibk import DibkScraper
 from .nav import NavScraper
 from .kommuner import KommunerScraper
+from .arbeidstilsynet import ArbeidstilsynetScraper
+from .husbanken import HusbankScraper
 
 __all__ = [
     "StortingetScraper",
@@ -10,4 +12,6 @@ __all__ = [
     "DibkScraper",
     "NavScraper",
     "KommunerScraper",
+    "ArbeidstilsynetScraper",
+    "HusbankScraper",
 ]
