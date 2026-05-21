@@ -10,6 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from .base import BaseScraper
+from config import STATE_DIR
 
 logger = logging.getLogger(__name__)
 
@@ -37,6 +38,21 @@ NAV_STARTPUNKTER = [
     "https://www.nav.no/permittering",
     "https://www.nav.no/gjenlevendepensjon",
     "https://www.nav.no/barnepensjon",
+    # Arbeidsgiver-sider
+    "https://www.nav.no/arbeidsgiver",
+    "https://www.nav.no/arbeidsgiver/sykepenger",
+    "https://www.nav.no/arbeidsgiver/foreldrepenger",
+    "https://www.nav.no/arbeidsgiver/rekruttering",
+    # Satser og regelverk
+    "https://www.nav.no/satser",
+    "https://www.nav.no/saksbehandlingstider",
+    "https://www.nav.no/klagerettigheter",
+    # Spesifikke ytelser som mangler
+    "https://www.nav.no/omstillingsstonad",
+    "https://www.nav.no/yrkesskade",
+    "https://www.nav.no/lonnsgaranti",
+    "https://www.nav.no/tiltakspenger",
+    "https://www.nav.no/supplerende-stonad",
 ]
 
 _EKSKLUDER = re.compile(
@@ -66,7 +82,8 @@ class NavScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        self._state_path = output_dir / ".nav-state.json"
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        self._state_path = STATE_DIR / "nav-state.json"
         self._state = self._les_state()
 
         if self._bor_crawle_huber():

@@ -10,6 +10,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 from .base import BaseScraper
+from config import STATE_DIR
 
 logger = logging.getLogger(__name__)
 
@@ -68,7 +69,8 @@ class SkatteetatenScraper(BaseScraper):
 
     def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
         output_dir.mkdir(parents=True, exist_ok=True)
-        self._state_path = output_dir / ".skatt-state.json"
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        self._state_path = STATE_DIR / "skatt-state.json"
         self._state = self._les_state()
 
         if self._bor_crawle_huber():

@@ -13,6 +13,9 @@ REPO_ROOT = Path(os.environ.get("REPO_ROOT", str(Path(__file__).parent.parent)))
 DATA_DIR = REPO_ROOT / "data"
 LOGS_DIR = REPO_ROOT / "logs"
 
+# State-filer lagres utenfor git-repoet så git-operasjoner aldri sletter dem
+STATE_DIR = Path(os.environ.get("STATE_DIR", str(Path.home() / ".norges-lover-state")))
+
 GITHUB_REPO = "mannlig/norges-lover"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")  # Sett på Pi: export GITHUB_TOKEN=...
 GIT_USER_NAME = os.environ.get("GIT_USER_NAME", "norges-lover-bot")
@@ -46,12 +49,14 @@ SOURCES = {
 
 # --- Data-undermapper ---
 DATA_PATHS = {
-    "lovdata": DATA_DIR,          # Lovdata styrer egne undermapper (lover/, stortingsvedtak/, lokale-forskrifter/)
+    "lovdata": DATA_DIR,
     "skatt": DATA_DIR / "skatt",
     "byggteknisk": DATA_DIR / "byggteknisk",
     "nav": DATA_DIR / "nav",
     "kommuner": DATA_DIR / "kommuner",
     "stortinget": DATA_DIR / "lover",
+    "arbeidstilsynet": DATA_DIR / "arbeidstilsynet",
+    "husbanken": DATA_DIR / "husbanken",
 }
 
 # SSB kommunenummer for alle norske kommuner (utvalg av store)
