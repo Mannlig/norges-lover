@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d4dd38f8aa202f5b484ff965ae8e18cdecc092ba7d924e14e61b7e8ca8b5965 -->
+<!-- innholds-hash: 09af2a4b64cb703bb79e464ede4d902efd3715ac1b912881e41f7ea6f80e7a9b -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Ingrid Fiskaa om nullutslippshurtigbåter
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200120
 - **Type:** 2
 - **Korttittel:** Representantforslag om nullutslippshurtigbåter
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Sist hentet:** 2026-05-22T07:13:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200120
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168684+0200)/",
+  "respons_dato_tid": "/Date(1779433345613+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -62,14 +62,14 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -87,14 +87,14 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -112,14 +112,14 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -137,14 +137,14 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -158,7 +158,7 @@
   "innstilling_id": 17355,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
+    "respons_dato_tid": "/Date(1779433234195+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200120,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -176,14 +176,14 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -193,7 +193,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Ingrid Fiskaa om nullutslippshurtigbåter",
   "type": 2
 }
@@ -210,3 +210,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)

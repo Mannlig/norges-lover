@@ -1,11 +1,11 @@
-<!-- innholds-hash: 271653372ee6e0cf2df7bf5a8d1b84b1fcfb0bad7d19ae0578e055f8e80efd30 -->
+<!-- innholds-hash: 2062c708cc3df481c29baf9bc77722f90d28439afe890891999c43ae5b635a48 -->
 
 # Reisetilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reisetilskudd
-- **Sist hentet:** 2026-05-15T15:36:00Z
+- **Sist hentet:** 2026-05-22T10:04:29Z
 
 ## Innhold
 
@@ -48,7 +48,7 @@ Når tilskuddet beregnes, blir de utgiftene som du vanligvis ville hatt til tran
 
 Reisetilskuddet er begrenset opp til det beløpet du ville ha fått i sykepenger for samme tidsrom. Det vil si at det daglige reisetilskuddet ikke kan være høyere enn det du ellers ville fått i sykepenger den dagen, også kalt dagsats.
 
-Dagsatsen er årslønnen din delt på 260. Årslønnen blir redusert til 780 960 (6 ganger folketrygdens grunnbeløp) hvis du tjener mer enn dette.
+Dagsatsen er årslønnen din delt på 260. Årslønnen blir redusert til 819 294 (6 ganger folketrygdens grunnbeløp) hvis du tjener mer enn dette.
 
 - Petra tjener 500 000 kroner i året. 500 000 delt på 260 er lik en dagsats på 1 923 kroner.
 - Hun har vanligvis 50 kroner per dag i transportutgifter. 1 923 kroner minus 50 kroner er 1 873 kroner.
@@ -132,7 +132,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -142,7 +142,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 ---
@@ -151,3 +151,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

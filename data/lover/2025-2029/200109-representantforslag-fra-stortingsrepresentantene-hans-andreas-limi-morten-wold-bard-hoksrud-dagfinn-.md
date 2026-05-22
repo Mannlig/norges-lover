@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c40da36bdfd894b8ad37e78b356f0cc7f51dc1e87a71c27e4935444ba388300 -->
+<!-- innholds-hash: 0e6504baed46e7d273da16cf1c1a171139451d03067f6840517234b5f02bb59f -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Morten Wold, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats Henriksen om bostedsfritak for bompenger på Sollihøgda
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200109
 - **Type:** 2
 - **Korttittel:** Representantforslag om bostedsfritak for bompenger på Sollihøgda
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Sist hentet:** 2026-05-22T07:13:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200109
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168684+0200)/",
+  "respons_dato_tid": "/Date(1779433345613+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -53,14 +53,14 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -78,14 +78,14 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -103,14 +103,14 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
@@ -128,14 +128,14 @@
       "id": "HLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -153,14 +153,14 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -178,14 +178,14 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wold",
@@ -203,14 +203,14 @@
       "id": "MOW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -224,7 +224,7 @@
   "innstilling_id": 17349,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
+    "respons_dato_tid": "/Date(1779433234195+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200109,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168684+0200)/",
+      "respons_dato_tid": "/Date(1779433345613+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -242,14 +242,14 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1779404413699+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1779404413633+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -259,7 +259,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Morten Wold, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats Henriksen om bostedsfritak for bompenger på Sollihøgda",
   "type": 2
 }
@@ -276,3 +276,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)

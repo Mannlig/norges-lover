@@ -1,0 +1,160 @@
+<!-- innholds-hash: 5945f40534d05b874cd58e276d02196ed7e01a22a106787cd487aa6ebd7278b8 -->
+
+# Røyking på arbeidsplassen
+
+## Kildeinformasjon
+
+- **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/royking-pa-arbeidsplassen/
+- **Kategori:** Arbeidsmiljø og HMS
+- **Sist hentet:** 2026-05-22T10:27:53Z
+
+## Innhold
+
+
+## Røyking på arbeidsplassen
+
+Alle har krav på eit røykfritt arbeidsmiljø. Arbeidsgivaren har ansvaret for arbeidsmiljøet, også for at ingen blir utsette for røyk på arbeidsplassen.
+
+
+### Arbeidstakarar har krav på eit røykfritt arbeidsmiljø
+
+Alle arbeidslokale skal vere røykfrie. Det omfattar blant anna ekspedisjonslokale, arbeidsrom der to eller fleire arbeider, spiserom, korridorar, trappeoppgangar, toalett og heisar på arbeidsplassen.
+
+Forbodet mot tobakksrøyk gjeld også urtesigarettar og e-sigarettar med og utan nikotin.
+
+I tillegg gjeld reglane for arbeidstakarar som arbeider heime hos brukarar. Arbeidsgivar kan sette vilkår for å ivareta dette.
+
+Som hovudregel er det ikkje tillate å legge forholda til rette for røyking.
+
+- Arbeidsgivaren kan ikkje legge til rette for røykin på arbeidsplassen.
+- Arbeidstakaren har ikkje krav på eigne røykepausar.
+- Der det er tvil om røykeforbodet, skal det tydeliggjerast med synlege skilt.
+Forbodet mot tobakksrøyk gjeld både røyk frå tradisjonalle sigarettar og frå urtesigarettar, e-sigarettar (vape) og andre fordamparar.
+
+
+#### Urtesigarettar
+
+Urtesigarettar inneheld vanlegvis ei blanding av urter og anna plantemateriale, men kan også innehalde tobakk og nikotin. Røyken frå alle desse stoffa kan gi helseskadar og plager.
+
+
+#### E-sigarettar
+
+E-sigarettar (også kalla vapes, puff bars og fordamparar) varmar opp ei væske til damp. Alle e-sigarettar, også nikotinfrie, avgir damp med partiklar som kan vere helseskadelege og gi ubehag og reaksjonar.
+
+I unntaksvise tilfelle må arbeidsgivar likevel legge til rette for røyking på arbeidsplassen. Dette gjeld viss arbeidstakarane ikkje kan forlate arbeidslokala i løpet av arbeidstida.
+
+I slike tilfelle kan arbeidsgivar tillate røyking i særskilte rom. Forutsetninga er at ikkje-røykarar har røykfrie opphaldsrom av minst same standard som romma der røyking er tillate.
+
+
+### Råd til arbeidstakarar
+
+- Dersom du røykar: Hugs at du ikkje har krav på røykepauser eller til å røyke på arbeidsplassen, med mindre arbeidet gjer at du ikkje kan forlate arbeidsplassen din.
+- Dersom du opplever brot på røykeforbodet: Ta opp problemet med arbeidsgivar,
+
+### Røykeforbod på serveringsstader
+
+Det er ikkje tillate å røyke i lokale der det blir servert mat og/eller drikke. Dette gjeld også kantiner og spiserom.
+
+På uteserveringar kan røyking vere tillate i visse tilfelle dersom
+
+- røyken ikkje blir ein plage for dei tilsette
+- det ikkje siv røyk frå uteserveringa inn i lokala
+- røykeområdet er avgrensa
+- røykeområdet ikkje er så avskjerma at det blir "inne"
+- avskjerminga av røykeområdet ikkje hindrar naturleg utlufting. Derfor bør eventuelle leveggar ikkje nå høgare enn til (sittande) skulderhøgd når det også er tak/markise over uteserveringa
+Brot på desse krava kan føre til at røyking på uteserveringa blir forbode.
+
+
+### Råd til arbeidsgivarar
+
+- Lag klare reglar og informer om røykeforbodet.
+- Gi tydeleg informasjon om eventuelle unntak på uteservering eller om tilsette ikkje kan forlate arbeidsplassen.
+- Ta eventuelt reglar om røyking inn i arbeidsavtalen ved nytilsetting.
+
+### De kan søke om unntak ved filminnspelingar, framsyningar og sceneoppsettingar
+
+Arbeidstilsynet kan gi unntak (dispensasjon) frå kravet om røykfrie arbeidslokale for filminnspeling, framsyningar og sceneoppsettingar dersom røyking er del av det kunstneriske uttrykket. Vi kan berre gjere unntak for nikotinfrie e-sigarettar og urtesigarettar.
+
+For å få unntak må de oppfylle dette:
+
+- De må på førehand ha vurdert risikoen for at nokon kan bli eksponerte for røyken.
+- Skodespelarar skal ha moglegheit til å reservere seg mot å medverke i oppsettingar eller innspelingar der dei må røyke eller kan bli utsette for passiv røyking.
+- De må ha sett i verk konkrete tiltak for å hindre at røyken sjenerar andre som arbeider med oppsettinga eller innspelinga, for eksempel andre skodespelarar, musikarar og scenearbeidarar. Desse tiltaka må de følge opp gjennom heile speleperioden.
+- Røykinga må skje i så begrensa omfang som mogleg.
+- Røykinga må berre gå føre seg under oppsettinga eller innspelinga. Vi gir ikkje unntak for prøveperiodar.
+- Lokala der røykinga skjer, må ha god ventilasjon.
+- Barn skal ikkje bli eksponert for røyken, og røyken må vere ventilert bort før det kjem barn på scena eller i lokala.
+I søknaden må de svare på dette:
+
+- Har de vurdert risikoen ved å bruke urte- eller e-sigarettar, når det gjeld både aktiv og passiv røyking? Send oss resultatet av risikovurderinga saman med søknaden.
+- Legg ved ei uttaling om bruken av røyk frå arbeidsmiljøutvalet eller verneombodet på arbeidsplassen. Uttalinga er ingen garanti for at vi gir unntak.
+- Oppgi stadnamn og adresse der oppsettinga eller filminnspelinga skal foregå.
+- Oppgi namnet på oppsettinga/filmen og ev. manusforfattar.
+- Beskriv kort handlinga.
+- Kva for urte- eller e-sigarettar utan nikotin gjeld søknaden?
+- I kva for periode skal sigarettane brukast (når er spele-/innspelingsperioden)?
+- Begrunn kvifor de skal bruke e-sigarettar og/eller urtesigarettar i oppsettinga og korleis dette påverkar det kunstneriske uttrykket.
+- Beskriv kor mykje sigarettrøyk det vil vere under oppsettinga/innspelinga, for eksempel kor mykje røyk, kor mange som skal røyke, kor mange gongar dei skal røyke, kven som kan bli eksponerte for røyken osv.
+- Beskriv lokala og ventileringa av lokala der oppsettinga/innspelinga skal foregå.
+- Gjer de anna tiltak for å unngå at røyken gjer skade på dei som arbeider i og med oppsettinga/innspelinga?
+- Har dei som er med i oppsettinga/innspelinga fått informasjon om at dei kan reservere seg mot å medverke der det er sigarettrøyk?
+- Skal det vere med barn eller unge i oppsettinga/innspelinga? Hugs å søke Arbeidstilsynet om
+
+#### Roller som har tilgang til skjema i Altinn
+
+For å kunna sende skjema og lese post frå oss, kan de ha disse rollene i Altinn:
+
+- De kan ha rolla «utfyllar/innsendar» for å fylle ut og sende skjema.
+- De kan ha rolla «post/arkiv» for å lese digital post.
+Les meir om
+
+
+#### Gi rettar eller tilgang til andre
+
+Personar som har rollene «hovedadministrator» eller «tilgangsstyring» kan
+
+- gi rollene «utfyllar/innsendar» eller «post/arkiv» til andre i verksemda
+- gi tilgang til eit skjema eller ei enkeltteneste
+
+#### Få tilgang til eit skjema eller enkelttenester
+
+Viss personen som skal sende inn skjemaet, ikkje har rollene beskrive over, kan dei få tilgang til eit spesifikt skjema eller ei enkeltteneste. Det er dei som har rollene «hovedadministrator» eller «tilgangsstyring» som kan gi denne tilgangen vidare til andre.
+
+Personen som får slik tilgang, får ikkje tilgang til innboksen der kvitteringar eller svar kjem.
+
+
+### Kan arbeidsgivar forby snus på arbeidsplassen?
+
+I barnehagar, grunnskolar og vidaregåande skolar er det forbode å bruke tobakk både i lokala og på uteområda. Forbodet gjeld også snus. Sjå tobakksskadelova §§ 26 og 27.
+
+Regelverket har ikkje eit klart forbod mot snusbruk på andre arbeidsplassar. Dermed opnar regelverket heller ikkje for at arbeidsgivar kan forby bruken av snus.
+
+I enkelte tilfelle kan arbeidsgivaren likevel forby snusbruk på arbeidsplassen i kraft av styringsretten. I så fall må forbodet vere sakleg grunna i arbeidet og arbeidsoppgåvene, for eksempel
+
+- der tilsette i helse- og omsorgssektoren jobbar tett med særskilte pasientgrupper
+- det at ein tilsett fungerer som rollemodell for barn og unge
+- i forbinding med matlaging på kjøkken
+Uansett er det alltid klokt om arbeidsgivaren og dei tilsette blir einige om interne reglar for snusbruken, også for å unngå forsøpling på arbeidsplassen.
+
+
+### Kven fører tilsyn med tobakksskadelova?
+
+Arbeidstilsynet fører tilsyn med at tobakkskadelova blir overhalden i arbeidslokale.
+
+Kommunen er tilsynsmyndigheit for røyking på offenleg stad. Dette gjeld lokale der Arbeidstilsynet ikkje fører tilsyn og som er omfatta av tobakksskadelova, for eksempel der barn og elevar oppheld seg.
+
+
+### Regelverk
+
+
+### Fann du det du leitte etter?
+
+Denne sida er beskytta av reCaptcha, og Googles
+
+
+---
+*Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/royking-pa-arbeidsplassen/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-05-22** Første gang hentet
