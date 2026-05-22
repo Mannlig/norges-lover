@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1abe07cbc5ce7be255333d11ddfd397f3d542d38c1c35adb9448e6d84e737587 -->
+<!-- innholds-hash: 42bc6d67a090f0ef8c347b2bdb00dc4d65b2e2c51d0f98dc0259096924099c01 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen og Seher Aydar om å reversere tidligere svekkelser i arbeidsmiljøloven og styrke tillitsvalgtes myndighet
 
@@ -11,21 +11,21 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T12:06:50Z
+- **Sist hentet:** 2026-05-21T20:19:23Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200081
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779365133783+0200)/",
+  "respons_dato_tid": "/Date(1779394168684+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133783+0200)/",
+      "respons_dato_tid": "/Date(1779394168684+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -34,7 +34,7 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
+        "respons_dato_tid": "/Date(1779373014321+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779365133783+0200)/",
+      "respons_dato_tid": "/Date(1779394168684+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -59,7 +59,7 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
+        "respons_dato_tid": "/Date(1779373014321+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -80,7 +80,7 @@
   "innstilling_id": 17323,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779364903760+0200)/",
+    "respons_dato_tid": "/Date(1779393928030+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -89,7 +89,7 @@
   "sak_fremmet_id": 200081,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133783+0200)/",
+      "respons_dato_tid": "/Date(1779394168684+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -98,7 +98,7 @@
       "id": "BJOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
+        "respons_dato_tid": "/Date(1779373014321+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -129,5 +129,6 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
+- **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)

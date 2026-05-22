@@ -1,11 +1,11 @@
-<!-- innholds-hash: b90af965219bb65482ed65b57553a971bcf6b6031683f5a8fb456ff341d091fa -->
+<!-- innholds-hash: 05668068ee71dabb561d5ffc6e034242e3b5488141f8d80755cc1c5f27f78b59 -->
 
 # Trenger hjelp til å komme i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/komme-i-jobb
-- **Sist hentet:** 2026-05-15T09:04:28Z
+- **Sist hentet:** 2026-05-21T23:49:11Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ Du kan søke om dagpenger eller andre former for pengestøtte når du har regist
 
 Trenger du støtte for å komme i jobb eller fortsette i jobben du har, kan du be om å få arbeidsrettet oppfølging fra Nav uten å registrere deg som arbeidssøker.
 
-Det er viktig at du ikke ber om arbeidsrettet oppfølging hvis du er aktiv jobbsøker, eller skal søke om en pengestøtte som krever at du er arbeidssøker, som dagpenger. Da skal du i stedet registrere registrere deg som arbeidssøker hos Nav.
+Det er viktig at du ikke ber om arbeidsrettet oppfølging hvis du er aktiv jobbsøker, eller skal søke om en pengestøtte som krever at du er arbeidssøker, som dagpenger. Da skal du i stedet registrere deg som arbeidssøker hos Nav.
 
 Er du usikker på om du bør registrere deg som arbeidssøker, eller om du bare skal be om arbeidsrettet oppfølging?
 
@@ -116,16 +116,16 @@ Tolketjenesten har ansvar for å formidle og utføre tolkeoppdrag for døve, dø
 
 Hvis du er døv, hørselshemmet eller døvblind, kan du også få tolkehjelp på arbeidsplassen din. Les mer om
 
-Oppdatert 29.04.2026
+Oppdatert 19.05.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -135,7 +135,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -144,3 +144,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)

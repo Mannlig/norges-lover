@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5f137badc22d67fc37cd9178bc177387d6fdf4d713543058ecd78e9ee5b658be -->
+<!-- innholds-hash: c1d4ef1a0183f4d2c357f8869de0ef442a3ab7442820a3e634d430426b80b9f1 -->
 
 # Dagpenger kalkulator - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger/kalkulator
-- **Sist hentet:** 2026-05-15T08:51:26Z
+- **Sist hentet:** 2026-05-21T23:31:30Z
 
 ## Innhold
 
@@ -18,9 +18,11 @@ Fyll inn inntekten din for å se om du har rett til dagpenger. Beregningen er ku
 
 Når du søker om dagpenger velger vi det alternativet som er best for deg.
 
-Har du hatt en inntekt på minst
+Har du hatt en inntekt på minst 204 824 kroner (1,5 G) de siste 12 månedene, kan du velge siste 12 måneder som inntektsperiode.
 
-Har du tjent mindre enn
+Har du tjent mindre enn 204 824 kroner de siste 12 månedene, men hatt en samlet inntekt på minst
+
+Hvis du søker om dagpenger før 1. juni, må du ha tjent minst 195 240 kroner (1,5 G) de siste 12 månedene, eller minst 390 480 kroner (3 G) til sammen de siste 36 månedene.
 
 Hva har du hatt i inntekt de siste 12 månedene?
 
@@ -51,3 +53,4 @@ Det du må vite når du skal søke, ettersende eller klage, og hva du må gjøre
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)

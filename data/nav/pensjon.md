@@ -1,11 +1,11 @@
-<!-- innholds-hash: baa172613e6e161e933b5c0fcb41cd45551e3097dbc90596ed1480b0f809eec0 -->
+<!-- innholds-hash: 977968ccacc15a74162a4813060337eb7910097d6e732075fa8cf8c5d8bce95a -->
 
 # Pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon
-- **Sist hentet:** 2026-05-15T09:08:27Z
+- **Sist hentet:** 2026-05-21T23:54:40Z
 
 ## Innhold
 
@@ -23,11 +23,11 @@ Logg inn og beregn, søk om eller endre pensjonen din
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -37,7 +37,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -46,3 +46,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)
