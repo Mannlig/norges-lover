@@ -1,11 +1,11 @@
-<!-- innholds-hash: 37d62dc2d0d96c99fda2c5bbf082c2027108c1bd089e09f30cde787054d21dad -->
+<!-- innholds-hash: 98b45f1b54de29122a7678a035b4ae3e5cf0f745e08ecd08f9a4a406e2f44d14 -->
 
 # Pensjonsopptjening ved omsorg for barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsopptjening-barn
-- **Sist hentet:** 2026-05-15T22:03:02Z
+- **Sist hentet:** 2026-05-22T19:45:56Z
 
 ## Innhold
 
@@ -93,7 +93,7 @@ Det er bare én av foreldrene som får omsorgsopptjening selv om dere har flere 
 
 Omsorgsopptjeningen gis med utgangspunkt i hvem som har fått barnetrygd i minst 6 måneder og gis i ettertid. Du trenger derfor ikke si fra om endringer i omsorgen så lenge barnetrygden utbetales til rett person.
 
-Omsorgsopptjening garanterer at du får pensjonsopptjening som tilsvarer inntekt inntil 4,5 G (grunnbeløpet i folketrygden) i årene du har ekstra omsorgsansvar. 4,5 G er i dag 585 720 kroner. Frem til 2009 var omsorgsopptjeningen 4 G i året.
+Omsorgsopptjening garanterer at du får pensjonsopptjening som tilsvarer inntekt inntil 4,5 G (grunnbeløpet i folketrygden) i årene du har ekstra omsorgsansvar. 4,5 G er i dag 614 471 kroner. Frem til 2009 var omsorgsopptjeningen 4 G i året.
 
 Du kan få omsorgsopptjening selv om du har annen inntekt.
 
@@ -197,11 +197,11 @@ Oppdatert 17.04.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -211,7 +211,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -220,3 +220,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3e50e548ffcb2539b261bde7dc26c907ee8d8e090b936f7cb01259f6d4e8edbd -->
+<!-- innholds-hash: 8142e1dac50ff5333dd15c0dd0db9c87e45ac9a567a1a22bee46b2b6500f92ce -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
-- **Sist hentet:** 2026-05-15T21:59:40Z
+- **Sist hentet:** 2026-05-22T19:41:05Z
 
 ## Innhold
 
@@ -32,7 +32,7 @@ Vanligvis er det 3 krav du må fylle for å få foreldrepenger. Kravene gjelder 
 
 Som inntekt regnes også enkelte
 
-Omregnet til årsinntekt må inntekten din tilsvare 65 080 kroner.
+Omregnet til årsinntekt må inntekten din tilsvare 68 275 kroner.
 
 Her kan du lese mer om
 
@@ -727,7 +727,7 @@ Eksempel 1: Far 1 jobber 40 %. Foreldrepengene til far 2 reduseres med 60 %, og
 
 Eksempel 2: Far 1 jobber 75 %. Far 1 regnes for å ha full stilling, og far 2 mottar 100 % foreldrepenger.
 
-Foreldrepengene skal dekke inntekten du vanligvis har, opptil 780 960 kroner (seks ganger grunnbeløpet).
+Foreldrepengene skal dekke inntekten du vanligvis har, opptil 819 294 kroner (seks ganger grunnbeløpet).
 
 Her kan du lese hvordan foreldrepengene beregnes i din situasjon. Du kan også bruke foreldrepengekalkulatoren lenger ned for å regne ut hvor mye du kan få i foreldrepenger.
 
@@ -779,14 +779,14 @@ Det trekkes ikke skatt av utbetalinger som selvstendig næringsdrivende fra Nav.
 
 Hvis du har ulike inntekter og arbeidsforhold vil vi beregne foreldrepengene dine ut fra en kombinasjon av disse inntektene. Kombinasjonene av inntekter som er nevnt nedenfor skal tas med i beregningen, uavhengig av om du skal ha permisjon fra alle.
 
-Hvis du har en samlet inntekt over 780 960 kroner (seks ganger grunnbeløpet) fordeler vi inntektene opptil denne grensen. Hvordan Nav fordeler inntektene, avhenger av hvilke kombinasjon av inntekter du har.
+Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet) fordeler vi inntektene opptil denne grensen. Hvordan Nav fordeler inntektene, avhenger av hvilke kombinasjon av inntekter du har.
 
 
 #### Arbeidstaker og frilanser
 
 Foreldrepengene blir beregnet ut fra begge inntektene dine.
 
-Hvis du har en samlet inntekt over 780 960 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløpet.
+Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløpet.
 
 Eksempel: Arbeidsinntekten din er 600 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 900 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 780 960 kroner (2025). Arbeidsinntekten din dekkes fullt ut med 600 000 kroner. Frilansinntekten din dekkes med 180 960 kroner, opp til seks ganger grunnbeløpet.
 
@@ -871,7 +871,7 @@ Her finner du en oversikt over hvor mye du får i foreldrepenger når du har utb
 
 Hvis du mottar dagpenger eller arbeidsavklaringspenger må du huske å sende inn meldekort helt frem til dagen du starter foreldrepengene dine. Vi kan ikke behandle saken din før siste meldekort er sendt inn.
 
-Hvis du har vært i førstegangstjenesten i forsvaret eller sivilforsvaret, beregnes foreldrepengene dine til minst 390 480 kroner (tre ganger grunnbeløpet), hvis tjenesten har vart, eller var ment å vare mer enn 28 dager.
+Hvis du har vært i førstegangstjenesten i forsvaret eller sivilforsvaret, beregnes foreldrepengene dine til minst 409 647 kroner (tre ganger grunnbeløpet), hvis tjenesten har vart, eller var ment å vare mer enn 28 dager.
 
 
 #### Pensjonsopptjening
@@ -1382,11 +1382,11 @@ Oppdatert 28.04.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -1396,7 +1396,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -1405,3 +1405,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

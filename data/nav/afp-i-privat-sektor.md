@@ -1,11 +1,11 @@
-<!-- innholds-hash: edb434d3e88e566096811ed2fc2031f988563a70d0c715dbce7a11c250024229 -->
+<!-- innholds-hash: a8f28a51c2bf92efd1bbbeef7fa66b24093e82c5d19d53e97ff74091b9932345 -->
 
 # Avtalefestet pensjon (AFP) i privat sektor - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-i-privat-sektor
-- **Sist hentet:** 2026-05-15T22:12:31Z
+- **Sist hentet:** 2026-05-22T19:59:06Z
 
 ## Innhold
 
@@ -44,7 +44,7 @@ Du kan miste retten til AFP i privat sektor om du mottar enkelte ytelser i alder
 
 Dette gjelder pensjon, ventelønn, sluttvederlag eller andre pensjonslignende ytelser fra nåværende eller tidligere arbeidsgiver.
 
-Du kan fortsatt få AFP hvis verdien av ytelsene er mindre enn 1,5 G i hvert av de tre årene. 1 G er nå 130 160 kroner.
+Du kan fortsatt få AFP hvis verdien av ytelsene er mindre enn 1,5 G i hvert av de tre årene. 1 G er nå 136 549 kroner.
 
 Du finner mer informasjon om hvilke ytelser dette gjelder, og hvilke unntak som finnes her:
 
@@ -59,7 +59,7 @@ Jobb og opphold i utlandet kan få betydning for retten til AFP. Kontakt
 - Du må kunne ta ut minst 20 prosent alderspensjon samtidig hvis du er under 70 år.
 - Du må fortsatt være i jobb i en bedrift tilsluttet AFP-ordningen.
 - Du må ha vært ansatt og reell arbeidstaker med minst 20 prosent stilling de siste 3 årene før uttak.
-- Månedlig inntekt omregnet til årsinntekt må være over 1G (nå 130 160 kroner) når du tar ut AFP.
+- Månedlig inntekt omregnet til årsinntekt må være over 1G (nå 136 549 kroner) når du tar ut AFP.
 - Kalenderåret før du tar ut AFP, må du ha hatt en inntekt over
 Du kan ha fravær fra jobb i inntil 26 uker uavhengig av årsak og fortsatt beholde retten til AFP. Fraværet kan ikke være i begynnelsen eller slutten av treårsperioden.
 
@@ -112,7 +112,7 @@ AFP i privat sektor kan bestå av en livsvarig del, et forskudd som kalles krone
 
 Opptjeningsgrunnlaget for beregning av AFP livsvarig del er i hovedtrekk det samme som for alderspensjon etter nye regler.
 
-Pensjonsgrunnlaget fastsettes med utgangspunktet i årlig pensjonsgivende inntekt inntil 7,1 G (1 G tilsvarer nå 130 160 kroner) til og med det året du fyller 61 år.
+Pensjonsgrunnlaget fastsettes med utgangspunktet i årlig pensjonsgivende inntekt inntil 7,1 G (1 G tilsvarer nå 136 549 kroner) til og med det året du fyller 61 år.
 
 AFP livsvarig del utgjør 0,314 prosent av pensjonsgrunnlaget, og levealdersjusteres ut fra årskull og alder på uttakstidspunktet.
 
@@ -305,11 +305,11 @@ Oppdatert 23.04.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -319,7 +319,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -328,3 +328,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

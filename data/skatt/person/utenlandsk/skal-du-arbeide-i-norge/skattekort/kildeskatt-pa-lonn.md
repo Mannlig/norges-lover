@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6e851af011132ebea2f5774c633abdc5b419a72fc4a1cb3fb8f463543444b890 -->
+<!-- innholds-hash: 4cdb8be9a8f5b98c744646bed0f723327fdc988686f92b8f85470556df3db35a -->
 
 # Kildeskatt på lønn for utenlandske arbeidstakere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattekort/kildeskatt-pa-lonn/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:14:50Z
+- **Sist hentet:** 2026-05-22T18:39:13Z
 
 ## Innhold
 
@@ -38,7 +38,7 @@ Du kan kombinere kildeskatt på lønn med disse skattepliktige inntektene eller 
 - Kildeskatt på
 - Kildeskatt på
 - Idretts- og artistinntekt som er
-- Formue i fast eiendom, næring og løsøre i Norge
+- Formue i fast eiendom, formue i næring eller formue i løsøre i Norge
 Du kan også kombinere kildeskatt på lønn med inntekter som verken er skattepliktige eller trygdepliktige i Norge, for eksempel lønn opptjent i utlandet når du ikke er medlem i norsk folketrygd.
 
 - tjener mer enn 725 050 kroner i året (gjelder inntektsåret 2026). For inntektsåret 2025 er beløpsgrensen 697 150 kroner
@@ -132,3 +132,4 @@ Du kan heller ikke være med i kildeskatteordningen hvis det er sendt inn et NT1
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

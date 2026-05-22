@@ -1,11 +1,11 @@
-<!-- innholds-hash: 00e830a88f099c6b010543b092cbeb0ad27a14c9369b6c223b74ca508b7e512a -->
+<!-- innholds-hash: 075f44ac5198dd923017442490316aa312fb9cf5128c627bfb1ee1e3d538cc9b -->
 
 # Omstillingsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omstillingsstonad
-- **Sist hentet:** 2026-05-15T22:21:16Z
+- **Sist hentet:** 2026-05-22T20:11:11Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Inntekten din påvirker hvor mye omstillingsstønad du får utbetalt. Du får mi
 
 Du finner mer informasjon om
 
-Tjener du mer enn 715 880 kroner i året, får du vanligvis ikke utbetalt omstillingsstønad.
+Tjener du mer enn 751 019,5 kroner i året, får du vanligvis ikke utbetalt omstillingsstønad.
 
 Har du for høy inntekt til å få utbetalt stønaden, anbefaler vi likevel at du søker. Du beholder fortsatt retten til omstillingsstønad, og du kan få utbetalt stønaden hvis inntekten din endrer seg.
 
@@ -744,11 +744,11 @@ Oppdatert 27.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -758,7 +758,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -767,3 +767,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

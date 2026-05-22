@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4d1627151617ceed51c2328b935826ef8f787bb68442c96bdcdab98c10322bac -->
+<!-- innholds-hash: 91c3e02afc3c0f7777596618b2f824ea12aff1651f486d4e083f4f3f773040b6 -->
 
 # Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
-- **Sist hentet:** 2026-05-15T22:12:03Z
+- **Sist hentet:** 2026-05-22T19:58:23Z
 
 ## Innhold
 
@@ -92,6 +92,8 @@ Kontantstøtten blir utbetalt en gang per måned.
 
 Satser for kontantstøtte fra og med 1. august 2018:
 
+Foreldre med avtale om delt fast bosted kan søke om å dele kontantstøtten 50/50 seg imellom. Begge foreldrene må være enige om å dele kontantstøtten og sende hver sin søknad til Nav. Signert avtale om delt fast bosted må legges ved søknaden.
+
 Du kan få kontantstøtte for barn mellom 13 og 19 måneder, det vil si fra og med den måneden barnet fyller 13 måneder til og med den måneden barnet fyller 19 måneder. Du kan maksimalt få kontantstøtte i 7 måneder.
 
 Hvis barnet begynner i barnehage, er det forskjellige regler for hvor lenge du kan få kontantstøtte avhengig av når barnet ditt er født eller adoptert:
@@ -106,15 +108,10 @@ Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er
 
 Mer informasjon til deg som
 
+Du kan tidligst søke kontantstøtte fra den måneden barnet fyller ett år.
 
-#### Søknad om kontantstøtte
-
-Du kan tidligst søke den måneden barnet fyller ett år. Hvis dere som er foreldre bor sammen, søker én av dere.
-
-Hvis dere bor hver for dere, er det den barnet bor fast sammen med som kan søke om kontantstøtte.
-
-Hvis dere har en avtale om delt bosted etter barneloven § 36, kan dere dele kontantstøtten. Avtalen må være skriftlig og undertegnet av begge foreldrene. Dere må være enige om å dele kontantstøtten og begge må søke. Det er bare full kontantstøtte som kan deles.
-
+- Bor dere foreldre sammen, skal bare én av dere søke
+- Bor dere ikke sammen og har delt fast bosted, må begge foreldrene sende hver sin søknad
 Du kan ikke få etterbetalt kontantstøtte for mer enn 3 måneder før den kalendermåneden du søkte.
 
 Du vil få informasjon i søknaden om hva slags dokumentasjon og vedlegg du må legge ved søknaden.
@@ -259,16 +256,16 @@ Når Nav har fått søknaden din, må vi som regel innhente opplysninger fra bos
 
 I noen land er det én sentral institusjon som svarer på slike henvendelser, mens det i andre land blir gjort på regionalt eller lokalt nivå. Derfor må du oppgi hvilken kommune og hvilken region, fylke, delstat eller lignende familien din bor i.
 
-Oppdatert 09.02.2026
+Oppdatert 20.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -278,7 +275,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -287,3 +284,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

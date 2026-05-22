@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4b3c2f057e239a166fea37b5be2dc0805c84b46a25c3a056006632732e00ec99 -->
+<!-- innholds-hash: 84cc486c36eedb4d4b402a2777304ff1345afae9eb22c753b8a4443ea7acc75e -->
 
 # Utvidet barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utvidet-barnetrygd
-- **Sist hentet:** 2026-05-15T22:09:07Z
+- **Sist hentet:** 2026-05-22T19:54:15Z
 
 ## Innhold
 
@@ -124,11 +124,11 @@ I tillegg må du legge ved
 
 #### Tilleggsskjema for utbetaling av støtten etter EØS-avtalen
 
-Dette skjemaet skal du bruke hvis:
+Du skal kun bruke dette skjemaet hvis du sender søknaden på papir og:
 
-- Du og/eller den andre forelderen jobber eller mottar ytelse fra Nav og/eller bor i Norge og barnet bor i et annet EØS-land
-- Du eller den andre forelderen jobber og/eller bor i et annet EØS-land og barnet bor i Norge eller et annet EØS land
-- Du eller den andre forelderen jobber eller mottar ytelse fra Nav og hele familien bor i et annet EØS-land
+- Du og/eller den andre forelderen jobber eller mottar ytelse fra Nav og/eller bor i Norge, og barnet bor i et annet EØS-land
+- Du eller den andre forelderen jobber og/eller bor i et annet EØS-land, og barnet bor i Norge eller et annet EØS-land, eller
+- Du eller den andre forelderen jobber eller mottar ytelse fra Nav, og hele familien bor i et annet EØS-land
 Du får skriftlig vedtak når søknaden er behandlet.
 
 
@@ -308,16 +308,16 @@ Hvis du arbeider ved siden av studiene opphører retten til barnetrygd.
 
 Hvis barnetrygden har blitt stanset på grunn av utenlandsopphold, må du søke om barnetrygd på nytt ved retur til Norge.
 
-Oppdatert 29.01.2026
+Oppdatert 19.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -327,7 +327,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -336,3 +336,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

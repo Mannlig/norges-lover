@@ -1,11 +1,11 @@
-<!-- innholds-hash: efd918730cdd5aba49f5b0894dd743c89a169d8b539bb7cd4409b5f4e63af9bf -->
+<!-- innholds-hash: 5c1783492f101137ac634207d14d6fad55e76ce093c50fa076559b397761b8c8 -->
 
 # Jobbe i land Norge har trygdeavtale med - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-avtaleland
-- **Sist hentet:** 2026-05-15T22:19:46Z
+- **Sist hentet:** 2026-05-22T20:09:07Z
 
 ## Innhold
 
@@ -715,11 +715,11 @@ Ektefelle/partner/samboer må være statsborger i Norge, EØS eller Sveits for �
 
 For barn av ektefelle/partner/samboer (særkullsbarn), opphører medlemskapet ved utreise fra Norge. Barnets forelder kan søke om frivillig medlemskap for barnet.
 
-Familiemedlemmer regnes som forsørget så lenge de ikke har egen arbeidsinntekt som de kan leve for i utlandet. Som et utgangspunkt, regner vi et familiemedlem som forsørget hvis hen ikke har egen inntekt på mer enn en og en halv ganger folketrygdens grunnbeløp (G), det vil si 195 240 kroner.
+Familiemedlemmer regnes som forsørget så lenge de ikke har egen arbeidsinntekt som de kan leve for i utlandet. Som et utgangspunkt, regner vi et familiemedlem som forsørget hvis hen ikke har egen inntekt på mer enn en og en halv ganger folketrygdens grunnbeløp (G), det vil si 204 824 kroner.
 
 Familiemedlemmer som arbeider i utlandet, bør
 
-Familiemedlemmer som mottar pensjon eller uføretrygd, regnes som forsørget selv om denne inntekten er over 1,5 G, som utgjør  195 240 kroner.
+Familiemedlemmer som mottar pensjon eller uføretrygd, regnes som forsørget selv om denne inntekten er over 1,5 G, som utgjør  204 824 kroner.
 
 Familiemedlemmer som ikke er forsørget kan
 
@@ -763,11 +763,11 @@ Oppdatert 04.05.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -777,7 +777,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -786,3 +786,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

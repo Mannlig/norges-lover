@@ -1,11 +1,11 @@
-<!-- innholds-hash: ced4a792130a99d23e886f65dc7c9778b02a34421f37c384623a4609635e506c -->
+<!-- innholds-hash: 6e14e450dfebf3e93d3e2355bba5512115f5f83394ad42a7ee728f7d9210d44a -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
-- **Sist hentet:** 2026-05-15T21:56:42Z
+- **Sist hentet:** 2026-05-22T19:36:56Z
 
 ## Innhold
 
@@ -45,11 +45,11 @@ Har du
 
 Har du en
 
-Hvis du er mellom 62 og 67 år, må du som hovedregel ha hatt  130 160 kroner i pensjonsgivende inntekt året før uføretidspunktet. Det tilsvarer grunnbeløpet i folketrygden (G).
+Hvis du er mellom 62 og 67 år, må du som hovedregel ha hatt  136 549 kroner i pensjonsgivende inntekt året før uføretidspunktet. Det tilsvarer grunnbeløpet i folketrygden (G).
 
 Vi kan gjøre unntak hvis
 
-- du har tjent minst  390 480 (3 G) totalt i løpet av de tre siste årene før uføretidspunktet
+- du har tjent minst  409 647 (3 G) totalt i løpet av de tre siste årene før uføretidspunktet
 - du ikke har rett til hel alderspensjon
 Hvis du ikke har vært medlem av folketrygden i de siste 5 årene før uføretidspunktet, kan vi gjøre unntak hvis
 
@@ -83,7 +83,7 @@ Har du tidligere bodd eller jobbet i Norge, står du fritt til å søke om ufør
 
 Du kan ikke ha AFP i privat sektor samtidig som du får uføretrygd fra Nav. For å få uføretrygd, må du si fra deg AFP-en din og retten til AFP for alltid.
 
-Du kan få mellom 303 143 kroner og 515 434 kroner i året før skatt fra Nav hvis du får 100 prosent uføregrad. Det er blant annet inntekten du hadde før du ble ufør som bestemmer hvor mye du får i uføretrygd.
+Du kan få mellom 318 023 kroner og 540 734 kroner i året før skatt fra Nav hvis du får 100 prosent uføregrad. Det er blant annet inntekten du hadde før du ble ufør som bestemmer hvor mye du får i uføretrygd.
 
 Du kan også ha rett til barnetillegg hvis du forsørger barn under 18 år.
 
@@ -92,7 +92,7 @@ Det er samme skatt for uføretrygd som for vanlig lønnsinntekt.
 
 #### Beregning av uføretrygd basert på inntekt
 
-Det er kun årlig inntekt opptil 6 ganger folketrygdens grunnbeløp (G) som tas med når vi beregner uføretrygd. Det tilsvarer i dag 780 960 kroner.
+Det er kun årlig inntekt opptil 6 ganger folketrygdens grunnbeløp (G) som tas med når vi beregner uføretrygd. Det tilsvarer i dag 819 294 kroner.
 
 Uføretrygd er 66 prosent av gjennomsnittet for din
 
@@ -185,7 +185,7 @@ Hvilken minstesats du får avhenger av
 - beregning som ung ufør
 Se oversikt over satser for minste årlig ytelse for uføretrygd.
 
-Satser for minste årlige ytelse for uføretrygdede. Satsene gjelder fra 1. mai 2025.
+Satser for minste årlige ytelse for uføretrygdede. Satsene gjelder fra 1. mai 2026.
 
 Hvis du forsørger barn under 18 år, kan du ha rett til barnetillegg.
 
@@ -205,7 +205,7 @@ Hvis barnet ditt oppholder seg utenfor Norge/EØS eller et annet land som Norge 
 
 Du kan tidligst få barnetillegg fra måneden etter at barnet er født. Barnetillegget opphører senest fra og med måneden etter at barnet har fylt 18 år.
 
-For hvert barn kan du få inntil 0,4 ganger folketrygdens grunnbeløp i barnetillegg per år. Det tilsvarer i dag 52 064 kroner.
+For hvert barn kan du få inntil 0,4 ganger folketrygdens grunnbeløp i barnetillegg per år. Det tilsvarer i dag 54 619,6 kroner.
 
 I perioden 1. januar 2016 til 30. juni 2022 kunne ikke uføretrygden og barnetillegget til sammen være høyere enn 95 prosent av inntekten du hadde før du ble ufør. Denne regelen ble fjernet fra og med 1. juli 2022.
 
@@ -221,18 +221,18 @@ Grensen for hva du kan tjene før barnetillegget blir redusert, kalles for fribe
 
 #### Når barnet bor sammen med begge foreldrene
 
-Barnetillegget blir redusert når den samlede inntekten til begge foreldrene er høyere enn fribeløpet på 4,6 ganger folketrygdens grunnbeløp. Det tilsvarer i dag 598 736 kroner.
+Barnetillegget blir redusert når den samlede inntekten til begge foreldrene er høyere enn fribeløpet på 4,6 ganger folketrygdens grunnbeløp. Det tilsvarer i dag 628 125,4 kroner.
 
-Fribeløpet øker med 0,4 ganger folketrygdens grunnbeløp for hvert ekstra barn. Det tilsvarer i dag 52 064 kroner.
+Fribeløpet øker med 0,4 ganger folketrygdens grunnbeløp for hvert ekstra barn. Det tilsvarer i dag 54 620 kroner.
 
 Hvis du ikke har opparbeidet deg full trygdetid, blir fribeløpene lavere.
 
 
 #### Når barnet bor sammen med den ene forelderen
 
-Barnetillegget blir redusert når inntekten din er høyere enn fribeløpet på 3,1 ganger folketrygdens grunnbeløp. Det tilsvarer i dag 403 496 kroner.
+Barnetillegget blir redusert når inntekten din er høyere enn fribeløpet på 3,1 ganger folketrygdens grunnbeløp. Det tilsvarer i dag 423 302 kroner.
 
-Fribeløpet øker med 0,4 ganger folketrygdens fribeløp for hvert ekstra barn. Det tilsvarer i dag 52 064 kroner. Det er kun din inntekt som har betydning for barnetillegget.
+Fribeløpet øker med 0,4 ganger folketrygdens fribeløp for hvert ekstra barn. Det tilsvarer i dag 54 620 kroner. Det er kun din inntekt som har betydning for barnetillegget.
 
 Hvis du ikke har opparbeidet deg full trygdetid, blir fribeløpene lavere.
 
@@ -457,13 +457,13 @@ Varighet er 3,5 min
 
 #### Inntektsgrense
 
-Inntektsgrensen er 0,4 G (grunnbeløpet i folketrygden) , det er nå 52 064 kroner. Denne viser hvor mye du kan tjene per kalenderår før du får lavere utbetaling av uføretrygd.
+Inntektsgrensen er 0,4 G (grunnbeløpet i folketrygden) , det er nå 54 620 kroner. Denne viser hvor mye du kan tjene per kalenderår før du får lavere utbetaling av uføretrygd.
 
-Du kan tjene opptil 52 064 kroner i året uten at utbetalingen av uføretrygden din blir lavere. Tjener du mer enn dette, får du trekk i uføretrygden din. Hvis uføregraden din endrer seg, kan dette påvirke størrelsen inntektsgrensen.
+Du kan tjene opptil 54 620 kroner i året uten at utbetalingen av uføretrygden din blir lavere. Tjener du mer enn dette, får du trekk i uføretrygden din. Hvis uføregraden din endrer seg, kan dette påvirke størrelsen inntektsgrensen.
 
 Har du barnetillegg, kan allikevel inntekt som er lavere enn inntektsgrensen påvirke utbetalingen av barnetillegget.
 
-Inntektsgrensen er 0,4 G (52 064) + det du skal tjene ved siden av uføretrygden din (inntekt etter uførhet, oppjustert til dagens nivå). Denne viser hvor mye du kan tjene per kalenderår før du får lavere utbetaling av uføretrygd.
+Inntektsgrensen er 0,4 G (54 620) + det du skal tjene ved siden av uføretrygden din (inntekt etter uførhet, oppjustert til dagens nivå). Denne viser hvor mye du kan tjene per kalenderår før du får lavere utbetaling av uføretrygd.
 
 Inntektsgrensen for deg med gradert uføretrygd, er individuelt beregnet. Du finner din inntektsgrense ved å logge inn i inntektsplanleggeren.
 
@@ -693,7 +693,7 @@ Vilkårene i trygdeavtalen med det enkelte land bestemmer om man kan ta med seg 
 
 Du kan få med deg uføretrygden fra Norge hvis du har minst 20 års botid i Norge mellom fylte 16 og 67 år. Dette gjelder alle land, også land Norge ikke har avtale med.
 
-Har du mindre enn 20 års botid, blir bare år med pensjonsgivende inntekt over grunnbeløpet med i beregningen av uføretrygden. Grunnbeløpet er 130 160 kroner.
+Har du mindre enn 20 års botid, blir bare år med pensjonsgivende inntekt over grunnbeløpet med i beregningen av uføretrygden. Grunnbeløpet er 136 549 kroner.
 
 
 #### Uføretrygd etter unntaksregler
@@ -749,11 +749,11 @@ Oppdatert 08.05.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -763,7 +763,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -772,3 +772,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

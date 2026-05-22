@@ -2,9 +2,9 @@
 
 Arbeidstilsynet
 
-*Sist oppdatert: 2026-05-22 11:14 UTC*
+*Sist oppdatert: 2026-05-22 21:26 UTC*
 
-**Antall dokumenter:** 67
+**Antall dokumenter:** 104
 
 ## Innhold
 
@@ -16,6 +16,7 @@ Arbeidstilsynet
 
 - [Arbeidsrelaterte muskel- og skjelettplager](arbeidsmiljo/arbeidsrelaterte-muskel--og-skjelettplager.md)
 - [Arbeidsrelaterte psykiske plager](arbeidsmiljo/arbeidsrelaterte-psykiske-plager.md)
+- [Manuelt arbeid](arbeidsmiljo/ergonomi/manuelt-arbeid.md)
 - [Ergonomisk arbeidsmiljø](arbeidsmiljo/ergonomi.md)
 - [Forebygging av arbeidsrelaterte skader og sykdommer blant yrkessjåfører](arbeidsmiljo/forebygging-skader-sykdommer-yrkessjaforer.md)
 - [Graviditet og arbeidsmiljø](arbeidsmiljo/graviditet-og-arbeidsmiljo.md)
@@ -33,6 +34,7 @@ Arbeidstilsynet
 - [Mobbing](arbeidsmiljo/trakassering/mobbing.md)
 - [Seksuell trakassering](arbeidsmiljo/trakassering/seksuell-trakassering.md)
 - [Trakassering](arbeidsmiljo/trakassering.md)
+- [Krav til små, midlertidige og gamle arbeidsbygg](arbeidsmiljo/utforming-av-arbeidsplassen/midlertidige-arbeidsbygg.md)
 - [Utforming av arbeidsplassen](arbeidsmiljo/utforming-av-arbeidsplassen.md)
 - [Slik kan arbeidstakere varsle om kritikkverdige forhold](arbeidsmiljo/varsling/Slik-kan-du-varsle-om-kritikkverdige-forhold.md)
 - [Ansvar, rettigheter og roller i varslingssaker](arbeidsmiljo/varsling/ansvar-rettigheter-og-roller.md)
@@ -62,6 +64,7 @@ Arbeidstilsynet
 - [Internkontroll - systematisk arbeid med helse, miljø og sikkerhet](hms/internkontroll.md)
 - [Risikovurdering](hms/risikovurdering.md)
 - [Registrere skader og sykdom](hms/roller-i-hms-arbeidet/arbeidsgiver/registrere-skader-og-sykdom.md)
+- [Arbeidsgivers plikter](hms/roller-i-hms-arbeidet/arbeidsgiver.md)
 - [Arbeidsmiljøutvalg (AMU)](hms/roller-i-hms-arbeidet/arbeidsmiljoutvalg-amu.md)
 - [Arbeidstakers plikter](hms/roller-i-hms-arbeidet/arbeidstakers-plikter.md)
 - [Bedriftshelsetjeneste (BHT)](hms/roller-i-hms-arbeidet/bht.md)
@@ -72,15 +75,49 @@ Arbeidstilsynet
 
 ### Regelverk
 
+- [Arbeidstakerne skal medvirke i planleggingen](regelverk/byggesak/arbeidstakerne-skal-medvirke.md)
+- [Bedriftshelsetjenesten skal bistå i planleggingen](regelverk/byggesak/bedriftshelsetjenesten-skal-bista.md)
+- [Hvilke bygningsmessige tiltak må dere søke om?](regelverk/byggesak/byggesak-hvilke-tiltak-ma-ha-arbeidstilsynets-samtykke.md)
+- [Egenerklæring med Arbeidstilsynets preaksepterte løsninger](regelverk/byggesak/egenerklaring.md)
+- [Gebyr for behandling av byggesaker](regelverk/byggesak/gebyr-for-behandling-av-byggesaker.md)
+- [Krav til ventilasjon og inneklima](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-ventilasjon.md)
+- [Krav til bygningsmessige løsninger i arbeidsbygg og arbeidslokaler](regelverk/byggesak/krav-til-bygningsmessige-losninger.md)
+- [Leietakere som er arbeidsgivere, skal medvirke i planleggingen](regelverk/byggesak/leietakere-skal-medvirke.md)
+- [Slik saksbehandler vi søknader om Arbeidstilsynets samtykke](regelverk/byggesak/saksbehandling-av-soknader-om-samtykke.md)
 - [Byggesak – søk om Arbeidstilsynets samtykke](regelverk/byggesak.md)
+- [A-kriminformasjonsforskriften](regelverk/forskrifter/a-kriminformasjonsforskriften.md)
 - [Arbeidsplassforskriften](regelverk/forskrifter/arbeidsplassforskriften.md)
+- [Biocidforskriften](regelverk/forskrifter/biocidforskriften.md)
 - [Byggherreforskriften](regelverk/forskrifter/byggherreforskriften.md)
+- [Deklareringsforskriften](regelverk/forskrifter/deklareringsforskriften.md)
+- [Forskrift for kullgruvene på Svalbard](regelverk/forskrifter/forskrift-for-kullgruvene-pa-svalbard.md)
+- [Forskrift om administrative ordninger](regelverk/forskrifter/forskrift-om-administrative-ordninger.md)
+- [Forskrift om allmenngjøring av tariffavtale for jordbruks- og gartnerinæringene](regelverk/forskrifter/forskrift-om-allmenngjoring-av-tariffavtale-for-jordbruks--og-gartnerinaringene.md)
+- [Forskrift om arbeid i arbeidsgivers hjem og husholdning](regelverk/forskrifter/forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning.md)
+- [Forskrift om arbeidsreglement i hotellbransjen](regelverk/forskrifter/forskrift-om-arbeidsreglement-i-hotellbransjen.md)
+- [Forskrift om arbeidstid innenfor vegtransport](regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport.md)
+- [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien.md)
+- [Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-fiskeindustribedrifter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei.md)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md)
 - [Forskrift om godkjenning av renholdsvirksomheter m.m.](regelverk/forskrifter/forskrift-om-godkjenning-av-renholdsvirksomheter-m.m.md)
 - [Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer](regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfarer.md)
+- [Forskrift om helse og sikkerhet ved landboring](regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring.md)
 - [Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil](regelverk/forskrifter/forskrift-om-hms-kort-i-virksomheter-som-transporterer-andres-varer-med-bil.md)
+- [Forskrift om informasjons- og påseplikt og innsynsrett](regelverk/forskrifter/forskrift-om-informasjons--og-paseplikt-og-innsynsrett.md)
+- [Forskrift om innleie fra bemanningsforetak](regelverk/forskrifter/forskrift-om-innleie-fra-bemanningsforetak.md)
+- [Forskrift om lønn 1. og 17. mai](regelverk/forskrifter/forskrift-om-lonn-1.-og-17.-mai.md)
+- [Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester](regelverk/forskrifter/forskrift-om-offentlig-godkjenning-av-virksomheter-som-tilbyr-bilpleie-hjulskift-og-hjullagring-og-om-kjop-av-slike-tjenester.md)
 - [Forskrift om organisering, ledelse og medvirkning](regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning.md)
+- [Forskrift om tiltaks- og grenseverdier](regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier.md)
 - [Forskrift om utførelse av arbeid](regelverk/forskrifter/forskrift-om-utforelse-av-arbeid.md)
 - [Internkontrollforskriften](regelverk/forskrifter/internkontrollforskriften.md)
+- [Forslag til endringer i arbeidsmiljøloven og tilhørende forskrift for å tydeliggjøre reglene om psykososialt arbeidsmiljø](regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo.md)
+- [Høyring - forslag til endringer i forskrift om administrative ordninger § 14-1 Gebyrer for byggesaksbehandling](regelverk/horinger/horing-forslag-til-endringer-i-forskrift-om-administrative-ordninger--14-1-gebyrer-for-byggesaksbehandling.md)
 - [Høringer](regelverk/horinger.md)
 - [Arbeidsmiljøloven – aml](regelverk/lover/arbeidsmiljoloven--aml.md)
 - [Om regelverket](regelverk/om-regelverket.md)

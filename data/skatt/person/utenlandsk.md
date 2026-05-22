@@ -1,4 +1,4 @@
-<!-- innholds-hash: 376e37e4f7992587277d365f5f490a5dfbfcffc1f95fac49aa7a2ba9544d0972 -->
+<!-- innholds-hash: c3174dfaa06832daac7d9db3daaaf74e235245fd8025f25e9f70b58b36d48bae -->
 
 # Utenlandsk
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/utenlandsk/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:12:37Z
+- **Sist hentet:** 2026-05-22T18:36:16Z
 
 ## Innhold
 
@@ -14,6 +14,13 @@
 ## Utenlandsk
 
 Her finner du som utenlandsk i Norge informasjon om hva du må gjøre når du skal bo eller jobbe her.
+
+
+### Har du fått beskjed fra BankID, Buypass eller Commfides om å identifisere deg på nytt?
+
+Har du identitetsnummer i Folkeregisteret og har fått beskjed fra BankID om å identifisere deg på nytt, må du sjekke at Folkeregisteret har registrert riktig nummer på ID-dokumentet ditt.
+
+Du som har d-nummer må også ha registrert status "kontrollert" i Folkeregisteret.
 
 
 ### Når du skal jobbe i Norge
@@ -46,3 +53,4 @@ Her finner du som utenlandsk i Norge informasjon om hva du må gjøre når du sk
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

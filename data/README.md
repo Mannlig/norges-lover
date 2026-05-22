@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-22 11:14 UTC*
+*Sist oppdatert: 2026-05-22 21:26 UTC*
 
-**Antall dokumenter:** 2283
+**Antall dokumenter:** 2321
 
 ## Innhold
 
@@ -12,6 +12,7 @@ Lovdata
 
 - [Arbeidsrelaterte muskel- og skjelettplager](arbeidstilsynet/arbeidsmiljo/arbeidsrelaterte-muskel--og-skjelettplager.md)
 - [Arbeidsrelaterte psykiske plager](arbeidstilsynet/arbeidsmiljo/arbeidsrelaterte-psykiske-plager.md)
+- [Manuelt arbeid](arbeidstilsynet/arbeidsmiljo/ergonomi/manuelt-arbeid.md)
 - [Ergonomisk arbeidsmiljø](arbeidstilsynet/arbeidsmiljo/ergonomi.md)
 - [Forebygging av arbeidsrelaterte skader og sykdommer blant yrkessjåfører](arbeidstilsynet/arbeidsmiljo/forebygging-skader-sykdommer-yrkessjaforer.md)
 - [Graviditet og arbeidsmiljø](arbeidstilsynet/arbeidsmiljo/graviditet-og-arbeidsmiljo.md)
@@ -29,6 +30,7 @@ Lovdata
 - [Mobbing](arbeidstilsynet/arbeidsmiljo/trakassering/mobbing.md)
 - [Seksuell trakassering](arbeidstilsynet/arbeidsmiljo/trakassering/seksuell-trakassering.md)
 - [Trakassering](arbeidstilsynet/arbeidsmiljo/trakassering.md)
+- [Krav til små, midlertidige og gamle arbeidsbygg](arbeidstilsynet/arbeidsmiljo/utforming-av-arbeidsplassen/midlertidige-arbeidsbygg.md)
 - [Utforming av arbeidsplassen](arbeidstilsynet/arbeidsmiljo/utforming-av-arbeidsplassen.md)
 - [Slik kan arbeidstakere varsle om kritikkverdige forhold](arbeidstilsynet/arbeidsmiljo/varsling/Slik-kan-du-varsle-om-kritikkverdige-forhold.md)
 - [Ansvar, rettigheter og roller i varslingssaker](arbeidstilsynet/arbeidsmiljo/varsling/ansvar-rettigheter-og-roller.md)
@@ -56,6 +58,7 @@ Lovdata
 - [Internkontroll - systematisk arbeid med helse, miljø og sikkerhet](arbeidstilsynet/hms/internkontroll.md)
 - [Risikovurdering](arbeidstilsynet/hms/risikovurdering.md)
 - [Registrere skader og sykdom](arbeidstilsynet/hms/roller-i-hms-arbeidet/arbeidsgiver/registrere-skader-og-sykdom.md)
+- [Arbeidsgivers plikter](arbeidstilsynet/hms/roller-i-hms-arbeidet/arbeidsgiver.md)
 - [Arbeidsmiljøutvalg (AMU)](arbeidstilsynet/hms/roller-i-hms-arbeidet/arbeidsmiljoutvalg-amu.md)
 - [Arbeidstakers plikter](arbeidstilsynet/hms/roller-i-hms-arbeidet/arbeidstakers-plikter.md)
 - [Bedriftshelsetjeneste (BHT)](arbeidstilsynet/hms/roller-i-hms-arbeidet/bht.md)
@@ -64,15 +67,49 @@ Lovdata
 - [Roller i HMS-arbeidet](arbeidstilsynet/hms/roller-i-hms-arbeidet.md)
 - [Samordning av HMS-arbeid](arbeidstilsynet/hms/samordning.md)
 - [HMS](arbeidstilsynet/hms.md)
+- [Arbeidstakerne skal medvirke i planleggingen](arbeidstilsynet/regelverk/byggesak/arbeidstakerne-skal-medvirke.md)
+- [Bedriftshelsetjenesten skal bistå i planleggingen](arbeidstilsynet/regelverk/byggesak/bedriftshelsetjenesten-skal-bista.md)
+- [Hvilke bygningsmessige tiltak må dere søke om?](arbeidstilsynet/regelverk/byggesak/byggesak-hvilke-tiltak-ma-ha-arbeidstilsynets-samtykke.md)
+- [Egenerklæring med Arbeidstilsynets preaksepterte løsninger](arbeidstilsynet/regelverk/byggesak/egenerklaring.md)
+- [Gebyr for behandling av byggesaker](arbeidstilsynet/regelverk/byggesak/gebyr-for-behandling-av-byggesaker.md)
+- [Krav til ventilasjon og inneklima](arbeidstilsynet/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-ventilasjon.md)
+- [Krav til bygningsmessige løsninger i arbeidsbygg og arbeidslokaler](arbeidstilsynet/regelverk/byggesak/krav-til-bygningsmessige-losninger.md)
+- [Leietakere som er arbeidsgivere, skal medvirke i planleggingen](arbeidstilsynet/regelverk/byggesak/leietakere-skal-medvirke.md)
+- [Slik saksbehandler vi søknader om Arbeidstilsynets samtykke](arbeidstilsynet/regelverk/byggesak/saksbehandling-av-soknader-om-samtykke.md)
 - [Byggesak – søk om Arbeidstilsynets samtykke](arbeidstilsynet/regelverk/byggesak.md)
+- [A-kriminformasjonsforskriften](arbeidstilsynet/regelverk/forskrifter/a-kriminformasjonsforskriften.md)
 - [Arbeidsplassforskriften](arbeidstilsynet/regelverk/forskrifter/arbeidsplassforskriften.md)
+- [Biocidforskriften](arbeidstilsynet/regelverk/forskrifter/biocidforskriften.md)
 - [Byggherreforskriften](arbeidstilsynet/regelverk/forskrifter/byggherreforskriften.md)
+- [Deklareringsforskriften](arbeidstilsynet/regelverk/forskrifter/deklareringsforskriften.md)
+- [Forskrift for kullgruvene på Svalbard](arbeidstilsynet/regelverk/forskrifter/forskrift-for-kullgruvene-pa-svalbard.md)
+- [Forskrift om administrative ordninger](arbeidstilsynet/regelverk/forskrifter/forskrift-om-administrative-ordninger.md)
+- [Forskrift om allmenngjøring av tariffavtale for jordbruks- og gartnerinæringene](arbeidstilsynet/regelverk/forskrifter/forskrift-om-allmenngjoring-av-tariffavtale-for-jordbruks--og-gartnerinaringene.md)
+- [Forskrift om arbeid i arbeidsgivers hjem og husholdning](arbeidstilsynet/regelverk/forskrifter/forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning.md)
+- [Forskrift om arbeidsreglement i hotellbransjen](arbeidstilsynet/regelverk/forskrifter/forskrift-om-arbeidsreglement-i-hotellbransjen.md)
+- [Forskrift om arbeidstid innenfor vegtransport](arbeidstilsynet/regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport.md)
+- [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien.md)
+- [Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-fiskeindustribedrifter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei.md)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](arbeidstilsynet/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md)
 - [Forskrift om godkjenning av renholdsvirksomheter m.m.](arbeidstilsynet/regelverk/forskrifter/forskrift-om-godkjenning-av-renholdsvirksomheter-m.m.md)
 - [Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer](arbeidstilsynet/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfarer.md)
+- [Forskrift om helse og sikkerhet ved landboring](arbeidstilsynet/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring.md)
 - [Forskrift om HMS-kort i virksomheter som transporterer andres varer med bil](arbeidstilsynet/regelverk/forskrifter/forskrift-om-hms-kort-i-virksomheter-som-transporterer-andres-varer-med-bil.md)
+- [Forskrift om informasjons- og påseplikt og innsynsrett](arbeidstilsynet/regelverk/forskrifter/forskrift-om-informasjons--og-paseplikt-og-innsynsrett.md)
+- [Forskrift om innleie fra bemanningsforetak](arbeidstilsynet/regelverk/forskrifter/forskrift-om-innleie-fra-bemanningsforetak.md)
+- [Forskrift om lønn 1. og 17. mai](arbeidstilsynet/regelverk/forskrifter/forskrift-om-lonn-1.-og-17.-mai.md)
+- [Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester](arbeidstilsynet/regelverk/forskrifter/forskrift-om-offentlig-godkjenning-av-virksomheter-som-tilbyr-bilpleie-hjulskift-og-hjullagring-og-om-kjop-av-slike-tjenester.md)
 - [Forskrift om organisering, ledelse og medvirkning](arbeidstilsynet/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning.md)
+- [Forskrift om tiltaks- og grenseverdier](arbeidstilsynet/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier.md)
 - [Forskrift om utførelse av arbeid](arbeidstilsynet/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid.md)
 - [Internkontrollforskriften](arbeidstilsynet/regelverk/forskrifter/internkontrollforskriften.md)
+- [Forslag til endringer i arbeidsmiljøloven og tilhørende forskrift for å tydeliggjøre reglene om psykososialt arbeidsmiljø](arbeidstilsynet/regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo.md)
+- [Høyring - forslag til endringer i forskrift om administrative ordninger § 14-1 Gebyrer for byggesaksbehandling](arbeidstilsynet/regelverk/horinger/horing-forslag-til-endringer-i-forskrift-om-administrative-ordninger--14-1-gebyrer-for-byggesaksbehandling.md)
 - [Høringer](arbeidstilsynet/regelverk/horinger.md)
 - [Arbeidsmiljøloven – aml](arbeidstilsynet/regelverk/lover/arbeidsmiljoloven--aml.md)
 - [Om regelverket](arbeidstilsynet/regelverk/om-regelverket.md)
@@ -964,6 +1001,7 @@ Lovdata
 - [Myndighetenes håndtering av Utvik Seniors forliset](lover/2025-2029/200324-myndighetenes-handtering-av-utvik-seniors-forliset.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang](lover/2025-2029/200325-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-hans-andreas-limi-helge-andré-njastad.md)
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest](lover/2025-2029/200326-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-ole-h.md)
+- [Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)](lover/2025-2029/200327-endringer-i-tobakksskadeloven-endringer-i-gebyr-og-avgiftssystemet-og-hoyere-strafferammer.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)
