@@ -1,11 +1,11 @@
-<!-- innholds-hash: 370103dbfe3c45865d5b7f82a51b31eaca427ad7631fec140fe6f209c8a3a1ce -->
+<!-- innholds-hash: ddf21c627be3ab56ce9ea51edea4bf116fd81e508d32709a024f78ced42b2674 -->
 
 # Helse og sykdom - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/helse
-- **Sist hentet:** 2026-05-15T09:01:23Z
+- **Sist hentet:** 2026-05-21T23:45:05Z
 
 ## Innhold
 
@@ -21,11 +21,11 @@
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -35,7 +35,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -44,3 +44,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)

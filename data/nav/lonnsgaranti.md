@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05c1d87b55deee22d300f524ad32f5fe7db6e602e19c966f497739c1b4e28118 -->
+<!-- innholds-hash: e4c4736ad41f3b5a323e632bcd26e4ed3e7c6aaf27d83c512b850cb213ad687e -->
 
 # Lønnsgaranti - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lonnsgaranti
-- **Sist hentet:** 2026-05-15T09:05:31Z
+- **Sist hentet:** 2026-05-21T23:50:29Z
 
 ## Innhold
 
@@ -177,7 +177,7 @@ Du kan få dekket renter inntil fristdagen av lønnskrav du ikke har fått utbet
 
 Nav kan også dekke inndrivelseskostnader, for eksempel kostnader ved konkursvarsel. Du kan også få dekket kostnader i forbindelse med konkursbegjæring.
 
-Du kan få dekket lønn, feriepenger mv. inntil 2 ganger grunnbeløpet i folketrygden på fristdagen. Maksimalbeløpet på 2 ganger grunnbeløpet tilsvarer 260 320 kroner.
+Du kan få dekket lønn, feriepenger mv. inntil 2 ganger grunnbeløpet i folketrygden på fristdagen. Maksimalbeløpet på 2 ganger grunnbeløpet tilsvarer 273 098 kroner.
 
 Inndrivelseskostnader inngår i maksimalbeløpet som kan dekkes. Kostnader ved konkursbegjæringen kan dekkes i tillegg til maksimalbeløpet.
 
@@ -260,11 +260,11 @@ Oppdatert 05.12.2025
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -274,7 +274,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -283,3 +283,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)

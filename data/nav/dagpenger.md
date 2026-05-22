@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3cddb58e62aa3955ac2e7f38f37e295ff748611e515cd4162dc90997d1f27146 -->
+<!-- innholds-hash: aa372034a73ef9f657bd51e74b27e0af78c725f842487c553ff8fa7fb7ed28db -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist hentet:** 2026-05-15T08:50:56Z
+- **Sist hentet:** 2026-05-21T23:30:48Z
 
 ## Innhold
 
@@ -23,9 +23,11 @@ Dagpenger er en pengestøtte du kan få når du er arbeidsledig eller permittert
 ### Innhold på denne siden
 
 - Du har mistet minst 50 prosent av den totale arbeidstiden din.
-- Du har fått inntekten din helt eller delvis redusert.
-- Du har hatt en  inntekt på minst 195 240 kroner (1,5 G - Grunnbeløp) de siste 12 månedene, eller minst 390 480 kroner (3 G) de siste 36 månedene.
+- Du har mistet inntekten din helt eller delvis.
+- Du har tjent minst 204 824 kroner (1,5 G - Grunnbeløp) de siste 12 månedene, eller minst 409 647 kroner (3 G) til sammen de siste 36 månedene.
 - Du er under 67 år.
+Hvis du søker om dagpenger før 1. juni, må du ha tjent minst 195 240 kroner (1,5 G) de siste 12 månedene, eller minst 390 480 kroner (3 G) til sammen de siste 36 månedene.
+
 Vi bruker disse inntektene for å finne ut om du har rett til dagpenger:
 
 - Arbeidsinntekt
@@ -439,7 +441,7 @@ Forsørger du barn under 18 år, får du et barnetillegg på 38 kroner per barn,
 
 Barnet må bo i Norge eller et annet EØS-land, Sveits eller Storbritannia. Hvis barnet i løpet av 12 måneder oppholder seg utenfor disse områdene i mer enn 90 dager, vil du ikke lenger få barnetillegg.
 
-Hvis du har vært i militæret i minst 3 måneder, og er nydimittert, beregner vi dagpengene dine basert på en inntekt på 390 480 kroner (3 G). Har du hatt en høyere inntekt de siste 12 månedene, kan du ha rett til mer i dagpenger. Nav vil beregne dagpengene dine basert på den inntekten som gir deg høyest utbetaling.
+Hvis du har vært i militæret i minst 3 måneder, og er nydimittert, beregner vi dagpengene dine basert på en inntekt på 409 647 kroner (3 G). Har du hatt en høyere inntekt de siste 12 månedene, kan du ha rett til mer i dagpenger. Nav vil beregne dagpengene dine basert på den inntekten som gir deg høyest utbetaling.
 
 Mottar du annen pengestøtte kan det påvirke hvor mye dagpenger du kan få. Du informerer om hvilken pengestøtte du mottar i søknaden, så vurderer Nav hvor mye dagpengene blir redusert.
 
@@ -1030,16 +1032,16 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med
 
 Ønsker du
 
-Oppdatert 19.03.2026
+Oppdatert 21.05.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1049,7 +1051,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1058,3 +1060,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-21** Innhold endret (se git-historikk for diff)

@@ -2,11 +2,32 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-05-21 14:12 UTC*
+*Sist oppdatert: 2026-05-22 01:07 UTC*
 
-**Antall dokumenter:** 2199
+**Antall dokumenter:** 2219
 
 ## Innhold
+
+### Arbeidstilsynet
+
+- [Trakassering](arbeidstilsynet/arbeidsmiljo/trakassering.md)
+- [Varsling](arbeidstilsynet/arbeidsmiljo/varsling.md)
+- [Vold og trusler på arbeidsplassen](arbeidstilsynet/arbeidsmiljo/vold-og-trusler.md)
+- [Arbeidsmiljø](arbeidstilsynet/arbeidsmiljo.md)
+- [Skriftlig instruks (arbeidsinstruks)](arbeidstilsynet/hms/arbeidsinstruks.md)
+- [Arbeidsmiljømodellen](arbeidstilsynet/hms/arbeidsmiljomodellen.md)
+- [Avvik og avvikshandtering](arbeidstilsynet/hms/avvik-og-avvikshandtering.md)
+- [HMS i bygg og anlegg](arbeidstilsynet/hms/hms-i-bygg-og-anlegg.md)
+- [HMS-kort](arbeidstilsynet/hms/hms-kort.md)
+- [Internkontroll - systematisk arbeid med helse, miljø og sikkerhet](arbeidstilsynet/hms/internkontroll.md)
+- [Risikovurdering](arbeidstilsynet/hms/risikovurdering.md)
+- [Roller i HMS-arbeidet](arbeidstilsynet/hms/roller-i-hms-arbeidet.md)
+- [Samordning av HMS-arbeid](arbeidstilsynet/hms/samordning.md)
+- [HMS](arbeidstilsynet/hms.md)
+- [Byggesak – søk om Arbeidstilsynets samtykke](arbeidstilsynet/regelverk/byggesak.md)
+- [Høringer](arbeidstilsynet/regelverk/horinger.md)
+- [Om regelverket](arbeidstilsynet/regelverk/om-regelverket.md)
+- [Regelverk](arbeidstilsynet/regelverk.md)
 
 ### Byggteknisk
 
@@ -732,6 +753,11 @@ Lovdata
 - [Tidligere nyheter om endringer i regelverket](byggteknisk/regelverk/tidligere-nyheter-om-endringer-i-regelverket.md)
 - [Regelverk](byggteknisk/regelverk.md)
 - [Byggteknisk forskrift (TEK17) med veiledning](byggteknisk/tek17/krav-til-byggverk.md)
+
+### Husbanken
+
+- [Bostøtte](husbanken/bostotte.md)
+- [Tilskudd fra kommunen](husbanken/tilskudd.md)
 
 ### Lover
 
