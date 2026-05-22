@@ -1,4 +1,4 @@
-<!-- innholds-hash: 83dee797321e8232aa7989a7eab090b42a521a7652bf79cf73b6ca232550b0c0 -->
+<!-- innholds-hash: 3109382b92833eab3657b97980a1fd2f6c9540483ba43f25062115f46dcd9ecd -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg og Marie Sneve Martinussen om en god posttjeneste for framtiden
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200183
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345613+0200)/",
+  "respons_dato_tid": "/Date(1779469588481+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -53,7 +53,7 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -78,7 +78,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -99,7 +99,7 @@
   "innstilling_id": 17352,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200183,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -117,7 +117,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -151,4 +151,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)

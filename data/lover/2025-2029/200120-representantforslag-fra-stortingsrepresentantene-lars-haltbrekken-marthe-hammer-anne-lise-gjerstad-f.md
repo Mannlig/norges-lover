@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09af2a4b64cb703bb79e464ede4d902efd3715ac1b912881e41f7ea6f80e7a9b -->
+<!-- innholds-hash: 11c94e09ca74dc266acf9d0c04c0b1609d9432eff2cd369b58a1939a314c23b2 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Ingrid Fiskaa om nullutslippshurtigbåter
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200120
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345613+0200)/",
+  "respons_dato_tid": "/Date(1779469588481+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -62,7 +62,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -87,7 +87,7 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -112,7 +112,7 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -137,7 +137,7 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -158,7 +158,7 @@
   "innstilling_id": 17355,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200120,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -176,7 +176,7 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -210,4 +210,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)

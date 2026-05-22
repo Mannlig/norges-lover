@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9ce7388e2fda7a5b0067de2b76998e684dc91bf27e0eb862bbf2421eb2cfb0eb -->
+<!-- innholds-hash: 2d89b94a020a752e1e96266183235935058341f2fa1ef8eb7b8c4ec5657fcb68 -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Liland, Marius Langballe Dalin, Oda Indgaard om å ta tomme bygg og boliger i bruk
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200076
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345613+0200)/",
+  "respons_dato_tid": "/Date(1779469588481+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -53,7 +53,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -78,7 +78,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -103,7 +103,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -124,7 +124,7 @@
   "innstilling_id": 17342,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200076,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -142,7 +142,7 @@
       "id": "MUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -187,4 +187,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)

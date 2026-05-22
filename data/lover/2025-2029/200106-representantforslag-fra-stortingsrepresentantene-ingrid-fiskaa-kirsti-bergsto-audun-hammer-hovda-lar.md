@@ -1,4 +1,4 @@
-<!-- innholds-hash: 37850edfeab5b161bd71e3cf1b934ed17e99ce123730a9326e935076fc22af7a -->
+<!-- innholds-hash: 335fbd095d0e5fae2de37c6d4865c00ba1d026b021f3f9a3eba8040073cddd07 -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Fiskaa, Kirsti Bergstø, Audun Hammer Hovda, Lars Haltbrekken, Marthe Hammer og Marian Hussein om å bygge infrastruktur for transport og lagring av CO2 - Kortskip
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200106
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345613+0200)/",
+  "respons_dato_tid": "/Date(1779469588481+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -53,7 +53,7 @@
       "id": "AUDHOV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -78,7 +78,7 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -103,7 +103,7 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -128,7 +128,7 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -153,7 +153,7 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -178,7 +178,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -199,7 +199,7 @@
   "innstilling_id": 17366,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200106,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -217,7 +217,7 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -245,3 +245,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

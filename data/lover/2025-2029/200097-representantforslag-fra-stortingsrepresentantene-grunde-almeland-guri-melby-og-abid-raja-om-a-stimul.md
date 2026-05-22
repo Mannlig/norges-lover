@@ -1,4 +1,4 @@
-<!-- innholds-hash: 80e727c9a43cfa7d4d92e97df3c638591f0c9c05930d6f85c0e4919ae96d377a -->
+<!-- innholds-hash: 925fb995066d3f3f20f613bffa0a15551ba67742f1d523162870653b8affd4e2 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om å stimulere til økt bruk av samkjøring for å nå nullvekstmålet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200097
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345629+0200)/",
+  "respons_dato_tid": "/Date(1779469588481+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -53,7 +53,7 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -78,7 +78,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -103,7 +103,7 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -124,7 +124,7 @@
   "innstilling_id": 17327,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200097,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588481+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -142,7 +142,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -187,4 +187,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)

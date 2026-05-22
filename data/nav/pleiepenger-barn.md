@@ -1,11 +1,11 @@
-<!-- innholds-hash: 88030bf12fac1194f04cd4256e2d467895eb080d8c53be1ef18ed7789d12ac14 -->
+<!-- innholds-hash: 9e37e29557994f748822122d13de839be1ce81ddb14c67c3ffac5c56a05670d7 -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-barn
-- **Sist hentet:** 2026-05-15T22:03:32Z
+- **Sist hentet:** 2026-05-22T19:46:37Z
 
 ## Innhold
 
@@ -82,7 +82,7 @@ For å ha rett til pleiepenger, må du ha fravær fra jobb på grunn av pleien s
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
 Bor du i Norge er du vanligvis
@@ -123,7 +123,7 @@ Perioden din med foreldrepenger blir utvidet med samme antall dager som barnet e
 
 Får du pleiepenger i perioden fra fødsel og fram til opprinnelig termindato, trekkes disse dagene fra den utvidede perioden. Har du fått pleiepenger etter opprinnelig termindato, trekkes ikke disse dagene fra. Så lenge barnet er innlagt blir foreldrepengene utsatt, og starter først når barnet er skrevet ut fra sykehuset.
 
-Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på  780 960 kroner.
+Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på  819 294 kroner.
 
 Pleiepenger regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før pleiepengeperioden din starter. Dette gjelder både hvis du er fast ansatt og hvis du har varierende arbeidsperioder eller inntekter.
 
@@ -619,11 +619,11 @@ Oppdatert 20.04.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -633,7 +633,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -642,3 +642,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

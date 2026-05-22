@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3000f93d2580f6d01b7556f40bd1538c5d2f41801b8c4ec7010a74350ce611af -->
+<!-- innholds-hash: 8b009f24cc6afd99bc1070c21dcf4457b315e57b09a972d64394bf4e2eb85357 -->
 
 # Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsopptjening-eldre
-- **Sist hentet:** 2026-05-15T22:20:44Z
+- **Sist hentet:** 2026-05-22T20:10:28Z
 
 ## Innhold
 
@@ -53,7 +53,7 @@ Nav kan tidligst behandle søknad om omsorgsopptjening ca. 1 år etter utgangen 
 
 Omsorgsopptjening ble innført i 1992, og gjelder for omsorgsforhold fra da og fremover i tid.
 
-Omsorgsopptjening garanterer at du får pensjonsopptjening som tilsvarer inntekt inntil 4,5 G (grunnbeløpet i folketrygden) i årene du har ekstra omsorgsansvar. 4,5 G er per i dag 585 720 kroner.
+Omsorgsopptjening garanterer at du får pensjonsopptjening som tilsvarer inntekt inntil 4,5 G (grunnbeløpet i folketrygden) i årene du har ekstra omsorgsansvar. 4,5 G er per i dag 614 471 kroner.
 
 Du kan få omsorgsopptjening selv om du har annen opptjening, så lenge samlet inntekt er under 4,5 G.
 
@@ -68,7 +68,7 @@ Du finner oversikt over omsorgsopptjeningen din på
 
 Mer informasjon til deg som
 
-Du må selv søke for å få opptjening for omsorgsarbeid for syke, eldre eller personer med funksjonsnedsettelser.
+Du må søke for å få opptjening for omsorgsarbeid for syke, eldre eller personer med funksjonsnedsettelser.
 
 Du må gjøre omsorgsarbeid i minst 22 timer per uke for en person med behov for ekstra omsorg.
 
@@ -117,11 +117,11 @@ Oppdatert 08.05.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -131,7 +131,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -140,3 +140,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b0edfb7263acd0add6e9fdb619e0761d933e3d2c9ab5c6cc17b6d2e9de50e708 -->
+<!-- innholds-hash: 0b1a6a0dcaf8ffe2ecf98337c7c676dc47eed8b2f7086b7cb35aba146e68f9d4 -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe og Erling Sande om å endre rammebetingelsene for bingospill for å sikre inntekter til frivilligheten
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Sist hentet:** 2026-05-22T17:20:05Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200021
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345629+0200)/",
+  "respons_dato_tid": "/Date(1779469588497+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588497+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588497+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588497+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -53,7 +53,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588497+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grøthe",
@@ -78,7 +78,7 @@
       "id": "MARGRT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -99,7 +99,7 @@
   "innstilling_id": 17297,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779433234195+0200)/",
+    "respons_dato_tid": "/Date(1779469347883+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200021,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345629+0200)/",
+      "respons_dato_tid": "/Date(1779469588497+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Estil",
@@ -117,7 +117,7 @@
       "id": "BENEST",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
+        "respons_dato_tid": "/Date(1779457906802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -162,4 +162,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)

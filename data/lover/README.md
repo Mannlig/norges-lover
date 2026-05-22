@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-05-22 11:14 UTC*
+*Sist oppdatert: 2026-05-22 21:26 UTC*
 
-**Antall dokumenter:** 245
+**Antall dokumenter:** 246
 
 ## Innhold
 
@@ -256,6 +256,7 @@ Stortinget
 - [Myndighetenes håndtering av Utvik Seniors forliset](2025-2029/200324-myndighetenes-handtering-av-utvik-seniors-forliset.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang](2025-2029/200325-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-hans-andreas-limi-helge-andré-njastad.md)
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest](2025-2029/200326-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-ole-h.md)
+- [Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)](2025-2029/200327-endringer-i-tobakksskadeloven-endringer-i-gebyr-og-avgiftssystemet-og-hoyere-strafferammer.md)
 
 ---
 

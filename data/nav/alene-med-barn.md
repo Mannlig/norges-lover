@@ -1,11 +1,11 @@
-<!-- innholds-hash: 422f1bf36dec555bfc0c0ddabbd9a995b029bfbf1a817a4a8cf7709739c03f54 -->
+<!-- innholds-hash: 0822128d10867b4f9ce6f2c26f0cacc53b03bdc3b43811186e6d6058248aa99c -->
 
 # Er helt eller delvis alene med barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn
-- **Sist hentet:** 2026-05-15T22:13:04Z
+- **Sist hentet:** 2026-05-22T19:59:46Z
 
 ## Innhold
 
@@ -14,10 +14,7 @@ Dette kan du ha rett til
 
 ## Er helt eller delvis alene med barn
 
-Om pengestøtter, bidrag og andre ordninger du kan ha rett til når du er alene med barn.
-
-
-#### Usikker på hva du har rett til når du er alene med barn?
+Om pengestøtter, barnebidrag og andre ordninger du kan ha rett til når du er alene med barn.
 
 
 ### Innhold på denne siden
@@ -25,71 +22,74 @@ Om pengestøtter, bidrag og andre ordninger du kan ha rett til når du er alene 
 
 ### Innhold på denne siden
 
-Hvis du er alene om omsorgen for barnet og har rett til foreldrepenger, får du hele foreldrepengeperioden, inkludert kvoten til den andre forelderen.
+Du kan ha rett til flere pengestøtter når du er helt eller delvis alene med barn. Det er som hovedregel den forelderen barnet bor fast hos, som kan ha rett på pengestøttene.
 
-Hvis det ikke blir registrert farskap i Folkeregisteret ved fødsel, kan Nav ta opp saken for å få fastsatt farskapet til barnet. Du kan derfor bli innkalt til Nav-kontoret ditt for å gi opplysninger om hvem som er eller kan være far til barnet. Nav er lovpålagt å forsøke å avklare farskapet, også når far er ukjent eller hvis du har fått barn ved hjelp av sæddonasjon.
+Bor du sammen med barn under 18 år, får du barnetrygd fra Nav hver måned. Når du er alene med barn, kan du få mer utbetalt i barnetrygd.
 
-Vi kan ta opp en sak om barnebidrag på eget initiativ når du og barnefaren ikke er registrert på samme adresse ved fødselstidspunktet. Da kan vi fastsette et bidrag, men vi krever ikke inn bidraget uten at en av dere ber om det.
+Omsorgsdager er dager du kan være hjemme fra jobb fordi barnet ditt eller barnepasser er syk. Når du er alene med barn, kan du ha rett til dobbelt så mange omsorgsdager.
 
-Hvis du får et nytt barn når du allerede mottar stønader fordi du er alene med barn, må du gi oss beskjed. Hvis du ønsker å beholde stønadene, må du søke på nytt slik at vi kan vurdere om du fortsatt har rett til stønad.
+Hvis du har minst 60 prosent av det daglige samværet med barn under 8 år, kan du ha rett til overgangsstønad i en periode.
 
-Når du venter barn, kan du også ha rett til annen støtte.
+Du kan også få støtte til å dekke utgifter som oppstår fordi du må kombinere omsorgsansvar med jobb, utdanning eller å søke arbeid.
 
-Når dere går fra hverandre og har barn under 16 år, plikter dere å møte til mekling på Familievernkontoret. Her kan dere få råd og veiledning når dere skal inngå en avtale om barnefordeling.
+Når du er alene om omsorgen for barnet og har rett til foreldrepenger, kan du få hele foreldrepengeperioden, inkludert kvoten til den andre forelderen.
 
-Denne avtalen skal ta utgangspunkt i hva som blir best for barnet etter samlivsbruddet. I tillegg må dere oppdatere adressene i Folkeregisteret og eventuelt søke om separasjon hvis dere har vært gift eller registrerte partnere.
+Når dere har barn under 16 år og ikke bor sammen må dere som foreldre blant annet lage avtale om samvær og hvor barnet skal bo fast.
 
-Hvis begge er registrert med foreldreansvar for barnet, må begge foreldrene også samtykke til flyttemelding som gjelder barnet.
+Det er ingen krav til hvordan avtalen skal se ut, men den bør være skriftlig og signert av begge foreldrene. Mange foreldre får hjelp til å lage en slik avtale på familievernkontoret i forbindelse med mekling etter samlivsbrudd.
 
-Når barnet faktisk bor hos deg, eller det er avklart hvor barnet skal bo, hvordan samværet blir utført og hvem som har foreldreansvar, kan du søke om stønader fra Nav ut fra din situasjon.
+Hos Bufdir finner dere
 
-Når vi skal vurdere søknaden din, vil vi sjekke sivilstatus og registrert adresse i Folkeregisteret. I tillegg kan vi be om kopi av meklingsattest, søknad om separasjon, samværsavtale eller domsavgjørelser om barnefordeling. Hva som er nødvendig dokumentasjon, avhenger av hvilke stønader du søker om.
+Hvor barnet bor fast, og hvor mye av tiden barnet bor hos hver av foreldrene, påvirker hvilke pengestøtter du kan ha rett til fra Nav.
 
-Barnebidrag er en privat sak, og er penger som den ene forelderen betaler til den andre. Pengene skal gå til å forsørge barnet når foreldrene ikke bor sammen. Foreldre er forpliktet til å bidra økonomisk for barna sine, uansett hvordan dere bor. Dette står i barneloven § 66 og § 67.
+Dere kan avtale at barnet skal ha enten
+
+- fast bosted hos dere begge (delt fast bosted), eller
+- fast bosted hos én og samvær med den andre
+Hvis barnet har fast bosted hos deg, er det som hovedregel du som kan ha rett til pengestøttene fra Nav som vi har listet opp på toppen av denne siden.
+
+Du kan også ha rett til barnebidrag fra den andre forelderen, i tillegg til at dere som foreldre skal fordele andre utgifter som ikke dekkes av barnebidraget (se avsnittet "Fordeling av utgifter mellom foreldrene").
+
+Hvis barnet har delt fast bosted, kan dere i noen tilfeller dele pengestøtten. Det gjelder
+
+Foreldre som har delt fast bosted, har rett til like mange
+
+For å ha rett til andre typer pengestøtte når barnet har delt fast bosted, må du ha minst 60 prosent av den daglige omsorgen. Det gjelder disse pengestøttene:
+
+Selv om du ikke bor sammen med barnet ditt, er du forpliktet til å bidra økonomisk. Her finner du mer informasjon om dine rettigheter og plikter:
 
 
-#### Bidragskalkulator
+#### Nav veileder ikke om fast bosted
 
-Barnebidragskalkulatoren er et verktøy for dere som ønsker å lage en privat avtale om barnebidrag for barn under 18 år – uten at Nav er involvert.
+Nav veileder ikke om hvor barnet bør bo fast. Det er dere som foreldre som bestemmer dette, eventuelt i samarbeid med familievernkontoret eller andre som kan hjelpe dere.
 
-Hvis dere ikke klarer å bli enige om en privat avtale, kan dere søke om at vi fastsetter bidraget. Skatteetaten kan kreve inn barnebidraget, både når dere har en privat avtale og når vi fastsetter et bidrag.
+Når du søker om en pengestøtte, bruker vi avtalen dere allerede har laget og opplysningene om fast bosted og samvær for å behandle søknaden din.
 
-Hvis Skatteetaten krever inn bidraget, og barnet bor hos deg, kan du ha rett til bidragsforskudd avhengig av boforhold og inntekt. Bidragsforskudd sikrer deg en utbetaling hvis bidragspliktig ikke betaler barnebidraget.
+Hvis du er alene med barn fordi den andre forelderen er død, kan både du og barna ha rett til pengestøtte som gjenlevende.
 
-Hvis du ønsker at den andre forelderen skal betale sin del av spesielle utgifter, slik som briller, tannregulering eller konfirmasjon for barnet, kan du søke om bidrag til særlige utgifter.
+Foreldre skal bidra økonomisk til barna sine, også når dere ikke bor sammen. Når dere bor hver for dere, må dere bli enige om barnebidrag og andre økonomiske løsninger rundt barnet.
 
-Hvis du må være borte fra jobb fordi barnet ditt for eksempel har fått omgangssyke, har du rett til å bruke omsorgsdager (kjent som «hjemme med sykt barn-dager).
+Hvis en forelder ikke betaler et avtalt barnebidrag, eller barnet bare har én forelder, kan du ha rett til et bidragsforskudd fra Nav.
 
-Hvis du pleier et sykt barn eller et annet familiemedlem, kan du ha rett til andre stønader. Du kan også få omsorgsopptjening. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
 
-Om kontantstøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
+#### Utgifter som ikke er dekket av barnebidraget
 
-Du kan se etter ledige jobber og registrere CV-en din på arbeidsplassen.no (Nav).
+Særbidrag skal dekke ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
-Registrer deg først som arbeidssøker på nav.no. Vi vurderer behovet ditt for veiledning og hjelp etter at du har registrert deg som arbeidssøker.
+Som foreldre må dere bli enige om hvordan dere skal fordele reisekostnader i forbindelse med samvær.
 
-Du kan ha rett til redusert foreldrebetaling for barnehageplassen hvis inntekten din er under kommunens grense. Noen kommuner har lignende ordninger for foreldrebetaling av SFO-plass. Du kan kontakte kommunen din for å få mer informasjon.
+Hvis muligheten din til å jobbe og tjene egne penger har blitt dårligere på grunn av  arbeidsfordelingen i ekteskapet eller omsorg for felles barn, kan den andre ektefellen bli pålagt å betale deg bidrag.
 
-Har du problemer med å betale nødvendige utgifter? Du kan søke om økonomisk sosialhjelp til å betale levekostnader. Det kan for eksempel være utgifter til mat, bolig, tannlege, briller, klær eller fritidsaktiviteter.
-
-Du kan også søke om støtte til spesielle utgifter, slik som konfirmasjon. Vi legger særlig vekt på barn og unges behov.
-
-Vi kan også gi råd og veiledning om økonomien din. Målet med rådgivningen er at du skal bli i stand til å styre økonomien din selv. Tjenesten er gratis.
-
-Du har rett til opplysning, råd og veiledning fra Nav. Du må vanligvis selv ta kontakt med Nav-kontoret ditt. Da vil Nav-kontoret tilby deg en samtale.
-
-Nav skal finne et midlertidig botilbud til deg i akutte situasjoner hvis du ikke klarer dette selv. Slike nødssituasjoner kan være ved brann, familie- eller samlivsbrudd eller hvis du har blitt kastet ut fra stedet du bodde.
-
-Oppdatert 11.02.2026
+Oppdatert 21.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -99,7 +99,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -108,3 +108,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)
