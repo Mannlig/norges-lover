@@ -1,11 +1,11 @@
-<!-- innholds-hash: 86f76ea7a178047a0eab3ab8b87d9a41cd335564c7996462e22a66c337822ae9 -->
+<!-- innholds-hash: 85b40f2524d75525189c05709ef08de7be2c8deaef369367bdfd1c6031ed5d5f -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding
-- **Sist hentet:** 2026-05-15T15:23:24Z
+- **Sist hentet:** 2026-05-22T09:47:04Z
 
 ## Innhold
 
@@ -42,7 +42,9 @@ Inntektsmeldingen sendes digitalt. Denne kan tidligst sendes inn fire uker før 
 
 Les mer om
 
-Dette skjemaet bruker arbeidsgiver til å søke om refusjon for utbetalt lønn ved bruk av omsorgsdager.
+Refusjonskrav for omsorgspenger bruker du til å søke om refusjon for utbetalt lønn i forbindelse med omsorgsdager (hjemme med sykt barn-dager).
+
+Du søker refusjon for utbetalt lønn etterskuddsvis. Du kan ikke søke om refusjon frem i tid. Frist for å kreve refusjon er tre måneder tilbake i tid.
 
 Hvis du ikke har utbetalt omsorgspenger, og den ansatte søker om utbetaling direkte fra Nav, vil du får et varsel om å sende inntektsmelding på Min side - arbeidsgiver.
 
@@ -60,15 +62,11 @@ Hvis du ikke sender inntektsmeldingen i tide, kan utbetalingen fra Nav til den a
 
 Den viktigste forskjellen på inntektsmelding og a-melding er at inntektsmeldingen spør om flere opplysninger i saken. For eksempel fraværsperioder, om arbeidsgiveren skal ha refusjon, og opplysninger om arbeidsgiverperiode for sykepenger.
 
-For å sende inntektsmelding, må du eller lønns- og personalsystemet ditt ha en av disse tilgangene i Altinn:
+For å sende inntektsmelding, må du ha en av disse tilgangene i Altinn:
 
-- Ansvarlig revisor
-- Lønn og personalmedarbeider
 - Regnskapsfører lønn
 - Regnskapsfører med signeringsrettighet
 - Regnskapsfører uten signeringsrettighet
-- Revisormedarbeider
-- Kontaktperson NUF
 På altinn.no
 
 
@@ -94,15 +92,11 @@ Hvert enkelt arbeidsforhold har en egen arbeidsforholdsID som gjør det mulig å
 
 ArbeidsforholdsID er ikke det samme som organisasjonsnummer eller virksomhetsnummer. Hvis du bruker et lønns- eller personalsystem, finner du vanligvis arbeidsforholdsID for det enkelte arbeidsforhold i dette systemet.
 
-Du finner nummeret i a-ordningen. Bruker du et lønns- eller personalsystem, vil arbeidsforholdsID normalt genereres når du oppretter et nytt arbeidsforhold.
-
 Antall arbeidsforhold er det samme antallet som er rapportert inn til a-ordningen via den månedlige a-meldingen. Les mer om
 
 For å gi nye opplysninger eller endre på opplysningene i en inntektsmelding som allerede er sendt inn, må arbeidsgiveren sende en endret inntektsmelding. De opplysningene som er gitt i den forrige inntektsmeldingen som fortsatt gjelder, må også tas med når endringene sendes inn.
 
-Hvis arbeidsgiveren bruker Altinn, kan du hente den sist innsendte inntektsmeldingen fra arkivet.
-
-Du kan lage en kopi av den forrige inntektsmeldingen med funksjonen «Lag ny kopi» og bruke denne til å legge inn nye opplysninger og/eller endre på opplysningene. Ved å bruke kopien som utgangspunkt, slipper du å fylle inn de opplysningene som ikke skal endres på nytt.
+Hvis arbeidsgiveren har brukt Min side - arbeidsgiver for å sende inntektsmelding, kan du se og endre tidligere innsendte inntektsmeldinger der.
 
 Sjekk hva som er
 
@@ -165,10 +159,6 @@ For barn født fra og med 1. oktober 2021, gjelder:
 - Beregningen skjer ikke lenger på den andre forelderens siste uttaksdag. Nå er det første uttaksdag som skal oppgis som startdato i inntektsmeldingen.
 Inntektsmeldingen skal sendes inn 4 uker før arbeidstakeren skal ha uttak av foreldrepenger. Det samme gjelder dersom arbeidstakeren er far eller medmor.
 
-Hvis far eller medmor ikke skal starte foreldrepengeperioden sin rett etter den andre forelderen, må arbeidstakeren søke om utsettelse fra og med den første dagen etter den andre forelderens periode. Da er det denne datoen du skal oppgi som startdato for foreldrepengeperioden i inntektsmeldingen. Det betyr at inntektsmeldingen fra arbeidsgiveren skal sendes 4 uker før enten far eller medmor starter sitt uttak, eller når de starter med utsettelse. Dette vil alltid være 4 uker før den andre forelderens siste stønadsdag.
-
-Det er ikke nødvendig å søke om utsettelse hvis far eller medmor ikke skal starte foreldrepengeperioden sin rett etter den andre forelderen. Foreldrepengene kan tas ut fritt innen barnet fyller 3 år. Det betyr at inntektsmeldingen skal sendes 4 uker før far eller medmor starter sitt første uttak. Det er første uttaksdag du skal oppgi som startdato for foreldrepengeperioden i inntektsmeldingen.
-
 Arbeidsgiver må sende refusjonskrav når:
 
 - dere søker refusjon for utbetalte omsorgsdager
@@ -184,12 +174,11 @@ Hvis fraværet går over to kalenderår, må dere sende et refusjonskrav per kal
 
 Inntektsmeldingen er delt:
 
-- Du merker inntektsmeldingen med ytelsen Pleiepenger sykt barn.
-- Du merker inntektsmeldingen med ytelsen Pleiepenger i livets sluttfase.
+- Inntektsmeldingen er merket med ytelsen Pleiepenger sykt barn.
+- Inntektsmeldingen er merket med ytelsen Pleiepenger i livets sluttfase.
 
 #### Endre inntektsmeldingen – første fraværsdag
 
-- Hvis du skal endre en allerede innsendt inntektsmelding, er det viktig å bruke første fraværsdag.
 - Hvis det er endringer i en løpende sak, må første fraværsdag være samme dag som på den første inntektsmeldingen.
 - Er det endringer i en løpende sak, men med opphold i pleiepengeperioden, skal første fraværsdag være den nye fraværsdagen etter oppholdet.
 Eksempler:
@@ -208,18 +197,22 @@ Her skal arbeidsgiveren sende én samlet inntektsmelding for begge inntektstypen
 
 Eksempel: En ansatt på et pleiehjem har to ulike stillinger: en stilling som pleiemedarbeider og en stilling som renholder. Den ansatte har to kontrakter i den samme virksomheten.
 
-Her skal arbeidsgiveren sende inn to inntektsmeldinger, én for hvert arbeidsforhold. ArbeidsforholdsID skal oppgis for begge arbeidsforholdene.
 
+#### Inntektsmelding sendt via Min side - arbeidsgiver
 
-#### Unntak: inntektsmelding for foreldrepenger i Altinn
+Når du sender inntektsmelding via Min side - arbeidsgiver, skal du sende kun én inntektsmelding for arbeidstakere som har flere arbeidsforhold i den samme virksomheten. Du skal ikke oppgi arbeidsforholdsID.
 
-Når du sender inntektsmelding for foreldrepenger gjennom Altinn, skal du sende kun én inntektsmelding for arbeidstakere som har flere arbeidsforhold i den samme virksomheten. Du skal ikke oppgi arbeidsforholdsID.
+Sendes inntektsmeldingen via eget lønns- og personalsystem kan arbeidsgiveren frem til 15. juni 2026 sende inn to inntektsmeldinger, én for hvert arbeidsforhold. ArbeidsforholdsID skal oppgis for begge arbeidsforholdene.
 
 Arbeidsgiveren skal sende inn to eller flere inntektsmeldinger, ett for hvert arbeidsforhold.
 
 Arbeidsgivere som sender inn
 
 Det er ikke mulig for ansatt å sende digital sykmelding til en privatperson som er arbeidsgiver. Her må dere som arbeidsgiver få
+
+Arbeid i hjemmet kan også utføres som oppdrag med en oppdragsavtale. Sykemeldte vil da anses som frilanser og må selv sende inn inntektsmelding.
+
+For foreldrepenger, svangerskapspenger, pleiepenger, opplæringspenger og omsorgspenger skal det fra 21. mai 2026 ikke sendes inn inntektsmelding ved lønnet arbeid i egen bolig eller fritidseiendom.
 
 Arbeidsinntekten som er oppgitt i inntektsmeldingen, er utgangspunktet når månedsinntekten blir beregnet.
 
@@ -382,26 +375,10 @@ Den ansatte får en løpende ytelse/pengestøtte fra Nav når overgangen skjer,
 - Send meldingen så snart det er avklart refusjon i den virksomheten skal opphøre, og senest innen 5. i måneden etter.
 - Send inntektsmelding på det nye virksomhetsnummeret samtidig som du melder inn arbeidsforholdet i a-meldingen.
 - For å sikre refusjon i det nye arbeidsforholdet, må du melde inn arbeidsforholdet og sende den nye inntektsmeldingen senest den 5. i den måneden den ansatte overføres.
-- Hvis den ansatte bytter arbeidsforhold i samme virksomhet: Husk å oppgi ny arbeidsforholdsID. Du finner nummeret i a-ordningen. Bruker du et lønns- eller personalsystem, vil arbeidsforholdsID normalt genereres når du oppretter et nytt arbeidsforhold.
-
-#### Hvis arbeidsgiveren bruker Altinn
-
-Hvis virksomhetens eget lønns- og personalsystem (LPS) ikke kan sende inn inntektsmeldinger slik som beskrevet nedenfor, kan arbeidsgiveren bruke Altinn.no. I Altinn kan du hente opp en kopi av den siste inntektsmeldingen du har sendt til Nav og bare registrere endringene. Det er en såkalt endringsmelding.
-
 I eksemplene under vil tidligere virksomhet bli kalt «virksomhet A», mens ny virksomhet vil bli kalt «virksomhet B».
 
-- «Beregnet månedslønn»
-- Oppgi beregnet månedslønn
-- «Utbetaler arbeidsgiveren lønn under hele eller deler av fraværet, og krever dere refusjon?»
-- Velg Ja
-- «Oppgi refusjonsbeløpet per måned»
-- Oppgi refusjonsbeløpet
-- «Opphører refusjonskravet i perioden?»
-- Velg Ja
-- «Oppgi den siste dagen du krever refusjon for»
-- Oppgi datoen
 
-#### Eksempler på utfylling i Altinn for:
+#### Eksempler på utfylling for:
 
 - Virksomhetsnummer: for virksomhet A
 - Beregnet månedslønn: som i den opprinnelige inntektsmeldingen fra virksomhet A for det løpende sykefraværet
@@ -453,11 +430,9 @@ Inntektsmelding fra virksomhet B:
 - Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
 - Startdato for foreldrepengeperioden: startdato for arbeidstakerens arbeidsforhold i virksomhet B
 - Refusjonsbeløp per måned: ønsket refusjonsbeløp
-- Hvis virksomhet A har sendt inn inntektsmelding for perioder eller dager etter at arbeidsforholdet er blitt overført til virksomhet B, må virksomhet A korrigere dette ved å sende inn endret inntektsmelding.
-- For dager virksomhet A ikke skal kreve refusjon for likevel:
-- Legg inn dato under delvis fravær.
-- Sett fraværet til 0 timer.
-- Virksomhet B sender inn inntektsmelding som vanlig for perioder eller dager etter at arbeidsforholdet er overført til virksomhet B fra virksomhet A.
+- Hvis virksomhet A har sendt inn refusjonskrav for perioder eller dager etter at arbeidsforholdet er blitt overført til virksomhet B, må virksomhet A korrigere dette ved å sende inn nytt refusjonskrav for omsorgspenger.
+- For dager virksomhet A ikke skal kreve refusjon for likevel legges det inn i feltet "Dager dere ønsker å trekke".
+- Virksomhet B sender inn refusjonskrav som vanlig for perioder eller dager etter at arbeidsforholdet er overført til virksomhet B fra virksomhet A.
 - Virksomhetsnummer: for virksomhet A
 - Beregnet månedslønn: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Første fraværsdag: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
@@ -476,12 +451,12 @@ Inntektsmelding fra virksomhet B:
 - Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
 - Første fraværsdag: startdato for arbeidstakerens arbeidsforhold i virksomhet B
 - Nytt refusjonsbeløp: ønsket refusjonsbeløp
-Oppdatert 04.05.2026
+Oppdatert 21.05.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Chat
@@ -497,3 +472,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3a279e8da16d9d2fed4a0b82e84ec6a16f080f3eae9904e1d517cbbc8b5797a4 -->
+<!-- innholds-hash: 04bd15dda85826da8c0f8014b7c2502fd1e978816246ea2319e8cb7a2eb873e4 -->
 
 # Forsikring – sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forsikring-sykepenger
-- **Sist hentet:** 2026-05-15T15:26:54Z
+- **Sist hentet:** 2026-05-22T09:51:53Z
 
 ## Innhold
 
@@ -46,7 +46,7 @@ Du kan få 100 prosent dekning av sykepengegrunnlaget fra 1.–16. sykefraværsd
 
 Hvis du får innvilget forsikring, blir faktura sendt via altinn.no. Du kan også tegne E-faktura. Du finner mer informasjon om E-faktura på side 2 på fakturaen din.
 
-Maksimalt sykepenge- og premiegrunnlag er 780 960 kroner (6 ganger folketrygdens grunnbeløp).
+Maksimalt sykepenge- og premiegrunnlag er 819 294 kroner (6 ganger folketrygdens grunnbeløp).
 
 Det er viktig å være klar over at sykepengegrunnlaget ikke nødvendigvis er det samme som premiegrunnlaget. Det betyr at Nav kan regne ut at du skal ha et sykepengegrunnlag som er lavere eller høyere enn premiegrunnlaget du har forsikret deg for.
 
@@ -152,7 +152,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -162,7 +162,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 ---
@@ -171,3 +171,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4971ba3f4b55d3763e2fb6d8506c873666733d22194ca01cc3b026cbffb407e3 -->
+<!-- innholds-hash: 1b1f8741aedfa58f2ab360e566f0996ccc0ee9b5dbea273660c6aa0364e5d9d2 -->
 
 # Sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger
-- **Sist hentet:** 2026-05-15T15:19:56Z
+- **Sist hentet:** 2026-05-22T09:42:20Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Får du
 
 Se hvilke regler som gjelder for deg:
 
-For å ha rett til sykepenger fra Nav må du ha jobbet minst fire uker rett før du ble sykmeldt. Du må også ha en årsinntekt som tilsvarer femti prosent av grunnbeløpet i folketrygden, det vil si 65 080 kroner. For å beregne årsinntekten din bruker Nav gjennomsnittet av de tre siste månedene.
+For å ha rett til sykepenger fra Nav må du ha jobbet minst fire uker rett før du ble sykmeldt. Du må også ha en årsinntekt som tilsvarer femti prosent av grunnbeløpet i folketrygden, det vil si 68 274,5 kroner. For å beregne årsinntekten din bruker Nav gjennomsnittet av de tre siste månedene.
 
 Det samme gjelder hvis du kombinerer arbeid med uføretrygd.
 
@@ -65,7 +65,7 @@ Sykepenger for arbeidstakere på skip beregnes i hovedsak på samme måte som fo
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -83,7 +83,7 @@ Hvis du er syk lenger enn egenmeldingsdagene, må du kontakte lege.
 
 Du har rett til sykepenger fra dag 17 av sykefraværet ditt, og du må ha jobbet i minst fire uker rett før du ble sykmeldt.
 
-Gjennomsnittet av årsinntekten din fastsatt for de 3 siste årene må være minst 65 080 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
+Gjennomsnittet av årsinntekten din fastsatt for de 3 siste årene må være minst 68 274,5 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
 
 Det samme gjelder hvis du kombinerer arbeid med uføretrygd.
 
@@ -97,7 +97,7 @@ Du regnes som reindriftsutøver når du ifølge
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -110,14 +110,14 @@ Hvis du har tegnet
 
 Du har rett til sykepenger fra dag 17 av sykefraværet ditt.
 
-Inntekten din må være minst 65 080 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
+Inntekten din må være minst 68 274,5 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
 
 Det samme gjelder hvis du kombinerer arbeid med uføretrygd.
 
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -139,7 +139,7 @@ Hvis du har hyre, regnes du som arbeidstaker.
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -151,7 +151,7 @@ Hvis du ikke har avtalt vakter med arbeidsgiveren din framover, har du vanligvis
 
 Hvis du er syk fra flere jobber, må du ha en sykmelding for hver av dem. Det gjelder også hvis du har flere stillinger hos samme arbeidsgiver. Sykepengene blir beregnet ut fra inntekten fra alle jobbene dine.
 
-For å få sykepenger fra Nav, må gjennomsnittet av den samlede inntekten din fra alle arbeidsforhold de tre siste månedene tilsvare en årsinntekt på minst 65 080 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
+For å få sykepenger fra Nav, må gjennomsnittet av den samlede inntekten din fra alle arbeidsforhold de tre siste månedene tilsvare en årsinntekt på minst 68 274,5 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
 
 Hvis du får
 
@@ -204,7 +204,7 @@ Hvis du har tegnet forsikring som
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -216,7 +216,7 @@ Hadde du vært ute av inntektsgivende arbeid i mindre enn en måned da du ble s
 
 - Du er fremdeles ute av inntektsgivende arbeid
 - Du har jobbet i mindre enn fire uker
-- Gjennomsnittet av årsinntekten din fastsatt for de 3 siste årene må minst tilsvare 130 160 (1G). Det vil si grunnbeløpet i folketrygden (1G).
+- Gjennomsnittet av årsinntekten din fastsatt for de 3 siste årene må minst tilsvare 136 549 (1G). Det vil si grunnbeløpet i folketrygden (1G).
 Perioder med disse ytelsene fra Nav regnes ikke som å være midlertidig ute av arbeid:
 
 - Sykepenger
@@ -227,7 +227,7 @@ Hvis du har ulønnet permisjon etter foreldrepengeperioden kan du ha rett til sy
 
 #### Hvis du er mellom 67 og 70 år
 
-Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 260 320 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
+Du kan få sykepenger fra Nav i opptil 60 dager hvis gjennomsnittet av inntekten din de siste 3 månedene før du ble syk omgjort til årsinntekt overstiger 273 098 kroner (2 ganger grunnbeløpet i folketrygden). Dette gjelder hvis du er mellom 67 og 70 år, uavhengig av om du har tatt ut alderspensjon.
 
 60-dagersregelen gjelder fra og med dagen etter du fylte 67 år og til og med dagen før du fyller 70 år. Hvis du har fylt 70 år, har du ikke rett til sykepenger.
 
@@ -360,7 +360,7 @@ Du har ikke rett til sykepenger når du sitter i varetekt, soner straff eller ha
 
 Du kan ha rett til sykepenger hvis du jobber for en arbeidsgiver utenfor fengselet mens du soner straff.
 
-Sykepengene skal dekke inntekten du vanligvis har, opp til 780 960 kroner (6 ganger folketrygdens grunnbeløp).
+Sykepengene skal dekke inntekten du vanligvis har, opp til 819 294 kroner (6 ganger folketrygdens grunnbeløp).
 
 Når Nav skal utbetale sykepenger, fastsetter vi et sykepengegrunnlag som sykepengene regnes ut etter. I noen saker må Nav bruke skjønn for å beregne sykepengegrunnlaget ditt, det vil si inntekten som Nav kommer fram til at du ville hatt om du ikke hadde blitt syk.
 
@@ -368,7 +368,7 @@ Inntekt fra overtid regnes ikke med i sykepengegrunnlaget.
 
 Hvis du starter i ny jobb eller får ny inntekt mens du er sykmeldt, vil sykepengene dine bli gradert.
 
-Arbeidsgiveren din utbetaler sykepengene for de første 16 dagene du er syk. Dette kalles arbeidsgiverperioden. Hvis du er sykmeldt lenger enn dette, er det Nav som utbetaler sykepengene. Nav utbetaler opp til 780 960 (6G) i sykepenger.
+Arbeidsgiveren din utbetaler sykepengene for de første 16 dagene du er syk. Dette kalles arbeidsgiverperioden. Hvis du er sykmeldt lenger enn dette, er det Nav som utbetaler sykepengene. Nav utbetaler opp til 819 294 (6G) i sykepenger.
 
 Sykepengene beregnes med utgangspunkt i lønnen din de siste tre månedene før du ble sykmeldt.
 
@@ -405,7 +405,7 @@ Hvis sykmeldingen din skyldes yrkesskade, og du har tegnet en egen yrkesskadefor
 
 Du har rett til sykepenger fra dag 17 av sykefraværet ditt, og du kan få sykepenger som tilsvarer 80 prosent av lønnen din.
 
-- Du kan ha en kollektiv forsikring som gir deg rett til syke­penger med full lønn opp til 780 960 (6G). Sjekk med Skatteetaten om du er omfattet av denne forsikringen.
+- Du kan ha en kollektiv forsikring som gir deg rett til syke­penger med full lønn opp til 819 294 (6G). Sjekk med Skatteetaten om du er omfattet av denne forsikringen.
 - Du kan i tillegg tegne individuell forsikring for jordbrukere og reindriftsutøvere som gir deg full lønn de 16 første sykefraværsdagene.
 Som frilanser har du rett til sykepenger fra 17. fraværsdag. Hvis du har tegnet
 
@@ -423,7 +423,7 @@ Hvis du er tilkallingsvikar er du normalt arbeidstaker, og det er disse reglene 
 
 Hvis du jobber som tilkallingsvikar i egen næringsvirksomhet eller som frilanser, beregnes sykepengene på samme måte som for øvrige næringsdrivende eller frilansere.
 
-Hvis du har flere jobber, blir sykepengene beregnet ut fra den samlede inntekten din, begrenset til 780 960 (6G). Dette gjelder selv om du ikke er sykmeldt fra alle jobbene/oppdragene.
+Hvis du har flere jobber, blir sykepengene beregnet ut fra den samlede inntekten din, begrenset til 819 294 (6G). Dette gjelder selv om du ikke er sykmeldt fra alle jobbene/oppdragene.
 
 Inntektstap og utbetaling:
 
@@ -440,14 +440,14 @@ Hvis du får dagpenger, vil du få sykepenger fra den første dagen du er sykmel
 
 Du vil som hovedregel ikke opparbeide deg en ny sykepengerett så lenge du mottar AAP.
 
-Hvis sykepengegrunnlaget ditt er mindre enn 260 320 kroner (2 ganger grunnbeløpet i folketrygden), kan du likevel velge mellom sykepenger og AAP.
+Hvis sykepengegrunnlaget ditt er mindre enn 273 098 kroner (2 ganger grunnbeløpet i folketrygden), kan du likevel velge mellom sykepenger og AAP.
 
 Hvis du er permittert og mottar dagpenger, vil du få sykepenger fra den første dagen du er sykmeldt. Du får det samme utbetalt per dag i sykepenger som du får utbetalt i dagpenger.
 
 Hvis du har avtjent militær eller sivil tjeneste, har du samme rett til sykepenger som arbeidstakere, men med følgende særbestemmelser:
 
 - Sykepengegrunnlaget beregnes på grunnlag av det arbeids – og inntektsforholdet du var i før du begynte i tjenesten.
-- Hvis tjenesten har vart, eller var ment å vare mer enn 28 dager, får du et minstegrunnlag som tilsvarer 260 320 (2G).
+- Hvis tjenesten har vart, eller var ment å vare mer enn 28 dager, får du et minstegrunnlag som tilsvarer 273 098 (2G).
 Du får sykepenger for måneden du er innlagt og de tre påfølgende månedene. Deretter blir sykepengene redusert med 50 prosent, men skal likevel ikke være lavere enn et sykepengegrunnlag på 50 prosent av grunnbeløpet.
 
 Hvis du fortsatt har faste og nødvendige utgifter til bolig eller forsørgingsansvar, kan du likevel få utbetalt sykepengene uten reduksjon.
@@ -983,7 +983,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -993,7 +993,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 ---
@@ -1002,3 +1002,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

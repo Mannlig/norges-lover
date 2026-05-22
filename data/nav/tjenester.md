@@ -1,11 +1,11 @@
-<!-- innholds-hash: c5e5f0f9abf576e9730bdab02f35ec1936e371ffde4b65e14eb6b1bfa882214f -->
+<!-- innholds-hash: 4b47c2162ff5a48ddd7077ddf50762808725e5905cd1d05f18260cb5d2d63f6f -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist hentet:** 2026-05-15T15:21:21Z
+- **Sist hentet:** 2026-05-22T09:44:25Z
 
 ## Innhold
 
@@ -331,7 +331,7 @@ Et tilbud når du har angst eller depresjon og trenger hjelp til å komme eller 
 
 Hjelper deg i hverdagen når du har fysiske funksjonsnedsettelser.
 
-Nav samarbeider med Sjøfartsdirektoratet for å utstede sjøfartsbøker ved utvalgte Nav-kontorer.
+Fra 19. mai blir sjøfartsboken erstattet av sjøfartskort. Du søker om sjøfartskort fra Sjøfartsdirektoratet.
 
 Nære familiemedlemmer til Nav-ansatte blir ikke automatisk skjermet i saksbehandlingssystemene til Nav, men kan skjermes hvis det er ønskelig.
 
@@ -486,3 +486,4 @@ Alle som har fått utbetalinger fra Nav får årsoppgave på starten av året.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

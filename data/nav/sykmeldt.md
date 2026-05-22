@@ -1,11 +1,11 @@
-<!-- innholds-hash: b48f3db2271757a33be2f8eb281b8a3c9a3ddfe5bcf41c39a92b464baafc7202 -->
+<!-- innholds-hash: a6ff7f25ce209f9a2d75ad5f74041545444a704114c595548189dc48f64b729f -->
 
 # Har blitt sykmeldt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykmeldt
-- **Sist hentet:** 2026-05-15T15:39:37Z
+- **Sist hentet:** 2026-05-22T10:09:28Z
 
 ## Innhold
 
@@ -117,7 +117,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -127,7 +127,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 ---
@@ -136,3 +136,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)

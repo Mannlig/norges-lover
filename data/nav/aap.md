@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8ac443be9a34ccf200142866899761a86cac9a716fa226fffb4b75e2d90cff42 -->
+<!-- innholds-hash: ac01e0f9c155319bed03a0d38a579fc2cf88685322cf4cbfcfc6a38db5c0aa63 -->
 
 # Arbeidsavklarings­penger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/aap
-- **Sist hentet:** 2026-05-15T15:22:24Z
+- **Sist hentet:** 2026-05-22T09:45:43Z
 
 ## Innhold
 
@@ -46,7 +46,7 @@ Dette gjelder om du er arbeidstaker, selvstendig næringsdrivende eller arbeidsl
 
 Hvis du allerede har fått innvilget AAP, og har en deltidsstilling som du blir sykmeldt fra, kan du ha rett til å kombinere sykepenger med din AAP.
 
-Hvis sykepengegrunnlaget ditt er mindre enn 260 320 kroner (2 ganger grunnbeløpet i folketrygden) kan du likevel velge mellom sykepenger og AAP.
+Hvis sykepengegrunnlaget ditt er mindre enn 273 098 kroner (2 ganger grunnbeløpet i folketrygden) kan du likevel velge mellom sykepenger og AAP.
 
 Hvis du har søkt om uføretrygd, kan du få AAP i inntil 8 måneder mens du venter på svar. Du må ha avtalt med veilederen din at du skal søke om uføretrygd.
 
@@ -56,7 +56,7 @@ Skyldes den nedsatte arbeidsevnen en godkjent yrkesskade eller yrkessykdom, er d
 
 For deg som har yrkesskade eller yrkessykdom som er godkjent av Nav, holder det at du er
 
-Hvis du er mellom 62 og 67 år når du søker, må du som hovedregel ha hatt 130 160 kroner i pensjonsgivende inntekt året før du fikk nedsatt arbeidsevnen. Det tilsvarer grunnbeløpet i folketrygden. Nav kan gjøre unntak.
+Hvis du er mellom 62 og 67 år når du søker, må du som hovedregel ha hatt 136 549 kroner i pensjonsgivende inntekt året før du fikk nedsatt arbeidsevnen. Det tilsvarer grunnbeløpet i folketrygden. Nav kan gjøre unntak.
 
 Det finnes to unntak fra hovedregelen om 5 års medlemskap i folketrygden. Disse gjelder hvis du har vært medlem i minst 1 år sammenhengende før du søker om AAP.
 
@@ -133,7 +133,7 @@ Se video: Hva er AAP?
 
 Varighet er 2,5 min
 
-- Du kan få 66 prosent av inntekten din inntil 6G, det tilsvarer 515 434 kroner.
+- Du kan få 66 prosent av inntekten din inntil 6G, det tilsvarer 540 734 kroner.
 - AAP beregnes ut fra den pensjonsgivende inntekten du hadde året før arbeidsevnen din ble nedsatt med minst 50 prosent.
 Summen vi beregner oss frem til blir delt på 260 (antall arbeidsdager i året), og dette blir dagsatsen din.
 
@@ -159,14 +159,14 @@ For de fleste er dette inntekten det siste kalenderåret før du ble sykmeldt. V
 eller
 
 - gjennomsnittet av inntekten din de tre siste årene før du ble sykmeldt og arbeidsevnen din ble nedsatt med minst 50 prosent.
-Merk at årsinntekt over 780 960 kroner ikke tas med i beregningen av AAP. Det tilsvarer 6 ganger grunnbeløpet i folketrygden (6G).
+Merk at årsinntekt over 819 294 kroner ikke tas med i beregningen av AAP. Det tilsvarer 6 ganger grunnbeløpet i folketrygden (6G).
 
 Hvis du har hatt liten eller ingen inntekt før arbeidsevnen din ble nedsatt med minst 50 prosent, vil du likevel kunne få en minste årlig ytelse. Dette kaller vi for minstesats.
 
 Hvor mye du får i minstesats avhenger av alderen din:
 
-- Hvis du er 25 år eller eldre, er minstesatsen 265 657  kroner i året. Det vil si 2,041 ganger grunnbeløpet i folketrygden.
-- Hvis du er yngre enn 25 år, er minstesatsen 177 104 kroner i året. Det vil si 2/3 av 2,041G (grunnbeløpet i folketrygden). Fra og med den dagen du fyller 25 år blir ytelsen oppjustert til 265 657 kroner. Det vil si 2,041 ganger grunnbeløpet i folketrygden.
+- Hvis du er 25 år eller eldre, er minstesatsen 278 697  kroner i året. Det vil si 2,041 ganger grunnbeløpet i folketrygden.
+- Hvis du er yngre enn 25 år, er minstesatsen 185 798 kroner i året. Det vil si 2/3 av 2,041G (grunnbeløpet i folketrygden). Fra og med den dagen du fyller 25 år blir ytelsen oppjustert til 278 697 kroner. Det vil si 2,041 ganger grunnbeløpet i folketrygden.
 Hvis du har en inntekt som gir deg et lavere beregningsgrunnlag enn minstesatsen, øker vi beregningsgrunnlaget til minstesatsen.
 
 Vi deler beregningsgrunnlaget ditt på 260 (antall arbeidsdager i året). Dette er dagsatsen din.
@@ -637,7 +637,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -647,7 +647,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Åpent nå
 
 
 ---
@@ -656,3 +656,4 @@ Stengt nå, åpner mandag kl. 9
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-05-22** Innhold endret (se git-historikk for diff)
