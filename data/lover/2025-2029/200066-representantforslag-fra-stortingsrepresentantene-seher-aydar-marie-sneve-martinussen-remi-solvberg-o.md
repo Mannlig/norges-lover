@@ -1,4 +1,4 @@
-<!-- innholds-hash: 283a6d9d106b0cc17fae419a689efd1d210f1963e792827c965d002dd4ee58a4 -->
+<!-- innholds-hash: 064ac76d4c83666b492479b92142de6af47be76573a47c63944cbcee43e32c8f -->
 
 # Representantforslag fra stortingsrepresentantene Seher Aydar, Marie Sneve Martinussen, Remi Sølvberg og Hege Bae Nyholt om å reservere anbud for ideelle aktører
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T17:20:05Z
+- **Sist hentet:** 2026-05-23T03:32:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200066
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779469588481+0200)/",
+  "respons_dato_tid": "/Date(1779505251424+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -62,14 +62,14 @@
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -87,14 +87,14 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -112,14 +112,14 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -137,14 +137,14 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -158,7 +158,7 @@
   "innstilling_id": 17300,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779469347883+0200)/",
+    "respons_dato_tid": "/Date(1779505228120+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200066,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505251424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -176,14 +176,14 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -223,3 +223,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)

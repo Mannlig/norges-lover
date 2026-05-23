@@ -1,4 +1,4 @@
-<!-- innholds-hash: d346d16acd1c159e9f2d4288f36306e773e0ab8a48713e28120417d77749b106 -->
+<!-- innholds-hash: b221525875e69f0fc50352309d52387abaabd57a4ded6688a0df6cc3e60297be -->
 
 # Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T17:20:04Z
+- **Sist hentet:** 2026-05-23T03:32:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200318
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779469588481+0200)/",
+  "respons_dato_tid": "/Date(1779505250502+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 163,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250502+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -57,7 +57,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779469347883+0200)/",
+    "respons_dato_tid": "/Date(1779505228120+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -86,3 +86,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 938da5b77b41bbe53d4c610ce1584e112ea27c37494312d96704304a7697de28 -->
+<!-- innholds-hash: a8f7eaa71dab72515f05197009c6f8b79e00293bc570b449e602c6ee777edeb7 -->
 
 # Varig tilrettelagt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-tilrettelagt-arbeid
-- **Sist hentet:** 2026-05-16T04:30:56Z
+- **Sist hentet:** 2026-05-23T06:34:39Z
 
 ## Innhold
 
@@ -55,7 +55,7 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Når du deltar i et varig tilrettelagt tiltak, beholder du uføretrygden din. Arbeidsgiveren kan betale deg en bonuslønn som du får i tillegg til uføretrygden, men det er ikke et krav. Bonuslønnen kan være inntil 130 160 kroner i året, som tilsvarer grunnbeløpet i folketrygden.
+Når du deltar i et varig tilrettelagt tiltak, beholder du uføretrygden din. Arbeidsgiveren kan betale deg en bonuslønn som du får i tillegg til uføretrygden, men det er ikke et krav. Bonuslønnen kan være inntil 136 549 kroner i året, som tilsvarer grunnbeløpet i folketrygden.
 
 Arbeidstiden skal tilpasses dine forutsetninger og skal stå i arbeidsavtalen.
 
@@ -70,11 +70,11 @@ Oppdatert 14.04.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -84,7 +84,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -93,3 +93,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

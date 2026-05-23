@@ -1,4 +1,4 @@
-<!-- innholds-hash: 618b0314e21128847a6adf651b54f91c8dde6d3feba0245e486bad484a41647a -->
+<!-- innholds-hash: 5a9bc3af2ef93d25ab79522c73988bf8e47a6a42434fcbfe0fdf34e1f954a867 -->
 
 # Representantforslag fra stortingsrepresentantene Aleksander Stokkebø, Kari Sofie Bjørnsen, Amalie Gunnufsen, Erlend Svardal Bøe, Haagen Poppe og Ove Trellevik om raskere utbygging og bedre utnyttelse av kraftnettet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T17:20:04Z
+- **Sist hentet:** 2026-05-23T03:32:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200080
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779469588481+0200)/",
+  "respons_dato_tid": "/Date(1779505250268+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250283+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250283+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -53,14 +53,14 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -78,14 +78,14 @@
       "id": "AMAGUN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -103,14 +103,14 @@
       "id": "ERLBE1",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -128,14 +128,14 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -153,14 +153,14 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250283+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -178,14 +178,14 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -199,7 +199,7 @@
   "innstilling_id": 17339,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779469347883+0200)/",
+    "respons_dato_tid": "/Date(1779505228120+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200080,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250268+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vereide",
@@ -217,14 +217,14 @@
       "id": "TVER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -253,3 +253,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)

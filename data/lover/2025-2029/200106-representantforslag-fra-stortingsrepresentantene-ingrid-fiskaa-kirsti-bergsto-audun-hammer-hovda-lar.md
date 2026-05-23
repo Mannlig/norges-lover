@@ -1,4 +1,4 @@
-<!-- innholds-hash: 335fbd095d0e5fae2de37c6d4865c00ba1d026b021f3f9a3eba8040073cddd07 -->
+<!-- innholds-hash: 2e960c3e01b3c1d635bad0fe6d85ff187038d36fd3b864b68d20a81139a4f2e9 -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Fiskaa, Kirsti Bergstø, Audun Hammer Hovda, Lars Haltbrekken, Marthe Hammer og Marian Hussein om å bygge infrastruktur for transport og lagring av CO2 - Kortskip
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T17:20:04Z
+- **Sist hentet:** 2026-05-23T03:32:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200106
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779469588481+0200)/",
+  "respons_dato_tid": "/Date(1779505250393+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -53,14 +53,14 @@
       "id": "AUDHOV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -78,14 +78,14 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -103,14 +103,14 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -128,14 +128,14 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -153,14 +153,14 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -178,14 +178,14 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -199,7 +199,7 @@
   "innstilling_id": 17366,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779469347883+0200)/",
+    "respons_dato_tid": "/Date(1779505228120+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200106,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779469588481+0200)/",
+      "respons_dato_tid": "/Date(1779505250393+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -217,14 +217,14 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779457906802+0200)/",
+        "respons_dato_tid": "/Date(1779490816283+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
+        "respons_dato_tid": "/Date(1779490815423+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -246,3 +246,4 @@
 
 - **2026-05-22** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 22256d34267a9c8a4063a9d7eef82136e231b3c606e9736562c141c03e0f1d34 -->
+<!-- innholds-hash: ba8e029fb37d8915476064644905a9cd1aeb41d1f10a1ae05668868206bdbc77 -->
 
 # Har uføretrygd og skal ta ut pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ufor-til-pensjon
-- **Sist hentet:** 2026-05-16T04:29:22Z
+- **Sist hentet:** 2026-05-23T06:32:25Z
 
 ## Innhold
 
@@ -171,7 +171,7 @@ Dette må du gi beskjed om for at Nav skal kunne beregne pensjonen
 - hvis bodd/jobbet i utlandet - hvor mange år, og hvilke(t) land
 - sivilstatus
 - ektefelle/ partner/ samboer har egen pensjon - ja/nei
-- ektefelle/ partner/ samboer har egen inntekt over 2 G (260 320 kroner i året) - ja/nei
+- ektefelle/ partner/ samboer har egen inntekt over 2 G (273 098 kroner i året) - ja/nei
 - Telefonnummer ditt
 Hvis saken din må behandles manuelt, er behandlingstiden vanligvis 4-6 uker. Du får melding fra oss når beregningen er klar.
 
@@ -200,7 +200,7 @@ Dette må du gi beskjed om for at Nav skal kunne beregne pensjonen
 - hvis bodd/jobbet i utlandet - hvor mange år, og hvilke(t) land
 - sivilstatus
 - ektefelle/ partner/ samboer har egen pensjon - ja/nei
-- ektefelle/ partner/ samboer har egen inntekt over 2 G (260 320 kroner i året) - ja/nei
+- ektefelle/ partner/ samboer har egen inntekt over 2 G (273 098 kroner i året) - ja/nei
 - Telefonnummer ditt
 Hvis saken din må behandles manuelt, er behandlingstiden vanligvis 4-6 uker. Du får melding fra oss når beregningen er klar.
 
@@ -233,7 +233,7 @@ For å få riktig utbetalt alderspensjon, må du melde fra om endringer i livssi
 
 #### Meld fra hvis
 
-- ektefellens, samboerens eller partnerens inntekt endrer seg fra over 2 G (260 320 kroner) til under 2 G.
+- ektefellens, samboerens eller partnerens inntekt endrer seg fra over 2 G (273 098 kroner) til under 2 G.
 - du planlegger opphold i utlandet
 
 #### Sjekke eller endre kontonummer
@@ -254,11 +254,11 @@ Oppdatert 09.12.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -268,7 +268,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -277,3 +277,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

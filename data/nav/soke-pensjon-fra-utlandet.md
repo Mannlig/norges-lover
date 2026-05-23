@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6a83ce53f07ccd9b412fa26f0a0bbff7dec44cb9a8d4c94661f0823e1bf85165 -->
+<!-- innholds-hash: 38964e2ea8e55da962fcfa23f02caa9d06f80e591182c83bd93717ae9b880518 -->
 
 # Bor i Norge – søker pensjon fra utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soke-pensjon-fra-utlandet
-- **Sist hentet:** 2026-05-16T04:41:20Z
+- **Sist hentet:** 2026-05-23T06:49:21Z
 
 ## Innhold
 
@@ -83,11 +83,11 @@ Oppdatert 05.12.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -106,3 +106,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

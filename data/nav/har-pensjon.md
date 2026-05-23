@@ -1,11 +1,11 @@
-<!-- innholds-hash: 421919c5f5b69f000dfeaa9de97e6a65fd9c8e4116e9b6c8dcbda3fe141d1fc9 -->
+<!-- innholds-hash: 8adb548d09921922b542d56ae914515f3703f01caa3feca0e727fd85dd34547c -->
 
 # Har pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-pensjon
-- **Sist hentet:** 2026-05-16T04:33:54Z
+- **Sist hentet:** 2026-05-23T06:38:46Z
 
 ## Innhold
 
@@ -24,11 +24,9 @@ Om pensjonen din, utbetalinger, brev og meldinger fra Nav. Du kan også søke om
 
 Logg inn for å endre pensjonen din og se brev og beregninger:
 
-Årets trygdeoppgjør og satser for reguleringen blir fastsatt i Stortinget mot slutten av mai.
+Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten. Alderspensjonen øker med 4,69 prosent fra 1. mai 2026.
 
-Nav har ingen informasjon om nye satser før dette.
-
-Pensjonene blir utbetalt med nytt beløp i juni måned for de aller fleste. Da blir det også etterbetalt økning fra mai måned.
+Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
 Logg inn for å se utbetalingene dine:
 
@@ -166,7 +164,7 @@ På Din pensjon finner du
 
 Hvis du jobber, kan du ha rett til sykepenger selv om du har tatt ut alderspensjon og AFP privat.
 
-Er du mellom 67 og 70 år, kan du ha rett til sykepenger i opptil 60 dager hvis inntekten er høyere enn 260 320 (to ganger grunnbeløpet i folketrygden).
+Er du mellom 67 og 70 år, kan du ha rett til sykepenger i opptil 60 dager hvis inntekten er høyere enn 273 098 (to ganger grunnbeløpet i folketrygden).
 
 60-dagersregelen gjelder fra og med dagen etter at du fylte 67 år og til og med dagen før du fyller 70 år.
 
@@ -266,16 +264,16 @@ Her finner du informasjon om pensjonsordningene Nav administrerer.
 
 Hvis du har pensjon fra andre pensjonsordninger, finner du informasjon hos pensjonsleverandøren din.
 
-Oppdatert 12.05.2026
+Oppdatert 22.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -285,7 +283,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -294,3 +292,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

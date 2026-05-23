@@ -1,11 +1,11 @@
-<!-- innholds-hash: 73fbce7f448800916f1fd3b4c6ffd5ae086df732948b97dae049f3b6d8135242 -->
+<!-- innholds-hash: e89840f7837662948f924be24c0b4960aed87e724d20872d5898cc95750b77e8 -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-05-16T04:32:28Z
+- **Sist hentet:** 2026-05-23T06:36:41Z
 
 ## Innhold
 
@@ -147,7 +147,7 @@ Tilleggspensjon tjenes først og fremst opp gjennom den pensjonsgivende inntekte
 
 #### Pensjonstillegg
 
-Hvis du har tjent opp liten eller ingen tilleggspensjon, kan du få pensjonstillegg. Størrelsen på pensjonstillegget avhenger av om du er enslig eller om du har ektefelle, samboer eller partner som får egen pensjon eller har inntekt over 2G, 260 320 kroner.
+Hvis du har tjent opp liten eller ingen tilleggspensjon, kan du få pensjonstillegg. Størrelsen på pensjonstillegget avhenger av om du er enslig eller om du har ektefelle, samboer eller partner som får egen pensjon eller har inntekt over 2G, 273 098 kroner.
 
 - Pensjonstillegget avkortes mot tilleggspensjonen krone for krone.
 - Pensjonstillegget levealdersjusteres, og justeres for uttaksalder og uttaksgrad.
@@ -186,7 +186,7 @@ Tilleggspensjon tjenes først og fremst opp gjennom den pensjonsgivende inntekte
 
 #### Pensjonstillegg
 
-Hvis du har tjent opp liten eller ingen tilleggspensjon, kan du få pensjonstillegg. Størrelsen på pensjonstillegget avhenger av om du er enslig eller om du har ektefelle, samboer eller partner som får egen pensjon eller har inntekt over 2G, 260 320 kroner.
+Hvis du har tjent opp liten eller ingen tilleggspensjon, kan du få pensjonstillegg. Størrelsen på pensjonstillegget avhenger av om du er enslig eller om du har ektefelle, samboer eller partner som får egen pensjon eller har inntekt over 2G, 273 098 kroner.
 
 - Pensjonstillegget avkortes mot tilleggspensjonen krone for krone.
 - Pensjonstillegget levealdersjusteres, og justeres for uttaksalder og uttaksgrad.
@@ -194,7 +194,7 @@ Hvis du har tjent opp liten eller ingen tilleggspensjon, kan du få pensjonstill
 - Selv om du har lav eller ingen pensjonsopptjening, vil den årlige pensjonen din øke jo lenger du venter med å ta den ut.
 - Ved å ta ut 100 prosent alderspensjon senere enn ved 67 år, vil du derfor alltid være sikret en høyere pensjon enn minste pensjonsnivå.
 - Hvis du har mindre enn 40 års trygdetid, vil pensjonstillegget bli redusert.
-Hvis du har tjent opp liten eller ingen tilleggspensjon, har du rett til særtillegg. Størrelsen på særtillegget avhenger av om du er enslig, og om du har ektefelle, samboer eller partner som mottar pensjon eller har inntekt over 2G 260 320 kroner. Særtillegget avkortes mot tilleggspensjonen krone for krone.
+Hvis du har tjent opp liten eller ingen tilleggspensjon, har du rett til særtillegg. Størrelsen på særtillegget avhenger av om du er enslig, og om du har ektefelle, samboer eller partner som mottar pensjon eller har inntekt over 2G 273 098 kroner. Særtillegget avkortes mot tilleggspensjonen krone for krone.
 
 - Hvis du har mindre enn 40 års trygdetid, vil særtillegget bli redusert.
 - Særtillegget sikrer at din samlede pensjon minst tilsvarer
@@ -243,13 +243,13 @@ Hvor mye du kan få henger sammen med sivilstatusen din. Inntekten til eventuell
 
 Hvis du har samboer med felles barn eller samboer som du tidligere har vært gift med, gjelder samme regler som for ektefeller.
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
-Lav sats er 200 144 i året.
+Lav sats er 209 531 i året.
 
 Hvis du bor sammen med ektefelle som får alderspensjon eller avtalefestet pensjon i offentlig sektor, har du rett til lav sats.
 
-Ordinær sats er 231 645 i året.
+Ordinær sats er 242 509 i året.
 
 Hvis både du og ektefellen får hel alderspensjon, skal den samlede pensjonen for deg og ektefellen være minst to ganger ordinær sats.
 
@@ -261,16 +261,16 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Høy sats er 243 759 i året.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Høy sats er 255 191 i året.
 
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
-Særskilt sats for enslige er 279 933 i året.
+Særskilt sats for enslige er 293 062 i året.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
-Særskilt sats er 379 420 i året.
+Særskilt sats er 397 215 i året.
 
 Hvis du forsørger ektefelle over 60 år og fyller vilkårene for rett til
 
@@ -283,7 +283,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -304,8 +304,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -330,7 +330,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -351,8 +351,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -377,7 +377,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -398,8 +398,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -424,7 +424,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -445,8 +445,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -471,7 +471,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -492,8 +492,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -518,7 +518,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -539,8 +539,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -565,7 +565,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -586,8 +586,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -612,7 +612,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -633,8 +633,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -659,7 +659,7 @@ Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din
 
 #### Hvor mye kan du få?
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
 
 #### Sivilstatusen din avgjør hvilken sats du får
@@ -680,8 +680,8 @@ Du har også rett til ordinær sats hvis du i 12 av de siste 18 månedene har v�
 
 - alderspensjon, avtalefestet pensjon eller uføretrygd
 - ytelser til gjenlevende ektefelle eller tidligere familiepleier
-- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet).
-Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 260 320 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
+- eller har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet).
+Du har rett til høy sats hvis du er gift/samboer og ikke omfattes av bestemmelsene ovenfor. Det gjelder altså hvis ektefellen/samboeren har inntekt under 273 098 (to ganger grunnbeløpet) og ikke har noen av pensjonsordningene nevnt ovenfor.
 
 Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes i denne sammenheng også ektefeller som ikke lever sammen.
 
@@ -710,20 +710,20 @@ Når du har inntektspensjon, blir garantipensjonen redusert. Garantipensjonen re
 
 Hvor mye du kan få henger sammen med sivilstatusen din. Inntekten til eventuell ektefelle eller samboer bestemmer om du får ordinær sats eller høy sats.
 
-Satsene gjelder fra 1. mai 2025, og for personer med full trygdetid.
+Satsene gjelder fra 1. mai 2026, og for personer med full trygdetid.
 
-Ordinær sats er 224 248 i året.
+Ordinær sats er 234 765 i året.
 
 Du har rett til ordinær sats hvis du bor sammen med en ektefelle, partner eller samboer som
 
 - får uføretrygd, alderspensjon eller avtalefestet pensjon i offentlig sektor
-- har en årlig inntekt, inkludert kapitalinntekt, som er større enn 260 320 (to ganger grunnbeløpet)
+- har en årlig inntekt, inkludert kapitalinntekt, som er større enn 273 098 (to ganger grunnbeløpet)
 - har pensjon eller overgangsstønad etter kapittel 16 og 17 i folketrygdloven
 Du regnes som samboer hvis
 
 - du og samboeren din har bodd sammen i 12 av de siste 18 månedene eller
 - du har felles barn med samboer eller samboer som du tidligere har vært gift med
-Høy sats er 242 418 i året.
+Høy sats er 253 787 i året.
 
 Du har rett til garantipensjon etter høy sats hvis du er enslig.
 
@@ -731,7 +731,7 @@ Du har også rett til høy sats hvis du bor sammen med en ektefelle, partner ell
 
 - ikke har uføretrygd, alderspensjon eller avtalefestet pensjon i offentlig sektor
 - ikke har gjenlevendeytelser etter kapittel 16 eller 17 i folketrygdloven
-- har en årlig inntekt, inkludert kapitalinntekt, som er lavere enn 260 320 (to ganger grunnbeløpet)
+- har en årlig inntekt, inkludert kapitalinntekt, som er lavere enn 273 098 (to ganger grunnbeløpet)
 
 #### Fritak for egenandel på blå resept
 
@@ -863,7 +863,7 @@ Hvis du kombinerer jobb og pensjon, mister jobben og blir registrert som arbeid
 
 Hvis du jobber, kan du ha rett til sykepenger selv om du har tatt ut alderspensjon og AFP privat.
 
-Er du mellom 67 og 70 år, kan du ha rett til sykepenger i opptil 60 dager hvis inntekten er høyere enn 260 320 (to ganger grunnbeløpet i folketrygden).
+Er du mellom 67 og 70 år, kan du ha rett til sykepenger i opptil 60 dager hvis inntekten er høyere enn 273 098 (to ganger grunnbeløpet i folketrygden).
 
 60-dagersregelen gjelder fra og med dagen etter at du fylte 67 år og til og med dagen før du fyller 70 år.
 
@@ -1046,9 +1046,9 @@ Du kan endre til gradert pensjon på 20, 40, 50, 60 eller 80 prosent. Hvis du vi
 
 Hvis du velger gradert pensjon, må du selv passe på å endre til 100 prosent senest måneden før du ønsker full utbetaling. Dette gjelder også når du blir 67 år. Du må selv endre til 100 prosent hvis du tidligere har søkt 0 prosent uttak og nå vil ha utbetalt pensjonen din.
 
-Alderspensjon under utbetaling øker hver vår med gjennomsnittet av pris- og lønnsveksten.
+Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten. Alderspensjonen øker med 4,69 prosent fra 1. mai 2026.
 
-Du vil se det nye beløpet på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
+Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
 Minstepensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten, på samme måte som alderspensjon til utbetaling.
 
@@ -1228,16 +1228,16 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 06.05.2026
+Oppdatert 22.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -1247,7 +1247,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -1256,3 +1256,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

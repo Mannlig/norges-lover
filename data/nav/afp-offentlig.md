@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0af901329a2dba72a3b25bf8610cd00d6a038eafd1079b6b25afe8dd4a6ec2d5 -->
+<!-- innholds-hash: 87e18268a0da9ea76e53e3c80abe3eaae2607da4897631820ccf227360cd040f -->
 
 # Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-offentlig
-- **Sist hentet:** 2026-05-16T04:31:25Z
+- **Sist hentet:** 2026-05-23T06:35:19Z
 
 ## Innhold
 
@@ -45,7 +45,7 @@ Hvis du er permittert eller sykmeldt, kan du fortsatt regnes for å være i arbe
 
 #### Krav til inntekt
 
-- Du må ha pensjonsgivende inntekt på uttakstidspunktet som minst tilsvarer en årsinntekt på 1 G (tilsvarer 130 160 kroner i dag).
+- Du må ha pensjonsgivende inntekt på uttakstidspunktet som minst tilsvarer en årsinntekt på 1 G (tilsvarer 136 549 kroner i dag).
 - Du må ha hatt en pensjonsgivende inntekt på minst 1 G året før du tar ut AFP.
 - Du må ha opptjent pensjonspoeng i folketrygden i 10 år etter at du fylte 50 år til og med året før uttaksåret. Dette kan likestilles med 10 års medlemskap i Statens pensjonskasse eller annen offentlig tjenestepensjonsordning.
 - Du må ha hatt en gjennomsnittlig pensjonsgivende inntekt på minst 2 G i 10 år.
@@ -114,11 +114,11 @@ Pensjonen din består av grunnpensjon, tilleggspensjon og/eller særtillegg. Du 
 
 #### Grunnpensjon
 
-Full grunnpensjon er 1 G (130 160 kroner).
+Full grunnpensjon er 1 G (136 549 kroner).
 
 For å få full grunnpensjon, må du ha minst 40 års trygdetid (botid i Norge). Kortere trygdetid gir lavere grunnpensjon. Du får medregnet årene fram til og med året du fyller 66 år, såkalt fremtidig trygdetid.
 
-Har du ektefelle, samboer eller partner som får pensjon og/eller har inntekt over 2 G (260 320 kroner)? Da er full grunnpensjon 90 prosent av 1 G, altså 117 144 kroner.
+Har du ektefelle, samboer eller partner som får pensjon og/eller har inntekt over 2 G (273 098 kroner)? Da er full grunnpensjon 90 prosent av 1 G, altså 122 894 kroner.
 
 For samboere gjelder redusert grunnpensjon bare om dere har felles barn sammen, har vært samboere i minst 12 av de siste 18 månedene eller om dere tidligere har vært gift.
 
@@ -323,6 +323,10 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+AFP i offentlig sektor reguleres hvert år med gjennomsnittet av pris- og lønnsveksten. AFP øker med 4,69 prosent fra 1. mai 2026.
+
+Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
 Når du logger inn på
 
@@ -568,16 +572,16 @@ AFP er ikke omfattet av trygdebestemmelsene i EØS-avtalen eller andre trygdeavt
 
 AFP-pensjonister kan også søke om
 
-Oppdatert 10.03.2026
+Oppdatert 22.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -587,7 +591,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -596,3 +600,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

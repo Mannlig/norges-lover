@@ -1,11 +1,11 @@
-<!-- innholds-hash: 40eaf89a35b753cfc6f2d91b4df9b7a5981c2a2b32f104da54e2e655cb14de3a -->
+<!-- innholds-hash: c84dc0c4ca8b7ba382a02e6988fb98e866033310ed0115a875e84d6c8876d8fd -->
 
 # Forside privatperson - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/redirects/logg-inn-din-side
-- **Sist hentet:** 2026-05-16T04:40:51Z
+- **Sist hentet:** 2026-05-23T06:48:41Z
 
 ## Innhold
 
@@ -21,7 +21,7 @@
 
 ### Kontakt oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 
 ---
@@ -30,3 +30,4 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)
