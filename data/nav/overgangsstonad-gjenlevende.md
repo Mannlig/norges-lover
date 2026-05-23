@@ -1,11 +1,11 @@
-<!-- innholds-hash: 40306970b84eb8d9163f0b1ead99734b6f9257fafcac8fb2b675a002363e4d64 -->
+<!-- innholds-hash: 59c30d551f5f8fe66b6fb815856fb0f4d20b29e284021b3d364d3906582b12c8 -->
 
 # Overgangsstønad til gjenlevende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-gjenlevende
-- **Sist hentet:** 2026-05-17T12:23:31Z
+- **Sist hentet:** 2026-05-23T20:21:31Z
 
 ## Innhold
 
@@ -44,7 +44,7 @@ Grunnpensjon blir beregnet ut fra den av den avdødes trygdetid. For å få full
 
 #### Ny samboer gir redusert grunnpensjon
 
-Grunnpensjonen blir redusert hvis du får en ny samboer. Når du har vært samboer i minst 12 av de siste 18 månedene, blir grunnpensjonen redusert til 90 prosent. Ved 40 års trygdetid tilsvarer det 117 144 kroner.
+Grunnpensjonen blir redusert hvis du får en ny samboer. Når du har vært samboer i minst 12 av de siste 18 månedene, blir grunnpensjonen redusert til 90 prosent. Ved 40 års trygdetid tilsvarer det 122 894 kroner.
 
 Husk å melde fra til Nav hvis du får samboer.
 
@@ -67,9 +67,9 @@ Hvis avdøde har hatt opptjening i et land Norge har
 
 Overgangsstønad til gjenlevende blir redusert hvis du har, eller kan forventes å ha, egen arbeidsinntekt.
 
-Er arbeidsinntekten din høyere enn halvparten av grunnbeløpet i folketrygden, som tilsvarer 65 080 kroner, vil 40 prosent av det overskytende bli trukket fra stønaden. Hva du vil få utbetalt, vil dermed avhenge av både din og den avdødes inntekt.
+Er arbeidsinntekten din høyere enn halvparten av grunnbeløpet i folketrygden, som tilsvarer 68 275 kroner, vil 40 prosent av det overskytende bli trukket fra stønaden. Hva du vil få utbetalt, vil dermed avhenge av både din og den avdødes inntekt.
 
-Som hovedregel forventer Nav at du beholder tidligere inntektsnivå, og at du tjener minimum 2 ganger grunnbeløpet i folketrygden, som tilsvarer 260 320 kroner.
+Som hovedregel forventer Nav at du beholder tidligere inntektsnivå, og at du tjener minimum 2 ganger grunnbeløpet i folketrygden, som tilsvarer 273 098 kroner.
 
 Du kan få unntak fra kravet om arbeidsinntekt hvis du har vært uten arbeid i lenger tid før dødsfallet, og du hadde fylt 55 år da dødsfallet skjedde. Også utfordringer med egen helse, omsorg for barn under 3 år, eller for barn med spesielle omsorgsbehov, eller andre omsorgsforhold, kan gi unntak fra kravet.
 
@@ -287,11 +287,11 @@ Oppdatert 16.09.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -301,7 +301,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -310,3 +310,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

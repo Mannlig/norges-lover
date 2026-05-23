@@ -1,4 +1,4 @@
-<!-- innholds-hash: 01217672563a19bb02c75ea0555af37babc41af2e8ca3b23bd036ac5e6181794 -->
+<!-- innholds-hash: eab82676128dfbbb3a1dfc73da264522a8e8906721b590e04a310bf9c919d635 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jonas Andersen Sayed, Jorunn Gleditsch Lossius og Hans Edvard Askjer om en stortingsmelding om innvandring og integrering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T03:32:28Z
+- **Sist hentet:** 2026-05-23T14:47:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200060
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779505250955+0200)/",
+  "respons_dato_tid": "/Date(1779545068560+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -44,7 +44,7 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -69,7 +69,7 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -94,7 +94,7 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -119,7 +119,7 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -140,7 +140,7 @@
   "innstilling_id": 17315,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779505228120+0200)/",
+    "respons_dato_tid": "/Date(1779545068544+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200060,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779505251236+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Busch",
@@ -158,7 +158,7 @@
       "id": "ISABUS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -205,4 +205,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)

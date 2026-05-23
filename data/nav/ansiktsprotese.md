@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9266789b2dd319f24e2498e62d856032152e488c3e31124e3355eab9687ad3f9 -->
+<!-- innholds-hash: be5b7dcf9241ecb6d8f9d61d87255bf8ccfe07511b4772bf1e40fc8ffaea3fa4 -->
 
 # Ansiktsprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ansiktsprotese
-- **Sist hentet:** 2026-05-17T19:45:39Z
+- **Sist hentet:** 2026-05-23T20:29:53Z
 
 ## Innhold
 
@@ -79,16 +79,16 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -97,3 +97,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

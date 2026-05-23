@@ -1,4 +1,4 @@
-<!-- innholds-hash: 90c2fe0d8d62a1a7b5c2858e35fbfe265c49ffed6512bef16113918d97efbb60 -->
+<!-- innholds-hash: 2926b00178f94db3f3c770f51f05cce37d2b213f2e0ca5cd5a5dbc1bba2546d0 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Morten Stordalen, Kristoffer Sivertsen, Rikard Spets og Tor Mikkel Wara om kostnadsberegninger for å nå Norges klimamål
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T03:32:28Z
+- **Sist hentet:** 2026-05-23T14:47:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200104
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779505250393+0200)/",
+  "respons_dato_tid": "/Date(1779545068560+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -53,7 +53,7 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -78,7 +78,7 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -103,7 +103,7 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -128,7 +128,7 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -153,7 +153,7 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -174,7 +174,7 @@
   "innstilling_id": 17365,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779505228120+0200)/",
+    "respons_dato_tid": "/Date(1779545068544+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200104,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250393+0200)/",
+      "respons_dato_tid": "/Date(1779545068560+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -192,7 +192,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -228,4 +228,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8eca328a820da3809be755de31027ef1d723dcb712a15a377a1e27bc72533420 -->
+<!-- innholds-hash: cae261598aeddcdc8c22c674974b86a9affcbe0f66d18ed7c89ee7db13b4b2f5 -->
 
 # Har nedsatt syn eller trenger briller - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syn
-- **Sist hentet:** 2026-05-16T08:17:09Z
+- **Sist hentet:** 2026-05-23T19:03:19Z
 
 ## Innhold
 
@@ -108,7 +108,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -120,3 +120,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

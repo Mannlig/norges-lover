@@ -1,11 +1,11 @@
-<!-- innholds-hash: dcbd1d7cc144315bcfeb11a1c6b061f6c87e8baf0cbb52140df47ceba6e7e16c -->
+<!-- innholds-hash: dcf7490b99c3de555fd648737d7d3efe658773c7df40646355e3ff0e64b0f2c0 -->
 
 # Kvalifiserings­programmet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kvalifiseringsprogrammet
-- **Sist hentet:** 2026-05-17T12:18:29Z
+- **Sist hentet:** 2026-05-23T20:17:25Z
 
 ## Innhold
 
@@ -40,9 +40,9 @@ Du får ansvar for å følge opp programmet i samarbeid med veiledere ved Nav-ko
 
 Kvalifiseringsprogrammet er på 37,5 timer i uken.
 
-Du får kvalifiseringsstønad når du deltar i programmet. Stønaden er 2,041 ganger grunnbeløpet (G), som tilsvarer 265 657 kroner. Stønaden gir pensjonspoeng.
+Du får kvalifiseringsstønad når du deltar i programmet. Stønaden er 2,041 ganger grunnbeløpet (G), som tilsvarer 278 697 kroner. Stønaden gir pensjonspoeng.
 
-Er du under 25 år, får du 2/3 av full stønad, det tilsvarer 177 104 kroner.
+Er du under 25 år, får du 2/3 av full stønad, det tilsvarer 185 798 kroner.
 
 
 #### Andre aktuelle stønader
@@ -137,7 +137,7 @@ Oppdatert 19.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -146,3 +146,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

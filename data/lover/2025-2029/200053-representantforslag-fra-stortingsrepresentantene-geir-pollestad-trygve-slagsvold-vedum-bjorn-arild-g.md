@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2ae266f655cc278bf6ae480a73f0d316875b6081882792d0802e9d3726262977 -->
+<!-- innholds-hash: 02c0766db8860276e39fa4ab75a288b395537dffdaddcbd95e8c3c2d4b0ad9e6 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum, Bjørn Arild Gram, og Bent-Joacim Bentzen  om Svalbard
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T03:32:28Z
+- **Sist hentet:** 2026-05-23T14:47:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200053
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779505250002+0200)/",
+  "respons_dato_tid": "/Date(1779545068544+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 175,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -44,7 +44,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
@@ -69,7 +69,7 @@
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -94,7 +94,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -119,7 +119,7 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -140,7 +140,7 @@
   "innstilling_id": 17335,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779505228120+0200)/",
+    "respons_dato_tid": "/Date(1779545068544+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200053,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Foshaug",
@@ -158,7 +158,7 @@
       "id": "NF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -187,4 +187,5 @@
 
 - **2026-05-22** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)

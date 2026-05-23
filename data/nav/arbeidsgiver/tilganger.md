@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5c625f1c99fe6ce94e0ce208b800d4bb1ad165b5e211e4a605ba4f38e02e1abd -->
+<!-- innholds-hash: f332e0262cc01e596aad8d4557abdb15b3b654c137f78dd1b7cb6e70a437cc29 -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-05-16T15:30:03Z
+- **Sist hentet:** 2026-05-23T19:45:01Z
 
 ## Innhold
 
@@ -34,8 +34,9 @@ Du ser hvilke tilganger du har på "Min side – arbeidsgiver", under «Se mine 
 
 #### Fra Altinn
 
-- En enkeltrettighet gir normalt tilgang til et spesifikt skjema eller tjeneste.
-- En rolle i enhetsregisteret gir tilgang til et utvalg av skjemaer og tjenester.
+- En enkelttjeneste gir tilgang til et spesifikt skjema eller tjeneste.
+- Tilgangspakker gir tilgang til flere enkelttjenester.
+- En rolle i Enhetsregisteret gir tilgang til et utvalg av skjemaer og tjenester.
 Se hvordan du går frem i din situasjon:
 
 
@@ -58,13 +59,6 @@ Har du rollen Hovedadministrator, kan du gi tilganger som du selv ikke har.
 
 Har du tilganger i Altinn du mener at du eller andre ikke skal ha, kan du
 
-
-#### Slik gjør du
-
-Velg virksomheten det gjelder og klikk på "Profil"
-
-- Skal du fjerne dine egne rettigheter for valgt virksomhet, velg "Skjema og tjenester du har rettighet til" og klikk på "Fjern én eller flere rettigheter".
-- Skal du fjerne andres rettigheter, må du velge "Andre med rettigheter til virksomheten"
 Forskjellige tjenester og skjemaer i Nav krever ulike tilganger i Altinn.
 
 For å få tilgang til innsynstjeneste for arbeidsforhold innrapportert via a-meldingen trenger du enkelttjenesten "Innsyn i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) for arbeidsgivere". Tilgang gis også automatisk til personer med følgende roller i enhetsregisteret:
@@ -77,7 +71,7 @@ For å få tilgang til innsynstjeneste for arbeidsforhold innrapportert via a-me
 - bostyrer i konkursbo (omfatter ikke virksomheten som er gått konkurs) og andre bo
 - komplementar (kun fødselsnummer)
 - norsk representant for utenlandsk enhet
-Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få tilgang til tjenestene nedenfor må du ha enkeltrettigheten til tjenesten i Altinn. Navn på enkeltrettigheten er det samme som navnet på tjenesten.
+Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få tilgang til tjenestene nedenfor må du ha enkelttjenesten til tjenesten i Altinn. Navn på enkelttjenesten er det samme som navnet på tjenesten.
 
 - avtale om arbeidstrening
 - avtale om midlertidig lønnstilskudd
@@ -86,7 +80,7 @@ Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få 
 - avtale om sommerjobb
 - avtale om inkluderingstilskudd
 - avtale om mentor
-For at se personer med adressesperre må du i tillegg ha enkeltrettigheten «Adressesperre — avtaler om arbeidsmarkedstiltak og refusjoner».
+For å se personer med adressesperre må du i tillegg ha enkelttjenesten «Adressebeskyttelse — avtaler og refusjoner for arbeidsmarkedstiltak».
 
 For å benytte denne tjenesten må du enten få delegert enkelttjenesten «Endre bankkontonummer for refusjoner fra Nav til arbeidsgiver» eller ha en av disse rollene i enhetsregisteret:
 
@@ -131,8 +125,8 @@ Tilgang til inntektsmelding får du ved å ha en av tilgangspakkene:
 - Inntektsmelding for pleie-, opplærings- og omsorgspenger og refusjonskrav for omsorgspenger
 For å få tilgang til å melde inn yrkesskade eller yrkessykdom digitalt på vegne av virksomheten må du ha enkelttjenesten «Skademelding til Nav ved arbeidsulykke eller yrkessykdom» eller en av følgende tilgangspakker:
 
-- Miljø, ulykke og sikkerhet: Yrkesskade
-- Personale: Ansettelsesforhold
+- Yrkesskade
+- Ansettelsesforhold
 - Regnskapsfører med signeringsrett
 - Regnskapsfører lønn
 Les mer om
@@ -145,6 +139,9 @@ For å lese rapporten trenger du en av disse tilgangspakkene i Altinn:
 - Regnskapsfører lønn
 - Regnskapsfører med eller uten signeringsrettighet
 - Revisormedarbeider
+Du kan også få tilgang til rapporten ved å få tildelt denne enkelttjenesten:
+
+- Oppgjørsrapport arbeidsgiver - refusjoner fra Nav (tidligere K27)
 For å få tilgang til digitalt skjema om permittering uten lønn, masseoppsigelse og innskrenking av arbeidstid må du ha enkelttjenesten "Skjema til Nav om permitteringer, oppsigelser, eller innskrenkning i arbeidstid". Den gir tilgang til å opprette og se innsendte meldinger.
 
 - daglig leder
@@ -299,7 +296,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 15.05.2026
+Oppdatert 22.05.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -307,7 +304,7 @@ Oppdatert 15.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Kontaktskjema
@@ -328,3 +325,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

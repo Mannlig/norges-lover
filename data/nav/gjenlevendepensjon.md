@@ -1,11 +1,11 @@
-<!-- innholds-hash: d5177bfbfe226524467cf09d428ee3cccad38cc364ecf72b59ee935e0dfc5ecc -->
+<!-- innholds-hash: c6ff2d0b25fac0ac063fb1fef91fdc88ef7370fad111f04696ca3cdadc7ad6ca -->
 
 # Gjenlevendepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gjenlevendepensjon
-- **Sist hentet:** 2026-05-16T15:33:02Z
+- **Sist hentet:** 2026-05-23T19:49:09Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Grunnpensjon blir beregnet ut fra den av den avdødes trygdetid. For å få full
 
 #### Ny samboer gir redusert grunnpensjon
 
-Grunnpensjonen blir redusert hvis du får en ny samboer. Når du har vært samboer i minst 12 av de siste 18 månedene, blir grunnpensjonen redusert til 90 prosent. Ved 40 års trygdetid tilsvarer det 117 144 kroner.
+Grunnpensjonen blir redusert hvis du får en ny samboer. Når du har vært samboer i minst 12 av de siste 18 månedene, blir grunnpensjonen redusert til 90 prosent. Ved 40 års trygdetid tilsvarer det 122 894 kroner.
 
 Husk å melde fra til Nav hvis du får samboer.
 
@@ -84,9 +84,9 @@ Hvis avdøde har hatt opptjening i et land Norge har
 
 Gjenlevendepensjonen blir redusert hvis du har eller kan forventes å ha egen arbeidsinntekt.
 
-Er arbeidsinntekten din høyere enn halvparten av grunnbeløpet i folketrygden, som tilsvarer 65 080 kroner, vil 40 prosent av det overskytende bli trukket fra stønaden. Hva du vil få utbetalt, vil dermed avhenge av både din og den avdødes inntekt.
+Er arbeidsinntekten din høyere enn halvparten av grunnbeløpet i folketrygden, som tilsvarer 68 275 kroner, vil 40 prosent av det overskytende bli trukket fra stønaden. Hva du vil få utbetalt, vil dermed avhenge av både din og den avdødes inntekt.
 
-Som hovedregel forventer Nav at du beholder tidligere inntektsnivå, og at du tjener minimum 2 ganger grunnbeløpet i folketrygden, som tilsvarer 260 320 kroner.
+Som hovedregel forventer Nav at du beholder tidligere inntektsnivå, og at du tjener minimum 2 ganger grunnbeløpet i folketrygden, som tilsvarer 273 098 kroner.
 
 Du kan få unntak fra kravet om arbeidsinntekt hvis du har vært uten arbeid i lenger tid før dødsfallet, og du hadde fylt 55 år da dødsfallet skjedde. Også utfordringer med egen helse, omsorg for barn under 3 år, eller for barn med spesielle omsorgsbehov, eller andre omsorgsforhold, kan gi unntak fra kravet.
 
@@ -354,11 +354,11 @@ Oppdatert 20.01.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -368,7 +368,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -377,3 +377,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2e8550700647539f97b4b93a566f9992e63a5f4b3af036edb44924a3faeb5d27 -->
+<!-- innholds-hash: 637d2fb951af5902cb0b0638979d7b7fe118f57d29a7a3ff73cc2bf0b5d32e40 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/omsorgspenger
-- **Sist hentet:** 2026-05-16T08:25:58Z
+- **Sist hentet:** 2026-05-23T19:15:55Z
 
 ## Innhold
 
@@ -146,7 +146,7 @@ Arbeidsgiver kan gi rett til omsorgspenger for kortere perioder enn hele dager. 
 
 Omsorgspenger beregnes på samme måte som sykepenger og utgjør 100 prosent av sykepengegrunnlaget.
 
-Når Nav refunderer omsorgspenger utbetaler vi 100 prosent av grunnlaget som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 780 960 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
+Når Nav refunderer omsorgspenger utbetaler vi 100 prosent av grunnlaget som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
 
 Slik beregnes dagsatsen til en arbeidstaker med gjennomsnittlig månedsinntekt på brutto 17 000 kroner de tre siste månedene:
 
@@ -274,36 +274,6 @@ Det nye refusjonskravet vil korrigere tidligere innsendt refusjonskrav for samme
 
 Send nytt refusjonskrav for den personen du i utgangspunktet skulle ha sendt for
 
-Når du har sendt inn en inntektsmelding som inneholder feil opplysninger, må du sende en ny eller endret inntektsmelding med opplysninger om det som skal endres.
-
-Når vi får inn en ny eller endret inntektsmelding, revurderer vi saken. Hvis arbeidsgiveren har fått for mye utbetalt, trekkes dette i neste utbetaling.
-
-Hvis du bruker Altinn-portalen, kan den sist innsendte inntektsmeldingen hentes fra arkivet.
-
-Du kan lage en kopi av den forrige inntektsmeldingen med funksjonen «Lag ny kopi», og bruke denne til å legge inn nye opplysninger og/eller endre på opplysningene. Ved å bruke kopien som utgangspunkt, slipper du å fylle inn på nytt de opplysningene som ikke skal endres.
-
-Du må sende inn en ny eller endret inntektsmelding på den samme personen via Altinn eller eget lønns- og personalsystem
-
-Legg kun inn de dagene du ikke skal ha refusjon for likevel
-
-Registrer dagene som «delvis fravær» med 0 timer per dag
-
-All annen informasjon må være lik inntektsmeldingen som korrigeres (virksomhetsnummer, arbeidsforholds ID, månedsinntekt, refusjonsbeløp)
-
-Den nye eller endrede inntektsmeldingen vil korrigere dagene som tidligere er sendt inn
-
-Du må sende en ny eller endret inntektsmelding for den samme personen via Altinn eller et lønns- og personalsystem
-
-I den nye inntektsmeldingen oppgir du de samme dagene som på forrige inntektsmelding
-
-Registrer dagene som «delvis fravær» med 0 timer per dag
-
-Den endrede inntektsmeldingen vil korrigere tidligere innsendt inntektsmelding for samme periode for samme person
-
-Send inntektsmelding for den personen du i utgangspunktet skulle ha sendt for
-
-Du må sende ny inntektsmelding hvor du velger arbeidsforholdsid eller virksomhetsnummer. Skriv inn alle timer, dager og perioder samlet.
-
 Hvis du har sendt inn en inntektsmelding via Min side - Arbeidsgiver, kan du endre tidligere innsendte inntektsmeldinger som du finner i saksoversikten.
 
 Når vi får inn en endret inntektsmelding, revurderer vi saken.
@@ -325,7 +295,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 04.05.2026
+Oppdatert 21.05.2026
 
 
 #### Chat
@@ -337,7 +307,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -346,3 +316,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

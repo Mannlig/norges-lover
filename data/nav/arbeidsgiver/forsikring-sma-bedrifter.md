@@ -1,11 +1,11 @@
-<!-- innholds-hash: c32bb957af258cc4fbace489194f02375b1c57f36b593587ca65e8752a099879 -->
+<!-- innholds-hash: 6948506231091641cedabf124bb0429976f0e403cd017210b2f9f0ba620e1b13 -->
 
 # Forsikring for små bedrifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/forsikring-sma-bedrifter
-- **Sist hentet:** 2026-05-16T08:40:30Z
+- **Sist hentet:** 2026-05-23T19:36:08Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeids
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -118,3 +118,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

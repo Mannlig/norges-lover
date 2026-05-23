@@ -1,11 +1,11 @@
-<!-- innholds-hash: 22a81ae4c25a777bbcaf5c7b8173ac56e7c0daf9feec9cec7ea516755abb1bb3 -->
+<!-- innholds-hash: d59f8637c575a5e5872bd27ec8b5480a8a89e797848610338b456e9c23d2a081 -->
 
 # Sykepenger i arbeidsgiverperioden  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden
-- **Sist hentet:** 2026-05-18T16:24:34Z
+- **Sist hentet:** 2026-05-23T20:01:31Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ Hvis en ansatt blir syk eller skadet, er hovedregelen at du som arbeidsgiver bet
 
 Arbeidsgiverperioden starter første hele egenmeldingsdag eller den første dagen med hel eller gradert sykmelding. Arbeidsgiverperioden varer i 16 kalenderdager hvis fraværet er sammenhengende. Du skal betale for alle planlagte arbeidsdager i løpet av disse 16 kalenderdagene.
 
-For ansatte over 67 år må inntekten tilsvare minst 260 320 i årsinntekt for at de skal ha rett til sykepenger. Det tilsvarer to ganger grunnbeløpet i folketrygden. Ansatte over 70 år har ikke rett til sykepenger.
+For ansatte over 67 år må inntekten tilsvare minst 273 098 i årsinntekt for at de skal ha rett til sykepenger. Det tilsvarer to ganger grunnbeløpet i folketrygden. Ansatte over 70 år har ikke rett til sykepenger.
 
 - Arbeidstakeren må ha jobbet minst 4 uker for å ha rett til sykepenger i arbeidsgiverperioden.
 - Opptjeningstiden starter fra den dagen arbeidstakeren ble ansatt, det vil si den datoen lønnen beregnes fra.
@@ -239,7 +239,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -248,3 +248,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

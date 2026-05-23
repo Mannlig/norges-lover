@@ -1,11 +1,11 @@
-<!-- innholds-hash: b7242ccc94f5ff8ecf5b4dca6ce3e169d802620889960403fcaa09bb993e7c02 -->
+<!-- innholds-hash: c4a1766b77a728aaf2224ffdf45d8bc8a7ba1fabd37940ed71cabd4389f65f62 -->
 
 # Tilleggsstønader til gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-gjenlevende
-- **Sist hentet:** 2026-05-16T15:35:26Z
+- **Sist hentet:** 2026-05-23T19:52:33Z
 
 ## Innhold
 
@@ -320,11 +320,11 @@ Oppdatert 16.09.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -334,7 +334,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -343,3 +343,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

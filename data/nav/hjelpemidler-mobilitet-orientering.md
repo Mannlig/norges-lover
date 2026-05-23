@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3b7a3a5941dfc6f2201cfe55dd113f3a5d5f7f4b285c13163badaaa8e0894da0 -->
+<!-- innholds-hash: 7a0a16be6895da28a5a8f6067e3f660de13ede06a81f71bb14e0a042de560c04 -->
 
 # Hjelpemidler for mobilitet og orientering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-mobilitet-orientering
-- **Sist hentet:** 2026-05-18T02:23:52Z
+- **Sist hentet:** 2026-05-23T20:43:13Z
 
 ## Innhold
 
@@ -211,7 +211,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -223,3 +223,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

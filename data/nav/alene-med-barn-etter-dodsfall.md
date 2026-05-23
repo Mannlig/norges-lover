@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed388fd24edefaf5ab152b97b34867ce365a3aace15f8ea65665f5e45222c9b8 -->
+<!-- innholds-hash: f060fd75a7b67e687997fe4eaa263f22ca8da250e7e15817fdcfa569748fe3e0 -->
 
 # Er alene med barn fordi den andre forelderen er død - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn-etter-dodsfall
-- **Sist hentet:** 2026-05-16T08:25:30Z
+- **Sist hentet:** 2026-05-23T19:15:12Z
 
 ## Innhold
 
@@ -79,11 +79,11 @@ Oppdatert 20.08.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -93,7 +93,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -102,3 +102,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

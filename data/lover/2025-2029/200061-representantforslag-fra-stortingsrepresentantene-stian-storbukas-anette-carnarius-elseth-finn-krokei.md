@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0ab1bd964f771c6384337f5ae8fbd2095ed60e79fb956c8233a4bda8682be263 -->
+<!-- innholds-hash: a1f1cbc4cce12aae882db90df87d57e0e53caf4a021c870f0a22cac7fd67f10b -->
 
 # Representantforslag fra stortingsrepresentantene Stian Storbukås, Anette Carnarius Elseth, Finn Krokeide, Helge André Njåstad og Jon Engen-Helgheim om å utløse opsjon på tre politihelikoptre
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T03:32:28Z
+- **Sist hentet:** 2026-05-23T14:47:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200061
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779505250033+0200)/",
+  "respons_dato_tid": "/Date(1779545068544+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Elseth",
@@ -44,7 +44,7 @@
       "id": "AE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -69,7 +69,7 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -94,7 +94,7 @@
       "id": "HNJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -119,7 +119,7 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -144,7 +144,7 @@
       "id": "STISTO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -165,7 +165,7 @@
   "innstilling_id": 17356,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779505228120+0200)/",
+    "respons_dato_tid": "/Date(1779545068544+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200061,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779505250033+0200)/",
+      "respons_dato_tid": "/Date(1779545068544+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -183,7 +183,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779490816283+0200)/",
+        "respons_dato_tid": "/Date(1779534025371+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -212,4 +212,5 @@
 
 - **2026-05-22** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)

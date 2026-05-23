@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed725fc75aa4df710df779033f26837dc80ac25c19180af5c4a42d859d1e10f9 -->
+<!-- innholds-hash: ee7422c9307947559e79690292a43e217759881bb7b2dc27d2316853cd54d5d3 -->
 
 # Vil redusere sykefravær og beholde ansatte i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/redusere-sykefravar
-- **Sist hentet:** 2026-05-16T15:27:04Z
+- **Sist hentet:** 2026-05-23T19:40:54Z
 
 ## Innhold
 
@@ -36,18 +36,14 @@ Slik holder du konstruktive samtaler med medarbeiderne dine:
 Beregn hvor mye du kan spare ved å redusere sykefraværet i
 
 
-#### Eksterne samarbeidspartnere
+#### Samarbeidspartnere
 
-På Idébanken finner du praktiske guider for ledere og ansatte om hvordan dere kan jobbe med å forebygge og følge opp sykefravær. Lær mer om bistanden dere kan få med arbeidsmiljø og sykefravær.
-
-På NOA+ bransjeprofiler får du statistikk og arbeidsmiljøfakta for de ulike bransjene. Faktaene kan du bruke for å jobbe mer kunnskapsbasert for å skape et godt arbeidsmiljø
-
-Her finner du kunnskap og verktøy for å forebygge og redusere sykefravær tilpasset bransjen du er i.
-
-Her finner du oppdatert kunnskap om aldring og arbeidsprestasjoner og verktøy for utvikling av lange og gode yrkesliv.
-
-Her får du tips og råd om hvordan du kan skape et godt arbeidsmiljø på etnisk mangfoldige arbeidsplasser.
-
+- Praktiske verktøy for å forebygge og følge opp sykefravær finner du på
+- Bransjetilpasset kunnskap og praktiske verktøy for å jobbe forebyggende finner du på
+- Arbeidsmiljøstatistikk fordelt på ulike bransjer finner du på
+- Kunnskap om aldring og utvikling av lange og gode yrkesliv finner du på
+- Tips og råd om arbeidsmiljø på etnisk mangfoldige arbeidsplasser finner du på
+- Informasjon om rus- og avhengighetsproblematikk på arbeidsplassen finner du på
 
 #### Kurs og video
 
@@ -76,12 +72,12 @@ Har du en ansatt som trenger støtte på jobben?
 
 Nav har også mange økonomiske tilskudd og tjenester for enkeltansatte som sliter psykisk eller fysisk. Nedenfor ser du tilskudd og støtteordninger du kan benytte deg av for at ansatte skal kunne fortsette å jobbe.
 
-Oppdatert 30.04.2026
+Oppdatert 20.05.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Kontaktskjema
@@ -102,3 +98,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

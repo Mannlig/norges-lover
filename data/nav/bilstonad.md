@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5fe6e088fed4b8d398dfc080871b60083997be135cdf08c03027b78b1d666f46 -->
+<!-- innholds-hash: 9690a8a5982b23d7597281cf24e5a6429afd737c743a56868393f0309c8212c1 -->
 
 # Bilstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bilstonad
-- **Sist hentet:** 2026-05-17T05:41:39Z
+- **Sist hentet:** 2026-05-23T20:09:45Z
 
 ## Innhold
 
@@ -198,11 +198,11 @@ Spesialutstyr og tilpassing av bil er ikke et tilskudd eller pengelån som du f�
 
 Når vi gjennomfører behovsprøvingen tar vi utgangspunkt i alminnelig inntekt som vi regner om til grunnbeløpet. Vi bruker som hovedregel siste tilgjengelige likningsopplysninger. Har du ektefelle, eller samboer som du har felles barn med, blir deres inntekt tatt med i behovsprøvingen. I behovsprøvingen tar vi hensyn til om du forsørger ektefelle eller barn under 18 år.
 
-Hvis du er under 18 år og forsørget, bruker vi som hovedregel foreldrene dine sin inntekt i beregningen. At du er forsørget vil si at du har en alminnelig inntekt på under 130 160 kroner.
+Hvis du er under 18 år og forsørget, bruker vi som hovedregel foreldrene dine sin inntekt i beregningen. At du er forsørget vil si at du har en alminnelig inntekt på under 136 549 kroner.
 
 Tabellen viser hvordan inntekt påvirker lån eller tilskudd til bil fra folketrygden.
 
-390 480 - 455 560  kroner
+409 647 - 477 922  kroner
 
 Hvis du ikke har førerkort fra før, kan du få tilskudd til trafikkopplæring dersom du fyller vilkårene for stønad til bil. Tilskuddet er økonomisk behovsprøvd og blir beregnet på samme måte som bilstønaden.
 
@@ -582,7 +582,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -594,3 +594,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

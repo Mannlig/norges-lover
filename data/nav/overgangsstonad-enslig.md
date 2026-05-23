@@ -1,11 +1,11 @@
-<!-- innholds-hash: a0ce0245db1e8e0284396be531b5c48615b323c8f21e5a95b0e8663d8de21cee -->
+<!-- innholds-hash: 6e96725b9318028512a922838c20eae5e8f9aa8631b8bfee93a70ae1e1725bb6 -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist hentet:** 2026-05-16T08:22:01Z
+- **Sist hentet:** 2026-05-23T19:10:18Z
 
 ## Innhold
 
@@ -180,9 +180,9 @@ Du må søke barnehageplass før barnet fyller 1 år dersom du er enslig mor ell
 
 Inntekten din avgjør hvor mye du får utbetalt.
 
-Full overgangsstønad er 292 860 kroner, og reguleres 1. mai hvert år. Nye satser gjelder fra 1. mai, og vil bli utbetalt fra juni.
+Full overgangsstønad er 307 235 kroner, og reguleres 1. mai hvert år. Nye satser gjelder fra 1. mai, og vil bli utbetalt fra juni.
 
-Dersom du ikke har inntekt, kan du få full overgangsstønad. Det vil si 24 405 kroner i måneden før skatt.
+Dersom du ikke har inntekt, kan du få full overgangsstønad. Det vil si 25 603 kroner i måneden før skatt.
 
 Dersom månedsinntekten din ganget med 12 er over 715 000 kroner før skatt, vil du ikke få utbetalt overgangsstønad.
 
@@ -521,11 +521,11 @@ Oppdatert 19.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -535,7 +535,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -544,3 +544,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

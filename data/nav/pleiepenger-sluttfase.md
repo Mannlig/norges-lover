@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1b7b26671436a1fb0ee4cafc9c02c4c6f7a2c36d2fe713f3772e3e3d00d47701 -->
+<!-- innholds-hash: edb38d096e553adfc9734db9aa87a576da7422c4b0e7e0db825ff83e6513a2ab -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-sluttfase
-- **Sist hentet:** 2026-05-17T12:24:29Z
+- **Sist hentet:** 2026-05-23T20:23:37Z
 
 ## Innhold
 
@@ -31,7 +31,7 @@ Det finnes også informasjon om pleiepenger i livets sluttfase til
 - Du må være under 70 år
 - Du har vært i jobb i minst 4 uker umiddelbart før pleiepengeperioden starter.
 - De dagene du skal ha pleiepenger, må du ha minst 20 prosent fravær fra jobben din.
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Du er medlem av folketrygden. Bor du i Norge er du vanligvis
 Perioder med disse pengestøttene kan likestilles med jobb:
 
@@ -59,7 +59,7 @@ Hvis dere er flere enn to som pleier, kan pleiepengene deles ut fra når hver av
 
 Det er også mulig at to personer pleier samtidig, og derfor kan få fulle pleiepenger for samme periode. Da vil kvoten på 60 dager brukes opp raskere, avhengig av hvor mye pleiepenger man søker om.
 
-Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 780 960 kroner.
+Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
 
 Her kan du lese om hvordan pleiepenger fastsettes i din situasjon:
 
@@ -279,11 +279,11 @@ Oppdatert 17.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -293,7 +293,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -302,3 +302,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)
