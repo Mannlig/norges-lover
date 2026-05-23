@@ -1,11 +1,11 @@
-<!-- innholds-hash: a5a19a88e59410d00a7c7c014f5f97cf0005484c258cc432a5b4aca168ad60f0 -->
+<!-- innholds-hash: 5f7afa82c4d22a8b07b0aa3cb95eaca864789d14e1f8d2df0cbef3e319ef84b1 -->
 
 # Midlertidig botilbud (nødssituasjon) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/midlertidig-botilbud
-- **Sist hentet:** 2026-05-16T04:44:15Z
+- **Sist hentet:** 2026-05-23T06:53:32Z
 
 ## Innhold
 
@@ -46,16 +46,16 @@ Oppdatert 04.07.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -64,3 +64,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 573e3c3ff427bb86ae795e72560f88a8e6d7d06f13f06d0d11883de148215186 -->
+<!-- innholds-hash: 6424430e91ca0248b986e8a53ad6c24dba27184f6aa1352731e28950bc8d70b9 -->
 
 # Supplerende stønad for personer over 67 år med kort botid i Norge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/supplerende-stonad-over-67
-- **Sist hentet:** 2026-05-16T04:42:46Z
+- **Sist hentet:** 2026-05-23T06:51:27Z
 
 ## Innhold
 
@@ -34,7 +34,7 @@ All inntekt og formue fra Norge og utlandet blir regnet med når Nav skal se om 
 
 Samlet inntekt for deg og ektefelle, samboer eller registrert partner må være lavere enn satsen for garantipensjonen. Garantipensjon er en minstepensjon for alderspensjonister.
 
-Samlet formue for deg og ektefelle, samboer eller registrert partner må være under 65 080 kroner (halvparten av folketrygdens grunnbeløp) for at du skal få stønad. Ordinær bolig er ikke en del av formuen.
+Samlet formue for deg og ektefelle, samboer eller registrert partner må være under 68 275 kroner (halvparten av folketrygdens grunnbeløp) for at du skal få stønad. Ordinær bolig er ikke en del av formuen.
 
 
 #### Kom du til Norge på grunn av familiegjenforening?
@@ -47,7 +47,7 @@ Satsen du får er avhengig av bosituasjonen din.
 
 Supplerende stønad skal sikre en inntekt som svarer til folketrygdens garantipensjon for alderspensjonister.
 
-Satsene gjelder fra og med 1. mai 2025. Full stønad tilsvarer:
+Satsene gjelder fra og med 1. mai 2026. Full stønad tilsvarer:
 
 Stønaden reduseres krone for krone mot inntekter du og ektefellen, samboeren eller partneren har til sammen.
 
@@ -55,8 +55,8 @@ Supplerende stønad reguleres i takt med grunnbeløpet fra 1. mai hvert år. Den
 
 Unntak hvis ektefellen, partneren eller samboeren din har fylt 67 år eller er ufør flyktning.
 
-- Hvis ektefellen din har fylt 67 år, er fribeløpet det samme som garantipensjonsnivå med ordinær sats (18 687 kroner i måneden).
-- Hvis ektefellen din er ufør flyktning, er fribeløpet det samme som ordinær sats for minste uføretrygd (25 262 kroner i måneden).
+- Hvis ektefellen din har fylt 67 år, er fribeløpet det samme som garantipensjonsnivå med ordinær sats (19 564 kroner i måneden).
+- Hvis ektefellen din er ufør flyktning, er fribeløpet det samme som ordinær sats for minste uføretrygd (26 502 kroner i måneden).
 Dette regnes som inntekt:
 
 - arbeidsinntekt
@@ -188,11 +188,11 @@ Oppdatert 04.12.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -202,7 +202,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -211,3 +211,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)
