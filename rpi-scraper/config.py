@@ -24,10 +24,10 @@ GIT_USER_EMAIL = os.environ.get("GIT_USER_EMAIL", "bot@norges-lover")
 # --- Rate limiting (sekunder mellom requests) ---
 DELAY_MIN = 3.0   # Minimum ventetid mellom requests
 DELAY_MAX = 8.0   # Maksimum ventetid (tilfeldig i intervallet)
-DELAY_BETWEEN_SOURCES = 30.0  # Pause mellom ulike kilder
+DELAY_BETWEEN_SOURCES = 15.0  # Pause mellom ulike kilder
 
 # --- Scraping-grenser ---
-MAX_PAGES_PER_RUN = 50    # Maks sider per kilde per kjøring
+MAX_PAGES_PER_RUN = 150   # Maks sider per kilde per kjøring
 REQUEST_TIMEOUT = 30      # Sekunder før timeout
 LOVDATA_RESJEKK_DAGER = 90  # Re-sjekk lovdokumenter for endringer hver 90. dag
 
