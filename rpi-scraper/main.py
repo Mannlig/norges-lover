@@ -50,12 +50,12 @@ logger = logging.getLogger("main")
 # --- Oversikt over alle kjøringer ---
 # Format: (kilde-nøkkel, scraper-klasse, data-mappe-nøkkel, maks-sider)
 KJØRINGER = [
-    ("stortinget",     StortingetScraper,     "stortinget",     100),
-    ("skatteetaten",   SkatteetatenScraper,   "skatt",          100),
-    ("dibk",           DibkScraper,           "byggteknisk",     50),
-    ("nav",            NavScraper,            "nav",             50),
-    ("arbeidstilsynet", ArbeidstilsynetScraper, "arbeidstilsynet", 50),
-    ("husbanken",      HusbankScraper,        "husbanken",       50),
+    ("stortinget",      StortingetScraper,      "stortinget",      100),
+    ("skatteetaten",    SkatteetatenScraper,    "skatt",           150),
+    ("dibk",            DibkScraper,            "byggteknisk",     150),
+    ("nav",             NavScraper,             "nav",             150),
+    ("arbeidstilsynet", ArbeidstilsynetScraper, "arbeidstilsynet", 150),
+    ("husbanken",       HusbankScraper,         "husbanken",       150),
 ]
 
 
