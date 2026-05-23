@@ -1,11 +1,11 @@
-<!-- innholds-hash: ce83d1bc5e1d5bd6ea1ae9da018cbd721c9ce79005dc0af6c7d5d77571797576 -->
+<!-- innholds-hash: d70c830aabb44b1499e91623efa67e18d73995dbe8b22b828b083d49ced2f54a -->
 
 # Menerstatning ved yrkesskade eller yrkessykdom - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/menerstatning
-- **Sist hentet:** 2026-05-17T12:20:01Z
+- **Sist hentet:** 2026-05-23T20:18:07Z
 
 ## Innhold
 
@@ -199,11 +199,11 @@ Oppdatert 04.11.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -213,7 +213,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -222,3 +222,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

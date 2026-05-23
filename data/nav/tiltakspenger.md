@@ -1,11 +1,11 @@
-<!-- innholds-hash: a917aee2ae05305f072027269c7733642e77df26bd5ec89d637f69a9200e9145 -->
+<!-- innholds-hash: b5d9c7dffcc2b99deee284b5b1e5ab960e44b8a9e61abdfdc6a2fbd58dec0aa5 -->
 
 # Tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tiltakspenger
-- **Sist hentet:** 2026-05-16T15:45:50Z
+- **Sist hentet:** 2026-05-23T20:27:46Z
 
 ## Innhold
 
@@ -115,16 +115,16 @@ Du må sende oss dokumentasjon hvis du av helsemessige årsaker ikke kan arbeide
 
 Hvis du får endringer i inntekten, familiesituasjonen, jobbsituasjonen og/eller planlegger opphold i utlandet, kan det ha betydning for pengestøtte fra Nav. I slike tilfeller må du derfor straks melde fra til Nav.
 
-Oppdatert 23.04.2026
+Oppdatert 19.05.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -134,7 +134,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -143,3 +143,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

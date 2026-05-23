@@ -1,11 +1,11 @@
-<!-- innholds-hash: b9accc614e34eefe04a7d2fae6bd6dd6e86db29b6719cdb5a21942fbf94a3f0f -->
+<!-- innholds-hash: 77f3f1277ebc836c94fe9f4372f0ce56e45d5ef8981103ce63aaa2c1904f829f -->
 
 # Frivillig yrkesskadetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/frivillig-yrkesskadetrygd
-- **Sist hentet:** 2026-05-17T05:45:05Z
+- **Sist hentet:** 2026-05-23T20:38:56Z
 
 ## Innhold
 
@@ -29,7 +29,7 @@ For å kunne få forsikringen, må du
 - være selvstendig næringsdrivende i ENK, ANS/DA, eller
 - frilanser
 - være under 67 år
-- ha en forventet årsinntekt høyere enn grunnbeløpet i folketrygden, som er 130 160 kroner
+- ha en forventet årsinntekt høyere enn grunnbeløpet i folketrygden, som er 136 549 kroner
 - betale inn premie for yrkesskadedekning for minst ett kalenderår
 
 #### Yrkesskadetrygd for elever
@@ -44,7 +44,7 @@ Den årlige premien (det forsikringen koster) er 0,4 prosent av den forventede �
 
 For det første året betaler du premie for de månedene som gjenstår av året, fra og med den måneden forsikringen skal gjelde fra.
 
-Du betaler ikke premie for inntekter over 12 ganger grunnbeløpet, det tilsvarer 1 561 920 kroner.
+Du betaler ikke premie for inntekter over 12 ganger grunnbeløpet, det tilsvarer 1 638 588 kroner.
 
 Du er forsikret fra det tidspunktet Nav fikk søknaden din. Hvis du har søkt om yrkesskadetrygd fram i tid, gjelder forsikringen fra det tidspunktet du selv har valgt.
 
@@ -102,11 +102,11 @@ Oppdatert 04.11.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -116,7 +116,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -125,3 +125,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

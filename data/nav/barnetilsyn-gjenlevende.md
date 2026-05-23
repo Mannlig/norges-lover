@@ -1,11 +1,11 @@
-<!-- innholds-hash: 320bc376f1eeccde980be122aca6d42690d3b1d5a183c139213ed8420f52971c -->
+<!-- innholds-hash: bbc61b2fc189a1dcbee29020867c9df6e44a48771a0ae93005b796d437e82f5c -->
 
 # Stønad til barnetilsyn for gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-gjenlevende
-- **Sist hentet:** 2026-05-16T15:32:32Z
+- **Sist hentet:** 2026-05-23T19:48:30Z
 
 ## Innhold
 
@@ -86,7 +86,7 @@ Du kan få dekket utgiftene til barnepass opp til en øvre grense som er fastsat
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
 
-Du har ikke rett til stønad til barnetilsyn hvis månedsinntekten din ganget med 12 er mer enn 780 960 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp.
+Du har ikke rett til stønad til barnetilsyn hvis månedsinntekten din ganget med 12 er mer enn 819 294 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp.
 
 Alt du tjener tar vi med i beregningen vår. Gjenlevendepensjonen din er ikke med i beregningen.
 
@@ -242,11 +242,11 @@ Oppdatert 19.01.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -256,7 +256,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -265,3 +265,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

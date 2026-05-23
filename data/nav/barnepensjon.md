@@ -1,11 +1,11 @@
-<!-- innholds-hash: 354130fb3518c213f3e0eb85d225627698dc0f024a723d7b88ab0bb993c80985 -->
+<!-- innholds-hash: 80ebd964ee16c694ce15fa406697a421b349e9110ac2c1eb4fa33d7ef6506c07 -->
 
 # Barnepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnepensjon
-- **Sist hentet:** 2026-05-16T15:35:56Z
+- **Sist hentet:** 2026-05-23T19:53:16Z
 
 ## Innhold
 
@@ -55,10 +55,10 @@ Du kan ha rett til barnepensjon etter gamle regler dersom du var
 
 Du kan bare få barnepensjon hvis den avdøde forelderen din var medlem av folketrygden de siste 5 årene før dødsfallet. Du må også selv oppfylle kravene til å motta stønaden.
 
-Satsene gjelder fra 1. mai 2025.
+Satsene gjelder fra 1. mai 2026.
 
-- Har du mistet en av foreldrene dine, vil du få en ganger grunnbeløpet i folketrygden per år. Det er 130 160 kroner.
-- Har du mistet begge foreldrene dine, vil du få 2,25 ganger grunnbeløpet, 292 860 kroner.
+- Har du mistet en av foreldrene dine, vil du få en ganger grunnbeløpet i folketrygden per år. Det er 136 549 kroner.
+- Har du mistet begge foreldrene dine, vil du få 2,25 ganger grunnbeløpet, 307 235 kroner.
 Barnepensjonen skal ikke deles mellom dere. Har du søsken, får de det samme beløpet.
 
 Du kan få mindre barnepensjon hvis avdøde har bodd i utlandet.
@@ -395,11 +395,11 @@ Oppdatert 23.10.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -409,7 +409,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -418,3 +418,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

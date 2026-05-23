@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8bad2ac04a0f1b090914eb7ea3f3adcf948ae89c0d150aca1e3bd3da51eb4412 -->
+<!-- innholds-hash: 6aac7493561cbdd9daae87f6be14a593c6f23074b3929438fde84260bde0f62e -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist hentet:** 2026-05-16T08:27:06Z
+- **Sist hentet:** 2026-05-23T19:17:28Z
 
 ## Innhold
 
@@ -36,7 +36,7 @@ For å ha rett til omsorgspenger, må du ha fravær fra jobb slik at du mister a
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
 I tillegg må fraværet skyldes at du må være hjemme fordi barnet eller barnepasser er sykt. Her kan du lese mer detaljert om hvilke situasjoner som gjør at du kan bruke omsorgsdager.
@@ -258,7 +258,7 @@ Hvis situasjonen er innenfor deres kontroll, vil du ikke bli regnet som alene om
 - arbeider et annet sted
 - studerer eller går på skole et annet sted
 - er militærpersonell utstasjonert i utlandet
-Omsorgspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på  780 960 kroner.
+Omsorgspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på  819 294 kroner.
 
 Omsorgspengene beregnes etter samme regler som
 
@@ -459,11 +459,11 @@ Oppdatert 16.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -473,7 +473,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -482,3 +482,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

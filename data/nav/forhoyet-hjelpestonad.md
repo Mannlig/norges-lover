@@ -1,11 +1,11 @@
-<!-- innholds-hash: a398b20d1af30dceae0bee93012db3802663d80c032a457d05e06ac1d80e8c4e -->
+<!-- innholds-hash: 81ec97e916785abfaa2bfa818a2753e06e6dee8f004bcb9a648f4880d772704c -->
 
 # Forhøyet hjelpestønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forhoyet-hjelpestonad
-- **Sist hentet:** 2026-05-17T05:44:38Z
+- **Sist hentet:** 2026-05-23T20:13:18Z
 
 ## Innhold
 
@@ -139,11 +139,11 @@ Oppdatert 12.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -153,7 +153,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -162,3 +162,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

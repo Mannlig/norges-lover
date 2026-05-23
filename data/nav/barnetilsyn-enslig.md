@@ -1,11 +1,11 @@
-<!-- innholds-hash: 75ea22be43f566fee54479b5b57e5a341a86ae2f58f88d25806f3c50e5f49b52 -->
+<!-- innholds-hash: 696e3bcbe3a0818e0af0eb8d1a5d740e0c40850cbd03785b6a2fcd670164db66 -->
 
 # Stønad til barnetilsyn for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig
-- **Sist hentet:** 2026-05-17T05:39:07Z
+- **Sist hentet:** 2026-05-23T20:07:42Z
 
 ## Innhold
 
@@ -121,7 +121,7 @@ Du kan få dekket utgiftene til barnepass opp til en øvre grense som er fastsat
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
 
-Du har ikke rett til stønad til barnetilsyn hvis månedsinntekten din ganget med 12 er mer enn 780 960 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp.
+Du har ikke rett til stønad til barnetilsyn hvis månedsinntekten din ganget med 12 er mer enn 819 294 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp.
 
 Alt du tjener tar vi med i beregningen vår. Får du stønader fra Nav, er også disse med i beregningen:
 
@@ -351,7 +351,7 @@ Du må melde fra hvis
 - du sier opp barnepassordningen
 - du får innvilget redusert foreldrebetaling for barnepass
 - arbeidssituasjonen din endrer seg
-- månedsinntekten din ganget med 12 blir mer enn 780 960 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp
+- månedsinntekten din ganget med 12 blir mer enn 819 294 kroner før skatt, det vil si 6 ganger folketrygdens grunnbeløp
 - du får innvilget kontantstøtte eller andre stønader fra Nav
 - du får avslag på søknaden din om separasjon eller skilsmisse
 - du inngår samboerskap, partnerskap, eller gifter deg
@@ -386,11 +386,11 @@ Oppdatert 19.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -400,7 +400,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -409,3 +409,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

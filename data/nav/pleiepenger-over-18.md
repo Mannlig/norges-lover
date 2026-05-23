@@ -1,11 +1,11 @@
-<!-- innholds-hash: 935be0f96b5142fc13b16149dd473487d1fe0e64d6293aed5c10843fe56a4c99 -->
+<!-- innholds-hash: 7e4b170f4736619e1770ae2bda1681b759ca49f7a07e4dafea42f066760cd4a1 -->
 
 # Pleiepenger for en utviklingshemmet person over 18 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-over-18
-- **Sist hentet:** 2026-05-17T12:24:01Z
+- **Sist hentet:** 2026-05-23T20:22:54Z
 
 ## Innhold
 
@@ -66,7 +66,7 @@ For å ha rett til pleiepenger, må du ha fravær fra jobb på grunn av pleien s
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
 Bor du i Norge er du vanligvis
@@ -80,7 +80,7 @@ Ofte er dette foreldrene, men det kan også være andre omsorgspersoner som ven
 
 Hvis dere er flere som deler på å pleie, kan dere dele pleiepengene mellom dere.
 
-Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 780 960 kroner.
+Pleiepengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
 
 Pleiepenger regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før pleiepengeperioden din starter. Dette gjelder både hvis du er fast ansatt og hvis du har varierende arbeidsperioder eller inntekter.
 
@@ -391,11 +391,11 @@ Oppdatert 17.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -405,7 +405,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -414,3 +414,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

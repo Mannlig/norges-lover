@@ -1,11 +1,11 @@
-<!-- innholds-hash: e7ca99ad796d47f0bd49efe2b3a5c71857acfa0c9fdcc68895f9ea7e349d9ef6 -->
+<!-- innholds-hash: 559b902324051a63cfbece42744b8d668e76f699d62d10397cb4ccfda85c32d0 -->
 
 # Grunnmønster og søm av klær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnmonster
-- **Sist hentet:** 2026-05-18T02:21:29Z
+- **Sist hentet:** 2026-05-23T20:14:39Z
 
 ## Innhold
 
@@ -51,7 +51,7 @@ Prisene gjelder fra og med måltaking frem til ferdig mønster, eksklusive merve
 
 #### Spesialsydde klær
 
-Hvis alle klærne dine må sys, kan du hvert kalenderår få dekket årlige arbeidskostnader med å få sydd klærne med inntil 26 032 kroner. Hvis du bare trenger spesialsydde klær til overkroppen eller til underkroppen, kan du årlig få dekket arbeidskostnader med inntil 13 016 kroner.
+Hvis alle klærne dine må sys, kan du hvert kalenderår få dekket årlige arbeidskostnader med å få sydd klærne med inntil 27 310 kroner. Hvis du bare trenger spesialsydde klær til overkroppen eller til underkroppen, kan du årlig få dekket arbeidskostnader med inntil 13 655 kroner.
 
 Nav dekker opphold og transport i forbindelse med utforming og tilpasning av mønster.
 
@@ -107,16 +107,16 @@ Oppdatert 16.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -125,3 +125,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

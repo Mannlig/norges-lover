@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0571679b4e5f3ce1018192ff4849042a4d7dba4b7104a68efc1a38b3f8248905 -->
+<!-- innholds-hash: c542322eb7e718594669a829ea7602d013d34de8eaca54a3d9b20654db34195f -->
 
 # Opplæringspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplaringspenger
-- **Sist hentet:** 2026-05-17T12:22:59Z
+- **Sist hentet:** 2026-05-23T20:19:26Z
 
 ## Innhold
 
@@ -56,7 +56,7 @@ For å ha rett til opplæringspenger, må du ha fravær fra jobb på grunn av op
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
 For å ha rett til opplæringspenger, må du ha jobbet minst fire uker før du starter opplæringen.
@@ -83,7 +83,7 @@ Arbeidsavklaringspenger gir ikke rett til opplæringspenger. Hvis du kombinerer 
 
 Bor du i Norge er du vanligvis
 
-Opplæringspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 780 960 kroner.
+Opplæringspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
 
 Det er ingen tidsbegrensing på hvor lenge du kan få opplæringspenger når du er i en situasjon hvor alle vilkårene er oppfylt.
 
@@ -180,11 +180,11 @@ Oppdatert 02.03.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -194,7 +194,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -203,3 +203,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

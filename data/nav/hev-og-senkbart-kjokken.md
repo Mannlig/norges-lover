@@ -1,11 +1,11 @@
-<!-- innholds-hash: 23caf3c6a685448107663bb9921ae3eb689291fd498d085a791788b8342d119c -->
+<!-- innholds-hash: 3c6ef6e55620ca7c2e609df5f2a0b2b772866aa6e3966d0a04f2ed9fb0069e50 -->
 
 # Hev- og senkbar kjøkkenløysing - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hev-og-senkbart-kjokken
-- **Sist hentet:** 2026-05-18T02:21:56Z
+- **Sist hentet:** 2026-05-23T20:40:20Z
 
 ## Innhold
 
@@ -187,7 +187,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar kl 9
+Stengt no, opnar tysdag kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -199,3 +199,4 @@ Stengt no, opnar kl 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

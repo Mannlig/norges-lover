@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2db5147066cd64853c60beb636967abdd59edc94b365bbdc3bd3a6364cfc68a2 -->
+<!-- innholds-hash: f14a67a3f42ff4a358af5bfc7849e7a5d88cf3e6b7ea417fdcd1f35868d81b0d -->
 
 # Har vansker med tale og språk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tale-sprak
-- **Sist hentet:** 2026-05-16T08:17:36Z
+- **Sist hentet:** 2026-05-23T19:04:03Z
 
 ## Innhold
 
@@ -94,7 +94,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -106,3 +106,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

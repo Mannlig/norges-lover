@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1a1ca709aa76a570dc99383bd070506cec18825c80182b0b593d5b4b70369f4d -->
+<!-- innholds-hash: 155e61a38325637d433ed57aa86dbe7c82d60f7829b4a64425afd982cad64bf2 -->
 
 # Er berørt av krigen i Ukraina  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ukraina
-- **Sist hentet:** 2026-05-16T08:37:31Z
+- **Sist hentet:** 2026-05-23T19:31:58Z
 
 ## Innhold
 
@@ -213,16 +213,16 @@ Oppdatert 09.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -231,3 +231,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

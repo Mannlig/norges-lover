@@ -1,11 +1,11 @@
-<!-- innholds-hash: d996e5ea793052dfc2616b81d65696d2192f7a0643da96ce1d38ec83458dfcf5 -->
+<!-- innholds-hash: 9cad6c6d54f1f47a79ebc1cad7e28b3cf9763bc0b141cf8109cac490d9edfce2 -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/svangerskapspenger
-- **Sist hentet:** 2026-05-16T08:35:28Z
+- **Sist hentet:** 2026-05-23T19:29:10Z
 
 ## Innhold
 
@@ -127,7 +127,7 @@ Eksempel 2: Du har dagpenger fra Nav. En uke før du starter svangerskapspenger
 
 Eksempel 3: Du har kun dagpenger fra Nav. Du vil ikke ha rett til svangerskapspenger siden du ikke er arbeidstaker, frilanser eller selvstendig næringsdrivende dagen du starter svangerskapspenger.
 
-Du må ha hatt inntekt som utgjør 65 080 kroner i året, før du må midlertidig slutte i arbeidet. Dette utgjør halvparten av grunnbeløpet, som tilsvarer 130 160 kroner
+Du må ha hatt inntekt som utgjør 68 275 kroner i året, før du må midlertidig slutte i arbeidet. Dette utgjør halvparten av grunnbeløpet, som tilsvarer 136 549 kroner
 
 Fraværet under svangerskapet må føre til at du taper inntekt.
 
@@ -153,7 +153,7 @@ Du kan få svangerskapspenger fra det tidspunktet du må slutte i arbeidet, og 
 
 Fra 3 uker før termin kan du søke foreldrepenger eller engangsstønad.
 
-Svangerskapspenger beregnes ut fra inntekten du har hatt før du mottar svangerskapspenger. Du kan få utbetalt svangerskapspenger opp til 780 960 kroner, som er seks ganger grunnbeløpet i folketrygden.
+Svangerskapspenger beregnes ut fra inntekten du har hatt før du mottar svangerskapspenger. Du kan få utbetalt svangerskapspenger opp til 819 294 kroner, som er seks ganger grunnbeløpet i folketrygden.
 
 Se hva som gjelder for deg:
 
@@ -207,7 +207,7 @@ Hvis du har kombinasjon av inntekter og arbeidsforhold vil vi beregne svangerska
 
 Svangerskapspengene blir beregnet ut fra begge inntektene dine.
 
-Hvis du har en samlet inntekt over 780 960 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløp.
+Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløp.
 
 Eksempel: Arbeidsinntekten din er 500 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 800 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 638 394 kroner (2021). Arbeidsinntekten din dekkes fullt ut med 500 000 kroner. Frilansinntekten din dekkes med 138 394 kroner, opp til seks ganger grunnbeløpet.
 
@@ -582,11 +582,11 @@ Oppdatert 17.02.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -596,7 +596,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -605,3 +605,4 @@ Stengt nå, åpner i morgen kl. 9
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

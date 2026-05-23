@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5f2e78727e6cf21e4f2f6c38e5f13beb5ea9d39a8c3ea1c9bb06872e3695a439 -->
+<!-- innholds-hash: ab85102b95b5772b62b4cc1e08a9f309cc949fd117fe56007d6ec0572b95fe74 -->
 
 # Avklaring - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/avklaring
-- **Sist hentet:** 2026-05-17T05:37:32Z
+- **Sist hentet:** 2026-05-23T20:34:04Z
 
 ## Innhold
 
@@ -82,11 +82,11 @@ Oppdatert 20.08.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -96,7 +96,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -105,3 +105,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)

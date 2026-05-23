@@ -2,9 +2,9 @@
 
 Arbeidstilsynet
 
-*Sist oppdatert: 2026-05-23 08:41 UTC*
+*Sist oppdatert: 2026-05-23 21:12 UTC*
 
-**Antall dokumenter:** 149
+**Antall dokumenter:** 167
 
 ## Innhold
 
@@ -17,6 +17,9 @@ Arbeidstilsynet
 - [Arbeidsrelaterte muskel- og skjelettplager](arbeidsmiljo/arbeidsrelaterte-muskel--og-skjelettplager.md)
 - [Arbeidsrelaterte psykiske plager](arbeidsmiljo/arbeidsrelaterte-psykiske-plager.md)
 - [Vurderingsverktøy for ergonomisk risiko ved manuelt arbeid](arbeidsmiljo/ergonomi/Vurderingsverktoy-for-ergonomisk-risiko-ved-manuelt-arbeid.md)
+- [Mobile IKT-verktøy](arbeidsmiljo/ergonomi/arbeid-ved-dataskjerm/mobile-ikt-verktoy.md)
+- [Sjekkliste for arbeid ved dataskjerm](arbeidsmiljo/ergonomi/arbeid-ved-dataskjerm/sjekkliste-for-arbeid-ved-dataskjerm.md)
+- [Synsundersøking og databriller](arbeidsmiljo/ergonomi/arbeid-ved-dataskjerm/synsundersoking-og-databriller.md)
 - [Arbeid ved dataskjerm](arbeidsmiljo/ergonomi/arbeid-ved-dataskjerm.md)
 - [Ensformig eller tempostyrt arbeid](arbeidsmiljo/ergonomi/manuelt-arbeid/ensformig-arbeid.md)
 - [Tungt arbeid](arbeidsmiljo/ergonomi/manuelt-arbeid/tungt-arbeid.md)
@@ -77,6 +80,7 @@ Arbeidstilsynet
 - [Internkontroll - systematisk arbeid med helse, miljø og sikkerhet](hms/internkontroll.md)
 - [Risikovurdering](hms/risikovurdering.md)
 - [Arbeidsgivers plikt til å sørge for medvirkning](hms/roller-i-hms-arbeidet/arbeidsgiver/arbeidsgivers-plikt-til-a-sorge-for-medvirkning.md)
+- [Hørselskontroll](hms/roller-i-hms-arbeidet/arbeidsgiver/helsekontroll/horselskontroll.md)
 - [Helseundersøkelse](hms/roller-i-hms-arbeidet/arbeidsgiver/helsekontroll.md)
 - [HMS-opplæring for ledere](hms/roller-i-hms-arbeidet/arbeidsgiver/hms-opplaring-ledere.md)
 - [Register over eksponerte arbeidstakere](hms/roller-i-hms-arbeidet/arbeidsgiver/register-over-eksponerte-arbeidstakere.md)
@@ -87,6 +91,7 @@ Arbeidstilsynet
 - [Arbeidstakers plikter](hms/roller-i-hms-arbeidet/arbeidstakers-plikter.md)
 - [Plan for bedriftshelsetjenestens (BHT) bistand i virksomheten](hms/roller-i-hms-arbeidet/bht/dette-skal-bedriftshelsetjenesten-hjelpe-arbeidsgiver-med/plan-for-bedriftshelsetjenestens-bht-sin-bistand-i-virksomheten.md)
 - [Dette skal bedriftshelsetjenesten hjelpe arbeidsgiver med](hms/roller-i-hms-arbeidet/bht/dette-skal-bedriftshelsetjenesten-hjelpe-arbeidsgiver-med.md)
+- [Utdyping av krav til kompetanseområder](hms/roller-i-hms-arbeidet/bht/godkjenning-av-bedriftshelsetjenester/godkjenning-av-bht-utdyping-av-krav-til-kompetanseomrader.md)
 - [Søk om godkjenning av bedriftshelsetjeneste](hms/roller-i-hms-arbeidet/bht/godkjenning-av-bedriftshelsetjenester.md)
 - [Slik søker dere om dispensasjon fra tilknytning til bedriftshelsetjeneste](hms/roller-i-hms-arbeidet/bht/sok-dispensasjon-tilknytning-bedriftshelsetjeneste.md)
 - [Bedriftshelsetjeneste (BHT)](hms/roller-i-hms-arbeidet/bht.md)
@@ -110,9 +115,18 @@ Arbeidstilsynet
 - [Krav til små, midlertidige og gamle arbeidsbygg](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-arbeidsmiljoet-i-midlertidige-arbeidslokaler.md)
 - [Krav til lys og synsforhold](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-dagslys-og-utsyn.md)
 - [Krav til dusj på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-dusj-pa-arbeidsplassen.md)
+- [Krav til fysisk arbeidsmiljø i brannstasjonar](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-fysisk-arbeidsmiljo-i-brannstasjonar.md)
+- [Krav til garderober på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-garderober-pa-arbeidsplassen.md)
 - [Krav til handikaptoalett, trinnfri atkomst og heis](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-heis-og-handicaptoalett.md)
+- [Krav til pauserom på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-pauserom.md)
+- [Krav til rom for renholdsutstyr](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-rom-for-renholdsutstyr.md)
+- [Krav til soverom på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-soverom.md)
+- [Krav til spiserom på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-spiserom2.md)
+- [Krav til toaletter på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-toaletter-pa-arbeidsplassen.md)
+- [Krav til tørkerom på arbeidsplassen](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-torkerom.md)
 - [Krav til ventilasjon og inneklima](regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-ventilasjon.md)
 - [Arbeidsbygg skal forebygge sykdom og skade fra stråling, biologisk materiale og kjemikalier](regelverk/byggesak/krav-til-bygningsmessige-losninger/straling-biologisk-materiale-og-kjemi.md)
+- [Krav til utendørs arbeid og lagring](regelverk/byggesak/krav-til-bygningsmessige-losninger/utendors-arbeid-og-lagring.md)
 - [Krav til bygningsmessige løsninger i arbeidsbygg og arbeidslokaler](regelverk/byggesak/krav-til-bygningsmessige-losninger.md)
 - [Leietakere som er arbeidsgivere, skal medvirke i planleggingen](regelverk/byggesak/leietakere-skal-medvirke.md)
 - [Slik saksbehandler vi søknader om Arbeidstilsynets samtykke](regelverk/byggesak/saksbehandling-av-soknader-om-samtykke.md)
@@ -157,7 +171,9 @@ Arbeidstilsynet
 - [Maskinforskriften](regelverk/forskrifter/maskinforskriften.md)
 - [Produsentforskriften](regelverk/forskrifter/produsentforskriften.md)
 - [Storulykkeforskriften](regelverk/forskrifter/storulykkeforskriften.md)
+- [Høringsnotat – Høring om endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid for å tydeliggjøre regelverket om psykososialt arbeidsmiljø](regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo/horingsnotat.md)
 - [Forslag til endringer i arbeidsmiljøloven og tilhørende forskrift for å tydeliggjøre reglene om psykososialt arbeidsmiljø](regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo.md)
+- [Høringsnotat – Forslag til endringer i forskrift om administrative ordninger på arbeidsmiljølovens område § 14-1 – Gebyrer for byggesaksbehandling etter arbeidsmiljøloven § 18-9](regelverk/horinger/horing-forslag-til-endringer-i-forskrift-om-administrative-ordninger--14-1-gebyrer-for-byggesaksbehandling/horingsnotat.md)
 - [Høyring - forslag til endringer i forskrift om administrative ordninger § 14-1 Gebyrer for byggesaksbehandling](regelverk/horinger/horing-forslag-til-endringer-i-forskrift-om-administrative-ordninger--14-1-gebyrer-for-byggesaksbehandling.md)
 - [Høringer](regelverk/horinger.md)
 - [Allmenngjøringsloven](regelverk/lover/allmenngjoringsloven.md)
@@ -166,6 +182,11 @@ Arbeidstilsynet
 - [Straffeprosessloven – strpl](regelverk/lover/straffeprosessloven--strpl.md)
 - [Tobakksskadeloven – tobskl](regelverk/lover/tobakksskadeloven--tobskl.md)
 - [Om regelverket](regelverk/om-regelverket.md)
+
+### Tema
+
+- [Organisatorisk arbeidsmiljø](tema/organisatorisk-arbeidsmiljo.md)
+- [Personlig verneutstyr (PVU)](tema/personlig-verneutstyr.md)
 
 ---
 

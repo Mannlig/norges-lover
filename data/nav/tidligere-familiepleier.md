@@ -1,11 +1,11 @@
-<!-- innholds-hash: ace2aaa614fffb81bcb1bd85c99aad85d951a8f6562e033d2b7c2daab883df18 -->
+<!-- innholds-hash: cc59fec0fb11459ddeb7e8abe632c543f97053e3a893de2ce09dafe4899ae3ad -->
 
 # Ytelser til tidligere familiepleier - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tidligere-familiepleier
-- **Sist hentet:** 2026-05-17T12:27:52Z
+- **Sist hentet:** 2026-05-23T20:26:21Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Du må også være medlem i folketrygden.
 
 Hvor mye du kan få avhenger av om du har fått ytelsen før eller etter 1. januar 2024.
 
-Full ytelse til tidligere familiepleier er 2,25 ganger grunnbeløpet i folketrygden (G), 292 860 kroner i året. Det er 24 405 kroner i måneden før skatt.
+Full ytelse til tidligere familiepleier er 2,25 ganger grunnbeløpet i folketrygden (G), 307 235 kroner i året. Det er 25 603 kroner i måneden før skatt.
 
 Inntekten din avgjør hvor mye du kan få.
 
@@ -49,7 +49,7 @@ Ytelsen reguleres 1. mai hver år.
 
 Ytelse til tidligere familiepleier består av grunnpensjon og et særtillegg. Størrelsen på ytelsen avhenger av hvor lenge du har vært medlem av folketrygden.
 
-Hvis du har minst 40 år trygdetid i Norge, blir full grunnpensjon med særtillegg 21 693 kroner i måneden.
+Hvis du har minst 40 år trygdetid i Norge, blir full grunnpensjon med særtillegg 22 758 kroner i måneden.
 
 Ytelsen blir redusert hvis du har eller kan forventes å ha en egen arbeidsinntekt. Grunnpensjonen din kan også bli redusert hvis du blir samboer.
 
@@ -265,11 +265,11 @@ Oppdatert 16.09.2025
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Chatboten har døgnåpent. Chat med veileder er stengt.
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 #### Skriv til oss
@@ -279,7 +279,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner tirsdag kl. 9
 
 
 ---
@@ -288,3 +288,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-05-23** Innhold endret (se git-historikk for diff)
