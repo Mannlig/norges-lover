@@ -21,9 +21,10 @@ import os
 import subprocess
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
-from config import DATA_PATHS, DELAY_BETWEEN_SOURCES, LOGS_DIR, MAX_PAGES_PER_RUN
+from config import DATA_DIR, DATA_PATHS, DELAY_BETWEEN_SOURCES, LOGS_DIR, MAX_PAGES_PER_RUN
 from formatters.markdown import lag_indeks, KATEGORI_INFO
 from publishers.github_publisher import GitHubPublisher
 from scrapers import (
@@ -89,6 +90,31 @@ def oppdater_indekser(alle_filer: list[Path]) -> list[Path]:
     return indeks_filer
 
 
+def skriv_heartbeat(output_dir: Path, statistikk: dict[str, int]) -> Path:
+    """Skriv heartbeat-fil med tidsstempel og statistikk – alltid, uansett endringer."""
+    status_dir = output_dir / "status"
+    status_dir.mkdir(parents=True, exist_ok=True)
+    filepath = status_dir / "heartbeat.md"
+
+    tidspunkt = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    linjer = [
+        "# Systemstatus – norges-lover-bot",
+        "",
+        f"**Sist kjørt:** {tidspunkt}",
+        f"**Intervall:** ~2 timer (daemon-modus)",
+        "",
+        "## Filer hentet denne kjøringen",
+        "",
+    ]
+    total = 0
+    for kilde, antall in statistikk.items():
+        linjer.append(f"- **{kilde}:** {antall} filer")
+        total += antall
+    linjer += ["", f"**Totalt denne kjøringen:** {total} filer", ""]
+    filepath.write_text("\n".join(linjer), encoding="utf-8")
+    return filepath
+
+
 def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None = None):
     """Én full runde: scrape → indekser → publish."""
     if publisher is None:
@@ -98,6 +124,7 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
     publisher.pull_latest()
 
     alle_nye_filer: list[Path] = []
+    statistikk: dict[str, int] = {}
 
     for kilde_navn, scraper_klasse, data_nøkkel, max_sider in KJØRINGER:
         if kun_kilde and kilde_navn != kun_kilde:
@@ -106,15 +133,18 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
         data_path = DATA_PATHS[data_nøkkel]
         filer = kjor_kilde(kilde_navn, scraper_klasse, data_path, max_sider)
         alle_nye_filer.extend(filer)
+        statistikk[kilde_navn] = len(filer)
 
         if not kun_kilde:
             logger.info("Venter %.0fs før neste kilde...", DELAY_BETWEEN_SOURCES)
             time.sleep(DELAY_BETWEEN_SOURCES)
 
-    # Én commit for hele kjøringen
-    if alle_nye_filer:
-        indekser = oppdater_indekser(alle_nye_filer)
-        publisher.publish(alle_nye_filer + indekser)
+    # Heartbeat skrives alltid – gir synlig commit selv når ingenting endret seg
+    heartbeat = skriv_heartbeat(DATA_DIR, statistikk)
+    alle_nye_filer.append(heartbeat)
+
+    indekser = oppdater_indekser(alle_nye_filer)
+    publisher.publish(alle_nye_filer + indekser)
 
     logger.info("=== Kjøring fullført ===")
 
