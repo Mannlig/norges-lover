@@ -1,4 +1,4 @@
-<!-- innholds-hash: fd02b8ceb24d3e76dd2beeee3654d196f3d90f2513969321469b13c7f078737b -->
+<!-- innholds-hash: a80d5ac185a201b6371102b7e37cf8a67fa9a215536c03d24fc46dd1a8362538 -->
 
 # Endringer i straffeloven (selvstendig inndragning m.m.)
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 105846
 - **Type:** 3
 - **Korttittel:** Endringer i straffeloven (selvstendig inndragning m.m.)
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Sist hentet:** 2026-06-02T13:27:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105846
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068544+0200)/",
+  "respons_dato_tid": "/Date(1780405690119+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -43,12 +43,12 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 27 L (2025-2026), Innst. 214 L (2025-2026)",
+  "henvisning": "Prop. 27 L (2025-2026), Innst. 214 L (2025-2026), Lovvedtak 43 (2025-2026)",
   "id": 105846,
   "innstilling_id": 17334,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
+    "respons_dato_tid": "/Date(1780405407612+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 105846,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -66,14 +66,14 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -83,7 +83,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Endringer i straffeloven (selvstendig inndragning m.m.)",
   "type": 3
 }
@@ -97,3 +97,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

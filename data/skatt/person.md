@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2d83ffd0f43250be816783d2e604f02c9a1c35aa88aeb065bac68baaa943492d -->
+<!-- innholds-hash: e476c55b29f0483a863a50a2f5186e59ce550102b91d8e33303450b8e53ed68f -->
 
 # Person
 
@@ -6,19 +6,19 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-19T21:27:27Z
+- **Sist hentet:** 2026-06-02T15:46:10Z
 
 ## Innhold
 
 
 ### Du får beskjed når skatteoppgjøret ditt er klart
 
-Har du fått nye opplysninger eller noe er feil, kan du fortsatt
 
+#### Fristen for næringsdrivende var 31. mai
 
-#### Fristen for næringsdrivende er 31. mai
+Siden 31. mai var på en søndag i år, var det ikke for sent om du leverte 1. juni.
 
-Siden 31. mai er på en søndag i år, er det ikke for sent om du leverer 1. juni.
+Hvis du ikke har levert enda, må du
 
 
 ### Hva kan vi hjelpe deg med?
@@ -49,3 +49,4 @@ Siden 31. mai er på en søndag i år, er det ikke for sent om du leverer 1. jun
 
 - **2026-05-11** Første gang hentet
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

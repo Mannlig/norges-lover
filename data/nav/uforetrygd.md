@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6e14e450dfebf3e93d3e2355bba5512115f5f83394ad42a7ee728f7d9210d44a -->
+<!-- innholds-hash: da4605c6af10b1b2316e3306771e252a879cd12dae78f58d18aeee1eabd856bf -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
-- **Sist hentet:** 2026-05-22T19:36:56Z
+- **Sist hentet:** 2026-06-02T19:42:57Z
 
 ## Innhold
 
@@ -749,11 +749,11 @@ Oppdatert 08.05.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -763,7 +763,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -773,3 +773,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

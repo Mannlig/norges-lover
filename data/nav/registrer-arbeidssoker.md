@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2388e1e518f91785e64fad39f0f8aa3cf471b2e583cae78ef5d795a8c55e2935 -->
+<!-- innholds-hash: 56d3fa2f00b6761085c80a8215a2975bfbb518efdc9627437ded302c46d0c1cf -->
 
 # Registrer deg som arbeidssøker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/registrer-arbeidssoker
-- **Sist hentet:** 2026-05-15T09:10:07Z
+- **Sist hentet:** 2026-06-02T19:04:13Z
 
 ## Innhold
 
@@ -45,6 +45,7 @@ Svar på noen korte spørsmål og få en anbefaling basert på situasjonen din.
 For å vurdere hva slags tjenester du trenger, må vi ha opplysninger om
 
 - alderen din
+- adressen din
 - du har vært i jobb
 - utdanningen din
 - eventuelle utfordringer
@@ -70,7 +71,7 @@ Hvis du er uenig i den oppfølgingen vi foreslår, har du mulighet til å gi til
 
 Ønsker du å være registrert som arbeidssøker hos Nav må du bekrefte dette hver 14. dag.
 
-Oppdatert 30.04.2026
+Oppdatert 22.05.2026
 
 
 ---
@@ -79,3 +80,4 @@ Oppdatert 30.04.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

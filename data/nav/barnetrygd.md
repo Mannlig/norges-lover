@@ -1,11 +1,11 @@
-<!-- innholds-hash: 66954f9dddb801cf09d0a122f51a9bc84f8290580fada6092e994b9f25745249 -->
+<!-- innholds-hash: 9a3d55abb42167efa72ced6895b924712fac37320fafacfdffcba0c6bd6527d6 -->
 
 # Barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetrygd
-- **Sist hentet:** 2026-05-22T19:54:58Z
+- **Sist hentet:** 2026-06-02T20:01:12Z
 
 ## Innhold
 
@@ -362,11 +362,11 @@ Oppdatert 17.12.2025
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -376,7 +376,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -386,3 +386,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

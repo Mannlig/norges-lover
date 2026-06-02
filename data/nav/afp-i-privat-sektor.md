@@ -1,11 +1,11 @@
-<!-- innholds-hash: a8f28a51c2bf92efd1bbbeef7fa66b24093e82c5d19d53e97ff74091b9932345 -->
+<!-- innholds-hash: 2200de80d9f7145e204ce28a3df284814508ad9b8e053c602fa4937c013db49b -->
 
 # Avtalefestet pensjon (AFP) i privat sektor - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-i-privat-sektor
-- **Sist hentet:** 2026-05-22T19:59:06Z
+- **Sist hentet:** 2026-06-02T20:05:24Z
 
 ## Innhold
 
@@ -305,11 +305,11 @@ Oppdatert 23.04.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -319,7 +319,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -329,3 +329,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

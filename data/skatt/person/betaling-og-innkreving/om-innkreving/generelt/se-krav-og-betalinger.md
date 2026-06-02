@@ -1,4 +1,4 @@
-<!-- innholds-hash: d6e699524a00dd59f0bfc4bd3868179fbc173c3aa7600dadf8728a89beb0e376 -->
+<!-- innholds-hash: c8c023c8da9c2d5e6b031e3ba1c0bb18f9a6f99bb58285f6c09063c5da046b00 -->
 
 # Se dine personlige krav og betalinger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/se-krav-og-betalinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:11:40Z
+- **Sist hentet:** 2026-06-02T15:47:12Z
 
 ## Innhold
 
@@ -16,13 +16,13 @@
 
 Oversikt over dine personlige krav, tilgodebeløp og inn- og utbetalinger hos Skatteetaten.
 
+Dette gjelder deg som privatperson eller
+
 Du kan logge deg inn for å se skattekrav, erstatningskrav og krav vi krever inn på vegne at andre offentlige instanser.
 
 Logg inn:
 
 Hvis du trenger oversikt over dine bidragskrav eller andre krav fra Nav, Helfo og Garantikassen for fiskere, må du
-
-Du kan bestille en utskrift som viser alle inn- og utbetalinger for en valgt periode. Du får oversikt over innbetalinger som er gjort og hvilke krav som har blitt dekket.
 
 
 ---
@@ -31,3 +31,4 @@ Du kan bestille en utskrift som viser alle inn- og utbetalinger for en valgt per
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

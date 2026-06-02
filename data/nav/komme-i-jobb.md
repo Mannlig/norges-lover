@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05668068ee71dabb561d5ffc6e034242e3b5488141f8d80755cc1c5f27f78b59 -->
+<!-- innholds-hash: 2647b07c5477e68c5a0abf5b4aad7e9fb02cc00b1a2d473b23334aca9312bbdd -->
 
 # Trenger hjelp til å komme i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/komme-i-jobb
-- **Sist hentet:** 2026-05-21T23:49:11Z
+- **Sist hentet:** 2026-06-02T18:56:14Z
 
 ## Innhold
 
@@ -116,7 +116,7 @@ Tolketjenesten har ansvar for å formidle og utføre tolkeoppdrag for døve, dø
 
 Hvis du er døv, hørselshemmet eller døvblind, kan du også få tolkehjelp på arbeidsplassen din. Les mer om
 
-Oppdatert 19.05.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
@@ -145,3 +145,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

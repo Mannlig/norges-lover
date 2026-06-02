@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5509190b22a06e3e8c35218d346b5894daffcc5c8f1a72989928587b6f419fe7 -->
+<!-- innholds-hash: 608349f0e196ff42d2dcf26c66646a74ee52bf9f99d28d15c9d251dcbe9b225c -->
 
 # Ettersende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ettersende
-- **Sist hentet:** 2026-05-15T08:52:23Z
+- **Sist hentet:** 2026-06-02T18:39:39Z
 
 ## Innhold
 
@@ -204,7 +204,7 @@ Forsikring for å få bedre dekning når du blir sykmeldt.
 Hvis du har en synsnedsettelse, kan ulike situasjoner og behov tilrettelegges med  forskjellige hjelpemidler for forstørring.
 
 
-#### Frivillig medlemskap hvis du skal oppholde deg og arbeide i Norge
+#### Frivillig medlemskap hvis du skal jobbe eller oppholde deg i Norge
 
 Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
@@ -905,3 +905,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 126088a04de41eab185a6be57be9025027bb8efb34f4f68a2a0281c352bfc363 -->
+<!-- innholds-hash: c2b9ddd8916f9411769d5e05dfce59e00d04ad79ae9d57b8b70b46969a432a0a -->
 
 # Søk om frivillig medlemskap under opphold i utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/frivillig-medlemskap
-- **Sist hentet:** 2026-05-15T22:14:34Z
+- **Sist hentet:** 2026-06-02T20:08:09Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Som medlem må du som regel betale
 
 Hva som skjer med medlemskapet ditt, avhenger av blant annet av hva du skal gjøre i utlandet, og hvor lenge du skal være der.
 
-Les om hva som gjelder i din situasjon
+Les mer om hva som gjelder i situasjonen din
 
 For å kunne bli frivillig medlem, må du ha
 
@@ -190,7 +190,7 @@ Du kan lese mer om klagerettigheter:
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 04.05.2026
+Oppdatert 27.05.2026
 
 
 ---
@@ -199,3 +199,4 @@ Oppdatert 04.05.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

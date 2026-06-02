@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8e880cdd704c0b0032ff18c5acc3e962a9321aa892ef54eb3b56d6810e073779 -->
+<!-- innholds-hash: d2225106c51f0b241b4f3ee1bc9d996983123fb50da1293ba6d90c73aeb90c85 -->
 
 # Trenger hjelp til å fullføre utdanning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fullfore-utdanning
-- **Sist hentet:** 2026-05-22T19:43:49Z
+- **Sist hentet:** 2026-06-02T19:49:57Z
 
 ## Innhold
 
@@ -182,16 +182,16 @@ Les mer om språktolk i samtale med en veileder.
 
 Tolketjenesten har ansvar for å formidle og utføre tolkeoppdrag for døve, døvblinde og hørselshemmede. Les mer om tolketjenester for døve, hørselshemmede og døvblinde.
 
-Oppdatert 09.02.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -201,7 +201,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -211,3 +211,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

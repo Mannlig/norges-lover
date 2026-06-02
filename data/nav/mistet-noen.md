@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4fb84054c8b032dd2d05eb888a59345fa6f96524c02ba6580112fc64b9030d58 -->
+<!-- innholds-hash: 4812c2b4278b5c808eb54bfc27ac016a57dd95b8364857cfb3b1ff55c0b1e7bd -->
 
 # Har mistet noen i nær familie - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/mistet-noen
-- **Sist hentet:** 2026-05-22T19:45:14Z
+- **Sist hentet:** 2026-06-02T19:51:19Z
 
 ## Innhold
 
@@ -240,11 +240,11 @@ Oppdatert 20.01.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -254,7 +254,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -264,3 +264,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

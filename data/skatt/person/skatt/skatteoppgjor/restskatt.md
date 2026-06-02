@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9a0941507834d26dd2e35bdc1c28f7edf23d8a841353506994c8ad1e1f41191f -->
+<!-- innholds-hash: 07728835ca2a8635d66fc107b4a6d77c461bf8e324fded15c25ee9d9b0621f96 -->
 
 # Restskatt – må betale penger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skatteoppgjor/restskatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:27:22Z
+- **Sist hentet:** 2026-06-02T16:08:48Z
 
 ## Innhold
 
@@ -39,13 +39,13 @@ Aktuelle tiltak når du ikke betaler er:
 - konkursbegjæring
 Hvis du ikke har betalt restskatten din på 3 år, kan du få reduksjon i din pensjonsgivende inntekt. Det betyr at du kan få mindre pensjon.
 
-Hvis du ser at du får restskatt, kan du betale inn beløpet med en gang, i stedet for å vente på faktura. Betaler du senest 31. mai, slipper du å betale renter.
+Hvis du ser at du får restskatt, kan du betale inn beløpet med en gang, i stedet for å vente på faktura. Betaler du senest 31. mai, slipper du å betale renter. Siden 31. mai er på en søndag i år (2026), er det ikke for sent om du betaler 1. juni.
 
 Du må lage et KID-nummer før du betaler beløpet til Skatteetaten.
 
 Du kan betale når som helst, også før du har fått skattemeldingen og skatteoppgjøret. Hvis du betaler inn for mye restskatt, vil du få tilbake det du har betalt inn, pluss renter.
 
-Når du har betalt for lite skatt og får restskatt, må du betale renter på restskatten. Hvis du betaler senest 31. mai, slipper du å betale renter.
+Når du har betalt for lite skatt og får restskatt, må du betale renter på restskatten. Hvis du betaler senest 31. mai, slipper du å betale renter. Siden 31. mai er på en søndag i år (2026), er det ikke for sent om du betaler 1. juni.
 
 Betaler du etter 31. mai er renten på 3,12 prosent. Renten beregnes fra 1. juli i inntektsåret, altså året før du leverer skattemeldingen, frem til betalingsfrist på første faktura. Det betyr at hvis du for eksempel har fått restskatt for inntektsåret 2025, som du betaler etter 31. mai, legger vi på renter på beløpet fra 1. juli 2025 frem til betalingsfrist.
 
@@ -86,3 +86,4 @@ Sjekk at opplysningene i skattekortet ditt er riktige. Hvis noe er feil eller ma
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

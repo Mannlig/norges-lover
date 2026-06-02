@@ -1,4 +1,4 @@
-<!-- innholds-hash: 19dfc2317730878ce86dc7dd41dc9155ed3afd6f57c3cd8ebf9805942426466f -->
+<!-- innholds-hash: 2d349cd18075c093eb9261661a5d57f4ad22fb4ad9045f04bd7bf6d0bfcfbddf -->
 
 # Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Sist hentet:** 2026-06-02T13:27:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200320
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
+  "respons_dato_tid": "/Date(1780405690119+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -57,14 +57,40 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
+    "respons_dato_tid": "/Date(1780405407612+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
   "korttittel": "Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina",
   "sak_fremmet_id": 200320,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Selnes",
+      "foedselsdato": "/Date(216514800000+0100)/",
+      "fornavn": "Lise",
+      "id": "LISSEL",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "He",
+        "navn": "Hedmark"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "versjon": "1.6",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina",
@@ -88,3 +114,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

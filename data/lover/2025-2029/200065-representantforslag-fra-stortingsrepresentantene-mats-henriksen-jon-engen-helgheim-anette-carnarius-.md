@@ -1,4 +1,4 @@
-<!-- innholds-hash: 55785dda0d77ed01772621361a68409c62046326aabc2aec176218bd48b2b1c4 -->
+<!-- innholds-hash: c9929811c497efbdbb859f927322892381080d428038bf84490b437151e9f6a4 -->
 
 # Representantforslag fra stortingsrepresentantene Mats Henriksen, Jon Engen-Helgheim, Anette Carnarius Elseth, Liv Gustavsen, Finn Krokeide og Stian Storbukås om å endre straffeprosessloven for å sikre døde barns rettssikkerhet
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200065
 - **Type:** 3
 - **Korttittel:** Representantforslag om å endre straffeprosessloven for å sikre døde barns rettssikkerhet
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Sist hentet:** 2026-06-02T13:27:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200065
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068544+0200)/",
+  "respons_dato_tid": "/Date(1780405690119+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Elseth",
@@ -34,14 +34,14 @@
       "id": "AE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -59,14 +59,14 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -84,14 +84,14 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -109,14 +109,14 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -134,14 +134,14 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -159,14 +159,14 @@
       "id": "STISTO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -180,7 +180,7 @@
   "innstilling_id": 17362,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
+    "respons_dato_tid": "/Date(1780405407612+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -189,7 +189,7 @@
   "sak_fremmet_id": 200065,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068544+0200)/",
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -198,14 +198,14 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -215,7 +215,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Mats Henriksen, Jon Engen-Helgheim, Anette Carnarius Elseth, Liv Gustavsen, Finn Krokeide og Stian Storbukås om å endre straffeprosessloven for å sikre døde barns rettssikkerhet",
   "type": 3
 }
@@ -229,3 +229,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

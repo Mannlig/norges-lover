@@ -1,11 +1,11 @@
-<!-- innholds-hash: 85b40f2524d75525189c05709ef08de7be2c8deaef369367bdfd1c6031ed5d5f -->
+<!-- innholds-hash: 3456e28df64a85566c44e9c9113a10d12391dccc6617eb72992295288bebd1e6 -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding
-- **Sist hentet:** 2026-05-22T09:47:04Z
+- **Sist hentet:** 2026-06-02T19:19:37Z
 
 ## Innhold
 
@@ -62,13 +62,15 @@ Hvis du ikke sender inntektsmeldingen i tide, kan utbetalingen fra Nav til den a
 
 Den viktigste forskjellen på inntektsmelding og a-melding er at inntektsmeldingen spør om flere opplysninger i saken. For eksempel fraværsperioder, om arbeidsgiveren skal ha refusjon, og opplysninger om arbeidsgiverperiode for sykepenger.
 
-For å sende inntektsmelding, må du ha en av disse tilgangene i Altinn:
+Tilgang til inntektsmelding får du ved å ha en av tilgangspakkene:
 
+- Lønn med personopplysninger av særlig kategori
+- Regnskapsfører med signeringsrett
+- Regnskapsfører uten signeringsrett
 - Regnskapsfører lønn
-- Regnskapsfører med signeringsrettighet
-- Regnskapsfører uten signeringsrettighet
-På altinn.no
-
+- Inntektsmelding for sykepenger
+- Inntektsmelding for foreldrepenger og svangerskapspenger
+- Inntektsmelding for pleie-, opplærings- og omsorgspenger og refusjonskrav for omsorgspenger
 
 #### Sykepenger
 
@@ -451,12 +453,12 @@ Inntektsmelding fra virksomhet B:
 - Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
 - Første fraværsdag: startdato for arbeidstakerens arbeidsforhold i virksomhet B
 - Nytt refusjonsbeløp: ønsket refusjonsbeløp
-Oppdatert 21.05.2026
+Oppdatert 02.06.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -473,3 +475,4 @@ Alltid åpen
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

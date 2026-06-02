@@ -1,11 +1,11 @@
-<!-- innholds-hash: 811e8cefa140bc2fa3a9a4f0ccea65eb46615bd4e490d74bb47405d8deb94233 -->
+<!-- innholds-hash: 219f07cf7a197064ff58f8bbad07b99fda28ee0d3cb6e7796d403b82d5ba4e62 -->
 
 # Få svar på spørsmål - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/still-sporsmal
-- **Sist hentet:** 2026-05-15T15:18:54Z
+- **Sist hentet:** 2026-06-02T19:13:19Z
 
 ## Innhold
 
@@ -14,18 +14,12 @@ Skriv til oss
 
 ## Få svar på spørsmål
 
-For å gi deg best mulig hjelp, må du velge tema under.
-
-Svartid:
-
-Vil du ha raskere svar, kan du
-
-Har du spørsmål om økonomisk sosialhjelp eller sosiale tjenester, må du ringe oss på
+Vi svarer deg skriftlig innen 2 arbeidsdager.
 
 
 ### Velg tema
 
-Du blir bedt om å logge inn.
+For å gi deg best mulig hjelp, må du velge tema under. Du blir bedt om å logge inn.
 
 
 ---
@@ -34,3 +28,4 @@ Du blir bedt om å logge inn.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

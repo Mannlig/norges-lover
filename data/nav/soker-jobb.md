@@ -1,11 +1,11 @@
-<!-- innholds-hash: c9ba55de5f646c9feb3f73c74dc8ce709b23cf9b6ccef49ca9df1cdc7a693bda -->
+<!-- innholds-hash: 4d199c7391fc1fbc51261e42222baafeece345b0310883adc360c2ca90997d0f -->
 
 # Søker jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soker-jobb
-- **Sist hentet:** 2026-05-22T09:37:32Z
+- **Sist hentet:** 2026-06-02T19:09:50Z
 
 ## Innhold
 
@@ -108,7 +108,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -118,7 +118,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -128,3 +128,4 @@ Still oss et spørsmål og få skriftlig svar.
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

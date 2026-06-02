@@ -1,4 +1,4 @@
-<!-- innholds-hash: c53a684cffaa21af383f7d5d7dc7252c6b32e6bcd3c2110964321fb6145a0113 -->
+<!-- innholds-hash: 5fc9aae1c929ae249a9e64c172768a6d56b7285cbbb12ace369d19a26d271673 -->
 
 # Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 200327
 - **Type:** 3
 - **Korttittel:** Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-22T17:20:04Z
+- **Sist hentet:** 2026-06-02T13:27:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779469588481+0200)/",
+  "respons_dato_tid": "/Date(1780405690119+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -28,12 +28,43 @@
   "id": 200327,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1780405407612+0200)/",
+    "versjon": "1.6",
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
   "sak_fremmet_id": 200327,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1779400800000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Bergheim",
+      "foedselsdato": "/Date(-224384400000+0100)/",
+      "fornavn": "Ragnhild",
+      "id": "RAGBER",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "versjon": "1.6",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
+  "status": 2,
   "tittel": "Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
   "type": 3
 }
@@ -44,3 +75,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

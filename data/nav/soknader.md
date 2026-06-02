@@ -1,11 +1,11 @@
-<!-- innholds-hash: 84dbdfd22deb90da8a3d4ed584e7a44421cde96ee3e0ca5b72f398716f20c429 -->
+<!-- innholds-hash: 8bb4420f20b6760ad2a2c3228d8cb58311448b05934278ab81dbb0ced4a79cd4 -->
 
 # Søknad og skjema - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader
-- **Sist hentet:** 2026-05-15T15:16:54Z
+- **Sist hentet:** 2026-06-02T19:10:31Z
 
 ## Innhold
 
@@ -228,7 +228,7 @@ Forsikring for å få bedre dekning når du blir sykmeldt.
 Hvis du har en synsnedsettelse, kan ulike situasjoner og behov tilrettelegges med  forskjellige hjelpemidler for forstørring.
 
 
-#### Frivillig medlemskap hvis du skal oppholde deg og arbeide i Norge
+#### Frivillig medlemskap hvis du skal jobbe eller oppholde deg i Norge
 
 Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
@@ -984,3 +984,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

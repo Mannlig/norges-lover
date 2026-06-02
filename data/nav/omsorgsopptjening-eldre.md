@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8b009f24cc6afd99bc1070c21dcf4457b315e57b09a972d64394bf4e2eb85357 -->
+<!-- innholds-hash: f8baac0e9b03298484e92c13b41920d279bbbc1777c25dc2b7fe86675fb527bd -->
 
 # Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsopptjening-eldre
-- **Sist hentet:** 2026-05-22T20:10:28Z
+- **Sist hentet:** 2026-06-02T20:16:51Z
 
 ## Innhold
 
@@ -117,11 +117,11 @@ Oppdatert 08.05.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -131,7 +131,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -141,3 +141,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: aa372034a73ef9f657bd51e74b27e0af78c725f842487c553ff8fa7fb7ed28db -->
+<!-- innholds-hash: 5d0bd5bbd51f5d506d22b31e7cf92c479ef01b22a200db4c51db7f3374c2d8a3 -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist hentet:** 2026-05-21T23:30:48Z
+- **Sist hentet:** 2026-06-02T18:37:39Z
 
 ## Innhold
 
@@ -26,8 +26,6 @@ Dagpenger er en pengestøtte du kan få når du er arbeidsledig eller permittert
 - Du har mistet inntekten din helt eller delvis.
 - Du har tjent minst 204 824 kroner (1,5 G - Grunnbeløp) de siste 12 månedene, eller minst 409 647 kroner (3 G) til sammen de siste 36 månedene.
 - Du er under 67 år.
-Hvis du søker om dagpenger før 1. juni, må du ha tjent minst 195 240 kroner (1,5 G) de siste 12 månedene, eller minst 390 480 kroner (3 G) til sammen de siste 36 månedene.
-
 Vi bruker disse inntektene for å finne ut om du har rett til dagpenger:
 
 - Arbeidsinntekt
@@ -1032,7 +1030,7 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med
 
 Ønsker du
 
-Oppdatert 21.05.2026
+Oppdatert 01.06.2026
 
 
 #### Chat med oss
@@ -1061,3 +1059,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

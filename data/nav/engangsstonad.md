@@ -1,11 +1,11 @@
-<!-- innholds-hash: c17a3be9db67f4aca9ca0dd1ad6dfcdfd8350685d64a56e3eaae34015431c96a -->
+<!-- innholds-hash: 55e5ad81996abaa489225aed4826876052ad6e10a2b783f84549b96e55eae55a -->
 
 # Engangsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/engangsstonad
-- **Sist hentet:** 2026-05-22T19:40:22Z
+- **Sist hentet:** 2026-06-02T19:46:22Z
 
 ## Innhold
 
@@ -45,7 +45,7 @@ Hvis du er far eller medmor til barnet, kan du i noen tilfeller få engangsstøn
 - for hvert barn du adopterer alene
 - du overtar eller har foreldreansvar for barnet når den andre forelderen dør. Du må ha hatt mindre samvær med barnet enn det som kalles vanlig samvær (
 - du overtar omsorgen for barnet når mor dør i i forbindelse med fødselen eller omsorgsovertakelsen. Engangsstønad kan ikke allerede være utbetalt til moren.
-- du har innen 56 uker etter barnet ble født eller adoptert overtatt omsorgen for barnet, med sikte på å overta foreldreansvaret alene.
+- du har innen 58 uker og 1 dag etter barnet ble født eller adoptert overtatt omsorgen for barnet, med sikte på å overta foreldreansvaret alene.
 
 #### Annen omsorgsperson
 
@@ -238,16 +238,16 @@ Du må gi beskjed til Nav hvis du flytter til utlandet, eller reiser til utlande
 
 Du må ikke gi beskjed til Nav ved vanlige ferieopphold utenfor Norge.
 
-Oppdatert 09.02.2026
+Oppdatert 28.05.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -257,7 +257,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -267,3 +267,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-02** Innhold endret (se git-historikk for diff)

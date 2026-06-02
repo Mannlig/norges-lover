@@ -1,11 +1,11 @@
-<!-- innholds-hash: 34a3471a2c32103ddbf576b88f45aaa831a85d4e65e71020bd7220aff416da58 -->
+<!-- innholds-hash: c3b9abaf782e185938a16c23d66017e4131b307e8ca93505412860caba168a9f -->
 
 # Klage og anke - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/klage
-- **Sist hentet:** 2026-05-15T09:03:25Z
+- **Sist hentet:** 2026-06-02T18:54:51Z
 
 ## Innhold
 
@@ -131,7 +131,7 @@ Pengestøtte til barn under 18 år når behovet for pleie og tilsyn er vesentlig
 Forsikring for å få bedre dekning når du blir sykmeldt.
 
 
-#### Frivillig medlemskap hvis du skal oppholde deg og arbeide i Norge
+#### Frivillig medlemskap hvis du skal jobbe eller oppholde deg i Norge
 
 Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
@@ -552,3 +552,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)
