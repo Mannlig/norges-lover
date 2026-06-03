@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-03 06:27 UTC*
+*Sist oppdatert: 2026-06-03 15:28 UTC*
 
-**Antall dokumenter:** 635
+**Antall dokumenter:** 643
 
 ## Innhold
 
@@ -24,7 +24,9 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Informasjon til virksomheter som leverer a-melding med opplysninger om lott eller part](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/informasjon-til-virksomheter-som-leverer-a-melding-med-opplysninger-om-lott-eller-part.md)
 - [Ingen tvangsmulkt for a-meldingen i mai, juni og juli](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/ingen-tvangsmulkt-for-a-meldingen-i-mai-juni-og-juli.md)
 - [Nye tilgangspakker for a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/nye-tilgangspakker-for-a-meldingen.md)
+- [Oppdatert grunnbeløp i folketrygden fra 1. mai 2026](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/oppdatert-grunnbelop-i-folketrygden-fra-1.-mai-2026.md)
 - [Opptak og presentasjon fra digitalt informasjonsmøte om tilgangspakker](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/opptak-og-presentasjon-fra-digitalt-informasjonsmote-om-tilgangspakker.md)
+- [Rapportering av arbeidsforhold i a-meldingen ved streik og liknende fravær](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/rapportering-av-arbeidsforhold-i-a-meldingen-ved-streik-og-liknende-fravar.md)
 - [Siste fra a-ordningen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen.md)
 - [Forenklet a-melding for veldedig eller allmennyttig organisasjon](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
 - [A-melding - Direkte levering](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
@@ -202,9 +204,11 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Kjøpe eiendeler til bedriften](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bedriftens-eiendeler/kjope-eiendeler-til-bedriften.md)
 - [Driftsmidler (eiendeler) i bedriften](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bedriftens-eiendeler.md)
 - [Bruke egen bolig i næring](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bruke-egen-bolig-i-naring.md)
+- [Telefon og internett](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/telefon-og-internett.md)
 - [Eiendeler, utstyr og eiendom](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom.md)
 - [Frivillige organisasjoner som mottar gaver](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/forskning-og-gave/gaver.md)
 - [Forskning og gave](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/forskning-og-gave.md)
+- [Inntekt i enkeltpersonforetak](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld/inntekt-i-enkeltpersonforetak.md)
 - [Korrigere fra resultat i regnskapet til skattemessig næringsinntekt](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld/korrigere-regnskap-skatt.md)
 - [Inntekt i næring](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld.md)
 - [Offentlig støtte (statsstøtte)](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/offentlig-stotte.md)
@@ -215,7 +219,10 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Land-for-land-rapportering for store flernasjonale konsern](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern/internprising/land-for-land-rapportering.md)
 - [Utland, store selskaper og konsern](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern.md)
 - [Tema og fradrag for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag.md)
+- [Slik sender du inn skattemelding for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/hjelp-til-skattemelding/innsending.md)
+- [Fordele ektefellers inntekt fra felles virksomhet](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/hjelp-til-skattemelding/slik-deler-ektefeller-inntekt-fra-felles-virksomhet.md)
 - [Oversikt over innhold og struktur i skattemeldingen](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/innhold-og-struktur-i-skattemeldingen.md)
+- [Selskap med deltakerfastsetting (SDF)](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap/selskap-med-deltakerfastsetting-sdf.md)
 - [Skattemelding for selskap](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap.md)
 - [Skattemelding for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende.md)
 - [Klage på skatteoppgjøret](bedrift-og-organisasjon/skatt/skatteoppgjor/klage-pa-skatteoppgjoret-for-enkeltpersonforetak---enk.md)
@@ -266,6 +273,7 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Beslutning om utlegg](person/betaling-og-innkreving/om-innkreving/tvangsinnkreving/beslutning-om-utlegg.md)
 - [Trekk i lønn eller ytelse](person/betaling-og-innkreving/om-innkreving/tvangsinnkreving/trekk-i-inntekt.md)
 - [Betaling og innkreving for personer](person/betaling-og-innkreving.md)
+- [Næringsdrivende som dør](person/folkeregister/dodsfall/naringsdrivende-som-dor.md)
 - [Skattemelding og skatteoppgjør for avdøde](person/folkeregister/dodsfall/oversikt.md)
 - [Dette må du gjøre når du har overtatt et dødsbo](person/folkeregister/dodsfall/overta-avdodes-bo.md)
 - [Flytting og adresse](person/folkeregister/flytte.md)

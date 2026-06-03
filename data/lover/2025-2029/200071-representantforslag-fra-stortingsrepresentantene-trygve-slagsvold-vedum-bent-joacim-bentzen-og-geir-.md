@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23958eec8621c3d7c824ebd90be023d6fcb94c4246edd63ea421820f1a831602 -->
+<!-- innholds-hash: f025949ff74c6d297fd80e8cc947680bfcd0d54db08d150aab5e92ee740eac4a -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Geir Pollestad om et statlig mineralselskap
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200071
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228143+0200)/",
+  "respons_dato_tid": "/Date(1780473991747+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -133,7 +133,7 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200071,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
@@ -179,3 +179,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

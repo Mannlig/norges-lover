@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5997b6c31dc3da63ea1e1321065d57787350bceb11024520f4128638fccac786 -->
+<!-- innholds-hash: 937ffac1ff35e9de0e43192b49d9ccf179f9fc954dc6de3191a25cddde8749d6 -->
 
 # Fullmakt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fullmakt
-- **Sist hentet:** 2026-05-17T12:31:51Z
+- **Sist hentet:** 2026-06-03T13:57:55Z
 
 ## Innhold
 
@@ -58,7 +58,7 @@ Varighet er 3,5 min
 
 En verge skal ivareta interessene til deg som er under vergemål og opptre som representant på dine vegne.
 
-For voksne vil vedtaket om vergemål vise hvilket mandat vergen har. Vedtaket skal vise hva vergemålet gjelder og hvilke begrensninger som gjelder.  Avhengig av hva som står i mandatet, vil en verge kunne få tilgang til de opplysningene Nav har og kan opptre som representant for den vergemålet gjelder.
+For voksne vil vedtaket om vergemål vise hvilket mandat vergen har. Vedtaket skal vise hva vergemålet gjelder og hvilke begrensninger som gjelder. Avhengig av hva som står i mandatet, vil en verge kunne få tilgang til de opplysningene Nav har og kan opptre som representant for den vergemålet gjelder. Hvis et vergemål omfatter Nav, vil Nav få opplysninger om dette fra Statsforvalteren. Disse opplysningene lagres i Navs vergemålsregister.
 
 Verge for en mindreårig er i utgangspunktet den personen som har foreldreansvaret. Etter barneloven § 47 kan også den forelderen som ikke har foreldreansvar, ha rett til opplysninger fra Nav om den mindreårige.
 
@@ -67,7 +67,7 @@ Verge for en mindreårig er i utgangspunktet den personen som har foreldreansvar
 
 Representasjonsrett for nære pårørende etter vergemålsloven § 94 gir ikke rett til å få innsyn i opplysninger fra Nav om familiemedlemmet eller til å representere vedkommende ovenfor Nav.
 
-Oppdatert 20.06.2025
+Oppdatert 26.05.2026
 
 
 ---
@@ -76,3 +76,4 @@ Oppdatert 20.06.2025
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6aa8ca7649eebd100d7cf45c2c662a0bd5d268e1caaecd5fc3a42d0255f85719 -->
+<!-- innholds-hash: e16c7f0b5f6f2e1a10d6164657d163650ec0954abe4f65bd7d27614cfaa0a762 -->
 
 # Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200118
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228315+0200)/",
+  "respons_dato_tid": "/Date(1780473992012+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -90,7 +90,7 @@
   "innstilling_id": 17403,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200118,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -137,3 +137,4 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

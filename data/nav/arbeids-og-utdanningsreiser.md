@@ -1,11 +1,11 @@
-<!-- innholds-hash: 833aa1380e710c8f921ed3dc0e1bacc291b309da1ee41a54aeb658e55de15840 -->
+<!-- innholds-hash: 610b61cdc9d3544b9673da81021554a150d240385f95a9a99e0f6339fea7c109 -->
 
 # Støtte til arbeids- og utdanningsreiser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeids-og-utdanningsreiser
-- **Sist hentet:** 2026-05-23T20:30:36Z
+- **Sist hentet:** 2026-06-03T13:13:54Z
 
 ## Innhold
 
@@ -96,11 +96,11 @@ Oppdatert 10.02.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -108,7 +108,7 @@ Stengt nå, åpner tirsdag kl. 9
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -118,3 +118,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

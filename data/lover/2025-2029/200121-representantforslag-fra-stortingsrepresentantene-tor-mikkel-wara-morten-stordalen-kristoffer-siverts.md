@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a1c9187bae8ddb5eac4fe0b9a079d2be66dc32f5077899b6355ed03b96d3242 -->
+<!-- innholds-hash: 7831381443fd47a8dade694c3f3a3c5ad79690776e32d8647c228a9080413da5 -->
 
 # Representantforslag fra stortingsrepresentantene Tor Mikkel Wara, Morten Stordalen, Kristoffer Sivertsen, Erlend Wiborg, Bjørn Larsen og Rikard Spets om å tilrettelegge for kjernekraft i Norge
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200121
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228315+0200)/",
+  "respons_dato_tid": "/Date(1780473992012+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -199,7 +199,7 @@
   "innstilling_id": 17373,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200121,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -250,3 +250,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

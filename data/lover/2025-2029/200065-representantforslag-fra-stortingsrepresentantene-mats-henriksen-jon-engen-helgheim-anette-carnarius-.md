@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a3bf058b233fe88e4dd87f25b0b79dfc990cd2d4df3fc62926553213b179c2c -->
+<!-- innholds-hash: 4c7050de493a72b1472b94304364f8b77b1414791cf9b5775280d373bf2f0e10 -->
 
 # Representantforslag fra stortingsrepresentantene Mats Henriksen, Jon Engen-Helgheim, Anette Carnarius Elseth, Liv Gustavsen, Finn Krokeide og Stian Storbukås om å endre straffeprosessloven for å sikre døde barns rettssikkerhet
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200065
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228315+0200)/",
+  "respons_dato_tid": "/Date(1780473992012+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Elseth",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -180,7 +180,7 @@
   "innstilling_id": 17362,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -189,7 +189,7 @@
   "sak_fremmet_id": 200065,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -231,3 +231,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

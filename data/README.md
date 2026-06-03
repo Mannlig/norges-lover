@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-03 06:27 UTC*
+*Sist oppdatert: 2026-06-03 15:28 UTC*
 
-**Antall dokumenter:** 2447
+**Antall dokumenter:** 2463
 
 ## Innhold
 
@@ -1464,6 +1464,7 @@ Lovdata
 - [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler/om.md)
 - [Hjelpemiddel på bad - nav.no](nav/hjelpemidler-bad.md)
 - [Hjelpemidler for samtale  - nav.no](nav/hjelpemidler-for-samtale.md)
+- [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](nav/hjelpemidler-idrett-aktivitet.md)
 - [Hjelpemidler med lyd og tale - nav.no](nav/hjelpemidler-lyd-tale.md)
 - [Hjelpemidler for mobilitet og orientering - nav.no](nav/hjelpemidler-mobilitet-orientering.md)
 - [Informasjon om hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler-og-tilrettelegging.md)
@@ -1574,7 +1575,9 @@ Lovdata
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav/nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
 - [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](nav/nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-statsgaranti-for-lonnskrav-ved-konkurs-m.v.md)
 - [Rundskriv til ftrl kap 8 – Sykepenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-8-14-tilskott-til-arbeidsreiser.md)
+- [Rundskriv arbeidsmarkedsloven § 13 – Ytelser til gjennomføring av arbeidsmarkedstiltak mv. – Rundskriv om tiltakspenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-om-tiltakspenger-og-tilleggsstonader.md)
 - [Rundskriv til ftrl kap 8 – Sykepenger](nav/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-til-8-36.md)
+- [Forskrift om tiltakspenger mv. (tiltakspengeforskriften)](nav/nav.no-ressurser/lenker/regelverk/rettskildene/tiltakspengeforskriften.md)
 - [Vedlegg 4 til ftrl kap 8 – Premiesatser for tillegg til sykepenger for selvstendig næringsdrivende og forsikring for tilleggssykepenger for frilansere](nav/nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-4-til-kap.8.md)
 - [Dine Utbetalinger](nav/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/dine-utbetalinger.md)
 - [Ditt Sykefravaer](nav/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
@@ -1630,6 +1633,7 @@ Lovdata
 - [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](nav/omsorgspenger/om.md)
 - [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](nav/omsorgspenger.md)
 - [Omsorgsstønad og utbetalinger fra Nav - nav.no](nav/omsorgsstonad.md)
+- [Innledning](nav/omstillingsstonad/skjema/meld-inn-endring/innledning.md)
 - [Omstillingsstønad - nav.no](nav/omstillingsstonad.md)
 - [Oppfølging - nav.no](nav/oppfolging.md)
 - [Oppfølgingsplan - nav.no](nav/oppfolgingsplan.md)
@@ -1716,6 +1720,7 @@ Lovdata
 - [Skriv til oss - nav.no](nav/skriv-til-oss.md)
 - [Trenger råd og veiledning - nav.no](nav/snakke-med-nav.md)
 - [Søk jobb i Nav - nav.no](nav/sok-jobb-i-nav.md)
+- [Medlemskap i folketrygden - nav.no](nav/sok-medlemskap-i-folketrygden.md)
 - [Søk opp Nav-kontor](nav/sok-nav-kontor.md)
 - [Søke pensjon fra land med trygdeavtale utenfor EU/EØS - nav.no](nav/soke-pensjon-avtaleland.md)
 - [Søke pensjon fra EU/EØS-land, Storbritannia eller Sveits - nav.no](nav/soke-pensjon-eos.md)
@@ -1741,6 +1746,7 @@ Lovdata
 - [Ettersend til søknad om foreldrepenger - nav.no](nav/start/ettersend-soknad-foreldrepenger.md)
 - [Ettersend til søknad om økonomisk sosialhjelp - nav.no](nav/start/ettersend-soknad-okonomisk-stonad.md)
 - [Ettersend til søknad om utbetaling av omsorgspenger for selvstendig næringsdrivende og frilansere - nav.no](nav/start/ettersend-soknad-omsorgspenger-selvstendig-frilansere.md)
+- [Ettersend til søknad om omstillingsstønad - nav.no](nav/start/ettersend-soknad-omstillingstonad.md)
 - [Ettersend til søknad om overgangsstønad til enslig mor eller far - nav.no](nav/start/ettersend-soknad-overgangsstonad-enslig.md)
 - [Ettersend til søknad om pleiepenger for sykt barn - nav.no](nav/start/ettersend-soknad-pleiepenger.md)
 - [Ettersend til søknad om sykepenger - nav.no](nav/start/ettersend-soknad-sykepenger.md)
@@ -1748,6 +1754,7 @@ Lovdata
 - [Skadeforklaring ved arbeidsulykke - nav.no](nav/start/skadeforklaring-arbeidsulykke.md)
 - [Søknad om alderspensjon og AFP i privat sektor - nav.no](nav/start/soknad-alderspensjon-afp-privat.md)
 - [Søknad om dagpenger - nav.no](nav/start/soknad-dagpenger.md)
+- [Søknad om omstillingsstønad - nav.no](nav/start/soknad-omstillingsstonad.md)
 - [Tilleggsopplysninger ved yrkessykdom - nav.no](nav/start/tilleggsopplysninger.md)
 - [Ståstativ - nav.no](nav/stastativ.md)
 - [Stemmeforsterkere - nav.no](nav/stemmeforsterkere.md)
@@ -1783,6 +1790,7 @@ Lovdata
 - [Accessibility at nav.no - nav.no](nav/tilgjengelighet/en.md)
 - [Tilgjengelighet på nav.no - nav.no](nav/tilgjengelighet.md)
 - [Tilleggsstønader til enslig mor eller far - nav.no](nav/tilleggsstonader-enslig.md)
+- [Tilleggsstønader - nav.no](nav/tilleggsstonader-familiepleiere.md)
 - [Tilleggsstønader til gjenlevende ektefelle - nav.no](nav/tilleggsstonader-gjenlevende.md)
 - [Tilleggsstønader - nav.no](nav/tilleggsstonader.md)
 - [Tilpasningskurs - nav.no](nav/tilpasningskurs.md)
@@ -1844,7 +1852,9 @@ Lovdata
 - [Informasjon til virksomheter som leverer a-melding med opplysninger om lott eller part](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/informasjon-til-virksomheter-som-leverer-a-melding-med-opplysninger-om-lott-eller-part.md)
 - [Ingen tvangsmulkt for a-meldingen i mai, juni og juli](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/ingen-tvangsmulkt-for-a-meldingen-i-mai-juni-og-juli.md)
 - [Nye tilgangspakker for a-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/nye-tilgangspakker-for-a-meldingen.md)
+- [Oppdatert grunnbeløp i folketrygden fra 1. mai 2026](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/oppdatert-grunnbelop-i-folketrygden-fra-1.-mai-2026.md)
 - [Opptak og presentasjon fra digitalt informasjonsmøte om tilgangspakker](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/opptak-og-presentasjon-fra-digitalt-informasjonsmote-om-tilgangspakker.md)
+- [Rapportering av arbeidsforhold i a-meldingen ved streik og liknende fravær](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/rapportering-av-arbeidsforhold-i-a-meldingen-ved-streik-og-liknende-fravar.md)
 - [Siste fra a-ordningen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen.md)
 - [Forenklet a-melding for veldedig eller allmennyttig organisasjon](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
 - [A-melding - Direkte levering](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
@@ -2022,9 +2032,11 @@ Lovdata
 - [Kjøpe eiendeler til bedriften](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bedriftens-eiendeler/kjope-eiendeler-til-bedriften.md)
 - [Driftsmidler (eiendeler) i bedriften](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bedriftens-eiendeler.md)
 - [Bruke egen bolig i næring](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/bruke-egen-bolig-i-naring.md)
+- [Telefon og internett](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom/telefon-og-internett.md)
 - [Eiendeler, utstyr og eiendom](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/eiendeler-utstyr-eiendom.md)
 - [Frivillige organisasjoner som mottar gaver](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/forskning-og-gave/gaver.md)
 - [Forskning og gave](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/forskning-og-gave.md)
+- [Inntekt i enkeltpersonforetak](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld/inntekt-i-enkeltpersonforetak.md)
 - [Korrigere fra resultat i regnskapet til skattemessig næringsinntekt](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld/korrigere-regnskap-skatt.md)
 - [Inntekt i næring](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/inntekt-formue-gjeld.md)
 - [Offentlig støtte (statsstøtte)](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/offentlig-stotte.md)
@@ -2035,7 +2047,10 @@ Lovdata
 - [Land-for-land-rapportering for store flernasjonale konsern](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern/internprising/land-for-land-rapportering.md)
 - [Utland, store selskaper og konsern](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern.md)
 - [Tema og fradrag for næringsdrivende](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag.md)
+- [Slik sender du inn skattemelding for næringsdrivende](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/hjelp-til-skattemelding/innsending.md)
+- [Fordele ektefellers inntekt fra felles virksomhet](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/hjelp-til-skattemelding/slik-deler-ektefeller-inntekt-fra-felles-virksomhet.md)
 - [Oversikt over innhold og struktur i skattemeldingen](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/innhold-og-struktur-i-skattemeldingen.md)
+- [Selskap med deltakerfastsetting (SDF)](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap/selskap-med-deltakerfastsetting-sdf.md)
 - [Skattemelding for selskap](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap.md)
 - [Skattemelding for næringsdrivende](skatt/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende.md)
 - [Klage på skatteoppgjøret](skatt/bedrift-og-organisasjon/skatt/skatteoppgjor/klage-pa-skatteoppgjoret-for-enkeltpersonforetak---enk.md)
@@ -2085,6 +2100,7 @@ Lovdata
 - [Beslutning om utlegg](skatt/person/betaling-og-innkreving/om-innkreving/tvangsinnkreving/beslutning-om-utlegg.md)
 - [Trekk i lønn eller ytelse](skatt/person/betaling-og-innkreving/om-innkreving/tvangsinnkreving/trekk-i-inntekt.md)
 - [Betaling og innkreving for personer](skatt/person/betaling-og-innkreving.md)
+- [Næringsdrivende som dør](skatt/person/folkeregister/dodsfall/naringsdrivende-som-dor.md)
 - [Skattemelding og skatteoppgjør for avdøde](skatt/person/folkeregister/dodsfall/oversikt.md)
 - [Dette må du gjøre når du har overtatt et dødsbo](skatt/person/folkeregister/dodsfall/overta-avdodes-bo.md)
 - [Flytting og adresse](skatt/person/folkeregister/flytte.md)

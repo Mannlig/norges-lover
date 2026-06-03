@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1997064cdeb53485fa8d47ff98b9628fee84099bc7d3020c93a908d3a7b493a3 -->
+<!-- innholds-hash: c879e44d6de0b350f36ab0c94493a8b3f8a450ae901ad9673e0e106001bedfe5 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Bjørnar Laabak og Tom Staahle om å avslutte byvekstavtaler og avvikle nullvekstmålet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200198
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228315+0200)/",
+  "respons_dato_tid": "/Date(1780473992012+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -219,7 +219,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -249,7 +249,7 @@
   "innstilling_id": 17384,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -258,7 +258,7 @@
   "sak_fremmet_id": 200198,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228315+0200)/",
+      "respons_dato_tid": "/Date(1780473992012+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunaratnam",
@@ -296,3 +296,4 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

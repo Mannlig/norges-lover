@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2867993f8b4ea863ed8831de9acba90dd89f978028c05a70ef75baeebae59201 -->
+<!-- innholds-hash: 7d3efc754b775a137be8c3b62e0c56ed3050c89d84c9d5fe46aa21758dd15b00 -->
 
 # Briller til barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/briller-til-barn
-- **Sist hentet:** 2026-05-23T20:11:12Z
+- **Sist hentet:** 2026-06-03T12:53:03Z
 
 ## Innhold
 
@@ -232,7 +232,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -242,3 +242,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

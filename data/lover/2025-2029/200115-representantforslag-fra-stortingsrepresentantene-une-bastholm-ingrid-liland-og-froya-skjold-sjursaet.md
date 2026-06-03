@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1df0dddba88c8ec49e1d63b2838fddb787482cc5b82e48c311e3f93d1bc5c665 -->
+<!-- innholds-hash: eaeb46fa7e0e4a51302ef2bf0331ed755468c08136090dc309af783aea12d564 -->
 
 # Representantforslag fra stortingsrepresentantene Une Bastholm, Ingrid Liland og Frøya Skjold Sjursæther om å øke verdiskaping og gjenvinning i mineralnæringen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200115
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228143+0200)/",
+  "respons_dato_tid": "/Date(1780473991747+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -124,7 +124,7 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200115,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
@@ -170,3 +170,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

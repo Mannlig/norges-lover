@@ -1,4 +1,4 @@
-<!-- innholds-hash: 51564d5c831a0188bc405dbeebfa8e46e12889e15044ed003bc594e72ca3337e -->
+<!-- innholds-hash: 2579780c354823129d87ec25f4adf16d029f0087bdd047c945665572bd1b19e5 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Kari Sofie Bjørnsen, Helene Røsholt og Mathias Willassen Hanssen om å realisere Fensfeltet og mer mineralnæring i Norge
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200119
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228143+0200)/",
+  "respons_dato_tid": "/Date(1780473991747+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røsholt",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hanssen",
@@ -149,7 +149,7 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200119,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228143+0200)/",
+      "respons_dato_tid": "/Date(1780473991747+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
@@ -195,3 +195,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

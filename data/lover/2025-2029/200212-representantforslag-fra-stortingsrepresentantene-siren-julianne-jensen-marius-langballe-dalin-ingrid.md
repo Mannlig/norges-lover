@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9a83ff811c2bc4156687c789ae24a941edaa9e3cd21b29fcfd55ba19589457d7 -->
+<!-- innholds-hash: ed62c9c0c611d9b6ebe6ebffa9aa6d4bbceb4a166ae8d4ddf1c276e6d171d2e8 -->
 
 # Representantforslag fra stortingsrepresentantene Siren Julianne Jensen, Marius Langballe Dalin, Ingrid Liland, Margit Bye og Julie E. Stuestøl om å beskytte folk mot gjeldsfeller
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200212
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228174+0200)/",
+  "respons_dato_tid": "/Date(1780473991762+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -165,7 +165,7 @@
   "innstilling_id": 17418,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200212,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abdi",
@@ -212,3 +212,4 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

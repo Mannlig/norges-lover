@@ -1,4 +1,4 @@
-<!-- innholds-hash: 828ed87b1f781710b66ff18b81e6a4c96f4a9015f7c1caa7fd2e0012ee74d135 -->
+<!-- innholds-hash: ea0b667ba02d0f52f23e38770ac8ea69debd12e78ad4fafee5b20ea4210dc19f -->
 
 # Skattemelding for nybegynnere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattemelding/nybegynner/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:16:19Z
+- **Sist hentet:** 2026-06-03T09:13:11Z
 
 ## Innhold
 
@@ -51,7 +51,7 @@ Hvis du har ett barn kan du få inntil 25 000 kroner i fradrag. Hvis du har fler
 
 Barnehager og skoler rapporterer det du har betalt til oss, og vi legger inn beløpet i skattemeldingen din. Hvis begge foreldrene har omsorg for barnet, fordeler vi fradraget mellom dere.
 
-Mangler det noe? Hvis beløpet ikke er forhåndsutfylt, må du ta kontakt med barnehagen eller skolefritidsordningen og be dem om å rapportere opplysningene til oss.
+Mangler det noe? Hvis beløpet mangler, kan du legge det inn selv eller be barnehagen om å rapportere det til oss. Du må kunne dokumentere beløpet du legger inn.
 
 Eier du aksjer eller kryptovaluta, eller kanskje du sparer med aksjesparekonto? Da skal dette inn i skattemeldingen. Har du solgt aksjer med tap kan du få fradrag for dette.
 
@@ -78,3 +78,4 @@ Veldedige organisasjoner skal rapportere gavene de får til oss. Derfor vil du f
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

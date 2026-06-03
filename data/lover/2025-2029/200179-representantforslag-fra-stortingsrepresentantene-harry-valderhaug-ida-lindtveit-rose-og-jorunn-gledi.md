@@ -1,4 +1,4 @@
-<!-- innholds-hash: c405d8f207c8716991a5f6a339f1092f70ab2da398450f16b4356f0a7a858734 -->
+<!-- innholds-hash: 607dc3e340b9b79a5c8c8e86e7918f8133234c5bba69a379fbb34f51699d9879 -->
 
 # Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om besøksbidrag som et fast beløp
 
@@ -11,21 +11,21 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200179
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228174+0200)/",
+  "respons_dato_tid": "/Date(1780473991762+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -105,7 +105,7 @@
   "innstilling_id": 17421,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200179,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -151,3 +151,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

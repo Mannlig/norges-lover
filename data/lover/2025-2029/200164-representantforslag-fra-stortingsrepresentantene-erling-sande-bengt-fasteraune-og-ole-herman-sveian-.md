@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5d7a7ab540a34c45e0ac962e6af0465fb3816488b8f02ec4f68c9d4ea922275 -->
+<!-- innholds-hash: 56de935a02af87d5b482f0e0ea4798f7bd6f8cf0ebe52adf9c4fde7d88f5828d -->
 
 # Representantforslag fra stortingsrepresentantene Erling Sande, Bengt Fasteraune og Ole Herman Sveian om ei treårig lærarutdanning som bidrag til fleire kvalifiserte lærarar i norske klasserom
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200164
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228221+0200)/",
+  "respons_dato_tid": "/Date(1780473991840+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991887+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991887+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -124,7 +124,7 @@
   "innstilling_id": 17395,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200164,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -171,3 +171,4 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

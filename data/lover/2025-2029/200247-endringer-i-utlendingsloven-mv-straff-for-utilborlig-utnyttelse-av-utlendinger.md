@@ -1,4 +1,4 @@
-<!-- innholds-hash: 58ad5ddf3310064b210703543948fed2bcd7379b93d11f5ada6f03d3af50a592 -->
+<!-- innholds-hash: 2dfc3b279503a5d05f9a6f839338737adeb0198ff6e7dbec1cf2aa43ec4ffb2a -->
 
 # Endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200247
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228221+0200)/",
+  "respons_dato_tid": "/Date(1780473991840+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17405,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200247,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228221+0200)/",
+      "respons_dato_tid": "/Date(1780473991840+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
@@ -76,3 +76,4 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

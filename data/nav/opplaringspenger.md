@@ -1,11 +1,11 @@
-<!-- innholds-hash: c542322eb7e718594669a829ea7602d013d34de8eaca54a3d9b20654db34195f -->
+<!-- innholds-hash: 94924d8a6944cdb80a3b4ecae8ce9db8f50b22a06fdf4d3f0e7950eaf883495b -->
 
 # Opplæringspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplaringspenger
-- **Sist hentet:** 2026-05-23T20:19:26Z
+- **Sist hentet:** 2026-06-03T13:01:22Z
 
 ## Innhold
 
@@ -180,11 +180,11 @@ Oppdatert 02.03.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -194,7 +194,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -204,3 +204,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

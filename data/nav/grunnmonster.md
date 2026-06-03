@@ -1,11 +1,11 @@
-<!-- innholds-hash: 559b902324051a63cfbece42744b8d668e76f699d62d10397cb4ccfda85c32d0 -->
+<!-- innholds-hash: 0b7894be70fd8a7bf748871643855fbd5a2900fe086b46044a8686126054709c -->
 
 # Grunnmønster og søm av klær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnmonster
-- **Sist hentet:** 2026-05-23T20:14:39Z
+- **Sist hentet:** 2026-06-03T12:56:32Z
 
 ## Innhold
 
@@ -107,16 +107,16 @@ Oppdatert 16.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Åpent nå
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Åpent nå
 
 
 ---
@@ -126,3 +126,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

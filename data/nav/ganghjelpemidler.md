@@ -1,11 +1,11 @@
-<!-- innholds-hash: c79433f3102305076acb790c2d933407e47094ec73bd2330241676acfda82593 -->
+<!-- innholds-hash: ffdfc4795d2790e1b9ca3a774fc7baa2c02da421d226b1ff25d3657298c78e48 -->
 
 # Ganghjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ganghjelpemidler
-- **Sist hentet:** 2026-05-23T20:39:39Z
+- **Sist hentet:** 2026-06-03T13:22:58Z
 
 ## Innhold
 
@@ -235,7 +235,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -248,3 +248,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

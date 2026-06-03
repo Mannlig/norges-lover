@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09dfcca932673244d6def0d3fdd0fdd069e88491db4ffb82f3a078561efe2150 -->
+<!-- innholds-hash: 905c6111d6b4f2ce79c8c51d9c5f911f921d92326ee749b7e84b9a0e837aebd6 -->
 
 # Samtykke til ratifikasjon av frihandelsavtale mellom EFTA-statene og MERCOSUR av 16. september 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T23:11:11Z
+- **Sist hentet:** 2026-06-03T08:28:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200138
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780441228174+0200)/",
+  "respons_dato_tid": "/Date(1780473991762+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17476,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780441219018+0200)/",
+    "respons_dato_tid": "/Date(1780473644714+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200138,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780441228174+0200)/",
+      "respons_dato_tid": "/Date(1780473991762+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -94,3 +94,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

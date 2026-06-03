@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7f3a402ade62d222bdeb64fedb1cfe7b09dcbf69bec6c5860ee0ff1d5866c545 -->
+<!-- innholds-hash: a150ad3bb627877704f80182dc7306c8d7506dcdd5f421f4afee8d66b7fbaa88 -->
 
 # Arm- og benproteser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/armogbenproteser
-- **Sist hentet:** 2026-05-23T20:32:42Z
+- **Sist hentet:** 2026-06-03T13:15:54Z
 
 ## Innhold
 
@@ -167,16 +167,16 @@ Oppdatert 16.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -186,3 +186,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

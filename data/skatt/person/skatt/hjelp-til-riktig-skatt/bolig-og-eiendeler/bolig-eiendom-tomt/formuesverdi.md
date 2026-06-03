@@ -1,4 +1,4 @@
-<!-- innholds-hash: ad56e8e8108fa311cd16995d7f4fbf4f5ac864376d566d03fdb9bdde4d90d9ec -->
+<!-- innholds-hash: 459208a43e626c4484e7872fe58b68a2815aa6c97e3c34e33d69304d2d6af981 -->
 
 # Formuesverdi av bolig og eiendom
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:01:44Z
+- **Sist hentet:** 2026-06-03T08:49:09Z
 
 ## Innhold
 
@@ -18,8 +18,6 @@ Formue i fast eiendom i Norge er skattepliktig til Norge enten du er bosatt i No
 Hvis du er bosatt i Norge er formue i fast eiendom i utlandet også skattepliktig til Norge.
 
 Her får du informasjon om hvordan formuesverdien beregnes, og hva du må gjøre hvis du skal endre opplysningene i skattekortet eller i skattemeldingen.
-
-Du kan logge inn for å
 
 
 ### Bolig
@@ -66,3 +64,4 @@ Hvis formuesverdien av eiendom, bankinnskudd og andre eiendeler til sammen er st
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

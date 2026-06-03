@@ -1,11 +1,11 @@
-<!-- innholds-hash: c6725f0977bf2739d779264135f01bc99907c776020e1575afc4c0434e1d7ac2 -->
+<!-- innholds-hash: dcb640f814665e54cd655e5a0829e393c2262b18c206d0b0508d34cbe635c6cd -->
 
 # Støtte til folkehøyskole - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/folkehoyskole
-- **Sist hentet:** 2026-05-23T20:37:36Z
+- **Sist hentet:** 2026-06-03T13:20:46Z
 
 ## Innhold
 
@@ -70,11 +70,11 @@ Oppdatert 16.03.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -82,7 +82,7 @@ Stengt nå, åpner tirsdag kl. 9
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -92,3 +92,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

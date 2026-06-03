@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-03 06:27 UTC*
+*Sist oppdatert: 2026-06-03 15:28 UTC*
 
-**Antall dokumenter:** 615
+**Antall dokumenter:** 623
 
 ## Innhold
 
@@ -111,6 +111,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Hev- og senkbar kjøkkenløysing - nav.no](hev-og-senkbart-kjokken.md)
 - [Hjelpemiddel på bad - nav.no](hjelpemidler-bad.md)
 - [Hjelpemidler for samtale  - nav.no](hjelpemidler-for-samtale.md)
+- [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](hjelpemidler-idrett-aktivitet.md)
 - [Hjelpemidler med lyd og tale - nav.no](hjelpemidler-lyd-tale.md)
 - [Hjelpemidler for mobilitet og orientering - nav.no](hjelpemidler-mobilitet-orientering.md)
 - [Informasjon om hjelpemidler og tilrettelegging - nav.no](hjelpemidler-og-tilrettelegging.md)
@@ -256,6 +257,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Skriv til oss - nav.no](skriv-til-oss.md)
 - [Trenger råd og veiledning - nav.no](snakke-med-nav.md)
 - [Søk jobb i Nav - nav.no](sok-jobb-i-nav.md)
+- [Medlemskap i folketrygden - nav.no](sok-medlemskap-i-folketrygden.md)
 - [Søk opp Nav-kontor](sok-nav-kontor.md)
 - [Søke pensjon fra land med trygdeavtale utenfor EU/EØS - nav.no](soke-pensjon-avtaleland.md)
 - [Søke pensjon fra EU/EØS-land, Storbritannia eller Sveits - nav.no](soke-pensjon-eos.md)
@@ -293,6 +295,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Tilbehør til høreapparat  - nav.no](tilbehor-til-horeapparat.md)
 - [Tilgjengelighet på nav.no - nav.no](tilgjengelighet.md)
 - [Tilleggsstønader til enslig mor eller far - nav.no](tilleggsstonader-enslig.md)
+- [Tilleggsstønader - nav.no](tilleggsstonader-familiepleiere.md)
 - [Tilleggsstønader til gjenlevende ektefelle - nav.no](tilleggsstonader-gjenlevende.md)
 - [Tilleggsstønader - nav.no](tilleggsstonader.md)
 - [Tilpasningskurs - nav.no](tilpasningskurs.md)
@@ -602,7 +605,9 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
 - [Lov om statsgaranti for lønnskrav ved konkurs m.v. [lønnsgarantiloven]](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-statsgaranti-for-lonnskrav-ved-konkurs-m.v.md)
 - [Rundskriv til ftrl kap 8 – Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-8-14-tilskott-til-arbeidsreiser.md)
+- [Rundskriv arbeidsmarkedsloven § 13 – Ytelser til gjennomføring av arbeidsmarkedstiltak mv. – Rundskriv om tiltakspenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-om-tiltakspenger-og-tilleggsstonader.md)
 - [Rundskriv til ftrl kap 8 – Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-til-8-36.md)
+- [Forskrift om tiltakspenger mv. (tiltakspengeforskriften)](nav.no-ressurser/lenker/regelverk/rettskildene/tiltakspengeforskriften.md)
 - [Vedlegg 4 til ftrl kap 8 – Premiesatser for tillegg til sykepenger for selvstendig næringsdrivende og forsikring for tilleggssykepenger for frilansere](nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-4-til-kap.8.md)
 - [Dine Utbetalinger](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/dine-utbetalinger.md)
 - [Ditt Sykefravaer](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
@@ -656,6 +661,10 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Omsorgspenger
 
 - [Omsorgspenger (hjemme med sykt barn-dager) - nav.no](omsorgspenger/om.md)
+
+### Omstillingsstonad
+
+- [Innledning](omstillingsstonad/skjema/meld-inn-endring/innledning.md)
 
 ### Overgangsstonad
 
@@ -727,6 +736,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Ettersend til søknad om foreldrepenger - nav.no](start/ettersend-soknad-foreldrepenger.md)
 - [Ettersend til søknad om økonomisk sosialhjelp - nav.no](start/ettersend-soknad-okonomisk-stonad.md)
 - [Ettersend til søknad om utbetaling av omsorgspenger for selvstendig næringsdrivende og frilansere - nav.no](start/ettersend-soknad-omsorgspenger-selvstendig-frilansere.md)
+- [Ettersend til søknad om omstillingsstønad - nav.no](start/ettersend-soknad-omstillingstonad.md)
 - [Ettersend til søknad om overgangsstønad til enslig mor eller far - nav.no](start/ettersend-soknad-overgangsstonad-enslig.md)
 - [Ettersend til søknad om pleiepenger for sykt barn - nav.no](start/ettersend-soknad-pleiepenger.md)
 - [Ettersend til søknad om sykepenger - nav.no](start/ettersend-soknad-sykepenger.md)
@@ -734,6 +744,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
 - [Søknad om alderspensjon og AFP i privat sektor - nav.no](start/soknad-alderspensjon-afp-privat.md)
 - [Søknad om dagpenger - nav.no](start/soknad-dagpenger.md)
+- [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)
 - [Tilleggsopplysninger ved yrkessykdom - nav.no](start/tilleggsopplysninger.md)
 
 ### Svindel

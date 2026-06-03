@@ -1,11 +1,11 @@
-<!-- innholds-hash: dcf7490b99c3de555fd648737d7d3efe658773c7df40646355e3ff0e64b0f2c0 -->
+<!-- innholds-hash: 8979875d29ae96e5e81f5d8e0e09681ad0191384f2f7fe505d61a110a5178a32 -->
 
 # Kvalifiserings­programmet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kvalifiseringsprogrammet
-- **Sist hentet:** 2026-05-23T20:17:25Z
+- **Sist hentet:** 2026-06-03T12:59:18Z
 
 ## Innhold
 
@@ -137,7 +137,7 @@ Oppdatert 19.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Åpent nå
 
 
 ---
@@ -147,3 +147,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

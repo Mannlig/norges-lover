@@ -1,4 +1,4 @@
-<!-- innholds-hash: 64654902fed2e613dbf2571d7286e8b351efac2a3e691d50f038a5eaf8086f7c -->
+<!-- innholds-hash: cc950ca3197c21a857b0da17091499ae55a6e0399cd6b1a23099324f0172c6fb -->
 
 # Refusjon av kildeskatt på aksjeutbytte for utenlandske aksjonærer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/redusert-kildeskatt-pa-aksjeutbytte/refusjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:48:09Z
+- **Sist hentet:** 2026-06-03T09:50:32Z
 
 ## Innhold
 
@@ -93,6 +93,8 @@ Dette må du ha klart når du søker:
 - Annen relevant informasjon, som juridiske, organisatoriske og skattemessige forhold.
 Det er kun personlige aksjonærer bosatt i EØS som kan søke om refusjon på grunnlag av aksjonærmodellen.
 
+Hvis du søker på grunnlag av aksjonærmodellen, må du sende søknaden i posten.
+
 Dette må du dokumentere i søknaden:
 
 - Skatteidentifikasjonsnummer (
@@ -111,8 +113,6 @@ Dette må du dokumentere i søknaden:
 - Oppgi gyldig valuta for utbetaling.
 - En betalingsreferanse (maksimalt 20 tegn) vil forenkle utbetalingen.
 - Annen relevant informasjon, som juridiske, organisatoriske og skattemessige forhold.
-Hvis du søker på grunnlag av aksjonærmodellen, må du sende søknaden i posten.
-
 Du kan søke elektronisk. Første gang du logger inn, må du opprette en bruker. Ta vare på innloggingsinformasjonen, slik at du kan sjekke status på søknaden din senere.
 
 Når du søker elektronisk får du
@@ -171,3 +171,4 @@ Søknader som blir sendt til e-postadressen, vil ikke bli behandlet.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

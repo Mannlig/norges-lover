@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4c31887f1ebf163d93a09814ea0a3bea744ac45f8709769beb2bc86e283241e9 -->
+<!-- innholds-hash: 3884208a13e2799763419a35583417c85c7815b1f03096deeed34cee971b592b -->
 
 # Klage på skatteoppgjøret
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skatteoppgjor/klage-pa-skatteoppgjoret/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:25:34Z
+- **Sist hentet:** 2026-06-03T09:17:14Z
 
 ## Innhold
 
@@ -15,7 +15,11 @@
 
 I de fleste tilfeller kan du selv endre skattemeldingen din for de tre siste inntektsårene, selv om leveringsfristen er passert.
 
-Sjekk om du kan endre selv eller om du må sende inn klage:
+Når fristen for å endre selv er passert, kan du anmode Skatteetaten om å endre skattemeldingen.
+
+Har du mottatt et vedtak, kan du klage på vedtaket.
+
+Sjekk om du kan endre selv, må anmode Skatteetaten om å endre eller om du må sende inn klage.
 
 Hvis du mener noe er feil med formues- og inntektsskatten din, må vi vite hvilket år det gjelder for å fortelle deg hvordan du går frem.
 
@@ -35,3 +39,4 @@ Er grunnlaget for boligsparing for ungdom (BSU) feil, må du i tillegg til å kl
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6e352e2bf1e3f1c79dc7c868c502b89239d6e96a3600209cd6464ee7f69db958 -->
+<!-- innholds-hash: 329827d70d9d0c8e431682fae58f34372fd63f41ab877e8bcc62e6f3b4a1ff2b -->
 
 # Tilskudd til kjøp av PC eller nettbrett ved lese- og skrivevansker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilskudd-pc-nettbrett
-- **Sist hentet:** 2026-05-23T20:27:03Z
+- **Sist hentet:** 2026-06-03T13:10:27Z
 
 ## Innhold
 
@@ -144,7 +144,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -157,3 +157,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

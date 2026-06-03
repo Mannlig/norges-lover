@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8673a6e884ceb6bbdbf5042aaa38a549de088bce5d3843eb10f81f25fe356a1c -->
+<!-- innholds-hash: 17cc61ac5131460e50f0e63d81dcf35efbe27ff3bbcd9295f4e5f0699ea0d0d7 -->
 
 # Varig lønnstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-lonnstilskudd
-- **Sist hentet:** 2026-05-17T12:31:22Z
+- **Sist hentet:** 2026-06-03T13:54:29Z
 
 ## Innhold
 
@@ -40,7 +40,7 @@ Nav skal gi deg og arbeidsgiveren din den oppfølgingen som er nødvendig for å
 
 Størrelsen på tilskuddet er inntil 67 prosent av utgiftene til lønn og sosiale utgifter. Det første året kan tilskuddet være inntil 75 prosent av lønn og sosiale utgifter.
 
-Refusjonen kan utgjøre inntil maksimalt 5 ganger grunnbeløpet i folketrygden (G) per år, som er 650 800 kroner.
+Refusjonen kan utgjøre inntil maksimalt 5 ganger grunnbeløpet i folketrygden (G) per år, som er 682 745 kroner.
 
 
 #### Inkluderingstilskudd og mentor
@@ -98,3 +98,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

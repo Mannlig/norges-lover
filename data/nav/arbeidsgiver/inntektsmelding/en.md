@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6f9f3343e8a12e60b8b32cab594ee838371589464effc5d9c379988f7e9294c9 -->
+<!-- innholds-hash: 805ff4e1d60e71a0a8d0f83fdeff93287f3321e45eff7809abfece8d2426a7b7 -->
 
 # Income report - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding/en
-- **Sist hentet:** 2026-05-16T22:19:37Z
+- **Sist hentet:** 2026-06-03T14:25:46Z
 
 ## Innhold
 
@@ -34,7 +34,9 @@ You will be notified to submit the income form on My page - employer (Min side �
 
 Read more about income report for
 
-Employers use this form to claim reimbursement for payments to the employee in connection with the use of care benefit days.
+You use the reimbursement claim form to apply for reimbursement of wages paid in connection with care benefit days (staying home with a sick child).
+
+You apply for reimbursement retrospectively. You cannot apply for reimbursement in advance. The deadline for submitting a reimbursement claim is three months from the date of payment.
 
 Read more
 
@@ -52,15 +54,12 @@ If you do not send the income statement on time, the payment from Nav to the emp
 
 The main difference is that the income report requires more details related to the case in question. For example, whether the employer is claiming a refund, or whether the employee is going to take annual leave in the period when he or she is receiving benefits from Nav.
 
-To submit an income report, you or your payroll and HR system must have one of the following accesses in Altinn:
+To submit an income report, you must have one of the following accesses in Altinn:
 
-- Responsible auditor
-- Payroll and HR employee
-- Accountant salary
+- Payroll
 - Accountant with signing rights
 - Accountant without signing rights
-- Audit employee
-- Contact person NUF
+- Payroll accountant
 
 #### Sickness benefits
 
@@ -74,11 +73,9 @@ In connection with parental benefit, the income report must be submitted at the 
 
 #### Care benefit, attendance allowance or training allowance
 
-In connection with care benefit, attendance allowance or training allowance, the income report must submitted at the same time as the application.
+In connection with care benefit, attendance allowance or training allowance, the income report
 
 Nav no longer requires that employers must confirm an employee’s periods of holiday for sickness benefits, care benefit, training allowance or attendance allowance. We use information from the employee.
-
-For Pregnancy benefit, employers must still report holidays on the income statement.
 
 The income report is only for employees. Self-employed people and freelancers
 
@@ -86,17 +83,13 @@ Each employment relationship has its own employment ID, which allows you to dist
 
 Employment ID is not the same as organization number or enterprise number. If you are using a payroll or HR system, you will typically find the employment ID of the individual employment relationship in this system.
 
-You can find the Employment ID for an employment relationship in the a-ordning. If you use a payroll or HR system, an Employment ID number is normally generated when you create a new employment relationship.
-
 The number of employment relationships is the same as the number that has been reported to the a-ordning scheme via the monthly a-melding.
 
 Read more
 
 To provide new information or to change information in an income report that already has been submitted, the employer must send an amended income report. The information provided in the previous income report that remains valid must also be included when the amendments are submitted.
 
-If the employer uses the Altinn portal, the most recently submitted income report may be retrieved from the archive.
-
-The employer can make a copy of the previous income report with the feature “Create new copy,” and use this to enter new information and/or change the information. By using the copy as a starting point, the employer doesn’t have to reenter the information that doesn’t require changes.
+If the employer has used My page - employer (Min side – arbeidsgiver) to submit the income report, you can view and change previously submitted income reports.
 
 See what is
 
@@ -160,10 +153,6 @@ For children born from 1 October 2021, the following applies:
 - The calculation is no longer based on the other parent’s last day of claiming parental benefits. Instead, the first day of claiming parental benefits shall now be specified as the starting date in the income report.
 The income report must be submitted 4 weeks before the employee will start claiming parental benefit. The same applies if the employee is the father or co-mother.
 
-If the father or co-mother is not starting their parental benefit period immediately following the other parent, the employee must apply for postponement from the first day after the end of the other parent’s parental benefit period. If so, this is the date you must specify as the starting date for your parental benefit period in the income report. This means that the income report from the employer must be submitted 4 weeks before the father or co-mother either starts their parental benefit period or their postponement. This date will always be 4 weeks before the last day of the other parent’s parental benefit period.
-
-If the father or co-mother is not starting their parental benefit period immediately after the other parent, it is no longer necessary to apply for postponement. Parental benefits may be claimed freely until the child turns 3 years old. This means the income report must be submitted 4 weeks before the father or co-mother starts their parental benefit period. The first day of claiming parental benefit is the date you must specify as the starting date for the parental benefit period in the income report.
-
 More about
 
 The employer must send an income report when:
@@ -179,12 +168,11 @@ If the absence extends over two calendar years, you must send an income report p
 
 The income report is now split:
 
-- Mark the income report with the benefit “Attendance allowance sick child”.
-- Mark the income report with the benefit “Attendance allowance close relative”.
+- The income report is marked with the benefit “Attendance allowance sick child”.
+- The income report is marked with the benefit “Attendance allowance close relative”.
 
 #### Change the income report - first day of absence
 
-- If you are going to change an income report that has already been submitted, it is important to use the first day of absence.
 - If there are changes in an ongoing case, the first day of absence must be the same day as on the first income report.
 - If there are changes in an ongoing case, but with a stay during the care allowance period, the first day of absence shall be the new day of absence after the stay.
 The employee has attendance allowance continuously from 1 January to 1 December. You do not want to advance the attendance allowance for the entire period, and will stop the reimbursement from, for example, 1 November. You must then send an amendment to the income statement with the first day of absence on 1 January, where you request that the refund be stopped from 1 November.
@@ -201,14 +189,22 @@ In this case, the employer should submit a single, combined income report for bo
 
 Example: A care home employee has two different positions: one as a nursing assistant and one as a cleaner. The employee has two contracts with a single enterprise.
 
-In this case, the employer must submit two income reports – one for each employment relationship. Employment ID must be provided for both employment relationships.
 
+#### Income report through My page - employer (Min side - arbeidsgiver)
 
-#### Exception: income report for parental benefit in Altinn
-
-When you submit an income report for parental benefit through the Altinn portal, only one income report should be submitted for employees who have multiple employment relationships with the same enterprise. You do not need to enter the Employment ID.
+When you submit an income report through My page - employer (Min side - arbeidsgiver), only one income report should be submitted for employees who have multiple employment relationships with the same enterprise. You do not need to enter the Employment ID.
 
 The employer must submit two or more income reports – one for each employment relationship.
+
+Employers who submit "
+
+The employer sends an "
+
+It is not possible for an employee to send a digital sick leave certificate  to a private individual who is an employer. In this case, you, as the employer, must obtain a
+
+Work in the home can also be performed as an assignment with an assignment agreement (oppdragsavtale). Sick leave takers will then be considered freelancers and must submit their own income report.
+
+For parental benefit, pregnancy benefit, care benefit, training benefit, and care benefit, an income report for paid work carried out in private property will not be required from 21.05.2026.
 
 Here you will find information about income included in the calculation of the relevant monthly income.
 
@@ -360,23 +356,8 @@ The employee is receiving regular benefits/payments from Nav at the time of the 
 - Submit the report as soon as it has been determined that reimbursement in the enterprise will end, and no later than the 5th day of the following month.
 - Submit an income report for the new enterprise number, and also report the employment in the
 - To ensure reimbursement is set up for the new employment, you must register the employment and submit a new income report no later than the 5th day of the month when the employee transfers.
-- If the employee transfers employments within the same enterprise: Remember to specify the new employment ID. You can find this ID in
-If the enterprise’s own payroll and HR system cannot submit income reports as described below, the employer may use Altinn. In Altinn, you can retrieve a copy of the last income report submitted to Nav, and you can simply register the changes. This is a so-called
-
 In the examples below, the former enterprise is called “Enterprise A”, whereas the new enterprise is called “Enterprise B”.
 
-Please note that the cut-off point for calculation of the benefit is based on when the absence from Enterprise A begins, even when Enterprise B is the one claiming reimbursement. This means that the reimbursement amount paid to Enterprise B, would, at maximum, be the basis for calculation that applied when the absence from Enterprise A began.
-
-- “Beregnet månedslønn”
-- Specify the calculated monthly salary
-- “Utbetaler arbeidsgiveren lønn under hele eller deler av fraværet, og krever dere refusjon?”
-- Select “Ja”
-- “Oppgi refusjonsbeløpet per måned”
-- Specify the reimbursement amount
-- “Opphører refusjonskravet i perioden?”
-- Select “Ja”
-- “Oppgi den siste dagen du krever refusjon for”
-- Specify the date
 
 #### Examples of filling in Altinn for:
 
@@ -429,17 +410,10 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
 - Start date for parental benefit period: start date for the employee’s employment in Enterprise B.
 - Reimbursement amount per month: requested reimbursement amount
-
-#### Income report from
-
-- If enterprise A has submitted an income report for periods or days after the employment relationship has been transferred to enterprise B, business A must correct this by submitting an amended income report.
+- If enterprise A has submitted a
 - For days enterprise A shall not claim reimbursement for nevertheless:
-- Enter date under partial absence.
-- Set the absence to 0 hours.
-
-#### Income report from
-
-- Enterprise B submits income report as usual for periods or days after the employment relationship has been transferred to enterprise B from enterprise A.
+- Enter date
+- Enterprise B submits
 
 #### Income report from Enterprise A (to end reimbursement):
 
@@ -470,7 +444,7 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
 - First day of absence: start date for the employee’s employment in Enterprise B
 - New reimbursement amount: requested reimbursement amount
-Updated 07/03/2025
+Updated 05/21/2026
 
 
 #### Chat with us
@@ -479,12 +453,12 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 #### Call us at 55 55 33 36
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 ---
@@ -493,3 +467,4 @@ Closed now, opens tomorrow at 9am
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

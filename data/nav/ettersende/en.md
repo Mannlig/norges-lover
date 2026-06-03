@@ -1,11 +1,11 @@
-<!-- innholds-hash: 45828e94a5f4535f2a07e5feb888937bf152cf4d9c0e9b2f5abf18fd4f671fe4 -->
+<!-- innholds-hash: a90c3b0252e8d1754a71dbe977ca695efa60226895bfcbdf78c8daca779c2b46 -->
 
 # Submit additional documentation - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ettersende/en
-- **Sist hentet:** 2026-05-16T22:25:35Z
+- **Sist hentet:** 2026-06-03T14:34:06Z
 
 ## Innhold
 
@@ -269,7 +269,7 @@ Gives a reduced ticket price on public transport.
 An early retirement scheme for employees in the public sector who are between the ages of 62-67 and were born before 1963.
 
 
-#### Contractual pension (AFP) in the privte sector
+#### Contractual pension (AFP) in the private sector
 
 A pension scheme for employees of private companies with a collective agreement where AFP is part of the agreement.
 
@@ -900,3 +900,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

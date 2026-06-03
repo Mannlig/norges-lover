@@ -1,11 +1,11 @@
-<!-- innholds-hash: b67ad1fd5a6882fd8050926e03f45e362e0901537d38a0041d1c4fe2b3cf5ed5 -->
+<!-- innholds-hash: ad21abc4bc3c240bad78e9da327b734405eb13a5fa49222a37a04856c45999dd -->
 
 # Irislinser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/irislinse
-- **Sist hentet:** 2026-05-23T20:45:13Z
+- **Sist hentet:** 2026-06-03T13:29:09Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -119,3 +119,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)
