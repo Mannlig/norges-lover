@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9600ddd1c8020c5363916c3b8d26a2fc927f7ce86d7496d718832778bf4cb046 -->
+<!-- innholds-hash: d4dc468c48a5c07feabb8537c0d6d8c4acdd7bfa05047777c6005a640184e335 -->
 
 # Endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Sist hentet:** 2026-06-02T23:11:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200229
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
+  "respons_dato_tid": "/Date(1780441228221+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17392,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780405407612+0200)/",
+    "respons_dato_tid": "/Date(1780441219018+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200229,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "respons_dato_tid": "/Date(1780441228221+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -47,14 +47,14 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "respons_dato_tid": "/Date(1780441220127+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "respons_dato_tid": "/Date(1780441220018+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -75,3 +75,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-02** Innhold endret (se git-historikk for diff)

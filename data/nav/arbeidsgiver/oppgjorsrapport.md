@@ -1,11 +1,11 @@
-<!-- innholds-hash: 50dedd72d3e70d9d4137078fb88cd0e9fb77865a3e07c5b195f639b31d1a8c3a -->
+<!-- innholds-hash: 8161dd2274bf9fc092b360b16fdd36425eaf93dbfa853fd61a84290c58e68d58 -->
 
 # Oppgjørsrapport arbeidsgiver – refusjoner fra Nav  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppgjorsrapport
-- **Sist hentet:** 2026-05-21T14:03:31Z
+- **Sist hentet:** 2026-06-03T04:16:50Z
 
 ## Innhold
 
@@ -72,7 +72,6 @@ For å lese rapporten trenger du en av disse tilgangspakkene i Altinn:
 
 - Lønn med personopplysninger av særlig kategori
 - Ansvarlig revisor
-- Lønn
 - Regnskapsfører lønn
 - Regnskapsfører med eller uten signeringsrettighet
 - Revisormedarbeider
@@ -94,7 +93,7 @@ Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn.
 - Hvis andre i virksomheten har slettet rapporten, ligger den i Slettede elementer i Altinn.
 - Hvis du har avsluttet en virksomhet og har fått refusjon, men ikke har fått oppgjørsrapport, så avvent og følg med i Altinn. Ta kontakt med Nav hvis rapporten ikke har dukket opp i Altinn innen midten av måneden.
 - Eksempel: Hvis du skulle fått rapporten 1. april, kan du vente til 15. april før du eventuelt kontakter Nav.
-Oppdatert 08.05.2026
+Oppdatert 02.06.2026
 
 
 ---
@@ -103,3 +102,4 @@ Oppdatert 08.05.2026
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

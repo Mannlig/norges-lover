@@ -1,11 +1,11 @@
-<!-- innholds-hash: cae261598aeddcdc8c22c674974b86a9affcbe0f66d18ed7c89ee7db13b4b2f5 -->
+<!-- innholds-hash: 779847cb6ed9047e5e4800cf6a9f191e189a8547c334fa2c7c055689118e593c -->
 
 # Har nedsatt syn eller trenger briller - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syn
-- **Sist hentet:** 2026-05-23T19:03:19Z
+- **Sist hentet:** 2026-06-03T03:16:58Z
 
 ## Innhold
 
@@ -91,7 +91,7 @@ Om du er døvblind, kan du få tolk eller ledsagerhjelp.
 
 Har du nedsatt hørsel, er blind, svaksynt eller har dobbelt sansetap, kan du få opplæring slik at du kan fungere bedre i dagliglivet eller i arbeidslivet.
 
-Oppdatert 08.05.2026
+Oppdatert 27.05.2026
 
 
 #### Chat med chatbot
@@ -108,7 +108,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -121,3 +121,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

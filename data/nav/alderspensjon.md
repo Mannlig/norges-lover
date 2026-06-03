@@ -1,11 +1,11 @@
-<!-- innholds-hash: e89840f7837662948f924be24c0b4960aed87e724d20872d5898cc95750b77e8 -->
+<!-- innholds-hash: ff203e0b7972fabcdec7877f2266c66aadf7b86ff2c1a5197dabbdf58dbbdf02 -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-05-23T06:36:41Z
+- **Sist hentet:** 2026-06-03T02:46:44Z
 
 ## Innhold
 
@@ -1054,16 +1054,6 @@ Minstepensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Hvis pensjonen din blir regulert slik at den blir lavere enn satsen for minstepensjon, får du et tillegg i pensjonen din slik at du har samme beløp som andre minstepensjonister. Dette tillegget kalles minstenivåtillegg.
 
-I forhandlingene om statsbudsjettet for 2025 ble partene enige om at årlig minstepensjon for enslige skal øke med 6000 kroner fra 1. mai 2025. Hvis økningen gjelder for deg og du får hele beløpet, blir det altså 500 kroner mer i måneden.
-
-Økningen gjelder enslige minstepensjonister som er født før 1954 og har alderspensjon etter gamle regler (kapittel 19 i folketrygdloven).
-
-Hvis du er født 1954–1962, vil du få økning bare i den delen av pensjonen som er beregnet etter gamle regler.
-
-Har du ikke 100 prosent pensjon? Eller har du redusert trygdetid fordi du har bodd eller jobbet i andre land? Da får du mindre økning, og for noen kan det bety at det ikke blir noen ekstra økning.
-
-Regulering av alderspensjonen skjer i slutten av mai. Pensjonen øker med gjennomsnittet av lønns- og prisveksten, og så kommer økningen for enslige i tillegg. Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
-
 1. januar 2024 kom det nye regler for regulering av gjenlevenderett i alderspensjonen for dem som er født i 1944 eller senere. De nye reglene gjorde at gjenlevenderetten ble skilt ut som et eget tillegg. Denne delen av pensjonen vil ikke lenger bli regulert 1. mai hvert år når resten av pensjonen reguleres.
 
 Fra 2024 blir ikke gjenlevendetillegget i pensjonen din bli regulert. Den delen som er basert på din egen opptjening, vil fortsatt bli regulert årlig. Du vil se at gjenlevendetillegget ikke øker når resten av pensjonen reguleres 1. mai hvert år.
@@ -1228,16 +1218,16 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 22.05.2026
+Oppdatert 28.05.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1247,7 +1237,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1257,3 +1247,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

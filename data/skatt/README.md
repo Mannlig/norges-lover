@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-02 21:10 UTC*
+*Sist oppdatert: 2026-06-03 06:27 UTC*
 
-**Antall dokumenter:** 634
+**Antall dokumenter:** 635
 
 ## Innhold
 
@@ -323,6 +323,7 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Fritidsfiske](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/fritidsfiske.md)
 - [E-sport (gaming)](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/inntekter-fra-e-sport-gaming.md)
 - [Betaling av forskuddstrekk og arbeidsgiveravgift](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift.md)
+- [Privat arbeidsgiver](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/privat-arbeidsgiver.md)
 - [Feriepenger](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/utfylling-av-lonns--og-trekkoppgaven-rf-1015.md)
 - [Lønn for arbeid i hjemmet](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet.md)
 - [Mottar du lønn fra en frivillig eller veldedig organisasjon?](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/mottar-du-lonn-fra-en-frivillig-eller-veldedig-organisasjon.md)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 38c28d264930e56555c4e0db77288391dfd9e070747a6cd43272f59111fc8dbd -->
+<!-- innholds-hash: bf7d9869fd33a6011b496a0fd9d3c3a9229ac66e14df5f48586708c3cc7cbc28 -->
 
 # Arbeidsrelaterte psykiske plager
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/arbeidsrelaterte-psykiske-plager/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:12:55Z
+- **Sist hentet:** 2026-06-03T04:25:33Z
 
 ## Innhold
 
@@ -33,6 +33,9 @@ Psykiske plager kan òg føre til fysisk ubehag som
 - magesmerter
 - muskelspenningar
 Det er normalt å oppleve psykisk ubehag frå tid til anna. For nokre kan plagene vere så belastande at dei fører til nedsett livskvalitet og funksjon, og til redusert arbeidsevne på kort eller lengre sikt.
+
+
+### Årsaker til arbeidsrelaterte psykiske plager​
 
 Psykiske plager kan ha fleire årsaker:
 
@@ -128,7 +131,7 @@ Når de har kartlagt og risikovurdert, må de sette inn målretta og førebyggan
 Ta med
 
 
-### Følg opp tilsette som har psykiske plager
+### Råd til arbeidsgivar: Følg opp tilsette som har psykiske plager
 
 Dette bør arbeidsgivar gjere når arbeidstakarar har arbeidsrelaterte psykiske plager:
 
@@ -179,3 +182,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

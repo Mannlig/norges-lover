@@ -1,11 +1,11 @@
-<!-- innholds-hash: 975bb7679a083bc9a6d933c0be4f6053c101218246a1a3770e33b0ba3eb68c2e -->
+<!-- innholds-hash: ee8247d097887966c680b1e59d02a01b56e527119f1136c016a59b6782aebf56 -->
 
 # Har lese- og skrivevansker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lese-skrive-vansker
-- **Sist hentet:** 2026-05-23T07:04:58Z
+- **Sist hentet:** 2026-06-03T03:15:33Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -119,3 +119,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

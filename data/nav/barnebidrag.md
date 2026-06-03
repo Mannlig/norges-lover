@@ -1,11 +1,11 @@
-<!-- innholds-hash: 78e85879b72fd76107ff286881b8b18dae395e900c06ac5cc341935107b4e746 -->
+<!-- innholds-hash: 05ee7f4db452551e0e92519ede019339a73c91acecffd7f14eb34a66e7c4fb24 -->
 
 # Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag
-- **Sist hentet:** 2026-05-23T20:07:01Z
+- **Sist hentet:** 2026-06-03T04:20:19Z
 
 ## Innhold
 
@@ -235,8 +235,6 @@ Bruk dette skjemaet hvis du vil at Skatteetaten skal kreve inn barnebidrag for d
 Du må ha en gyldig avtale eller avgjørelse om barnebidrag – enten fra Norge eller et annet land.
 
 Dette kan være en skriftlig privat avtale, eller bidrag fastsatt av Nav, en domstol eller rettsforlik. Du kan be om innkreving for flere barn i samme skjema, så lenge barna har de samme foreldrene.
-
-Er du over 18 år og skal kreve inn bidrag fra begge foreldrene dine, må du sende ett skjema per forelder.
 
 Hvis dere har innkreving fra Skatteetaten, og den bidragspliktige ikke betaler innen fristen, følger Skatteetaten automatisk opp saken. De sender purring på manglende betaling. Purringen blir sendt den 10. påfølgende måned med 14 dagers betalingsfrist. Hvis purringen heller ikke blir betalt, blir det sendt enda en purring sammen med et varsel om tvangsinnkreving. Denne purringen har også 14 dagers betalingsfrist.
 
@@ -503,16 +501,16 @@ Hvis bidraget skal opphøre, for eksempel fordi foreldrene har inngått en priva
 
 Mer informasjon til deg som
 
-Oppdatert 08.05.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -522,7 +520,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -532,3 +530,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

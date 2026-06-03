@@ -1,4 +1,4 @@
-<!-- innholds-hash: 66e0212b65db7510f93a29d0ec511ef66b6b9d1bbc1149e137e64b61d18ba394 -->
+<!-- innholds-hash: 402f5a86d2e7f7ea967171da9aa02c4753dc68f1278175a2cd0388b21ca0d231 -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:26:40Z
+- **Sist hentet:** 2026-06-03T04:37:05Z
 
 ## Innhold
 
@@ -251,11 +251,6 @@ Les mer om hvordan dere kan arbeide systematisk med kartlegging, risikovurdering
 ### Kommende kurs og webinar
 
 
-#### Harstad: Tydeligere regelverk om psykososialt arbeidsmiljø – Hva betyr det for deg og din arbeidsplass?
-
-Mølnholtet 42, 9414 Harstad
-
-
 #### Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – Hva betyr det for deg og din arbeidsplass?
 
 Østensjøveien 32, 0667 Oslo
@@ -323,3 +318,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

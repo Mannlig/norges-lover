@@ -1,4 +1,4 @@
-<!-- innholds-hash: bb78892d77e9d12aae936c438a140d56049ebcf6d91898c59f70a521fb770b92 -->
+<!-- innholds-hash: 09922b66ecf387bc519132b2a12430808684ca5509dbe10450a7491ec3b56315 -->
 
 # Slik saksbehandler vi søknader om Arbeidstilsynets samtykke
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/saksbehandling-av-soknader-om-samtykke/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T20:32:35Z
+- **Sist hentet:** 2026-06-03T05:34:19Z
 
 ## Innhold
 
@@ -18,7 +18,11 @@ Her ser du hvordan vi vurderer og saksbehandler søknader om
 
 ### Når starter vi saksbehandlingen?
 
-For søknader vi mottar i uke 12 til 20, tar det normalt 4 uker til vi starter saksbehandlingen.
+For søknader vi mottar i
+
+For søknader vi mottar i
+
+For søknader vi mottar i
 
 
 ### Når får dere svar på søknaden om samtykke?
@@ -202,3 +206,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

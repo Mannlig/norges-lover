@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4d3ce08192e437749b2e53e87f3162704e6799bc3a8b29be2324c8cd686e3f85 -->
+<!-- innholds-hash: a36e99f22156cbecd3c278f1d0b44c5b01ece9fbe34e3f054926f6e261362b15 -->
 
 # Planlegger pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/planlegger-pensjon
-- **Sist hentet:** 2026-05-23T06:47:49Z
+- **Sist hentet:** 2026-06-03T02:57:40Z
 
 ## Innhold
 
@@ -452,11 +452,11 @@ Oppdatert 20.04.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -466,7 +466,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -476,3 +476,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

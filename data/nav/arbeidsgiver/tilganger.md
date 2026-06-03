@@ -1,11 +1,11 @@
-<!-- innholds-hash: f332e0262cc01e596aad8d4557abdb15b3b654c137f78dd1b7cb6e70a437cc29 -->
+<!-- innholds-hash: 12718442ad887c3a5dfc0adcb76734b015886e2d57ee3a66ad203156467133f0 -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-05-23T19:45:01Z
+- **Sist hentet:** 2026-06-03T03:58:48Z
 
 ## Innhold
 
@@ -205,12 +205,18 @@ Navs tjenester via Altinn knyttet til sykepenger styres av disse rettighetene:
 
 For refusjon av sykepenger trenger du også:
 
-Her finner du
+Alle disse rettighetene er en del av tilganspakken lønn med personopplysninger av særlig kategori.
 
 
 #### Hvem skal ha tilgang?
 
+
+#### Små virksomheter
+
 Daglig leder (eller tilsvarende) kan administrere det som kommer inn i Altinn selv, og trenger ikke å tildele tilganger. Alternativt kan regnskapsfører eller en stedfortreder få tilgangene.
+
+
+#### Store virksomheter
 
 Daglig leder (eller tilsvarende) for juridisk enhet eller det nærmeste organisasjonsleddet må gi tilganger i Altinn til utvalgte personer på HR/lønn. Dette kan være:
 
@@ -243,8 +249,9 @@ For å sende inn søknad om ekspertbistand og se svaret på søknaden trenger du
 
 Enkelttjenesten gis ikke via tilgangspakker, så du må be om å få den eksplisitt delegert til deg.
 
-For å få tilgang til skjemaet «Søknad om A1 for utsendte arbeidstakere innen EØS/Sveits» må du ha enkeltrettigheten «Søknad om A1 for utsendte arbeidstakere innen EØS/Sveits» eller rollen «Lønn- og personalmedarbeider» i enhetsregisteret.
+For å få tilgang til skjemaet «Utsendt arbeidstaker til EØS/Sveits» må du ha enkelttjenesten «Søknad om medlemskap i folketrygden eller lovvalgsavklaring» eller tilgangspakken:
 
+- Ansettelsesforhold
 Her har vi samlet svar på vanlige problemstillinger knyttet til varsling.
 
 Du får bare varsel hvis den ansatte har brukt den digitale sykmeldingen og sendt den til arbeidsgiveren. Nav sender varsler både til HR/daglig leder og til nærmeste leder. Vi varsler nærmeste leder kun på e-post, aldri på SMS.
@@ -296,7 +303,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 22.05.2026
+Oppdatert 01.06.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -304,7 +311,7 @@ Oppdatert 22.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -326,3 +333,4 @@ Alltid åpen
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

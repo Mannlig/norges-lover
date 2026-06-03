@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6f76ae8b38a051470142e8f6a19448568527c0562060a51775434d2ad82947f3 -->
+<!-- innholds-hash: e5ed01023bb6aeedeb81722b80e84336aac4ec2d26986d47cd1542626df7f732 -->
 
 # Starte, drive og avslutte bedrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T22:09:35Z
+- **Sist hentet:** 2026-06-03T00:00:14Z
 
 ## Innhold
 
@@ -26,6 +26,9 @@ Informasjon om frister og attester, gratis kurs, regnskap og kassasystemer.
 
 
 ### Frister, gebyrer og tilleggsskatt
+
+
+### Kontroll av skatt og avgift
 
 
 ### Bestill attester og tilgang på data
@@ -51,3 +54,4 @@ Skatteinfo er et landsdekkende informasjonsskriv, spesielt beregnet på revisore
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

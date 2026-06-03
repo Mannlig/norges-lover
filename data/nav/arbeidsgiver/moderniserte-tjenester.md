@@ -1,11 +1,11 @@
-<!-- innholds-hash: ec41545bfc27311f5e56e0f9705a7aac63f00e992b9f78f983d8da3b1d53394c -->
+<!-- innholds-hash: 967a0cf230f2a0d556709f286cb1b050f08647d4064af51843ad3456ac57ac75 -->
 
 # Nav moderniserer tjenester for arbeidsgivere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/moderniserte-tjenester
-- **Sist hentet:** 2026-05-16T15:44:51Z
+- **Sist hentet:** 2026-06-03T04:13:24Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Nav moderniserer tjenester for arbeidsgivere
 
-Publisert 21. januar 2026 | Oppdatert 27. mars 2026
+Publisert 21. januar 2026 | Oppdatert 1. juni 2026
 
 Nav flytter sine arbeidsgivertjenester fra Altinn 2 til nav.no og nye tekniske grensesnitt (API). Dette må du som arbeidsgiver være klar over.
 
@@ -58,7 +58,8 @@ Kort om de viktigste endringene:
 - Manuell registrering av inntektsmelding for familieytelser som foreldrepenger, svangerskapspenger, pleiepenger, omsorgspenger og opplæringspenger, skal gjøres i et nytt skjema på nav.no.
 - Skjemaet er forhåndsutfylt med startdato fra arbeidstakers søknad og inntekt fra a-meldingen. Unntaket er for omsorgspenger, hvor man skal sende et refusjonskrav.
 - Arbeidsgiver får informasjon i Altinn når inntektsmelding skal sendes.
-- Nav har startet arbeidet med å tilby API for å sende inntektsmeldinger på ytelsene foreldre- og svangerskapspenger.
+- Nav har startet arbeidet med å tilby API for å sende inntektsmeldinger for foreldre- og svangerskapspenger.
+- Vi arbeider også med å kunne tilby API for å sende inntektsmelding for pleiepenger, opplæringspenger og omsorgspenger.
 - Nytt API for innsending av oppfølgingsplan til Nav og lege fra sluttbrukersystem.
 - API for å laste ned dialogmøte og innsendt oppfølgingsplan fra Nav. Det jobbes med å tilby mulighet for å laste ned informasjon om dialogmøte og innsendt oppfølgingsplan manuelt fra nav.no.
 - Arbeidsgivere vil få informasjon i Altinn når noe er klart for nedlastning.
@@ -97,7 +98,12 @@ Denne pakken gir tilgang til:
 - oppfølgingsplan
 - dialogmøte
 - registrering av nærmeste leder
+Denne pakken gir tilgang til:
+
+- registrering av nærmeste leder
 Arbeidsgivere kan allerede nå gi ansatte disse tilgangene. Tilganger bør begrenses til dem som har tjenstlig behov.
+
+Du kan lese mer her:
 
 
 #### Hjelp til å gi riktig tilgang
@@ -120,3 +126,4 @@ Høsten 2026 vil Nav fjerne all tilgangsstyring basert på de gamle Altinn 2‑r
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

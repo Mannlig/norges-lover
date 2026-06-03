@@ -1,11 +1,11 @@
-<!-- innholds-hash: 696e3bcbe3a0818e0af0eb8d1a5d740e0c40850cbd03785b6a2fcd670164db66 -->
+<!-- innholds-hash: 07a640d790ba9e137309d220b005a2028bbdd34a587daff585967c577feae307 -->
 
 # Stønad til barnetilsyn for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig
-- **Sist hentet:** 2026-05-23T20:07:42Z
+- **Sist hentet:** 2026-06-03T04:21:01Z
 
 ## Innhold
 
@@ -386,11 +386,11 @@ Oppdatert 19.02.2026
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -400,7 +400,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -410,3 +410,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

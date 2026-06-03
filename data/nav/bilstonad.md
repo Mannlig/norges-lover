@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9690a8a5982b23d7597281cf24e5a6429afd737c743a56868393f0309c8212c1 -->
+<!-- innholds-hash: 2d0876f119a4bdda53190f7b5dadfb6577fffd6e3e0612ba350b1134bdcec3b0 -->
 
 # Bilstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bilstonad
-- **Sist hentet:** 2026-05-23T20:09:45Z
+- **Sist hentet:** 2026-06-03T04:23:04Z
 
 ## Innhold
 
@@ -582,7 +582,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -595,3 +595,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

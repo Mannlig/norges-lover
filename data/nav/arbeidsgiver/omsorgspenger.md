@@ -1,11 +1,11 @@
-<!-- innholds-hash: 637d2fb951af5902cb0b0638979d7b7fe118f57d29a7a3ff73cc2bf0b5d32e40 -->
+<!-- innholds-hash: 9ee46724e9ad08738590ed8f40b2e79ccac38acb69318998174f08c640e5fc46 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/omsorgspenger
-- **Sist hentet:** 2026-05-23T19:15:55Z
+- **Sist hentet:** 2026-06-03T03:29:25Z
 
 ## Innhold
 
@@ -307,7 +307,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -317,3 +317,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

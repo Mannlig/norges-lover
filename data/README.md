@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-02 21:10 UTC*
+*Sist oppdatert: 2026-06-03 06:27 UTC*
 
-**Antall dokumenter:** 2432
+**Antall dokumenter:** 2447
 
 ## Innhold
 
@@ -993,6 +993,7 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Bengt Fasteraune og Bent-Joacim Bentzen om bedre integrering av familieinnvandrere](lover/2025-2029/200067-representantforslag-fra-stortingsrepresentantene-bengt-fasteraune-og-bent-joacim-bentzen-om-bedre-in.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Bjørn Larsen, Rune Midtun, Helge André Njåstad og Tom Staahle om innstramminger i familieinnvandringspolitikken](lover/2025-2029/200068-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-bjorn-larsen-rune-midtun-helge-andré-.md)
 - [Representantforslag fra stortingsrepresentantene Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Jon Engen-Helgheim om mer effektiv kamp mot organisert bedrageri og registerkriminalitet](lover/2025-2029/200069-representantforslag-fra-stortingsrepresentantene-stian-storbukas-finn-krokeide-anette-carnarius-else.md)
+- [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Geir Pollestad om et statlig mineralselskap](lover/2025-2029/200071-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-geir-.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Larsen, Margret Hagerup, Kari Sofie Bjørnsen, Monica Molvær, Haagen Poppe, Ove Trellevik og Bård Ludvig Thorheim om økt produksjon og eksport av norsk lokalmat og drikke](lover/2025-2029/200072-representantforslag-fra-stortingsrepresentantene-erlend-larsen-margret-hagerup-kari-sofie-bjornsen-m.md)
 - [Representantforslag fra stortingsrepresentantene Harry Valderhaug, Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Jørgen H. Kristiansen om å forenkle kravene til boligbygg for å redusere byggekostnader og boligpriser](lover/2025-2029/200075-representantforslag-fra-stortingsrepresentantene-harry-valderhaug-jorunn-gleditsch-lossius-jonas-and.md)
 - [Representantforslag fra stortingsrepresentantene Ingrid Liland, Marius Langballe Dalin, Oda Indgaard om å ta tomme bygg og boliger i bruk](lover/2025-2029/200076-representantforslag-fra-stortingsrepresentantene-ingrid-liland-marius-langballe-dalin-oda-indgaard-o.md)
@@ -1023,14 +1024,19 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Morten Wold, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats Henriksen om bostedsfritak for bompenger på Sollihøgda](lover/2025-2029/200109-representantforslag-fra-stortingsrepresentantene-hans-andreas-limi-morten-wold-bard-hoksrud-dagfinn-.md)
 - [Representantforslag fra stortingsrepresentantene Liv Gustavsen, Tom Staahle, Aina Stenersen og Anne Grethe Hauan om etablering av psykiatrisk ambulansetjeneste på det sentrale Østlandet](lover/2025-2029/200110-representantforslag-fra-stortingsrepresentantene-liv-gustavsen-tom-staahle-aina-stenersen-og-anne-gr.md)
 - [Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Erling Sande om å sikre mobildekning på alle offentlige veier](lover/2025-2029/200111-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-bent-joacim-bentzen-og-erling-sande-.md)
+- [Representantforslag fra stortingsrepresentantene Une Bastholm, Ingrid Liland og Frøya Skjold Sjursæther om å øke verdiskaping og gjenvinning i mineralnæringen](lover/2025-2029/200115-representantforslag-fra-stortingsrepresentantene-une-bastholm-ingrid-liland-og-froya-skjold-sjursaet.md)
 - [Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg](lover/2025-2029/200118-representantforslag-fra-stortingsrepresentantane-ole-herman-sveian-og-kjersti-toppe-om-a-gjennomfore.md)
+- [Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Kari Sofie Bjørnsen, Helene Røsholt og Mathias Willassen Hanssen om å realisere Fensfeltet og mer mineralnæring i Norge](lover/2025-2029/200119-representantforslag-fra-stortingsrepresentantene-bard-ludvig-thorheim-kari-sofie-bjornsen-helene-ros.md)
 - [Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Ingrid Fiskaa om nullutslippshurtigbåter](lover/2025-2029/200120-representantforslag-fra-stortingsrepresentantene-lars-haltbrekken-marthe-hammer-anne-lise-gjerstad-f.md)
 - [Representantforslag fra stortingsrepresentantene Tor Mikkel Wara, Morten Stordalen, Kristoffer Sivertsen, Erlend Wiborg, Bjørn Larsen og Rikard Spets om å tilrettelegge for kjernekraft i Norge](lover/2025-2029/200121-representantforslag-fra-stortingsrepresentantene-tor-mikkel-wara-morten-stordalen-kristoffer-siverts.md)
 - [Representantforslag frå stortingsrepresentantane Erling Sande, Bengt Fasteraune, Ole Herman Sveian og Geir Inge Lien om meir ja og mindre nei i byggjesaker](lover/2025-2029/200122-representantforslag-fra-stortingsrepresentantane-erling-sande-bengt-fasteraune-ole-herman-sveian-og-.md)
 - [Pensjonar frå statskassa](lover/2025-2029/200125-pensjonar-fra-statskassa.md)
 - [Endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)](lover/2025-2029/200130-endringer-i-folketrygdloven-delvis-avvikling-av-stonad-til-enslig-mor-eller-far.md)
+- [Samtykke til ratifikasjon av økonomisk partnerskapsavtale av 23. juni 2025 mellom EFTA-statene og Malaysia](lover/2025-2029/200131-samtykke-til-ratifikasjon-av-okonomisk-partnerskapsavtale-av-23-juni-2025-mellom-efta-statene-og-mal.md)
 - [Endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)](lover/2025-2029/200132-endringer-i-energiloven-utnyttelse-av-overskuddsvarme-og-krav-til-automatiske-styringssystemer.md)
+- [Samtykke til ratifikasjon av frihandelsavtale mellom EFTA-statene og Ukraina av 8. april 2025](lover/2025-2029/200133-samtykke-til-ratifikasjon-av-frihandelsavtale-mellom-efta-statene-og-ukraina-av-8-april-2025.md)
 - [Endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)](lover/2025-2029/200136-endringer-i-bokforingsloven-og-enkelte-andre-lover-pa-finansmarkedsomradet-pliktig-digital-bokforing.md)
+- [Samtykke til ratifikasjon av frihandelsavtale mellom EFTA-statene og MERCOSUR av 16. september 2025](lover/2025-2029/200138-samtykke-til-ratifikasjon-av-frihandelsavtale-mellom-efta-statene-og-mercosur-av-16-september-2025.md)
 - [Representantforslag fra stortingsrepresentantene Seher Aydar og Marie Sneve Martinussen om å sikre pauserom for sykehusansatte](lover/2025-2029/200145-representantforslag-fra-stortingsrepresentantene-seher-aydar-og-marie-sneve-martinussen-om-a-sikre-p.md)
 - [Representantforslag fra stortingsrepresentantene Marian Hussein og Ingrid Fiskaa om at arbeidsfolk skal ha god pensjon](lover/2025-2029/200146-representantforslag-fra-stortingsrepresentantene-marian-hussein-og-ingrid-fiskaa-om-at-arbeidsfolk-s.md)
 - [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Hanne Beate Stenvaag og Seher Aydar om arbeidstidsreduksjon for turnusarbeidere](lover/2025-2029/200147-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-hanne-beate-stenvaag-og-seh.md)
@@ -1048,6 +1054,7 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Mathilde Tybring-Gjedde, Monica Molvær og Ola Svenneby om å beholde og forbedre nasjonale prøver og kartleggingsprøver](lover/2025-2029/200174-representantforslag-fra-stortingsrepresentantene-mathilde-tybring-gjedde-monica-molvaer-og-ola-svenn.md)
 - [Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Tor André Johnsen om opprettelser av Nye Baner som en del av det etablerte infrastrukturselskapet](lover/2025-2029/200177-representantforslag-fra-stortingsrepresentantene-bard-hoksrud-dagfinn-henrik-olsen-frank-edvard-sve-.md)
 - [Representantforslag fra stortingsrepresentantene Monica Molvær, Ola Svenneby og Mathilde Tybring-Gjedde om å forhindre juks med kunstig intelligens i skolen](lover/2025-2029/200178-representantforslag-fra-stortingsrepresentantene-monica-molvaer-ola-svenneby-og-mathilde-tybring-gje.md)
+- [Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om besøksbidrag som et fast beløp](lover/2025-2029/200179-representantforslag-fra-stortingsrepresentantene-harry-valderhaug-ida-lindtveit-rose-og-jorunn-gledi.md)
 - [Representantforslag fra stortingsrepresentantene Remi Sølvberg og Marie Sneve Martinussen om en god posttjeneste for framtiden](lover/2025-2029/200183-representantforslag-fra-stortingsrepresentantene-remi-solvberg-og-marie-sneve-martinussen-om-en-god-.md)
 - [Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe og Tage Pettersen om fastsettelse av provenyeffekt av fritak fra merverdiavgift på levende lyd og bilde](lover/2025-2029/200185-representantforslag-fra-stortingsrepresentantene-tone-wilhelmsen-troen-haagen-poppe-og-tage-petterse.md)
 - [Representantforslag fra stortingsrepresentant Geir Inge Lien om statlig ansvar for statlig bygde broer](lover/2025-2029/200189-representantforslag-fra-stortingsrepresentant-geir-inge-lien-om-statlig-ansvar-for-statlig-bygde-bro.md)
@@ -1060,8 +1067,12 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Siren Julianne Jensen, Marius Langballe Dalin, Ingrid Liland, Margit Bye og Julie E. Stuestøl om å beskytte folk mot gjeldsfeller](lover/2025-2029/200212-representantforslag-fra-stortingsrepresentantene-siren-julianne-jensen-marius-langballe-dalin-ingrid.md)
 - [Endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)](lover/2025-2029/200220-endringer-i-lov-om-pensjonsordning-for-sykepleiere-opptjening-under-permisjon-ved-mottak-av-pleiepen.md)
 - [Endringer i folketrygdloven og enkelte andre lover (oppfølging av Stortingets vedtak om økt fribeløp for uføre)](lover/2025-2029/200222-endringer-i-folketrygdloven-og-enkelte-andre-lover-oppfolging-av-stortingets-vedtak-om-okt-fribelop-.md)
+- [Lov om infrastruktur for alternativt drivstoff og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/1804 om utbygging av infrastruktur for alternativt drivstoff og om oppheving av direktiv 2014/94/EU](lover/2025-2029/200223-lov-om-infrastruktur-for-alternativt-drivstoff-og-samtykke-til-deltakelse-i-en-beslutning-i-eos-komi.md)
+- [Lov om infrastruktur for alternativt drivstoff og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/1804 om utbygging av infrastruktur for alternativt drivstoff og om oppheving av direktiv 2014/94/EU](lover/2025-2029/200224-lov-om-infrastruktur-for-alternativt-drivstoff-og-samtykke-til-deltakelse-i-en-beslutning-i-eos-komi.md)
 - [Årsmelding 2025 for pensjonsordninga for stortingsrepresentantar og regjeringsmedlemer](lover/2025-2029/200225-arsmelding-2025-for-pensjonsordninga-for-stortingsrepresentantar-og-regjeringsmedlemer.md)
 - [Endringer i universitets- og høyskoleloven mv. (egenbetaling, advokatutgifter)](lover/2025-2029/200229-endringer-i-universitets-og-hoyskoleloven-mv-egenbetaling-advokatutgifter.md)
+- [Endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning) og samtykke til deltakelse i EØS-komiteens beslutning om innlemmelse i EØS-avtalen av forordning (EU) nr. 734/2013 og forordning (EU) 2015/1589 om revisjon av prosedyreforordningen (statsstøtte) og til inngåelse av avtale om endring av protokoll 3 til Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA)](lover/2025-2029/200237-endringer-i-stotteprosessloven-gjennomforing-av-revidert-prosedyreforordning-og-samtykke-til-deltake.md)
+- [Endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning) og samtykke til deltakelse i EØS-komiteens beslutning om innlemmelse i EØS-avtalen av forordning (EU) nr. 734/2013 og forordning (EU) 2015/1589 om revisjon av prosedyreforordningen (statsstøtte) og til inngåelse av avtale om endring av protokoll 3 til Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA)](lover/2025-2029/200238-endringer-i-stotteprosessloven-gjennomforing-av-revidert-prosedyreforordning-og-samtykke-til-deltake.md)
 - [Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold](lover/2025-2029/200240-lov-om-saerskilt-innsats-mot-negativ-sosial-kontroll-og-aeresmotivert-vold.md)
 - [Endringer i utlendingsloven mv. (straff for utilbørlig utnyttelse av utlendinger)](lover/2025-2029/200247-endringer-i-utlendingsloven-mv-straff-for-utilborlig-utnyttelse-av-utlendinger.md)
 - [Endringer i integreringsloven (integreringserklæring)](lover/2025-2029/200258-endringer-i-integreringsloven-integreringserklaering.md)
@@ -1069,6 +1080,7 @@ Lovdata
 - [Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)](lover/2025-2029/200262-midlertidige-endringer-i-lovverket-som-folge-av-ankomst-av-fordrevne-fra-ukraina-videreforing-mm.md)
 - [Endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)](lover/2025-2029/200268-endringer-i-utlendingsloven-saksbehandlingsregler-for-kollektiv-beskyttelse.md)
 - [Initiativdebatt om industripolitikk (initiativ fra næringskomiteen)](lover/2025-2029/200272-initiativdebatt-om-industripolitikk-initiativ-fra-naeringskomiteen.md)
+- [Finansiering av vegprosjektet fv. 17 Ørnes-Glomfjord i Meløy kommune i Nordland fylke](lover/2025-2029/200276-finansiering-av-vegprosjektet-fv-17-ornes-glomfjord-i-meloy-kommune-i-nordland-fylke.md)
 - [Midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)](lover/2025-2029/200278-midlertidig-endring-av-alkoholloven-unntak-fra-maksimaltiden-for-skjenking-under-fotball-vm-for-herr.md)
 - [Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon](lover/2025-2029/200288-representantforslag-fra-stortingsrepresentantene-marthe-hammer-og-kirsti-bergsto-om-a-nedsette-en-fo.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](lover/2025-2029/200290-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
@@ -1454,6 +1466,7 @@ Lovdata
 - [Hjelpemidler for samtale  - nav.no](nav/hjelpemidler-for-samtale.md)
 - [Hjelpemidler med lyd og tale - nav.no](nav/hjelpemidler-lyd-tale.md)
 - [Hjelpemidler for mobilitet og orientering - nav.no](nav/hjelpemidler-mobilitet-orientering.md)
+- [Informasjon om hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler-og-tilrettelegging.md)
 - [Hjelpemidler for punktskrift - nav.no](nav/hjelpemidler-punktskrift.md)
 - [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler.md)
 - [Hjelpestønad - nav.no](nav/hjelpestonad.md)
@@ -1481,6 +1494,7 @@ Lovdata
 - [Irislinser - nav.no](nav/irislinse.md)
 - [Jobbe i land Norge har trygdeavtale med - nav.no](nav/jobbe-i-avtaleland.md)
 - [Jobbe i EØS eller Sveits - nav.no](nav/jobbe-i-eos.md)
+- [Arbeid og opphold i Norge - nav.no](nav/jobbe-i-norge.md)
 - [Skal jobbe i utlandet - nav.no](nav/jobbe-i-utlandet.md)
 - [Kan bare jobbe noe på grunn av langvarig sykdom eller skade - nav.no](nav/jobbe-noe.md)
 - [Jobbklubb - nav.no](nav/jobbklubb.md)
@@ -2128,6 +2142,7 @@ Lovdata
 - [Fritidsfiske](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/fritidsfiske.md)
 - [E-sport (gaming)](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/inntekter-fra-e-sport-gaming.md)
 - [Betaling av forskuddstrekk og arbeidsgiveravgift](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift.md)
+- [Privat arbeidsgiver](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/privat-arbeidsgiver.md)
 - [Feriepenger](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/utfylling-av-lonns--og-trekkoppgaven-rf-1015.md)
 - [Lønn for arbeid i hjemmet](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet.md)
 - [Mottar du lønn fra en frivillig eller veldedig organisasjon?](skatt/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/mottar-du-lonn-fra-en-frivillig-eller-veldedig-organisasjon.md)

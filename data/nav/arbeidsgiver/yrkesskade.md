@@ -1,11 +1,11 @@
-<!-- innholds-hash: e622d7adad472468091baa335358617d3bddcd8d934d0e1db4da4f365a947f27 -->
+<!-- innholds-hash: fd8811456c2efcc8714598feba6f4cdbfd59397ba17915ed880e7e4347b2959f -->
 
 # Meld yrkesskade eller yrkessykdom - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/yrkesskade
-- **Sist hentet:** 2026-05-16T15:30:35Z
+- **Sist hentet:** 2026-06-03T03:59:30Z
 
 ## Innhold
 
@@ -86,30 +86,6 @@ Disse tilgangspakkene inneholder "Skademelding til Nav ved arbeidsulykke eller y
 - Regnskapsfører lønn
 Du finner informasjon på Altinn om
 
-For å kunne sende digital skademelding til Nav, må du ha riktig Altinn-rettighet for virksomheten din. Rettigheten vil også gi tilgang til å se en bekreftelse på innsendte digitale skademeldinger fra din virksomhet på arbeidsgiversiden på nav.no.
-
-Enkeltrettigheten «Skademelding ved arbeidsulykke eller yrkessykdom» gir tilgang til å sende skademelding for yrkesskade, yrkessykdom og dødsulykker til Nav på vegne av virksomheten.
-
-Du kan også bruke en standardrolle.
-
-Disse standardrollene gir samme tilgang som enkeltrettigheten:
-
-- Lønn og personalmedarbeider
-- Regnskapsfører lønn
-- Regnskapsfører med signeringsrettighet
-Disse rollene har forhåndstildelt tilgang etter registrering i Enhetsregisteret som:
-
-- Innehaver
-- Daglig leder
-- Komplementar
-- Bestyrende reder
-- Deltaker med delt ansvar
-- Deltaker med fullt ansvar
-- Norsk representant for utenlandsk enhet
-- Bobestyrer
-- Konkursbo skrivetilgang
-Du finner informasjon på Altinn om
-
 
 #### Personopplysninger
 
@@ -119,7 +95,7 @@ Opplysningene du gir i skademeldingen bruker vi til å vurdere arbeidsulykken el
 
 Når du har sendt skjemaet, kan du laste ned en kopi av skademeldingen. Den kan du arkivere og dele med den ansatte. Den ansatte får også en kopi i sin digitale postkasse på nav.no.
 
-Oppdatert 04.05.2026
+Oppdatert 02.06.2026
 
 
 ---
@@ -128,3 +104,4 @@ Oppdatert 04.05.2026
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

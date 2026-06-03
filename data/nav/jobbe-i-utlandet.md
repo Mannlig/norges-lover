@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05cd074e7576411bb256695aad8c8a17d5798db793053ea79c26b6a909296208 -->
+<!-- innholds-hash: 0dc3a87d0fc10188840acbbfb0ef8a6310644290ce5ed2fa3ca41f6ee19db0c3 -->
 
 # Skal jobbe i utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-utlandet
-- **Sist hentet:** 2026-05-23T19:30:33Z
+- **Sist hentet:** 2026-06-03T03:44:33Z
 
 ## Innhold
 
@@ -109,11 +109,11 @@ Oppdatert 05.12.2025
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -123,7 +123,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -133,3 +133,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

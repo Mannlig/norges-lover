@@ -1,11 +1,11 @@
-<!-- innholds-hash: 74d5a7ffc5d9bc3fa3e1f9b28a9ac73bcf56e3183908d3e22eae087c4c938d2f -->
+<!-- innholds-hash: 8a708387f10efa40c8dd59ac30f13ab046be268b2b46eacd0592f1bc1ffb8a0e -->
 
 # Vil rekruttere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rekruttere
-- **Sist hentet:** 2026-05-23T19:41:36Z
+- **Sist hentet:** 2026-06-03T03:55:25Z
 
 ## Innhold
 
@@ -107,7 +107,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -124,3 +124,4 @@ Alltid åpen
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

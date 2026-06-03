@@ -1,4 +1,4 @@
-<!-- innholds-hash: 484ab75eac4e389b7b4638a171657409cb61efe275087a6733b8478ce4436d15 -->
+<!-- innholds-hash: cfc761d50c7a633c676eba9df02a3d25a2b4f534ef97a0e35487e29ec3f045d5 -->
 
 # Se krav og betalinger for bedrifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/se-krav-og-betalinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:13:22Z
+- **Sist hentet:** 2026-06-03T01:23:55Z
 
 ## Innhold
 
@@ -28,8 +28,6 @@ Har du et enkeltpersonforetak, ser du også dine personlige krav og betalinger k
 
 Hvis du trenger oversikt over dine krav fra Nav, må du
 
-Du kan bestille en utskrift som viser alle inn- og utbetalinger for en valgt periode. Du får oversikt over innbetalinger som er gjort og hvilke krav som har blitt dekket.
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/se-krav-og-betalinger/) av norges-lover-bot.*
@@ -37,3 +35,4 @@ Du kan bestille en utskrift som viser alle inn- og utbetalinger for en valgt per
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

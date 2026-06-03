@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6ed200eadd9556c8cc43181ed65fa494fe2bf67a7a1c066d72222fcc48fac77e -->
+<!-- innholds-hash: b6faf5d499a77089221ff651317ae5743c0510d249560f77fc81860f8684cd58 -->
 
 # Inntektsmelding, kontonummer, rapporter og register - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rapporter
-- **Sist hentet:** 2026-05-23T19:40:13Z
+- **Sist hentet:** 2026-06-03T03:54:04Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Oppdatert 08.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -61,3 +61,4 @@ Alltid åpen
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

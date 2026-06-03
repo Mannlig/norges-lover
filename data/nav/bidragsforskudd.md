@@ -1,11 +1,11 @@
-<!-- innholds-hash: da3eb1e09e70c75f38997b7c565cd68c91f318f8e2c9ecfa9ceec3f7ae1e1dfb -->
+<!-- innholds-hash: 0b57b3baeb32866d71f445a801ba874028da740b8ddccd1f3397dd1a7cf5cc5e -->
 
 # Bidragsforskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidragsforskudd
-- **Sist hentet:** 2026-05-23T20:09:06Z
+- **Sist hentet:** 2026-06-03T04:22:25Z
 
 ## Innhold
 
@@ -24,22 +24,19 @@ Sikrer deg utbetaling av barnebidrag.
 
 Du kan ha rett til bidragsforskudd når den andre forelderen skal betale barnebidrag, og Skatteetaten krever inn bidraget.
 
-
-#### I tillegg gjelder dette:
+I tillegg gjelder dette for å ha rett til bidragsforskudd:
 
 - Barnet bor fast hos deg, og du har den faktiske omsorgen.
 - Barnet bor ikke sammen med begge foreldrene. Det betyr at du er enslig forsørger, eller bor sammen med en annen enn barnets mor eller far.
 - Barn med delt fast bosted kan også ha rett til bidragsforskudd, hvis
 - Skatteetaten kan kreve inn hele eller deler av barnebidraget fra den andre forelderen, eller
 - hvis en av foreldrene ikke har økonomisk evne til å betale bidrag.
-
-#### Du kan også ha rett på bidragsforskudd hvis
+Du kan også ha rett på bidragsforskudd hvis
 
 - farskapet til barnet ikke er fastsatt
 - barnet er adoptert av en enslig mor eller far
 - den ene av foreldrene er død, og barnet ikke har rett til barnepensjon eller en tilsvarende ordning fra utlandet
-
-#### Du har ikke rett til bidragsforskudd hvis
+Du har ikke rett til bidragsforskudd hvis
 
 - du som mottar bidraget har en samlet årsinntekt over 663 300 kroner
 - barnet har fylt 18 år. Barn over 18 år kan ha rett til barnebidrag under skolegang, men ikke bidragsforskudd
@@ -47,12 +44,11 @@ Du kan ha rett til bidragsforskudd når den andre forelderen skal betale barnebi
 - barnet bor i utlandet
 - Barnet regnes som bosatt i Norge hvis han eller hun har vært, eller skal oppholde seg, i Norge i mer enn 12 måneder.
 - Du kan på visse vilkår beholde bidragsforskuddet hvis oppholdet i utlandet varer i inntil 6 måneder
-Hvordan du får innkreving, avhenger av hvilken type avtale om barnebidrag du har:
+Bruk dette skjemaet hvis du vil at Skatteetaten skal kreve inn barnebidrag for deg. Tjenesten er gratis.
 
-- Hvis Nav har fastsatt barnebidraget, men Skatteetaten ikke krever det inn, kan du be om innkreving ved å
-Har du en skriftlig privat avtale om barnebidrag, eller et bidrag som er fastsatt av en domstol eller ved rettsforlik, bruker du knappen
+Du må ha en gyldig avtale eller avgjørelse om barnebidrag – enten fra Norge eller et annet land.
 
-Når du får spørsmål om hvilke dokumenter du skal ettersende, velger du "Annen dokumentasjon".
+Dette kan være en skriftlig privat avtale, eller bidrag fastsatt av Nav, en domstol eller rettsforlik. Du kan be om innkreving for flere barn i samme skjema, så lenge barna har de samme foreldrene.
 
 Når du som bidragsmottaker bor i Norge, kan du få bidragsforskudd fra Nav så lenge du fyller vilkårene. Det har ingen betydning hvor den bidragspliktige bor.
 
@@ -208,16 +204,16 @@ Du må melde fra til oss hvis
 - barnet flytter til utlandet eller har et opphold i utlandet
 ``
 
-Oppdatert 04.05.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -227,7 +223,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -237,3 +233,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

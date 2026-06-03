@@ -1,11 +1,11 @@
-<!-- innholds-hash: 48052a259300dd8d086efd81a72ea70c88c44fb254e0c736f8aed91864b47a1f -->
+<!-- innholds-hash: f6f74184723c9e5ee9dfdcc8b131b44f64a27adc5e1f6ee82ff9a67cd9f1da5b -->
 
 # Har vansker med å huske, planlegge og forstå - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/huske-planlegge
-- **Sist hentet:** 2026-05-23T07:04:15Z
+- **Sist hentet:** 2026-06-03T03:14:51Z
 
 ## Innhold
 
@@ -133,7 +133,7 @@ Svartid er 3 arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -146,3 +146,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

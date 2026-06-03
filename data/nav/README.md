@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-02 21:10 UTC*
+*Sist oppdatert: 2026-06-03 06:27 UTC*
 
-**Antall dokumenter:** 613
+**Antall dokumenter:** 615
 
 ## Innhold
 
@@ -113,6 +113,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Hjelpemidler for samtale  - nav.no](hjelpemidler-for-samtale.md)
 - [Hjelpemidler med lyd og tale - nav.no](hjelpemidler-lyd-tale.md)
 - [Hjelpemidler for mobilitet og orientering - nav.no](hjelpemidler-mobilitet-orientering.md)
+- [Informasjon om hjelpemidler og tilrettelegging - nav.no](hjelpemidler-og-tilrettelegging.md)
 - [Hjelpemidler for punktskrift - nav.no](hjelpemidler-punktskrift.md)
 - [Hjelpemidler og tilrettelegging - nav.no](hjelpemidler.md)
 - [Hjelpestønad - nav.no](hjelpestonad.md)
@@ -137,6 +138,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Irislinser - nav.no](irislinse.md)
 - [Jobbe i land Norge har trygdeavtale med - nav.no](jobbe-i-avtaleland.md)
 - [Jobbe i EØS eller Sveits - nav.no](jobbe-i-eos.md)
+- [Arbeid og opphold i Norge - nav.no](jobbe-i-norge.md)
 - [Skal jobbe i utlandet - nav.no](jobbe-i-utlandet.md)
 - [Kan bare jobbe noe på grunn av langvarig sykdom eller skade - nav.no](jobbe-noe.md)
 - [Jobbklubb - nav.no](jobbklubb.md)

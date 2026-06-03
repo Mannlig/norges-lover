@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ada5b6da973045c5c9ba5d5dbcae55a3d3e805580dc1f8a0d7d83398fd4b6a1 -->
+<!-- innholds-hash: 52055cd9b0433e06124e5123c79ed1bf9464bac8cbc4e60a820cb85cc3926132 -->
 
 # Trenger protese, ortose, ortopediske sko eller parykk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/protese-ortose-ortopediskesko-parykk
-- **Sist hentet:** 2026-05-23T19:02:36Z
+- **Sist hentet:** 2026-06-03T03:16:16Z
 
 ## Innhold
 
@@ -32,16 +32,16 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
 
-Chatboten har døgnåpent. Chat med veileder er stengt.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -51,3 +51,4 @@ Stengt nå, åpner tirsdag kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)

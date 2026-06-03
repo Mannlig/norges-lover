@@ -1,4 +1,4 @@
-<!-- innholds-hash: 93036c3f1b0277692db4b6e9d2a0e36f659ad307fe6ae86b12fdf60167d18e03 -->
+<!-- innholds-hash: f204539f8d4e2ca4f14efc8922028b26a7fcfc66b5b9800d5e9318033dfb33eb -->
 
 # Forhåndsmelding i bygg og anlegg
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/hms-i-bygg-og-anlegg/forhandsmelding-i-bygg-og-anlegg/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T11:04:49Z
+- **Sist hentet:** 2026-06-03T05:11:35Z
 
 ## Innhold
 
@@ -46,7 +46,7 @@ Personen som får slik tilgang, får ikke tilgang til innboksen der kvitteringer
 
 Send inn forhåndsmeldingen senest én uke før arbeidet starter.
 
-Det er byggherren som skal sørge for å sende forhåndsmeldingen til Arbeidstilsynet.
+Det er byggherren som skal sørge for å sende forhåndsmeldingen til Arbeidstilsynet. Kravet om å sende inn forhåndsmelding er gitt i byggherreforskriften § 10.
 
 Er byggherren forbruker, er det den virksomheten som skal utføre bygge- eller anleggsarbeidet, som skal sende inn forhåndsmeldingen.
 
@@ -54,37 +54,99 @@ Formålet med forhåndsmeldingen er å hente inn opplysninger om midlertidig ell
 
 Vi gjør tilsyn på bygge- og anleggsplasser for å ivareta arbeidstakernes sikkerhet, helse og arbeidsmiljø.
 
-Etter at dere har sendt inn forhåndsmeldingen og mottatt kvittering fra Altinn, er meldeplikten deres til Arbeidstilsynet oppfylt. Vi følger ikke opp denne meldingen videre, men kan på et senere tidspunkt komme på tilsyn.
+Dere må oppgi informasjon om
+
+- innsender og kontaktperson for forhåndsmeldingen
+- byggherre og eventuelt byggherres representant og koordinatorer
+- organisasjonsnummer, navn og kontaktinformasjon
+- bygge- eller anleggsarbeidet
+- navn på prosjektet
+- type prosjekt (for eksempel boligblokk eller veianlegg)
+- varighet på prosjektet
+- arbeidssted
+- adresse eller gårds- og bruksnummer
+- kartkoordinater (velg fra et kart i skjemaet)
+- hvilke virksomheter som er engasjert i bygge- eller anleggsarbeidet
+- organisasjonsnummer og når virksomheten starter og slutter arbeidet
+
+#### Ingen vedlegg
+
+Etter at dere har sendt inn forhåndsmeldingen og mottatt kvittering fra Altinn, er meldeplikten deres til Arbeidstilsynet oppfylt.
+
+Arbeidstilsynet følger ikke opp den innsendte forhåndsmeldingen videre, men kan på et senere tidspunkt komme på tilsyn.
 
 Ved et eventuelt tilsyn kan vi be om informasjon og dokumentasjon utover det dere har lagt ved i denne meldingen.
+
+
+#### Heng opp plakaten med bekreftelse på innsendt melding
+
+Rett etter at dere har sendt inn forhåndsmeldingen vil dere motta en plakat i innboksen deres i Altinn. Plakaten med Arbeidstilsynets logo på, er en bekreftelse på en innsendt forhåndsmelding. Plakaten har oversiktsinformasjon om prosjektet.
+
+Byggherren skal skrive ut og henge opp denne plakaten lett synlig på bygge- eller anleggsplassen.
+
+Plakaten har også en QR-kode som dere kan bruke for å gjøre endringer i en innsendt forhåndsmelding, se nedenfor.
 
 Både søknaden og meldingen skal sendes til Arbeidstilsynet, men de har to ulike formål og skal sendes til ulik tid. Dette er forskjellen:
 
 - Søknaden om Arbeidstilsynets samtykke gjelder
-- Forhåndsmelding etter byggherreforskriften gjelder helse- miljø- og sikkerhetsarbeidet som foregår under bygge- og anleggsarbeidet, det vil si når tiltaket oppføres. Dette handler altså om selve byggearbeidet og er ikke en del av Arbeidstilsynets samtykke.
+- Forhåndsmelding etter byggherreforskriften gjelder
 
-### Heng opp forhåndsmeldingen
+### Send endringsmelding ved endringer i prosjektet
 
-Byggherren skal også henge opp den innsendte forhåndsmeldingen lett synlig på bygge- eller anleggsplassen.
+Forhåndsmeldingen skal inneholde så reelle opplysninger som mulig på det tidspunktet meldingen sendes inn. Endringer kan skje underveis. Skjer det endringer etter at dere har sendt inn forhåndsmeldingen, skal dere oppdatere den ved å sende oss en endringsmelding.
+
+I endringsmeldingen for en allerede innsendt forhåndsmelding, skal dere melde fra om
+
+- avlysning av prosjektet – det vil si stopp av prosjektet eller tilbaketrekking av en innsendt forhåndsmelding
+- endring i varighet – det vil si endringer i forventet start eller sluttdato for den midlertidige bygge- eller anleggsplassen
+Dere må også kort beskrive årsakene til endringen.
 
 
-### Oppdater forhåndsmeldingen ved endringer
+#### Andre endringer
 
-Forhåndsmeldingen skal inneholde så reelle opplysninger som mulig på det tidspunktet meldingen sendes inn. Endringer kan skje underveis. Skjer det endringer etter at dere har sendt inn forhåndsmeldingen, skal dere oppdatere den.
+Skjer det andre endringer, kan dere oppdaterer dette direkte på plakaten. Det kan for eksempel være endring av byggherre, byggeledelse, koordinatorer, hovedentreprenør eller nye underentreprenører.
 
-Eksempel på endringer:
+Det er byggherren som skal sende inn en endringsmelding til en allerede innsendt forhåndsmelding.
 
-- byggeperiode
-- byggeplassadresse
-- endring i hvem som er involvert i prosjektet, for eksempel endret byggherre, byggeledelse, koordinatorer, hovedentreprenør eller nye underentreprenører
-Dere trenger ikke å sende inn den oppdaterte forhåndsmeldingen til Arbeidstilsynet på nytt.
+Er byggherren forbruker, er det den virksomheten som skal utføre bygge- eller anleggsarbeidet, som skal sende inn endringsmeldingen.
 
-Det er byggherren som skal oppdatere forhåndsmeldingen, og sørge for at siste versjon av forhåndsmeldingen blir hengt opp på et synlig sted på bygge- eller anleggsplassen. Denne forhåndsmeldingen skal oppdateres når nye virksomheter blir engasjert i prosjektet, når organisasjonen endres eller ved andre endringer i opplysningene i forhåndsmeldingen.
+Det er tre måter du kan starte en endringsmelding på:
 
-- Logg inn i Altinn.
-- Gå til innboks og arkiv.
-- Velg skjemaet.
-- Ikke trykk på «Se innsendt skjema», men velg «Lag ny kopi» som du finner nederst i høyre hjørne av nettsiden.
+
+#### 1. Logg inn på Altinn og velg «Endre forhåndsmelding» i forhåndsmeldingen du skal endre
+
+- Logg inn på Altinn.no og velg riktig virksomhet for forhåndsmeldingen.
+- Velg den forhåndsmeldingen du skal endre – du finner den i innboksen eller i arkivmappen i innboksen.
+- Trykk på knappen «Endre forhåndsmelding» øverst på forhåndsmeldingen og du vil da få opp endringsskjemaet.
+
+#### 2. Bruk lenken i kvitteringsbrevet i Altinn
+
+- Klikk på lenken i kvitteringsbrevet for forhåndsmeldingen i Altinn.
+- Lenken tar deg direkte til Altinn hvor du logger inn og velger riktig virksomhet.
+- Du vil da få opp få opp et endringsskjema for den aktuelle forhåndsmeldingen.
+
+#### 3. Bruk QR-koden på plakaten dere får i Altinn
+
+- Skann QR-koden på plakaten som bekrefter at dere har sendt inn en forhåndsmelding.
+- Lenken tar deg direkte til Altinn hvor du logger inn og velger riktig virksomhet.
+- Du vil da få opp få opp et endringsskjema for denne forhåndsmeldingen.
+
+#### Du må ha tilgang i Altinn for å sende endringsmeldinger
+
+Endringsmeldinger kan bare sendes av personer som har tilgang til Altinn‑innboksen til virksomheten som sendte inn forhåndsmeldingen. Virksomheten kan være en hovedenhet eller en underenhet.
+
+
+#### Heng opp den oppdaterte plakaten
+
+Når endringsmeldingen er sendt inn, får dere en oppdatert plakat i Altinn. Byggherren skal sørge for å henge den opp synlig på bygge- eller anleggsplassen.
+
+
+### Forhåndsmeldinger sendt før 29. mai 2026
+
+Hvis dere har sendt en forhåndsmelding til Arbeidstilsynet før 29. mai 2026, kan dere foreløpig ikke endre den i Altinn.
+
+Det vil bli mulig å oppdatere disse meldingen med en endringsmelding om kort tid.
+
 
 ### Regelverk
 
@@ -100,3 +162,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-03** Innhold endret (se git-historikk for diff)

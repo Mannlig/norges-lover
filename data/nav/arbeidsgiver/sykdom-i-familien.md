@@ -1,11 +1,11 @@
-<!-- innholds-hash: 629457f502399e858536d9a7cc4d3fc77d74b560f5ab85e2d922358a7d6218e2 -->
+<!-- innholds-hash: cf2e6e75d313a459f41fb0eb1f21b67304d7aecb9af119109f6f7d880e35d9d2 -->
 
 # Ansatt har sykdom i familien - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykdom-i-familien
-- **Sist hentet:** 2026-05-23T19:42:54Z
+- **Sist hentet:** 2026-06-03T03:56:46Z
 
 ## Innhold
 
@@ -33,7 +33,7 @@ Oppdatert 21.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner tirsdag kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -50,3 +50,4 @@ Alltid åpen
 
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-03** Innhold endret (se git-historikk for diff)
