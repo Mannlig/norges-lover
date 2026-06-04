@@ -1,11 +1,11 @@
-<!-- innholds-hash: 03da9669507c5fdcced1b45582281c5c8e9e2e75102be17bcf9ebcd1b028df75 -->
+<!-- innholds-hash: e1dc9a505db9093f07477d9daef9b07a3ccf2940efdf16e6f1193cf6ce4a18d5 -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-barn
-- **Sist hentet:** 2026-05-18T16:23:31Z
+- **Sist hentet:** 2026-06-04T16:21:35Z
 
 ## Innhold
 
@@ -82,14 +82,14 @@ For å ha rett til pleiepenger, må du ha fravær fra jobb på grunn av pleien s
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 65 080 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
 Bor du i Norge er du vanligvis
 
 Pleiepenger beregnes på samme måte som sykepenger og utgjør 100 prosent av sykepengegrunnlaget.
 
-Når Nav refunderer pleiepenger utbetaler vi 100 prosent av grunnlaget, som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 780 960 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
+Når Nav refunderer pleiepenger utbetaler vi 100 prosent av grunnlaget, som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
 
 - Dette tilsvarer en årsinntekt på 204 000 kroner
 - Beregnet årsinntekt deles på 260
@@ -168,7 +168,7 @@ Du må vanligvis endre den foreslåtte inntekten hvis:
 - den ansatte har hatt varig lønnsendring
 Hvis du endrer den foreslåtte månedslønnen, må du oppgi en årsak til hvorfor du endrer. Noen av endringsårsakene krever også at du oppgir periode for endringen, for eksempel hvis den ansatte har hatt ferie eller har vært permittert.
 
-Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert i Altinn.
+Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert for utbetalinger fra Nav.
 
 Det er viktig at dere har kontakt med den ansatte om status på søknaden, og ha løpende dialog om eventuelle endringer som påvirker refusjonen. Hvis den ansatte melder om endringer i periode eller uttak, eller får avslag på søknaden, vil slike vedtak kun sendes til den ansatte.
 
@@ -188,12 +188,6 @@ Hvis den ansatte har en endring i inntekten sin, skal du kun endre inntekten hvi
 
 Merk at hvis du skal gjøre endringer i refusjon, må du beholde refusjonsperioder tilbake fra første fraværsdag. Hvis du skal starte eller stanse refusjon, må du derfor legge dette inn som en periode med 0,- i refusjon, fremfor å velge at det ikke er refusjon.
 
-I noen tilfeller må du fortsatt bruke den gamle inntektsmeldingen i Altinn.
-
-Det gjelder når:
-
-- du har sendt en inntektsmelding fra Altinn/LPS med arbeidsforholdsID, og skal endre denne.
-- den ansatte har flere arbeidsforhold hos samme arbeidsgiver
 Hvis den ansatte jobber skift eller har timelønn, skal inntekten fastsettes etter de samme reglene som arbeidstakere med fastlønn. Det betyr at du som hovedregel skal bruke et gjennomsnitt av inntekten fra de siste tre kalendermånedene.
 
 
@@ -240,7 +234,7 @@ Dette kan medføre at du får mindre refundert fra Nav enn du har utbetalt i lø
 
 #### Refusjon for en nyansatt som er i en periode med pleiepenger
 
-Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no, Altinn eller fra Lønns - og personalsystem. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
+Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no, eller fra Lønns - og personalsystem. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
 
 - Sjekk at den ansatte er registrert i Aa-registeret før dere sender inntektsmelding
 - Oppgi første fraværsdag dere søker refusjon fra
@@ -273,7 +267,7 @@ Pleiepenger skal registreres som andre lovfestede permisjoner i A-meldingen ders
 
 Her kan du lese mer om
 
-Inntektsmeldingen sendes inn på Min side – arbeidsgiver. Hvis du ikke har fått beskjed om å sende inn inntektsmeldingen på Min side – arbeidsgiver, kan du fortsatt sende via altinn.no eller eget lønns- og personalsystem.
+Inntektsmeldingen sendes inn på Min side – arbeidsgiver eller via eget lønns- og personalsystem.
 
 I noen få tilfeller trenger Nav mer dokumentasjon fra deg enn inntektsmeldingen. Du får brev fra vår saksbehandler med informasjon om hva vi trenger, hvis dette er nødvendig.
 
@@ -285,7 +279,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 13.05.2026
+Oppdatert 21.05.2026
 
 
 #### Chat
@@ -306,3 +300,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

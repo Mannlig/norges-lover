@@ -1,11 +1,11 @@
-<!-- innholds-hash: c9c7dcb51e8d2526e6b467d19661b6c128f30696ef8e4f90756c2a9c1e25fd48 -->
+<!-- innholds-hash: 0588626a6a7d25ea7dca6918e58837d3788b01805e00e11b69b87a26921d36de -->
 
 # Oppfølgingsplan - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppfolgingsplan
-- **Sist hentet:** 2026-05-18T16:30:58Z
+- **Sist hentet:** 2026-06-04T16:29:16Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Nav mottar oppfølgingsplaner direkte fra bedriftens sluttbrukersystem. Ved å b
 
 Hvis du må bruke papir, kan du fylle ut planen
 
-Oppdatert 27.04.2026
+Oppdatert 22.05.2026
 
 
 ---
@@ -97,3 +97,4 @@ Oppdatert 27.04.2026
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

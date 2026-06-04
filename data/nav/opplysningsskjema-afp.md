@@ -1,11 +1,11 @@
-<!-- innholds-hash: 909df373f4047a8ca35b982a7355554c1e6e37aa08e99ea4817979d4e532ebbc -->
+<!-- innholds-hash: 56a68ed486da7fb2e9ce870615750cdbaa661cf44bfaa67ff222ebfc897ea0d6 -->
 
 # Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplysningsskjema-afp
-- **Sist hentet:** 2026-05-18T09:36:58Z
+- **Sist hentet:** 2026-06-04T15:55:38Z
 
 ## Innhold
 
@@ -140,14 +140,14 @@ Hvis en eller begge har fast plass i sykehjem eller annen institusjon, skal du s
 
 - Fyll ut navn og fødselsnummer (11 siffer) eller D-nummer på ektefellen, partneren eller samboeren.
 - Har hen hverken fødselsnummer eller D-nummer, må du oppgi navn og fødselsdato.
-Er inntekten per år under 260 320 kroner (2 ganger folketrygdens grunnbeløp, 2 G)?
+Er inntekten per år under 273 098 kroner (2 ganger folketrygdens grunnbeløp, 2 G)?
 
 Her skal du regne med arbeidsinntekt, kapitalinntekt, pensjonsinntekt og andre inntekter. Du skal ta med dagpenger, arbeidsavklaringspenger og pensjon utenom folketrygden.
 
 Du skal ikke ta med alderspensjon eller uføretrygd fra folketrygden.
 
 - Du skal oppgi inntekten for hele det året du tar ut AFP, fra januar til og med desember.
-Endrer inntekten seg til mer eller mindre enn 260 320 kroner, må du melde fra til Nav slik at vi kan regne om AFP-en din. Oppgir du at ektefellen har lavere inntekt enn det som er tilfelle, vil du kunne få utbetalt for mye AFP. Da må du tilbakebetale dette.
+Endrer inntekten seg til mer eller mindre enn 273 098 kroner, må du melde fra til Nav slik at vi kan regne om AFP-en din. Oppgir du at ektefellen har lavere inntekt enn det som er tilfelle, vil du kunne få utbetalt for mye AFP. Da må du tilbakebetale dette.
 
 Du må sende inn nytt opplysningskjema hvis
 
@@ -173,12 +173,12 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Ring oss på 55 55 33 34
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -187,3 +187,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

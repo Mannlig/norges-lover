@@ -1,11 +1,11 @@
-<!-- innholds-hash: 69faa33763899ffcbf27b8e91f19a559256d15c0cbdf79c83aba28959f87b7e2 -->
+<!-- innholds-hash: 10fbd644108cb13bd8a90ca2a20c0fb341fc6bc3e608d0a1940aabf8a4be7e19 -->
 
 # Har ansatte som sliter psykisk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/psykiske-helseproblemer
-- **Sist hentet:** 2026-05-18T16:31:26Z
+- **Sist hentet:** 2026-06-04T16:29:58Z
 
 ## Innhold
 
@@ -71,21 +71,7 @@ Nav kan bistå arbeidsgivere som ønsker å jobbe forebyggende med sykefravær o
 
 Mange arbeidsgivere ønsker mer kunnskap om hvordan møte ansatte med psykiske helseproblemer og hvordan håndtere psykisk helse på arbeidsplassen. Sees i morgen! er en serie på 5 ulike kurs som holdes i hele landet.
 
-Har du spørsmål om satsingen på arbeid og psykisk helse, kan du ta kontakt med den fagansvarlige i Arbeids- og velferdsdirektoratet.
-
-Har du spørsmål, kan du sende en e-post til:
-
-
-#### Fagområde
-
-
-#### Kontaktpersoner
-
-Senter for jobbmestring
-
-HelseIArbeid
-
-Oppdatert 04.05.2026
+Oppdatert 28.05.2026
 
 
 #### Ring oss på 55 55 33 36
@@ -106,3 +92,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

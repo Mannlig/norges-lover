@@ -1,11 +1,11 @@
-<!-- innholds-hash: ec09314633db9b83f46611db413735fd6051c4a5aad2ad78852916860af5a78c -->
+<!-- innholds-hash: ef4f5426baa9e96c5f9d71341bf4a8a71b57fcc91bbae46e9dfb1a971f285690 -->
 
 # Forsørgingstillegg til alderspensjon og AFP (faset ut) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forsorgingstillegg-pensjon
-- **Sist hentet:** 2026-05-18T09:40:35Z
+- **Sist hentet:** 2026-06-04T16:01:27Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -106,3 +106,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

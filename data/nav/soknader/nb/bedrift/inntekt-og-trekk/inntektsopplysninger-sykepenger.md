@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1c37825f423d166f4370643abb7f9761f487a41745c0b2696ddd28656c4f7ce3 -->
+<!-- innholds-hash: fd4e384def4f9f4f8ed239946eff3ace649103179d646d608f683b71273bdf5d -->
 
 # Søknad og skjema for arbeidsgivere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader/nb/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger
-- **Sist hentet:** 2026-05-18T16:26:02Z
+- **Sist hentet:** 2026-06-04T16:24:28Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Se også
 #### Velg område
 
 
-### Viser 43 av 43
+### Viser 44 av 44
 
 
 #### Aa-registeret – rapporter inn arbeidstakere
@@ -68,7 +68,7 @@ Erstatter inntekten når en ansatt er hjemme med barn.
 Forsikring mot ansvar for sykepenger i arbeidsgiverperioden.
 
 
-#### Frivillig yrkesskadetrygd (Skyggeside)
+#### Frivillig yrkesskadetrygd
 
 En frivillig forsikring når du er selvstendig næringsdrivende eller frilanser.
 
@@ -208,6 +208,11 @@ Når arbeidsgiverperioden er over, kan den ansatte søke om sykepenger fra Nav. 
 Erstatter inntekten til arbeidstakeren når de ikke kan jobbe på grunn av sykdom eller skade.
 
 
+#### Sykmelding
+
+Slik håndterer du som arbeidsgiver sykmeldinger trinn for trinn.
+
+
 #### Sykmelding – når arbeidsgiver ikke godtar sykmeldingen
 
 Som arbeidsgiver kan du stille spørsmål ved om den ansatte har rett til sykepenger.
@@ -249,3 +254,4 @@ Hvis en person får uføretrygd, men har mulighet til å gjøre tilpassede oppga
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

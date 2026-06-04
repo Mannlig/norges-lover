@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1414c6283e00afa6c5aaac97d600337fae032625f5a3f19ca32f66d4f5be4a54 -->
+<!-- innholds-hash: ec59663d37ce4946ae1d12f567aba099c131c1ba28a2e740c4be121f164bf5e9 -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/foreldrepenger-til-ansatt
-- **Sist hentet:** 2026-05-18T16:23:03Z
+- **Sist hentet:** 2026-06-04T16:20:53Z
 
 ## Innhold
 
@@ -29,9 +29,9 @@ Det finnes også informasjon om foreldrepenger til
 Den ansatte må vanligvis fylle 3 krav for å få foreldrepenger.
 
 - Den ansatte har hatt inntekt minst 6 av de 10 siste månedene. Som inntekt regnes også enkelte
-- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 65 080 kroner (0,5 G).
+- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
 - Den ansatte er medlem av norsk folketrygd. Ansatte som bor i Norge er vanligvis
-Foreldrepenger dekker opptil 780 960 kroner (6 ganger grunnbeløpet/6G).
+Foreldrepenger dekker opptil 819 294 kroner (6 ganger grunnbeløpet/6G).
 
 Foreldrepenger kan betales til den ansatte fra Nav, eller så kan du som arbeidsgiver betale lønn til den ansatte og få refusjon fra Nav i etterkant.
 
@@ -77,7 +77,7 @@ Når den ansatte har sendt søknad om foreldrepenger, vil du få en oppgave om �
 
 Selv om Nav varsler om at vi har fått en søknad, må du som arbeidsgiver ha dialog med den ansatte om hvor lenge den ansatte skal ha permisjon. Det samme gjelder dialog hvis den ansatte vil kombinere foreldrepengene med jobb.
 
-Les mer om hvordan du bruker den nye inntektsmeldingen:
+Les mer om hvordan du bruker inntektsmeldingen på Min side - arbeidsgiver:
 
 Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får
 
@@ -94,7 +94,7 @@ Du må vanligvis endre den foreslåtte inntekten hvis:
 - den ansatte har hatt varig lønnsendring
 Hvis du endrer den foreslåtte månedslønnen, må du oppgi en årsak til hvorfor du endrer. Noen av endringsårsakene krever også at du oppgir periode for endringen, for eksempel hvis den ansatte har hatt ferie eller har vært permittert.
 
-Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert i Altinn.
+Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert for utbetalinger fra Nav.
 
 Det er viktig at dere har kontakt med den ansatte om status på søknaden, og ha løpende dialog om eventuelle endringer som påvirker refusjonen. Hvis den ansatte melder om endringer i periode eller uttak, eller får avslag på søknaden, vil slike vedtak kun sendes til den ansatte.
 
@@ -102,7 +102,7 @@ I inntektsmeldingen kan dere legge inn perioder med ulike beløp for refusjonen.
 
 Du kan finne den innsendte inntektsmeldingen i saksoversikten på Min side - arbeidsgiver.
 
-Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
+Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller eget lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
 
 
 #### Endre inntekt
@@ -114,28 +114,22 @@ Hvis den ansatte har en endring i inntekten sin, skal du kun endre inntekten hvi
 
 Merk at hvis du skal gjøre endringer i refusjon, må du beholde refusjonsperioder tilbake fra første fraværsdag. Hvis du skal starte eller stanse refusjon, må du derfor legge dette inn som en periode med 0,- i refusjon, fremfor å velge at det ikke er refusjon.
 
-I noen tilfeller må du fortsatt bruke den gamle inntektsmeldingen i Altinn.
-
-Det gjelder når:
-
-- du har sendt en inntektsmelding fra Altinn/LPS med arbeidsforholdsID, og skal endre denne.
-- den ansatte har flere arbeidsforhold hos samme arbeidsgiver
 Når søknaden er ferdig behandlet får den ansatte et vedtak fra Nav. Du kan ikke kreve å få se vedtaket fordi det kan inneholde sensitive personopplysninger. Hvis du har behov for opplysninger om saken, for eksempel hvor mye foreldrepenger som er innvilget, må du ha dialog med arbeidstakeren din.
 
-- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 780 960 (6G).
+- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 819 294 (6G).
 - Hvis den ansatte har 80 prosent foreldrepenger, får du bare refundert 80 prosent av 6G.
-- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 780 960 (6G), kan du få mindre refusjon.
+- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 819 294 (6G), kan du få mindre refusjon.
 Husk å kontrollere at refusjonen blir utbetalt til
 
 
 #### Refusjon for en nyansatt som er i en periode med foreldrepenger
 
-Hvis dere har en nyansatt som er i en periode med foreldrepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no, Altinn eller fra Lønns -  og personalsystem. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
+Hvis dere har en nyansatt som er i en periode med foreldrepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver, eller fra eget lønns- og personalsystem. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
 
 - Sjekk at den ansatte er registrert i Aa-registeret før dere sender inntektsmelding
 - Oppgi ansettelsesdato som startdato for foreldrepengene
 - Kryss av for at dere utbetaler lønn og krever refusjon
-Merk at foreldrepengene vil beholde beregningen fra tidligere arbeidsforhold, dette kan påvirke hvor mye Nav kan utbetale i refusjon.
+Merk at foreldrepengene vil beholde beregningen fra tidligere arbeidsforhold, og dette kan påvirke hvor mye Nav kan utbetale i refusjon.
 
 Du trenger ikke sende inntektsmelding hvis arbeidsforholdet er avsluttet før foreldrepenger starter.
 
@@ -155,7 +149,7 @@ Ved ferieavvikling kan det velges mellom:
 
 - å ha opphold i foreldrepengeperioden samtidig som ferien avvikles.
 - å ha ferie samtidig som foreldrepengene. Da trenger den ansatte ikke informere Nav om ferien.
-Oppdatert 04.05.2026
+Oppdatert 21.05.2026
 
 
 #### Ring oss på 55 55 33 33
@@ -181,3 +175,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

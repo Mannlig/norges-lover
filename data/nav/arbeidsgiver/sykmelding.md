@@ -1,11 +1,11 @@
-<!-- innholds-hash: e2c82da1ba031a5aaa7f657fdf577facf2267add2a11335b18abf73e789a0440 -->
+<!-- innholds-hash: fafdec60e32ca37ccecac5bd1b63105c42f3bc777e8bb161a20ed5eb75620222 -->
 
 # Sykmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmelding
-- **Sist hentet:** 2026-05-18T16:25:04Z
+- **Sist hentet:** 2026-06-04T16:23:01Z
 
 ## Innhold
 
@@ -50,11 +50,15 @@ Hvis den ansatte ikke kan benytte digital sykmelding, må sykmeldingen leveres p
 
 #### 3. Svar på hvem som er nærmeste leder
 
-Virksomheten oppgir hvem som er den nærmeste lederen for den sykmeldte ansatte i eget skjema på Min side arbeidsgiver, eller via forespørsel fra Nav som kommer i virksomheten sin innboks i Altinn. Når den nærmeste lederen er registrert, får lederen
+Virksomheten oppgir hvem som er nærmeste leder for den sykmeldte. Det gjøres i et eget skjema på Min side – arbeidsgiver. Virksomheten kan også registrere nærmeste leder når Nav sender en forespørsel til innboksen i Altinn.
 
-- nyttige verktøy for å følge opp den sykmeldte
-- viktige påminnelser om sykmeldinger, søknader og andre hendelser i sykefraværet
-Hver ansatt kan kun ha registrert én nærmeste leder. Hvis en leder allerede er registrert, vil virksomheten ikke bli spurt igjen. Ved nye sykmeldinger vil den ansatte bli spurt om den registrerte lederen fortsatt er nærmeste leder. Hvis svaret er nei, vil virksomheten få spørsmålet på nytt i Altinn. Lederen kan også bryte koblingen til den ansatte på Dine sykmeldte.
+Når den nærmeste lederen er registrert, får lederen
+
+- verktøy for å følge opp den sykmeldte
+- påminnelser om sykmeldinger, søknader og andre viktige hendelser i sykefraværet
+Hver ansatt kan kun ha registrert én nærmeste leder. Hvis en leder allerede er registrert, vil virksomheten ikke bli spurt igjen.
+
+Ved nye sykmeldinger vil den ansatte bli spurt om den registrerte lederen fortsatt er nærmeste leder. Hvis svaret er nei, vil virksomheten få spørsmålet på nytt i Altinn. Lederen kan også bryte koblingen til den ansatte på Dine sykmeldte.
 
 Virksomheten kan også endre nærmeste leder ved å bruke det tidligere brukte skjemaet som kan åpnes fra virksomheten sin innboks i Altinn, eller ved å benytte seg av et tomt skjema som ligger på Min side arbeidsgiver hos Nav.
 
@@ -214,7 +218,7 @@ Da får du melding når
 - Nav-veilederen sender en forespørsel for å få tilsendt en oppfølgingsplan
 Nærmeste leder får melding til e-postadressen som er oppgitt på skjemaet "Oppgi næremeste leder for sykmeldt ansatt"
 
-Oppdatert 04.05.2026
+Oppdatert 04.06.2026
 
 
 #### Ring oss på 55 55 33 36
@@ -240,3 +244,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

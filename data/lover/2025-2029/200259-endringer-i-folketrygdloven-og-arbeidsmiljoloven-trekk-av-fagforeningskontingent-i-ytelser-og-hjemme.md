@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7614c7179061fede7d3d7e3d93b4fe611f7c5749d06d43483f7a46dc5f223307 -->
+<!-- innholds-hash: 833ab35da2e9b44c75155e435644e16503169fc515a78a7e2708b3ea36780c4f -->
 
 # Endringer i folketrygdloven og arbeidsmiljøloven (trekk av fagforeningskontingent i ytelser og hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort)
 
@@ -11,25 +11,25 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Sist hentet:** 2026-06-04T12:13:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200259
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
+  "respons_dato_tid": "/Date(1780574900034+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 78 L (2025-2026), Innst. 310 L (2025-2026), Lovvedtak 47 (2025-2026)",
+  "henvisning": "Prop. 78 L (2025-2026), Innst. 310 L (2025-2026), Lovvedtak 47 (2025-2026), Lovanmerkning 1 (2025-2026)",
   "id": 200259,
   "innstilling_id": 17388,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
+    "respons_dato_tid": "/Date(1780574475852+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200259,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
+      "respons_dato_tid": "/Date(1780574900034+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kjølmoen",
@@ -47,14 +47,14 @@
       "id": "PERKJL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
+        "respons_dato_tid": "/Date(1780540023040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
+        "respons_dato_tid": "/Date(1780527619014+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -77,3 +77,4 @@
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-04** Innhold endret (se git-historikk for diff)

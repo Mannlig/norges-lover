@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-03 15:28 UTC*
+*Sist oppdatert: 2026-06-04 17:41 UTC*
 
-**Antall dokumenter:** 623
+**Antall dokumenter:** 627
 
 ## Innhold
 
@@ -183,6 +183,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Forside privatperson - nav.no](no.md)
 - [Trenger rådgivning om økonomi og gjeld - nav.no](okonomi-gjeld.md)
 - [Trenger rådgivning om økonomi og gjeld - nav.no](okonomi-og-gjeld.md)
+- [Trenger rådgivning om økonomi og gjeld - nav.no](okonomi-rad.md)
 - [Økonomisk sosialhjelp - nav.no](okonomisk-sosialhjelp.md)
 - [Oljepionerene - nav.no](oljepionerene.md)
 - [Oljepionernemnda er etablert - nav.no](oljepionernemnda.md)
@@ -268,6 +269,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Sosiale tjenester og veiledning - nav.no](sosiale-tjenester.md)
 - [Økonomisk sosialhjelp - nav.no](sosialhjelp.md)
 - [Spesialbelysning - nav.no](spesialbelysning.md)
+- [Økonomisk sosialhjelp og sosiale tjenester - nav.no](sporsmal-sosiale-tjenester.md)
 - [Ståstativ - nav.no](stastativ.md)
 - [Stemmeforsterkere - nav.no](stemmeforsterkere.md)
 - [Få svar på spørsmål - nav.no](still-sporsmal.md)
@@ -308,6 +310,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Tinnitusmaskerer  - nav.no](tinnitusmaskerer.md)
 - [Tips Nav om mulig trygdesvindel - nav.no](tips-om-trygdesvindel.md)
 - [Pengestøtter og tjenester - nav.no](tjenester.md)
+- [Tolking for døve, døvblinde og hørselshemmede - nav.no](tolketjenester.md)
 - [Tolking for døve, døvblinde og hørselshemmede - nav.no](tolking-for-dove-dovblinde-horselshemmede.md)
 - [Trappeheis og støttesystem i trapp - nav.no](trappeheis.md)
 - [Trenger pleie på grunn av sykdom eller skade - nav.no](trenger-pleie.md)
@@ -370,6 +373,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Foreldrepenger - nav.no](arbeidsgiver/foreldrepenger-til-ansatt.md)
 - [Foreldrepenger - nav.no](arbeidsgiver/foreldrepenger.md)
 - [Forsikring for små bedrifter - nav.no](arbeidsgiver/forsikring-sma-bedrifter.md)
+- [Frivillig yrkesskadetrygd - nav.no](arbeidsgiver/frivillig-yrkesskadetrygd.md)
 - [Hjelpemidler og tilrettelegging - nav.no](arbeidsgiver/hjelpemiddelsentral.md)
 - [Ansette med støtte fra Nav - nav.no](arbeidsgiver/inkludere.md)
 - [Income report - nav.no](arbeidsgiver/inntektsmelding/en.md)

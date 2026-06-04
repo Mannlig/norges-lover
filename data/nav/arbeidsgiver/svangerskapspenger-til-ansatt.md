@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6991d8cfcd9a72aea6dab2bb038d0c01392aded882b844f65860822d977f8ee1 -->
+<!-- innholds-hash: a30f72d2b5bb44a15d1d54a94e6b6abe3da3cbbccc2142c8ba0aba7cec895ac8 -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/svangerskapspenger-til-ansatt
-- **Sist hentet:** 2026-05-18T16:24:04Z
+- **Sist hentet:** 2026-06-04T16:22:20Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ For å få svangerskapspenger skal den ansatte ha en jobb der arbeidssituasjoner
 Vanligvis er det 3 krav den ansatte må fylle for å få svangerskapspenger.
 
 - Jobben kan skade det ufødte barnet
-- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 65 080 kroner (0,5 G).
+- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
 - Den ansatte må ha vært i jobb i minst 4 uker
 
 #### Tilrettelegging
@@ -44,7 +44,7 @@ For at den ansatte skal få svangerskapspenger må du som arbeidsgiver først vu
 
 Hvis den ansatte kan jobbe delvis, kan den ansatte få delvis svangerskapspenger.
 
-Svangerskapspenger dekker opptil 780 960 kroner (6 ganger grunnbeløpet/6G).
+Svangerskapspenger dekker opptil 819 294 kroner (6 ganger grunnbeløpet/6G).
 
 Svangerskapspenger kan betales til den ansatte fra Nav, eller så kan du som arbeidsgiver betale lønn til den ansatte og få refusjon fra Nav i etterkant.
 
@@ -62,7 +62,7 @@ Når den ansatte har sendt søknad om svangerskapspenger, vil du få en oppgave 
 
 Selv om Nav varsler om at vi har fått en søknad, må du som arbeidsgiver ha dialog med den ansatte rundt fraværet fra jobb og mulighetene for tilrettelegging og omplassering.
 
-Les mer om hvordan du bruker den nye inntektsmeldingen:
+Les mer om hvordan du bruker inntektsmeldingen på Min side - arbeidsgiver:
 
 Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får
 
@@ -79,7 +79,7 @@ Du må vanligvis endre den foreslåtte inntekten hvis:
 - den ansatte har hatt varig lønnsendring
 Hvis du endrer den foreslåtte månedslønnen, må du oppgi en årsak til hvorfor du endrer. Noen av endringsårsakene krever også at du oppgir periode for endringen, for eksempel hvis den ansatte har hatt ferie eller har vært permittert.
 
-Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert i Altinn.
+Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert for utbetalinger fra Nav.
 
 Det er viktig at dere har kontakt med den ansatte om status på søknaden, og ha løpende dialog om eventuelle endringer som påvirker refusjonen. Hvis den ansatte melder om endringer i periode eller uttak, eller får avslag på søknaden, vil slike vedtak kun sendes til den ansatte.
 
@@ -87,7 +87,7 @@ I inntektsmeldingen kan dere legge inn perioder med ulike beløp for refusjonen.
 
 Du kan finne den innsendte inntektsmeldingen i saksoversikten på Min side - arbeidsgiver.
 
-Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
+Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller eget lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
 
 
 #### Endre inntekt
@@ -99,26 +99,20 @@ Hvis den ansatte har en endring i inntekten sin, skal du kun endre inntekten hvi
 
 Merk at hvis du skal gjøre endringer i refusjon, må du beholde refusjonsperioder tilbake fra første fraværsdag. Hvis du skal starte eller stanse refusjon, må du derfor legge dette inn som en periode med 0,- i refusjon, fremfor å velge at det ikke er refusjon.
 
-I noen tilfeller må du fortsatt bruke den gamle inntektsmeldingen i Altinn.
-
-Det gjelder når:
-
-- du har sendt en inntektsmelding fra Altinn/LPS med arbeidsforholdsID, og skal endre denne.
-- den ansatte har flere arbeidsforhold hos samme arbeidsgiver
-Her finner du inntektsmeldingen for Min Side Arbeidsgiver.
+Her finner du inntektsmeldingen på Min side - arbeidsgiver.
 
 Når søknaden er ferdig behandlet får den ansatte et vedtak fra Nav. Du kan ikke kreve å få se vedtaket fordi det kan inneholde sensitive personopplysninger. Hvis du har behov for opplysninger om saken, for eksempel hvor mye svangerskapspenger som er innvilget, må du ha dialog med arbeidstakeren din.
 
-- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 780 960 (6G).
+- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 819 294 (6G).
 - Hvis den ansatte har graderte svangerskapspenger, får arbeidsgiver bare delvis refusjon.
-- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 780 960 (6G), kan du få mindre refusjon.
+- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 819 294 (6G), kan du få mindre refusjon.
 Husk å kontrollere at refusjonen blir utbetalt til
 
 Hvis den ansatte ikke kan jobbe under svangerskapet fordi vedkommende selv er syk, kan den ansatte ha rett til sykepenger.
 
 Som arbeidsgiver får du ikke automatisk beskjed hvis den ansatte endrer søknaden om svangerskapspenger. Husk å minne den ansatte om å si fra ved eventuelle endringer.
 
-Oppdatert 04.05.2026
+Oppdatert 21.05.2026
 
 
 #### Ring oss på 55 55 33 33
@@ -139,3 +133,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

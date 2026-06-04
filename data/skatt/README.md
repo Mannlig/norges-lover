@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-03 15:28 UTC*
+*Sist oppdatert: 2026-06-04 17:41 UTC*
 
-**Antall dokumenter:** 643
+**Antall dokumenter:** 686
 
 ## Innhold
 
@@ -547,6 +547,49 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [A-13-1 Avgifter til folketrygden](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.001.md)
 - [A-13-2.1 Generelt](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.003.md)
 - [A-13-2.2 Spesielt om indre selskaper](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.004.md)
+- [A-13-2.3 Ytelser gjennom andre](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.005.md)
+- [A-13-2.4 Andre ytelser fra tredjeparter](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.006.md)
+- [A-13-2.5 Arbeidsutleie](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.007.md)
+- [A-13-2.6 Eierskifte](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.008.md)
+- [A-13-2.7 Konkursbo](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.009.md)
+- [A-13-2.8 Dødsbo](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.010.md)
+- [A-13-2.9 Veldedige og allmennyttige institusjoner og organisasjoner](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.002/A-13.011.md)
+- [A-13-3.1 Generelt](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.013.md)
+- [A-13-3.2 Skattefrie ytelser](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.014.md)
+- [A-13-3.3 Ytelser under minstegrensen for innrapportering](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.015.md)
+- [A-13-3.4 Utbetalinger til selvstendig næringsdrivende](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.016.md)
+- [A-13-3.5 Pensjon](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.017.md)
+- [A-13-3.6 Tilskudd til pensjonsordninger](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.020.md)
+- [A-13-3.7 Utgiftsgodtgjørelser](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.026.md)
+- [A-13-3.8 Kostnadsrefusjoner](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.045.md)
+- [A-13-3.9 Naturalytelser](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.057.md)
+- [A-13-3.10 Kostbesparelse i hjemmet](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.063.md)
+- [A-13-3.11 Privat pass av barn](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.067.md)
+- [A-13-3.12 Lønnet arbeid i privat hjem og fritidsbolig](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.068.md)
+- [A-13-3.13 Godtgjørelse til verge](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.075.md)
+- [A-13-3.14 Frivillige organisasjoner](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.076.md)
+- [A-13-3.15 Vederlag for utnyttelse av immateriell rettighet](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.081.md)
+- [A-13-3.16 Dødsfall](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.082.md)
+- [A-13-3.17 Summarisk fellesoppgjør](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.083.md)
+- [A-13-3.18 Tidspunktet for når ytelse skal tas med i grunnlaget](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.084.md)
+- [A-13-3.19 Klassifisering hos arbeidsgiver bindende ved fastsettingen hos arbeidstaker](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.012/A-13.085.md)
+- [A-13-4.1 Generelt](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.087.md)
+- [A-13-4.2 Arbeidsgiver bosatt/hjemmehørende i Norge](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.088.md)
+- [A-13-4.3 Arbeidsgiver bosatt/hjemmehørende i utlandet](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.095.md)
+- [A-13-4.4 EØS-avtalen art. 29, Rådsforordning (EF) nr. 883/2004 med tillegg og Rådsforordning (EØF) nr. 1408/71 med tillegg](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.101.md)
+- [A-13-4.5 Trygdeavtaler (sosialkonvensjoner)](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.106.md)
+- [A-13-4.6 Utenlandske artister mv.](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.086/A-13.107.md)
+- [A-13-5 Tilbakebetaling av lønn, pensjon mv.](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.108.md)
+- [A-13-6.1 Inntekt](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.109/A-13.110.md)
+- [A-13-6.2 Formue](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.109/A-13.111.md)
+- [A-13-7.1 Barnehage, arbeidsgivers tilskudd](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.113.md)
+- [A-13-7.2 Dagpenger under arbeidsløshet](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.114.md)
+- [A-13-7.3 Datautstyr](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.115.md)
+- [A-13-7.4 Etterlønn/etterpensjon](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.116.md)
+- [A-13-7.5 Firmabil (fri bil)](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.117.md)
+- [A-13-7.6 Fiske og fangst](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.118.md)
+- [A-13-7.7 Foreldrepenger](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.119.md)
+- [A-13-7.8 Forfatterhonorar](rettskilder/type/handboker/skatte-abc/2023/a-13-arbeidsgiveravgift--avgiftsplikt-og-grunnlag/A-13.112/A-13.120.md)
 - [Skatte-ABC 2023](rettskilder/type/handboker/skatte-abc/2023.md)
 - [Skatte-ABC](rettskilder/type/handboker/skatte-abc.md)
 - [Håndbøker](rettskilder/type/handboker.md)
