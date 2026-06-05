@@ -1,4 +1,4 @@
-<!-- innholds-hash: f9c90c4e9763a0361a5e37a9b20c5bc1d7c921735b96c7764c9e86b289f166ea -->
+<!-- innholds-hash: 37063de26d71cdd18511a37ad0ae255ef1cfeb0f548482a71a8e188abc29bcd1 -->
 
 # Endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200257
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488707+0200)/",
+  "respons_dato_tid": "/Date(1780646622124+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17443,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200257,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488772+0200)/",
+      "respons_dato_tid": "/Date(1780646622124+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -76,4 +76,5 @@
 
 - **2026-06-04** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

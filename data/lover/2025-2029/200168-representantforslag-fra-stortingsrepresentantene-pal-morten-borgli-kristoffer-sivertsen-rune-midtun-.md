@@ -1,4 +1,4 @@
-<!-- innholds-hash: efe16f8df31d233f43b062521e144fca7a83049887a3ffc1432cc66dbd57f55b -->
+<!-- innholds-hash: a33ccccf2c6f7959ffdfae97b06e988722db1452c5e876e5add9b581391342c5 -->
 
 # Representantforslag fra stortingsrepresentantene Pål Morten Borgli, Kristoffer Sivertsen, Rune Midtun, May Helen Hetland Ervik, Sylvi Listhaug og Erlend Wiborg om omgjøring av parkeringsvedtak for IKEAs varehus på Forus
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200168
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489150+0200)/",
+  "respons_dato_tid": "/Date(1780646622502+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -178,7 +178,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -208,7 +208,7 @@
   "innstilling_id": 17375,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -217,7 +217,7 @@
   "sak_fremmet_id": 200168,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Alvær",
@@ -258,4 +258,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

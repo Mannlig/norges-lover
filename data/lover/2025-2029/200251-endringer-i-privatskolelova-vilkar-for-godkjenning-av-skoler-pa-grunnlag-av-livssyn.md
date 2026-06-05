@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9f871ddd339e539d38ab4983d0d711b47f83f33646df819700aed6769741fc77 -->
+<!-- innholds-hash: b3f0d893dbc2d1b0bef0bc005bca6bedbc02e7264c95774c5799d7c63515ba65 -->
 
 # Endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:44Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200251
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488535+0200)/",
+  "respons_dato_tid": "/Date(1780646621874+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 105,
@@ -43,12 +43,12 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 42 L (2025-2026), Innst. 372 L (2025-2026)",
+  "henvisning": "Prop. 42 L (2025-2026), Innst. 372 L (2025-2026), Lovvedtak 72 (2025-2026)",
   "id": 200251,
   "innstilling_id": 17442,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200251,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -94,4 +94,5 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

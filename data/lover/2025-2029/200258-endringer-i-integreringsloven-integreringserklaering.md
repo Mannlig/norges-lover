@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23dfd340fcfefe017f97dff412dd9f796ba7065c6cb7f893a3267a76e10e1e17 -->
+<!-- innholds-hash: 2d36e1b4cc87e9c05fea66a81e1a56506d2bd93a46315fb3cb0ddc86dfa7b03c -->
 
 # Endringer i integreringsloven (integreringserklæring)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200258
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489150+0200)/",
+  "respons_dato_tid": "/Date(1780646622709+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17401,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200258,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622709+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -79,4 +79,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

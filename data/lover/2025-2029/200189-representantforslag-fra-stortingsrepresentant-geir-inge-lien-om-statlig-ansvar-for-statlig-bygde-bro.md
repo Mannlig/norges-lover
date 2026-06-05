@@ -1,4 +1,4 @@
-<!-- innholds-hash: 944d14ee05df6ef453389938f874a913676898c097612b50fdcdb26f8c089e18 -->
+<!-- innholds-hash: 67eb6eda93da2378d56eb88ab66eb93104ab22155c8e9bc1caed9cab52bdeb3b -->
 
 # Representantforslag fra stortingsrepresentant Geir Inge Lien om statlig ansvar for statlig bygde broer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200189
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489150+0200)/",
+  "respons_dato_tid": "/Date(1780646622597+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -65,7 +65,7 @@
   "innstilling_id": 17380,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -74,7 +74,7 @@
   "sak_fremmet_id": 200189,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489150+0200)/",
+      "respons_dato_tid": "/Date(1780646622597+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -115,4 +115,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

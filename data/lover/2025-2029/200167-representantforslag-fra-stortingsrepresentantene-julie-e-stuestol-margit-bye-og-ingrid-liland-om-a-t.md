@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7482ffdd137dee2e5983430ae007c080f5d3d24e3ee8adf58ba31aa6db65b42a -->
+<!-- innholds-hash: d6fd761ceff965d4824bba40aadf7509cb35294923d9176bab8c44022436dba9 -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Margit Bye og Ingrid Liland om å tilrettelegge for innføring av åpenhetsregister i norske kommuner
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200167
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489086+0200)/",
+  "respons_dato_tid": "/Date(1780646622423+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -133,7 +133,7 @@
   "innstilling_id": 17374,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200167,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -183,4 +183,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

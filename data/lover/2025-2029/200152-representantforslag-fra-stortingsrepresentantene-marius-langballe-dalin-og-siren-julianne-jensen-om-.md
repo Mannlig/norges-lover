@@ -1,4 +1,4 @@
-<!-- innholds-hash: f672488b8592795ef358f9884031362e6e6cfc888d1714276d637873a71f5fd3 -->
+<!-- innholds-hash: 2ae8eb1dd2816e8f02a47a07ac34331e31c301273192d7069627592fee17e60e -->
 
 # Representantforslag fra stortingsrepresentantene Marius Langballe Dalin og Siren Julianne Jensen om å oppnevne en uavhengig ekstern granskingskommisjon for Finmarkssykehuset HF
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200152
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489039+0200)/",
+  "respons_dato_tid": "/Date(1780646622423+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -90,7 +90,7 @@
   "innstilling_id": 17407,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200152,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -140,4 +140,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

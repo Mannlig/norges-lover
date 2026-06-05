@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a3c7b0c5bb18a266e41eea395eea267bc2578267da3948c19ce155341aa3c96 -->
+<!-- innholds-hash: 00884ffa1129888b9daaf119d1c5ae0db925f39e891c356bae5b475f22afdd63 -->
 
 # Samtykke til ratifikasjon av frihandelsavtale mellom EFTA-statene og Ukraina av 8. april 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200133
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488772+0200)/",
+  "respons_dato_tid": "/Date(1780646622312+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488772+0200)/",
+      "respons_dato_tid": "/Date(1780646622312+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628488772+0200)/",
+      "respons_dato_tid": "/Date(1780646622312+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17482,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200133,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488772+0200)/",
+      "respons_dato_tid": "/Date(1780646622312+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Giske",
@@ -97,4 +97,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

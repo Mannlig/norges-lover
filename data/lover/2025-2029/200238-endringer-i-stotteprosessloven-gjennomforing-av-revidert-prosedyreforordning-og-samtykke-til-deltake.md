@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09281abc0608b66e792cd0d8601df4443b5795e1d8e3a8901150016732960051 -->
+<!-- innholds-hash: 54942cf828dd3f59eb5fe666c2b582d54f3ead243a8b021382710846899ff2fd -->
 
 # Endringer i støtteprosessloven (gjennomføring av revidert prosedyreforordning) og samtykke til deltakelse i EØS-komiteens beslutning om innlemmelse i EØS-avtalen av forordning (EU) nr. 734/2013 og forordning (EU) 2015/1589 om revisjon av prosedyreforordningen (statsstøtte) og til inngåelse av avtale om endring av protokoll 3 til Avtale mellom EFTA-statene om opprettelse av et overvåkningsorgan og en domstol (ODA)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200238
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488810+0200)/",
+  "respons_dato_tid": "/Date(1780646622312+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17484,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200238,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488810+0200)/",
+      "respons_dato_tid": "/Date(1780646622312+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -78,4 +78,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 92673bd46b6086b01e29cbe274de4f4bba470e5063572298e5091c5c65769484 -->
+<!-- innholds-hash: 855d4afa95154610acf90344a1e7279f87f497d847f20c9ff60fa02ad17ac550 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Andreas Sjalg Unneland, Audun Hammer Hovda, Marthe Hammer, Mirell Høyer-Berntsen, Ingrid Fiskaa, Marian Hussein, Lars Haltbrekken og Anne Lise Gjerstad Fredlund om en sosial boligpolitikk og et tryggere leiemarked
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200159
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628489039+0200)/",
+  "respons_dato_tid": "/Date(1780646622423+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -210,7 +210,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -235,7 +235,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628489086+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -265,7 +265,7 @@
   "innstilling_id": 17367,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -274,7 +274,7 @@
   "sak_fremmet_id": 200159,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628489039+0200)/",
+      "respons_dato_tid": "/Date(1780646622423+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -315,4 +315,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

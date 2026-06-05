@@ -1,4 +1,4 @@
-<!-- innholds-hash: 028e8601f78db37098efea746411b214ae853bea00184d28ee4b409b63fab12f -->
+<!-- innholds-hash: a3c77367487468c1a2cfa5873cc8054cf7072e29cb27efdc27680626abc024bb -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim og Anne Kristine Linnestad om en modernisering av folkeregisterloven
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:45Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200204
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488880+0200)/",
+  "respons_dato_tid": "/Date(1780646622421+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488880+0200)/",
+      "respons_dato_tid": "/Date(1780646622421+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488880+0200)/",
+      "respons_dato_tid": "/Date(1780646622421+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780628488880+0200)/",
+      "respons_dato_tid": "/Date(1780646622421+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -90,7 +90,7 @@
   "innstilling_id": 17412,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200204,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488880+0200)/",
+      "respons_dato_tid": "/Date(1780646622421+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -140,4 +140,5 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)

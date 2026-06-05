@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1958d16d4c2ded7e3c521930f29e394e6255f53904cea6feb618b9460d84b900 -->
+<!-- innholds-hash: 1d5f6af25fa893c10d88d9321fbd42338a91cab99e55311ac4917bb61dcdb871 -->
 
 # Lov om særavgifter (særavgiftsloven)
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T03:18:44Z
+- **Sist hentet:** 2026-06-05T08:59:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200267
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780628488535+0200)/",
+  "respons_dato_tid": "/Date(1780646621889+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -43,12 +43,12 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 55 L (2025-2026), Innst. 364 L (2025-2026)",
+  "henvisning": "Prop. 55 L (2025-2026), Innst. 364 L (2025-2026), Lovvedtak 70 (2025-2026)",
   "id": 200267,
   "innstilling_id": 17486,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780628420487+0200)/",
+    "respons_dato_tid": "/Date(1780646426934+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200267,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780628488535+0200)/",
+      "respons_dato_tid": "/Date(1780646621889+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
@@ -94,4 +94,5 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
