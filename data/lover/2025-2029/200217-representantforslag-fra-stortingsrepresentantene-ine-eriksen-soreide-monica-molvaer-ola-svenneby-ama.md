@@ -1,4 +1,4 @@
-<!-- innholds-hash: 47a43faafdb97ed500dfc20dde9c1f01201c5370d8040f97d3d7d46ecc517604 -->
+<!-- innholds-hash: f20d30ca5282a53733d4de470091a18e3fad26bfc889aa456a5c3643fa23fa43 -->
 
 # Representantforslag fra stortingsrepresentantene Ine Eriksen Søreide, Monica Molvær, Ola Svenneby, Amalie Gunnufsen, Mathias Willassen Hanssen og Mathilde Tybring-Gjedde om å løse realfagskrisen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200217
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270455+0200)/",
+  "respons_dato_tid": "/Date(1780628488535+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -66,7 +66,7 @@
   "innstilling_id": 17480,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 200217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -84,14 +84,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -112,3 +112,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

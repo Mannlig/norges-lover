@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3740f9ec0f0102917db71732185074987f38e8ac829f9f7ac025f21a3ba235f0 -->
+<!-- innholds-hash: 7e1e9497a3af169456fa49a63d425fb17ed41182590fd1345e31613c062bd5bb -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200326
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270955+0200)/",
+  "respons_dato_tid": "/Date(1780628489150+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -34,14 +34,14 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -59,14 +59,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -84,14 +84,14 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -130,3 +130,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

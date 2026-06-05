@@ -1,4 +1,4 @@
-<!-- innholds-hash: d532bb642fbd51ee891ac85bc71cec29cbacb5a297fb5ec78893a72662eaa638 -->
+<!-- innholds-hash: a386d610cd25056c370ae7c7d9165510603c7b318b64539e5920e392e6aa9f92 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Frank Edvard Sve, Mats Henriksen, May Helen Hetland Ervik og Dagfinn Henrik Olsen om å stanse liberaliseringen av lospliktforskriften og farledsbevisordningen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200206
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270955+0200)/",
+  "respons_dato_tid": "/Date(1780628489150+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 181,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -53,14 +53,14 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -78,14 +78,14 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -103,14 +103,14 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
@@ -128,14 +128,14 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -153,14 +153,14 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -174,7 +174,7 @@
   "innstilling_id": 17382,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200206,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Karlsen",
@@ -192,14 +192,14 @@
       "id": "TOMKAR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -224,3 +224,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

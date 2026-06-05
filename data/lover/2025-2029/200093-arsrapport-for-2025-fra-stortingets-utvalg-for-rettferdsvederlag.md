@@ -1,4 +1,4 @@
-<!-- innholds-hash: 532622e10a7801407b886070142b43e2ccab813ad75312188e0833c975fe848f -->
+<!-- innholds-hash: 0ab903f7fdf0495e1bf1ca8af57ef53477c6bcde317e395ca0673a0dbd648131 -->
 
 # Årsrapport for 2025 fra Stortingets utvalg for rettferdsvederlag
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200093
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270846+0200)/",
+  "respons_dato_tid": "/Date(1780628489023+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628489023+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628489023+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -48,7 +48,7 @@
   "innstilling_id": 17379,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200093,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628489023+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -66,14 +66,14 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -98,3 +98,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

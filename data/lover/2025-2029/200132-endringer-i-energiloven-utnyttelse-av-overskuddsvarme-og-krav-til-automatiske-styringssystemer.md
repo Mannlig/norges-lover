@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1bddf279c2791cdc466879b9970d100014716b1b855152dace5302736bf4ca45 -->
+<!-- innholds-hash: 56668a653ede3e8ebc2e90d744c36c26e2be80f6f99d537d7823a50be1cfefc2 -->
 
 # Endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200132
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600271064+0200)/",
+  "respons_dato_tid": "/Date(1780628489150+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -66,7 +66,7 @@
   "innstilling_id": 17361,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 200132,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -84,14 +84,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -120,3 +120,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

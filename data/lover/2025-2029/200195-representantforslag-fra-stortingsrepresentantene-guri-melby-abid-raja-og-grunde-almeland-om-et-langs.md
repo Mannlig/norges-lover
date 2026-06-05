@@ -1,4 +1,4 @@
-<!-- innholds-hash: ee5a4ac8686b0d153a1e07ef136fb6422c597b2cc3394e06fb14c447b39db1be -->
+<!-- innholds-hash: 826dd5af03525ffc2cd8dc970cbbdaf7ed41cbe9a607a8630d5cc60fc540f082 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om et langsiktig løft for bemanningen i norske barnehager
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200195
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270846+0200)/",
+  "respons_dato_tid": "/Date(1780628488975+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -44,14 +44,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -69,14 +69,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -94,14 +94,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -115,7 +115,7 @@
   "innstilling_id": 17396,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200195,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -133,14 +133,14 @@
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -165,3 +165,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

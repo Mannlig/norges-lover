@@ -1,4 +1,4 @@
-<!-- innholds-hash: 596809e6db0ef21cfc69df1a6392656cc43c6365e1617271ff7eb771a1368a82 -->
+<!-- innholds-hash: ae4324b0d057fc85bb48bfbd7aaca4ef41cae00c4d1f262cc5b8ef9a5ca159c1 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen, Anne Grethe Hauan og Morten Kolbjørnsen om å sikre norsk legemiddelberedskap gjennom nasjonal produksjon og forpliktende beredskapsavtaler
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200083
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270955+0200)/",
+  "respons_dato_tid": "/Date(1780628489150+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -62,14 +62,14 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -87,14 +87,14 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -112,14 +112,14 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -137,14 +137,14 @@
       "id": "MORKOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -162,14 +162,14 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -183,7 +183,7 @@
   "innstilling_id": 17409,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -192,7 +192,7 @@
   "sak_fremmet_id": 200083,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
@@ -201,14 +201,14 @@
       "id": "RAGBER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -233,3 +233,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

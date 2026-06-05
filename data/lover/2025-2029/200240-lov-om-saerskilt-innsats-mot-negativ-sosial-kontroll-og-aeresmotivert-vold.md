@@ -1,4 +1,4 @@
-<!-- innholds-hash: 335e1b2ecebbb6bc4ca479a01155c86e62da6eb32a74c03019712c105b3661a7 -->
+<!-- innholds-hash: ef124ee4844b6d69a64590ff38540f4ac9a4f9b22a14d1052e65404d6e9f3c84 -->
 
 # Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200240
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270955+0200)/",
+  "respons_dato_tid": "/Date(1780628489150+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17408,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200240,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270955+0200)/",
+      "respons_dato_tid": "/Date(1780628489150+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -47,14 +47,14 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -79,3 +79,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

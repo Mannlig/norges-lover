@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1e4844f40aef14f910484f2496bc598fb7fdf84abf41c66bb4303a1b04b5139e -->
+<!-- innholds-hash: 2dc3f63d0e71835f8f4417ab3713994a3b1a60b8ee2bc7cdc8c66bacc74be510 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Geir Pollestad om et statlig mineralselskap
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200071
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270846+0200)/",
+  "respons_dato_tid": "/Date(1780628488790+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -62,14 +62,14 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -87,14 +87,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488810+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -112,14 +112,14 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -133,7 +133,7 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200071,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488790+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
@@ -151,14 +151,14 @@
       "id": "TOBLIN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -182,3 +182,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

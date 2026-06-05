@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7b461876af286aaee75ab18307c749153d70e504e65335d2e08bf7f215644b22 -->
+<!-- innholds-hash: 1d733d25a2706b3b72fa3135edd261f4d432c4950ea37d5f2f9cba1c35d34297 -->
 
 # Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200330
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270846+0200)/",
+  "respons_dato_tid": "/Date(1780628488975+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200330,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270846+0200)/",
+      "respons_dato_tid": "/Date(1780628488975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -47,14 +47,14 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -79,3 +79,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

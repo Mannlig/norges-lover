@@ -1,4 +1,4 @@
-<!-- innholds-hash: c941db303f6b4239733db9fea3ad87c00cc4ff169a6e9eb8c4df3ff22002f447 -->
+<!-- innholds-hash: cbf070624a15d42e21b2a9af252469999226ee10ac73c8473bf41008c5f03c3b -->
 
 # Representantforslag fra stortingsrepresentantene Une Bastholm, Frøya Skjold Sjursæther, Margit Bye og Marius Langballe Dalin om å ta vare på gjenværende naturskog og styrke miljøhensyn i skogbruket
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200196
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270361+0200)/",
+  "respons_dato_tid": "/Date(1780628488473+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -62,14 +62,14 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -87,14 +87,14 @@
       "id": "MARBYE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -112,14 +112,14 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270455+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -137,14 +137,14 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -158,7 +158,7 @@
   "innstilling_id": 17501,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200196,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -176,14 +176,14 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -204,3 +204,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e3f6142b1038cf800de596994441a65316a861cbd1fbac726f21e24957b13b8b -->
+<!-- innholds-hash: 29b82f344c3a430d1ecc033b1bb07543e10c876e75860d81fdaa5717a26c1d7d -->
 
 # Representantforslag fra stortingsrepresentant Geir Pollestad om fleksibel innføring av ny gjødselforskrift
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200107
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270049+0200)/",
+  "respons_dato_tid": "/Date(1780628488410+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270049+0200)/",
+      "respons_dato_tid": "/Date(1780628488410+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270049+0200)/",
+      "respons_dato_tid": "/Date(1780628488410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -44,14 +44,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -65,7 +65,7 @@
   "innstilling_id": 17495,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -74,7 +74,7 @@
   "sak_fremmet_id": 200107,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270049+0200)/",
+      "respons_dato_tid": "/Date(1780628488410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -83,14 +83,14 @@
       "id": "ERLL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -111,3 +111,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

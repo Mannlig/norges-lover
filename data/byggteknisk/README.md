@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-06-05 01:17 UTC*
+*Sist oppdatert: 2026-06-05 06:58 UTC*
 
-**Antall dokumenter:** 725
+**Antall dokumenter:** 727
 
 ## Innhold
 
@@ -684,11 +684,13 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 14-1. Generelle krav](regelverk/tek/3/14/14-1.md)
 - [§ 14-2. Krav til energieffektivitet](regelverk/tek/3/14/14-2.md)
 - [§ 14-3. Minimumskrav til energieffektivitet](regelverk/tek/3/14/14-3.md)
+- [§ 14-4. Krav til løsninger for energiforsyning](regelverk/tek/3/14/14-4/2.md)
 - [§ 14-4. Krav til løsninger for energiforsyning](regelverk/tek/3/14/14-4.md)
 - [§ 14-5. Unntak og krav til særskilte tiltak](regelverk/tek/3/14/14-5.md)
 - [§ 14-6.](regelverk/tek/3/14/14-6.md)
 - [§ 14-7.](regelverk/tek/3/14/14-7.md)
 - [§ 14-8.](regelverk/tek/3/14/14-8.md)
+- [§ 14-3. Minimumskrav til energieffektivitet](regelverk/tek/3/14/ii/14-3.md)
 - [Innledning](regelverk/tek/3/14/innledning.md)
 - [§ 15-1. Generelle krav til varme- og kuldeinstallasjon](regelverk/tek/3/15/i/15-1.md)
 - [§ 15-2. Sentralvarmeinstallasjon](regelverk/tek/3/15/i/15-2.md)

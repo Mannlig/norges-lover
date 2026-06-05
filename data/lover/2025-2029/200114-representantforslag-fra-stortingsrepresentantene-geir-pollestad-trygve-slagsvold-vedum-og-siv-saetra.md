@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1d2d3ccf00626f0ee233633c07c1c4a0b56d938a3034290191889a9d826417e0 -->
+<!-- innholds-hash: c579fa82e2c677d6adf32a2f56ea44c997e41fab7757797b48d44bfd24c9cbe8 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum og Siv Sætran om mer norsk mat
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200114
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270049+0200)/",
+  "respons_dato_tid": "/Date(1780628488410+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270111+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270111+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270049+0200)/",
+      "respons_dato_tid": "/Date(1780628488410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -53,14 +53,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270111+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -78,14 +78,14 @@
       "id": "SIVSTR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270111+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -103,14 +103,14 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -124,7 +124,7 @@
   "innstilling_id": 17481,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200114,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270049+0200)/",
+      "respons_dato_tid": "/Date(1780628488410+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -142,14 +142,14 @@
       "id": "TAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -170,3 +170,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

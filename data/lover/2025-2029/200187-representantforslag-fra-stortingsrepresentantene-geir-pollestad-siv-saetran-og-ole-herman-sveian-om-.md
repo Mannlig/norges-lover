@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5cd1f94b2a11f12c556cb6592d869cdc319562332333c916e1aacef5d6bede0d -->
+<!-- innholds-hash: 1bc29b85698fa747a79c9cc2d2ae9f572c23a207f6a0e074ae94f37f6830f0f6 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Siv Sætran og Ole Herman Sveian om styrking av Norges matberedskap
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200187
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270314+0200)/",
+  "respons_dato_tid": "/Date(1780628488473+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270314+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -71,14 +71,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -96,14 +96,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270361+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -121,14 +121,14 @@
       "id": "SIVSTR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -142,7 +142,7 @@
   "innstilling_id": 17513,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -151,7 +151,7 @@
   "sak_fremmet_id": 200187,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270314+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -160,14 +160,14 @@
       "id": "ERLL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -188,3 +188,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

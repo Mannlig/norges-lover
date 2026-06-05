@@ -1,4 +1,4 @@
-<!-- innholds-hash: 730186074782c6590808e9b6ef38a47ad0f37124908e5dda1c895cb9470f35b0 -->
+<!-- innholds-hash: 19be6cdda80bc309fc07cd9db7adffc177d4a31407a206b05500c820b35ad088 -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe og Erling Sande om tiltak for å sikre nok jordmødrer i helsetenesta
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200064
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600271064+0200)/",
+  "respons_dato_tid": "/Date(1780628489213+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -71,14 +71,14 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -96,14 +96,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -117,7 +117,7 @@
   "innstilling_id": 17376,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -126,7 +126,7 @@
   "sak_fremmet_id": 200064,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -135,14 +135,14 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -171,3 +171,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

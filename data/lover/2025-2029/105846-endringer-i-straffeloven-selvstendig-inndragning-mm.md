@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2445d1788bd698ea42c7e0c9fd628fb8dfe196eff43978eab6311b4d973a7307 -->
+<!-- innholds-hash: 9001f533f8adfd1931b8402d58b4c0a3d06a614134141ca9385ad2493d0fd032 -->
 
 # Endringer i straffeloven (selvstendig inndragning m.m.)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105846
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600271064+0200)/",
+  "respons_dato_tid": "/Date(1780628489213+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -48,7 +48,7 @@
   "innstilling_id": 17334,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 105846,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600271064+0200)/",
+      "respons_dato_tid": "/Date(1780628489213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -66,14 +66,14 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -102,3 +102,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

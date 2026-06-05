@@ -1,4 +1,4 @@
-<!-- innholds-hash: 73234f550fc7297edf860cfb6028830a0bfe2897735cdbed68faec957b8436d1 -->
+<!-- innholds-hash: 93a9a616986200e7508a30d7ec1cf1d12ca34521b4c1a22713bc2d534cbe98d5 -->
 
 # Representantforslag fra stortingsrepresentantene Erling Sande, Bengt Fasteraune og Ole Herman Sveian om ei treårig lærarutdanning som bidrag til fleire kvalifiserte lærarar i norske klasserom
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200164
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270924+0200)/",
+  "respons_dato_tid": "/Date(1780628489086+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -53,14 +53,14 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -78,14 +78,14 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -103,14 +103,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -124,7 +124,7 @@
   "innstilling_id": 17395,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200164,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270924+0200)/",
+      "respons_dato_tid": "/Date(1780628489086+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -142,14 +142,14 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -174,3 +174,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-05** Innhold endret (se git-historikk for diff)

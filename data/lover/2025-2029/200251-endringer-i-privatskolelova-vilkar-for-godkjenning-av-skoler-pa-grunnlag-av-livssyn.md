@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8bf8a23484098595160babbb37375cc52844767a8d08a3f8d0db303b1cbdfce5 -->
+<!-- innholds-hash: 9f871ddd339e539d38ab4983d0d711b47f83f33646df819700aed6769741fc77 -->
 
 # Endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200251
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270455+0200)/",
+  "respons_dato_tid": "/Date(1780628488535+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270487+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780600270487+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 105,
@@ -48,7 +48,7 @@
   "innstilling_id": 17442,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200251,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270487+0200)/",
+      "respons_dato_tid": "/Date(1780628488535+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -66,14 +66,14 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -94,3 +94,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)

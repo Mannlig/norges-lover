@@ -1,4 +1,4 @@
-<!-- innholds-hash: 840e73e2144245920a1cf9df759f6ae23849e67c6044f400f9d03c715b92121d -->
+<!-- innholds-hash: 478e2e6ee70e9ca79de3ff19203f7e6e9f6f28692c7af0cc84a0db643ff4c8ed -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Frøya Skjold Sjursæther og Une Bastholm om strengere straff for dyrekriminalitet
 
@@ -11,20 +11,20 @@
 - **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T19:42:15Z
+- **Sist hentet:** 2026-06-05T03:18:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200116
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780600270111+0200)/",
+  "respons_dato_tid": "/Date(1780628488473+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270236+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270158+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -44,14 +44,14 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270236+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -69,14 +69,14 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780600270236+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -94,14 +94,14 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -115,7 +115,7 @@
   "innstilling_id": 17467,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780599804445+0200)/",
+    "respons_dato_tid": "/Date(1780628420487+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200116,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780600270111+0200)/",
+      "respons_dato_tid": "/Date(1780628488473+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -133,14 +133,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780583224275+0200)/",
+        "respons_dato_tid": "/Date(1780614017953+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
+        "respons_dato_tid": "/Date(1780614017895+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -161,3 +161,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-05** Innhold endret (se git-historikk for diff)
