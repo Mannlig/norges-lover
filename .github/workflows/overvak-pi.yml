@@ -29,6 +29,7 @@ jobs:
             if (commits.length === 0) {
               core.setOutput("stille", "true");
               core.setOutput("siste", "aldri");
+              core.setOutput("timer_siden", "ukjent");
               return;
             }
 
@@ -38,7 +39,7 @@ jobs:
 
             core.setOutput("timer_siden", timerSiden.toFixed(1));
             core.setOutput("siste", sisteDato.toISOString());
-            core.setOutput("stille", timerSiden > 6 ? "true" : "false");
+            core.setOutput("stille", timerSiden > 12 ? "true" : "false");
 
       - name: Åpne issue hvis Pi er stille
         if: steps.sjekk.outputs.stille == 'true'

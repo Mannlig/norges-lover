@@ -58,7 +58,7 @@ NAV_STARTPUNKTER = [
 _EKSKLUDER = re.compile(
     r"/(innlogging|logg-inn|sok|kontakt|om-nav|presse|"
     r"nyheter|arrangementer|sitemap|404|500|kontakt-oss|"
-    r"minside|samarbeidspartner|[a-z]{2}/person)(/|$)",
+    r"minside|samarbeidspartner|[a-z]{2}/person|nav/lov|nav-loven)(/|$)",
     re.IGNORECASE,
 )
 
