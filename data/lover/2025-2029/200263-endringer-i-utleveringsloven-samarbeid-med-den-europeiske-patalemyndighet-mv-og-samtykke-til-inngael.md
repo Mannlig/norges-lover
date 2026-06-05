@@ -1,4 +1,4 @@
-<!-- innholds-hash: b5cd8165b7c2b4c189b736605991b336a79ef593c10d7c46cae8c0c6469e7f01 -->
+<!-- innholds-hash: a1e76281a6dd2fc6ab359e0c47115dec38f4b00fc179326daf192dea3bde450b -->
 
 # Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200263
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899487+0200)/",
+  "respons_dato_tid": "/Date(1780600270487+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -57,7 +57,7 @@
   "innstilling_id": 17444,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200263,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -75,7 +75,7 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -103,3 +103,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

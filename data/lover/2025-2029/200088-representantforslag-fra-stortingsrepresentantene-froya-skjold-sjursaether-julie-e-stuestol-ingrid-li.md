@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4a8101b26008deb3578372d1807c2f2ad3baf2e6bdb3bd675f86dd5b528406cd -->
+<!-- innholds-hash: 1287e1bb5aec63dbf603fa07e079fc51e606450ef97bf3f8246e501b142abe5e -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Julie E. Stuestøl, Ingrid Liland, Siren Julianne Jensen, Marius Langballe Dalin, Oda Indgaard og Une Bastholm om å stanse subsidiene til petroleumsselskapenes utgifter knyttet til markedsføring og lobbyisme
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200088
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899784+0200)/",
+  "respons_dato_tid": "/Date(1780600270846+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -53,7 +53,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -78,7 +78,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -103,7 +103,7 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -128,7 +128,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -153,7 +153,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -178,7 +178,7 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -194,7 +194,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -203,7 +203,7 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -224,7 +224,7 @@
   "innstilling_id": 17346,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -233,7 +233,7 @@
   "sak_fremmet_id": 200088,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899784+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
@@ -242,7 +242,7 @@
       "id": "HEA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -272,4 +272,5 @@
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)

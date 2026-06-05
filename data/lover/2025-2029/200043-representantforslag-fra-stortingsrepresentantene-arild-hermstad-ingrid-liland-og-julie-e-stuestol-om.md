@@ -1,4 +1,4 @@
-<!-- innholds-hash: 85ec2470a1c2eac5714b59902e0faa663f6efc6cf3980248c50ff1831713ddb5 -->
+<!-- innholds-hash: 53da3db1f6c9ff6cac3fb006ff5202c6f6cd8793bde7b609835ecef97cf3bd2a -->
 
 # Representantforslag fra stortingsrepresentantene Arild Hermstad, Ingrid Liland og Julie E. Stuestøl om opprettelse av et antikorrupsjonsorgan
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200043
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899722+0200)/",
+  "respons_dato_tid": "/Date(1780600270737+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -53,7 +53,7 @@
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -78,7 +78,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -103,7 +103,7 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -124,7 +124,7 @@
   "innstilling_id": 17358,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200043,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
@@ -142,7 +142,7 @@
       "id": "FARQUR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -172,4 +172,5 @@
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)

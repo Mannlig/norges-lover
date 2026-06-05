@@ -1,4 +1,4 @@
-<!-- innholds-hash: c33f436f2b7e63a0dbde5e022044efe23725bafd685b432159d034ccc4537e24 -->
+<!-- innholds-hash: 73234f550fc7297edf860cfb6028830a0bfe2897735cdbed68faec957b8436d1 -->
 
 # Representantforslag fra stortingsrepresentantene Erling Sande, Bengt Fasteraune og Ole Herman Sveian om ei treårig lærarutdanning som bidrag til fleire kvalifiserte lærarar i norske klasserom
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200164
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899847+0200)/",
+  "respons_dato_tid": "/Date(1780600270924+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 32,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -53,7 +53,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -78,7 +78,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -103,7 +103,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -124,7 +124,7 @@
   "innstilling_id": 17395,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200164,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899847+0200)/",
+      "respons_dato_tid": "/Date(1780600270924+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
@@ -142,7 +142,7 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -172,4 +172,5 @@
 - **2026-06-02** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)

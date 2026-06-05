@@ -1,4 +1,4 @@
-<!-- innholds-hash: f635d4de7d3fe87c2814178eae5507ea2e1068ff9688733fbea8093d65c9863e -->
+<!-- innholds-hash: f7b68bfbd2e3a463f9165302458223046c408ba2d4d6363987118a1dc883eb3e -->
 
 # Endringer i politiloven (generell bevæpning av politiet)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200226
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899487+0200)/",
+  "respons_dato_tid": "/Date(1780600270580+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17449,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200226,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
@@ -47,7 +47,7 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -75,3 +75,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

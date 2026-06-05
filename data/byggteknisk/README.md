@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-06-04 17:41 UTC*
+*Sist oppdatert: 2026-06-05 01:17 UTC*
 
-**Antall dokumenter:** 722
+**Antall dokumenter:** 725
 
 ## Innhold
 
@@ -531,6 +531,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Innledning](regelverk/sak/4/15/innledning.md)
 - [§ 16-4 Krav til innhold i varsel om overtredelsesgebyr](regelverk/sak/4/16/-16-4-krav-til-innhold-i-varsel-om-overtredelsesgebyr.md)
 - [§ 16-1. Forhold som kan medføre overtredelsesgebyr. Gebyrenes størrelse](regelverk/sak/4/16/16-1.md)
+- [§ 16-2. Utmåling av overtredelsesgebyr](regelverk/sak/4/16/16-2/7.md)
 - [§ 16-2. Utmåling av overtredelsesgebyr](regelverk/sak/4/16/16-2.md)
 - [§ 16-3 Kommunens varslingsplikt til påtalemyndigheten](regelverk/sak/4/16/16-3.md)
 - [Innledning](regelverk/sak/4/16/innledning.md)
@@ -625,6 +626,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 11-4. Bæreevne og stabilitet](regelverk/tek/3/11/ii/11-4.md)
 - [§ 11-5. Sikkerhet ved eksplosjon](regelverk/tek/3/11/ii/11-5.md)
 - [§ 11-10. Tekniske installasjoner](regelverk/tek/3/11/iii/11-10.md)
+- [§ 11-6. Tiltak mot brannspredning mellom byggverk](regelverk/tek/3/11/iii/11-6/2.md)
 - [§ 11-6. Tiltak mot brannspredning mellom byggverk](regelverk/tek/3/11/iii/11-6.md)
 - [§ 11-7. Brannseksjoner](regelverk/tek/3/11/iii/11-7.md)
 - [§ 11-8. Brannceller](regelverk/tek/3/11/iii/11-8.md)
@@ -635,6 +637,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 11-14. Rømningsvei](regelverk/tek/3/11/iv/11-14.md)
 - [§ 11-15. Tilrettelegging for redning av husdyr](regelverk/tek/3/11/iv/11-15.md)
 - [§ 11-16. Tilrettelegging for manuell slokking](regelverk/tek/3/11/v/11-16.md)
+- [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](regelverk/tek/3/11/v/11-17/2.md)
 - [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](regelverk/tek/3/11/v/11-17.md)
 - [§ 12-1. Krav om universell utforming av byggverk](regelverk/tek/3/12/i/12-1.md)
 - [§ 12-2. Krav om tilgjengelig boenhet](regelverk/tek/3/12/i/12-2.md)

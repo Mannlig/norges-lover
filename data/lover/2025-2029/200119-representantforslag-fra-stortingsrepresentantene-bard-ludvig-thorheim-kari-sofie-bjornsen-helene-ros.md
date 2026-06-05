@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8b877310d563c3cc1b34b28886247a90b374b1b7a151b8b924a06f2864721692 -->
+<!-- innholds-hash: cbb7737d6596b7758601c6182840513e612882b4bdafb184c98c4523cbef5070 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Kari Sofie Bjørnsen, Helene Røsholt og Mathias Willassen Hanssen om å realisere Fensfeltet og mer mineralnæring i Norge
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200119
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899581+0200)/",
+  "respons_dato_tid": "/Date(1780600270737+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899581+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -53,7 +53,7 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899690+0200)/",
+      "respons_dato_tid": "/Date(1780600270814+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røsholt",
@@ -78,7 +78,7 @@
       "id": "HELERS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899690+0200)/",
+      "respons_dato_tid": "/Date(1780600270814+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -103,7 +103,7 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574899722+0200)/",
+      "respons_dato_tid": "/Date(1780600270846+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hanssen",
@@ -128,7 +128,7 @@
       "id": "MWH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -149,7 +149,7 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200119,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899581+0200)/",
+      "respons_dato_tid": "/Date(1780600270737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
@@ -167,7 +167,7 @@
       "id": "TOBLIN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -196,4 +196,5 @@
 
 - **2026-06-02** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)

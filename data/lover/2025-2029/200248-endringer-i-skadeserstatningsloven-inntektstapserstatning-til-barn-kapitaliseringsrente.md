@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9acf3433f2ea4ab2659182512645a3425a0fbd785754de6cd100068623f4e4cc -->
+<!-- innholds-hash: 828fa04bb41889ee264778cb5fd6210387600dd282bfff3b45c1843bca1e1d3d -->
 
 # Endringer i skadeserstatningsloven (inntektstapserstatning til barn - kapitaliseringsrente)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200248
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899487+0200)/",
+  "respons_dato_tid": "/Date(1780600270580+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -57,7 +57,7 @@
   "innstilling_id": 17429,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200248,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270580+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gruer",
@@ -75,7 +75,7 @@
       "id": "JUNGRU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -103,3 +103,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d62072689868dc460d755c086c62944fd3ba10ceb3a352128c651e80ffad630e -->
+<!-- innholds-hash: 890fdb8e70291275d8d131e0845aae7bed2a03acaad07f14317042e62406cb55 -->
 
 # Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200227
 - **Type:** 2
 - **Korttittel:** Samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Sist hentet:** 2026-06-04T19:42:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200227
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574899487+0200)/",
+  "respons_dato_tid": "/Date(1780600270455+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270455+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270455+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17450,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
+    "respons_dato_tid": "/Date(1780599804445+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200227,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574899487+0200)/",
+      "respons_dato_tid": "/Date(1780600270455+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -66,7 +66,7 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
+        "respons_dato_tid": "/Date(1780583224275+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -83,7 +83,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene",
   "type": 2
 }
@@ -94,3 +94,4 @@
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-04** Innhold endret (se git-historikk for diff)
