@@ -1,1 +1,258 @@
-"""\nScraper for NAV – rekursiv crawler som følger alle lenker fra startpunkter.\nKilde: https://www.nav.no\n"""\n\nimport json\nimport logging\nimport re\nfrom datetime import datetime, timezone, timedelta\nfrom pathlib import Path\n\nfrom .base import BaseScraper\nfrom config import STATE_DIR\n\nlogger = logging.getLogger(__name__)\n\nHUB_CRAWL_INTERVALL_TIMER = 24\nRECRAWL_DAGER = 7\n\nNAV_STARTPUNKTER = [\n    \"https://www.nav.no/dagpenger\",\n    \"https://www.nav.no/sykepenger\",\n    \"https://www.nav.no/foreldrepenger\",\n    \"https://www.nav.no/barnetrygd\",\n    \"https://www.nav.no/kontantstotte\",\n    \"https://www.nav.no/uforetrygd\",\n    \"https://www.nav.no/alderspensjon\",\n    \"https://www.nav.no/arbeidsavklaringspenger\",\n    \"https://www.nav.no/sosialhjelp\",\n    \"https://www.nav.no/hjelpemidler\",\n    \"https://www.nav.no/overgangsstonad-enslig\",\n    \"https://www.nav.no/omsorgspenger\",\n    \"https://www.nav.no/pleiepenger-sykt-barn\",\n    \"https://www.nav.no/svangerskapspenger\",\n    \"https://www.nav.no/grunnbelopet\",\n    \"https://www.nav.no/pensjonsgivende-inntekt\",\n    \"https://www.nav.no/arbeid\",\n    \"https://www.nav.no/permittering\",\n    \"https://www.nav.no/gjenlevendepensjon\",\n    \"https://www.nav.no/barnepensjon\",\n    # Arbeidsgiver-sider\n    \"https://www.nav.no/arbeidsgiver\",\n    \"https://www.nav.no/arbeidsgiver/sykepenger\",\n    \"https://www.nav.no/arbeidsgiver/foreldrepenger\",\n    \"https://www.nav.no/arbeidsgiver/rekruttering\",\n    # Satser og regelverk\n    \"https://www.nav.no/satser\",\n    \"https://www.nav.no/saksbehandlingstider\",\n    \"https://www.nav.no/klagerettigheter\",\n    # Spesifikke ytelser som mangler\n    \"https://www.nav.no/omstillingsstonad\",\n    \"https://www.nav.no/yrkesskade\",\n    \"https://www.nav.no/lonnsgaranti\",\n    \"https://www.nav.no/tiltakspenger\",\n    \"https://www.nav.no/supplerende-stonad\",\n]\n\n_EKSKLUDER = re.compile(\n    r\"/(innlogging|logg-inn|sok|kontakt|om-nav|presse|\"\n    r\"nyheter|arrangementer|sitemap|404|500|kontakt-oss|\"\n    r\"minside|samarbeidspartner|[a-z]{2}/person|nav/lov|nav-loven)(/|$)\",\n    re.IGNORECASE,\n)\n\n_EKSKLUDER_DOMENER = re.compile(\n    r\"https://(arbeidsplassen|tjenester|aktivitetsplan|minside|\"\n    r\"familie|foreldrepengerplanlegger)\\.nav\\.no\",\n    re.IGNORECASE,\n)\n\n_INNHOLD_SELEKTORER = [\"main\", \"article\", \"[role='main']\", \".article-body\", \"#maincontent\"]\n\n\nclass NavScraper(BaseScraper):\n    name = \"nav\"\n    source_url = \"https://www.nav.no\"\n\n    def __init__(self):\n        super().__init__()\n        self._state: dict = {}\n        self._state_path: Path | None = None\n\n    def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:\n        output_dir.mkdir(parents=True, exist_ok=True)\n        STATE_DIR.mkdir(parents=True, exist_ok=True)\n        self._state_path = STATE_DIR / \"nav-state.json\"\n        self._state = self._les_state()\n\n        if self._bor_crawle_huber():\n            self._crawl_huber()\n\n        created = self._hent_fra_ko(output_dir, max_pages)\n        gjenstaar = sum(1 for v in self._state.get(\"kø\", {}).values() if not v[\"hentet\"])\n        logger.info(\"NAV: %d filer | %d gjenstår i kø\", len(created), gjenstaar)\n        return created\n\n    def _bor_crawle_huber(self) -> bool:\n        sist = self._state.get(\"sist_hub_crawl\", \"\")\n        if not sist:\n            return True\n        try:\n            sist_tid = datetime.fromisoformat(sist.replace(\"Z\", \"+00:00\"))\n            timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600\n            return timer >= HUB_CRAWL_INTERVALL_TIMER\n        except Exception:\n            return True\n\n    def _crawl_huber(self):\n        logger.info(\"Starter NAV hub-crawl...\")\n        kø = self._state.setdefault(\"kø\", {})\n\n        # Reset gamle oppføringer så rekursiv crawling finner nye lenker\n        grense = datetime.now(timezone.utc) - timedelta(days=RECRAWL_DAGER)\n        for meta in kø.values():\n            if meta.get(\"hentet\") and meta.get(\"sist_hentet\"):\n                try:\n                    sist = datetime.fromisoformat(meta[\"sist_hentet\"].replace(\"Z\", \"+00:00\"))\n                    if sist < grense:\n                        meta[\"hentet\"] = False\n                except Exception:\n                    pass\n\n        nye = 0\n        for hub_url in NAV_STARTPUNKTER:\n            lenker = self._hent_lenker_fra_side(hub_url)\n            logger.info(\"Hub %s: %d relevante lenker\", hub_url, len(lenker))\n            for url in lenker:\n                nøkkel = self._url_til_nokkel(url)\n                if nøkkel not in kø:\n                    kø[nøkkel] = {\"url\": url, \"hentet\": False}\n                    nye += 1\n            nøkkel = self._url_til_nokkel(hub_url)\n            if nøkkel not in kø:\n                kø[nøkkel] = {\"url\": hub_url, \"hentet\": False}\n                nye += 1\n\n        self._state[\"sist_hub_crawl\"] = self.now_iso()\n        self._lagre_state()\n        logger.info(\"Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)\", nye, len(kø))\n\n    def _hent_lenker_fra_side(self, url: str, page=None) -> list[str]:\n        if page is None:\n            page = self.fetch(url)\n        if not page:\n            return []\n\n        lenker = set()\n        for el in page.css(\"a[href]\"):\n            href = str(el.attrib.get(\"href\", \"\")).strip()\n            if not href:\n                continue\n            if href.startswith(\"/\"):\n                href = f\"https://www.nav.no{href}\"\n            href = href.split(\"#\")[0].split(\"?\")[0].rstrip(\"/\")\n            if self._er_relevant_side(href):\n                lenker.add(href)\n        return sorted(lenker)\n\n    def _er_relevant_side(self, url: str) -> bool:\n        if not url.startswith(\"https://www.nav.no/\"):\n            return False\n        if _EKSKLUDER_DOMENER.match(url):\n            return False\n        if _EKSKLUDER.search(url):\n            return False\n        if re.search(r\"\\.(pdf|docx?|xlsx?|zip|png|jpg)$\", url, re.I):\n            return False\n        if url in (\"https://www.nav.no\", \"https://www.nav.no/\"):\n            return False\n        return True\n\n    @staticmethod\n    def _url_til_nokkel(url: str) -> str:\n        return url.replace(\"https://www.nav.no/\", \"\").strip(\"/\")\n\n    def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:\n        kø = self._state.get(\"kø\", {})\n        venter = [(k, v) for k, v in kø.items() if not v[\"hentet\"]]\n\n        if not venter:\n            logger.info(\"NAV: alle sider à jour\")\n            return []\n\n        logger.info(\"NAV: %d sider gjenstår, henter %d nå\",\n                    len(venter), min(len(venter), max_pages))\n\n        created = []\n        for nøkkel, meta in venter[:max_pages]:\n            path = self._hent_side(output_dir, nøkkel, meta[\"url\"])\n            if path:\n                created.append(path)\n            kø[nøkkel][\"hentet\"] = True\n            kø[nøkkel][\"sist_hentet\"] = self.now_iso()\n\n        self._lagre_state()\n        return created\n\n    def _hent_side(self, output_dir: Path, nøkkel: str, url: str) -> Path | None:\n        page = self.fetch(url)\n        if not page:\n            return None\n\n        kø = self._state.get(\"kø\", {})\n        for lenke_url in self._hent_lenker_fra_side(url, page=page):\n            lenke_nøkkel = self._url_til_nokkel(lenke_url)\n            if lenke_nøkkel not in kø:\n                kø[lenke_nøkkel] = {\"url\": lenke_url, \"hentet\": False}\n\n        tittel = self.hent_tittel(page)\n        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)\n        if len(raa_innhold.strip()) < 100:\n            logger.warning(\"For lite innhold (%d tegn) for %s\", len(raa_innhold.strip()), url)\n            return None\n\n        deler = [d for d in nøkkel.split(\"/\") if d]\n        target_dir = output_dir\n        for del_ in deler[:-1]:\n            target_dir = target_dir / del_\n        target_dir.mkdir(parents=True, exist_ok=True)\n        filnavn = deler[-1] if deler else \"index\"\n        filepath = target_dir / f\"{filnavn}.md\"\n\n        formatert = self._formater(tittel, raa_innhold, url)\n        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None\n\n    def _formater(self, tittel: str, innhold: str, url: str) -> str:\n        return \"\\n\".join([\n            f\"# {tittel}\",\n            \"\",\n            \"## Kildeinformasjon\",\n            \"\",\n            f\"- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – {url}\",\n            f\"- **Sist hentet:** {self.now_iso()}\",\n            \"\",\n            \"## Innhold\",\n            \"\",\n            innhold,\n            \"\",\n            \"---\",\n            f\"*Automatisk hentet fra [NAV]({url}) av norges-lover-bot.*\",\n        ])\n\n    def _les_state(self) -> dict:\n        if self._state_path and self._state_path.exists():\n            try:\n                return json.loads(self._state_path.read_text(encoding=\"utf-8\"))\n            except Exception:\n                pass\n        return {\"sist_hub_crawl\": \"\", \"kø\": {}}\n\n    def _lagre_state(self):\n        if not self._state_path:\n            return\n        self._state_path.parent.mkdir(parents=True, exist_ok=True)\n        self._state_path.write_text(\n            json.dumps(self._state, ensure_ascii=False, indent=2),\n            encoding=\"utf-8\",\n        )\n
+"""
+Scraper for NAV – rekursiv crawler som følger alle lenker fra startpunkter.
+Kilde: https://www.nav.no
+"""
+
+import json
+import logging
+import re
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
+
+from .base import BaseScraper
+from config import STATE_DIR
+
+logger = logging.getLogger(__name__)
+
+HUB_CRAWL_INTERVALL_TIMER = 24
+RECRAWL_DAGER = 7
+
+NAV_STARTPUNKTER = [
+    "https://www.nav.no/dagpenger",
+    "https://www.nav.no/sykepenger",
+    "https://www.nav.no/foreldrepenger",
+    "https://www.nav.no/barnetrygd",
+    "https://www.nav.no/kontantstotte",
+    "https://www.nav.no/uforetrygd",
+    "https://www.nav.no/alderspensjon",
+    "https://www.nav.no/arbeidsavklaringspenger",
+    "https://www.nav.no/sosialhjelp",
+    "https://www.nav.no/hjelpemidler",
+    "https://www.nav.no/overgangsstonad-enslig",
+    "https://www.nav.no/omsorgspenger",
+    "https://www.nav.no/pleiepenger-sykt-barn",
+    "https://www.nav.no/svangerskapspenger",
+    "https://www.nav.no/grunnbelopet",
+    "https://www.nav.no/pensjonsgivende-inntekt",
+    "https://www.nav.no/arbeid",
+    "https://www.nav.no/permittering",
+    "https://www.nav.no/gjenlevendepensjon",
+    "https://www.nav.no/barnepensjon",
+    # Arbeidsgiver-sider
+    "https://www.nav.no/arbeidsgiver",
+    "https://www.nav.no/arbeidsgiver/sykepenger",
+    "https://www.nav.no/arbeidsgiver/foreldrepenger",
+    "https://www.nav.no/arbeidsgiver/rekruttering",
+    # Satser og regelverk
+    "https://www.nav.no/satser",
+    "https://www.nav.no/saksbehandlingstider",
+    "https://www.nav.no/klagerettigheter",
+    # Spesifikke ytelser som mangler
+    "https://www.nav.no/omstillingsstonad",
+    "https://www.nav.no/yrkesskade",
+    "https://www.nav.no/lonnsgaranti",
+    "https://www.nav.no/tiltakspenger",
+    "https://www.nav.no/supplerende-stonad",
+]
+
+_EKSKLUDER = re.compile(
+    r"/(innlogging|logg-inn|sok|kontakt|om-nav|presse|"
+    r"nyheter|arrangementer|sitemap|404|500|kontakt-oss|"
+    r"minside|samarbeidspartner|[a-z]{2}/person|nav/lov|nav-loven)(/|$)",
+    re.IGNORECASE,
+)
+
+_EKSKLUDER_DOMENER = re.compile(
+    r"https://(arbeidsplassen|tjenester|aktivitetsplan|minside|"
+    r"familie|foreldrepengerplanlegger)\.nav\.no",
+    re.IGNORECASE,
+)
+
+_INNHOLD_SELEKTORER = ["main", "article", "[role='main']", ".article-body", "#maincontent"]
+
+
+class NavScraper(BaseScraper):
+    name = "nav"
+    source_url = "https://www.nav.no"
+
+    def __init__(self):
+        super().__init__()
+        self._state: dict = {}
+        self._state_path: Path | None = None
+
+    def scrape(self, output_dir: Path, max_pages: int = 50) -> list[Path]:
+        output_dir.mkdir(parents=True, exist_ok=True)
+        STATE_DIR.mkdir(parents=True, exist_ok=True)
+        self._state_path = STATE_DIR / "nav-state.json"
+        self._state = self._les_state()
+
+        if self._bor_crawle_huber():
+            self._crawl_huber()
+
+        created = self._hent_fra_ko(output_dir, max_pages)
+        gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
+        logger.info("NAV: %d filer | %d gjenstår i kø", len(created), gjenstaar)
+        return created
+
+    def _bor_crawle_huber(self) -> bool:
+        sist = self._state.get("sist_hub_crawl", "")
+        if not sist:
+            return True
+        try:
+            sist_tid = datetime.fromisoformat(sist.replace("Z", "+00:00"))
+            timer = (datetime.now(timezone.utc) - sist_tid).total_seconds() / 3600
+            return timer >= HUB_CRAWL_INTERVALL_TIMER
+        except Exception:
+            return True
+
+    def _crawl_huber(self):
+        logger.info("Starter NAV hub-crawl...")
+        kø = self._state.setdefault("kø", {})
+
+        # Reset gamle oppføringer så rekursiv crawling finner nye lenker
+        grense = datetime.now(timezone.utc) - timedelta(days=RECRAWL_DAGER)
+        for meta in kø.values():
+            if meta.get("hentet") and meta.get("sist_hentet"):
+                try:
+                    sist = datetime.fromisoformat(meta["sist_hentet"].replace("Z", "+00:00"))
+                    if sist < grense:
+                        meta["hentet"] = False
+                except Exception:
+                    pass
+
+        nye = 0
+        for hub_url in NAV_STARTPUNKTER:
+            lenker = self._hent_lenker_fra_side(hub_url)
+            logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
+            for url in lenker:
+                nøkkel = self._url_til_nokkel(url)
+                if nøkkel not in kø:
+                    kø[nøkkel] = {"url": url, "hentet": False}
+                    nye += 1
+            nøkkel = self._url_til_nokkel(hub_url)
+            if nøkkel not in kø:
+                kø[nøkkel] = {"url": hub_url, "hentet": False}
+                nye += 1
+
+        self._state["sist_hub_crawl"] = self.now_iso()
+        self._lagre_state()
+        logger.info("Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)", nye, len(kø))
+
+    def _hent_lenker_fra_side(self, url: str, page=None) -> list[str]:
+        if page is None:
+            page = self.fetch(url)
+        if not page:
+            return []
+
+        lenker = set()
+        for el in page.css("a[href]"):
+            href = str(el.attrib.get("href", "")).strip()
+            if not href:
+                continue
+            if href.startswith("/"):
+                href = f"https://www.nav.no{href}"
+            href = href.split("#")[0].split("?")[0].rstrip("/")
+            if self._er_relevant_side(href):
+                lenker.add(href)
+        return sorted(lenker)
+
+    def _er_relevant_side(self, url: str) -> bool:
+        if not url.startswith("https://www.nav.no/"):
+            return False
+        if _EKSKLUDER_DOMENER.match(url):
+            return False
+        if _EKSKLUDER.search(url):
+            return False
+        if re.search(r"\.(pdf|docx?|xlsx?|zip|png|jpg)$", url, re.I):
+            return False
+        if url in ("https://www.nav.no", "https://www.nav.no/"):
+            return False
+        return True
+
+    @staticmethod
+    def _url_til_nokkel(url: str) -> str:
+        return url.replace("https://www.nav.no/", "").strip("/")
+
+    def _hent_fra_ko(self, output_dir: Path, max_pages: int) -> list[Path]:
+        kø = self._state.get("kø", {})
+        venter = [(k, v) for k, v in kø.items() if not v["hentet"]]
+
+        if not venter:
+            logger.info("NAV: alle sider à jour")
+            return []
+
+        logger.info("NAV: %d sider gjenstår, henter %d nå",
+                    len(venter), min(len(venter), max_pages))
+
+        created = []
+        for nøkkel, meta in venter[:max_pages]:
+            path = self._hent_side(output_dir, nøkkel, meta["url"])
+            if path:
+                created.append(path)
+            kø[nøkkel]["hentet"] = True
+            kø[nøkkel]["sist_hentet"] = self.now_iso()
+
+        self._lagre_state()
+        return created
+
+    def _hent_side(self, output_dir: Path, nøkkel: str, url: str) -> Path | None:
+        page = self.fetch(url)
+        if not page:
+            return None
+
+        kø = self._state.get("kø", {})
+        for lenke_url in self._hent_lenker_fra_side(url, page=page):
+            lenke_nøkkel = self._url_til_nokkel(lenke_url)
+            if lenke_nøkkel not in kø:
+                kø[lenke_nøkkel] = {"url": lenke_url, "hentet": False}
+
+        tittel = self.hent_tittel(page)
+        raa_innhold = self.side_til_markdown(page, _INNHOLD_SELEKTORER)
+        if len(raa_innhold.strip()) < 100:
+            logger.warning("For lite innhold (%d tegn) for %s", len(raa_innhold.strip()), url)
+            return None
+
+        deler = [d for d in nøkkel.split("/") if d]
+        target_dir = output_dir
+        for del_ in deler[:-1]:
+            target_dir = target_dir / del_
+        target_dir.mkdir(parents=True, exist_ok=True)
+        filnavn = deler[-1] if deler else "index"
+        filepath = target_dir / f"{filnavn}.md"
+
+        formatert = self._formater(tittel, raa_innhold, url)
+        return filepath if self.skriv_hvis_endret(filepath, raa_innhold, formatert) else None
+
+    def _formater(self, tittel: str, innhold: str, url: str) -> str:
+        return "\n".join([
+            f"# {tittel}",
+            "",
+            "## Kildeinformasjon",
+            "",
+            f"- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – {url}",
+            f"- **Sist hentet:** {self.now_iso()}",
+            "",
+            "## Innhold",
+            "",
+            innhold,
+            "",
+            "---",
+            f"*Automatisk hentet fra [NAV]({url}) av norges-lover-bot.*",
+        ])
+
+    def _les_state(self) -> dict:
+        if self._state_path and self._state_path.exists():
+            try:
+                return json.loads(self._state_path.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+        return {"sist_hub_crawl": "", "kø": {}}
+
+    def _lagre_state(self):
+        if not self._state_path:
+            return
+        self._state_path.parent.mkdir(parents=True, exist_ok=True)
+        self._state_path.write_text(
+            json.dumps(self._state, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )

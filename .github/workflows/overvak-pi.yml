@@ -1,1 +1,116 @@
-name: Overvåk Pi – heartbeat-sjekk\n\non:\n  schedule:\n    # Kjør kl. 08:00 UTC hver dag\n    - cron: \"0 8 * * *\"\n  workflow_dispatch:\n\njobs:\n  sjekk-heartbeat:\n    runs-on: ubuntu-latest\n    permissions:\n      issues: write\n      contents: read\n\n    steps:\n      - name: Hent siste commit-dato for heartbeat-filen\n        id: sjekk\n        uses: actions/github-script@v7\n        with:\n          script: |\n            const { data: commits } = await github.rest.repos.listCommits({\n              owner: context.repo.owner,\n              repo: context.repo.repo,\n              path: \"data/status/heartbeat.md\",\n              per_page: 1,\n            });\n\n            if (commits.length === 0) {\n              core.setOutput(\"stille\", \"true\");\n              core.setOutput(\"siste\", \"aldri\");\n              core.setOutput(\"timer_siden\", \"ukjent\");\n              return;\n            }\n\n            const sisteDato = new Date(commits[0].commit.author.date);\n            const now = new Date();\n            const timerSiden = (now - sisteDato) / 1000 / 3600;\n\n            core.setOutput(\"timer_siden\", timerSiden.toFixed(1));\n            core.setOutput(\"siste\", sisteDato.toISOString());\n            core.setOutput(\"stille\", timerSiden > 12 ? \"true\" : \"false\");\n\n      - name: Åpne issue hvis Pi er stille\n        if: steps.sjekk.outputs.stille == 'true'\n        uses: actions/github-script@v7\n        with:\n          script: |\n            const timerSiden = \"${{ steps.sjekk.outputs.timer_siden }}\";\n            const siste = \"${{ steps.sjekk.outputs.siste }}\";\n\n            // Sjekk om det allerede finnes et åpent varslings-issue\n            const { data: issues } = await github.rest.issues.listForRepo({\n              owner: context.repo.owner,\n              repo: context.repo.repo,\n              state: \"open\",\n              labels: \"pi-stille\",\n            });\n\n            if (issues.length > 0) {\n              console.log(\"Issue finnes allerede, hopper over.\");\n              return;\n            }\n\n            await github.rest.issues.create({\n              owner: context.repo.owner,\n              repo: context.repo.repo,\n              title: `⚠️ Pi har ikke kjørt på ${timerSiden} timer`,\n              body: [\n                \"## Automatisk varsel – Pi er stille\",\n                \"\",\n                `Siste heartbeat-commit: **${siste}**`,\n                `Stille i: **${timerSiden} timer**`,\n                \"\",\n                \"### Mulige årsaker\",\n                \"- Pi har krasjet eller mistet strøm\",\n                \"- `norges-lover`-tjenesten har stoppet\",\n                \"- Nettverksfeil mot GitHub\",\n                \"\",\n                \"### Sjekk\",\n                \"```bash\",\n                \"docker compose ps\",\n                \"docker compose logs --tail=50\",\n                \"```\",\n                \"\",\n                \"*Dette issuset lukkes automatisk når Pi-en er i gang igjen og en ny heartbeat er registrert.*\",\n              ].join(\"\\n\"),\n              labels: [\"pi-stille\"],\n            });\n\n      - name: Lukk issue hvis Pi er i gang igjen\n        if: steps.sjekk.outputs.stille == 'false'\n        uses: actions/github-script@v7\n        with:\n          script: |\n            const { data: issues } = await github.rest.issues.listForRepo({\n              owner: context.repo.owner,\n              repo: context.repo.repo,\n              state: \"open\",\n              labels: \"pi-stille\",\n            });\n\n            for (const issue of issues) {\n              await github.rest.issues.createComment({\n                owner: context.repo.owner,\n                repo: context.repo.repo,\n                issue_number: issue.number,\n                body: \"✅ Pi er i gang igjen – heartbeat registrert. Lukker automatisk.\",\n              });\n              await github.rest.issues.update({\n                owner: context.repo.owner,\n                repo: context.repo.repo,\n                issue_number: issue.number,\n                state: \"closed\",\n              });\n            }\n
+name: Overvåk Pi – heartbeat-sjekk
+
+on:
+  schedule:
+    # Kjør kl. 08:00 UTC hver dag
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  sjekk-heartbeat:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - name: Hent siste commit-dato for heartbeat-filen
+        id: sjekk
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: commits } = await github.rest.repos.listCommits({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: "data/status/heartbeat.md",
+              per_page: 1,
+            });
+
+            if (commits.length === 0) {
+              core.setOutput("stille", "true");
+              core.setOutput("siste", "aldri");
+              core.setOutput("timer_siden", "ukjent");
+              return;
+            }
+
+            const sisteDato = new Date(commits[0].commit.author.date);
+            const now = new Date();
+            const timerSiden = (now - sisteDato) / 1000 / 3600;
+
+            core.setOutput("timer_siden", timerSiden.toFixed(1));
+            core.setOutput("siste", sisteDato.toISOString());
+            core.setOutput("stille", timerSiden > 12 ? "true" : "false");
+
+      - name: Åpne issue hvis Pi er stille
+        if: steps.sjekk.outputs.stille == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const timerSiden = "${{ steps.sjekk.outputs.timer_siden }}";
+            const siste = "${{ steps.sjekk.outputs.siste }}";
+
+            // Sjekk om det allerede finnes et åpent varslings-issue
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: "pi-stille",
+            });
+
+            if (issues.length > 0) {
+              console.log("Issue finnes allerede, hopper over.");
+              return;
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ Pi har ikke kjørt på ${timerSiden} timer`,
+              body: [
+                "## Automatisk varsel – Pi er stille",
+                "",
+                `Siste heartbeat-commit: **${siste}**`,
+                `Stille i: **${timerSiden} timer**`,
+                "",
+                "### Mulige årsaker",
+                "- Pi har krasjet eller mistet strøm",
+                "- `norges-lover`-tjenesten har stoppet",
+                "- Nettverksfeil mot GitHub",
+                "",
+                "### Sjekk",
+                "```bash",
+                "docker compose ps",
+                "docker compose logs --tail=50",
+                "```",
+                "",
+                "*Dette issuset lukkes automatisk når Pi-en er i gang igjen og en ny heartbeat er registrert.*",
+              ].join("\n"),
+              labels: ["pi-stille"],
+            });
+
+      - name: Lukk issue hvis Pi er i gang igjen
+        if: steps.sjekk.outputs.stille == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: "pi-stille",
+            });
+
+            for (const issue of issues) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: "✅ Pi er i gang igjen – heartbeat registrert. Lukker automatisk.",
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: "closed",
+              });
+            }
