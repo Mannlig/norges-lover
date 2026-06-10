@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1d8fcdad878eb581426641ffdc228a1217dbbe8f154e8cdd02fd23bc8a3cfaee -->
+<!-- innholds-hash: c0b3b85c37d03c171d23978d58760edf6cf269471de328a5c3b4cef89dd1edac -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Ole Herman Sveian om å kompensere fylkeskommunene for utgifter som følge av statlige krav om nullutslippsteknologi
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-09T22:49:39Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200191
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781043345489+0200)/",
+  "respons_dato_tid": "/Date(1781082507983+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -34,14 +34,14 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -59,14 +59,14 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -84,14 +84,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -105,7 +105,7 @@
   "innstilling_id": 17505,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200191,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vestenfor",
@@ -123,14 +123,14 @@
       "id": "SOLVES",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -151,3 +151,4 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

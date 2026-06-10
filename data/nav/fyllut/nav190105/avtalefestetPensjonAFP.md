@@ -1,0 +1,68 @@
+<!-- innholds-hash: 04d3b5d72ee6a3c4c5bdadf01b27853062fdd2e7aa649404751125622685e91b -->
+
+# Søknad om alderspensjon | www.nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav190105/avtalefestetPensjonAFP
+- **Sist hentet:** 2026-06-10T13:24:31Z
+
+## Innhold
+
+
+## Søknad om alderspensjon
+
+
+### Introduksjon
+
+
+### Hei!
+
+Alle som har rett til alderspensjon kan ta ut pensjon fra måneden etter at de fyller 67 år. På visse vilkår kan du ta ut alderspensjon fra og med måneden etter fylte 62 år.
+
+Alderspensjon fra folketrygden (Nav) sikrer at du har en inntekt når du er pensjonist.
+
+Les mer om
+
+
+### Her kan du søke om
+
+- Alderspensjon
+- Avtalefestet pensjon (AFP) i privat sektor
+Du kan lese mer om AFP i privat sektor hos
+
+
+#### Dette kan du ikke søke om her
+
+- Avtalefestet pensjon (AFP) i offentlig sektor
+- Tjenestepensjon
+
+### Før du søker
+
+- Du må alltid søke for å få alderspensjon, også etter fylte 67 år.
+- Du kan søke opptil fire måneder før du skal ta ut pensjon.
+- Nav må ha mottatt søknaden senest måneden før uttak. Det er ikke mulig å søke tilbake i tid, fordi alderspensjon først kan innvilges fra måneden etter at søknad er fremsatt.
+- Hvis du har oppholdt deg i utlandet, må du opplyse om dette i søknaden. Dersom du legger inn utenlandsopphold, vil vi vurdere om disse opplysningene skal videresendes til utenlandske trygdemyndigheter for avklaring av rettigheter derfra.
+Her finner du oppdatert informasjon om
+
+
+### Vær klar over
+
+I tillegg til den informasjonen du oppgir i skjemaet, henter vi:
+
+Du kan lese mer om
+
+Det er viktig at du gir oss riktige opplysninger slik at vi kan behandle saken din.
+
+
+## Avbryt og slett?
+
+Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette utfyllingen senere kan du la nettleservinduet stå åpent til neste gang.
+
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/fyllut/nav190105/avtalefestetPensjonAFP) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-06-10** Første gang hentet

@@ -1,11 +1,11 @@
-<!-- innholds-hash: b259b96ec2e7bf9edd84bfae34687d3e0dae0777b40b472a949f58def24ea999 -->
+<!-- innholds-hash: 8c85e2d9e9ff9dac3fb98f398c3aadecba0626b4d954c7bd65023e50e690b455 -->
 
 # Søknaden og CV-en - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknaden-og-cv
-- **Sist hentet:** 2026-05-16T08:23:02Z
+- **Sist hentet:** 2026-06-10T12:32:17Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Jobbsøkertips
 
 ## Søknaden og CV-en
 
-Tips til hvordan komme i gang med jobbsøking så raskt som mulig.
+Tips til hvordan du skriver en god søknad og CV.
 
 
 ### Innhold på denne siden
@@ -36,7 +36,11 @@ Finn ut hvilken informasjon som er viktig for arbeidsgiveren. Tilpass CV-en ette
 
 På arbeidsplassen.no kan du få gode tips til
 
-Oppdatert 12.09.2025
+Hvis du er ung eller har stått utenfor arbeidslivet lenge, har du kanskje ikke så mye arbeidserfaring å fylle ut på CV-en din. Det er allikevel mye du kan skrive på CV-en.
+
+Hva er du er god på? Arbeidserfaring kan være mer enn formelle jobber. Har du erfaringer som kan være aktuelle for jobber du ønsker deg? Snakker eller skriver du andre språk, er du flink på data, har du tatt spesielle kurs?
+
+Oppdatert 08.06.2026
 
 
 ---
@@ -45,3 +49,4 @@ Oppdatert 12.09.2025
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

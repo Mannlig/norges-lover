@@ -1,4 +1,4 @@
-<!-- innholds-hash: c501b9ab3e5f42e658c7449755903e106ec247901660449bc025f77db889f638 -->
+<!-- innholds-hash: b5c1669721f0b892a3221056b6a23f6e424e81f49e0234892a3910d1c8e309da -->
 
 # Representantforslag fra stortingsrepresentantene Siv Sætran og Erling Sande om å innføre forenkling og redusert byråkrati som selvstendige hensyn i utredningsinstruksen
 
@@ -8,34 +8,24 @@
 - **Sak-ID:** 200160
 - **Type:** 2
 - **Korttittel:** Representantforslag om å innføre forenkling og redusert byråkrati som selvstendige hensyn i utredningsinstruksen
-- **Status:** 1
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200160
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622423+0200)/",
+  "respons_dato_tid": "/Date(1781082507983+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 155,
-      "id": 155,
-      "navn": "Statsforvaltning",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -44,14 +34,14 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -60,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -69,14 +59,14 @@
       "id": "SIVSTR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -90,7 +80,7 @@
   "innstilling_id": 17411,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -99,7 +89,7 @@
   "sak_fremmet_id": 200160,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jonsterhaug",
@@ -108,14 +98,14 @@
       "id": "MARJON",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -125,7 +115,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Siv Sætran og Erling Sande om å innføre forenkling og redusert byråkrati som selvstendige hensyn i utredningsinstruksen",
   "type": 2
 }
@@ -142,3 +132,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

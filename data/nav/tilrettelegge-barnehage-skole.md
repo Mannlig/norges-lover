@@ -1,11 +1,11 @@
-<!-- innholds-hash: d14ce20509e8d60a6aec7c7fd51cbcbd62730f5813f4647c5ca673a854ee3266 -->
+<!-- innholds-hash: 8ce0321c921af24ff007d5619f697ca48ab5d6a27b866701ab3819343877d4fd -->
 
 # Trenger tilrettelegging i barnehagen eller på skolen - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilrettelegge-barnehage-skole
-- **Sist hentet:** 2026-06-03T03:18:23Z
+- **Sist hentet:** 2026-06-10T12:25:21Z
 
 ## Innhold
 
@@ -105,7 +105,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -119,3 +119,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

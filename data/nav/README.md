@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-10 07:49 UTC*
+*Sist oppdatert: 2026-06-10 13:32 UTC*
 
-**Antall dokumenter:** 675
+**Antall dokumenter:** 694
 
 ## Innhold
 
@@ -37,6 +37,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Automatikk og styring i bolig - nav.no](automatikk-i-bolig.md)
 - [Automatisk behandling av søknader i Nav - nav.no](automatisk-behandling.md)
 - [Avklaring - nav.no](avklaring.md)
+- [Avtaler med Storbritannia - nav.no](avtaler-med-storbritannia.md)
 - [Stønad ved båretransport - nav.no](baretransport.md)
 - [Barn som er bortført - nav.no](barn-bortfort.md)
 - [Venter eller har nylig fått barn - nav.no](barn.md)
@@ -143,6 +144,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Arbeid og opphold i Norge - nav.no](jobbe-i-norge.md)
 - [Skal jobbe i utlandet - nav.no](jobbe-i-utlandet.md)
 - [Kan bare jobbe noe på grunn av langvarig sykdom eller skade - nav.no](jobbe-noe.md)
+- [Jobbe i land Norge ikke har trygdeavtale med - nav.no](jobbe-utenfor-avtaleland.md)
 - [Jobbklubb - nav.no](jobbklubb.md)
 - [Jobbmestrende oppfølging - nav.no](jobbmestrende-oppfolging.md)
 - [Søke jobb i EU/EØS og Sveits - nav.no](jobbsok-eu.md)
@@ -251,6 +253,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Trykksårforebyggende sitteputer - nav.no](sitteputer.md)
 - [Sjøfartsbok fra Nav - nav.no](sjofartsbok.md)
 - [Skattetrekk på utbetalinger fra Nav - nav.no](skattetrekk.md)
+- [Søknad og skjema - nav.no](skjema.md)
 - [Skjerming av Nav-ansattes familie - nav.no](skjerming.md)
 - [Skjermtolk - nav.no](skjermtolk.md)
 - [Stønad til skolepenger for enslig mor eller far - nav.no](skolepenger-enslig.md)
@@ -572,8 +575,18 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609/personopplysninger.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609/veiledning.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/avtalefestetPensjonAFP.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/barn.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/dineOpplysninger.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/livsvarigAfpIOffentligSektor.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/oppsummering.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/pensjonsuttak.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/sivilstatus.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/utenlandsopphold.md)
+- [Søknad om alderspensjon | www.nav.no](fyllut/nav190105/vedlegg.md)
 - [Søknad om alderspensjon | www.nav.no](fyllut/nav190105.md)
 - [Søknad om barnetrygd | www.nav.no](fyllut/nav330007.md)
+- [Skjema for tilbakemelding til Nav om inntekt som skal holdes utenfor etteroppgjøret for avtalefestet pensjon (AFP) | www.nav.no](fyllut/nav620301.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101.md)
 - [Melding om nytt bankkontonummer | www.nav.no](fyllut/nav952000.md)
 
@@ -637,6 +650,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Arbeidsmiljøloven – aml](nav.no-ressurser/lenker/regelverk/lovdata/arbeidsmiljoloven-4-6.md)
 - [Dekningsloven](nav.no-ressurser/lenker/regelverk/lovdata/dekningsloven.md)
 - [Kapittel 12. Uføretrygd](nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven-kap.12.uforetrygd.md)
+- [Forskrift Om Arbeidsmarkedstiltak Tiltaksforskriften](nav.no-ressurser/lenker/regelverk/lovdata/forskrift-om-arbeidsmarkedstiltak-tiltaksforskriften.md)
 - [Konkursloven](nav.no-ressurser/lenker/regelverk/lovdata/konkursloven.md)
 - [Lov Om Ferie](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-ferie.md)
 - [Lov Om Reindrift](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-reindrift.md)
@@ -658,6 +672,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Rundskriv arbeidsmarkedsloven § 13 – Ytelser til gjennomføring av arbeidsmarkedstiltak mv. – Rundskriv om tiltakspenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-om-tiltakspenger-og-tilleggsstonader.md)
 - [Rundskriv til ftrl kap 8 – Sykepenger](nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-til-8-36.md)
 - [Forskrift om tiltakspenger mv. (tiltakspengeforskriften)](nav.no-ressurser/lenker/regelverk/rettskildene/tiltakspengeforskriften.md)
+- [Rundskriv – Utfyllende regler til Arbeids- og velferdsetatens anvendelse av forskrift om arbeidsmarkedstiltak](nav.no-ressurser/lenker/regelverk/rettskildene/utfyllende-regler-til-forskrift-om-arbeidsmarkedstiltak-kap.14-varig-tilrettelagt-arbeid.md)
 - [Vedlegg 4 til ftrl kap 8 – Premiesatser for tillegg til sykepenger for selvstendig næringsdrivende og forsikring for tilleggssykepenger for frilansere](nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-4-til-kap.8.md)
 - [Dine Utbetalinger](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/dine-utbetalinger.md)
 - [Ditt Sykefravaer](nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ditt-sykefravaer.md)
@@ -726,8 +741,11 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Nb](pensjon/opptjening/nb.md)
 - [Pensjonskalkulator](pensjon/pensjonskalkulator.md)
 - [Pensjonsopptjening](pensjon/pensjonsopptjening.md)
+- [Endringssoknad](pensjon/selvbetjening/alderspensjon/endringssoknad.md)
 - [Dinpensjon](pensjon/selvbetjening/dinpensjon.md)
 - [Familieforhold](pensjon/selvbetjening/familieforhold.md)
+- [Saksoversikt](pensjon/selvbetjening/saksoversikt.md)
+- [Login](pensjon/soknadalder/nb/login.md)
 
 ### Person
 
@@ -794,6 +812,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Ettersend til søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/ettersend-soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
 - [Søknad om AFP i privat sektor - nav.no](start/soknad-afp-privat.md)
+- [Opplysningsskjema til Nav for avtalefestet pensjon (AFP) fra Statens pensjonskasse for deg født før 1963 - nav.no](start/soknad-afp-statens-pensjonskasse.md)
 - [Søknad om alderspensjon og AFP i privat sektor - nav.no](start/soknad-alderspensjon-afp-privat.md)
 - [Søknad om dagpenger - nav.no](start/soknad-dagpenger.md)
 - [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)

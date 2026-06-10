@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce12835c8fdbfd288e036508a59d1fecbde448e7d65c9bdcb2124f6cb166f7f1 -->
+<!-- innholds-hash: fe34b2d8b9aaf5d3de15b6f7f3647e706fdfc8af7b074dd39cb4ffd35840875e -->
 
 # Representantforslag fra stortingsrepresentantene Siv Sætran, Ole Herman Sveian og Geir Pollestad om en stortingsbehandling av sentrale vilkår for klimapolitikken i skog- og arealbrukssektoren
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-09T22:49:39Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200209
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781043345395+0200)/",
+  "respons_dato_tid": "/Date(1781082507936+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345395+0200)/",
+      "respons_dato_tid": "/Date(1781082507936+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -34,14 +34,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781043345395+0200)/",
+      "respons_dato_tid": "/Date(1781082507936+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -59,14 +59,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -84,14 +84,14 @@
       "id": "SIVSTR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -105,7 +105,7 @@
   "innstilling_id": 17457,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200209,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345395+0200)/",
+      "respons_dato_tid": "/Date(1781082507936+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -123,14 +123,14 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -151,3 +151,4 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

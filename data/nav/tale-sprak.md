@@ -1,11 +1,11 @@
-<!-- innholds-hash: c4ec18a5ca012c1ab24a985f9b1b1725573a9b17e1f139fbe9913efa1cd0ccfd -->
+<!-- innholds-hash: 00857960bc65428bb43ba0cd22c3956577033b7270e0fdad704631936f1632a3 -->
 
 # Har vansker med tale og språk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tale-sprak
-- **Sist hentet:** 2026-06-03T03:17:40Z
+- **Sist hentet:** 2026-06-10T12:24:38Z
 
 ## Innhold
 
@@ -73,11 +73,11 @@ Når du har vansker med tale og språk, kan det være du har andre vansker i til
 
 På lenkene nedenfor kan du finne informasjon om hjelpemidler og tilrettelegging hvis du har lese- og skrivevansker, eller kognitive vansker.
 
-Når du ikke får dekket behovet ditt gjennom hjelpemidlene Nav låner ut. De kan det hende du må kjøpe det du trenger selv, og i noen tilfeller kan pengestøtte fra Nav bidra til å dekke hele eller deler av kjøpesummen.
+Når du ikke får dekket behovet ditt gjennom hjelpemidlene Nav låner ut, kan det hende du må kjøpe det du trenger selv. I noen tilfeller kan pengestøtte fra Nav bidra til å dekke hele eller deler av kjøpesummen.
 
 Lenkene nedenfor gir informasjon om noen slike ytelser.
 
-Oppdatert 08.05.2026
+Oppdatert 04.06.2026
 
 
 #### Chat med chatbot
@@ -94,7 +94,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -108,3 +108,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

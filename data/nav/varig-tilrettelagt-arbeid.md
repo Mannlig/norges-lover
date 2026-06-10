@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6c325c8d3ad235fd68dfabb1f684ee0bd8aea5bd69fc3b2a92173aacbff335a2 -->
+<!-- innholds-hash: ef64916c8f161c0ef13e7e0c1a51fdb3ebaf9acdac3ee41e4e497761610f492d -->
 
 # Varig tilrettelagt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-tilrettelagt-arbeid
-- **Sist hentet:** 2026-06-03T02:44:41Z
+- **Sist hentet:** 2026-06-10T11:51:47Z
 
 ## Innhold
 
@@ -74,7 +74,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -84,7 +84,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -95,3 +95,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

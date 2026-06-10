@@ -1,11 +1,11 @@
-<!-- innholds-hash: f6f74184723c9e5ee9dfdcc8b131b44f64a27adc5e1f6ee82ff9a67cd9f1da5b -->
+<!-- innholds-hash: f99d5d04827a064b798bb357d99596fa84f969b842651d62599b3108dc755097 -->
 
 # Har vansker med å huske, planlegge og forstå - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/huske-planlegge
-- **Sist hentet:** 2026-06-03T03:14:51Z
+- **Sist hentet:** 2026-06-10T12:21:53Z
 
 ## Innhold
 
@@ -72,15 +72,7 @@ Ved å følge lenkene under får du informasjon om ulike typer hjelpemidler som 
 - se om du har rett på hjelpemiddelet.
 - finne informasjon om hvordan du går fram for å søke
 - finne lenke til søknadsskjema.
-Det finnes hjelpemidler som gir barn og unge mulighet til lek, trening og aktivisering. Barn og unge under 26 år kan få hjelpemidler til trening og stimulering for å opprettholde og bedre motorisk og kognitiv funksjonsevne.
-
-Hvis du er over 26 år og trenger spesialutviklet utstyr for å kunne drive fysisk aktivitet, kan du søke om aktivitetshjelpemidler for personer over 26 år. Dette er en rammestyrt ordning, og midlene blir oftest bundet opp tidlig på året. Du får avslag på søknaden hvis rammen er brukt opp, og må vente med å søke på nytt til neste år.
-
-Personer med utviklingshemming kan trenge ledsager på sykkel, eller det kan ta lenger tid for barn å lære seg å sykle selv. En tandemsykkel kan for mange være en fin løsning for å kunne være i aktivitet og bli med på tur. Det finnes også andre typer speisalsykler du kan søke om hos Nav hjelpemidler og tilrettelegging. Du kan søke på sykkel som  hjelpemiddel for aktivisering hvis du er under 26 år, eller som aktivtetshjelpemiddel hvis du er over 26.
-
-Kognitive vansker kan utløse vansker med språk, kommunikasjon og tale. Nav hjelpemiddelsentral kan låne ut hjelpemidler for alternative og supplerende kommunikasjonsformer.
-
-Hvis du har kognitive utfordringer kan det hende du har behov for småhjelpemidler eller andre rimelige hjelpemidler som ikke lånes ut av Nav hjelpemiddelsentral. Hvert fjerde år kan du søke om tilskudd til rimelige hjelpemidler for å dekke kjøp av disse hjelpemidlene.
+Når du har kognitive utfordringer finnes det også andre ordninger og hjelpemidler som kan være aktuelle for deg, avhengig av ditt behov. Ved å følge lenkene under kan du lese mer om disse ordningene.
 
 Noen ganger kan små endringer gjøre hverdagen enklere for deg med kognitive vansker. For eksempel kan du tilrettelegge ved å
 
@@ -114,7 +106,7 @@ Hvis du skal søke om hjelpemidler knyttet til arbeid, beskriver du utfordringen
 
 Skjemaet bør fylles ut i samarbeid med arbeidsgiver. Nav hjelpemiddelsentral kan også hjelpe til med dette.
 
-Oppdatert 08.05.2026
+Oppdatert 04.06.2026
 
 
 #### Chat med chatbot
@@ -133,7 +125,7 @@ Svartid er 3 arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -147,3 +139,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

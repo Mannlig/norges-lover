@@ -1,4 +1,4 @@
-<!-- innholds-hash: c125283bd580d598c6c72c38140db34e7eeeb836f1c3396c37cd3c845ba69f3e -->
+<!-- innholds-hash: 69df20c2527df67fce4048de8b14de1b431448b07347ea7c22cea3b349596054 -->
 
 # Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-09T22:49:39Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200256
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781043345489+0200)/",
+  "respons_dato_tid": "/Date(1781082507983+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17461,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200256,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
@@ -47,14 +47,14 @@
       "id": "FARQUR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -79,3 +79,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-09** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

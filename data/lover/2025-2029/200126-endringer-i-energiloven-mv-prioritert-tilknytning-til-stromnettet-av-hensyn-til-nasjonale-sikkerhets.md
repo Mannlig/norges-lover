@@ -1,4 +1,4 @@
-<!-- innholds-hash: 941d78f5094e525366746bdafc61ca16c9edad0a3ba75155ed98f332f9b83836 -->
+<!-- innholds-hash: 6b714f5194cd987bbd94e9e9952e8c7fa05134c57d9b0b3c17c77d7badaef9e2 -->
 
 # Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)
 
@@ -11,25 +11,25 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-09T22:49:39Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200126
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781043345301+0200)/",
+  "respons_dato_tid": "/Date(1781082507874+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 49 L (2025-2026), Innst. 383 L (2025-2026)",
+  "henvisning": "Prop. 49 L (2025-2026), Innst. 383 L (2025-2026), Lovvedtak 82 (2025-2026)",
   "id": 200126,
   "innstilling_id": 17440,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200126,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345301+0200)/",
+      "respons_dato_tid": "/Date(1781082507874+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussaini",
@@ -47,14 +47,14 @@
       "id": "MHU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -75,3 +75,4 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

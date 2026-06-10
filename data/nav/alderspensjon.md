@@ -1,11 +1,11 @@
-<!-- innholds-hash: ff203e0b7972fabcdec7877f2266c66aadf7b86ff2c1a5197dabbdf58dbbdf02 -->
+<!-- innholds-hash: 514d77b88d3ac837214ed429796ed4e6251e940747a6963950363363a2c0b84b -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-06-03T02:46:44Z
+- **Sist hentet:** 2026-06-10T11:53:49Z
 
 ## Innhold
 
@@ -1050,6 +1050,11 @@ Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
+
+#### Økt minstepensjon
+
+I revidert nasjonalbudsjett er det bestemt at satsene for minstepensjon skal øke. Vi har foreløpig ikke informasjon om når satsene vil øke. Vi legger ut informasjon så snart vi vet mer om når utbetalingene vil bli endret.
+
 Minstepensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten, på samme måte som alderspensjon til utbetaling.
 
 Hvis pensjonen din blir regulert slik at den blir lavere enn satsen for minstepensjon, får du et tillegg i pensjonen din slik at du har samme beløp som andre minstepensjonister. Dette tillegget kalles minstenivåtillegg.
@@ -1218,7 +1223,7 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 28.05.2026
+Oppdatert 08.06.2026
 
 
 #### Chat med oss
@@ -1227,7 +1232,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -1237,7 +1242,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -1248,3 +1253,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

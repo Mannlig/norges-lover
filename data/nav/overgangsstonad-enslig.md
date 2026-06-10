@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0cc6fbcc3e98ec2169ed47eee25ebb59fb6c7448d74bbf68814c5255d6f753a1 -->
+<!-- innholds-hash: 19f4cf190607b16ec594aaefbf0da833cdbe7de75ffae902aa987146280f60bc -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist hentet:** 2026-06-03T03:23:54Z
+- **Sist hentet:** 2026-06-10T12:30:53Z
 
 ## Innhold
 
@@ -184,9 +184,9 @@ Full overgangsstønad er 307 235 kroner, og reguleres 1. mai hvert år. Nye sat
 
 Dersom du ikke har inntekt, kan du få full overgangsstønad. Det vil si 25 603 kroner i måneden før skatt.
 
-Dersom månedsinntekten din ganget med 12 er over 715 000 kroner før skatt, vil du ikke få utbetalt overgangsstønad.
+Dersom månedsinntekten din ganget med 12 er over 751 000 kroner før skatt, vil du ikke få utbetalt overgangsstønad.
 
-Hvis du tjener 5 423 kroner i måneden eller mer før skatt, reduserer vi overgangsstønaden din med 45 øre for hver krone du tjener over dette.
+Hvis du tjener 5 689 kroner i måneden eller mer før skatt, reduserer vi overgangsstønaden din med 45 øre for hver krone du tjener over dette.
 
 Alt du tjener tar vi med i beregningen vår. Får du stønader fra Nav, er også disse med i beregningen på samme måte som arbeidsinntekt:
 
@@ -525,7 +525,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -535,7 +535,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -546,3 +546,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

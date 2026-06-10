@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8c87109f21ccafb4cf05189f7b56d83fd55b4e07154cc816335e1d131742b321 -->
+<!-- innholds-hash: 463031327b5b519debc9ab304c1bb4eb87290be7d9ad03a56b2a52217f11ebfc -->
 
 # Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)
 
@@ -11,25 +11,25 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-09T22:49:39Z
+- **Sist hentet:** 2026-06-10T09:50:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200334
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781043345489+0200)/",
+  "respons_dato_tid": "/Date(1781082507983+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 101 S (2025-2026)",
+  "henvisning": "Prop. 101 S (2025-2026), Innst. 449 S (2025-2026)",
   "id": 200334,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17529,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "respons_dato_tid": "/Date(1781082070416+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200334,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781043345489+0200)/",
+      "respons_dato_tid": "/Date(1781082507983+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -47,14 +47,14 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781002818599+0200)/",
+        "respons_dato_tid": "/Date(1781046018514+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780959617033+0200)/",
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -63,7 +63,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1780610400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
   "status": 2,
   "tittel": "Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)",
   "type": 1
@@ -75,3 +75,4 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
