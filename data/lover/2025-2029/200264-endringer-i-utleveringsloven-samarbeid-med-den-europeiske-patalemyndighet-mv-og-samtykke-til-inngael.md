@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0cd6f4c8f0906719a9e723d5ae924843bdefdc28794d22ab4bfe63b0c1d3b73a -->
+<!-- innholds-hash: c083209ad526984190ef82837a3f6a0aae66134bb2bba69b3bec30b7c5ad2f31 -->
 
 # Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T09:50:48Z
+- **Sist hentet:** 2026-06-10T15:33:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200264
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781082507983+0200)/",
+  "respons_dato_tid": "/Date(1781104348602+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17488,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781082070416+0200)/",
+    "respons_dato_tid": "/Date(1781103724893+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200264,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781082507983+0200)/",
+      "respons_dato_tid": "/Date(1781104348602+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -47,7 +47,7 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781046018514+0200)/",
+        "respons_dato_tid": "/Date(1781089219165+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -79,4 +79,5 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-09** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

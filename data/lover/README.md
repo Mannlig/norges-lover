@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-10 13:32 UTC*
+*Sist oppdatert: 2026-06-10 19:10 UTC*
 
-**Antall dokumenter:** 377
+**Antall dokumenter:** 378
 
 ## Innhold
 
@@ -385,6 +385,7 @@ Stortinget
 - [Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)](2025-2029/200334-endringar-i-statsbudsjettet-2026-under-helse-og-omsorgsdepartementet-som-folgje-av-endra-takstar-for.md)
 - [Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar](2025-2029/200335-regulering-av-pensjonar-i-2026-og-inntektstilhove-for-pensjonistar.md)
 - [Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)](2025-2029/200336-endringar-i-statsbudsjettet-2026-under-finansdepartementet-og-digitaliserings-og-forvaltningsdeparte.md)
+- [Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor](2025-2029/200337-riksrevisjonens-undersokelse-av-myndighetenes-arbeid-med-a-sikre-effektiv-ressursbruk-i-offentlig-se.md)
 - [Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre](2025-2029/200338-riksrevisjonen-si-undersoking-av-kommunale-helse-og-omsorgstenester-til-eldre.md)
 - [Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand](2025-2029/200339-representantforslag-fra-stortingsrepresentantene-kathy-lie-mirell-hoyer-berntsen-og-anne-lise-gjerst.md)
 - [Riksrevisjonens årsmelding 2025](2025-2029/200340-riksrevisjonens-arsmelding-2025.md)
