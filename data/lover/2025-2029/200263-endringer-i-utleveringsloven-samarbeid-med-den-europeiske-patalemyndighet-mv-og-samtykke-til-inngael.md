@@ -1,4 +1,4 @@
-<!-- innholds-hash: cdbfcea986bc8dee7597dbb68e0adfd9799db48f3c87a82c7c064ed575d02780 -->
+<!-- innholds-hash: 838fe23e4543f267422174ca873c2b0c2dc5087c4b983da714f1aff66858818b -->
 
 # Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996
 
@@ -8,56 +8,28 @@
 - **Sak-ID:** 200263
 - **Type:** 2
 - **Korttittel:** Samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996
-- **Status:** 1
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200263
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646621889+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780646621968+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 11,
-      "id": 141,
-      "navn": "Politi og påtalemyndighet",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780646621968+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 166,
-      "navn": "Traktater",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780646621968+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 173,
-      "navn": "Eu/eøs",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 63 LS (2025-2026), Innst. 366 S (2025-2026)",
   "id": 200263,
   "innstilling_id": 17444,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -66,7 +38,7 @@
   "sak_fremmet_id": 200263,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646621968+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -75,14 +47,14 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -92,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996",
   "type": 2
 }
@@ -106,3 +78,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-09** Innhold endret (se git-historikk for diff)

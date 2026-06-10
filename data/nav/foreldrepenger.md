@@ -1,11 +1,11 @@
-<!-- innholds-hash: 91cfa88143891be104d5dd259c12661209ca5e6691e6c9155fbb38db9afcd1e5 -->
+<!-- innholds-hash: f7f8eb0bf580578af89f2b49a6f6866adce95be365999e7610278349f25ebd8f -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
-- **Sist hentet:** 2026-06-02T19:47:06Z
+- **Sist hentet:** 2026-06-10T05:09:16Z
 
 ## Innhold
 
@@ -145,6 +145,12 @@ Disse inntektene teller med som inntekt når vi vurderer om du har rett til fore
 - ventelønn
 - sluttpakke
 - lønn fra arbeidsgiver under videre- eller etterutdanning
+Uregelmessige utbetalinger av lønn teller kun som opptjening den måneden de blir utbetalt, selv om du jobber hver måned. Det betyr at hvis du får lønn uregelmessig eller etterskuddsvis fra arbeidsgiver eller oppdragsgiver, så kan det påvirke opptjeningen din.
+
+Lønn er ofte utbetalt måneden etter at arbeidet er utført. Hvis det står i arbeidsavtalen din at lønnen utbetales etterskuddsvis, som en fast og regelmessig ordning over tid, vil den kunne telle som opptjening for måneden arbeidet er utført.
+
+Er det lengre tidsrom mellom utført arbeid og utbetaling av lønn, må dette være en fast praksis som har pågått fast og regelmessig over lang tid, for at lønnen skal telle som opptjening.
+
 Dere kan velge å ta ut foreldrepengene sammenhengende, dele de opp eller kombinere de med arbeid. Dere må ta ut foreldrepengene før barnet fyller 3 år, eller 3 år etter omsorgsovertakelse ved adopsjon. Venter dere nytt barn må dere ta ut foreldrepengene før ny foreldrepengeperiode starter.
 
 Dere kan velge hvor lang periode med foreldrepenger dere ønsker:
@@ -1377,7 +1383,7 @@ Du må også melde fra til Nav om du flytter tilbake til Norge.
 
 Hvis barnet ditt dør i foreldrepengeperioden kan du ha rett til foreldrepenger. Du kan lese mer om rettighetene dine på siden lenket nedenfor.
 
-Oppdatert 28.04.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
@@ -1407,3 +1413,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

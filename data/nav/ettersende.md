@@ -1,11 +1,11 @@
-<!-- innholds-hash: 608349f0e196ff42d2dcf26c66646a74ee52bf9f99d28d15c9d251dcbe9b225c -->
+<!-- innholds-hash: 055aabd1a2177f36bc5cf3c6cf98979009f3278f672086fa3e303a5bf9665892 -->
 
 # Ettersende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ettersende
-- **Sist hentet:** 2026-06-02T18:39:39Z
+- **Sist hentet:** 2026-06-10T04:01:51Z
 
 ## Innhold
 
@@ -116,7 +116,7 @@ Forenklet saksbehandling i Nav for å bestille enkle hjelpemidler som ikke kreve
 
 #### Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 #### Bil og spesialutstyr
@@ -202,11 +202,6 @@ Forsikring for å få bedre dekning når du blir sykmeldt.
 #### Forstørrelses­hjelpemidler
 
 Hvis du har en synsnedsettelse, kan ulike situasjoner og behov tilrettelegges med  forskjellige hjelpemidler for forstørring.
-
-
-#### Frivillig medlemskap hvis du skal jobbe eller oppholde deg i Norge
-
-Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
 
 #### Frivillig yrkesskadetrygd
@@ -704,6 +699,11 @@ Gir bedre fremkommelighet og større muligheter i hverdagen.
 Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
 
 
+#### Søk om frivillig medlemskap under opphold i Norge
+
+Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
+
+
 #### Talemaskiner, enkle
 
 Gir mulighet for korte uttrykk og beskjeder som kan gi støtte i lek og samspill.
@@ -906,3 +906,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 
 - **2026-05-15** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

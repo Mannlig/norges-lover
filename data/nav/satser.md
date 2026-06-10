@@ -1,11 +1,11 @@
-<!-- innholds-hash: 16620bca26c7a3d72f3c1195e08cd19885466b48138c168ef9cf0e099c0bbb03 -->
+<!-- innholds-hash: e60cc14017364f9623cc91ea3f6488c3db44aef880d4e380f3be405faba49664 -->
 
 # Satser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/satser
-- **Sist hentet:** 2026-05-15T09:11:05Z
+- **Sist hentet:** 2026-06-10T04:27:55Z
 
 ## Innhold
 
@@ -23,7 +23,7 @@ Se også
 #### Velg område
 
 
-### Viser 67 av 67
+### Viser 69 av 69
 
 
 #### Alderspensjon
@@ -63,7 +63,7 @@ Pengestøtte når du har barn under 18 år.
 
 #### Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 #### Bil og spesialutstyr
@@ -291,6 +291,11 @@ Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
 Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
 
 
+#### Søk om frivillig medlemskap under opphold i Norge
+
+Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
+
+
 #### Tilleggsstønader
 
 Støtte til utgifter når du gjennomfører arbeidsrettet tiltak som du har avtalt med Nav.
@@ -341,6 +346,11 @@ En pengestøtte du kan få når du er i et arbeidsmarkedstiltak.
 Lager motlyd for å dempe tinnitus (også kalt øresus) når det er stille eller når du skal sove.
 
 
+#### Trygdeavgift
+
+Er du medlem eller har rettigheter i folketrygden, må du som regel betale trygdeavgift. Med trygdeavgiften bidrar du til finansiering av folketrygden.
+
+
 #### Uføretrygd
 
 Skal sikre deg inntekt når inntektsevnen din er varig redusert på grunn av sykdom eller skade.
@@ -367,3 +377,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6110c4a6b5daeed50745d7f63607495691679cd872c27e31c9d4124fd23ee010 -->
+<!-- innholds-hash: 3d9b044f2ea970de68fc110ce6673112fb47bced9bfbe7bceadc65561d77dfe7 -->
 
 # Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg
 
@@ -8,34 +8,24 @@
 - **Sak-ID:** 200118
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg
-- **Status:** 1
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200118
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622423+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 61,
-      "id": 63,
-      "navn": "Sykehus",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -44,14 +34,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -60,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -69,14 +59,14 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -90,7 +80,7 @@
   "innstilling_id": 17403,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -99,7 +89,7 @@
   "sak_fremmet_id": 200118,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -108,14 +98,14 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -125,7 +115,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg",
   "type": 2
 }
@@ -142,3 +132,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-09** Innhold endret (se git-historikk for diff)

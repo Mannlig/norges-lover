@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4d199c7391fc1fbc51261e42222baafeece345b0310883adc360c2ca90997d0f -->
+<!-- innholds-hash: bce1f14a3af252a1c4cf10da7ac903d362b67444a5eab3a45208a1bf225378db -->
 
 # Søker jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soker-jobb
-- **Sist hentet:** 2026-06-02T19:09:50Z
+- **Sist hentet:** 2026-06-10T04:32:02Z
 
 ## Innhold
 
@@ -24,61 +24,23 @@ Tips til deg som er jobbsøker. Se hvor du kan finne ledige jobber og få råd o
 
 På
 
-Start med å registrere CV-en din. Hvis du er registrert som arbeidssøker hos Nav, kan Nav hjelpe deg med å komme i kontakt med aktuelle arbeidsgivere.
+Du kan stille inn søk på jobber som passer for deg, og få varsel på e-post når nye stillinger passer søket ditt.
 
-Du kan stille inn søk på jobber som passer for deg og få varsel på e-post når nye stillinger passer søket ditt.
-
-Få tips til hvor og hvordan du finner ledige jobber.
-
-
-#### Kom i gang som jobbsøker
+Flere tips til hvor og hvordan du finner ledige jobber:
 
 Få tips til hvordan du kan komme i gang med jobbsøkingen så raskt som mulig.
 
+Vi har samlet de beste tipsene til deg når du skal søke på en stilling.
 
-#### Søknaden og CV-en
-
-Hvis søknaden og CV-en din får deg på intervju, har du gjort mye riktig.
-
-
-#### Har du lite arbeidserfaring?
-
-Hvis du er ung eller har stått utenfor arbeidslivet lenge, har du kanskje ikke så mye arbeidserfaring å fylle ut på CV-en din. Det er allikevel mye du kan skrive på CV-en.
-
-Hva er du er god på? Arbeidserfaring kan være mer enn formelle jobber. Har du erfaringer som kan være aktuelle for jobber du ønsker deg? Snakker eller skriver du andre språk, er du flink på data, har du tatt spesielle kurs? Finn ut hvilken informasjon som er viktig for arbeidsgiveren.
-
-
-#### Ungdomsgaranti for deg mellom 16 og 30 år
-
-Ungdomsgarantien i Nav er tilbud om tett oppfølging og en fast kontaktperson så lenge det er nødvendig. Garantien gjelder unge fra fylte 16 år og fram til fylte 30 år som trenger hjelp fra Nav til å fullføre utdanning eller komme i jobb.
-
-
-#### Oppfølging og tjenester til ungdom under 18 år
-
-Fra du er 16 år, kan du få hjelp og oppfølging fra Nav for å fullføre utdanning og komme i arbeid. Fram til du er myndig (18 år), må du ha
-
-
-#### Huskeliste når du søker jobb
-
-Har du funnet en jobb du vil søke på? Vi har samlet de beste tipsene til deg.
-
-
-#### Intervjuet
+Du bør tilpasse både søknad og CV til jobben du skal søke på. Hvis søknaden og CV-en din får deg på intervju, har du gjort mye riktig.
 
 Jobbintervjuet kan virke skummelt. Er du godt forberedt, senker du skuldrene.
 
-
-#### Hverdagen som jobbsøker
-
 Det kan være krevende å holde motivasjonen oppe. Det hjelper å ha en plan.
 
-Nav har kurs, arbeidstrening og andre tilbud for å hjelpe deg i jobb.
+Nav har kurs, arbeidstrening og andre tilbud for å hjelpe deg.
 
-Har du blitt arbeidsledig, kan du ha rett til pengestøtte og hjelp til å komme i arbeid. Først må du
-
-Dagpenger sikrer deg inntekt når du er arbeidsledig. For å få dagpenger, må du være aktiv jobbsøker.
-
-Hvis du er arbeidssøker eller får dagpenger, kan du ha rett til støtte til utgifter du har i forbindelse med utdanning eller jobbsøking.
+Ungdomsgarantien i Nav er tilbud om tett oppfølging og en fast kontaktperson så lenge det er nødvendig. Garantien gjelder unge fra fylte 16 år og fram til fylte 30 år som trenger hjelp fra Nav til å fullføre utdanning eller komme i jobb.
 
 Hvis du har gyldig arbeidstillatelse, kan Nav hjelpe deg med informasjon, veiledning og ulike tiltak for å komme i jobb.
 
@@ -86,10 +48,13 @@ Du kan ha rett til norskopplæring. For å få mer informasjon om norskopplæri
 
 Det er kommunen som har ansvaret for å bosette og integrere nyankomne flyktninger, i noen kommuner ligger denne tjenesten i Nav-kontoret.
 
+Som utenlandsk arbeidstaker i Norge kan du også ha rett til pensjonsopptjening og andre støtteordninger.
 
-#### Er du utenlandsk arbeidstaker i Norge?
+Har du blitt arbeidsledig, kan du ha rett til pengestøtte og hjelp til å komme i arbeid. Først må du
 
-Da kan du ha rett til pensjonsopptjening og andre støtteordninger.
+Dagpenger sikrer deg inntekt når du er arbeidsledig. For å få dagpenger, må du være aktiv jobbsøker.
+
+Hvis du er arbeidssøker eller får dagpenger, kan du ha rett til støtte til utgifter du har i forbindelse med utdanning eller jobbsøking.
 
 Hvis du vil søke jobb i EU/EØS og Sveits, kan Nav hjelpe deg gjennom EURES-samarbeidet.
 
@@ -99,7 +64,7 @@ Har du problemer med å betale nødvendige utgifter? Du kan søke om økonomisk 
 
 Vi kan også gi råd og veiledning om økonomien din. Målet med rådgivningen er at du skal bli i stand til å styre økonomien din selv. Tjenesten er gratis.
 
-Oppdatert 09.02.2026
+Oppdatert 09.06.2026
 
 
 #### Chat med oss
@@ -129,3 +94,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

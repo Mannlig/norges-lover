@@ -1,4 +1,4 @@
-<!-- innholds-hash: 121c8f8211d1326d1ede99c2d047056f29f4c6479177414e065bc63e65ca03aa -->
+<!-- innholds-hash: 4f1b4dd5332be365f5a14b7bb7409a1eb8a31fe9249ce68701e6f57b0a823b2b -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200332
 - **Type:** 2
 - **Korttittel:** Representantforslag regulering av prediksjonsmarkeder og styrket tilsyn
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200332
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -34,14 +34,14 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -59,14 +59,14 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -84,14 +84,14 @@
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -104,12 +104,17 @@
   "id": 200332,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
+    "versjon": "1.6",
+    "id": "FAMKULT",
+    "navn": "Familie- og kulturkomiteen"
+  },
   "korttittel": "Representantforslag regulering av prediksjonsmarkeder og styrket tilsyn",
   "sak_fremmet_id": 200332,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1780264800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1780610400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn",
   "type": 2
 }
@@ -120,3 +125,4 @@
 ## Endringshistorikk
 
 - **2026-06-02** Første gang hentet
+- **2026-06-09** Innhold endret (se git-historikk for diff)

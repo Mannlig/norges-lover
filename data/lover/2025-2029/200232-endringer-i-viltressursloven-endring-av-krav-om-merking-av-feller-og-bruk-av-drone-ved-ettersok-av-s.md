@@ -1,4 +1,4 @@
-<!-- innholds-hash: c086ee7ebb626ca2a0ac8d99c2d70a0c0c2c3740a48f57bf2de7559e49ff70eb -->
+<!-- innholds-hash: 25d226ee7e99251c923bbf2088794bcd1540a5bb3f4bd88359769fce2eae9f07 -->
 
 # Endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 200232
 - **Type:** 3
 - **Korttittel:** Endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)
-- **Status:** 1
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200232
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646621874+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17453,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200232,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646621874+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -47,14 +47,14 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -64,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)",
   "type": 3
 }
@@ -77,3 +77,4 @@
 - **2026-06-04** Første gang hentet
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-09** Innhold endret (se git-historikk for diff)

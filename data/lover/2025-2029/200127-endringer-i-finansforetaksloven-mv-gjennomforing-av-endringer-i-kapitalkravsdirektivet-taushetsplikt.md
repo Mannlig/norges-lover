@@ -1,4 +1,4 @@
-<!-- innholds-hash: 83c895945884ef9b555ba92123dd19a1ba412d8096745e59ca297555a7c1382a -->
+<!-- innholds-hash: f3996985d49d3d4ac9a55a134b43a6896acd99ef0d06e8eca99f7012c0f50fa0 -->
 
 # Endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)
 
@@ -8,56 +8,28 @@
 - **Sak-ID:** 200127
 - **Type:** 3
 - **Korttittel:** Endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)
-- **Status:** 7
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200127
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646621749+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780646621749+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 187,
-      "id": 87,
-      "navn": "Banker",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780646621749+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 173,
-      "navn": "Eu/eøs",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780646621749+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 187,
-      "id": 187,
-      "navn": "Finanser",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 39 L (2025-2026), Innst. 393 L (2025-2026), Lovvedtak 69 (2025-2026)",
   "id": 200127,
   "innstilling_id": 17487,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -66,7 +38,7 @@
   "sak_fremmet_id": 200127,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646621749+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -75,14 +47,14 @@
       "id": "TSTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -92,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 7,
+  "status": 2,
   "tittel": "Endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)",
   "type": 3
 }
@@ -105,3 +77,4 @@
 - **2026-06-04** Første gang hentet
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-09** Innhold endret (se git-historikk for diff)

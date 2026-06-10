@@ -1,4 +1,4 @@
-<!-- innholds-hash: 402f5a86d2e7f7ea967171da9aa02c4753dc68f1278175a2cd0388b21ca0d231 -->
+<!-- innholds-hash: c04a9c455233479644a14242b735a8c59a2a365974ccb429e515af1f953c8a6c -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,16 +6,14 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-03T04:37:05Z
+- **Sist hentet:** 2026-06-10T06:37:56Z
 
 ## Innhold
 
 
 ## Psykososialt arbeidsmiljø
 
-Alle virksomheter har et psykososialt arbeidsmiljø. Et godt psykososialt arbeidsmiljø har betydning for arbeidstakernes helse, sikkerhet og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter.
-
-Arbeidsgiveren har hovedansvaret for at arbeidsmiljøet er fullt forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og det systematiske HMS-arbeidet. Her kan dere finne ut hva psykososialt arbeidsmiljø er, hvilke krav regelverket stiller og hvordan dere bør jobbe forebyggende med det psykososiale arbeidsmiljøet.
+Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter. Arbeidsgiver har ansvaret for at arbeidsmiljøet er trygt og forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og HMS-arbeid.
 
 
 ### Webinar: Hva er psykososialt arbeidsmiljø?
@@ -248,44 +246,28 @@ Les mer om hvordan dere kan arbeide systematisk med kartlegging, risikovurdering
 ### Regelverk
 
 
-### Kommende kurs og webinar
-
-
-#### Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – Hva betyr det for deg og din arbeidsplass?
-
-Østensjøveien 32, 0667 Oslo
-
-
-#### Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – Hva betyr det for deg og din arbeidsplass?
-
-Østensjøveien 32, 0667 Oslo
-
-
 ### Artikler om psykososialt arbeidsmiljø
 
 
-#### Innlegg: Stressmestring er ikke løsningen på et dårlig arbeidsmiljø
+#### Innlegg: Sykehjem med sykere pasienter stiller nye krav til arbeidshverdagen
 
-Hvis ansatte bare blir robuste nok, ordner arbeidsmiljøet seg selv. Det er i hvert fall lett å få det inntrykket når man leser enkelte kursannonser, LinkedIn-innlegg og råd om psykososialt arbeidsmiljø.
-
-Lesetid: 3 min
-
-
-#### Innlegg: Når leger blir utbrente, må vi se på arbeidshverdagen
-
-Legers risiko for utbrenthet avgjøres i stor grad av hvordan arbeidet er organisert, ikke av den enkeltes robusthet. Der det finnes en arbeidsgiver, har virksomheten et tydelig ansvar for å jobbe systematisk og forebyggende med det psykososiale arbeidsmiljøet.
+Ansatte i eldreomsorgen beskriver en arbeidshverdag der de løper mellom oppgaver, mangler tid til oppfølging og går hjem med dårlig samvittighet.
 
 Lesetid: 3 min
 
 
-#### Innlegg: HMS-arbeidet må ta utgangspunkt i arbeidskvardagen til sjukepleiarane
+#### Innlegg: Når sykepleiere føler de ikke strekker til, er det også et arbeidsmiljøspørsmål
 
-Nesten seks av ti sjukepleiarar seier at arbeidsmiljøet ikkje blir kartlagt slik det skal. Utan systematisk oppfølging blir det vanskeleg å førebygge belastning og sikre at fleire kan stå i jobben over tid.
+«Jeg har ikke tid til å være den sykepleieren jeg vil være». Det er en setning som gjør inntrykk.
 
-Lesetid: 3 min
+Lesetid: 2 min
 
 
-### Flere artikler om psykososialt arbeidsmiljø
+#### Innlegg: Vi må snakke mer om hva som holder folk i arbeid
+
+Vi snakker mye om hva som skjer
+
+Lesetid: 2 min
 
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
@@ -319,3 +301,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

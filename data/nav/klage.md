@@ -1,11 +1,11 @@
-<!-- innholds-hash: c3b9abaf782e185938a16c23d66017e4131b307e8ca93505412860caba168a9f -->
+<!-- innholds-hash: b20728e694125377923c050d7a6865a496a2423596b914a70d45c9c85833749e -->
 
 # Klage og anke - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/klage
-- **Sist hentet:** 2026-06-02T18:54:51Z
+- **Sist hentet:** 2026-06-10T04:17:14Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Pengestøtte når du har barn under 18 år.
 
 #### Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 #### Bil og spesialutstyr
@@ -129,11 +129,6 @@ Pengestøtte til barn under 18 år når behovet for pleie og tilsyn er vesentlig
 #### Forsikring – sykepenger
 
 Forsikring for å få bedre dekning når du blir sykmeldt.
-
-
-#### Frivillig medlemskap hvis du skal jobbe eller oppholde deg i Norge
-
-Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
 
 #### Frivillig yrkesskadetrygd
@@ -436,6 +431,11 @@ Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
 Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
 
 
+#### Søk om frivillig medlemskap under opphold i Norge
+
+Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
+
+
 #### Tilbakebetaling av forskudd på dagpenger
 
 Her får du informasjon om hvordan tilbakebetalingen av forskudd på dagpenger vil skje.
@@ -553,3 +553,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 
 - **2026-05-15** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

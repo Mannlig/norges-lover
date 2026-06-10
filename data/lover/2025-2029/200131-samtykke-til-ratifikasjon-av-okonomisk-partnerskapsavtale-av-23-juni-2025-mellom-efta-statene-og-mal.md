@@ -1,4 +1,4 @@
-<!-- innholds-hash: ccacdd1ced58e53604c22b9d5dedcd707f72dca47de5bea9c4ac3feed1fd126a -->
+<!-- innholds-hash: f15579d4c8729cf492229dba49d8334bb7106afc93627e43fd52353383f6bb7e -->
 
 # Samtykke til ratifikasjon av økonomisk partnerskapsavtale av 23. juni 2025 mellom EFTA-statene og Malaysia
 
@@ -8,47 +8,28 @@
 - **Sak-ID:** 200131
 - **Type:** 2
 - **Korttittel:** Samtykke til ratifikasjon av økonomisk partnerskapsavtale av 23. juni 2025 mellom EFTA-statene og Malaysia
-- **Status:** 1
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Sist hentet:** 2026-06-09T22:49:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200131
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622297+0200)/",
+  "respons_dato_tid": "/Date(1781043345489+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780646622312+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 113,
-      "id": 99,
-      "navn": "Utenrikshandel",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780646622312+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 166,
-      "navn": "Traktater",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 48 S (2025-2026), Innst. 409 S (2025-2026)",
   "id": 200131,
   "innstilling_id": 17475,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
+    "respons_dato_tid": "/Date(1781042847352+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -57,7 +38,7 @@
   "sak_fremmet_id": 200131,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622312+0200)/",
+      "respons_dato_tid": "/Date(1781043345489+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Giske",
@@ -66,14 +47,14 @@
       "id": "TG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
+        "respons_dato_tid": "/Date(1781002818599+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
+        "respons_dato_tid": "/Date(1780959617033+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -83,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Samtykke til ratifikasjon av økonomisk partnerskapsavtale av 23. juni 2025 mellom EFTA-statene og Malaysia",
   "type": 2
 }
@@ -99,3 +80,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-09** Innhold endret (se git-historikk for diff)

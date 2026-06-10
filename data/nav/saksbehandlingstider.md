@@ -1,11 +1,11 @@
-<!-- innholds-hash: c5f8c6a9b212dafce7e8bb114e84d911a952abb51d527f895bb3c1945c9c0b3d -->
+<!-- innholds-hash: 331dbef81cfd38f9826e11e17587ecde0df25b62ccf26b9a64c64a36f668291c -->
 
 # Saksbehandlingstider - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider
-- **Sist hentet:** 2026-05-15T09:10:35Z
+- **Sist hentet:** 2026-06-10T04:27:11Z
 
 ## Innhold
 
@@ -99,7 +99,7 @@ Pengestøtte når du har barn under 18 år.
 
 #### Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 #### Bil og spesialutstyr
@@ -723,3 +723,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)

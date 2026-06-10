@@ -1,11 +1,11 @@
-<!-- innholds-hash: 376d3839bfb5de4bae30f9b34924508509188cbc0d0dbf4a05a6f6421f4ea9a0 -->
+<!-- innholds-hash: 8285d303c5cc011b053867ffb3b56424882c3d430c1319c850ab32cdc11d869d -->
 
 # Omstillingsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omstillingsstonad
-- **Sist hentet:** 2026-06-02T20:17:33Z
+- **Sist hentet:** 2026-06-10T05:39:31Z
 
 ## Innhold
 
@@ -355,7 +355,7 @@ Kan du ikke dokumentere inntekten din, vil du uansett omfattes av aktivitetsplik
 
 Dokumentasjon fra utlandet kan sendes til
 
-Nav familie og Pensjonsytelser
+Nav familie- og pensjonsytelser
 
 Omstillingsstønaden vil reduseres på samme måte som om du skulle hatt norsk inntekt.
 
@@ -739,7 +739,7 @@ Les mer på
 
 Du må som hovedregel være
 
-Oppdatert 27.02.2026
+Oppdatert 09.06.2026
 
 
 #### Chat med oss
@@ -769,3 +769,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4b47c2162ff5a48ddd7077ddf50762808725e5905cd1d05f18260cb5d2d63f6f -->
+<!-- innholds-hash: ed18376bc49f8bc07c2cb04bc23e7bdda68ea0c510922b0e01650702a6411b72 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist hentet:** 2026-05-22T09:44:25Z
+- **Sist hentet:** 2026-06-10T04:39:07Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Ser du etter et spesifikt skjema? Se oversikt over alle
 #### Velg område
 
 
-### Viser 226 av 226
+### Viser 228 av 228
 
 For å kunne være i fysisk aktivitet.
 
@@ -36,6 +36,8 @@ Alderspensjon fra folketrygden (Nav) sikrer at du har en inntekt når du er pen
 Etterligner den delen av ansiktet som mangler eller er skadet.
 
 Et tilbud for deg som trenger støtte for å skaffe og beholde en jobb.
+
+Det er egne regler som gjelder hvis du jobber eller oppholder deg på Svalbard.
 
 Trenger du støtte for å komme i jobb eller fortsette i jobben du har, kan du få arbeidsrettet oppfølging fra Nav uten å være arbeidssøker.
 
@@ -77,7 +79,7 @@ Pengestøtte når du har barn under 18 år.
 
 Forenklet saksbehandling i Nav for å bestille enkle hjelpemidler som ikke krever individuelle tilpasninger.
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 Gir økonomisk støtte til bil, tilpasning av bil og spesialutstyr til bil.
 
@@ -128,8 +130,6 @@ Hvis du mottar fosterhjemsgodtgjørelse, må du melde fra til Nav hvis du søker
 Du kan få sykepenger i inntil 12 uker mens du søker ny jobb når alle muligheter for å komme tilbake til arbeidsplassen din er forsøkt.
 
 Nav kan gi informasjon og kommentarer i saken din til journalister hvis du fritar oss fra taushetsplikten.
-
-Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
 Et frivillig skattetrekk vil si at du ber Nav om å trekke mer skatt enn det skattekortet ditt viser. Det blir også kalt ekstra skattetrekk.
 
@@ -250,6 +250,8 @@ Praktisk hjelp, veiledning eller opplæring når du trenger hjelp til å mestre 
 Hjelp fra Nav til å finne et midlertidig botilbud når du ikke har et sted å sove og oppholde deg det neste døgnet.
 
 Tilskudd til arbeidsgiveren din når du trenger å øke mulighetene dine til å få en jobb med ordinær lønn.
+
+Hvis du oppholder deg i Norge i inntil 12 måneder uten å jobbe, er du som hovedregel ikke medlem i folketrygden. Hvilke trygderegler som gjelder for deg er avhengig av hvor du kommer fra og situasjonen din.
 
 Et tilbud til deg som har psykiske helseutfordringer eller sammensatte utfordringer.
 
@@ -379,6 +381,8 @@ Gir bedre fremkommelighet og større muligheter i hverdagen.
 
 Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
 
+Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
+
 Få hjelp fra Nav gjennom EURES-samarbeidet når du vil søke jobb i EU/EØS og Sveits.
 
 Hvis du har bodd eller jobbet i et annet EU/EØS-land, Storbritannia eller Sveits, kan du ha rett til pensjon fra det landet.
@@ -487,3 +491,4 @@ Alle som har fått utbetalinger fra Nav får årsoppgave på starten av året.
 
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

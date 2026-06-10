@@ -1,11 +1,11 @@
-<!-- innholds-hash: d81465865da5266ace27cee4b1fd2fbf3cd9817491efac9c7d7f5c63567387ec -->
+<!-- innholds-hash: 5933b2bd094ba9d58567cd07a8500630b50b10c5c926a33899aaa2bd1033c5b8 -->
 
 # Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
-- **Sist hentet:** 2026-06-02T20:04:42Z
+- **Sist hentet:** 2026-06-10T05:26:32Z
 
 ## Innhold
 
@@ -250,7 +250,7 @@ Når Nav har fått søknaden din, må vi som regel innhente opplysninger fra bos
 
 I noen land er det én sentral institusjon som svarer på slike henvendelser, mens det i andre land blir gjort på regionalt eller lokalt nivå. Derfor må du oppgi hvilken kommune og hvilken region, fylke, delstat eller lignende familien din bor i.
 
-Oppdatert 26.05.2026
+Oppdatert 09.06.2026
 
 
 #### Chat med oss
@@ -280,3 +280,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)

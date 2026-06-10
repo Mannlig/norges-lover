@@ -1,4 +1,4 @@
-<!-- innholds-hash: f204539f8d4e2ca4f14efc8922028b26a7fcfc66b5b9800d5e9318033dfb33eb -->
+<!-- innholds-hash: 2a22921327d81e359972e35d1f08ab17372db7a3024b104c50ea40c62306709a -->
 
 # Forhåndsmelding i bygg og anlegg
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/hms-i-bygg-og-anlegg/forhandsmelding-i-bygg-og-anlegg/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-03T05:11:35Z
+- **Sist hentet:** 2026-06-10T07:12:46Z
 
 ## Innhold
 
@@ -23,26 +23,63 @@ Dere skal sende inn forhåndsmelding for alle arbeidsplasser med midlertidig ell
 
 ### Send inn forhåndsmelding
 
+Altinn endrer i 2026 tilgangsstyringen til skjema og tjenester. De gamle Altinn-rollene fases ut i løpet av året.
 
-#### Roller som har tilgang til skjemaer i Altinn
+For dette skjemaet er det nå to måter dere kan gi personer i virksomheten deres tilgang:
 
-For å kunne sende skjema og lese post fra oss, kan dere ha disse rollene i Altinn:
+- Gi fullmakt til tilgangspakker i Altinn
+- Gi fullmakt til enkelttjenester i Altinn
 
-- Dere kan ha rollen «utfyller/innsender» for å fylle ut og sende skjema.
-- Dere kan ha rollen «post/arkiv» for å lese digital post.
+#### Tilgangspakker i Altinn
 
-#### Gi rettigheter eller tilgang til andre
+For å få tilgang til skjema i Altinn, må den personen som skal sende inn skjemaet for virksomheten ha riktig fullmakt gjennom en tilgangspakke i Altinn.
 
-Personer som har rollene «hovedadministrator» eller «tilgangsstyring» kan
+For dette skjemaet må den som skal sende inn skjemaet ha én av følgende tilgangspakker under fullmaktsområdet «Bygg, anlegg og eiendom» i Altinn:
 
-- gi rollene «utfyller/innsender» eller «post/arkiv» til andre i virksomheten
-- gi tilgang til et spesifikt skjema eller en enkelttjeneste
+- «Byggesøknad»
+- «Oppføring av bygg og anlegg»
+Merk at vedkommende som får fullmakt gjennom disse tilgangspakkene, også vil få tilgang til andre tjenester fra andre etater på samme tilgangspakke. Hvis dere ikke ønsker dette, må dere heller gi fullmakt gjennom enkelttjenester (se nedenfor).
 
-#### Få tilgang til et spesifikt skjema eller enkelttjeneste
 
-Hvis personen som skal sende inn skjemaet, ikke har rollene beskrevet over, kan de få tilgang til et spesifikt skjema eller en enkelttjeneste. Det er de som har rollene «hovedadministrator» eller «tilgangsstyring» som kan gi denne tilgangen videre til andre.
+#### Enkelttjenester i Altinn
 
-Personen som får slik tilgang, får ikke tilgang til innboksen der kvitteringer eller svar kommer.
+Hvis en person i virksomheten deres kun skal sende inn dette skjemaet på vegne av dere, holder det å gi tilgang til dette skjemaet som en enkelttjeneste. Da unngår dere også at personen får tilgang til andre skjema eller annen informasjon i Altinn som har samme tilgangspakker (se over).
+
+Slik gir du fullmakt til dette skjemaet som en enkelttjeneste i Altinn:
+
+- Gå til siden for tilgangsstyring i Altinn og velg «Brukere» i menyen til venstre.
+- Finn personen som du ønsker og gi fullmakt til i listen over brukere.
+- Hvis du ikke finner personen i listen, klikker du på knappen «Ny bruker» for å legge dem til.
+- Velg brukeren som skal få fullmakt.
+- På brukerens side velger du fanen «Tjenester».
+- Klikk på knappen «Gi fullmakt».
+- Søk i listen for å finne riktig enkelttjeneste som du skal gi fullmakt til. Dette skjemaet heter
+- «Forhåndsmelding om arbeidsplass hvor det blir utført midlertidig eller skiftende bygge- eller anleggsarbeid»
+I tillegg må dere gi tilgang til:
+
+- «Endring av innsendt forhåndsmelding» – for å kunne sende oss oppdateringer om en innsendt forhåndsmelding
+- «Arbeidstilsynet meldinger» – for å kunne lese meldinger fra oss om dette skjemaet
+- Du kan også sortere på etat «Arbeidstilsynet» for å filtrere tjenestelisten.
+- Klikk på «Gi fullmakt» ute til høyre for å gi fullmakt til denne skjematjenesten.
+Se også en stegvis guide for hvordan dere gir fullmakt til enkelttjenester:
+
+
+#### Gamle roller i Altinn kan ha tilgang til noen skjemaer ut 2026
+
+For noen skjema vil Altinns gamle rolletilganger kunne fungere ut 2026.
+
+For å kunne sende skjema og lese post fra Arbeidstilsynet, måtte man ha disse rollene i gamle Altinn:
+
+- «Utfyller/innsender» for å fylle ut og sende skjema.
+- «Post/arkiv» for å lese digital post.
+
+#### Ikke mulig å delegere tilganger via de gamle Altinn-rollene fra 19. juni 2026
+
+Fra 19. juni 2026 vil det ikke være mulig å gi tilganger gjennom de gamle Altinn-rollene til nye brukere i virksomheten deres.
+
+Dere må derfor enten gi fullmakt til tilgangspakker i Altinn eller fullmakt til enkelttjenester i Altinn ved behov for nye tilganger etter 19. juni.
+
+I løpet av 2026 må dere uansett gi fullmakter og tilganger på nytt i Altinn:
 
 Send inn forhåndsmeldingen senest én uke før arbeidet starter.
 
@@ -163,3 +200,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)
