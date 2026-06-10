@@ -1,140 +1,124 @@
 # Norges Lover – Raspberry Pi Scraper
 
 Automatisk innsamling av norsk lovverk, forskrifter og offentlige regler.
-Kjører på en Raspberry Pi og publiserer alt til dette GitHub-repoet.
+Kjører på en Raspberry Pi i Docker og publiserer alt til dette GitHub-repoet.
 
 ## Hva samles inn
 
-| Kilde | Innhold | Scraper |
-|-------|---------|---------|
+| Kilde | Innhold | Metode |
+|-------|---------|--------|
 | [Stortingets API](https://data.stortinget.no) | Lover, proposisjoner, lovsaker | REST API (åpent) |
-| [Lovdata](https://lovdata.no) | Lovtekster, nasjonale forskrifter, kommunale forskrifter | nodriver (Chromium) |
-| [Skatteetaten](https://www.skatteetaten.no) | Skattesatser, MVA, fradrag, veiledere | requests + BS4 |
-| [DiBK](https://www.dibk.no) | TEK17, SAK10, byggeregler, søknadsveiledere | requests + BS4 |
-| [NAV](https://www.nav.no) | Dagpenger, sykepenger, stønader, grunnbeløp | requests + BS4 |
-| [Lovdata kommuner](https://lovdata.no/register/lokaleforskrifter) | Lokale/kommunale forskrifter | nodriver (Chromium) |
+| [Skatteetaten](https://www.skatteetaten.no) | Skattesatser, MVA, fradrag, veiledere | Headless browser |
+| [DiBK](https://www.dibk.no) | TEK17, SAK10, byggeregler | Headless browser |
+| [NAV](https://www.nav.no) | Dagpenger, sykepenger, stønader, grunnbeløp | Headless browser |
+| [Arbeidstilsynet](https://www.arbeidstilsynet.no) | HMS, arbeidsmiljø, veiledere | Headless browser |
+| [Husbanken](https://www.husbanken.no) | Bostøtte, startlån, tilskudd | Headless browser |
+| [Lovdata kommuner](https://lovdata.no/register/lokaleforskrifter) | Kommunale forskrifter | Headless browser |
 
-## Mappestruktur i repoet
+## Arkitektur
 
 ```
-data/
-├── lover/          – Nasjonale lover (Stortinget + Lovdata)
-├── forskrifter/    – Nasjonale forskrifter
-├── skatt/          – Skatteregler og satser
-├── byggteknisk/    – TEK17, SAK10, DiBK-veiledere
-├── nav/            – Stønader og ytelser
-└── kommuner/       – Kommunale forskrifter (kommunenr-navn/)
+entrypoint.sh (Docker)
+    └── git reset --hard origin/main   ← henter alltid siste kode
+    └── python main.py                 ← kjør én full runde
+    └── sleep $SCRAPER_INTERVALL       ← vent (default: 2 timer)
+    └── (gjenta)
+
+main.py
+    └── GitHubPublisher.pull_latest()
+    └── for hver kilde:
+    │       scraper.scrape(output_dir, max_pages=150)
+    └── skriv_heartbeat()              ← alltid, uansett endringer
+    └── GitHubPublisher.publish()      ← commit + push
 ```
 
-Hvert dokument inneholder:
-- Tittel og fullt innhold
-- `Kilde:` med URL til originalkilden
-- `Hentet:` tidsstempel (ISO 8601)
-- Kategori og eventuelt kommunenummer
+State (hvilke URL-er som er hentet) lagres i `~/.norges-lover-state/` utenfor git-repoet.
 
 ## Oppsett på Raspberry Pi
 
 ### Krav
 
-- Raspberry Pi 4 eller 5 (anbefalt: 4 GB RAM eller mer)
-- Raspberry Pi OS (Bookworm/64-bit anbefalt)
-- Python 3.11+
-- Internettilgang
+- Raspberry Pi 4 eller 5 (4 GB RAM anbefalt)
+- Docker og Docker Compose installert
+- GitHub Personal Access Token med `repo`-tilgang
 
-### Installasjon – én kommando
-
-Kjør dette på Pi-en din:
+### 1. Klon repoet
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/mannlig/norges-lover/main/rpi-scraper/setup/install.sh | bash
+git clone https://github.com/mannlig/norges-lover.git
+cd norges-lover
 ```
 
-Skriptet vil:
-1. Spørre om GitHub-token (se under)
-2. Installere alle avhengigheter automatisk
-3. Klone repoet
-4. Sette opp Python-miljø
-5. Starte scraperen som en systemd-tjeneste
+### 2. Lag `.env`-fil
 
-Etter det kjører den autonomt i bakgrunnen og pusher til GitHub hvert 6. time.
+```bash
+cat > .env << EOF
+GITHUB_TOKEN=ghp_ditt_token_her
+GIT_USER_NAME=norges-lover-bot
+GIT_USER_EMAIL=bot@norges-lover
+SCRAPER_INTERVALL=2
+EOF
+chmod 600 .env
+```
+
+### 3. Bygg og start
+
+```bash
+docker compose build
+docker compose up -d
+```
 
 ### GitHub Personal Access Token
 
-Skriptet spør om dette under installasjon. Slik oppretter du det:
-
 1. Gå til [github.com/settings/tokens](https://github.com/settings/tokens)
-2. Klikk «Generate new token (classic)»
-3. Gi den et navn, f.eks. «norges-lover-rpi»
-4. Velg scope: **repo** (gir lese- og skrivetilgang)
-5. Klikk «Generate token» og kopier verdien
+2. «Generate new token (classic)»
+3. Scope: **repo**
+4. Kopier tokenet inn i `.env`
 
-> Token lagres kun lokalt på Pi-en i `~/.norges-lover-env` (chmod 600).
-> Den commites **aldri** til repoet.
+> Token lagres kun lokalt i `.env` og commites **aldri** til repoet.
 
-## Nyttige kommandoer etter installasjon
+## Nyttige kommandoer
 
 ```bash
-# Sjekk at tjenesten kjører
-sudo systemctl status norges-lover
+# Sjekk status
+docker compose ps
 
 # Følg logger live
-journalctl -u norges-lover -f
+docker compose logs -f
 
 # Kjør én kilde manuelt (for testing)
-cd ~/norges-lover/rpi-scraper
-source .venv/bin/activate && source ~/.norges-lover-env
-python main.py --kilde stortinget
+docker compose exec norges-lover python main.py --kilde stortinget
 
-# Stopp / start
-sudo systemctl stop norges-lover
-sudo systemctl start norges-lover
+# Restart
+docker compose restart
+
+# Stopp
+docker compose down
 ```
 
 ## Rate limiting og høflighet
 
-Scraperen er designet for å ikke overbelaste kildene:
-
 - **3–8 sekunder** mellom hvert HTTP-request (tilfeldig)
-- **30 sekunder** pause mellom hver kilde
-- **Max 50–100 sider** per kilde per kjøring
-- Identifiserer seg med en tydelig User-Agent
-- Respekterer HTTP 429 (Too Many Requests) med eksponentiell backoff
-- Kjøringen spres over flere dager via 6-timers intervaller
+- **15 sekunder** pause mellom hver kilde
+- **Maks 150 sider** per kilde per kjøring
+- Tydelig User-Agent med kontaktinfo
+- Respekterer HTTP 429 med eksponentiell backoff
 
-> Merk: Lovdata.no bruker bot-beskyttelse. Vi bruker nodriver (headless Chromium)
-> som kjører en ekte nettleser. Dette er tregere men mer pålitelig.
+## Overvåking
+
+- `data/status/heartbeat.md` oppdateres hver kjøring med tidsstempel og antall filer hentet
+- GitHub Actions (`overvak-pi.yml`) sjekker heartbeat daglig kl. 08:00 UTC og åpner issue hvis Pi er stille i mer enn 12 timer
+- GitHub Actions (`valider-kode.yml`) sjekker Python- og YAML-syntaks ved hver push til main
 
 ## Legge til nye kilder
 
-1. Lag en ny fil i `scrapers/`, f.eks. `scrapers/husbanken.py`
-2. Arv fra `BaseScraper` og implementer `scrape(output_dir, max_pages) -> list[Path]`
-3. Sett alltid `source_url` og inkluder kilde-URL i hvert dokument
-4. Legg til i `scrapers/__init__.py` og i `KJØRINGER`-listen i `main.py`
-
-## Dataformat
-
-Alle dokumenter lagres som Markdown (`.md`) med følgende struktur:
-
-```markdown
-# Tittel på loven/regelverket
-
-## Kildeinformasjon
-
-- **Kilde:** Lovdata – https://lovdata.no/lov/...
-- **Hentet:** 2025-01-15T08:30:00Z
-
-## Innhold
-
-[Fullt innhold her]
-
----
-*Automatisk hentet av norges-lover-bot.*
-```
+1. Lag `scrapers/ny_kilde.py` med en klasse som arver `BaseScraper` og implementerer `scrape(output_dir, max_pages) -> list[Path]`
+2. Legg til i `scrapers/__init__.py`
+3. Legg til i `KJØRINGER`-listen i `main.py`
+4. Legg til `DATA_PATHS`-oppføring i `config.py`
 
 ## Lisens
 
-Kildekode: MIT-lisens (se LICENSE i rotkatalogen).
+Kildekode: MIT-lisens (se `LICENSE` i rotkatalogen).
 
-Innholdet i `data/`-mappen er hentet fra offentlige norske myndigheter og er
-underlagt deres respektive lisenser. Alt innhold er offentlig tilgjengelig
-og refererer til originalkilden.
+Innholdet i `data/` er hentet fra offentlige norske myndigheter og er underlagt deres respektive lisenser. Alt innhold er offentlig tilgjengelig og refererer til originalkilden.
