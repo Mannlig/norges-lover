@@ -1,0 +1,153 @@
+<!-- innholds-hash: 1caf8fcd60b814b7ca2e078777d5436fca291a0015cac3d411f1e8933b80b3ad -->
+
+# Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører
+
+## Metadata
+
+- **Kilde:** Stortingets åpne API – https://data.stortinget.no
+- **Sak-ID:** 200169
+- **Type:** 2
+- **Korttittel:** Representantforslag om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører
+- **Status:** 1
+- **Stortingsperiode:** 2025-2029
+- **Behandlet:** 
+- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200169
+
+## Rådata (JSON fra API)
+
+```json
+{
+  "respons_dato_tid": "/Date(1781122505408+0200)/",
+  "versjon": "1.6",
+  "behandlet_sesjon_id": "2025-2026",
+  "dokumentgruppe": 4,
+  "emne_liste": [],
+  "forslagstiller_liste": [
+    {
+      "respons_dato_tid": "/Date(1781122505408+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Valderhaug",
+      "foedselsdato": "/Date(-136519200000+0200)/",
+      "fornavn": "Harry",
+      "id": "HARVAL",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "MR",
+        "navn": "Møre og Romsdal"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781122505408+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Røse",
+      "foedselsdato": "/Date(723337200000+0100)/",
+      "fornavn": "Ida Lindtveit",
+      "id": "IDARSE",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781122505408+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Lossius",
+      "foedselsdato": "/Date(320626800000+0100)/",
+      "fornavn": "Jorunn Gleditsch",
+      "id": "JLO",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "VA",
+        "navn": "Vest-Agder"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "henvisning": "Dokument 8:215 S (2025-2026), Innst. 435 S (2025-2026)",
+  "id": 200169,
+  "innstilling_id": 17498,
+  "innstilling_kode": 1,
+  "komite": {
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "versjon": "1.6",
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
+  "korttittel": "Representantforslag om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører",
+  "sak_fremmet_id": 200169,
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1781122505408+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Bastholm",
+      "foedselsdato": "/Date(506041200000+0100)/",
+      "fornavn": "Une",
+      "id": "UAB",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "versjon": "1.6",
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
+  "status": 1,
+  "tittel": "Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører",
+  "type": 2
+}
+```
+
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+
+## Endringshistorikk
+
+- **2026-06-10** Første gang hentet

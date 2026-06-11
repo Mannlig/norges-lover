@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c199efebd3905413f8d04a053b233290addcec0fd2f06c5c874f1e6bc633c8c -->
+<!-- innholds-hash: 456c9711300966336cf44ffeb140ad8d3755c3614f52695edd34f4f1f1f3937f -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Julie E. Stuestøl, Siren Julianne Jensen og Oda Indgaard om solkraft på tak og grå arealer
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200201
 - **Type:** 2
 - **Korttittel:** Representantforslag om solkraft på tak og grå arealer
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200201
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348539+0200)/",
+  "respons_dato_tid": "/Date(1781122505486+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -155,7 +155,7 @@
   "innstilling_id": 17436,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200201,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505486+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -190,7 +190,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Julie E. Stuestøl, Siren Julianne Jensen og Oda Indgaard om solkraft på tak og grå arealer",
   "type": 2
 }
@@ -201,5 +201,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

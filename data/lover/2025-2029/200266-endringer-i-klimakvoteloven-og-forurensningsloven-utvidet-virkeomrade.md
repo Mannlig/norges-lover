@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8f6d56e14bc3d2f87c51f9d70c9ef8c7c02fbd0f887f1d12a427e8e13546196a -->
+<!-- innholds-hash: 02dc8b3f0051d1ea36e374b5d271b5427ab4d5bd583ba2438e71869194d8d8f0 -->
 
 # Endringer i klimakvoteloven og forurensningsloven (utvidet virkeområde)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200266
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348602+0200)/",
+  "respons_dato_tid": "/Date(1781122505986+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17445,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200266,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -75,5 +75,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

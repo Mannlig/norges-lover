@@ -1,4 +1,4 @@
-<!-- innholds-hash: 31c946507a8e83bd612f098160d2a0ca9034932baf78916ba239bb36830d775f -->
+<!-- innholds-hash: c8b752f8b0f6cdf4f9567e5e7bfebfb779afccd63f50604ac34c913202d2bbbf -->
 
 # Endringar i straffeprosessloven (beløpsgrense for dekning av økonomisk tap ved erstatning etter strafforfølging)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200235
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348539+0200)/",
+  "respons_dato_tid": "/Date(1781122505736+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17470,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200235,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505736+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -75,5 +75,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

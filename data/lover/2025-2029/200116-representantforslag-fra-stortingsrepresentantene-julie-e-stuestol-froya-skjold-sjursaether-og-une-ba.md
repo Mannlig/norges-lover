@@ -1,4 +1,4 @@
-<!-- innholds-hash: 79a6ab123cf902d36c414e7c90a04716e933160950c2d9a1dd70e6ffabd5ab8e -->
+<!-- innholds-hash: 6ac5ca11f0bab19e593442d2114d39b88c70aee9962b5f00dc8d2c9e04461aae -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Frøya Skjold Sjursæther og Une Bastholm om strengere straff for dyrekriminalitet
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200116
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348602+0200)/",
+  "respons_dato_tid": "/Date(1781122506142+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -105,7 +105,7 @@
   "innstilling_id": 17467,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200116,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -154,5 +154,6 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-09** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

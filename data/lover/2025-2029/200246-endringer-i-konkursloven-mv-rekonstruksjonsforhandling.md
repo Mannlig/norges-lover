@@ -1,4 +1,4 @@
-<!-- innholds-hash: 195fd1d2349216a4922df8385e3969d9f542af322f49c4f6aebebce842a27060 -->
+<!-- innholds-hash: 25b7ab2f8ebfc904bb676f53cd5f01132acb2334a1efd75f3bcaa530d24e14b7 -->
 
 # Endringer i konkursloven mv. (rekonstruksjonsforhandling)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200246
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348336+0200)/",
+  "respons_dato_tid": "/Date(1781122505611+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17489,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200246,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348336+0200)/",
+      "respons_dato_tid": "/Date(1781122505611+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -75,5 +75,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

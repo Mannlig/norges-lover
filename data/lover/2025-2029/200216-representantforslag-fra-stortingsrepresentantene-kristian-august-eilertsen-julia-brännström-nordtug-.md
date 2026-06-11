@@ -1,4 +1,4 @@
-<!-- innholds-hash: 02c854853a2a48bd7bbb25e4619d1cb380eee720e236b8b1ac408c9c490e6654 -->
+<!-- innholds-hash: a77752bde6788e76b9523e25d19ea86577fde4afb59bee7f6d4c90f9112f40ac -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Bård Hoksrud, Stig Atle Abrahamsen og Anne Grethe Hauan om beskyttelse av spedbarn mot RS-virus
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200216
 - **Type:** 2
 - **Korttittel:** Representantforslag om beskyttelse av spedbarn mot RS-virus
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200216
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348539+0200)/",
+  "respons_dato_tid": "/Date(1781122505533+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -155,7 +155,7 @@
   "innstilling_id": 17511,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200216,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505533+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
@@ -190,7 +190,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Bård Hoksrud, Stig Atle Abrahamsen og Anne Grethe Hauan om beskyttelse av spedbarn mot RS-virus",
   "type": 2
 }
@@ -201,5 +201,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 968e192cff42a38ae2ec961816380f2ef46cf4ce799246a779d6891fd957a86d -->
+<!-- innholds-hash: b0e292d1f8e45b788c6e30d99ea6fa0b030720e912cde31a05bb1f1de0561fb5 -->
 
 # Endringer i straffeloven (involvering av mindreårige i kriminalitet)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200221
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348539+0200)/",
+  "respons_dato_tid": "/Date(1781122505736+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17485,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200221,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348539+0200)/",
+      "respons_dato_tid": "/Date(1781122505736+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -75,5 +75,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

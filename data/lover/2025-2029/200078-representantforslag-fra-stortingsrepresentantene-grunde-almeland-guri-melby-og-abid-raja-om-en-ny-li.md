@@ -1,4 +1,4 @@
-<!-- innholds-hash: dcd4c6e6b8cd3746f762f698434232ffc0c7b36398cc6108a86943323111075f -->
+<!-- innholds-hash: 39bbafb603ecbbf1cd262f60a919f7899a9870e4353f16d05eac6adfdd8442d0 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om en ny likestillingsmelding for frihet og feminisme
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200078
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348602+0200)/",
+  "respons_dato_tid": "/Date(1781122506142+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -105,7 +105,7 @@
   "innstilling_id": 17378,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200078,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348602+0200)/",
+      "respons_dato_tid": "/Date(1781122506142+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -151,5 +151,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

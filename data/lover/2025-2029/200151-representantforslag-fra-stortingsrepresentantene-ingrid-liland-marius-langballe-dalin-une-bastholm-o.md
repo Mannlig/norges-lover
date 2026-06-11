@@ -1,4 +1,4 @@
-<!-- innholds-hash: 344008be2d440ddd074f264c5e096a627ff78afb8c91eb94a5607f7dc1813930 -->
+<!-- innholds-hash: 3728b85be6e9a537799b409814d327f4df524db2a19b18f9454682a6718ff68d -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Liland, Marius Langballe Dalin, Une Bastholm og Julie E. Stuestøl om rettigheter og trygghet for personer som selger sex
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200151
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348445+0200)/",
+  "respons_dato_tid": "/Date(1781122505986+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -130,7 +130,7 @@
   "innstilling_id": 17494,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200151,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505986+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gruer",
@@ -176,5 +176,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

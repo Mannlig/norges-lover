@@ -1,0 +1,32 @@
+<!-- innholds-hash: 68e9185385a23df2e02b5296b4209063cd5e6186b214f2d5528e869b619faac9 -->
+
+# Melding om nytt bankkontonummer | www.nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav952000/veiledning
+- **Sist hentet:** 2026-06-10T23:05:54Z
+
+## Innhold
+
+
+## Melding om nytt bankkontonummer
+
+
+### Introduksjon
+
+
+### Vær oppmerksom på dette før du begynner å fylle ut skjemaet
+
+
+## Avbryt og slett?
+
+Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette utfyllingen senere kan du la nettleservinduet stå åpent til neste gang.
+
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/fyllut/nav952000/veiledning) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-06-10** Første gang hentet

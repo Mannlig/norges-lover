@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6017134862a85bd5d7dd338fa64733dfdff074490e4afd825eff55378fd5a096 -->
+<!-- innholds-hash: 6d03385e77328bafd228783971744d7274e021407a7075c5e833dbf4589ac56c -->
 
 # Representantforslag fra stortingsrepresentantene Mari Holm Lønseth, Helene Røsholt, Tone Wilhelmsen Trøen og Margret Hagerup om skjerpet straff for psykisk vold
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200086
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
+  "respons_dato_tid": "/Date(1781122506267+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røsholt",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -130,7 +130,7 @@
   "innstilling_id": 17363,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200086,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -183,5 +183,6 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-09** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

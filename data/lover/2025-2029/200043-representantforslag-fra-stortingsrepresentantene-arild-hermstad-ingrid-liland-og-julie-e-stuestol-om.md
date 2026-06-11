@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1fad93266905f67947b5e6fa2d520443b9d5800a0c98f4fa100e67a8ba4673e0 -->
+<!-- innholds-hash: 529004bc3d999c330b846dbb40348c1b86b637d93bcbf964704f7b9d61877582 -->
 
 # Representantforslag fra stortingsrepresentantene Arild Hermstad, Ingrid Liland og Julie E. Stuestøl om opprettelse av et antikorrupsjonsorgan
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200043
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
+  "respons_dato_tid": "/Date(1781122506267+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -105,7 +105,7 @@
   "innstilling_id": 17358,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200043,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781122506267+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
@@ -158,5 +158,6 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-09** Innhold endret (se git-historikk for diff)
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

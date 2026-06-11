@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0316d58dd62d4d4ce5454aaf2c95ee2372db7f86ce12a925b223d27c89b6a9a1 -->
+<!-- innholds-hash: 2e691949e3357b50b584448505f1acd78c166472dc516499a0f3c1975cc5ac41 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jorunn Gleditsch Lossius og Joel Ystebø om trygghet for mødre i barselomsorgen
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200149
 - **Type:** 2
 - **Korttittel:** Representantforslag om trygghet for mødre i barselomsorgen
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200149
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348445+0200)/",
+  "respons_dato_tid": "/Date(1781122505345+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505345+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505345+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -105,7 +105,7 @@
   "innstilling_id": 17508,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200149,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505345+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -140,7 +140,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jorunn Gleditsch Lossius og Joel Ystebø om trygghet for mødre i barselomsorgen",
   "type": 2
 }
@@ -151,5 +151,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3a5c45be9c867b434df65ab8a44a8d782aba0ff707ed9211b0d53e081b9fe1e9 -->
+<!-- innholds-hash: aa250de2f6b85ee63fbe178803448f99d3407098762c90a22bb31b2693cc4ff3 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse og Erlend Svardal Bøe om en bedre oppfølging av foreldre som venter barn med funksjonsvariasjon
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200190
 - **Type:** 2
 - **Korttittel:** Representantforslag om en bedre oppfølging av foreldre som venter barn med funksjonsvariasjon
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200190
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348492+0200)/",
+  "respons_dato_tid": "/Date(1781122505424+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348492+0200)/",
+      "respons_dato_tid": "/Date(1781122505424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348492+0200)/",
+      "respons_dato_tid": "/Date(1781122505424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -80,7 +80,7 @@
   "innstilling_id": 17514,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -89,7 +89,7 @@
   "sak_fremmet_id": 200190,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348492+0200)/",
+      "respons_dato_tid": "/Date(1781122505424+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -115,7 +115,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse og Erlend Svardal Bøe om en bedre oppfølging av foreldre som venter barn med funksjonsvariasjon",
   "type": 2
 }
@@ -126,5 +126,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)

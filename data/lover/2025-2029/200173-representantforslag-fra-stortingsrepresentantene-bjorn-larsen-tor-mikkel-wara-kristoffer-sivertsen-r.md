@@ -1,4 +1,4 @@
-<!-- innholds-hash: 542f94ff012fc32a10dfe4cde4cc1f3d182a893227ef41661459d952b4f470be -->
+<!-- innholds-hash: ad19287cb8c41abb41f2f0f05549117901eb77a2f962cca6e8ba99241c5b3655 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Tor Mikkel Wara, Kristoffer Sivertsen, Rikard Spets og Morten Stordalen om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200173
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-10T21:11:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200173
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348445+0200)/",
+  "respons_dato_tid": "/Date(1781122505392+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505408+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -155,7 +155,7 @@
   "innstilling_id": 17435,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781121796875+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200173,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348445+0200)/",
+      "respons_dato_tid": "/Date(1781122505392+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -190,7 +190,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Bjørn Larsen, Tor Mikkel Wara, Kristoffer Sivertsen, Rikard Spets og Morten Stordalen om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel",
   "type": 2
 }
@@ -201,5 +201,6 @@
 ## Endringshistorikk
 
 - **2026-06-09** Første gang hentet
+- **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
