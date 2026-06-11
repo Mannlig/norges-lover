@@ -1,11 +1,11 @@
-<!-- innholds-hash: aa2c507a7613fc79c6bf9ef9879f80be1df4825315251dc153808bbf4a4ddcf7 -->
+<!-- innholds-hash: 14eb9c2fb5137616cf813ebfe1d25f11808f214a9f1322d867b99d611198d577 -->
 
 # Applications and forms - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader/en
-- **Sist hentet:** 2026-05-16T22:32:00Z
+- **Sist hentet:** 2026-06-11T18:31:37Z
 
 ## Innhold
 
@@ -273,7 +273,7 @@ An early retirement scheme for employees in the public sector who are between th
 Help to fill in a form with information for Nav when you apply for contractual pension (AFP) from the Norwegian Public Service Pension Fund.
 
 
-#### Contractual pension (AFP) in the privte sector
+#### Contractual pension (AFP) in the private sector
 
 A pension scheme for employees of private companies with a collective agreement where AFP is part of the agreement.
 
@@ -985,3 +985,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

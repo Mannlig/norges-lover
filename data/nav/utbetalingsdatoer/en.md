@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4456f0a50528a522157df0f82540470aa30b6d14320ac67d2c1d23891c1ba570 -->
+<!-- innholds-hash: 17ff11d65d59c0da02f18d4beb66762a8b1a9c2570c6f24c4c2df9fb5cd4b22f -->
 
 # Payment dates - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utbetalingsdatoer/en
-- **Sist hentet:** 2026-05-16T22:35:00Z
+- **Sist hentet:** 2026-06-11T18:35:45Z
 
 ## Innhold
 
@@ -140,7 +140,7 @@ Financial support if you are under 20 years old and have lost one or both of you
 An early retirement scheme for employees in the public sector who are between the ages of 62-67 and were born before 1963.
 
 
-#### Contractual pension (AFP) in the privte sector
+#### Contractual pension (AFP) in the private sector
 
 A pension scheme for employees of private companies with a collective agreement where AFP is part of the agreement.
 
@@ -301,3 +301,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

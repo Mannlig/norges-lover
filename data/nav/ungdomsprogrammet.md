@@ -1,11 +1,11 @@
-<!-- innholds-hash: f7c65bf679551dd8238da9afb54a91b4a92dc51c7cb4f2eddc343e7c9ad726b3 -->
+<!-- innholds-hash: ff9cd784d8cee4a0f7f1076fcb39691a350093c93a565f1f88a195b5a24a340a -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist hentet:** 2026-05-17T12:30:53Z
+- **Sist hentet:** 2026-06-11T19:16:40Z
 
 ## Innhold
 
@@ -56,21 +56,21 @@ Første utbetaling kommer måneden etter at du ble tatt inn i ungdomsprogrammet.
 
 #### Alder, inntekt og barn avgjør hvor mye du kan få
 
-Når Nav regner ut hvor mye penger du kan få, bruker vi en bestemt sum som heter grunnbeløpet. Grunnbeløpet er bestemt av Stortinget, og det endrer seg 1. mai hvert år. Fra 1. mai 2025 er grunnbeløpet på 130 160 kroner.
+Når Nav regner ut hvor mye penger du kan få, bruker vi en bestemt sum som heter grunnbeløpet. Grunnbeløpet er bestemt av Stortinget, og det endrer seg 1. mai hvert år. Fra 1. mai 2025 er grunnbeløpet på 136 549 kroner.
 
 Hvor mye penger du kan få, kommer først og fremst an på hvor gammel du er.
 
-Hvis du er yngre enn 25 år, kan du få opptil 177 104 kroner i året. Det vil si 2/3 av 2,041 ganger grunnbeløpet i folketrygden.
+Hvis du er yngre enn 25 år, kan du få opptil 185 798 kroner i året. Det vil si 2/3 av 2,041 ganger grunnbeløpet i folketrygden.
 
 Denne summen deler vi på 260 dager, fordi du ikke får penger for lørdager og søndager.
 
-Det vil si at du kan ha rett til 681 kroner per dag (dagsatsen).
+Det vil si at du kan ha rett til 714 kroner per dag (dagsatsen).
 
-Hvis du er 25 år eller eldre, kan du få opptil 265 657
+Hvis du er 25 år eller eldre, kan du få opptil 278 697
 
 Denne summen deler vi på 260 dager, fordi du ikke får penger for lørdager og søndager.
 
-Det vil si at du kan ha rett til 1 022 kroner per dag (dagsatsen).
+Det vil si at du kan ha rett til 1 072 kroner per dag (dagsatsen).
 
 
 #### Du får mer penger hvis du har barn (barnetillegg)
@@ -88,23 +88,23 @@ Hvis du har en inntekt, er det veldig viktig at du informerer oss om dette.
 
 Den 1. hver måned får du en melding fra Nav om å gi beskjed hvis du har hatt inntekt måneden før. Da logger du inn på Min side på nav.no og gir beskjed om hvor mye du har hatt inntekt.
 
-Siri er 23 år og deltar i ungdomsprogrammet, og da har hun rett til 681 kroner per dag i ungdomsprogramytelsen. I januar 2026 er det 22 dager utenom lørdager og søndager, så da vil hun ha rett til
+Siri er 23 år og deltar i ungdomsprogrammet, og da har hun rett til 714 kroner per dag i ungdomsprogramytelsen. I oktober 2026 er det 22 dager utenom lørdager og søndager, så da vil hun ha rett til
 
-681 kroner X 22 dager = 14 982 kroner
+714 kroner X 22 dager = 15 708 kroner
 
-I januar har Siri en arbeidsinntekt på 3780 kroner (før skatt). 66 prosent av 3780 kroner er 2495 kroner, som da blir trukket fra ytelsen hennes:
+I oktober har Siri en arbeidsinntekt på 3780 kroner (før skatt). 66 prosent av 3780 kroner er 2495 kroner, som da blir trukket fra ytelsen hennes:
 
-14 982 kroner – 2495 kroner = 12 487 kroner (før skatt)
+15 708 kroner – 2495 kroner = 13 213 kroner (før skatt)
 
-For januar vil Siri altså få 12 487 kroner i ungdomsprogramytelsen. Med en inntekt på 3780 kroner i tillegg, vil Siri få til sammen 16 267 kroner (før skatt).
+For oktober vil Siri altså få 13 213 kroner i ungdomsprogramytelsen. Med en inntekt på 3780 kroner i tillegg, vil Siri få til sammen 16 993 kroner (før skatt).
 
 Hvis du har en inntekt den siste måneden, men bare er i programmet i noen dager den måneden, bruker vi ikke hele inntekten din når vi regner ut hvor mye penger du skal få i ungdomsprogramytelsen. Da bruker vi bare inntekt for de dagene du faktisk er i programmet.
 
-Siri har sin siste måned i ungdomsprogrammet i februar 2026. I februar 2026 er det 20 dager utenom lørdager og søndager. Siri har siste dag i programmet 9. februar og har derfor ungdomsprogramytelsen i kun seks dager.
+Siri har sin siste måned i ungdomsprogrammet i februar 2027. I februar 2027 er det 20 dager utenom lørdager og søndager. Siri har siste dag i programmet 8. februar og har derfor ungdomsprogramytelsen i kun seks dager.
 
-Fordi Siri er 23 år, har hun rett på 681 kroner per dag i ungdomsprogramytelsen (før skatt). I perioden 1. til 9. februar har hun altså rett på
+Fordi Siri er 23 år, har hun rett på 714 kroner per dag i ungdomsprogramytelsen (før skatt). I perioden 1. til 8. februar har hun altså rett på
 
-681 kroner X 6 dager = 4086 kroner (før skatt)
+714 kroner X 6 dager = 4284 kroner (før skatt)
 
 I februar har Siri en arbeidsinntekt på 7500 kroner (før skatt). I stedet for å regne ut hva 66 prosent av hele inntekten hennes er for februar, bruker vi bare inntekt for seks dager, siden det kun er seks dager hun har rett på ungdomsprogramytelsen.
 
@@ -114,7 +114,7 @@ Så regner vi ut hva 66 prosent av inntekten hennes er for disse seks dagene, og
 
 2250 kroner i inntekt X 0,66 = 1485 kroner
 
-For februar vil Siri altså få 2601 kroner i ungdomsprogramytelsen (før skatt).
+For februar vil Siri altså få 2799 kroner i ungdomsprogramytelsen (før skatt).
 
 På denne måten bruker vi ikke hele inntekten til Siri når vi reduserer ungdomsprogramytelsen hennes siste måned, vi bruker kun inntekt for de dagene hun faktisk er i programmet.
 
@@ -236,7 +236,7 @@ Mer om
 
 ### Lenker
 
-Oppdatert 27.02.2026
+Oppdatert 02.06.2026
 
 
 #### Chat med oss
@@ -264,3 +264,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

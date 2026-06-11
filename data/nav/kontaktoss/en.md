@@ -1,11 +1,11 @@
-<!-- innholds-hash: c15ee7e4e2475a7ee0e43ed3a48991fabdeb4eb8efa2d345c7d50cb38a467092 -->
+<!-- innholds-hash: 85662ecdd52fec036e84cf70132395cd2af78687bdc4b33d2d42347eda78c5bc -->
 
 # Contact us - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontaktoss/en
-- **Sist hentet:** 2026-05-16T22:27:33Z
+- **Sist hentet:** 2026-06-11T18:25:26Z
 
 ## Innhold
 
@@ -86,7 +86,7 @@ Here you can find the address of Nav assistive technology center in your region 
 - Vestland:
 If you have questions about a decision from Nav, you can call or
 
-Updated 04/09/2026
+Updated 06/11/2026
 
 
 ---
@@ -95,3 +95,4 @@ Updated 04/09/2026
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: df0db082cef50991f0b3ce47a8cb14a57c76ae39e00841058badf96d57d7a701 -->
+<!-- innholds-hash: 289b250010edb86a23a3daa2a7767b51a30d1c828a54f255a7cd3f24f05e3073 -->
 
 # Case processing times - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider/en
-- **Sist hentet:** 2026-05-16T22:30:29Z
+- **Sist hentet:** 2026-06-11T18:29:32Z
 
 ## Innhold
 
@@ -257,7 +257,7 @@ Advanced computers or tablets with alternative communication and synthetic speec
 An early retirement scheme for employees in the public sector who are between the ages of 62-67 and were born before 1963.
 
 
-#### Contractual pension (AFP) in the privte sector
+#### Contractual pension (AFP) in the private sector
 
 A pension scheme for employees of private companies with a collective agreement where AFP is part of the agreement.
 
@@ -723,3 +723,4 @@ This offer is available to people who need work experience to master a certain t
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

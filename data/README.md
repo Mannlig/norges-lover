@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-11 11:20 UTC*
+*Sist oppdatert: 2026-06-11 19:18 UTC*
 
-**Antall dokumenter:** 3531
+**Antall dokumenter:** 3538
 
 ## Innhold
 
@@ -1213,6 +1213,9 @@ Lovdata
 - [Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre](lover/2025-2029/200338-riksrevisjonen-si-undersoking-av-kommunale-helse-og-omsorgstenester-til-eldre.md)
 - [Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand](lover/2025-2029/200339-representantforslag-fra-stortingsrepresentantene-kathy-lie-mirell-hoyer-berntsen-og-anne-lise-gjerst.md)
 - [Riksrevisjonens årsmelding 2025](lover/2025-2029/200340-riksrevisjonens-arsmelding-2025.md)
+- [Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen](lover/2025-2029/200342-representantforslag-fra-stortingsrepresentantene-remi-solvberg-mímir-kristjánsson-og-marie-sneve-mar.md)
+- [Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte](lover/2025-2029/200343-representantforslag-fra-stortingsrepresentantene-anne-lise-gjerstad-fredlund-mirell-hoyer-berntsen-a.md)
+- [Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus](lover/2025-2029/200344-representantforslag-fra-stortingsrepresentantene-grunde-almeland-og-guri-melby-om-a-avvise-innstramm.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)
@@ -1493,9 +1496,9 @@ Lovdata
 - [Ektefellebidrag - nav.no](nav/ektefellebidrag.md)
 - [Membership of the National Insurance Scheme - nav.no](nav/en/home/rules-and-regulations/membership-of-the-national-insurance-scheme.md)
 - [National insurance coverage - nav.no](nav/en/home/rules-and-regulations/national-insurance-coverage.md)
-- [Employee on the Norwegian continental shelf - nav.no](nav/en/home/work-and-stay-in-norway/employee-on-the-norwegian-continental-shelf.md)
-- [Foreign students in Norway - nav.no](nav/en/home/work-and-stay-in-norway/foreign-students-in-norway.md)
-- [Tourists in Norway - nav.no](nav/en/home/work-and-stay-in-norway/tourists-in-norway.md)
+- [Jobbe i Norge  - nav.no](nav/en/home/work-and-stay-in-norway/employee-on-the-norwegian-continental-shelf.md)
+- [Midlertidig opphold i Norge  - nav.no](nav/en/home/work-and-stay-in-norway/foreign-students-in-norway.md)
+- [Midlertidig opphold i Norge  - nav.no](nav/en/home/work-and-stay-in-norway/tourists-in-norway.md)
 - [Forside privatperson - nav.no](nav/en/home.md)
 - [Forside privatperson - nav.no](nav/en.md)
 - [Give Nav correct information - nav.no](nav/endringer/en.md)
@@ -1538,6 +1541,7 @@ Lovdata
 - [Fosterhjemsgodtgjørelse og utbetalinger fra Nav - nav.no](nav/fosterhjemsgodtgjorelse.md)
 - [Friskmelding til arbeidsformidling - nav.no](nav/friskmelding-arbeidsformidling.md)
 - [Frita Nav fra taushetsplikten - nav.no](nav/frita-taushetsplikt.md)
+- [Søk om frivillig medlemskap under opphold i Norge  - nav.no](nav/frivillig-medlemskap-norge.md)
 - [Søk om frivillig medlemskap under opphold i utlandet - nav.no](nav/frivillig-medlemskap.md)
 - [Frivillig skattetrekk - nav.no](nav/frivillig-skattetrekk.md)
 - [Frivillig yrkesskadetrygd - nav.no](nav/frivillig-yrkesskadetrygd.md)
@@ -1679,6 +1683,7 @@ Lovdata
 - [Hev- og senkbar kjøkkenløysing - nav.no](nav/hev-og-senkbart-kjokken.md)
 - [Kan barnet få brillestøtte?](nav/hjelpemidler/brillekalkulator.md)
 - [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler/om.md)
+- [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler-alle.md)
 - [Hjelpemiddel på bad - nav.no](nav/hjelpemidler-bad.md)
 - [Hjelpemidler for samtale  - nav.no](nav/hjelpemidler-for-samtale.md)
 - [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](nav/hjelpemidler-idrett-aktivitet.md)
@@ -1689,6 +1694,7 @@ Lovdata
 - [Hjelpemidler og tilrettelegging - nav.no](nav/hjelpemidler.md)
 - [Hjelpestønad - nav.no](nav/hjelpestonad.md)
 - [Honnørkort - nav.no](nav/honnorkort.md)
+- [Har nedsatt hørsel - nav.no](nav/horeapparat-eller-tinnitusmaskerer.md)
 - [Høreapparat  - nav.no](nav/horeapparat.md)
 - [Har vansker med å huske, planlegge og forstå - nav.no](nav/huske-planlegge.md)
 - [Huskeliste når du søker på en stilling - nav.no](nav/huskeliste.md)
@@ -1902,6 +1908,7 @@ Lovdata
 - [Opplæringspenger - nav.no](nav/opplaringspenger.md)
 - [Trenger råd og veiledning - nav.no](nav/opplysning-rad-veiledning.md)
 - [Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse - nav.no](nav/opplysningsskjema-afp.md)
+- [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](nav/ortopediske-hjelpemidler.md)
 - [Ortopediske sko - nav.no](nav/ortopediskesko.md)
 - [Ortoser - nav.no](nav/ortoser.md)
 - [Overgangsstønad til enslig mor eller far - nav.no](nav/overgangsstonad/om.md)

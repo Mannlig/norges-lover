@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-11 11:20 UTC*
+*Sist oppdatert: 2026-06-11 19:18 UTC*
 
-**Antall dokumenter:** 389
+**Antall dokumenter:** 392
 
 ## Innhold
 
@@ -400,6 +400,9 @@ Stortinget
 - [Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre](2025-2029/200338-riksrevisjonen-si-undersoking-av-kommunale-helse-og-omsorgstenester-til-eldre.md)
 - [Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand](2025-2029/200339-representantforslag-fra-stortingsrepresentantene-kathy-lie-mirell-hoyer-berntsen-og-anne-lise-gjerst.md)
 - [Riksrevisjonens årsmelding 2025](2025-2029/200340-riksrevisjonens-arsmelding-2025.md)
+- [Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen](2025-2029/200342-representantforslag-fra-stortingsrepresentantene-remi-solvberg-mímir-kristjánsson-og-marie-sneve-mar.md)
+- [Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte](2025-2029/200343-representantforslag-fra-stortingsrepresentantene-anne-lise-gjerstad-fredlund-mirell-hoyer-berntsen-a.md)
+- [Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus](2025-2029/200344-representantforslag-fra-stortingsrepresentantene-grunde-almeland-og-guri-melby-om-a-avvise-innstramm.md)
 
 ---
 

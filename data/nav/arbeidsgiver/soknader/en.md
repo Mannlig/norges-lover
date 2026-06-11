@@ -1,11 +1,11 @@
-<!-- innholds-hash: e6571f34b854518954d8bd45157a5074f87165b92c3d4ee813aa0700f2cc0ae3 -->
+<!-- innholds-hash: 9f0ba7bbd05c44f4ccf46e0fb0aeb87f3722c70aa71a02b81efd637035b63df0 -->
 
 # Applications and forms for employers - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/soknader/en
-- **Sist hentet:** 2026-05-16T22:21:05Z
+- **Sist hentet:** 2026-06-11T18:16:33Z
 
 ## Innhold
 
@@ -23,7 +23,7 @@ See also
 #### Select area
 
 
-### Showing 43 out of 43
+### Showing 44 out of 44
 
 
 #### Aa registeret – report
@@ -181,6 +181,11 @@ Covers the cost of reading and secretarial assistance for employees with severe 
 Find the settlement reports at Altinn.
 
 
+#### Sick leave
+
+How to handle sick leave as an employer, step by step.
+
+
 #### Sickness benefit – coverage of sickness benefit during employer liability period
 
 When an employee has long-term or chronic condition, which may entail frequent absences due to sickness, or if the employee is on sick leave due to pregnancy.
@@ -247,3 +252,4 @@ Additional support for someone who needs relevant experience to eventually find 
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

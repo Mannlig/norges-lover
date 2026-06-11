@@ -1,11 +1,11 @@
-<!-- innholds-hash: b7d4b8288a08a19d5943dc0410cd0754ea65248fd300ac2cc3754c3d13776d82 -->
+<!-- innholds-hash: 79e9461e72e05bcd96f2069ffc79bc460cf1d3c564503984c5ca6d9641e9d338 -->
 
 # Søk om avklaring av trygdetilhørighet under opphold i EØS eller Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bekreftelse-medlemskap
-- **Sist hentet:** 2026-05-17T05:40:10Z
+- **Sist hentet:** 2026-06-11T19:03:14Z
 
 ## Innhold
 
@@ -41,14 +41,39 @@ Hvis du har ektefelle, samboer eller barn som skal reise sammen med deg, må de 
 
 Korte ferieopphold innenfor EØS uten å utføre noe arbeid, trenger normalt ikke en avklaring.
 
-Dette skjemaet bruker du hvis du trenger en avklaring på om norske trygderegler gjelder for deg, eller hvis du trenger dokumentasjon på norsk trygdetilhørighet (attest A1).
+
+#### Søknad om  avklaring av trygdetilhørighet under opphold i EØS eller Sveits (attest A1)
+
+Dette skjemaet bruker du hvis du trenger å avklare om norske trygderegler gjelder for deg, eller hvis du trenger dokumentasjon på norsk trygdetilhørighet (attest A1).
 
 
-#### Er du sendt ut av den norske arbeidsgiveren din for å jobbe i et annet land?
+#### Søknad om A1 for utsendte arbeidstakere i EØS eller Sveits
 
-Da må arbeidsgiveren din bekrefte at du er sendt ut ved å fylle ut vedleggsskjemaet
+Du skal bruke dette skjemaet når du blir utsendt av en norsk arbeidsgiver på et midlertidig arbeidsoppdrag til et annet EØS-land eller Sveits, og du trenger å avklare om norske trygderegler fortsatt gjelder for deg.
 
-Alternativt kan dere sende inn felles søknad fra Altinn. Les mer om
+For at vi skal kunne behandle søknaden, må vi ha
+
+- søknad fra deg som arbeidstaker
+- bekreftelse på utsending fra arbeidsgiveren din
+
+#### Fullmakt
+
+Hvis du har gitt fullmakt via Navs fullmaktsløsning, kan fullmektigen fylle ut og sende inn søknaden for deg.
+
+Du må logge inn på nav.no og angi hvilke områder i Nav personen skal kunne representere deg på. Medlemskap i folketrygden finner du under kategori øvrig.
+
+Les om
+
+Hvis du ikke har gitt fullmakt, må du og arbeidsgiveren din sende inn hver deres del av søknaden hver for dere.
+
+
+#### Hvis arbeidsgiveren din ikke kan bruke digital løsning
+
+Hvis arbeidsgiveren din ikke kan bruke det digitale skjemaet, kan dere sende inn
+
+- som vedlegg til søknaden din, eller
+- per post
+Det er en fordel at arbeidsgiveren fyller ut bekreftelsen før du begynner på søknaden. Da kan du laste den opp som vedlegg når du sender inn.
 
 
 #### Saksbehandlingstid for søknader
@@ -93,7 +118,7 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 13.04.2026
+Oppdatert 01.06.2026
 
 
 ---
@@ -102,3 +127,4 @@ Oppdatert 13.04.2026
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

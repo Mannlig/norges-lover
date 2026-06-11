@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-11 11:20 UTC*
+*Sist oppdatert: 2026-06-11 19:18 UTC*
 
-**Antall dokumenter:** 816
+**Antall dokumenter:** 820
 
 ## Innhold
 
@@ -92,6 +92,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Fosterhjemsgodtgjørelse og utbetalinger fra Nav - nav.no](fosterhjemsgodtgjorelse.md)
 - [Friskmelding til arbeidsformidling - nav.no](friskmelding-arbeidsformidling.md)
 - [Frita Nav fra taushetsplikten - nav.no](frita-taushetsplikt.md)
+- [Søk om frivillig medlemskap under opphold i Norge  - nav.no](frivillig-medlemskap-norge.md)
 - [Søk om frivillig medlemskap under opphold i utlandet - nav.no](frivillig-medlemskap.md)
 - [Frivillig skattetrekk - nav.no](frivillig-skattetrekk.md)
 - [Frivillig yrkesskadetrygd - nav.no](frivillig-yrkesskadetrygd.md)
@@ -110,6 +111,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Har pensjon - nav.no](har-pensjon.md)
 - [Helse og sykdom - nav.no](helse.md)
 - [Hev- og senkbar kjøkkenløysing - nav.no](hev-og-senkbart-kjokken.md)
+- [Hjelpemidler og tilrettelegging - nav.no](hjelpemidler-alle.md)
 - [Hjelpemiddel på bad - nav.no](hjelpemidler-bad.md)
 - [Hjelpemidler for samtale  - nav.no](hjelpemidler-for-samtale.md)
 - [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](hjelpemidler-idrett-aktivitet.md)
@@ -120,6 +122,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Hjelpemidler og tilrettelegging - nav.no](hjelpemidler.md)
 - [Hjelpestønad - nav.no](hjelpestonad.md)
 - [Honnørkort - nav.no](honnorkort.md)
+- [Har nedsatt hørsel - nav.no](horeapparat-eller-tinnitusmaskerer.md)
 - [Høreapparat  - nav.no](horeapparat.md)
 - [Har vansker med å huske, planlegge og forstå - nav.no](huske-planlegge.md)
 - [Huskeliste når du søker på en stilling - nav.no](huskeliste.md)
@@ -206,6 +209,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Opplæringspenger - nav.no](opplaringspenger.md)
 - [Trenger råd og veiledning - nav.no](opplysning-rad-veiledning.md)
 - [Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse - nav.no](opplysningsskjema-afp.md)
+- [Trenger protese, ortose, ortopediske sko eller parykk - nav.no](ortopediske-hjelpemidler.md)
 - [Ortopediske sko - nav.no](ortopediskesko.md)
 - [Ortoser - nav.no](ortoser.md)
 - [Overgangsstønad til enslig mor eller far - nav.no](overgangsstonad-enslig.md)
@@ -512,9 +516,9 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Membership of the National Insurance Scheme - nav.no](en/home/rules-and-regulations/membership-of-the-national-insurance-scheme.md)
 - [National insurance coverage - nav.no](en/home/rules-and-regulations/national-insurance-coverage.md)
-- [Employee on the Norwegian continental shelf - nav.no](en/home/work-and-stay-in-norway/employee-on-the-norwegian-continental-shelf.md)
-- [Foreign students in Norway - nav.no](en/home/work-and-stay-in-norway/foreign-students-in-norway.md)
-- [Tourists in Norway - nav.no](en/home/work-and-stay-in-norway/tourists-in-norway.md)
+- [Jobbe i Norge  - nav.no](en/home/work-and-stay-in-norway/employee-on-the-norwegian-continental-shelf.md)
+- [Midlertidig opphold i Norge  - nav.no](en/home/work-and-stay-in-norway/foreign-students-in-norway.md)
+- [Midlertidig opphold i Norge  - nav.no](en/home/work-and-stay-in-norway/tourists-in-norway.md)
 - [Forside privatperson - nav.no](en/home.md)
 
 ### Endringer

@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca9a1701c8df01c689a16760f48fe9396e54094b9be9f872b209be8e0c3cccf7 -->
+<!-- innholds-hash: 0d2bc0d15300754ff8c0f6ab68705a62a0cdc3bb9e290335a3297d9fccd2e4af -->
 
 # Rates - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/satser/en
-- **Sist hentet:** 2026-05-16T22:30:59Z
+- **Sist hentet:** 2026-06-11T18:30:13Z
 
 ## Innhold
 
@@ -23,7 +23,7 @@ Se also
 #### Select area
 
 
-### Showing 67 out of 67
+### Showing 69 out of 69
 
 
 #### Adjustment allowance
@@ -141,7 +141,7 @@ Financial support if you are under 20 years old and have lost one or both of you
 An early retirement scheme for employees in the public sector who are between the ages of 62-67 and were born before 1963.
 
 
-#### Contractual pension (AFP) in the privte sector
+#### Contractual pension (AFP) in the private sector
 
 A pension scheme for employees of private companies with a collective agreement where AFP is part of the agreement.
 
@@ -219,6 +219,11 @@ A lump sum instead of parental benefit when you are expecting a child and have n
 #### Membership of the National Insurance Scheme
 
 Membership in the National Insurance Scheme is the key to eligibility for rights to services from Nav. In Norway, your membership can be based on residence or employment. You can also be a member of the National Insurance Scheme during stays abroad.
+
+
+#### National insurance contributions
+
+If you are a member of or entitled to benefits under the Norwegian National Insurance Scheme, you are generally required to pay National insurance contributions.
 
 
 #### Orthopaedic shoes
@@ -346,6 +351,11 @@ Covers your travel expenses when you try out, adapt or repair assistive technolo
 Unemployment benefit (dagpenger) is a financial support you may get if you are unemployed or temporarily laid off.
 
 
+#### Voluntary membership of the Norwegian National Insurance Scheme during stay in Norway
+
+Most of those who live and work in Norway are members of the National Insurance Scheme, but there are exceptions. If you are not a member, you can apply for voluntary membership.
+
+
 #### Wage guarantee
 
 Ensures that you are paid wages, holiday pay and other payment for work you are due, when your employer is unable to pay.
@@ -367,3 +377,4 @@ Ensures that you have an income during periods where, due to illness or injury, 
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)
