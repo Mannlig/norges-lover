@@ -1,11 +1,11 @@
-<!-- innholds-hash: cfd94562d60162f28ea418313bb2fc8fbcaef04e91c2b7586be4fc4429b0c4a4 -->
+<!-- innholds-hash: 4ced650cb95673339ff9a8b6c164d3549e82e886580395f53642d63288cd074c -->
 
 # Oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oppfolging
-- **Sist hentet:** 2026-05-17T12:21:33Z
+- **Sist hentet:** 2026-06-11T09:12:24Z
 
 ## Innhold
 
@@ -82,7 +82,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -92,7 +92,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -101,3 +101,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

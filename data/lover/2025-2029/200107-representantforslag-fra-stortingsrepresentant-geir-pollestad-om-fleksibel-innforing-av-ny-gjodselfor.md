@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0da0d643734de847afdeb0f399650ef425b14f91921d6b34bcc7ba354563e26c -->
+<!-- innholds-hash: c775ce46b43e3101f45e9699d3a69f179d4a102379d8fcf858de0a5e52436a84 -->
 
 # Representantforslag fra stortingsrepresentant Geir Pollestad om fleksibel innføring av ny gjødselforskrift
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sist hentet:** 2026-06-11T02:43:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200107
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781122506142+0200)/",
+  "respons_dato_tid": "/Date(1781143265728+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781122506142+0200)/",
+      "respons_dato_tid": "/Date(1781143265728+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -34,14 +34,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781132418471+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -55,7 +55,7 @@
   "innstilling_id": 17495,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "respons_dato_tid": "/Date(1781143228022+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -64,7 +64,7 @@
   "sak_fremmet_id": 200107,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781122506142+0200)/",
+      "respons_dato_tid": "/Date(1781143265728+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -73,14 +73,14 @@
       "id": "ERLL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781132418471+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -107,3 +107,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

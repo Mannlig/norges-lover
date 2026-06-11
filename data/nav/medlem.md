@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5e26c76af1d7d3274bcda426d474748079e700facfa1d17dbb1d235a6c4ae109 -->
+<!-- innholds-hash: 3d025fc12d9a5e733fc34acfab16d2da6b079b00826d189f52deea4100765ca6 -->
 
 # Medlemskap i folketrygden - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/medlem
-- **Sist hentet:** 2026-05-16T08:33:25Z
+- **Sist hentet:** 2026-06-11T07:43:48Z
 
 ## Innhold
 
@@ -21,10 +21,8 @@ Det er reglene i folketrygdloven eller trygdeavtaler Norge har inngått med andr
 
 Er du bosatt i Norge, er du som hovedregel medlem i folketrygden. For at du skal anses som bosatt, må oppholdet ditt i Norge vare, eller ha til hensikt å vare i minst 12 måneder. Det er en forutsetning for medlemskapet at du har lovlig opphold i Norge. Når du flytter til Norge for å være her i minst 12 måneder, blir du medlem fra innreisedatoen.
 
-Er du ikke bosatt i Norge, men arbeider her, er du likevel pliktig medlem i folketrygden i noen tilfeller. Dette gjelder blant annet hvis du
+Er du ikke bosatt i Norge, men arbeider her, er du likevel pliktig medlem i folketrygden i noen tilfeller. Les mer om
 
-- arbeider i Norge eller
-- er norsk statsborger/EØS-statsborger og
 Er du pliktig medlem i folketrygden, omfatter trygdedekningen rett til alle typer ytelser og stønader etter folketrygdloven.
 
 
@@ -71,3 +69,4 @@ EØS-reglene sier likevel at hvis du får pensjon fra folketrygden, skal du beta
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

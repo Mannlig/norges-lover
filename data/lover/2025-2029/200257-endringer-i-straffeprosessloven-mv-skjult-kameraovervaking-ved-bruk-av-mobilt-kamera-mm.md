@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8c3e74af4a9e1e110bc6aedf614550f1f097de4167ef547a8765b4b9f44ec4ef -->
+<!-- innholds-hash: f56c5020499cf0166b48e0b02bc8daa8c04e4fd0a14ab5a0cff8fdc519658947 -->
 
 # Endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sist hentet:** 2026-06-11T02:43:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200257
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781122506205+0200)/",
+  "respons_dato_tid": "/Date(1781143266025+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17443,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "respons_dato_tid": "/Date(1781143228022+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200257,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781122506205+0200)/",
+      "respons_dato_tid": "/Date(1781143266025+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -47,14 +47,14 @@
       "id": "STISTO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781132418471+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -82,3 +82,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

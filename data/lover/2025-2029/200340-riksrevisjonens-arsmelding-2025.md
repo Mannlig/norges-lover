@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7a5ca94f3997f60ac005e7eafbde33db7d68f162fc7bb0539a560e4c3d1df86f -->
+<!-- innholds-hash: 403380e2e827039e5ce6373929bd89bd50e2a86fec53e80e9dc8f5fba25b57e2 -->
 
 # Riksrevisjonens årsmelding 2025
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sist hentet:** 2026-06-11T02:43:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200340
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781122505611+0200)/",
+  "respons_dato_tid": "/Date(1781143264103+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "respons_dato_tid": "/Date(1781143228022+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -52,3 +52,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

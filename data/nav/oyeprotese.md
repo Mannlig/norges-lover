@@ -1,11 +1,11 @@
-<!-- innholds-hash: 240cb30c6c258d28d33bb9fd8ad90da881dc24137aa6823e78ec2210377215da -->
+<!-- innholds-hash: 4b3f142f225483b6989bbfaa472c52eac639405bd3bbd6eef150d8ff261b0836 -->
 
 # Øyeprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oyeprotese
-- **Sist hentet:** 2026-05-18T02:30:20Z
+- **Sist hentet:** 2026-06-11T09:13:46Z
 
 ## Innhold
 
@@ -80,7 +80,7 @@ Oppdatert 05.12.2025
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Chat med oss
@@ -89,7 +89,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -98,3 +98,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

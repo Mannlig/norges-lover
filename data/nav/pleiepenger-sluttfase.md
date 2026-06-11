@@ -1,11 +1,11 @@
-<!-- innholds-hash: e8781c7499892ef53e54253b51d7c0e611be55fc14ad6016db9e9ebf0d2bbd7f -->
+<!-- innholds-hash: ce2a02394795d7da885a1629eda05f165e6c5ecfb0ef62d099bebe7705cbd7c1 -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-sluttfase
-- **Sist hentet:** 2026-06-03T13:05:31Z
+- **Sist hentet:** 2026-06-11T08:41:30Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ Pleiepenger regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de
 - Hvis det er mer enn 25 prosent forskjell mellom årsinntekten din og inntekten din de 3 siste månedene omregnet til årsinntekt, vurderer vi hvilken inntekt som er mest representativ i din situasjon.
 - Hvis arbeidsforholdet ditt har vart under 3 måneder, skal pleiepengene regnes ut fra inntekten du har hatt i den perioden du har vært i jobb. Inntekten din regnes om til en månedsinntekt.
 - Hvis du har hatt korte fravær som ferie eller ulønnet permisjon i perioden du har hatt inntekt, fastsettes inntekten din til det du vanligvis ville hatt hvis du hadde vært i jobb.
-Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativ i din situasjon
+Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativt i din situasjon
 
 Vanligvis blir pleiepenger regnet ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før pleiepengeperioden din starter.
 
@@ -274,7 +274,7 @@ Du melder fra om endringer ved å skrive en beskjed til oss.
 
 Du melder fra ved å skrive en beskjed til til oss.
 
-Oppdatert 17.02.2026
+Oppdatert 10.06.2026
 
 
 #### Chat med oss
@@ -283,7 +283,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -293,7 +293,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -304,3 +304,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

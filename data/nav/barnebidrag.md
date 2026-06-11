@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05ee7f4db452551e0e92519ede019339a73c91acecffd7f14eb34a66e7c4fb24 -->
+<!-- innholds-hash: e2fca958aba0b18d94fcac18d2599b765b9b1f2a58278936562fdfabea7d4237 -->
 
 # Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag
-- **Sist hentet:** 2026-06-03T04:20:19Z
+- **Sist hentet:** 2026-06-11T08:25:07Z
 
 ## Innhold
 
@@ -510,7 +510,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -520,7 +520,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -531,3 +531,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

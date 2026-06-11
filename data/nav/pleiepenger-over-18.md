@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6fe6b145a2431c45adcde30769cfec0df7486c0a1f09d28590253f5f70dfca20 -->
+<!-- innholds-hash: e78af6412a8c9e99e24c8ce7aa002a1d58e9e5f09c1d408bfbc7e9e07b556e3f -->
 
 # Pleiepenger for en utviklingshemmet person over 18 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-over-18
-- **Sist hentet:** 2026-06-03T13:04:51Z
+- **Sist hentet:** 2026-06-11T08:40:47Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Pleiepenger regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de
 - Hvis det er mer enn 25 prosent forskjell mellom årsinntekten din og inntekten din de 3 siste månedene omregnet til årsinntekt, vurderer vi hvilken inntekt som er mest representativ i din situasjon.
 - Hvis arbeidsforholdet ditt har vart under 3 måneder, skal pleiepengene regnes ut fra inntekten du har hatt i den perioden du har vært i jobb. Inntekten din regnes om til en månedsinntekt.
 - Hvis du har hatt korte fravær som ferie eller ulønnet permisjon i perioden du har hatt inntekt, fastsettes inntekten din til det du vanligvis ville hatt hvis du hadde vært i jobb.
-Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativ i din situasjon
+Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativt i din situasjon
 
 Vanligvis blir pleiepenger regnet ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før pleiepengeperioden din starter.
 
@@ -386,7 +386,7 @@ Du må også melde fra når
 - behovet for nattevåk og/eller beredskap endrer seg.
 - du skal reise til et
 - omsorgen for den du pleier er overført til andre, helt eller delvis.
-Oppdatert 17.02.2026
+Oppdatert 10.06.2026
 
 
 #### Chat med oss
@@ -395,7 +395,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -405,7 +405,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -416,3 +416,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

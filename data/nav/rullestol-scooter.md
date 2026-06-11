@@ -1,11 +1,11 @@
-<!-- innholds-hash: a6b90c9ce00760de01a75bea5bd63027dc450f9ef5310086cea98cd4b7bc5917 -->
+<!-- innholds-hash: ebcac8d082435c9af9ccf7ca09da42685a7ad48dd6875e524063630a1eeb230c -->
 
 # Rullestol og scooter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/rullestol-scooter
-- **Sist hentet:** 2026-05-18T02:33:23Z
+- **Sist hentet:** 2026-06-11T09:17:11Z
 
 ## Innhold
 
@@ -238,7 +238,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar kl 9
+Ope no
 
 
 #### Finn din hjelpemiddelsentral
@@ -250,3 +250,4 @@ Stengt no, opnar kl 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

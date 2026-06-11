@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5e74466ad29f843257493ce12be9690f0f5ffa109266b7e5b6a94178cb97efbf -->
+<!-- innholds-hash: a5667e6bf476c4de966705be6ae07458b18447cd172b37118651210e9157dfd9 -->
 
 # Avgift på mineralske produkter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/mineralske-produkter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:58:25Z
+- **Sist hentet:** 2026-06-11T04:47:55Z
 
 ## Innhold
 
@@ -31,7 +31,7 @@ Som autodiesel anses mineralolje som det skal betales veibrukavgift for etter be
 
 Som anleggsdiesel anses mineralolje som er merket og som er fritatt for veibruksavgift etter bestemmelsene om veibruksavgift i særavgiftsforskriften kap. 3-11. Anleggsdiesel omfatter likevel ikke mineralolje til sjøfart.
 
-Registrerte drivstoffleverandører skal betale ordinær sats for mineralolje som leveres til uregistrert forhandler som helt eller delvis selger drivstoff til sjøfart eller til fiske og fangst. Ved levering til uregistrert forhandler som ikke selger til sjøfart eller fiske og fangst, vil merkingen av drivstoffet være avgjørende for hvilken sats som skal betales.
+Registrerte drivstoffleverandører skal betale ordinær sats for mineralolje som leveres til uregistrert forhandler når det ikke kan utelukkes at leveransen helt eller delvis går til sjøfart eller til fiske og fangst. Ved levering til uregistrert forhandler som ikke selger til sjøfart eller fiske og fangst, vil merkingen av drivstoffet være avgjørende for hvilken sats som skal betales.
 
 Mineralolje som er merket på tidspunktet avgiftsplikten oppstår, det vil si ved uttak fra godkjent lokale eller ved innførsel dersom den ikke legges på godkjent lokale, ilegges satsen for anleggsdiesel. All mineralolje som ikke er merket på tidspunktet avgiftsplikten oppstår ilegges satsen for autodiesel.
 
@@ -124,7 +124,7 @@ Fartøy som driver innenriks ikke-kvotepliktig sjøfart, og kjøper mineralolje 
 
 Det er innført redusert CO2-avgift på anleggsdiesel i perioden 1. mai til 1. september 2026. Den reduserte satsen er kr 1,92 per liter. Som anleggsdiesel anses mineralolje som er merket og som er fritatt for veibruksavgift. Anleggsdiesel omfatter likevel ikke mineralolje til sjøfart.
 
-Ved levering av merket mineralolje til uregistrert forhandler som selger helt eller delvis til sjøfart og fiske og fangst, skal det betales avgift med full sats.
+Ved levering av merket mineralolje til uregistrert forhandler når det ikke kan utelukkes at leveransen helt eller delvis går sjøfart og fiske og fangst, skal det betales avgift med full sats.
 
 Kjøper av anleggsdiesel som gir rett til redusert sats fra forhandler som også selger til sjøfart og fiske og fangst, kan søke om refusjon. Det gis refusjon for differansen mellom full sats og satsen for anleggsdiesel.
 
@@ -162,3 +162,4 @@ Skatteetaten gir ut årlige rundskriv om avgiften. Rundskrivene og andre rettski
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

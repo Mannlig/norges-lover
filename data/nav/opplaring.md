@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3cfd22bca3b39573f8f6ed287f4fdb465c40617144ceb231a3a9e94c7c96bda3 -->
+<!-- innholds-hash: dffd6e6ea12f466b7aadb0f17714976b949eb6bb207db77305538d77e992854b -->
 
 # Opplæring - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplaring
-- **Sist hentet:** 2026-05-17T12:22:28Z
+- **Sist hentet:** 2026-06-11T09:13:04Z
 
 ## Innhold
 
@@ -98,7 +98,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -108,7 +108,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -117,3 +117,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

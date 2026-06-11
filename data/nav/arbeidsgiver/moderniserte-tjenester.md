@@ -1,11 +1,11 @@
-<!-- innholds-hash: 967a0cf230f2a0d556709f286cb1b050f08647d4064af51843ad3456ac57ac75 -->
+<!-- innholds-hash: a560ffd7cb7c271f4cd6a47d1a0ac29ae42e78d398dcef5c57e0cef83df62257 -->
 
 # Nav moderniserer tjenester for arbeidsgivere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/moderniserte-tjenester
-- **Sist hentet:** 2026-06-03T04:13:24Z
+- **Sist hentet:** 2026-06-11T08:18:13Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Nav moderniserer tjenester for arbeidsgivere
 
-Publisert 21. januar 2026 | Oppdatert 1. juni 2026
+Publisert 21. januar 2026 | Oppdatert 3. juni 2026
 
 Nav flytter sine arbeidsgivertjenester fra Altinn 2 til nav.no og nye tekniske grensesnitt (API). Dette må du som arbeidsgiver være klar over.
 
@@ -127,3 +127,4 @@ Høsten 2026 vil Nav fjerne all tilgangsstyring basert på de gamle Altinn 2‑r
 
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

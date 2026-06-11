@@ -1,11 +1,11 @@
-<!-- innholds-hash: eb7f40072de0cd5d43df8f475027587f867cd99e48d0f9040125db2bec15cf4d -->
+<!-- innholds-hash: 29572e2815570114249c1677150e004ab406d8764db5450c02c2a15966d6c797 -->
 
 # Arbeidstrening - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidstrening
-- **Sist hentet:** 2026-06-03T13:15:15Z
+- **Sist hentet:** 2026-06-11T08:51:03Z
 
 ## Innhold
 
@@ -72,7 +72,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -82,7 +82,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -93,3 +93,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

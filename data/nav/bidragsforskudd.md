@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0b57b3baeb32866d71f445a801ba874028da740b8ddccd1f3397dd1a7cf5cc5e -->
+<!-- innholds-hash: 4afee98153929778178ca8d5925aaabc7d63aa80ad0a0dd9c8d3894ff1ca6478 -->
 
 # Bidragsforskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidragsforskudd
-- **Sist hentet:** 2026-06-03T04:22:25Z
+- **Sist hentet:** 2026-06-11T08:27:05Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Pengestøtte
 
 ## Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 ### Innhold på denne siden
@@ -204,7 +204,7 @@ Du må melde fra til oss hvis
 - barnet flytter til utlandet eller har et opphold i utlandet
 ``
 
-Oppdatert 02.06.2026
+Oppdatert 04.06.2026
 
 
 #### Chat med oss
@@ -213,7 +213,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -223,7 +223,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -234,3 +234,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

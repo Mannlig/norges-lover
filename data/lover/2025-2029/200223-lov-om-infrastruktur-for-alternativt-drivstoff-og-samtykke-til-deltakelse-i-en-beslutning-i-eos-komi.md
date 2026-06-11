@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2e7ca1b1352af6e0eff5073d3173cce9e02d0645cecb3ec8551bd4dcbb575ae7 -->
+<!-- innholds-hash: 3ddf42f7259bcdc4fe8168ed479d45ecc28d6b26b4afce5f73d9a02461b6d6e4 -->
 
 # Lov om infrastruktur for alternativt drivstoff og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/1804 om utbygging av infrastruktur for alternativt drivstoff og om oppheving av direktiv 2014/94/EU
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sist hentet:** 2026-06-11T02:43:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200223
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781122506205+0200)/",
+  "respons_dato_tid": "/Date(1781143266103+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17430,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "respons_dato_tid": "/Date(1781143228022+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200223,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781122506205+0200)/",
+      "respons_dato_tid": "/Date(1781143266103+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -47,14 +47,14 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781132418471+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -84,3 +84,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

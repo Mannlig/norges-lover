@@ -1,11 +1,11 @@
-<!-- innholds-hash: 32e58ea1e9be998ce082af56889cf30ebcbd8ea5bc22387b21eca788f4d743c4 -->
+<!-- innholds-hash: 9f1e2179727445bdc0faeb5284b47fc651a100a08673bb4d92756a4aa55627e2 -->
 
 # Lydutjevningsanlegg  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lydutjevningsanlegg
-- **Sist hentet:** 2026-05-18T02:27:51Z
+- **Sist hentet:** 2026-06-11T09:08:16Z
 
 ## Innhold
 
@@ -235,7 +235,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -247,3 +247,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

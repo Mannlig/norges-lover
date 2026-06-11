@@ -1,4 +1,4 @@
-<!-- innholds-hash: c492b6d958d8dcd25d04c11a5f933067de7c2946e9608790c51147d2dfddd5ee -->
+<!-- innholds-hash: 9d344b5cce265068410f5c9a1e3e360e085753c222e533b405d6004c9c7c5492 -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/horinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-17T11:55:45Z
+- **Sist hentet:** 2026-06-11T05:41:24Z
 
 ## Innhold
 
@@ -17,6 +17,21 @@ Direktoratet for byggkvalitet gjennomfører høringer på oppdrag fra Kommunal- 
 
 
 ### Pågående høringer
+
+Høringsfrist
+
+16.06.2026
+
+Status
+
+På høring
+
+Publisert
+
+03.06.2026
+
+
+#### Forslag til endringer i veiledningen til kapittel 2 i byggteknisk forskrift
 
 Høringsfrist
 
@@ -277,3 +292,4 @@ Høringsfrist
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

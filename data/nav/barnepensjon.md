@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3a0bda48fcac2c485cade9c37e8b1a83a9b0c2f8019b5bcdfc5aa3fb2c0987ab -->
+<!-- innholds-hash: 52cd1413533bcb9ea7223f347bbf445076fb4da11e6bad1c5af0444a9299dcfc -->
 
 # Barnepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnepensjon
-- **Sist hentet:** 2026-06-03T04:06:53Z
+- **Sist hentet:** 2026-06-11T08:11:18Z
 
 ## Innhold
 
@@ -390,7 +390,7 @@ Vergen må kontakte Skatteetaten om skattepliktreglene til Norge.
 
 ### Lenker
 
-Oppdatert 23.10.2025
+Oppdatert 08.06.2026
 
 
 #### Chat med oss
@@ -399,7 +399,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -409,7 +409,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -420,3 +420,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

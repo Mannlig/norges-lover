@@ -1,11 +1,11 @@
-<!-- innholds-hash: fb8244c8e387254a68dd9c790cf71aee00ac341c920dd087378ec7c2106fc8e5 -->
+<!-- innholds-hash: 52bda9e095a008f70b2461677e01f5632b9a6c6a32fc519e97f0934f63466cdc -->
 
 # Sykepenger i arbeidsgiverperioden  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden
-- **Sist hentet:** 2026-06-03T04:14:48Z
+- **Sist hentet:** 2026-06-11T08:19:36Z
 
 ## Innhold
 
@@ -239,7 +239,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -250,3 +250,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

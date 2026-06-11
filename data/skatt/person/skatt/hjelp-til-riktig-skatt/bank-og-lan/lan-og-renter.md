@@ -1,4 +1,4 @@
-<!-- innholds-hash: fa54e0c0e166cd8d00d14c957622f0c8706e7fe76797acfbc605270a6ad1d334 -->
+<!-- innholds-hash: d33b9f72230382c378c7cd8997af2bde74988d3fc778d8ae59cbb688689cc170 -->
 
 # Lån og renter på lån
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:27:09Z
+- **Sist hentet:** 2026-06-11T05:32:19Z
 
 ## Innhold
 
@@ -92,7 +92,7 @@ Du kan endre hele året.
 
 Skattemeldingen er vanligvis forhåndsutfylt med opplysninger om lån og renter. Bankene rapporterer inn alle lån, rentekostnader og andre kostnader du får fradrag for, som termingebyr og etableringsgebyr.
 
-Sjekk at opplysningene om lån og renter på lån i skattemeldingen din stemmer med årsoppgaven som du får fra sameiet eller borettslaget. Du finner lån i sameie og borettslag under temaet Bank og lån i skattemeldingen. Lån finner du under "Gjeld i boligselskap/-sameie" og renter under "Andel av kostnader i boligselskap/-sameie".
+Sjekk at opplysningene om lån og renter på lån i skattemeldingen din stemmer med årsoppgaven som du får fra sameiet eller borettslaget. Du finner lån i sameie og borettslag under temaet Bolig og eiendeler i skattemeldingen. Lån finner du under "Gjeld i boligselskap/-sameie" og renter under "Andel av kostnader i boligselskap/-sameie".
 
 Du finner informasjon om lån og renter på lån i årsoppgaven eller nedbetalingsplanen som du får fra Lånekassen. Sjekk at tallene i skattekortet stemmer med det du kommer til å ha i lån og betale i renter i løpet av hele året.
 
@@ -151,3 +151,4 @@ Arbeidsgiver innrapporterer rentene til oss. Rentefradraget blir beregnet automa
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 95732110e0a69367caebd4cbded9e59af9df1cbe9717c18b56f0dbaeda95d25b -->
+<!-- innholds-hash: 8e01ccc7ca9dc113b7553e4bfab70c6ad9589c3217aad6c5367993002f1d5118 -->
 
 # Hjelpemidler for seksuallivet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/seksualtekniskehjelpemidler
-- **Sist hentet:** 2026-05-18T02:33:51Z
+- **Sist hentet:** 2026-06-11T09:17:51Z
 
 ## Innhold
 
@@ -71,7 +71,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Chat med oss
@@ -80,7 +80,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -89,3 +89,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

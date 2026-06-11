@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4655ecfad61b78d63dbbb711517920b016e740c01f356daa7b3a4ad0349d5435 -->
+<!-- innholds-hash: 13bd5825a80f49c241e12de57df6c727e829aea36b1bacea108138ea208b8031 -->
 
 # A-meldingen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:45:50Z
+- **Sist hentet:** 2026-06-11T03:14:33Z
 
 ## Innhold
 
@@ -32,7 +32,7 @@ A-meldingen er en månedlig melding til Nav, SSB og Skatteetaten om inntekt, arb
 ### For privatpersoner
 
 
-### For virksomheter med lønnssystem
+### Levere a-melding som filvedlegg
 
 
 ### For veldedige og allmennyttige organisasjoner
@@ -65,3 +65,4 @@ A-meldingen er en månedlig melding til Nav, SSB og Skatteetaten om inntekt, arb
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

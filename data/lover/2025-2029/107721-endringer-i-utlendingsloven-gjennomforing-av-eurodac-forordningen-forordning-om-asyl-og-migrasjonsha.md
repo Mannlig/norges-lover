@@ -1,4 +1,4 @@
-<!-- innholds-hash: d76c09134bc9e84680c0d357b303ac9e14a031e4fb3d5356a0d48f7189c0338e -->
+<!-- innholds-hash: 9b70410539f1bd4e66e045dbf0dd3ade07470617bc2c3fce0a010d0401609cf7 -->
 
 # Endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett) og samtykke til godtakelse av deler av forordning (EU) 2024/1358 (Eurodac-forordningen), forordning (EU) 2024/1351 (forordning om asyl- og migrasjonshåndtering) og forordning (EU) 2024/1359 (kriseforordningen) (videreutvikling av Dublin-regelverket)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T21:11:09Z
+- **Sist hentet:** 2026-06-11T02:43:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107721
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781122506205+0200)/",
+  "respons_dato_tid": "/Date(1781143266088+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17471,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781121796875+0200)/",
+    "respons_dato_tid": "/Date(1781143228022+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107720,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781122506205+0200)/",
+      "respons_dato_tid": "/Date(1781143266088+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Busch",
@@ -47,14 +47,14 @@
       "id": "ISABUS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781132418471+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -82,3 +82,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: b77b90fef5a1a9bb92ca54bdeecaa8eb57a724336894be84ac82421976d1529a -->
+<!-- innholds-hash: cda44fe63b04a7bafeee51744547d9894d481a7fff2ca48a514d159143fba405 -->
 
 # Gjenlevendepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gjenlevendepensjon
-- **Sist hentet:** 2026-06-03T04:02:51Z
+- **Sist hentet:** 2026-06-11T08:07:08Z
 
 ## Innhold
 
@@ -358,7 +358,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -368,7 +368,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -379,3 +379,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-16** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

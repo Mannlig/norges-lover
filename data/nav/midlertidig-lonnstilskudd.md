@@ -1,11 +1,11 @@
-<!-- innholds-hash: 01192e65f7fa2ac2c497d1d3b25895139ee499b4ecb920959a4453ed5d50672f -->
+<!-- innholds-hash: 0ca1d2c5f23dbe03de714b29109e673d331bc4d58fc09d240f7e3114457d36b4 -->
 
 # Midlertidig lønnstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/midlertidig-lonnstilskudd
-- **Sist hentet:** 2026-05-17T12:21:02Z
+- **Sist hentet:** 2026-06-11T09:11:43Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -86,7 +86,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -95,3 +95,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)
