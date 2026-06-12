@@ -1,11 +1,11 @@
-<!-- innholds-hash: c12c726fb68326ce435fff5e5d01164734deed53404db071e8f272e0f10bfd12 -->
+<!-- innholds-hash: 0920bf4eb83cf7d0d8958d82ddccddba0fce5cc4a33aab53e0467c40fb50447d -->
 
 # Nav hjelpemiddelsentral Oslo - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-oslo
-- **Sist hentet:** 2026-05-17T12:38:12Z
+- **Sist hentet:** 2026-06-12T01:21:00Z
 
 ## Innhold
 
@@ -164,8 +164,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -221,3 +229,4 @@ Du kan lese
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

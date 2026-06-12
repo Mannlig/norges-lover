@@ -1,11 +1,11 @@
-<!-- innholds-hash: 82e93da03e27b1d3be2ef487077826284177cf122a3bdaf975d333ec3ee64657 -->
+<!-- innholds-hash: 204ee6a210af94cb432839629efcc189f7b313c1f3f9854e3264ab28c08db164 -->
 
 # Nav hjelpemiddelsentral Øst-Viken - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-ost-viken
-- **Sist hentet:** 2026-05-17T12:38:42Z
+- **Sist hentet:** 2026-06-12T01:21:39Z
 
 ## Innhold
 
@@ -178,8 +178,16 @@ Du kan
 - 41 71 60 90 (kun sms. Du kan ikke sende bilder til dette nummeret)
 - Telefonen er åpen hverdager klokken 09.00 – 14.30.
 - Epostadresse:
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -203,3 +211,4 @@ Brukerutvalget skal være en arena for samhandling med fast representasjon fra 
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

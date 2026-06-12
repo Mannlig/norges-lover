@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-11 19:18 UTC*
+*Sist oppdatert: 2026-06-12 02:57 UTC*
 
-**Antall dokumenter:** 820
+**Antall dokumenter:** 825
 
 ## Innhold
 
@@ -51,6 +51,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Bekreft at du vil være registrert som arbeidssøker - nav.no](bekreft-arbeidssoker.md)
 - [Søk om avklaring av trygdetilhørighet under opphold i EØS eller Sveits - nav.no](bekreftelse-medlemskap.md)
 - [Bestille tolk - nav.no](bestille-tolk.md)
+- [Søke, bestille og bytte hjelpemidler - nav.no](bestillingsordningen.md)
 - [Har vansker med bevegelse og forflytning - nav.no](bevegelse.md)
 - [Særbidrag (tidligere bidrag til særlige utgifter) - nav.no](bidrag-utgifter.md)
 - [Bidragsforskudd - nav.no](bidragsforskudd.md)
@@ -61,12 +62,14 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Bruk av oversettelsesverktøy i Nav – brudd på personopplysningssikkerheten   - nav.no](bruk-av-oversettelsesverktoy.md)
 - [Brukerpass - nav.no](brukerpass.md)
 - [Tips ved tekniske problemer - nav.no](brukerstotte.md)
+- [Navs brukerundersøkelser 2026 - nav.no](brukerundersokelser.md)
 - [Brystprotese - nav.no](brystprotese.md)
 - [Dagpenger - nav.no](dagpenger.md)
 - [Dialogmøte  - nav.no](dialogmote.md)
 - [Digitale kommunikasjonshjelpemidler - nav.no](digitale-kommunikasjonshjelpemidler.md)
 - [Digitalt jobbsøkerkurs - nav.no](digitalt-jobbsokerkurs.md)
 - [Din pensjon - nav.no](dinpensjon-nn.md)
+- [Forside privatperson - nav.no](diverse-dokumentasjon.md)
 - [Egenmelding - nav.no](egenmelding.md)
 - [Tilskudd til ekspertbistand - nav.no](ekspertbistand.md)
 - [Ektefellebidrag - nav.no](ektefellebidrag.md)
@@ -119,6 +122,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Hjelpemidler for mobilitet og orientering - nav.no](hjelpemidler-mobilitet-orientering.md)
 - [Informasjon om hjelpemidler og tilrettelegging - nav.no](hjelpemidler-og-tilrettelegging.md)
 - [Hjelpemidler for punktskrift - nav.no](hjelpemidler-punktskrift.md)
+- [Trenger tilrettelegging på jobb eller i utdanning - nav.no](hjelpemidler-til-arbeid.md)
 - [Hjelpemidler og tilrettelegging - nav.no](hjelpemidler.md)
 - [Hjelpestønad - nav.no](hjelpestonad.md)
 - [Honnørkort - nav.no](honnorkort.md)
@@ -238,6 +242,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Regelendringer og satser fra 2026 - nav.no](regelendringer-2026.md)
 - [Registrer deg som arbeidssøker - nav.no](registrer-arbeidssoker.md)
 - [Vil registrere farskap, morskap eller medmorskap - nav.no](registrere-far-eller-mor.md)
+- [Regulering av grunnbeløpet og pengestøtter fra 1. mai 2026 - nav.no](regulering-2026.md)
 - [Reisetilskudd - nav.no](reisetilskudd.md)
 - [Reiseutgifter - nav.no](reiseutgifter.md)
 - [Rekrutteringsprogrammet - nav.no](rekrutteringsprogrammet.md)

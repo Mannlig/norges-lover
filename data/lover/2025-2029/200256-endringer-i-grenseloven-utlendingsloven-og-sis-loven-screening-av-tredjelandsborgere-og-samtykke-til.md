@@ -1,4 +1,4 @@
-<!-- innholds-hash: 612a7a55a16e9fd29ce4c5d4cfc8b9400b1f287291ef0174713fe71b90a497ef -->
+<!-- innholds-hash: 90be6baebf93f57a9daf9a94ad9d180b99685fef52b5986b2f38b6b92d87e753 -->
 
 # Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-11T13:21:35Z
+- **Sist hentet:** 2026-06-11T21:19:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200256
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781183248239+0200)/",
+  "respons_dato_tid": "/Date(1781212468854+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17461,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781182982417+0200)/",
+    "respons_dato_tid": "/Date(1781211959504+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200256,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
+      "respons_dato_tid": "/Date(1781212468854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
@@ -82,5 +82,6 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)

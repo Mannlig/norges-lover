@@ -1,11 +1,11 @@
-<!-- innholds-hash: 66f0dec1fd3250f0a6c6e66e49f883bb5088caaa4a9a2482756e951e2af226ea -->
+<!-- innholds-hash: 7ab721524fbddbdaf4d7179ae2d66049505341d69ed86a7ce62dc006cc1a9320 -->
 
 # Nav hjelpemiddelsentral Nordland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-nordland
-- **Sist hentet:** 2026-05-17T12:37:45Z
+- **Sist hentet:** 2026-06-12T01:20:20Z
 
 ## Innhold
 
@@ -120,8 +120,16 @@ Du kan
 - Epostadresse: tolk.nordland@nav.no
 Ikke send sensitiv informasjon i e-post, for eksempel opplysninger om helseforhold eller diagnoser.
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -191,3 +199,4 @@ Skal du sende oss dokumentasjon kan du gjøre det via
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

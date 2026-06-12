@@ -1,4 +1,4 @@
-<!-- innholds-hash: 96e4a0da4699d46645c6f019313130243550601f919a44fb687dad57a5a01371 -->
+<!-- innholds-hash: 994cea0b0768db72581b946f23bc89e184191319be55e68894b02e85c0d21a90 -->
 
 # Rettskilder sortert på emne
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:42:19Z
+- **Sist hentet:** 2026-06-11T23:13:52Z
 
 ## Innhold
 
@@ -51,6 +51,12 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 
 ### Siste publiserte
 
+- Publisert I dag
+- Avgitt: 20.07.2022
+- Skatteklagenemnda
+- Publisert 05.06.2026
+- Avgitt: 20.05.2026
+- Skatteklagenemnda
 - Publisert 18.05.2026
 - Avgitt: 11.11.2025
 - Skatteklagenemnda
@@ -120,12 +126,6 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 - Publisert 17.03.2026
 - Avgitt 09.03.2026
 - Bindende forhåndsuttalelse
-- Publisert 12.03.2026
-- Avgitt: 13.10.2020
-- Skatteklagenemnda
-- Publisert 11.03.2026
-- Avgitt 16.02.2026
-- Bindende forhåndsuttalelse
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/emne/) av norges-lover-bot.*
@@ -133,3 +133,4 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: a1fb1c5e34216b31fe1501089a08c4757c27da0a9d5fc5b38b67bf772db75a4f -->
+<!-- innholds-hash: 29dbfd0c1300af54f739e4210fc94aa787e977edf2540f6bc27d7cf7e1033d25 -->
 
 # Praksis, rutiner og retningslinjer rundt offisiell og offentlig statistikk fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/data-og-forskning-pa-nav/praksis-rutiner-og-retningslinjer-rundt-offisiell-og-offentlig-statistikk-fra-nav
-- **Sist hentet:** 2026-05-17T19:39:18Z
+- **Sist hentet:** 2026-06-12T01:42:08Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ På bakgrunn av disse lovkravene og krav i årlige tildelingsbrev fra Arbeids- o
 
 #### Offisiell og offentlig statistikk fra Nav
 
-Statistikk fra Nav er enten betegnet som offisiell statistikk eller offentlig statistikk. I tillegg har Nav intern statistikk for styring og analyse av etaten. Offisiell statistikk er de deler av den offisielle statistikken under
+Statistikk fra Nav er enten betegnet som offisiell statistikk eller offentlig statistikk. Offisiell statistikk er de deler av den offisielle statistikken under
 
 Nav er ansvarlig for deler av den offisielle statistikken i Norge under Nasjonalt program for offisiell statistikk. Dette gjelder hovedområde 5.1 «Arbeid og lønn», delområde «Arbeidsledighet og ledige stillinger» og delområde «Arbeidsmiljø, sykefravær og arbeidskonflikter», og hovedområde 5.15 «Sosiale forhold og kriminalitet», delområde «Offentlige pensjoner og stønader».
 
@@ -56,6 +56,18 @@ Krav til offisiell statistikk angis i statistikkloven § 5:
 - Offisiell statistikk skal utvikles, utarbeides og formidles på en faglig uavhengig, upartisk, objektiv, pålitelig og kostnadseffektiv måte.
 - Utviklingen, utarbeidingen og formidlingen av offisiell statistikk skal skje på grunnlag av enhetlige standarder og harmoniserte metoder.
 - Statistikken skal være relevant, nøyaktig, aktuell, punktlig, tilgjengelig og klar, sammenlignbar og sammenhengende.
+I tillegg har Nav intern statistikk for styring og analyse av etaten. Intern statistikk publiseres i interne løsninger i Nav eller brukes til analyser som også publiseres eksternt. Dette omfatter blant annet statistikk om
+
+- Arbeidsrettet oppfølging av brukere (Nav-loven §14a)
+- Sykefraværsoppfølging (folketrygdloven §8-7a)
+- Saksbehandling av ytelser, rettigheter og plikter
+- Oppgavebehandling
+- Pensjonsopptjening
+- Styringsparametre
+- Statistikk for rapportering  til styrende departement, ut over offisiell og offentlig statistikk
+- Statistikk for rapportering til EU, inkludert Electronic Exchange of Social Security Information (EESSI), Labour Market Policy (LMP) og European Employment Services (EURES)
+- Analyser av etatens produksjon, kvalitet, effektivitet
+- Analyser for utgiftsanslag til statsbudsjett på de fleste ytelsene som inngår i folketrygden og andre ytelser som Nav administrerer og utbetaler
 
 #### Behandling av personopplysninger
 
@@ -86,7 +98,7 @@ Uavhengighet og upartiskhet er kjerneverdier for å ivareta tilliten til offisie
 
 En måte å sikre dette på er å gjøre de offisielle og offentlige statistikkene fra Nav fritt tilgjengelig samtidig for alle. Publiseringsdatoer og -tidspunkter for statistikk annonseres på forhånd i
 
-Statistikken skal være relevant ved at den tilpasses brukerbehov og beskriver aktuelle samfunnsforhold. Den skal være aktuell, nøyaktig, klar, lett tilgjengelig og sammenlignbar over tid og eventuelt mellom land. Tilgjengelighet sikres blant annet gjennom bruk av åpne datastandarder og maskinlesbare formater. Statistikktabeller fra Nav publiseres både i pdf og xlsx-format.
+Statistikken skal være relevant ved at den tilpasses brukerbehov og beskriver aktuelle samfunnsforhold. Den skal være aktuell, nøyaktig, klar, lett tilgjengelig og sammenlignbar over tid og eventuelt mellom land. Tilgjengelighet sikres blant annet gjennom bruk av åpne datastandarder og maskinlesbare formater. Statistikktabeller fra Nav publiseres både i html, pdf og xlsx-format.
 
 Der Nav gjøres oppmerksom på feil bruk eller tolkning av vår statistikk vil vi gjøre bruker oppmerksom på dette og kreve retting.
 
@@ -104,13 +116,8 @@ Forskere må sende søknaden til Arbeids- og velferdsdirektoratet ved Juridisk a
 - indirekte eller direkte identifiserbare personopplysninger eller andre statistiske enheter
 - saksdokumenter i enkeltsaker
 - diagnosedata
-Åpne data handler om å gi media, næringsliv, studenter, forskere og sivilsamfunn tilgang til data offentlig forvaltning har på en slik måte at de lett kan brukes i nye sammenhenger både av mennesker og maskiner. Fra september 2017 publiserer Nav åpne data på
+Åpne data handler om å gi media, næringsliv, studenter, forskere og sivilsamfunn tilgang til data offentlig forvaltning har på en slik måte at de lett kan brukes i nye sammenhenger både av mennesker og maskiner. Statistikk fra Nav på nav.no er åpne data og lisens for bruk er
 
-Her finnes
-
-- Beskrivelse av data
-- Lisens for bruk av data:
-- Data
 
 #### Personvern
 
@@ -119,6 +126,8 @@ I statistikkloven § 3 defineres statistikk som tallfestede opplysninger om en g
 Statistikk fra Nav er et resultat av en produksjonsprosess med data som input, primært hentet fra administrative registre. En statistikk vil kunne variere med hensyn til detaljeringsgrad, fra det som kan presenteres i én tabell til en samling av tabeller og figurer som belyser et fenomen. En statistikk omfatter en eller flere enhetstyper med et sett av egenskaper knyttet til seg. Statistikken som viser arbeidsledigheten kan for eksempel ha person som enhet med egenskaper som kjønn, alder, utdanning, bosted, yrke og tidspunkt statistikken gjelder for. Statistikken kjennetegnes av publiseringshyppighet (som for eksempel årlig, kvartalsvis eller månedlig) og geografisk eller annen detaljgrad.
 
 Ingen enkeltpersoner skal kunne identifiseres i statistikk fra Nav. I henhold til Statistikklovens § 7-1 har Nav derfor valgt å erstatte verdier i celler hvor tallene er mindre enn 4 med spesialtegn «*». Dette for å sikre at verdiene ikke kan føres tilbake til identifiserbare enkeltpersoner. I noen statistikker benyttes høyere grense enn 4.
+
+Se også
 
 I henhold til
 
@@ -143,3 +152,4 @@ Spørsmål om statistikk fra Nav rettes til epost adresse
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

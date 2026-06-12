@@ -1,0 +1,178 @@
+<!-- innholds-hash: bbfc7bc65f12784621bc697ec222faa8d5aba53632f9d51373b7ccd63e59a4e3 -->
+
+# Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Harry Valderhaug og Ida Lindtveit Røse om en langtidsplan for effektiv norsk bistand
+
+## Metadata
+
+- **Kilde:** Stortingets åpne API – https://data.stortinget.no
+- **Sak-ID:** 200095
+- **Type:** 2
+- **Korttittel:** Representantforslag om en langtidsplan for effektiv norsk bistand
+- **Status:** 1
+- **Stortingsperiode:** 2025-2029
+- **Behandlet:** 
+- **Sist hentet:** 2026-06-11T21:19:04Z
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200095
+
+## Rådata (JSON fra API)
+
+```json
+{
+  "respons_dato_tid": "/Date(1781212468554+0200)/",
+  "versjon": "1.6",
+  "behandlet_sesjon_id": "2025-2026",
+  "dokumentgruppe": 4,
+  "emne_liste": [],
+  "forslagstiller_liste": [
+    {
+      "respons_dato_tid": "/Date(1781212468554+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Valderhaug",
+      "foedselsdato": "/Date(-136519200000+0200)/",
+      "fornavn": "Harry",
+      "id": "HARVAL",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "MR",
+        "navn": "Møre og Romsdal"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781212468554+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Røse",
+      "foedselsdato": "/Date(723337200000+0100)/",
+      "fornavn": "Ida Lindtveit",
+      "id": "IDARSE",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781212468554+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Lossius",
+      "foedselsdato": "/Date(320626800000+0100)/",
+      "fornavn": "Jorunn Gleditsch",
+      "id": "JLO",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "VA",
+        "navn": "Vest-Agder"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781212468554+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Sayed",
+      "foedselsdato": "/Date(877125600000+0200)/",
+      "fornavn": "Jonas Andersen",
+      "id": "JONSAY",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "versjon": "1.6",
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "henvisning": "Dokument 8:168 S (2025-2026), Innst. 381 S (2025-2026)",
+  "id": 200095,
+  "innstilling_id": 17441,
+  "innstilling_kode": 1,
+  "komite": {
+    "respons_dato_tid": "/Date(1781211959504+0200)/",
+    "versjon": "1.6",
+    "id": "UFK",
+    "navn": "Utenriks- og forsvarskomiteen"
+  },
+  "korttittel": "Representantforslag om en langtidsplan for effektiv norsk bistand",
+  "sak_fremmet_id": 200095,
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1781212468554+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Hermstad",
+      "foedselsdato": "/Date(-101440800000+0200)/",
+      "fornavn": "Arild",
+      "id": "ARIHER",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "versjon": "1.6",
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
+  "status": 1,
+  "tittel": "Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Harry Valderhaug og Ida Lindtveit Røse om en langtidsplan for effektiv norsk bistand",
+  "type": 2
+}
+```
+
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+
+## Endringshistorikk
+
+- **2026-06-11** Første gang hentet

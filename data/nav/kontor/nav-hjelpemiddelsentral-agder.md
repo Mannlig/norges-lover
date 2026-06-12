@@ -1,11 +1,11 @@
-<!-- innholds-hash: df91401a1c62ce1d7247df6fcb8512eac6315fe307ded506994a8df3b5b893a3 -->
+<!-- innholds-hash: c0fcaae2fd1d8e007de727aa1c7698b10c1e4d8cd962c0273038b0b01df9c9e3 -->
 
 # Nav hjelpemiddelsentral Agder - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-agder
-- **Sist hentet:** 2026-05-17T12:35:44Z
+- **Sist hentet:** 2026-06-12T01:17:37Z
 
 ## Innhold
 
@@ -136,8 +136,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -163,3 +171,4 @@ Her finner du
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

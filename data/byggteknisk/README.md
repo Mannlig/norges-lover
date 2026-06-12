@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-06-11 19:18 UTC*
+*Sist oppdatert: 2026-06-12 02:57 UTC*
 
-**Antall dokumenter:** 727
+**Antall dokumenter:** 728
 
 ## Innhold
 
@@ -409,6 +409,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Forslag til endringer i byggteknisk forskrift (TEK17) § 7-2 og § 7-4](regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4.md)
 - [Forslag til endringer i byggteknisk forskrift (TEK17) §§ 7-3 og 7-4 - Krav til sikkerhet mot skred og flodbølge som følge av fjellskred](regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-3-og-7-4-krav-til-sikkerhet-mot-skred-og-flodbolge-som-folge-av-fjellskred.md)
 - [Forslag til endringer i reglene om søknad og dokumentasjon i byggesaker](regelverk/horinger/hoyringar/forslag-til-endringer-i-reglene-om-soknad-og-dokumentasjon-i-byggesaker.md)
+- [Forslag til endringer i veiledningen til kapittel 2 i byggteknisk forskrift](regelverk/horinger/hoyringar/forslag-til-endringer-i-veiledningen-til-kapittel-2-i-byggteknisk-forskrift.md)
 - [Forslag til mindre endring i byggevareforordningen (Klasser for å vurdere ytelsen brannmotstand)](regelverk/horinger/hoyringar/forslag-til-mindre-endring-i-byggevareforordningen-klasser-for-a-vurdere-ytelsen-brannmotstand.md)
 - [Forslag til mindre endring i byggevareforskriften (EU) 2024/1944](regelverk/horinger/hoyringar/forslag-til-mindre-endring-i-byggevareforskriften-eu-2024-1944.md)
 - [Forslag til mindre endring i byggevareforskriften (EU) 2024/2904](regelverk/horinger/hoyringar/forslag-til-mindre-endring-i-byggevareforskriften-eu-2024-2904.md)

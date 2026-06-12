@@ -1,11 +1,11 @@
-<!-- innholds-hash: 41e30815b173054d8a53451699c2965d7f9b72a0b43ee8cc9b01c9bd8fa16372 -->
+<!-- innholds-hash: e9bf57c48dd69b5e7ada1d3f473361be51366516ee02111b8c512fae36deb276 -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-05-18T09:30:11Z
+- **Sist hentet:** 2026-06-12T01:56:16Z
 
 ## Innhold
 
@@ -16,7 +16,7 @@ Deltid (Omfang)
 
 Ingen krav til utdanning (Krav om utdanning)
 
-Ingen krav til arbeidserfaring (Arbeidserfaring)
+Ingen krav til erfaring (Arbeidserfaring)
 
 Trenger ikke førerkort (Førerkort)
 
@@ -776,7 +776,11 @@ Hellas (Land)
 
 Island (Land)
 
+Polen (Land)
+
 Spania (Land)
+
+Storbritannia (Land)
 
 Sveits (Land)
 
@@ -811,6 +815,8 @@ Transport og lager (Kategori)
 Yrke ikke oppgitt (Kategori)
 
 Utdanning (Kategori)
+
+Alternativ medisin (Kategori)
 
 Andre helseyrker (Kategori)
 
@@ -856,6 +862,22 @@ Tannhelse/-pleie (Kategori)
 
 Vernepleier (Kategori)
 
+Eiendomsmegler (Kategori)
+
+Frisør og velvære (Kategori)
+
+Markedsføring og reklame (Kategori)
+
+Personlig tjenesteyting (Kategori)
+
+Post og måleavlesere (Kategori)
+
+Renholdere og renovasjon (Kategori)
+
+Salg, butikk- og varehandel (Kategori)
+
+Tolk og oversettere (Kategori)
+
 Barnehage- og skolefritidsassistenter (Kategori)
 
 Barnehagelærer (Kategori)
@@ -873,22 +895,6 @@ Ledere av undervisning og utdanning (Kategori)
 Universitet og høyskole (Kategori)
 
 Videregående skole (Kategori)
-
-Eiendomsmegler (Kategori)
-
-Frisør og velvære (Kategori)
-
-Markedsføring og reklame (Kategori)
-
-Personlig tjenesteyting (Kategori)
-
-Post og måleavlesere (Kategori)
-
-Renholdere og renovasjon (Kategori)
-
-Salg, butikk- og varehandel (Kategori)
-
-Tolk og oversettere (Kategori)
 
 Bank finans forsikring (Kategori)
 
@@ -938,22 +944,6 @@ Reiseliv, hotell og overnatting (Kategori)
 
 Restaurant (Kategori)
 
-Andre ingeniører (Kategori)
-
-Arbeidsleder, bygg og anlegg (Kategori)
-
-Arealplanlegging og arkitektur (Kategori)
-
-Hjelpearbeider Bygg og anlegg (Kategori)
-
-Ingeniør bygg (Kategori)
-
-Ingeniør miljøteknikk (Kategori)
-
-Maskin- og kranfører (Kategori)
-
-Skytebaser og sprengningsarbeidere (Kategori)
-
 Logistikk, lagerarbeid og innkjøp (Kategori)
 
 Lufttrafikk (Kategori)
@@ -986,6 +976,22 @@ Tekstil og presisjonsarbeid (Kategori)
 
 Trevarearbeid og –foredling (Kategori)
 
+Andre ingeniører (Kategori)
+
+Arbeidsleder, bygg og anlegg (Kategori)
+
+Arealplanlegging og arkitektur (Kategori)
+
+Hjelpearbeider Bygg og anlegg (Kategori)
+
+Ingeniør bygg (Kategori)
+
+Ingeniør miljøteknikk (Kategori)
+
+Maskin- og kranfører (Kategori)
+
+Skytebaser og sprengningsarbeidere (Kategori)
+
 Drift, vedlikehold (Kategori)
 
 Interaksjonsdesign (Kategori)
@@ -1014,6 +1020,14 @@ Sport og idrett (Kategori)
 
 Underholdning, scene og teater (Kategori)
 
+Brann-, utryknings- og redningspersonell (Kategori)
+
+Forsvar/militære (Kategori)
+
+Politi, fengsel og toll (Kategori)
+
+Vakt-, sikrings- og kontrollarbeid (Kategori)
+
 Biologer, zoologer, botanikere (Kategori)
 
 Fiske, fangst og oppdrett (Kategori)
@@ -1027,14 +1041,6 @@ Naturvitenskapelige yrker (Kategori)
 Skogbruk, gartnerarbeid og hagebruk (Kategori)
 
 Veterinærer og dyrepleiere (Kategori)
-
-Brann-, utryknings- og redningspersonell (Kategori)
-
-Forsvar/militære (Kategori)
-
-Politi, fengsel og toll (Kategori)
-
-Vakt-, sikrings- og kontrollarbeid (Kategori)
 
 Ikke identifiserbare (Kategori)
 
@@ -1058,9 +1064,9 @@ Engasjement (Ansettelsesform)
 
 Sesong (Ansettelsesform)
 
-Feriejobb (Ansettelsesform)
-
 Prosjekt (Ansettelsesform)
+
+Feriejobb (Ansettelsesform)
 
 Åremål (Ansettelsesform)
 
@@ -1106,45 +1112,139 @@ Må ha førerkort (Førerkort)
 
 Førerkort ikke oppgitt (Førerkort)
 
-Noe arbeidserfaring (1-3år) (Arbeidserfaring)
+Noe erfaring (1-3 år) (Arbeidserfaring)
 
-Mye arbeidserfaring (4år+) (Arbeidserfaring)
+Mye erfaring (4 år+) (Arbeidserfaring)
 
 Erfaring ikke oppgitt (Arbeidserfaring)
+
+Sommerjobb (Sommerjobb)
 
 Nav
 
 Søket ditt
 
-295 stillinger
+164 stillinger
 
-7. mai 2026
+8. juni 2026
 
-Arbeidsgiver
-
-Nav Vaksdal
-
-Sted
-
-Dalekvam
-
-Søk senest torsdag 21. mai
-
-9. mai 2026
+Kontorsjef
 
 Arbeidsgiver
 
-Nav Bergen sør, Bergen kommune
+NAV Vestnes
 
 Sted
 
-Kokstad
+Vestnes
 
-Søk senest mandag 25. mai
+Søk senest mandag 22. juni
 
-7. mai 2026
+22. mai 2026
 
-Veileder - Nav Stange
+Arbeidsgiver
+
+NAV Midt Agder, Vennesla kommune
+
+Sted
+
+Vennesla
+
+Søk senest mandag 15. juni
+
+19. mai 2026
+
+Vil du gjøre en forskjell for ungdom i Vefsn?
+
+Arbeidsgiver
+
+Vefsn kommune Sosialtjenester NAV kommune
+
+Sted
+
+Mosjøen
+
+Søk senest i dag
+
+1. juni 2026
+
+Arbeidsgiver
+
+Gjøvik kommune Nav Gjøvik
+
+Sted
+
+Gjøvik
+
+Søk senest i overmorgen
+
+3. juni 2026
+
+Fagansvarleg sosial i NAV Øygarden, 100% mellombels stilling
+
+Arbeidsgiver
+
+Øygarden kommune NAV Øygarden
+
+Sted
+
+Straume
+
+Søk senest onsdag 17. juni
+
+29. mai 2026
+
+Seniorrådgiver innen økonomistyring
+
+Arbeidsgiver
+
+Økonomi- og styringsavdelingen, Nav
+
+Sted
+
+Oslo
+
+Søk senest i overmorgen
+
+2. juni 2026
+
+Arbeidsgiver
+
+Nav Levanger
+
+Sted
+
+Levanger
+
+Søk senest tirsdag 16. juni
+
+2. juni 2026
+
+Arbeidsgiver
+
+Tromsø, Nav
+
+Sted
+
+Tromsø
+
+Søk senest tirsdag 16. juni
+
+29. mai 2026
+
+Arbeidsgiver
+
+Nav Midtre Namdal
+
+Sted
+
+Namsos, Grong, Kolvereid
+
+Søk senest i overmorgen
+
+3. juni 2026
+
+Teamkoordinator
 
 Arbeidsgiver
 
@@ -1152,318 +1252,200 @@ Nav
 
 Sted
 
-Stange
+Oslo
 
-Søk senest søndag 24. mai
+Søk senest tirsdag 16. juni
 
-Ny i dag
-
-Vi søker saksbehandler
+1. juni 2026
 
 Arbeidsgiver
 
-Tønsberg kommune NAV Tønsberg
+Nav Lindesnes
 
 Sted
 
-Tønsberg
+Mandal
 
-Søk senest tirsdag 2. juni
+Søk senest søndag 21. juni
 
-11. mai 2026
+3. juni 2026
 
 Arbeidsgiver
 
-Vardø, Nav
+Namsos kommune NAV Midtre Namdal
 
 Sted
 
-Vardø
+Namsos
 
-Søk senest søndag 24. mai
+Søk senest mandag 15. juni
 
-13. mai 2026
+4. juni 2026
 
 Arbeidsgiver
 
-Ringsaker Arbeid og inkludering, Nav
+Nav Falkenborg Kartlegging
+
+Sted
+
+Trondheim
+
+Søk senest torsdag 18. juni
+
+30. mai 2026
+
+Arbeidsgiver
+
+Nav
+
+Sted
+
+Stavanger
+
+Søk senest i dag
+
+2. juni 2026
+
+Arbeidsgiver
+
+Nav Skien
+
+Sted
+
+Skien
+
+Søk senest tirsdag 16. juni
+
+29. mai 2026
+
+Arbeidsgiver
+
+Horten Oppfølging Voksen, Nav
+
+Sted
+
+Horten
+
+Søk senest i overmorgen
+
+1. juni 2026
+
+Arbeidsgiver
+
+Nav Lindesnes, UngVoksen avdelingen
+
+Sted
+
+Mandal
+
+Søk senest søndag 21. juni
+
+3. juni 2026
+
+Arbeidsgiver
+
+Grünerløkka Tiltak og kvalifisering, Nav
+
+Sted
+
+Oslo
+
+Søk senest tirsdag 16. juni
+
+5. juni 2026
+
+Arbeidsgiver
+
+Nav Øvre Eiker
+
+Sted
+
+Hokksund
+
+Søk senest torsdag 18. juni
+
+9. juni 2026
+
+IPS- Jobbspesialist
+
+Arbeidsgiver
+
+Nav Alver // regionkontor Nordhordaland
+
+Sted
+
+Isdalstø
+
+Søk senest tirsdag 23. juni
+
+To dager siden
+
+Arbeidsgiver
+
+Søndre Nordstrand Kvalifisering og marked, Nav
+
+Sted
+
+Oslo
+
+Søk senest onsdag 24. juni
+
+8. juni 2026
+
+Arbeidsgiver
+
+Bjerke Oppfølging 2, Nav
+
+Sted
+
+Oslo
+
+Søk senest torsdag 18. juni
+
+4. juni 2026
+
+Arbeidsgiver
+
+NAV, Øvre Eiker kommune
+
+Sted
+
+Hokksund
+
+Søk senest torsdag 18. juni
+
+5. juni 2026
+
+NAV-leder
+
+Arbeidsgiver
+
+Nav Rauma
+
+Sted
+
+Åndalsnes
+
+Søk senest fredag 19. juni
+
+1. juni 2026
+
+NAV-veileder
+
+Arbeidsgiver
+
+Ringsaker kommune NAV Sosiale tjenester
 
 Sted
 
 Brumunddal
 
-Søk senest mandag 25. mai
-
-Ny i dag
-
-Arbeidsgiver
-
-NAV Nordfjord, Stad kommune
-
-Sted
-
-Svelgen
-
-Søk senest søndag 31. mai
-
-11. mai 2026
-
-Arbeidsgiver
-
-HV: NAV Madla: Sosial og inkludering (7), Stavanger kommune
-
-Sted
-
-Hafrsfjord
-
-Søk senest mandag 25. mai
-
-12. mai 2026
-
-Veiledere
-
-Arbeidsgiver
-
-Senja kommune NAV
-
-Sted
-
-Finnsnes
-
-Søk senest fredag 22. mai
-
-
-#### Trenger du forslag til jobb?
-
-På
-
-15. mai 2026
-
-Arbeidsgiver
-
-Troms og Finnmark, Nav
-
-Sted
-
-Hammerfest
-
-Søk senest søndag 31. mai
-
-15. mai 2026
-
-Arbeidsgiver
-
-Nav Rus & Psykisk helse, Oslo kommune, Bydel Grünerløkka
-
-Sted
-
-Oslo
-
-Søk senest søndag 31. mai
-
-7. mai 2026
-
-Veileder
-
-Arbeidsgiver
-
-Råde kommune NAV
-
-Sted
-
-Råde
-
-Søk senest torsdag 21. mai
-
-15. mai 2026
-
-Vil du jobbe med intern brukarstøtte for Nav-tilsette?
-
-Arbeidsgiver
-
-Nav økonomiteneste
-
-Sted
-
-Leikanger
-
-Søk senest søndag 31. mai
-
-4. mai 2026
-
-Veileder
-
-Arbeidsgiver
-
-Nav Sandnes
-
-Sted
-
-Sandnes
-
-Søk senest søndag 24. mai
-
-5. mai 2026
-
-Vil du utvikle en effektiv, fremtidsrettet og sirkulær logistikk for hjelpemidler i Nav?
-
-Arbeidsgiver
-
-Hjelpemidler og tilrettelegging, Nav
-
-Sted
-
-Oslo
-
-Søk senest i morgen
-
-11. mai 2026
-
-Rådgiver / seniorrådgiver
-
-Arbeidsgiver
-
-Nav tiltak Oslo
-
-Sted
-
-Oslo
-
-Søk senest tirsdag 26. mai
-
-5. mai 2026
-
-Arbeidsgiver
-
-Nav Bergen sentrum // Arbeid med støtte
-
-Sted
-
-Bergen
-
-Søk senest i morgen
-
-13. mai 2026
-
-Veileder
-
-Arbeidsgiver
-
-NAV, Sandnes, Sandnes kommune
-
-Sted
-
-Sandnes
-
-Søk senest søndag 24. mai
-
-30. april 2026
-
-Leiar Nav Vik
-
-Arbeidsgiver
-
-Vik kommune NAV
-
-Sted
-
-Vik i Sogn
-
-Søk senest i overmorgen
-
-7. mai 2026
-
-Veileder Nav
-
-Arbeidsgiver
-
-Nav Sel Sosial
-
-Sted
-
-Otta
-
-Søk senest mandag 25. mai
-
-11. mai 2026
-
-Er du Stovner-ungdommens viktigste lagspiller? Vi søker dedikert veileder til Ungdomsgarantien
-
-Arbeidsgiver
-
-Nav Stovner
-
-Sted
-
-Oslo
-
-Søk senest tirsdag 26. mai
-
-13. mai 2026
-
-Jobbspesialist
-
-Arbeidsgiver
-
-Arbeid med støtte - Nav Klepp-Time
-
-Sted
-
-Kleppe
-
-Søk senest onsdag 27. mai
-
-13. mai 2026
-
-Veileder
-
-Arbeidsgiver
-
-Nav Madla - Arbeid og inkludering voksne
-
-Sted
-
-Hafrsfjord
-
-Søk senest onsdag 27. mai
-
-30. april 2026
-
-Veileder
-
-Arbeidsgiver
-
-Nav Hå
-
-Sted
-
-Nærbø
-
-Søk senest i morgen
-
-6. mai 2026
-
-Veileder
-
-Arbeidsgiver
-
-Grorud, Nav
-
-Sted
-
-Oslo
-
 Søk senest i overmorgen
 
 
-#### Fant du ikke noe som fristet?
+### Var søketreffene relevante?
 
-Utforsk hvilke
-
-
-### Synes du søketreffene er relevante?
-
-Er det noe du savner eller synes kunne vært bedre, så vil vi gjerne høre det.
+Har du tilbakemeldinger eller noe du savner?
 
 
 ---
@@ -1472,3 +1454,4 @@ Er det noe du savner eller synes kunne vært bedre, så vil vi gjerne høre det.
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

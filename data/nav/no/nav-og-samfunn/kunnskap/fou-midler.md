@@ -1,11 +1,11 @@
-<!-- innholds-hash: cb016493b948005c78d3805090f424a14c059e0db8a3501d52715c3b13a5d8a1 -->
+<!-- innholds-hash: 8455c8a88b8701ed1e4ff99c3e16fd6aa54a5acecb10eab92683df8235e7f5bf -->
 
 # Forskning og utvikling (FoU) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/fou-midler
-- **Sist hentet:** 2026-05-17T19:39:47Z
+- **Sist hentet:** 2026-06-12T01:42:50Z
 
 ## Innhold
 
@@ -13,6 +13,8 @@
 ## Forskning og utvikling (FoU)
 
 FoU står for forskning og utvikling. Navs FoU-arbeid skal fremskaffe et solid kunnskapsgrunnlag for vår virksomhet.
+
+FoU-strategien beskriver hvordan Nav vil bygge kunnskapsgrunnlaget som kreves for å utføre samfunnsoppdraget.
 
 Følg med på denne siden for større arrangement i regi av Nav.
 
@@ -41,3 +43,4 @@ FoU-programmet for IA-avtalen skal gi målrettet og helhetlig kunnskap, og derme
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

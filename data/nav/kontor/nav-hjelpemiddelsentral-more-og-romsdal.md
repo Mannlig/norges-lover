@@ -1,11 +1,11 @@
-<!-- innholds-hash: e95f8d110723e356fc2bf48a0118a5753c63a3085d24b4ca18b370797aa20e01 -->
+<!-- innholds-hash: 00e9679fd2710c02f3f54b35233864e3c703c0c35e8de9c26aa1bafffb3b97ec -->
 
 # Nav hjelpemiddelsentral Møre og Romsdal - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-more-og-romsdal
-- **Sist hentet:** 2026-05-17T12:37:14Z
+- **Sist hentet:** 2026-06-12T01:19:38Z
 
 ## Innhold
 
@@ -120,8 +120,16 @@ Du kan
 - 41 71 60 90 (kun sms. Du kan ikke sende bilder til dette nummeret)
 - Telefonen er åpen hverdager klokken 09.00 – 14.30.
 - Epostadresse:
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -141,3 +149,4 @@ Skal du sende oss dokumentasjon kan du gjøre det via
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6bd72761394832dba01a273425822e93e286322dde46d4208c49734cc354437c -->
+<!-- innholds-hash: b995bf0f1ed1c98c2c6bf4f3925a154e38736b4fc1f29c0da0d581c89e3c0b00 -->
 
 # Veiledning til utfylling
 
@@ -6,22 +6,20 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/veiledning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:52:57Z
+- **Sist hentet:** 2026-06-11T21:52:21Z
 
 ## Innhold
 
 
 ## Veiledning til utfylling
 
-Denne veiledningen er ment som en hjelp når du skal fylle ut melding for suppleringsskatt (GIR). Veiledningen har fokus på de krav som gjelder for opplysningsplikten etter skatteforvaltningsloven og den digitale rapporteringsløsningen til Skatteetaten.
-
-Du skal levere melding for suppleringsskatt (GIR) digitalt i XML-format. Krav til innhold og teknisk format skal følge samme mal og oppbygging som GloBE Information Return (GIR) utarbeidet av OECD. Strukturen og reglene for XML-filen skal følge XSD (XML Schema Definition) som er publisert av OECD.
+Vi har utarbeidet en veiledning som hjelper deg med å fylle ut melding for suppleringsskatt (GIR), slik at du kan unngå feil og merknader når du sender den inn til oss.
 
 
 ### Introduksjon til utfylling av GIR
 
 
-### Veiledninger fra OECD og XSD-krav
+### OECD veiledning og XSD-krav
 
 
 ### Forenklet metode for rapportering
@@ -30,10 +28,10 @@ Du skal levere melding for suppleringsskatt (GIR) digitalt i XML-format. Krav t
 ### Krav til fullstendighet av opplysninger
 
 
-### Utveksling av opplysninger
+### Sentralisert levering
 
 
-### Krav til rapportering basert på type rolle
+### Krav til rapportering basert på rolle
 
 
 ### Veiledning til hver enkelt del i melding for suppleringsskatt (GIR)
@@ -62,3 +60,4 @@ Vi har utarbeidet en veiledning som hjelper deg med å fylle ut melding for supp
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

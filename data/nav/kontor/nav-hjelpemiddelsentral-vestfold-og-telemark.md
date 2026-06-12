@@ -1,11 +1,11 @@
-<!-- innholds-hash: 519dfdba2a352894cbfd939e92551cc094af3d6a7392f80a8b77e9c5cce4b5bf -->
+<!-- innholds-hash: 05f33b93a424d54d23a886c848e3bf87bd708ccfc88f30f326dd9e8ff13054a6 -->
 
 # Nav hjelpemiddelsentral Vestfold og Telemark - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestfold-og-telemark
-- **Sist hentet:** 2026-05-17T12:41:08Z
+- **Sist hentet:** 2026-06-12T01:25:07Z
 
 ## Innhold
 
@@ -141,8 +141,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -175,3 +183,4 @@ Hvis du har problemer med høreapparatene dine, skal du ta kontakt ØNH-klinikke
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

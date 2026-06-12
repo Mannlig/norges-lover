@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7bdf44b2a103376becf27a1b9a079e82018152f1ee07bd8023994de8f4e73afb -->
+<!-- innholds-hash: 0a72c6d660cc3c3965c91c6b18d79284717a574e8b4cc25eaa0885a0ffd4a848 -->
 
 # Hverdagen som arbeidssøker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hverdagen-som-arbeidssoker
-- **Sist hentet:** 2026-05-18T09:31:39Z
+- **Sist hentet:** 2026-06-12T01:58:22Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Jobbsøkertips
 
 ## Hverdagen som arbeidssøker
 
-Tips til hvordan komme i gang med jobbsøking så raskt som mulig.
+Tips til hvordan du kan planlegge og strukturere hverdagen når du er jobbsøker.
 
 
 ### Innhold på denne siden
@@ -36,7 +36,7 @@ Frivillig arbeid gir deg erfaring, kompetanse og sosial kontakt, og er bra å ha
 
 Er du usikker på hvordan du skal skrive en god søknad, eller trenger du å trene på intervjuer? Finn ut om
 
-Oppdatert 20.08.2025
+Oppdatert 03.06.2026
 
 
 ---
@@ -45,3 +45,4 @@ Oppdatert 20.08.2025
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

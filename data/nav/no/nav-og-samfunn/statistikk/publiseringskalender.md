@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca248c42e44ed18398a2940e31bcabb743252330b7fc8779ea6e920b6d3e1315 -->
+<!-- innholds-hash: ce35293364e9900c1d0f0e107c9886e34298487e89df50881574702ca336fcd1 -->
 
 # Publiseringskalender - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/publiseringskalender
-- **Sist hentet:** 2026-05-17T19:40:48Z
+- **Sist hentet:** 2026-06-12T01:44:16Z
 
 ## Innhold
 
@@ -14,21 +14,9 @@
 
 Statistikk fra Nav publiseres kl 08.00 på angitt publiseringsdato. Sykefravær og sykepenger publiseres samtidig med SSB. Hovedtall om arbeidsmarkedet publiseres alltid på fredager.
 
-Våren 2026
-
-April 2026
-
-1. kvartal 2026
-
-1. kvartal 2026
-
-1. kvartal 2026
-
 Mai 2026
 
-Mai 2026
-
-Mai 2026
+Statistikk per desember 2025
 
 1. tertial
 
@@ -119,3 +107,4 @@ Desember 2026
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

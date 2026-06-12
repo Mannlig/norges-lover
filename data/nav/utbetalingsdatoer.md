@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed72b80bf7867580c97b411a6d81345b681ae56a5783bf0b567cb5847004eb58 -->
+<!-- innholds-hash: 24b3d572909bff6684371aaadea448b613dd92d5332c399b44ea97f1bb2a45ae -->
 
 # Utbetalingsdatoer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utbetalingsdatoer
-- **Sist hentet:** 2026-05-17T19:26:00Z
+- **Sist hentet:** 2026-06-12T01:29:54Z
 
 ## Innhold
 
@@ -82,7 +82,7 @@ Pengestøtte når du har barn under 18 år.
 
 #### Bidragsforskudd
 
-Sikrer deg utbetaling av barnebidrag.
+En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
 
 
 #### Dagpenger
@@ -301,3 +301,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

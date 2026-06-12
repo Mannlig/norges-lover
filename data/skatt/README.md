@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-11 19:18 UTC*
+*Sist oppdatert: 2026-06-12 02:57 UTC*
 
-**Antall dokumenter:** 1429
+**Antall dokumenter:** 1430
 
 ## Innhold
 
@@ -244,6 +244,7 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Tilleggsskatt](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/tilleggsskatt.md)
 - [Tvangsmulkt ved manglende opplysninger](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/tvangsmulkt.md)
 - [Frister, gebyrer og tilleggsskatt](bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt.md)
+- [Kontroll av skatt og avgift](bedrift-og-organisasjon/starte-og-drive/kontroll-av-skatt-og-avgift.md)
 - [Filmer med tips for næringsdrivende](bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/film-om-skatt-naringsdrivende.md)
 - [Kom i gang med ditt nye enkeltpersonforetak](bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/nytt-enk.md)
 - [Oppstartsperiode og oppstartskostnader for nye næringsdrivende](bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/oppstartsperiode.md)

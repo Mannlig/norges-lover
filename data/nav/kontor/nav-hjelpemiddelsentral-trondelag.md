@@ -1,11 +1,11 @@
-<!-- innholds-hash: 89d35f8a6b98be82f22c21d3a804baaede8663a640ef16c335da7ee5cf9b9202 -->
+<!-- innholds-hash: cbb276d124c54ed43c9afb35849178b6ef2504fa2afe0ee2b96f71a1448683a4 -->
 
 # Nav hjelpemiddelsentral Trøndelag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-trondelag
-- **Sist hentet:** 2026-05-17T12:40:11Z
+- **Sist hentet:** 2026-06-12T01:23:44Z
 
 ## Innhold
 
@@ -181,8 +181,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -228,3 +236,4 @@ Anonymiser eventuelle brukerdata. Vi vil innhente supplerende informasjon ved b
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

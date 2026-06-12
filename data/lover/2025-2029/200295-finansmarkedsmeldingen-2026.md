@@ -1,4 +1,4 @@
-<!-- innholds-hash: df9409a9a64e8815fc9b1dc5d0e8f8e2433a3b500bf8a86435e4782acadf8299 -->
+<!-- innholds-hash: c5608df3160aae69188b7e533c3a73450f618dc95ee3f51febe1f78dd5598c3b -->
 
 # Finansmarkedsmeldingen 2026
 
@@ -8,28 +8,28 @@
 - **Sak-ID:** 200295
 - **Type:** 2
 - **Korttittel:** Finansmarkedsmeldingen 2026
-- **Status:** 2
+- **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Sist hentet:** 2026-06-11T21:19:04Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200295
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168809+0200)/",
+  "respons_dato_tid": "/Date(1781212468711+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Meld. St. 9 (2025-2026)",
+  "henvisning": "Meld. St. 9 (2025-2026), Innst. 379 S (2025-2026)",
   "id": 200295,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17519,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
+    "respons_dato_tid": "/Date(1781211959504+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200295,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
+      "respons_dato_tid": "/Date(1781212468711+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -47,14 +47,14 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1781175618498+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1781132418408+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -63,8 +63,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777327200000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1780351200000+0200)/",
+  "status": 7,
   "tittel": "Finansmarkedsmeldingen 2026",
   "type": 2
 }
@@ -91,3 +91,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-11** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: a08ea835f9048f6a0e7a8143e8c1e321a49fbd473d5b10afe60f8b131068a138 -->
+<!-- innholds-hash: a29a67d27854fa706a4509a55e2a407e9baf857b69bd2d62420d28bfa0960a87 -->
 
 # Nav hjelpemiddelsentral Rogaland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-rogaland
-- **Sist hentet:** 2026-05-17T12:39:12Z
+- **Sist hentet:** 2026-06-12T01:22:22Z
 
 ## Innhold
 
@@ -136,8 +136,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -162,3 +170,4 @@ Skal du sende oss dokumentasjon kan du gjøre det via
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

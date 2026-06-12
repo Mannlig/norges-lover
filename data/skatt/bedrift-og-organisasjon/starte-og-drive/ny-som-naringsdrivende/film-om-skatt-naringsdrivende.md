@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3ad0a8a27bfe4134fff8e1007c69101cce5b82e32842bf15a38aaf52225f5a03 -->
+<!-- innholds-hash: 998d74f13c212a31356db9ce12af50360b29357bfa3f8278c5149a1b3e3c4571 -->
 
 # Filmer med tips for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/ny-som-naringsdrivende/film-om-skatt-naringsdrivende/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:42:01Z
+- **Sist hentet:** 2026-06-11T22:32:07Z
 
 ## Innhold
 
@@ -43,10 +43,6 @@ Her kan du se hvordan du registrerer lott og særskilt fradrag for fiske og fang
 
 Alle som driver næringsvirksomhet må betale
 
-Alle norske aksje- og allmennaksjeselskap, samt sparebanker med egenkapitalbevis, skal hvert år levere en
-
-Her forklarer vi deg hvordan:
-
 Som næringsdrivende må du betale merverdiavgift på innkjøpene dine, men som oftest kan du få fradrag for denne avgiften.
 
 I disse filmene forklarer vi deg hvordan mva fungerer, hvordan du registrerer deg og hvordan du leverer mva-melding:
@@ -61,3 +57,4 @@ I disse filmene forklarer vi deg hvordan mva fungerer, hvordan du registrerer de
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-11** Innhold endret (se git-historikk for diff)

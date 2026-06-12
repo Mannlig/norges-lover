@@ -1,11 +1,11 @@
-<!-- innholds-hash: 231d231596cfd7844bc8fcdb353e35ac7628d775bce9363783b9c56d036556c2 -->
+<!-- innholds-hash: ab248267cb1bbc933a2493b3c3b20bdf1c6506948d4d7e5efb7a8e8fae55c7ff -->
 
 # Nav hjelpemiddelsentral Innlandet-Gjøvik - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-innlandet-gjovik
-- **Sist hentet:** 2026-05-17T12:36:45Z
+- **Sist hentet:** 2026-06-12T01:18:58Z
 
 ## Innhold
 
@@ -140,8 +140,16 @@ Du kan
 
 #### Akutt behov for tolk
 
-Ved akutt behov for tolk for døve, hørselshemmede og døvblinde kan du ringe eller sende sms til 994 81 810. Her kan du få kontakt med tolk når som helst på døgnet, ved for eksempel sykdom eller brann.
+Beredskap ved akutte behov for tolk for døve, hørselshemmede og døvblinde.
 
+- Du kan ha videosamtale, ringe eller sende sms til 99 48 18 10
+- Åpningstid: klokken 14:30 til 08:00
+Akutte situasjoner kan for eksempel være
+
+- sykdom
+- ulykke og skade
+- brann
+- kontakt med politiet
 Hvis du trenger stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i din region.
 
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
@@ -175,3 +183,4 @@ Alvdal
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)
