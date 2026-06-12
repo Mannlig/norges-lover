@@ -1,18 +1,18 @@
-<!-- innholds-hash: 40b8605b7b05f19da7798e7c3d90ce6b9afbacf61af2dcab02215b8ee981996c -->
+<!-- innholds-hash: e64ee489bb92e1a0837241e8a747d21075374eee31bea4f54fc6106b39284767 -->
 
-# Rapport til Stortinget fra Norges Banks representantskap for 2025
+# Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
-- **Sak-ID:** 200269
+- **Sak-ID:** 200254
 - **Type:** 2
-- **Korttittel:** Rapport til Stortinget fra Norges Banks representantskap for 2025
+- **Korttittel:** Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
 - **Sist hentet:** 2026-06-12T13:12:55Z
-- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200254
 
 ## Rådata (JSON fra API)
 
@@ -21,51 +21,51 @@
   "respons_dato_tid": "/Date(1781269835290+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
-  "dokumentgruppe": 6,
+  "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 9 (2025-2026), Innst. 431 S (2025-2026)",
-  "id": 200269,
-  "innstilling_id": 17491,
+  "henvisning": "Prop. 68 S (2025-2026), Innst. 440 S (2025-2026)",
+  "id": 200254,
+  "innstilling_id": 17521,
   "innstilling_kode": 1,
   "komite": {
     "respons_dato_tid": "/Date(1781269384770+0200)/",
     "versjon": "1.6",
-    "id": "FINANS",
-    "navn": "Finanskomiteen"
+    "id": "UFK",
+    "navn": "Utenriks- og forsvarskomiteen"
   },
-  "korttittel": "Rapport til Stortinget fra Norges Banks representantskap for 2025",
-  "sak_fremmet_id": 200269,
+  "korttittel": "Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren",
+  "sak_fremmet_id": 200254,
   "saksordfoerer_liste": [
     {
       "respons_dato_tid": "/Date(1781269835290+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
-      "etternavn": "Mørland",
-      "foedselsdato": "/Date(325116000000+0200)/",
-      "fornavn": "Tellef Inge",
-      "id": "TIM",
+      "etternavn": "Frølich",
+      "foedselsdato": "/Date(558828000000+0200)/",
+      "fornavn": "Peter",
+      "id": "PCF",
       "kjoenn": 2,
       "fylke": {
         "respons_dato_tid": "/Date(1781245815888+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
-        "id": "AA",
-        "navn": "Aust-Agder"
+        "id": "Ho",
+        "navn": "Hordaland"
       },
       "parti": {
         "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
-        "id": "A",
-        "navn": "Arbeiderpartiet",
+        "id": "H",
+        "navn": "Høyre",
         "representert_parti": true
       },
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1780437600000+0200)/",
   "status": 1,
-  "tittel": "Rapport til Stortinget fra Norges Banks representantskap for 2025",
+  "tittel": "Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren",
   "type": 2
 }
 ```
@@ -74,6 +74,4 @@
 
 ## Endringshistorikk
 
-- **2026-06-11** Første gang hentet
-- **2026-06-12** Innhold endret (se git-historikk for diff)
-- **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Første gang hentet

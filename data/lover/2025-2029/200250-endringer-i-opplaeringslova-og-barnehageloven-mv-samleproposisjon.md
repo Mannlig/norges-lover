@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7b825cb79cbc7a2ca1fb29325ccd0584709638a4e7622283f63631df7be59820 -->
+<!-- innholds-hash: 6342164acb24c03df5ab8017e4107c52412668eda2910ef08df594beceb4ba31 -->
 
 # Endringer i opplæringslova og barnehageloven mv. (samleproposisjon)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T04:58:36Z
+- **Sist hentet:** 2026-06-12T13:12:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200250
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781237008500+0200)/",
+  "respons_dato_tid": "/Date(1781269835555+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17473,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781236861154+0200)/",
+    "respons_dato_tid": "/Date(1781269384770+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200250,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781237008500+0200)/",
+      "respons_dato_tid": "/Date(1781269835555+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -47,7 +47,7 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781218818853+0200)/",
+        "respons_dato_tid": "/Date(1781245815888+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -84,4 +84,5 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)

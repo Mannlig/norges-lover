@@ -1,4 +1,4 @@
-<!-- innholds-hash: bb92e536db52041ef820b79edf98da362ae5c8dc114d0e15cd52b79398f0296a -->
+<!-- innholds-hash: b7a8a1d330ff20595a9ec13161caa510dee4af2932f82d010f79d04ceb9cd600 -->
 
 # Finansmarkedsmeldingen 2026
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 200295
 - **Type:** 2
 - **Korttittel:** Finansmarkedsmeldingen 2026
-- **Status:** 7
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T04:58:36Z
+- **Sist hentet:** 2026-06-12T13:12:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200295
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781237008406+0200)/",
+  "respons_dato_tid": "/Date(1781269835290+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": 17519,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781236861154+0200)/",
+    "respons_dato_tid": "/Date(1781269384770+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200295,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781237008406+0200)/",
+      "respons_dato_tid": "/Date(1781269835290+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -47,7 +47,7 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781218818853+0200)/",
+        "respons_dato_tid": "/Date(1781245815888+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -64,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1780351200000+0200)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Finansmarkedsmeldingen 2026",
   "type": 2
 }
@@ -92,4 +92,5 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)

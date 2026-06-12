@@ -1,18 +1,18 @@
-<!-- innholds-hash: 40b8605b7b05f19da7798e7c3d90ce6b9afbacf61af2dcab02215b8ee981996c -->
+<!-- innholds-hash: 802db72619c9d15ad602ca825e073c559b6d551a1e1409b83e619a189a6e209c -->
 
-# Rapport til Stortinget fra Norges Banks representantskap for 2025
+# Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
-- **Sak-ID:** 200269
-- **Type:** 2
-- **Korttittel:** Rapport til Stortinget fra Norges Banks representantskap for 2025
+- **Sak-ID:** 200265
+- **Type:** 3
+- **Korttittel:** Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
 - **Sist hentet:** 2026-06-12T13:12:55Z
-- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200265
 
 ## Rådata (JSON fra API)
 
@@ -21,30 +21,30 @@
   "respons_dato_tid": "/Date(1781269835290+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
-  "dokumentgruppe": 6,
+  "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 9 (2025-2026), Innst. 431 S (2025-2026)",
-  "id": 200269,
-  "innstilling_id": 17491,
-  "innstilling_kode": 1,
+  "henvisning": "Prop. 84 L (2025-2026), Innst. 439 L (2025-2026), Lovvedtak 89 (2025-2026)",
+  "id": 200265,
+  "innstilling_id": 17524,
+  "innstilling_kode": 2,
   "komite": {
     "respons_dato_tid": "/Date(1781269384770+0200)/",
     "versjon": "1.6",
-    "id": "FINANS",
-    "navn": "Finanskomiteen"
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
   },
-  "korttittel": "Rapport til Stortinget fra Norges Banks representantskap for 2025",
-  "sak_fremmet_id": 200269,
+  "korttittel": "Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "sak_fremmet_id": 200265,
   "saksordfoerer_liste": [
     {
       "respons_dato_tid": "/Date(1781269835290+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
-      "etternavn": "Mørland",
-      "foedselsdato": "/Date(325116000000+0200)/",
-      "fornavn": "Tellef Inge",
-      "id": "TIM",
+      "etternavn": "Nilsen",
+      "foedselsdato": "/Date(461282400000+0200)/",
+      "fornavn": "Marius Arion",
+      "id": "MARNIL",
       "kjoenn": 2,
       "fylke": {
         "respons_dato_tid": "/Date(1781245815888+0200)/",
@@ -56,17 +56,17 @@
       "parti": {
         "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
-        "id": "A",
-        "navn": "Arbeiderpartiet",
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
         "representert_parti": true
       },
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779919200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1780610400000+0200)/",
   "status": 1,
-  "tittel": "Rapport til Stortinget fra Norges Banks representantskap for 2025",
-  "type": 2
+  "tittel": "Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "type": 3
 }
 ```
 
@@ -74,6 +74,4 @@
 
 ## Endringshistorikk
 
-- **2026-06-11** Første gang hentet
-- **2026-06-12** Innhold endret (se git-historikk for diff)
-- **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Første gang hentet

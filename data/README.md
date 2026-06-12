@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-12 11:11 UTC*
+*Sist oppdatert: 2026-06-12 18:07 UTC*
 
-**Antall dokumenter:** 3559
+**Antall dokumenter:** 3569
 
 ## Innhold
 
@@ -930,6 +930,7 @@ Lovdata
 - [2025 12 22 128](lover/2025-12-22-128.md)
 - [Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten](lover/2025-2029/103595-riksrevisjonens-undersokelse-om-sikring-av-havneanlegg-for-a-trygge-samfunnssikkerheten.md)
 - [Totalforsvaret i sikkerhetspolitisk krise og krig](lover/2025-2029/103597-totalforsvaret-i-sikkerhetspolitisk-krise-og-krig.md)
+- [Status, fremdrift, utfordringer og risiko i gjennomføring av langtidsplanen for forsvarssektoren 2025-2036](lover/2025-2029/103871-status-fremdrift-utfordringer-og-risiko-i-gjennomforing-av-langtidsplanen-for-forsvarssektoren-2025-.md)
 - [Endringer i straffeloven (selvstendig inndragning m.m.)](lover/2025-2029/105846-endringer-i-straffeloven-selvstendig-inndragning-mm.md)
 - [Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)](lover/2025-2029/105929-endringer-i-foretakspensjonsloven-og-forsikringsvirksomhetsloven-forvaltning-av-garanterte-pensjonsp.md)
 - [Riksrevisjonen reviderer statens eierstyring av Telenor ASA i forbindelse med selskapets virksomhet i Myanmar](lover/2025-2029/106005-riksrevisjonen-reviderer-statens-eierstyring-av-telenor-asa-i-forbindelse-med-selskapets-virksomhet-.md)
@@ -951,6 +952,7 @@ Lovdata
 - [Statsrekneskapen 2025](lover/2025-2029/108400-statsrekneskapen-2025.md)
 - [Innstilling fra valgkomiteen om endringer i de faste komiteers sammensetning](lover/2025-2029/108584-innstilling-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](lover/2025-2029/108673-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
+- [Lov for den uavhengige granskingskommisjonen for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene](lover/2025-2029/109096-lov-for-den-uavhengige-granskingskommisjonen-for-a-undersoke-forhold-som-har-blitt-aktualisert-gjenn.md)
 - [Representantforslag fra stortingsrepresentantene Seher Aydar og Mímir Kristjánsson om å redde sykehusdriften i Egersund](lover/2025-2029/200005-representantforslag-fra-stortingsrepresentantene-seher-aydar-og-mímir-kristjánsson-om-a-redde-sykehu.md)
 - [Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Georg Gulli og Jonas Andersen Sayed om et nasjonalt røykesluttprogram - uten kostnad for staten](lover/2025-2029/200006-representantforslag-fra-stortingsrepresentantene-ida-lindtveit-rose-georg-gulli-og-jonas-andersen-sa.md)
 - [Representantforslag fra stortingsrepresentantene Henrik Asheim og Ola Svenneby om lavere og mer forutsigbar skatt på folks bolig](lover/2025-2029/200007-representantforslag-fra-stortingsrepresentantene-henrik-asheim-og-ola-svenneby-om-lavere-og-mer-foru.md)
@@ -1162,6 +1164,7 @@ Lovdata
 - [Endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)](lover/2025-2029/200251-endringer-i-privatskolelova-vilkar-for-godkjenning-av-skoler-pa-grunnlag-av-livssyn.md)
 - [Lov om motorferdsel i utmark og vassdrag (motorferdselloven)](lover/2025-2029/200252-lov-om-motorferdsel-i-utmark-og-vassdrag-motorferdselloven.md)
 - [Endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)](lover/2025-2029/200253-endringar-i-bustottelova-handsaming-av-personopplysningar-og-automatiserte-avgjerder.md)
+- [Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren](lover/2025-2029/200254-forsvarsloftet-okte-rammer-og-prioriteringer-i-langtidsplanen-for-forsvarssektoren.md)
 - [Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)](lover/2025-2029/200255-endringer-i-grenseloven-utlendingsloven-og-sis-loven-screening-av-tredjelandsborgere-og-samtykke-til.md)
 - [Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)](lover/2025-2029/200256-endringer-i-grenseloven-utlendingsloven-og-sis-loven-screening-av-tredjelandsborgere-og-samtykke-til.md)
 - [Endringer i straffeprosessloven mv. (skjult kameraovervåking ved bruk av mobilt kamera m.m.)](lover/2025-2029/200257-endringer-i-straffeprosessloven-mv-skjult-kameraovervaking-ved-bruk-av-mobilt-kamera-mm.md)
@@ -1170,6 +1173,7 @@ Lovdata
 - [Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)](lover/2025-2029/200262-midlertidige-endringer-i-lovverket-som-folge-av-ankomst-av-fordrevne-fra-ukraina-videreforing-mm.md)
 - [Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996](lover/2025-2029/200263-endringer-i-utleveringsloven-samarbeid-med-den-europeiske-patalemyndighet-mv-og-samtykke-til-inngael.md)
 - [Endringer i utleveringsloven (samarbeid med Den europeiske påtalemyndighet mv.) og samtykke til inngåelse av avtaler med Sveits og Liechtenstein om anvendelse av Schengen-relevante bestemmelser i EUs utleveringskonvensjon 1996](lover/2025-2029/200264-endringer-i-utleveringsloven-samarbeid-med-den-europeiske-patalemyndighet-mv-og-samtykke-til-inngael.md)
+- [Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs](lover/2025-2029/200265-endringer-i-lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjos.md)
 - [Endringer i klimakvoteloven og forurensningsloven (utvidet virkeområde)](lover/2025-2029/200266-endringer-i-klimakvoteloven-og-forurensningsloven-utvidet-virkeomrade.md)
 - [Lov om særavgifter (særavgiftsloven)](lover/2025-2029/200267-lov-om-saeravgifter-saeravgiftsloven.md)
 - [Endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)](lover/2025-2029/200268-endringer-i-utlendingsloven-saksbehandlingsregler-for-kollektiv-beskyttelse.md)
@@ -1231,6 +1235,12 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen](lover/2025-2029/200342-representantforslag-fra-stortingsrepresentantene-remi-solvberg-mímir-kristjánsson-og-marie-sneve-mar.md)
 - [Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte](lover/2025-2029/200343-representantforslag-fra-stortingsrepresentantene-anne-lise-gjerstad-fredlund-mirell-hoyer-berntsen-a.md)
 - [Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus](lover/2025-2029/200344-representantforslag-fra-stortingsrepresentantene-grunde-almeland-og-guri-melby-om-a-avvise-innstramm.md)
+- [Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren](lover/2025-2029/200347-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-og-bengt-fasteraune-om-forenkling-og.md)
+- [Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet](lover/2025-2029/200348-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-ole-herman-sveian-og-bengt-fasteraun.md)
+- [Endringer i verdipapirfondloven  (adgang til å inngå inntektsdelingsavtaler)](lover/2025-2029/200349-endringer-i-verdipapirfondloven-adgang-til-a-innga-inntektsdelingsavtaler.md)
+- [Helsepersonellplan 2040](lover/2025-2029/200350-helsepersonellplan-2040.md)
+- [Endringer i trossamfunnsloven mv. (taushetsplikt)](lover/2025-2029/200351-endringer-i-trossamfunnsloven-mv-taushetsplikt.md)
+- [Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping](lover/2025-2029/200352-representantforslag-fra-stortingsrepresentantene-bengt-rune-strifeldt-dagfinn-henrik-olsen-bjorn-lar.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)
