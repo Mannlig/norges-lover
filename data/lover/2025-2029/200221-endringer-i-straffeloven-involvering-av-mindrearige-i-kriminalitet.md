@@ -1,4 +1,4 @@
-<!-- innholds-hash: ac15738fd24c0c8f30a321ea6b5d460d0e7920720931795e860a8f4c5d8de6db -->
+<!-- innholds-hash: e38e3ff8a3902ef0de4bcbc343a44a1fcd7a7ae2df84cc66f7f16eb241707146 -->
 
 # Endringer i straffeloven (involvering av mindreårige i kriminalitet)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-11T21:19:04Z
+- **Sist hentet:** 2026-06-12T04:58:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200221
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781212468854+0200)/",
+  "respons_dato_tid": "/Date(1781237008500+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17485,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781211959504+0200)/",
+    "respons_dato_tid": "/Date(1781236861154+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200221,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781212468854+0200)/",
+      "respons_dato_tid": "/Date(1781237008500+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -47,14 +47,14 @@
       "id": "MHL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "respons_dato_tid": "/Date(1781218818853+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -81,3 +81,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

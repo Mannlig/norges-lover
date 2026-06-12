@@ -1,11 +1,11 @@
-<!-- innholds-hash: e1dc9a505db9093f07477d9daef9b07a3ccf2940efdf16e6f1193cf6ce4a18d5 -->
+<!-- innholds-hash: 91fbac3613a7cbbd4c4877fe0675af4822a2b1acbfcd2bd4b106d410cba5c9e8 -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-barn
-- **Sist hentet:** 2026-06-04T16:21:35Z
+- **Sist hentet:** 2026-06-12T09:39:30Z
 
 ## Innhold
 
@@ -45,7 +45,7 @@ Du kan også ha rett til pleiepenger fra den dagen barnet døde, hvis vilkårene
 
 #### Pleiepenger når barnet er innlagt
 
-Hvis barnet er innlagt på sykehus, har du som hovedregel rett til pleiepenger når du må være borte fra jobb for å være sammen med barnet. Dette gjelder også for barn som ikke er formelt utskrevet fra sykehuset, men som har hjemmesykehus eller oppfølging fra nyfødtavdelingens ambulerende sykepleietjeneste (NAST) i hjemmet. Annen behandling hjemme, som for eksempel digital oppfølging, er ikke det samme som at barnet er innlagt på sykehus.
+Hvis barnet er innlagt på sykehus, har du som hovedregel rett til pleiepenger når du må være borte fra jobb for å være sammen med barnet. Dette gjelder også for barn som ikke er formelt utskrevet fra sykehuset, men som har hjemmesykehus eller oppfølging fra nyfødtavdelingens ambulerende sykepleietjeneste (NAST) i hjemmet.
 
 
 #### Vi trenger legeerklæring fra spesialisthelsetjenesten
@@ -279,7 +279,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 21.05.2026
+Oppdatert 10.06.2026
 
 
 #### Chat
@@ -291,7 +291,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -301,3 +301,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

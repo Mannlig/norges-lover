@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0910bf37d2c84a688e4ba373bde96327d9a9b3f7beea7d3db1a8eacaf0419948 -->
+<!-- innholds-hash: 60f27bb49b40ea4ec1a6c54aa94e590678e6ad70a5da8c3cd33c5d9d105506d3 -->
 
 # Endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-11T21:19:04Z
+- **Sist hentet:** 2026-06-12T04:58:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200241
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781212468854+0200)/",
+  "respons_dato_tid": "/Date(1781237008500+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17420,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781211959504+0200)/",
+    "respons_dato_tid": "/Date(1781236861154+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200241,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781212468854+0200)/",
+      "respons_dato_tid": "/Date(1781237008500+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
@@ -47,14 +47,14 @@
       "id": "MONNIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "respons_dato_tid": "/Date(1781218818853+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -85,3 +85,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

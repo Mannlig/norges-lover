@@ -1,11 +1,11 @@
-<!-- innholds-hash: fafdec60e32ca37ccecac5bd1b63105c42f3bc777e8bb161a20ed5eb75620222 -->
+<!-- innholds-hash: 79e5dd948c54f80f08901c74907e0df3625cfa7dbb8bd3af85a7f069a5baab9c -->
 
 # Sykmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmelding
-- **Sist hentet:** 2026-06-04T16:23:01Z
+- **Sist hentet:** 2026-06-12T09:40:58Z
 
 ## Innhold
 
@@ -60,9 +60,9 @@ Hver ansatt kan kun ha registrert én nærmeste leder. Hvis en leder allerede er
 
 Ved nye sykmeldinger vil den ansatte bli spurt om den registrerte lederen fortsatt er nærmeste leder. Hvis svaret er nei, vil virksomheten få spørsmålet på nytt i Altinn. Lederen kan også bryte koblingen til den ansatte på Dine sykmeldte.
 
-Virksomheten kan også endre nærmeste leder ved å bruke det tidligere brukte skjemaet som kan åpnes fra virksomheten sin innboks i Altinn, eller ved å benytte seg av et tomt skjema som ligger på Min side arbeidsgiver hos Nav.
+Virksomheten kan også endre nærmeste leder ved å benytte seg av et tomt skjema som ligger på Min side arbeidsgiver hos Nav.
 
-Personen som oppgis som nærmeste leder må ha norsk fødselsnummer eller d-nummer og må være ansatt i samme organisasjon. Nærmeste leder kan kun meldes inn når den ansatte er sykmeldt med sykmelding.
+Personen som oppgis som nærmeste leder må ha norsk fødselsnummer eller d-nummer. Nærmeste leder kan kun meldes inn når den ansatte er sykmeldt med sykmelding.
 
 - Få oversikt over hvem lederen har oppfølgingsansvar for.
 - Finn ut hvem av disse som er sykmeldt.
@@ -218,12 +218,12 @@ Da får du melding når
 - Nav-veilederen sender en forespørsel for å få tilsendt en oppfølgingsplan
 Nærmeste leder får melding til e-postadressen som er oppgitt på skjemaet "Oppgi næremeste leder for sykmeldt ansatt"
 
-Oppdatert 04.06.2026
+Oppdatert 10.06.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Kontaktskjema
@@ -245,3 +245,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

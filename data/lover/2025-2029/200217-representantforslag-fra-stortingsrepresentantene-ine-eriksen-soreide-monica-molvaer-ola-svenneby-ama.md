@@ -1,4 +1,4 @@
-<!-- innholds-hash: f70ae0ed1df2d6aed6f6a4bed41bba71660b57733045bd53c9e2c5c70d00b7b5 -->
+<!-- innholds-hash: a877a9387031df301ce7281a5549c14b3cfe3e09a02cf5cd5adb1436626c290e -->
 
 # Representantforslag fra stortingsrepresentantene Ine Eriksen Søreide, Monica Molvær, Ola Svenneby, Amalie Gunnufsen, Mathias Willassen Hanssen og Mathilde Tybring-Gjedde om å løse realfagskrisen
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-11T21:19:04Z
+- **Sist hentet:** 2026-06-12T04:58:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200217
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781212468854+0200)/",
+  "respons_dato_tid": "/Date(1781237008500+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
@@ -29,7 +29,7 @@
   "innstilling_id": 17480,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781211959504+0200)/",
+    "respons_dato_tid": "/Date(1781236861154+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781212468854+0200)/",
+      "respons_dato_tid": "/Date(1781237008500+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -47,14 +47,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "respons_dato_tid": "/Date(1781218818853+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -84,3 +84,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

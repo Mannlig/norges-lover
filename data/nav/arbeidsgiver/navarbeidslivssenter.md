@@ -1,11 +1,11 @@
-<!-- innholds-hash: fd4cf6981864ab93d7709113da3db493f69c6517e53f346e318fa3c94009b5dc -->
+<!-- innholds-hash: f8e7aa42fed7965bcde5a795ffe3c3f9c54ef5b341ca61d446463aaab5e337fc -->
 
 # Oppfølging fra Nav arbeidslivssenter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/navarbeidslivssenter
-- **Sist hentet:** 2026-05-18T16:30:27Z
+- **Sist hentet:** 2026-06-12T09:46:27Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Kontaktskjema
@@ -75,3 +75,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

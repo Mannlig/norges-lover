@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3456e28df64a85566c44e9c9113a10d12391dccc6617eb72992295288bebd1e6 -->
+<!-- innholds-hash: a9b66999bd211bd5b8cc31c72063fd3a7036a154cae753a09b684851fcfed513 -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utkast/arbeidsgiver/inntektsmelding
-- **Sist hentet:** 2026-06-04T16:25:52Z
+- **Sist hentet:** 2026-06-12T09:43:42Z
 
 ## Innhold
 
@@ -453,12 +453,12 @@ Inntektsmelding fra virksomhet B:
 - Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
 - Første fraværsdag: startdato for arbeidstakerens arbeidsforhold i virksomhet B
 - Nytt refusjonsbeløp: ønsket refusjonsbeløp
-Oppdatert 02.06.2026
+Oppdatert 11.06.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Chat
@@ -475,3 +475,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)

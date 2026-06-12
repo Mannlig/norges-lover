@@ -1,11 +1,11 @@
-<!-- innholds-hash: b970977a42165d0e24908189bbde416721b764b3a77e5d7fd7c46901f9388338 -->
+<!-- innholds-hash: 189080e2eb22e53c790325fdf3f7e5b751fe1b27128ac5c97173c6663a45e9f5 -->
 
 # Frivillig yrkesskadetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/frivillig-yrkesskadetrygd
-- **Sist hentet:** 2026-06-04T16:46:59Z
+- **Sist hentet:** 2026-06-12T10:04:37Z
 
 ## Innhold
 
@@ -106,7 +106,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -116,7 +116,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -125,3 +125,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-06-04** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)
