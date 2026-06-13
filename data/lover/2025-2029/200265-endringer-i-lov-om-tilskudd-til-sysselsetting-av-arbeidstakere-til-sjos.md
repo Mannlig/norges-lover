@@ -1,4 +1,4 @@
-<!-- innholds-hash: 89002d0bca18e5e49d9d027d64d7767f480e078a0c75bce731f56b4a028d6d93 -->
+<!-- innholds-hash: 758efe5f1791185373209cead6f35b2aac726b174cd0581a35c33e0be19ef276 -->
 
 # Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200265
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668197+0200)/",
+  "respons_dato_tid": "/Date(1781316099506+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17524,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200265,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668197+0200)/",
+      "respons_dato_tid": "/Date(1781316099506+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
@@ -47,14 +47,14 @@
       "id": "MARNIL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -76,3 +76,4 @@
 
 - **2026-06-12** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

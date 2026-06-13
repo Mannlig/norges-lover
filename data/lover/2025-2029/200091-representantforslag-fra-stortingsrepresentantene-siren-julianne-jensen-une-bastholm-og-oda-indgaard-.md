@@ -1,4 +1,4 @@
-<!-- innholds-hash: a7e4e725f5de32251d54733e634834d21c875ac17c1dd848de2117f237e225cc -->
+<!-- innholds-hash: 9538c92b970a280af316dfad521031e7cc68d6203b6aa9d5362d345534649b35 -->
 
 # Representantforslag fra stortingsrepresentantene Siren Julianne Jensen, Une Bastholm og Oda Indgaard om strakstiltak for å sikre norsk film- og serieproduksjon og hindre kompetanseflukt fra bransjen
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:18Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200091
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668494+0200)/",
+  "respons_dato_tid": "/Date(1781316102881+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316102881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -34,14 +34,14 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316102881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -59,14 +59,14 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316102881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -84,14 +84,14 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -105,7 +105,7 @@
   "innstilling_id": 17439,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200091,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316102881+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -123,14 +123,14 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -160,3 +160,4 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

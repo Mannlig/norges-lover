@@ -1,4 +1,4 @@
-<!-- innholds-hash: ae464e56d43b337f2ab63f5a47af3731a1847c1382bb595188d02c11915402d5 -->
+<!-- innholds-hash: 026bcbf99611cb890da50ee1fc306a17698a452c2a7c820080a394e4056a9cab -->
 
 # Representantforslag fra stortingsrepresentant Siren Julianne Jensen om å etablere et skulpturmuseum i Nasjonalgalleriet
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200176
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668228+0200)/",
+  "respons_dato_tid": "/Date(1781316100178+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668228+0200)/",
+      "respons_dato_tid": "/Date(1781316100271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -34,14 +34,14 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -55,7 +55,7 @@
   "innstilling_id": 17419,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -64,7 +64,7 @@
   "sak_fremmet_id": 200176,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668228+0200)/",
+      "respons_dato_tid": "/Date(1781316100209+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -73,14 +73,14 @@
       "id": "MORL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -107,3 +107,4 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

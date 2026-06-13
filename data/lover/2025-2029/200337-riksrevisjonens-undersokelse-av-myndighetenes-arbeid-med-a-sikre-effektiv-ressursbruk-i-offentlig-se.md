@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3199bae22d30688635f8c035fc7b88246412ddcf767b37204e146ff89e8238f7 -->
+<!-- innholds-hash: d426e1a9053779f6c0309754fc0184d68390ba0cc39cec6d9a7109621d90ae98 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200337
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668197+0200)/",
+  "respons_dato_tid": "/Date(1781316099599+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -50,3 +50,4 @@
 
 - **2026-06-10** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

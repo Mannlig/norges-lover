@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8987af620f2030ad637807a1438e27d29f81f74feb179d69cf06fc3ecbaf78f0 -->
+<!-- innholds-hash: 98a1fa1c7e26d2ef3a27ed891502b4d5ffc5ebcf30bc645bc40645d30a067912 -->
 
 # Endringer i viltressursloven (endring av krav om merking av feller og bruk av drone ved ettersøk av storvilt med jakttid)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:18Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200232
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668494+0200)/",
+  "respons_dato_tid": "/Date(1781316103053+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17453,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200232,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316103053+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -47,14 +47,14 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -86,3 +86,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

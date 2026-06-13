@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a226cbd9a5a4ac02ad638c0ac673bae00c258cba9625a1fe42710b3c605ec58 -->
+<!-- innholds-hash: 121c13dc14cb75afe87e1b4870159272cfa1c7722c44fd8ea9f64b69a8916d6b -->
 
 # Samisk språk, kultur og samfunnsliv
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:18Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200239
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668494+0200)/",
+  "respons_dato_tid": "/Date(1781316102913+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": 17503,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200239,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668494+0200)/",
+      "respons_dato_tid": "/Date(1781316102975+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Alvær",
@@ -47,14 +47,14 @@
       "id": "KONALV",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -84,3 +84,4 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

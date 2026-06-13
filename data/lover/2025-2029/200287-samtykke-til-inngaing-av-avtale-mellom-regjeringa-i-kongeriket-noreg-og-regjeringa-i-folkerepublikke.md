@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8080e52c08e46542cc173391035ff17b8e446e99e7e6c9a13cf239bf631a48f5 -->
+<!-- innholds-hash: 18572701cb294940a6eeb9d60bd3bb649424020ba71dbf1a063973a9fdf10ea4 -->
 
 # Samtykke til inngåing av avtale mellom regjeringa i Kongeriket Noreg og regjeringa i Folkerepublikken Kina om leige av tomt til Den kongelege norske ambassaden i Kina
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200287
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668369+0200)/",
+  "respons_dato_tid": "/Date(1781316100927+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17463,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200287,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668369+0200)/",
+      "respons_dato_tid": "/Date(1781316100943+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -47,14 +47,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -78,3 +78,4 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

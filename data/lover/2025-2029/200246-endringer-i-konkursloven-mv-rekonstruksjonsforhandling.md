@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08366bd0d3727eb76dc3a09ab1fb1805d4dac6413a1b3463791ea2630520eecd -->
+<!-- innholds-hash: 9f256e4c9e48ca94520fd594dbded98e9f3a6c6ab701660f4d75d44463628228 -->
 
 # Endringer i konkursloven mv. (rekonstruksjonsforhandling)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200246
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668478+0200)/",
+  "respons_dato_tid": "/Date(1781316102569+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17489,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200246,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668478+0200)/",
+      "respons_dato_tid": "/Date(1781316102569+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -47,14 +47,14 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -84,3 +84,4 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

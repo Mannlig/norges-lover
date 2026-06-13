@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8661552bd977ac763a755b3f0e3e35c75ac13f28b65485d3ed3d11f0612ccc2e -->
+<!-- innholds-hash: ae29cd5594a7445a4dedb51cd3c628d7aef0e7246ce1f94f9450ab781f595fbc -->
 
 # Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T20:08:17Z
+- **Sist hentet:** 2026-06-13T02:20:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200254
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781291668197+0200)/",
+  "respons_dato_tid": "/Date(1781316099490+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17521,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "respons_dato_tid": "/Date(1781316055475+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200254,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781291668197+0200)/",
+      "respons_dato_tid": "/Date(1781316099506+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Frølich",
@@ -47,14 +47,14 @@
       "id": "PCF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781289016056+0200)/",
+        "respons_dato_tid": "/Date(1781309412536+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781305217338+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -76,3 +76,4 @@
 
 - **2026-06-12** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)
