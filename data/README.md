@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-12 18:07 UTC*
+*Sist oppdatert: 2026-06-13 00:19 UTC*
 
-**Antall dokumenter:** 3569
+**Antall dokumenter:** 3585
 
 ## Innhold
 
@@ -606,6 +606,7 @@ Lovdata
 - [§ 1-5. Byggesaksbestemmelsenes virkeområde for fartøy](byggteknisk/regelverk/sak/1/1/-1-5.-byggesaksbestemmelsenes-virkeomrade-for-fartoy.md)
 - [§ 1-1. Formål](byggteknisk/regelverk/sak/1/1/1-1.md)
 - [§ 1-2. Definisjoner](byggteknisk/regelverk/sak/1/1/1-2/1/ledd-g.md)
+- [§ 1-2. Definisjoner](byggteknisk/regelverk/sak/1/1/1-2/1/ledd-h.md)
 - [§ 1-2. Definisjoner](byggteknisk/regelverk/sak/1/1/1-2.md)
 - [§ 1-3. Opplysningsplikt](byggteknisk/regelverk/sak/1/1/1-3.md)
 - [§ 1-4. Virkeområdet for bestemmelser som omhandler utvalgte naturtyper](byggteknisk/regelverk/sak/1/1/1-4.md)
@@ -622,6 +623,7 @@ Lovdata
 - [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](byggteknisk/regelverk/sak/2/4/4-3.md)
 - [Innledning](byggteknisk/regelverk/sak/2/4/innledning.md)
 - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](byggteknisk/regelverk/sak/2/5/5-1.md)
+- [§ 5-2. Varsel til naboer og gjenboere](byggteknisk/regelverk/sak/2/5/5-2/5.md)
 - [§ 5-2. Varsel til naboer og gjenboere](byggteknisk/regelverk/sak/2/5/5-2.md)
 - [§ 5-3. Gjennomføringsplan](byggteknisk/regelverk/sak/2/5/5-3.md)
 - [§ 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak](byggteknisk/regelverk/sak/2/5/5-4/3/n.md)
@@ -660,6 +662,7 @@ Lovdata
 - [§ 12-1. Tiltakshavers ansvar](byggteknisk/regelverk/sak/3/12/12-1.md)
 - [§ 12-2. Ansvarlig søkers ansvar](byggteknisk/regelverk/sak/3/12/12-2.md)
 - [§ 12-3. Ansvarlig prosjekterendes ansvar](byggteknisk/regelverk/sak/3/12/12-3.md)
+- [§ 12-4. Ansvarlig utførendes ansvar](byggteknisk/regelverk/sak/3/12/12-4/1/e.md)
 - [§ 12-4. Ansvarlig utførendes ansvar](byggteknisk/regelverk/sak/3/12/12-4.md)
 - [§ 12-5. Ansvarlig kontrollerendes ansvar](byggteknisk/regelverk/sak/3/12/12-5.md)
 - [§ 12-6. Særskilte bestemmelser om ansvar](byggteknisk/regelverk/sak/3/12/12-6/3.md)
@@ -690,6 +693,7 @@ Lovdata
 - [§ 14-4. Tidsavgrensede krav om uavhengig kontroll](byggteknisk/regelverk/sak/4/14/14-4.md)
 - [§ 14-5. Unntak fra krav om obligatorisk uavhengig kontroll](byggteknisk/regelverk/sak/4/14/14-5.md)
 - [§ 14-6. Gjennomføring av uavhengig kontroll etter § 14-2 første ledd og annen uavhengig kontroll i tiltaksklasse 1](byggteknisk/regelverk/sak/4/14/14-6.md)
+- [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](byggteknisk/regelverk/sak/4/14/14-7/3.md)
 - [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](byggteknisk/regelverk/sak/4/14/14-7.md)
 - [§ 14-8. Sluttkontroll](byggteknisk/regelverk/sak/4/14/14-8/2.md)
 - [§ 14-8. Sluttkontroll](byggteknisk/regelverk/sak/4/14/14-8.md)
@@ -3478,6 +3482,18 @@ Lovdata
 - [B-6-1.1 Generelt](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.002.md)
 - [B-6-1.2 Næringsdrivende som også er lønnstaker](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.003.md)
 - [B-6-1.3 Deltaker i selskap med deltakerfastsetting](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.004.md)
+- [B-6-2.1 Bilgodtgjørelse for yrkeskjøring, godtgjørelsen følger satser fastsatt av Skattedirektoratet](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.006.md)
+- [B-6-2.2 Bilgodtgjørelse for yrkeskjøring, godtgjørelse som ikke følger satsene fastsatt av Skattedirektoratet](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.009.md)
+- [B-6-2.3 Godtgjørelse for besøksreiser](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.014.md)
+- [B-6-2.4 Godtgjørelse for yrkeskjøring og besøksreiser, bruk av andres bil](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.015.md)
+- [B-6-2.5 Godtgjørelse for kjøring mellom hjem og fast arbeidssted (arbeidsreiser)](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.016.md)
+- [B-6-2.6 Godtgjørelse i forbindelse med avbrutt utlandsopphold](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.017.md)
+- [B-6-2.7 Tillegg til ordinær bilgodtgjørelse](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.018.md)
+- [B-6-2.8 Underskudd](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.019.md)
+- [B-6-2.9 Formelle regler](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.020.md)
+- [B-6-3 Garasje](skatt/rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.021.md)
+- [B-7-1 Nøkkeltall](skatt/rettskilder/type/handboker/skatte-abc/2023/b-7-bil--privat-bruk/B-7.001.md)
+- [B-7-2.1 Generelt](skatt/rettskilder/type/handboker/skatte-abc/2023/b-7-bil--privat-bruk/B-7.002/B-7.003.md)
 - [Skatte-ABC 2023](skatt/rettskilder/type/handboker/skatte-abc/2023.md)
 - [Skatte-ABC](skatt/rettskilder/type/handboker/skatte-abc.md)
 - [Håndbøker](skatt/rettskilder/type/handboker.md)

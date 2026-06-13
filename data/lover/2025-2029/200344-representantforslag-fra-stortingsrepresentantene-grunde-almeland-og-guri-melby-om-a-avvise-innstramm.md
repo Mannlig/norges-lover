@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9436a5646159eb009a344bdaf66b813a98167b6420802220992af64ac61307d6 -->
+<!-- innholds-hash: a3e4ea591ba6245af0396d081195d37d877d8f0bde4f7698be3dbf99160ca20b -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200344
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avvise innstramminger i regulering av snus
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-11T13:21:35Z
+- **Sist hentet:** 2026-06-12T20:08:17Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781183248161+0200)/",
+  "respons_dato_tid": "/Date(1781291668197+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248161+0200)/",
+      "respons_dato_tid": "/Date(1781291668197+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -34,14 +34,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "respons_dato_tid": "/Date(1781289016056+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248161+0200)/",
+      "respons_dato_tid": "/Date(1781291668197+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -59,14 +59,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
+        "respons_dato_tid": "/Date(1781289016056+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
+        "respons_dato_tid": "/Date(1781218818806+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -79,12 +79,17 @@
   "id": 200344,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781291100965+0200)/",
+    "versjon": "1.6",
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om å avvise innstramminger i regulering av snus",
   "sak_fremmet_id": 200344,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus",
   "type": 2
 }
@@ -95,3 +100,4 @@
 ## Endringshistorikk
 
 - **2026-06-11** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

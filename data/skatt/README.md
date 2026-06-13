@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-12 18:07 UTC*
+*Sist oppdatert: 2026-06-13 00:19 UTC*
 
-**Antall dokumenter:** 1430
+**Antall dokumenter:** 1442
 
 ## Innhold
 
@@ -1334,6 +1334,18 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [B-6-1.1 Generelt](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.002.md)
 - [B-6-1.2 Næringsdrivende som også er lønnstaker](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.003.md)
 - [B-6-1.3 Deltaker i selskap med deltakerfastsetting](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.001/B-6.004.md)
+- [B-6-2.1 Bilgodtgjørelse for yrkeskjøring, godtgjørelsen følger satser fastsatt av Skattedirektoratet](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.006.md)
+- [B-6-2.2 Bilgodtgjørelse for yrkeskjøring, godtgjørelse som ikke følger satsene fastsatt av Skattedirektoratet](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.009.md)
+- [B-6-2.3 Godtgjørelse for besøksreiser](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.014.md)
+- [B-6-2.4 Godtgjørelse for yrkeskjøring og besøksreiser, bruk av andres bil](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.015.md)
+- [B-6-2.5 Godtgjørelse for kjøring mellom hjem og fast arbeidssted (arbeidsreiser)](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.016.md)
+- [B-6-2.6 Godtgjørelse i forbindelse med avbrutt utlandsopphold](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.017.md)
+- [B-6-2.7 Tillegg til ordinær bilgodtgjørelse](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.018.md)
+- [B-6-2.8 Underskudd](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.019.md)
+- [B-6-2.9 Formelle regler](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.005/B-6.020.md)
+- [B-6-3 Garasje](rettskilder/type/handboker/skatte-abc/2023/b-6-bil--godtgjorelse/B-6.021.md)
+- [B-7-1 Nøkkeltall](rettskilder/type/handboker/skatte-abc/2023/b-7-bil--privat-bruk/B-7.001.md)
+- [B-7-2.1 Generelt](rettskilder/type/handboker/skatte-abc/2023/b-7-bil--privat-bruk/B-7.002/B-7.003.md)
 - [Skatte-ABC 2023](rettskilder/type/handboker/skatte-abc/2023.md)
 - [Skatte-ABC](rettskilder/type/handboker/skatte-abc.md)
 - [Håndbøker](rettskilder/type/handboker.md)

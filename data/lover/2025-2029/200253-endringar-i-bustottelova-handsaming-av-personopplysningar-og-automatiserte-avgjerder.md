@@ -1,4 +1,4 @@
-<!-- innholds-hash: 588f3c8c88f9b37f70d3f2a44cea11a113cb39b49bbeea4932591c44213bf0d7 -->
+<!-- innholds-hash: baca0df0b2e5057ff488a774d60cc9cbcf7856949339e018b549eb3345b7ff0f -->
 
 # Endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T13:12:55Z
+- **Sist hentet:** 2026-06-12T20:08:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200253
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781269835555+0200)/",
+  "respons_dato_tid": "/Date(1781291668494+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17460,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781269384770+0200)/",
+    "respons_dato_tid": "/Date(1781291100965+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200253,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781269835555+0200)/",
+      "respons_dato_tid": "/Date(1781291668494+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -47,7 +47,7 @@
       "id": "MUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781245815888+0200)/",
+        "respons_dato_tid": "/Date(1781289016056+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -81,5 +81,6 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)

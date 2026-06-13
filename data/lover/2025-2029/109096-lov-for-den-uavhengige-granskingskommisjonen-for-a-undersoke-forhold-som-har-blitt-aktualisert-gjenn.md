@@ -1,4 +1,4 @@
-<!-- innholds-hash: e7a1875adfa50a58f439f48e39b4a494381b138222503f953548efa8d0713f2f -->
+<!-- innholds-hash: 62517c23fb93476346a1e926c28785a41e41a80709a7ed15eb61d34ed2bd23e6 -->
 
 # Lov for den uavhengige granskingskommisjonen for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T13:12:55Z
+- **Sist hentet:** 2026-06-12T20:08:17Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=109096
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781269835290+0200)/",
+  "respons_dato_tid": "/Date(1781291668197+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
@@ -29,7 +29,7 @@
   "innstilling_id": 17530,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781269384770+0200)/",
+    "respons_dato_tid": "/Date(1781291100965+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -49,3 +49,4 @@
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-12** Innhold endret (se git-historikk for diff)

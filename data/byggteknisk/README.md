@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-06-12 18:07 UTC*
+*Sist oppdatert: 2026-06-13 00:19 UTC*
 
-**Antall dokumenter:** 728
+**Antall dokumenter:** 732
 
 ## Innhold
 
@@ -438,6 +438,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 1-5. Byggesaksbestemmelsenes virkeområde for fartøy](regelverk/sak/1/1/-1-5.-byggesaksbestemmelsenes-virkeomrade-for-fartoy.md)
 - [§ 1-1. Formål](regelverk/sak/1/1/1-1.md)
 - [§ 1-2. Definisjoner](regelverk/sak/1/1/1-2/1/ledd-g.md)
+- [§ 1-2. Definisjoner](regelverk/sak/1/1/1-2/1/ledd-h.md)
 - [§ 1-2. Definisjoner](regelverk/sak/1/1/1-2.md)
 - [§ 1-3. Opplysningsplikt](regelverk/sak/1/1/1-3.md)
 - [§ 1-4. Virkeområdet for bestemmelser som omhandler utvalgte naturtyper](regelverk/sak/1/1/1-4.md)
@@ -454,6 +455,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](regelverk/sak/2/4/4-3.md)
 - [Innledning](regelverk/sak/2/4/innledning.md)
 - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](regelverk/sak/2/5/5-1.md)
+- [§ 5-2. Varsel til naboer og gjenboere](regelverk/sak/2/5/5-2/5.md)
 - [§ 5-2. Varsel til naboer og gjenboere](regelverk/sak/2/5/5-2.md)
 - [§ 5-3. Gjennomføringsplan](regelverk/sak/2/5/5-3.md)
 - [§ 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak](regelverk/sak/2/5/5-4/3/n.md)
@@ -492,6 +494,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 12-1. Tiltakshavers ansvar](regelverk/sak/3/12/12-1.md)
 - [§ 12-2. Ansvarlig søkers ansvar](regelverk/sak/3/12/12-2.md)
 - [§ 12-3. Ansvarlig prosjekterendes ansvar](regelverk/sak/3/12/12-3.md)
+- [§ 12-4. Ansvarlig utførendes ansvar](regelverk/sak/3/12/12-4/1/e.md)
 - [§ 12-4. Ansvarlig utførendes ansvar](regelverk/sak/3/12/12-4.md)
 - [§ 12-5. Ansvarlig kontrollerendes ansvar](regelverk/sak/3/12/12-5.md)
 - [§ 12-6. Særskilte bestemmelser om ansvar](regelverk/sak/3/12/12-6/3.md)
@@ -522,6 +525,7 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 14-4. Tidsavgrensede krav om uavhengig kontroll](regelverk/sak/4/14/14-4.md)
 - [§ 14-5. Unntak fra krav om obligatorisk uavhengig kontroll](regelverk/sak/4/14/14-5.md)
 - [§ 14-6. Gjennomføring av uavhengig kontroll etter § 14-2 første ledd og annen uavhengig kontroll i tiltaksklasse 1](regelverk/sak/4/14/14-6.md)
+- [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](regelverk/sak/4/14/14-7/3.md)
 - [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](regelverk/sak/4/14/14-7.md)
 - [§ 14-8. Sluttkontroll](regelverk/sak/4/14/14-8/2.md)
 - [§ 14-8. Sluttkontroll](regelverk/sak/4/14/14-8.md)
