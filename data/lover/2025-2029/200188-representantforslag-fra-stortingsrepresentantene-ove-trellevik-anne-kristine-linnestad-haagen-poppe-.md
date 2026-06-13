@@ -1,4 +1,4 @@
-<!-- innholds-hash: ea8cf1625955656e29296a069980eca0d0c179f232c439ce841c1e7cb554b18a -->
+<!-- innholds-hash: 890028739ddf6c1eacba3a621de8bb26b21783fed6e6a7739183760864c146ba -->
 
 # Representantforslag fra stortingsrepresentantene Ove Trellevik, Anne Kristine Linnestad, Haagen Poppe og Tage Pettersen om å be regjeringen stanse Statsforvalteren i Agder sin prosess med å omgjøre rettskraftige kommunale dispensasjonsvedtak
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-13T02:20:31Z
+- **Sist hentet:** 2026-06-13T07:53:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200188
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781316102694+0200)/",
+  "respons_dato_tid": "/Date(1781334328887+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781316102709+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781316102709+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781316102725+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781316102725+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -130,7 +130,7 @@
   "innstilling_id": 17506,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781316055475+0200)/",
+    "respons_dato_tid": "/Date(1781334087919+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200188,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781316102694+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -185,4 +185,5 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)

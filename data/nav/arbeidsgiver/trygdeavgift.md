@@ -1,11 +1,11 @@
-<!-- innholds-hash: afd94bb2e7947142c16799786c7171f52273aff453c7e199e5dd9422a956a97b -->
+<!-- innholds-hash: 8e58a737407eb5766a337eb74d56f72f191e57f7e8976e211e7ea2300b90d58d -->
 
 # Trygdeavgift - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/trygdeavgift
-- **Sist hentet:** 2026-06-05T12:15:42Z
+- **Sist hentet:** 2026-06-13T11:53:59Z
 
 ## Innhold
 
@@ -107,9 +107,55 @@ Hvis du betaler ordinær skatt til Norge, trekker Skatteetaten sin del av trygde
 
 #### Satser for medlemskap i folketrygdens helsedel
 
+Hvor mye et frivillig medlemskap koster, avhenger av om
+
+- du betaler skatt til Norge
+- arbeidsgiveren din betaler arbeidsgiveravgift
+- du er medlem med full trygdedekning, eller begrenset trygdedekning i folketrygdens helsedel
+Les mer om
+
+
+#### Avgiftssatser for 2026
+
+Se hvilke satser som gjelder i din situasjon:
+
+
+#### Hvis du betaler skatt til Norge
+
+Om du skal betale trygdeavgift til Nav, avhenger av om arbeidsgiveren din betaler arbeidsgiveravgift eller ikke.
+
+Du skal betale trygdeavgift til Skatteetaten. Skatteetaten trekker trygdeavgift av personinntekten din sammen med skatten, og du skal ikke betale til Nav.
+
+Du må betale trygdeavgift til både til Skatteetaten og Nav.
+
+- Skatteetaten trekker trygdeavgift av personinntekten din sammen med skatten
+- du må i tillegg betale trygdeavgift til Nav, fordi arbeidsgiveren din ikke betaler arbeidsgiveravgift
+I tabellen under ser du hva du må betale til Nav.
+
+
+#### Hvis du ikke betaler skatt til Norge
+
+Når du ikke betaler skatt til Norge, må du betale trygdeavgift til Nav av personinntekten din. Hvor mye du skal betale avhenger av om arbeidsgiveren din betaler arbeidsgiveravgift eller ikke.
+
+
+#### Hvis du betaler skatt til Norge
+
+Du må betale deler av trygdeavgiften til Skatteetaten og deler av trygdeavgiften til Nav av personinntekten din.
+
+
+#### Hvis du ikke betaler skatt til Norge
+
+Hvis du ikke betaler skatt til Norge, må du betale trygdeavgift til Nav av personinntekten din.
+
+Når du er pensjonist eller uføretrygdet og ikke har arbeidsinntekt, kan du få medlemskap med begrenset trygdedekning.
+
+Hvor mye du må betale i trygdeavgift til Nav, avhenger om du betaler skatt til Norge eller ikke.
+
+Hvis du betaler ordinær skatt til Norge, trekker Skatteetaten sin del av trygdeavgiften sammen med skatten.  Hvis du mottar pensjon fra Norge og betaler kildeskatt, skal du betale hele trygdeavgiften til Nav.
+
 Du finner oversikt over flere avgiftssatser for trygdeavgift hos Lovdata
 
-Oppdatert 09.02.2026
+Oppdatert 08.06.2026
 
 
 #### Chat med oss
@@ -118,7 +164,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -128,7 +174,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -137,3 +183,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 68aa2e14427ccab1107f0f226e2f8013d8add0ce85fd96cf5ed96e16568fd39b -->
+<!-- innholds-hash: 28bf9d290d4f96e126c985549e9038ed25333c776ef55204cff24094b5e58a1c -->
 
 # Mentortilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/mentor
-- **Sist hentet:** 2026-06-05T12:06:40Z
+- **Sist hentet:** 2026-06-13T11:45:10Z
 
 ## Innhold
 
@@ -79,7 +79,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -100,3 +100,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

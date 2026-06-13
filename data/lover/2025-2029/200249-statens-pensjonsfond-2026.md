@@ -1,4 +1,4 @@
-<!-- innholds-hash: cbec34ac38e467f2e7c76b4180c581f29ace0008d20de20c9283e8148538fd46 -->
+<!-- innholds-hash: 6e713b3f813458032312fb7d2edcbbe4e77b0f28bcfab0aa45ac6b0ca3b1745a -->
 
 # Statens pensjonsfond 2026
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-13T02:20:31Z
+- **Sist hentet:** 2026-06-13T07:53:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200249
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781316102975+0200)/",
+  "respons_dato_tid": "/Date(1781334328887+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": 17497,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781316055475+0200)/",
+    "respons_dato_tid": "/Date(1781334087919+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200249,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781316102975+0200)/",
+      "respons_dato_tid": "/Date(1781334328887+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -87,4 +87,5 @@
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)

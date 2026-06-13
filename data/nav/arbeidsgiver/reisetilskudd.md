@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ffa200d2ca6af6e5209e71a7f5f04a74134c35afa5851adef259608f1df7893 -->
+<!-- innholds-hash: 47a2d84b9e7774e2069a4aff6cc8d206a8abc7da022ad8f551586cd4d0705eaa -->
 
 # Reisetilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/reisetilskudd
-- **Sist hentet:** 2026-06-05T11:30:39Z
+- **Sist hentet:** 2026-06-13T11:09:53Z
 
 ## Innhold
 
@@ -113,7 +113,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -135,3 +135,4 @@ Alltid åpen
 
 - **2026-05-21** Første gang hentet
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-06-13** Innhold endret (se git-historikk for diff)

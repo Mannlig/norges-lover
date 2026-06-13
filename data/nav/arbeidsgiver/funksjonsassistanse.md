@@ -1,11 +1,11 @@
-<!-- innholds-hash: a8f7a0167680266f180ed42d3f695079700ca7db6f9e21c623c370148591d0a9 -->
+<!-- innholds-hash: 4febba768f0acccdfbdb4252bc8e0be46b1d44fff1c4720310d6d287bedcb915 -->
 
 # Funksjonsassistanse i arbeidslivet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/funksjonsassistanse
-- **Sist hentet:** 2026-06-05T12:03:05Z
+- **Sist hentet:** 2026-06-13T11:41:44Z
 
 ## Innhold
 
@@ -153,7 +153,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -174,3 +174,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

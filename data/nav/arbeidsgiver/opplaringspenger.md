@@ -1,11 +1,11 @@
-<!-- innholds-hash: 580c7facfabe3df7f47cfd117972c5d17c94d4efacd5bb14f1a59a9063984243 -->
+<!-- innholds-hash: b3e2c6870f042d48288e8eb57836316bb91d6dea784e7446063f3f11c3a77067 -->
 
 # Opplæringspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/opplaringspenger
-- **Sist hentet:** 2026-06-05T12:09:27Z
+- **Sist hentet:** 2026-06-13T11:47:50Z
 
 ## Innhold
 
@@ -181,7 +181,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -190,3 +190,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

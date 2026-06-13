@@ -1,11 +1,11 @@
-<!-- innholds-hash: 048fcbe6da01b10560cf27dbf4a061c82b109fbf84b0a11f84026b854fea7804 -->
+<!-- innholds-hash: f738ad8e158bfaa3979a09d847e728e8366e61e75416b92a2c8df60c7d495474 -->
 
 # Pleiepenger for en  utviklingshemmet person over 18 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-over-18
-- **Sist hentet:** 2026-06-05T12:10:49Z
+- **Sist hentet:** 2026-06-13T11:49:12Z
 
 ## Innhold
 
@@ -214,7 +214,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -223,3 +223,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

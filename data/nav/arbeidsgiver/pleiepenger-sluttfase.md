@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8116c1979f78eb96d03c92ffbc3bc4512526a1815b15b8a4b92539abb5896811 -->
+<!-- innholds-hash: b68ddd47136819cc42b71c30b883bcaa19b35a2841764ec53edb3be6c3c992c5 -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-sluttfase
-- **Sist hentet:** 2026-06-05T12:11:32Z
+- **Sist hentet:** 2026-06-13T11:49:54Z
 
 ## Innhold
 
@@ -190,7 +190,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -199,3 +199,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

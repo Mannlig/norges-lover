@@ -1,11 +1,11 @@
-<!-- innholds-hash: e212c8e927e5605d4b86d8dd44d459fa0558fe86310d385916f8674378ea40d9 -->
+<!-- innholds-hash: f141e86e569e17383f23ca32b775136b06940c7393933c8c9b61e8262ebb153d -->
 
 # Arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobb
-- **Sist hentet:** 2026-06-05T12:32:46Z
+- **Sist hentet:** 2026-06-13T12:11:10Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -37,7 +37,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -46,3 +46,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)

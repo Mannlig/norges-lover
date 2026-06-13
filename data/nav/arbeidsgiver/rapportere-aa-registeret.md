@@ -1,11 +1,11 @@
-<!-- innholds-hash: 932e21c8c945637fcacb6410610052b4796b24b337f87de427d9ae2d7381d14c -->
+<!-- innholds-hash: 31e9dd5a62b6b9b8047e366a7ff0837fa3256b5e3cc824fac17477fd6a5133a0 -->
 
 # Rapportere til Aa-registeret - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rapportere-aa-registeret
-- **Sist hentet:** 2026-06-05T12:12:12Z
+- **Sist hentet:** 2026-06-13T11:50:36Z
 
 ## Innhold
 
@@ -86,7 +86,11 @@ I Aa-registeret finnes det også arbeidsforholdstypen «forenklet oppgjørsordni
 
 Hvis du har fått beskjed om å sende dokumentasjon til Nav som gjelder arbeidsforhold du har rapportert til Aa-registeret, skal du bruke dette skjemaet.
 
-I neste steg, når du velger hvilken Nav-enhet som skal motta innsendingen, skal du velge Nav registerforvaltning.
+I neste steg skal du velge hvilken Nav-enhet som skal motta innsendingen. Velg Nav registerforvaltning.
+
+Under «Hvem gjelder innsendingen» velger du «Flere personer samtidig eller tiltaksbedrifter, kursarrangører og andre virksomheter».
+
+Vi anbefaler at du oppgir organisasjonsnummeret til virksomheten du sender inn for i feltet «Hvilken dokumentasjon vil du sende til Nav?». Legg også inn et kort og beskrivende navn på dokumentet.
 
 For å sikre kvaliteten på opplysningene i Aa-registeret, kan Nav kontrollere hvordan arbeidsgivere og oppdragsgivere oppfyller plikten til å rapportere.
 
@@ -105,3 +109,4 @@ Oppdatert 22.01.2026
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-06-13** Innhold endret (se git-historikk for diff)
