@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f10d5f18c5106323b98264ba0dc39515838662d8ed9969c90436fb868e3f1fb -->
+<!-- innholds-hash: 9b268eb4933e1b166662b8246420c35b37019ace33101d53f80a64e9742ebde9 -->
 
 # Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200334
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789451+0200)/",
+  "respons_dato_tid": "/Date(1781462642854+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17529,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200334,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -88,6 +88,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

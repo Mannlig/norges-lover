@@ -1,4 +1,4 @@
-<!-- innholds-hash: f64cbeac3036d3a8cb5026f1730b8ba06665eb85c668688489e5491ec7a34dc2 -->
+<!-- innholds-hash: 6b6d97103d875a3cf9ebd60d0a991502bcd4c606fc003a3b25a0c75f107e146b -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe og Margret Hagerup om bedre tilgang til vaksiner og enklere gjennomføring av vaksinering
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200156
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789341+0200)/",
+  "respons_dato_tid": "/Date(1781462641448+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641510+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641510+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -80,7 +80,7 @@
   "innstilling_id": 17510,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -89,7 +89,7 @@
   "sak_fremmet_id": 200156,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641510+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
@@ -139,6 +139,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

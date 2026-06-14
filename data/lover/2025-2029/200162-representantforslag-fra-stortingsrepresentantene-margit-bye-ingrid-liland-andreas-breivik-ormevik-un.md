@@ -1,4 +1,4 @@
-<!-- innholds-hash: 17d76ff834122a6daec465c7b616fd03b80dd02b6c08d64b5d22a9ccb9b2df58 -->
+<!-- innholds-hash: 3630cfb003d572138e953e0c413f5b9d283b2871a813c313b37ace848407c92f -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Ingrid Liland, Andreas Breivik Ormevik, Une Bastholm, Oda Indgaard og Marius Langballe Dalin om å redusere kravet til risikokapital for Klimainvesteringsfondet
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200162
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789232+0200)/",
+  "respons_dato_tid": "/Date(1781462640713+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789294+0200)/",
+      "respons_dato_tid": "/Date(1781462640870+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ormevik",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789294+0200)/",
+      "respons_dato_tid": "/Date(1781462640932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462640995+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641057+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641120+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641120+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -180,7 +180,7 @@
   "innstilling_id": 17468,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -189,7 +189,7 @@
   "sak_fremmet_id": 200162,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789232+0200)/",
+      "respons_dato_tid": "/Date(1781462640791+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nielsen",
@@ -233,6 +233,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

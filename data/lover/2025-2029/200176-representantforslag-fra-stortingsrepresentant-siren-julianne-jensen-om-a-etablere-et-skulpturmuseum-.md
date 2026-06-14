@@ -1,4 +1,4 @@
-<!-- innholds-hash: 25e6083615afeedbd17ee4ecca5f5191690e01ae5ac500887d0c851925755053 -->
+<!-- innholds-hash: f7ae615e4f774ec3870e242fe752e2127ee709d89c9abfcc8a05e7ca8c248e61 -->
 
 # Representantforslag fra stortingsrepresentant Siren Julianne Jensen om å etablere et skulpturmuseum i Nasjonalgalleriet
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200176
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789232+0200)/",
+  "respons_dato_tid": "/Date(1781462640604+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789232+0200)/",
+      "respons_dato_tid": "/Date(1781462640713+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -55,7 +55,7 @@
   "innstilling_id": 17419,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -64,7 +64,7 @@
   "sak_fremmet_id": 200176,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789232+0200)/",
+      "respons_dato_tid": "/Date(1781462640651+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -111,6 +111,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

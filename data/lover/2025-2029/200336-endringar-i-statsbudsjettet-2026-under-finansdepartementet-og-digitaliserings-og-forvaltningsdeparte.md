@@ -1,4 +1,4 @@
-<!-- innholds-hash: 97582c309b1e34e89936357a074915ea0da1b6e1fd2edbfb0e8935d120f4148c -->
+<!-- innholds-hash: bf018ed8f75601ae19ce7f4720ba2e0357ccc468dac98e46043d7f9c03739ba5 -->
 
 # Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200336
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789451+0200)/",
+  "respons_dato_tid": "/Date(1781462642854+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17538,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200336,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Alvær",
@@ -88,6 +88,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

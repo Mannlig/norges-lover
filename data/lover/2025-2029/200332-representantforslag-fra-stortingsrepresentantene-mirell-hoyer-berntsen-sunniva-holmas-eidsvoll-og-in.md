@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6b2c178a6c8e1f5630d0dd4e1d15da4a85c7505bb18e3e5405ccb515b35c411e -->
+<!-- innholds-hash: 0b25f7582e805bd6a1b11a1fab9909df868ebaaded2480defb8a1b404f913a83 -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200332
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789451+0200)/",
+  "respons_dato_tid": "/Date(1781462642854+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200332,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642854+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abdi",
@@ -165,6 +165,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

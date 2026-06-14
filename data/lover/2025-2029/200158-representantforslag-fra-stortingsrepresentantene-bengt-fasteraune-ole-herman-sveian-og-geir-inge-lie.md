@@ -1,4 +1,4 @@
-<!-- innholds-hash: 755a471d135861dcd6b3266477fbfddd112236a2a8f875f3664d30bac0b21af4 -->
+<!-- innholds-hash: 8ae38b6fefc3476818a2b1426e340071fe38c45d90fbfed2153bad1851b2253f -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Fasteraune, Ole Herman Sveian og Geir Inge Lien om en utredning av konsekvensene ved en eventuell stenging av Spranget parkering i Sel kommune
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200158
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789435+0200)/",
+  "respons_dato_tid": "/Date(1781462642604+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -105,7 +105,7 @@
   "innstilling_id": 17424,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200158,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -164,6 +164,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

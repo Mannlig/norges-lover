@@ -1,4 +1,4 @@
-<!-- innholds-hash: 335a16c2010eb6a6afe17367804c444eb974931dcc39ce80c84493261ff9089e -->
+<!-- innholds-hash: 9ae2affac85bc54f67305f7b9a1741814362572d3345f93b53b79d5517349394 -->
 
 # Representantforslag fra stortingsrepresentantene Siv Sætran, Ole Herman Sveian og Geir Pollestad om en stortingsbehandling av sentrale vilkår for klimapolitikken i skog- og arealbrukssektoren
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200209
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789435+0200)/",
+  "respons_dato_tid": "/Date(1781462642604+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -105,7 +105,7 @@
   "innstilling_id": 17457,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200209,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642604+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -164,6 +164,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

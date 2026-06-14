@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8e5ac111e90f730e5b1b50d6abfee0a4fa9adaa2163abb9de781269c810c32da -->
+<!-- innholds-hash: 59c6f5240bb732786d70fc0c42dbd521ea79a87c71c70e4a8625f14ccafb84fd -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup, Aleksander Stokkebø og Kari Sofie Bjørnsen om kvalitetssikring av støtte til flytende havvind
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200165
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789435+0200)/",
+  "respons_dato_tid": "/Date(1781462642432+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642495+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642495+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642495+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
@@ -105,7 +105,7 @@
   "innstilling_id": 17477,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200165,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642479+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vik",
@@ -164,6 +164,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

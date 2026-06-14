@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6c83b54ec6de2bb0b5dd839f2b3d05f77d485c903c1fe35e449eaf2524cfa0e2 -->
+<!-- innholds-hash: 8b523e7c7cbcf14fef0f837cb3a4819c6a9521430cd0e1ab9e93c376e393e593 -->
 
 # Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Trygve Slagsvold Vedum og Geir Inge Lien om sterkere tiltak for å forebygge og avdekke bruk av narkotika
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200213
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789388+0200)/",
+  "respons_dato_tid": "/Date(1781462642198+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642260+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642260+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642260+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -105,7 +105,7 @@
   "innstilling_id": 17500,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200213,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642245+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -164,6 +164,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

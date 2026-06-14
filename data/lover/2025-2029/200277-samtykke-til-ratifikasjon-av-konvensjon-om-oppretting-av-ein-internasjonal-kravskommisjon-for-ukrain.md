@@ -1,4 +1,4 @@
-<!-- innholds-hash: 95f0dca3450cef64761d8a59900c1830310d9e5aa3cdc930af7e013b9ec7e65f -->
+<!-- innholds-hash: 6157d9ee5d65dc423756c598ec78f2f3e8e854964643167c6e525c0d3f3879e9 -->
 
 # Samtykke til ratifikasjon av konvensjon om oppretting av ein internasjonal kravskommisjon for Ukraina og inngåing av avtale om deltaking i styringskomiteen for spesialtribunalet for Ukraina
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200277
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789341+0200)/",
+  "respons_dato_tid": "/Date(1781462641323+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17464,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200277,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -82,6 +82,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

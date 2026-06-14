@@ -1,4 +1,4 @@
-<!-- innholds-hash: fc353fc8e54312f4ec478a5e07276c15f26c3bdfd668de87f1416f2648faec0d -->
+<!-- innholds-hash: d8ee20f7f22b2565374754efe1eae2c974c5fd2fa24ea4e9f92baa73c663614b -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Harry Valderhaug og Ida Lindtveit Røse om en langtidsplan for effektiv norsk bistand
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200095
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789341+0200)/",
+  "respons_dato_tid": "/Date(1781462641260+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641276+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641276+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641276+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641323+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -130,7 +130,7 @@
   "innstilling_id": 17441,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200095,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789341+0200)/",
+      "respons_dato_tid": "/Date(1781462641276+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -183,6 +183,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

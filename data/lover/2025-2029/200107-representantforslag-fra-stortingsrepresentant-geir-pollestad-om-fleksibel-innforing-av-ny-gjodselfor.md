@@ -1,4 +1,4 @@
-<!-- innholds-hash: f25e94029ffdbcd99e0f00e3008ecfa77f51cc628de0fa54bcdee538d316862c -->
+<!-- innholds-hash: 4f3ea5d17068ae367150b317f5a49f4997502544da84245550e58c34593486dc -->
 
 # Representantforslag fra stortingsrepresentant Geir Pollestad om fleksibel innføring av ny gjødselforskrift
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200107
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789451+0200)/",
+  "respons_dato_tid": "/Date(1781462642807+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642807+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -55,7 +55,7 @@
   "innstilling_id": 17495,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -64,7 +64,7 @@
   "sak_fremmet_id": 200107,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642807+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -117,6 +117,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 108e3604f20b9cee2171a9e15c98fe15b8b747c4624778b4e337ed2d0c273e38 -->
+<!-- innholds-hash: 31a7b5773bf9b1d1674d0935360a9c04e8256c07a4401a64b2186cc00a5fa909 -->
 
 # Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200339
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789435+0200)/",
+  "respons_dato_tid": "/Date(1781462642557+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642557+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642557+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642557+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -138,6 +138,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

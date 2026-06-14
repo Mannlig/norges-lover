@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d2ad632ceb67d84b1b25df7d2d6a4488a69d0bd8bac6052f2c70ae6ea42b007 -->
+<!-- innholds-hash: 51c2a98ff893e061dcb882933fc8d18ef6de85a44882f27134218e8b41da4572 -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Marian Hussein, Anne Lise Gjerstad Fredlund, Andreas Sjalg Unneland og Audun Hammer Hovda om ti tiltak for å forebygge og bekjempe voldtekt
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200148
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789388+0200)/",
+  "respons_dato_tid": "/Date(1781462642385+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642432+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642432+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781440789435+0200)/",
+      "respons_dato_tid": "/Date(1781462642432+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -155,7 +155,7 @@
   "innstilling_id": 17493,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200148,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789388+0200)/",
+      "respons_dato_tid": "/Date(1781462642385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -214,6 +214,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

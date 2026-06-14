@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6b6fe712fcabae05db5d14ca2dfd827ca0a3a74ffdc32c8b99c1553009900acc -->
+<!-- innholds-hash: fd65e8ce74188948e407bc9f22228aa9cccdea8071fbabb5e651db9ef2fbacd1 -->
 
 # Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T12:55:21Z
+- **Sist hentet:** 2026-06-14T19:27:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200228
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781440789451+0200)/",
+  "respons_dato_tid": "/Date(1781462642932+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17451,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781440602947+0200)/",
+    "respons_dato_tid": "/Date(1781462367791+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200228,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781440789451+0200)/",
+      "respons_dato_tid": "/Date(1781462642932+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -92,6 +92,7 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
