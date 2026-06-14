@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3f62dbddc3cf8a27d5aea8f7f3067fac3b315c40d011792c93c8df5576506904 -->
+<!-- innholds-hash: c69cb251598d8d4e385bad3104cb702d41f454efbaeb5c129790a6a33758753d -->
 
 # Endringar i bustøttelova (handsaming av personopplysningar og automatiserte avgjerder)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-13T20:03:25Z
+- **Sist hentet:** 2026-06-14T01:39:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200253
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781378068345+0200)/",
+  "respons_dato_tid": "/Date(1781400841661+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17460,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781377588276+0200)/",
+    "respons_dato_tid": "/Date(1781400841411+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200253,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781378068345+0200)/",
+      "respons_dato_tid": "/Date(1781400841661+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -47,14 +47,14 @@
       "id": "MUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781352613592+0200)/",
+        "respons_dato_tid": "/Date(1781397184419+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781305217338+0200)/",
+        "respons_dato_tid": "/Date(1781397184357+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -88,3 +88,4 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
