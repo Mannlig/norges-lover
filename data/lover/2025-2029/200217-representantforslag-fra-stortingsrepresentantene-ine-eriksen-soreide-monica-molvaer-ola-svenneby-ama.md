@@ -1,4 +1,4 @@
-<!-- innholds-hash: 17b203a9824eaf5717ab5e07b39aba944eaf547ec2f652b13f3482f9a9622ffd -->
+<!-- innholds-hash: 3cca1a25454c8f58a2dfb4077f153bddfe31f867411303c4fbfc21d8dedbe501 -->
 
 # Representantforslag fra stortingsrepresentantene Ine Eriksen Søreide, Monica Molvær, Ola Svenneby, Amalie Gunnufsen, Mathias Willassen Hanssen og Mathilde Tybring-Gjedde om å løse realfagskrisen
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T01:39:11Z
+- **Sist hentet:** 2026-06-14T07:13:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200217
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781400841661+0200)/",
+  "respons_dato_tid": "/Date(1781418970071+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
@@ -29,7 +29,7 @@
   "innstilling_id": 17480,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781400841411+0200)/",
+    "respons_dato_tid": "/Date(1781418867807+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -90,4 +90,5 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

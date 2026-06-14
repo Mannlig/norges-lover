@@ -1,4 +1,4 @@
-<!-- innholds-hash: c52be3b449d55cf327313090ddb54ecd7c77c0c17a617c0db18707c29a396556 -->
+<!-- innholds-hash: 1aaeb96d50a5d04d58a4719073a21c5e058801af953c1d15076bbbeb54c34070 -->
 
 # Lov om særavgifter (særavgiftsloven)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T01:39:10Z
+- **Sist hentet:** 2026-06-14T07:13:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200267
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781400841661+0200)/",
+  "respons_dato_tid": "/Date(1781418970071+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17486,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781400841411+0200)/",
+    "respons_dato_tid": "/Date(1781418867807+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200267,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
@@ -91,4 +91,5 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

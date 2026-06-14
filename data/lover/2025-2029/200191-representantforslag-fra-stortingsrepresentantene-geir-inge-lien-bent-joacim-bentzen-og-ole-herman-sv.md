@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8156e5c03c11545daeffbcdf168465e3712b19eef43e1395a9380cab8f16fdf0 -->
+<!-- innholds-hash: 59449f08fe8aaf2aa145b81d93303c97ba8be2a6d2187cca14a72955a515e371 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Ole Herman Sveian om å kompensere fylkeskommunene for utgifter som følge av statlige krav om nullutslippsteknologi
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T01:39:10Z
+- **Sist hentet:** 2026-06-14T07:13:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200191
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781400841661+0200)/",
+  "respons_dato_tid": "/Date(1781418970071+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -105,7 +105,7 @@
   "innstilling_id": 17505,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781400841411+0200)/",
+    "respons_dato_tid": "/Date(1781418867807+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200191,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vestenfor",
@@ -164,4 +164,5 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

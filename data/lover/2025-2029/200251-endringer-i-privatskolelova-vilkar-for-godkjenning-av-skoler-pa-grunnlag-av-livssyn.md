@@ -1,4 +1,4 @@
-<!-- innholds-hash: ae1a3240ddf9e5b9ea21725bdab591d9e49bb74d6cfbf67eeaa193c44e43be66 -->
+<!-- innholds-hash: 477f7fb60ec7fc8e0966148864f108659474c9de5b2f9a711c6b4429c8779daa -->
 
 # Endringer i privatskolelova (vilkår for godkjenning av skoler på grunnlag av livssyn)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T01:39:10Z
+- **Sist hentet:** 2026-06-14T07:13:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200251
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781400841661+0200)/",
+  "respons_dato_tid": "/Date(1781418970071+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17442,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781400841411+0200)/",
+    "respons_dato_tid": "/Date(1781418867807+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200251,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781400841661+0200)/",
+      "respons_dato_tid": "/Date(1781418970071+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -91,4 +91,5 @@
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)

@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-14 05:12 UTC*
+*Sist oppdatert: 2026-06-14 10:54 UTC*
 
-**Antall dokumenter:** 825
+**Antall dokumenter:** 841
 
 ## Innhold
 
@@ -446,6 +446,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Pleiepenger i livets sluttfase - nav.no](arbeidsgiver/pleiepenger-sluttfase.md)
 - [Har ansatte som sliter psykisk - nav.no](arbeidsgiver/psykiske-helseproblemer.md)
 - [Inntektsmelding, kontonummer, rapporter og register - nav.no](arbeidsgiver/rapporter.md)
+- [Report to the State Register of Employers and Employees  - nav.no](arbeidsgiver/rapportere-aa-registeret/en.md)
 - [Rapportere til Aa-registeret - nav.no](arbeidsgiver/rapportere-aa-registeret.md)
 - [Vil redusere sykefravær og beholde ansatte i jobb - nav.no](arbeidsgiver/redusere-sykefravar.md)
 - [Refusjoner når en underenhet flyttes eller ansatte bytter underenhet - nav.no](arbeidsgiver/refusjon-underenhet.md)
@@ -454,6 +455,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Rekruttere fra EU/EØS og Sveits - nav.no](arbeidsgiver/rekruttere-eu-eos.md)
 - [Ønsker å rekruttere flyktninger - nav.no](arbeidsgiver/rekruttere-flyktninger.md)
 - [Vil rekruttere - nav.no](arbeidsgiver/rekruttere.md)
+- [Case processing times for employers - nav.no](arbeidsgiver/saksbehandlingstider/en.md)
 - [Saksbehandlingstider for arbeidsgivere - nav.no](arbeidsgiver/saksbehandlingstider.md)
 - [Samtalestøtte for arbeidsgiver - nav.no](arbeidsgiver/samtalestotte-arbeidsgiver.md)
 - [Kompetansepakken Sees i morgen! - nav.no](arbeidsgiver/sees-i-morgen.md)
@@ -550,6 +552,10 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Omsorgspenger](familie/sykdom-i-familien/soknad/omsorgspenger.md)
 - [Soknad](familie/sykdom-i-familien/soknad/omsorgspengerutbetaling/soknad.md)
 - [Omsorgspengerutbetaling Arbeidstaker](familie/sykdom-i-familien/soknad/omsorgspengerutbetaling-arbeidstaker.md)
+
+### Felles Meldekort
+
+- [Tidligere Meldekort](felles-meldekort/tidligere-meldekort.md)
 
 ### Foreldrepenger
 
@@ -665,6 +671,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/vedlegg.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101.md)
 - [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715.md)
+- [Søknad om tiltakspenger | www.nav.no](fyllut/nav761345.md)
 - [Melding om nytt bankkontonummer | www.nav.no](fyllut/nav952000/bankkontonummer.md)
 - [Melding om nytt bankkontonummer | www.nav.no](fyllut/nav952000/fullmakt.md)
 - [Melding om nytt bankkontonummer | www.nav.no](fyllut/nav952000/kontoendringenGjelder.md)
@@ -700,6 +707,10 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Informasjonskapsler
 
 - [Cookies and similar technologies on nav.no - nav.no](informasjonskapsler/en.md)
+
+### Jobbsok Eu
+
+- [Find work in the EU/EEA or Switzerland - nav.no](jobbsok-eu/en.md)
 
 ### Klagerettigheter
 
@@ -751,7 +762,10 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Forskrift Om Stonad Til Briller Til Barn](nav.no-ressurser/lenker/regelverk/lovdata/forskrift-om-stonad-til-briller-til-barn.md)
 - [Konkursloven](nav.no-ressurser/lenker/regelverk/lovdata/konkursloven.md)
 - [Lov Om Ferie](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-ferie.md)
+- [Lov Om Offentlige Organers Ansvar For Bruk Av Tolk Mv.Tolkeloven](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-offentlige-organers-ansvar-for-bruk-av-tolk-mv.tolkeloven.md)
 - [Lov Om Reindrift](nav.no-ressurser/lenker/regelverk/lovdata/lov-om-reindrift.md)
+- [Nav Loven 15.Samarbeid Med Brukeren Og Individuell Plan](nav.no-ressurser/lenker/regelverk/lovdata/nav-loven-15.samarbeid-med-brukeren-og-individuell-plan.md)
+- [Nav Loven 6.Brukermedvirkning](nav.no-ressurser/lenker/regelverk/lovdata/nav-loven-6.brukermedvirkning.md)
 - [Vedlegg 3 til ftrl kap 8: Premiesatser for forsikring mot ansvar for sykepenger i arbeidsgiverperioden for små bedrifter](nav.no-ressurser/lenker/regelverk/lovdata/premiesatser-for-forsikring-mot-ansvar-for-sykepenger-i-arbeidsgiverperioden-for-sma-bedrifter.md)
 - [Utfyllende regler – Forskrift om tilskudd til ekspertbistand](nav.no-ressurser/lenker/regelverk/lovdata/rundskriv-til-ftrl-8-7a-utfyllende-regler-forskrift-om-tilskudd-til-ekspertbistand.md)
 - [Kapittel 3. Arbeidsgivers meldeplikt](nav.no-ressurser/lenker/regelverk/rettskildene/arbeidsmarkedsloven--8.md)
@@ -769,6 +783,8 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Forskrift om avskrivning av statens krav etter lønnsgarantiordningen](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-avskrivning-og-ettergivelse-av-statens-krav-etter-lonnsgarantiordningen.md)
 - [Forskrift om forsikring for tillegg til sykepenger for frilansere](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-forsikring-for-tillegg-til-sykepenger-for-frilansere-8-39.md)
 - [Forskrift om statsgaranti for lønnskrav ved konkurs m.v.](nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-statsgaranti-for-lonnskrav-ved-konkurs.md)
+- [Kapittel III. Almindelige regler om saksbehandlingen.](nav.no-ressurser/lenker/regelverk/rettskildene/forvaltningsloven-11-veiledningsplikt.md)
+- [Kapittel IV. Om saksforberedelse ved enkeltvedtak.](nav.no-ressurser/lenker/regelverk/rettskildene/forvaltningsloven-17.forvaltningsorganets-utrednings-og-informasjonsplikt.md)
 - [Rundskriv – Utfyllende regler til Arbeids- og velferdsetatens anvendelse av forskrift om arbeidsmarkedstiltak](nav.no-ressurser/lenker/regelverk/rettskildene/hovednr.76-11-utfyllende-regler-om-oppfolging.md)
 - [Lov om kontantstøtte til småbarnsforeldre (kontantstøtteloven)](nav.no-ressurser/lenker/regelverk/rettskildene/kontantstotteloven.hovednr.34.md)
 - [Lov om lønnsplikt under permittering (permitteringslønnsloven)](nav.no-ressurser/lenker/regelverk/rettskildene/lov-om-lonnsplikt-under-permittering.md)
@@ -799,6 +815,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### No
 
+- [Svangerskapspenger - nav.no](no/bedrift/ansatt-venter-barn/svangerskapspenger%20til%20ansatt.md)
 - [Oppfølgingsplan - nav.no](no/bedrift/pa-tvers/slik-gjor-du-det/oppfolgingsplan.md)
 - [Dine Utbetalinger](no/ditt-nav/dine-saker/dine-utbetalinger.md)
 - [Din Pensjon](no/ditt-nav/flere-tjenester/din-pensjon.md)
@@ -880,6 +897,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Bestille en telefonsamtale med Nav på nordsamisk](person/bestilling-av-samisk-samtale/nb.md)
 - [Jearaldat bagadallama oažžut sámegillii telefovnnas](person/bestilling-av-samisk-samtale.md)
 - [Dittnav](person/dittnav.md)
+- [Fullmakt](person/pdl-fullmakt-ui/fullmakt.md)
 - [Nb](person/personopplysninger/nb.md)
 - [Personopplysninger](person/personopplysninger.md)
 
@@ -918,6 +936,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Soknader
 
+- [Applications and forms for employers - nav.no](soknader/en/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger.md)
 - [Applications and forms - nav.no](soknader/en.md)
 - [Søknad og skjema for arbeidsgivere - nav.no](soknader/nb/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger.md)
 
@@ -930,6 +949,7 @@ Stønader, ytelser og rettigheter fra NAV.
 
 ### Start
 
+- [Income information for employees who are to receive sickness benefits - nav.no](start/arbeidsgiver/inntektsopplysninger-arbeidstaker/en.md)
 - [Inntektsopplysninger for arbeidstaker som skal ha sykepenger - nav.no](start/arbeidsgiver/inntektsopplysninger-arbeidstaker-copy.md)
 - [Ettersend til søknad om ekstra omsorgsdager for barn som har kronisk/langvarig sykdom eller funksjonshemning - nav.no](start/ettersend-dokumentasjon-til-soknad-om-ekstra-omsorgsdager-for-et-barn-som-er-kronisk-sykt-funksjonshemmet-eller-langvarig-sykt.md)
 - [Ettersend til søknad om ekstra omsorgsdager når den andre forelderen ikke kan ha tilsyn med barn - nav.no](start/ettersend-dokumentasjon-til-soknad-om-ekstra-omsorgsdager-nar-den-andre-forelderen-ikke-kan-ha-tilsyn-med-barn.md)
@@ -950,6 +970,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Ettersend til søknad om stønad til skolepenger til enslig mor eller far - nav.no](start/ettersend-soknad-skolepenger-enslig.md)
 - [Ettersend til søknad om sykepenger - nav.no](start/ettersend-soknad-sykepenger.md)
 - [Ettersend til søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/ettersend-soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)
+- [Meldekort for tiltakspenger - nav.no](start/meldekort-tiltakspenger.md)
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
 - [Søknad om AFP i privat sektor - nav.no](start/soknad-afp-privat.md)
 - [Opplysningsskjema til Nav for avtalefestet pensjon (AFP) fra Statens pensjonskasse for deg født før 1963 - nav.no](start/soknad-afp-statens-pensjonskasse.md)
@@ -988,6 +1009,10 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Tilskot til ombygging - nav.no](tilskudd-til-ombygging/nb.md)
 - [Tilskot til ombygging - nav.no](tilskudd-til-ombygging/nn.md)
+
+### Tiltakspenger
+
+- [Soknad](tiltakspenger/soknad.md)
 
 ### Tjenester
 
