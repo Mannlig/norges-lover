@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a83bd17c9a0f128b8bddb0d5dee4b5d5a4768364388ee20ef4e946e2607e873 -->
+<!-- innholds-hash: 35b647d9d9247c236a3d89ce325d63d82bdf74de6ba9973aeb27960a312396e8 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248497+0200)/",
+  "respons_dato_tid": "/Date(1781547060807+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248497+0200)/",
+      "respons_dato_tid": "/Date(1781547060807+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -34,7 +34,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248497+0200)/",
+      "respons_dato_tid": "/Date(1781547060807+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -59,7 +59,7 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -80,7 +80,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -109,6 +109,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

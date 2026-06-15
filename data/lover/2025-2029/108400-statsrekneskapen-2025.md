@@ -1,4 +1,4 @@
-<!-- innholds-hash: a565e7c931d333ef071f0357f93ac49638eec827a5ab867cad4d0d887c192b6f -->
+<!-- innholds-hash: 31f1ebd292e2cd02197e7515e888bc81ea466fca96f70c9119fd663bd043f7fa -->
 
 # Statsrekneskapen 2025
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108400
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248466+0200)/",
+  "respons_dato_tid": "/Date(1781547060807+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": 17385,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 108400,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248482+0200)/",
+      "respons_dato_tid": "/Date(1781547060807+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -47,7 +47,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -104,6 +104,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

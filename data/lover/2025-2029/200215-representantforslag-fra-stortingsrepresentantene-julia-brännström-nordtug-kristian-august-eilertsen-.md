@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8df8b60d74f37c8e0719aeb45bce4584a6a500de07919df039ec6de9893652c4 -->
+<!-- innholds-hash: 426b33244c54112b1391f9891efbbd32c35b85479dd262efe5a969b5b5f6b624 -->
 
 # Representantforslag fra stortingsrepresentantene Julia Brännström Nordtug, Kristian August Eilertsen, Stig Atle Abrahamsen, Anne Grethe Hauan og Bård Hoksrud om justering av terskelverdien for legemidler
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200215
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248700+0200)/",
+  "respons_dato_tid": "/Date(1781547060853+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
@@ -29,7 +29,7 @@
   "innstilling_id": 17516,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200215,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -47,7 +47,7 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -92,6 +92,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

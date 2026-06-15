@@ -1,4 +1,4 @@
-<!-- innholds-hash: 020a9819bd4f5c31c692bb197068474280e022fb43a55d3026bde7f7732fe102 -->
+<!-- innholds-hash: a66696800727d6f1e529e466a27ab3047945076f9ab0b033d31d0a088c921df8 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Julie E. Stuestøl, Siren Julianne Jensen og Oda Indgaard om solkraft på tak og grå arealer
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200201
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248700+0200)/",
+  "respons_dato_tid": "/Date(1781547060853+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -34,7 +34,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -59,7 +59,7 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -84,7 +84,7 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -109,7 +109,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -134,7 +134,7 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -155,7 +155,7 @@
   "innstilling_id": 17436,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200201,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -173,7 +173,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -218,6 +218,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

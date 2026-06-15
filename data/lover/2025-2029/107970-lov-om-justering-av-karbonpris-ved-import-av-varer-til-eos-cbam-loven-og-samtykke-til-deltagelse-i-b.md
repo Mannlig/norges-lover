@@ -1,4 +1,4 @@
-<!-- innholds-hash: a61944f43addc39dcc93ab359f335bed836f13fc81236397c1e094ca3d42d6e3 -->
+<!-- innholds-hash: 1f22481b0b99456e4aa6c27dfb844d0e20fc0c92ece08203bd0dcbfb5674f837 -->
 
 # Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven) og samtykke til deltagelse i beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/956 (CBAM-forordningen) og forordning (EU) 2025/2083 (endringer i CBAM-forordningen), og om tilgang til og finansiering av IT-tekniske systemer i CBAM
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107970
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
+  "respons_dato_tid": "/Date(1781547060931+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17437,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107969,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -47,7 +47,7 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -92,6 +92,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

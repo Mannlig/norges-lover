@@ -1,4 +1,4 @@
-<!-- innholds-hash: d005220c28b32cf09350db5405103fb6a84fb66cafd938db4af1ea7e0075591c -->
+<!-- innholds-hash: 9c12bb1bc7758c2892f510e707c46e2599c4f806962fc01b0e3561b12a215c0c -->
 
 # Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)
 
@@ -8,32 +8,37 @@
 - **Sak-ID:** 200349
 - **Type:** 3
 - **Korttittel:** Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T01:01:08Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200349
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781485266994+0200)/",
+  "respons_dato_tid": "/Date(1781547060745+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 103 L (2025-2026)",
+  "henvisning": "Prop. 103 L (2025–2026)",
   "id": 200349,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
+    "versjon": "1.6",
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
   "sak_fremmet_id": 200349,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
+  "status": 2,
   "tittel": "Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
   "type": 3
 }
@@ -44,4 +49,5 @@
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

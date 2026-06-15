@@ -1,4 +1,4 @@
-<!-- innholds-hash: 73386bb7fba3673d358367d8df3e86e1e13d4906b89d79475410d667b9c55ec0 -->
+<!-- innholds-hash: f06238f9a82ccb09d70ec8d7c499842beac31d029475da7598791e790b23e2fc -->
 
 # Representantforslag fra stortingsrepresentantene Ove Trellevik, Anne Kristine Linnestad, Haagen Poppe og Tage Pettersen om å be regjeringen stanse Statsforvalteren i Agder sin prosess med å omgjøre rettskraftige kommunale dispensasjonsvedtak
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200188
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
+  "respons_dato_tid": "/Date(1781547060931+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
@@ -34,7 +34,7 @@
       "id": "ALI",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -59,7 +59,7 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -84,7 +84,7 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -109,7 +109,7 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -130,7 +130,7 @@
   "innstilling_id": 17506,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200188,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -148,7 +148,7 @@
       "id": "HNJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -193,6 +193,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 03d93003bcea9189afa705ddaff0fcf683962197db39e682e0edcd9c0b311e9b -->
+<!-- innholds-hash: 61cde9002814c258cfa90d11ded55a019a45d446c10c6358b61c08d6eac60afa -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200347
 - **Type:** 2
 - **Korttittel:** Representantforslag om forenkling og avbyråkratisering i jernbanesektoren
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T13:12:55Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200347
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781269835290+0200)/",
+  "respons_dato_tid": "/Date(1781547060745+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781269835290+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -34,14 +34,14 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781245815888+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781269835290+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -59,14 +59,14 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781245815888+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -79,12 +79,17 @@
   "id": 200347,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
+    "versjon": "1.6",
+    "id": "TRANSKOM",
+    "navn": "Transport- og kommunikasjonskomiteen"
+  },
   "korttittel": "Representantforslag om forenkling og avbyråkratisering i jernbanesektoren",
   "sak_fremmet_id": 200347,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren",
   "type": 2
 }
@@ -95,3 +100,4 @@
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-15** Innhold endret (se git-historikk for diff)

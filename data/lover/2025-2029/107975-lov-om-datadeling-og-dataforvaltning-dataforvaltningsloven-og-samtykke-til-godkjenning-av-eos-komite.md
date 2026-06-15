@@ -1,4 +1,4 @@
-<!-- innholds-hash: e97cdb8c778cd8b28808b89b537b231137bfa6ec675d0c96636d1316df354d74 -->
+<!-- innholds-hash: edb93285071fc871b878d689ac59bdf8583fe747f5fcc55534948600a958767b -->
 
 # Lov om datadeling og dataforvaltning (dataforvaltningsloven) og samtykke til godkjenning av EØS-komiteens beslutninger om innlemmelse i EØS-avtalen av direktiv (EU) 2019/1024 (åpne data-direktivet) for forordning (EU) 2022/868 (dataforvaltningsforordningen) og deltakelse i EØS-komiteens beslutning om delegert kommisjonsforordning (EU) 2023/138 (HVD-forordningen)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107975
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248700+0200)/",
+  "respons_dato_tid": "/Date(1781547060931+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17456,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107975,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -47,7 +47,7 @@
       "id": "SIGRAF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -89,6 +89,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

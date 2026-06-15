@@ -1,4 +1,4 @@
-<!-- innholds-hash: 86a50366dd571ceccf804a09e037282c8ffd063453fc2b7abe1abf025ddfa9ae -->
+<!-- innholds-hash: ee9fef70cdfe1d53f6db6f831e47bc415d01151d4a9dfcc54f0286b7f18321bc -->
 
 # Endringer i finansforetaksloven mv. (gjennomføring av endringer i kapitalkravsdirektivet, taushetsplikt, overtredelsesgebyr mv.)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200127
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
+  "respons_dato_tid": "/Date(1781547060931+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17487,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200127,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
+      "respons_dato_tid": "/Date(1781547060931+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -47,7 +47,7 @@
       "id": "TSTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -95,6 +95,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

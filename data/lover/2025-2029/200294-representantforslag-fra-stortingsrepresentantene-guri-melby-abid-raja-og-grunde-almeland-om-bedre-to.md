@@ -1,4 +1,4 @@
-<!-- innholds-hash: c975aecd900aa179ad689ddd6f4737b9ba5df96ed4233aa1a123d0b0cc91031a -->
+<!-- innholds-hash: 875018b4de27df8803eac700b8c93ceed34cdebd3d9c1ae8944eabdbc4a7791f -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om bedre togtilbud og gjenåpning av togstrekninger på Østlandet
 
@@ -8,34 +8,24 @@
 - **Sak-ID:** 200294
 - **Type:** 2
 - **Korttittel:** Representantforslag om bedre togtilbud og gjenåpning av togstrekninger på Østlandet
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200294
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168809+0200)/",
+  "respons_dato_tid": "/Date(1781547060745+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 107,
-      "navn": "Jernbaner",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -44,14 +34,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -60,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -69,14 +59,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -85,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -94,14 +84,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -110,12 +100,12 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:282 S (2025-2026)",
+  "henvisning": "Dokument 8:282 S (2025-2026), Innst. 358 S (2025-2026)",
   "id": 200294,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17432,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +114,7 @@
   "sak_fremmet_id": 200294,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
+      "respons_dato_tid": "/Date(1781547060745+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Refseth",
@@ -133,14 +123,14 @@
       "id": "ANNREF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -149,8 +139,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777327200000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om bedre togtilbud og gjenåpning av togstrekninger på Østlandet",
   "type": 2
 }
@@ -178,3 +168,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)

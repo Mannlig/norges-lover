@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2e57a30474e600093e8842e2602853a66bc1c5f94c498c08155aeb56e5f3d757 -->
+<!-- innholds-hash: 53b739fd55b1d718b41f039ffa828da48613111986eb7884efc439df5649e46d -->
 
 # Endringer i trossamfunnsloven mv. (taushetsplikt)
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 200351
 - **Type:** 3
 - **Korttittel:** Endringer i trossamfunnsloven mv. (taushetsplikt)
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-12T13:12:55Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200351
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781269835290+0200)/",
+  "respons_dato_tid": "/Date(1781547060745+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -28,12 +28,17 @@
   "id": 200351,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
+    "versjon": "1.6",
+    "id": "FAMKULT",
+    "navn": "Familie- og kulturkomiteen"
+  },
   "korttittel": "Endringer i trossamfunnsloven mv. (taushetsplikt)",
   "sak_fremmet_id": 200351,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781257500000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
+  "status": 2,
   "tittel": "Endringer i trossamfunnsloven mv. (taushetsplikt)",
   "type": 3
 }
@@ -44,3 +49,4 @@
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-15** Innhold endret (se git-historikk for diff)

@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-15 16:17 UTC*
+*Sist oppdatert: 2026-06-15 22:49 UTC*
 
-**Antall dokumenter:** 416
+**Antall dokumenter:** 419
 
 ## Innhold
 
@@ -128,6 +128,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen og Sofie Marhaug om å innføre nabosjekk av EU-regelverk](2025-2029/106364-representantforslag-fra-stortingsrepresentantene-bjornar-moxnes-geir-jorgensen-og-sofie-marhaug-om-a.md)
 - [Representantforslag fra stortingsrepresentantene Per-Willy Amundsen, Hans Andreas Limi, Jon Engen-Helgheim, Hilde Grande og Bengt Rune Strifeldt om videreføring av pilotordning for politiutdanning i Alta](2025-2029/106365-representantforslag-fra-stortingsrepresentantene-per-willy-amundsen-hans-andreas-limi-jon-engen-helg.md)
 - [Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne Grethe Hauan om tiltak for bedre behandling av personer med alvorlige psykiske lidelser og styrket vern av samfunnet](2025-2029/106366-representantforslag-fra-stortingsrepresentantene-kristian-august-eilertsen-julia-brännström-nordtug-.md)
+- [Statsrådets protokoller for tidsrommet 1. juli-31. desember 2025](2025-2029/107343-statsradets-protokoller-for-tidsrommet-1-juli-31-desember-2025.md)
 - [Endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett) og samtykke til godtakelse av deler av forordning (EU) 2024/1358 (Eurodac-forordningen), forordning (EU) 2024/1351 (forordning om asyl- og migrasjonshåndtering) og forordning (EU) 2024/1359 (kriseforordningen) (videreutvikling av Dublin-regelverket)](2025-2029/107720-endringer-i-utlendingsloven-gjennomforing-av-eurodac-forordningen-forordning-om-asyl-og-migrasjonsha.md)
 - [Endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett) og samtykke til godtakelse av deler av forordning (EU) 2024/1358 (Eurodac-forordningen), forordning (EU) 2024/1351 (forordning om asyl- og migrasjonshåndtering) og forordning (EU) 2024/1359 (kriseforordningen) (videreutvikling av Dublin-regelverket)](2025-2029/107721-endringer-i-utlendingsloven-gjennomforing-av-eurodac-forordningen-forordning-om-asyl-og-migrasjonsha.md)
 - [Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven) og samtykke til deltagelse i beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/956 (CBAM-forordningen) og forordning (EU) 2025/2083 (endringer i CBAM-forordningen), og om tilgang til og finansiering av IT-tekniske systemer i CBAM](2025-2029/107969-lov-om-justering-av-karbonpris-ved-import-av-varer-til-eos-cbam-loven-og-samtykke-til-deltagelse-i-b.md)
@@ -195,6 +196,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Jon Engen-Helgheim om mer effektiv kamp mot organisert bedrageri og registerkriminalitet](2025-2029/200069-representantforslag-fra-stortingsrepresentantene-stian-storbukas-finn-krokeide-anette-carnarius-else.md)
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Geir Pollestad om et statlig mineralselskap](2025-2029/200071-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-geir-.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Larsen, Margret Hagerup, Kari Sofie Bjørnsen, Monica Molvær, Haagen Poppe, Ove Trellevik og Bård Ludvig Thorheim om økt produksjon og eksport av norsk lokalmat og drikke](2025-2029/200072-representantforslag-fra-stortingsrepresentantene-erlend-larsen-margret-hagerup-kari-sofie-bjornsen-m.md)
+- [Rapport fra utvalget til å vurdere Riksrevisjonens internasjonale bistandsvirksomhet](2025-2029/200073-rapport-fra-utvalget-til-a-vurdere-riksrevisjonens-internasjonale-bistandsvirksomhet.md)
 - [Representantforslag fra stortingsrepresentantene Harry Valderhaug, Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Jørgen H. Kristiansen om å forenkle kravene til boligbygg for å redusere byggekostnader og boligpriser](2025-2029/200075-representantforslag-fra-stortingsrepresentantene-harry-valderhaug-jorunn-gleditsch-lossius-jonas-and.md)
 - [Representantforslag fra stortingsrepresentantene Ingrid Liland, Marius Langballe Dalin, Oda Indgaard om å ta tomme bygg og boliger i bruk](2025-2029/200076-representantforslag-fra-stortingsrepresentantene-ingrid-liland-marius-langballe-dalin-oda-indgaard-o.md)
 - [Representantforslag fra stortingsrepresentantene Geir Jørgensen, Hanne Beate Stenvaag og Remi Sølvberg om å heve vraket av fregatten KNM Bergen utenfor Andøya](2025-2029/200077-representantforslag-fra-stortingsrepresentantene-geir-jorgensen-hanne-beate-stenvaag-og-remi-solvber.md)
@@ -320,6 +322,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Julia Brännström Nordtug, Kristian August Eilertsen, Stig Atle Abrahamsen, Anne Grethe Hauan og Bård Hoksrud om justering av terskelverdien for legemidler](2025-2029/200215-representantforslag-fra-stortingsrepresentantene-julia-brännström-nordtug-kristian-august-eilertsen-.md)
 - [Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Bård Hoksrud, Stig Atle Abrahamsen og Anne Grethe Hauan om beskyttelse av spedbarn mot RS-virus](2025-2029/200216-representantforslag-fra-stortingsrepresentantene-kristian-august-eilertsen-julia-brännström-nordtug-.md)
 - [Representantforslag fra stortingsrepresentantene Ine Eriksen Søreide, Monica Molvær, Ola Svenneby, Amalie Gunnufsen, Mathias Willassen Hanssen og Mathilde Tybring-Gjedde om å løse realfagskrisen](2025-2029/200217-representantforslag-fra-stortingsrepresentantene-ine-eriksen-soreide-monica-molvaer-ola-svenneby-ama.md)
+- [Innberetning fra Stortingets ombudsnemnd for Forsvaret for 2025](2025-2029/200218-innberetning-fra-stortingets-ombudsnemnd-for-forsvaret-for-2025.md)
 - [Lov om endringar i utleveringslova (behandlinga av utleveringssaker)](2025-2029/200219-lov-om-endringar-i-utleveringslova-behandlinga-av-utleveringssaker.md)
 - [Endringer i lov om pensjonsordning for sykepleiere (opptjening under permisjon ved mottak av pleiepenger)](2025-2029/200220-endringer-i-lov-om-pensjonsordning-for-sykepleiere-opptjening-under-permisjon-ved-mottak-av-pleiepen.md)
 - [Endringer i straffeloven (involvering av mindreårige i kriminalitet)](2025-2029/200221-endringer-i-straffeloven-involvering-av-mindrearige-i-kriminalitet.md)

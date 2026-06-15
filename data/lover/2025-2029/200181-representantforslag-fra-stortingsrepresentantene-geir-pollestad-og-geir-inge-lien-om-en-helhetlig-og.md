@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5ede45863e17f0952d657e87a0e83b3b87ec522bb013f34dfaf8ce01b0f6d1f4 -->
+<!-- innholds-hash: e80ac6273f98242ccc674c2fc34dc0aa5616b5137cdbe745d35d048341a5545f -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad og Geir Inge Lien om en helhetlig og langsiktig maritim strategi
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Sist hentet:** 2026-06-15T18:18:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200181
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248700+0200)/",
+  "respons_dato_tid": "/Date(1781547060853+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -34,7 +34,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -59,7 +59,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -80,7 +80,7 @@
   "innstilling_id": 17515,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
+    "respons_dato_tid": "/Date(1781546821628+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -89,7 +89,7 @@
   "sak_fremmet_id": 200181,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248700+0200)/",
+      "respons_dato_tid": "/Date(1781547060853+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hop",
@@ -98,7 +98,7 @@
       "id": "RUTHOP",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
+        "respons_dato_tid": "/Date(1781531842169+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -140,6 +140,7 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
