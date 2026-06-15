@@ -1,4 +1,4 @@
-<!-- innholds-hash: 317ba906fd306593fc101915a29dc1a37ea734f26656be46fb42280e5f79df0a -->
+<!-- innholds-hash: 005045aa0e791bf036a88090e9a460e720e769460dab3c08e82372c8128b6dce -->
 
 # Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T01:01:09Z
+- **Sist hentet:** 2026-06-15T06:44:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200126
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781485267213+0200)/",
+  "respons_dato_tid": "/Date(1781503408737+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17440,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781485237331+0200)/",
+    "respons_dato_tid": "/Date(1781503240121+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,11 +38,11 @@
   "sak_fremmet_id": 200126,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267213+0200)/",
+      "respons_dato_tid": "/Date(1781503408737+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussaini",
-      "foedselsdato": "/Date(562114800000+0100)/",
+      "foedselsdato": "/Date(562111200000+0200)/",
       "fornavn": "Mani",
       "id": "MHU",
       "kjoenn": 2,
@@ -92,4 +92,5 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

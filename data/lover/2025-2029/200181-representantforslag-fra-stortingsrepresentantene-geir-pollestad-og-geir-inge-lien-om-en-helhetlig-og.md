@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4aec8909d4ff6b5554f8d97f650bfd6e0c33a62e1c3c71b076b355d4326f6120 -->
+<!-- innholds-hash: f4c1854348d8a0227048983d09d2ca3722ebc0dbb5823c3cbb91b4f2e9676003 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad og Geir Inge Lien om en helhetlig og langsiktig maritim strategi
 
@@ -11,25 +11,25 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T01:01:09Z
+- **Sist hentet:** 2026-06-15T06:44:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200181
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781485267166+0200)/",
+  "respons_dato_tid": "/Date(1781503408690+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267166+0200)/",
+      "respons_dato_tid": "/Date(1781503408690+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
-      "foedselsdato": "/Date(76028400000+0200)/",
+      "foedselsdato": "/Date(76024800000+0200)/",
       "fornavn": "Geir Inge",
       "id": "GEL",
       "kjoenn": 2,
@@ -50,11 +50,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267166+0200)/",
+      "respons_dato_tid": "/Date(1781503408690+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
-      "foedselsdato": "/Date(271810800000+0200)/",
+      "foedselsdato": "/Date(271807200000+0200)/",
       "fornavn": "Geir",
       "id": "GP",
       "kjoenn": 2,
@@ -80,7 +80,7 @@
   "innstilling_id": 17515,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781485237331+0200)/",
+    "respons_dato_tid": "/Date(1781503240121+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -89,11 +89,11 @@
   "sak_fremmet_id": 200181,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267166+0200)/",
+      "respons_dato_tid": "/Date(1781503408690+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hop",
-      "foedselsdato": "/Date(157507200000+0100)/",
+      "foedselsdato": "/Date(157503600000+0100)/",
       "fornavn": "Ruth Mariann",
       "id": "RUTHOP",
       "kjoenn": 1,
@@ -140,4 +140,5 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

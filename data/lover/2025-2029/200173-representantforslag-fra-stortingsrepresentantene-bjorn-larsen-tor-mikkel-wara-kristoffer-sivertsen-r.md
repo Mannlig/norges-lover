@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7852146f51b0f727da366b897991deb4c00bbeb6ce2c7b9b53cd43a447fc36ab -->
+<!-- innholds-hash: 62f3d88108112ff7e48cb3fae657d808f5d97c8b1d9472e414b1da2d3e11484c -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Tor Mikkel Wara, Kristoffer Sivertsen, Rikard Spets og Morten Stordalen om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel
 
@@ -11,25 +11,25 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T01:01:09Z
+- **Sist hentet:** 2026-06-15T06:44:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200173
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781485267103+0200)/",
+  "respons_dato_tid": "/Date(1781503408628+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
-      "foedselsdato": "/Date(-73875600000+0200)/",
+      "foedselsdato": "/Date(-73879200000+0200)/",
       "fornavn": "Bjørn",
       "id": "BLA",
       "kjoenn": 2,
@@ -50,11 +50,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
-      "foedselsdato": "/Date(-39142800000+0200)/",
+      "foedselsdato": "/Date(-39146400000+0200)/",
       "fornavn": "Morten",
       "id": "FMS",
       "kjoenn": 2,
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -100,11 +100,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
-      "foedselsdato": "/Date(38188800000+0100)/",
+      "foedselsdato": "/Date(38185200000+0100)/",
       "fornavn": "Rikard",
       "id": "RIKSPE",
       "kjoenn": 2,
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -155,7 +155,7 @@
   "innstilling_id": 17435,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781485237331+0200)/",
+    "respons_dato_tid": "/Date(1781503240121+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -164,7 +164,7 @@
   "sak_fremmet_id": 200173,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -218,4 +218,5 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)

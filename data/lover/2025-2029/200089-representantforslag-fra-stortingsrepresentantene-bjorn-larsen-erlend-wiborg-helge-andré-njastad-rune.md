@@ -1,4 +1,4 @@
-<!-- innholds-hash: d7ea28869770ec3030071ed81d216f0d34d9a6514039e0502db77c5ef5aae677 -->
+<!-- innholds-hash: 57616ceae89386330e9232e214488bdf0e2636dbf2b7f09151c9c717b9464938 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Erlend Wiborg, Helge André Njåstad, Rune Midtun, Frank Edvard Sve, Bengt Rune Strifeldt, Dagfinn Henrik Olsen og Hilde Grande om verdensarv og næringsutvikling
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T01:01:09Z
+- **Sist hentet:** 2026-06-15T06:44:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200089
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781485267103+0200)/",
+  "respons_dato_tid": "/Date(1781503408628+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -50,11 +50,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
-      "foedselsdato": "/Date(-73875600000+0200)/",
+      "foedselsdato": "/Date(-73879200000+0200)/",
       "fornavn": "Bjørn",
       "id": "BLA",
       "kjoenn": 2,
@@ -75,11 +75,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
-      "foedselsdato": "/Date(-110768400000+0200)/",
+      "foedselsdato": "/Date(-110772000000+0200)/",
       "fornavn": "Dagfinn Henrik",
       "id": "DHO",
       "kjoenn": 2,
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -150,11 +150,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
-      "foedselsdato": "/Date(162518400000+0100)/",
+      "foedselsdato": "/Date(162514800000+0100)/",
       "fornavn": "Hilde",
       "id": "HILGRA",
       "kjoenn": 1,
@@ -175,7 +175,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -200,11 +200,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
-      "foedselsdato": "/Date(106444800000+0200)/",
+      "foedselsdato": "/Date(106437600000+0200)/",
       "fornavn": "Rune",
       "id": "RUNMID",
       "kjoenn": 2,
@@ -230,7 +230,7 @@
   "innstilling_id": 17391,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781485237331+0200)/",
+    "respons_dato_tid": "/Date(1781503240121+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -239,11 +239,11 @@
   "sak_fremmet_id": 200089,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781485267103+0200)/",
+      "respons_dato_tid": "/Date(1781503408628+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
-      "foedselsdato": "/Date(431481600000+0200)/",
+      "foedselsdato": "/Date(431474400000+0200)/",
       "fornavn": "Siren Julianne",
       "id": "SIRJEN",
       "kjoenn": 1,
@@ -290,4 +290,5 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
