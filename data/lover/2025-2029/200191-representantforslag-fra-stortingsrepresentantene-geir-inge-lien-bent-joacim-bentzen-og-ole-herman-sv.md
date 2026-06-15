@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc80b10a8774b77e5d5733445183cf8f6dd88ead3102a3e2cbae4c7c17dea6f6 -->
+<!-- innholds-hash: 96375b149b7739eb55aaacfe28842217d15b839196508a0dbc66334d28351cb5 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Ole Herman Sveian om å kompensere fylkeskommunene for utgifter som følge av statlige krav om nullutslippsteknologi
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T06:44:24Z
+- **Sist hentet:** 2026-06-15T12:36:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200191
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781503408737+0200)/",
+  "respons_dato_tid": "/Date(1781525248779+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781503408737+0200)/",
+      "respons_dato_tid": "/Date(1781525248779+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -34,7 +34,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781478019115+0200)/",
+        "respons_dato_tid": "/Date(1781521221987+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781503408737+0200)/",
+      "respons_dato_tid": "/Date(1781525248779+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -59,7 +59,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781478019115+0200)/",
+        "respons_dato_tid": "/Date(1781521221987+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781503408737+0200)/",
+      "respons_dato_tid": "/Date(1781525248779+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -84,7 +84,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781478019115+0200)/",
+        "respons_dato_tid": "/Date(1781521221987+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -105,7 +105,7 @@
   "innstilling_id": 17505,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781503240121+0200)/",
+    "respons_dato_tid": "/Date(1781524938544+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200191,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781503408737+0200)/",
+      "respons_dato_tid": "/Date(1781525248779+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vestenfor",
@@ -123,7 +123,7 @@
       "id": "SOLVES",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781478019115+0200)/",
+        "respons_dato_tid": "/Date(1781521221987+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -168,5 +168,6 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
