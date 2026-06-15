@@ -1,4 +1,4 @@
-<!-- innholds-hash: 31a7b5773bf9b1d1674d0935360a9c04e8256c07a4401a64b2186cc00a5fa909 -->
+<!-- innholds-hash: af260a23527bde05a67d3495d80aa1f62924373edb085243f8f121df31b7db03 -->
 
 # Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand
 
@@ -11,37 +11,37 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-14T19:27:46Z
+- **Sist hentet:** 2026-06-15T01:01:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200339
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781462642557+0200)/",
+  "respons_dato_tid": "/Date(1781485267213+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781462642557+0200)/",
+      "respons_dato_tid": "/Date(1781485267213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
-      "foedselsdato": "/Date(402098400000+0200)/",
+      "foedselsdato": "/Date(402105600000+0200)/",
       "fornavn": "Anne Lise Gjerstad",
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781440386240+0200)/",
+        "respons_dato_tid": "/Date(1781478019115+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781397184357+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781462642557+0200)/",
+      "respons_dato_tid": "/Date(1781485267213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -59,14 +59,14 @@
       "id": "KATLIE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781440386240+0200)/",
+        "respons_dato_tid": "/Date(1781478019115+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781397184357+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -75,23 +75,23 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781462642557+0200)/",
+      "respons_dato_tid": "/Date(1781485267213+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
-      "foedselsdato": "/Date(339717600000+0200)/",
+      "foedselsdato": "/Date(339724800000+0200)/",
       "fornavn": "Mirell",
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781440386240+0200)/",
+        "respons_dato_tid": "/Date(1781478019115+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781397184357+0200)/",
+        "respons_dato_tid": "/Date(1781478018738+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781462367791+0200)/",
+    "respons_dato_tid": "/Date(1781485237331+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -142,3 +142,4 @@
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
 - **2026-06-14** Innhold endret (se git-historikk for diff)
+- **2026-06-15** Innhold endret (se git-historikk for diff)

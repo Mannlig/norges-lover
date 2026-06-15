@@ -1,0 +1,66 @@
+<!-- innholds-hash: ac5f48b8e67dadd00bd19d4d6316771c6bdad9b2e9e56c64a2a2e417e66c74fe -->
+
+# Søknad om barnetrygd | www.nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav330007/omDegSomSoker
+- **Sist hentet:** 2026-06-15T04:28:13Z
+
+## Innhold
+
+
+## Søknad om barnetrygd
+
+
+### Introduksjon
+
+
+### Hei!
+
+Barnetrygd er en økonomisk støtte som skal bidra til å dekke utgifter ved å ha barn. Stønaden gis til deg som har den daglige omsorgen.
+
+Les mer om
+
+
+### Her kan du søke om
+
+Du kan bruke dette skjemaet dersom du ønsker å søke om barnetrygd for barn under 18 år som bor i Norge eller omfattes av EØS reglene.
+
+- For å ha rett til barnetrygd må barnet være bosatt i Norge. Et barn regnes som bosatt når det har oppholdt seg i Norge i mer enn 12 måneder sammenhengende.
+- For EØS borgere kan egne regler gi rett til barnetrygd selv om barnet ikke er bosatt i Norge.
+- Du kan ha rett til utvidet barnetrygd hvis du bor alene med barnet og har aleneomsorgen. Utvidet barnetrygd er et tillegg til ordinær barnetrygd når du bor alene med barn under 18 år. Les mer om
+
+### Før du søker
+
+- Du må svare på alle spørsmål slik at vi får den informasjonen vi trenger for å behandle søknaden.
+- Husk å legge ved dokumentasjon hvis vi ber om det underveis.
+- Det er viktig at alle opplysninger er riktige og fullstendige for at saken din skal kunne behandles så raskt som mulig.
+- Hvis du allerede får barnetrygd, må du melde fra om endringer som kan påvirke retten din.
+
+### Vær klar over
+
+I tillegg til den informasjonen du oppgir i skjemaet, henter vi:
+
+Du kan lese mer om
+
+Barnetrygden blir utbetalt en gang per måned.
+
+- For at du skal få utbetalt riktig beløp fra Nav, er vi avhengig av at du gir oss riktige opplysninger og melder fra når det skjer endringer i livssituasjonen din.
+- Det er spesielt viktig at du gir oss beskjed hvis du får samboer og du mottar utvidet barnetrygd.
+Les mer om
+
+Det er viktig at du gir oss riktige opplysninger slik at vi kan behandle søknaden din.
+
+
+## Avbryt og slett?
+
+Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette utfyllingen senere kan du la nettleservinduet stå åpent til neste gang.
+
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/fyllut/nav330007/omDegSomSoker) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-06-15** Første gang hentet

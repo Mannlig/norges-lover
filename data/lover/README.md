@@ -2,7 +2,7 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-14 23:00 UTC*
+*Sist oppdatert: 2026-06-15 04:43 UTC*
 
 **Antall dokumenter:** 416
 
@@ -423,7 +423,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus](2025-2029/200344-representantforslag-fra-stortingsrepresentantene-grunde-almeland-og-guri-melby-om-a-avvise-innstramm.md)
 - [Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren](2025-2029/200347-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-og-bengt-fasteraune-om-forenkling-og.md)
 - [Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet](2025-2029/200348-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-ole-herman-sveian-og-bengt-fasteraun.md)
-- [Endringer i verdipapirfondloven  (adgang til å inngå inntektsdelingsavtaler)](2025-2029/200349-endringer-i-verdipapirfondloven-adgang-til-a-innga-inntektsdelingsavtaler.md)
+- [Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)](2025-2029/200349-endringer-i-verdipapirfondloven-adgang-til-a-innga-inntektsdelingsavtaler.md)
 - [Helsepersonellplan 2040](2025-2029/200350-helsepersonellplan-2040.md)
 - [Endringer i trossamfunnsloven mv. (taushetsplikt)](2025-2029/200351-endringer-i-trossamfunnsloven-mv-taushetsplikt.md)
 - [Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping](2025-2029/200352-representantforslag-fra-stortingsrepresentantene-bengt-rune-strifeldt-dagfinn-henrik-olsen-bjorn-lar.md)
