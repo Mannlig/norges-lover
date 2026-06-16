@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4a0361d202509420c3e96a597fdcdaa700dcda53e227d89bae6151ca6b64e4a4 -->
+<!-- innholds-hash: 196ad8022495e4365420c2842c8ce8420ac36d5f8c395a03f95f308294b134fb -->
 
 # Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T12:17:40Z
+- **Sist hentet:** 2026-06-16T17:54:14Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200338
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781611790324+0200)/",
+  "respons_dato_tid": "/Date(1781629948232+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
@@ -29,14 +29,40 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781611309056+0200)/",
+    "respons_dato_tid": "/Date(1781629337016+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
   "korttittel": "Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre",
   "sak_fremmet_id": 200338,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Stenersen",
+      "foedselsdato": "/Date(431474400000+0200)/",
+      "fornavn": "Aina",
+      "id": "AICS",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
+        "versjon": "1.6",
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre",
@@ -70,6 +96,7 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
