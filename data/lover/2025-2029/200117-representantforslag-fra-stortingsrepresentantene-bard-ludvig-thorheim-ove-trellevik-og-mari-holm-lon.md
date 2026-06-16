@@ -1,4 +1,4 @@
-<!-- innholds-hash: a296b629b844b20f0797b249893457f30ab41be931783bd4fc80d106304651a7 -->
+<!-- innholds-hash: d0f5bd61234e7bf53d005b3db4b6cb5fb8e3d82aec86be0c5ac8e7cd6b333cc1 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Ove Trellevik og Mari Holm Lønseth om å avvikle Prisrådet for havbruk
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200117
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avvikle Prisrådet for havbruk
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T06:25:59Z
+- **Sist hentet:** 2026-06-16T12:17:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200117
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781589808326+0200)/",
+  "respons_dato_tid": "/Date(1781611790324+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781589808326+0200)/",
+      "respons_dato_tid": "/Date(1781611790324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -34,7 +34,7 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781564418684+0200)/",
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781589808326+0200)/",
+      "respons_dato_tid": "/Date(1781611790324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -59,7 +59,7 @@
       "id": "MHL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781564418684+0200)/",
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781589808326+0200)/",
+      "respons_dato_tid": "/Date(1781611790324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -84,7 +84,7 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781564418684+0200)/",
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -105,7 +105,7 @@
   "innstilling_id": 17458,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781589628195+0200)/",
+    "respons_dato_tid": "/Date(1781611309056+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200117,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781589808326+0200)/",
+      "respons_dato_tid": "/Date(1781611790324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
@@ -123,7 +123,7 @@
       "id": "EVR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781564418684+0200)/",
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -140,7 +140,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Ove Trellevik og Mari Holm Lønseth om å avvikle Prisrådet for havbruk",
   "type": 2
 }
@@ -175,5 +175,6 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)

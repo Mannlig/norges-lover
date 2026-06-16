@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-16 10:16 UTC*
+*Sist oppdatert: 2026-06-16 15:53 UTC*
 
-**Antall dokumenter:** 419
+**Antall dokumenter:** 421
 
 ## Innhold
 
@@ -430,6 +430,8 @@ Stortinget
 - [Helsepersonellplan 2040](2025-2029/200350-helsepersonellplan-2040.md)
 - [Endringer i trossamfunnsloven mv. (taushetsplikt)](2025-2029/200351-endringer-i-trossamfunnsloven-mv-taushetsplikt.md)
 - [Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping](2025-2029/200352-representantforslag-fra-stortingsrepresentantene-bengt-rune-strifeldt-dagfinn-henrik-olsen-bjorn-lar.md)
+- [Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane](2025-2029/200353-riksrevisjonen-si-undersoking-av-kunnskapsdepartementet-sitt-arbeid-for-a-styrkje-lese-skrive-og-rek.md)
+- [Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)](2025-2029/200354-meddelelse-fra-stortingsrepresentant-marthe-hammer-i-stortingets-mote-16-juni-2026-om-at-hun-trekker.md)
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1859a97fbada313f514401a30f2fe4378f6671ac0cf8919b7ad2440a3e4c7433 -->
+<!-- innholds-hash: fe4436c222eb67ba40f5f2437593450593583cb074fec4eb3d4b4be7dcecc0ee -->
 
 # Endringer i støtteprosessloven (registreringsplikt)
 
@@ -11,25 +11,53 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T06:25:59Z
+- **Sist hentet:** 2026-06-16T12:17:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200296
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781589808249+0200)/",
+  "respons_dato_tid": "/Date(1781611790011+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "respons_dato_tid": "/Date(1781611790011+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781611790011+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 13,
+      "navn": "Sivilrett",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781611790011+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 91 L (2025-2026), Innst. 441 L (2025-2026), Lovvedtak 88 (2025-2026)",
   "id": 200296,
   "innstilling_id": 17526,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781589628195+0200)/",
+    "respons_dato_tid": "/Date(1781611309056+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +66,7 @@
   "sak_fremmet_id": 200296,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781589808249+0200)/",
+      "respons_dato_tid": "/Date(1781611790011+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vitanza",
@@ -47,7 +75,7 @@
       "id": "SOLVIT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781564418684+0200)/",
+        "respons_dato_tid": "/Date(1781607619284+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -105,5 +133,6 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
