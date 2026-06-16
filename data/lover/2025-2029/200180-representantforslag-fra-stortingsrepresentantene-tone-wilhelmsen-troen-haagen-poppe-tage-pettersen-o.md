@@ -1,4 +1,4 @@
-<!-- innholds-hash: dd736347df30ffd6477c897be1f75a4618a4063dd2add85d4ae024cda9b62055 -->
+<!-- innholds-hash: f4f615c5208518027466bd0a7bafe11c6ee4c8d32bf18535d1491ceaa32768e9 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mathias Willassen Hanssen om å løse fosterhjemskrisen
 
@@ -11,21 +11,21 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T18:18:20Z
+- **Sist hentet:** 2026-06-16T00:50:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200180
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781547060807+0200)/",
+  "respons_dato_tid": "/Date(1781568030731+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781547060807+0200)/",
+      "respons_dato_tid": "/Date(1781568030778+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
@@ -34,14 +34,14 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781547060807+0200)/",
+      "respons_dato_tid": "/Date(1781568030793+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hanssen",
@@ -59,14 +59,14 @@
       "id": "MWH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781547060807+0200)/",
+      "respons_dato_tid": "/Date(1781568030793+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
@@ -84,14 +84,14 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781547060807+0200)/",
+      "respons_dato_tid": "/Date(1781568030793+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -109,14 +109,14 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -130,7 +130,7 @@
   "innstilling_id": 17417,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781546821628+0200)/",
+    "respons_dato_tid": "/Date(1781568024012+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -139,7 +139,7 @@
   "sak_fremmet_id": 200180,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781547060807+0200)/",
+      "respons_dato_tid": "/Date(1781568030731+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -148,14 +148,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -191,3 +191,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)

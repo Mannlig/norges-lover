@@ -1,4 +1,4 @@
-<!-- innholds-hash: 884a4cd113d4ff220be250100c368fa08dfefdb2d4ff1dd2cc7ee96af2f1b095 -->
+<!-- innholds-hash: 3bdbd20bdb56c57887e5c0899aa4d835d4c1b80005778d0521244928ddee6144 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om en ny likestillingsmelding for frihet og feminisme
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-15T18:18:20Z
+- **Sist hentet:** 2026-06-16T00:50:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200078
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781547060931+0200)/",
+  "respons_dato_tid": "/Date(1781568031341+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781547060931+0200)/",
+      "respons_dato_tid": "/Date(1781568031341+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -34,14 +34,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781547060931+0200)/",
+      "respons_dato_tid": "/Date(1781568031341+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -59,14 +59,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781547060931+0200)/",
+      "respons_dato_tid": "/Date(1781568031341+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -84,14 +84,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -105,7 +105,7 @@
   "innstilling_id": 17378,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781546821628+0200)/",
+    "respons_dato_tid": "/Date(1781568024012+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200078,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781547060931+0200)/",
+      "respons_dato_tid": "/Date(1781568031341+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -123,14 +123,14 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781531842169+0200)/",
+        "respons_dato_tid": "/Date(1781564418684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
+        "respons_dato_tid": "/Date(1781564417825+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -172,3 +172,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
