@@ -1,4 +1,4 @@
-<!-- innholds-hash: 307d47a80724988651e50aedfbf2f4179bd31d506c0819b81733d13217a32b9e -->
+<!-- innholds-hash: 83d2be83d8528290f0031b69f489e4efc92ebd55b54f2b06b9aa697e07ddf29c -->
 
 # Lov om endringar i utleveringslova (behandlinga av utleveringssaker)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200219
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650824989+0200)/",
+  "respons_dato_tid": "/Date(1781672788655+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17448,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200219,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825067+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -101,3 +101,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

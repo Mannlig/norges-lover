@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99df5d70ea084af814d1ae932c36f47bb7b98faaf4e64a9b97abcb0afc66cb35 -->
+<!-- innholds-hash: 320e13e9ae0738b976aa7c7f53b537ddc59caee507d759e62b04afe0a25fb5b2 -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Une Bastholm, Frøya Skjold Sjursæther, Julie E. Stuestøl, Ingrid Liland og Marius Langballe Dalin om sterkere beskyttelse av naturverdiene i Oslofjorden og en egen oslofjordlov
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200202
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650825333+0200)/",
+  "respons_dato_tid": "/Date(1781672788655+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -199,7 +199,7 @@
   "innstilling_id": 17428,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -208,7 +208,7 @@
   "sak_fremmet_id": 200202,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825333+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -271,3 +271,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

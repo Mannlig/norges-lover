@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5ed57c896c9ea1b4d8d8b9c8aac46bb1fc51b92629802620009fcb195f662ebf -->
+<!-- innholds-hash: 77924e9f239ead26512065ad87a9baac41c8e24086ef40acdcec9508e609953e -->
 
 # Representantforslag fra stortingsrepresentantene Tor André Johnsen, Rune Midtun, På Morten Borgli, Morten Kolbjørnsen, Bjørnar Laabak, May Helen Hetland Ervik og Kristoffer Sivertsen om gjødselbrukforskriften
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200157
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650825380+0200)/",
+  "respons_dato_tid": "/Date(1781672788655+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -215,7 +215,7 @@
   "innstilling_id": 17495,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -224,7 +224,7 @@
   "sak_fremmet_id": 200157,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -290,3 +290,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

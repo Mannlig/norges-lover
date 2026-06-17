@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0521e01259f5365b85707811aec5c564f8cc0b852d49b3a4f2706a2b723d01ff -->
+<!-- innholds-hash: f8708d5ab7f485a50b4c8bae0945bbca559447b441bdea302a456b8f26b06127 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Joel Ystebø, Harry Valderhaug og Jørgen H. Kristiansen om utvidet forbud mot bruk av heldekkende ansiktsplagg
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200186
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650825099+0200)/",
+  "respons_dato_tid": "/Date(1781672788655+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -140,7 +140,7 @@
   "innstilling_id": 17496,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -149,7 +149,7 @@
   "sak_fremmet_id": 200186,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825161+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Storbukås",
@@ -212,3 +212,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

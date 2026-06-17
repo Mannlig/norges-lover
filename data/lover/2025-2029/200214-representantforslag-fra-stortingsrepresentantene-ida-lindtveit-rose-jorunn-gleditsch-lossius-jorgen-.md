@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7768f552ee47d911c4488a6ed9264212d83e7dc0a0d89a6c345b7a0a441fcfd0 -->
+<!-- innholds-hash: b37f54f7c1078f3c0a042a8db2ea12c28f13c08f167ee8c83edb7a8beaa7b547 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Harry Valderhaug om å innføre 13-årsgrense på kjøp av smarttelefon
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200214
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650822942+0200)/",
+  "respons_dato_tid": "/Date(1781672788467+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823208+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650823208+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823145+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823208+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823208+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823208+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -149,7 +149,7 @@
   "innstilling_id": 17414,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200214,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650822942+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abdi",
@@ -215,3 +215,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

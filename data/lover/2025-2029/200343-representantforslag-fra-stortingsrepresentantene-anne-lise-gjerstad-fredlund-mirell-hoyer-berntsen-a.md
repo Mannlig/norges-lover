@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1ce63d3f431b06327c3150e3f2a48d5c2ba11b412f88998e17e65b42faea179d -->
+<!-- innholds-hash: 8c510c9b3fba7e73b58f64c6340451f625ebc919b03dca6778e4b29330bbc189 -->
 
 # Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200343
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650823364+0200)/",
+  "respons_dato_tid": "/Date(1781672788467+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823364+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823396+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823505+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823505+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -125,7 +125,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823536+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -150,7 +150,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823536+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -180,7 +180,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -218,3 +218,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

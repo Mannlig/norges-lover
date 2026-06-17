@@ -1,4 +1,4 @@
-<!-- innholds-hash: 74ee9e166d0441800ab3f4bcb9e2c342772291f54fa70586659bafa0d5ddf8ef -->
+<!-- innholds-hash: 2219f6ffe69ff5326bdb0decaea3f778c83556a4c481e2f8235eb0e512760d57 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Erling Sande og Bent-Joacim Bentzen om videreføring av Innovasjon Norges desentraliserte struktur
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200184
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650824458+0200)/",
+  "respons_dato_tid": "/Date(1781672788639+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824630+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650824630+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824458+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824630+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824630+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -124,7 +124,7 @@
   "innstilling_id": 17499,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200184,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824458+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -193,3 +193,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

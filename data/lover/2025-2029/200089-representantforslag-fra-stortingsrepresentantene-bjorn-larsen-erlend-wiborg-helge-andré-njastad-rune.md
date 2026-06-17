@@ -1,4 +1,4 @@
-<!-- innholds-hash: 895cdde176990867701a49bb35f2a75af92e79d5b8e32df287fb7c0791c7f987 -->
+<!-- innholds-hash: 90e06940f7efde6211be2f46873e0251cc65047b1acf2e1a12e51547f07ea166 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Erlend Wiborg, Helge André Njåstad, Rune Midtun, Frank Edvard Sve, Bengt Rune Strifeldt, Dagfinn Henrik Olsen og Hilde Grande om verdensarv og næringsutvikling
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200089
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650824146+0200)/",
+  "respons_dato_tid": "/Date(1781672788561+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824146+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824146+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824146+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824146+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
@@ -178,7 +178,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
@@ -203,7 +203,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -228,7 +228,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824161+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -258,7 +258,7 @@
   "innstilling_id": 17391,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -267,7 +267,7 @@
   "sak_fremmet_id": 200089,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824146+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -327,3 +327,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

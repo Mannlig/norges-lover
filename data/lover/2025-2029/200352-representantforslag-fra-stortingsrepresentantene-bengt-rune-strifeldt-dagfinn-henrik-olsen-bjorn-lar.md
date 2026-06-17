@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6178141380f0caf0a036c360d8e244889da04fa443f1fa176c8f1910ea9ed133 -->
+<!-- innholds-hash: d37fa6b3e19bf3a4d2badfd5a9caed9a99a70d7168ea15d0d93c6387a3b57cd3 -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200352
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650821020+0200)/",
+  "respons_dato_tid": "/Date(1781672788186+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -130,7 +130,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -156,3 +156,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

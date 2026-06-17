@@ -1,4 +1,4 @@
-<!-- innholds-hash: 87d6ebc9372c5aa234c875787a01cbe7882d5878c0dc91dedb6b97caf0642f2b -->
+<!-- innholds-hash: 3ff261cc7774a754d6e28ce37c8c8ebaf5283294ab9b66c8ec1259b1b85657c5 -->
 
 # Innberetning fra Stortingets ombudsnemnd for Forsvaret for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200218
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650821020+0200)/",
+  "respons_dato_tid": "/Date(1781672788186+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -48,7 +48,7 @@
   "innstilling_id": 17520,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200218,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650821020+0200)/",
+      "respons_dato_tid": "/Date(1781672788186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -99,3 +99,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

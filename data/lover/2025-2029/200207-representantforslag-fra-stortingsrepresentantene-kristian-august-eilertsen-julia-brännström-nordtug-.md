@@ -1,4 +1,4 @@
-<!-- innholds-hash: 85d91301e107368ce3fd5ec3a9c5eb9607ec1df0ca4f5e5e35736859f9459c26 -->
+<!-- innholds-hash: fdb38e849ed9c0f9dd2c4d87d31d2102d915877f4cfdd667507d0c24ca3445b9 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne Grethe Hauan om å redusere ventetider for utredning, tilpasning og oppfølging av høreapparat
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200207
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650824724+0200)/",
+  "respons_dato_tid": "/Date(1781672788639+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -149,7 +149,7 @@
   "innstilling_id": 17512,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200207,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824817+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Østensen",
@@ -221,3 +221,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

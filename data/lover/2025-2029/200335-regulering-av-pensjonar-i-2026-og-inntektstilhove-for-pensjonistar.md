@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0511ac060e7e49e66437854736178c54f547bb6201fccac074518cce17dd056c -->
+<!-- innholds-hash: 3d9d69507c5de0ce99b6796997cdb4f4a923429efe22284e3e9702b62131bb77 -->
 
 # Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200335
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650825380+0200)/",
+  "respons_dato_tid": "/Date(1781672788655+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -39,7 +39,7 @@
   "innstilling_id": 17536,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200335,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650825380+0200)/",
+      "respons_dato_tid": "/Date(1781672788655+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -107,3 +107,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

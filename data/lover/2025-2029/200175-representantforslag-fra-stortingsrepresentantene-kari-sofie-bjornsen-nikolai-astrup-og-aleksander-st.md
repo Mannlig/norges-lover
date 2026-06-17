@@ -1,4 +1,4 @@
-<!-- innholds-hash: d89bf8c74136667e4aeeda43c9648be0e51020d27e611c54959eb4ea1c6fcedb -->
+<!-- innholds-hash: 534105f4ad7f235e4727b84ccc6de31f3bcd827b9e0a9f406b12236a8939e384 -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Nikolai Astrup og Aleksander Stokkebø om å omprioritere til mer kostnadseffektive og lønnsomme klimainvesteringer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200175
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650823693+0200)/",
+  "respons_dato_tid": "/Date(1781672788467+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
@@ -142,7 +142,7 @@
   "innstilling_id": 17465,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -151,7 +151,7 @@
   "sak_fremmet_id": 200175,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650823693+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bakervik",
@@ -208,3 +208,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

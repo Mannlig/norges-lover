@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8d8f1642b73d8c3509d94b14d73a83f668e6a3c1c63958571cde75b157d1a407 -->
+<!-- innholds-hash: 875f0db4565a4c12c71070032b3e2764e18989ce96067c34ff544c14cf5d0230 -->
 
 # Representantforslag fra stortingsrepresentant Kjersti Toppe om å øke andelen institusjonsplasser i ideelle barnevernsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200199
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650822927+0200)/",
+  "respons_dato_tid": "/Date(1781672788467+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650822942+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650822942+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650822942+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -74,7 +74,7 @@
   "innstilling_id": 17416,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200199,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650822942+0200)/",
+      "respons_dato_tid": "/Date(1781672788467+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -140,3 +140,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 311541657dc56f7e54324463a6ad89b9a4a25d94d664cf8eeaaa6789552c270a -->
+<!-- innholds-hash: e1f8636f26fc9d972ef851e4da252dac09728eabaf19c846a4f3cc5d574e8eac -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Geir Pollestad og Siv Sætran om kompensasjonsordning for bedrifter utan høve til omstilling
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T23:26:28Z
+- **Sist hentet:** 2026-06-17T05:56:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200143
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781650824161+0200)/",
+  "respons_dato_tid": "/Date(1781672788561+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824286+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781650824286+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824208+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824208+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781650824286+0200)/",
+      "respons_dato_tid": "/Date(1781672788639+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -124,7 +124,7 @@
   "innstilling_id": 17423,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781650818473+0200)/",
+    "respons_dato_tid": "/Date(1781672432054+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200143,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781650824208+0200)/",
+      "respons_dato_tid": "/Date(1781672788561+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
@@ -193,3 +193,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
