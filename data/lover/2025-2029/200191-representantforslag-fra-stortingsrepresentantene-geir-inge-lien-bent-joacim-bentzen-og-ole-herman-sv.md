@@ -1,4 +1,4 @@
-<!-- innholds-hash: d94633fe19ffa34aa6f902232885824d055cef852d994b3c9573c18cb4c6cf77 -->
+<!-- innholds-hash: 2b1459626aa355b436c868c29832464aa3f50313b0f4a7e4480b892b80b0257c -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Ole Herman Sveian om å kompensere fylkeskommunene for utgifter som følge av statlige krav om nullutslippsteknologi
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T05:56:25Z
+- **Sist hentet:** 2026-06-17T11:30:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200191
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781672788655+0200)/",
+  "respons_dato_tid": "/Date(1781694660969+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -62,7 +62,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -87,7 +87,7 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -112,7 +112,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -133,7 +133,7 @@
   "innstilling_id": 17505,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781672432054+0200)/",
+    "respons_dato_tid": "/Date(1781694082249+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200191,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vestenfor",
@@ -151,7 +151,7 @@
       "id": "SOLVES",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -205,4 +205,5 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

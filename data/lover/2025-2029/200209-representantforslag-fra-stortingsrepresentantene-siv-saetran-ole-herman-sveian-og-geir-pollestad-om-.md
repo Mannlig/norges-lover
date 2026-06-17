@@ -1,4 +1,4 @@
-<!-- innholds-hash: c90791013a34cda3f85a76ba928fbcfe210c72e34ef248966bbe054237e08613 -->
+<!-- innholds-hash: 45e9d18572e68ace87af53c2c0c8493986fadec68fda9fbe32fd9e8385157804 -->
 
 # Representantforslag fra stortingsrepresentantene Siv Sætran, Ole Herman Sveian og Geir Pollestad om en stortingsbehandling av sentrale vilkår for klimapolitikken i skog- og arealbrukssektoren
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T05:56:25Z
+- **Sist hentet:** 2026-06-17T11:30:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200209
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781672788655+0200)/",
+  "respons_dato_tid": "/Date(1781694660969+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -53,7 +53,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -78,7 +78,7 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -103,7 +103,7 @@
       "id": "SIVSTR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -124,7 +124,7 @@
   "innstilling_id": 17457,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781672432054+0200)/",
+    "respons_dato_tid": "/Date(1781694082249+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200209,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
+      "respons_dato_tid": "/Date(1781694660969+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -142,7 +142,7 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -196,4 +196,5 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

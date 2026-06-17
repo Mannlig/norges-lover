@@ -1,4 +1,4 @@
-<!-- innholds-hash: bfe7bef6726f31f28b44cbb1c23d7df67eed478d27f9176d5ab5cfe0be40013a -->
+<!-- innholds-hash: 1fb0cd71bb701ebce7d47b82db2b3e32b6102d877e99c922578a8f6989f377a9 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor
 
@@ -11,25 +11,62 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T05:56:25Z
+- **Sist hentet:** 2026-06-17T11:30:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200337
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781672788467+0200)/",
+  "respons_dato_tid": "/Date(1781694660704+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "respons_dato_tid": "/Date(1781694660704+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 29,
+      "navn": "Riksrevisjonen",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781694660704+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 155,
+      "id": 51,
+      "navn": "Departementer",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781694660704+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781694660704+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 179,
+      "navn": "Kommunikasjonsteknologi",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:15 (2025-2026)",
   "id": 200337,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781672432054+0200)/",
+    "respons_dato_tid": "/Date(1781694082249+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -38,7 +75,7 @@
   "sak_fremmet_id": 200337,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788467+0200)/",
+      "respons_dato_tid": "/Date(1781694660704+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -47,7 +84,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
+        "respons_dato_tid": "/Date(1781694018028+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -93,4 +130,5 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

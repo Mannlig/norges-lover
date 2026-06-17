@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-17 09:29 UTC*
+*Sist oppdatert: 2026-06-17 15:13 UTC*
 
-**Antall dokumenter:** 421
+**Antall dokumenter:** 423
 
 ## Innhold
 
@@ -432,6 +432,8 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping](2025-2029/200352-representantforslag-fra-stortingsrepresentantene-bengt-rune-strifeldt-dagfinn-henrik-olsen-bjorn-lar.md)
 - [Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane](2025-2029/200353-riksrevisjonen-si-undersoking-av-kunnskapsdepartementet-sitt-arbeid-for-a-styrkje-lese-skrive-og-rek.md)
 - [Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)](2025-2029/200354-meddelelse-fra-stortingsrepresentant-marthe-hammer-i-stortingets-mote-16-juni-2026-om-at-hun-trekker.md)
+- [Rapport til Stortingets presidentskap fra Arbeidsgruppen til å vurdere hvordan Europautvalget skal innrettes for fremtiden](2025-2029/200355-rapport-til-stortingets-presidentskap-fra-arbeidsgruppen-til-a-vurdere-hvordan-europautvalget-skal-i.md)
+- [Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister](2025-2029/200356-representantforslag-fra-stortingsrepresentantene-margret-hagerup-mudassar-kapur-nina-dons-hansen-ama.md)
 
 ---
 

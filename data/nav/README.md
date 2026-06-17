@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-17 09:29 UTC*
+*Sist oppdatert: 2026-06-17 15:13 UTC*
 
-**Antall dokumenter:** 1087
+**Antall dokumenter:** 1136
 
 ## Innhold
 
@@ -697,6 +697,12 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Trekkopplysninger for arbeidstaker som skal ha sykepenger, foreldrepenger, svangerskapspenger, pleie-/opplæringspenger og omsorgspenger | www.nav.no](fyllut/nav083002.md)
 - [Søknad fra selvstendig næringsdrivende/frilansere om opptak/endring i forsikring for tillegg til sykepenger | www.nav.no](fyllut/nav083605.md)
 - [Nav083606](fyllut/nav083606.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/adresse.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/hjelpemidler.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/legeopplysninger.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/oppsummering.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/personopplysninger.md)
+- [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606/veiledning.md)
 - [Seksualteknisk hjelpemiddel | www.nav.no](fyllut/nav100606.md)
 - [Søknad om briller til forebygging eller behandling av amblyopi | www.nav.no](fyllut/nav100714/begrunnerAvSoknaden.md)
 - [Søknad om briller til forebygging eller behandling av amblyopi | www.nav.no](fyllut/nav100714/brilleLinseseddel.md)
@@ -707,6 +713,12 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Søknad om briller til forebygging eller behandling av amblyopi | www.nav.no](fyllut/nav100714/vedlegg.md)
 - [Søknad om briller til forebygging eller behandling av amblyopi | www.nav.no](fyllut/nav100714/veiledning.md)
 - [Søknad om briller til forebygging eller behandling av amblyopi | www.nav.no](fyllut/nav100714.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/begrunnerAvSoknaden.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/oppsummering.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/sokersOpplysninger.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/soknad.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/vedlegg.md)
+- [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715/veiledning.md)
 - [Søknad om dekning av utgifter til irislinser | www.nav.no](fyllut/nav100715.md)
 - [Søknad om refusjon av reiseutgifter knyttet til ortopediske hjelpemidler, parykk, tilpasningskurs, folkehøyskole, grunnmønster eller brystprotese | www.nav.no](fyllut/nav100716.md)
 - [Søknad om refusjon av reiseutgifter - tekniske hjelpemidler | www.nav.no](fyllut/nav100719/andreReiseutgifter.md)
@@ -776,7 +788,17 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609/veiledning/...md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609/veiledning.md)
 - [Inntektsskjema for gårdbrukere - uføretrygd | www.nav.no](fyllut/nav120609.md)
+- [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021/oppsummering.md)
+- [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021/page4.md)
+- [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021/page5.md)
+- [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021/personopplysninger.md)
+- [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021/vedlegg.md)
 - [Skadeforklaring ved arbeidsulykke | www.nav.no](fyllut/nav130021.md)
+- [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305/dineOpplysninger.md)
+- [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305/oppsummering.md)
+- [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305/vedlegg.md)
+- [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305/virksomheten.md)
+- [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305/yrkesskadeordning.md)
 - [Søknad fra selvstendig næringsdrivende og frilansere om frivillig opptak i Navs yrkesskadeordning | www.nav.no](fyllut/nav131305.md)
 - [Søknad om overgangsstønad – enslig mor eller far | www.nav.no](fyllut/nav150001/arbeidUtdanningOgAndreAktiviteter.md)
 - [Søknad om overgangsstønad – enslig mor eller far | www.nav.no](fyllut/nav150001/barnOgSamvaer.md)
@@ -797,6 +819,16 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Enslig mor eller far som er arbeidssøker | www.nav.no](fyllut/nav150801/vedlegg.md)
 - [Enslig mor eller far som er arbeidssøker | www.nav.no](fyllut/nav150801/veiledning.md)
 - [Enslig mor eller far som er arbeidssøker | www.nav.no](fyllut/nav150801.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/barnepensjon.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/dineOpplysninger.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/inntektenDin.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/merOmSituasjonenDin.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/omAvdode.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/omDegOgAvdode.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/oppsummering.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/situasjonenDin.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/utbetalingAvOmstillingsstonad.md)
+- [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106/vedlegg.md)
 - [Søknad om omstillingsstønad | www.nav.no](fyllut/nav170106.md)
 - [Søknad om stønad til barnetilsyn på grunn av arbeid og stønad til skolepenger til gjenlevende ektefelle/partner/ samboer og til ugift familiepleier | www.nav.no](fyllut/nav170901/dinSituasjon.md)
 - [Søknad om stønad til barnetilsyn på grunn av arbeid og stønad til skolepenger til gjenlevende ektefelle/partner/ samboer og til ugift familiepleier | www.nav.no](fyllut/nav170901/dineOpplysninger.md)
@@ -852,12 +884,19 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Avtale om barnebidrag for barn over 18 år | www.nav.no](fyllut/nav550063.md)
 - [Opplysningsskjema til Nav for avtalefestet pensjon (AFP) fra Statens pensjonskasse for deg født før 1963 | www.nav.no](fyllut/nav620016.md)
 - [Skjema for tilbakemelding til Nav om inntekt som skal holdes utenfor etteroppgjøret for avtalefestet pensjon (AFP) | www.nav.no](fyllut/nav620301.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/arbeidsgiver/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/arbeidsgiver.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/eierandeler/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/eierandeler.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/erklaring/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/erklaring.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/feriepengerogferieavvikling/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/feriepengerogferieavvikling.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/fradragforandreinntekterisoknadsperioden/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/fradragforandreinntekterisoknadsperioden.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/lonnsogferiepengekrav/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/lonnsogferiepengekrav.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/opplysningeromarbeidsforhold/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/opplysningeromarbeidsforhold.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/oppsummering.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/overdragelseavkrav.md)
@@ -868,6 +907,10 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/utgifteriforbindelsemedkonkursbegjaring.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/vedlegg.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101.md)
+- [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715/avtalen.md)
+- [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715/dineOpplysninger.md)
+- [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715/oppsummering.md)
+- [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715/veiledning.md)
 - [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715.md)
 - [Søknad om tiltakspenger | www.nav.no](fyllut/nav761345.md)
 - [Søknad om funksjonsassistanse | www.nav.no](fyllut/nav761380.md)
@@ -920,6 +963,7 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Klage
 
 - [Complaint and appeal - nav.no](klage/en.md)
+- [Klage og anke - nav.no](klage/nn.md)
 
 ### Klagerettigheter
 
@@ -962,6 +1006,10 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Kvalifiseringsprogrammet
 
 - [Qualification Programme - nav.no](kvalifiseringsprogrammet/en.md)
+
+### Lofteplattform
+
+- [Løfteplattform - nav.no](lofteplattform/nn.md)
 
 ### Medlemskap Lovvalg
 
@@ -1164,6 +1212,10 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Nav’s data protection officer - nav.no](personvernombudet/en.md)
 
+### Ramper
+
+- [Ramper - nav.no](ramper/nn.md)
+
 ### Redirects
 
 - [Contact us - nav.no](redirects/footer-contactus-en.md)
@@ -1185,6 +1237,7 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Saksbehandlingstider
 
 - [Case processing times - nav.no](saksbehandlingstider/en.md)
+- [Saksbehandlingstider - nav.no](saksbehandlingstider/nn.md)
 
 ### Satser
 
@@ -1211,6 +1264,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Applications and forms for employers - nav.no](soknader/en/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger.md)
 - [Applications and forms - nav.no](soknader/en.md)
 - [Søknad og skjema for arbeidsgivere - nav.no](soknader/nb/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger.md)
+- [Søknad og skjema - nav.no](soknader/nn.md)
 
 ### Sosiale Tjenester
 
@@ -1219,6 +1273,7 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Sosialhjelp
 
 - [Innsyn](sosialhjelp/innsyn.md)
+- [Økonomisk sosialhjelp - nav.no](sosialhjelp/klage.md)
 - [Økonomisk sosialhjelp - nav.no](sosialhjelp/nodsituasjon.md)
 - [Økonomisk sosialhjelp - nav.no](sosialhjelp/om.md)
 - [Soknad](sosialhjelp/soknad.md)
