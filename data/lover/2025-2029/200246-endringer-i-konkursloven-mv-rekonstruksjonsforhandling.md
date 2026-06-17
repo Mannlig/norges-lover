@@ -1,4 +1,4 @@
-<!-- innholds-hash: dfa5e5d728ee40af6b34670961ba8feba820cc9e16c69b378080860155faa7d6 -->
+<!-- innholds-hash: dbcbadd9d66128fe2395ebde2a1b01b268d361f89957c4148830e145dd12a70b -->
 
 # Endringer i konkursloven mv. (rekonstruksjonsforhandling)
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 200246
 - **Type:** 3
 - **Korttittel:** Endringer i konkursloven mv. (rekonstruksjonsforhandling)
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T11:30:25Z
+- **Sist hentet:** 2026-06-17T17:14:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200246
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781694660860+0200)/",
+  "respons_dato_tid": "/Date(1781712904996+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17489,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781694082249+0200)/",
+    "respons_dato_tid": "/Date(1781712131064+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200246,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781694660860+0200)/",
+      "respons_dato_tid": "/Date(1781712904996+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Krokeide",
@@ -47,7 +47,7 @@
       "id": "FINKRO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781694018028+0200)/",
+        "respons_dato_tid": "/Date(1781701881377+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -64,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringer i konkursloven mv. (rekonstruksjonsforhandling)",
   "type": 3
 }
@@ -101,5 +101,6 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

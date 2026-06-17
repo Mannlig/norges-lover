@@ -1,4 +1,4 @@
-<!-- innholds-hash: d62a6a79f75cf4617982d13fd6b29c61b8b5bc78ced907a26e1f9de58c3d03a7 -->
+<!-- innholds-hash: 4b095c71d7dd91bbab6c9c839b9881e5e17572f628ba10c483ecc5a6562f2061 -->
 
 # Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven) og samtykke til deltagelse i beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/956 (CBAM-forordningen) og forordning (EU) 2025/2083 (endringer i CBAM-forordningen), og om tilgang til og finansiering av IT-tekniske systemer i CBAM
 
@@ -8,17 +8,17 @@
 - **Sak-ID:** 107970
 - **Type:** 3
 - **Korttittel:** Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven)
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T11:30:25Z
+- **Sist hentet:** 2026-06-17T17:14:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107970
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781694660969+0200)/",
+  "respons_dato_tid": "/Date(1781712905043+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17437,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781694082249+0200)/",
+    "respons_dato_tid": "/Date(1781712131064+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107969,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781694660969+0200)/",
+      "respons_dato_tid": "/Date(1781712905043+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -47,7 +47,7 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781694018028+0200)/",
+        "respons_dato_tid": "/Date(1781701881377+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -64,7 +64,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Lov om justering av karbonpris ved import av varer til EØS (CBAM-loven) og samtykke til deltagelse i beslutninger i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/956 (CBAM-forordningen) og forordning (EU) 2025/2083 (endringer i CBAM-forordningen), og om tilgang til og finansiering av IT-tekniske systemer i CBAM",
   "type": 3
 }
@@ -101,5 +101,6 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

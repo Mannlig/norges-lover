@@ -1,4 +1,4 @@
-<!-- innholds-hash: d7d73db1fc68a0b0bbce7ac6d616dcee9c1f916a7f91f08d937278dcdcd5e12e -->
+<!-- innholds-hash: 2ed474caf888dfc0277de43bd333e390c2fccfa31f6f4a390573346342f74f5b -->
 
 # Lov om særavgifter (særavgiftsloven)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T11:30:25Z
+- **Sist hentet:** 2026-06-17T17:14:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200267
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781694660969+0200)/",
+  "respons_dato_tid": "/Date(1781712905043+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781694660969+0200)/",
+      "respons_dato_tid": "/Date(1781712905043+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781694660969+0200)/",
+      "respons_dato_tid": "/Date(1781712905043+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -48,7 +48,7 @@
   "innstilling_id": 17486,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781694082249+0200)/",
+    "respons_dato_tid": "/Date(1781712131064+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200267,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781694660969+0200)/",
+      "respons_dato_tid": "/Date(1781712905043+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
@@ -66,7 +66,7 @@
       "id": "FROJAC",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781694018028+0200)/",
+        "respons_dato_tid": "/Date(1781701881377+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -119,5 +119,6 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

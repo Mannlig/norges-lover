@@ -1,4 +1,4 @@
-<!-- innholds-hash: bbb2d57d9f8ade21c94dbf3a182319df18a5211a8ab825dd5faba96f9d007355 -->
+<!-- innholds-hash: 45c330bb837b4dcb29fdd38b5b24d7bc77b0f0ca4a60f0091710af99e5991811 -->
 
 # Lov for den uavhengige granskingskommisjonen for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene
 
@@ -11,25 +11,62 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-17T11:30:25Z
+- **Sist hentet:** 2026-06-17T17:14:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=109096
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781694660645+0200)/",
+  "respons_dato_tid": "/Date(1781712904761+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "respons_dato_tid": "/Date(1781712904761+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 17,
+      "navn": "Personvern",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781712904761+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781712904761+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": true,
+      "hovedemne_id": 163,
+      "id": 163,
+      "navn": "Utenrikssaker",
+      "underemne_liste": []
+    },
+    {
+      "respons_dato_tid": "/Date(1781712904761+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Innst. 444 L (2025-2026), Lovvedtak 87 (2025-2026)",
   "id": 109096,
   "innstilling_id": 17530,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781694082249+0200)/",
+    "respons_dato_tid": "/Date(1781712131064+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -67,5 +104,6 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)

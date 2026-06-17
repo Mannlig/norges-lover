@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-06-17 15:13 UTC*
+*Sist oppdatert: 2026-06-17 20:47 UTC*
 
-**Antall dokumenter:** 1136
+**Antall dokumenter:** 1150
 
 ## Innhold
 
@@ -384,6 +384,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Mine Dagpenger](arbeid/dagpenger/mine-dagpenger.md)
 - [Start](arbeid/registrering/start.md)
 - [Registrer deg som arbeidssøker - nav.no](arbeid/registrering.md)
+- [What should you choose?](arbeid/veiviser/en.md)
 
 ### Arbeidsgiver
 
@@ -507,6 +508,10 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Min CV](arbeidsplassen/cv.md)
 
+### Arbeidsrettet Oppfolging
+
+- [How to get occupational follow-up - nav.no](arbeidsrettet-oppfolging/en.md)
+
 ### Arbeidssoekerregisteret
 
 - [Bekreftelse](arbeidssoekerregisteret/bekreftelse.md)
@@ -531,6 +536,10 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Bruk Av Oversettelsesverktoy
 
 - [Use of Translation Tools in Nav – Breach of Personal Data Security  - nav.no](bruk-av-oversettelsesverktoy/en.md)
+
+### Confirm Jobseeker
+
+- [Please confirm that you want to stay registered as a jobseeker - nav.no](confirm-jobseeker/en.md)
 
 ### Dagpenger
 
@@ -898,13 +907,21 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/lonnsogferiepengekrav.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/opplysningeromarbeidsforhold/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/opplysningeromarbeidsforhold.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/oppsummering/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/oppsummering.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/overdragelseavkrav/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/overdragelseavkrav.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/personopplysninger/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/personopplysninger.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/rollerogrelasjoner/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/rollerogrelasjoner.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/sykmeldtpermittertellerarbeidsledig/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/sykmeldtpermittertellerarbeidsledig.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/tilleggsopplysninger/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/tilleggsopplysninger.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/utgifteriforbindelsemedkonkursbegjaring/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/utgifteriforbindelsemedkonkursbegjaring.md)
+- [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/vedlegg/...md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101/vedlegg.md)
 - [Søknad om lønnsgarantidekning - melding av lønnskrav m.v. til konkursboet | www.nav.no](fyllut/nav670101.md)
 - [Avtale om egenfinansiering av utdanning | www.nav.no](fyllut/nav760715/avtalen.md)
@@ -1179,6 +1196,10 @@ Stønader, ytelser og rettigheter fra NAV.
 
 - [Overgangsstønad til enslig mor eller far - nav.no](overgangsstonad/om.md)
 
+### Parental Consent
+
+- [Parental Consent - nav.no](parental-consent/en.md)
+
 ### Pensjon
 
 - [Pensjonskalkulator](pensjon/kalkulator/login.md)
@@ -1207,6 +1228,14 @@ Stønader, ytelser og rettigheter fra NAV.
 ### Personvern
 
 - [Privacy in the Norwegian Labour and Welfare Administration - nav.no](personvern/en.md)
+
+### Personvern Sikkerhet Navno
+
+- [Privacy and security at nav.no - nav.no](personvern-sikkerhet-navno/en.md)
+
+### Personvernerklaering
+
+- [Privacy Statement for the Norwegian Labour and Welfare Administration (Nav) - nav.no](personvernerklaering/en.md)
 
 ### Personvernombudet
 
