@@ -1,4 +1,4 @@
-<!-- innholds-hash: bc58625634c45db6792dc06acde569f8873a6b3b5f00bb09ccffbd9ea2a2690a -->
+<!-- innholds-hash: 45583213cf51a1242464d4680ad0d8176c9fd2bd3a3b25aae93fb9cc0789132a -->
 
 # Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T17:54:14Z
+- **Sist hentet:** 2026-06-16T23:26:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200252
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781629948232+0200)/",
+  "respons_dato_tid": "/Date(1781650825333+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17517,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781629337016+0200)/",
+    "respons_dato_tid": "/Date(1781650818473+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200252,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "respons_dato_tid": "/Date(1781650825333+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagenborg",
@@ -47,14 +47,14 @@
       "id": "ANNHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
+        "respons_dato_tid": "/Date(1781650817942+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
+        "respons_dato_tid": "/Date(1781650817801+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -96,6 +96,7 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 405c8fe30ec2209137713edeb428d921caf41a780ed2aac40bf0cdd01198dcd8 -->
+<!-- innholds-hash: 0f22af967ad4a582c8c615a5df306fd2109d4a99dbf079dc7e9e5542932d5701 -->
 
 # Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-16T17:54:14Z
+- **Sist hentet:** 2026-06-16T23:26:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200126
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781629948232+0200)/",
+  "respons_dato_tid": "/Date(1781650825239+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "respons_dato_tid": "/Date(1781650825239+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "respons_dato_tid": "/Date(1781650825239+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "respons_dato_tid": "/Date(1781650825239+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -57,7 +57,7 @@
   "innstilling_id": 17440,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781629337016+0200)/",
+    "respons_dato_tid": "/Date(1781650818473+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200126,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781629948232+0200)/",
+      "respons_dato_tid": "/Date(1781650825239+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussaini",
@@ -75,14 +75,14 @@
       "id": "MHU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
+        "respons_dato_tid": "/Date(1781650817942+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
+        "respons_dato_tid": "/Date(1781650817801+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -124,6 +124,7 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
