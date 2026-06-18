@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-17 20:47 UTC*
+*Sist oppdatert: 2026-06-18 02:22 UTC*
 
-**Antall dokumenter:** 423
+**Antall dokumenter:** 424
 
 ## Innhold
 
@@ -434,6 +434,7 @@ Stortinget
 - [Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)](2025-2029/200354-meddelelse-fra-stortingsrepresentant-marthe-hammer-i-stortingets-mote-16-juni-2026-om-at-hun-trekker.md)
 - [Rapport til Stortingets presidentskap fra Arbeidsgruppen til å vurdere hvordan Europautvalget skal innrettes for fremtiden](2025-2029/200355-rapport-til-stortingets-presidentskap-fra-arbeidsgruppen-til-a-vurdere-hvordan-europautvalget-skal-i.md)
 - [Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister](2025-2029/200356-representantforslag-fra-stortingsrepresentantene-margret-hagerup-mudassar-kapur-nina-dons-hansen-ama.md)
+- [Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart](2025-2029/200357-representantforslag-fra-stortingsrepresentantene-simen-velle-lill-harriet-sandaune-line-marlene-haug.md)
 
 ---
 

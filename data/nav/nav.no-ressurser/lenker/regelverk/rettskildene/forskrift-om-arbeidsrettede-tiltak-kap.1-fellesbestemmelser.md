@@ -1,0 +1,574 @@
+<!-- innholds-hash: 4d2ffcfbfbeba0582dac6375a15bc212dbd085f319bfd43c59875e259c70207c -->
+
+# Forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-arbeidsrettede-tiltak-kap.1-fellesbestemmelser
+- **Sist hentet:** 2026-06-18T01:35:20Z
+
+## Innhold
+
+
+## Forskrift om arbeidsmarkedstiltak (tiltaksforskriften)
+
+
+### Kapitteloversikt
+
+
+### Kapittel 1. Fellesbestemmelser
+
+Hovedformålet med arbeidsmarkedstiltakene er å styrke tiltaksdeltakernes muligheter til å skaffe seg eller beholde arbeid. Denne forskriften fastsetter på hvilke vilkår det enkelte tiltak er utformet.
+
+I denne forskriften menes med
+
+Deltakelse i tiltaket bør være nødvendig og hensiktsmessig for at deltakeren skal skaffe seg eller beholde inntektsgivende arbeid. Arbeids- og velferdsetaten kan kreve at brukeren skal gjennomgå en behovs- eller arbeidsevnevurdering. Valg, utforming og varighet av tiltak foretas i samråd med deltakeren.
+
+Varigheten og omfanget av tiltaket tilpasses deltakerens muligheter på arbeidsmarkedet.
+
+Tiltaksdeltakere må ha fylt 16 år. Det kan gjelde andre aldersgrenser for enkelte tiltak.
+
+Tiltaksdeltakere skal avslutte tiltaket dersom vedkommende får tilbud om høvelig arbeid eller andre arbeidsmarkedstiltak. Arbeids- og velferdsetaten kan i særlige tilfeller likevel godkjenne at deltakeren fullfører et påbegynt tiltak.
+
+Tiltaksdeltakere som ikke lenger fyller vilkårene for deltakelse i arbeidsmarkedstiltak som følger av denne forskriften, kan tas ut av tiltaket.
+
+Arbeidsmarkedstiltak på norskregistrerte skip og fartøy kan gjennomføres utenfor landets grenser.
+
+Arbeidsmarkedstiltak kan også gjennomføres på andre norskregistrerte transportmidler som jevnlig krysser landets grenser.
+
+Tiltak som nevnt i første og annet ledd kan gjennomføres som døgntilbud.
+
+Varighet og omfang på arbeidsmarkedstiltak skal tilpasses deltakerens individuelle behov, innenfor de begrensninger som gjelder for det enkelte tiltaket.
+
+Hvem som får tilbud om tiltak og hvem som får tilskudd avgjøres av Arbeids- og velferdsetaten etter Arbeids- og velferdsdirektoratets nærmere bestemmelse.
+
+Arbeids- og velferdsdirektoratet bestemmer også kompetent organ for anvisning og utbetaling av ytelser etter denne forskriften.
+
+Tiltaksplasser skal ikke fortrenge ordinær arbeidskraft i tiltaksarrangørs virksomhet, og skal ikke virke konkurransevridende.
+
+En virksomhet som er arrangør av flere arbeidsmarkedstiltak, eller driver ordinær forretningsdrift, må dokumentere
+
+- økonomioppfølging og kvalitets- og resultatkrav for det enkelte tiltak eller den enkelte tilskuddsordning,
+- at tiltakene organiseres slik at faglige og økonomiske krav oppfylles, og
+- at subsidiering ikke forekommer på tvers av de enkelte tiltakene eller fra tiltaket til annen virksomhet som for eksempel forretningsdrift.
+Tiltaksarrangørene kan ikke få tilskudd til arbeidsmarkedstiltak for egne familiemedlemmer eller andre nærstående, med mindre særlige grunner foreligger.
+
+Tiltaksarrangørene skal rapportere til Arbeids- og velferdsetaten om alle forhold av betydning for gjennomføringen av tiltaket.
+
+Deltakere i tiltakene midlertidig lønnstilskudd (
+
+Personer som deltar i arbeidsmarkedstiltak uten å være arbeidstakere etter definisjonen i
+
+Personer som deltar i arbeidsmarkedstiltak på skip uten å være omfattet av
+
+Tildeling av tiltak kan ikke skje uten at arbeidsgivers tilretteleggingsplikt etter
+
+For arbeidstakere med nedsatt arbeidsevne kan tildeling av arbeidsmarkedstiltak tidligst skje når Arbeids- og velferdsetaten har innhentet oppfølgingsplan etter
+
+Tiltaksdeltakere som ikke er omfattet av tiltaksarrangørs/arbeidsgivers lovpålagte trygde- eller forsikringsordninger, skal dekkes av kollektiv ansvars- og ulykkesforsikring som Arbeids- og velferdsetaten tegner.
+
+Tiltaksarrangøren godkjennes av Arbeids- og velferdsetaten, av det organet Arbeids- og velferdsdirektoratet bestemmer.
+
+Departementet fastsetter satsene for tilskudd etter denne forskriften.
+
+Arbeids- og velferdsetaten skal kontrollere at tiltakene blir gjennomført og tilskudd blir benyttet som forutsatt i denne forskriften.
+
+Arbeids- og velferdsetaten kan holde tilbake ytelser til tiltaksarrangør dersom de arbeidsmarkedstiltakene ikke gjennomføres etter forutsetningene som følger av denne forskriften.
+
+Ved brudd på regelverket kan godkjenning som tiltaksarrangør trekkes tilbake.
+
+Tilskudd skal ikke gis sammen med
+
+- annen støtte som er unntatt etter det alminnelige gruppeunntaket, jf.
+- bagatellmessig støtte, jf.
+- annen fellesskapsfinansiering som helt eller delvis gjelde de samme støtteberettigede kostnadene,
+dersom en slik kumulering ville føre til at støtten overstiger den gjeldende høyeste støtteandelen eller det gjeldende høyeste støttebeløpet for denne type støtte i henhold til det alminnelige gruppeunntaket.
+
+Det kan ikke gis tilskudd til vanskeligstilte bedrifter eller bedrifter som har et utestående tilbakebetalingskrav mot seg etter vedtak om ulovlig støtte.
+
+Tiltaksarrangører skal melde fra til Arbeids- og velferdsetaten dersom de mottar annen offentlig støtte som helt eller delvis dekker de samme kostnadene som dekkes gjennom tilskudd de mottar som tiltaksarrangør etter denne forskriften.
+
+
+### Kapittel 2. Avklaring
+
+Avklaring skal kartlegge og vurdere tiltaksdeltakerens arbeidsevne og eventuelle spesifikke behov for bistand for å skaffe seg eller beholde arbeid.
+
+Avklaringen skal være individuelt tilpasset og kan inneholde veiledning knyttet til tiltaksdeltakerens muligheter på arbeidsmarkedet. Utprøving av arbeidsevne kan også inngå i kartleggingen når dette anses nødvendig og hensiktsmessig.
+
+Avklaring kan tilbys personer som har behov for en mer omfattende avklaringsbistand enn den Arbeids- og velferdsetaten kan tilby.
+
+Varigheten av avklaringen tilpasses tiltaksdeltakerens individuelle behov. Avklaring kan vare i inntil fire uker med mulighet for forlengelse i inntil åtte uker.
+
+Tiltaksarrangøren av avklaringstiltak skal, senest når avklaringen er avsluttet, gi en skriftlig rapport om gjennomføringen av tiltaket og eventuelt bistandsbehov for å skaffe seg eller beholde arbeid.
+
+Anskaffelse av avklaring skal skje i overensstemmelse med regelverk fastsatt i eller i medhold av lov om offentlige anskaffelser.
+
+
+### Kapittel 3. Arbeidstrening
+
+Arbeidstrening skal prøve ut tiltaksdeltakerens muligheter på arbeidsmarkedet, gi relevant arbeidserfaring og bidra til å styrke deltakerens muligheter til å få ordinær ansettelse.
+
+Tiltaksdeltakeren skal få tilrettelagt arbeidstrening i ordinært arbeidsliv med individuell oppfølging fra Arbeids- og velferdsetaten og arbeidsgiver. Tiltaket kan også inneholde elementer av opplæring når dette er relevant for å komme i arbeid.
+
+Arbeidstrening kan tilbys arbeidssøkere med liten eller mangelfull arbeidserfaring, og personer med nedsatt arbeidsevne som har behov for arbeidsrettet bistand for å komme i inntektsgivende arbeid.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, arbeidsgiveren og Arbeids- og velferdsetaten som angir arbeidstreningens formål, innhold, plan for opplæring på arbeidsplassen og eventuelt hvilken annen bistand som skal benyttes.
+
+Oppfølgingen fra Arbeids- og velferdsetaten skal tilpasses den enkelte tiltaksdeltakerens og arbeidsgiverens behov. Mulighetene til å få ordinær ansettelse skal vurderes jevnlig.
+
+Arbeids- og velferdsetaten skal dokumentere gjennomføringen og utbyttet av tiltaket og om målet med tiltaket er oppnådd. Dokumentasjonen skal gjøres tilgjengelig for tiltaksdeltaker.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Varigheten skal tilpasses tiltaksdeltakerens individuelle behov. Tiltakets varighet skal vurderes regelmessig minst hver tredje måned av Arbeids- og velferdsetaten.
+
+Arbeidstreningen kan vare i inntil ett år. For personer med nedsatt arbeidsevne kan varigheten forlenges med ytterligere seks måneder.
+
+Opprettelse av en arbeidstreningsplass skal være drøftet med de ansattes representanter i virksomhetene.
+
+Tiltaksdeltakerne skal ikke være ansatt i virksomheten.
+
+
+### Kapittel 4. Oppfølging
+
+Oppfølging skal gi tiltaksdeltakeren bistand med sikte på å skaffe seg eller beholde arbeid. Oppfølging kan også gis i forbindelse med overgang fra skolegang eller soning i institusjon til arbeid eller til andre arbeidsmarkedstiltak.
+
+Oppfølging kan inneholde kartlegging, veiledning og råd til både tiltaksdeltaker, arbeidsgiver og andre tiltaksarrangører, oppfølging på arbeidsplassen, opplæring i arbeidsrelaterte og sosiale ferdigheter, samt tilpasning og tilrettelegging av arbeid og arbeidssituasjon.
+
+Oppfølging kan videre inneholde hjelp til praktiske oppgaver og til å søke arbeid, herunder jobbklubb. Bistand av spesialpedagogisk karakter og annen faglig bistand kan også inngå som en del av oppfølgingen.
+
+Oppfølging kan tilbys personer som har behov for en mer omfattende formidlings- og oppfølgingsbistand enn den Arbeids- og velferdsetaten kan tilby.
+
+Varigheten av oppfølgingen skal tilpasses deltakerens individuelle behov.
+
+Oppfølging kan ha en varighet på inntil seks måneder. Tiltaket kan forlenges med ytterligere seks måneder. For personer med nedsatt arbeidsevne kan tiltaket forlenges slik at samlet varighet kan være inntil tre år. Om tiltaket brukes ved overgang fra skole eller soning i institusjon kan varigheten forlenges med ytterligere seks måneder utover den maksimale varigheten på tre år.
+
+Tiltaksarrangøren skal fortløpende gi en skriftlig vurdering av gjennomføringen av tiltaket. Tiltaksarrangøren skal, senest når oppfølgingen er avsluttet, gi en skriftlig rapport om den endelige gjennomføringen av tiltaket og gjøre rede for deltakerens status på arbeidsmarkedet.
+
+Anskaffelse av oppfølging skal skje i overensstemmelse med regelverk fastsatt i eller i medhold av lov om offentlige anskaffelser.
+
+
+### Kapittel 5. Mentor
+
+Mentoren skal gi tiltaksdeltakeren nødvendig bistand for å kunne gjennomføre arbeidsmarkedstiltak eller for å kunne få eller beholde lønnet arbeid i en ordinær virksomhet.
+
+Mentor er et tiltak for personer som har behov for nødvendig faglig, sosial og praktisk støtte og/eller opplæring på arbeidsplassen eller opplæringsstedet. Mentoren kan være en arbeidskollega, medstudent eller medelev. Mentoren skal gi individuelt tilpasset oppfølging.
+
+Mentor kan tilbys til en tiltaksdeltaker i tiltakene arbeidstrening, opplæring, sommerjobb, midlertidig lønnstilskudd og varig lønnstilskudd.
+
+Mentor kan videre tilbys når det er nødvendig for at en person med nedsatt arbeidsevne skal få eller beholde lønnet arbeid i en ordinær virksomhet
+
+Med utgangspunkt i en behovs- eller arbeidsevnevurdering skal varigheten av mentortiltaket tilpasses tiltaksdeltakerens individuelle behov. Tiltaket kan vare i inntil seks måneder. Personer med nedsatt arbeidsevne og særlige behov for bistand fra mentor, kan få tiltaket forlenget i inntil tre år. Unge under 30 år som deltar i et tilrettelagt fag- og yrkesopplæringsløp som opplæringstiltak, kan få mentortiltak forlenget i inntil tre år.
+
+Tiltaksarrangøren kan være
+
+- en arbeidsgiver i ordinær virksomhet som har ansatt en arbeidstaker med behov for mentor eller har inngått en avtale med Arbeids- og velferdsetaten om å opprette en tiltaksplass for arbeidstrening, sommerjobb, midlertidig lønnstilskudd eller varig lønnstilskudd, eller
+- et opplæringssted der tiltaksdeltakeren gjennomfører opplæring, eller
+- en godkjent lærebedrift der tiltaksdeltakeren gjennomfører fagopplæring.
+Arbeids- og velferdsetaten kan be om at tiltaksarrangør avgir rapport eller vurdering av gjennomføring av tiltaket.
+
+Det gis tilskudd tilsvarende mentors ordinære timelønn for det antall timer som er avtalt for mentoroppgaven.
+
+Det gis tilskudd til dekning av lønn og arbeidsgiveravgift. Dersom mentor er ansatt hos tiltaksarrangøren, gis det også tilskudd til dekning av utgifter til feriepenger og innskudd til obligatorisk tjenestepensjon.
+
+Tilskudd til mentor kan ikke gis til dekning av de samme utgiftene som dekkes av andre tilskudd. For tiltaksdeltakere som gjennomfører fagopplæring i bedrift som en del av et opplæringstiltak, kan tilskuddet til mentor ikke gis til dekning av de samme utgiftene som allerede dekkes av tilskudd for opplæring til lærebedrift og tilskudd til opplæring av lærlinger, praksisbrevkandidater og lærekandidater med særskilte behov.
+
+Tilskuddet utbetales til tiltaksarrangøren.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, tiltaksarrangøren og Arbeids- og velferdsetaten som angir mentortiltakets formål, hvor mange timer det skal gis tilskudd til og eventuelt hvilken annen bistand som skal benyttes.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf.
+
+
+### Kapittel 6. Funksjonsassistanse i arbeidslivet
+
+Funksjonsassistanse i arbeidslivet skal bidra til at tiltaksdeltakeren skaffer seg eller beholder ordinært arbeid.
+
+Funksjonsassistenten skal gi nødvendig bistand til praktiske oppgaver og ledsaging ved forflytning i arbeidssituasjonen slik at tiltaksdeltakeren skal kunne utføre sine ordinære arbeidsoppgaver.
+
+Funksjonsassistenten skal ikke utføre tiltaksdeltakerens ordinære arbeidsoppgaver, heller ikke ved sykefravær, ferier eller annet fravær.
+
+Funksjonsassistanse kan gis til personer som har omfattende fysiske funksjonsnedsettelser, og til blinde og sterkt svaksynte.
+
+På grunnlag av en vurdering av tiltaksdeltakerens individuelle behov, fastsettes varighet og omfang i samarbeid med deltakeren og dennes arbeidsgiver. Tilskuddet skal justeres eller falle bort ved endringer i behovet for assistanse eller når andre tiltak vurderes som mer hensiktsmessige.
+
+Det kan gis tilskudd til dekning av
+
+- funksjonsassistentens lønnsutgifter, dvs. lønn, arbeidsgiveravgift, eventuelt feriepenger og innskudd til obligatorisk tjenestepensjon,
+- dokumenterte ekstrautgifter til vikar ved funksjonsassistentens sykdom, ferie eller lignende, eller
+- reise- og oppholdsutgifter til funksjonsassistent dersom dette er nødvendig ved tiltaksdeltakerens arbeidsrelaterte reiser.
+Tilskuddet utbetales til funksjonsassistentens arbeidsgiver. Tilskuddet kan utbetales direkte til tiltaksdeltakeren når denne er selvstendig næringsdrivende eller frilanser.
+
+Tilskudd til funksjonsassistanse utbetales etterskuddsvis.
+
+Tiltaksdeltakeren og dennes arbeidsgiver må ha klarlagt mulig tilrettelegging og aktuelle hjelpemidler før behovet for funksjonsassistent vurderes. Arbeidsgiver skal om nødvendig innhente sakkyndig bistand til denne vurderingen.
+
+Tiltaksdeltakeren og dennes arbeidsgiver plikter å melde fra til Arbeids- og velferdsetaten dersom arbeidsforholdet til deltakeren opphører, eller behovet for funksjonsassistanse av andre grunner endres eller bortfaller.
+
+Det gis ikke tilskudd etter dette kapittelet hvis utgiftene dekkes gjennom andre tilskuddsordninger.
+
+Tilskuddet skal gis innenfor de vilkår som følger av det alminnelige gruppeunntaket jf.
+
+
+### Kapittel 7. Opplæring
+
+Opplæring skal bidra til at arbeidssøkere kvalifiseres til ledige jobber.
+
+Opplæring kan gis som
+
+- kortvarige kurs basert på behov i arbeidsmarkedet (arbeidsmarkedsopplæring). Arbeidsmarkedsopplæringen skal som hovedregel gi dokumentert kompetanse i form av offentlige prøvebevis, sertifikater o.l.
+- norskopplæring, kurs i grunnleggende ferdigheter eller forberedende opplæring for voksne (FOV),
+- fag fra utdanningsprogrammet studiespesialisering,
+- fag- og yrkesopplæring på videregående nivå, også der opplæringen gjennomføres i kombinasjon med opplæring etter bokstav b (kombinasjonsløp),
+- høyere yrkesfaglig utdanning,
+- høyere utdanning.
+Opplæring kan gis til personer med behov for kvalifisering.
+
+Opplæring etter
+
+Opplæring etter
+
+Opplæring etter
+
+Opplæring kan gis i inntil tre år. Varigheten skal tilpasses tiltaksdeltakerens individuelle behov.
+
+Tiltaksdeltakere som får opplæring etter
+
+Varigheten for opplæring etter
+
+Tilskudd til skolepenger, studiereiser som er nødvendig for at deltakeren skal kunne ta eksamen, semesteravgift og eksamensgebyr gis på grunnlag av de faktiske utgiftene, innenfor maksimalsatser som fastsettes av departementet. Det kan gjøres unntak fra maksimalsatsene dersom det er påkrevd for å gjennomføre nødvendig og hensiktsmessig tiltak.
+
+Tilskuddet kan også dekke nødvendige integrerte botilbud til deltakeren der tiltaket gjennomføres, innenfor de maksimalsatsene som er fastsatt etter første ledd.
+
+I den grad en anskaffelse av et kurs, opplæringsmoduler eller en enkelt opplæringsplass faller inn under virkeområdet for
+
+Før det anskaffes kurs eller opplæring etter
+
+Høyere utdanning etter
+
+Opplæringstiltak etter
+
+
+### Kapittel 8. Tilskudd til sommerjobb
+
+Arbeidsmarkedstiltaket sommerjobb skal bidra til at unge arbeidssøkere med behov for arbeidsrettet bistand kan få arbeidserfaring i form av en fire ukers sommerjobb.
+
+Tiltaksdeltakeren ansettes i en sommerjobb i en offentlig eller privat virksomhet, i midlertidig stilling på ordinære lønns- og arbeidsvilkår, og skal utføre ordinære arbeidsoppgaver. Arbeidsgiver mottar et tilskudd for inntil fire uker som skal kompensere for arbeidstakerens lavere produktivitet i denne perioden.
+
+Tilskudd kan gis til arbeidsgivere som ansetter personer under 30 år som har problemer med å få sommerjobb uten tilskudd fra Arbeids- og velferdsetaten.
+
+Arbeids- og velferdsetaten må ha gjennomført en behovs- eller arbeidsevnevurdering, jf.
+
+Sommerjobb har en varighet på inntil fire uker per tiltaksdeltaker.
+
+Tiltaket kan gjennomføres innenfor perioden fra og med 1. juni til og med 31. august. Arbeids- og velferdsetaten kan helt unntaksvis godkjenne sommerjobb utenfor denne perioden hvis det foreligger særlige grunner for dette og vurderes som hensiktsmessig for deltakeren.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, arbeidsgiveren og Arbeids- og velferdsetaten som angir tiltakets formål, tilskuddssats og varighet.
+
+Oppfølgingen fra Arbeids- og velferdsetaten skal tilpasses den enkelte tiltaksdeltakerens og virksomhetens behov.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Tilskudd til sommerjobb utbetales til arbeidsgiver og kan gis for inntil fire uker per tiltaksdeltaker.
+
+Tilskudd til sommerjobb gis i form av en fast prosentvis lønnsrefusjon, som utmåles på grunnlag av faktisk stillingsprosent. Refusjonsgrunnlaget består av utbetalt lønn, feriepenger, arbeidsgiveravgift av lønnen og feriepengene og innskudd til obligatorisk tjenestepensjon.
+
+Med lønn forstås timelønn for arbeid utført i normalarbeidstiden, samt lønnsmessige tillegg etter oppsatt tjenesteplan for stillingen. Arbeidsgivers overtidsbetaling og andre variable tillegg skal ikke med i refusjonsgrunnlaget.
+
+Tilskudd til sommerjobb dekker 50 prosent av refusjonsgrunnlaget for fire uker. For personer med nedsatt arbeidsevne dekker tilskuddet 75 prosent av refusjonsgrunnlaget for fire uker.
+
+Det gis ikke tilskudd til sommerjobb til virksomheter som har permitterte.
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf.
+
+
+### Kapittel 9. Midlertidig lønnstilskudd
+
+Midlertidig lønnstilskudd skal bidra til at tiltaksdeltakere kan bli fast ansatt i ordinære virksomheter, og hindre utstøting av personer som står i fare for å falle ut av arbeidslivet.
+
+Tiltaksdeltakeren ansettes i en offentlig eller privat virksomhet, i hel- eller deltidsstilling, og skal utføre ordinære arbeidsoppgaver. Lønnstilskuddet skal kompensere for arbeidstakerens lavere produktivitet i denne perioden.
+
+Midlertidig lønnstilskudd kan gis til arbeidsgivere som ansetter personer som har problemer med å komme inn på arbeidsmarkedet på ordinære lønns- og arbeidsvilkår.
+
+Lønnstilskudd kan også gis til arbeidsgivere som beholder arbeidstakere med nedsatt arbeidsevne som står i fare for å falle ut av arbeidslivet etter tolv måneder med full eller gradert sykmelding.
+
+Arbeids- og velferdsetaten må gjennomføre en behovs- eller arbeidsevnevurdering før lønnstilskudd kan innvilges. Det er kun personer som har fått vurdert at de har et bistandsbehov for å komme i, eller beholde en, jobb som kan få midlertidig lønnstilskudd.
+
+Varigheten på tilskuddet skal tilpasses tiltaksdeltakerens individuelle behov ut ifra dennes muligheter på arbeidsmarkedet.
+
+Lønnstilskudd kan gis i inntil ett år. For personer med nedsatt arbeidsevne kan det gis lønnstilskudd i inntil to år.
+
+Lønnstilskudd gis i form av en fast prosentvis lønnsrefusjon, som utmåles på grunnlag av faktisk stillingsprosent. Refusjonsgrunnlaget består av utbetalt lønn, feriepenger, arbeidsgiveravgift av lønnen og feriepengene og innskudd til obligatorisk tjenestepensjon.
+
+Med lønn forstås timelønn eller månedslønn for arbeid utført i normalarbeidstiden, samt lønnsmessige tillegg etter oppsatt tjenesteplan for stillingen. Arbeidsgivers overtidsbetaling og andre variable tillegg skal ikke med i refusjonsgrunnlaget.
+
+Lønnstilskuddet dekker 40 prosent av refusjonsgrunnlaget i inntil seks måneder, og deretter 30 prosent av refusjonsgrunnlaget. For personer med nedsatt arbeidsevne dekker lønnstilskuddet 60 prosent av refusjonsgrunnlaget i inntil tolv måneder, og deretter 50 prosent av refusjonsgrunnlaget.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, arbeidsgiveren og Arbeids- og velferdsetaten som angir tiltakets formål, tilskuddssats, varighet og eventuelt hvilken annen bistand som skal benyttes.
+
+Oppfølgingen fra Arbeids- og velferdsetaten skal tilpasses den enkelte tiltaksdeltakerens og virksomhetens behov. Det kan ved behov også gis oppfølgingsbistand gjennom andre arbeidsmarkedstiltak.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Dersom det er behov for en særlig utprøving av arbeidsevnen, kan arbeidstakeren tilsettes midlertidig i hele eller deler av tiltaksperioden, jf.
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf.
+
+
+### Kapittel 10. Varig lønnstilskudd
+
+Varig lønnstilskudd skal bidra til at tiltaksdeltakerne kan skaffe seg eller beholde ordinært arbeid, samt bidra til å motvirke overgang til uføretrygd.
+
+Tiltaksdeltakeren ansettes i en offentlig eller privat virksomhet, i hel- eller deltidsstilling, og skal utføre ordinære arbeidsoppgaver. Lønnstilskuddet skal kompensere for arbeidstakerens lavere produktivitet.
+
+Tilskuddet gis til arbeidsgivere som ansetter personer med varig og vesentlig nedsatt arbeidsevne på ordinære lønns- og arbeidsvilkår, med sikte på et varig arbeidsforhold.
+
+Tilskuddet kan unntaksvis gis til arbeidsgivere som har ansatte med varig og vesentlig nedsatt arbeidsevne som står i fare for å falle ut av arbeidslivet etter tolv måneder med full eller gradert sykmelding. For personer som har en sykdomstilstand hvor arbeidsevnen gradvis vil svekkes, og hvor sykemelding ikke er påkrevd fordi dette ikke vil anses å ha betydning for bedring av helsetilstanden, kan det gjøres unntak fra kravet om tolv måneders forutgående sykemelding. Det forutsettes at vilkåret i
+
+Det er et krav at arbeidstakeren har varig nedsatt arbeidsevne på grunn av helsemessige eller sosiale årsaker. Arbeidstakeren kan være innvilget gradert eller full uføretrygd.
+
+Arbeids- og velferdsetaten skal ha gjennomført en arbeidsevnevurdering før varig lønnstilskudd innvilges, hvor det skal være fastslått at tiltaksdeltakeren har varig nedsatt arbeidsevne og har behov for et varig tiltak, og hvor alternativet kan være overgang til uføretrygd.
+
+Tidsbegrensede tiltak, som midlertidig lønnstilskudd, og andre virkemidler skal være prøvd eller vurdert før varig lønnstilskudd kan innvilges.
+
+Når tilskuddet gis for en arbeidstaker som allerede er ansatt i virksomheten, skal arbeidsgivers plikt til tilrettelegging etter
+
+Opprettelse av arbeidsplasser med lønnstilskudd drøftes med tillitsvalgte i virksomheten der dette er mulig.
+
+Lønnstilskudd gis i form av en prosentvis lønnsrefusjon.
+
+Refusjonsgrunnlaget består av utbetalt lønn, feriepenger, arbeidsgiveravgift av lønnen og feriepengene og innskudd til obligatorisk tjenestepensjon.
+
+Med lønn forstås timelønn eller månedslønn for arbeid utført i normalarbeidstiden, samt lønnsmessige tillegg etter oppsatt tjenesteplan for stillingen. Arbeidsgivers overtidsbetaling og variable tillegg skal ikke med i refusjonsgrunnlaget.
+
+Ved vurdering av tilskuddets størrelse skal det legges vekt på arbeidstakerens arbeidsevne. Tilskuddet utmåles på grunnlag av faktisk stillingsandel.
+
+Varig lønnstilskudd kan maksimalt utgjøre 75 prosent av refusjonsgrunnlaget det første året, og 67 prosent av refusjonsgrunnlaget de påfølgende årene. Refusjonen kan ikke overstige fem ganger grunnbeløpet i folketrygden per år.
+
+Tilskuddet skal vurderes minst hvert halvår av Arbeids- og velferdsetaten i samarbeid med virksomheten. Ved bedring i arbeidsevnen eller når andre tiltak vurderes som mer hensiktsmessige, skal tilskuddet reduseres eller falle bort.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, arbeidsgiveren og Arbeids- og velferdsetaten som angir ansettelsesforhold, oppfølgingsbehov, tilskuddssats, varighet og eventuelt hvilken annen bistand som skal benyttes.
+
+Oppfølgingen fra Arbeids- og velferdsetaten skal tilpasses den enkelte tiltaksdeltakerens og virksomhetens behov. Det kan ved behov også gis oppfølgingsbistand gjennom andre arbeidsmarkedstiltak.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Dersom det er behov for en særlig utprøving av arbeidsevnen, kan arbeidstakeren tilsettes midlertidig i inntil ett år, jf.
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf.
+
+
+### Kapittel 11. Inkluderingstilskudd
+
+Inkluderingstilskuddet skal kompensere for tilleggskostnader virksomheter i ordinært arbeidsliv har i forbindelse med tilrettelegging av en arbeidsplass for personer med behov for arbeidsrettet bistand fra Arbeids- og velferdsetaten.
+
+Inkluderingstilskuddet kan gis til virksomheter som tilbyr en arbeidsplass til tiltaksdeltakere på følgende tiltak:
+
+- avklaring, jf.
+- arbeidstrening, jf.
+- oppfølging, jf.
+- mentor, jf.
+- kortvarig arbeidsrettede kurs (arbeidsmarkedskurs), jf.
+- funksjonsassistanse, jf.
+- tilskudd til sommerjobb, jf.
+- midlertidig lønnstilskudd, jf.
+- varig lønnstilskudd, jf.
+- arbeidsrettet rehabilitering, jf.
+- arbeidsforberedende trening jf.
+- varig tilrettelagt arbeid i ordinært arbeidsliv eller ved hospitering i ordinær virksomhet, jf.
+Tilskuddet kan også gis til virksomheter som ansetter personer som har et særskilt tilretteleggingsbehov i den konkrete jobben.
+
+Tilskuddet kan også gis til virksomheter som inngår i forskriftsfestede forsøk i ordinært arbeidsliv i regi av Arbeids- og velferdsetaten.
+
+Tilskuddet dekker bare utgifter som kommer i tillegg til de utgifter som virksomheten normalt vil ha i forbindelse med ansettelser.
+
+Tilskuddet kan dekke tilleggsutgifter knyttet til
+
+- nødvendig vurdering av personens funksjonsevne eller tilretteleggingsbehov på den konkrete arbeidsplassen,
+- opprettelse av ekstra tiltaksplass, for eksempel kontormøbler,
+- personlig utstyr som arbeidstøy, vernesko, databriller o.l. knyttet til arbeidet,
+- nødvendige gjenstander og arbeidshjelpemidler personen trenger for å utføre arbeidet og tilpasninger som ikke kan dekkes etter
+- merkostnader til å kjøpe og installere programvare som skal brukes av personen, herunder teknologisk utstyr eller teknologiske hjelpemidler,
+- nødvendige merutgifter til forsikring, lisenser, sertifisering o.l. knyttet til arbeidet, og
+- ekstern opplæring for å kunne utføre arbeidet i virksomheten.
+Tilskudd kan ikke gis dersom de samme utgiftene dekkes i forbindelse med deltakelse i tiltak som nevnt i
+
+Tilskuddet for den enkelte personen skal dekke virksomhetens faktiske dokumenterte utgifter opp til en maksimalsats fastsatt av departementet.
+
+Det gis ikke tilskudd etter dette kapittelet hvis utgiftene dekkes gjennom andre tilskuddsordninger.
+
+Det skal inngås en avtale mellom tiltaksdeltakeren, tiltaksarrangøren og Arbeids- og velferdsetaten som avklarer hvilke kostnader tilskuddet skal dekke og eventuelt hvilken annen bistand som skal benyttes.
+
+Oppfølgingen fra Arbeids- og velferdsetaten skal tilpasses den enkelte tiltaksdeltakerens og virksomhetens behov.
+
+Det skal opprettes et kontaktpunkt i Arbeids- og velferdsetaten og på arbeidsplassen hvor avtalepartene kan henvende seg.
+
+Tilskuddet skal gis innenfor de vilkår som følger av gruppeunntaket for tjenester av allmenn økonomisk betydning, jf.
+
+
+### Kapittel 12. Arbeidsrettet rehabilitering
+
+Arbeidsrettet rehabilitering skal bidra til å styrke tiltaksdeltakerens arbeidsevne og bidra til mestring av helserelaterte og sosiale problemer som kan være til hinder for deltakelse i arbeidslivet.
+
+Arbeidsrettet rehabilitering kan inneholde arbeidsforberedende trening, arbeidsutprøving, kontakt med arbeidslivet, generell opptrening, funksjonsfremmende trening, opplæring, motivasjon, trening i sosial mestring, livsstilsveiledning eller en kombinasjon av disse elementene.
+
+Arbeidsrettet rehabilitering kan tilbys sykmeldte arbeidstakere og personer som har fått sin arbeidsevne nedsatt slik at vedkommende hindres i å skaffe seg eller beholde inntektsgivende arbeid.
+
+Varigheten skal tilpasses tiltaksdeltakerens individuelle behov. Arbeidsrettet rehabilitering kan vare i inntil tolv uker.
+
+En tiltaksarrangør skal i samråd med tiltaksdeltakere med arbeidsforhold ha kontakt med arbeidsgiveren for å sikre at tiltaket blir best mulig tilpasset.
+
+Tiltaksarrangøren skal, senest når arbeidsrettet rehabilitering avsluttes, gi en skriftlig rapport over gjennomføringen av tiltaket og gjøre rede for resultatet av rehabiliteringstiltaket.
+
+Anskaffelse av arbeidsrettet rehabilitering skal skje i overensstemmelse med regelverk fastsatt i eller i medhold av lov om offentlige anskaffelser.
+
+
+### Kapittel 13. Arbeidsforberedende trening
+
+Arbeidsforberedende trening skal bidra til å prøve ut den enkeltes arbeidsevne og til å styrke mulighetene for å få og beholde ordinært arbeid.
+
+Arbeidsforberedende trening skal gi arbeidsutprøving og kvalifisering i tilrettelagt arbeidsmiljø og i ordinært arbeidsliv.
+
+Arbeidsforberedende trening kan inneholde:
+
+- kartlegging av ressurser og karriereveiledning,
+- utprøving av arbeidsevne og arbeidstrening i et tilrettelagt arbeidsmiljø,
+- individuelt tilpasset opplæring og utdanning som gir formell kompetanse eller med sikte på å oppnå formell kompetanse,
+- bistand til å finne passende arbeidstrening i ordinære virksomheter med sikte på ansettelse i ordinært arbeidsliv,
+- oppfølging under arbeidstrening i ordinært arbeidsliv og etter ansettelse, og
+- oppfølging av tiltaksdeltakere som inngår lærekontrakt eller opplæringskontrakt i ordinært arbeidsliv
+Tiltaksarrangøren skal utarbeide en plan for den enkelte deltaker. Planen skal blant annet inneholde en beskrivelse av deltakers målsettinger og aktiviteter for å nå disse, samt en beskrivelse av hvilken oppfølging og tilrettelegging deltaker har behov for. Planen skal endres ved behov.
+
+For å sikre framdrift i tiltaket skal Arbeids- og velferdsetaten vurdere status og progresjon for den enkelte deltaker hver tredje måned.
+
+Ved avslutning av tiltaket skal tiltaksarrangør utarbeide en sluttrapport som blant annet skal inneholde en beskrivelse av tiltaksløpet og deltakers ressurser og muligheter på arbeidsmarkedet ved endt tiltak.
+
+Arbeidsforberedende trening kan tilbys personer med sammensatte bistandsbehov som har fått sin arbeidsevne nedsatt og som har særlig usikre yrkesmessige forutsetninger.
+
+Varigheten skal tilpasses tiltaksdeltakerens individuelle behov.
+
+Tiltaket kan vare i inntil ett år, med mulighet for forlengelse i ytterligere ett år. Tiltaksdeltakere som gjennomfører opplæring og utdanning som gir formell kompetanse eller med sikte på formell kompetanse, kan få forlenget varigheten med ytterligere ett år.
+
+Arbeids- og velferdsetaten fastsetter varighet for oppfølging etter ansettelse.
+
+Tiltaksdeltakerne skal ikke være ansatt i virksomheten som arrangerer arbeidsforberedende trening etter
+
+Virksomheten skal være organisert som et aksjeselskap med kommunal/fylkeskommunal aksjemajoritet. Arbeids- og velferdsetaten kan godta annen organisering dersom det anses hensiktsmessig ut fra hensynet til gjennomføringen av tiltaket i det enkelte tilfellet.
+
+For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:
+
+- virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområde,
+- overskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,
+- det skal ikke utbetales utbytte, og
+- virksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
+Arbeids- og velferdsetaten kan etter en konkret vurdering godkjenne at virksomheten i tillegg til arbeidsforberedende trening og/eller varig tilrettelagt arbeid etter bokstav a, driver andre virksomhetsområder med lignende innhold for samme målgruppe.
+
+Ideelle organisasjoner som har som sitt virksomhetsområde å drive sosiale aktiviteter for vanskeligstilte personer, kan godkjennes som tiltaksarrangør. Vilkårene i annet ledd bokstav b til d gjelder tilsvarende for disse.
+
+Tiltaksarrangør mottar statlig tilskudd. Tilskuddet utgjør en fast, månedlig sats per godkjent tiltaksplass. Satsen fastsettes av departementet.
+
+Tilskuddssatsen kan reduseres ved deltakelse på deltid. Arbeids- og velferdsdirektoratet fastsetter reduserte satser.
+
+Tilskuddet utbetales etterskuddsvis på bakgrunn av faktisk benyttede tiltaksplasser.
+
+Det kan gis tilskudd til dekning av utgifter til bygging, installering eller utvidelse av virksomheten ved opprettelse av nye tiltaksplasser innen arbeidsforberedende trening.
+
+Tilskudd gis på grunnlag av faktiske utgifter inntil fastsatt maksimalsats, og utbetales inntil seks måneder før oppstart eller utvidelsen av tiltaket.
+
+
+### Kapittel 14. Varig tilrettelagt arbeid
+
+Varig tilrettelagt arbeid skal gi tiltaksdeltakeren arbeid som bidrar til å utvikle ressurser hos tiltaksdeltakeren gjennom kvalifisering og tilrettelagte arbeidsoppgaver.
+
+Varig tilrettelagt arbeid skal tilby personer arbeid i en virksomhet som oppfyller kravene i
+
+Tiltaket er rettet mot personer som mottar eller i nær fremtid ventes å få innvilget uføretrygd etter folketrygdloven, og som har behov for spesiell tilrettelegging og tett oppfølging. Andre arbeidsmarkedstiltak skal være vurdert og funnet å være uaktuelle.
+
+Tiltaket er ikke tidsbegrenset. Det skal likevel jevnlig vurderes om det kan være aktuelt med overføring til andre arbeidsmarkedstiltak, utdanning eller formidling til ordinært arbeid.
+
+Virksomheten skal være organisert som et aksjeselskap med kommunal/fylkeskommunal aksjemajoritet. Arbeids- og velferdsetaten kan godta annen organisering dersom det anses hensiktsmessig ut fra hensynet til gjennomføringen av tiltaket i det enkelte tilfellet.
+
+For å bli godkjent som tiltaksarrangør må virksomheten i tillegg oppfylle følgende krav:
+
+- virksomheten skal ha arbeidsforberedende trening og/eller varig tilrettelagt arbeid som sitt virksomhetsområde
+- overskudd skal forbli i virksomheten og komme arbeidsinkluderingsarbeidet og deltakerne til gode,
+- det skal ikke utbetales utbytte, og
+- virksomheten kan ikke eie eller kontrollere annen forretningsvirksomhet. Begrensningen gjelder ikke etablering og drift av salgsvirksomhet for å fremme omsetning av bedriftens produkter.
+Arbeids- og velferdsetaten kan etter en konkret vurdering godkjenne at virksomheten i tillegg til arbeidsforberedende trening og/eller varig tilrettelagt arbeid etter bokstav a, driver andre virksomhetsområder med lignende innhold for samme målgruppe.
+
+Ideelle organisasjoner som har som sitt virksomhetsområde å drive sosiale aktiviteter for vanskeligstilte personer, kan godkjennes som tiltaksarrangør. Vilkårene i annet ledd bokstav b til d gjelder tilsvarende for disse.
+
+Virksomheten kan være tiltaksarrangør for andre tiltak enn varig tilrettelagt arbeid.
+
+Virksomheten kan tilby arbeidsmarkedstjenester til andre enn Arbeids- og velferdsetaten, dersom dette ikke går ut over de tjenestene bedriften er forpliktet til å levere til Arbeids- og velferdsetaten.
+
+Tiltaksdeltakeren skal være fast ansatt i virksomheten.
+
+Arbeidstakeren mottar uførepensjon, og det er derfor ikke krav til at det skal utbetales lønn. Dette er likevel ikke til hinder for at det i en tariffavtale, arbeidsavtalen eller annen avtale kan avtales at det skal utbetales en bonuslønn.
+
+Tiltaksarrangør mottar statlig tilskudd. Tilskuddet utgjør en fast, månedlig sats per godkjent tiltaksplass. Satsen fastsettes av departementet.
+
+Tiltaksarrangøren mottar i tillegg kommunalt tilskudd som skal utgjøre minst 25 prosent av det statlige tilskuddet. Tilskuddet betales av deltakerens bostedskommune i henhold til
+
+Arbeids- og velferdsetaten godkjenner hva som regnes som landsdekkende tilbud.
+
+Det kan gis tilskudd til dekning av utgifter til bygging, installering eller utvidelse av virksomheten ved opprettelse av nye tiltaksplasser innen varig tilrettelagt arbeid i forhåndsgodkjent virksomhet. Tilskudd gis på grunnlag av faktiske utgifter inntil fastsatt maksimalsats, og utbetales inntil seks måneder før oppstart eller utvidelsen av tiltaket.
+
+Tiltaksdeltakere i forhåndsgodkjent virksomhet, jf.
+
+Hospiteringen kan utgjøre 50 prosent eller mindre av tiltaksdeltakerens samlede avtalte arbeidstid i løpet av en åtteukersperiode. Det kan gjøres unntak fra tidsbegrensningen etter første punktum for en periode på inntil seks måneder i forbindelse med en vurdering av om tiltaksdeltaker skal gis fast ansettelse i hospiteringsvirksomheten.
+
+I hospiteringsperioden skal tiltaksdeltakeren fortsatt være ansatt i den forhåndsgodkjente virksomheten. Den forhåndsgodkjente virksomheten beholder full tilskuddssats og har ansvar for oppfølging av og tilrettelegging for tiltaksdeltakeren under hospiteringsoppholdet.
+
+Det skal inngås en skriftlig avtale om hospitering mellom den forhåndsgodkjente virksomheten, hospiteringsvirksomheten og tiltaksdeltakeren. Avtalen skal inngås før hospiteringsoppholdet starter. NAV-kontoret skal informeres om innholdet i avtalen før inngåelse.
+
+Avtalen skal inneholde opplysninger om forhold av vesentlig betydning for hospiteringsoppholdet, herunder:
+
+- om hospiteringsperioden skal være løpende eller ha tidsbegrensning,
+- en beskrivelse av tiltaksdeltakerens arbeid i hospiteringsvirksomheten,
+- arbeidstid og pauser i hospiteringsvirksomheten,
+- eventuell bonuslønn, jf.
+- hospiteringsvirksomhetens tilretteleggings- og opplæringsansvar,
+- omfanget av den forhåndsgodkjente virksomhetens oppfølgingsansvar,
+- instruksjonsmyndighet,
+- HMS-ansvar,
+- forsikringsordning,
+- partenes oppsigelsesadgang og -frister, og
+- tidspunkt for revidering av avtalen.
+
+### Kapittel 14A. Varig tilrettelagt arbeid i ordinær virksomhet
+
+
+### Kapittel 15. Ikrafttredelse og overgangsregler
+
+Denne forskriften trer i kraft 1. januar 2016.
+
+Fra samme tidspunkt oppheves
+
+Avtaler om arbeidstrening jf. kapittel 4 i
+
+Dersom det i konkrete tilfeller er aktuelt å forlenge tiltaksperioden, gjelder bestemmelsene som følger av kapittel 3 i denne forskriften.
+
+Tiltaksarrangører som før 1. januar 2016 har inngått avtale med Arbeids- og velferdsetaten om tilrettelagt arbeid i arbeidsmarkedsbedrifter, jf.
+
+Avtaler om lønnstilskudd etter
+
+Arrangører av tiltak som er nevnt i § 15-2 og § 15-3, som før 1. januar 2016 har fått innvilget tilskudd til teknisk tilrettelegging etter reglene i kapittel 12B i
+
+Arrangører av tiltak som er nevnt i § 15-6, som før 1. oktober 2016 har fått innvilget tilskudd til teknisk tilrettelegging etter reglene i kapittel 12B i
+
+Tilretteleggingstilskudd etter
+
+Tiltaksarrangører som før 1. oktober 2016 har inngått avtale med Arbeids- og velferdsetaten om kvalifisering i arbeidsmarkedsbedrifter, jf. kapittel 10 i
+
+Tiltaksarrangører som før 1. oktober 2016 har inngått avtale med Arbeids- og velferdsetaten om arbeidspraksis i skjermet virksomhet, jf. forskrift
+
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/forskrift-om-arbeidsrettede-tiltak-kap.1-fellesbestemmelser) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-06-18** Første gang hentet
