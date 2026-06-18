@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5fa8930a4dd42886e8aaae7975b71f0b605e917d98bc2b656d22e6ea4b5153a2 -->
+<!-- innholds-hash: 1ff3d079ffe066094cb643d2e859fb8798b8bf386863b39f197dc2414987a44a -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:43Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200342
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408383+0200)/",
+  "respons_dato_tid": "/Date(1781799014971+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408383+0200)/",
+      "respons_dato_tid": "/Date(1781799014971+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -34,7 +34,7 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781755408383+0200)/",
+      "respons_dato_tid": "/Date(1781799014971+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
@@ -59,7 +59,7 @@
       "id": "MMIKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781755408383+0200)/",
+      "respons_dato_tid": "/Date(1781799014971+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -84,7 +84,7 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -147,4 +147,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

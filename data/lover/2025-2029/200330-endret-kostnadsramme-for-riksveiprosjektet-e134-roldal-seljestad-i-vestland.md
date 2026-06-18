@@ -1,4 +1,4 @@
-<!-- innholds-hash: 961e2100c4da26219b05a5a204a63023ee807ffebf95af9161d567e760624ea0 -->
+<!-- innholds-hash: 2306d0ce896216f7c339da8626bfac4acc8f255f926d3d3acdab037b007cd299 -->
 
 # Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
 
@@ -8,28 +8,38 @@
 - **Sak-ID:** 200330
 - **Type:** 2
 - **Korttittel:** Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200330
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
+  "respons_dato_tid": "/Date(1781799014955+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
+      "versjon": "1.6",
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 189,
+      "navn": "Vegvesen",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 99 S (2025-2026)",
+  "henvisning": "Prop. 99 S (2025-2026), Innst. 453 S (2025-2026)",
   "id": 200330,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17535,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -38,7 +48,7 @@
   "sak_fremmet_id": 200330,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -47,14 +57,14 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -63,8 +73,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1780264800000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
+  "status": 1,
   "tittel": "Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland",
   "type": 2
 }
@@ -82,3 +92,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

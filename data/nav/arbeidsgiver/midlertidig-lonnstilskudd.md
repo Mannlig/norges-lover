@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7084af6af706457186cd5a36132b8452c5ab735f84dc74063a9b068b86218955 -->
+<!-- innholds-hash: 7c6533acfa1e62b9337f97824f618f9b3aa5ca6c6476688a0f2d82cc1ed4c49b -->
 
 # Midlertidig lønnstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/midlertidig-lonnstilskudd
-- **Sist hentet:** 2026-06-11T07:56:54Z
+- **Sist hentet:** 2026-06-18T21:13:40Z
 
 ## Innhold
 
@@ -107,7 +107,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -131,3 +131,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

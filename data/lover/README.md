@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-18 14:13 UTC*
+*Sist oppdatert: 2026-06-18 22:36 UTC*
 
-**Antall dokumenter:** 424
+**Antall dokumenter:** 438
 
 ## Innhold
 
@@ -118,6 +118,7 @@ Stortinget
 - [Totalforsvaret i sikkerhetspolitisk krise og krig](2025-2029/103597-totalforsvaret-i-sikkerhetspolitisk-krise-og-krig.md)
 - [Status, fremdrift, utfordringer og risiko i gjennomføring av langtidsplanen for forsvarssektoren 2025-2036](2025-2029/103871-status-fremdrift-utfordringer-og-risiko-i-gjennomforing-av-langtidsplanen-for-forsvarssektoren-2025-.md)
 - [Endringer i straffeloven (selvstendig inndragning m.m.)](2025-2029/105846-endringer-i-straffeloven-selvstendig-inndragning-mm.md)
+- [Riksrevisjonens undersøkelse av ressursbruk og effektivitet i Politiets sikkerhetstjeneste (PST)](2025-2029/105899-riksrevisjonens-undersokelse-av-ressursbruk-og-effektivitet-i-politiets-sikkerhetstjeneste-pst.md)
 - [Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)](2025-2029/105929-endringer-i-foretakspensjonsloven-og-forsikringsvirksomhetsloven-forvaltning-av-garanterte-pensjonsp.md)
 - [Riksrevisjonen reviderer statens eierstyring av Telenor ASA i forbindelse med selskapets virksomhet i Myanmar](2025-2029/106005-riksrevisjonen-reviderer-statens-eierstyring-av-telenor-asa-i-forbindelse-med-selskapets-virksomhet-.md)
 - [Redegjørelse av kultur- og likestillingsministeren om status i arbeidet med å fremme likestilling og mangfold i alle sektorer](2025-2029/106024-redegjorelse-av-kultur-og-likestillingsministeren-om-status-i-arbeidet-med-a-fremme-likestilling-og-.md)
@@ -140,6 +141,7 @@ Stortinget
 - [Innstilling fra valgkomiteen om endringer i de faste komiteers sammensetning](2025-2029/108584-innstilling-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](2025-2029/108673-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
 - [Lov for den uavhengige granskingskommisjonen for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene](2025-2029/109096-lov-for-den-uavhengige-granskingskommisjonen-for-a-undersoke-forhold-som-har-blitt-aktualisert-gjenn.md)
+- [Godtgjøring for stortingsrepresentanter og regjeringsmedlemmer](2025-2029/109130-godtgjoring-for-stortingsrepresentanter-og-regjeringsmedlemmer.md)
 - [Representantforslag fra stortingsrepresentantene Seher Aydar og Mímir Kristjánsson om å redde sykehusdriften i Egersund](2025-2029/200005-representantforslag-fra-stortingsrepresentantene-seher-aydar-og-mímir-kristjánsson-om-a-redde-sykehu.md)
 - [Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Georg Gulli og Jonas Andersen Sayed om et nasjonalt røykesluttprogram - uten kostnad for staten](2025-2029/200006-representantforslag-fra-stortingsrepresentantene-ida-lindtveit-rose-georg-gulli-og-jonas-andersen-sa.md)
 - [Representantforslag fra stortingsrepresentantene Henrik Asheim og Ola Svenneby om lavere og mer forutsigbar skatt på folks bolig](2025-2029/200007-representantforslag-fra-stortingsrepresentantene-henrik-asheim-og-ola-svenneby-om-lavere-og-mer-foru.md)
@@ -178,6 +180,7 @@ Stortinget
 - [Endringer i politiloven og tvangsfullbyrdelsesloven m.m. (kjønnsnøytrale betegnelser)](2025-2029/200047-endringer-i-politiloven-og-tvangsfullbyrdelsesloven-mm-kjonnsnoytrale-betegnelser.md)
 - [Representantforslag fra stortingsrepresentantene Sofie Marhaug, Hanne Beate Stenvaag, Geir Jørgensen og Hege Bae Nyholt om å styrke vernet av samisk kultur- og næringsutøvelse](2025-2029/200049-representantforslag-fra-stortingsrepresentantene-sofie-marhaug-hanne-beate-stenvaag-geir-jorgensen-o.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Sylvi Listhaug, Helge André Njåstad, Bjørn Larsen og Rune Midtun om innstramminger for nye statsborgerskap](2025-2029/200050-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-sylvi-listhaug-helge-andré-njastad-bj.md)
+- [Representantforslag fra stortingsrepresentantene Arild Hermstad og Julie E. Stuestøl om endrede kriterier for valg av medlemmer til Den norske Nobelkomité](2025-2029/200051-representantforslag-fra-stortingsrepresentantene-arild-hermstad-og-julie-e-stuestol-om-endrede-krite.md)
 - [Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum, Bjørn Arild Gram, og Bent-Joacim Bentzen  om Svalbard](2025-2029/200053-representantforslag-fra-stortingsrepresentantene-geir-pollestad-trygve-slagsvold-vedum-bjorn-arild-g.md)
 - [Representantforslag frå stortingsrepresentantane Sylvi Listhaug, Frank Edvard Sve, Joakim Myklebost Tangen, Monica Molvær og Harry Valderhaug om redusert bompengebelastning på Nordøyvegen](2025-2029/200054-representantforslag-fra-stortingsrepresentantane-sylvi-listhaug-frank-edvard-sve-joakim-myklebost-ta.md)
 - [Representantforslag fra stortingsrepresentantene Marian Hussein, Marie Sneve Martinussen og Alf Erik Andersen om åpenhet og rettferdighet for ofrene i trygdeskandalen](2025-2029/200055-representantforslag-fra-stortingsrepresentantene-marian-hussein-marie-sneve-martinussen-og-alf-erik-.md)
@@ -194,6 +197,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Bengt Fasteraune og Bent-Joacim Bentzen om bedre integrering av familieinnvandrere](2025-2029/200067-representantforslag-fra-stortingsrepresentantene-bengt-fasteraune-og-bent-joacim-bentzen-om-bedre-in.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Bjørn Larsen, Rune Midtun, Helge André Njåstad og Tom Staahle om innstramminger i familieinnvandringspolitikken](2025-2029/200068-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-bjorn-larsen-rune-midtun-helge-andré-.md)
 - [Representantforslag fra stortingsrepresentantene Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Jon Engen-Helgheim om mer effektiv kamp mot organisert bedrageri og registerkriminalitet](2025-2029/200069-representantforslag-fra-stortingsrepresentantene-stian-storbukas-finn-krokeide-anette-carnarius-else.md)
+- [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen og Hege Bae Nyholt om en ny makt- og demokratiutredning](2025-2029/200070-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-og-hege-bae-nyholt-om-en-ny.md)
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Geir Pollestad om et statlig mineralselskap](2025-2029/200071-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-bent-joacim-bentzen-og-geir-.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Larsen, Margret Hagerup, Kari Sofie Bjørnsen, Monica Molvær, Haagen Poppe, Ove Trellevik og Bård Ludvig Thorheim om økt produksjon og eksport av norsk lokalmat og drikke](2025-2029/200072-representantforslag-fra-stortingsrepresentantene-erlend-larsen-margret-hagerup-kari-sofie-bjornsen-m.md)
 - [Rapport fra utvalget til å vurdere Riksrevisjonens internasjonale bistandsvirksomhet](2025-2029/200073-rapport-fra-utvalget-til-a-vurdere-riksrevisjonens-internasjonale-bistandsvirksomhet.md)
@@ -221,6 +225,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om å stimulere til økt bruk av samkjøring for å nå nullvekstmålet](2025-2029/200097-representantforslag-fra-stortingsrepresentantene-grunde-almeland-guri-melby-og-abid-raja-om-a-stimul.md)
 - [Representantforslag fra stortingsrepresentantene Margret Hagerup, Tage Pettersen, Mari Holm Lønseth og Tone Wilhelmsen Trøen om å sikre forutsigbar finansiering for krisesenterbygg](2025-2029/200098-representantforslag-fra-stortingsrepresentantene-margret-hagerup-tage-pettersen-mari-holm-lonseth-og.md)
 - [Representantforslag fra stortingsrepresentant Lars Haltbrekken om ny modell for utjevning av nettleie](2025-2029/200099-representantforslag-fra-stortingsrepresentant-lars-haltbrekken-om-ny-modell-for-utjevning-av-nettlei.md)
+- [EOS-utvalgets årsmelding 2025](2025-2029/200100-eos-utvalgets-arsmelding-2025.md)
 - [Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Per-Willy Amundsen og Bård Hoksrud om å sette i gang et forprosjekt for ny innfartsveg til Tromsø](2025-2029/200101-representantforslag-fra-stortingsrepresentantene-kristian-august-eilertsen-per-willy-amundsen-og-bar.md)
 - [Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Julie E. Stuestøl, Marius Langballe Dalin og Une Bastholm om en tryggere og mer dyrevennlig nyttårsfeiring](2025-2029/200102-representantforslag-fra-stortingsrepresentantene-froya-skjold-sjursaether-julie-e-stuestol-marius-la.md)
 - [Representantforslag fra stortingsrepresentantene Morten Stordalen, Rikard Spets, Pål Morten Borgli, Sylvi Listhaug, Kristoffer Sivertsen, Kristian August Eilertsen, Bjørn Larsen og Tor Mikkel Wara om det neste oljeeventyret på norsk sokkel](2025-2029/200103-representantforslag-fra-stortingsrepresentantene-morten-stordalen-rikard-spets-pal-morten-borgli-syl.md)
@@ -232,6 +237,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Morten Wold, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik og Mats Henriksen om bostedsfritak for bompenger på Sollihøgda](2025-2029/200109-representantforslag-fra-stortingsrepresentantene-hans-andreas-limi-morten-wold-bard-hoksrud-dagfinn-.md)
 - [Representantforslag fra stortingsrepresentantene Liv Gustavsen, Tom Staahle, Aina Stenersen og Anne Grethe Hauan om etablering av psykiatrisk ambulansetjeneste på det sentrale Østlandet](2025-2029/200110-representantforslag-fra-stortingsrepresentantene-liv-gustavsen-tom-staahle-aina-stenersen-og-anne-gr.md)
 - [Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Erling Sande om å sikre mobildekning på alle offentlige veier](2025-2029/200111-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-bent-joacim-bentzen-og-erling-sande-.md)
+- [Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Hans Edvard Askjer og Joel Ystebø om å innføre en verifiserbar 18-årsgrense for porno på nettet](2025-2029/200112-representantforslag-fra-stortingsrepresentantene-jorunn-gleditsch-lossius-hans-edvard-askjer-og-joel.md)
 - [Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum og Siv Sætran om mer norsk mat](2025-2029/200114-representantforslag-fra-stortingsrepresentantene-geir-pollestad-trygve-slagsvold-vedum-og-siv-saetra.md)
 - [Representantforslag fra stortingsrepresentantene Une Bastholm, Ingrid Liland og Frøya Skjold Sjursæther om å øke verdiskaping og gjenvinning i mineralnæringen](2025-2029/200115-representantforslag-fra-stortingsrepresentantene-une-bastholm-ingrid-liland-og-froya-skjold-sjursaet.md)
 - [Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Frøya Skjold Sjursæther og Une Bastholm om strengere straff for dyrekriminalitet](2025-2029/200116-representantforslag-fra-stortingsrepresentantene-julie-e-stuestol-froya-skjold-sjursaether-og-une-ba.md)
@@ -253,6 +259,7 @@ Stortinget
 - [Endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)](2025-2029/200136-endringer-i-bokforingsloven-og-enkelte-andre-lover-pa-finansmarkedsomradet-pliktig-digital-bokforing.md)
 - [Noregs fiskeriavtalar for 2026 og fisket etter avtalane i 2024 og 2025](2025-2029/200137-noregs-fiskeriavtalar-for-2026-og-fisket-etter-avtalane-i-2024-og-2025.md)
 - [Samtykke til ratifikasjon av frihandelsavtale mellom EFTA-statene og MERCOSUR av 16. september 2025](2025-2029/200138-samtykke-til-ratifikasjon-av-frihandelsavtale-mellom-efta-statene-og-mercosur-av-16-september-2025.md)
+- [Menneskerettighetene i Norge 2025 - NIMs årsmelding](2025-2029/200139-menneskerettighetene-i-norge-2025-nims-arsmelding.md)
 - [Representantforslag fra stortingsrepresentantene Kjersti Toppe, Bengt Fasteraune og Bent-Joacim Bentzen om et gratis og likeverdig kremasjonstilbud](2025-2029/200141-representantforslag-fra-stortingsrepresentantene-kjersti-toppe-bengt-fasteraune-og-bent-joacim-bentz.md)
 - [Representantforslag fra stortingsrepresentantene Geir Inge Lien, Geir Pollestad og Siv Sætran om kompensasjonsordning for bedrifter utan høve til omstilling](2025-2029/200143-representantforslag-fra-stortingsrepresentantene-geir-inge-lien-geir-pollestad-og-siv-saetran-om-kom.md)
 - [Representantforslag fra stortingsrepresentantene Seher Aydar og Marie Sneve Martinussen om å sikre pauserom for sykehusansatte](2025-2029/200145-representantforslag-fra-stortingsrepresentantene-seher-aydar-og-marie-sneve-martinussen-om-a-sikre-p.md)
@@ -278,6 +285,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Margit Bye og Ingrid Liland om å tilrettelegge for innføring av åpenhetsregister i norske kommuner](2025-2029/200167-representantforslag-fra-stortingsrepresentantene-julie-e-stuestol-margit-bye-og-ingrid-liland-om-a-t.md)
 - [Representantforslag fra stortingsrepresentantene Pål Morten Borgli, Kristoffer Sivertsen, Rune Midtun, May Helen Hetland Ervik, Sylvi Listhaug og Erlend Wiborg om omgjøring av parkeringsvedtak for IKEAs varehus på Forus](2025-2029/200168-representantforslag-fra-stortingsrepresentantene-pal-morten-borgli-kristoffer-sivertsen-rune-midtun-.md)
 - [Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører](2025-2029/200169-representantforslag-fra-stortingsrepresentantene-harry-valderhaug-ida-lindtveit-rose-og-jorunn-gledi.md)
+- [Melding for året 2025 fra Sivilombudet](2025-2029/200170-melding-for-aret-2025-fra-sivilombudet.md)
 - [Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen om bedre rammebetingelser for Nye Veier AS](2025-2029/200171-representantforslag-fra-stortingsrepresentantene-bard-hoksrud-dagfinn-henrik-olsen-frank-edvard-sve-.md)
 - [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om å sikre fullføring og kvalitet i videregående opplæring](2025-2029/200172-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-grunde-almeland-om-a-sikre-.md)
 - [Representantforslag fra stortingsrepresentantene Bjørn Larsen, Tor Mikkel Wara, Kristoffer Sivertsen, Rikard Spets og Morten Stordalen om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel](2025-2029/200173-representantforslag-fra-stortingsrepresentantene-bjorn-larsen-tor-mikkel-wara-kristoffer-sivertsen-r.md)
@@ -367,10 +375,12 @@ Stortinget
 - [Lov om særavgifter (særavgiftsloven)](2025-2029/200267-lov-om-saeravgifter-saeravgiftsloven.md)
 - [Endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)](2025-2029/200268-endringer-i-utlendingsloven-saksbehandlingsregler-for-kollektiv-beskyttelse.md)
 - [Rapport til Stortinget fra Norges Banks representantskap for 2025](2025-2029/200269-rapport-til-stortinget-fra-norges-banks-representantskap-for-2025.md)
+- [Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Lars Haltbrekken, Anne Lise Gjerstad Fredlund, Marthe Hammer og Mirell Høyer-Berntsen om kontroll av drivstoffkjedene og deres prissetting](2025-2029/200270-representantforslag-fra-stortingsrepresentantene-kirsti-bergsto-lars-haltbrekken-anne-lise-gjerstad-.md)
 - [Initiativdebatt om industripolitikk (initiativ fra næringskomiteen)](2025-2029/200272-initiativdebatt-om-industripolitikk-initiativ-fra-naeringskomiteen.md)
 - [Finansiering av vegprosjektet fv. 17 Ørnes-Glomfjord i Meløy kommune i Nordland fylke](2025-2029/200276-finansiering-av-vegprosjektet-fv-17-ornes-glomfjord-i-meloy-kommune-i-nordland-fylke.md)
 - [Samtykke til ratifikasjon av konvensjon om oppretting av ein internasjonal kravskommisjon for Ukraina og inngåing av avtale om deltaking i styringskomiteen for spesialtribunalet for Ukraina](2025-2029/200277-samtykke-til-ratifikasjon-av-konvensjon-om-oppretting-av-ein-internasjonal-kravskommisjon-for-ukrain.md)
 - [Midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)](2025-2029/200278-midlertidig-endring-av-alkoholloven-unntak-fra-maksimaltiden-for-skjenking-under-fotball-vm-for-herr.md)
+- [Riksrevisjonens undersøkelse av tjenester til barn og unge med psykiske plager og lidelser](2025-2029/200279-riksrevisjonens-undersokelse-av-tjenester-til-barn-og-unge-med-psykiske-plager-og-lidelser.md)
 - [Samtykke til inngåing av avtale mellom regjeringa i Kongeriket Noreg og regjeringa i Folkerepublikken Kina om leige av tomt til Den kongelege norske ambassaden i Kina](2025-2029/200287-samtykke-til-inngaing-av-avtale-mellom-regjeringa-i-kongeriket-noreg-og-regjeringa-i-folkerepublikke.md)
 - [Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon](2025-2029/200288-representantforslag-fra-stortingsrepresentantene-marthe-hammer-og-kirsti-bergsto-om-a-nedsette-en-fo.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](2025-2029/200290-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
@@ -435,6 +445,10 @@ Stortinget
 - [Rapport til Stortingets presidentskap fra Arbeidsgruppen til å vurdere hvordan Europautvalget skal innrettes for fremtiden](2025-2029/200355-rapport-til-stortingets-presidentskap-fra-arbeidsgruppen-til-a-vurdere-hvordan-europautvalget-skal-i.md)
 - [Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister](2025-2029/200356-representantforslag-fra-stortingsrepresentantene-margret-hagerup-mudassar-kapur-nina-dons-hansen-ama.md)
 - [Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart](2025-2029/200357-representantforslag-fra-stortingsrepresentantene-simen-velle-lill-harriet-sandaune-line-marlene-haug.md)
+- [Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner](2025-2029/200358-representantforslag-fra-stortingsrepresentantene-sebastian-saltro-ytrevik-alf-erik-andersen-julia-br.md)
+- [Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede](2025-2029/200359-representantforslag-fra-stortingsrepresentantene-grunde-almeland-ane-breivik-og-guri-melby-om-tiltak.md)
+- [Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus](2025-2029/200360-representantforslag-fra-stortingsrepresentantene-guri-melby-grunde-almeland-og-ane-breivik-om-a-styr.md)
+- [Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet.](2025-2029/200361-representantforslag-fra-stortingsrepresentantene-marian-hussein-mirell-hoyer-berntsen-anne-lise-gjer.md)
 
 ---
 

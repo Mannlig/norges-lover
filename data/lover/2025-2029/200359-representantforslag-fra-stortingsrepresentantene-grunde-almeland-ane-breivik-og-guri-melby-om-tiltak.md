@@ -1,0 +1,122 @@
+<!-- innholds-hash: d314ec129f5a97b435d556eb4bed062da25f788ca9df55c040b4bf2ecb1b3500 -->
+
+# Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
+
+## Metadata
+
+- **Kilde:** Stortingets åpne API – https://data.stortinget.no
+- **Sak-ID:** 200359
+- **Type:** 2
+- **Korttittel:** Representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede
+- **Status:** 3
+- **Stortingsperiode:** 2025-2029
+- **Behandlet:** 
+- **Sist hentet:** 2026-06-18T16:14:22Z
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
+
+## Rådata (JSON fra API)
+
+```json
+{
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
+  "versjon": "1.6",
+  "behandlet_sesjon_id": null,
+  "dokumentgruppe": 4,
+  "emne_liste": [],
+  "forslagstiller_liste": [
+    {
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Breivik",
+      "foedselsdato": "/Date(899416800000+0200)/",
+      "fornavn": "Ane",
+      "id": "ANEBRE",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Almeland",
+      "foedselsdato": "/Date(670201200000+0100)/",
+      "fornavn": "Grunde",
+      "id": "GKAL",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Melby",
+      "foedselsdato": "/Date(350002800000+0100)/",
+      "fornavn": "Guri",
+      "id": "GME",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "henvisning": "Dokument 8:308 S (2025–2026)",
+  "id": 200359,
+  "innstilling_id": -1,
+  "innstilling_kode": 0,
+  "komite": null,
+  "korttittel": "Representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
+  "sak_fremmet_id": 200359,
+  "saksordfoerer_liste": [],
+  "sist_oppdatert_dato": "/Date(1781733600000+0200)/",
+  "status": 3,
+  "tittel": "Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
+  "type": 2
+}
+```
+
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+
+## Endringshistorikk
+
+- **2026-06-18** Første gang hentet

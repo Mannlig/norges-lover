@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a3a7cdb033c57f6e8d092f9dda604018b047fe9371fb0d1fc041f6d5d76f268 -->
+<!-- innholds-hash: e3b0a8c27b257ac08e22a42cd7f699138d4ca17ac2d26982f28a6a7bcebae1ac -->
 
 # Endringer i sikkerhetsloven (organisering av klareringsmyndigheten)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:43Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200245
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799017330+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17466,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200245,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Farahmand",
@@ -47,7 +47,7 @@
       "id": "MAHF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -105,4 +105,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

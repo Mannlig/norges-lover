@@ -1,11 +1,11 @@
-<!-- innholds-hash: b3d4fdb39f5ede1b704cb6b8e7d696eddc2384ba38bc8ed5545d7c3cf550563a -->
+<!-- innholds-hash: c9f04a8219abf8daad12dd19892b622a4c10db9df1b35eceac707809414741f7 -->
 
 # Ansatt blir pensjonist - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/ansatt-blir-pensjonist
-- **Sist hentet:** 2026-06-11T08:16:06Z
+- **Sist hentet:** 2026-06-18T21:33:09Z
 
 ## Innhold
 
@@ -112,7 +112,7 @@ Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeids
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -124,3 +124,4 @@ Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeids
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

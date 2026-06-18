@@ -1,4 +1,4 @@
-<!-- innholds-hash: 737f5d2e9eb4480bb00b555b2b5096082bd4a83f7816ae7765ef6c793cb35cb5 -->
+<!-- innholds-hash: bc5e6b10b41f5c34d67c51b9b5a82732d3b5a13461cf89577de8cfb100b5d7f3 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe og Margret Hagerup om bedre tilgang til vaksiner og enklere gjennomføring av vaksinering
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:43Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200156
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799017330+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -53,7 +53,7 @@
       "id": "ERLBE1",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -78,7 +78,7 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -99,7 +99,7 @@
   "innstilling_id": 17510,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -108,7 +108,7 @@
   "sak_fremmet_id": 200156,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
@@ -117,7 +117,7 @@
       "id": "RAGBER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -175,4 +175,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

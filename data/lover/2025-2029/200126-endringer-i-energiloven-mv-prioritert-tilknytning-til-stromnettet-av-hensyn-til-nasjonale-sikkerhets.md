@@ -1,4 +1,4 @@
-<!-- innholds-hash: c3ae5a8f3cab988e9735e350e17c97ed616fead1503e27aa12f177e540ff5088 -->
+<!-- innholds-hash: d342ab1a52e2ca243042b20183e918aa3a91cd143e56d764b5dcf58f74a5f75a -->
 
 # Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200126
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799017330+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -57,7 +57,7 @@
   "innstilling_id": 17440,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200126,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799017330+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussaini",
@@ -75,7 +75,7 @@
       "id": "MHU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -133,4 +133,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

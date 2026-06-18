@@ -1,11 +1,11 @@
-<!-- innholds-hash: 031dd9fd9f546df2abc09e4851a6088d1acf9779bd64489eb5289aca914a64d1 -->
+<!-- innholds-hash: 85aeea7e51c427b9fdfc8b21f8711f59c1648946b31336711dfa2fddd66ffd66 -->
 
 # Har vansker med bevegelse og forflytning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bevegelse
-- **Sist hentet:** 2026-06-10T12:18:45Z
+- **Sist hentet:** 2026-06-18T20:32:04Z
 
 ## Innhold
 
@@ -94,7 +94,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -109,3 +109,4 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: a6abfd5aca486d47afc111265a70d47d351dcc9df07300d3fe13bc9851859555 -->
+<!-- innholds-hash: aa6e562e6923a95632400f7155229ab6f3ff92c2ad2910eaf863db7a3c52bc8b -->
 
 # Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200336
 - **Type:** 1
 - **Korttittel:** Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)
-- **Status:** 2
+- **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200336
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17538,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200336,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Alvær",
@@ -75,7 +75,7 @@
       "id": "KONALV",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -92,7 +92,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)",
   "type": 1
 }
@@ -129,4 +129,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

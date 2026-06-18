@@ -1,11 +1,11 @@
-<!-- innholds-hash: 645f272272215af2cb62bc82ae6016eefbf3ffd047a7877c75b534a8172f644d -->
+<!-- innholds-hash: 17dfbd62ed8660f281d4ff5ec1286583a1b518fd9cda4f18ed94aeab319fa80c -->
 
 # Briller til forebygging eller behandling av amblyopi - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/amblyopi
-- **Sist hentet:** 2026-06-11T08:23:05Z
+- **Sist hentet:** 2026-06-18T21:40:07Z
 
 ## Innhold
 
@@ -177,7 +177,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -189,3 +189,4 @@ Svartid er noen arbeidsdager.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

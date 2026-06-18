@@ -1,11 +1,11 @@
-<!-- innholds-hash: 858651ff18d164d3c889e2b53174ea5336394a9fa2e1335e37cf3732fc051ffb -->
+<!-- innholds-hash: 03e708e4f61951bd62b4212b728248aba5ac7c2a88f1046ee86211ed4a34d969 -->
 
 # Opphold i EØS eller Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opphold-i-eos
-- **Sist hentet:** 2026-06-10T11:46:05Z
+- **Sist hentet:** 2026-06-18T19:59:04Z
 
 ## Innhold
 
@@ -304,7 +304,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -314,7 +314,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -326,3 +326,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

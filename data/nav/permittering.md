@@ -1,11 +1,11 @@
-<!-- innholds-hash: 36a5cfed6d7b6d6d2f21c06979c9233bedf341cba83ced52a6f4a7ba373113c9 -->
+<!-- innholds-hash: 9028c49b56d75aa065093336a367eab1a274dbb9578da65fb893eddab24ec651 -->
 
 # Permittere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/permittering
-- **Sist hentet:** 2026-06-11T08:05:46Z
+- **Sist hentet:** 2026-06-18T21:22:37Z
 
 ## Innhold
 
@@ -224,7 +224,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -248,3 +248,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

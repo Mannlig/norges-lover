@@ -1,4 +1,4 @@
-<!-- innholds-hash: ca5c7d7f9acf9904ff128335c488058908359208ca64616b006acd0a80f403f5 -->
+<!-- innholds-hash: 100d1653f2caa0257f689f9d76e396612f85d9301ee94e97e81c1c38c536abab -->
 
 # Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200334
 - **Type:** 1
 - **Korttittel:** Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)
-- **Status:** 2
+- **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200334
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -66,7 +66,7 @@
   "innstilling_id": 17529,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 200334,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -84,7 +84,7 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -101,7 +101,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)",
   "type": 1
 }
@@ -138,4 +138,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

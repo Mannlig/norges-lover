@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca54624b154fdea483bf61348b86033b68761b54948d7bad473ff3bffbc06d62 -->
+<!-- innholds-hash: e5f61025bf7e8b9d96bb196c5628119ae3cec75c9ee14b39a99b08c471af6f27 -->
 
 # Stønad til barnetilsyn for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig
-- **Sist hentet:** 2026-06-11T08:25:46Z
+- **Sist hentet:** 2026-06-18T21:42:54Z
 
 ## Innhold
 
@@ -25,6 +25,16 @@ Det finnes også informasjon om stønad til barnetilsyn for enslig mor eller far
 ### Innhold på denne siden
 
 Det finnes også informasjon om stønad til barnetilsyn for enslig mor eller far til
+
+Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at overgangsstønad og andre stønader knyttet til det å være enslig mor eller far blir faset ut for hovedgruppen av mottakere.
+
+Noen grupper skal fortsatt ha rett til overgangsstønad. Det gjelder personer som har aleneomsorg for barn under 14 måneder eller barn med særlig behov for tilsyn.
+
+Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
+
+Endringene begrunnes i at det siden stønadene ble innført er gjort mye for å muliggjøre omsorg for barn i kombinasjon med jobb og utdanning. Behovet for særskilte trygdeytelser for enslig mor eller far er derfor endret.
+
+Egne overgangsregler er under utarbeidelse. Endringene gjelder fra 1. juli 2026.
 
 For å ha rett til stønad til barnetilsyn, må du som hovedregel
 
@@ -381,7 +391,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 19.02.2026
+Oppdatert 18.06.2026
 
 
 #### Chat med oss
@@ -390,7 +400,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -400,7 +410,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -412,3 +422,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

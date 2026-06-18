@@ -1,4 +1,4 @@
-<!-- innholds-hash: da3c219204de857efb36bcd856e0b5c4ca1f15d6013a5bb84e92c4af550c087d -->
+<!-- innholds-hash: f020e5873e9aa4342158eb6d6933846694721991beefec99ffac7bd825c19e47 -->
 
 # Riksrevisjonen si undersøking av helsetenestenes samhandling om eldre
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200301
 - **Type:** 2
 - **Korttittel:** Riksrevisjonen si undersøking av helsetenestenes samhandling om eldre
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200301
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -52,12 +52,12 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 3:10 (2025-2026)",
+  "henvisning": "Dokument 3:10 (2025-2026), Innst. 447 S (2025-2026)",
   "id": 200301,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17528,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200301,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -75,14 +75,14 @@
       "id": "AICS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -91,8 +91,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
+  "status": 1,
   "tittel": "Riksrevisjonen si undersøking av helsetenestenes samhandling om eldre",
   "type": 2
 }
@@ -124,3 +124,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

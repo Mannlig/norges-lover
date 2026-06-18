@@ -1,4 +1,4 @@
-<!-- innholds-hash: caf0143eb4c88f87496cec38fa55209e933f238d56089967f1a3ee50e61eba52 -->
+<!-- innholds-hash: 1b99522e1f17f17aec5990a5151b0515174c1deb0088ce204c2add1e31571af7 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -8,24 +8,24 @@
 - **Sak-ID:** 200308
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre rullestolbrukere likeverdig tilgang til luftfart
-- **Status:** 2
+- **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
+  "respons_dato_tid": "/Date(1781799014955+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -34,14 +34,14 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -59,14 +59,14 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -84,14 +84,14 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -100,12 +100,12 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:288 S (2025-2026)",
+  "henvisning": "Dokument 8:288 S (2025-2026), Innst. 460 S (2025-2026)",
   "id": 200308,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17534,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -114,7 +114,7 @@
   "sak_fremmet_id": 200308,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
+      "respons_dato_tid": "/Date(1781799014955+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -123,14 +123,14 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -139,8 +139,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart",
   "type": 2
 }
@@ -175,3 +175,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

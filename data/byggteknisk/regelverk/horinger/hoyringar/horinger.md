@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9d344b5cce265068410f5c9a1e3e360e085753c222e533b405d6004c9c7c5492 -->
+<!-- innholds-hash: fab60bdef198edb27623420f744d1b3f2ee576fd76b91ded0c78ca4c37dac66b -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/horinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-11T05:41:24Z
+- **Sist hentet:** 2026-06-18T18:26:07Z
 
 ## Innhold
 
@@ -16,19 +16,13 @@
 Direktoratet for byggkvalitet gjennomfører høringer på oppdrag fra Kommunal- og distriktsdepartementet. Ønsker du innsyn i eldre høringer, ta kontakt på post@dibk.no
 
 
-### Pågående høringer
+### Avsluttet
 
 Høringsfrist
 
 16.06.2026
 
-Status
-
-På høring
-
-Publisert
-
-03.06.2026
+37 svar
 
 
 #### Forslag til endringer i veiledningen til kapittel 2 i byggteknisk forskrift
@@ -37,19 +31,10 @@ Høringsfrist
 
 11.06.2026
 
-Status
-
-På høring
-
-Publisert
-
-30.04.2026
+50 svar
 
 
 #### Ny høring av forslag til endringer i reglene om søknad og dokumentasjon i byggesaker
-
-
-### Avsluttet
 
 Høringsfrist
 
@@ -293,3 +278,4 @@ Høringsfrist
 
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

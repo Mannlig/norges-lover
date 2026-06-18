@@ -1,11 +1,11 @@
-<!-- innholds-hash: ba24ff262d00752ac90636bd2d565343813cdacf398aedcb6df4ccf39ffc099c -->
+<!-- innholds-hash: e4db90727e0ef3e53acad49d211511afd2c3d09eddd647c4a0ebeae072abef36 -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/ansatt-har-uforetrygd
-- **Sist hentet:** 2026-06-11T08:17:29Z
+- **Sist hentet:** 2026-06-18T21:34:31Z
 
 ## Innhold
 
@@ -31,10 +31,6 @@ Uføretrygd sikrer inntekten for en som har varig redusert inntektsevne på grun
 En ansatt med uføretrygd har fortsatt lov til å jobbe. Utbetalingen av uføretrygd blir justert ned hvis den ansatte jobber over en viss grense, men det vil stort sett alltid lønne seg å jobbe, fordi uføretrygd og inntekt er høyere enn uføretrygd alene.
 
 Som arbeidsgiver bør du ha god dialog med den ansatte som søker uføretrygd. Virksomheten burde også ha rutiner for hvordan den håndterer ansatte som er i overgangen fra AAP til uføretrygd.
-
-Hvis en ansatt søker uføretrygd og skal jobbe delvis, skal du som arbeidsgiver fylle ut skjemaet
-
-Hvis den ansatte blir ufør og ikke skal jobbe fremover, trenger du ikke fylle ut skjemaet.
 
 Hvis du har spørsmål om arbeidsavtaler, oppsigelser og lignende, anbefaler vi at du tar kontakt med
 
@@ -85,12 +81,12 @@ Ansatte som har uføretrygd og i tillegg har en avtale om
 - Fordi den ansatte ikke er meldt inn i Aa-registeret, må dere be den ansatte om papirsykmelding del C.
 - Den ansatte må sende inn del D av papirsykmeldingen til Nav for å kreve sykepenger.
 - Du som arbeidsgiver må sende inntektsmeldinng til Nav via Altinn.
-Oppdatert 04.05.2026
+Oppdatert 15.06.2026
 
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -114,3 +110,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

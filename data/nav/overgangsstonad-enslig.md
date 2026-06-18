@@ -1,11 +1,11 @@
-<!-- innholds-hash: 19f4cf190607b16ec594aaefbf0da833cdbe7de75ffae902aa987146280f60bc -->
+<!-- innholds-hash: 13c1d99a73a6580fdb8b14baf9f88e0042aa98c2bd08f21aff226ac5550ef965 -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist hentet:** 2026-06-10T12:30:53Z
+- **Sist hentet:** 2026-06-18T20:44:09Z
 
 ## Innhold
 
@@ -516,7 +516,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 19.02.2026
+Oppdatert 18.06.2026
 
 
 #### Chat med oss
@@ -525,7 +525,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -535,7 +535,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -547,3 +547,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

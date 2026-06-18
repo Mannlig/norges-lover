@@ -1,4 +1,4 @@
-<!-- innholds-hash: 89d5fdf072030e6a59c930ecf5694f187482d7caf38797ea8202971ca2d1d673 -->
+<!-- innholds-hash: f1f086bb7c4ccfaa44b6a61b583033d21bffde343ff91c3ab6d733cbee047239 -->
 
 # Frister og oppgaver for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:50:42Z
+- **Sist hentet:** 2026-06-18T16:16:39Z
 
 ## Innhold
 
@@ -21,9 +21,6 @@ Her ser du de mest sentrale fristene for deg som er næringsdrivende.
 Logg inn:
 
 Du kan også få oversikt over frister
-
-
-### Mai 2026
 
 
 ### Juni 2026
@@ -56,3 +53,4 @@ Du kan også få oversikt over frister
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 35396413000842e983adf7c13cc9df4f7f554849601c33beb90253c778950295 -->
+<!-- innholds-hash: c83d57b5415324b968eb34b017947a3002f2d916eb2c49fced483deb1400af24 -->
 
 # Ansatt venter barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/ansatt-venter-barn
-- **Sist hentet:** 2026-06-11T07:52:48Z
+- **Sist hentet:** 2026-06-18T21:09:35Z
 
 ## Innhold
 
@@ -72,7 +72,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -91,3 +91,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: eba0cdd3b60e9f04851d8ac0482558ae1eb2ff4bab8704d0b993ec8908c42f61 -->
+<!-- innholds-hash: 9a1004f3cde831ca60867b717a6c516804e15a347ee9fcfffb18a24e8ce5b1be -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/svangerskapspenger
-- **Sist hentet:** 2026-06-11T07:46:36Z
+- **Sist hentet:** 2026-06-18T21:03:15Z
 
 ## Innhold
 
@@ -113,19 +113,21 @@ For å ha rett til svangerskapspenger må du ha vært i arbeid med inntekt samm
 Nav teller med disse pengestøttene, hvis du har mottatt utbetaling for dem i løpet av de siste fire ukene før svangerskapspengene:
 
 - sykepenger
-- foreldrepenger
-- svangerskapspenger
 - dagpenger
-- dagpenger ved permittering
-- pleiepenger
-- omsorgspenger
+- foreldre- og svangerskapspenger
+- pleie-, opplærings- og omsorgspenger
+Det betyr at du kan ha rett til svangerskapspenger hvis du har fått minst én av disse pengestøttene i løpet av de siste fire ukene før du starter med svangerskapspenger.
+
 Det er kun de som er arbeidstakere, frilansere eller selvstendig næringsdrivende dagen de starter svangerskapspengene som kan få svangerskapspenger. Du kan derfor ikke få svangerskapspenger for en utbetaling fra Nav, med mindre du har et arbeidsforhold du er fraværende fra.
 
-Eksempel 1: Du har sykepenger fra Nav som arbeidstaker. Du vil kunne ha rett til svangerskapspenger siden du er arbeidstaker som har fravær fra jobben.
 
-Eksempel 2: Du har dagpenger fra Nav. En uke før du starter svangerskapspenger starter du i nytt arbeidsforhold. Du vil kunne ha rett til svangerskapspenger siden du har opptjening fra dagpenger, og er i et arbeidsforhold når du starter svangerskapspenger.
+#### Unntak når du har jobbet mindre enn fire uker
 
-Eksempel 3: Du har kun dagpenger fra Nav. Du vil ikke ha rett til svangerskapspenger siden du ikke er arbeidstaker, frilanser eller selvstendig næringsdrivende dagen du starter svangerskapspenger.
+I noen tilfeller kan du ha rett til svangerskapspenger selv om du har jobbet mindre enn 4 uker før du starter med svangerskapspenger. Dette unntaket gjelder hvis du har vært midlertidig ute av arbeid i mindre enn en måned før du starter med svangerskapspenger. Utbetalingene fra Nav som er nevnt over likestilles med arbeid, og teller med når vi vurderer om du har opptjening.
+
+Eksempel 1: Du sluttet i arbeidsforholdet ditt 31. mai, og startet i nytt arbeidsforhold den 10. juni. Du søker svangerskapspenger fra 20. juni, og har jobbet mindre enn 4 uker rett før du skal starte svangerskapspenger. Men siden du har vært ute av arbeid i mindre enn en måned perioden 1. juni til og med 9. juni, har du rett til svangerskapspenger.
+
+Eksempel 2: I de fire ukene før du starter med svangerskapspenger, har du hatt to uker ulønnet permisjon fra arbeidsgiveren din. Du har opptjening selv om du har jobbet mindre enn fire uker, fordi du var midlertidig ute av arbeid i mindre enn en måned.
 
 Du må ha hatt inntekt som utgjør 68 275 kroner i året, før du må midlertidig slutte i arbeidet. Dette utgjør halvparten av grunnbeløpet, som tilsvarer 136 549 kroner
 
@@ -200,6 +202,10 @@ Har du blitt yrkesaktiv i løpet av de siste tre årene vil vi også vurdere hv
 
 Det trekkes ikke skatt av utbetalinger som selvstendig næringsdrivende fra Nav.
 
+Du må enten være arbeidstaker, frilanser eller selvstendig næringsdrivende for å ha rett til svangerskapspenger. Hvis du har sykepenger, foreldrepenger eller pleiepenger som arbeidstaker, frilanser eller selvstendig næringsdrivende kan du ha rett til svangerskapspenger, hvis du går rett over fra en av pengestøttene til svangerskapspenger. Du må fortsatt være arbeidstaker, frilanser eller selvstendig næringsdrivende når du starter svangerskapspengene.
+
+Svangerskapspengene dine blir beregnet til det samme som du vanligvis ville hatt i inntekt hvis du var i jobb.
+
 Hvis du har kombinasjon av inntekter og arbeidsforhold vil vi beregne svangerskapspengene dine ut fra en kombinasjon av disse inntektene.
 
 
@@ -209,7 +215,7 @@ Svangerskapspengene blir beregnet ut fra begge inntektene dine.
 
 Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløp.
 
-Eksempel: Arbeidsinntekten din er 500 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 800 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 638 394 kroner (2021). Arbeidsinntekten din dekkes fullt ut med 500 000 kroner. Frilansinntekten din dekkes med 138 394 kroner, opp til seks ganger grunnbeløpet.
+Eksempel: Arbeidsinntekten din er 600 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 900 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 819 294 kroner (2026). Arbeidsinntekten din dekkes fullt ut med 600 000 kroner. Frilansinntekten din dekkes med 219 294 kroner, opp til seks ganger grunnbeløpet.
 
 
 #### Arbeidstaker og selvstendig næringsdrivende
@@ -256,6 +262,10 @@ I noen tilfeller kan inntekten som arbeidstaker og frilanser være høyere, slik
 
 Hvis det har vært varige endringer i arbeidssituasjonen din, kan det skje at det er mer enn 25 prosent avvik mellom inntekten du har nå og gjennomsnittet av inntekten for de siste tre ferdiglignede årene. Da vurderer vi hvilken inntekt som er mest representativ for situasjonen din når du starter med svangerskapspenger.
 
+Hvis du har jobbet i mindre enn 4 uker, og har vært midlertidig ute av arbeid i mindre enn én måned før du starter med svangerskapspenger, kan du få svangerskapspenger utbetalt fra og med den 15. dagen etter at du starter med svangerskapspenger.
+
+Hvis du har rett på svangerskapspenger etter dette unntaket, beregnes de ut fra gjennomsnittet av din pensjonsgivende årsinnktekt for de tre siste ferdiglignede årene. Denne beregningen må være minst lik ett grunnbeløp (1 G), som vil si 136 549 kroner.
+
 Som fisker er det ulike måter man kan motta lønn. Du kan motta lønn som hyre eller lott, eller du kan motta begge deler. Det er viktig at vi mottar riktig informasjon om arbeidssituasjonen din slik at vi får gitt deg riktig beregning av svangerskapspenger.
 
 På skatteetaten.no kan du lese mer om
@@ -280,10 +290,6 @@ Hvis du mottar både lott og hyre så mottar du inntekt både som arbeidstaker o
 For den delen av inntekten din som er hyre er du å regne som arbeidstaker, og du mottar lønn som arbeidstaker. Det er ikke alle fiskere som er registret med et arbeidsforhold i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) slik at det er synlig i søknaden. Hvis du er fisker med hyre, må arbeidsgiveren din sende inn inntektsmelding med informasjon om inntekten din.
 
 For den delen av innteksten din som er lott, er du å regne som selvstendig næringsdrivende. I søknadsdialogen må du svare ja på spørsmålet om du er selvstendig næringsdrivende, du må velge at du er fisker når du fyller ut informasjon om næringen din. Spørsmålene du får i søknaden er tilpasset din situasjon og du får veiledning og informasjon underveis. Når du gir oss informasjon om at du er fisker får vi registret riktig informasjon om deg, og vi får sendt riktig informasjon om deg til skatteetaten.
-
-Du må enten være arbeidstaker, frilanser eller selvstendig næringsdrivende for å ha rett til svangerskapspenger. Hvis du har sykepenger, foreldrepenger eller pleiepenger som arbeidstaker, frilanser eller selvstendig næringsdrivende kan du ha rett til svangerskapspenger, hvis du går rett over fra en av pengestøttene til svangerskapspenger. Du må fortsatt være arbeidstaker, frilanser eller selvstendig næringsdrivende når du starter svangerskapspengene.
-
-Svangerskapspengene dine blir beregnet til det samme som du vanligvis ville hatt i inntekt hvis du var i jobb.
 
 Mer informasjon til deg som
 
@@ -577,16 +583,16 @@ Du må
 
 Du kan lese mer her om du har
 
-Oppdatert 17.02.2026
+Oppdatert 18.06.2026
 
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder på hverdager kl. 9–15. Torsdag 11. juni er chat med veileder åpen fra kl. 10–15.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -596,7 +602,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -608,3 +614,4 @@ Stengt nå, åpner kl. 10
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

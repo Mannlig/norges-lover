@@ -1,4 +1,4 @@
-<!-- innholds-hash: 529e438eb5dd0b3f17ea42aeb6d4cee1f828070a773fba93324a1cee27f0d1b0 -->
+<!-- innholds-hash: d8e4afe44ec2c0055dc8e3003297f2fed7b0bf381f80f35018b72694353a17bf -->
 
 # Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200331
 - **Type:** 1
 - **Korttittel:** Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)
-- **Status:** 2
+- **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200331
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -69,7 +69,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -79,12 +79,12 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 98 S (2025-2026)",
+  "henvisning": "Prop. 98 S (2025-2026), Innst. 452 S (2025-2026)",
   "id": 200331,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17539,
+  "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -93,7 +93,7 @@
   "sak_fremmet_id": 200331,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -102,14 +102,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
+        "respons_dato_tid": "/Date(1781737216780+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -118,8 +118,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1780264800000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
+  "status": 7,
   "tittel": "Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)",
   "type": 1
 }
@@ -137,3 +137,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

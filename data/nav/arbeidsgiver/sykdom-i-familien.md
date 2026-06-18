@@ -1,11 +1,11 @@
-<!-- innholds-hash: 21c6f69c00f94d9f0161864159f026cefe0c76788c7d9c539ba7b57d4b6f2c3b -->
+<!-- innholds-hash: 6c5fc893a97a616bf829a258359c50f76c3037eb8c36982afb4a3f12160cb5f0 -->
 
 # Ansatt har sykdom i familien - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykdom-i-familien
-- **Sist hentet:** 2026-06-11T08:01:04Z
+- **Sist hentet:** 2026-06-18T21:17:45Z
 
 ## Innhold
 
@@ -28,12 +28,12 @@ Om du ønsker refusjon for utbetalt lønn opplyser du om dette i inntektsmelding
 
 Her finner du nyttig informasjon om hvordan du fyller ut inntektsmeldingen.
 
-Oppdatert 21.05.2026
+Oppdatert 15.06.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -52,3 +52,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: e2fca958aba0b18d94fcac18d2599b765b9b1f2a58278936562fdfabea7d4237 -->
+<!-- innholds-hash: e72f42360bdc5fc6227e9c3c6bea2ae75a566d1330dcb0b7cdf2677077e883d9 -->
 
 # Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag
-- **Sist hentet:** 2026-06-11T08:25:07Z
+- **Sist hentet:** 2026-06-18T21:42:14Z
 
 ## Innhold
 
@@ -254,12 +254,6 @@ Skatteetaten benytter livsoppholdssatsene som er fastsatt i forskrift om livsopp
 
 Gjeldende satser fra 1. juli 2025:
 
-
-#### Barnets alder
-
-
-#### Beløp
-
 Enslig skyldner
 
 11 046 kroner
@@ -501,7 +495,7 @@ Hvis bidraget skal opphøre, for eksempel fordi foreldrene har inngått en priva
 
 Mer informasjon til deg som
 
-Oppdatert 02.06.2026
+Oppdatert 16.06.2026
 
 
 #### Chat med oss
@@ -510,7 +504,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -520,7 +514,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -532,3 +526,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

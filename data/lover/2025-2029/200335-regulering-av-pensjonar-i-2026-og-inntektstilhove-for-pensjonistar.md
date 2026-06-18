@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a9484fa924d3f97abc659f57eee0fb6317e552fc8f798cf13601fa3e0974b1a -->
+<!-- innholds-hash: 57759558fb1f1fc06942e8fc7799d0b85caefdb7fd65225e19cb53659675b19b -->
 
 # Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 
@@ -8,23 +8,23 @@
 - **Sak-ID:** 200335
 - **Type:** 2
 - **Korttittel:** Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
-- **Status:** 2
+- **Status:** 7
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Sist hentet:** 2026-06-18T16:14:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200335
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
+  "respons_dato_tid": "/Date(1781799014627+0200)/",
   "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -39,7 +39,7 @@
   "innstilling_id": 17536,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
+    "respons_dato_tid": "/Date(1781798581484+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200335,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
+      "respons_dato_tid": "/Date(1781799014627+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -57,7 +57,7 @@
       "id": "AU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
+        "respons_dato_tid": "/Date(1781769893911+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -74,7 +74,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781128800000+0200)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar",
   "type": 2
 }
@@ -111,4 +111,5 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)

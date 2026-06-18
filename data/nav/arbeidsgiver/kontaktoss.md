@@ -1,11 +1,11 @@
-<!-- innholds-hash: 25d097dc4d6603ec53b98bbb2167e9e214b20cf791c494a194546985d45e88fa -->
+<!-- innholds-hash: 3ac90b92d0db19669dcc03b37b224dc1203943de686d0493e19189088132cb43 -->
 
 # Kontakt oss - arbeidsgiver - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/kontaktoss
-- **Sist hentet:** 2026-06-11T07:56:15Z
+- **Sist hentet:** 2026-06-18T21:13:02Z
 
 ## Innhold
 
@@ -13,8 +13,6 @@ For arbeidsgivere
 
 
 ## Kontakt oss - arbeidsgiver
-
-Torsdag 11. juni er telefonen åpen kl. 10–15.
 
 Ha organisasjonsnummeret til underenheten tilgjengelig. Det finner du på
 
@@ -40,7 +38,7 @@ Har du andre spørsmål, kan du ringe oss på 55 55 33 36.
 
 Har du spørsmål til et brev eller vedtak, kan du ringe oss.
 
-Oppdatert 10.06.2026
+Oppdatert 11.06.2026
 
 
 ---
@@ -50,3 +48,4 @@ Oppdatert 10.06.2026
 
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
