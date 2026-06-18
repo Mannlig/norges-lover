@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0e8ad2a7a043226059577dd3912348b9ee8731cde092bf6497927008379f75eb -->
+<!-- innholds-hash: d9015d03c3094fd01c3971c90dd19c43464a0a0e21842a010043ca3a6192e076 -->
 
 # Datoer og frister for person
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekalender/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-19T21:38:48Z
+- **Sist hentet:** 2026-06-18T06:40:16Z
 
 ## Innhold
 
@@ -23,9 +23,6 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her.
 
 
 ### Mars 2026
-
-
-### Mai 2026
 
 
 ### Juni 2026
@@ -47,3 +44,4 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her.
 
 - **2026-05-11** Første gang hentet
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

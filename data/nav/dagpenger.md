@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5d0bd5bbd51f5d506d22b31e7cf92c479ef01b22a200db4c51db7f3374c2d8a3 -->
+<!-- innholds-hash: 85edc0528c3677b7d520b310244036faf3d04b1be26a37344bc6fc02b635af7e -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist hentet:** 2026-06-02T18:37:39Z
+- **Sist hentet:** 2026-06-18T09:34:52Z
 
 ## Innhold
 
@@ -1039,7 +1039,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -1049,7 +1049,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -1060,3 +1060,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

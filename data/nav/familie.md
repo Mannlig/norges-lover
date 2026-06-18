@@ -1,11 +1,11 @@
-<!-- innholds-hash: e48141fc9590678d3dc27646bb6ab78d78923997bc8f654864ee007e8330e977 -->
+<!-- innholds-hash: 9ab168ad09b8f0ec03d8dae42a75f2311893b8aa5190a3ea064d7d3370559395 -->
 
 # Familie og barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/familie
-- **Sist hentet:** 2026-05-21T23:33:37Z
+- **Sist hentet:** 2026-06-18T09:37:36Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -35,7 +35,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -45,3 +45,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

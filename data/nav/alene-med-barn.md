@@ -1,11 +1,11 @@
-<!-- innholds-hash: 949237f02413b2ad72c56439484073547bfa68b6970633d69829250dc1426b03 -->
+<!-- innholds-hash: 3cbc700f139a118413c542482f342a54609ad10f8cf72d246b73010500e7b9dd -->
 
 # Er helt eller delvis alene med barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn
-- **Sist hentet:** 2026-06-02T20:06:06Z
+- **Sist hentet:** 2026-06-18T11:02:38Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -99,7 +99,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -110,3 +110,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

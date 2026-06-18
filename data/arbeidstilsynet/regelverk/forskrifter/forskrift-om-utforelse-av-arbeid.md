@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4dbea5a02a3e4eb28da0f71ec8792ef3cb4bc6c6dcc3347ca43918eed94f3dcf -->
+<!-- innholds-hash: 7a5fb2311e8eb83b995b1f15b9a9c8f7b31958b53351adf8be833148132c1cec -->
 
 # Forskrift om utførelse av arbeid
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:40:11Z
+- **Sist hentet:** 2026-06-18T12:25:01Z
 
 ## Innhold
 
@@ -933,6 +933,8 @@ Med godkjent åndedrettsvern menes personlig verneutstyr som oppfyller kravene i
 Dette innebærer at åndedrettsvernet må gi fullt forsvarlig vern. For å unngå lekkasjer og sikre god nok beskyttelse er det viktig at åndedrettsvernet er tilpasset den enkelte arbeidstakers ansiktsform. Egenkontroll av åndedrettsvern må utføres før hvert oppdrag. I tillegg vil det ved anskaffelse av åndedrettsvernet og ved endring i ansiktsform ofte være nødvendig med objektive masketetthetsmålinger. Slike målinger kan gjøres på alle åndedrettsvern der maskekroppen skal tette mot ansiktshuden. Slike tester utføres med instrumenter og anerkjente testmetoder og må utføres av kompetent personell. Det er flere aktører som tilbyr slik testing.
 
 Valg av åndedrettsvern må være basert på kunnskap om eksponeringsforholdene på arbeidsstedet. Ved asbestarbeid over en time anbefales motorassistert åndedrettsvern.
+
+Bruk av engangsmasker vil ikke gi fullt forsvarlig vern av arbeidstakere som skal arbeide med asbest.
 
 Åndedrettsvernet må være CE-merket, og det må følge med brukerinformasjon som blant annet skal inneholde nødvendige opplysninger om verneeffekten. Åndedrettsvern som består av motorassistert partikkelfiltrerende utstyr, må være CE-merket som en enhet, det vil si maske og filtreringsenhet kombinert.
 
@@ -3392,3 +3394,4 @@ Forskrift om organisering, ledelse og medvirkning § 16-3 «Ikrafttredelse»  g
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

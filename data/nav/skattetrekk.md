@@ -1,11 +1,11 @@
-<!-- innholds-hash: ab1f94bfb3e335953ee93277a2c9284e61911cbb489e46dbe3e6d9a2e14b8a5d -->
+<!-- innholds-hash: 986d684a1f0e86a6073cc8ff8a554331857037d6c5435055bd0a8510ad010cd0 -->
 
 # Skattetrekk på utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skattetrekk
-- **Sist hentet:** 2026-05-15T15:15:24Z
+- **Sist hentet:** 2026-06-18T10:05:11Z
 
 ## Innhold
 
@@ -124,9 +124,6 @@ Trekkfri periode uke 47/48 eller 48/49
 #### Uføretrygd
 
 
-#### Ungdomsprogramytelsen
-
-
 #### Ventelønn
 
 
@@ -232,7 +229,7 @@ Hvis du blir trukket 25 prosent kildeskatt av lønnen din, men går over til lø
 
 Hos Skatteetaten kan du lese om hvilket
 
-Oppdatert 10.04.2026
+Oppdatert 17.06.2026
 
 
 ---
@@ -241,3 +238,4 @@ Oppdatert 10.04.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

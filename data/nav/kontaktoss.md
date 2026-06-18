@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8c6cc804567e2368ba7b91350fff9a45db4454fcf1186078d5851315858ac4fc -->
+<!-- innholds-hash: c24cb15394e7b3a48b990c89063f577e152bc903d5e0b71363451e51390e83c4 -->
 
 # Kontakt oss - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontaktoss
-- **Sist hentet:** 2026-05-15T09:04:56Z
+- **Sist hentet:** 2026-06-18T09:53:47Z
 
 ## Innhold
 
@@ -113,7 +113,7 @@ Her finner du adressen til Nav hjelpemiddelsentral i regionen din, og informasjo
 - Vestland:
 Har du spørsmål om et vedtak fra Nav, kan du ringe eller
 
-Oppdatert 04.05.2026
+Oppdatert 11.06.2026
 
 
 ---
@@ -122,3 +122,4 @@ Oppdatert 04.05.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

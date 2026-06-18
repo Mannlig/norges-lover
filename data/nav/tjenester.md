@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed18376bc49f8bc07c2cb04bc23e7bdda68ea0c510922b0e01650702a6411b72 -->
+<!-- innholds-hash: 1d2b2b1c27378f92562d01c0c3d4ac40dee5dc97dd0f162ec2d78fe74b32a4a7 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist hentet:** 2026-06-10T04:39:07Z
+- **Sist hentet:** 2026-06-18T10:13:30Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Ser du etter et spesifikt skjema? Se oversikt over alle
 #### Velg område
 
 
-### Viser 228 av 228
+### Viser 227 av 227
 
 For å kunne være i fysisk aktivitet.
 
@@ -122,8 +122,6 @@ Pengestøtte til barn under 18 år når behovet for pleie og tilsyn er vesentlig
 Forsikring for å få bedre dekning når du blir sykmeldt.
 
 Hvis du har en synsnedsettelse, kan ulike situasjoner og behov tilrettelegges med  forskjellige hjelpemidler for forstørring.
-
-Fra 1. januar 2022 ble det ikke lenger innvilget forsørgingstillegg til alderspensjon og AFP i offentlig sektor. Disse forsørgingstilleggene er nå faset ut for alle.
 
 Hvis du mottar fosterhjemsgodtgjørelse, må du melde fra til Nav hvis du søker om/har en pengestøtte fra Nav.
 
@@ -492,3 +490,4 @@ Alle som har fått utbetalinger fra Nav får årsoppgave på starten av året.
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5eb234915d3e10e6d11fff470de852c0af6a5b7773271d6ef08dbc7d3d0ccda6 -->
+<!-- innholds-hash: 7a546026de00d5eb770d251a6f6b30878d7f02d830e254f012be9635cf65f965 -->
 
 # Informasjonskapsler og tilsvarende teknologi på nav.no - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/informasjonskapsler
-- **Sist hentet:** 2026-05-15T09:02:27Z
+- **Sist hentet:** 2026-06-18T09:50:20Z
 
 ## Innhold
 
@@ -104,9 +104,9 @@ Brukes av verktøyet Skyra for å lagre svarene du gir på en undersøkelse.
 
 Brukes av verktøyet Skyra for å huske brukeren og hvorvidt undersøkelser er åpnet, lukket eller fullført.
 
-Vi bruker statistikk- og analyseverktøyet Umami for å forstå hvordan folk bruker nav.no og de digitale tjenestene våre.
+Vi bruker et verktøy vi har utviklet selv, Innblikk, til å samle inn data til bruk i statistikk og analyse.
 
-Målet er å samle inn, analysere og tolke data for å få mer innsikt om de ulike målgruppene våre, og kartlegge hvilke behov de har, hvordan de beveger seg gjennom løsningene våre, hvilke handlinger og valg de gjør underveis, hvor de eventuelt faller av og hvorfor. Ved å følge atferden over tid, kan vi identifisere utfordringer, teste forbedringer og måle effekten av endringer.
+Målet er å forstå hvordan folk bruker nav.no og tjenestene våre, så vi kan forbedre dem. Vi samler inn, analyserer og tolker data for å få mer innsikt om de ulike målgruppene våre, og for å kartlegge hvilke behov de har, hvordan de beveger seg gjennom løsningene våre, hvilke handlinger og valg de gjør underveis, hvor de eventuelt faller av og hvorfor. Ved å følge atferden over tid, kan vi identifisere utfordringer, teste forbedringer og måle effekten av endringer.
 
 Dataene vi samler inn omfatter blant annet:
 
@@ -120,18 +120,16 @@ Dataene vi samler inn omfatter blant annet:
 - Hvilke nettlesere som brukes, hvilket språk nettleseren bruker, hva slags enhet som blir brukt (mobil eller pc), og omtrentlig geografisk lokasjon (land og by).
 Når du bruker de innloggede tjenestene våre, kan vi registrere enkelte opplysninger om deg for å gi riktig veiledning og beregninger. Opplysningene kan bli brukt til å analysere hvordan løsningene våre fungerer for ulike grupper brukere. Gruppene defineres ut fra felles kjennetegn, som for eksempel aldersgruppe, språkvalg, om de allerede får en pengestøtte fra Nav, eller om de søker for første gang.
 
-Dataene kobles ikke til deg som person, og analysene gjøres kun på gruppenivå. Vi bruker aldri dataene til å kartlegge enkeltpersoners bruksmønstre, eller til å sammenstille opplysninger som kan identifisere enkeltindivider.
+Data og opplysninger kobles ikke til deg som person, og analysene gjøres kun på gruppenivå. Vi kartlegger ikke enkeltpersoners bruksmønstre, og sammenstiller aldri data og opplysninger som kan identifisere enkeltindivider. Alt vi samler inn lagres trygt og sikkert i Navs interne dataplattform, Nada, og deles ikke med eksterne.
 
-Umami bruker ikke informasjonskapsler, men henter inn opplysninger om nettleseren din for å lage en unik ID (ofte kalt «finger printing»). Denne ID-en brukes for å skille deg fra andre brukere. For å hindre identifisering, fjerner vi deler av IP-adressen din før dataene sendes til verktøyet.
-
-Når du samtykker til bruk av valgfrie informasjonskapsler, bruker Nav en egen informasjonskapsel for å huske at du har samtykket (navno-consent). I denne informasjonskapselen ligger det også en anonym ID, som vi bruker for å kunne samle inn data og følge brukere over tid via Umami. Denne ID-en er knyttet til samtykket du har gitt, og gjelder i maksimalt 90 dager eller til du selv velger å trekke samtykket.
+For å samle data, bruker vi en teknologi som kalles «finger printing» til å hente inn opplysninger om nettleseren din. Opplysningene bruker vi til å lage en unik ID. Denne ID-en brukes for å skille deg fra andre brukere. For å hindre identifisering, fjerner vi deler av IP-adressen din før opplysningene lagres.
 
 Vi bruker UXTweak til å gjennomføre ulike typer brukertester, som for eksempel klikktest og tretest. Det hjelper oss å forstå hvor godt nye og eksisterende funksjoner på nav.no fungerer, og se om ulike endringer har ønsket effekt.
 
 
 #### usertest-*
 
-Denne informasjonskapslen brukes bare av Nav og ikke er tilknyttet eller eid av UX Tweak. Dataene inneholder en anonym ID som husker hvilken variant (f.eks. A, B eller C) av en undersøkelse som du eventuelt har blitt trukket ut til, slik at kun den ene varianten åpnes dersom du senere velger å bli med.
+Denne informasjonskapselen brukes bare av Nav og ikke er tilknyttet eller eid av UX Tweak. Dataene inneholder en anonym ID som husker hvilken variant (f.eks. A, B eller C) av en undersøkelse som du eventuelt har blitt trukket ut til, slik at kun den ene varianten åpnes dersom du senere velger å bli med.
 
 Slettes etter 30 dager.
 
@@ -290,7 +288,7 @@ Har du spørsmål om personvern eller dine rettigheter, kan du ta kontakt med
 
 Du har rett til å klage til Datatilsynet hvis du mener måten vi behandler personopplysninger på er i strid med personvernreglene.
 
-Oppdatert 05.03.2026
+Oppdatert 18.06.2026
 
 
 ---
@@ -299,3 +297,4 @@ Oppdatert 05.03.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

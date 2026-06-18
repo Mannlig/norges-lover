@@ -1,11 +1,11 @@
-<!-- innholds-hash: 38c8d0a6b95e07b8f9bc12f5adf1e2a6d82fdda958e16834cb6afd466b27df7c -->
+<!-- innholds-hash: 6f92b7e00399bcb6590b375e4ce8562463e45235a3e2692eb2f59ff8cc48d79d -->
 
 # Utvidet barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utvidet-barnetrygd
-- **Sist hentet:** 2026-06-02T20:00:31Z
+- **Sist hentet:** 2026-06-18T10:57:04Z
 
 ## Innhold
 
@@ -317,7 +317,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -327,7 +327,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -338,3 +338,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

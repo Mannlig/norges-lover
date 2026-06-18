@@ -1,11 +1,11 @@
-<!-- innholds-hash: fe12237a02b82438d2bcc46b0b6832b43becf3666ac78eb4e6400ec0c756854a -->
+<!-- innholds-hash: fd0e251a6397e3bf2c8a73edd890d76fabc2ee50ad3b3284b50050b0fd58ac62 -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-barn
-- **Sist hentet:** 2026-06-02T19:52:45Z
+- **Sist hentet:** 2026-06-18T10:49:28Z
 
 ## Innhold
 
@@ -45,7 +45,7 @@ Du kan også ha rett til pleiepenger fra den dagen barnet døde, hvis vilkårene
 
 #### Pleiepenger når barnet er innlagt
 
-Hvis barnet er innlagt på sykehus, har du som hovedregel rett til pleiepenger når du må være borte fra jobb for å være sammen med barnet. Dette gjelder også for barn som ikke er formelt utskrevet fra sykehuset, men som har hjemmesykehus eller oppfølging fra nyfødtavdelingens ambulerende sykepleietjeneste (NAST) i hjemmet. Annen behandling hjemme, som for eksempel digital oppfølging, er ikke det samme som at barnet er innlagt på sykehus.
+Hvis barnet er innlagt på sykehus, har du som hovedregel rett til pleiepenger når du må være borte fra jobb for å være sammen med barnet. Dette gjelder også for barn som ikke er formelt utskrevet fra sykehuset, men som har hjemmesykehus eller oppfølging fra nyfødtavdelingens ambulerende sykepleietjeneste (NAST) i hjemmet.
 
 
 #### Vi trenger legeerklæring fra spesialisthelsetjenesten
@@ -95,7 +95,7 @@ Noen barn har oppfølging i spesialisthelsetjenesten, uten at det har behov for 
 
 Pengestøttene du får fra Nav, kan noen ganger gå om hverandre. Noen opplever dette i forbindelse med fødsel hvis barnet blir innlagt på sykehus. Da har man ofte søkt om foreldrepenger, men skal bytte til pleiepenger i perioden som barnet er innlagt.
 
-Når barnet er innlagt på sykehus, kan du få pleiepenger frem til barnet er skrevet ut av sykehuset og foreldrepengene starter. Du kan også få pleiepenger hvis barnet får behandling og oppfølging i hjemmesykehus, eller får hjemmebesøk av nyfødtavdelingens ambulerende sykepleiertjeneste (NAST). Annen behandling hjemme, som for eksempel digital oppfølging, er ikke det samme som at barnet er innlagt på sykehus
+Når barnet er innlagt på sykehus, kan du få pleiepenger frem til barnet er skrevet ut av sykehuset og foreldrepengene starter. Du kan også få pleiepenger hvis barnet får behandling og oppfølging i hjemmesykehus, eller får hjemmebesøk av nyfødtavdelingens ambulerende sykepleiertjeneste (NAST).
 
 Når du søker om pleiepenger, trenger vi en egen inntektsmelding til søknaden om pleiepenger. Vi kan ikke bruke en inntektsmelding som er sendt til en søknad om foreldrepenger.
 
@@ -130,7 +130,7 @@ Pleiepenger regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de
 - Hvis det er mer enn 25 prosent forskjell mellom årsinntekten din og inntekten din de 3 siste månedene omregnet til årsinntekt, vurderer vi hvilken inntekt som er mest representativ i din situasjon.
 - Hvis arbeidsforholdet ditt har vart under 3 måneder, skal pleiepengene regnes ut fra inntekten du har hatt i den perioden du har vært i jobb. Inntekten din regnes om til en månedsinntekt.
 - Hvis du har hatt korte fravær som ferie eller ulønnet permisjon i perioden du har hatt inntekt, fastsettes inntekten din til det du vanligvis ville hatt hvis du hadde vært i jobb.
-Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativ i din situasjon
+Vanligvis blir pleiepenger beregnet til gjennomsnittet av inntekten din de 3 siste ferdiglignede årene. Hvis arbeidssituasjonen din er varig endret eller du er ny i arbeidslivet, fastsetter vi inntekten din til det som er mest representativt i din situasjon
 
 Vanligvis blir pleiepenger regnet ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før pleiepengeperioden din starter.
 
@@ -614,7 +614,7 @@ Du må også melde fra når
 - omsorgen for barnet er overført til andre, helt eller delvis.
 Hvis du trenger mer veiledning, kan du ringe oss på 55 55 33 33.
 
-Oppdatert 20.04.2026
+Oppdatert 10.06.2026
 
 
 #### Chat med oss
@@ -623,7 +623,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -633,7 +633,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -644,3 +644,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-15** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)

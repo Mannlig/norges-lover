@@ -1,4 +1,4 @@
-<!-- innholds-hash: ab501946e9c990bcadcb8dc0f63c50b87585cd576abbe6ed0969ddac1a061f69 -->
+<!-- innholds-hash: d5d4aa8f6c01950335ba6f5b5b054b31dfaaf15145fc699eeba673c9e41c32f6 -->
 
 # Forskrift om tiltaks- og grenseverdier
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T20:16:05Z
+- **Sist hentet:** 2026-06-18T12:59:10Z
 
 ## Innhold
 
@@ -159,7 +159,7 @@ Vanninnholdet i luft fra kompressor ved fylling av 200 eller 300 bar sylindre b�
 
 Personer under 18 år foretar oftere enn eldre arbeidstakere uoverveide handlinger som kan føre til fare for egen eller andres sikkerhet. Et viktig aspekt er at de ikke er ferdig utviklet fysisk, og at de dessuten ofte mangler arbeidserfaring og den modenheten som er nødvendig for å handle riktig i vanskelige situasjoner. I forskrift om organisering, ledelse og medvirkning § 12-6 «Forbud mot arbeid som kan medføre særlig fare for helseskade», er det blant annet listet opp enkeltkjemikalier og fareklasser for kjemikalier som personer under 18 år ikke skal utsettes for under arbeid.
 
-I forskrift om utførelse av arbeid § 3-19 «Forbud mor arbeid med spesielle kjemikalier», er det listet opp kreftfremkallende kjemikalier det er forbudt å produsere, fremstille eller bruke i Norge.
+I forskrift om utførelse av arbeid § 3-19 «Forbud mot arbeid med spesielle kjemikalier», er det listet opp kreftfremkallende kjemikalier det er forbudt å produsere, fremstille eller bruke i Norge.
 
 Bruk og håndtering av asbest er forbudt om ikke annet følger av forskrift om utførelse av arbeid § 4-1 «Forbud mot asbest og asbestholdig materiale».
 
@@ -181,3 +181,4 @@ Forskrift om organisering, ledelse og medvirkning § 16-3 «Ikrafttredelse» gir
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-18** Innhold endret (se git-historikk for diff)

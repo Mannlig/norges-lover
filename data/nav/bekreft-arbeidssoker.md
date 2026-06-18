@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4110bfb2fa2aa7b9abe0a90f21f8fdcb18230a68b0fcb982b15a6efac1963aad -->
+<!-- innholds-hash: 2b860e42e5791c1685ecfc61d35c8783e6761b2b60a0f6e7f76718a75bb80963 -->
 
 # Bekreft at du vil være registrert som arbeidssøker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bekreft-arbeidssoker
-- **Sist hentet:** 2026-05-21T23:30:05Z
+- **Sist hentet:** 2026-06-18T09:34:09Z
 
 ## Innhold
 
@@ -74,7 +74,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -84,7 +84,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -94,3 +94,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-06-18** Innhold endret (se git-historikk for diff)
