@@ -1,11 +1,11 @@
-<!-- innholds-hash: cbb276d124c54ed43c9afb35849178b6ef2504fa2afe0ee2b96f71a1448683a4 -->
+<!-- innholds-hash: 8d945105ab3fda741e559468ba747bf3c36fe1636fad5f400814e75761bb4f99 -->
 
 # Nav hjelpemiddelsentral Trøndelag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-trondelag
-- **Sist hentet:** 2026-06-12T01:23:44Z
+- **Sist hentet:** 2026-06-19T20:07:57Z
 
 ## Innhold
 
@@ -65,23 +65,22 @@ Det kan være flere som gjennomfører utprøving samtidig. Påmelding sendes per
 
 Trondheim, kl.11:00-14:00 møterom Sandmoen:
 
-- tirsdag 27. januar
-- tirsdag 10. februar
-- tirsdag 24. februar
-- tirsdag 10. mars
-- tirsdag 24. mars
-- tirsdag 14. april
-- tirsdag 28. april
-- tirsdag 12. mai
-- tirsdag 26. mai
-- tirsdag 9. juni
+- torsdag 20. august
+- tirsdag 1. september
+- tirsdag 15. september
+- torsdag 1. oktober
+- tirsdag 13. oktober
+- torsdag 29. oktober
+- tirsdag 10. november
+- torsdag 26. november
+- tirsdag 8. desember
 Levanger, kl.12:00-13:30, møterom ved resepsjonen:
 
-- mandag 9. februar
-- mandag 16. mars
-- mandag 13. april
-- mandag 11. mai
-- mandag 8. juni
+- mandag 17. august
+- mandag 14. september
+- mandag 12. oktober
+- mandag 16. november
+- mandag 14- desember
 Hvis du har sendt en søknad til Nav hjelpemidler og tilrettelegging, kan du logge inn på nav.no og sjekke saken din selv.
 
 Innloggingsknappen finner du øverst til høyre på siden.
@@ -237,3 +236,4 @@ Anonymiser eventuelle brukerdata. Vi vil innhente supplerende informasjon ved b
 
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

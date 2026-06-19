@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7219c2291a7b0f041d04e5a59a55690b1a9ba56feaf6265ecd9a3daf013ca29e -->
+<!-- innholds-hash: 72f01599881e06b2b0ec8e44e9f4ebd9b04eadd07464bb252e75193254633b33 -->
 
 # Trenger rådgivning om økonomi og gjeld - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomi-rad
-- **Sist hentet:** 2026-06-12T09:13:10Z
+- **Sist hentet:** 2026-06-19T20:51:42Z
 
 ## Innhold
 
@@ -310,7 +310,7 @@ Oppdatert 09.02.2026
 
 #### Ring oss på 55 55 33 39
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -320,3 +320,4 @@ Oppdatert 09.02.2026
 
 - **2026-06-04** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

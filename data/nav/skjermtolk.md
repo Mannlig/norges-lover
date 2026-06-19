@@ -1,11 +1,11 @@
-<!-- innholds-hash: 907b8fb2c4e2c2d30dac47cd54aa9ccd768589145232c79974efc567a010ca56 -->
+<!-- innholds-hash: a3fc81f1a13f0f6b96af8f939e97fdb3fd88ea679ee25bc43b23fa7fc1ab956a -->
 
 # Skjermtolk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skjermtolk
-- **Sist hentet:** 2026-06-12T09:14:30Z
+- **Sist hentet:** 2026-06-19T20:53:06Z
 
 ## Innhold
 
@@ -104,7 +104,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -115,3 +115,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: ff9cd784d8cee4a0f7f1076fcb39691a350093c93a565f1f88a195b5a24a340a -->
+<!-- innholds-hash: 90c5a8a81b6276c7ffd7fe05b6caa7e3edf41f1091134a9bc7c64ad89f794214 -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist hentet:** 2026-06-11T19:16:40Z
+- **Sist hentet:** 2026-06-19T19:55:31Z
 
 ## Innhold
 
@@ -56,7 +56,7 @@ Første utbetaling kommer måneden etter at du ble tatt inn i ungdomsprogrammet.
 
 #### Alder, inntekt og barn avgjør hvor mye du kan få
 
-Når Nav regner ut hvor mye penger du kan få, bruker vi en bestemt sum som heter grunnbeløpet. Grunnbeløpet er bestemt av Stortinget, og det endrer seg 1. mai hvert år. Fra 1. mai 2025 er grunnbeløpet på 136 549 kroner.
+Når Nav regner ut hvor mye penger du kan få, bruker vi en bestemt sum som heter grunnbeløpet. Grunnbeløpet er bestemt av Stortinget, og det endrer seg 1. mai hvert år. Fra 1. mai 2026 er grunnbeløpet på 136 549 kroner.
 
 Hvor mye penger du kan få, kommer først og fremst an på hvor gammel du er.
 
@@ -66,7 +66,7 @@ Denne summen deler vi på 260 dager, fordi du ikke får penger for lørdager og 
 
 Det vil si at du kan ha rett til 714 kroner per dag (dagsatsen).
 
-Hvis du er 25 år eller eldre, kan du få opptil 278 697
+Hvis du er 25 år eller eldre, kan du få opptil 278 697 kroner i året. Det vil si 2,041 ganger grunnbeløpet i folketrygden.
 
 Denne summen deler vi på 260 dager, fordi du ikke får penger for lørdager og søndager.
 
@@ -80,13 +80,13 @@ Hvis du har barn, får du mer penger i tillegg til dagsatsen (som du kan lese om
 
 #### Hvis du har en inntekt i tillegg
 
-Når du har en inntekt, får du litt mindre penger i ungdomsprogramytelsen. Da regner Nav ut hva 66 prosent av inntekten din er den måneden, og trekker dette beløpet fra ungdomsprogramytelsen din for den samme måneden (se eksempelet under).
+Når du har en inntekt, får du litt mindre penger i ungdomsprogramytelsen. Da regner Nav ut hva 66 prosent av inntekten din er den måneden, og trekker dette beløpet fra ungdomsprogramytelsen din for den samme måneden (se eksempelet under).
 
-Likevel får du til sammen mer penger når du både har en inntekt og får penger i ungdomsprogramytelsen, enn hvis du bare hadde fått ungdomsprogramytelsen.
+Likevel får du til sammen mer penger når du både har en inntekt og får penger i ungdomsprogramytelsen, hvis du bare hadde fått ungdomsprogramytelsen.
 
 Hvis du har en inntekt, er det veldig viktig at du informerer oss om dette.
 
-Den 1. hver måned får du en melding fra Nav om å gi beskjed hvis du har hatt inntekt måneden før. Da logger du inn på Min side på nav.no og gir beskjed om hvor mye du har hatt inntekt.
+Den 1. hver måned får du en melding fra Nav om å gi beskjed hvis du har hatt inntekt måneden før. Da logger du inn på Min side på nav.no og gir beskjed om hvor mye du har hatt inntekt.
 
 Siri er 23 år og deltar i ungdomsprogrammet, og da har hun rett til 714 kroner per dag i ungdomsprogramytelsen. I oktober 2026 er det 22 dager utenom lørdager og søndager, så da vil hun ha rett til
 
@@ -227,16 +227,12 @@ Det er ikke feriepenger på denne pengestøtten.
 
 Det blir trukket skatt av pengene.
 
-Det blir ikke trukket skatt i juni. I desember blir det trukket halv skatt.
-
-Hvis du betaler Svalbardskatt eller
-
 Mer om
 
 
 ### Lenker
 
-Oppdatert 02.06.2026
+Oppdatert 17.06.2026
 
 
 #### Chat med oss
@@ -245,7 +241,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -255,7 +251,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -265,3 +261,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

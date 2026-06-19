@@ -1,11 +1,11 @@
-<!-- innholds-hash: b1958122f10e75474763280422eaad5c31a2cda7e1ab7209912dd25bf8cb93f5 -->
+<!-- innholds-hash: 4cc7c0d5534e4c386ac86ecbd249bdcd4057a37de8f80b3e45d9e675eb3e4251 -->
 
 # Hjelpemidler og tilrettelegging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-alle
-- **Sist hentet:** 2026-06-11T19:07:18Z
+- **Sist hentet:** 2026-06-19T19:45:46Z
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -43,3 +43,4 @@ Meld deg på nyhetsbrevet fra Nav hjelpemidler og tilrettelegging for å få opp
 ## Endringshistorikk
 
 - **2026-06-11** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

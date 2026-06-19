@@ -1,11 +1,11 @@
-<!-- innholds-hash: 90a599dced8f81cb1f18d090a40f50bfacf5dc4b82bea18df7c34b679329244c -->
+<!-- innholds-hash: c2175407687284a86bac21949e51a7cd4d02d57a8e959eb380bb705723b94da1 -->
 
 # Arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/aap
-- **Sist hentet:** 2026-06-12T09:30:34Z
+- **Sist hentet:** 2026-06-19T21:09:27Z
 
 ## Innhold
 
@@ -181,7 +181,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Kontaktskjema
@@ -204,3 +204,4 @@ Alltid åpen
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

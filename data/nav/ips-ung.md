@@ -1,11 +1,11 @@
-<!-- innholds-hash: 219366da8c24ea248b3a2d0f903d630feb987529e3176d4ceca91dda45846783 -->
+<!-- innholds-hash: 63190c83e69c138fe80f4b2aec405177deb7d48196f555e58bcbadaf02adeb09 -->
 
 # IPS ung – individuell karrierestøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ips-ung
-- **Sist hentet:** 2026-05-17T05:48:28Z
+- **Sist hentet:** 2026-06-19T19:47:57Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -106,3 +106,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

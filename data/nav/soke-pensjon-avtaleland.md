@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9a9cc2975d47cf964e5594b89cc44b6c41c2bba4aa8c6ac48b2c6bd5ce63b5a5 -->
+<!-- innholds-hash: cfd0b8919687d107f0d592922a646208cbee1cd9cb74546a76a15b08a9e47511 -->
 
 # Søke pensjon fra land med trygdeavtale utenfor EU/EØS - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soke-pensjon-avtaleland
-- **Sist hentet:** 2026-06-12T09:24:20Z
+- **Sist hentet:** 2026-06-19T21:03:00Z
 
 ## Innhold
 
@@ -736,7 +736,7 @@ Nesten alle trygdeavtalene gjør det enklere å oppfylle slike krav, fordi perio
 
 Unntaket er trygdeavtalen med Bosnia-Hercegovina, Montenegro, Serbia og Tyrkia, som ikke har regler om sammenlegging.
 
-Oppdatert 17.12.2025
+Oppdatert 19.06.2026
 
 
 #### Chat med oss
@@ -745,7 +745,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -755,7 +755,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -766,3 +766,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

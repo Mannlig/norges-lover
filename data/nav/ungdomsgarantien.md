@@ -1,11 +1,11 @@
-<!-- innholds-hash: e0b81124b1ab3faa365f3f6291280e6ce4645ef94daab876495763868376f52d -->
+<!-- innholds-hash: 06498a11b9b03da0be8f491a0ae47bf93a7d4519ca706b38ba8042539e46eff9 -->
 
 # Ungdomsgarantien - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsgarantien
-- **Sist hentet:** 2026-05-17T12:34:17Z
+- **Sist hentet:** 2026-06-19T19:58:58Z
 
 ## Innhold
 
@@ -47,7 +47,7 @@ Sammen med deg vil vi vurdere ditt behov og hva du trenger hjelp til. Les mer om
 
 Er du under 18 år og skal ha oppfølging gjennom ungdomsgarantien må du ha
 
-Oppdatert 05.02.2026
+Oppdatert 19.06.2026
 
 
 ---
@@ -56,3 +56,4 @@ Oppdatert 05.02.2026
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

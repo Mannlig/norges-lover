@@ -1,11 +1,11 @@
-<!-- innholds-hash: 08f9eebb2d7df066276184ed4f9ff929d9b2f8cbf543daab99c615ab7469bb13 -->
+<!-- innholds-hash: 397ff8061924acc63939b7d745af8cf3c8957aa28026dc692bf3be155f0b2324 -->
 
 # Servicehund - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/servicehund
-- **Sist hentet:** 2026-05-17T12:26:25Z
+- **Sist hentet:** 2026-06-19T19:52:45Z
 
 ## Innhold
 
@@ -119,7 +119,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -131,3 +131,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

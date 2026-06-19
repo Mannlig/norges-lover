@@ -1,11 +1,11 @@
-<!-- innholds-hash: e9bf57c48dd69b5e7ada1d3f473361be51366516ee02111b8c512fae36deb276 -->
+<!-- innholds-hash: a51194483c189118c535682e6bb0fb90488942b2992c58eec67ac437346dd8e1 -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-06-12T01:56:16Z
+- **Sist hentet:** 2026-06-19T20:40:58Z
 
 ## Innhold
 
@@ -772,9 +772,13 @@ Våler (Østfold) (Kommune)
 
 Danmark (Land)
 
+Frankrike (Land)
+
 Hellas (Land)
 
 Island (Land)
+
+Italia (Land)
 
 Polen (Land)
 
@@ -785,8 +789,6 @@ Storbritannia (Land)
 Sveits (Land)
 
 Sverige (Land)
-
-Tyskland (Land)
 
 Bygg og anlegg (Kategori)
 
@@ -815,8 +817,6 @@ Transport og lager (Kategori)
 Yrke ikke oppgitt (Kategori)
 
 Utdanning (Kategori)
-
-Alternativ medisin (Kategori)
 
 Andre helseyrker (Kategori)
 
@@ -1066,9 +1066,9 @@ Sesong (Ansettelsesform)
 
 Prosjekt (Ansettelsesform)
 
-Feriejobb (Ansettelsesform)
-
 Åremål (Ansettelsesform)
+
+Feriejobb (Ansettelsesform)
 
 Lærling (Ansettelsesform)
 
@@ -1120,11 +1120,13 @@ Erfaring ikke oppgitt (Arbeidserfaring)
 
 Sommerjobb (Sommerjobb)
 
+Superrask søknad
+
 Nav
 
 Søket ditt
 
-164 stillinger
+133 stillinger
 
 8. juni 2026
 
@@ -1140,47 +1142,49 @@ Vestnes
 
 Søk senest mandag 22. juni
 
-22. mai 2026
+5. juni 2026
+
+NAV-leder
 
 Arbeidsgiver
 
-NAV Midt Agder, Vennesla kommune
+Nav Rauma
 
 Sted
 
-Vennesla
-
-Søk senest mandag 15. juni
-
-19. mai 2026
-
-Vil du gjøre en forskjell for ungdom i Vefsn?
-
-Arbeidsgiver
-
-Vefsn kommune Sosialtjenester NAV kommune
-
-Sted
-
-Mosjøen
+Åndalsnes
 
 Søk senest i dag
 
-1. juni 2026
+15. juni 2026
 
 Arbeidsgiver
 
-Gjøvik kommune Nav Gjøvik
+HMS Oppland, Nav
 
 Sted
 
 Gjøvik
 
-Søk senest i overmorgen
+Søk senest mandag 29. juni
 
-3. juni 2026
+Ny i dag
 
-Fagansvarleg sosial i NAV Øygarden, 100% mellombels stilling
+Saksbehandler
+
+Arbeidsgiver
+
+Nav familie -og pensjonsytelser Oslo, avdeling Yrkessykdom
+
+Sted
+
+Oslo
+
+Søk senest søndag 5. juli
+
+12. juni 2026
+
+100% vikariat som rådgjevar
 
 Arbeidsgiver
 
@@ -1190,71 +1194,33 @@ Sted
 
 Straume
 
-Søk senest onsdag 17. juni
+Søk senest søndag 28. juni
 
-29. mai 2026
+12. juni 2026
 
-Seniorrådgiver innen økonomistyring
-
-Arbeidsgiver
-
-Økonomi- og styringsavdelingen, Nav
-
-Sted
-
-Oslo
-
-Søk senest i overmorgen
-
-2. juni 2026
+Rådgjevar 100% fast –  Jobbsjansen
 
 Arbeidsgiver
 
-Nav Levanger
+Øygarden kommune NAV Øygarden
 
 Sted
 
-Levanger
+Straume
 
-Søk senest tirsdag 16. juni
+Søk senest søndag 28. juni
 
-2. juni 2026
+16. juni 2026
 
 Arbeidsgiver
 
-Tromsø, Nav
+Hadeland, Nav
 
 Sted
 
-Tromsø
+Gran
 
-Søk senest tirsdag 16. juni
-
-29. mai 2026
-
-Arbeidsgiver
-
-Nav Midtre Namdal
-
-Sted
-
-Namsos, Grong, Kolvereid
-
-Søk senest i overmorgen
-
-3. juni 2026
-
-Teamkoordinator
-
-Arbeidsgiver
-
-Nav
-
-Sted
-
-Oslo
-
-Søk senest tirsdag 16. juni
+Søk senest tirsdag 30. juni
 
 1. juni 2026
 
@@ -1266,67 +1232,49 @@ Sted
 
 Mandal
 
-Søk senest søndag 21. juni
-
-3. juni 2026
-
-Arbeidsgiver
-
-Namsos kommune NAV Midtre Namdal
-
-Sted
-
-Namsos
-
-Søk senest mandag 15. juni
-
-4. juni 2026
-
-Arbeidsgiver
-
-Nav Falkenborg Kartlegging
-
-Sted
-
-Trondheim
-
-Søk senest torsdag 18. juni
-
-30. mai 2026
-
-Arbeidsgiver
-
-Nav
-
-Sted
-
-Stavanger
-
-Søk senest i dag
-
-2. juni 2026
-
-Arbeidsgiver
-
-Nav Skien
-
-Sted
-
-Skien
-
-Søk senest tirsdag 16. juni
-
-29. mai 2026
-
-Arbeidsgiver
-
-Horten Oppfølging Voksen, Nav
-
-Sted
-
-Horten
-
 Søk senest i overmorgen
+
+To dager siden
+
+Økonomisk veileder 100 % fast stilling
+
+Arbeidsgiver
+
+Vestre Toten kommune NAV
+
+Sted
+
+Raufoss
+
+Søk senest mandag 27. juli
+
+12. juni 2026
+
+Rettleiar i NAV Nordfjord
+
+Arbeidsgiver
+
+NAV Nordfjord, Stad kommune
+
+Sted
+
+Nordfjordeid
+
+Søk senest søndag 28. juni
+
+12. juni 2026
+
+Avdelingsleder
+
+Arbeidsgiver
+
+Nav Arbeid og ytelser Trondheim
+
+Sted
+
+Tiller
+
+Søk senest mandag 22. juni
 
 1. juni 2026
 
@@ -1338,31 +1286,33 @@ Sted
 
 Mandal
 
-Søk senest søndag 21. juni
+Søk senest i overmorgen
 
-3. juni 2026
+12. juni 2026
 
-Arbeidsgiver
-
-Grünerløkka Tiltak og kvalifisering, Nav
-
-Sted
-
-Oslo
-
-Søk senest tirsdag 16. juni
-
-5. juni 2026
+Veileder
 
 Arbeidsgiver
 
-Nav Øvre Eiker
+Nav Randaberg-Kvitsøy
 
 Sted
 
-Hokksund
+Randaberg
 
-Søk senest torsdag 18. juni
+Søk senest fredag 26. juni
+
+16. juni 2026
+
+Arbeidsgiver
+
+NAV, Salangen kommune
+
+Sted
+
+Sjøvegan
+
+Søk senest fredag 3. juli
 
 9. juni 2026
 
@@ -1378,7 +1328,7 @@ Isdalstø
 
 Søk senest tirsdag 23. juni
 
-To dager siden
+10. juni 2026
 
 Arbeidsgiver
 
@@ -1390,57 +1340,119 @@ Oslo
 
 Søk senest onsdag 24. juni
 
+3. juni 2026
+
+Arbeidsgiver
+
+Nav Falkenborg, Trondheim kommune
+
+Sted
+
+Trondheim
+
+Søk senest søndag 28. juni
+
+12. juni 2026
+
+Veileder
+
+Arbeidsgiver
+
+Nav Lerkendal
+
+Sted
+
+Trondheim
+
+Søk senest fredag 26. juni
+
+12. juni 2026
+
+Arbeidsgiver
+
+Nav Karmøy-Bokn / Karmøy kommune
+
+Sted
+
+Kopervik
+
+Søk senest fredag 3. juli
+
+8. juni 2026
+
+Veileder 100 %  fast stilling ved Nav Gjøvik
+
+Arbeidsgiver
+
+Gjøvik kommune Nav Gjøvik
+
+Sted
+
+Gjøvik
+
+Søk senest i overmorgen
+
+15. juni 2026
+
+Veileder
+
+Arbeidsgiver
+
+Sør-Varanger kommune NAV Sør-Varanger
+
+Sted
+
+Kirkenes
+
+Søk senest søndag 12. juli
+
+15. juni 2026
+
+Arbeidsgiver
+
+Nannestad kommune NAV Nannestad og Gjerdum
+
+Sted
+
+Nannestad
+
+Søk senest søndag 5. juli
+
 8. juni 2026
 
 Arbeidsgiver
 
-Bjerke Oppfølging 2, Nav
+Nav Ungdom, Oslo kommune, Bydel Grünerløkka
 
 Sted
 
 Oslo
 
-Søk senest torsdag 18. juni
+Søk senest i dag
+
+8. juni 2026
+
+Arbeidsgiver
+
+NAV Ullensaker 04, Ullensaker kommune
+
+Sted
+
+Jessheim
+
+Søk senest tirsdag 23. juni
 
 4. juni 2026
 
 Arbeidsgiver
 
-NAV, Øvre Eiker kommune
+Nav Lillehammer-Gausdal
 
 Sted
 
-Hokksund
+Lillehammer
 
-Søk senest torsdag 18. juni
-
-5. juni 2026
-
-NAV-leder
-
-Arbeidsgiver
-
-Nav Rauma
-
-Sted
-
-Åndalsnes
-
-Søk senest fredag 19. juni
-
-1. juni 2026
-
-NAV-veileder
-
-Arbeidsgiver
-
-Ringsaker kommune NAV Sosiale tjenester
-
-Sted
-
-Brumunddal
-
-Søk senest i overmorgen
+Søk senest fredag 26. juni
 
 
 ### Var søketreffene relevante?
@@ -1455,3 +1467,4 @@ Har du tilbakemeldinger eller noe du savner?
 
 - **2026-05-18** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

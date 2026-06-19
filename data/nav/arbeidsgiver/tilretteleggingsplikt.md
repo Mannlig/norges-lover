@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6ddfe68905346bec5ca21ff6a9dc5fea4872dbb2bb5ff5816b2eecab75d68123 -->
+<!-- innholds-hash: 2f78f7395dde8f0d3f5ff5c1d4e02596d0056b94c551398fe19fce681fbb74d0 -->
 
 # Tilrettelegging på arbeidsplassen - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilretteleggingsplikt
-- **Sist hentet:** 2026-06-12T09:49:14Z
+- **Sist hentet:** 2026-06-19T21:28:12Z
 
 ## Innhold
 
@@ -175,7 +175,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Kontaktskjema
@@ -197,3 +197,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

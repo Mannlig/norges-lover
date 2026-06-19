@@ -1,4 +1,4 @@
-<!-- innholds-hash: 13853a94bd07760da827704057efa546b4eb07b108465766190e19f7836487db -->
+<!-- innholds-hash: a0af9e450384d63380c599f8dfc464512469342e19a2faf315d65c5c37105475 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus
 
@@ -8,32 +8,113 @@
 - **Sak-ID:** 200360
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke kvinners tilgang på medikamentell abort utenfor sykehus
-- **Status:** 3
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-18T16:14:22Z
+- **Sist hentet:** 2026-06-19T15:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200360
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781799014955+0200)/",
+  "respons_dato_tid": "/Date(1781881619073+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
-  "forslagstiller_liste": [],
+  "forslagstiller_liste": [
+    {
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Breivik",
+      "foedselsdato": "/Date(899416800000+0200)/",
+      "fornavn": "Ane",
+      "id": "ANEBRE",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Almeland",
+      "foedselsdato": "/Date(670201200000+0100)/",
+      "fornavn": "Grunde",
+      "id": "GKAL",
+      "kjoenn": 2,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "versjon": "1.6",
+      "doedsdato": null,
+      "etternavn": "Melby",
+      "foedselsdato": "/Date(350002800000+0100)/",
+      "fornavn": "Guri",
+      "id": "GME",
+      "kjoenn": 1,
+      "fylke": {
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "versjon": "1.6",
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "versjon": "1.6",
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "henvisning": "Dokument 8:309 S (2025–2026)",
   "id": 200360,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "respons_dato_tid": "/Date(1781881362828+0200)/",
+    "versjon": "1.6",
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om å styrke kvinners tilgang på medikamentell abort utenfor sykehus",
   "sak_fremmet_id": 200360,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781733600000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus",
   "type": 2
 }
@@ -44,3 +125,4 @@
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-19 13:24 UTC*
+*Sist oppdatert: 2026-06-19 21:31 UTC*
 
 **Antall dokumenter:** 3800
 
@@ -216,7 +216,7 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Representasjon, velferdstiltak, reklame og gaver](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/representasjon-velferdstiltak-reklame-og-gaver.md)
 - [Når kunden ikke betaler - tap på fordring](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/tap-pa-krav.md)
 - [Fradrag for utgifter til pensjon, sykepenger, forsikring og kontingenter](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utgifter-til-pensjon-sykepenger-og-forsikring.md)
-- [Land-for-land-rapportering for store flernasjonale konsern](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern/internprising/land-for-land-rapportering.md)
+- [Land-for-land-rapportering for skatteformål](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern/internprising/land-for-land-rapportering.md)
 - [Utland, store selskaper og konsern](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/utland-store-selskaper-og-konsern.md)
 - [Tema og fradrag for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag.md)
 - [Slik sender du inn skattemelding for næringsdrivende](bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/hjelp-til-skattemelding/innsending.md)

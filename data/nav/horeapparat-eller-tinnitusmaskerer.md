@@ -1,11 +1,11 @@
-<!-- innholds-hash: 743a7554b7fcec5a2ae81e584ef7cec8ea02d16969825a68aef462a563f770d2 -->
+<!-- innholds-hash: 7a56f800b3e7c1fdf31febd9c1c81495e267bd537191c9913e1c32d909f07b96 -->
 
 # Har nedsatt hørsel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/horeapparat-eller-tinnitusmaskerer
-- **Sist hentet:** 2026-06-11T19:07:58Z
+- **Sist hentet:** 2026-06-19T19:46:29Z
 
 ## Innhold
 
@@ -118,7 +118,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -130,3 +130,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-06-11** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

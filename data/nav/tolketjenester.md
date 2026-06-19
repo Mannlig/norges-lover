@@ -1,11 +1,11 @@
-<!-- innholds-hash: 847c7b5bf8e58bc0366146565b03d18da28998fde9866e78c4bd00822e7b0885 -->
+<!-- innholds-hash: 4674db0cb950686ba378270d8179d56150716aa0760812d0c05e86e4d596b47c -->
 
 # Tolking for døve, døvblinde og hørselshemmede - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tolketjenester
-- **Sist hentet:** 2026-06-12T09:25:44Z
+- **Sist hentet:** 2026-06-19T21:04:21Z
 
 ## Innhold
 
@@ -194,7 +194,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -204,3 +204,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 - **2026-06-04** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

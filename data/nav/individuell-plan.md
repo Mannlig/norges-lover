@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5d8b005e08eccef4e35c1c5e9fbc548b81e90491f4906f5f842a5d7fd7b1c701 -->
+<!-- innholds-hash: 960941313387ce515872da2231634917170e72e26e8f8037802fb7f069a1d5be -->
 
 # Individuell plan - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/individuell-plan
-- **Sist hentet:** 2026-06-12T09:20:51Z
+- **Sist hentet:** 2026-06-19T20:59:33Z
 
 ## Innhold
 
@@ -67,7 +67,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -77,7 +77,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -88,3 +88,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-18** Første gang hentet
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

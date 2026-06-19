@@ -1,11 +1,11 @@
-<!-- innholds-hash: 30c44011724b1c3517e50e302913c52c9c717a86eaeddeead492c4f5d0b122d4 -->
+<!-- innholds-hash: baa93de9af07189b4af581745d45a891229d1e97376efeee704c1d671817f595 -->
 
 # Funksjonsassistanse i arbeidslivet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/funksjonsassistanse
-- **Sist hentet:** 2026-05-17T05:45:34Z
+- **Sist hentet:** 2026-06-19T19:45:07Z
 
 ## Innhold
 
@@ -160,7 +160,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -172,3 +172,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

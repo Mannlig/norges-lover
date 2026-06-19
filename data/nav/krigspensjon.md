@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0d9fa0249e5296163152583e6ee6011a573fcc87ebf6de4c94ce30954ce40f23 -->
+<!-- innholds-hash: 08a703b9113eb925f70e9be82f0e2a3dcccc2fbb075af35519b08b6ba80214c7 -->
 
 # Krigspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/krigspensjon
-- **Sist hentet:** 2026-05-17T12:17:58Z
+- **Sist hentet:** 2026-06-19T19:50:02Z
 
 ## Innhold
 
@@ -168,7 +168,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -178,7 +178,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -187,3 +187,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

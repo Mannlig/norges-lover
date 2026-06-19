@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0e6ab5bf05149cfd86c36d0e1e64ce4c53a8689284512e8d9907f4ad55797b56 -->
+<!-- innholds-hash: 6c860e91d112eb82b7632610d14daff26a0a622492011a1e29fad9787a1335f3 -->
 
 # Søke, bestille og bytte hjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bestillingsordningen
-- **Sist hentet:** 2026-06-12T02:00:24Z
+- **Sist hentet:** 2026-06-19T20:45:15Z
 
 ## Innhold
 
@@ -184,7 +184,7 @@ Oppdatert 08.05.2026
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Nyhetsbrev
@@ -198,3 +198,4 @@ Meld deg på nyhetsbrevet fra Nav hjelpemidler og tilrettelegging for å få opp
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

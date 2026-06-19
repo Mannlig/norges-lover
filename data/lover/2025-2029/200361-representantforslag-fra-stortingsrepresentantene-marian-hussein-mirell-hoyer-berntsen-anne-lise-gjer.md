@@ -1,31 +1,31 @@
-<!-- innholds-hash: 97a32eed2d966184aa689a128543302c9ca848089151db043416020bb53d5947 -->
+<!-- innholds-hash: b160e5fd4e467059568250e04035c73406ee58e56a9e1221d825206e0e184f1f -->
 
-# Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet. 
+# Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200361
 - **Type:** 2
-- **Korttittel:** Representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet.
-- **Status:** 3
+- **Korttittel:** Representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
+- **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T00:37:15Z
+- **Sist hentet:** 2026-06-19T15:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200361
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781827248667+0200)/",
+  "respons_dato_tid": "/Date(1781881619073+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781827248667+0200)/",
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -34,7 +34,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781827248667+0200)/",
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -59,7 +59,7 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781827248667+0200)/",
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -84,7 +84,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781827248667+0200)/",
+      "respons_dato_tid": "/Date(1781881619073+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
@@ -109,7 +109,7 @@
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
+        "respons_dato_tid": "/Date(1781866826802+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -129,13 +129,18 @@
   "id": 200361,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
-  "korttittel": "Representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet.",
+  "komite": {
+    "respons_dato_tid": "/Date(1781881362828+0200)/",
+    "versjon": "1.6",
+    "id": "ARBSOS",
+    "navn": "Arbeids- og sosialkomiteen"
+  },
+  "korttittel": "Representantforslag om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
   "sak_fremmet_id": 200361,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781733600000+0200)/",
-  "status": 3,
-  "tittel": "Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet. ",
+  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "status": 2,
+  "tittel": "Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
   "type": 2
 }
 ```
@@ -145,4 +150,5 @@
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
