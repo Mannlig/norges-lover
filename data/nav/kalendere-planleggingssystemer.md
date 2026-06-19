@@ -1,11 +1,11 @@
-<!-- innholds-hash: d63ea3fe15ba435a1a7aff40d07f4461ce1b46f355a80ca6a448d580130d21ad -->
+<!-- innholds-hash: 92f6b32e10da1f75f79884394eb4613648c3cadada3b0e991e9193efa316f77a -->
 
 # Kalendere og planleggingssystemer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kalendere-planleggingssystemer
-- **Sist hentet:** 2026-06-11T09:05:32Z
+- **Sist hentet:** 2026-06-19T03:06:47Z
 
 ## Innhold
 
@@ -231,7 +231,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -244,3 +244,4 @@ Svartid er noen arbeidsdager.
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

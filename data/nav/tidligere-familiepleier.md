@@ -1,11 +1,11 @@
-<!-- innholds-hash: a01b53df86414b14c9f9acc59fbcb81d7eecfc990efd2945cfcf7892d9154d9b -->
+<!-- innholds-hash: a4c8827dc400733defbcb9f1a4e24ec7504d7a180e4a77eb09bbd75569f699e4 -->
 
 # Ytelser til tidligere familiepleier - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tidligere-familiepleier
-- **Sist hentet:** 2026-06-11T08:44:58Z
+- **Sist hentet:** 2026-06-19T02:45:54Z
 
 ## Innhold
 
@@ -269,7 +269,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -279,7 +279,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -291,3 +291,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

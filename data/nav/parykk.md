@@ -1,11 +1,11 @@
-<!-- innholds-hash: 98f8a5a9399f4b8a72db2943667ce18726c082db8006677c9e671afa69cbdc9a -->
+<!-- innholds-hash: 703e37ef694a6544c0f686667323e7559d1b26dba5ef5bafb63e223b0ff7b7bb -->
 
 # Parykk og annen hårerstatning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/parykk
-- **Sist hentet:** 2026-06-11T08:40:07Z
+- **Sist hentet:** 2026-06-19T02:41:02Z
 
 ## Innhold
 
@@ -52,7 +52,7 @@ Du velger selv hvilken leverandør du vil bruke. Mange frisører og noen spesial
 
 - Hvis det er første gang du søker, må du legge ved en legeerklæring som dokumenterer årsaken til, omfanget av og forventet varighet av hårtapet.
 - Hvis du har lagt ut for hårerstatningen, kan du søke om å få refundert utgiftene. Utgifter til frakt, toll og andre gebyrer blir ikke refundert.
-I så fall må du signere en fullmakt om at Nav kan utbetale direkte til leverandøren, og signere for at du har mottatt hårerstatningen.
+I så fall må du ha mottatt et positivt vedtak fra Nav. Du må også signere en fullmakt som gir Nav anledning til å utbetale direkte til leverandøren, og bekrefte med signatur at du har mottatt hårerstatningen.
 
 Hvis du eller leverandøren ønsker å være sikre på at Nav dekker utgiftene, kan dere søke om forhåndsgodkjennelse ved å krysse av for dette i søknadsskjemaet.
 
@@ -87,7 +87,7 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 30.01.2026
+Oppdatert 18.06.2026
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
@@ -106,7 +106,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -118,3 +118,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

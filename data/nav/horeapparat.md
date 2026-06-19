@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7bbf0d485e4a20b9a286bf5d6113cd2d64ae4d0939e941c577cdbe5b22a88bf8 -->
+<!-- innholds-hash: 76f43bad62e0095f99da9b9023b1b755037a5ceb717ca94f70097595474f1be5 -->
 
 # Høreapparat  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/horeapparat
-- **Sist hentet:** 2026-06-03T12:58:35Z
+- **Sist hentet:** 2026-06-19T02:35:30Z
 
 ## Innhold
 
@@ -222,7 +222,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
@@ -231,7 +231,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -242,3 +242,4 @@ Alltid åpen
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

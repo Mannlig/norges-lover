@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8105ae99d9ee6e85bca67ac164e240019136e8718975fa784f5b0108da38c257 -->
+<!-- innholds-hash: e152e1ec57921bac93eb329a0ba11dfacaf2aac84320e20a1769901ba2062fd0 -->
 
 # Brystprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/brystprotese
-- **Sist hentet:** 2026-06-03T12:53:46Z
+- **Sist hentet:** 2026-06-19T02:30:33Z
 
 ## Innhold
 
@@ -106,7 +106,7 @@ Oppdatert 27.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
@@ -115,7 +115,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -126,3 +126,4 @@ Alltid åpen
 - **2026-05-18** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

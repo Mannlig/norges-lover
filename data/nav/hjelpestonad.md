@@ -1,11 +1,11 @@
-<!-- innholds-hash: c81dd29adcfd055898643d73c1f11d2580fa74d835711f602571b6883b75f3f4 -->
+<!-- innholds-hash: 2e2727288568a8e4a449df59b34c2fa6427d02c16f8cf07c022c2603bc3e2e3d -->
 
 # Hjelpestønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpestonad
-- **Sist hentet:** 2026-06-03T12:57:56Z
+- **Sist hentet:** 2026-06-19T02:34:47Z
 
 ## Innhold
 
@@ -170,7 +170,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -180,7 +180,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -191,3 +191,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

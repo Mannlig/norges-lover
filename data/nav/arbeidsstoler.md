@@ -1,11 +1,11 @@
-<!-- innholds-hash: e106a14425e48a63e546624e62761406dbf49901750b4a663dac714d5a99e9c9 -->
+<!-- innholds-hash: fbc77f6cb57c435a20c564a35494464497f4be719b8c5e19f20d3a60833e7708 -->
 
 # Stoler og bord - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsstoler
-- **Sist hentet:** 2026-06-11T08:50:25Z
+- **Sist hentet:** 2026-06-19T02:51:30Z
 
 ## Innhold
 
@@ -250,7 +250,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -265,3 +265,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

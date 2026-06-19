@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2722b9414180ee50238b2927a00c158b7352f9d9a558f718679e1ae6f0ca395c -->
+<!-- innholds-hash: bbc7422fc2b6d60eacdecec4578d2c4a7379c180cd89ff3107079748792b8c9b -->
 
 # Ektefellebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ektefellebidrag
-- **Sist hentet:** 2026-06-03T12:54:28Z
+- **Sist hentet:** 2026-06-19T02:31:17Z
 
 ## Innhold
 
@@ -101,7 +101,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -111,7 +111,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -122,3 +122,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

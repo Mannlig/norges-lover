@@ -1,11 +1,11 @@
-<!-- innholds-hash: 463de9499ba9ed56778a7eaa7c3c480b744f1b0d7d46423acd421c102106e059 -->
+<!-- innholds-hash: e6660129980521c5b58f2ce008bb2432e9334d27b0b3513b8db4b79ae3698258 -->
 
 # Enkle talemaskiner - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/enkle-talemaskiner
-- **Sist hentet:** 2026-06-11T08:55:11Z
+- **Sist hentet:** 2026-06-19T02:56:19Z
 
 ## Innhold
 
@@ -214,7 +214,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -229,3 +229,4 @@ Alltid åpen
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

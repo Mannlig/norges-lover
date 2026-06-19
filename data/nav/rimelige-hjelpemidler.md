@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3bb45f8cb36267e80abcdb0ac71773df7c0f7ac18fd970b74443ab4620bf05f7 -->
+<!-- innholds-hash: 2a00714b9d1ce06a21987eb5bcb7b5e11fa478914ab67fc083f0f421a8544416 -->
 
 # Tilskudd til rimelige hjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/rimelige-hjelpemidler
-- **Sist hentet:** 2026-06-11T08:42:51Z
+- **Sist hentet:** 2026-06-19T02:43:48Z
 
 ## Innhold
 
@@ -60,11 +60,11 @@ Støtte til rimelige hjelpemidler
 
 Hvis du lurer på når du sist fikk innvilget tilskudd til rimelige hjelpemidler, kan du logge inn på nav.no og finne vedtak i dokumentarkiv.
 
-Mer informasjon til deg som
-
 Søknaden må beskrive funksjonsproblemene og gi en begrunnelse for hvorfor du trenger småhjelpemidler for å fungere i dagliglivet. Du trenger ikke skrive hvilke produkter du vil bruke tilskuddet til.
 
 Du må selv kjøpe produktene, og du kan søke nytt tilskudd etter 4 år.
+
+Hvis du søker selv eller på vegne av ditt barn eller en person du er verge for, må du legge ved en uttalelse fra fagperson som bekrefter behovet for hjelpemidler, eller en faglig utredningsrapport som er relevant for søknaden.
 
 
 #### Saksbehandlingstid for søknader
@@ -90,7 +90,9 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 05.12.2025
+Mer informasjon til deg som
+
+Oppdatert 18.06.2026
 
 
 #### Chat med chatbot
@@ -107,7 +109,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -122,3 +124,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

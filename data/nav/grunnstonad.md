@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9e8932f2d0c23774b77149c96d64ad99c30a00bfb0611336921ecec5a39e8c44 -->
+<!-- innholds-hash: 1e1159fb75499a9257b5038c72c1182fb99df82f1cc16330dae413013c3e21fa -->
 
 # Grunnstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnstonad
-- **Sist hentet:** 2026-06-03T12:57:14Z
+- **Sist hentet:** 2026-06-19T02:34:04Z
 
 ## Innhold
 
@@ -173,7 +173,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -183,7 +183,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -194,3 +194,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-17** Første gang hentet
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)
