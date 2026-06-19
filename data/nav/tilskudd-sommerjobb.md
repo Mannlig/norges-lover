@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3cf988e87ec71d8913d51dcac34d8c1db0020952419af735e0d682cc3e30ea5d -->
+<!-- innholds-hash: 2e710bcc88f69223414e57557b848baaa629956d1d52458e9e7fdeb5a6de1213 -->
 
 # Tilskudd til sommerjobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilskudd-sommerjobb
-- **Sist hentet:** 2026-05-17T12:29:53Z
+- **Sist hentet:** 2026-06-19T11:39:57Z
 
 ## Innhold
 
@@ -73,7 +73,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -83,7 +83,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -92,3 +92,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

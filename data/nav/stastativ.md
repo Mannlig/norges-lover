@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7422bd93bb2147f2f7fc986c8207025d98a351fc48578332b1cd96d6fa6ae998 -->
+<!-- innholds-hash: 91425fa4f4663ad000678d3aa78e5636346578e7859a081bdd12ec3d83ed1355 -->
 
 # Ståstativ - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/stastativ
-- **Sist hentet:** 2026-05-18T02:35:46Z
+- **Sist hentet:** 2026-06-19T11:33:47Z
 
 ## Innhold
 
@@ -203,7 +203,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar kl 9
+Ope no
 
 
 #### Finn din hjelpemiddelsentral
@@ -215,3 +215,4 @@ Stengt no, opnar kl 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

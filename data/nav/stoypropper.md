@@ -1,11 +1,11 @@
-<!-- innholds-hash: e53386a27b3452aae07f37fbc458959405519cabc6eecc0ca3853dbab894cfc3 -->
+<!-- innholds-hash: f7f662e34f8cf4f5de4792a6212cd45e4a3295efb01e0130af17cce93bd0c676 -->
 
 # Støypropper - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/stoypropper
-- **Sist hentet:** 2026-05-18T02:37:17Z
+- **Sist hentet:** 2026-06-19T11:35:47Z
 
 ## Innhold
 
@@ -128,7 +128,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -140,3 +140,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

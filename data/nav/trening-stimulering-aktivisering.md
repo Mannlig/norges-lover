@@ -1,11 +1,11 @@
-<!-- innholds-hash: 41af236c27e8522cf4563342d40e588b09055bf617e6892805072e4e5dfb3715 -->
+<!-- innholds-hash: 4be4c74e2f73f0e8bffe4c3f91fbd03190a1245e29ec703b748143ea950f122b -->
 
 # Trening, stimulering og aktivisering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trening-stimulering-aktivisering
-- **Sist hentet:** 2026-05-18T02:40:51Z
+- **Sist hentet:** 2026-06-19T11:41:20Z
 
 ## Innhold
 
@@ -227,7 +227,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -239,3 +239,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

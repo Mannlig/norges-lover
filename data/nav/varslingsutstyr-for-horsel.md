@@ -1,11 +1,11 @@
-<!-- innholds-hash: c88998b8527485eb23195c359b109d8bf1322f55a93beaaadb9688be011caa7d -->
+<!-- innholds-hash: c01204ef32e6b99b845e660a5d73421c8fbc5450f254fce54dfb58194cc50a67 -->
 
 # Varslingsutstyr for hørsel  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varslingsutstyr-for-horsel
-- **Sist hentet:** 2026-05-18T02:42:48Z
+- **Sist hentet:** 2026-06-19T11:44:49Z
 
 ## Innhold
 
@@ -236,7 +236,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -248,3 +248,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

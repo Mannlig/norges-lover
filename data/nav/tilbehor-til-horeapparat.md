@@ -1,11 +1,11 @@
-<!-- innholds-hash: 676b9f8ea8670a9c6809066b0e57608c26a9e9f94b75c099573b9d79d80ba642 -->
+<!-- innholds-hash: eef97ac17a9eaa5770f8ef37d8fb704f38290e1ab65580a14458aa2fba666cec -->
 
 # Tilbehør til høreapparat  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilbehor-til-horeapparat
-- **Sist hentet:** 2026-05-18T02:39:18Z
+- **Sist hentet:** 2026-06-19T11:38:35Z
 
 ## Innhold
 
@@ -241,7 +241,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -253,3 +253,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

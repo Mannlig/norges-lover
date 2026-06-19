@@ -1,11 +1,11 @@
-<!-- innholds-hash: 805ff4e1d60e71a0a8d0f83fdeff93287f3321e45eff7809abfece8d2426a7b7 -->
+<!-- innholds-hash: c63875bce1d685ab190eaf0e7b6d63e3d331384a7e7bccee331a8a695d16c86a -->
 
 # Income report - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding/en
-- **Sist hentet:** 2026-06-03T14:25:46Z
+- **Sist hentet:** 2026-06-19T12:15:55Z
 
 ## Innhold
 
@@ -453,12 +453,12 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Open
 
 
 #### Call us at 55 55 33 36
 
-Closed now, opens at 9am
+Open
 
 
 ---
@@ -468,3 +468,4 @@ Closed now, opens at 9am
 
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

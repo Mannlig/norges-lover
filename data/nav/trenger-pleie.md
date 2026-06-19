@@ -1,11 +1,11 @@
-<!-- innholds-hash: 514846b3fe5a1a1dfaa9d8dd84391242eea1ba3e7b1ad6df672c50d87fb245c3 -->
+<!-- innholds-hash: f6743ee02b5be93343faef8492427e90c114606bbb875aea8b443b1e04392bda -->
 
 # Trenger pleie på grunn av sykdom eller skade - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trenger-pleie
-- **Sist hentet:** 2026-05-17T05:30:55Z
+- **Sist hentet:** 2026-06-19T12:59:59Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -45,7 +45,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -54,3 +54,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 68348b161faa69ce71f960f46977900069cb736153ee711679746e0280717b42 -->
+<!-- innholds-hash: b7fba409099d8923bfb1de8ba179c87fee3c2bdf155a7c60ad17a31b485c7aad -->
 
 # Financial support and services - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester/en
-- **Sist hentet:** 2026-05-16T22:33:58Z
+- **Sist hentet:** 2026-06-19T12:37:43Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Are you looking for a special form or application? Find
 #### Select area
 
 
-### Showing 223 out of 223
+### Showing 222 out of 222
 
 You may earn pension credits if you have, or have had, daily care of children under the age of 6, or for children between 6 and 18 who are ill or have disabilities.
 
@@ -280,8 +280,6 @@ A lump sum instead of parental benefit when you are expecting a child and have n
 
 If you have a visual impairment, different situations and needs can be facilitated with different enlargement aids.
 
-From 1 January 2022, maintenance supplements for retirement pension and AFP were no longer granted in the public sector. The maintenance supplement is being phased out gradually.
-
 Membership in the National Insurance Scheme is the key to eligibility for rights to services from Nav. In Norway, your membership can be based on residence or employment. You can also be a member of the National Insurance Scheme during stays abroad.
 
 Practical help, guidance or training when you need help to master your job or education.
@@ -483,3 +481,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 455edb6acf7f29d5b5f6defa44f1f6c8444d31666f58fa7253c4470d7df891c2 -->
+<!-- innholds-hash: e67e85695eefc7ff2ffad69fffe0b4554972c76619a7004a9599e9a3d37a59f8 -->
 
 # Fyll ut meldekort – tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-tiltakspenger
-- **Sist hentet:** 2026-06-03T14:13:27Z
+- **Sist hentet:** 2026-06-19T12:00:21Z
 
 ## Innhold
 
@@ -194,7 +194,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -204,7 +204,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -214,3 +214,4 @@ Stengt nå, åpner kl. 9
 
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-06-19** Innhold endret (se git-historikk for diff)

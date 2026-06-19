@@ -1,11 +1,11 @@
-<!-- innholds-hash: e170f47180d85d3558003e3317ee834609071b4553c7743c8192819a5daa681a -->
+<!-- innholds-hash: 71242fa2ab944ffd9bdfebcf5430cad5d11ac1e1eb0b0d4a7f5229ecf8691dff -->
 
 # Cookies and similar technologies on nav.no - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/informasjonskapsler/en
-- **Sist hentet:** 2026-05-16T22:26:32Z
+- **Sist hentet:** 2026-06-19T12:27:10Z
 
 ## Innhold
 
@@ -102,9 +102,9 @@ Used to save the answers you give during a survey.
 
 Used to remember the user and wether surveys have been opened, closed or completed.
 
-Umami is a tool for analysing user behaviour data that helps us understand how people use nav.no and our digital services.
+We use a tool we have developed ourselves, called Innblikk, to collect data for statistical and analytical purposes.
 
-The goal is to collect, analyse, and interpret data to gain deeper insights into our various user groups, and what their needs are, how they navigate through our solutions, their actions and choices made along the way, where they potentially drop off, and why. By tracking behaviour over time, we can identify challenges, test improvements, and measure the impact of changes.
+The aim is to understand how people use nav.no and our services so that we can improve them. We collect, analyse and interpret data to gain greater insight into our different user groups, and to identify their needs, how they move through our solutions, what actions and choices they make along the way, where they may drop out, and why. By monitoring behaviour over time, we can identify challenges, test improvements and measure the impact of changes.
 
 The data we collect includes, among other things:
 
@@ -112,17 +112,17 @@ The data we collect includes, among other things:
 - How many users are logged in, and which services they use.
 - How people navigate between pages or steps in a process.
 - Which buttons, menus, and links people click on, and which functions they use.
-- How many manage to complete important tasks, such as sending an application or using a calculator, and where they potentially drop off.
+- How many users complete important tasks, such as sending an application or using a calculator, and where they may drop off.
 - The choices they make along the way, and how they respond to questions and options.
 - How they found the page or service, for example via internal links, links from other websites, or search engine results.
-- Which browsers are used, the browser language, the type of device used (mobile or PC), and approximate geographic location (country and city).
-When you use our logged-in services, we may register certain information about you to provide accurate guidance and calculations. This information may be used to analyse how our solutions work for different user groups. These groups are defined based on shared characteristics, for example age group, language preference, whether they already receive financial support from Nav, or if they are applying for the first time.
+- Which browsers are used, the browser language, the type of device used (mobile or desktop), and approximate geographic location (country and city).
+When you use our logged-in services, we may register certain information about you to provide accurate guidance and calculations. This information may be used to analyse how our solutions work for different user groups. These groups are defined based on shared characteristics, for example age group, language preference, whether they already receive financial support from Nav, or whether they are applying for the first time.
 
-The data is not linked to you as an individual, and analyses are only conducted at a group level. We never use the data to track individual usage patterns or compile information that could identify individuals.
+The data and information we collect are not linked to you as an individual, and analyses are only conducted at group level. We never use data or information to track individual usage patterns or to compile information in ways that could identify individuals. Everything we collect is stored safely and securely in Nav’s internal data platform, Nada, and is not shared with third parties.
 
-Umami does not use cookies, but collects information about your browser to create a unique ID (often called finger printing). This ID is used to distinguish you from other users. To prevent identification, we remove parts of your IP address before the data is sent to the tool.
+To collect data, we use a technology known as “fingerprinting” to obtain information about your browser. This information is used to create a unique ID, which allows us to distinguish you from other users. To prevent identification, we remove parts of your IP address before the information is stored.
 
-When you consent to the use of optional cookies, Nav uses a separate cookie to remember your choice (navno‑consent). This cookie also contains an anonymous ID. We use this ID to collect data and see how users return to our services over time through Umami. The ID is linked to your consent and is kept for up to 90 days, or until you withdraw your consent.
+When you consent to the use of optional cookies, Nav uses a cookie to remember that you have given consent (navno-consent). This cookie contains an anonymous ID, which we also use to collect data and track users over time. This ID is linked to the consent you have given and is valid for a maximum of 90 days, or until you choose to withdraw your consent.
 
 We use UXTweak to carry out various types of user testing, such as click tests and tree tests. This helps us understand how well new and existing features on nav.no are working, and whether different changes have the desired effect.
 
@@ -290,7 +290,7 @@ If you have questions about privacy or your rights, you can contact
 
 If you believe that your personal data is being processed in a way that violates privacy regulations, you have the right to file a complaint with the Norwegian Data Protection Authority.
 
-Updated 03/05/2026
+Updated 06/18/2026
 
 
 ---
@@ -299,3 +299,4 @@ Updated 03/05/2026
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)

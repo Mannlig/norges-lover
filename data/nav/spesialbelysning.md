@@ -1,11 +1,11 @@
-<!-- innholds-hash: e40c7f731429bd4bde6c3d0f6987e6e48a254762971dd825544becad020e724e -->
+<!-- innholds-hash: 393abc27f07e4e39ce60727b5c6bab9167c5e7f53179c84e3d74c3a62a49d6bb -->
 
 # Spesialbelysning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/spesialbelysning
-- **Sist hentet:** 2026-05-18T02:35:15Z
+- **Sist hentet:** 2026-06-19T11:33:06Z
 
 ## Innhold
 
@@ -211,7 +211,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Finn din hjelpemiddelsentral
@@ -223,3 +223,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)
