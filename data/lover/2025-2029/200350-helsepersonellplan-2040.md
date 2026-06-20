@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a2ab58e67e16efbe2407f5ea2485211ec98e25065b28be515421b31e70b351e -->
+<!-- innholds-hash: 10e25f68d392fc130b4e6b26c7e9f3781cb5221bdfb3aacfa540f0443886ba7c -->
 
 # Helsepersonellplan 2040
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T23:32:01Z
+- **Sist hentet:** 2026-06-20T06:54:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200350
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781910022687+0200)/",
+  "respons_dato_tid": "/Date(1781935562688+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781910019218+0200)/",
+    "respons_dato_tid": "/Date(1781935228000+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200350,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022702+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -91,3 +91,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-20** Innhold endret (se git-historikk for diff)

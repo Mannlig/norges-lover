@@ -1,4 +1,4 @@
-<!-- innholds-hash: 20aa490af5a6988b75f54fb87174576575e43167efa12c2d6f5c9645eb039371 -->
+<!-- innholds-hash: 850d7a6fc5c600e8ede41792f424507ae15698cd8948fea859ebb1d39cc4bea5 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T23:32:01Z
+- **Sist hentet:** 2026-06-20T06:54:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781910023219+0200)/",
+  "respons_dato_tid": "/Date(1781935562704+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781910023219+0200)/",
+      "respons_dato_tid": "/Date(1781935562704+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910023219+0200)/",
+      "respons_dato_tid": "/Date(1781935562704+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -80,7 +80,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781910019218+0200)/",
+    "respons_dato_tid": "/Date(1781935228000+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -128,3 +128,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-20** Innhold endret (se git-historikk for diff)

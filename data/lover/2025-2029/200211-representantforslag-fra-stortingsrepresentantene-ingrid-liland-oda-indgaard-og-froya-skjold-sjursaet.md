@@ -1,4 +1,4 @@
-<!-- innholds-hash: a97a8751b594a0394a05737d240e269130bf7a6b0cbab81f6ddaee9f91f78270 -->
+<!-- innholds-hash: 660c028281f12d542f09f6442fd8b195901a3d762381b86b5593ac4f6a207c3d -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Liland, Oda Indgaard og Frøya Skjold Sjursæther om å dele ut statens inntekter fra klimaavgifter til befolkningen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T23:32:01Z
+- **Sist hentet:** 2026-06-20T06:54:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200211
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781910021562+0200)/",
+  "respons_dato_tid": "/Date(1781935562625+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781910021640+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910021640+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781910021577+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910021640+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910021640+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -124,7 +124,7 @@
   "innstilling_id": 17545,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781910019218+0200)/",
+    "respons_dato_tid": "/Date(1781935228000+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200211,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781910021577+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -171,3 +171,4 @@
 
 - **2026-06-19** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-20** Innhold endret (se git-historikk for diff)

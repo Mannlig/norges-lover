@@ -1,4 +1,4 @@
-<!-- innholds-hash: c9d378dc8e77b13e578bdc3cec9a29f844972ee2e08d84c30aa8473fb8683f7b -->
+<!-- innholds-hash: 20f7718d9229ce8281cc9c59232e93c833f710a7e5d671e3a5cca347363f413a -->
 
 # Riksrevisjonens undersøkelse av tjenester til barn og unge med psykiske plager og lidelser
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T23:32:01Z
+- **Sist hentet:** 2026-06-20T06:54:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200279
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781910022468+0200)/",
+  "respons_dato_tid": "/Date(1781935562688+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -69,7 +69,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -78,7 +78,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -93,7 +93,7 @@
   "innstilling_id": 17479,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781910019218+0200)/",
+    "respons_dato_tid": "/Date(1781935228000+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -102,7 +102,7 @@
   "sak_fremmet_id": 200279,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022468+0200)/",
+      "respons_dato_tid": "/Date(1781935562688+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -143,3 +143,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-20** Innhold endret (se git-historikk for diff)

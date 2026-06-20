@@ -1,4 +1,4 @@
-<!-- innholds-hash: ffd6e395a4d2866eff5888eee647cd83ee434f2f2490871dedb3bb6530af2cfa -->
+<!-- innholds-hash: 746e8209760a733cfb5cc164bcab8f41f84a87c4ecaf2c3382991c18e179acf0 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Marian Hussein om en løsning for kontantutbetaling til befolkningen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T23:32:01Z
+- **Sist hentet:** 2026-06-20T06:54:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200124
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781910022015+0200)/",
+  "respons_dato_tid": "/Date(1781935562625+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -149,7 +149,7 @@
   "innstilling_id": 17543,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781910019218+0200)/",
+    "respons_dato_tid": "/Date(1781935228000+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200124,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781910022015+0200)/",
+      "respons_dato_tid": "/Date(1781935562625+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -196,3 +196,4 @@
 
 - **2026-06-19** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-20** Innhold endret (se git-historikk for diff)

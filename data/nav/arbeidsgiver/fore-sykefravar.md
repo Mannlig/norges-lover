@@ -1,11 +1,11 @@
-<!-- innholds-hash: 40fe88c0ab6bbd21f197d147f550f05b228e862a35e71b812d5056c631b98b7d -->
+<!-- innholds-hash: 95257b61457c820f0871682e952ababf08624a08b602190fd21d6661169a3a36 -->
 
 # Veiledning til føring av statistikk over sykefravær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/fore-sykefravar
-- **Sist hentet:** 2026-06-10T18:19:11Z
+- **Sist hentet:** 2026-06-20T09:07:12Z
 
 ## Innhold
 
@@ -161,7 +161,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -182,3 +182,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)
