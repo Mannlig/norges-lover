@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2f96a684aa7ae735e8e5f84f56aca8942e54c67dc75ef144adc89fa0dd9132b4 -->
+<!-- innholds-hash: b8e74dda476658a1ff494fe5d78eefd794b3de9f197403e69ab73dc9ae1c112d -->
 
 # Refusjoner når en underenhet flyttes eller ansatte bytter underenhet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/refusjon-underenhet
-- **Sist hentet:** 2026-06-10T18:17:42Z
+- **Sist hentet:** 2026-06-20T04:49:26Z
 
 ## Innhold
 
@@ -108,7 +108,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -129,3 +129,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

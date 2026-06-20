@@ -1,11 +1,11 @@
-<!-- innholds-hash: b88fa5ee382c373b4495c889212c865cea6d53e8a222760ce5ad9713e82401e3 -->
+<!-- innholds-hash: 5464a0d3ba71d2f01341da320af23ab363956e512d3dc41ddfa7e62a973e2e26 -->
 
 # Nav utvikler nye inntektsmeldinger på familiestønadene - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/nye-inntektsmeldinger
-- **Sist hentet:** 2026-06-10T18:08:31Z
+- **Sist hentet:** 2026-06-20T04:40:25Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Nav utvikler nye inntektsmeldinger på familiestønadene
 
-Publisert 9. oktober 2024 | Oppdatert 29. mai 2026
+Publisert 9. oktober 2024 | Oppdatert 15. juni 2026
 
 Nav har tidligere lansert en ny inntektsmelding for sykepenger som kan sendes inn fra Min side – arbeidsgiver på nav.no. Nå er det også lansert inntektsmelding for foreldre- og svangerskapspenger og pleiepenger .
 
@@ -51,7 +51,7 @@ Nytt refusjonskrav for omsorgspenger ble lansert 29. april 2025 og kan sendes in
 
 Hvis du ikke har utbetalt omsorgspenger, og den ansatte søker om utbetaling direkte fra Nav, vil du få varsel om å sende inntektsmelding på Min side - arbeidsgiver. Dette er en ny løsning for inntektsmelding som ble lansert 28.august 2025, og vil gjelde for søknader om omsorgspenger som sendes til Nav fra denne dagen.
 
-Ny inntektsmelding for opplæringspenger ble lansert 23.oktober 2025. Det betyr at søknader om opplæringspenger som sendes til Nav fra denne dagen, kan få varsel om å sende inn den nye inntektsmeldingen. Hvis du ikke har fått beskjed om å sende inn inntektsmeldingen på Min side – arbeidsgiver, kan du fortsatt sende via Altinn eller eget lønns- og personalsystem.
+Ny inntektsmelding for opplæringspenger ble lansert 23.oktober 2025. Det betyr at søknader om opplæringspenger som sendes til Nav fra denne dagen, vil få varsel om å sende inn inntektsmelding på Min side – arbeidsgiver.
 
 Hvis dere har en nyansatt som er i en periode med pleiepenger eller opplæringspenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding. Fra 4. desember 2025 kan dere gjøre dette via «Opprett manuell inntektsmelding» på Min side - arbeidsgiver på nav.no. Det opprettes ikke oppgave på disse sakene.
 
@@ -68,3 +68,4 @@ Les mer om
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

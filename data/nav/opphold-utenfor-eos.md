@@ -1,11 +1,11 @@
-<!-- innholds-hash: ee29556a1ec2c1218571cc8c1410e2c4becbd86ee8c9d55a3e1b3cede8123f0e -->
+<!-- innholds-hash: c7cf4da33502eccff07b69a7a90d6c18de9c658bd42b34957a4277048e9e219b -->
 
 # Opphold i land utenfor EØS - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opphold-utenfor-eos
-- **Sist hentet:** 2026-06-10T17:59:41Z
+- **Sist hentet:** 2026-06-20T04:31:38Z
 
 ## Innhold
 
@@ -314,11 +314,11 @@ Oppdatert 04.05.2026
 
 #### Chat med oss
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder på hverdager kl. 9–15. Torsdag 11. juni er chat med veileder åpen fra kl. 10–15.
+Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
 
 Alltid åpen
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -328,7 +328,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -337,3 +337,4 @@ Stengt nå, åpner kl. 10
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09ba6de81d4c572b6dedcd1c168a00a091930e8fd57996d9bb44ef695a16ad01 -->
+<!-- innholds-hash: 1ba66e9fe7272c2ed661d9dc54b3423d3ba673049e5893aa1bfb3dc569dd11a3 -->
 
 # Forslag til endringer i veiledningen til kapittel 2 i byggteknisk forskrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-veiledningen-til-kapittel-2-i-byggteknisk-forskrift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-12T00:51:59Z
+- **Sist hentet:** 2026-06-20T02:42:08Z
 
 ## Innhold
 
@@ -31,10 +31,16 @@ Forslaget til endringer er første steg i en helhetlig gjennomgang av dokumentas
 
 16.06.2026
 
-Vi har foreløpig mottatt 10 svar.
+Vi har mottatt 37 svar. Høringen er nå avsluttet.
 
 
 #### Organisasjon/virksomhet
+
+
+#### Svar med merknader
+
+
+#### Offentlig instans
 
 
 #### Svar med merknader
@@ -55,3 +61,4 @@ Vi har foreløpig mottatt 10 svar.
 ## Endringshistorikk
 
 - **2026-06-12** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: fff5e521716c21d95f20e60fcda2d345a3780aaf3e738cf2f5b376c783c3af39 -->
+<!-- innholds-hash: 34ce2ec42aa6477dbf0f4de6a11e294df1dd963afffbb0f988850f314f4dc8f5 -->
 
 # Kvalifiseringsopplegg - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/kvalifisering
-- **Sist hentet:** 2026-06-10T18:07:11Z
+- **Sist hentet:** 2026-06-20T04:39:01Z
 
 ## Innhold
 
@@ -62,7 +62,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 10
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -83,3 +83,4 @@ Alltid åpen
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

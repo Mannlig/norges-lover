@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6b59cb45a7672c150f3fbdfd86658d53282694410a7979ad558205cd317ba2cb -->
+<!-- innholds-hash: b849c321c03f8cfab60b690af811a067606c74e942f92d1a4347d16eb6fbf827 -->
 
 # Rekruttering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/lokalt/vestfold-og-telemark/rekruttering
-- **Sist hentet:** 2026-06-10T18:15:28Z
+- **Sist hentet:** 2026-06-20T04:47:20Z
 
 ## Innhold
 
@@ -14,16 +14,16 @@
 
 Trenger din bedrift nye medarbeidere? Nav kan hjelpe!
 
-En markedskontakt kan hjelpe bedrifter med å finne mennesker med den kompetansen de har behov for. Nav Vestfold og Telemark sine markedskontakter kjenner til lokale forhold og kan gi tilpassede tjenester. Hjelpen er kostnadsfri.
+En markedskontakt kan hjelpe bedrifter med å finne mennesker med den kompetansen de har behov for. Nav Vestfold og Telemark sine markedsrådgivere kjenner til lokale forhold og kan gi tilpassede tjenester. Hjelpen er kostnadsfri.
 
-Markedskontakten kan:
+Vi kan:
 
 - hjelpe deg å rekruttere medarbeidere
 - inngå samarbeidsavtale med din virksomhet/bedrift
 - hjelpe deg å rekruttere
 Nav arrangerer jobbmesser og kan tilrettelegge tiltak spesielt for din bedrift hvis dere har et større rekrutteringsbehov.
 
-Markedskontaktene i Vestfold og Telemark er:
+Markedsrådgiverne i Vestfold og Telemark er:
 
 
 #### I Telemark
@@ -96,3 +96,4 @@ Nav har tiltak som tilskudd til lønn, arbeidstrening og tilrettelegging som kan
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-20** Innhold endret (se git-historikk for diff)

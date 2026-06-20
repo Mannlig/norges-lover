@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5ea0c92438751927d70c07b0f50054c2ad18a0e1947453174b9df76d084a3c72 -->
+<!-- innholds-hash: fdd5c10d07f8600def5521f675a230734ef06a8df05618a1f6522534c570cd96 -->
 
 # Refusjon av særavgifter for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/soke-refusjon-av-saravgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:40:12Z
+- **Sist hentet:** 2026-06-19T23:58:20Z
 
 ## Innhold
 
@@ -25,6 +25,10 @@ Ved disse unntakstilfellene skal registrerte virksomheter søke refusjon på lik
 Dersom virksomheten din ikke er registrert for den aktuelle særavgiften, eller du har kjøpt avgiftspliktig vare innenlands, skal søknad om refusjon gjøres ved at du skriver til oss.
 
 Du må logge inn, fylle ut skjemaet og laste opp vedleggene:
+
+Du kan også sende søknaden i posten, til
+
+Skatteetaten
 
 Det er innført en redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart.
 
@@ -120,3 +124,4 @@ Hvis du ønsker å få tilbake toll, må du
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-19** Innhold endret (se git-historikk for diff)
