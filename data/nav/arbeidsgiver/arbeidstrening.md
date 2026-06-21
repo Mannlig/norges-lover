@@ -1,11 +1,11 @@
-<!-- innholds-hash: e85bc344661c0cca1d7b1db692cb439eabcd3bf12893f4a26841f69be0e17055 -->
+<!-- innholds-hash: 055326a0df60ca808e0c7751e235b0b65ff44d95bb91315fc7850cce37e447c5 -->
 
 # Arbeidstrening - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/arbeidstrening
-- **Sist hentet:** 2026-06-13T11:38:54Z
+- **Sist hentet:** 2026-06-21T05:46:43Z
 
 ## Innhold
 
@@ -83,7 +83,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -105,3 +105,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

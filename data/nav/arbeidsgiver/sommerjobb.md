@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2f49b6f60e41171b03cb7a7a134a411ca45b67e1ce2a6d77a22b4d859adcab3b -->
+<!-- innholds-hash: 45f3505cd76632bb18e9b7e5b4937d2bcdf89cd954f5cfb9dee13071ddb8a0e6 -->
 
 # Tilskudd til sommerjobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sommerjobb
-- **Sist hentet:** 2026-06-13T11:52:00Z
+- **Sist hentet:** 2026-06-21T05:59:45Z
 
 ## Innhold
 
@@ -96,7 +96,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -118,3 +118,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

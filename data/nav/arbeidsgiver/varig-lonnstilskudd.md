@@ -1,11 +1,11 @@
-<!-- innholds-hash: dded2eb38022ded1848f1944019f85d2e358d139c1fbdcb51e71e613c11df6f6 -->
+<!-- innholds-hash: 3bc34a1fe4a613c05e7db53c8d17abbd9a08c861d6d833f0c15423732be82166 -->
 
 # Varig lønnstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/varig-lonnstilskudd
-- **Sist hentet:** 2026-06-13T11:54:39Z
+- **Sist hentet:** 2026-06-21T06:02:33Z
 
 ## Innhold
 
@@ -100,7 +100,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -122,3 +122,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

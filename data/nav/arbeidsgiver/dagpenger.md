@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ba373b4c67abed6bc4b848c5264d4f7f6f3ec1b8ba9f5d597a893fb4330e492 -->
+<!-- innholds-hash: f04ab521176b28a89fabb8a7a0f3747a4068947cdcbc7532e0772262a8b04036 -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/dagpenger
-- **Sist hentet:** 2026-06-13T11:40:18Z
+- **Sist hentet:** 2026-06-21T05:48:09Z
 
 ## Innhold
 
@@ -632,7 +632,7 @@ Det er ulike regler for hvordan du skal fylle ut meldekortet ditt. Les mer om
 
 #### Hva skjer hvis du ikke sender meldekort?
 
-Hvis du ikke sender meldekortet innen fristen, får du trekk i utbetalingen. Går det mer enn 20 dager fra du sendte forrige meldekort, stanser vi dagpengene dine. Da må du søke om dagpenger på nytt.
+Hvis du ikke sender meldekortet innen fristen, får du stans eller trekk i dagpengene dine. Hvis dagpengene dine stanser, må du søke på nytt.
 
 Å være reell arbeidssøker vil si at du må
 
@@ -1030,7 +1030,7 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med
 
 Ønsker du
 
-Oppdatert 01.06.2026
+Oppdatert 18.06.2026
 
 
 #### Chat med oss
@@ -1039,7 +1039,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1049,7 +1049,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1059,3 +1059,4 @@ Stengt nå, åpner i morgen kl. 9
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

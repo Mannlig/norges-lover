@@ -1,11 +1,11 @@
-<!-- innholds-hash: b68ddd47136819cc42b71c30b883bcaa19b35a2841764ec53edb3be6c3c992c5 -->
+<!-- innholds-hash: 25d00e9901a63c025089ec1d643d213dbe1f462a9896d4213d089f4eb2616be2 -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-sluttfase
-- **Sist hentet:** 2026-06-13T11:49:54Z
+- **Sist hentet:** 2026-06-21T05:57:38Z
 
 ## Innhold
 
@@ -141,7 +141,7 @@ Nei, pleiepenger kan innvilges fra første fraværsdag. Det er altså ikke en ar
 
 #### Refusjon for en nyansatt som er i en periode med pleiepenger
 
-Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no, eller fra Lønns - og personalsystem. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
+Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
 
 - Sjekk at den ansatte er registrert i Aa-registeret før dere sender inntektsmelding
 - Oppgi første fraværsdag dere søker refusjon fra
@@ -166,7 +166,7 @@ Pleiepenger skal registreres som lovfestet permisjon i A-meldingen dersom fravæ
 
 Her kan du lese mer om
 
-Inntektsmeldingen sendes inn på Min side – arbeidsgiver eller via eget lønns- og personalsystem.
+Inntektsmeldingen sendes inn på Min side – arbeidsgiver.
 
 I noen få tilfeller trenger Nav mer dokumentasjon fra deg enn inntektsmeldingen. Du får brev fra vår saksbehandler med informasjon om hva vi trenger, hvis dette er nødvendig.
 
@@ -178,7 +178,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 21.05.2026
+Oppdatert 15.06.2026
 
 
 #### Chat
@@ -190,7 +190,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -200,3 +200,4 @@ Stengt nå, åpner i morgen kl. 9
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

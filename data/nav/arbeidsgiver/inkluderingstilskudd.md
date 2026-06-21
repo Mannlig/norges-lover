@@ -1,11 +1,11 @@
-<!-- innholds-hash: b2d16b0b8290ae60f83a1fae95657e4f0af04c4403f7459c7d4d6a0d72435eb7 -->
+<!-- innholds-hash: 92fb4188a2d19851a630d23428de666a755f39161cbae53e266a3bbf6e6782da -->
 
 # Inkluderingstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inkluderingstilskudd
-- **Sist hentet:** 2026-06-13T11:42:27Z
+- **Sist hentet:** 2026-06-21T05:50:10Z
 
 ## Innhold
 
@@ -107,7 +107,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -129,3 +129,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

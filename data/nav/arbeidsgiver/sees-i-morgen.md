@@ -1,11 +1,11 @@
-<!-- innholds-hash: aeff6952aab5141d5b4b20bc499aa61851eb6fd2d8ce9a59e79e61d3bcb94c01 -->
+<!-- innholds-hash: 78db31cce36c5e798184bb11810aeaf1979fe6fbf4a7d0c05b18bf346292b995 -->
 
 # Kompetansepakken Sees i morgen! - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sees-i-morgen
-- **Sist hentet:** 2026-06-13T11:51:18Z
+- **Sist hentet:** 2026-06-21T05:59:02Z
 
 ## Innhold
 
@@ -55,7 +55,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -72,3 +72,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)

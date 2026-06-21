@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5c5b1fd908b8ff3725690a8c831d081976ef973e444a55885797b17e8dd7e6a7 -->
+<!-- innholds-hash: b6eec566934cea5c151da2679ed643c7c7b58f537dfe8b4a75ddbfcb21037b7c -->
 
 # Varig tilrettelagt arbeid i ordinær virksomhet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/varig-tilrettelagt-arbeid
-- **Sist hentet:** 2026-06-13T11:55:22Z
+- **Sist hentet:** 2026-06-21T06:03:15Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -111,3 +111,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)
