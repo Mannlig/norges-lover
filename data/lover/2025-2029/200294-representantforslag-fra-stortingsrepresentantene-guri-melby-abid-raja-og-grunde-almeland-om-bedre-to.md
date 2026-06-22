@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a52e74fcaf79a19b8589ad97806dd6f775a384562610a4d0126d9b86728ef9c -->
+<!-- innholds-hash: 2bb1ce7f4eb9acc3d4f4f061ddff664f0c72d5cfbf56c8a70d09960123c371ba -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om bedre togtilbud og gjenåpning av togstrekninger på Østlandet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-21T20:06:32Z
+- **Sist hentet:** 2026-06-22T02:19:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200294
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782069311683+0200)/",
+  "respons_dato_tid": "/Date(1782093681620+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782069311683+0200)/",
+      "respons_dato_tid": "/Date(1782093681667+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782069311683+0200)/",
+      "respons_dato_tid": "/Date(1782093681667+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -44,14 +44,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782039620272+0200)/",
+        "respons_dato_tid": "/Date(1782082818177+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781996418853+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782069311683+0200)/",
+      "respons_dato_tid": "/Date(1782093681667+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -69,14 +69,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782039620272+0200)/",
+        "respons_dato_tid": "/Date(1782082818177+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781996418853+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782069311683+0200)/",
+      "respons_dato_tid": "/Date(1782093681667+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -94,14 +94,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782039620272+0200)/",
+        "respons_dato_tid": "/Date(1782082818177+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781996418853+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -115,7 +115,7 @@
   "innstilling_id": 17432,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782068967809+0200)/",
+    "respons_dato_tid": "/Date(1782093624832+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200294,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782069311683+0200)/",
+      "respons_dato_tid": "/Date(1782093681667+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Refseth",
@@ -133,14 +133,14 @@
       "id": "ANNREF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782039620272+0200)/",
+        "respons_dato_tid": "/Date(1782082818177+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781996418853+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -201,3 +201,4 @@
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-06-22** Innhold endret (se git-historikk for diff)
