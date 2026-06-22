@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1c86a656af8b913088646ffe963acbd6b4fa71bd4a88ffe1db4ad36c750cc331 -->
+<!-- innholds-hash: 341b55938d850c98d5353d23b5b3f269f56358d8f6385c97a44567ffb1a22018 -->
 
 # Qualification Programme - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kvalifiseringsprogrammet/en
-- **Sist hentet:** 2026-06-14T15:36:16Z
+- **Sist hentet:** 2026-06-22T21:47:06Z
 
 ## Innhold
 
@@ -129,7 +129,7 @@ You must arrange when you will take your annual leave (holiday days) in consulta
 
 There is no holiday pay on this benefit.
 
-Updated 03/19/2026
+Updated 06/17/2026
 
 
 #### Find your local Nav office
@@ -146,3 +146,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-06-22** Innhold endret (se git-historikk for diff)
