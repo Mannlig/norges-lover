@@ -1,4 +1,4 @@
-<!-- innholds-hash: 068ad724c5c69939969f77ffcc4b674a33ef8947e170afa2d9a30550002dd294 -->
+<!-- innholds-hash: 90513b09de8fb7e3f36a0f3fa1052141109a5c6a373d0b65564886ab0a2ba8e0 -->
 
 # Endringer i straffeloven (involvering av mindreårige i kriminalitet)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-21T14:26:26Z
+- **Sist hentet:** 2026-06-21T20:06:33Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200221
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782051209609+0200)/",
+  "respons_dato_tid": "/Date(1782069311777+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -75,7 +75,7 @@
   "innstilling_id": 17485,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1782050847947+0200)/",
+    "respons_dato_tid": "/Date(1782068967809+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -84,7 +84,7 @@
   "sak_fremmet_id": 200221,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782051209609+0200)/",
+      "respons_dato_tid": "/Date(1782069311777+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
@@ -159,6 +159,7 @@
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f55241e03aa5da1a0e58601847383ebfcf02efbbc59a6c8efeed5950c7136d0 -->
+<!-- innholds-hash: 0cac5dfdae54274747366f1c0827de67b942015e1731a8d0caab538d766b9311 -->
 
 # Riksrevisjonen si undersøking av helsetenestenes samhandling om eldre
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-21T14:26:26Z
+- **Sist hentet:** 2026-06-21T20:06:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200301
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782051208718+0200)/",
+  "respons_dato_tid": "/Date(1782069311683+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782051208718+0200)/",
+      "respons_dato_tid": "/Date(1782069311683+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051208718+0200)/",
+      "respons_dato_tid": "/Date(1782069311683+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051208718+0200)/",
+      "respons_dato_tid": "/Date(1782069311683+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -57,7 +57,7 @@
   "innstilling_id": 17528,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782050847947+0200)/",
+    "respons_dato_tid": "/Date(1782068967809+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200301,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782051208718+0200)/",
+      "respons_dato_tid": "/Date(1782069311683+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -132,6 +132,7 @@
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)

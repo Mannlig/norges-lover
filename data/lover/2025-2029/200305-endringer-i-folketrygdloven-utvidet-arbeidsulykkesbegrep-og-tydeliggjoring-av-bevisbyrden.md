@@ -1,4 +1,4 @@
-<!-- innholds-hash: 395099202f145140baf1f5816d368525310bb0e421fde715f72e72102dffeefa -->
+<!-- innholds-hash: 137413e41293c7b046070cb521c8f75edfb8d7a300c13ed9a03d1c0f3a0d1729 -->
 
 # Endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-21T14:26:26Z
+- **Sist hentet:** 2026-06-21T20:06:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200305
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782051209140+0200)/",
+  "respons_dato_tid": "/Date(1782069311699+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782051209140+0200)/",
+      "respons_dato_tid": "/Date(1782069311699+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 5,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209140+0200)/",
+      "respons_dato_tid": "/Date(1782069311699+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782051209140+0200)/",
+      "respons_dato_tid": "/Date(1782069311699+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17523,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1782050847947+0200)/",
+    "respons_dato_tid": "/Date(1782068967809+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200305,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782051209140+0200)/",
+      "respons_dato_tid": "/Date(1782069311699+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -156,6 +156,7 @@
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
+- **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
