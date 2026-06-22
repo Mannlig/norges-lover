@@ -1,4 +1,4 @@
-<!-- innholds-hash: fcd845533329a8f9c2f779e1c4b78ae425743f5b483d32e38f79eb9ef97921e0 -->
+<!-- innholds-hash: 92ad7eafef646221a0a298e4a1c1272956189d68261484dd002c15616b19bd36 -->
 
 # Statsrekneskapen 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-22T02:19:15Z
+- **Sist hentet:** 2026-06-22T08:03:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108400
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782093681714+0200)/",
+  "respons_dato_tid": "/Date(1782111808522+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681714+0200)/",
+      "respons_dato_tid": "/Date(1782111808522+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681714+0200)/",
+      "respons_dato_tid": "/Date(1782111808522+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681714+0200)/",
+      "respons_dato_tid": "/Date(1782111808522+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -57,7 +57,7 @@
   "innstilling_id": 17385,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782093624832+0200)/",
+    "respons_dato_tid": "/Date(1782111639535+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 108400,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681714+0200)/",
+      "respons_dato_tid": "/Date(1782111808522+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -158,4 +158,5 @@
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)

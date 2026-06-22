@@ -1,4 +1,4 @@
-<!-- innholds-hash: cf284b2d218316084d2a393b8c534ced69df6dd39b9d3a941b5e5e974f03ab4c -->
+<!-- innholds-hash: 32224831b9d14c9354bed59a9b002a26c9b1ad1afab417ff4a526c5820689aba -->
 
 # Samtykke til ratifikasjon av konvensjon om oppretting av ein internasjonal kravskommisjon for Ukraina og inngåing av avtale om deltaking i styringskomiteen for spesialtribunalet for Ukraina
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-22T02:19:15Z
+- **Sist hentet:** 2026-06-22T08:03:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200277
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782093681901+0200)/",
+  "respons_dato_tid": "/Date(1782111808553+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681964+0200)/",
+      "respons_dato_tid": "/Date(1782111808553+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681964+0200)/",
+      "respons_dato_tid": "/Date(1782111808553+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17464,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782093624832+0200)/",
+    "respons_dato_tid": "/Date(1782111639535+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200277,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681964+0200)/",
+      "respons_dato_tid": "/Date(1782111808553+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -131,4 +131,5 @@
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b53b62d2d220f13fd2ef710918f5b496b71b542002e87bfbfb7c032e5ddaa58a -->
+<!-- innholds-hash: 26c42cc23cf7449ff203d1084152976ab8d7dc29f0241538c6ff4ead692f753c -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Sylvi Listhaug, Tom Staahle, Hilde Grande og Martin Virkesdal Jonsterhaug om tiltak for å dempe økte energipriser og levekostnader
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-22T02:19:15Z
+- **Sist hentet:** 2026-06-22T08:03:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200084
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782093681323+0200)/",
+  "respons_dato_tid": "/Date(1782111808460+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681370+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782093681370+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jonsterhaug",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782093681417+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -192,7 +192,7 @@
   "innstilling_id": 17541,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782093624832+0200)/",
+    "respons_dato_tid": "/Date(1782111639535+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200084,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782093681323+0200)/",
+      "respons_dato_tid": "/Date(1782111808460+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -246,4 +246,5 @@
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
