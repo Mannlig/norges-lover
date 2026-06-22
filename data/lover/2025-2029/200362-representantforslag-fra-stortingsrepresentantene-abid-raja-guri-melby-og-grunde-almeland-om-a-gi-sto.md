@@ -1,6 +1,6 @@
-<!-- innholds-hash: 9ef4d94a77450c3c1a5202b23ad02431ad3b6c6f5579d753073a583400c83060 -->
+<!-- innholds-hash: 44afaaf54f570a805028b26f0ea696c7bd623c9863572e6b54a925c75b8a8b3c -->
 
-# Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland  om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett
+# Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett
 
 ## Metadata
 
@@ -11,21 +11,21 @@
 - **Status:** 3
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-19T15:25:01Z
+- **Sist hentet:** 2026-06-22T13:53:17Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200362
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781881619073+0200)/",
+  "respons_dato_tid": "/Date(1782133789361+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "respons_dato_tid": "/Date(1782133789361+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -34,14 +34,14 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "respons_dato_tid": "/Date(1782126018809+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "respons_dato_tid": "/Date(1782133789361+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -59,14 +59,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "respons_dato_tid": "/Date(1782126018809+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781881619073+0200)/",
+      "respons_dato_tid": "/Date(1782133789361+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -84,14 +84,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781866826802+0200)/",
+        "respons_dato_tid": "/Date(1782126018809+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
+        "respons_dato_tid": "/Date(1782082817662+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -110,7 +110,7 @@
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
   "status": 3,
-  "tittel": "Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland  om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
+  "tittel": "Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
   "type": 2
 }
 ```
@@ -120,3 +120,4 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-06-22** Innhold endret (se git-historikk for diff)

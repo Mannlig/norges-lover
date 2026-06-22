@@ -1,11 +1,11 @@
-<!-- innholds-hash: fb8868e9f8a86918d522256fe6d85465f04f5f7c794af2e9204e0f379bfcef77 -->
+<!-- innholds-hash: 29bc38a496618c3c2b0d7d4c3ee9fcfbd781f5c4390348a738c658b4bef5eafc -->
 
 # Find work in the EU/EEA or Switzerland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbsok-eu/en
-- **Sist hentet:** 2026-06-14T10:52:56Z
+- **Sist hentet:** 2026-06-22T17:43:49Z
 
 ## Innhold
 
@@ -111,7 +111,7 @@ If you have questions or need advice, you can send an e-mail to
 
 Have you used Nav's EURES services to apply for a job in another EU/EEA country or Switzerland? We would like to hear what you think!
 
-Updated 10/27/2025
+Updated 06/22/2026
 
 
 ---
@@ -120,3 +120,4 @@ Updated 10/27/2025
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-06-22** Innhold endret (se git-historikk for diff)
