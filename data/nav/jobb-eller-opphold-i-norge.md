@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4d52f8f4da3729af2f3b779e381f01213f8d3f3b698ad2f68cefc6a19e04ffc8 -->
+<!-- innholds-hash: 57187c93cf459979a9825658d34bc4c6a6fdff39d2cb13225452b7e2a57cfb40 -->
 
 # Skal jobbe eller oppholde deg i Norge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobb-eller-opphold-i-norge
-- **Sist hentet:** 2026-06-15T10:21:39Z
+- **Sist hentet:** 2026-06-23T16:50:30Z
 
 ## Innhold
 
@@ -43,7 +43,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -53,7 +53,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -62,3 +62,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-06-15** Første gang hentet
+- **2026-06-23** Innhold endret (se git-historikk for diff)

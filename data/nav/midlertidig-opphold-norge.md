@@ -1,11 +1,11 @@
-<!-- innholds-hash: 13184cf4fe3f614720d56a1131292c096dc76ff7b784fc59cc7ff38ff1f9a0b7 -->
+<!-- innholds-hash: e80d0a2f20035c1f8f8925affb13b0fed143deb9afe6c21b408df4f51276b1e4 -->
 
 # Midlertidig opphold i Norge  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/midlertidig-opphold-norge
-- **Sist hentet:** 2026-06-15T10:23:46Z
+- **Sist hentet:** 2026-06-23T16:52:41Z
 
 ## Innhold
 
@@ -166,7 +166,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -176,7 +176,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -185,3 +185,4 @@ Still oss et spørsmål og få skriftlig svar.
 ## Endringshistorikk
 
 - **2026-06-15** Første gang hentet
+- **2026-06-23** Innhold endret (se git-historikk for diff)
