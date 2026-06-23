@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e642aba57792fbd8e9b7e2be960c0b82ebcaad05700be52747885e6254917df -->
+<!-- innholds-hash: 3c8fc73a11aecea15aaeb59fe2e227413c4a32701c9628e829015503ace72683 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Siv Sætran, Geir Pollestad, Geir Inge Lien og Bengt Fasteraune om lavere bensin- og dieselpriser
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200155
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127869+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127916+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127916+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127916+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127916+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sætran",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127916+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -183,7 +183,7 @@
   "innstilling_id": 17544,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -192,7 +192,7 @@
   "sak_fremmet_id": 200155,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -241,6 +241,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

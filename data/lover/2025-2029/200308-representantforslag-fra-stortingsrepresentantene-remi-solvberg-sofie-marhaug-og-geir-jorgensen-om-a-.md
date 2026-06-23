@@ -1,4 +1,4 @@
-<!-- innholds-hash: f0de60c87f9b57cced362cdf785e3b8eb855db192a3be349b5cb3c2d69186f17 -->
+<!-- innholds-hash: 20532c99620ac9719729c9bf5ee8ec3dd0c9e10d6f1e3dba42691b7d857fac5a -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127932+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -133,7 +133,7 @@
   "innstilling_id": 17534,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200308,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -219,6 +219,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

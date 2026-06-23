@@ -1,4 +1,4 @@
-<!-- innholds-hash: 86bd767a17d66030b3c91fbe8e5d89d3e125145d718d09361b128915b0518a0f -->
+<!-- innholds-hash: 86171fc2ce54150ce3e0dfde7b0011ffe8f833078d3913e830abc21b594e7f8f -->
 
 # Representantforslag fra stortingsrepresentantene Arild Hermstad og Julie E. Stuestøl om endrede kriterier for valg av medlemmer til Den norske Nobelkomité
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200051
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127932+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -99,7 +99,7 @@
   "innstilling_id": 17533,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -134,6 +134,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

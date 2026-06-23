@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9d3436f785b7a759e33d04e766e3bf2f4347cf920f4626d7d43e30dd18f32926 -->
+<!-- innholds-hash: 3263b1441c2224583bffca2f7946bcb4f2ae299a3fc8551934858fe4025366f6 -->
 
 # Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200336
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127869+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17538,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200336,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127869+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Alvær",
@@ -146,6 +146,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 92226d17bb9c482fee01d2d4529d2d372c4ba5e4c07fe5061bf4559664ee305f -->
+<!-- innholds-hash: e19af9729f7268451fceefca64cd363cdd25a8ceb805a05d7e5feb9d6558eb1f -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200352
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127932+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127932+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -187,6 +187,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

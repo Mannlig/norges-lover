@@ -1,4 +1,4 @@
-<!-- innholds-hash: 71a787baa3d86efbafdd587e2b725f5a324fa03002424ef82de5b250d08bb331 -->
+<!-- innholds-hash: 4ece75b3a50124c74a43823eaa52c6bb58480b2f491473ac4c8387a8677eae5d -->
 
 # Endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200236
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127947+0200)/",
+  "respons_dato_tid": "/Date(1782238468298+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17446,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200236,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127947+0200)/",
+      "respons_dato_tid": "/Date(1782238468298+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jakobsen",
@@ -116,6 +116,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

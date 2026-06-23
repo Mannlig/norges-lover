@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6be3a450a661d900108d5cd8e96b27ffe37df744eb69218e4b1376036e615b86 -->
+<!-- innholds-hash: 937e41caf253e5b2ebf14e879c97b287bcc7fc66cd73330ba4abfc915435ec44 -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -11,25 +11,25 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127838+0200)/",
+  "respons_dato_tid": "/Date(1782238468282+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
-      "foedselsdato": "/Date(113954400000+0200)/",
+      "foedselsdato": "/Date(113961600000+0200)/",
       "fornavn": "Alf Erik",
       "id": "ALFAND",
       "kjoenn": 2,
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -100,7 +100,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
@@ -130,7 +130,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -163,6 +163,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

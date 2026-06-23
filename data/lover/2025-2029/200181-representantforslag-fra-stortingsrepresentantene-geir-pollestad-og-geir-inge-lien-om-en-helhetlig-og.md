@@ -1,4 +1,4 @@
-<!-- innholds-hash: a0a64de80cc0195bbc0f51034b353f1e50631b8fd6db8c8dceec11bba3d5bbc6 -->
+<!-- innholds-hash: 67d1e2e9ba0fd9d32b5468238a02d3b8119f50a83c4edf4838af0b9eace6ef11 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad og Geir Inge Lien om en helhetlig og langsiktig maritim strategi
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200181
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220128010+0200)/",
+  "respons_dato_tid": "/Date(1782238468362+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -108,7 +108,7 @@
   "innstilling_id": 17515,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 200181,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hop",
@@ -197,6 +197,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

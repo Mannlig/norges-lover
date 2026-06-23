@@ -1,4 +1,4 @@
-<!-- innholds-hash: a983bfdbbf2689301ce32faff145782d4262acb5c7cdc307e0bb820c565838e8 -->
+<!-- innholds-hash: 282c4b098d4b791aeee91dced418ccd4472580c05dbbb28e1b67831f31c447e0 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse og Erlend Svardal Bøe om en bedre oppfølging av foreldre som venter barn med funksjonsvariasjon
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200190
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220128010+0200)/",
+  "respons_dato_tid": "/Date(1782238468362+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -108,7 +108,7 @@
   "innstilling_id": 17514,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 200190,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -200,6 +200,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e0120a5dab6a070819e4ce6cb05fb8fbf0b465e1c22dcde7db0e0024b2b2f0a -->
+<!-- innholds-hash: 26c712a022328fa7f265a83558620dadbc5d7050f75b117f755d6e4e7a77a86e -->
 
 # Representantforslag frå stortingsrepresentant Kjersti Toppe om desentralisering av sjukehustilbodet og sikring av lokalsjukehus med breiddekompetanse i heile landet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200208
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220128010+0200)/",
+  "respons_dato_tid": "/Date(1782238468362+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -74,7 +74,7 @@
   "innstilling_id": 17507,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200208,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -166,6 +166,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

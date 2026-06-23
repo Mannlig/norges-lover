@@ -1,4 +1,4 @@
-<!-- innholds-hash: a4f112a284e99923b3e19f312c3e616445a363aa7f9eb09f0755234a93bec071 -->
+<!-- innholds-hash: 357e2667df5f1edfbdcb7fea3870137067ea88f4b39f6a7da8d614e5f12b01e5 -->
 
 # Lov om datadeling og dataforvaltning (dataforvaltningsloven) og samtykke til godkjenning av EØS-komiteens beslutninger om innlemmelse i EØS-avtalen av direktiv (EU) 2019/1024 (åpne data-direktivet) for forordning (EU) 2022/868 (dataforvaltningsforordningen) og deltakelse i EØS-komiteens beslutning om delegert kommisjonsforordning (EU) 2023/138 (HVD-forordningen)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107976
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220128010+0200)/",
+  "respons_dato_tid": "/Date(1782238468362+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17469,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107975,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782220128010+0200)/",
+      "respons_dato_tid": "/Date(1782238468362+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -118,6 +118,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 39593f568bcae7961f5a5de725a13adf048fb2ce1bd2c4423e5e989a73ca7bc8 -->
+<!-- innholds-hash: 4bfaa436be64bae85a79bc76aa97d74d5ae46d5503b824e5ce5cd10a692ea53c -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T13:30:16Z
+- **Sist hentet:** 2026-06-23T19:09:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200356
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782220127838+0200)/",
+  "respons_dato_tid": "/Date(1782238468282+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782220127838+0200)/",
+      "respons_dato_tid": "/Date(1782238468282+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dons-Hansen",
@@ -174,7 +174,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782219734671+0200)/",
+    "respons_dato_tid": "/Date(1782237856841+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -207,6 +207,7 @@
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
