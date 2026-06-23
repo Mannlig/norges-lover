@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7c51d8ac68b91ff2756e2a42a949dcebc900f7ba0e43a5c723f2c89a82f783a7 -->
+<!-- innholds-hash: bc6108e021e124cef234e8d68fed76ff291ba6af83a3080c5871660482ca7274 -->
 
 # Rundskriv til ftrl kap 4: Dagpenger under arbeidsløshet
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-om-dagpenger-ved-permittering
-- **Sist hentet:** 2026-06-15T04:38:27Z
+- **Sist hentet:** 2026-06-23T11:28:32Z
 
 ## Innhold
 
@@ -15,7 +15,7 @@
 
 ### Kapitteloversikt
 
-Sist endret 16.03.2026, se § 4-16: «Generelt om § 4-16» og § 4-16 andre ledd
+Sist endret 18.06.2026, se §§ 4-25: Innledning», 4-25 andre ledd: «Nedjustering av vanlig arbeidstid» og 4-26: punkt 5 og 9 og avsnitt markert 6/26
 
 
 ### Generelt rundskriv – Forskutterte lønnsgarantimidler/dagpenger ved konkurs
@@ -3913,12 +3913,12 @@ Dagpengene faller bort dersom medlemmet tar ut full avtalefestet pensjon (AFP), 
 
 Omarbeidet i sin helhet 04.01.2021.
 
-Endret 06.10.2022, jf. overskriften: § 4-25 Andre ledd
+Sist endret 18.06.2026, se «Innledning» og § 4-25 andre ledd: avsnittet med overskriften «Nedjustering av vanlig arbeidstid» er tilføyd
 
 
 #### Innledning:
 
-[Overskrift tilføyd, innhold endret 5/22]
+[Overskrift tilføyd, innhold endret 5/22, 6/26]
 
 De ytelser som er nevnt skal også samordnes når de er opptjent etter lovgivningen i et annet EØS-land eller inntekten er mottatt i en annen medlemsstat se forordning
 
@@ -3928,7 +3928,7 @@ Når en annen ytelse blir innvilget skal det straks gjøres en samordning av dag
 
 Med redusert ytelse menes at ytelsen er gradert på grunn av mulighet til en viss selvforsørgelse ved delvisarbeid og inntekt. Dersom ytelsen er redusert på grunn av manglende trygdetid, vurderes ytelsen som en full ytelse.
 
-Når dagpengemottaker har en redusert ytelse fra folketrygden, skal vanlig arbeidstid normalt reduseres tilsvarende. Dette blir gjort automatisk i Arena når samordningen gjennomføres.
+Når dagpengemottaker
 
 
 #### § 4-25 Første ledd
@@ -3988,7 +3988,26 @@ Ga resultatet av samordning etter alternativ b et høyere dagpengegrunnlag enn f
 
 For brukere som har løpende vedtak om dagpenger og samordning etter 4-25 for perioder før og etter 1. februar 2021, kan samordning skje etter alternativ b for perioden før 1. februar 2021. Fra og med 1. februar kan samordning kun gjøres etter alternativ a, og bruker skal ha dagpengene samordnet på nytt.
 
-Sist endret 01.01.2025, se avsnitt markert 1/25
+[Tilføyd 6/26]
+
+En dagpengemottaker som mottar en redusert folketrygdytelse som skal samordnes med dagpenger etter folketrygdloven § 4-25, vil normalt ikke kunne være i arbeid på full tid. Dagpengemottakeren vil i praksis kunne godkjennes som deltidsarbeidssøker etter
+
+En dagpengemottaker som kun kan ta deltidsarbeid i perioden med samordning, skal ikke ha en vanlig arbeidstid som overstiger det vedkommende er i stand til å arbeide. I disse tilfellene følger man prinsippet i
+
+Dersom dagpengemottakeren før samordning har fått innvilget dagpenger med en vanlig arbeidstid som er høyere enn det vedkommende er i stand til å arbeide i perioden med samordning, må den vanlige arbeidstiden nedjusteres til det timeantallet vedkommende er i stand til å arbeide. Slik nedjustering av vanlig arbeidstid er aktuelt for alle samordningspliktige ytelser etter folketrygdloven § 4-25, inkludert uføretrygd.
+
+Merk at det ikke skal skje noen nedjustering dersom vanlig arbeidstid før samordning er fastsatt lavere enn det dagpengemottakeren er i stand til å arbeide i perioden med samordning.
+
+Når man skal beregne hvor mye dagpengemottakeren er i stand til å arbeide, tas det utgangspunkt i at full stilling utgjør 40 timer per uke.
+
+Eksempler:
+
+- A har fått innvilget dagpenger fra 5. januar 2026 med en vanlig arbeidstid på 37,5 timer per uke. A blir 50 prosent sykmeldt fra 5. februar 2026 og får innvilget sykepenger. Ved samordning nedjusteres vanlig arbeidstid til det A er i stand til å jobbe, det vil si 20 timer per uke (50 prosent av 40 timer). A blir friskmeldt fra 5. mars 2026. Vanlig arbeidstid skal da oppjusteres til 37,5 timer per uke, som var det timeantallet vanlig arbeidstid var fastsatt til før samordning.
+- B har fått innvilget dagpenger fra 5. januar 2026 med en vanlig arbeidstid på 10 timer per uke. B blir 50 prosent sykmeldt fra 5. februar 2026 og får innvilget sykepenger. I dette tilfellet skal ikke vanlig arbeidstid nedjusteres i perioden med samordning, fordi B allerede har en vanlig arbeidstid som er lavere enn 20 timer per uke. Ved samordning beholder derfor B sin vanlige arbeidstid på 10 timer per uke.
+- C har fått innvilget dagpenger fra 5. januar 2026 med en vanlig arbeidstid på 40 timer per uke. C blir 40 prosent sykmeldt fra 5. februar 2026 til 5. april 2026 og får innvilget sykepenger. Ved samordning nedjusteres vanlig arbeidstid til 24 timer per uke (60 prosent av 40 timer).
+Fra 1. mars 2026 ønsker C å jobbe 20 timer per uke, på grunn av omsorg for små barn. C er fortsatt 40 prosent sykmeldt. C kan også godkjennes som deltidsarbeidssøker på grunn av omsorg for små barn, og vanlig arbeidstid skal derfor nedjusteres til 20 timer per uke fra 1. mars 2026.
+
+Sist endret 18.06.2026, se punkt 5 og 9 og avsnitt markert avsnitt markert 6/26
 
 
 #### 1. Samordningsprinsipp
@@ -4021,13 +4040,17 @@ Dagpengene skal ikke samordnes når arbeidssøkeren mottar ugradert avtalefestet
 
 #### 5. Samordning med redusert uføre
 
-[Endret 12/21 - Endret bokstavhenvisninge i overskrift]
+[Endret 12/21 - Endret bokstavhenvisning i overskrift, 6/26]
 
-Det skal ikke foretas samordning mellom dagpenger og redusert uføre
+[Endret 6/26]
 
-Redusert uføre
+Det skal ikke foretas samordning mellom dagpenger og redusert ufør
 
-Dagpenger skal fortsatt samordnes med redusert uføre
+Redusert ufør
+
+[Endret 6/26]
+
+Dagpenger skal fortsatt samordnes med redusert ufør
 
 Unnlates det å samordne i slike tilfeller, kunne vedkommende få dobbel dekning for inntektstapet fordi samme inntekt er med i grunnlaget både for dagpenger og uføre
 
@@ -4075,17 +4098,15 @@ Summen av samordnede dagpenger og øvrige ytelser kan ikke være større enn ful
 
 #### 9. Om saksbehandlingen
 
+[Endret 6/26]
+
 På side 2 i søknadsskjemaet for dagpenger er det stilt spørsmål om stønadssøker får eller har søkt om samordningspliktige ytelser. Alle spørsmål i dette feltet skal være besvart før søknaden behandles. Hvis det er krysset av i en eller flere «ja»-rubrikker, må det klargjøres om ytelsene er innvilget og hvilket omfang de har.
 
 Er det søkt om eller innvilget ytelser fra et annet Nav lokalt, må opplysninger innhentes derfra hvis de ikke allerede er registrert i Arena.
 
 Ved etterbetaling eller endring av samordningspliktige ytelser må dagpengene straks samordnes i samsvar med forskriften.
 
-Stønadsmottaker som med tilbakevirkning blir tilstått pensjon eller annen økonomisk ytelse som ikke utbetales av Arbeids- og velferdsetaten, plikter å informere det Nav om forholdet.
-
-Når stønadsmottaker har en redusert ytelse fra folketrygden, skal vanlig arbeidstid reduseres tilsvarende.
-
-Personer med redusert uføre
+Stønadsmottaker som med tilbakevirkning blir tilstått pensjon eller annen økonomisk ytelse som ikke utbetales av Arbeids- og velferdsetaten, plikter å informere det Nav om forholde
 
 Sist endret av Arbeids- og velferdsdirektoratet, Ytelsesavdelingen, Regelverkskontoret: 01.09.2013 – Generell revisjon.
 
@@ -4238,3 +4259,4 @@ Listene over skjerpende og formildende omstendigheter er ikke uttømmende. I enk
 ## Endringshistorikk
 
 - **2026-06-15** Første gang hentet
+- **2026-06-23** Innhold endret (se git-historikk for diff)
