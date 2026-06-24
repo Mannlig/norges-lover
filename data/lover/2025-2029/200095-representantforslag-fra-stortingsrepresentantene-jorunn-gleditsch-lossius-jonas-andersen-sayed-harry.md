@@ -1,4 +1,4 @@
-<!-- innholds-hash: b8ecd229cdfd6454f5ad3fd91061296f7276ccaed23a224ef724d7931b79108a -->
+<!-- innholds-hash: d6a645a4abfadf4efb8fb0189cdc8dba14fff08956e50677cadd6d7934b57d7b -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Harry Valderhaug og Ida Lindtveit Røse om en langtidsplan for effektiv norsk bistand
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-23T19:09:58Z
+- **Sist hentet:** 2026-06-24T01:03:14Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200095
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782238468362+0200)/",
+  "respons_dato_tid": "/Date(1782262884099+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -53,14 +53,14 @@
       "id": "HARVAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782212419119+0200)/",
+        "respons_dato_tid": "/Date(1782255618139+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782169218217+0200)/",
+        "respons_dato_tid": "/Date(1782255618092+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -78,14 +78,14 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782212419119+0200)/",
+        "respons_dato_tid": "/Date(1782255618139+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782169218217+0200)/",
+        "respons_dato_tid": "/Date(1782255618092+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -103,14 +103,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782212419119+0200)/",
+        "respons_dato_tid": "/Date(1782255618139+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782169218217+0200)/",
+        "respons_dato_tid": "/Date(1782255618092+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -119,23 +119,23 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
-      "foedselsdato": "/Date(877125600000+0200)/",
+      "foedselsdato": "/Date(877132800000+0200)/",
       "fornavn": "Jonas Andersen",
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782212419119+0200)/",
+        "respons_dato_tid": "/Date(1782255618139+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782169218217+0200)/",
+        "respons_dato_tid": "/Date(1782255618092+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -149,7 +149,7 @@
   "innstilling_id": 17441,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782237856841+0200)/",
+    "respons_dato_tid": "/Date(1782262821564+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -158,23 +158,23 @@
   "sak_fremmet_id": 200095,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782238468362+0200)/",
+      "respons_dato_tid": "/Date(1782262884099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
-      "foedselsdato": "/Date(-101440800000+0200)/",
+      "foedselsdato": "/Date(-101433600000+0200)/",
       "fornavn": "Arild",
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782212419119+0200)/",
+        "respons_dato_tid": "/Date(1782255618139+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782169218217+0200)/",
+        "respons_dato_tid": "/Date(1782255618092+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -240,3 +240,4 @@
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
+- **2026-06-24** Innhold endret (se git-historikk for diff)
