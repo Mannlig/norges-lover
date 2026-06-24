@@ -1,4 +1,4 @@
-<!-- innholds-hash: f1ef03bb2cfd94fbadc9a70118ff6cdd54643bf4ed5515e190ba36eb3ed1129f -->
+<!-- innholds-hash: 95d30fef21113eae31a3ddaf7e47d690c32b6b4b3b449eddc21766e750d42c6e -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-24T01:03:14Z
+- **Sist hentet:** 2026-06-24T13:12:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200361
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782262883974+0200)/",
+  "respons_dato_tid": "/Date(1782303573537+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782262883974+0200)/",
+      "respons_dato_tid": "/Date(1782303573537+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -34,7 +34,7 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782255618139+0200)/",
+        "respons_dato_tid": "/Date(1782267405171+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782262883974+0200)/",
+      "respons_dato_tid": "/Date(1782303573537+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
@@ -59,7 +59,7 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782255618139+0200)/",
+        "respons_dato_tid": "/Date(1782267405171+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782262883974+0200)/",
+      "respons_dato_tid": "/Date(1782303573537+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
@@ -84,7 +84,7 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782255618139+0200)/",
+        "respons_dato_tid": "/Date(1782267405171+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -100,16 +100,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782262883974+0200)/",
+      "respons_dato_tid": "/Date(1782303573537+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
-      "foedselsdato": "/Date(435715200000+0200)/",
+      "foedselsdato": "/Date(435708000000+0200)/",
       "fornavn": "Sunniva Holmås",
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782255618139+0200)/",
+        "respons_dato_tid": "/Date(1782267405171+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -130,7 +130,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782262821564+0200)/",
+    "respons_dato_tid": "/Date(1782303311872+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -168,4 +168,5 @@
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
 - **2026-06-23** Innhold endret (se git-historikk for diff)
+- **2026-06-24** Innhold endret (se git-historikk for diff)
 - **2026-06-24** Innhold endret (se git-historikk for diff)
