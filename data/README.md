@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-25 04:38 UTC*
+*Sist oppdatert: 2026-06-25 18:30 UTC*
 
-**Antall dokumenter:** 6422
+**Antall dokumenter:** 6423
 
 ## Innhold
 
@@ -1296,6 +1296,7 @@ Lovdata
 - [Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer](lover/2025-2029/200383-representantforslag-fra-stortingsrepresentantene-margit-bye-julie-e-stuestol-og-marius-langballe-dal.md)
 - [Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern](lover/2025-2029/200384-representantforslag-fra-stortingsrepresentantene-kari-sofie-bjornsen-amalie-gunnufsen-haagen-poppe-m.md)
 - [Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet](lover/2025-2029/200385-riksrevisjonens-undersokelse-av-program-felles-ikt-tjenester-for-departementsfellesskapet.md)
+- [Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet](lover/2025-2029/200386-riksrevisjonens-undersokelse-av-bane-nors-eiendomsvirksomhet.md)
 - [2026 01 23 1](lover/2026-01-23-1.md)
 - [2026 02 06 2](lover/2026-02-06-2.md)
 - [2026 02 06 3](lover/2026-02-06-3.md)

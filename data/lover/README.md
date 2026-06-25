@@ -2,9 +2,9 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-06-25 04:38 UTC*
+*Sist oppdatert: 2026-06-25 18:30 UTC*
 
-**Antall dokumenter:** 467
+**Antall dokumenter:** 468
 
 ## Innhold
 
@@ -478,6 +478,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer](2025-2029/200383-representantforslag-fra-stortingsrepresentantene-margit-bye-julie-e-stuestol-og-marius-langballe-dal.md)
 - [Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern](2025-2029/200384-representantforslag-fra-stortingsrepresentantene-kari-sofie-bjornsen-amalie-gunnufsen-haagen-poppe-m.md)
 - [Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet](2025-2029/200385-riksrevisjonens-undersokelse-av-program-felles-ikt-tjenester-for-departementsfellesskapet.md)
+- [Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet](2025-2029/200386-riksrevisjonens-undersokelse-av-bane-nors-eiendomsvirksomhet.md)
 
 ---
 
