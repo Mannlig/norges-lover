@@ -1,11 +1,11 @@
-<!-- innholds-hash: 815c1be2c38987372085e3b98576c43739feccd38a290b3fa1ac88955214134e -->
+<!-- innholds-hash: 37e3d45aabd10419e6697946422bd6f0ca50fb3269a5158fda1b08dbc3042abb -->
 
 # Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/yrkesskade
-- **Sist hentet:** 2026-06-18T10:40:26Z
+- **Sist hentet:** 2026-06-26T13:47:36Z
 
 ## Innhold
 
@@ -41,11 +41,13 @@ En sykdom kan godkjennes som en yrkessykdom hvis årsaken er skadelig påvirknin
 
 For å få godkjent en skade eller sykdom som yrkesskade eller yrkessykdom, må ulykken eller den skadelige påvirkningen ha skjedd da du var yrkesskadedekket.
 
-Det betyr at arbeidsulykken eller den skadelige påvirkningen må ha skjedd innenfor et gitt tidsrom og være knyttet til et sted og en aktivitet. Skaden må være meldt innen meldefristen på ett år, se informasjon under.
+Det betyr at arbeidsulykken eller den skadelige påvirkningen må ha skjedd innenfor et gitt tidsrom og være knyttet til et sted og en aktivitet. Skaden må være meldt innen meldefristen på ett år.
 
 Disse kriteriene avgjør om du er omfattet av den obligatoriske yrkesskadedekningen hos arbeidsgiveren din.
 
-Yrkesskadedekningen gjelder ikke bare arbeidstakere, andre grupper er også omfattet av Navs yrkesskadeordning. Se hva som gjelder for de ulike gruppene.
+Yrkesskadedekningen gjelder ikke bare arbeidstakere, andre grupper er også omfattet av Navs yrkesskadeordning.
+
+Se hva som gjelder for de ulike gruppene:
 
 Arbeidstakere er yrkesskadedekket i arbeidet, på arbeidsstedet og i arbeidstiden. En lærling har samme yrkesskadedekning som en arbeidstaker. Folketrygden sier
 
@@ -55,7 +57,7 @@ Som hovedregel er du som arbeidstaker ikke yrkesskadedekket på veien til og fra
 
 Det kan gjøres unntak fra hovedregelen, for eksempel for arbeidstakere på skip, i oljevirksomhet, under transport som er organisert av arbeidsgiveren og ved tjenestereiser med overnatting.
 
-For norske arbeidstakere på Svalbard gjelder egne regler om yrkesskadedekning. Du kan være dekket også på fritiden, og på den første reisen til Svalbard og siste hjemreise. Loven om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard sier
+For norske arbeidstakere på Svalbard gjelder egne regler om yrkesskadedekning. Du kan være dekket også på fritiden, og på den første reisen til Svalbard og siste hjemreise. Loven om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard sier
 
 Hvis du er arbeidstaker og jobber på et skip på minimum 100 bruttoregistertonn, regnes hele tidsrommet du er om bord som arbeidstid.
 
@@ -83,7 +85,7 @@ Disse gruppene har utvidet yrkesskadedekning:
 - Tjenestepliktige og frivillig tjenestegjørende i Politiet
 Det betyr at du er yrkesskadedekket for alle kroppsskader eller sykdommer som skjer under tjenesten.
 
-Det er ikke noe krav til at skaden eller sykdommen skal være en følge av en arbeidsulykke. Skaden eller sykdommen må ha oppstått eller blitt påført i perioden fra du reiste til tjenesten til du dimitterte.
+Det er ikke noe krav til at skaden eller sykdommen skal være en følge av en arbeidsulykke. Skaden eller sykdommen må ha oppstått eller blitt påført i perioden fra du reiste til tjenesten til du dimitterte.
 
 Hvis du har deltatt eller deltar i internasjonale operasjoner i utlandet for Forsvaret, er du yrkesskadedekket hele tiden du er i utlandet, også på fritiden.
 
@@ -93,7 +95,7 @@ Det er heller ikke noe krav til at skaden eller sykdommen skal være en følge a
 
 Hvis du er militært eller sivilt ansatt i Forsvaret eller vervet personell, vil du som hovedregel ha den samme yrkesskadedekningen som vanlige arbeidstakere.
 
-Unntaket fra hovedregelen er militært ansatte på repetisjonsøvelse, manøver eller under feltmessige forhold. Da vil du også ha utvidet yrkesskadedekning så lenge øvelsen eller manøveren varer, men ikke under permisjoner.
+Unntaket fra hovedregelen er militært ansatte på repetisjonsøvelse, manøver eller under feltmessige forhold. Da vil du også ha utvidet yrkesskadedekning så lenge øvelsen eller manøveren varer, men ikke under permisjoner.
 
 Er du militær lærling eller militær elev/student i Forsvaret, vil du som utgangspunkt alltid ha den samme yrkesskadedekningen som vanlige lærlinger, studenter og elever.
 
@@ -284,7 +286,7 @@ Hvis du er uenig i vedtaket fra Nav, kan du
 
 Du kan lese mer
 
-Oppdatert 19.03.2026
+Oppdatert 22.06.2026
 
 
 #### Chat med oss
@@ -293,7 +295,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -313,3 +315,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

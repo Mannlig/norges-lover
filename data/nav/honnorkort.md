@@ -1,11 +1,11 @@
-<!-- innholds-hash: 199cbf68dbb3698f45a10da747c91aa700e0d6666420ddf354a2073d61d2be4c -->
+<!-- innholds-hash: cc23220b03c92202f2f72ee7b0de7f900e6f98a17e0c7f5a09da1158152f3f14 -->
 
 # Honnørkort - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/honnorkort
-- **Sist hentet:** 2026-05-15T22:17:55Z
+- **Sist hentet:** 2026-06-26T14:16:33Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Døvblinde kan få et eget kort som gir samme rabatt som honnørkort. Ta kontakt
 
 #### Slik får du nytt honnørkort
 
-Hvis du trenger nytt honnørkort, bestiller du det ved å skrive til oss. Det holder å skrive at du trenger nytt honnørkort. Husk å logge inn på min side på nav.no for å se at adressen vi har registrert på deg er riktig.
+Hvis det gamle honnørkortet er mistet eller ødelagt, kan du bestille nytt ved å skrive til oss. Det holder å skrive at du trenger nytt honnørkort. Husk å logge inn på min side på nav.no for å se at adressen vi har registrert på deg er riktig.
 
 Du kan også ringe oss på telefon 55 55 33 33.
 
@@ -52,3 +52,4 @@ Oppdatert 14.04.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

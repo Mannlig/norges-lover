@@ -1,11 +1,11 @@
-<!-- innholds-hash: 331dbef81cfd38f9826e11e17587ecde0df25b62ccf26b9a64c64a36f668291c -->
+<!-- innholds-hash: d760934c68b5b57cf6fda71a4bf550a60b4a76dd87db7a181e1e2e72a8036335 -->
 
 # Saksbehandlingstider - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider
-- **Sist hentet:** 2026-06-10T04:27:11Z
+- **Sist hentet:** 2026-06-26T13:08:51Z
 
 ## Innhold
 
@@ -272,7 +272,7 @@ Datamaskiner eller nettbrett med alternativ kommunikasjon og syntetisk tale.
 Pengestøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
 
 
-#### Lydutjevningsanlegg
+#### Lydoverføringsanlegg
 
 Bidrar til at du får med deg det som blir sagt når du er i rom med mange lydforstyrrelser.
 
@@ -544,7 +544,7 @@ Gir bedre fremkommelighet og større muligheter i hverdagen.
 
 #### Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 #### Talemaskiner, enkle
@@ -724,3 +724,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 
 - **2026-05-15** Første gang hentet
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

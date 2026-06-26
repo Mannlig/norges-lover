@@ -1,11 +1,11 @@
-<!-- innholds-hash: eef4c308f3c06ffafb484843432b2a67e98dec63500d6711f3098de0ee41dc28 -->
+<!-- innholds-hash: ef67b8624ccadd78d7f3b1d9a9a58d61745718968f36d088854fc8141aabb97d -->
 
 # Venter eller har nylig fått barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barn
-- **Sist hentet:** 2026-06-18T10:41:48Z
+- **Sist hentet:** 2026-06-26T13:48:58Z
 
 ## Innhold
 
@@ -107,12 +107,12 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -129,3 +129,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

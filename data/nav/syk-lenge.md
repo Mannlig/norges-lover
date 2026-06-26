@@ -1,11 +1,11 @@
-<!-- innholds-hash: c94d2f46a86af184e05afb17c0d47b9800d27886e3cb705c002d3e99f1bb004c -->
+<!-- innholds-hash: 3463d37319d8c3b83b0476ce1a851f6ed2b89d20ec8b95cb627f7bf7663c6882 -->
 
 # Har vært syk eller skadet lenge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syk-lenge
-- **Sist hentet:** 2026-06-18T10:36:38Z
+- **Sist hentet:** 2026-06-26T13:43:55Z
 
 ## Innhold
 
@@ -22,6 +22,9 @@ Om støtteordninger, muligheter og veien videre når du har vært syk lenge og e
 
 ### Innhold på denne siden
 
+
+#### Se hvor lenge du kan få sykepenger
+
 Når Nav har behandlet søknaden din om sykepenger, finner du datoen for den siste dagen du har rett til sykepenger inne på dine sider på nav.no. Denne datoen kalles også maksdato.
 
 Når du har mindre enn 90 arbeidsdager igjen med sykepenger, skal du få en oppgave med informasjon på Min side eller et brev i posten.
@@ -32,9 +35,6 @@ Når du har mindre enn 90 arbeidsdager igjen med sykepenger, skal du få en oppg
 Arbeidsgiveren din har ansvar for å følge deg opp mens du er syk og så lenge du er ansatt. Arbeidsgiveren din skal, så langt det er mulig, tilpasse arbeidsplassen og oppgavene dine slik at du kan jobbe.
 
 Ditt ansvar er å være med og finne løsninger slik at du kan komme tilbake i jobb. Snakk med lederen din og undersøk hvilke muligheter det er for tilrettelegging, og hvordan dere sammen kan planlegge oppstarten.
-
-
-#### Hvis du må bytte jobb
 
 Ofte er det mulig å fungere bedre i en annen jobb enn den man ble sykmeldt fra. Ny jobb kan være aktuelt hvis
 
@@ -48,15 +48,9 @@ Hvis alle muligheter for å komme tilbake til arbeidsplassen din er forsøkt, ka
 
 Hvis du leter etter ny jobb i en kort periode, kan det være riktig å søke dagpenger. Du kan tidligst motta dagpenger fra det tidspunktet du søker om dagpenger og er registrert som arbeidssøker.
 
-
-#### Hvis du fortsatt er syk
-
 Hvis du ser at du ikke er frisk nok til å gå tilbake til jobb slik som før, kan det være riktig å søke om arbeidsavklaringspenger (AAP). Du må selv søke om AAP.
 
 Du kan få AAP fra den dagen det er slutt på sykepengene, men ikke før du har søkt. Derfor er det viktig at du søker i god tid før retten din til sykepenger er brukt opp.
-
-
-#### Hvis du blir syk på nytt
 
 Hvis du har brukt opp de 52 ukene, må det gå 26 uker uten sykepenger fra Nav eller arbeidsavklaringspenger, før du kan få vurdert om du har rett til sykepenger på nytt. Når du da søker om sykepenger, vil alle vilkårene for å få sykepenger vurderes på nytt.
 
@@ -71,7 +65,7 @@ Mer informasjon til deg som
 
 Logg gjerne inn på nav.no og gå til Ditt sykefravær, her kan du be om mer veiledning.
 
-Oppdatert 03.11.2025
+Oppdatert 23.06.2026
 
 
 #### Chat med oss
@@ -80,7 +74,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -100,3 +94,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

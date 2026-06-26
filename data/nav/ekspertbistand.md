@@ -1,11 +1,11 @@
-<!-- innholds-hash: a978d4949a96893ea0d4e2a04cdc9f7021d6ccbd129a7b257efefd1c27941f73 -->
+<!-- innholds-hash: 69c54f8d6642389c2c5af83df6e9b8308c12000a2033f7e98773a0fa8fdbe024 -->
 
 # Tilskudd til ekspertbistand - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ekspertbistand
-- **Sist hentet:** 2026-06-18T10:19:45Z
+- **Sist hentet:** 2026-06-26T13:27:02Z
 
 ## Innhold
 
@@ -83,7 +83,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -93,7 +93,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -105,3 +105,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

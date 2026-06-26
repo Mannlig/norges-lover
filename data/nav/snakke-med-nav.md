@@ -1,11 +1,11 @@
-<!-- innholds-hash: a6fc32564eaa43b0bf45e3f9d1aedad56b108addfa80aa320d5b9a744993e110 -->
+<!-- innholds-hash: e240a2fd5b9d63a77a3825a8d4cae0d106df22da0580a9a0b33bb416649c8312 -->
 
 # Trenger råd og veiledning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/snakke-med-nav
-- **Sist hentet:** 2026-06-18T20:27:17Z
+- **Sist hentet:** 2026-06-26T14:50:00Z
 
 ## Innhold
 
@@ -69,7 +69,7 @@ Oppdatert 23.03.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -82,3 +82,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

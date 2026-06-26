@@ -1,4 +1,4 @@
-<!-- innholds-hash: dbf55e3348223d318cf1326aaab3e1906097734046c47a89319c788c05277f8c -->
+<!-- innholds-hash: e5c4abcad8c61082618f1d3e13909ae606a2e66c565529633bccec3d0922401f -->
 
 # Ambulansestasjoner – krav til arbeidslokaler og arbeidstøy
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/krav-til-arbeidslokaler-og-arbeidstoy-i-ambulansetjenesten/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:24:16Z
+- **Sist hentet:** 2026-06-26T15:08:01Z
 
 ## Innhold
 
@@ -14,6 +14,9 @@
 ## Ambulansestasjoner – krav til arbeidslokaler og arbeidstøy
 
 For ambulansestasjoner gjelder de allmenne kravene til arbeidslokaler: De skal tilrettelegges og utformes på grunnlag av arbeidsoppgavene, den enkelte arbeidstaker og spesielle risikoforhold. I ambulansestasjoner er smitte og kjemikalier slike spesielle risikoforhold.
+
+
+### Utforming av lokalene har betydning for arbeidsmiljøet
 
 Ambulansepersonell har ofte lange arbeidsdager og blir eksponert for mange ulike arbeidsmiljøbelastninger. Ambulansestasjoner skal være bygget, vedlikeholdt og godt nok tilrettelagt for det arbeidet som foregår der. Hvis dette ikke ivaretas kan det føre til for dårlig arbeidsflyt, for mye støy og forstyrrelser, for liten plass og fare for smitte.
 
@@ -183,3 +186,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

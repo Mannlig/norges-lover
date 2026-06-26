@@ -1,11 +1,11 @@
-<!-- innholds-hash: 377e22152e3d4238260caa51e753e4b81792c5299a536fff050d1395d411ea63 -->
+<!-- innholds-hash: b6514ecf71b74617f02d3aa9087db332943f429b0d0b0fc5413a71ba8b33b820 -->
 
 # Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsopptjening-eldre
-- **Sist hentet:** 2026-06-18T11:13:23Z
+- **Sist hentet:** 2026-06-26T14:20:31Z
 
 ## Innhold
 
@@ -80,7 +80,9 @@ I søknaden må du beskrive hvilke omsorgsoppgaver du har for omsorgsmottakeren,
 
 Hvis Nav trenger bekreftelse på omsorgsforholdet, kontakter vi omsorgsmottakerens bokommune.
 
-Du får et vedtak fra Nav når vi har behandlet søknaden din.
+Vi kan ikke behandle saken før skatteoppgjøret for det aktuelle året er ferdig. Du får et vedtak fra Nav når vi har behandlet søknaden din.
+
+Hvis du allerede har alderspensjon, og endringen påvirker utbetalingen din, får du raskere svar.
 
 
 #### Saksbehandlingstid for søknader
@@ -108,11 +110,13 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
-Når du har fått innvilget omsorgsopptjening, trenger du ikke søke på nytt hvert år. Du må imidlertid bekrefte omsorgsarbeidet i en egenerklæring som vi sender deg året etter omsorgsåret.
+Når du har fått innvilget omsorgsopptjening, trenger du ikke søke på nytt hvert år.
+
+Du må likevel bekrefte omsorgsarbeidet i en egenerklæring som vi sender deg året etter omsorgsåret. Vi sender ut skjemaet for egenerklæring til alle som fikk vedtak om opptjening året før.
 
 Hvis den du har omsorg for blir innlagt på institusjon eller dør, kan du likevel ha krav på omsorgsopptjening selv om omsorgsperioden har vart kortere enn 6 måneder. Da må du ha fått innvilget omsorgsopptjening de 3 siste årene.
 
-Oppdatert 08.05.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med oss
@@ -121,7 +125,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -131,7 +135,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -143,3 +147,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

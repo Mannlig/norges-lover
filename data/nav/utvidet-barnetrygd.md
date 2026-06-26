@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6f92b7e00399bcb6590b375e4ce8562463e45235a3e2692eb2f59ff8cc48d79d -->
+<!-- innholds-hash: 6a8173af3e16c1359d49a40ad9a4d4a61ec3b5f3b1d0871772e2e510030e3f31 -->
 
 # Utvidet barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utvidet-barnetrygd
-- **Sist hentet:** 2026-06-18T10:57:04Z
+- **Sist hentet:** 2026-06-26T14:04:14Z
 
 ## Innhold
 
@@ -273,7 +273,7 @@ I noen land er det én sentral institusjon som svarer på slike henvendelser, me
 
 Barnetrygden opphører hvis barnet flytter til utlandet. Du kan likevel få barnetrygd hvis barnet ditt oppholder seg i et annet EØS-land hvis
 
-- en av dere som er foreldre arbeider i Norge, på
+- en av dere som er foreldre arbeider i Norge, på norsk
 - begge foreldrene bor med barnet, og begge er pliktige eller frivillige
 - en av dere som er foreldre får uføretrygd eller pensjon fra Norge på grunnlag av tidligere yrkesaktivitet
 - en av dere som er foreldre mottar sykepenger, arbeidsavklaringspenger eller annen aktivitetsbasert ytelse fra Norge
@@ -308,7 +308,7 @@ Hvis du arbeider ved siden av studiene opphører retten til barnetrygd.
 
 Hvis barnetrygden har blitt stanset på grunn av utenlandsopphold, må du søke om barnetrygd på nytt ved retur til Norge.
 
-Oppdatert 19.05.2026
+Oppdatert 22.06.2026
 
 
 #### Chat med oss
@@ -317,7 +317,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -327,7 +327,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -339,3 +339,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

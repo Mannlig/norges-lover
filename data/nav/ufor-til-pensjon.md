@@ -1,11 +1,11 @@
-<!-- innholds-hash: 56d2bf6771cce76dc27a89a460d228d2dc471adee6a087477241e0388dc92dc4 -->
+<!-- innholds-hash: 5ae6f01b2ae4e78e0e98b1f36a6083ee2101c2184b4cc9993557b72d4269c4d2 -->
 
 # Har uføretrygd og skal ta ut pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ufor-til-pensjon
-- **Sist hentet:** 2026-06-18T20:02:30Z
+- **Sist hentet:** 2026-06-26T14:25:21Z
 
 ## Innhold
 
@@ -258,7 +258,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -268,7 +268,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -281,3 +281,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

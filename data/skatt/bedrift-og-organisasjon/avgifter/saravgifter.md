@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3010db1e8881c9bf0cdacc72ae8afe064103aa7fa7cb66cd694325e5705ad90d -->
+<!-- innholds-hash: 50a066050c6aa47cabc324bb507fe91113104e1636af9b9968e368a1fb60de60 -->
 
 # Særavgifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:30:27Z
+- **Sist hentet:** 2026-06-26T09:35:56Z
 
 ## Innhold
 
@@ -52,6 +52,9 @@ Særavgifter er en fellesbetegnelse på avgifter som betales ved innførsel, pro
 
 
 ### Rapportere endret bruk av en avgiftspliktig vare
+
+
+### Klage
 
 
 ### Om avgiftene
@@ -126,3 +129,4 @@ Særavgifter er en fellesbetegnelse på avgifter som betales ved innførsel, pro
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

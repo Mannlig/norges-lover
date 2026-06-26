@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a22921327d81e359972e35d1f08ab17372db7a3024b104c50ea40c62306709a -->
+<!-- innholds-hash: 6c5f8023335f01c9b7802f49aaee49c7032db4e87e29a75dc2ba82d4419018e6 -->
 
 # Forhåndsmelding i bygg og anlegg
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/hms-i-bygg-og-anlegg/forhandsmelding-i-bygg-og-anlegg/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-10T07:12:46Z
+- **Sist hentet:** 2026-06-26T15:41:42Z
 
 ## Innhold
 
@@ -38,8 +38,15 @@ For dette skjemaet må den som skal sende inn skjemaet ha én av følgende tilga
 
 - «Byggesøknad»
 - «Oppføring av bygg og anlegg»
+For å motta post fra oss må dere ha følgende tilgangspakke:
+
+«Ordinær post til virksomheten»
+
 Merk at vedkommende som får fullmakt gjennom disse tilgangspakkene, også vil få tilgang til andre tjenester fra andre etater på samme tilgangspakke. Hvis dere ikke ønsker dette, må dere heller gi fullmakt gjennom enkelttjenester (se nedenfor).
 
+Skjemaet er også åpent for personer med følgende tilgangspakke under fullmaktsområdet «Andre tjenesteytende tjenester»:
+
+- «Tjenester NUF»
 
 #### Enkelttjenester i Altinn
 
@@ -178,11 +185,20 @@ Endringsmeldinger kan bare sendes av personer som har tilgang til Altinn‑innbo
 Når endringsmeldingen er sendt inn, får dere en oppdatert plakat i Altinn. Byggherren skal sørge for å henge den opp synlig på bygge- eller anleggsplassen.
 
 
-### Forhåndsmeldinger sendt før 29. mai 2026
+#### Endring av forhåndsmeldinger fra før 1. juni 2026
 
-Hvis dere har sendt en forhåndsmelding til Arbeidstilsynet før 29. mai 2026, kan dere foreløpig ikke endre den i Altinn.
+For forhåndsmeldinger som ble sendt inn før den 1. juni 2026, fungerer ikke den vanlige fremgangsmåten for å sende inn endringsmeldinger.
 
-Det vil bli mulig å oppdatere disse meldingen med en endringsmelding om kort tid.
+Dette gjelder både forhåndsmeldinger som er sendt inn og de som er påbegynt før 1. juni 2026.
+
+- Logg inn i Altinn og velg den virksomheten som opprinnelig sendte inn den forhåndsmeldingen som du skal endre.
+- Du får da opp endringsskjemaet for forhåndsmeldinger  («Endring av innsendt forhåndsmelding»)
+- Hvis du ikke får opp endringsskjemaet, er du trolig logget inn på feil virksomhet eller du mangler nødvendige tilgangsrettigheter.
+- Hvis du ikke får tilgang til skjemaet, må virksomheten gi deg riktige fullmakter (se over om hvilke tilganger du må ha i Altinn).
+- Når du er logget inn og har valgt riktig virksomhet, vises de relevante forhåndsmeldingene i en liste.
+- Velg riktig forhåndsmelding – du får også opp tilleggsinformasjon slik at du kan kontrollere at du har valgt riktig melding.
+- Klikk på knappen «Start utfylling av endringsskjema» nederst i skjemaet for å sende inn endringsmeldingen.
+Etter at du har sendt inn endringsmeldingen, vil du motta en ny plakat fra Arbeidstilsynet i innboksen som bekrefter at dere har sendt inn en endringsmelding til en forhåndsmelding.
 
 
 ### Regelverk
@@ -201,3 +217,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 - **2026-05-22** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

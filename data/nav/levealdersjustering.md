@@ -1,11 +1,11 @@
-<!-- innholds-hash: 154b64e86cd0a6f855ae7d6fb5d5af303055b07328cc87bff4a3115294c85799 -->
+<!-- innholds-hash: 04196e83f9c73d0b9e33c672780b54446e31f860d51b25527c6c6ea587a300f5 -->
 
 # Levealdersjustering av alderspensjon og AFP i privat sektor - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/levealdersjustering
-- **Sist hentet:** 2026-05-16T04:34:23Z
+- **Sist hentet:** 2026-06-26T14:32:29Z
 
 ## Innhold
 
@@ -84,7 +84,7 @@ Forholdstal, delingstal og forholdstal for kompensasjonstillegg og justeringsbel
 
 Nav utarbeider også prognosar for framtidige forholdstal og delingstal, baserte på mellomalternativet i befolkninga i SSBs framskrivingar. Dei skal gi ein indikasjon om kva pensjonen kan bli for årskulla der endelege tal enno ikkje er fastsette.
 
-Oppdatert 16.09.2025
+Oppdatert 26.06.2026
 
 
 ---
@@ -93,3 +93,4 @@ Oppdatert 16.09.2025
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

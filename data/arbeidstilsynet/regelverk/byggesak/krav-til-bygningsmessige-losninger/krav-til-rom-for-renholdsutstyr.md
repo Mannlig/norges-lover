@@ -1,4 +1,4 @@
-<!-- innholds-hash: 60085e9cee2d0647b3e423852c277f1abeb4e5de473d273b09a762fcdbce2f79 -->
+<!-- innholds-hash: 2beeb83f4baac84e1b0ad1c0cb9681517d13a44be5f6367319930a92317ea386 -->
 
 # Krav til rom for renholdsutstyr
 
@@ -6,19 +6,19 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-rom-for-renholdsutstyr/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T20:51:23Z
+- **Sist hentet:** 2026-06-26T17:28:33Z
 
 ## Innhold
 
 
 ## Krav til rom for renholdsutstyr
 
-Arbeidslokalene skal ha rom for renholdsutstyr, i form av et renholdsrom eller bøttekott. Kravet gjelder også når virksomheten har renholdsavtale med en ekstern aktør som har med og bruker eget utstyr.
+Arbeidslokalene eller arbeidsbygget skal ha rom for renholdsutstyr, i form av et renholdsrom eller bøttekott. Kravet gjelder også når virksomheten har renholdsavtale med en ekstern aktør som har med og bruker eget utstyr.
 
 
 ### Rommet skal være hensiktsmessig plassert
 
-Arbeidslokalene eller arbeidsbygget skal ha rom for renholdsutstyr, i form av et renholdsrom eller bøttekott. Rommet for renholdsutstyr må ligge i tilknytning til lokalene som skal renholdes.
+Rommet for renholdsutstyr må ligge i tilknytning til lokalene som skal renholdes.
 
 Hvis bygget har flere etasjer, bør det være renholdsrom i hver etasje. Hvis bygget har bare ett renholdsrom, bør hver etasje ha tappested med varmt og kaldt vann og utslagsvask.
 
@@ -62,3 +62,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

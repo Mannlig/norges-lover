@@ -1,11 +1,11 @@
-<!-- innholds-hash: b919140266f597e7d5cfa0cc7a785e36e1e6d997ec75bf97cd9390b09db529e1 -->
+<!-- innholds-hash: 903236c6789183ead7f87fab2bf20b2eb2282e614c8343ab7cee9874ec9d62b3 -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-06-18T20:06:53Z
+- **Sist hentet:** 2026-06-26T14:29:47Z
 
 ## Innhold
 
@@ -272,7 +272,14 @@ Hvis du er enslig, har du rett til særskilt sats for enslige. Som enslig regnes
 
 Særskilt sats er 397 215 i året.
 
-Hvis du forsørger ektefelle over 60 år og fyller vilkårene for rett til
+For å ha rett til særskilt sats, må du ha fylt 67 år og ta ut full alderspensjon. Ektefellen du forsørger, må være over 60 år.
+
+Du regnes som forsørger hvis
+
+- inntekten til ektefellen er under grunnbeløpet
+- ektefellen ikke får uføretrygd fra folketrygden (Nav) eller AFP i offentlig sektor
+- ektefellen ikke får alderspensjon, og heller ikke har rett til 100 prosent alderspensjon fra folketrygden (Nav)
+Registrert partner, eller samboer du har vært gift med eller har felles barn med, er sidestilt med ektefelle.
 
 Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter både gamle regler (minste pensjonsnivå) og nye regler (garantipensjon).
 
@@ -1050,10 +1057,7 @@ Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
-
-#### Økt minstepensjon
-
-I revidert nasjonalbudsjett er det bestemt at satsene for minstepensjon skal øke. Vi har foreløpig ikke informasjon om når satsene vil øke. Vi legger ut informasjon så snart vi vet mer om når utbetalingene vil bli endret.
+Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen blir etterbetalt i løpet av september. Fra oktober får du utbetalt ny sats.
 
 Minstepensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten, på samme måte som alderspensjon til utbetaling.
 
@@ -1223,7 +1227,7 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 08.06.2026
+Oppdatert 25.06.2026
 
 
 #### Chat med oss
@@ -1232,7 +1236,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -1242,7 +1246,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -1255,3 +1259,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

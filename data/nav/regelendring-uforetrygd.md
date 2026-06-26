@@ -1,11 +1,11 @@
-<!-- innholds-hash: bc4fe792fb18386a04f9f8f1ef15d71510ee009d2d5c23e0a38e0b715ab263f7 -->
+<!-- innholds-hash: bfd4c8674433ad029d1bb9c050565dff31a4b7184232b2b29418a7492aed5094 -->
 
 # Regelendringer for uføretrygd i 2026 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/regelendring-uforetrygd
-- **Sist hentet:** 2026-05-16T04:27:19Z
+- **Sist hentet:** 2026-06-26T14:22:35Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Regelendringer for uføretrygd i 2026
 
-Publisert 9. mars 2026 | Oppdatert 10. mars 2026
+Publisert 9. mars 2026 | Oppdatert 22. juni 2026
 
 Det kommer flere lovendringer i regelverket for uføretrygd i 2026. Hvis endringene påvirker din uføretrygd, vil du få brev fra oss med mer informasjon.
 
@@ -22,18 +22,16 @@ Du trenger ikke å gjøre noe, lovendringene skjer automatisk.
 
 Her finner du informasjon om følgende lovendringer:
 
-- Økt bunnfradrag (inntektsgrense) etter 2 år med uføretrygd
+- Økt fribeløp etter 2 år med uføretrygd
 - Nye regler for reduksjonsprosent (kompensasjonsgrad)
 - Lik minste inntekt før uførhet (IFU)
-- Ny minstesats for dem som gikk fra uførepensjon til uføretrygd 1. januar 2015
+- Ny minstesats for dem som gikk fra uførepensjon til uføretrygd 1. januar 2015. Denne regelendringen skal reverseres, det betyr at minstesatsen likevel ikke skal bli lavere. Det ble vedtatt i forhandlingene om revidert statsbudsjett i juni. Vi kommer tilbake med mer informasjon når vi vet hvordan dette skal løses i praksis.
 
-#### 1.Økt bunnfradrag (inntektsgrense) etter 2 år med uføretrygd
+#### 1.Økt fribeløp etter 2 år med uføretrygd
 
 Grensen for hvor mye inntekt du kan ha før du får en lavere utbetaling av uføretrygd, vil fra 1. juli 2026 hete bunnfradrag. I folketrygdloven omtales dette før 1. juli 2026 som inntektsgrense.
 
-Frem til nå har alle med 100 prosent uføretrygd hatt et bunnfradrag på 0,4 G (52 064 kroner). De som har gradert uføretrygd, har et individuelt bunnfradrag. 1. oktober øker bunnfradraget til 1 G (130 160 kroner) for deg som har hatt uføretrygd i 2 år eller mer. De som har hatt gradert uføretrygd i 2 år eller mer, vil også få et høyere bunnfradrag, som fortsatt vil være individuelt.
-
-Denne loven er fortsatt under arbeid, og det kan komme endringer.
+Bunnfradraget består av inntekt etter uførhet (IEU) og et fribeløp. Fra første oktober øker fribeløpet fra 0,4 til 1 G for de som har hatt uføretrygd i 2 år eller mer. Det fører til at bunnfradraget øker. Bunnfradraget er den årlige inntekten du kan ha, før vi reduserer uføretrygden din.
 
 
 #### Du trenger ikke å gjøre noe
@@ -122,6 +120,8 @@ I noen tilfeller vil økt minste IFU føre til at uføregraden øker. Du vil få
 
 #### 4. Ny minstesats for dem som gikk fra uførepensjon til uføretrygd 1. januar 2015
 
+Denne regelendringen skal reverseres, det betyr at minstesatsen likevel ikke skal bli lavere. Det ble vedtatt i forhandlingene om revidert statsbudsjett i juni. Vi kommer tilbake med mer informasjon når vi vet hvordan dette skal løses i praksis.
+
 Minstesatsen for uføretrygd for gifte/samboende som gikk fra uførepensjon til uføretrygd i 2015 endres fra 1. juli 2026. Den endres fra 2,379 G (309 651 kroner) til 2,329 G (303 143). Det fører til at minstesatsen for uføretrygd nå blir lik for alle.
 
 
@@ -165,3 +165,4 @@ Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

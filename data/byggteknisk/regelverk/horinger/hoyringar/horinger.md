@@ -1,4 +1,4 @@
-<!-- innholds-hash: fab60bdef198edb27623420f744d1b3f2ee576fd76b91ded0c78ca4c37dac66b -->
+<!-- innholds-hash: d2e72e8b88a7a55f232e5a76d320288cdfa470e5f0fff9ee8f244aa66fcc6325 -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/horinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-18T18:26:07Z
+- **Sist hentet:** 2026-06-26T11:38:55Z
 
 ## Innhold
 
@@ -31,7 +31,7 @@ Høringsfrist
 
 11.06.2026
 
-50 svar
+51 svar
 
 
 #### Ny høring av forslag til endringer i reglene om søknad og dokumentasjon i byggesaker
@@ -279,3 +279,4 @@ Høringsfrist
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

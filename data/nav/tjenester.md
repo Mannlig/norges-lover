@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1d2b2b1c27378f92562d01c0c3d4ac40dee5dc97dd0f162ec2d78fe74b32a4a7 -->
+<!-- innholds-hash: b207314aa267fb7f52e8360eeb168d3b93ac2d3a9b3a3d84e3aeb23dfc508340 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist hentet:** 2026-06-18T10:13:30Z
+- **Sist hentet:** 2026-06-26T13:20:39Z
 
 ## Innhold
 
@@ -377,7 +377,7 @@ Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
 
 Gir bedre fremkommelighet og større muligheter i hverdagen.
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
 
@@ -491,3 +491,4 @@ Alle som har fått utbetalinger fra Nav får årsoppgave på starten av året.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

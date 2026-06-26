@@ -1,11 +1,11 @@
-<!-- innholds-hash: a7ac5d6e8f8b8caafd1d6b55bf857199b8e6eb8007a32d1a9c0995dd49334383 -->
+<!-- innholds-hash: 4d254ead59ca06d86813d21b77e1113689f7624a590e7b4a3ba06e86bc6f860c -->
 
 # Fyll ut meldekort – dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-dagpenger
-- **Sist hentet:** 2026-06-18T10:04:29Z
+- **Sist hentet:** 2026-06-26T13:11:37Z
 
 ## Innhold
 
@@ -34,19 +34,19 @@ Du må sende inn meldekort hver 14. dag.
 
 - når du skal sende neste meldekort
 - hvilken periode meldekortet gjelder for
-Et meldekort gjelder for en periode på 14 dager, og du bør sende det inn så snart perioden er over. Da får du dagpengene dine raskere, og unngår trekk fordi du har sendt inn meldekortet for sent.
+Et meldekort gjelder for en periode på 14 dager, og du bør sende det inn så snart perioden er over. Da får du pengene raskere. Sender du meldekortet for sent, får du stans eller trekk i dagpengene dine.
 
 
-#### Siste frist for å unngå trekk i pengestøtten
+#### Siste frist for å unngå stans
 
-Siste frist for å sende inn meldekortet er kl. 23.00 mandag én uke etter at meldeperioden er over.
+Siste frist for å sende inn meldekortet er i løpet av mandagen én uke etter at meldeperioden er over.
 
 
 #### Send meldekort mens du venter på svar
 
 Husk at du også må sende meldekort i perioden fra du søker til du får svar på søknaden din.
 
-Hvis du sender meldekortet etter fristen, får du trekk på utbetalingen for neste meldekort.
+Hvis du sender meldekortet etter fristen, får du stans eller trekk i dagpengene dine.
 
 Hvis du får problemer med å sende oss meldekortet i tide, må du
 
@@ -285,7 +285,7 @@ Er du tilkallingsvikar, skal du føre avtalte timer med arbeid på meldekortet.
 
 Hvis du er meddommer trenger du ikke føre timer på meldekortet i periodene du er i retten
 
-Oppdatert 19.03.2026
+Oppdatert 25.06.2026
 
 
 #### Chat med oss
@@ -294,7 +294,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -312,3 +312,4 @@ Alltid åpen
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

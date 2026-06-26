@@ -1,11 +1,11 @@
-<!-- innholds-hash: c3d1f9f62ea07efea4f271159eafbbbc3c85453bef3a2833af7b3848fa3bdc82 -->
+<!-- innholds-hash: d4d27baba9317542c96ec5943f741d4d40d323921e33472e347ab0968cfc2bce -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
-- **Sist hentet:** 2026-06-18T10:39:43Z
+- **Sist hentet:** 2026-06-26T13:46:56Z
 
 ## Innhold
 
@@ -281,8 +281,6 @@ Uførepensjon krever som regel at du har eller har hatt medlemskap. Uføreforsik
 Mer informasjon til deg som
 
 Før du søker, må du ha fått avklart med Nav at du ikke kan være i arbeid. På Nav-kontoret kan du få den veiledningen du trenger for å søke.
-
-Hvis du er delvis i arbeid, må du legge ved inntektsskjema til søknaden din.
 
 
 #### Inntektsopplysninger hvis du er næringsdrivende
@@ -739,7 +737,7 @@ Nav jobber nå med å rette opp rundt 1800 saker der det har vært løpende feil
 
 Når disse sakene er ferdig behandlet vil vi fortsette med å rette de sakene med størst beløp, av de 80.000 sakene som gjelder feil i én enkeltmåned. Dette arbeidet er planlagt å starte høsten 2026, og Nav tar kontakt med de som er berørt i saker vi retter opp. Hvis du likevel ønsker å ta kontakt, kan du skrive til oss på nav.no, eller ringe oss. Vær oppmerksom på at det kan ta lang tid hvis vi skal vurdere saken din.
 
-Oppdatert 15.06.2026
+Oppdatert 22.06.2026
 
 
 #### Chat med oss
@@ -748,7 +746,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -758,7 +756,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -770,3 +768,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

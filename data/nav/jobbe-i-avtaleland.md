@@ -1,11 +1,11 @@
-<!-- innholds-hash: 115f2bbfb6624282cd67320c8d9c598db38db268c8ebec9c0f52c4afc4efe818 -->
+<!-- innholds-hash: 04220d5fa56ef6a3724bfd9c1d11232f9f77330f9a1b70eeed42739d8339520f -->
 
 # Jobbe i land Norge har trygdeavtale med - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-avtaleland
-- **Sist hentet:** 2026-06-18T11:12:01Z
+- **Sist hentet:** 2026-06-26T14:19:08Z
 
 ## Innhold
 
@@ -767,7 +767,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -777,7 +777,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -789,3 +789,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

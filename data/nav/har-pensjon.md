@@ -1,11 +1,11 @@
-<!-- innholds-hash: 39dbc0977afa047fc3a8ddcfc37913a04a4f5a9cbf053a59bbc9faf614370fff -->
+<!-- innholds-hash: c8b780b5e2bc809d03eadab9ca4b42888317e126dda3299060d01158fe9daec0 -->
 
 # Har pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-pensjon
-- **Sist hentet:** 2026-06-18T20:08:56Z
+- **Sist hentet:** 2026-06-26T14:31:49Z
 
 ## Innhold
 
@@ -28,10 +28,7 @@ Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
-
-#### Økt minstepensjon
-
-I revidert nasjonalbudsjett er det bestemt at satsene for minstepensjon skal øke. Vi har foreløpig ikke informasjon om når satsene vil øke. Vi legger ut informasjon så snart vi vet mer om når utbetalingene vil bli endret.
+Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen blir etterbetalt i løpet av september. Fra oktober får du utbetalt ny sats.
 
 Logg inn for å se utbetalingene dine:
 
@@ -269,7 +266,7 @@ Her finner du informasjon om pensjonsordningene Nav administrerer.
 
 Hvis du har pensjon fra andre pensjonsordninger, finner du informasjon hos pensjonsleverandøren din.
 
-Oppdatert 08.06.2026
+Oppdatert 25.06.2026
 
 
 #### Chat med oss
@@ -278,7 +275,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -288,7 +285,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -301,3 +298,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: cca5fe564b31f060ce72ff481fc812994e3afd84d57e7d35f987c116b15c57c1 -->
+<!-- innholds-hash: 7393a52d14af5e33313ab7cd2e776dcb44607c27ee8a1053b4e1230c0dc9d86b -->
 
 # Søknad og skjema - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader
-- **Sist hentet:** 2026-06-10T04:32:44Z
+- **Sist hentet:** 2026-06-26T13:14:20Z
 
 ## Innhold
 
@@ -428,7 +428,7 @@ Hjelper deg med lesing og skriving når du er blind eller svaksynt.
 Nav kan be deg om å levere en leveattest når du er bosatt i utlandet og får pensjon eller uføretrygd fra Nav.
 
 
-#### Lydutjevningsanlegg
+#### Lydoverføringsanlegg
 
 Bidrar til at du får med deg det som blir sagt når du er i rom med mange lydforstyrrelser.
 
@@ -765,7 +765,7 @@ Gir bedre fremkommelighet og større muligheter i hverdagen.
 
 #### Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 #### Søk om frivillig medlemskap under opphold i Norge
@@ -986,3 +986,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 - **2026-05-15** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

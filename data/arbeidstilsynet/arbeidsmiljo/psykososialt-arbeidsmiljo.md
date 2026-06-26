@@ -1,4 +1,4 @@
-<!-- innholds-hash: c04a9c455233479644a14242b735a8c59a2a365974ccb429e515af1f953c8a6c -->
+<!-- innholds-hash: 0d3fade41ae5e5246e1509013cfc3968551cd93f0c74944e3b468fc04da29ee8 -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-10T06:37:56Z
+- **Sist hentet:** 2026-06-26T15:10:15Z
 
 ## Innhold
 
@@ -243,9 +243,6 @@ Alle arbeidsgivere har uansett plikt til å bruke sakkyndig bistand dersom det e
 Les mer om hvordan dere kan arbeide systematisk med kartlegging, risikovurdering og tiltak
 
 
-### Regelverk
-
-
 ### Artikler om psykososialt arbeidsmiljø
 
 
@@ -268,6 +265,9 @@ Lesetid: 2 min
 Vi snakker mye om hva som skjer
 
 Lesetid: 2 min
+
+
+### Regelverk
 
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
@@ -302,3 +302,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 - **2026-05-22** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

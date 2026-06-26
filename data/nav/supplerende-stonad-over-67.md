@@ -1,11 +1,11 @@
-<!-- innholds-hash: ea37c3bb64fd40af1b603a435818eaea6c05c8648739f1f113ab5190ca698a62 -->
+<!-- innholds-hash: 8d5d8ae63cd4ccfac5365d154a6076956d11966bf3cb82917643f0f286fa22f1 -->
 
 # Supplerende stønad for personer over 67 år med kort botid i Norge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/supplerende-stonad-over-67
-- **Sist hentet:** 2026-06-18T20:21:31Z
+- **Sist hentet:** 2026-06-26T14:44:22Z
 
 ## Innhold
 
@@ -192,7 +192,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -202,7 +202,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -215,3 +215,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

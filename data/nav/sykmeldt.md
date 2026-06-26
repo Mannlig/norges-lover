@@ -1,11 +1,11 @@
-<!-- innholds-hash: a6ff7f25ce209f9a2d75ad5f74041545444a704114c595548189dc48f64b729f -->
+<!-- innholds-hash: 3adc6aa16c95adc4362dc30aeca52e0e044614e6e90f9fa34a9428fc085e58f1 -->
 
 # Har blitt sykmeldt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykmeldt
-- **Sist hentet:** 2026-06-18T10:38:59Z
+- **Sist hentet:** 2026-06-26T13:46:13Z
 
 ## Innhold
 
@@ -83,10 +83,13 @@ Det er ulike regler avhengig av hva slags arbeid du har, eller hvilken situasjon
 
 Hvis du ikke har rett til sykepenger, kan du søke om arbeidsavklaringspenger. Det er ikke
 
+
+#### Hvis du er blitt sykmeldt mens du studerer
+
 Hvis du må avbryte studiene på grunn av sykdom, kan du ha rett til
 
 
-#### Kronisk syk eller gravid
+#### Hvis du er kronisk syk eller gravid
 
 Du eller arbeidsgiveren din kan søke om at Nav dekker sykepengene i arbeidsgiverperioden hvis du har
 
@@ -108,7 +111,7 @@ Hvis du ønsker et
 
 Her finner du også sykmeldingen, sykepengesøknaden, oppfølgingsplanen din og oversikten du trenger mens du er sykmeldt.
 
-Oppdatert 17.04.2026
+Oppdatert 23.06.2026
 
 
 #### Chat med oss
@@ -117,7 +120,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -127,7 +130,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -139,3 +142,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

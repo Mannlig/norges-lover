@@ -1,4 +1,4 @@
-<!-- innholds-hash: d9f817046ad94864fe65ff536913001e8e7f73b00388bec8d2bcbaf3a83e68e0 -->
+<!-- innholds-hash: 885c9ceefa576da5b3fe20351f967d248b70eecede03958d75815e0aca09b6e2 -->
 
 # Søk om godkjenning av bedriftshelsetjeneste
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/godkjenning-av-bedriftshelsetjenester/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T08:20:26Z
+- **Sist hentet:** 2026-06-26T17:14:35Z
 
 ## Innhold
 
@@ -169,6 +169,67 @@ Arbeidstilsynet kan stille de vilkår som anses nødvendig i forbindelse med ved
 
 ### Søk om godkjenning
 
+Altinn endrer i 2026 tilgangsstyringen til skjema og tjenester. De gamle Altinn-rollene fases ut i løpet av året.
+
+For dette skjemaet er det nå to måter dere kan gi personer i virksomheten deres tilgang:
+
+- Gi fullmakt til tilgangspakker i Altinn
+- Gi fullmakt til enkelttjenester i Altinn
+
+#### Tilgangspakker i Altinn
+
+For å få tilgang til skjema i Altinn, må den personen som skal sende inn skjemaet for virksomheten ha riktig fullmakt gjennom en tilgangspakke i Altinn.
+
+For dette skjemaet må den som skal sende inn skjemaet ha én av følgende tilgangspakker i Altinn:
+
+- «
+- «
+Merk at vedkommende som får fullmakt gjennom disse tilgangspakkene, også vil få tilgang til andre tjenester fra andre etater på samme tilgangspakke. Hvis dere ikke ønsker dette, må dere heller gi fullmakt gjennom enkelttjenester (se nedenfor).
+
+For å motta post fra oss må du ha følgende tilgangspakke:
+
+«Ordinær post til virksomheten»
+
+
+#### Enkelttjenester i Altinn
+
+Hvis en person i virksomheten deres kun skal sende inn dette skjemaet på vegne av dere, holder det å gi tilgang til dette skjemaet som en enkelttjeneste. Da unngår dere også at personen får tilgang til andre skjema eller annen informasjon i Altinn som har samme tilgangspakker (se over).
+
+Slik gir du fullmakt til dette skjemaet som en enkelttjeneste i Altinn:
+
+- Gå til siden for tilgangsstyring i Altinn og velg «Brukere» i menyen til venstre.
+- Finn personen som du ønsker og gi fullmakt til i listen over brukere.
+- Hvis du ikke finner personen i listen, klikker du på knappen «Ny bruker» for å legge dem til.
+- Velg brukeren som skal få fullmakt.
+- På brukerens side velger du fanen «Tjenester».
+- Klikk på knappen «Gi fullmakt».
+- Søk i listen for å finne riktig enkelttjeneste som du skal gi fullmakt til. Dette skjemaet heter
+- «Søknad om godkjenning av bedriftshelsetjeneste»
+I tillegg må dere gi fullmakt til denne enkelttjenesten:
+
+- «Endringsmelding til godkjenning av bedriftshelsetjeneste» – for å kunne melde fra til oss om endringer
+- Du kan også sortere på etat «Arbeidstilsynet» for å filtrere tjenestelisten.
+- Klikk på «Gi fullmakt» ute til høyre for å gi fullmakt til denne skjematjenesten.
+Se også en stegvis guide for hvordan dere gir fullmakt til enkelttjenester:
+
+
+#### Gamle roller i Altinn kan ha tilgang til noen skjemaer ut 2026
+
+For noen skjema vil Altinns gamle rolletilganger kunne fungere ut 2026.
+
+For å kunne sende skjema og lese post fra Arbeidstilsynet, måtte man ha disse rollene i gamle Altinn:
+
+- «Utfyller/innsender» for å fylle ut og sende skjema.
+- «Post/arkiv» for å lese digital post.
+
+#### Ikke mulig å delegere tilganger via de gamle Altinn-rollene fra 19. juni 2026
+
+Fra 19. juni 2026 vil det ikke være mulig å gi tilganger gjennom de gamle Altinn-rollene til nye brukere i virksomheten deres.
+
+Dere må derfor enten gi fullmakt til tilgangspakker i Altinn eller fullmakt til enkelttjenester i Altinn ved behov for nye tilganger etter 19. juni.
+
+I løpet av 2026 må dere uansett gi fullmakter og tilganger på nytt i Altinn:
+
 I søknaden må dere legge ved dokumentasjon på
 
 - fagkompetanse innen arbeidsmedisin/arbeidshelse
@@ -185,27 +246,6 @@ Dere må også vise at det faglige personalet dekker minimum 3 årsverk og at de
 Les mer om innholdet i søknaden og vedleggene nedenfor.
 
 Dere må sørge for at dere står oppført i og har oppdatert informasjon i offentlige registre som er aktuelle:
-
-
-#### Roller som har tilgang til skjemaer i Altinn
-
-For å kunne sende skjema og lese post fra oss, kan dere ha disse rollene i Altinn:
-
-- Dere kan ha rollen «utfyller/innsender» for å fylle ut og sende skjema.
-- Dere kan ha rollen «post/arkiv» for å lese digital post.
-
-#### Gi rettigheter eller tilgang til andre
-
-Personer som har rollene «hovedadministrator» eller «tilgangsstyring» kan
-
-- gi rollene «utfyller/innsender» eller «post/arkiv» til andre i virksomheten
-- gi tilgang til et spesifikt skjema eller en enkelttjeneste
-
-#### Få tilgang til et spesifikt skjema eller enkelttjeneste
-
-Hvis personen som skal sende inn skjemaet, ikke har rollene beskrevet over, kan de få tilgang til et spesifikt skjema eller en enkelttjeneste. Det er de som har rollene «hovedadministrator» eller «tilgangsstyring» som kan gi denne tilgangen videre til andre.
-
-Personen som får slik tilgang, får ikke tilgang til innboksen der kvitteringer eller svar kommer.
 
 Det er hovedenheten i virksomheten som søker på vegne av alle underenheter.
 
@@ -414,3 +454,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

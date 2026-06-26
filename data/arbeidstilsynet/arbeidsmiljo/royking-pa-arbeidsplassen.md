@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5945f40534d05b874cd58e276d02196ed7e01a22a106787cd487aa6ebd7278b8 -->
+<!-- innholds-hash: 9f3dc7cf3a4249f30d478e98bb4008568b19915814cd325ef264503dca07238f -->
 
 # Røyking på arbeidsplassen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/royking-pa-arbeidsplassen/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:27:53Z
+- **Sist hentet:** 2026-06-26T15:11:16Z
 
 ## Innhold
 
@@ -100,27 +100,68 @@ I søknaden må de svare på dette:
 - Har dei som er med i oppsettinga/innspelinga fått informasjon om at dei kan reservere seg mot å medverke der det er sigarettrøyk?
 - Skal det vere med barn eller unge i oppsettinga/innspelinga? Hugs å søke Arbeidstilsynet om
 
-#### Roller som har tilgang til skjema i Altinn
+### Søk om disepensasjon
 
-For å kunna sende skjema og lese post frå oss, kan de ha disse rollene i Altinn:
+Altinn endrar i 2026 tilgangsstyringa til skjema og tenester. Dei gamle Altinn-rollene blir fasa ut i løpet av året.
 
-- De kan ha rolla «utfyllar/innsendar» for å fylle ut og sende skjema.
-- De kan ha rolla «post/arkiv» for å lese digital post.
-Les meir om
+For dette skjemaet er det no to måtar de kan gi personar i verksemda dykkar tilgang:
+
+- Gi fullmakt til tilgangspakker i Altinn
+- Gi fullmakt til enkelttenester i Altinn
+
+#### Tilgangspakker i Altinn
+
+For å få tilgang til skjema i Altinn, må den personen som skal sende inn skjemaet for verksemda ha rett fullmakt gjennom ei tilgangspakke i Altinn.
+
+For dette skjemaet må den som skal sende inn skjemaet ha ei av følgande tilgangspakker i Altinn:
+
+- «Starte, endre og avvikle virksomhet» under fullmaktsområdet «Forhold ved virksomheten»
+- «Kunst og underholdning» under fullmaktsområdet «Kultur og frivillighet»
+For å få post fra oss må de ha følgande tilgangspakke:
+
+«Ordinær post til virksomheten»
+
+Merk at vedkommande som får fullmakt gjennom desse tilgangspakkene, også vil få tilgang til andre tenester frå andre etatar på same tilgangspakke. Om de ikkje ønsker dette, må de heller gi fullmakt gjennom enkelttenester (sjå nedanfor).
+
+Skjemaet er også ope for personar med følgande tilgangspakke under fullmaktsområdet «Andre tjenesteytende tjenester»:
+
+- «Tjenester NUF»
+
+#### Enkelttenester i Altinn
+
+Viss ein person i verksemda dykkar berre skal sende inn dette skjemaet på vegner av dykk, held det å gi tilgang til dette skjemaet som ei enkeltteneste. Da unngår de også at personen får tilgang til andre skjema eller annan informasjon i Altinn som har same tilgangspakker (sjå over).
+
+Slik gir du fullmakt til dette skjemaet som ei enkeltteneste i Altinn:
+
+- Gå til sida for tilgangsstyring i Altinn og vel «Brukere» i menyen til venstre.
+- Finn personen som du ønsker og gi fullmakt til i lista over brukarar.
+- Om du ikkje finn personen i lista, klikkar du på knappen «Ny bruker» for å legge dei til.
+- Vel brukaren som skal få fullmakt.
+- På brukarens side velger du fanen «Tjenester».
+- Klikk på knappen «Gi fullmakt».
+- Søk i listen for å finne riktig enkelttjeneste som du skal gi fullmakt til. Dette skjemaet heter
+- «Søknad om dispensasjon fra tobakkskadeloven»
+- Du kan også sortere på etat «Arbeidstilsynet» for å filtrere tenestelista.
+- Klikk på «Gi fullmakt» ute til høgre for å gi fullmakt til denne skjematenesta.
+Sjå også ein stegvis guide om korleis de gir fullmakt til enkelttenester:
 
 
-#### Gi rettar eller tilgang til andre
+#### Gamle roller i Altinn kan ha tilgang til nokre skjema ut 2026
 
-Personar som har rollene «hovedadministrator» eller «tilgangsstyring» kan
+For nokre skjema vil Altinns gamle rolletilgangar kunne fungere ut 2026.
 
-- gi rollene «utfyllar/innsendar» eller «post/arkiv» til andre i verksemda
-- gi tilgang til eit skjema eller ei enkeltteneste
+For å kunne sende skjema og lese post frå Arbeidstilsynet, måtte ein ha desse rollene i gamle Altinn:
 
-#### Få tilgang til eit skjema eller enkelttenester
+- «Utfyller/innsender» for å fylle ut og sende skjema.
+- «Post/arkiv» for å lese digital post.
 
-Viss personen som skal sende inn skjemaet, ikkje har rollene beskrive over, kan dei få tilgang til eit spesifikt skjema eller ei enkeltteneste. Det er dei som har rollene «hovedadministrator» eller «tilgangsstyring» som kan gi denne tilgangen vidare til andre.
+#### Ikkje mogleg å delegere tilgangar via dei gamle Altinn-rollene frå 19. juni 2026
 
-Personen som får slik tilgang, får ikkje tilgang til innboksen der kvitteringar eller svar kjem.
+Frå 19. juni 2026 vil det ikkje vere mogleg å gi tilgangar gjennom dei gamle Altinn-rollene til nye brukarar i verksemda dykkar.
+
+De må derfor enten gi fullmakt til tilgangspakker i Altinn eller fullmakt til enkelttenester i Altinn ved behov for nye tilgangar etter 19. juni.
+
+I løpet av 2026 må de uansett gi fullmakter og tilgangar på nytt i Altinn:
 
 
 ### Kan arbeidsgivar forby snus på arbeidsplassen?
@@ -158,3 +199,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-06-26** Innhold endret (se git-historikk for diff)

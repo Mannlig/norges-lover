@@ -1,11 +1,11 @@
-<!-- innholds-hash: e60cc14017364f9623cc91ea3f6488c3db44aef880d4e380f3be405faba49664 -->
+<!-- innholds-hash: 55a702454ace5b9793079dd1cb088c252ca522470bb5f6eeea64992fed37aa96 -->
 
 # Satser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/satser
-- **Sist hentet:** 2026-06-10T04:27:55Z
+- **Sist hentet:** 2026-06-26T13:09:32Z
 
 ## Innhold
 
@@ -288,7 +288,7 @@ Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
 
 #### Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 #### Søk om frivillig medlemskap under opphold i Norge
@@ -378,3 +378,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 
 - **2026-05-15** Første gang hentet
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

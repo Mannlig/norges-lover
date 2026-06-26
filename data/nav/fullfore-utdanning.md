@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7d0236aa6802ed33637c6300d6a4432c2fe7d6603c7a30841e220961c5f608c5 -->
+<!-- innholds-hash: 2fc6dfb3e7c425c52bc0eea8db561a01c12e96d4da8b886b956d835643ed086a -->
 
 # Trenger hjelp til å fullføre utdanning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fullfore-utdanning
-- **Sist hentet:** 2026-06-18T10:46:46Z
+- **Sist hentet:** 2026-06-26T13:53:53Z
 
 ## Innhold
 
@@ -191,7 +191,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -201,7 +201,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -213,3 +213,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)
