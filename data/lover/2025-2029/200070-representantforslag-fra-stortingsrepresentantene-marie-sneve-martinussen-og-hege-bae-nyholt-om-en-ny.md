@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7bae1fd68cf6173046f5f1c1e411484a5e576849ff0a1feb12eb6a44f31555dc -->
+<!-- innholds-hash: 1cb53ffb1a2bc896648b6bcbcb22b6037c47ada207dd7031ccff3d46052618ac -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen og Hege Bae Nyholt om en ny makt- og demokratiutredning
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-25T14:55:36Z
+- **Sist hentet:** 2026-06-25T20:31:02Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200070
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782397830083+0200)/",
+  "respons_dato_tid": "/Date(1782416000973+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782397830083+0200)/",
+      "respons_dato_tid": "/Date(1782416000973+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782397830083+0200)/",
+      "respons_dato_tid": "/Date(1782416000973+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782397830083+0200)/",
+      "respons_dato_tid": "/Date(1782416000973+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -90,7 +90,7 @@
   "innstilling_id": 17472,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782397811472+0200)/",
+    "respons_dato_tid": "/Date(1782415980188+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200070,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782397830083+0200)/",
+      "respons_dato_tid": "/Date(1782416000973+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -158,5 +158,6 @@
 - **2026-06-24** Innhold endret (se git-historikk for diff)
 - **2026-06-24** Innhold endret (se git-historikk for diff)
 - **2026-06-24** Innhold endret (se git-historikk for diff)
+- **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)

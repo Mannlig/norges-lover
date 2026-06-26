@@ -1,11 +1,11 @@
-<!-- innholds-hash: 664f1f37cc1573b23f1807e2ebe25878117647995d4eedc00b073fe9e6a2ec34 -->
+<!-- innholds-hash: 88eb1ca4f6d823570b33394711cb9a35f17e0bc75ab82628f0ebc261cfad2150 -->
 
 # Klage og anke - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/klage/nn
-- **Sist hentet:** 2026-06-17T13:28:45Z
+- **Sist hentet:** 2026-06-25T23:00:11Z
 
 ## Innhold
 
@@ -94,11 +94,6 @@ Sikrar at barnet blir forsørgt når foreldra ikkje bur saman.
 #### Barnetrygd
 
 Pengestøtte når du har barn under 18 år.
-
-
-#### Bidrag til særlege utgifter
-
-Betaling frå den andre forelderen for sin del av utgiftene til tannregulering, konfirmasjon, briller m.m.
 
 
 #### Bidragsforskot
@@ -436,6 +431,11 @@ Sikrar deg som er ufør og har flyktningstatus ei samla inntekt lik minste yting
 Erstattar inntekt når du er frisk, men ikkje kan halde fram i jobben under svangerskapet fordi det kan medføre risiko for barnet.
 
 
+#### Særbidrag (tidlegare bidrag til særlege utgifter)
+
+Bidra til ekstrautgifter som ikkje blir dekt av det vanlege barnebidraget, som til dømes konfirmasjon, briller eller tannregulering.
+
+
 #### Tilleggsstønader
 
 Støtte til barnepass og utgifter når du gjennomfører utdanning eller jobbsøking.
@@ -547,3 +547,4 @@ En mellombels støtte du kan få dersom du ikkje klarer å dekkje nødvendige ut
 ## Endringshistorikk
 
 - **2026-06-17** Første gang hentet
+- **2026-06-25** Innhold endret (se git-historikk for diff)

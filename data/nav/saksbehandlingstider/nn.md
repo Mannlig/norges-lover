@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6cf11e022201e68bbf16e92e8fcc293dd4214539fbd70bc669a05d87860a4fc6 -->
+<!-- innholds-hash: d3e20ff23d815f82645cec184cd95f79d136bdff318f687ee5645790c0fc1c22 -->
 
 # Saksbehandlingstider - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider/nn
-- **Sist hentet:** 2026-06-17T13:29:26Z
+- **Sist hentet:** 2026-06-25T23:00:51Z
 
 ## Innhold
 
@@ -115,11 +115,6 @@ Sikrar at barnet blir forsørgt når foreldra ikkje bur saman.
 #### Barnetrygd
 
 Pengestøtte når du har barn under 18 år.
-
-
-#### Bidrag til særlege utgifter
-
-Betaling frå den andre forelderen for sin del av utgiftene til tannregulering, konfirmasjon, briller m.m.
 
 
 #### Bidragsforskot
@@ -562,6 +557,11 @@ Erstattar inntekt når du er frisk, men ikkje kan halde fram i jobben under svan
 Gir betre framkome og fleire moglegheiter i kvardagen.
 
 
+#### Særbidrag (tidlegare bidrag til særlege utgifter)
+
+Bidra til ekstrautgifter som ikkje blir dekt av det vanlege barnebidraget, som til dømes konfirmasjon, briller eller tannregulering.
+
+
 #### Talemaskiner, enkle
 
 Gir moglegheit for korte uttrykk og beskjedar som kan gi støtte i leik og samspel.
@@ -723,3 +723,4 @@ En mellombels støtte du kan få dersom du ikkje klarer å dekkje nødvendige ut
 ## Endringshistorikk
 
 - **2026-06-17** Første gang hentet
+- **2026-06-25** Innhold endret (se git-historikk for diff)
