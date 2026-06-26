@@ -1,4 +1,4 @@
-<!-- innholds-hash: 772370d8ebd582dea7d93e8c9a0ee80aaa91cbcd37544125d4b6c763d32b70af -->
+<!-- innholds-hash: 31de66a26ec58ad3ec9999ac58017d2455cc0854cad5dfa89cd73f3e7fbffa45 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -11,21 +11,21 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-25T20:31:02Z
+- **Sist hentet:** 2026-06-26T02:11:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782416000926+0200)/",
+  "respons_dato_tid": "/Date(1782439305419+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782416000926+0200)/",
+      "respons_dato_tid": "/Date(1782439305451+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Breivik",
@@ -34,14 +34,14 @@
       "id": "ANEBRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782392517528+0200)/",
+        "respons_dato_tid": "/Date(1782435688897+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782342018530+0200)/",
+        "respons_dato_tid": "/Date(1782428417629+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -50,7 +50,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782416000926+0200)/",
+      "respons_dato_tid": "/Date(1782439305451+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -59,14 +59,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782392517528+0200)/",
+        "respons_dato_tid": "/Date(1782435688897+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782342018530+0200)/",
+        "respons_dato_tid": "/Date(1782428417629+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -75,7 +75,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782416000926+0200)/",
+      "respons_dato_tid": "/Date(1782439305451+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -84,14 +84,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782392517528+0200)/",
+        "respons_dato_tid": "/Date(1782435688897+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782342018530+0200)/",
+        "respons_dato_tid": "/Date(1782428417629+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -105,7 +105,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782415980188+0200)/",
+    "respons_dato_tid": "/Date(1782439224637+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -148,3 +148,4 @@
 - **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8f7a6ec92420eb0b133d8656b38587689ebefd665770a70f8a0729b49251e096 -->
+<!-- innholds-hash: e9ea2a94c46e6f8121de5f78a01e0c82d08e8e2565f2fb22996ac35f26738b47 -->
 
 # Helsepersonellplan 2040
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-25T20:31:02Z
+- **Sist hentet:** 2026-06-26T02:11:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200350
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782416000989+0200)/",
+  "respons_dato_tid": "/Date(1782439305451+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782415980188+0200)/",
+    "respons_dato_tid": "/Date(1782439224637+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200350,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782416000989+0200)/",
+      "respons_dato_tid": "/Date(1782439305451+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -47,14 +47,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782392517528+0200)/",
+        "respons_dato_tid": "/Date(1782435688897+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782342018530+0200)/",
+        "respons_dato_tid": "/Date(1782428417629+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -112,3 +112,4 @@
 - **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)
 - **2026-06-25** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)
