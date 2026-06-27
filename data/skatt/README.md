@@ -2,7 +2,7 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-27 08:07 UTC*
+*Sist oppdatert: 2026-06-27 16:49 UTC*
 
 **Antall dokumenter:** 3800
 
@@ -28,10 +28,10 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Opptak og presentasjon fra digitalt informasjonsmøte om tilgangspakker](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/opptak-og-presentasjon-fra-digitalt-informasjonsmote-om-tilgangspakker.md)
 - [Rapportering av arbeidsforhold i a-meldingen ved streik og liknende fravær](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/rapportering-av-arbeidsforhold-i-a-meldingen-ved-streik-og-liknende-fravar.md)
 - [Siste fra a-ordningen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen.md)
-- [Forenklet a-melding for veldedig eller allmennyttig organisasjon](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
-- [A-melding - Direkte levering](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
-- [Hvilke opplysninger skal arbeidsgiver gi inntektsmottaker?](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/sammenstilling-til-arbeidstaker.md)
-- [Velg rett måte å levere a-melding på](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/velg-rett-mate-a-levere-a-melding-pa.md)
+- [A-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
+- [A-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
+- [A-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/sammenstilling-til-arbeidstaker.md)
+- [A-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/velg-rett-mate-a-levere-a-melding-pa.md)
 - [Tvangsmulkt og klage – a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/tvangsmulkt-for-a-meldingen-og-klage.md)
 - [Startdato på arbeidsforhold](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/arbeidsforholdet/opplysninger-om-arbeidsforholdet/startdato-pa-arbeidsforhold.md)
 - [Oversikt over feilmeldinger](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag.md)

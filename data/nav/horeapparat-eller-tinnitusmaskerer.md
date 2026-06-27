@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7a56f800b3e7c1fdf31febd9c1c81495e267bd537191c9913e1c32d909f07b96 -->
+<!-- innholds-hash: 7a9fa8f655176096213763b2b182145a078a0230de991b76f9e0e5a5e2a3a725 -->
 
 # Har nedsatt hørsel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/horeapparat-eller-tinnitusmaskerer
-- **Sist hentet:** 2026-06-19T19:46:29Z
+- **Sist hentet:** 2026-06-27T15:19:50Z
 
 ## Innhold
 
@@ -72,7 +72,7 @@ Er du hørselshemmet, døv eller døvblind, kan du få tolk eller ledsagerhjelp.
 
 Barn og unge i barnehage, grunnskole, videregående skole og høyere utdannelse som har nedsatt hørsel, vil ofte være avhengig av hørselstekniske hjelpemidler for å ha fullt utbytte av sin skolegang og sine studier.
 
-Lydutjevningsanlegg i basisklasserommet med høyttalere, mikrofoner og teleslynge vil bedre skoledagen betydelig. Da kan man høre både lærer og medelever.
+Lydoverføringsanlegg i basisklasserommet med høyttalere, mikrofoner og teleslynge vil bedre skoledagen betydelig. Da kan man høre både lærer og medelever.
 
 På turer og ved undervisning i andre rom på skolen finnes flyttbare løsninger der man tar med seg en høyttaler og mikrofoner eller et samtalesett med sender og mottaker. Hjelpemiddelsentralen i fylket der du bor kan informere mer om dette.
 
@@ -101,7 +101,7 @@ Nav hjelpemiddelsentral har et arbeidsrettet veiledningstilbud som du som har n
 
 Har du nedsatt hørsel, er blind, svaksynt eller har dobbelt sansetap, kan du få opplæring slik at du kan fungere bedre i dagliglivet eller i arbeidslivet.
 
-Oppdatert 08.05.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med chatbot
@@ -118,7 +118,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -131,3 +131,4 @@ Stengt nå, åpner mandag kl. 9
 
 - **2026-06-11** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

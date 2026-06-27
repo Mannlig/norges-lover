@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9abfe8e006507157ff23c368aae3c219e1ef0b38fbe827c85281f002e5fe46ad -->
+<!-- innholds-hash: 63845ccf2d465695a7c84b2ca039d8e24d5019aa3b623f4ce5927a4c19a52093 -->
 
 # Endringar i skatte- og avgiftslovgivinga
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-27T03:04:52Z
+- **Sist hentet:** 2026-06-27T10:08:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200312
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782526132985+0200)/",
+  "respons_dato_tid": "/Date(1782551670276+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17532,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1782525857499+0200)/",
+    "respons_dato_tid": "/Date(1782551668654+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200312,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782526132985+0200)/",
+      "respons_dato_tid": "/Date(1782551670276+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -136,4 +136,5 @@
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)

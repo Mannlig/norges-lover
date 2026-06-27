@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-27 08:07 UTC*
+*Sist oppdatert: 2026-06-27 16:49 UTC*
 
 **Antall dokumenter:** 6423
 
@@ -2659,10 +2659,10 @@ Lovdata
 - [Opptak og presentasjon fra digitalt informasjonsmøte om tilgangspakker](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/opptak-og-presentasjon-fra-digitalt-informasjonsmote-om-tilgangspakker.md)
 - [Rapportering av arbeidsforhold i a-meldingen ved streik og liknende fravær](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/rapportering-av-arbeidsforhold-i-a-meldingen-ved-streik-og-liknende-fravar.md)
 - [Siste fra a-ordningen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen.md)
-- [Forenklet a-melding for veldedig eller allmennyttig organisasjon](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
-- [A-melding - Direkte levering](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
-- [Hvilke opplysninger skal arbeidsgiver gi inntektsmottaker?](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/sammenstilling-til-arbeidstaker.md)
-- [Velg rett måte å levere a-melding på](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/velg-rett-mate-a-levere-a-melding-pa.md)
+- [A-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/a-melding-veldedig-allmennyttig.md)
+- [A-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering.md)
+- [A-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/sammenstilling-til-arbeidstaker.md)
+- [A-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/velg-rett-mate-a-levere-a-melding-pa.md)
 - [Tvangsmulkt og klage – a-meldingen](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/tvangsmulkt-for-a-meldingen-og-klage.md)
 - [Startdato på arbeidsforhold](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/arbeidsforholdet/opplysninger-om-arbeidsforholdet/startdato-pa-arbeidsforhold.md)
 - [Oversikt over feilmeldinger](skatt/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag.md)

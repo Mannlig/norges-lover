@@ -1,11 +1,11 @@
-<!-- innholds-hash: f66a2c91bd6e0e41571e0fd8ff27e8e3c55e2c36a0842d1b3c3b76c9893f4e9c -->
+<!-- innholds-hash: b589e574dff54904e9d188b6585d7e02c4949454d8a3936dea491b771af76c42 -->
 
 # Arbeid med støtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeid-med-stotte
-- **Sist hentet:** 2026-06-19T13:04:52Z
+- **Sist hentet:** 2026-06-27T15:12:53Z
 
 ## Innhold
 
@@ -63,7 +63,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -73,7 +73,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -83,3 +83,4 @@ Stengt nå, åpner mandag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 08ddba569b63a507f03afebdab9a90f787c0c71e453ee4309605738fccd5291d -->
+<!-- innholds-hash: e2a555b5a2b99b365373ba6f8914a9dc415bc614bd14a968c47284fa192ba2a6 -->
 
 # Søke pensjon fra EU/EØS-land, Storbritannia eller Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soke-pensjon-eos
-- **Sist hentet:** 2026-06-19T21:03:41Z
+- **Sist hentet:** 2026-06-27T16:36:20Z
 
 ## Innhold
 
@@ -288,7 +288,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -298,7 +298,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -310,3 +310,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: af21492ae55c085f479cb38fd435020360bcceb35b6f345e27fd506015db3dc9 -->
+<!-- innholds-hash: b2ba69931eca89f8e0d1660fe074d90a946d80545d70cc2299144de32ada813b -->
 
 # Kompensasjonsmelding for merverdiavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:21:29Z
+- **Sist hentet:** 2026-06-27T11:06:38Z
 
 ## Innhold
 
@@ -58,8 +58,6 @@ Hvis revisor finner feil og må avvise kravet ditt, må du legge inn kravet på 
 
 Fristene for å sende inn kompensasjonsmelding er annenhver måned, og delt opp i terminer. Du kan tidligst levere krav om kompensasjon 40 dager før fristen for hver termin.
 
-Merverdiavgift, kompensasjonsmelding – frist for levering 2. termin
-
 Merverdiavgift, kompensasjonsmelding – frist for levering 3. termin
 
 Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin
@@ -93,3 +91,4 @@ Du trenger en av disse tilgangspakkene:
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

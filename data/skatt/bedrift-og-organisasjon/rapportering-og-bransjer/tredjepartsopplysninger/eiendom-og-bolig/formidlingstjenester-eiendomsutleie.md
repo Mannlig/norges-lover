@@ -1,4 +1,4 @@
-<!-- innholds-hash: d16340819056f3fad8e57b17786e52151b3f93e98f089afeda1a3769163ba4c2 -->
+<!-- innholds-hash: 3edfc4de33a6764e36f5adefb9dfc2ffa966560d5a53e342081f0f209f5390b9 -->
 
 # Utleie av fast eiendom fra formidlingsselskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/eiendom-og-bolig/formidlingstjenester-eiendomsutleie/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:05:25Z
+- **Sist hentet:** 2026-06-27T12:17:13Z
 
 ## Innhold
 
@@ -19,6 +19,12 @@ Alle virksomheter som formidler utleie av fast eiendom skal levere opplysninger 
 Virksomheter som driver formidling av utleie av fast eiendom og samtidig har oversikt over betalingen skal levere opplysninger. Vilkåret om at formidleren har oversikt over betalingen betyr at formidleren tar betalt for formidlingen av utleieeiendommen fra utleier til kunden.
 
 Opplysningsplikten gjelder uavhengig av om formidlingen skjer gjennom en digital formidlingstjeneste eller gjennom andre kanaler.
+
+Fra 1. januar 2026 gjelder nytt regelverk for Digital plattforminformasjon (DPI). Denne ordningen omfatter blant annet utleie av fast eiendom og vil etter hvert erstatte dagens rapporteringsordning for formidlingstjenester på eiendom.
+
+Den første rapporteringen etter de nye reglene skal skje i januar 2027 for inntektsåret 2026. Det er lagt opp til en overgangsordning, slik at aktører som rapporterer på formidlingstjeneste på eiendom kan velge å rapportere på dagens ordning også for inntektsåret 2026, men må bruke ny ordning fra og med inntektsåret 2027.
+
+Les mer om ordningen på Skatteetatens nettsider:
 
 Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
 
@@ -76,3 +82,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

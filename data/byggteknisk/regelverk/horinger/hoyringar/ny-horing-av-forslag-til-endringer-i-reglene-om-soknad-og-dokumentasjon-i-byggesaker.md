@@ -1,4 +1,4 @@
-<!-- innholds-hash: dffbefe8e7a857c27b3140f173854b0bb0503993e82927a69a815eff8d5291cf -->
+<!-- innholds-hash: 5c033727d9779907b616b893aabcc091aa1dbe26f7099b2f5f1ffc10d8d1c9f3 -->
 
 # Ny høring av forslag til endringer i reglene om søknad og dokumentasjon i byggesaker
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/ny-horing-av-forslag-til-endringer-i-reglene-om-soknad-og-dokumentasjon-i-byggesaker/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-19T18:09:39Z
+- **Sist hentet:** 2026-06-27T12:57:27Z
 
 ## Innhold
 
@@ -43,13 +43,7 @@ Høringsmøtet blir arrangert digitalt tirsdag 12. mai kl. 13. Du kan
 
 11.06.2026
 
-Vi har mottatt 50 svar. Høringen er nå avsluttet.
-
-
-#### Person
-
-
-#### Svar med merknader
+Vi har mottatt 51 svar. Høringen er nå avsluttet.
 
 
 #### Offentlig instans
@@ -61,6 +55,12 @@ Vi har mottatt 50 svar. Høringen er nå avsluttet.
 #### Svar uten merknader
 
 Domstoladministrasjonen
+
+
+#### Person
+
+
+#### Svar med merknader
 
 
 #### Organisasjon/virksomhet
@@ -80,3 +80,4 @@ Domstoladministrasjonen
 - **2026-05-19** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

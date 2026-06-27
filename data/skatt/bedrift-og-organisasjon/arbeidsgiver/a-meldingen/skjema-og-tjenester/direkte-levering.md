@@ -1,12 +1,12 @@
-<!-- innholds-hash: 0b5e25a01acf669d8679f7c176d28192209063d37b972625f65927b7252fcce6 -->
+<!-- innholds-hash: 13bd5825a80f49c241e12de57df6c727e829aea36b1bacea108138ea208b8031 -->
 
-# A-melding - Direkte levering
+# A-meldingen
 
 ## Kildeinformasjon
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/direkte-levering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T21:57:14Z
+- **Sist hentet:** 2026-06-27T10:24:34Z
 
 ## Innhold
 
@@ -18,45 +18,45 @@ Hvis du eller din bedrift sender a-melding, bør du sjekke at dere har de nødve
 Du finner mer informasjon om de nye tilgangspakkene her:
 
 
-## A-melding - Direkte levering
+## A-meldingen
 
-For deg som ikke har lønnssystem og skal levere a-melding (tidligere A01 i Altinn).
+A-meldingen er en månedlig melding til Nav, SSB og Skatteetaten om inntekt, arbeidsforhold og forskuddstrekk, samt arbeidsgiveravgift og finansskatt for virksomheten.
 
-Skatteetaten tilbyr et gratis webinar for deg som er arbeidsgiver og skal levere a-meldingen for første gang.
 
-Mer informasjon på påmeldingssiden.
+### Levere a-melding
 
-Her finner du en
 
-Se også
+### For virksomheter uten lønnssystem
 
-Du kan levere a-meldingen direkte på skatteetaten.no hvis du ikke har lønnssystem.
 
-Bruk a-meldingen for å gi opplysninger om arbeidsforhold, lønn, ytelser, forskuddstrekk og utleggstrekk til dine ansatte, i tillegg til arbeidsgiveravgift.
+### For privatpersoner
 
-Denne a-meldingen har disse begrensningene:
 
-- kun én a-melding per underenhet
-- kan ikke brukes av offentlige etater
-Når du leverer a-meldingen direkte, er det alltid den siste a-meldingen som er sendt for måneden som gjelder for den underenheten du leverer a-meldingen for. Det vil si at hvis du retter feil eller mangler, vil den nye a-meldingen du leverer erstatte/overskrive forrige a-melding for den måneden.
+### Levere a-melding som filvedlegg
 
-Direkte registrering på skatteetaten.no erstatter ikke a-meldinger som tidligere er sendt fra Altinn (A01) eller lønnssystem. Du kan derfor ikke bruke a-melding direkte på skatteetaten.no til å rette feil eller mangler i a-melding sendt fra Altinn eller lønnssystem.
 
-Få hjelp til å finne riktig løsning for rapportering av opplysninger
+### For veldedige og allmennyttige organisasjoner
 
-For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
 
-Oppdrag som utføres i Norge eller på norsk sokkel av et utenlandsk selskap eller en utenlandsk selvstendig næringsdrivende, skal registreres i
+### Hjelp til å gjøre riktig
 
-Hvis dere har betalt lønn skal dere gi opplysninger om dette i a-meldingen. Du kan lese mer om dette i
 
-Fristen for å levere a-meldingen er den 5. i hver måned. Hvis den 5. er helg eller helligdag, er fristen første påfølgende hverdag.
+### Veiledning
 
-Hver gang du leverer a-meldingen gjør vi en automatisk kontroll av den, og du får en tilbakemelding.
 
-Tilbakemeldingen gir deg en oversikt over opplysninger du har sendt inn, og om a-meldingen inneholder
+### Usikker på om du må sende a-melding
 
-Hvis du har plikt til å levere a-melding, men ikke leverer a-meldingen eller leverer den med feil, kan du få
+
+### Avstemmingsinformasjon
+
+
+### Frister og betaling i a-meldingen
+
+
+### Spesielt for deg som
+
+
+### Siste fra a-ordningen
 
 
 ---
@@ -65,3 +65,4 @@ Hvis du har plikt til å levere a-melding, men ikke leverer a-meldingen eller le
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

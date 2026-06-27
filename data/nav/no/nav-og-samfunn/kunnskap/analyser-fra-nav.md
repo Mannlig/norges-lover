@@ -1,11 +1,11 @@
-<!-- innholds-hash: b741970eca14daf3f96b58d2f784ca7107461c3ccb2bacf8173f0931550afba4 -->
+<!-- innholds-hash: 642bf9fde516650258631390f2f91a768d0529bae0a52d80362b87e1c1e07f40 -->
 
 # Analyser fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav
-- **Sist hentet:** 2026-05-17T19:38:20Z
+- **Sist hentet:** 2026-06-27T15:58:17Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Her finner du analyser om utviklingen på arbeidsmarkedet, Navs bedriftsundersø
 
 Her finner du analyser om sykefravær, sykepenger og sykefraværsoppfølging.
 
-Her finner du analyser om nedsatt arbeidsevne og arbeidsavklaringspenger, samt de tidligere ordningene rehabiliteringspenger, tidsbegrenset ...
+Her finner du analyser om personer med nedsatt arbeidsevne og mottakere av arbeidsavklaringspenger.
 
 Her finner du analyser om uførhet og uførepensjonering.
 
@@ -48,3 +48,4 @@ Her finner du analyser om overordnede utviklingstrekk på arbeids- og velferdsom
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

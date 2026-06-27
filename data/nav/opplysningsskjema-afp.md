@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5e4df64d54f1fe22120cb0029c61521b2f2403a76107eaefd16124fc950534d5 -->
+<!-- innholds-hash: 2b9a00c3d8e508ef3ea55d22f1b6231c19f75e7402a38a0add2dc2f6eb65e4e8 -->
 
 # Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplysningsskjema-afp
-- **Sist hentet:** 2026-06-19T20:52:24Z
+- **Sist hentet:** 2026-06-27T16:25:06Z
 
 ## Innhold
 
@@ -173,12 +173,12 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -190,3 +190,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

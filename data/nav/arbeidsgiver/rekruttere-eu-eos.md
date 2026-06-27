@@ -1,11 +1,11 @@
-<!-- innholds-hash: d50e86423f1ba4a82eb32d2ce6ca2600c741c0006f65b36285ec69ff31478312 -->
+<!-- innholds-hash: 25a7189289e695c1bfea641c16f6656fa84f277b6234f3a8f61a50cca23ad544 -->
 
 # Rekruttere fra EU/EØS og Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rekruttere-eu-eos
-- **Sist hentet:** 2026-05-17T05:31:54Z
+- **Sist hentet:** 2026-06-27T15:09:25Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ Har du brukt EURES i rekruttering av arbeidskraft fra et annet EU/EØS-land og S
 
 Ønsker virksomheten eller organisasjonen din å bli
 
-Oppdatert 07.05.2026
+Oppdatert 22.06.2026
 
 
 ---
@@ -77,3 +77,4 @@ Oppdatert 07.05.2026
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

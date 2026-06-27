@@ -1,11 +1,11 @@
-<!-- innholds-hash: 60e4212060e12046cf375b1bfacf7c727d08b67211f226375526148c3e83f2e1 -->
+<!-- innholds-hash: f5ded5b35be1f57c97e58576f00da2e291fed865a2cfa03717a10e0d565be072 -->
 
 # Bestille tolk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bestille-tolk
-- **Sist hentet:** 2026-05-18T09:32:42Z
+- **Sist hentet:** 2026-06-27T16:17:34Z
 
 ## Innhold
 
@@ -66,6 +66,8 @@ Du kan bestille tolk for døve, hørselshemmede og døvblinde i bestillingsløsn
 
 NB: Ved akutt behov for tolk for døve, hørselshemmede og døvblinde, kontakt
 
+Hvis du bruker VPN (virtuelt privat nettverk) når du logger inn på tolkebestilling/nav.no eller på appen Nav Tolkebestilling, kan kontoen din bli frosset og alle dine tilganger til løsningen vil bli blokkert. Vi oppfordrer derfor til ikke å bruke VPN til pålogging.
+
 Ved bestilling av tolk er det viktig å få med informasjon om
 
 - start- og slutt-tidspunkt
@@ -88,7 +90,7 @@ Det er den enkelte tolketjeneste som kan gi deg tilgang til å logge inn på app
 
 Appen heter Nav Tolkebestilling, og kan lastes ned fra App Store eller Google Play.
 
-Oppdatert 13.04.2026
+Oppdatert 25.06.2026
 
 
 ---
@@ -97,3 +99,4 @@ Oppdatert 13.04.2026
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

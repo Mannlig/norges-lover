@@ -1,4 +1,4 @@
-<!-- innholds-hash: fa825b9e3fe7a8c3ba5bfaa548f8c473650c897461b748786399f7eb889ed2a9 -->
+<!-- innholds-hash: 4b5f070e2f8ae7bff2af7f38c7c44c8dbbba43fe7fb87e01bf972b0b0286e7b4 -->
 
 # Skattemelding for selskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-19T15:59:25Z
+- **Sist hentet:** 2026-06-27T10:42:45Z
 
 ## Innhold
 
@@ -93,6 +93,12 @@ Utenlandske selskap skal før oppløsning og avvikling i hjemlandet, levere skat
 
 Styret for det utenlandske selskapet skal sende inn skattemelding over inntekt og formue for (NUF) som kreves forhåndsfastsatt. Det omfatter inntekt og formue frem til den endelige oppløsningsdagen.
 
+Et konsernbidrag er en vederlagsfri overføring fra et selskap til et annet selskap i samme konsern. Formålet er vanligvis å redusere skatten innad i konsernet.
+
+For å ha rett til å gi og motta konsernbidrag må selskapet være del av et skattemessig konsern. Opplysninger om konsernforhold skal være registrert i Enhetsregisteret.
+
+Hvis konsernbidraget er ført i skattemeldingen ved en feil, kan dere endre skattemeldingen og sende den inn på nytt.
+
 Som næringsdrivende kan du få fradrag for utgifter du har i bedriften din.
 
 Ønsker du tilgang til teknisk dokumentasjon for skattemeldingen, informasjon om hvordan du kan teste systemet ditt eller andre nyttige tips, finner du dette på skattemeldingen sin side på GitHub:
@@ -107,3 +113,4 @@ Du finner også informasjon om ny skattemelding på
 
 - **2026-05-20** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

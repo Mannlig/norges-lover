@@ -1,11 +1,11 @@
-<!-- innholds-hash: 90c5a8a81b6276c7ffd7fe05b6caa7e3edf41f1091134a9bc7c64ad89f794214 -->
+<!-- innholds-hash: a6cec08aaf1ce380fad3bca0b84c779d4e9378e352484e85d6693b074e70bead -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist hentet:** 2026-06-19T19:55:31Z
+- **Sist hentet:** 2026-06-27T15:28:48Z
 
 ## Innhold
 
@@ -210,9 +210,6 @@ Hvis det er forskjell mellom inntekten som Siri selv meldte inn, og inntekten v
 - Hvis Siri ikke svarer i det hele tatt, bruker Nav inntekten fra arbeidsgiveren.
 Det er viktig at hun svarer så fort som mulig slik at pengene ikke blir forsinket. Fristen for å svare er 14 dager etter at hun får meldingen fra Nav.
 
-
-#### Utbetalinger
-
 Utbetalingsdato er dagen Nav garanterer at pengene skal være på kontoen din.
 
 Utbetalingsdatoen er innen den 12. hver måned. Første utbetaling kommer måneden etter at du ble tatt inn i ungdomsprogrammet. Du finner mer informasjon om utbetalingene i vedtaksbrevet.
@@ -227,12 +224,16 @@ Det er ikke feriepenger på denne pengestøtten.
 
 Det blir trukket skatt av pengene.
 
+Det blir ikke trukket skatt i juni. I desember blir det trukket halv skatt.
+
+Hvis du betaler Svalbardskatt eller
+
 Mer om
 
 
 ### Lenker
 
-Oppdatert 17.06.2026
+Oppdatert 22.06.2026
 
 
 #### Chat med oss
@@ -241,7 +242,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -251,7 +252,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -262,3 +263,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

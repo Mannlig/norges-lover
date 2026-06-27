@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4674db0cb950686ba378270d8179d56150716aa0760812d0c05e86e4d596b47c -->
+<!-- innholds-hash: cb7c6f3e91d9d750ba8ccbfd250a2a8f4310c432e80bee1fa8a63c019900f71f -->
 
 # Tolking for døve, døvblinde og hørselshemmede - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tolketjenester
-- **Sist hentet:** 2026-06-19T21:04:21Z
+- **Sist hentet:** 2026-06-27T16:37:04Z
 
 ## Innhold
 
@@ -112,7 +112,9 @@ Hvis du trenger tolking på videregående skole, har fylkeskommunen ansvaret.
 
 Tolketjenesten ved Nav hjelpemiddelsentral har en beredskap ved akutte behov for tolk.
 
-- 99 48 18 10: Akutt behov for tolk for døve, hørselshemmede og døvblinde.
+- Ved akutte behov på hverdager mellom kl. 08.00-14.30 kontakter du lokal tolketjeneste.
+- Ved akutte behov mellom kl.14.30-08.00 på hverdager og hele døgnet på helgedager kan du ringe 99 48 18 10.
+- Ved å kontakte bildetolketjenesten i deres åpningstid, kan du ved akutt behov for tolk velge kø-knappen (tast 3) og bli prioritert.
 Behovet regnes som akutt når det å vente til neste virkedag får urimelig store konsekvenser for deg.
 
 Du kan ringe, sende sms eller ha videosamtale.
@@ -124,8 +126,6 @@ Akutte situasjoner kan oppstå ved for eksempel
 - brann
 - kontakt med politiet
 Tjenesten kan brukes av alle, enten du er døv, døvblind eller hørselshemmet, eller om du skal ha en samtale med en som er det. Akuttvakten vil prøve å finne en tolkeløsning som er tilpasset situasjonen. Det kan bety tolking via skjerm eller oppmøtetolk. Vakten vil også kunne veilede over telefon der det ikke er mulig eller hensiktsmessig å skaffe tolk.
-
-Ved å kontakte bildetolketjenesten i deres åpningstid, kan du ved akutt behov for tolk velge kø-knappen (tast 3) og bli prioritert.
 
 Mer informasjon til deg som
 
@@ -177,7 +177,7 @@ Etter personvernvurderinger av programvaren, er det klart at nødvendige personv
 
 Hvis en arrangør ønsker å invitere skrivetolkingen inn i sitt videomøte, vil det ofte være Zoom og Teams som blir benyttet. I disse tilfellene er det arrangør som er ansvarlig for personvernet.
 
-Oppdatert 04.05.2026
+Oppdatert 25.06.2026
 
 
 #### Chat med chatbot
@@ -194,7 +194,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -205,3 +205,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-04** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5298b92cb26f36cc7cf159a70a266cceb6b7ce1b29ee93776aa38e13c141186f -->
+<!-- innholds-hash: bb2e945a76e5c43fdbf3aa9e03af5afd48f3c4b83b4fc2ec4c9071acb08f1ef1 -->
 
 # Ventelønn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ventelonn
-- **Sist hentet:** 2026-06-19T21:05:01Z
+- **Sist hentet:** 2026-06-27T16:37:47Z
 
 ## Innhold
 
@@ -239,7 +239,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -249,7 +249,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -261,3 +261,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,69 +1,62 @@
-<!-- innholds-hash: 296ea4760aefd8c5f9bf19df601204503f96cb1ef41d8847624c5f9b4b313617 -->
+<!-- innholds-hash: 13bd5825a80f49c241e12de57df6c727e829aea36b1bacea108138ea208b8031 -->
 
-# Velg rett måte å levere a-melding på
+# A-meldingen
 
 ## Kildeinformasjon
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/skjema-og-tjenester/velg-rett-mate-a-levere-a-melding-pa/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T21:58:42Z
+- **Sist hentet:** 2026-06-27T10:26:41Z
 
 ## Innhold
 
 
-## Velg rett måte å levere a-melding på
+#### Nye tilgangspakker for a-meldingen
 
-De fleste som leverer a-melding, sender meldingen fra et system. Dette kan være et lønnssystem, pensjonssystem eller annet sluttbrukersystem. Hvis du ikke bruker lønnssystem, kan du levere a-melding direkte på skatteetaten.no. A-meldingen kan også i noen tilfeller sendes fra skjema i Altinn.
+Hvis du eller din bedrift sender a-melding, bør du sjekke at dere har de nødvendige tilgangene.
 
-Forenklet a-melding for lønnet arbeid i hjemmet
+Du finner mer informasjon om de nye tilgangspakkene her:
 
-Hvis du har et lønnssystem, bør du bare sende a-meldinger fra systemet. Kombinerer du flere måter er det vanskelig å ha kontroll på hvilke arbeidsforhold du har oppgitt og krevende å gjøre endringer eller rette opp i feil.
 
-Har du for eksempel sendt inn opplysninger både fra et system (A02) og direkte på skatteetaten.no for samme måned, vil arbeidsforholdene registreres flere ganger og tolkes som ulike arbeidsforhold. Det betyr at du neste måned må oppgi begge arbeidsforholdene for ikke å få feilmeldinger på tilbakemeldingen.
+## A-meldingen
 
-Tjenesten er for deg som har et lønnssystem, pensjonssystem eller annet sluttbrukersystem. Gjelder både om du selv eller din regnskapsfører har et slikt system.
+A-meldingen er en månedlig melding til Nav, SSB og Skatteetaten om inntekt, arbeidsforhold og forskuddstrekk, samt arbeidsgiveravgift og finansskatt for virksomheten.
 
-De fleste system er fullt integrert med Altinn slik at du kan sende a-meldingen direkte i systemet. Er du usikker på hvordan dette fungerer i ditt system, ta kontakt med din systemleverandør.
 
-Noen system er delvis integrert med Altinn. Det finnes da en egen tjeneste i Altinn for å laste opp opplysningene i a-meldingen.
+### Levere a-melding
 
-Vi anbefaler alle virksomheter å sende a-melding fra et system (A02).
 
-Ønsker du tilgang til teknisk dokumentasjon for a-meldingen, informasjon om hvordan du kan teste systemet ditt eller andre nyttige tips, finner du dette på
+### For virksomheter uten lønnssystem
 
-Her finner du teknisk dokumentasjon til a-meldingen, tilbakemeldingen og avstemmingsrapporten, oversikt over forretningsregler, inntektskombinasjoner og relasedokumenter. Du finner også informasjon om test og testdata, og dokumentasjon fra informasjonsmøter.
 
-Hvis du ikke har lønnssystem, kan du levere a-meldingen
+### For privatpersoner
 
-I denne a-meldingen kan du levere opplysninger om arbeidsforhold, lønn, ytelser, forskuddstrekk og utleggstrekk til dine ansatte, i tillegg til arbeidsgiveravgift.
 
-Denne a-meldingen har disse begrensningene:
+### Levere a-melding som filvedlegg
 
-- kun én a-melding per underenhet
-- kan ikke brukes av offentlige etater
-Når du leverer a-meldingen direkte, er det alltid den siste a-meldingen som er sendt for måneden som gjelder for den underenheten du leverer a-meldingen for. Det vil si at hvis du retter feil eller mangler, vil den nye a-meldingen du leverer erstatte/overskrive forrige a-melding for den måneden.
 
-Skjemaet er for veldedige og allmennyttige organisasjoner eller institusjoner med lønnsutgifter som ikke inngår i næringsvirksomhet.
+### For veldedige og allmennyttige organisasjoner
 
-Bruk dette skjemaet når:
 
-- Lønnsutgifter per ansatt er under 80 000 kroner i løpet av året
-- Samlede lønnsutgifter for alle ansatte er under 800 000 kroner i løpet av året
-Hvis lønnsutbetalingene er under 10 000 kroner per ansatt i løpet av året, behøver du ikke oppgi dette.
+### Hjelp til å gjøre riktig
 
-Er du i tvil om du kan bruke forenklet a-melding, kan du
 
-Skjemaet er for privatpersoner som betaler lønn til ansatte i egen bolig eller fritidseiendom.
+### Veiledning
 
-Bruk dette skjemaet når:
 
-- Samlet lønn, inklusive verdi av kost og losji, er
-- Samlet lønn, inklusive verdi av kost og losji for alle dine ansatte er
-- Du betaler for pass av barn under 12 år, eller for barn med særlig behov for omsorg og pleie (uavhengig av alder), og lønnen er over 6 000 kroner per ansatt i løpet av året. Her skal du bruke Forenklet a-melding for lønnet arbeid i hjemmet selv om samlet lønn for dine ansatte overstiger 60 000 kroner.
-- verge (etter
-Er samlede lønnsutbetalinger under 6 000 kroner per ansatt i løpet av året, behøver du ikke oppgi dette.
+### Usikker på om du må sende a-melding
 
-Er du i tvil om du kan bruke forenklet a-melding, kan du
+
+### Avstemmingsinformasjon
+
+
+### Frister og betaling i a-meldingen
+
+
+### Spesielt for deg som
+
+
+### Siste fra a-ordningen
 
 
 ---
@@ -72,3 +65,4 @@ Er du i tvil om du kan bruke forenklet a-melding, kan du
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

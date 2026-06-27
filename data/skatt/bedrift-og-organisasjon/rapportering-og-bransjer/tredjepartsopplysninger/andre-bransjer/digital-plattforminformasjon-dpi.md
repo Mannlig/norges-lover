@@ -1,4 +1,4 @@
-<!-- innholds-hash: b0653672f51afd0e6d9185cecc14a6124ec9806a592dbd0ed818a006580a79fb -->
+<!-- innholds-hash: a2867e326687acf5a1ec064d1b83a25aad30093dc664956eb7fc0b1d2ccc6600 -->
 
 # Digital plattforminformasjon (DPI)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/digital-plattforminformasjon-dpi/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:54:24Z
+- **Sist hentet:** 2026-06-27T11:52:35Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Virksomheter som driver formidling av utleie av fast eiendom, utleie av transpor
 
 Det er laget en rettleder om hvem som har opplysningsplikt og hvilke opplysninger som skal innrapporteres. Dokumentet kan også brukes av rådgivere m.m. som bistår opplysningspliktige.
 
-Innrapporteringsløsninger er under utvikling og detaljer vil publiseres på denne siden når dette er klart.
+Innrapporteringsløsninger via vedleggsløsning og tasteskjema er under utvikling og detaljer vil publiseres på denne siden når dette er klart. Formatbeskrivelse, tekniske spesifikasjoner og eksempelfiler er tilgjengelig her:
 
 - Leveringsfrist for ordinære oppgaver er
 - Frist for å sende årsoppgave til den skattepliktige er
@@ -48,3 +48,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

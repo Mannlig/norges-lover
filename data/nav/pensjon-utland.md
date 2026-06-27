@@ -1,11 +1,11 @@
-<!-- innholds-hash: 79f3deccf8de004064ba35e2ae5357ac830a9c109ba70ca99820189d30ffdd9c -->
+<!-- innholds-hash: 21f918e4ee817b856489d369a6962c37815976bf50267db5799f273ec2b0d275 -->
 
 # Har bodd eller jobbet i flere land - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon-utland
-- **Sist hentet:** 2026-06-19T20:32:11Z
+- **Sist hentet:** 2026-06-27T16:05:06Z
 
 ## Innhold
 
@@ -80,7 +80,7 @@ Se hvilke rettigheter du kan ha hvis du
 
 Se hvordan du søker når du
 
-Oppdatert 20.04.2026
+Oppdatert 23.06.2026
 
 
 #### Chat med oss
@@ -89,7 +89,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Stengt nå, åpner mandag kl. 9
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -107,3 +107,4 @@ Stengt nå, åpner mandag kl. 9
 
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

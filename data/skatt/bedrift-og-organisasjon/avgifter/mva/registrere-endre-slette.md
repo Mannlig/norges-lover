@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5b002772fddd89ff54c3e36c3a1d088c30fa770d639dc37e1f7feda16d558848 -->
+<!-- innholds-hash: 517e9e6ef202daea4bc34b4041768c3e8547b20f6265c7237c3253af9c4e8e04 -->
 
 # Registrere, endre eller slette i Merverdiavgiftsregisteret (Mva-registeret)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/registrere-endre-slette/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:12:53Z
+- **Sist hentet:** 2026-06-27T12:27:45Z
 
 ## Innhold
 
@@ -104,6 +104,10 @@ Sørg for at virksomheten er
 
 Logg inn:
 
+Tilgangspakken Merverdiavgift tildeles automatisk hvis du har en forhåndstildelt rolle i virksomheten, som eksempel daglig leder eller styreleder.
+
+For NUF (Norskregistrert utenlandsk foretak) tildeles tilgangspakken Merverdiavgift automatisk for følgende roller i Enhetsregisteret: kontaktperson, representant eller forretningsfører.
+
 - kontaktperson NUF (Norskregistrert utenlandsk foretak)
 - regnskapsfører med signeringsrett
 - regnskapsfører uten signeringsrett
@@ -176,3 +180,4 @@ Logg inn:
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)
