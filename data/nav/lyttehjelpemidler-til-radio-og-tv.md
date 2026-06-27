@@ -1,11 +1,11 @@
-<!-- innholds-hash: 37b4c4905f6578b829ab1073ce556319106a0eec1f0dcfd306191ac2292ec4cc -->
+<!-- innholds-hash: 1b58ce13dfafe6711be96151ac81fee4dcf4f2bc3f4ce399b73642b6c76d9e6e -->
 
 # Lyttehjelpemidler til TV og radio  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lyttehjelpemidler-til-radio-og-tv
-- **Sist hentet:** 2026-06-11T09:09:36Z
+- **Sist hentet:** 2026-06-27T06:34:03Z
 
 ## Innhold
 
@@ -241,7 +241,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -254,3 +254,4 @@ Svartid er noen arbeidsdager.
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

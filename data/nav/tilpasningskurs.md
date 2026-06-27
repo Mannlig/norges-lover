@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2ed157fc9f3882a6154a6dddb9f6ef672b93b146bee8a262291643c639d7e8d9 -->
+<!-- innholds-hash: 6296b05f2a18c91f2d1d1dc7cb3936919ac7197ef36361ba539c0a3355aea0b5 -->
 
 # Tilpasningskurs - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilpasningskurs
-- **Sist hentet:** 2026-06-19T11:39:18Z
+- **Sist hentet:** 2026-06-27T06:50:42Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -96,7 +96,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -106,3 +106,4 @@ Alltid åpen
 
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

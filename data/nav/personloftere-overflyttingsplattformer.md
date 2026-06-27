@@ -1,11 +1,11 @@
-<!-- innholds-hash: 59ce28c5c9f3539b1a95fda582b119a9ebe8e0d441cd0a37ef475b921563f5a1 -->
+<!-- innholds-hash: 2b86c1fb991f22e4f29f79d9a8dda449910ec649928f8a4ff6cb79898040ebe0 -->
 
 # Personløftere og overflyttingsplattformer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personloftere-overflyttingsplattformer
-- **Sist hentet:** 2026-06-11T09:15:05Z
+- **Sist hentet:** 2026-06-27T06:39:27Z
 
 ## Innhold
 
@@ -264,7 +264,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -277,3 +277,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 56331eaf8311c0fa771811824123df772458b767d2e5da07b35320825b15cc47 -->
+<!-- innholds-hash: e98e3d36e13629b3e665f378034511fdc5f19ba2ca8312febc1ac31d5dadc419 -->
 
 # Programvare for å lage trykt kommunikasjonsmateriell - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lage-trykt-kommunikasjonsmateriell
-- **Sist hentet:** 2026-06-19T03:07:28Z
+- **Sist hentet:** 2026-06-27T06:30:32Z
 
 ## Innhold
 
@@ -206,7 +206,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -220,3 +220,4 @@ Stengt nå, åpner kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

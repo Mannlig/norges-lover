@@ -1,11 +1,11 @@
-<!-- innholds-hash: 13184cf4fe3f614720d56a1131292c096dc76ff7b784fc59cc7ff38ff1f9a0b7 -->
+<!-- innholds-hash: 51c8246cfd25a1c8592c2251861653e4f7e5b5cbacf5dcda7cc79ec1d11421ad -->
 
 # Midlertidig opphold i Norge  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/en/home/work-and-stay-in-norway/foreign-students-in-norway
-- **Sist hentet:** 2026-06-19T12:23:46Z
+- **Sist hentet:** 2026-06-27T07:29:40Z
 
 ## Innhold
 
@@ -166,7 +166,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -176,7 +176,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -187,3 +187,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0975e1d9a0c10215a67ff09bb29a66de0fd05cdf47833197eec804c87f8f079a -->
+<!-- innholds-hash: 3b02df12eb051b45e19bfecc38a525e102fdd28d863a88d413a0d8ef79d30b42 -->
 
 # Fyll ut meldekort – arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-aap
-- **Sist hentet:** 2026-06-19T12:14:11Z
+- **Sist hentet:** 2026-06-27T07:22:00Z
 
 ## Innhold
 
@@ -135,7 +135,7 @@ Hvis du arbeider skift eller turnus, skal du føre timer ut fra gjennomsnittlig 
 
 Gjennomsnittlig ukentlig arbeidstid finner du ved å dele antall arbeidstimer totalt i turnusperioden på antall uker i turnusperioden.
 
-For at utbetalingen skal riktig, bør du fordele timene mest mulig jevnt utover virkedagene på meldekortet, uavhengig av når du faktisk jobber.
+For at utbetalingen skal bli riktig, bør du fordele timene mest mulig jevnt utover virkedagene på meldekortet, uavhengig av når du faktisk jobber.
 
 Hvis du jobber ekstra i tillegg til turnusen, fører du disse timene på meldekortet den uka du jobber ekstra.
 
@@ -380,7 +380,7 @@ Slik klager du:
 - Oppgi at det gjelder meldekort i begrunnelsen.
 Her finner du mer informasjon om
 
-Oppdatert 28.05.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med oss
@@ -389,7 +389,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -399,7 +399,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -410,3 +410,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

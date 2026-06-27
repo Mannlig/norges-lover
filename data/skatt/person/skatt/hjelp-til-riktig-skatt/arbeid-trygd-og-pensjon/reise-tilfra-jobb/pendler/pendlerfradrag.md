@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ffd9b5b8f70ee7798b54996162d64d245a13cdfc5dbe7ff63c9adce5f4b0e29 -->
+<!-- innholds-hash: 0756b88332a0ef9c9658ad303eb9614221f5538f202bd0f4fb7db83a6e819035 -->
 
 # Kan jeg få pendlerfradrag?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/reise-tilfra-jobb/pendler/pendlerfradrag/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:01:05Z
+- **Sist hentet:** 2026-06-27T04:51:27Z
 
 ## Innhold
 
@@ -230,7 +230,7 @@ Når du oppfyller kravene for å få pendlerfradrag, kan du bruke pendlerreiseka
 
 Hvis du bor i dine foreldres hjem, og ikke bor sammen med ektefelle eller egne barn, kan du ikke få fradrag for bolig (losji).
 
-Hvis du har krav på pendlerfradrag, må du føre det i skattemeldingen. Det er viktig at du fyller ut så riktig du kan. Hvis du fører for mye og får fradrag du ikke skulle hatt, kan du det hende senere må betale tilbake det du har spart i skatt, pluss renter og tilleggsskatt.
+Hvis du har krav på pendlerfradrag, må du føre det i skattemeldingen. Det er viktig at du fyller ut så riktig du kan. Hvis du fører for mye og får fradrag du ikke skulle hatt, kan det hende at du senere må betale tilbake det du har spart i skatt, pluss renter og tilleggsskatt.
 
 - Skal du føre inn fradrag for
 - Skal du føre fradrag for
@@ -264,3 +264,4 @@ Du kan også få veiledning om kravene ved
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

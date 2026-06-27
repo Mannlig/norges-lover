@@ -1,11 +1,11 @@
-<!-- innholds-hash: e67e85695eefc7ff2ffad69fffe0b4554972c76619a7004a9599e9a3d37a59f8 -->
+<!-- innholds-hash: f594cf23bca1f536dcd14e8cd6143a5563c047054a7d9efabba2562f21a271eb -->
 
 # Fyll ut meldekort – tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-tiltakspenger
-- **Sist hentet:** 2026-06-19T12:00:21Z
+- **Sist hentet:** 2026-06-27T07:11:26Z
 
 ## Innhold
 
@@ -155,6 +155,12 @@ Du har ikke rett til tiltakspenger for dager du ikke har deltatt på tiltaket so
 - Du får ikke tiltakspenger for dager du har fått lønn mens du deltar på tiltaket.
 Du har rett til tiltakspenger hvis du ikke får deltatt på tiltaket fordi det er stengt på grunn av offentlig fridag. Dette gjelder offentlige fridager i mai/juni og i julen og påsken.
 
+Skal du sende meldekort i ferien? Husk at reglene avhenger av tiltaket du deltar i. Du har ikke rett til tiltakspenger hvis du har ferie, og du skal oppgi det som annet fravær. Opplæringstiltak gir som hovedregel ingen tiltakspenger i sommerferien, og du må krysse for annet fravær med mindre tiltaket har vart over ett skoleår og du enten
+
+- ikke kan arbeide av helsemessige årsaker eller
+- ikke har krav på feriepenger
+Andre tiltak kan gi rett til tiltakspenger hvis arrangøren har fellesferie, og du må da krysse av for deltatt. Les mer om
+
 Pengene blir utbetalt cirka 2–3 virkedager etter at vi har mottatt meldekortet.
 
 Hvis du tror du har fått for mye eller for lite utbetalt, er det viktig at du
@@ -185,7 +191,7 @@ Slik klager du:
 - Oppgi at det gjelder meldekort i begrunnelsen.
 Her finner du mer informasjon om
 
-Oppdatert 19.05.2026
+Oppdatert 23.06.2026
 
 
 #### Chat med oss
@@ -194,7 +200,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -204,7 +210,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -215,3 +221,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

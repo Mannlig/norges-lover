@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0cdd463b0e0678b6cb7b16f9da70bbd4102bcd048b0ce234baab574b568e729a -->
+<!-- innholds-hash: a09a28b854c88cc615939700ce856a4230d074099669fd5fa5dc7600f703e29c -->
 
 # Trykkede kommunikasjonshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trykkede-kommunikasjonshjelpemidler
-- **Sist hentet:** 2026-06-19T11:42:02Z
+- **Sist hentet:** 2026-06-27T06:53:28Z
 
 ## Innhold
 
@@ -208,7 +208,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -221,3 +221,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

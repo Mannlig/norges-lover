@@ -1,11 +1,11 @@
-<!-- innholds-hash: c78b028d9f343c16f306c38994b97705d2fbbea57ba70557d77960f44f428df5 -->
+<!-- innholds-hash: 688fead733f25a5bd821f25d76f6f3e84d7fe185885e596d1159e2b117a7d710 -->
 
 # Mentor - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/mentor
-- **Sist hentet:** 2026-06-11T09:10:59Z
+- **Sist hentet:** 2026-06-27T06:35:21Z
 
 ## Innhold
 
@@ -69,7 +69,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -79,7 +79,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -89,3 +89,4 @@ Still oss et spørsmål og få skriftlig svar.
 
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

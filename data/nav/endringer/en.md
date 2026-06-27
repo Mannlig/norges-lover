@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca7ed1f88acff249a2b572b00b726f6fb3245df52b95293e06f88b8616e3dbee -->
+<!-- innholds-hash: 0fecfbd6965d37e9da4a9beb5af54699e5a391b37eb0c6b694db8fe0a7ffcfd3 -->
 
 # Give Nav correct information - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/endringer/en
-- **Sist hentet:** 2026-06-19T12:25:06Z
+- **Sist hentet:** 2026-06-27T07:31:01Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -99,3 +99,4 @@ Open
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

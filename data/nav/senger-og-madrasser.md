@@ -1,11 +1,11 @@
-<!-- innholds-hash: c9e7b30e0af1afac42700b6d6038d5e86fa00f561f33b193aac68298e7b8a018 -->
+<!-- innholds-hash: c5715bba3f128f5a933b9492782aa2429135e0a3db201ed074a99b10f224e421 -->
 
 # Senger, madrasser, tilbehør og forflytning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/senger-og-madrasser
-- **Sist hentet:** 2026-06-11T09:18:30Z
+- **Sist hentet:** 2026-06-27T06:42:52Z
 
 ## Innhold
 
@@ -244,7 +244,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -257,3 +257,4 @@ Svartid er noen arbeidsdager.
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

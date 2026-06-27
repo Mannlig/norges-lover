@@ -1,11 +1,11 @@
-<!-- innholds-hash: cc90748536164bf68dcc7d879b36fce87c8ff91b15ff480751b1deeebbb8c3d7 -->
+<!-- innholds-hash: 9de8545a764058199d05c91d62fda79f40e328583f2e8c559f54be25ac553b3b -->
 
 # Stemmeforsterkere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/stemmeforsterkere
-- **Sist hentet:** 2026-06-19T11:34:26Z
+- **Sist hentet:** 2026-06-27T06:45:42Z
 
 ## Innhold
 
@@ -217,7 +217,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -230,3 +230,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

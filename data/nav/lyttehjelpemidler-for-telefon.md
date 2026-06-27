@@ -1,11 +1,11 @@
-<!-- innholds-hash: 33637a640c5fc335303ad515690f334cee12672e4492e49594cf6bd7c52e548e -->
+<!-- innholds-hash: de2959bba7e5f91046c75a67d2d85ffe11542cbe0bd400e36270b4997ea95d30 -->
 
 # Lyttehjelpemidler for telefon  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lyttehjelpemidler-for-telefon
-- **Sist hentet:** 2026-06-11T09:08:55Z
+- **Sist hentet:** 2026-06-27T06:33:21Z
 
 ## Innhold
 
@@ -34,20 +34,16 @@ Dersom du har mobiltelefon og høreapparat kan du få en telefonstreamer. Dette 
 
 Mange nyere høreapparater har løsninger for blåtann (bluetooth). Disse kan koble høreapparatet direkte til mobiltelefon, nettbrett eller datamaskin uten bruk av ekstra utstyr.
 
-Dersom du har fasttelefon kan du få en forsterkertelefon med teleslynge i røret/håndsett.
-
-Dersom du ikke har høreapparat, kan du få utstyr som forsterker samtalelyden i selve telefon.
-
 Har du problemer med å høre at telefonen ringer, finnes det
 
-- Du kan få lyttehjelpemidler til din fasttelefon til bruk i egen bolig eller arbeidssted.
+- Du kan få lyttehjelpemidler til din telefon til bruk i egen bolig eller arbeidssted.
 - Du kan få lyttehjelpemidler til din mobiltelefon.
-- Hvis du har to hjem og behov for lyttehjelpemidler til fasttelefon, kan du få dette til begge hjemmene.
+- Hvis du har to hjem og behov for lyttehjelpemidler til telefon, kan du få dette til begge hjemmene.
 
 #### Når kan du ikke få lyttehjelpemidler for telefon?
 
-- Du kan ikke få lyttehjelpemidler til fasttelefon i fritidsbolig eller hytte.
-- Du kan ikke få lyttehjelpemidler til fasttelefon til bruk i avlastningsbolig eller institusjon. Kommunen eller institusjonen har ansvaret for å hjelpe deg med nødvendige lyttehjelpemidler til fasttelefon.
+- Du kan ikke få lyttehjelpemidler til telefon i fritidsbolig eller hytte.
+- Du kan ikke få lyttehjelpemidler til telefon til bruk i avlastningsbolig eller institusjon. Kommunen eller institusjonen har ansvaret for å hjelpe deg med nødvendige lyttehjelpemidler til telefon.
 Du kan søke om å få dekket reiseutgifter hvis du har reist på grunn av:
 
 - Utprøving av hjelpemidler
@@ -218,7 +214,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 - Hvis hjelpemiddelet ikke fungerer og ikke kan repareres, kan det hende det holder å bytte enkeltdeler. Ved bytte av enkeltdeler er det viktig å passe på at den nye delen fungerer sammen med den gamle. Du bør få hjelp av en tekniker i kommunen til å finne ut av dette.
 - Hvis du mister eller ødelegger hjelpemidler kan du som regel få nytt. Ta kontakt med kommunen eller bruk bytteskjemaet.
 - Hvis du ikke trenger hjelpemiddelet lenger, skal du sende det tilbake. Ta kontakt med kommunen din eller Nav hjelpemiddelsentral.
-Oppdatert 05.12.2025
+Oppdatert 26.06.2026
 
 
 #### Chat med chatbot
@@ -235,7 +231,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -248,3 +244,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

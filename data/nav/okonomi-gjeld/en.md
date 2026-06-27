@@ -1,11 +1,11 @@
-<!-- innholds-hash: 678ae7f256ce705bed5bdd94f7ad7600c1eaabb5bd2165b908b711eeccdbd46c -->
+<!-- innholds-hash: d9d7f558982e45194a6a941a2ef134242fa681ef24558b3cd09dd6f16320460c -->
 
 # Need financial advice and debt counselling - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomi-gjeld/en
-- **Sist hentet:** 2026-06-19T12:29:49Z
+- **Sist hentet:** 2026-06-27T07:36:01Z
 
 ## Innhold
 
@@ -312,7 +312,7 @@ Updated 04/15/2026
 
 #### Call us at 55 55 33 39
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -323,3 +323,4 @@ Open
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

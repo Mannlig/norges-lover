@@ -1,11 +1,11 @@
-<!-- innholds-hash: 44020667d583c6a83ac852aaa1346d59d3b2a1ce8e849471489924539927525d -->
+<!-- innholds-hash: 4815f844fe35362890f7a7d5c77538484a49687e5e08af03a8b92b1215295829 -->
 
 # Bor ikke sammen med barnet mitt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bor-ikke-med-barnet-mitt
-- **Sist hentet:** 2026-06-19T12:39:50Z
+- **Sist hentet:** 2026-06-27T07:45:57Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -45,7 +45,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -56,3 +56,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

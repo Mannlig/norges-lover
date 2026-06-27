@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1cb95e7d0751bd90c2e7a5fc8cb184ecf7d3d8b7f5cb3f8caaad3878065a3d78 -->
+<!-- innholds-hash: 81dbf83d81a712b4bbe377c1e27a9f048841813c43c48ee76da43ceaf0b68ca8 -->
 
 # Varmehjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varmehjelpemidler
-- **Sist hentet:** 2026-06-19T11:43:22Z
+- **Sist hentet:** 2026-06-27T06:54:54Z
 
 ## Innhold
 
@@ -245,7 +245,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -258,3 +258,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

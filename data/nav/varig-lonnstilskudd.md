@@ -1,11 +1,11 @@
-<!-- innholds-hash: acd90ab954d6662525cc970f70c27001440fcab29ecfe6bfb11ba9a12afd3f93 -->
+<!-- innholds-hash: f80b91441f7b5f21dc0a2653139d1ec7a234b0299e5decc1f60420cc49e50f6d -->
 
 # Varig lønnstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-lonnstilskudd
-- **Sist hentet:** 2026-06-19T11:42:41Z
+- **Sist hentet:** 2026-06-27T06:54:11Z
 
 ## Innhold
 
@@ -79,7 +79,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -89,7 +89,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -100,3 +100,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-17** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

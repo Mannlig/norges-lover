@@ -1,11 +1,11 @@
-<!-- innholds-hash: 75709e653ebaaf600a8a8464c2c6ccc6a0a5c8641bc25fd60ba845f6e8ebd47b -->
+<!-- innholds-hash: 31215d93b6efbdc2690abf62b42d3a1b2b36003a4f64bbf7410e97daa7a2d601 -->
 
 # Recruiting from the EU, EEA and Switzerland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rekruttere-eu-eos/en
-- **Sist hentet:** 2026-05-16T22:20:37Z
+- **Sist hentet:** 2026-06-27T07:24:47Z
 
 ## Innhold
 
@@ -63,7 +63,7 @@ Have you used EURES to recruit workers from another EU/EEA country or Switzerlan
 
 Does your company or organisation want to become
 
-Updated 03/02/2026
+Updated 06/22/2026
 
 
 ---
@@ -72,3 +72,4 @@ Updated 03/02/2026
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

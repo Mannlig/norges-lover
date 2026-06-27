@@ -1,11 +1,11 @@
-<!-- innholds-hash: ab8cc0a4487d734e8c06feeac6870758cb384e891872502f902144b6da5f8322 -->
+<!-- innholds-hash: 7f132407143188d0653619ea39bf3eb447ee70420c329fc40aac9176f138c736 -->
 
 # Sykkel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykkel
-- **Sist hentet:** 2026-06-19T11:36:30Z
+- **Sist hentet:** 2026-06-27T06:47:53Z
 
 ## Innhold
 
@@ -272,7 +272,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -285,3 +285,4 @@ Svartid er noen arbeidsdager.
 
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

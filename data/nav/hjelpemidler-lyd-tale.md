@@ -1,11 +1,11 @@
-<!-- innholds-hash: 84333afe93e116d36af9caeff0f5deb0f22b9e067de6d5a2c286b938c235882f -->
+<!-- innholds-hash: 97fb06b7e6ee6976dddcab6a16085df7c8ca067bfa1ed448bd71e30cfa4ef0f6 -->
 
 # Hjelpemidler med lyd og tale - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-lyd-tale
-- **Sist hentet:** 2026-06-19T03:03:12Z
+- **Sist hentet:** 2026-06-27T06:26:17Z
 
 ## Innhold
 
@@ -203,7 +203,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -219,3 +219,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

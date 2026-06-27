@@ -1,11 +1,11 @@
-<!-- innholds-hash: 496af72ce5fff061ea95f4e3058d1458479716c6a456110c7aca102e042a954b -->
+<!-- innholds-hash: 518c5b6337300ef80c153a401a06ff502bbe56a41793f79f444d71c5fd1f794f -->
 
 # Posisjoneringsputer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/posisjoneringsputer
-- **Sist hentet:** 2026-06-11T09:15:50Z
+- **Sist hentet:** 2026-06-27T06:40:06Z
 
 ## Innhold
 
@@ -248,7 +248,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -261,3 +261,4 @@ Svartid er noen arbeidsdager.
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

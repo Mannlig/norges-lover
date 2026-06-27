@@ -1,11 +1,11 @@
-<!-- innholds-hash: a5d5ebf9db4d65fa48ea0f7b40239a8f3ab4870b5027216dc77ab7a2ebf8b338 -->
+<!-- innholds-hash: 49742e10ea18740f64970960a3e50174e1c513f3849e25001216fd147d693d6a -->
 
 # Øyestyringssystemer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oyestyringssystemer
-- **Sist hentet:** 2026-06-11T09:14:26Z
+- **Sist hentet:** 2026-06-27T06:38:45Z
 
 ## Innhold
 
@@ -229,7 +229,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -242,3 +242,4 @@ Alltid åpen
 
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

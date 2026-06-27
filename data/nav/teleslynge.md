@@ -1,11 +1,11 @@
-<!-- innholds-hash: 11785af500d616deb4f403627852ed3a151ec8a71ca64a018a37189f1198b427 -->
+<!-- innholds-hash: efb9cc873153751d14131aff81790304193933d82a3ac7e94f299772e2008528 -->
 
 # Teleslynge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/teleslynge
-- **Sist hentet:** 2026-06-19T11:37:14Z
+- **Sist hentet:** 2026-06-27T06:48:36Z
 
 ## Innhold
 
@@ -230,7 +230,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -243,3 +243,4 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: c63875bce1d685ab190eaf0e7b6d63e3d331384a7e7bccee331a8a695d16c86a -->
+<!-- innholds-hash: 9eae29c7f6f86067754a623a2a5e6b88ea867a9ab2cdbecbd92c164c7b82f31c -->
 
 # Income report - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding/en
-- **Sist hentet:** 2026-06-19T12:15:55Z
+- **Sist hentet:** 2026-06-27T07:23:22Z
 
 ## Innhold
 
@@ -444,7 +444,7 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
 - First day of absence: start date for the employee’s employment in Enterprise B
 - New reimbursement amount: requested reimbursement amount
-Updated 05/21/2026
+Updated 06/23/2026
 
 
 #### Chat with us
@@ -453,12 +453,12 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 #### Call us at 55 55 33 36
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -469,3 +469,4 @@ Open
 - **2026-05-16** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

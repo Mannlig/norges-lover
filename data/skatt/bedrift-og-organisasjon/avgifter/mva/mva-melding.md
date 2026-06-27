@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8952635300f33e830572df3ddde8288a0cd023651735ba68e8fe58554d34a13c -->
+<!-- innholds-hash: 6f7426aa92884212c26e552ff0a2a3efaee2da38e2ea2245371870ef8d5f7c19 -->
 
 # Mva-melding: Se, endre og levere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:47:13Z
+- **Sist hentet:** 2026-06-27T03:39:14Z
 
 ## Innhold
 
@@ -16,6 +16,8 @@
 Alle virksomheter som er registrert i Merverdiavgiftsregisteret skal levere mva-melding. Når mva-meldingen er riktig utfylt, viser den hvor mye merverdiavgift virksomheten skal betale til staten, eller staten skal betale til virksomheten.
 
 Logg inn og fyll ut:
+
+For NUF (Norskregistrert utenlandsk foretak) tildeles tilgangspakken Merverdiavgift automatisk for følgende roller i Enhetsregisteret: kontaktperson, representant eller forretningsfører.
 
 - regnskapsmedarbeider
 Skatteetaten tilbyr et kort webinar der du som skal levere mva-meldingen for første gang får enkel opplæring.
@@ -35,3 +37,4 @@ Hvis du skal korrigere
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

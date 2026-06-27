@@ -1,11 +1,11 @@
-<!-- innholds-hash: a2c9aae7303e3bde5e86943bec4e77c9902a18c9d5a0964761c4ba9074e3fa88 -->
+<!-- innholds-hash: de5ddc22d7fb63f20dd162898f3552789f516182720b15c5bfd1ef7c2f7a1a56 -->
 
 # Hjelpemiddel på bad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-bad
-- **Sist hentet:** 2026-06-19T03:01:05Z
+- **Sist hentet:** 2026-06-27T06:24:09Z
 
 ## Innhold
 
@@ -207,7 +207,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar kl 9
+Stengt no, opnar i morgon kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -223,3 +223,4 @@ Stengt no, opnar kl 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

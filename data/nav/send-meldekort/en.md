@@ -1,11 +1,11 @@
-<!-- innholds-hash: 64ddd9174e5b51115fa0f90b35bad5fc4f60125a8c8ab4f93ea50dca475e7ad6 -->
+<!-- innholds-hash: 59af0377219816f5f4840fa92b6342fb7ca2e86695fe0867646645aec2b20ed4 -->
 
 # Send employment status form - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort/en
-- **Sist hentet:** 2026-06-19T12:34:14Z
+- **Sist hentet:** 2026-06-27T07:40:09Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -80,7 +80,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Open
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -91,3 +91,4 @@ Open
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)
