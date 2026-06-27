@@ -1,11 +1,11 @@
-<!-- innholds-hash: c11a8c0e3fd439b86bb175687abd4a81be9bf797f79b0d4568fff640275f0b58 -->
+<!-- innholds-hash: d292d4d2e81af0451a5ec0bed8569dae6115226546758dec17f973358d965c8b -->
 
 # Automatikk og styring i bolig - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/automatikk-i-bolig
-- **Sist hentet:** 2026-06-19T02:53:34Z
+- **Sist hentet:** 2026-06-27T00:43:44Z
 
 ## Innhold
 
@@ -43,8 +43,6 @@ Nav hjelpemiddelsentral kan låne ut ulike automatikk- og styringshjelpemidler t
 Hvis du har bevegelsesvansker eller nedsatt finmotorikk, kan omgivelseskontroll hjelpe deg å få åpnet og lukket dører og vinduer. Du vil også enklere kunne slippe folk inn i hjemmet.
 
 Hjelpemidler du kan ha nytte av er blant annet dørautomatikk, porttelefon, fjernkontroller tilpasset ulike formål, vindusautomatikk og gardinautomatikk.
-
-Du kan også få styring av lys, hvis behovet ikke dekkes av produkter i vanlig handel.
 
 Dørautomatikk er elektrisk styring av åpning og lukking av dører. En dørautomatikk kan styres fra bryter eller fjernkontroll.
 
@@ -192,7 +190,7 @@ Hvis du ikke trenger hjelpemiddelet lenger skal du levere det tilbake. Ta kontak
 
 Fastmonterte hjelpemidler kan ikke byttes som andre hjelpemidler, men krever ny søknad med nye mål og signaturer hvis du trenger noe nytt. Dette har sammenheng med at regelverk og sortiment kan ha endret seg siden forrige gang du søkte.
 
-Oppdatert 05.12.2025
+Oppdatert 19.06.2026
 
 
 #### Skriv til oss
@@ -202,7 +200,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -218,3 +216,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

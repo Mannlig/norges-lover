@@ -1,11 +1,11 @@
-<!-- innholds-hash: 07ea7de2fc68a86660913503f33394771b6f422ec65d4e369171436ed57bbb3c -->
+<!-- innholds-hash: 3f2815c904a2c88389c31dd3bb833d3d732bbb5b1cc821d55f97b661d8aa31fc -->
 
 # Barnepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnepensjon
-- **Sist hentet:** 2026-06-18T21:28:18Z
+- **Sist hentet:** 2026-06-27T00:01:53Z
 
 ## Innhold
 
@@ -399,7 +399,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -409,7 +409,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -422,3 +422,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

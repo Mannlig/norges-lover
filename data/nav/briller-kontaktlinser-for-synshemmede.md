@@ -1,11 +1,11 @@
-<!-- innholds-hash: 70723120973fe82a3eef6e1ccc7b382d33958aa5a8ef34f52a7ec5dd7a05309a -->
+<!-- innholds-hash: 5cdf0895d27de5ff2b419dd0878543db9cee6092a31f959430e2e10ae9a7a02d -->
 
 # Briller og kontaktlinser for synshemmede - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/briller-kontaktlinser-for-synshemmede
-- **Sist hentet:** 2026-06-19T02:29:09Z
+- **Sist hentet:** 2026-06-27T00:19:26Z
 
 ## Innhold
 
@@ -182,7 +182,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -198,3 +198,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

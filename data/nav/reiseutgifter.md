@@ -1,11 +1,11 @@
-<!-- innholds-hash: 83b439ff36c08129602fa75a5813ae4b5cd70c901a4ca6cdd5848297c6e980e1 -->
+<!-- innholds-hash: 90538604b03a39cb30d0d5e0eee902d5124e3452cff24dcf65dac7c6a69e28c4 -->
 
 # Reiseutgifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reiseutgifter
-- **Sist hentet:** 2026-06-19T02:43:07Z
+- **Sist hentet:** 2026-06-27T00:33:13Z
 
 ## Innhold
 
@@ -224,7 +224,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -237,3 +237,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

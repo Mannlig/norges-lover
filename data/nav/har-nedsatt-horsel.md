@@ -1,11 +1,11 @@
-<!-- innholds-hash: 743a7554b7fcec5a2ae81e584ef7cec8ea02d16969825a68aef462a563f770d2 -->
+<!-- innholds-hash: b99b66bdcf4da51a6ff92283520ca6cfe0c2823b53783b48ab321948be024f2a -->
 
 # Har nedsatt hørsel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-nedsatt-horsel
-- **Sist hentet:** 2026-06-18T20:32:45Z
+- **Sist hentet:** 2026-06-26T23:06:27Z
 
 ## Innhold
 
@@ -72,7 +72,7 @@ Er du hørselshemmet, døv eller døvblind, kan du få tolk eller ledsagerhjelp.
 
 Barn og unge i barnehage, grunnskole, videregående skole og høyere utdannelse som har nedsatt hørsel, vil ofte være avhengig av hørselstekniske hjelpemidler for å ha fullt utbytte av sin skolegang og sine studier.
 
-Lydutjevningsanlegg i basisklasserommet med høyttalere, mikrofoner og teleslynge vil bedre skoledagen betydelig. Da kan man høre både lærer og medelever.
+Lydoverføringsanlegg i basisklasserommet med høyttalere, mikrofoner og teleslynge vil bedre skoledagen betydelig. Da kan man høre både lærer og medelever.
 
 På turer og ved undervisning i andre rom på skolen finnes flyttbare løsninger der man tar med seg en høyttaler og mikrofoner eller et samtalesett med sender og mottaker. Hjelpemiddelsentralen i fylket der du bor kan informere mer om dette.
 
@@ -101,7 +101,7 @@ Nav hjelpemiddelsentral har et arbeidsrettet veiledningstilbud som du som har n
 
 Har du nedsatt hørsel, er blind, svaksynt eller har dobbelt sansetap, kan du få opplæring slik at du kan fungere bedre i dagliglivet eller i arbeidslivet.
 
-Oppdatert 08.05.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med chatbot
@@ -118,7 +118,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -134,3 +134,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 200bcd7221b4cf19e8aab3cf3e1cdce69931e66ebea1456a546426f7a0335232 -->
+<!-- innholds-hash: df523abcf5434347b739955838de497878af08112fc563401582ac24b658b675 -->
 
 # Skal jobbe i utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-utlandet
-- **Sist hentet:** 2026-06-18T21:05:21Z
+- **Sist hentet:** 2026-06-26T23:39:04Z
 
 ## Innhold
 
@@ -104,7 +104,7 @@ Sjekk hvilke muligheter du har gjennom EURES-samarbeidet.
 
 Se hva som gjelder hvis du skal flytte til et annet land, men ikke skal jobbe der:
 
-Oppdatert 06.02.2026
+Oppdatert 23.06.2026
 
 
 #### Chat med oss
@@ -113,7 +113,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -123,7 +123,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -136,3 +136,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

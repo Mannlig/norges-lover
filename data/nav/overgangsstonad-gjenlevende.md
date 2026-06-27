@@ -1,11 +1,11 @@
-<!-- innholds-hash: 55677c985500d89475300a45bd651131bfb5fc2219e717c08a908d92272d4c6f -->
+<!-- innholds-hash: e2678f2af7a882bdc57ee50eb855863c1403194b3b4e31c8c2e6faa72a208ba7 -->
 
 # Overgangsstønad til gjenlevende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-gjenlevende
-- **Sist hentet:** 2026-06-19T02:40:20Z
+- **Sist hentet:** 2026-06-27T00:30:25Z
 
 ## Innhold
 
@@ -291,7 +291,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -301,7 +301,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -314,3 +314,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

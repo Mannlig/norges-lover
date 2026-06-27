@@ -1,11 +1,11 @@
-<!-- innholds-hash: 92781a651b4fba616af03b08b795123e88c0727a5fff8dc1c981bdf4b3054f6c -->
+<!-- innholds-hash: 524a1f8004a192327feaecc5227037d1f19934501f1e40d7afc9350138251696 -->
 
 # Ortoser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ortoser
-- **Sist hentet:** 2026-06-19T02:39:37Z
+- **Sist hentet:** 2026-06-27T00:29:45Z
 
 ## Innhold
 
@@ -198,7 +198,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Chat med oss
@@ -207,7 +207,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -220,3 +220,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

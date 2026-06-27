@@ -1,11 +1,11 @@
-<!-- innholds-hash: 690e143b9d0657bb4210f7923f73fb202d1b13eac358b9603980627cfde22c7c -->
+<!-- innholds-hash: 95afe30a905cfdb085f5015ee3524305d535e3f2f4ec0887befc426e94ca4bb4 -->
 
 # Ortopediske sko - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ortopediskesko
-- **Sist hentet:** 2026-06-19T02:38:57Z
+- **Sist hentet:** 2026-06-27T00:29:03Z
 
 ## Innhold
 
@@ -215,7 +215,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Chat med oss
@@ -224,7 +224,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -237,3 +237,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

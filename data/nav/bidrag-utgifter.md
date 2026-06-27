@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1199cc3b692937987039ade439eaf2e51626712e1482e72a82c2473c2908a3a5 -->
+<!-- innholds-hash: 800e832de54d495a7d19010f4e50cca72773c08a5fbc3a7f26ccb5431e1a8015 -->
 
 # Særbidrag (tidligere bidrag til særlige utgifter) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidrag-utgifter
-- **Sist hentet:** 2026-06-18T21:43:36Z
+- **Sist hentet:** 2026-06-27T00:17:20Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Tjeneste og Veiledning
 
 ## Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 ### Innhold på denne siden
@@ -97,7 +97,7 @@ I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 27.02.2026
+Oppdatert 22.06.2026
 
 
 #### Chat med oss
@@ -106,7 +106,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -116,7 +116,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -129,3 +129,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

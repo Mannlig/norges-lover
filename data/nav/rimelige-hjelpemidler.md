@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2a00714b9d1ce06a21987eb5bcb7b5e11fa478914ab67fc083f0f421a8544416 -->
+<!-- innholds-hash: 173d815611b2985ad98c521e8728594c35d9090b2e7b38c6be86cf0d1e0994b1 -->
 
 # Tilskudd til rimelige hjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/rimelige-hjelpemidler
-- **Sist hentet:** 2026-06-19T02:43:48Z
+- **Sist hentet:** 2026-06-27T00:33:52Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -125,3 +125,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

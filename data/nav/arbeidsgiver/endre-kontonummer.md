@@ -1,11 +1,11 @@
-<!-- innholds-hash: 461635f6950b88b599ca60037f2c40559c674550180506034b415f2fb91b62ce -->
+<!-- innholds-hash: 738df3fc97f333f6c3347ed674808776caead05f404644629c10840a2beabb47 -->
 
 # Registrere kontonummer for utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/endre-kontonummer
-- **Sist hentet:** 2026-05-21T14:02:49Z
+- **Sist hentet:** 2026-06-27T00:11:37Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Riktig registrert bankkontonummer sikrer at utbetalinger kommer til rett konto. 
 
 ### Innhold på denne siden
 
-For å registrere eller endre kontonummer må du enten få delegert enkelttjenesten «Endre bankkontonummer for refusjoner fra Nav til arbeidsgiver» i Altinn eller ha en av disse Altinn-rollene:
+For å registrere eller endre kontonummer må du enten få delegert enkelttjenesten «Registrere kontonummer for utbetalinger fra Nav til arbeidsgiver» i Altinn eller ha en av disse Altinn-rollene:
 
 - Bestyrende reder
 - Bostyrer
@@ -35,7 +35,9 @@ For å registrere eller endre kontonummer må du enten få delegert enkelttjenes
 - Norsk representant for utenlandsk enhet
 Du finner mer om
 
-Bostyrere for konkursbo, norskregistrerte utenlandske foretak (NUF) og andre som ikke har anledning til å logge seg inn, må kontakte Nav økonomi stønad.
+Dersom du ikke har mulighet til å logge deg inn, for eksempel på grunn av manglende BankID, Buypass, Commfides eller opphold i utlandet, bør du først forsøke å skaffe innloggingsmuligheter.
+
+Hvis det ikke er mulig, kan bostyrere for konkursbo, NUF og andre i samme situasjon kontakte Nav økonomi stønad
 
 Send e-post til
 
@@ -65,7 +67,7 @@ For å sikre enkel og trygg behandling, registrerer arbeidsgivere ett kontonumme
 - For arbeidsgiverrefusjoner – se
 - For tiltaksrefusjoner til arbeidsgivere – se kvitteringer i «Tiltaksrefusjon»
 - For tiltaksrefusjoner til tiltaksarrangører – se kvitteringer i «Tilsagn og refusjon».
-Oppdatert 03.03.2026
+Oppdatert 26.06.2026
 
 
 ---
@@ -74,3 +76,4 @@ Oppdatert 03.03.2026
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-06-27** Innhold endret (se git-historikk for diff)

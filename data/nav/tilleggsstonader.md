@@ -1,11 +1,11 @@
-<!-- innholds-hash: da81a38d17a79cc3480fd5082c8aadb601a611a49cbf10522f07e7290164115d -->
+<!-- innholds-hash: 1cd4fdb4c36d21b2e7c41127ac2190704fe0c621ce3ee2ab5d1f534f1e84390f -->
 
 # Tilleggsstønader - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader
-- **Sist hentet:** 2026-06-18T21:26:52Z
+- **Sist hentet:** 2026-06-27T00:00:28Z
 
 ## Innhold
 
@@ -313,7 +313,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -323,7 +323,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -336,3 +336,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

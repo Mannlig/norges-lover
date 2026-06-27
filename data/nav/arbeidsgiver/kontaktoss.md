@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3ac90b92d0db19669dcc03b37b224dc1203943de686d0493e19189088132cb43 -->
+<!-- innholds-hash: 39baf6b51fd06b0f47b71824c0fdcbe70f2c64d46636e3c8accdea17aa385f48 -->
 
 # Kontakt oss - arbeidsgiver - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/kontaktoss
-- **Sist hentet:** 2026-06-18T21:13:02Z
+- **Sist hentet:** 2026-06-26T23:46:41Z
 
 ## Innhold
 
@@ -38,7 +38,7 @@ Har du andre spørsmål, kan du ringe oss på 55 55 33 36.
 
 Har du spørsmål til et brev eller vedtak, kan du ringe oss.
 
-Oppdatert 11.06.2026
+Oppdatert 22.06.2026
 
 
 ---
@@ -49,3 +49,4 @@ Oppdatert 11.06.2026
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

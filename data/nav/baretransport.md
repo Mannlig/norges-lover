@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ca65b2cd714d14737b0223027f63cd5a06465adc9f091ea42593f388bb1628b -->
+<!-- innholds-hash: d995f0b27d65ff18e342601d714e9f8b8bec78536bc56f63653a4df021c8ae48 -->
 
 # Stønad ved båretransport - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/baretransport
-- **Sist hentet:** 2026-06-18T21:41:33Z
+- **Sist hentet:** 2026-06-27T00:15:11Z
 
 ## Innhold
 
@@ -119,7 +119,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -129,7 +129,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -142,3 +142,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

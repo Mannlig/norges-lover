@@ -2,7 +2,7 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-06-26 17:32 UTC*
+*Sist oppdatert: 2026-06-27 01:03 UTC*
 
 **Antall dokumenter:** 3800
 

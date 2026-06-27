@@ -1,11 +1,11 @@
-<!-- innholds-hash: 12718442ad887c3a5dfc0adcb76734b015886e2d57ee3a66ad203156467133f0 -->
+<!-- innholds-hash: 48379cacbda1e6f2608aa86ed76f0bee0e15578aaa9ac649d1434346cabe8d5d -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-06-18T21:19:51Z
+- **Sist hentet:** 2026-06-26T23:53:31Z
 
 ## Innhold
 
@@ -82,7 +82,7 @@ Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få 
 - avtale om mentor
 For å se personer med adressesperre må du i tillegg ha enkelttjenesten «Adressebeskyttelse — avtaler og refusjoner for arbeidsmarkedstiltak».
 
-For å benytte denne tjenesten må du enten få delegert enkelttjenesten «Endre bankkontonummer for refusjoner fra Nav til arbeidsgiver» eller ha en av disse rollene i enhetsregisteret:
+For å benytte denne tjenesten må du enten få delegert enkelttjenesten «Registrere kontonummer for utbetalinger fra Nav til arbeidsgiver» eller ha en av disse rollene i enhetsregisteret:
 
 - Bestyrende reder
 - Bostyrer
@@ -303,7 +303,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 01.06.2026
+Oppdatert 26.06.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -311,7 +311,7 @@ Oppdatert 01.06.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Kontaktskjema
@@ -336,3 +336,4 @@ Alltid åpen
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 74c4ceb7c36dd1865c85be0f09ff8f292c6f3213f46e457b431f4c3bd0c8e58e -->
+<!-- innholds-hash: ac4e5253809c8774eed2cbcf808afddb0c826087ecbed4a382bbe932fbe18f6f -->
 
 # Bidragsforskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidragsforskudd
-- **Sist hentet:** 2026-06-18T21:44:19Z
+- **Sist hentet:** 2026-06-27T00:18:03Z
 
 ## Innhold
 
@@ -213,7 +213,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -223,7 +223,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -236,3 +236,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

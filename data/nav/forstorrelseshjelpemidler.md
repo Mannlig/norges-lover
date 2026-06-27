@@ -1,11 +1,11 @@
-<!-- innholds-hash: 730d6639bc4dac48f2dfc035b0d0e05ef7d73e812738d6d7fd1f567bebaaef6c -->
+<!-- innholds-hash: 015ea836caff6b44645818bc37b984c5880c5a712661c06f6134ffe5a4a779f5 -->
 
 # Forstørrelses­hjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forstorrelseshjelpemidler
-- **Sist hentet:** 2026-06-19T02:58:23Z
+- **Sist hentet:** 2026-06-27T00:48:40Z
 
 ## Innhold
 
@@ -213,7 +213,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -229,3 +229,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

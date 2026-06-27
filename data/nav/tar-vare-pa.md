@@ -1,11 +1,11 @@
-<!-- innholds-hash: 517ef22dfdbf0fd94183df24ab7a9824b8526e02caeac69ea151404f7f37f91d -->
+<!-- innholds-hash: 7a8540f9cb5978316aa2ed5678dbf65f41f6273224036895296a76f362e3e0e5 -->
 
 # Tar vare på noen som er syk,  skadet eller har en funksjonsnedsettelse - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tar-vare-pa
-- **Sist hentet:** 2026-06-18T20:58:23Z
+- **Sist hentet:** 2026-06-26T23:32:19Z
 
 ## Innhold
 
@@ -97,7 +97,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -107,7 +107,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -120,3 +120,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)

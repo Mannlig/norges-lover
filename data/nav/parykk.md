@@ -1,11 +1,11 @@
-<!-- innholds-hash: 703e37ef694a6544c0f686667323e7559d1b26dba5ef5bafb63e223b0ff7b7bb -->
+<!-- innholds-hash: fee3610d7604ddab095ac06de665e2763037f3b07c3d4fb5fbf9f6e1a4969ccb -->
 
 # Parykk og annen hårerstatning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/parykk
-- **Sist hentet:** 2026-06-19T02:41:02Z
+- **Sist hentet:** 2026-06-27T00:31:05Z
 
 ## Innhold
 
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Chat med oss
@@ -106,7 +106,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -119,3 +119,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

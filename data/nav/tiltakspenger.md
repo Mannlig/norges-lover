@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8ef4efbea8ddd264b9425391cd272a0dff6420e9117c2a11108f2bd09378da7e -->
+<!-- innholds-hash: af279dacdbb23eb702fb32324ae10e36ace54144e642d79ac37aa14226eda7b2 -->
 
 # Tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tiltakspenger
-- **Sist hentet:** 2026-06-19T02:48:01Z
+- **Sist hentet:** 2026-06-27T00:38:02Z
 
 ## Innhold
 
@@ -107,7 +107,11 @@ Fellesferie må dokumenteres og gjelde hele virksomheten. Her kan du ettersende 
 
 #### Opplæringstiltak
 
-Hvis du deltar i et opplæringstiltak, kan du som hovedregel ikke få utbetalt tiltakspenger i ferien. Det gjelder selv om du faktisk er reell arbeidssøker i en pålagt ferie du selv ikke har valgt, for eksempel på grunn av at kursstedet eller skolen er stengt i sommerferien.
+Hvis du deltar i et opplæringstiltak, kan du som hovedregel ikke få utbetalt tiltakspenger i ferien.
+
+Det gjelder selv om du faktisk er reell arbeidssøker i en pålagt ferie du selv ikke har valgt, for eksempel på grunn av at kursstedet eller skolen er stengt i sommerferien.
+
+Hvis du skal sende meldekort i ferien, les mer om
 
 Hvis du av helsemessige årsaker ikke kan arbeide eller ikke har krav på feriepenger, kan du få tiltakspenger i sommerferien hvis opplæringstiltaket varer lenger enn ett skoleår.
 
@@ -115,7 +119,7 @@ Du må sende oss dokumentasjon hvis du av helsemessige årsaker ikke kan arbeide
 
 Hvis du får endringer i inntekten, familiesituasjonen, jobbsituasjonen og/eller planlegger opphold i utlandet, kan det ha betydning for pengestøtte fra Nav. I slike tilfeller må du derfor straks melde fra til Nav.
 
-Oppdatert 19.05.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med oss
@@ -124,7 +128,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -134,7 +138,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -147,3 +151,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

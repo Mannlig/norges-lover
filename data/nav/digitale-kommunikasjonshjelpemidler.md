@@ -1,11 +1,11 @@
-<!-- innholds-hash: fc5a73cbe53f410a231e61785e09165d0a1b9db8e2fb0d98e4fc1d7270b4a50e -->
+<!-- innholds-hash: 3b3787c9684208632db9487fc52bc6b7daaf053d08b664c84fe6b7199702744e -->
 
 # Digitale kommunikasjonshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/digitale-kommunikasjonshjelpemidler
-- **Sist hentet:** 2026-06-19T02:55:40Z
+- **Sist hentet:** 2026-06-27T00:45:52Z
 
 ## Innhold
 
@@ -241,7 +241,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -257,3 +257,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-06-27** Innhold endret (se git-historikk for diff)

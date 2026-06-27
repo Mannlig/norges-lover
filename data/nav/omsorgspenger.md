@@ -1,11 +1,11 @@
-<!-- innholds-hash: dd8ea99032f620d082e018f8f1359de597fdbf275791c30e9cc4c1f480d927d0 -->
+<!-- innholds-hash: fc84913ebb70f74a70b7c6b73a865f09b24937dae3e504f4e071302b62e5b0ed -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist hentet:** 2026-06-18T20:51:26Z
+- **Sist hentet:** 2026-06-26T23:25:24Z
 
 ## Innhold
 
@@ -135,7 +135,7 @@ Hvis du har tre barn på 8, 11 og 14 år, har du som hoveregel to barn som gir r
 
 Hvis du har fått ekstra omsorgsdager for barnet på 14 år, har du tre barn som gir rett til 15 omsorgsdager. Fordi dette barnet er fra tidligere forhold, og du er alene om omsorgen, får du 20 ekstra dager.
 
-Husk at du må søke om å få ekstra omsorgsdager ved aleneomsorg eller sykdom. Hvis du har flere barn som du har aleneomsorg for, eller flere barn med langvarig sykdom, må du sende en søknad per barn.
+Husk at du må søke om å få ekstra omsorgsdager ved sykdom. Er du alene om omsorgen, kan du i tillegg sende søknad om ekstra omsorgsdager ved aleneomsorg for å få vurdert hvor mange dager du kan ha rett til. Hvis du har flere barn som du har aleneomsorg for, eller flere barn med langvarig sykdom, må du sende en søknad per barn.
 
 
 #### Om å dele omsorgsdager
@@ -171,7 +171,7 @@ Bostedsforelderen har da rett til alle omsorgsdagene, og har derfor dobbelt anta
 
 - 20 omsorgsdager for 1-2 barn
 - 30 omsorgsdager for tre eller flere barn.
-Du må søke om ekstra omsorgsdager når du er alene om omsorgen.
+For å få vurdert hvor mange dager du kan ha rett til når du er alene om omsorgen, kan du søke om ekstra omsorgsdager ved aleneomsorg.
 
 
 #### Om deling av dager
@@ -196,7 +196,7 @@ Varighet er 2,5 min
 
 Les mer om reglene for når du kan søke om ekstra omsorgsdager:
 
-Når du er alene med omsorgen for barn kan du ha rett til doblet antall omsorgsdager. Disse ekstra omsorgsdagene må du søke om.
+Når du er alene med omsorgen for barn kan du ha rett til doblet antall omsorgsdager. For å få vurdert hvor mange dager du kan ha rett til, kan du søke om ekstra omsorgsdager ved aleneomsorg.
 
 Når det gjelder omsorgsdager er du alene om omsorgen når barnet bor fast hos deg, og du ikke bor med den andre forelderen. Det kan for eksempel være på grunn av samlivsbrudd, at du er blitt enke/enkemann, eller at du er alene med et donorbarn.
 
@@ -218,7 +218,7 @@ Du trenger ikke å informere Nav om at du deler omsorgsdagene, men arbeidsgiver 
 
 #### Om søknaden
 
-Du må sende søknad for å få ekstra omsorgsdager når du er alene om omsorgen. Hvis du er alene med flere barn, må du sende en søknad for hvert av barna.
+For å få vurdert hvor mange omsorgsdager du kan ha rett til, kan du søke om ekstra omsorgsdager ved aleneomsorg. Hvis du er alene med flere barn, må du sende en søknad for hvert av barna.
 
 Hvis du er arbeidstaker, må du informere arbeidsgiveren din hvis du får vedtak om ekstra omsorgsdager.
 
@@ -454,7 +454,7 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 16.02.2026
+Oppdatert 24.06.2026
 
 
 #### Chat med oss
@@ -463,7 +463,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 #### Skriv til oss
@@ -473,7 +473,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 
 ---
@@ -486,3 +486,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-06-26** Innhold endret (se git-historikk for diff)
