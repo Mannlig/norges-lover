@@ -1,11 +1,11 @@
-<!-- innholds-hash: ddaac94403f08903f1b20b38f03daca3092d53314e238ec78c42088b1752de47 -->
+<!-- innholds-hash: 60b1953e87dbc41a82cab24f9bdcd4c66780454164e8cbba45414f2dd1c1bf6b -->
 
 # Ønsker å rekruttere flyktninger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rekruttere-flyktninger
-- **Sist hentet:** 2026-06-20T09:08:33Z
+- **Sist hentet:** 2026-06-28T05:18:01Z
 
 ## Innhold
 
@@ -47,7 +47,7 @@ Oppdatert 16.02.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -57,3 +57,4 @@ Stengt nå, åpner i morgen kl. 9
 
 - **2026-06-10** Første gang hentet
 - **2026-06-20** Innhold endret (se git-historikk for diff)
+- **2026-06-28** Innhold endret (se git-historikk for diff)

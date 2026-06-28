@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa8becee2c8bb7cde988386b230bbd0434245ae8d02b197052f87eb192ad17b7 -->
+<!-- innholds-hash: d6b1603ae05c7202ba19857f06c43324c21a506f06d2d5de1f6e36c0c33e52ff -->
 
 # Rekruttering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/lokalt/troms-og-finnmark/rekruttering
-- **Sist hentet:** 2026-06-10T18:13:26Z
+- **Sist hentet:** 2026-06-28T05:11:12Z
 
 ## Innhold
 
@@ -26,6 +26,8 @@ Nav Troms og Finnmark har egne rekrutteringskontakter som bistår din bedrift me
 
 Markedskoordinator i Øst-Finnmark:
 
+Edmund Hegstad
+
 Stine Ihler
 
 Hilde Marie Meyer i Vadsø
@@ -38,23 +40,21 @@ Ole Morten Indbjør i Sør-Varanger
 
 Fred Johan Evensen i Vardø
 
-Markedskoordinator:
+Arbeidsgiverkontakt:
 
 Tone Konradsen
 
-Andre markedspersoner i kontorene i Midt-Finnmark:
+Andre markedspersoner i Midt-Finnmark:
 
 Elisabeth Isaksen Lindback i Porsanger
 
 Lars Archer i Havøysund (Måsøy)
 
-Markedskoordinator:
+Arbeidsgiverkontakt:
 
-Randi Østgaard
+Åge Jørgensen, Alta
 
-Andre markedspersoner i Vest:
-
-Trine Emaus, Alta
+Andre markedspersoner i Vest-Finnmark:
 
 Karen Anna Gaup, Kautokeino
 
@@ -62,13 +62,15 @@ Renate Olsen, Hasvik
 
 Markedskoordinator:
 
-Hege Rollstad
+Hege Elisabeth Rollstad
 
-Markedskoordinator:
+Arbeidsgiverkontakt:
 
-Riikka Rytinki, Tromsø
+Alexander Os, Tromsø
 
 Andre markedsrådgivere i Tromsø-området:
+
+Riikka Rytinki, Tromsø
 
 Frank Johannessen, Tromsø
 
@@ -78,23 +80,19 @@ Stine Victoria Krag, Tromsø
 
 Jann-Martin Jørgensen Mathisen, Storfjord-Balsfjord
 
-Andrè Karlsen, Karlsøy
+Mai Sylvi Karlsen, Karlsøy
 
-Monica Fyhn, Lyngen
+Kai Nordby, Lyngen
 
 Markeds- og rekrutteringstelefon, Tromsø-området: 407 29 876
 
-Rekruttering og inkluderingsbistand
+Arbeidsgiverekontakt:
 
-Markedskoordinator Midt-Troms:
+Eirik Torgersen
+
+Andre markedskontakter i Midt-Troms:
 
 Beate Seljenes
-
-Markedskontakt Senja-Sørreisa:
-
-Vibeke Walle
-
-Robert Digre
 
 Knut-Jarle Reiertsen
 
@@ -105,8 +103,6 @@ Duncan Kennedy
 Dash Saah Fallah
 
 Arbeidsgivertelefon for Nav Sør-Troms: 948 43 217
-
-Alexander Os
 
 Carolien Vandersmissen
 
@@ -127,3 +123,4 @@ Nav har tilskudd, arbeidstrening og tilrettelegging som kan være aktuelt hvis d
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-06-28** Innhold endret (se git-historikk for diff)
