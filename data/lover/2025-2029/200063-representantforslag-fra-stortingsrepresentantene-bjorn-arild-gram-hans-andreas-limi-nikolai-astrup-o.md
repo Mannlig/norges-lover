@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d6c6c53a536ea87938a10729d8e6a956e822cfa66a7e57604d9c0b8ab8e3aab -->
+<!-- innholds-hash: 276e9f2b5313d2b14625b0894223efe589bb4a2c3392a421a4d9073cba48d97c -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Arild Gram, Hans Andreas Limi, Nikolai Astrup og Jørgen H. Kristiansen om utsettelse av innføring av CO2-avgift for kjemisk reduksjon mv.
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T09:17:58Z
+- **Sist hentet:** 2026-06-29T15:13:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200063
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782724120589+0200)/",
+  "respons_dato_tid": "/Date(1782745948358+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -53,16 +53,16 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
-      "foedselsdato": "/Date(74037600000+0200)/",
+      "foedselsdato": "/Date(74041200000+0200)/",
       "fornavn": "Bjørn Arild",
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -78,16 +78,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
-      "foedselsdato": "/Date(-292384800000+0200)/",
+      "foedselsdato": "/Date(-292377600000+0200)/",
       "fornavn": "Hans Andreas",
       "id": "HLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -112,7 +112,7 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -128,16 +128,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724120604+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
-      "foedselsdato": "/Date(266450400000+0200)/",
+      "foedselsdato": "/Date(266457600000+0200)/",
       "fornavn": "Nikolai",
       "id": "NA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -158,7 +158,7 @@
   "innstilling_id": 17542,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782724073088+0200)/",
+    "respons_dato_tid": "/Date(1782745837485+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200063,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782724120589+0200)/",
+      "respons_dato_tid": "/Date(1782745948358+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -176,7 +176,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -235,5 +235,6 @@
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
+- **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)

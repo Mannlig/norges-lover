@@ -1,11 +1,11 @@
-<!-- innholds-hash: 209294b2bdedab586517400cce4a5198b7a0f00f051e715cf68a1e448332d0aa -->
+<!-- innholds-hash: b0e0c68df4b33deeff9f50c491da7330bf58dcfc61e7debeb3b050bb2332cfdf -->
 
 # Fill in employment status form - unemployment benefit (dagpenger) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-dagpenger/en
-- **Sist hentet:** 2026-06-18T01:03:55Z
+- **Sist hentet:** 2026-06-29T18:08:12Z
 
 ## Innhold
 
@@ -34,13 +34,13 @@ You must submit your employment status form every
 
 - When you need to submit your next employment status form
 - Which period the employment status form is for
-Each employment status form is for a period of 14 days, and you should submit it as soon as the period ends. This way, you will receive your unemployment benefit sooner, and avoid deductions because your employment status form was submitted late.
+Each employment status form is for a period of 14 days, and you should submit it as soon as the period ends. This way, you will receive your unemployment benefit sooner. If you do not submit your employment status form in time, your payment will be stopped or reduced.
 
-The final deadline for submitting the employment status form is 23:00 on Monday, one week after the reporting period has ended.
+The final deadline for submitting the employment status form is within Monday, one week after the reporting period has ended.
 
 Remember that you must also submit employment status forms while you are waiting for a response to your application.
 
-If you submit your employment status form after the deadline, a deduction will be made from payments for the next employment status form.
+If you do not submit your employment status form in time, your payment will be stopped or reduced.
 
 If you have difficulties submitting your employment status form on time, you must
 
@@ -260,7 +260,7 @@ If you are a temporary worker, you must enter your agreed working hours on the r
 
 If you have duty as a lay judge, you do not need to fill inn the employment status form for the periods when you are in court.
 
-Updated 03/19/2026
+Updated 06/25/2026
 
 
 #### Chat with us
@@ -288,3 +288,4 @@ Response time is 3 business days. If you need answers faster, please see our cha
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

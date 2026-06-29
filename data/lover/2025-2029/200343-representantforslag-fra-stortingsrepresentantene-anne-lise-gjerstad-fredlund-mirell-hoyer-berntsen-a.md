@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2372f61b0f5d782b19b0ae9e83103fb3ef0527f2f27119c142d129b9e783ea66 -->
+<!-- innholds-hash: b915bcf75a9e7e0550a67d2e5e6e01b2cb0670a1ca5cca5087f62db51cd2052e -->
 
 # Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T09:17:58Z
+- **Sist hentet:** 2026-06-29T15:13:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200343
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782724121776+0200)/",
+  "respons_dato_tid": "/Date(1782745948436+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,16 +44,16 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
-      "foedselsdato": "/Date(402098400000+0200)/",
+      "foedselsdato": "/Date(402105600000+0200)/",
       "fornavn": "Anne Lise Gjerstad",
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -78,7 +78,7 @@
       "id": "AU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -103,7 +103,7 @@
       "id": "KATLIE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -128,7 +128,7 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -144,16 +144,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
-      "foedselsdato": "/Date(339717600000+0200)/",
+      "foedselsdato": "/Date(339724800000+0200)/",
       "fornavn": "Mirell",
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -169,16 +169,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782724121776+0200)/",
+      "respons_dato_tid": "/Date(1782745948436+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
-      "foedselsdato": "/Date(435708000000+0200)/",
+      "foedselsdato": "/Date(435715200000+0200)/",
       "fornavn": "Sunniva Holmås",
       "id": "SUNEID",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782687745892+0200)/",
+        "respons_dato_tid": "/Date(1782730947684+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -199,7 +199,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782724073088+0200)/",
+    "respons_dato_tid": "/Date(1782745837485+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -277,5 +277,6 @@
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
+- **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0640cbfbeb161f252b6f43d229198f787be252c8164a2941643d7e42e4b7fde6 -->
+<!-- innholds-hash: 58eccf65e46fdd2710c6d2cc56838dff4790fe28cd332ded84973f74c081ce17 -->
 
 # Fill out employment status form – employment scheme benefits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-tiltakspenger/en
-- **Sist hentet:** 2026-06-18T01:04:35Z
+- **Sist hentet:** 2026-06-29T18:08:55Z
 
 ## Innhold
 
@@ -152,6 +152,12 @@ You will not be entitled to employment scheme benefits for days you were absent 
 - You will not receive employment scheme benefits for days when you have earned pay while participating in scheme activities.
 You are entitled to employment scheme benefits for days when your employment scheme is closed due to a public holiday. This applies to public holidays in May/June, as well as in connection with Easter/Christmas.
 
+Do you need to submit an employment status during your holiday? The rules depend on the scheme you are participating in.
+
+- unable to work for health reasons, or
+- not entitled to holiday pay
+Other schemes may give the right to employment scheme benefits if the organiser has a joint holiday period. In that case, you must tick participated. Read more about
+
 The payment is made approximately 2–3 days after we receive your employment status form.
 
 If you believe your payment is too high or too low, you must
@@ -182,7 +188,7 @@ How to submit a complaint:
 - Specify that your appeal concerns employment status form.
 Read more about your
 
-Updated 03/18/2026
+Updated 06/23/2026
 
 
 #### Chat with us
@@ -212,3 +218,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

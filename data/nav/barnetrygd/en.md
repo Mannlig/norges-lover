@@ -1,11 +1,11 @@
-<!-- innholds-hash: ef8e2425bbffc2973648857f0c10c9d79928f9891e52205ba97f15beca4b7f59 -->
+<!-- innholds-hash: 6847b3840bec5b28b1992dbcb20b44a7bf047a047d9e3b7683ff1592952438f3 -->
 
 # Child benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetrygd/en
-- **Sist hentet:** 2026-06-18T00:43:47Z
+- **Sist hentet:** 2026-06-29T17:48:14Z
 
 ## Innhold
 
@@ -363,7 +363,7 @@ If you work alongside your studies, your right to child benefit lapses.
 
 If child benefit payments have been terminated due to your stay abroad, you must reapply for child benefit upon your return to Norway.
 
-Updated 12/17/2025
+Updated 06/22/2026
 
 
 #### Chat with us
@@ -393,3 +393,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

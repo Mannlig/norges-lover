@@ -1,11 +1,11 @@
-<!-- innholds-hash: bd4c54f330ef70eeb1b445e9512e3d0cfc75e1d3705f91f7434b375b82373c2f -->
+<!-- innholds-hash: ee899cce4549b97ac28b549937909fe1e33981440cd5a5e394a2f86d5356b6ff -->
 
 # Retirement pension - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon/en
-- **Sist hentet:** 2026-06-18T00:40:21Z
+- **Sist hentet:** 2026-06-29T17:44:50Z
 
 ## Innhold
 
@@ -266,7 +266,14 @@ If you are single, you are entitled to the special rate for singles. The term si
 
 The special rate is 397,215 per year.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -299,7 +306,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -332,7 +346,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -365,7 +386,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -398,7 +426,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -431,7 +466,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -464,7 +506,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -497,7 +546,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 Minstepensjonen beregnes etter når du er født.  Minstepensjonen regnes ut etter både gamle regler (minste pensjonsnivå) og nye regler (garantipensjon).
 
@@ -538,7 +594,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 The minimum pension is calculated based on your birth year. The minimum pension is calculated using both the old rules (minimum pension level) and the new rules (guarantee pension).
 
@@ -571,7 +634,14 @@ You are entitled to the high rate if you are married/cohabiting and the conditio
 
 If you are single, you are entitled to the special rate for singles. The term single in this context also applies to spouses who do not live together.
 
-If you are supporting a spouse over the age of 60 and meet the requirements for a
+To qualify for the special rate, you must have turned 67 and be receiving a full retirement pension. The spouse you support must be over 60 years old.
+
+You are considered a provider if:
+
+- your spouse’s income is below the basic amount
+- your spouse does not receive disability benefits from the National Insurance Scheme (Nav) or AFP in the public sector
+- your spouse does not receive a retirement pension, and is also not entitled to a 100 percent retirement pension from the National Insurance Scheme (Nav)
+A registered partner, or a cohabiting partner you have been married to or have children with, is considered equivalent to a spouse.
 
 If you have limited or no accumulated pension rights, you may be entitled to a guarantee pension to provide you with a minimum income.
 
@@ -1064,3 +1134,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

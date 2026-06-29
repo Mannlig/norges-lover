@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4e99f34ab1af40336422bcc4b170750d2578f7f054eb8e5ece5c2513dca66182 -->
+<!-- innholds-hash: 6afcc6af0acd12aa8c363a51991dfb40f59135df53947de5b4abe58a66d602c4 -->
 
 # Care benefit (home with a child who is ill) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger/en
-- **Sist hentet:** 2026-06-18T00:53:32Z
+- **Sist hentet:** 2026-06-29T17:57:53Z
 
 ## Innhold
 
@@ -135,7 +135,7 @@ If you have three children aged 8, 11, and 14, you normally have two children th
 
 If you have received extra care days for the 14-year-old child, you have three children that entitle you to 15 care days. Because this child is from a previous relationship and you are sole caregiver, you get 20 extra days.
 
-Remember that you must apply to receive extra care days for sole care or illness. If you have more than one child in these situations, you must send a separate application for each child.
+Remember that you must apply to receive extra care days for illness. If you are sole caregiver,
 
 
 #### About sharing care days
@@ -171,8 +171,6 @@ The residential parent is then entitled to all the care days and therefore has d
 
 - 20 care days for 1-2 children
 - 30 care days for three or more children.
-You must apply for extra care days if you are sole caregiver.
-
 
 #### About sharing days
 
@@ -196,7 +194,7 @@ Duration is 2,5 min
 
 Read more about the rules for when you can apply for extra care days:
 
-If you are the only one caring for the child, you may be entitled to double the number of care days. You must apply for these extra care days.
+If you are the only one caring for the child, you may be entitled to double the number of care days.
 
 Regarding care days, you are sole caregiver when the child lives permanently with you, and you do not live with the other parent. This can be due to a separation, becoming a widow/widower, or being alone with a donor child.
 
@@ -217,8 +215,6 @@ You do not need to inform Nav, but you must inform your employer.
 
 
 #### About the application
-
-You must apply to get extra care days if you are sole caregiver. If you are sole caregiver for more than one child, you must send a separate application for each child.
 
 If you are employed, you must inform your employer if you are granted extra care days.
 
@@ -449,7 +445,7 @@ Complaint to the Nav Appeals Management Unit
 
 Appeals to the Nav Appeals Management Unit
 
-Updated 02/16/2026
+Updated 06/24/2026
 
 
 #### Chat with us
@@ -479,3 +475,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

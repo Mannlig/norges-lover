@@ -1,11 +1,11 @@
-<!-- innholds-hash: a882381a9488a5bb9ec635569924db620365ed80c953f7ee77bc979188017715 -->
+<!-- innholds-hash: e2ed5ff75014e489f8c3bab17e2e2cbbc3ca7a892a727a2233d49b219e216812 -->
 
 # Unemployment benefit (dagpenger) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger/en
-- **Sist hentet:** 2026-06-18T00:44:27Z
+- **Sist hentet:** 2026-06-29T17:48:54Z
 
 ## Innhold
 
@@ -637,7 +637,7 @@ There are specific rules for how to fill out your employment status form. Read m
 
 #### What happens if you do not submit your employment status form?
 
-If you do not submit your employment status form in time, your payment will be reduced. If more than 20 days have passed since you last sent an employment status form, we will stop your unemployment benefit payment. In this case, you must reapply for unemployment benefit.
+If you do not submit your employment status form in time, your payment will be stopped or reduced. If your unemployment benefit is stopped, you must reapply.
 
 Being a genuine job seeker means that you must
 
@@ -1017,7 +1017,7 @@ If you have
 
 Do you want
 
-Updated 06/01/2026
+Updated 06/18/2026
 
 
 #### Chat with us
@@ -1047,3 +1047,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

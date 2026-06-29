@@ -1,11 +1,11 @@
-<!-- innholds-hash: 73c59387e3797d91b2c18a4e70bb6dcd8bb6120139a72dfe38ee20c6738f0676 -->
+<!-- innholds-hash: 3f95dcf31adb812ae8fc40484ec10361a360a5c2113d0856ab7292859baccfc4 -->
 
 # Disability benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd/en
-- **Sist hentet:** 2026-06-18T01:01:53Z
+- **Sist hentet:** 2026-06-29T18:06:07Z
 
 ## Innhold
 
@@ -160,8 +160,6 @@ In such case you will receive two separate payments, one from Nav and one from t
 More information for you who
 
 Before you apply, you must have clarified with Nav that you cannot be employed. At the Nav office, you can get the guidance you need to apply.
-
-If you are partially employed, you must attach the income form to your application.
 
 
 #### Income information if you are self employed
@@ -730,7 +728,7 @@ Therefore we carry out a new final annual settlement for the same year and both
 
 The new final annual settlement presumes you have already repaid NOK 10 000 to Nav. If you have not repaid the NOK 10 000 from the first final annual settlement, the supplement in the second decision covers your entire debt from the first decision.
 
-Updated 06/17/2026
+Updated 06/22/2026
 
 
 #### Chat with us
@@ -760,3 +758,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

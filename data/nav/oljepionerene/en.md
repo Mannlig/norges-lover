@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0a4a7948ef8a2884155146751506c3d42664228d2f4bb4b1048edf37c0b1f0a6 -->
+<!-- innholds-hash: 914fc594a63e4daeb1f68f88a95a19eb37357276018ca2cf18b8c04952375127 -->
 
 # Oil Pioneers Compensation Scheme - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oljepionerene/en
-- **Sist hentet:** 2026-06-18T01:07:58Z
+- **Sist hentet:** 2026-06-29T18:12:17Z
 
 ## Innhold
 
@@ -65,7 +65,7 @@ Not all diseases give the right to compensation. The following diseases are cove
 - Acute myelogenous leukaemia (a type of acute blood cancer)
 - Myelodysplastic neoplasia (bone marrow failure, may be a precursor to blood cancer)
 - Myelomatosis (bone marrow cancer)
-- Chronic lymphocytic leukaemia (a type of blood cancer)
+- Non Hodgkin lymphoma (a type of lymphoma)
 - Lung cancer
 - Mesothelioma (lung cancer or peritoneum cancer)
 - Ovarian cancer
@@ -152,7 +152,7 @@ Open weekdays 09:00–15:00. They may call you back if the wait is more than 5 m
 
 ### Lenker
 
-Updated 01/16/2026
+Updated 06/24/2026
 
 
 ---
@@ -161,3 +161,4 @@ Updated 01/16/2026
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

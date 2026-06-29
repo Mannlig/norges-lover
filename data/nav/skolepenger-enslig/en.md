@@ -1,11 +1,11 @@
-<!-- innholds-hash: cf8e8e3169097836ae582bdc395f822cae8e87b98fde49720483796b2655c180 -->
+<!-- innholds-hash: 6c77fbf67a10be92babcb4c1cf41eb420580eb2ab9e33d641907e6ee2356fe9b -->
 
 # Support for school fees for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-enslig/en
-- **Sist hentet:** 2026-06-18T00:56:18Z
+- **Sist hentet:** 2026-06-29T18:00:41Z
 
 ## Innhold
 
@@ -22,15 +22,13 @@ Covers expenses related to tuition fees, semester fees and examination fees for 
 
 ### Contents on this page
 
-In the approved national budget for 2026, changes have been proposed to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
-
-Some groups will still be entitled to the transitional benefit. This applies to those who have sole care of a child under 14 months of age or a child with special supervision needs.
+The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
 
 The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
 
-The Storting will consider and adopt a final decision on the changes and a more detailed set of regulations during the spring.
+The changes are justified by the fact that, since the benefits were introduced, much has been done to facilitate childcare alongside work and education. The need for special social security benefits for single parents has therefore changed.
 
-We will update this text as soon as we know more.
+Separate transitional rules are currently being drawn up. The changes will apply from 1 July 2026.
 
 Generally, you may be entitled to support for school fees if
 
@@ -363,7 +361,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 02/25/2026
+Updated 06/18/2026
 
 
 #### Chat with us
@@ -393,3 +391,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

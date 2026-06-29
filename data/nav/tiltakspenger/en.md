@@ -1,11 +1,11 @@
-<!-- innholds-hash: d1fd35d30e517f035e462902092aa28384f95302af84b48abe5a5fd28e6022f8 -->
+<!-- innholds-hash: 398e86de1be8fe1e3029443ac9123c95b51bb7577aab6d6327b43ce4473ef670 -->
 
 # Employment scheme benefits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tiltakspenger/en
-- **Sist hentet:** 2026-06-18T01:01:09Z
+- **Sist hentet:** 2026-06-29T18:05:28Z
 
 ## Innhold
 
@@ -112,11 +112,13 @@ A summer holiday shutdown must be documented and apply to the entire company. Se
 
 If you participate in training measures, you generally cannot be paid employment scheme benefits during holidays. This applies even if you are a genuine job seeker during an imposed holiday that you have not chosen yourself, for example because the course location or school is closed during the summer holidays.
 
+If you need to submit an employment status form while on holiday, read more about
+
 If you cannot work for health reasons or you are not entitled to holiday pay, you can receive employment scheme benefits during the summer holidays if the training measure lasts longer than one school year. You must send us documentation if you cannot work for health reasons:
 
 If your income or family and/or work situation changes, and/or you are planning a stay abroad, this may significantly affect monetary support paid by Nav. That is why you must report any changes to Nav immediately.
 
-Updated 08/20/2025
+Updated 06/26/2026
 
 
 #### Chat with us
@@ -146,3 +148,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1d5ba8e793427b7697a824cd24a30b5619e85790b45b895ffd2935ccab402fb1 -->
+<!-- innholds-hash: 485aac218eb71bac117afd79a3ae40927706e7b39bf1ea25127b07ef567fe3f1 -->
 
 # Transitional benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig/en
-- **Sist hentet:** 2026-06-18T00:54:13Z
+- **Sist hentet:** 2026-06-29T17:58:35Z
 
 ## Innhold
 
@@ -26,15 +26,13 @@ There is also information on transitional benefit for single parents for
 
 There is also information on transitional benefit for single parents for
 
-In the approved national budget for 2026, changes have been proposed to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
-
-Some groups will still be entitled to the transitional benefit. This applies to those who have sole care of a child under 14 months of age or a child with special supervision needs.
+The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
 
 The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
 
-The Storting will consider and adopt a final decision on the changes and a more detailed set of regulations during the spring.
+The changes are justified by the fact that, since the benefits were introduced, much has been done to facilitate childcare alongside work and education. The need for special social security benefits for single parents has therefore changed.
 
-We will update this text as soon as we know more.
+Separate transitional rules are currently being drawn up. The changes will apply from 1 July 2026.
 
 Generally, you may be entitled to transitional benefit if
 
@@ -480,7 +478,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 06/17/2026
+Updated 06/18/2026
 
 
 #### Chat with us
@@ -510,3 +508,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)

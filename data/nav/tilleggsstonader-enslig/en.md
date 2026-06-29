@@ -1,11 +1,11 @@
-<!-- innholds-hash: b92a98488cec883ff6b5697ad522cd837ea0118a753acc15656c63aab80f3063 -->
+<!-- innholds-hash: 4e6d5db37b0f869e3afae7cbb82b1fe07473e471937babef10a0415cc95d9321 -->
 
 # Supplemental benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-enslig/en
-- **Sist hentet:** 2026-06-18T00:59:04Z
+- **Sist hentet:** 2026-06-29T18:03:25Z
 
 ## Innhold
 
@@ -22,15 +22,11 @@ Support for childcare and expenses you have for education or job hunting when yo
 
 ### Contents on this page
 
-In the approved national budget for 2026, changes have been proposed to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
+The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
 
 Some groups will still be entitled to the transitional benefit. This applies to those who have sole care of a child under 14 months of age or a child with special supervision needs.
 
 The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
-
-The Storting will consider and adopt a final decision on the changes and a more detailed set of regulations during the spring.
-
-We will update this text as soon as we know more.
 
 generally, you may be entitled to supplemental benefit if
 
@@ -349,7 +345,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 02/25/2026
+Updated 06/18/2026
 
 
 #### Write to us
@@ -385,3 +381,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-06-29** Innhold endret (se git-historikk for diff)
