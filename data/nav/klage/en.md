@@ -1,11 +1,11 @@
-<!-- innholds-hash: ba067ec1a3d3027b87ad88694b50d43708c1adbbd5da57391541163b891b68b9 -->
+<!-- innholds-hash: 9678564abded2e6baa317ef1e275e5ba4f399a42fa00e66d7d432bec9f804db3 -->
 
 # Complaint and appeal - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/klage/en
-- **Sist hentet:** 2026-06-14T15:43:44Z
+- **Sist hentet:** 2026-06-30T23:12:25Z
 
 ## Innhold
 
@@ -473,7 +473,7 @@ Secures you income during absence from work when you are in training to be able 
 
 #### Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 #### Transitional benefit for survivors
@@ -547,3 +547,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-06-30** Innhold endret (se git-historikk for diff)
