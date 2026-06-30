@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8cda8a7d43e06b242c266f816267ccc9082c633457fe4e95f26065849920f892 -->
+<!-- innholds-hash: b7b8bc79f9d87f71aa35ca1cbc7037e3ce8d2b11a5ab5275b0f8350274d4dff0 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om bedre togtilbud og gjenåpning av togstrekninger på Østlandet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T15:13:25Z
+- **Sist hentet:** 2026-06-29T20:51:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200294
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782745948405+0200)/",
+  "respons_dato_tid": "/Date(1782764968360+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948405+0200)/",
+      "respons_dato_tid": "/Date(1782764968360+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948405+0200)/",
+      "respons_dato_tid": "/Date(1782764968360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948405+0200)/",
+      "respons_dato_tid": "/Date(1782764968360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948405+0200)/",
+      "respons_dato_tid": "/Date(1782764968360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -115,7 +115,7 @@
   "innstilling_id": 17432,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782745837485+0200)/",
+    "respons_dato_tid": "/Date(1782764961340+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,11 +124,11 @@
   "sak_fremmet_id": 200294,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948405+0200)/",
+      "respons_dato_tid": "/Date(1782764968360+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Refseth",
-      "foedselsdato": "/Date(188956800000+0100)/",
+      "foedselsdato": "/Date(188953200000+0100)/",
       "fornavn": "Anniken",
       "id": "ANNREF",
       "kjoenn": 1,
@@ -224,6 +224,7 @@
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
+- **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)

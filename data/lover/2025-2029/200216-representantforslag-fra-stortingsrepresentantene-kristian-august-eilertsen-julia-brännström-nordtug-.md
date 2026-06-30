@@ -1,4 +1,4 @@
-<!-- innholds-hash: 15bf0d258079d49507a3b8c103712076a90948940b7c4d2811e93f9c3dd4d368 -->
+<!-- innholds-hash: 6158bf089129020fc4ee176cb1a884ddf872dcd8f5824ec454425742dc531930 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Bård Hoksrud, Stig Atle Abrahamsen og Anne Grethe Hauan om beskyttelse av spedbarn mot RS-virus
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T15:13:25Z
+- **Sist hentet:** 2026-06-29T20:51:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200216
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782745948483+0200)/",
+  "respons_dato_tid": "/Date(1782764968376+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,11 +35,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
-      "foedselsdato": "/Date(-106963200000+0200)/",
+      "foedselsdato": "/Date(-106970400000+0200)/",
       "fornavn": "Anne Grethe",
       "id": "AGHA",
       "kjoenn": 1,
@@ -60,11 +60,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101948400000+0200)/",
+      "foedselsdato": "/Date(101944800000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -165,7 +165,7 @@
   "innstilling_id": 17511,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782745837485+0200)/",
+    "respons_dato_tid": "/Date(1782764961340+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -174,11 +174,11 @@
   "sak_fremmet_id": 200216,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782745948483+0200)/",
+      "respons_dato_tid": "/Date(1782764968376+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
-      "foedselsdato": "/Date(-224380800000+0100)/",
+      "foedselsdato": "/Date(-224384400000+0100)/",
       "fornavn": "Ragnhild",
       "id": "RAGBER",
       "kjoenn": 1,
@@ -276,6 +276,7 @@
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
+- **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
