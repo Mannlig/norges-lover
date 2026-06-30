@@ -1,4 +1,4 @@
-<!-- innholds-hash: 93ba2ff246b83c6f629fb53ac4a5e0b8e11730f56a90116a42e7bfdf98016af6 -->
+<!-- innholds-hash: 22434c19730a436f7ecc1775bdda73667693f899b1e519936b42f310a856889c -->
 
 # Rapport til Stortinget fra Norges Banks representantskap for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T20:51:06Z
+- **Sist hentet:** 2026-06-30T08:32:26Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782764968360+0200)/",
+  "respons_dato_tid": "/Date(1782807633674+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782764968360+0200)/",
+      "respons_dato_tid": "/Date(1782807633674+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17491,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782764961340+0200)/",
+    "respons_dato_tid": "/Date(1782807620906+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200269,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782764968360+0200)/",
+      "respons_dato_tid": "/Date(1782807633674+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -57,14 +57,14 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782730947684+0200)/",
+        "respons_dato_tid": "/Date(1782804001640+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782687744857+0200)/",
+        "respons_dato_tid": "/Date(1782804001468+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -149,3 +149,4 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-06-30** Innhold endret (se git-historikk for diff)

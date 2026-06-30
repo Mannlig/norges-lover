@@ -1,4 +1,4 @@
-<!-- innholds-hash: 54f33d6037fde398a138844a175a91337b51635384e785f8e85d574a7f9f8028 -->
+<!-- innholds-hash: a98e410d236d3e96c9aabeb636d5509ed55f3119edfb3e785f489c436f7bf960 -->
 
 # Endringer i trossamfunnsloven mv. (taushetsplikt)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-29T20:51:06Z
+- **Sist hentet:** 2026-06-30T08:32:26Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200351
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782764968360+0200)/",
+  "respons_dato_tid": "/Date(1782807633642+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782764961340+0200)/",
+    "respons_dato_tid": "/Date(1782807620906+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200351,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782764968360+0200)/",
+      "respons_dato_tid": "/Date(1782807633642+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -47,14 +47,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782730947684+0200)/",
+        "respons_dato_tid": "/Date(1782804001640+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782687744857+0200)/",
+        "respons_dato_tid": "/Date(1782804001468+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -125,3 +125,4 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-06-30** Innhold endret (se git-historikk for diff)
