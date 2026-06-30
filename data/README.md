@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-06-30 12:09 UTC*
+*Sist oppdatert: 2026-06-30 18:00 UTC*
 
 **Antall dokumenter:** 6423
 
