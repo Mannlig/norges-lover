@@ -1,4 +1,4 @@
-<!-- innholds-hash: accf52488cc9b34a44be4acfea1128cb3fab85e4db74d3f3bb2fd29ee7404241 -->
+<!-- innholds-hash: 4570f4c4c2bd7e2f3a14b0e6b848e2decdf9155ebcad5784c4fbc7b78328ece5 -->
 
 # Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Trygve Slagsvold Vedum og Geir Inge Lien om sterkere tiltak for å forebygge og avdekke bruk av narkotika
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-06-30T20:01:40Z
+- **Sist hentet:** 2026-07-01T01:38:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200213
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782847807635+0200)/",
+  "respons_dato_tid": "/Date(1782867748271+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -62,14 +62,14 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782844152103+0200)/",
+        "respons_dato_tid": "/Date(1782867672019+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782804001468+0200)/",
+        "respons_dato_tid": "/Date(1782860417461+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -87,14 +87,14 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782844152103+0200)/",
+        "respons_dato_tid": "/Date(1782867672019+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782804001468+0200)/",
+        "respons_dato_tid": "/Date(1782860417461+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
@@ -112,14 +112,14 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782844152103+0200)/",
+        "respons_dato_tid": "/Date(1782867672019+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782804001468+0200)/",
+        "respons_dato_tid": "/Date(1782860417461+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -133,7 +133,7 @@
   "innstilling_id": 17500,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782847767900+0200)/",
+    "respons_dato_tid": "/Date(1782867627690+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200213,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782847807635+0200)/",
+      "respons_dato_tid": "/Date(1782867748271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -151,14 +151,14 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782844152103+0200)/",
+        "respons_dato_tid": "/Date(1782867672019+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782804001468+0200)/",
+        "respons_dato_tid": "/Date(1782860417461+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -249,3 +249,4 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
