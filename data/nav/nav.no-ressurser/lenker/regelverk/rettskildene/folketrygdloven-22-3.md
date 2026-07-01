@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2839686b66efdb1ff9bfaa2c79142afe05add5dc388c2139e606f85da1ba68f8 -->
+<!-- innholds-hash: 4dbe8c750f051c6f07b5bc7bd229b9e9f6d539b2d3f074509f4515b86be05ac5 -->
 
 # Kapittel 22. Utbetaling
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-22-3
-- **Sist hentet:** 2026-06-15T08:54:29Z
+- **Sist hentet:** 2026-07-01T16:13:20Z
 
 ## Innhold
 
@@ -98,13 +98,13 @@ Følgende ytelser utbetales som engangsbeløp:
 
 - stønad ved helsetjenester (
 - gravferdsstønad, stønad til båretransport og stønad ved dødsfall i utlandet (
-- engangsstønad ved fødsel og adopsjon (§ 14-17)
+- engangsstønad ved fødsel og adopsjon
 Følgende ytelser gis pr. dag og utbetales vanligvis etterskottsvis hver måned:
 
 - sykepenger (
-- omsorgspenger ved barns sykdom (§§ 9-5 til 9-9)
-- opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn (§ 9-14)
-- pleiepenger for pleie av barn og nærstående (§§ 9-10 til 9-13)
+- omsorgspenger ved barns sykdom (
+- opplæringspenger ved kurs for et medlem med omsorg for et funksjonshemmet barn
+- pleiepenger for pleie av barn og nærstående (
 - svangerskapspenger (
 - foreldrepenger (
 Følgende ytelser gis pr. måned og utbetales innen utgangen av måneden:
@@ -119,9 +119,9 @@ Følgende ytelser gis pr. måned og utbetales innen utgangen av måneden:
 - alderspensjon (
 Følgende ytelser kan utbetales enten som engangsbeløp eller som løpende ytelser:
 
-- stønad til bedring av funksjonsevnen (§§ 10-5 til 10-7)
+- stønad til bedring av funksjonsevnen (
 - tilleggsstønader (
-- tilleggsstønader og stønad til skolepenger mv. (
+- tilleggsstønader og stønad til skolepenger m.m. (
 - menerstatning ved yrkesskade (§ 13-17).
 Feriepenger av ytelser etter
 
@@ -155,7 +155,7 @@ En ytelse som gis pr. dag eller pr. måned, se
 Det gjelder følgende unntak fra bestemmelsen i tredje ledd:
 
 - Barnepensjon etter
-- Overgangsstønad til enslig mor gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se
+- Overgangsstønad til enslig mor eller far gis for tidsrommet før fødselen dersom kravet blir satt fram innen tre måneder etter barnets fødsel, se
 - Alderspensjon etter
 Dagpenger under arbeidsløshet etter
 
@@ -267,3 +267,4 @@ Dersom en stønad som gis som et engangsbeløp utgjør mindre enn 50 kroner, ska
 ## Endringshistorikk
 
 - **2026-06-15** Første gang hentet
+- **2026-07-01** Innhold endret (se git-historikk for diff)
