@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c86d8d91597806d97ac53ae4b1bffe90c839df23aa5210d970fa0eaf5a0607d -->
+<!-- innholds-hash: 0312af7a6ce1b5efef4cab879090c654737dc47217e59664998543fb7f8946f5 -->
 
 # Representantforslag fra stortingsrepresentant Siren Julianne Jensen om å etablere et skulpturmuseum i Nasjonalgalleriet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T13:17:02Z
+- **Sist hentet:** 2026-07-01T18:55:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200176
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782911428467+0200)/",
+  "respons_dato_tid": "/Date(1782929548459+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -74,7 +74,7 @@
   "innstilling_id": 17419,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782911187784+0200)/",
+    "respons_dato_tid": "/Date(1782929427747+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200176,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -189,6 +189,7 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)

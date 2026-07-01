@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5ad382645a964a71ac5c683d2669ef5bb669d98decd8ec9a6e5a9325887b9a4 -->
+<!-- innholds-hash: e91726fdb7b8ea33dd9946e4649eeb467b2c30a11d1e37528e94946a4d3f4d39 -->
 
 # Statsrådets protokoller for tidsrommet 1. juli-31. desember 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T13:17:02Z
+- **Sist hentet:** 2026-07-01T18:55:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107343
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782911428436+0200)/",
+  "respons_dato_tid": "/Date(1782929548459+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428451+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -39,7 +39,7 @@
   "innstilling_id": 17455,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782911187784+0200)/",
+    "respons_dato_tid": "/Date(1782929427747+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 107343,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -73,7 +73,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -98,7 +98,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -123,7 +123,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -148,7 +148,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -173,7 +173,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandnes",
@@ -198,7 +198,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -223,7 +223,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rem",
@@ -248,7 +248,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
@@ -273,7 +273,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -298,7 +298,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
@@ -323,7 +323,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -348,7 +348,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428436+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aukrust",
@@ -373,7 +373,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428451+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -461,6 +461,7 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)

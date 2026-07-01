@@ -1,4 +1,4 @@
-<!-- innholds-hash: c0150ef8bd172e2f62583069dd09ff3fdd5cc1055c7e0bdcf3395588dbed9b3a -->
+<!-- innholds-hash: 292a2f485d518ae197d3bbca5f767f9a01c01fe2807eb84644b25b4f18d8c71f -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe, Bengt Fasteraune og Bent-Joacim Bentzen om et gratis og likeverdig kremasjonstilbud
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T13:17:02Z
+- **Sist hentet:** 2026-07-01T18:55:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200141
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782911428467+0200)/",
+  "respons_dato_tid": "/Date(1782929548459+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 105,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -115,7 +115,7 @@
   "innstilling_id": 17413,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782911187784+0200)/",
+    "respons_dato_tid": "/Date(1782929427747+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200141,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428467+0200)/",
+      "respons_dato_tid": "/Date(1782929548459+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Estil",
@@ -227,6 +227,7 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)

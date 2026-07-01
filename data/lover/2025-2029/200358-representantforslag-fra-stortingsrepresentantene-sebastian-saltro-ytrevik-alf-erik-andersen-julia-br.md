@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9aab403ea155d8ba19771159e5a0dd9078fa6f33d4e5085d1d5f8b4e4d718bab -->
+<!-- innholds-hash: cfced079db3c03c9cc92ec91728aea5dd81a59070356ba3b29893f1e9e91e716 -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T13:17:02Z
+- **Sist hentet:** 2026-07-01T18:55:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782911428311+0200)/",
+  "respons_dato_tid": "/Date(1782929548334+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
@@ -158,7 +158,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782911187784+0200)/",
+    "respons_dato_tid": "/Date(1782929427747+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -216,6 +216,7 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)

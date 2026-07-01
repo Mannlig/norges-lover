@@ -1,4 +1,4 @@
-<!-- innholds-hash: d4dfa60e4e694227d125dc159f6af8f28d1ad7c0a28a71b9d67c7bf03723ea12 -->
+<!-- innholds-hash: 80be7088c68eea750c46d63a265f2401ee307541995797e16be04f21d6e9a8c3 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T13:17:02Z
+- **Sist hentet:** 2026-07-01T18:55:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782911428311+0200)/",
+  "respons_dato_tid": "/Date(1782929548334+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782911428311+0200)/",
+      "respons_dato_tid": "/Date(1782929548334+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1782911187784+0200)/",
+    "respons_dato_tid": "/Date(1782929427747+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -198,6 +198,7 @@
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
 - **2026-06-30** Innhold endret (se git-historikk for diff)
+- **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
