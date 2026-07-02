@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1fb5620d5c27371b65a959c237a284c0d3fd9f68c8d7112c9b77309dfe0c337b -->
+<!-- innholds-hash: 1807150148b35f36720557adf9710b09d0770b414bced2d96a90c904acf66677 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg og Hege Bae Nyholt om å avvikle anbudssystemet i institusjonsbarnevernet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T18:55:40Z
+- **Sist hentet:** 2026-07-02T00:45:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200150
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782929548459+0200)/",
+  "respons_dato_tid": "/Date(1782950428437+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428437+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428437+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -44,14 +44,14 @@
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428437+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -69,14 +69,14 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -90,7 +90,7 @@
   "innstilling_id": 17415,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782929427747+0200)/",
+    "respons_dato_tid": "/Date(1782950425640+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200150,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428437+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
@@ -108,14 +108,14 @@
       "id": "SIHJE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -206,3 +206,4 @@
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
+- **2026-07-02** Innhold endret (se git-historikk for diff)

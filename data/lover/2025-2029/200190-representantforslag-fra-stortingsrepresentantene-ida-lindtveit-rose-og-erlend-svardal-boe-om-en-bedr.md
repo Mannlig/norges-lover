@@ -1,4 +1,4 @@
-<!-- innholds-hash: f684ff8d0008d37b2b18100d409040f6e45dc83c5e5e64090c15d6e5f0e60143 -->
+<!-- innholds-hash: 8f7fe44c3933103ecd9b98203b43aeeb9efb13452dfea4d76eae70993b8729b8 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse og Erlend Svardal Bøe om en bedre oppfølging av foreldre som venter barn med funksjonsvariasjon
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-01T18:55:40Z
+- **Sist hentet:** 2026-07-02T00:45:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200190
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1782929548459+0200)/",
+  "respons_dato_tid": "/Date(1782950428484+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
@@ -62,14 +62,14 @@
       "id": "ERLBE1",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -87,14 +87,14 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -108,7 +108,7 @@
   "innstilling_id": 17514,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1782929427747+0200)/",
+    "respons_dato_tid": "/Date(1782950425640+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -117,7 +117,7 @@
   "sak_fremmet_id": 200190,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1782929548459+0200)/",
+      "respons_dato_tid": "/Date(1782950428484+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -126,14 +126,14 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1782910872498+0200)/",
+        "respons_dato_tid": "/Date(1782946818259+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1782860417461+0200)/",
+        "respons_dato_tid": "/Date(1782946817603+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -229,3 +229,4 @@
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
 - **2026-07-01** Innhold endret (se git-historikk for diff)
+- **2026-07-02** Innhold endret (se git-historikk for diff)
