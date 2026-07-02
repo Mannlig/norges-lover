@@ -2,9 +2,9 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-07-02 16:01 UTC*
+*Sist oppdatert: 2026-07-02 21:43 UTC*
 
-**Antall dokumenter:** 6423
+**Antall dokumenter:** 6434
 
 ## Innhold
 
@@ -6332,6 +6332,17 @@ Lovdata
 - [R-7-5.21 Skogeier/skogsarbeider](skatt/rettskilder/type/handboker/skatte-abc/2023/r-7-reise--avgrensning-mellom-arbeidsreiser-besoksreiser-og-yrkesreiser/R-7.025/R-7.046.md)
 - [R-7-5.22 Styremøter](skatt/rettskilder/type/handboker/skatte-abc/2023/r-7-reise--avgrensning-mellom-arbeidsreiser-besoksreiser-og-yrkesreiser/R-7.025/R-7.047.md)
 - [R-7-5.23 Stortingsrepresentanter](skatt/rettskilder/type/handboker/skatte-abc/2023/r-7-reise--avgrensning-mellom-arbeidsreiser-besoksreiser-og-yrkesreiser/R-7.025/R-7.048.md)
+- [R-7-5.25 Vaktmester](skatt/rettskilder/type/handboker/skatte-abc/2023/r-7-reise--avgrensning-mellom-arbeidsreiser-besoksreiser-og-yrkesreiser/R-7.025/R-7.050.md)
+- [R-7-5.26 Vikarbyråer](skatt/rettskilder/type/handboker/skatte-abc/2023/r-7-reise--avgrensning-mellom-arbeidsreiser-besoksreiser-og-yrkesreiser/R-7.025/R-7.051.md)
+- [R-8-1 Generelt](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.001.md)
+- [R-8-2.1 Standardisert avstandsfradrag for reise til hjem i Norge eller i annet land innenfor EØS-området](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.003.md)
+- [R-8-2.2 Fradrag for dokumenterte reisekostnader til hjem utenfor EØS-området](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.004.md)
+- [R-8-2.3 Begrensing av årlig fradrag for reiser etter sktl. § 6‑44](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.005.md)
+- [R-8-2.4 Parkeringskostnader](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.008.md)
+- [R-8-2.5 Arbeidsgiver besørger hele eller deler av transporten](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.009.md)
+- [R-8-2.6 Bruk av egen yrkesbil](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.012.md)
+- [R-8-2.7 Ektefeller](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.013.md)
+- [R-8-2.8 Kameratkjøring](skatt/rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.014.md)
 - [Skatte-ABC 2023](skatt/rettskilder/type/handboker/skatte-abc/2023.md)
 - [Skatte-ABC](skatt/rettskilder/type/handboker/skatte-abc.md)
 - [Håndbøker](skatt/rettskilder/type/handboker.md)
