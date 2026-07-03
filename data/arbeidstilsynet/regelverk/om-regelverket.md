@@ -1,4 +1,4 @@
-<!-- innholds-hash: 875dec12c71b3b73d9209cbe6db9fb7a384f58d82ce2c1587853e4c3eb3ad5a5 -->
+<!-- innholds-hash: ab3ea499561cda47a5993dc0f48d6019d9966656165674a5812f9b4efe633701 -->
 
 # Om regelverket
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/om-regelverket/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T00:46:54Z
+- **Sist hentet:** 2026-07-03T11:26:12Z
 
 ## Innhold
 
@@ -260,7 +260,7 @@ Forskriften pålegger også hovedleverandør en plikt til å påse at lønns- og
 
 Tillitsvalgte hos hovedleverandør har også en rett til å begjære innsyn i at lønns- og arbeidsvilkår hos virksomhetens underleverandører følger gjeldende allmenngjøringsforskrift.
 
-Forskriften gjelder oppdragsgiver i statlige, kommunale og fylkeskommunale myndigheter og offentligrettslige organer.
+Lovens krav til lønns- og arbeidsvilkår gjelder for statlige, kommunale og fylkeskommunale oppdragsgivere samt offentligrettslige organer, ved anskaffelser over nasjonal terskelverdi.
 
 Merk at forskriften også har bestemmelser om utsending av norske arbeidstakere til EØS-området.
 
@@ -359,3 +359,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)

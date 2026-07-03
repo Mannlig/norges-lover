@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f0e0bdfaf063208e90dcb72655a9efa05a0c144ee15702c979e23994b2808b2 -->
+<!-- innholds-hash: 649001061e427346b754efd2fe8eb2128fd74529d4e24aad9ed06d7d324f8bb8 -->
 
 # Vold og trusler på arbeidsplassen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/vold-og-trusler/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T00:22:43Z
+- **Sist hentet:** 2026-07-03T11:10:40Z
 
 ## Innhold
 
@@ -200,6 +200,8 @@ Nyansatte og uerfarne er mer utsatt for vold og trusler enn erfarne arbeidstaker
 
 Alle arbeidsplasser må ha gode rutiner og systemer for å kunne forebygge, håndtere og følge opp hendelser med vold og trusler. Det gjelder spesielt virksomheter der dette er en kjent risiko, selv om de ikke allerede har hatt volds- eller trusselhendelser.
 
+Alle rutiner og tiltak må tilpasses arbeidsplassen ut fra risikoforholdene som er avdekket i kartleggingen.
+
 Det er arbeidsgivers ansvar å sørge for at arbeidstakerne så godt det er mulig blir beskyttet mot vold og trusler.
 
 Arbeidsgivere skal forebygge på samme systematiske måte som de forebygger andre risikoforhold på arbeidsplassen.
@@ -264,10 +266,8 @@ Hvis virksomheten har arbeidsoppgaver eller er i en bransje som er utsatt for vo
 - Utstyr utsatte ansatte med personlig overfallsalarm.
 - Opprett interntelefon for enkel kontakt.
 - Innfør adgangsbegrensning med adgangskort, kodelås eller likende.
-Alle rutiner og tiltak må tilpasses arbeidsplassen ut fra risikoforholdene som er avdekket i kartleggingen.
 
-
-#### Sørg for gode rutiner
+### Sørg for gode rutiner
 
 En volds- eller trusselhendelse er en akuttsituasjon. Det krever at dere har gjort et godt forarbeid og har på plass
 
@@ -295,12 +295,12 @@ Det er i dag store mørketall knyttet til rapportering av vold og trusler. Dette
 Rapportering og registrering er viktig for å synliggjøre problemet og omfanget av tilfellene, slik at det kan settes i verk forebyggende tiltak. Samtidig bidrar det til å øke kunnskap om vold og trusler i samfunnet generelt.
 
 
-#### Lag skriftlig instruks hvis arbeidet kan innebære særlig fare for liv eller helse
+### Lag skriftlig instruks hvis arbeidet kan innebære særlig fare for liv eller helse
 
 Hvis kartleggingen og risikovurderingen viser at arbeidet kan innebære særlig fare for liv eller helse, har arbeidsgiver plikt til å lage en
 
 
-#### Hva kan arbeidstaker gjøre?
+### Hva kan arbeidstaker gjøre?
 
 - Spør arbeidsgiver om mulige farer på arbeidsplassen eller i arbeidet du gjør.
 - Still krav om rutiner som hjelper deg å håndtere og registrere vold og trusler.
@@ -447,7 +447,7 @@ Søk hjelp dersom du etter tre–fire uker
 - Tenk på vedkommendes selvbilde og opplevelse av kontroll over situasjonen.
 - Ta deg god tid og varsle leder eller kollegaer hvis det er mulig.
 
-### Kollegaer: slik kan du støtte en kollega som er rammet av vold og trusler
+### Kollega: slik kan du støtte en kollega som er rammet av vold og trusler
 
 Mange som er utsatt for arbeidsrelatert vold, opplever at kollegaer og omgivelsene rundt, ikke forstår hvordan krisen rammer. Et systematisk opplegg for kollegastøtte kan forebygge slike problemer.
 
@@ -468,7 +468,7 @@ Kollegastøtte er ikke
 - å gå inn på personlige forhold eller forhold som ligger utenfor den aktuelle situasjonen
 - å snakke om sine egne erfaringer
 
-### Les mer
+### Mer informasjon
 
 
 ### Regelverk
@@ -485,3 +485,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-07-03 03:39 UTC*
+*Sist oppdatert: 2026-07-03 11:41 UTC*
 
 **Antall dokumenter:** 732
 
@@ -134,12 +134,12 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/b.md)
 - [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/d.md)
 - [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/f.md)
-- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1.md)
+- [§ 16-1. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1.md)
 - [§ 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-2.md)
-- [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for heis for personer med yrkeskvalifikasjoner fra annen EØS-stat](regelverk/byggteknisk-forskrift-tek17/16/16-3.md)
+- [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for personer med yrkeskvalifikasjoner fra andre land](regelverk/byggteknisk-forskrift-tek17/16/16-3.md)
 - [§ 16-4. Midlertidig utøvelse av sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-4.md)
 - [§ 16-5. Språkkrav](regelverk/byggteknisk-forskrift-tek17/16/16-5.md)
-- [§ 16-6. Installasjonsregister](regelverk/byggteknisk-forskrift-tek17/16/16-6.md)
+- [§ 16-6. Nasjonalt installasjonsregister](regelverk/byggteknisk-forskrift-tek17/16/16-6.md)
 - [§ 16-7. Administrativt samarbeid](regelverk/byggteknisk-forskrift-tek17/16/16-7.md)
 - [§ 16-8. Prisregulering](regelverk/byggteknisk-forskrift-tek17/16/16-8.md)
 - [Innledning til kapittel 16 Sikkerhetskontroll av heis](regelverk/byggteknisk-forskrift-tek17/16/innledning.md)

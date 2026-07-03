@@ -1,4 +1,4 @@
-<!-- innholds-hash: ab309a8505bbb6c9dd3d15e5ddaa11de34bdeaa00ea83db2e6d0df92e492a7b1 -->
+<!-- innholds-hash: 4738ddb220c8346e3677c65058faee7ff60dde643a8e24874dfc2ddbe8147d30 -->
 
 # Revidert nasjonalbudsjett 2026
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-02T23:44:10Z
+- **Sist hentet:** 2026-07-03T05:39:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200314
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783033222157+0200)/",
+  "respons_dato_tid": "/Date(1783055068237+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783033222157+0200)/",
+      "respons_dato_tid": "/Date(1783055068237+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17546,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783033219093+0200)/",
+    "respons_dato_tid": "/Date(1783054833577+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200314,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783033222157+0200)/",
+      "respons_dato_tid": "/Date(1783055068237+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -153,3 +153,4 @@
 - **2026-07-02** Innhold endret (se git-historikk for diff)
 - **2026-07-02** Innhold endret (se git-historikk for diff)
 - **2026-07-02** Innhold endret (se git-historikk for diff)
+- **2026-07-03** Innhold endret (se git-historikk for diff)

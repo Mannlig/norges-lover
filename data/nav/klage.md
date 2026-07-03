@@ -1,11 +1,11 @@
-<!-- innholds-hash: b20728e694125377923c050d7a6865a496a2423596b914a70d45c9c85833749e -->
+<!-- innholds-hash: 33435db44d6fdc4455248016d9d58965b764b39caf119498965e67b703688f12 -->
 
 # Klage og anke - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/klage
-- **Sist hentet:** 2026-06-10T04:17:14Z
+- **Sist hentet:** 2026-07-03T09:32:39Z
 
 ## Innhold
 
@@ -303,7 +303,7 @@ Hjelpemidler som ortose, protese, ortopediske sko, parykk, øyeprotese eller ans
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -428,7 +428,7 @@ Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
 
 #### Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 #### Søk om frivillig medlemskap under opphold i Norge
@@ -554,3 +554,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 - **2026-05-15** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-07-03** Innhold endret (se git-historikk for diff)

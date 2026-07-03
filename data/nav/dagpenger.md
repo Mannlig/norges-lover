@@ -1,11 +1,11 @@
-<!-- innholds-hash: 85edc0528c3677b7d520b310244036faf3d04b1be26a37344bc6fc02b635af7e -->
+<!-- innholds-hash: fc46958b7b6900a44e43b64cf38e145d16b58a6ba443939f81c8a91f5ddc5ea3 -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist hentet:** 2026-06-18T09:34:52Z
+- **Sist hentet:** 2026-07-03T09:15:22Z
 
 ## Innhold
 
@@ -632,7 +632,7 @@ Det er ulike regler for hvordan du skal fylle ut meldekortet ditt. Les mer om
 
 #### Hva skjer hvis du ikke sender meldekort?
 
-Hvis du ikke sender meldekortet innen fristen, får du trekk i utbetalingen. Går det mer enn 20 dager fra du sendte forrige meldekort, stanser vi dagpengene dine. Da må du søke om dagpenger på nytt.
+Hvis du ikke sender meldekortet innen fristen, får du stans eller trekk i dagpengene dine. Hvis dagpengene dine stanser, må du søke på nytt.
 
 Å være reell arbeidssøker vil si at du må
 
@@ -1030,7 +1030,7 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med
 
 Ønsker du
 
-Oppdatert 01.06.2026
+Oppdatert 18.06.2026
 
 
 #### Chat med oss
@@ -1061,3 +1061,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-03** Innhold endret (se git-historikk for diff)

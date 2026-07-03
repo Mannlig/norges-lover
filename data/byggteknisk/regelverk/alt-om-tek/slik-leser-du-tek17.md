@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7d300ed59575aaa702e5c2627b2b103b08f56a0a0f5c62f1f3514b9c0f3778f0 -->
+<!-- innholds-hash: 8cb078769392c9394f2353b032118f030f617a8035e0922e3b2576e5fd4bff24 -->
 
 # Slik leser du byggteknisk forskrift
 
@@ -6,8 +6,8 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/alt-om-tek/slik-leser-du-tek17/
 - **Sist oppdatert (kilde):** Sist endret
-        29.06.2017
-- **Sist hentet:** 2026-05-16T14:49:35Z
+        01.07.2026
+- **Sist hentet:** 2026-07-03T07:32:42Z
 
 ## Innhold
 
@@ -52,7 +52,7 @@ Preaksepterte ytelser er gitt av Direktoratet for byggkvalitet, og er ytelser so
 
 Dør beregnet for manuell åpning må ha fri sideplass på minimum 0,3 meter ved dørens låskant på begge sider av døren.
 
-I de fleste byggeprosjekter vil det som regel være hensiktsmessig å legge de preaksepterte ytelsene til grunn. Der det velges alternativer til disse ytelsene, må den ansvarlig prosjekterende dokumentere ved analyse at funksjonskravet er oppfylt. De alternative ytelsene må samlet sett gi minst samme kvalitet og sikkerhet som om de preaksepterte ytelsene var fulgt. Omfanget av analysen avhenger av hvor omfattende fraviket er fra de preaksepterte ytelsene. Det skal gjøres en vurdering av hvilke konsekvenser fraviket får for de berørte områdene.
+I de fleste byggeprosjekter vil det som regel være hensiktsmessig å legge de preaksepterte ytelsene til grunn. Der det velges alternativer til disse ytelsene, må den ansvarlig prosjekterende dokumentere ved analyse at funksjonskravet er oppfylt.
 
 
 ### Tekniske løsninger kan være forhåndsdokumenterte
@@ -78,3 +78,4 @@ I en del tilfeller er standardene angitt i forskriften. I andre tilfeller er de 
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)

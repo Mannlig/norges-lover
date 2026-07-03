@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7a546026de00d5eb770d251a6f6b30878d7f02d830e254f012be9635cf65f965 -->
+<!-- innholds-hash: 5bdef22b43fea3f06f5bf136c14d0a57c95ca991467d5c40ad212c7d62ec640c -->
 
 # Informasjonskapsler og tilsvarende teknologi på nav.no - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/informasjonskapsler
-- **Sist hentet:** 2026-06-18T09:50:20Z
+- **Sist hentet:** 2026-07-03T09:31:15Z
 
 ## Innhold
 
@@ -61,32 +61,6 @@ Vi bruker Lumi til å gjennomføre frivillige spørreundersøkelser for spesifik
 #### lumi-*
 
 Brukes av verktøyet Lumi for å huske om du har svart på en spørreundersøkelse eller valgt å ikke svare, slik at du ikke får samme spørreundersøkelse flere ganger. Dette lagres lokalt i nettleseren din, og slettes automatisk etter 30 dager.
-
-Vi bruker Task Analytics til å gjennomføre spørreundersøkelser. Undersøkelsene gir oss blant annet innsikt i hva folk kommer til nav.no for å gjøre, om de får løst oppgaven sin, og hva som eventuelt hindrer dem. Denne informasjonen hjelper oss å forbedre innhold og tjenester, slik at det blir enklere for alle å finne det de trenger.
-
-
-#### _tajs*
-
-Brukes bare hvis du har takket ja til å være med på en undersøkelse via verktøyet Task Analytics. Dataene inneholder hvilken undersøkelse du takket ja til, slik at du senere kan begynne på undersøkelsen når det passer.
-
-Lagres bare midlertidig mens du bruker nettsiden eller tjenestene våre, og slettes automatisk når du lukker nettleseren.
-
-
-#### ta-dekoratoren-*
-
-Dataene inneholder en teknisk ID som husker om en invitasjon til å delta i en spørreundersøkelse allerede har blitt vist, slik at du ikke får se samme invitasjon flere ganger.
-
-Lagres i maks 90 dager før den slettes.
-
-
-#### Hvilke andre typer data lagres?
-
-- Nettleser og versjon
-- Operativsystem
-- Type enhet, for eksempel mobil eller PC
-- Nettadressen du besøkte før og etter spørreskjemaet
-- Svarene du gir i spørreskjemaet
-IP-adresse brukes kun til teknisk overvåking og sikkerhet. Den lagres ikke sammen med svarene du gir på undersøkelsen, slik at dataene forblir anonyme og ikke kobles til deg som person.
 
 Vi bruker Skyra til å gjennomføre spørreundersøkelser. Undersøkelsene gir oss blant annet innsikt i hva brukerne kommer for å gjøre, om de får løst oppgaven sin, og hva som eventuelt hindrer dem. Denne informasjonen hjelper oss å forbedre innhold og tjenester, slik at det blir enklere for alle å finne det de trenger.
 
@@ -288,7 +262,7 @@ Har du spørsmål om personvern eller dine rettigheter, kan du ta kontakt med
 
 Du har rett til å klage til Datatilsynet hvis du mener måten vi behandler personopplysninger på er i strid med personvernreglene.
 
-Oppdatert 18.06.2026
+Oppdatert 29.06.2026
 
 
 ---
@@ -298,3 +272,4 @@ Oppdatert 18.06.2026
 
 - **2026-05-15** Første gang hentet
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-03** Innhold endret (se git-historikk for diff)

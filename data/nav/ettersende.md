@@ -1,11 +1,11 @@
-<!-- innholds-hash: 055aabd1a2177f36bc5cf3c6cf98979009f3278f672086fa3e303a5bf9665892 -->
+<!-- innholds-hash: 6201dd59ff6595aa2142ceeab7651efd5b3ccd4c2f831f03c1531595d758e1b5 -->
 
 # Ettersende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ettersende
-- **Sist hentet:** 2026-06-10T04:01:51Z
+- **Sist hentet:** 2026-07-03T09:17:25Z
 
 ## Innhold
 
@@ -379,7 +379,7 @@ Krigspensjon er en kompensasjon for nedsatt arbeidsevne på grunn av skader som 
 Hjelper deg med lesing og skriving når du er blind eller svaksynt.
 
 
-#### Lydutjevningsanlegg
+#### Lydoverføringsanlegg
 
 Bidrar til at du får med deg det som blir sagt når du er i rom med mange lydforstyrrelser.
 
@@ -486,7 +486,7 @@ Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet ell
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -696,7 +696,7 @@ Gir bedre fremkommelighet og større muligheter i hverdagen.
 
 #### Særbidrag (tidligere bidrag til særlige utgifter)
 
-Særbidrag (tidligere bidrag til særlige utgifter) dekker ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel  konfirmasjon, briller eller tannregulering.
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
 
 #### Søk om frivillig medlemskap under opphold i Norge
@@ -907,3 +907,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 - **2026-05-15** Første gang hentet
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-07-03** Innhold endret (se git-historikk for diff)

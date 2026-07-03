@@ -1,11 +1,11 @@
-<!-- innholds-hash: de18a62589270f53254a0aca465253366ecbeed47930eb1a1a098e6b00acc96d -->
+<!-- innholds-hash: 743ceff6b516d7d37bbb0f53f9a70309a1ac41c4a32232d67b149675d696c508 -->
 
 # Søke jobb i EU/EØS og Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbsok-eu
-- **Sist hentet:** 2026-05-15T09:02:57Z
+- **Sist hentet:** 2026-07-03T09:31:58Z
 
 ## Innhold
 
@@ -117,7 +117,7 @@ Har du spørsmål eller trenger råd, kan du sende en e-post til
 
 Har du brukt EURES for å søke jobb i et annet EU-/EØS-land eller Sveits? Da ønsker vi din tilbakemelding!
 
-Oppdatert 06.05.2026
+Oppdatert 22.06.2026
 
 
 ---
@@ -126,3 +126,4 @@ Oppdatert 06.05.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)

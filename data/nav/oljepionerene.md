@@ -1,11 +1,11 @@
-<!-- innholds-hash: bec84413641f4a8985083f83008c705606c843edd79de32329c47f2b52ac8a7b -->
+<!-- innholds-hash: 8e3ff6ee8d09186d0a018b734add2e60f15c31ea7b4f869dac4faa76af3db518 -->
 
 # Oljepionerene - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oljepionerene
-- **Sist hentet:** 2026-05-15T09:07:59Z
+- **Sist hentet:** 2026-07-03T09:38:57Z
 
 ## Innhold
 
@@ -65,7 +65,7 @@ Det er ikke alle sykdommer som gir rett til kompensasjon. Følgende sykdommer er
 - Akutt myelogen leukemi (en type akutt blodkreft)
 - Myelodysplastisk neoplasi (beinmargssvikt, kan være forstadium til blodkreft)
 - Myelomatose (beinmargskreft)
-- Kronisk lymfatisk leukemi (en type blodkreft)
+- Non Hodgkin lymfom (en type lymfekreft)
 - Lungekreft
 - Mesoteliom (lungehinnekreft eller bukhinnekreft)
 - Eggstokkreft
@@ -153,7 +153,7 @@ Telefonnummeret betjenes av Nav kontaktsenter på vegne av Oljepionernemnda og h
 
 ### Lenker
 
-Oppdatert 11.02.2026
+Oppdatert 24.06.2026
 
 
 ---
@@ -162,3 +162,4 @@ Oppdatert 11.02.2026
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)

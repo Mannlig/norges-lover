@@ -1,4 +1,4 @@
-<!-- innholds-hash: d1e64fa740f9a3de44eba74b65cf4bebe2e3272f054635728b0b7967717bdc74 -->
+<!-- innholds-hash: 39fe7a9e3b927278d0c5aee2fdeb8c28482eeb7d0d23c8fdf7ccbe959631f461 -->
 
 # Internkontroll - systematisk arbeid med helse, miljø og sikkerhet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/internkontroll/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T00:33:18Z
+- **Sist hentet:** 2026-07-03T11:17:27Z
 
 ## Innhold
 
@@ -36,7 +36,7 @@ I tillegg til den jamlege oppfølginga med kartlegging og tiltak, må bedrifta
 
 ### Kven gjeld forskrifta for?
 
-Internkontrollforskrifta gjeld for alle verksemder som blir omfatta av bestemde lover som behandlar ulike helse-, miljø- eller sikkerheitsomsyn.
+Internkontrollforskrifta gjeld for alle verksemder som blir omfatta av bestemde lover som behandlar ulike helse-, miljø- eller sikkerheitsomsyn.
 
 Du kan gå ut frå at forskrifta gjeld for bedrifta dykkar, så sant de produserer, sel eller tilbyr varer og tenester. Først og fremst er internkontroll arbeidsgivaren sitt ansvar, men alle tilsette har både rettar og plikter i samband med HMS-arbeidet.
 
@@ -82,3 +82,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-03** Innhold endret (se git-historikk for diff)
