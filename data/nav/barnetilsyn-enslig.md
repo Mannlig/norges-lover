@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5e2f9bbede48291680c530e53566875440a8e47f7ba36e5b34b8080fcb2f9adb -->
+<!-- innholds-hash: c21fadc2d4aac6cfb11e18b08e6663bf5953862380c253999e586a39263cf0cf -->
 
 # Stønad til barnetilsyn for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig
-- **Sist hentet:** 2026-06-27T00:16:37Z
+- **Sist hentet:** 2026-07-04T22:52:02Z
 
 ## Innhold
 
@@ -28,13 +28,16 @@ Det finnes også informasjon om stønad til barnetilsyn for enslig mor eller far
 
 Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at overgangsstønad og andre stønader knyttet til det å være enslig mor eller far blir faset ut for hovedgruppen av mottakere.
 
-Noen grupper skal fortsatt ha rett til overgangsstønad. Det gjelder personer som har aleneomsorg for barn under 14 måneder eller barn med særlig behov for tilsyn.
+
+#### Hva betyr dette for deg?
 
 Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
 
-Endringene begrunnes i at det siden stønadene ble innført er gjort mye for å muliggjøre omsorg for barn i kombinasjon med jobb og utdanning. Behovet for særskilte trygdeytelser for enslig mor eller far er derfor endret.
+I en overgangsfase gjelder 2 ulike regelverk for stønad til barnetilsyn. Hvilket regelverk som gjelder for deg, er blant annet avhengig av om du har hatt stønad til enslig mor eller far tidligere. Hvis du søker om stønad til barnetilsyn, vil Nav vurdere hvilket regelverk som gjelder for deg.
 
-Egne overgangsregler er under utarbeidelse. Endringene gjelder fra 1. juli 2026.
+Hvis du ikke har hatt stønad til enslig mor eller far tidligere, og søker fra 1. juli 2026 og senere, gjelder nytt regelverk.
+
+Du finner informasjon om begge regelverkene på denne siden.
 
 For å ha rett til stønad til barnetilsyn, må du som hovedregel
 
@@ -63,8 +66,6 @@ Avtale om delt fast bosted er en juridisk avtale i henhold til barneloven §36. 
 - du er så mye sammen med den andre av barnets foreldre at du ikke regnes som enslig mor eller far
 For å få stønad til barnetilsyn må du være i jobb, etablere egen virksomhet eller ha en sykdom som ikke er varig.
 
-Hovedregelen er at du kan få stønad til barnetilsyn frem til barnet ditt har fullført 4. skoleår. I noen tilfeller kan du få stønad etter dette.
-
 For å ha rett til stønad som enslig mor eller far, må du og barnet som hovedregel oppholde dere i Norge. I noen tilfeller kan du likevel ha rett til å beholde stønaden under opphold i utlandet.
 
 Hvis du er EØS-borger eller familiemedlem med en EØS-borger:
@@ -81,15 +82,31 @@ Hvis du har opparbeidet deg trygdetid i et annet EØS-land, kan denne trygdetide
 
 Det er kun er statsborgere fra EØS-land eller tredjelandsborgere som er i familie med en EØS-borger som kan legge sammen trygdetid fra andre EØS-land med norsk trygdetid. Hvis trygdetiden er fra et annet nordisk land, har ikke statsborgerskap betydning.
 
-Du kan få stønad til barnetilsyn hvis du er i jobb eller etablerer en egen virksomhet. Det er en forutsetning at du overlater barnepasset til andre.
+Aldersgrensene er forskjellig, avhengig av nytt eller tidligere regelverk.
 
-Hvis du har en sykdom som gjør at du ikke kan være i jobb, kan du få stønad i inntil 1 år. Sykdommen kan ikke være varig.
 
-Hvis du kombinerer jobb med utdanning eller arbeidssøking, kan du få stønad hvis du har utgifter til barnepass når du er på jobb.
+#### Nytt regelverk
+
+Du kan få stønad til barnetilsyn frem til barnet ditt fyller 14 måneder. I noen tilfeller kan du få stønad utover dette tidspunktet, se avsnittet "Hvor lenge kan du få?"
+
+
+#### Tidligere regelverk
+
+Du kan få stønad til barnetilsyn frem til barnet ditt har fullført 4. skoleår. I noen tilfeller kan du få stønad etter dette også, se avsnittet "Hvor lenge kan du få?"
+
+Det er en forutsetning at du overlater barnepasset til andre. Du kan som hovedregel få stønad til barnetilsyn i disse tilfellene:
 
 Jobben må være lønnet. Vi kan gjøre unntak fra denne regelen hvis du for eksempel har praksisplass eller lærlingkontrakt uten rett til lønn eller er selvstendig næringsdrivende.
 
 Vi stiller ikke krav til stillingsprosenten din, men du har kun rett til stønad i de månedene du er i jobb.
+
+Hvis du har en sykdom som gjør at du ikke kan være i jobb, kan du få stønad i inntil 1 år. Sykdommen kan ikke være varig.
+
+At sykdommen ikke er varig betyr i denne sammenhengen at den ikke har vart i mer enn 2 år eller vil vare i mer enn 2 år.
+
+Det er en forutsetning at barnepassordningen ble opprettet fordi du var i eller skulle begynne i jobb, og at den fortsetter i den perioden du er syk.
+
+Vi trenger dokumentasjonen fra legen din som viser når du ble syk og når legen din regner med at du vil bli frisk.
 
 Kravene til virksomheten:
 
@@ -102,16 +119,15 @@ Hvis du får dagpenger mens du etablerer din egen virksomhet er dette godkjent a
 
 Får du ikke dagpenger mens du etablerer egen virksomhet, må du skaffe næringsfaglig vurdering fra kommunen eller fylkeskommunen. Du kan også bruke en annen faglig kompetanse. Vi trenger denne vurderingen når vi skal ta stilling til om virksomheten kan godkjennes som yrkesrettet aktivitet.
 
-Hvis du har en sykdom som gjør at du ikke kan være i jobb, kan du få stønad i inntil 1 år. Sykdommen kan ikke være varig.
 
-At sykdommen ikke er varig betyr i denne sammenhengen at den ikke har vart i mer enn 2 år eller vil vare i mer enn 2 år.
+#### For deg med overgangsstønad etter tidligere regelverk
 
-Det er en forutsetning at barnepassordningen ble opprettet fordi du var i eller skulle begynne i jobb, og at den fortsetter i den perioden du er syk.
+Hvis du ikke kan få stønad til barnetilsyn fordi du ikke er i jobb, kan du i noen tilfeller ha rett til tilleggsstønad til pass av barn.
 
-Vi trenger dokumentasjonen fra legen din som viser når du ble syk og når legen din regner med at du vil bli frisk.
+Dette gjelder hvis du
 
-Hvis du ikke er i jobb, men er registrert som arbeidssøker hos Nav eller tar utdanning som Nav har godkjent, har du som hovedregel ikke rett til denne stønaden. Da kan du i stedet søke om tilleggsstønad til pass av barn.
-
+- er registrert som arbeidssøker hos Nav, eller
+- tar utdanning som Nav har godkjent
 Stønaden bidrar til å dekke utgifter du har til barnepass, som for eksempel barnehage, skolefritidsordning (SFO) eller dagmamma. Du kan få dekket deler av utgiftene til opphold. Utgifter til kost, bleier og lignende dekkes ikke.
 
 Du må dokumentere utgiftene til barnepass med faktura som står i ditt navn. Her må utgifter til opphold være spesifisert.
@@ -158,7 +174,20 @@ Hvis du får innvilget redusert foreldrebetaling av kommunen, må du gi beskjed 
 
 #### Beregn stønad til barnetilsyn
 
-Hovedregelen er at du kan få stønad til barnetilsyn frem til barnet ditt har fullført 4. skoleår. Det er ingen andre begrensninger på hvor lenge du kan få stønad så lenge du fyller vilkårene.
+Stønad til barnetilsyn kan gis fra og med samme måned som du fyller vilkårene.
+
+Hovedregelen er at du kan få stønad frem til barnet ditt blir 14 måneder.
+
+I noen tilfeller kan du få stønad til barnetilsyn etter at barnet ditt har blitt 14 måneder:
+
+- Hvis du har barn som trenger vesentlig mer pass enn jevnaldrende. Du må dokumentere behovet med uttalelse fra lege, spesialist eller annet helsepersonell.
+- Hvis du har en jobb som fører til at du må være borte fra hjemmet i lengre perioder. For at fraværet skal anses som mer langvarig enn vanlig, må det overstige 10 timer per dag. Du må dokumentere arbeidstiden.
+- Hvis du for eksempel jobber om kvelden og natten, skiftarbeid, helgearbeid, turnustjeneste, pendlerforhold og jobb til sjøs. Du må dokumentere arbeidstiden.
+Stønad til barnetilsyn gis normalt for 1 år av gangen, og du må søke på nytt hvert år / dokumentere utgiftene hvert år.
+
+Du får stønad til og med juni hvert år. Juli er vanligvis betalingsfri måned i barnehager og SFO. Hvis du likevel har utgifter til barnepass også i juli, må du dokumentere dette.
+
+Hovedregelen er at du kan få stønad til barnetilsyn frem til barnet ditt har fullført 4. skoleår.
 
 Etter 4. skoleår kan barn vanligvis klare seg selv etter skoletiden mens du arbeider. Dette er også siste året barn som hovedregel har rett til SFO.
 
@@ -322,15 +351,22 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig grunn:
+Du må gi riktige og fullstendige opplysninger til Nav.
+
+Hvis du gir feil opplysninger eller lar være å gi opplysninger, kan du miste retten til stønadene til enslig mor eller far i opptil
+
+- 3 måneder første gang
+- 6 måneder hvis det skjer flere ganger i løpet av 3 år
+
+#### For deg som har stønad etter tidligere regelverk
+
+Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig grunn
 
 - slutter i jobb
-- takker nei til tilbud om jobb
-- unnlater å gjenoppta et arbeidsforhold etter endt foreldrepermisjon
-- nekter å delta i arbeidsmarkedstiltak
-- ikke møter når vi har innkalt deg til møte
-Hvis du har gitt uriktige opplysninger eller unnlatt å gi opplysninger, kan du miste retten til stønad i inntil 3 måneder første gang og inntil 6 måneder dersom dette skjer flere ganger i løpet av de siste 3 årene.
-
+- takker nei til jobb
+- ikke går tilbake til jobb etter foreldrepermisjon
+- nekter å delta i tiltak
+- ikke møter til avtaler med Nav
 Stønad til barnetilsyn utbetales fra og med den måneden du har rett til stønaden.
 
 Du kan få etterbetalt stønad for inntil 3 måneder fra du søker hvis du har rett til stønad tilbake i tid. Da må du legge ved fakturaene for de aktuelle månedene.
@@ -391,7 +427,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 18.06.2026
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -424,3 +460,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

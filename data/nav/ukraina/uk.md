@@ -1,11 +1,11 @@
-<!-- innholds-hash: 35d3bc59199201218353dfa56cc72426ff9fe31a18c1f1d492dad06744bda842 -->
+<!-- innholds-hash: 4ce214c56f2f583ef087cc06a73c41c3a31cfb453674120b640fc270d1870930 -->
 
 # Якщо вас торкнулася війна в Україні - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ukraina/uk
-- **Sist hentet:** 2026-06-26T23:41:50Z
+- **Sist hentet:** 2026-07-04T22:17:08Z
 
 ## Innhold
 
@@ -225,7 +225,7 @@ Updated 02/05/2026
 
 #### Ring oss på 55 55 33 33
 
-Closed now, opens monday at 9
+Closed now, opens tomorrow at 9
 
 
 ---
@@ -239,3 +239,4 @@ Closed now, opens monday at 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

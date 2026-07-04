@@ -1,11 +1,11 @@
-<!-- innholds-hash: 48379cacbda1e6f2608aa86ed76f0bee0e15578aaa9ac649d1434346cabe8d5d -->
+<!-- innholds-hash: 1cffb2308be94289d4dd2e99a84d7dfc42a1406e9d0fa4ae86edcb72d079cade -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-06-26T23:53:31Z
+- **Sist hentet:** 2026-07-04T22:28:50Z
 
 ## Innhold
 
@@ -123,6 +123,7 @@ Tilgang til inntektsmelding får du ved å ha en av tilgangspakkene:
 - Inntektsmelding for sykepenger
 - Inntektsmelding for foreldrepenger og svangerskapspenger
 - Inntektsmelding for pleie-, opplærings- og omsorgspenger og refusjonskrav for omsorgspenger
+- (Dialog for sykmelding - Denne tilgangen trengs for å kunne se dialog for forespørsel og innsendt inntektsmelding i innboksen på Altinn.no for sykepenger)
 For å få tilgang til å melde inn yrkesskade eller yrkessykdom digitalt på vegne av virksomheten må du ha enkelttjenesten «Skademelding til Nav ved arbeidsulykke eller yrkessykdom» eller en av følgende tilgangspakker:
 
 - Yrkesskade
@@ -201,11 +202,14 @@ Det er viktig å vurdere om det er nødvendig å delegere hele tilgangspakken, e
 
 Søket på Altinn lar deg utføre og lagre søk med ulike søkekriterier. Søkefunksjonen lar deg søke i hele meldingsboksen, og du kan blant annet filtrere søket på hvem, hva, når, fra hvilken etat, status og tittel.
 
-Navs tjenester via Altinn knyttet til sykepenger styres av disse rettighetene:
+Sykmelding og søknad til arbeidsgiver via Altinn knyttet til sykepenger styres av tilgangspakken Lønn med personopplysninger av særlig kategori, eller disse enkeltrettighetene:
 
+- Sykmelding til arbeidsgiver. Gir tilgang til digitale sykmeldinger som den ansatte sender fra nav.no. Du finner sykmeldingen fra den sykmeldte i meldingsboksen i Altinn.
+- Sykepengesøknad til arbeidsgiver. Gir tilgang til digital søknad om sykepenger som den sykmeldte har fylt ut og sendt inn fra nav.no. Den sykmeldte sender søknaden når sykefraværsperioden er over, arbeidsgiver får den i Altinn.
+- Dialog for sykepenger. For å kunne se sykmelding og søkand i innboksen på Altinn så må man i tillegg ha rettigheten Dialog for sykepenger.
 For refusjon av sykepenger trenger du også:
 
-Alle disse rettighetene er en del av tilganspakken lønn med personopplysninger av særlig kategori.
+Det anbefales å benytte seg av tilgangspakken lønn med personopplysninger av særlig kategori, da vil alle disse rettighetene inngå.
 
 
 #### Hvem skal ha tilgang?
@@ -303,7 +307,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 26.06.2026
+Oppdatert 02.07.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -311,7 +315,7 @@ Oppdatert 26.06.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -337,3 +341,4 @@ Alltid åpen
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

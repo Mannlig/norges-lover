@@ -1,11 +1,11 @@
-<!-- innholds-hash: cca6c60f968035f4e4c93f8c5eda707675a0fd0ff31f4cdbcfecb12d996f8291 -->
+<!-- innholds-hash: e7220d2e5332ac4569b49edfb38b56ec107bc10c54e666bd8eaf0b83dcaa016a -->
 
 # Ungdomsløftet – samarbeid om å få flere unge i arbeid  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/ungdomsloftet
-- **Sist hentet:** 2026-05-16T15:45:20Z
+- **Sist hentet:** 2026-07-04T22:45:05Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Ungdomsløftet – samarbeid om å få flere unge i arbeid
 
-Publisert 22. april 2026 | Oppdatert 4. mai 2026
+Publisert 22. april 2026 | Oppdatert 29. juni 2026
 
 Ungdomsløftet er regjeringens satsing på å få flere unge som står utenfor arbeidslivet inn i jobb. Målet er 30.000 flere unge sysselsatte innen 2030.
 
@@ -34,6 +34,8 @@ Arbeidsgiverne er Navs viktigste samarbeidspartner, og vi ønsker samarbeid 
 
 Arbeidsgivere som samarbeider med Nav, opplever gjerne at det er en god, alternativ måte å rekruttere på, og at det bidrar til positivt til arbeidsmiljøet.
 
+For unge med lite arbeidserfaring, eller uferdig utdanning, så viser ikke CVen alltid den enkeltes styrker og kompetanse. Nav legger derfor til rette for ulike rekrutteringstreff, slik at arbeidsgivere kan få presentert seg selv og møte unge arbeidssøkere direkte. Et eksempel er rekrutteringskonseptet WorkOp, som benyttes flere steder i landet.
+
 
 #### Støtte og rådgivning for arbeidsgivere
 
@@ -51,3 +53,4 @@ Interessert i samarbeid med Nav om inkluderende rekruttering av unge? Ta kontakt
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

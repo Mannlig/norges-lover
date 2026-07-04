@@ -1,11 +1,11 @@
-<!-- innholds-hash: 90538604b03a39cb30d0d5e0eee902d5124e3452cff24dcf65dac7c6a69e28c4 -->
+<!-- innholds-hash: 5643a2d6bf50e925df6baac3088bd373e94c958f220b9bf324eba6c3b67f7b89 -->
 
 # Reiseutgifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reiseutgifter
-- **Sist hentet:** 2026-06-27T00:33:13Z
+- **Sist hentet:** 2026-07-04T23:08:48Z
 
 ## Innhold
 
@@ -149,6 +149,8 @@ Hvis du søker på vegne av andre enn deg selv, for eksempel barn under 18 år e
 
 Dette skjemaet bruker du hvis du har hatt utgifter til reise i forbindelse med kurs, utprøving eller tilpasning.
 
+Reiseutgifter kan kun dekkes i de tilfeller der stønad til hjelpemiddel, kurs eller folkehøyskole er innvilget av Nav.
+
 
 #### Reiseutgifter for hjelpemidler gjennom hjelpemiddelsentralen
 
@@ -209,7 +211,7 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 06.03.2026
+Oppdatert 03.07.2026
 
 
 #### Finn din hjelpemiddelsentral
@@ -238,3 +240,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

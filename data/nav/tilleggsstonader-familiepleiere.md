@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1cd4fdb4c36d21b2e7c41127ac2190704fe0c621ce3ee2ab5d1f534f1e84390f -->
+<!-- innholds-hash: f75b27630f75e1fe19290c240d36769c3596c59ec292f6f93ab4a498caeac783 -->
 
 # Tilleggsstønader - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-familiepleiere
-- **Sist hentet:** 2026-06-27T00:36:39Z
+- **Sist hentet:** 2026-07-04T23:12:18Z
 
 ## Innhold
 
@@ -21,6 +21,13 @@ Støtte til utgifter når du gjennomfører arbeidsrettet tiltak som du har avtal
 
 
 ### Innhold på denne siden
+
+
+#### Fra 1. juli 2026 er reglene for enslig mor eller far endret.
+
+Du kan fortsatt få tilleggsstønader hvis du har rett til overgangsstønad etter reglene som gjaldt før 1. juli 2026, eller etter overgangsreglene. Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
+
+Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
 
 Hvis du er i en arbeidsrettet aktivitet for å komme i eller å beholde arbeidet ditt, eller dersom du er under arbeidsrettet utredning, kan du ha rett til tilleggsstønader. Det gjelder også dersom du er registrert hos Nav som reell arbeidssøker.
 
@@ -304,7 +311,7 @@ Du må si fra til oss om endringer, for eksempel hvis du
 - planlegger opphold i utlandet
 Dette kan ha betydning for beløpet du får utbetalt fra oss.
 
-Oppdatert 20.08.2025
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -335,3 +342,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

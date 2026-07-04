@@ -1,11 +1,11 @@
-<!-- innholds-hash: aa0c7b6d7442371c127614739db9765eaf0fe4a1741a6a4f96bb3a559ace59db -->
+<!-- innholds-hash: 12bd435ae411336f8f29fad5e566a03936f3cff2aa37504027718e3afb68643a -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist hentet:** 2026-06-26T23:18:07Z
+- **Sist hentet:** 2026-07-04T21:53:15Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Pengestøtte
 
 ## Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 ### Innhold på denne siden
@@ -26,7 +26,20 @@ Det finnes også informasjon om overgangsstønad for enslig mor eller far til
 
 Det finnes også informasjon om overgangsstønad for enslig mor eller far til
 
-For å ha rett til overgangsstønad, må du som hovedregel
+Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at overgangsstønad og andre stønader knyttet til det å være enslig mor eller far blir faset ut for hovedgruppen av mottakere.
+
+
+#### Hva betyr dette for deg?
+
+Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
+
+I en overgangsfase gjelder 2 ulike regelverk for overgangsstønad. Hvilket regelverk som gjelder for deg, avhenger av om du har hatt stønad til enslig mor eller far tidligere, og om du har stønadstid til gode. Hvis du søker om overgangsstønad, vil Nav vurdere hvilket regelverk som gjelder for deg.
+
+Hvis du ikke har hatt stønad til enslig mor eller far tidligere, og søker fra 1. juli 2026 og senere, gjelder nytt regelverk.
+
+Du finner informasjon om begge regelverkene på denne siden.
+
+For å ha rett til overgangsstønad, gjelder som hovedregel disse punktene:
 
 
 #### Du regnes som enslig mor eller far hvis alle disse punktene gjelder deg:
@@ -44,8 +57,6 @@ For å ha rett til overgangsstønad, må du som hovedregel
 - du eller den andre forelderen får, eller tidligere har fått stønad til enslig mor eller far for felles barn og dere får et nytt barn sammen
 - du er fosterforelder for barnet du er enslig mor eller far for
 - du er så mye sammen med den andre av barnets foreldre at du ikke regnes som enslig mor eller far
-For å få overgangsstønad må det yngste barnet ditt være under 8 år. I noen tilfeller kan du få stønad etter at det yngste barnet ditt har fylt 8 år.
-
 For å ha rett til stønad som enslig mor eller far, må du og barnet som hovedregel oppholde dere i Norge. I noen tilfeller kan du likevel ha rett til å beholde stønaden under opphold i utlandet.
 
 Hvis du er EØS-borger eller familiemedlem med en EØS-borger:
@@ -62,40 +73,24 @@ Hvis du har opparbeidet deg trygdetid i et annet EØS-land, kan denne trygdetide
 
 Det er kun er statsborgere fra EØS-land eller tredjelandsborgere som er i familie med en EØS-borger som kan legge sammen trygdetid fra andre EØS-land med norsk trygdetid. Hvis trygdetiden er fra et annet nordisk land, har ikke statsborgerskap betydning.
 
+Aldersgrensene er forskjellig, avhengig av nytt eller tidligere regelverk.
 
-#### Hvis du har barn mellom 1 og 8 år
 
-Da må du også jobbe eller studere minst 50 prosent, være registrert som arbeidssøker hos Nav eller etablere egen virksomhet. I noen tilfeller kan du få overgangsstønad selv om du ikke kan være i arbeid, utdanning eller annen aktivitet.
+#### Nytt regelverk
 
-Hvis du uten rimelig grunn har sluttet i arbeid de siste 6 månedene før du søker om stønad, har du ikke rett til overgangsstønad. Du kan få stønad etter disse 6 månedene.
+Det yngste barnet ditt må være under 14 måneder. I noen tilfeller kan du få stønad utover dette tidspunktet, se avsnittet "Hvor lenge kan du få?"
 
-For å få overgangsstønad må det yngste barnet ditt være under 8 år. I noen tilfeller kan du få stønad etter at det yngste barnet ditt har fylt 8 år.
 
-Du kan få overgangsstønad for den kalendermåneden du har termin, og for måneden før denne. Dette kommer i tillegg til de 3 årene du kan få overgangsstønad etter at barnet er født. Hvis du søker før barnet er født, må du legge ved terminbekreftelse.
+#### Tidligere regelverk
 
-Når barnet ditt er under 1 år kan du få overgangsstønad uten å jobbe, studere eller søke arbeid. Det vil likevel være fornuftig å starte planleggingen av barnepass og arbeid eller utdanning / opplæring så tidlig som mulig.
+Det yngste barnet ditt må være under 8 år. I noen tilfeller kan du få stønad etter dette også, se avsnittet "Hvor lenge kan du få?"
 
-Du kan også få overgangsstønad for den kalendermåneden barnet ble født, og for måneden før denne. Du må da søke før barnet er 3 måneder gammelt. Dette kommer i tillegg til de 3 årene du kan få overgangsstønad etter at barnet ditt er født.
+Aktivitetsplikten gjelder kun for deg som får overgangsstønad etter tidligere regelverk.
 
-For å få overgangsstønad etter at barnet ditt har fylt 1 år, må du jobbe, studere eller søke arbeid.
+Når barnet ditt er mellom 1 og 8 år, må du være i minst 50 prosent yrkesrettet aktivitet. I noen tilfeller kan du få unntak fra aktivitetsplikten.
 
-Du kan likevel få stønad hvis du ikke kan jobbe, studere eller søke arbeid på grunn av egen sykdom. Dette gjelder også hvis du har sykt barn eller mangler barnepass selv om du har søkt. Det samme gjelder dersom barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer.
 
-Hvis barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer, kan du likevel ha rett til stønad etter at det yngste barnet ditt har fylt 8 år.
-
-Hvis du allerede får overgangsstønad, kan du i noen tilfeller få forlenget stønaden etter at barnet ditt har fylt 8 år.
-
-Når du har barn mellom 1 og 8 år, må du være i minst 50 prosent yrkesrettet aktivitet for å ha rett til overgangsstønad. Hensikten er at du skal bli i stand til å forsørge deg selv og barnet/barna.
-
-Du kan fylle aktivitetsplikten på en av disse måtene:
-
-- være i minst 50 prosent arbeid
-- være registrert hos Nav som arbeidssøker
-- være i minst 50 prosent utdanning som Nav har vurdert som nødvendig for at du skal kunne komme i jobb og forsørge deg selv
-- etablere egen virksomhet
-Hvis du kombinerer arbeid med utdanning, må du enten jobbe eller studere 50 prosent.
-
-Du kan likevel få stønad hvis du ikke kan jobbe, studere eller søke arbeid på grunn av egen sykdom. Dette gjelder også hvis du har sykt barn, mangler barnepass eller har barn som trenger særlig tilsyn.
+#### Slik kan du oppfylle aktivitetsplikten
 
 Du må jobbe minst halvparten av det som tilsvarer full tid i ditt yrke.
 
@@ -166,9 +161,12 @@ Hvis du får dagpenger mens du etablerer din egen virksomhet er dette godkjent a
 
 Får du ikke dagpenger mens du etablerer egen virksomhet, må du skaffe næringsfaglig vurdering fra kommunen eller fylkeskommunen. Du kan også bruke en annen faglig kompetanse. Vi trenger denne vurderingen når vi skal ta stilling til om virksomheten kan godkjennes som yrkesrettet aktivitet.
 
+
+#### I disse tilfellene kan du få unntak fra aktivitetsplikten
+
 Vi krever ikke at du må jobbe, studere eller søke jobb hvis du eller barnet ditt er sykt, men du må dokumentere at sykdommen er grunnen til dette.
 
-Dersom du ikke kan jobbe, studere eller søke jobb fordi barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer, kan du få overgangsstønad frem til barnet ditt fyller 18 år.
+Hvis du ikke kan jobbe, studere eller søke jobb fordi barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer, kan du få overgangsstønad frem til barnet ditt fyller 18 år.
 
 Legen må dokumentere den fysiske eller psykiske tilstanden til barnet. Dokumentasjonen må beskrive i hvilken grad barnets tilsyns- og omsorgsbehov hindrer deg i å gå ut i arbeidslivet eller påvirker dine jobbmuligheter.
 
@@ -205,7 +203,15 @@ Hvis du får uføretrygd eller gjenlevendepensjon, vil vi trekke dette månedsbe
 
 #### Beregn månedlig overgangsstønad
 
-Du kan få overgangsstønad i inntil 3 år, det vil si 36 måneder. Dette trenger ikke å være en sammenhengende periode, men kan deles opp i flere perioder frem til barnet er 8 år.
+Overgangsstønad kan gis fra og med måneden etter at du blir alene om omsorgen for barnet ditt. Hvis du er alene før barnet blir født, kan du få overgangsstønad for den kalendermåneden du har termin, og måneden før denne.
+
+Du kan som hovedregel få overgangsstønad frem til det yngste barnet ditt blir 14 måneder. I noen tilfeller kan du få overgangsstønad utover dette tidspunktet.
+
+Stønadstiden din kan utvides hvis du ikke kan jobbe fordi barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer. Dette gjelder frem til barnet ditt fyller 18 år.
+
+Hvis du allerede får overgangsstønad, kan den forlenges i inntil 2 år hvis barnet ditt har en sykdom som ikke er varig og som hindrer deg i å jobbe. At sykdommen ikke er varig betyr i denne sammenhengen at den ikke har vart i mer enn 2 år eller vil vare i mer enn 2 år.
+
+Du kan få overgangsstønad i inntil 3 år, det vil si 36 måneder. Overgangsstønaden kan gis sammenhengende eller i flere atskilte tidsrom. Avbrudd i stønadsperioden kan likevel ikke overstige tolv måneder. Avbrudd før 1. juli 2026 regnes ikke med.
 
 Du bruker av stønadstiden fullt ut selv om du ikke får utbetalt full overgangsstønad, for eksempel fordi du har arbeidsinntekt.
 
@@ -215,20 +221,20 @@ Du bruker også av stønadsperioden på 3 år hvis du får stønad til barnetils
 - du har rett til overgangsstønad i denne perioden, men valgt å ikke få
 - du har fått innvilget overgangsstønad, men inntekten din er for høy til at stønaden blir utbetalt
 
-#### Utvidelse eller forlengelse
+#### Utvidelse og forlengelse
 
 I noen tilfeller kan du få overgangsstønad utover hovedperioden på 3 år.
 
 Stønadstiden din kan utvides hvis
 
 - du er i utdanning som er nødvendig og hensiktsmessig, kan du få utvidet stønaden i inntil 2 år. Hvis du har aleneomsorg for 3 eller flere barn eller du ble alene om omsorgen for barn før du fylte 18 år, kan du få utvidet stønad i inntil 3 år. Dette gjelder frem til barnet ditt fyller 8 år.
-- du ikke kan arbeide fordi barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer. Dette gjelder frem til barnet ditt fyller 18 år.
+- du ikke kan jobbe fordi barnet ditt trenger særlig tilsyn på grunn av fysiske, psykiske eller store sosiale problemer. Dette gjelder frem til barnet ditt fyller 18 år.
 - du får et nytt barn med en ny forelder. Da kan du få en ny stønadsperiode frem til barnet blir 14 måneder.
 Hvis du allerede får overgangsstønad, kan den forlenges
 
 - ut skoleåret eller lærlingperioden du har påbegynt, maksimalt i 9 måneder
-- i inntil 2 år hvis du eller barnet ditt har en sykdom som ikke er varig og som hindrer deg i å arbeide, maksimalt frem til barnet ditt fyller 10 år. At sykdommen ikke er varig betyr i denne sammenhengen at den ikke har vart i mer enn 2 år eller vil vare i mer enn 2 år.
-- i inntil 6 måneder hvis du har takket ja til tilbud om arbeid, utdanning eller barnepass og venter på oppstart
+- i inntil 2 år hvis du eller barnet ditt har en sykdom som ikke er varig og som hindrer deg i å jobbe, maksimalt frem til barnet ditt fyller 10 år. At sykdommen ikke er varig betyr i denne sammenhengen at den ikke har vart i mer enn 2 år eller vil vare i mer enn 2 år.
+- i inntil 6 måneder hvis du har takket ja til tilbud om jobb, utdanning eller barnepass og venter på oppstart
 - i inntil 6 måneder hvis du er registrert som arbeidssøker og ikke jobber mer enn 50 prosent. Hvis du har vært arbeidssøker i løpet av de siste 6 månedene av hovedperioden, kan antall måneder reduseres.
 Mer informasjon til deg som
 
@@ -400,11 +406,13 @@ Dokumentasjon på arbeidsforholdet og grunnen til at du reduserte arbeidstiden. 
 - grunnen til at du reduserte arbeidstiden
 - datoen du avtalte reduksjon i arbeidstiden
 
-#### Opplysninger fra enslig mor eller far som er arbeidssøker
+#### Opplysninger fra deg som er arbeidssøker (gjelder kun tidligere regelverk)
 
-Hvis du får overgangsstønad og blir arbeidssøker, må du sende oss noen ekstra opplysninger.
+Vi trenger flere opplysninger fra deg hvis du
 
-Det samme gjelder hvis du er arbeidssøker og søker om overgangsstønad med papirsøknad.
+- har blitt arbeidssøker etter at du har fått vedtak om overgangsstønad, eller
+- er arbeidssøker og søker om overgangsstønad etter tidligere regler på papirskjema
+Du kan sende dem inn ved å trykke på knappen "Send inn opplysninger" nedenfor.
 
 Du kan ta
 
@@ -434,15 +442,22 @@ Du kan også bruke advokat eller gi fullmakt til en person som klager på dine v
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig grunn:
+Du må gi riktige og fullstendige opplysninger til Nav.
+
+Hvis du gir feil opplysninger eller lar være å gi opplysninger, kan du miste retten til stønadene til enslig mor eller far i opptil
+
+- 3 måneder første gang
+- 6 måneder hvis det skjer flere ganger i løpet av 3 år
+
+#### For deg som har stønad etter tidligere regelverk
+
+Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig grunn
 
 - slutter i jobb
-- takker nei til tilbud om jobb
-- unnlater å gjenoppta et arbeidsforhold etter endt foreldrepermisjon
-- nekter å delta i arbeidsmarkedstiltak
-- ikke møter når vi har innkalt deg til møte
-Hvis du har gitt uriktige opplysninger eller unnlatt å gi opplysninger, kan du miste retten til stønad i inntil 3 måneder første gang og inntil 6 måneder dersom dette skjer flere ganger i løpet av de siste 3 årene.
-
+- takker nei til jobb
+- ikke går tilbake til jobb etter foreldrepermisjon
+- nekter å delta i tiltak
+- ikke møter til avtaler med Nav
 Overgangsstønaden blir utbetalt fra og med måneden etter at du har rett til stønad.
 
 Du kan få stønad for inntil 3 måneder før du søker hvis du har rett til stønad i denne perioden.
@@ -475,36 +490,30 @@ Hvis du betaler Svalbardskatt eller
 
 Mer om
 
-Du må melde fra til oss hvis:
+Hvis det skjer endringer i inntekten eller livssituasjonen din, må du melde fra til Nav.
 
+- månedsinntekten din endrer seg med 10 prosent eller mer før skatt (gjelder både lønn, ytelser fra Nav og trygd fra andre land)
+- du får innvilget eller endret uføretrygd, omstillingsstønad eller gjenlevendepensjon
+- du får avslag på søknad om separasjon eller skilsmisse
+- du blir samboer, inngår partnerskap eller gifter deg
+- du blir kjæreste med en du tidligere har bodd sammen med eller har barn med
+- samværsordningen endres
+- du venter barn
+- barnet blir midlertidig eller varig tatt hånd om av andre
+- du og den andre forelderen flytter svært nær hverandre, for eksempel samme hus, blokk, nærmeste boliger i samme gate eller rundt samme gårdstun.
+- du og/eller barnet flytter til utlandet
+- du og/eller barnet oppholder dere i utlandet i mer enn 6 uker, Dette gjelder både når utenlandsoppholdet er sammenhengende eller på til sammen 6 uker i løpet av de siste 12 månedene.
+- du og/eller barnet ikke har lovlig opphold i Norge
+- du får stønad etter EØS-regelverket og du eller den andre forelderen slutter å jobbe i Norge
+- du eller den andre forelderen begynner å jobbe i et annet land
+- du eller den andre forelderen får familieytelser fra et annet land
+Hvis du har aktivitetsplikt, må du også melde fra hvis
+
+- du ikke lenger er arbeidssøker
 - du begynner i arbeid
 - arbeidssituasjonen din endrer seg
-- du får innvilget andre stønader fra Nav
-- uføretrygden eller gjenlevendepensjonen din endrer seg
-- du ikke lenger er arbeidssøker
-- du endrer, avbryter eller reduserer omfanget av utdanningen din
-- du eller barnet ditt blir sykt og dette hindrer deg i å være i arbeid, utdanning eller være arbeidssøker
-- du får avslag på søknaden din om separasjon eller skilsmisse
-- du inngår samboerskap, partnerskap, eller gifter deg
-- du blir kjæreste med en du tidligere har bodd sammen med og har barn med
-- du venter nytt barn
-- samværsordningen endres
-- den daglige omsorgen for barnet blir midlertidig eller varig overlatt til andre
-- du skal
-- du eller den andre forelderen flytter svært nærme hverandre. Med det mener vi for eksempel samme hus, blokk, nærmeste bolig i samme gate eller rundt samme gårdstun.
-
-#### Endring i arbeidsinntekt
-
-Endrer månedsinntekten din seg med 10 prosent eller mer ut fra vedtaket ditt, må du be om ny beregning for å unngå feilutbetaling eller at du får for lav overgangsstønad.
-
-
-#### Ferie og utenlandsopphold
-
-Du må melde fra til oss hvis
-
-- du skal oppholde deg i utlandet i mer enn 6 uker
-- du skal reise til utlandet og allerede har oppholdt deg i utlandet i 6 uker i løpet av de siste 12 månedene
-- du skal reise til utlandet og dette oppholdet fører til at du vil ha oppholdt deg i utlandet i mer enn 6 uker i løpet av de siste 12 månedene
+- du endrer, avbryter eller reduserer utdanningen din
+- du eller barnet ditt blir sykt, og det påvirker muligheten din til å være i aktivitet
 For å ha rett til stønad som enslig mor eller far, må du og barnet som hovedregel oppholde dere i Norge. I noen tilfeller kan du likevel ha rett til å beholde stønaden under opphold i utlandet.
 
 Du kan være i utlandet i inntil 6 uker, det vil si 42 dager, i løpet av en 12 måneders periode mens du får stønad. Helgeopphold på inntil 2 overnattinger teller ikke med.
@@ -516,7 +525,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 18.06.2026
+Oppdatert 26.06.2026
 
 
 #### Chat med oss
@@ -525,7 +534,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -535,7 +544,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -549,3 +558,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

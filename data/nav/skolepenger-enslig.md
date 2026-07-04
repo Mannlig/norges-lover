@@ -1,11 +1,11 @@
-<!-- innholds-hash: 222fc4682bc2c4eb1ba26f52401ecfe2b1b48b8f33a2b09ef149462bbd24828e -->
+<!-- innholds-hash: e977d892b5f8e50d1aa45823229a3a3ea5785c51521cc9294cef695abf234466 -->
 
 # Stønad til skolepenger for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-enslig
-- **Sist hentet:** 2026-06-26T23:18:49Z
+- **Sist hentet:** 2026-07-04T21:53:59Z
 
 ## Innhold
 
@@ -22,15 +22,16 @@ Dekker utgifter til studieavgift, semesteravgift og eksamens- gebyr når du ta
 
 ### Innhold på denne siden
 
-Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at overgangsstønad og andre stønader knyttet til det å være enslig mor eller far blir faset ut for hovedgruppen av mottakere.
+Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at stønad til skolepenger blir avviklet. I tillegg blir overgangsstønad og stønad til barnetilsyn faset ut for hovedgruppen av mottakere.
 
-Noen grupper skal fortsatt ha rett til overgangsstønad. Det gjelder personer som har aleneomsorg for barn under 14 måneder eller barn med særlig behov for tilsyn.
+
+#### Hva betyr dette for deg?
 
 Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
 
-Endringene begrunnes i at det siden stønadene ble innført er gjort mye for å muliggjøre omsorg for barn i kombinasjon med jobb og utdanning. Behovet for særskilte trygdeytelser for enslig mor eller far er derfor endret.
+Hvis du får overgangsstønad etter regelverket som gjaldt før 1. juli 2026, og gjennomfører en godkjent utdanning, kan du ha rett til stønad til skolepenger.
 
-Egne overgangsregler er under utarbeidelse. Endringene gjelder fra 1. juli 2026.
+På denne siden finner du informasjon om regelverket som gjaldt før 1. juli 2026.
 
 For å ha rett til stønad til skolepenger, må du som hovedregel
 
@@ -281,7 +282,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 18.06.2026
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -290,7 +291,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -300,7 +301,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -314,3 +315,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

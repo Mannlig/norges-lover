@@ -1,11 +1,11 @@
-<!-- innholds-hash: f7b9e2a9596d78750750b7c7cc46a7065c5c8a2e8fec3ef2964ea4d345ab8faf -->
+<!-- innholds-hash: 0ff7daf500acf2aef140f21afb3f7e4acd4a301456f4482e13ed49c40edc1c33 -->
 
 # Støtte til folkehøyskole - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/folkehoyskole
-- **Sist hentet:** 2026-06-27T00:47:57Z
+- **Sist hentet:** 2026-07-04T23:23:13Z
 
 ## Innhold
 
@@ -31,6 +31,8 @@ Du må selv betale de vanlige utgiftene på folkehøyskolen, men kan få dekket 
 Du kan vanligvis få støtte til folkehøyskole i ett år, men i spesielle tilfeller kan du få støtte i to år. Du kan bare få støtte for det andre året hvis du ikke har klart å fullføre det første året.
 
 Du kan få dekket reiseutgiftene til og fra folkehøyskolen ved skolestart og skoleslutt. Du kan også få dekket reiseutgiftene dine når skolen stenger, som for eksempel ved jul og påske.
+
+Reiseutgifter kan kun dekkes i de tilfeller der stønad til ekstrautgifter for opphold på folkehøyskole er innvilget av Nav.
 
 Mer informasjon til deg som
 
@@ -65,7 +67,7 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 16.03.2026
+Oppdatert 03.07.2026
 
 
 #### Chat med oss
@@ -96,3 +98,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

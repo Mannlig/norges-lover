@@ -1,11 +1,11 @@
-<!-- innholds-hash: 800e832de54d495a7d19010f4e50cca72773c08a5fbc3a7f26ccb5431e1a8015 -->
+<!-- innholds-hash: 6a77f9471e3062ccf3b8ce329bb9dcd7a7e1ecfb5cde391b837dfa0016e8915b -->
 
 # Særbidrag (tidligere bidrag til særlige utgifter) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidrag-utgifter
-- **Sist hentet:** 2026-06-27T00:17:20Z
+- **Sist hentet:** 2026-07-04T22:52:43Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Du kan ikke søke om særbidrag til utgifter som det ordinære bidraget er ment 
 
 #### Minstebeløp for å søke
 
-For å søke om særbidrag, må utgiftene være over 2 010 kroner (gjelder fra 1. juli 2025). Utgifter under minstebeløpet blir ikke godkjent.
+For å søke om særbidrag, må utgiftene være over 2 080 kroner (gjelder fra 1. juli 2025). Utgifter under minstebeløpet blir ikke godkjent.
 
 Minstebeløpet tilsvarer
 
@@ -130,3 +130,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

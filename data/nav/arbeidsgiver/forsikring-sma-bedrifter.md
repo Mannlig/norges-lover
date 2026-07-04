@@ -1,11 +1,11 @@
-<!-- innholds-hash: 84ea73628d27a406258f86e80e1b91828c01b97858ee2b2948a8e6e16b61f39e -->
+<!-- innholds-hash: a8aba6ab5b3475b3423dbcb2a641bc81bd3e5d1427a7926e8253cda682c34cd3 -->
 
 # Forsikring for små bedrifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/forsikring-sma-bedrifter
-- **Sist hentet:** 2026-06-26T23:44:37Z
+- **Sist hentet:** 2026-07-04T22:19:52Z
 
 ## Innhold
 
@@ -48,7 +48,7 @@ Forsikringen trer i kraft fra begynnelsen av neste kvartal.
 
 Du får skriftlig vedtak når søknaden er behandlet.
 
-Hvis du får innvilget forsikring, blir faktura sendt via altinn.no. Du kan også tegne eFaktura. Du finner mer informasjon om eFaktura på side 2 på fakturaen din.
+Hvis du får innvilget forsikring, sender vi fakturaen til deg i posten. Du kan også opprette avtale om EHF (ELMA-registeret) i ditt regnskapssystem for å få faktura tilsendt elektronisk.
 
 
 #### Saksbehandlingstid for søknader
@@ -92,7 +92,7 @@ Du kan si opp forsikringen skriftlig. Da må du oppgi bedriftens organisasjonsnu
 
 Du sender brev til:
 
-Oppdatert 30.04.2026
+Oppdatert 30.06.2026
 
 
 #### Chat
@@ -109,7 +109,7 @@ Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeids
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -123,3 +123,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4884de08e743205fa1e874b210d0c94343d6b2eef3223b7644a80baacf94eb3d -->
+<!-- innholds-hash: c540ccde6e055108c2de5734ee9081c1261c4e7577bb1be20bc5903843adaeec -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/svangerskapspenger
-- **Sist hentet:** 2026-06-26T23:37:01Z
+- **Sist hentet:** 2026-07-04T22:12:11Z
 
 ## Innhold
 
@@ -592,7 +592,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -602,7 +602,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -616,3 +616,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

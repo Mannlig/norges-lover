@@ -1,11 +1,11 @@
-<!-- innholds-hash: 738df3fc97f333f6c3347ed674808776caead05f404644629c10840a2beabb47 -->
+<!-- innholds-hash: 0e64880e0ce3832bae4c1ca207a4928fdbd708fd9c9ba718b2649853e3ceeba3 -->
 
 # Registrere kontonummer for utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/endre-kontonummer
-- **Sist hentet:** 2026-06-27T00:11:37Z
+- **Sist hentet:** 2026-07-04T22:47:13Z
 
 ## Innhold
 
@@ -37,7 +37,7 @@ Du finner mer om
 
 Dersom du ikke har mulighet til å logge deg inn, for eksempel på grunn av manglende BankID, Buypass, Commfides eller opphold i utlandet, bør du først forsøke å skaffe innloggingsmuligheter.
 
-Hvis det ikke er mulig, kan bostyrere for konkursbo, NUF og andre i samme situasjon kontakte Nav økonomi stønad
+Hvis det ikke er mulig, kan bostyrere for konkursbo, NUF og andre i samme situasjon kontakte Nav økonomi stønad.
 
 Send e-post til
 
@@ -67,7 +67,7 @@ For å sikre enkel og trygg behandling, registrerer arbeidsgivere ett kontonumme
 - For arbeidsgiverrefusjoner – se
 - For tiltaksrefusjoner til arbeidsgivere – se kvitteringer i «Tiltaksrefusjon»
 - For tiltaksrefusjoner til tiltaksarrangører – se kvitteringer i «Tilsagn og refusjon».
-Oppdatert 26.06.2026
+Oppdatert 29.06.2026
 
 
 ---
@@ -77,3 +77,4 @@ Oppdatert 26.06.2026
 
 - **2026-05-21** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

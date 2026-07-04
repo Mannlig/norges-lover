@@ -1,11 +1,11 @@
-<!-- innholds-hash: ac4e5253809c8774eed2cbcf808afddb0c826087ecbed4a382bbe932fbe18f6f -->
+<!-- innholds-hash: a63ba6a293c1b38414650d0d5286a92d30ae3661737ca8a30c79a179fe4bbeb4 -->
 
 # Bidragsforskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidragsforskudd
-- **Sist hentet:** 2026-06-27T00:18:03Z
+- **Sist hentet:** 2026-07-04T22:53:23Z
 
 ## Innhold
 
@@ -38,7 +38,7 @@ Du kan også ha rett på bidragsforskudd hvis
 - den ene av foreldrene er død, og barnet ikke har rett til barnepensjon eller en tilsvarende ordning fra utlandet
 Du har ikke rett til bidragsforskudd hvis
 
-- du som mottar bidraget har en samlet årsinntekt over 663 300 kroner
+- du som mottar bidraget har en samlet årsinntekt over 686 400 kroner
 - barnet har fylt 18 år. Barn over 18 år kan ha rett til barnebidrag under skolegang, men ikke bidragsforskudd
 - barnet bor i fosterhjem eller en barnevernsinstitusjon, eller det offentlige forsørger barnet fullt ut på annen måte
 - barnet bor i utlandet
@@ -82,9 +82,9 @@ Bidragsforskudd har 3 ulike satser:
 
 #### Forhøyet forskudd
 
-Inntektsgrenser og satser gjelder fra 1. juli 2025:
+Inntektsgrenser og satser gjelder fra 1. juli 2026:
 
-Inntektsgrense: En årsinntekt på 375 900 kroner og lavere gir rett til forhøyet forskudd.
+Inntektsgrense: En årsinntekt på 388 200 kroner og lavere gir rett til forhøyet forskudd.
 
 Hvis du har rett på forhøyet forskudd, øker forskuddet automatisk med en tredjedel av ordinær forskuddssats når barnet fyller 11 år.
 
@@ -95,7 +95,7 @@ Satser for forhøyet forskudd:
 
 #### Ordinært forskudd
 
-Inntektsgrenser og satser gjelder fra 1. juli 2025.
+Inntektsgrenser og satser gjelder fra 1. juli 2026.
 
 Inntektsgrense for ordinært bidragsforskudd når du er
 
@@ -106,7 +106,7 @@ Satser for ordinært bidragsforskudd:
 
 #### Redusert forskudd
 
-Inntektsgrenser og satser gjelder fra 1. juli 2025.
+Inntektsgrenser og satser gjelder fra 1. juli 2026.
 
 Inntektsgrense for redusert bidragsforskudd når du er
 
@@ -204,7 +204,7 @@ Du må melde fra til oss hvis
 - barnet flytter til utlandet eller har et opphold i utlandet
 ``
 
-Oppdatert 04.06.2026
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -237,3 +237,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

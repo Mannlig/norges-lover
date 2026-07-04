@@ -1,11 +1,11 @@
-<!-- innholds-hash: 42351e500166f580355e8b324b12abfd5567d2efcdcd45202ddebecc69b116da -->
+<!-- innholds-hash: 7e6bf9b60e092d0acb251abd6885245cc3a8f78d46ae32ccf91beed5071184a9 -->
 
 # Vil redusere sykefravær og beholde ansatte i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/redusere-sykefravar
-- **Sist hentet:** 2026-06-26T23:49:25Z
+- **Sist hentet:** 2026-07-04T22:24:37Z
 
 ## Innhold
 
@@ -77,7 +77,7 @@ Oppdatert 20.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Kontaktskjema
@@ -103,3 +103,4 @@ Alltid åpen
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

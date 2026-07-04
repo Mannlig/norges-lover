@@ -2,9 +2,9 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-07-04 16:10 UTC*
+*Sist oppdatert: 2026-07-04 23:39 UTC*
 
-**Antall dokumenter:** 1253
+**Antall dokumenter:** 1254
 
 ## Innhold
 
@@ -606,6 +606,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Arbeidssoker](familie/alene-med-barn/soknad/arbeidssoker.md)
 - [Barnetilsyn](familie/alene-med-barn/soknad/barnetilsyn.md)
 - [Skolepenger](familie/alene-med-barn/soknad/skolepenger.md)
+- [Er helt eller delvis alene med barn - nav.no](familie/alene-med-barn/veiviser.md)
 - [Soknad](familie/kontantstotte/soknad.md)
 - [Ekstra Omsorgsdager Andre Forelder Ikke Tilsyn](familie/sykdom-i-familien/soknad/ekstra-omsorgsdager-andre-forelder-ikke-tilsyn.md)
 - [Endringsmelding Pleiepenger](familie/sykdom-i-familien/soknad/endringsmelding-pleiepenger.md)

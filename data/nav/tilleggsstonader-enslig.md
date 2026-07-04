@@ -1,11 +1,11 @@
-<!-- innholds-hash: fb9300c92405870cac5624b0b8536eb5426055e2c9b7796738976ccb7493b3ad -->
+<!-- innholds-hash: e9d5f4fa977434f3c6e120953b6d0d43cdf87f6d9d230af5ae13ca1b1ceb1a0e -->
 
 # Tilleggsstønader til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-enslig
-- **Sist hentet:** 2026-06-26T23:22:23Z
+- **Sist hentet:** 2026-07-04T21:57:25Z
 
 ## Innhold
 
@@ -22,15 +22,9 @@ Støtte til barnepass og utgifter til utdanning eller jobbsøking når du er ale
 
 ### Innhold på denne siden
 
-Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringene innebærer at overgangsstønad og andre stønader knyttet til det å være enslig mor eller far blir faset ut for hovedgruppen av mottakere.
+Du kan fortsatt få tilleggsstønader hvis du har rett til overgangsstønad etter reglene som gjaldt før 1. juli 2026, eller etter overgangsreglene. Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
 
-Noen grupper skal fortsatt ha rett til overgangsstønad. Det gjelder personer som har aleneomsorg for barn under 14 måneder eller barn med særlig behov for tilsyn.
-
-Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
-
-Endringene begrunnes i at det siden stønadene ble innført er gjort mye for å muliggjøre omsorg for barn i kombinasjon med jobb og utdanning. Behovet for særskilte trygdeytelser for enslig mor eller far er derfor endret.
-
-Egne overgangsregler er under utarbeidelse. Endringene gjelder fra 1. juli 2026.
+Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
 
 For å ha rett til tilleggsstønader til enslig mor eller far, må du som hovedregel
 
@@ -368,7 +362,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 18.06.2026
+Oppdatert 30.06.2026
 
 
 #### Skriv til oss
@@ -385,7 +379,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn ditt Nav-kontor
@@ -393,7 +387,7 @@ Stengt nå, åpner mandag kl. 9
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -407,3 +401,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

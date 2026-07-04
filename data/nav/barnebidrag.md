@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1ba998474d990307e205ffd595e9c2a3a96eed939b077aec127121a4d1833fbf -->
+<!-- innholds-hash: 295cf2ba2a826ca0fd31ef9532b7508f892198174cd0c713e4a8afb3ec49a055 -->
 
 # Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag
-- **Sist hentet:** 2026-06-27T00:15:55Z
+- **Sist hentet:** 2026-07-04T22:51:20Z
 
 ## Innhold
 
@@ -90,7 +90,7 @@ Hvis dere ikke kommer frem til en privat avtale om barnebidrag, kan minst én av
 
 Når Nav fastsetter eller endrer barnebidrag, krever vi et gebyr fra både bidragsmottaker og bidragspliktig. Dette krever vi fordi barnebidrag i utgangspunktet er en privat sak, men som Nav kan utføre for dere som en tjeneste.
 
-Du slipper å betale gebyret hvis bruttoinntekten din er lavere enn 354 600 kroner.
+Du slipper å betale gebyret hvis bruttoinntekten din er lavere enn 367 400 kroner.
 
 Du må betale gebyr når Nav fastsetter bidraget etter søknad fra en av partene, men også hver gang en av dere søker om endring av bidraget.
 
@@ -250,33 +250,11 @@ Hvis det er flere enn 3 personer i husstanden, blir det gjort et fradrag på 20 
 
 Hvis du bor i utlandet, gjelder egne satser.
 
-Skatteetaten benytter livsoppholdssatsene som er fastsatt i forskrift om livsoppholdssatser ved utleggstrekk og gjeldsordning (FOR-2014-06-13-724).
+Satsene for livsopphold blir bestemt av barne- og familiedepartementet.
 
-Gjeldende satser fra 1. juli 2025:
+Skatteetaten bruker satsene for livsopphold som grunnlag for å beregne størrelsen på trekket ditt ved trekk i lønn eller ytelse.
 
-Enslig skyldner
-
-11 046 kroner
-
-Gift eller samboende skyldner
-
-9 354 kroner
-
-Skyldner som forsørger ektefelle eller samboer
-
-18 708 kroner
-
-Tillegg for barn 0-5 år i husstanden
-
-3 535 kroner
-
-Tillegg for barn 6-10 år i husstanden
-
-4 690 kroner
-
-Tillegg for barn 11-14 år i husstanden
-
-5 919 kroner
+Se gjeldende
 
 
 #### Betalingsordning
@@ -322,7 +300,7 @@ Begge foreldrene må betale et gebyr for at Nav skal gjøre denne tjenesten for
 
 #### Automatisk endring av barnebidrag
 
-Når Nav har fastsatt barnebidraget, blir bidraget automatisk justert det året barnet fyller 6, 11 og 15 år. Det betyr at det ikke er nødvendig å søke om endring i disse tilfellene.
+Når Nav har fastsatt barnebidraget og det kreves inn av Skatteetaten, blir bidraget automatisk justert det året barnet fyller 6, 11 og 15 år. Det betyr at det ikke er nødvendig å søke om endring i disse tilfellene.
 
 
 #### Søk om endring
@@ -396,9 +374,9 @@ Vi bruker faste satser når vi beregner bidragsevnen. Det innebærer blant annet
 - Satser for boutgifter blir hentet fra forbruksundersøkelsene til Statistisk sentralbyrå. Det er én sats for en bidragspliktig som bor alene, og en annen sats hvis den bidragspliktige deler bolig med en annen person.
 - 5/6, eller 83,3 prosent, av underholdskostnaden til barnet.
 - 25 prosent av den bruttoinntekten Nav har beregnet, før et eventuelt samværsfradrag.
-Når Nav beregner barnebidraget ser vi på om bidragsbarnet selv har en inntekt. Inntekten blir først tatt med i beregningen når barnet har en årlig inntekt på over 60 300 kroner.
+Når Nav beregner barnebidraget ser vi på om bidragsbarnet selv har en inntekt. Inntekten blir først tatt med i beregningen når barnet har en årlig inntekt på over 62 400 kroner.
 
-Barnet regnes som selvforsørget med en inntekt på over 201 000 kroner. I disse tilfellene pålegger ikke vi den bidragspliktige å betale bidrag.
+Barnet regnes som selvforsørget med en inntekt på over 208 000 kroner. I disse tilfellene pålegger ikke vi den bidragspliktige å betale bidrag.
 
 Når den bidragspliktige har samvær med barnet, har hen også utgifter i forbindelse med samværet. Dette gjør at den bidragspliktige skal få et fradrag i barnebidraget. Dette fradraget kalles samværsfradrag.
 
@@ -489,13 +467,13 @@ Når Nav fastsetter bidrag til et barn over 18 år, blir bidraget normalt fastsa
 
 Bidraget opphører automatisk når tidsperioden i vedtaket utløper. Hvis barnet er forsinket i skolegangen, vil Nav vurdere om betingelsene for å få fortsatt barnebidrag er oppfylt.
 
-Barnet regnes som selvforsørget med en inntekt på over 201 000 kroner. Da har ikke barnet rett på bidrag. Hvis barnet får en slik inntekt i løpet av perioden med bidrag, må en av partene melde fra til oss.
+Barnet regnes som selvforsørget med en inntekt på over 208 000 kroner. Da har ikke barnet rett på bidrag. Hvis barnet får en slik inntekt i løpet av perioden med bidrag, må en av partene melde fra til oss.
 
 Hvis bidraget skal opphøre, for eksempel fordi foreldrene har inngått en privat avtale med 18 åringen eller at bidragsbarnet slutter på skolen, må må foreldrene melde fra til Nav om dette. Den bidragspliktige kan sende inn avtalen, eller barnet som er over 18 år kan melde fra om at bidraget skal stanses.
 
 Mer informasjon til deg som
 
-Oppdatert 16.06.2026
+Oppdatert 01.07.2026
 
 
 #### Chat med oss
@@ -528,3 +506,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)
