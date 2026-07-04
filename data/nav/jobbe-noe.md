@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0f263291f77c84f3e17b91d4cdacfae4e524b01b98c5e4f4eed7dbb0f6af1982 -->
+<!-- innholds-hash: 13dfaa6f86b48fa7643d5c0d95dde53c1b5176ff424ac2f4122c2b48e20c2a07 -->
 
 # Kan bare jobbe noe på grunn av langvarig sykdom eller skade - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-noe
-- **Sist hentet:** 2026-06-26T13:36:04Z
+- **Sist hentet:** 2026-07-04T12:13:52Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -86,7 +86,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -99,3 +99,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2fbbc88e7311379f4f7805192c21a5d4e0f69298fc523e84eb8228958f328dc0 -->
+<!-- innholds-hash: 86e07bccde5c781e85b9d7f424190192ff065d4a8952b9d6fdbdb9bcebd12320 -->
 
 # Er helt eller delvis alene med barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn
-- **Sist hentet:** 2026-06-26T14:09:43Z
+- **Sist hentet:** 2026-07-04T12:47:32Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Bor du sammen med barn under 18 år, får du barnetrygd fra Nav hver måned. Nå
 
 Omsorgsdager er dager du kan være hjemme fra jobb fordi barnet ditt eller barnepasser er syk. Når du er alene med barn, kan du ha rett til dobbelt så mange omsorgsdager.
 
-Hvis du har minst 60 prosent av det daglige samværet med barn under 8 år, kan du ha rett til overgangsstønad i en periode.
+Hvis du har minst 60 prosent av den daglige omsorgen for barn, kan du ha rett til overgangsstønad i en periode.
 
 Du kan også få støtte til å dekke utgifter som oppstår fordi du må kombinere omsorgsansvar med jobb, utdanning eller å søke arbeid.
 
@@ -80,7 +80,7 @@ Som foreldre må dere bli enige om hvordan dere skal fordele reisekostnader i fo
 
 Hvis muligheten din til å jobbe og tjene egne penger har blitt dårligere på grunn av  arbeidsfordelingen i ekteskapet eller omsorg for felles barn, kan den andre ektefellen bli pålagt å betale deg bidrag.
 
-Oppdatert 21.05.2026
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -89,7 +89,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -99,7 +99,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -112,3 +112,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

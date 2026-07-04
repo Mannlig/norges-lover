@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5f748785dba3410b9cfa8983be3f8ca320d5649262b2c0369f4cbb46a25d89c9 -->
+<!-- innholds-hash: 3042f8b6baf985b85a7dcdd0bd5e016c30863e4ac134422d7838d32295e09d85 -->
 
 # Sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger
-- **Sist hentet:** 2026-06-26T13:18:34Z
+- **Sist hentet:** 2026-07-04T11:56:29Z
 
 ## Innhold
 
@@ -149,7 +149,7 @@ Hvis du er tilkallingsvikar, er det viktig å avgjøre om du oppfyller kravet ti
 
 Hvis du ikke har avtalt vakter med arbeidsgiveren din framover, har du vanligvis ikke rett til sykepenger. Du kan likevel ha rett til sykepenger hvis du har jobbet hos arbeidsgiveren din i minst tre måneder, uten et opphold på mer enn 14 dager mellom vaktene, i løpet av de siste tre månedene før du ble syk. Dette gjelder også hvis du er satt opp til å jobbe noen vakter i arbeidsgiverperioden, men det er grunnlag til å tro at du ville ha jobbet flere vakter enn det som er satt opp.
 
-Hvis du er syk fra flere jobber, må du ha en sykmelding for hver av dem. Det gjelder også hvis du har flere stillinger hos samme arbeidsgiver. Sykepengene blir beregnet ut fra inntekten fra alle jobbene dine.
+Hvis du er syk fra flere jobber, må du ha en sykmelding for hver av dem. Det gjelder ikke hvis du har flere stillinger i samme underenhet hos samme arbeidsgiver. Sykepengene blir beregnet ut fra inntekten fra alle jobbene dine.
 
 For å få sykepenger fra Nav, må gjennomsnittet av den samlede inntekten din fra alle arbeidsforhold de tre siste månedene tilsvare en årsinntekt på minst 68 274,5 kroner. Det tilsvarer femti prosent av grunnbeløpet i folketrygden (1/2 G).
 
@@ -974,7 +974,7 @@ Du kan også undersøke om du har rettigheter hos forsikringsselskapet ditt elle
 
 Du kan ikke bli sagt opp det første året du er sykmeldt. Hvis du har vært syk i mer enn ett år, gjelder vanlige regler om saklig grunn til oppsigelse.
 
-Oppdatert 24.02.2026
+Oppdatert 03.07.2026
 
 
 #### Chat med oss
@@ -983,7 +983,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -993,7 +993,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -1006,3 +1006,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

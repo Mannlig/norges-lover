@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0d3fade41ae5e5246e1509013cfc3968551cd93f0c74944e3b468fc04da29ee8 -->
+<!-- innholds-hash: 019c83acae433443af9a7fa6b0b95ce8e7351a8023f85228c0f522bd01084965 -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-26T15:10:15Z
+- **Sist hentet:** 2026-07-04T13:48:07Z
 
 ## Innhold
 
@@ -16,9 +16,35 @@
 Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter. Arbeidsgiver har ansvaret for at arbeidsmiljøet er trygt og forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og HMS-arbeid.
 
 
-### Webinar: Hva er psykososialt arbeidsmiljø?
+### Aktuelt
 
-Dette webinaret er en del av en serie på tre, her er de andre webinarene:
+
+#### Stressmestring er ikke løsningen på et dårlig arbeidsmiljø
+
+En misforståelse går igjen: Psykososialt arbeidsmiljø fremstilles ofte som noe som handler om den enkelte ansatte.
+
+Les innlegget
+
+
+#### Stressmestring er ikke løsningen på et dårlig arbeidsmiljø
+
+
+#### Jobb med det før du må
+
+Ikke vent til det blir konflikter, sykefravær eller at folk slutter. Finn ut hva som skaper belastninger, sett inn tiltak, og gjør jobben bedre!
+
+Jobb forebyggende med psykososialt arbeidsmiljø
+
+
+#### Jobb med det før du må
+
+
+#### Hvordan jobbe med psykososialt arbeidsmiljø i praksis?
+
+Loven krever at vi jobber systematisk med psykososialt arbeidsmiljø. Mange synes dette er vanskelig å ta tak i.
+
+
+#### Hvordan jobbe med psykososialt arbeidsmiljø i praksis?
 
 
 ### Hva er psykososialt arbeidsmiljø?
@@ -303,3 +329,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1977e6b21f5f3d935d09b47294916c2859a10ea717e5fcb062147ee417799d77 -->
+<!-- innholds-hash: abaedccd9f18337b4a41db64604884edd8a508a6393a26cdb47fcc355d865f71 -->
 
 # Trening i arbeidstida
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/trening-i-arbeidstida/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:49:19Z
+- **Sist hentet:** 2026-07-04T15:31:23Z
 
 ## Innhold
 
@@ -15,7 +15,10 @@
 
 Arbeidsmiljølova pålegg arbeidsgivaren å vurdere tiltak for fysisk aktivitet. Føresegna skal sikre at verksemdene legg vekt på fysisk aktivitet for arbeidstakarane, sidan dette har gunstige helseeffektar.
 
-Arbeidsgivar bør ha som mål å dempe dei negative effektane av inaktivitet på arbeidsplassen. Mindre inaktivitet gir i seg sjølv positive helseeffektar. Arbeidsplassen, transport til og frå arbeid, heimen og fritida er viktige arenaer for å vere fysisk aktiv.
+
+### Demp dei negative effektane av inaktivitet
+
+Arbeidsgivar bør ha som mål å dempe dei negative effektane av inaktivitet på arbeidsplassen. Mindre inaktivitet gir i seg sjølv positive helseeffektar. Arbeidsplassen, transport til og frå arbeid, heimen og fritida er viktige arenaer for å vere fysisk aktiv.
 
 
 ### Når er plikta oppfylt?
@@ -41,6 +44,9 @@ Arbeidstakarane pliktar ikkje å bruke tiltak som eventuelt blir sette i verk.
 - Vurderinga skal ta omsyn til særtrekka ved bransjen og dei jobbkrava som blir stilte til dei tilsette.
 - Viss verksemda set i verk tiltak for fysisk aktivitet, skal tilbodet omfatte alle dei tilsette utan at dette medfører nokon plikt til å delta.
 
+### Regelverk
+
+
 ### Fann du det du leitte etter?
 
 Denne sida er beskytta av reCaptcha, og Googles
@@ -52,3 +58,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

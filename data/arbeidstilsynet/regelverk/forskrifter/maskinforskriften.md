@@ -1,4 +1,4 @@
-<!-- innholds-hash: 521c48cd91bd738cdea95dea4c2755bed8f8a66263f2755414e1428fc851327c -->
+<!-- innholds-hash: c6e5b5175806a68bc77f76aee4ed0d64305874c5bd2ae534eb49bd07e1ee88c1 -->
 
 # Maskinforskriften
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/maskinforskriften/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:29:34Z
+- **Sist hentet:** 2026-07-04T15:18:45Z
 
 ## Innhold
 
@@ -340,11 +340,11 @@ Bestemmelsen gjelder også når flere maskiner settes sammen til en ny maskin. I
 
 ### Kapittel III.  Tilsyn med forskriften
 
-Maskinforskriften håndheves av Arbeidstilsynet, Petroleumstilsynet og DSB. Tilsynsetatene forvalter forskriften innenfor sitt spesialområde.
+Maskinforskriften håndheves av Arbeidstilsynet, Havindustritilsynet og DSB. Tilsynsetatene forvalter forskriften innenfor sitt spesialområde.
 
 DSB fører bl.a. tilsyn med maskiner som først og fremst er beregnet på private forbrukere. DSB fører også tilsyn med elektriske anlegg og utstyr/produkter som er tilkoblet det elektriske anlegget. Dette innebærer at DSB eller det lokale eltilsyn i gitte situasjoner vil vurdere om en maskin som er tilkoblet strømnettet representerer en elsikkerhetsmessig fare.
 
-Petroleumstilsynet fører etter forskriften tilsyn med maskiner som i hovedsak brukes innen sitt myndighetsområde.
+Havindustritilsynet fører etter forskriften tilsyn med maskiner som i hovedsak brukes innen sitt myndighetsområde.
 
 Arbeidstilsynet er tillagt en koordinerende rolle for oppfølgingen av forskriften.
 
@@ -476,3 +476,4 @@ Dette gjennomfører beslutning 2012/32/EU.
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

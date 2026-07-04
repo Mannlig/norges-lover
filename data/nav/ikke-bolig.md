@@ -1,11 +1,11 @@
-<!-- innholds-hash: d9bc4fa077ac1993491b681616be477c6ab6dc33fce048054299b5c2339cca8f -->
+<!-- innholds-hash: 8f8ee5617891a9841c08d990890636aefda588e8ac504666e3850381c570c09c -->
 
 # Har ikke et sted å bo - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ikke-bolig
-- **Sist hentet:** 2026-06-26T14:45:44Z
+- **Sist hentet:** 2026-07-04T13:23:43Z
 
 ## Innhold
 
@@ -104,7 +104,7 @@ Oppdatert 04.07.2025
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -118,3 +118,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

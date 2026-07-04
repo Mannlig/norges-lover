@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1aa6078718dfea0f7f4df79ec7ae69eb417133eba208ad7eafce9e244dc1747a -->
+<!-- innholds-hash: 3df110887a27e7250dbf0e0f9f0e35bcc9d9d6630b372b7b9024854085733300 -->
 
 # Stress
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/stress/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:29:05Z
+- **Sist hentet:** 2026-07-04T13:50:01Z
 
 ## Innhold
 
@@ -15,12 +15,17 @@
 
 Arbeidstakere opplever stress når det stilles større krav og forventninger i jobben enn det de er i stand til å takle, mestre eller kontrollere. Arbeidstakere som opplever stress over lengre tid kan utvikle alvorlige fysiske og psykiske helseproblemer.
 
-Arbeidsrelatert stress skyldes ofte problemer på virksomhetsnivå, og må derfor håndteres på dette nivået. Arbeidsrelatert stress skyldes ofte måten arbeidet er organisert og tilrettelagt på, og hvordan arbeidsoppgavene er fordelt.
+
+### Årsaker til arbeidsrelatert stress
+
+Arbeidsrelatert stress skyldes ofte problemer på virksomhetsnivå. Det må derfor håndteres på dette nivået.
+
+Stress oppstår gjerne på grunn av hvordan arbeidet er organisert og tilrettelagt, og hvordan arbeidsoppgavene er fordelt.
 
 
 ### Hva er stress?
 
-Stressreaksjoner er kroppens alarmberedskap, og oppstår når vi er utsatt for utfordrende eller overbelastende situasjoner. Dette kan for eksempel være når det skjer noe uventet, eller vi blir stilt overfor store krav og forventninger over tid. Hvis denne reaksjonen blir langvarig, kan det føre til alvorlige helseproblemer.
+Stressreaksjoner er kroppens alarmberedskap, og oppstår når vi er utsatt for utfordrende eller overbelastende situasjoner. Dette kan for eksempel være når det skjer noe uventet, eller vi blir stilt overfor store krav og forventninger over tid. Hvis denne reaksjonen blir langvarig, kan det føre til alvorlige helseproblemer.
 
 Stress må ikke gjøres til et individuelt problem hos arbeidstakeren. Ingen mennesker er helt like, og vi har ulike forutsetninger for å håndtere egen arbeidssituasjon.
 
@@ -126,3 +131,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

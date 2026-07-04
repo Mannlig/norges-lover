@@ -1,11 +1,11 @@
-<!-- innholds-hash: 55a702454ace5b9793079dd1cb088c252ca522470bb5f6eeea64992fed37aa96 -->
+<!-- innholds-hash: d58d51c1b07ff73ac4f946323c33fc7d4ee09a8ce83341ad80b9c36602290d5e -->
 
 # Satser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/satser
-- **Sist hentet:** 2026-06-26T13:09:32Z
+- **Sist hentet:** 2026-07-04T11:47:19Z
 
 ## Innhold
 
@@ -198,7 +198,7 @@ Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet ell
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -379,3 +379,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 - **2026-05-15** Første gang hentet
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

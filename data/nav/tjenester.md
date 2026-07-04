@@ -1,11 +1,11 @@
-<!-- innholds-hash: b207314aa267fb7f52e8360eeb168d3b93ac2d3a9b3a3d84e3aeb23dfc508340 -->
+<!-- innholds-hash: bf95ce8678722d0224631c50a15f9d8f1e543c12fa6d4905cff22d7346196e30 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist hentet:** 2026-06-26T13:20:39Z
+- **Sist hentet:** 2026-07-04T11:58:32Z
 
 ## Innhold
 
@@ -281,7 +281,7 @@ Hjelper deg når du har ulike problemer med føttene.
 
 Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet eller svekket.
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 Overgangsstønad sikrer deg inntekt når ekteskapet har vart i mindre enn 5 år og dere ikke har felles barn, eller hvis du har daglig omsorg for den avdødes barn.
 
@@ -492,3 +492,4 @@ Alle som har fått utbetalinger fra Nav får årsoppgave på starten av året.
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

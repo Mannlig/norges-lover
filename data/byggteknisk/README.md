@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-07-04 05:33 UTC*
+*Sist oppdatert: 2026-07-04 16:10 UTC*
 
 **Antall dokumenter:** 732
 
@@ -131,9 +131,9 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 15-14. Trappeheiser](regelverk/byggteknisk-forskrift-tek17/15/iv/15-14.md)
 - [§ 15-15. Sammenhengen mellom løfteinnretninger og harmoniserte standarder](regelverk/byggteknisk-forskrift-tek17/15/iv/15-15.md)
 - [§ 15-9. Heiser](regelverk/byggteknisk-forskrift-tek17/15/iv/15-9.md)
-- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/b.md)
-- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/d.md)
-- [§ 16-1. Løfteinnretninger. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/f.md)
+- [§ 16-1. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/b.md)
+- [§ 16-1. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/d.md)
+- [§ 16-1. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1/1/f.md)
 - [§ 16-1. Administrative bestemmelser](regelverk/byggteknisk-forskrift-tek17/16/16-1.md)
 - [§ 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-2.md)
 - [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for personer med yrkeskvalifikasjoner fra andre land](regelverk/byggteknisk-forskrift-tek17/16/16-3.md)

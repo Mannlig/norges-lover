@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05c649bd9d1f24729f9da945590b6de3d8a58a1898c4e65000f86d528f51222b -->
+<!-- innholds-hash: 1d9e90d8e304e981a6a8d3298ffdf7b6e396c95957cc4a870bd604132b0840a5 -->
 
 # Forsikring – sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forsikring-sykepenger
-- **Sist hentet:** 2026-06-26T13:28:26Z
+- **Sist hentet:** 2026-07-04T12:06:15Z
 
 ## Innhold
 
@@ -44,7 +44,7 @@ Du kan få 100 prosent dekning av sykepengegrunnlaget fra 1.–16. sykefraværsd
 
 #### Forsikringspremien er fradragsberettiget
 
-Hvis du får innvilget forsikring, blir faktura sendt via altinn.no. Du kan også tegne E-faktura. Du finner mer informasjon om E-faktura på side 2 på fakturaen din.
+Hvis du får innvilget forsikring, sender vi faktura som e-faktura i nettbanken din. Hvis du ikke har avtale om e-faktura, får du faktura i posten. Du finner mer informasjon om e-faktura på side 2 av fakturaen din.
 
 Maksimalt sykepenge- og premiegrunnlag er 819 294 kroner (6 ganger folketrygdens grunnbeløp).
 
@@ -143,7 +143,7 @@ Du kan ikke si opp forsikringen hvis du er sykmeldt.
 
 For å få yrkesskadedekning må du tegne forsikring for frivillig yrkesskadetrygd.
 
-Oppdatert 08.12.2025
+Oppdatert 30.06.2026
 
 
 #### Chat med oss
@@ -152,7 +152,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -162,7 +162,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -175,3 +175,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

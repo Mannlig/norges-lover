@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7393a52d14af5e33313ab7cd2e776dcb44607c27ee8a1053b4e1230c0dc9d86b -->
+<!-- innholds-hash: 6367177aec6f93ecb615ca6484ac5b93f68bb964272cebf97ee7f3db135d4ed0 -->
 
 # Søknad og skjema - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader
-- **Sist hentet:** 2026-06-26T13:14:20Z
+- **Sist hentet:** 2026-07-04T11:52:17Z
 
 ## Innhold
 
@@ -550,7 +550,7 @@ Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet ell
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -987,3 +987,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

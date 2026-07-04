@@ -1,4 +1,4 @@
-<!-- innholds-hash: c2be88ec2f620e8e804e1cda3753a825b3c47e4cb2d5aca0516eba5a66667142 -->
+<!-- innholds-hash: dbe5ba744dfbab41bd17e5ff74f6ca1475614a451a5f5b7965f6585feb6e20f3 -->
 
 # Slik kan du bidra til et godt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/arbeidstakers-plikter/slik-kan-du-bidra-til-et-godt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T08:17:26Z
+- **Sist hentet:** 2026-07-04T15:49:48Z
 
 ## Innhold
 
@@ -16,8 +16,6 @@
 Alle kan bidra til å skape et godt arbeidsmiljø. Det gjelder både ansatte og ledere. Her får du ti tips til hva du som arbeidstaker kan gjøre for arbeidsmiljøet.
 
 Godt samspill på arbeidsplassen er viktig for arbeidsmiljøet. Produktivitet, trivsel og motivasjon henger også sammen med et godt arbeidsmiljø.
-
-Behøver du kunnskap og verktøy til hvordan dere kan jobbe mer systematisk med arbeidsmiljøet finner du det i arbeidsmiljøportalen. Alle ressurser i portalen tar hensyn til at arbeidsmiljø og virksomheter er ulike og derfor kan dere velge det som passer best.
 
 
 ### 10 tips til et godt arbeidsmiljø
@@ -57,3 +55,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

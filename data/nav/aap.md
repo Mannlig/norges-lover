@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4130c4d06d12479cc4d1043b934768fffc3ebbc105b7d2be4bad6e58ac0b2627 -->
+<!-- innholds-hash: 11badf21ecdcbce6298e3f97612e5715b2e3e9dbb1ebdb0be63cc10f8d3a9846 -->
 
 # Arbeidsavklarings­penger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/aap
-- **Sist hentet:** 2026-06-26T13:22:05Z
+- **Sist hentet:** 2026-07-04T11:59:56Z
 
 ## Innhold
 
@@ -637,7 +637,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -647,7 +647,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -660,3 +660,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

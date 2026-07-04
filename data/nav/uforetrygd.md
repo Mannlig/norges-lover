@@ -1,11 +1,11 @@
-<!-- innholds-hash: d4d27baba9317542c96ec5943f741d4d40d323921e33472e347ab0968cfc2bce -->
+<!-- innholds-hash: 0167a8cb48403778f05fa4f20b3b460fdfcda4c2f5d0ffb3c60b05ecfab44d76 -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
-- **Sist hentet:** 2026-06-26T13:46:56Z
+- **Sist hentet:** 2026-07-04T12:24:42Z
 
 ## Innhold
 
@@ -391,6 +391,23 @@ Du må melde fra til Nav hvis
 - du flytter tilbake til Norge
 Du kan
 
+Selv om du mottar uføretrygd, kan du jobbe, studere eller være i aktivitet hvis du har mulighet til det. Du beholder retten til uføretrygden din, og du kan starte når som helst uten ventetid.
+
+Du trenger ikke kontakte oss hvis du vil ta utdanning, kurs eller jobbe.
+
+Ønsker du hjelp til å komme i gang, har du rett til veiledning fra oss. Du kan få veiledning om
+
+- jobb, CV, søknad, intervju, finne jobb, frivillig arbeid
+- skole, utdanning, kurs og kompetanse
+- starte egen bedrift
+Vi tilbyr også økonomisk veiledning. Du kan snakke med oss om
+
+- inntekt og uføretrygd
+- budsjett, lavere utgifter
+- bolig og depositum
+- husbanken: startlån og bostøtte
+- økonomisk sosialhjelp
+- gjeld, namsmann og gjeldsordning
 Har du uføretrygd, kan du jobbe så mye du har mulighet til. Det gjelder uansett om du har full eller gradert uføretrygd.
 
 Det er en grense for hvor mye du kan tjene før du får lavere utbetaling av uføretrygd. Selv om du får lavere utbetaling av uføretrygd, beholder du uføregraden din.
@@ -479,13 +496,13 @@ Du må selv be om at inntektsgrensen din endres, og du må dokumentere inntekts�
 Hvis du har fått innvilget tiltaket
 
 
-#### Kompensasjonsgrad
+#### Reduksjonsprosent (tidligere kompensasjonsgrad)
 
-For hver krone du tjener over inntektsgrensen din, trekker vi fra en prosent lik kompensasjonsgraden din fra uføretrygden. Kompensasjonsgraden din er beregnet ut fra inntekten du hadde før du ble ufør og uføretrygden din. Selv om du får en lavere utbetaling av uføretrygd på grunn av inntekt, beholder du uføregraden din.
+For hver krone du tjener over inntektsgrensen din, trekker vi fra en prosent lik reduksjonsprosenten din fra uføretrygden. Reduksjonsprosenten din er beregnet ut fra inntekten du hadde før du ble ufør og uføretrygden din. Selv om du får en lavere utbetaling av uføretrygd på grunn av inntekt, beholder du uføregraden din.
 
 Eksempel:
 
-- Kim har en kompensasjonsgrad på 70 prosent.
+- Kim har en reduksjonsprosent på 70 prosent.
 - For hver krone Kim tjener over inntektsgrensen, trekker vi 70 øre fra uføretrygden til Kim.
 - Hvis Kim tjener 10 000 kroner, trekkes 7 000 kroner fra uføretrygden.
 - Kim beholder lønnen sin på 10 000 kroner, i tillegg til 3 000 kroner i uføretrygden.
@@ -737,7 +754,7 @@ Nav jobber nå med å rette opp rundt 1800 saker der det har vært løpende feil
 
 Når disse sakene er ferdig behandlet vil vi fortsette med å rette de sakene med størst beløp, av de 80.000 sakene som gjelder feil i én enkeltmåned. Dette arbeidet er planlagt å starte høsten 2026, og Nav tar kontakt med de som er berørt i saker vi retter opp. Hvis du likevel ønsker å ta kontakt, kan du skrive til oss på nav.no, eller ringe oss. Vær oppmerksom på at det kan ta lang tid hvis vi skal vurdere saken din.
 
-Oppdatert 22.06.2026
+Oppdatert 03.07.2026
 
 
 #### Chat med oss
@@ -746,7 +763,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -756,7 +773,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -769,3 +786,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4d254ead59ca06d86813d21b77e1113689f7624a590e7b4a3ba06e86bc6f860c -->
+<!-- innholds-hash: f34954ebf6163775c448d09edd8115d453579f7c4766435aae6190fabaa3b2fd -->
 
 # Fyll ut meldekort – dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-dagpenger
-- **Sist hentet:** 2026-06-26T13:11:37Z
+- **Sist hentet:** 2026-07-04T11:49:26Z
 
 ## Innhold
 
@@ -294,7 +294,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -313,3 +313,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

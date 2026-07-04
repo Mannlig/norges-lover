@@ -1,11 +1,11 @@
-<!-- innholds-hash: 674cb1668c6763579936badc4cbf26eaf1656fb60af318f237462c3e97c2a3c1 -->
+<!-- innholds-hash: 0aef0124d8273c8cafbc6902d7553da7cd7ea30dbdf26b0217e809afbd4b1b6f -->
 
 # Kapittel 12. Uføretrygd
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven-kap.12.uforetrygd
-- **Sist hentet:** 2026-05-15T22:20:17Z
+- **Sist hentet:** 2026-07-04T12:57:46Z
 
 ## Innhold
 
@@ -126,11 +126,8 @@ Rundskriv til ftrl kap 12: Uføretrygd
 
 Inntekt før uførhet fastsettes til personens normale årsinntekt i full stilling før uføretidspunktet. For selvstendig næringsdrivende legges den gjennomsnittlige inntekten for de siste tre kalenderårene før uføretidspunktet til grunn.
 
-Inntekt før uførhet skal ikke settes lavere enn
+Inntekt før uførhet skal ikke settes lavere enn 3,5 ganger grunnbeløpet. For medlemmer som fyller vilkårene for rett til minsteytelse som ung ufør, skal inntekt før uførhet ikke settes lavere enn 4,5 ganger grunnbeløpet.
 
-- 3,3 ganger grunnbeløpet for personer som lever sammen med en ektefelle (se
-- 3,5 ganger grunnbeløpet for enslige,
-- 4,5 ganger grunnbeløpet for medlemmer som fyller vilkårene for rett til minsteytelse som ung ufør.
 Inntekt etter uførhet fastsettes til den inntekt han eller hun forutsettes å kunne skaffe seg ved å utnytte sin restinntektsevne.
 
 Inntekt før og etter uførhet justeres i samsvar med endring i grunnbeløpet.
@@ -218,7 +215,7 @@ Rundskriv til ftrl kap 12: Uføretrygd
 
 Når uføregraden fastsettes etter
 
-Dersom mottakeren av uføretrygd har inntekt som overstiger inntektsgrensen, skal uføretrygden reduseres. Reduksjonen skal svare til den overskytende inntekten multiplisert med en brøk der vedkommendes uføretrygd ved 100 prosent uføregrad er teller og inntekt før uførhet (se
+Uføretrygd skal reduseres med en andel av inntekt som overstiger bunnfradraget. Andelen (reduksjonsprosenten) skal svare til mottakerens uføretrygd ved 100 prosent uføregrad delt på mottakerens inntekt før uførhet (se
 
 Det utbetales ikke uføretrygd når den pensjonsgivende inntekten utgjør mer enn 80 prosent av inntekt før uførhet.
 
@@ -369,3 +366,4 @@ Rundskriv til ftrl kap 12: Uføretrygd
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)

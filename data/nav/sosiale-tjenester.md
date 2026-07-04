@@ -1,11 +1,11 @@
-<!-- innholds-hash: f06d8fc3ecdc1d52a7abae84b3207b0dcd56b51c3bff0fbf3072c664a97cdd4c -->
+<!-- innholds-hash: e0527a1c1054725917457330c6bfe9ce804ed371036599f7d35ac0bce56c9ac2 -->
 
 # Sosiale tjenester og veiledning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sosiale-tjenester
-- **Sist hentet:** 2026-06-26T13:15:02Z
+- **Sist hentet:** 2026-07-04T11:52:59Z
 
 ## Innhold
 
@@ -21,7 +21,7 @@
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn ditt Nav-kontor
@@ -37,3 +37,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

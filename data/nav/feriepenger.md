@@ -1,11 +1,11 @@
-<!-- innholds-hash: d159f02cd322097a48fb28fa0cd31dca9c9c772d3fc565d704d719f9aafe3878 -->
+<!-- innholds-hash: fe31dbc29cb09761aff682652090d961bd5705f1447e7b6db85df1e687f3720a -->
 
 # Ferie og feriepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/feriepenger
-- **Sist hentet:** 2026-06-26T13:27:43Z
+- **Sist hentet:** 2026-07-04T12:05:33Z
 
 ## Innhold
 
@@ -305,7 +305,7 @@ Hvis du deltar i et opplæringstiltak, kan du som hovedregel ikke få utbetalt t
 
 Det gjelder selv om du faktisk er reell arbeidssøker i en pålagt ferie du selv ikke har valgt, for eksempel på grunn av at kursstedet eller skolen er stengt i sommerferien.
 
-Hvis du skal sende meldekort i ferien, må du opplyse om at du har ferie (annet fravær) i
+Hvis du skal sende meldekort i ferien, les mer om
 
 Hvis du av helsemessige årsaker ikke kan arbeide eller ikke har krav på feriepenger, kan du få tiltakspenger i sommerferien hvis opplæringstiltaket varer lenger enn ett skoleår.
 
@@ -347,3 +347,4 @@ Oppdatert 02.09.2025
 
 - **2026-05-15** Første gang hentet
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

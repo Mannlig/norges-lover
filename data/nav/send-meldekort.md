@@ -1,11 +1,11 @@
-<!-- innholds-hash: d18ff0ddf77a49f668dc050806a26d20d524d0e1b45f058189de26ab204e0731 -->
+<!-- innholds-hash: fa044242452d01d24bf672a4126e79035a4f7e38d7de093f9c4ff92006f82d70 -->
 
 # Send meldekort - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort
-- **Sist hentet:** 2026-06-26T13:10:58Z
+- **Sist hentet:** 2026-07-04T11:48:43Z
 
 ## Innhold
 
@@ -65,7 +65,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -75,7 +75,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -87,3 +87,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

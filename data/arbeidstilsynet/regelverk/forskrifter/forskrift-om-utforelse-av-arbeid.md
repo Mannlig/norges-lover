@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7a5fb2311e8eb83b995b1f15b9a9c8f7b31958b53351adf8be833148132c1cec -->
+<!-- innholds-hash: 6e2efac343491ccfb70b4e79792d5ba8ac664252f5e005e7d0e33ce7458d4d6f -->
 
 # Forskrift om utførelse av arbeid
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-06-18T12:25:01Z
+- **Sist hentet:** 2026-07-04T13:59:02Z
 
 ## Innhold
 
@@ -24,7 +24,7 @@
 
 Forskriften omfatter krav om nødvendig utstyr, personale som bistår ved dykket fra båt eller land, kommunikasjon, dokumentasjon med mer.
 
-Forskriften gjelder ikke for dykking som faller innunder Petroleumstilsynets tilsynsområde i forbindelse med petroleumsvirksomhet på kontinentalsokkelen og petroleumsrelaterte landanlegg.
+Forskriften gjelder ikke for dykking som faller innunder Havindustritilsynets tilsynsområde i forbindelse med petroleumsvirksomhet på kontinentalsokkelen og petroleumsrelaterte landanlegg.
 
 Sjøfart er unntatt fra arbeidsmiljøloven. Spørsmålet om dykking fra skip er sjøfart og underlagt sjøfartslovgivningen, og ikke arbeidsmiljøloven, må avgjøres konkret. Det som er særegent for dykking, er at dykkingen i seg selv ikke er det arbeidet som skal utføres. Dykkingen er den måten en arbeidstaker kan ta seg frem til stedet hvor arbeidet skal utføres, og han eller hun skal kunne oppholde seg der mens arbeidet pågår.
 
@@ -3395,3 +3395,4 @@ Forskrift om organisering, ledelse og medvirkning § 16-3 «Ikrafttredelse»  g
 
 - **2026-05-22** Første gang hentet
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

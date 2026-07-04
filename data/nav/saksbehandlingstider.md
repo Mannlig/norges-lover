@@ -1,11 +1,11 @@
-<!-- innholds-hash: d760934c68b5b57cf6fda71a4bf550a60b4a76dd87db7a181e1e2e72a8036335 -->
+<!-- innholds-hash: 73cd7176cdef689345a96500c2b30e607e53b3f1317593c2b2f3c806b7e9b6fa -->
 
 # Saksbehandlingstider - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider
-- **Sist hentet:** 2026-06-26T13:08:51Z
+- **Sist hentet:** 2026-07-04T11:46:39Z
 
 ## Innhold
 
@@ -359,7 +359,7 @@ Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet ell
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -725,3 +725,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 - **2026-05-15** Første gang hentet
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

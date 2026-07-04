@@ -1,11 +1,11 @@
-<!-- innholds-hash: d6f636aaca53aef93108a94f71f237b920f597b7a0802499ab2ef8380aae857e -->
+<!-- innholds-hash: 01c1a48a80bc1405badfc66401494c5cbbe479afb597259e5c5f53981ba9f243 -->
 
 # Har en varig sykdom eller skade og kan ikke jobbe - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-sykdom-skade
-- **Sist hentet:** 2026-06-26T14:26:56Z
+- **Sist hentet:** 2026-07-04T13:04:52Z
 
 ## Innhold
 
@@ -57,7 +57,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -67,7 +67,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -81,3 +81,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

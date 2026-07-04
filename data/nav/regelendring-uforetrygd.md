@@ -1,11 +1,11 @@
-<!-- innholds-hash: bfd4c8674433ad029d1bb9c050565dff31a4b7184232b2b29418a7492aed5094 -->
+<!-- innholds-hash: 40ceb9bfa1b6246f967b1bf018faa4ef753b763133b2699d9d1409dbd23b1575 -->
 
 # Regelendringer for uføretrygd i 2026 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/regelendring-uforetrygd
-- **Sist hentet:** 2026-06-26T14:22:35Z
+- **Sist hentet:** 2026-07-04T13:00:36Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Aktuelt
 
 ## Regelendringer for uføretrygd i 2026
 
-Publisert 9. mars 2026 | Oppdatert 22. juni 2026
+Publisert 9. mars 2026 | Oppdatert 2. juli 2026
 
 Det kommer flere lovendringer i regelverket for uføretrygd i 2026. Hvis endringene påvirker din uføretrygd, vil du få brev fra oss med mer informasjon.
 
@@ -29,9 +29,9 @@ Her finner du informasjon om følgende lovendringer:
 
 #### 1.Økt fribeløp etter 2 år med uføretrygd
 
-Grensen for hvor mye inntekt du kan ha før du får en lavere utbetaling av uføretrygd, vil fra 1. juli 2026 hete bunnfradrag. I folketrygdloven omtales dette før 1. juli 2026 som inntektsgrense.
+Inntektsgrense endrer navn til bunnfradrag. Bunnfradraget er grensen for hvor mye inntekt du kan ha før du får en lavere utbetaling av uføretrygd. Bunnfradraget består av inntekt etter uførhet (IEU) og et fribeløp.
 
-Bunnfradraget består av inntekt etter uførhet (IEU) og et fribeløp. Fra første oktober øker fribeløpet fra 0,4 til 1 G for de som har hatt uføretrygd i 2 år eller mer. Det fører til at bunnfradraget øker. Bunnfradraget er den årlige inntekten du kan ha, før vi reduserer uføretrygden din.
+Fra 1. oktober øker fribeløpet fra 0,4 til 1 G for de som har hatt uføretrygd i 2 år eller mer med tilbakevirkende kraft til 1. januar 2026. Det fører til at bunnfradraget øker. Det betyr at du kan ha mer inntekt før vi reduserer uføretrygden.
 
 
 #### Du trenger ikke å gjøre noe
@@ -120,23 +120,26 @@ I noen tilfeller vil økt minste IFU føre til at uføregraden øker. Du vil få
 
 #### 4. Ny minstesats for dem som gikk fra uførepensjon til uføretrygd 1. januar 2015
 
-Denne regelendringen skal reverseres, det betyr at minstesatsen likevel ikke skal bli lavere. Det ble vedtatt i forhandlingene om revidert statsbudsjett i juni. Vi kommer tilbake med mer informasjon når vi vet hvordan dette skal løses i praksis.
+Den opprinnelige regelendringen som ble vedtatt i 2025, var at minstesatsen for uføretrygd for gifte/samboende som gikk fra uførepensjon til uføretrygd i 2015 endres fra 1. juli 2026. Den skulle endres fra 2,379 G (324 850 kroner) til 2,329 G (318 023 kroner). Det skulle føre til at minstesatsen for uføretrygd skulle bli lik for alle.
 
-Minstesatsen for uføretrygd for gifte/samboende som gikk fra uførepensjon til uføretrygd i 2015 endres fra 1. juli 2026. Den endres fra 2,379 G (309 651 kroner) til 2,329 G (303 143). Det fører til at minstesatsen for uføretrygd nå blir lik for alle.
+I forhandlingene om revidert statsbudsjett i juni, vedtok Stortinget at minstesatsen likevel ikke skal kuttes, og at denne loven trer i kraft 1. oktober. Fra 1. oktober er minstesatsen 2,379 G (324 850 kroner), med tilbakevirkende kraft fra 1. juli.
 
 
-#### Slik påvirkes du av endringen
+#### Slik påvirkes beregningen av uføretrygd
 
-Endringen påvirker bare deg som gikk fra uførepensjon til uføretrygd 1. januar 2015, er gift eller samboende og får utbetalt minstesatsen for uføretrygd. Du som påvirkes av denne lovendringen, vil få en lavere utbetaling av uføretrygd.
+Uføretrygd skal beregnes etter en minstesats på 2,329 G eller egenopptjent uføretrygd hvis den er høyere.
 
-Har du barnetillegg, kan denne endringen påvirke utbetalingen av barnetillegget ditt. Uføretrygd regnes med som inntekt når vi beregner størrelsen på barnetillegget ditt. Derfor kan en lavere utbetaling av uføretrygd, føre til en høyere utbetaling av barnetillegget.
+Minstesatsen vil gå opp igjen fra oktober. Uføretrygden skal beregnes etter en minstesats på 2,379 G. Du vil få et nytt vedtaksbrev med beregninger om hvordan utbetalingen din blir fremover.
+
+Dette kan føre til en etterbetaling. De som har rett til etterbetaling vil få informasjon i et nytt vedtak senere.
+
+Vi beklager for ulempene dette medfører.
 
 
 #### Du trenger ikke å gjøre noe
 
 - Endringen skjer automatisk.
-- Du får varsel- og vedtaksbrev fra oss hvis du får en lavere utbetaling av uføretrygd.
-- Du finner informasjon om du mottar minstesats på 2,379 G i det siste vedtaksbrevet ditt.
+- Du vil få informasjonsbrev og vedtak hvis dette gjelder deg.
 
 #### Du kan ta kontakt
 
@@ -152,10 +155,6 @@ Loven er fortsatt under arbeid.
 
 "Inntekt før uførhet skal ikke settes lavere enn 3,5 ganger grunnbeløpet. For medlemmer som fyller vilkårene for rett til minsteytelse som ung ufør, skal inntekt før uførhet ikke settes lavere enn 4,5 ganger grunnbeløpet.
 
-§ 12-13 andre ledd andre punktum blir opphevet.
-
-Nåværende tredje punktum blir andre punktum.
-
 Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer som lever sammen med en ektefelle (se
 
 
@@ -166,3 +165,4 @@ Minste årlige ytelse er 2,329 ganger grunnbeløpet (ordinær sats) for personer
 
 - **2026-05-16** Første gang hentet
 - **2026-06-26** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)
