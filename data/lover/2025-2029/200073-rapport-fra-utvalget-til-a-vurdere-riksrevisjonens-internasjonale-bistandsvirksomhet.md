@@ -1,4 +1,4 @@
-<!-- innholds-hash: a492950efe9f24ba9a0d0e1c2a846ef9cb4f1c55cd5892a7cf7127cbd35dcdb1 -->
+<!-- innholds-hash: f69123ac44ae22396fcc5c849f3788a55b09688a3e8e93cf744226cf7b55ebbe -->
 
 # Rapport fra utvalget til å vurdere Riksrevisjonens internasjonale bistandsvirksomhet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-03T19:18:25Z
+- **Sist hentet:** 2026-07-04T00:55:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200073
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783105856667+0200)/",
+  "respons_dato_tid": "/Date(1783123227186+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783105856667+0200)/",
+      "respons_dato_tid": "/Date(1783123227186+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783105856667+0200)/",
+      "respons_dato_tid": "/Date(1783123227186+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17518,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783105707888+0200)/",
+    "respons_dato_tid": "/Date(1783123225514+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200073,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783105856667+0200)/",
+      "respons_dato_tid": "/Date(1783123227186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -66,14 +66,14 @@
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -157,3 +157,4 @@
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

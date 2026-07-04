@@ -1,4 +1,4 @@
-<!-- innholds-hash: 738da6c4d7b5da642c815d20e54e692b0c1c0a499a96dbbbc5c8710056f4389b -->
+<!-- innholds-hash: c66b4bbbefc4961b5fe2343aa7b4fddddef2a4d0317836d05a67b2726de8bb36 -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Hans Edvard Askjer og Joel Ystebø om å innføre en verifiserbar 18-årsgrense for porno på nettet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-03T19:18:25Z
+- **Sist hentet:** 2026-07-04T00:55:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200112
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783105855979+0200)/",
+  "respons_dato_tid": "/Date(1783123227177+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -62,14 +62,14 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -87,14 +87,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -112,14 +112,14 @@
       "id": "JOEYST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -133,7 +133,7 @@
   "innstilling_id": 17394,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783105707888+0200)/",
+    "respons_dato_tid": "/Date(1783123225514+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200112,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783105855979+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -151,14 +151,14 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -231,3 +231,4 @@
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

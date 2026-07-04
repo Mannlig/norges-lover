@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5dbfe6c7b3599dd16b395dea873f494f24c9e3aaa8a9da984f985298701cabd -->
+<!-- innholds-hash: f7037e3ebd3949444f59b952d924151cf284f29ccf1535076fb1f7f7e0a9278b -->
 
 # Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-03T19:18:25Z
+- **Sist hentet:** 2026-07-04T00:55:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200335
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783105855394+0200)/",
+  "respons_dato_tid": "/Date(1783123227177+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783105855456+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -39,7 +39,7 @@
   "innstilling_id": 17536,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783105707888+0200)/",
+    "respons_dato_tid": "/Date(1783123225514+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200335,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783105855456+0200)/",
+      "respons_dato_tid": "/Date(1783123227177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -57,14 +57,14 @@
       "id": "AU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
@@ -165,3 +165,4 @@
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

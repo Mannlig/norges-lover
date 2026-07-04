@@ -1,4 +1,4 @@
-<!-- innholds-hash: 41e592836fda8bd26c7ab5f1ea9c8f153a3985b7f287c2b68ef80d425f31c101 -->
+<!-- innholds-hash: d374ff9285794714de7814c35f5b856fb9bd4df2ff216aa947f3da0b6bdd2945 -->
 
 # Representantforslag fra stortingsrepresentantene Julia Brännström Nordtug, Kristian August Eilertsen, Stig Atle Abrahamsen, Anne Grethe Hauan og Bård Hoksrud om justering av terskelverdien for legemidler
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-03T19:18:25Z
+- **Sist hentet:** 2026-07-04T00:55:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200215
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783105857823+0200)/",
+  "respons_dato_tid": "/Date(1783123227326+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783105857823+0200)/",
+      "respons_dato_tid": "/Date(1783123227326+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -39,7 +39,7 @@
   "innstilling_id": 17516,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783105707888+0200)/",
+    "respons_dato_tid": "/Date(1783123225514+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200215,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783105857823+0200)/",
+      "respons_dato_tid": "/Date(1783123227326+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
@@ -57,14 +57,14 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783076419284+0200)/",
+        "respons_dato_tid": "/Date(1783119618707+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783033219187+0200)/",
+        "respons_dato_tid": "/Date(1783119617629+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -168,3 +168,4 @@
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

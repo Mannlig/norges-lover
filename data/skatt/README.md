@@ -2,7 +2,7 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-07-03 22:54 UTC*
+*Sist oppdatert: 2026-07-04 05:33 UTC*
 
 **Antall dokumenter:** 3811
 
@@ -3800,7 +3800,7 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Rente for fremføring av underskudd og overskytende friinntekt (utgått sats)](satser/rente-for-fremforing-av-underskudd-og-overskytende-friinntekt.md)
 - [Rente for leie av flyttbar produksjonsinnretning på kontinentalsokkelen (utgått sats)](satser/rente-for-leie-av-flyttbar-produksjonsinnretning-pa-kontinentalsokkelen.md)
 - [Renter ved endring etter vedtak og egenretting](satser/renter-ved-endring-etter-vedtak-og-egenretting.md)
-- [Renter ved utsatt betaling av fomuesskatt beregnet på virksomhetsformue](satser/renter-ved-utsatt-betaling-av-fomuesskatt-beregnet-pa-virksomhetsformue.md)
+- [Renter ved utsatt betaling av formuesskatt beregnet på virksomhetsformue](satser/renter-ved-utsatt-betaling-av-fomuesskatt-beregnet-pa-virksomhetsformue.md)
 - [Rentesatser på tilgodebeløp, restskatt og resterende skatt](satser/rentesatser-pa-tilgodebelop-restskatt-og-resterende-skatt.md)
 - [Representasjonskostnader – beløpsgrenser for fradrag](satser/representasjonskostnader.md)
 - [Rettsgebyr](satser/rettsgebyr.md)

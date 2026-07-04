@@ -1,4 +1,4 @@
-<!-- innholds-hash: e476c55b29f0483a863a50a2f5186e59ce550102b91d8e33303450b8e53ed68f -->
+<!-- innholds-hash: fcda6870b254732487edc32f7859d25d1f35b8f4dd9c10d01cae714261127ec9 -->
 
 # Person
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-02T15:46:10Z
+- **Sist hentet:** 2026-07-04T02:55:39Z
 
 ## Innhold
 
@@ -16,9 +16,7 @@
 
 #### Fristen for næringsdrivende var 31. mai
 
-Siden 31. mai var på en søndag i år, var det ikke for sent om du leverte 1. juni.
-
-Hvis du ikke har levert enda, må du
+Har du fått innvilget utsatt frist? Da må du levere skattemeldingen
 
 
 ### Hva kan vi hjelpe deg med?
@@ -50,3 +48,4 @@ Hvis du ikke har levert enda, må du
 - **2026-05-11** Første gang hentet
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

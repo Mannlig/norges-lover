@@ -1,126 +1,146 @@
-<!-- innholds-hash: 3aa3827096071f5b7577e88508d7588c4e888167436a05a11ae5c410aedb6664 -->
+<!-- innholds-hash: 52f7103aaca39f241bd3681b2cefc0b3508b21c91e0529d65e77734b2d60b36a -->
 
 # Søknad og skjema - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader/nn
-- **Sist hentet:** 2026-06-25T23:01:33Z
+- **Sist hentet:** 2026-07-04T04:04:24Z
 
 ## Innhold
 
 
 ## Søknad og skjema
 
-Fra A til Å
+Frå A til Å
 
-Finn søknad eller skjema for privatpersoner.
+Finn søknad eller skjema for privatpersonar.
 
-Det finnes egne oversikter for
-
-
-### Velg område eller søk
+Det finst eigne oversikter for
 
 
-#### Velg område
+### Vel område eller søk
+
+
+#### Vel område
 
 
 ### Viser 190 av 190
 
 
-#### Aktivitetshjelpemidler for personer over 26 år
+#### Aktivitetshjelpemiddel for personar over 26 år
 
-For å kunne være i fysisk aktivitet.
+For å kunne vere i fysisk aktivitet.
 
 
 #### Alderspensjon
 
-Alderspensjon fra folketrygden (Nav) sikrer at du har en inntekt når du er pensjonist.
+Alderspensjon frå folketrygda sikrar at du har ei inntekt når du er pensjonist.
 
 
 #### Ansiktsprotese
 
-Etterligner den delen av ansiktet som mangler eller er skadet.
+Etterliknar den manglande eller skadde delen av ansiktet.
 
 
 #### Arbeid med støtte
 
-Et tilbud for deg som trenger støtte for å skaffe og beholde en jobb.
+Dette er eit tilbod til deg som treng støtte for å skaffe eller behalde ein jobb.
 
 
-#### Arbeidrettet oppfølging – be om
+#### Arbeidretta oppfølging – be om
 
-Trenger du støtte for å komme i jobb eller fortsette i jobben du har, kan du få arbeidsrettet oppfølging fra Nav uten å være arbeidssøker.
-
-
-#### Arbeidsavklarings­penger (AAP)
-
-Sikrer deg inntekt i perioder du har behov for hjelp fra Nav på grunn av sykdom eller skade.
+Treng du støtte for å komme i jobb eller halde fram i jobben du har, kan du få arbeidsretta oppfølging frå Nav utan å vere arbeidssøkjar.
 
 
-#### Arbeidsforberedende trening
+#### Arbeidsavklarings­pengar (AAP)
 
-Et tilbud for å styrke arbeidsevnen din gjennom arbeidsutprøving og kvalifisering.
+Sikrar deg inntekt i periodar du har behov for hjelp frå Nav grunna sjukdom eller skade.
 
 
 #### Arbeidsforhold i Aa-registeret
 
-I Aa-registeret, som Nav eier og forvalter, kan du se dine arbeidsforhold.
+I Aa-registeret, som Nav eig og forvaltar, kan du sjå  arbeidsforholda dine.
 
 
-#### Arbeidsrettet rehabilitering
+#### Arbeidsførebuande trening
 
-Tilbud om veiledningssamtaler og individuelt tilpassede aktiviteter når du har helseplager eller sosiale problemer.
+Eit tilbod om jobb i eit tilrettelagt arbeidsmiljø før du startar arbeidstrening i ei vanleg bedrift.
 
 
-#### Arbeidssøker – registrer deg
+#### Arbeidsretta rehabilitering
 
-Registrer deg som arbeidssøker hvis du har som mål å komme i arbeid og vil gjøre aktiviteter, alene eller sammen med Nav, for å oppnå dette. Når du har registrert deg som arbeidssøker kan du få informasjon om ledige stillinger som er relevante for deg.
+Tilbod om rettleiingssamtalar og individuelt tilpassa aktivitetar når du har helseplager eller sosiale problem.
+
+
+#### Arbeidssøkjer – registrer deg
+
+Registrer deg som arbeidssøkjar om du har som mål å kome i jobb, og du ønskjer å gjere aktivitetar, åleine eller saman med Nav, for å oppnå dette. Når du har registrert deg som arbeidssøkjar kan du få informasjon om ledige stillingar som er relevante for deg.
 
 
 #### Arbeidstrening
 
-Et tilbud når du trenger arbeidserfaring for å mestre en bestemt type jobb eller trenger en referanse.
+Eit tilbod når du treng arbeidserfaring for å meistre ein bestemt type jobb, eller du har behov for ein referanse.
 
 
-#### Arm- og benproteser
+#### Arm- og beinprotesar
 
-Erstatter en manglende kroppsdel.
+Erstattar ein manglande kroppsdel.
 
 
-#### Automatikk og styring i bolig
+#### Attlevandepensjon
 
-Omgivelseskontroll. Fjernstyring av omgivelser i hjemmet.
+Sikrar inntekt dersom du mistar ektefelle, partner eller sambuar med felles barn.
+
+
+#### Augeprotese
+
+Erstattar eit skadd eller manglande auge.
+
+
+#### Augestyringssystem
+
+Sporar augerørslene for å gjere det mogleg for personar med motoriske vanskar å nytte datautstyr.
+
+
+#### Auka hjelpestønad
+
+Pengestøtte til barn under 18 år når behovet for pleie og tilsyn er vesentleg større enn det ordinær hjelpestønad kan dekkje.
+
+
+#### Automatikk og styring i bustad
+
+Omgivnadskontroll. Fjernstyring av omgivnader i heimen.
 
 
 #### Avklaring
 
-Et tilbud når du er usikker på hva du kan jobbe med, for eksempel fordi du har fått dårligere helse eller har vært lenge ute av arbeidslivet.
+Eit tilbod når du er usikker på kva du kan jobbe med, til dømes fordi du har fått dårlegare helse eller har vore lenge ute av arbeidslivet.
 
 
-#### Avtalefestet pensjon (AFP) for medlemmer av Statens pensjonskasse
+#### Avtalefesta pensjon (AFP) for medlemmar av Statens pensjonskasse
 
-En tidligpensjonsordning for deg som jobber i offentlig sektor og er født før 1963.
-
-
-#### Avtalefestet pensjon (AFP) i privat sektor
-
-AFP i privat sektor er livsvarig og kommer i tillegg til alderspensjon og tjenestepensjon. Du må ha fylt 62 år for å få AFP.
+Ei ordning for tidleg pensjonering for tilsette i offentleg sektor som er 62–67 år og fødde før 1963.
 
 
-#### Bankkontonummer – slik endrer du
+#### Avtalefesta pensjon (AFP) i privat sektor
 
-Husk å sjekke hvilket kontonummer som er registrert på deg når du søker om pengestøtte fra Nav. Du kan se og endre kontonummer ved å logge inn på nav.no.
+Ei pensjonsordning for tilsette i private bedrifter med tariffavtale der AFP er ein del av avtalen.
+
+
+#### Bankkontonummer – slik endrar du
+
+Hugs å sjekke kva kontonummer som er registrert på deg når du søkjer om pengestøtte frå Nav. Du kan sjå og endre kontonummer ved å logge inn på nav.no.
 
 
 #### Barnebidrag
 
-Penger den ene forelderen betaler til den andre for å sikre at barnet forsørges når foreldrene ikke bor sammen.
+Sikrar at barnet blir forsørgt når foreldra ikkje bur saman.
 
 
 #### Barnepensjon
 
-Hvis du er under 20 år og mister en eller begge foreldrene dine, kan du få barnepensjon som sikrer deg inntekt.
+Økonomisk støtte når du er barn og har mista ein av eller begge foreldra dine.
 
 
 #### Barnetrygd
@@ -128,79 +148,79 @@ Hvis du er under 20 år og mister en eller begge foreldrene dine, kan du få bar
 Pengestøtte når du har barn under 18 år.
 
 
-#### Bestillingsordningen
+#### Bestillingsordninga
 
-Forenklet saksbehandling i Nav for å bestille enkle hjelpemidler som ikke krever individuelle tilpasninger.
-
-
-#### Bidragsforskudd
-
-En behovsprøvd pengestøtte som du kan få utbetalt hvis barnebidraget ikke blir betalt.
+Forenkla saksbehandling hos Nav for å bestille enkle hjelpemiddel som ikkje treng å tilpassast individuelt.
 
 
-#### Bil og spesialutstyr
+#### Bidragsforskot
 
-Gir økonomisk støtte til bil, tilpasning av bil og spesialutstyr til bil.
+Ei behovsprøvd pengestøtte som du kan få utbetalt viss barnebidraget ikkje blir betalt.
 
 
-#### Briller og kontaktlinser for synshemmede
+#### Bilstønad, spesialutstyr og tilskot til bil
 
-Kan bedre synsfunksjonen når du har sykdom eller skade i øyet.
+Gir økonomisk støtte til bil, tilpassing av bil og spesialutstyr til bil.
+
+
+#### Briller og kontaktlinser for synshemma
+
+Gir støtte til briller eller kontaktlinser ved augetilstand, augesjukdom eller augeliding.
 
 
 #### Briller til barn
 
-En av flere ordninger som gir økonomisk støtte til barn og unge under 18 år som trenger briller.
+Ei av fleire ordningar som gir økonomisk støtte til barn og unge under 18 år som treng briller.
 
 
-#### Briller til forebygging eller behandling av amblyopi
+#### Briller til førebygging eller behandling av amblyopi
 
-Kan forebygge eller behandle synsnedsettelsen amblyopi hos barn.
+Kan førebyggje eller behandle synsnedsetjinga amblyopi hos barn.
 
 
 #### Brukerpass
 
-Brukerpass for erfarne hjelpemiddelbrukere
+Brukarpass for erfarne hjelpemiddelbrukarar.
 
 
 #### Brystprotese
 
-Etterligner et bryst i form og størrelse, og finnes i mange ulike utgaver.
+Etterliknar eit bryst i form og storleik, og er å få i mange ulike utgåver.
 
 
-#### Dagpenger
+#### Dagpengar
 
-Dagpenger er en pengestøtte du kan få når du er arbeidsledig eller permittert.
+Dagpengar er ei pengestøtte du kan få dersom du er arbeidsledig eller permittert.
 
 
-#### Dekking av sykepenger i arbeidsgiverperioden
+#### Dekking av sjukepengar i arbeidsgivarperioden
 
-Nav dekker sykepenger i arbeidsgiverperioden hvis du har hyppig sykefravær fordi du er kronisk syk eller gravid.
+Nav dekkjer sjukepengar i arbeidsgivarperioden viss du har hyppig sjukefråvær fordi du er kronisk sjuk eller gravid.
 
 
 #### Diverse dokumentasjon
 
-Når du har fått beskjed om å sende Nav dokumentasjon i forbindelse med avklaring av arbeidsevne, oppholdstillatelse eller annet.
+Når du har fått beskjed om å sende Nav dokumentasjon i samband med avklaring av arbeidsevne, opphaldsløyve eller anna.
+
+
+#### Eingongsstønad
+
+Ein eingongssum i staden for foreldrepengar viss du ventar barn og ikkje har hatt inntekt i minst 6 av siste 10 månader før foreldrepengepermisjonen.
+
+
+#### Einsleg mor eller far som er arbeidssøkjar – send inn opplysningar
+
+Skjema arbeidssøkjarar må fylle ut når ein søkjer om overgangsstønad til einsleg mor eller far.
 
 
 #### Ektefellebidrag
 
-Et bidrag når mulighetene til å forsørge deg selv er svekket på grunn av ekteskapet eller omsorg for barna.
+Eit bidrag når moglegheitene dine til å forsørgje deg sjølv er svekte på grunn av ekteskapet eller omsorg for barna.
 
 
-#### Engangsstønad
+#### Farskap eller medmorskap fastset i utlandet – søknad om godkjenning i Noreg
 
-En engangssum i stedet for foreldrepenger ved fødsel eller adopsjon når du ikke har hatt inntekt i 6 av de siste 10 månedene.
-
-
-#### Enslig mor eller far som er arbeidssøker – send inn opplysninger
-
-Skjema arbeidssøkere må fylle ut når en søker om overgangsstønad til enslig mor eller far.
-
-
-#### Farskap eller medmorskap fastsatt i utlandet – søknad om godkjenning i Norge
-
-Farskap eller medmorskap fastsatt i utlandet kan bli godkjent i Norge.
+Farskap eller medmorskap fastsett i utlandet kan godkjennast i Noreg.
 
 
 #### Farskapserklæring
@@ -208,774 +228,754 @@ Farskap eller medmorskap fastsatt i utlandet kan bli godkjent i Norge.
 Om å erklære farskap digitalt.
 
 
-#### Foreldrepenger
+#### Foreldrepengar
 
-Erstatter inntekten din når du skal være hjemme med barnet ved fødsel eller adopsjon.
-
-
-#### Forhøyet hjelpestønad
-
-Pengestøtte til barn under 18 år når behovet for pleie og tilsyn er vesentlig større enn det ordinær hjelpestønad kan dekke.
+Erstattar inntekta di når du skal vere heime med barnet ved fødsel eller adopsjon.
 
 
-#### Forsikring – sykepenger
+#### Forsikring – sjukepengar
 
-Forsikring for å få bedre dekning når du blir sykmeldt.
+Forsikring for å få betre dekning dersom du skulle bli sjukmeld.
 
 
-#### Forstørrelses­hjelpemidler
+#### Forstørringshjelpemiddel
 
-Hvis du har en synsnedsettelse, kan ulike situasjoner og behov tilrettelegges med  forskjellige hjelpemidler for forstørring.
+Viss du har ei nedsett syn, kan ulike situasjonar og behov leggjast til rette med  ulike hjelpemiddel for forstørring.
+
+
+#### Frivillig medlemskap i folketrygda under opphald i Noreg
+
+Dei fleste som bur og jobbar i Noreg er medlemmer i folketrygda, men det finst unntak. Viss du ikkje er medlem, kan du søkje om frivillig medlemskap.
 
 
 #### Frivillig skattetrekk
 
-Et frivillig skattetrekk vil si at du ber Nav om å trekke mer skatt enn det skattekortet ditt viser. Det blir også kalt ekstra skattetrekk.
+Eit frivillig skattetrekk inneber at du blir trekt meir skatt enn det skattekortet ditt viser. Dette er også kjent som ekstra skattetrekk.
 
 
 #### Frivillig yrkesskadetrygd
 
-En frivillig forsikring for selvstendig næringsdrivende og frilansere.
+Ei frivillig forsikring for deg som er sjølvstendig næringsdrivande eller frilansar.
 
 
 #### Fullmakt
 
-Hvis andre skal få tilgang til opplysningene som Nav har om deg, må de enten ha myndighet (lovhjemmel) eller ha en fullmakt fra deg.
+Nav har teieplikt om kontakten din med Nav, inkludert opplysningar om tenester og utbetalingar du får. Dersom andre skal få tilgang til opplysningane som Nav har om deg, må dei ha fullmakt frå deg.
 
 
-#### Fullmakt ved søknad om hjelpemidler
+#### Fullmakt ved søknad om hjelpemiddel
 
-Du kan gi en hjelpemiddelformidler fullmakt til å søke om hjelpemidler på dine vegne.
+Du kan gi ein hjelpemiddelformidlar fullmakt til å søkje på dine vegner.
 
 
 #### Funksjonsassistanse i arbeidslivet
 
-Hjelper deg med praktiske oppgaver når det er nødvendig for at du skal kunne utføre jobben din.
+Hjelper deg med praktiske oppgåver når det er nødvendig for at du skal kunne utføre jobben din.
 
 
-#### Førerhund
+#### Førarhund
 
-Hjelper deg å ta deg frem innendørs og utendørs når du er blind eller svært svaksynt.
-
-
-#### Ganghjelpemidler
-
-Hjelpemidler for støtte til gange og gåtrening, blant annet rullatorer og gåstoler.
+Hjelper deg som er blind eller særs svaksynt å ta deg fram innandørs og utandørs.
 
 
-#### Gjenlevendepensjon
+#### Ganghjelpemiddel
 
-Sikrer deg inntekt hvis du har mistet ektefelle, partner eller samboer med felles barn. Du kan ikke lenger søke om gjenlevendepensjon, men du kan ha rett til omstillingsstønad.
+Hjelpemiddel som rullatorar og gåstolar for støtte til gange og gåtrening.
 
 
 #### Gravferdsstønad
 
-Et behovsprøvd bidrag som skal dekke faktiske og nødvendige utgifter til gravferden.
+Eit behovsprøvd bidrag som skal dekkje faktiske og nødvendige utgifter til gravferd.
 
 
-#### Grunnmønster og søm av klær
+#### Grunnmønster og saum av klede
 
-Brukes som grunnlag for å skreddersy klær.
+Blir brukt som grunnlag for å skreddarsy klede.
 
 
 #### Grunnstønad
 
-Pengestøtte til ekstrautgifter når du eller barnet ditt har en varig skade, sykdom eller funksjonsnedsettelse.
+Pengestøtte til ekstrautgifter når du eller barnet ditt har ein varig skade, sjukdom eller nedsett funksjon.
 
 
 #### Grønt arbeid
 
-Et tilbud om gårdsarbeid når har utfordringer med psykisk helse eller rus og ønsker hjelp til å komme i jobb.
+Eit tilbod om gardsarbeid for deg som har psykiske vanskar eller rusproblem, og ønskjer hjelp med å kome i jobb.
 
 
-#### Hev- og senkbar kjøkkenløsning
+#### Hev- og senkbar kjøkkenløysing
 
-Motorer for å justere høyde på kjøkkenbenk, overskap og hyller, slik at du kan være selvstendig på kjøkkenet.
-
-
-#### Hjelpemidler for mobilitet og orientering
-
-For deg som er blind eller har sterkt nedsatt syn, og har vanskeligheter med å forflytte eller orientere deg.
+Motorar for å justere høgde på kjøkkenbenk, overskap og hyller, slik at du kan vere sjølvstendig på kjøkkenet.
 
 
-#### Hjelpemidler for punktskrift
+#### Hjelpemiddel for mobilitet og orientering
 
-For deg som er blind eller har sterkt nedsatt syn, og som kan eller skal lære deg punktskrift.
-
-
-#### Hjelpemidler for seksuallivet
-
-Kan gi et bedre sexliv når du har nedsatt seksualfunksjon.
+For deg som er blind eller har sterkt nedsett syn, og som slit med å forflytte eller orientere deg.
 
 
-#### Hjelpemidler med lyd og tale
+#### Hjelpemiddel for punktskrift
 
-Lesemaskiner, talende husholdningsartikler og talende klokker er eksempler på hjelpemidler som kan være til god hjelp for personer med nedsatt syn.
-
-
-#### Hjelpemidler på arbeidsplassen
-
-Hjelpemidler som avhjelper funksjonshindringer og er nødvendige for at du skal få utført arbeidet ditt.
+For deg som er blind eller har sterkt nedsett syn, og som kan eller skal lære punktskrift.
 
 
-#### Hjelpemidler på bad
+#### Hjelpemiddel med lyd og tale
 
-Løst og fastmontert utstyr på bad som bidrar til at du som har vansker med bevegelse og forflyttning blir mer selvstendig.
+Lesemaskinar, talande hushaldningsartiklar og talande klokker er døme på hjelpemiddel som kan vere til stor nytte for personar med nedsett syn.
+
+
+#### Hjelpemiddel på arbeidsplassen
+
+Hjelpemiddel som avhjelper funksjonshindringar og er nødvendige for at du skal få utført arbeidet ditt.
+
+
+#### Hjelpemiddel på bad
+
+Laust og fastmontert utstyr på bad som bidrar til at du som har vansker med bevegelse og forflytning blir meir sjølvstendig.
 
 
 #### Hjelpestønad
 
-Pengestøtte til barn eller voksne som trenger langvarig, privat pleie og tilsyn.
+Pengestøtte til barn eller vaksne som treng langvarig, privat pleie og tilsyn.
 
 
 #### Honnørkort
 
-Honnørkort gir redusert billettpris på kollektive transportmidler.
+Honnørkort gir redusert billettpris på kollektive transportmiddel.
 
 
 #### Høreapparat
 
-Forsterker lyden rundt deg når du har nedsatt hørsel.
+Forsterkar lyden rundt deg når du har nedsett høyrsel.
 
 
 #### Individuell jobbstøtte (IPS)
 
-Et tilbud til deg som har psykiske utfordringer eller rusproblemer, og som ønsker hjelp til å komme i jobb eller bli i jobben
+Eit tilbod til deg som har psykiske vanskar eller rusproblem, og som ønskjer hjelp med å kome i jobb eller bli verande i jobben.
 
 
-#### Inkluderingstilskudd
+#### Inkluderingstilskot
 
-Et tilskudd til arbeidsgiveren din når du trenger tilrettelegging på arbeids- eller tiltaksplassen.
+Eit tilskot til arbeidsgivaren din når du treng tilrettelegging på arbeids- eller tiltaksplassen.
 
 
 #### Innsynskrav
 
-Forvaltningsloven regulerer retten du har til innsyn i egne saker. Dette kaller vi partsinnsyn. Reglene om innsyn gir deg mulighet til å gjøre deg kjent med de opplysningene som Nav til enhver tid har i saken din.
+Nav har teieplikt. Du kan søkje om tilgang til opplysningar eller saksdokument på vegne av ein annan enn deg sjølv, og om innsyn i eiga sak.
 
 
 #### IPS ung – individuell karrierestøtte
 
-Et tilbud når du trenger hjelp til å komme i gang med jobb eller skole og har utfordringer med psykisk helse eller rus.
+Eit tilbod til deg som har psykiske vanskar eller rusproblem, og treng hjelp til å kome i gang med jobb eller skule.
 
 
 #### Irislinser
 
-Kontaktlinser med påmalt iris eller printet iris.
+Ei spesiallaga kontaktlinse for å dekkje over ein deformert iris.
 
 
 #### Jobbklubb
 
-Hjelp til å være en aktiv jobbsøker når du er registrert som arbeidssøker hos Nav.
+Hjelper deg som er registrert som arbeidssøkjar hos Nav, med aktivt å søkje jobb.
 
 
-#### Jobbmestrende oppfølging
+#### Jobbmeistrande oppfølging
 
-Et tilbud når du trenger arbeidstrening og oppfølging og har alvorlige psykiske helseproblemer.
-
-
-#### Jobbsøkerkurs (digitalt)
-
-Et tilbud når du er arbeidssøker eller permittert.
+Eit tilbod til deg som har alvorlege psykiske helseproblem og treng arbeidstrening og oppfølging.
 
 
-#### Kalendere og planleggingssystemer
+#### Jobbsøkjarkurs (digitalt)
 
-Gir støtte til struktur, forutsigbarhet og oversikt.
-
-
-#### Kjøreliste for godkjent bruk av egen bil
-
-Nav tilbakebetaler utlegg for kjøring når vi har godkjent bruk av egen bil.
+Eit tilbod når du er arbeidssøkjar eller permittert.
 
 
-#### Klagerettigheter
+#### Kalendrar og planleggingssystem
 
-Når du søker Nav om økonomisk støtte eller en tjeneste, får du et vedtak. Du kan klage på et vedtak som du mener er feil.
+Gir struktur, føreseielegheit og oversikt.
 
 
-#### Kommunikasjonshjelpemidler – digitale
+#### Klagerettar
+
+Når du søker Nav om økonomisk støtte eller ei teneste, får du eit vedtak. Du kan klage på eit vedtak som du meiner er feil.
+
+
+#### Kommunikasjonshjelpemiddel – digitale
 
 Datamaskiner eller nettbrett med alternativ kommunikasjon og syntetisk tale.
 
 
-#### Kontaktinformasjon – slik endrer du
-
-Nav sender post til adressen du har registrert i Kontakt- og reservasjonsregisteret eller Folkeregisteret.
-
-
 #### Kontantstøtte
 
-Pengestøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
+Pengestøtte når du har barn i alderen 1–2 år som ikkje har fått fulltidsplass i barnehage.
 
 
 #### Krigspensjon
 
-Krigspensjon er en kompensasjon for nedsatt arbeidsevne på grunn av skader som følge av krigen 1939-45.
+Ein kompensasjon for nedsett arbeidsevne på grunn av skader som følgje av krigen 1939–45.
 
 
 #### Kvalifiseringsprogrammet (KVP)
 
-Et fulltidsprogram for deg mellom 18 og 67 år som trenger ekstra oppfølging for å klare å komme i jobb.
+Eit heiltidsprogram for deg mellom 18 og 67 år som treng ekstra oppfølging for å klare å komme i jobb.
+
+
+#### Køyreliste for godkjend bruk av eigen bil
+
+Nav betaler tilbake utlegg for køyring når vi har godkjent bruk av eigen bil.
 
 
 #### Lese- og sekretærhjelp
 
-Hjelper deg med lesing og skriving når du er blind eller svaksynt.
+Hjelper deg som er blind/svaksynt med å lese og skrive.
 
 
 #### Leveattest for deg som får pensjon og uføretrygd i utlandet
 
-Nav kan be deg om å levere en leveattest når du er bosatt i utlandet og får pensjon eller uføretrygd fra Nav.
+Nav kan be deg om å levere ein leveattest når du er busett i utlandet og får pensjon eller uføretrygd frå Nav.
 
 
-#### Lydutjevningsanlegg
+#### Lydutjamningsanlegg
 
-Bidrar til at du får med deg det som blir sagt når du er i rom med mange lydforstyrrelser.
-
-
-#### Lyttehjelpemidler for telefon
-
-Forsterker lyden fra telefonen når du trenger å høre telefonsamtale bedre.
+Hjelper deg å få med deg det som blir sagt, når du er i eit rom med mange forstyrrande lydar.
 
 
-#### Lyttehjelpemidler til TV og radio
+#### Lyttehjelpemiddel for telefon
 
-Sender lyden fra det du vil høre på til en ønsket mottaker hos deg.
+Forsterkar lyden frå telefonen, slik at du enklare får med deg det som samtaleparten seier.
+
+
+#### Lyttehjelpemiddel til TV og radio
+
+Sender lyden frå det du vil høyre på, til ein valfri mottakar hos deg.
 
 
 #### Løfteplattform
 
-Kan hjelpe deg som bruker rullestol til å forflytte deg mellom ulike nivå og etasjer i bygningen.
+Kan hjelpe deg som bruker rullestol til å forflytte deg mellom ulike nivå og etasjar i bustaden.
 
 
-#### Lønnsgaranti
+#### Lønsgaranti
 
-Sikrer at du får utbetalt lønn, feriepenger m.m. du har til gode når arbeidsgiveren din ikke kan betale.
-
-
-#### Medlemskap i folketrygden under opphold i EØS eller Sveits
-
-Hvis du vil vite om norske trygderegler gjelder for deg, eller trenger dokumentasjon på dette (attest A1), må du sende oss en søknad.
+Sikrar at du får utbetalt løn, feriepengar m.m. du har til gode, i tilfelle der arbeidsgivaren din ikkje kan betale.
 
 
-#### Medlemskap i folketrygden under opphold utenfor EØS
+#### Medlemskap i folketrygda under opphald i EØS eller Sveits
 
-Hvis du mister medlemskapet i folketrygden fordi du skal jobbe eller oppholde deg i utlandet, kan du søke om frivillig medlemskap.
+Dersom du skal jobbe eller opphalde deg i EØS eller Sveits, kan det påverke medlemskapet ditt i folketrygda.
+
+
+#### Medlemskap i folketrygda under opphald utanfor EØS
+
+Viss du jobbar eller oppheld deg i utlandet, kan det påverke medlemskapen din i folketrygda.
+
+
+#### Meinerstatning ved yrkesskade eller yrkessjukdom
+
+Erstatning når du har fått ein varig fysisk eller psykisk skade som skuldast ein godkjend yrkesskade eller yrkessjukdom.
 
 
 #### Meldekort
 
-For å få dagpenger, AAP eller tiltakspenger som arbeidssøker, må du sende meldekort hver 14. dag.
+For å vere registrert som arbeidssøkjar eller få dagpengar, AAP, tiltakspengar eller overgangsstønad som arbeidssøkjar, må du sende meldekort kvar 14. dag.
 
 
-#### Menerstatning ved yrkesskade eller yrkessykdom
+#### Mellombels butilbod (nødssituasjon)
 
-En erstatning for ulemper du har fått som skyldes en godkjent yrkesskade eller yrkessykdom.
+Hjelp frå Nav til å finne eit mellombels butilbod når du ikkje har ein stad å sove og opphalde deg det neste døgnet.
+
+
+#### Mellombels lønstilskot
+
+Tilskot til arbeidsgivaren din når du treng å auke moglegheitene dine til å få ein jobb med ordinær løn.
 
 
 #### Mentor
 
-Praktisk hjelp, veiledning eller opplæring når du trenger hjelp til å mestre jobb eller utdanning.
+Praktisk hjelp, rettleiing eller opplæring når du treng hjelp til å klare jobb eller utdanning.
 
 
-#### Midlertidig botilbud (nødssituasjon)
+#### Næringsfagleg vurdering
 
-Hjelp fra Nav til å finne et midlertidig botilbud når du ikke har et sted å sove og oppholde deg det neste døgnet.
-
-
-#### Midlertidig lønnstilskudd
-
-Tilskudd til arbeidsgiveren din når du trenger å øke mulighetene dine til å få en jobb med ordinær lønn.
+Dersom du får dagpengar eller arbeidsavklaringspengar og ønskjer å behalde denne pengestøtta medan du etablerer eiga verksemd, må du få ei næringsfagleg vurdering av etableringsplanane.
 
 
-#### Næringsfaglig vurdering
+#### Oljepionerane
 
-En analyse av mulighetene for at en forretningsidé vil gi inntektssikring.
-
-
-#### Oljepionerene
-
-Har du jobbet offshore i pionertiden og fått helseplager? Du kan ha rett til kompensasjon. Her finner du informasjon om hvem ordningen gjelder for, og hvordan du søker.
+Har du jobba offshore i pionertida og fått helseplager? Du kan ha rett til kompensasjon. Her finn du informasjon om kven ordninga gjeld for, og korleis du søkjer.
 
 
-#### Omsorgspenger (hjemme med sykt barn-dager)
+#### Omsorgspengar (heime med sjukt barn-dagar)
 
-Sikrer deg inntekt når du må være borte fra jobb på grunn av barns eller barnepassers sykdom.
+Sikrar deg inntekt når du må vere borte frå jobb på grunn av sjukdom hos barn eller barnepassar.
 
 
 #### Omstillingsstønad
 
-Sikrer deg inntekt hvis du mister ektefelle, partner eller samboer med felles barn. I noen tilfeller kan du få støtte hvis dere tidligere har vært gift.
+Sikrar inntekt i ein periode viss du mistar ektefelle, partnar eller sambuar med felles barn.
+
+
+#### Oppdater kontaktinformasjonen din
+
+Nav sender post til adressa du har registrert i Kontakt- og reservasjonsregisteret eller Folkeregisteret.
 
 
 #### Oppfostringsbidrag
 
-Et bidrag som kommunen kan kreve av deg når barnevernet overtar omsorgen for barnet ditt.
+Eit bidrag som kommunen kan krevje av deg når barnevernet tek over omsorga for barnet ditt.
 
 
 #### Oppfølging
 
-Tiltak når du trenger støtte for å skaffe eller beholde en jobb.
+Tiltak når du treng omfattande støtte for å skaffe eller behalde ein jobb.
 
 
-#### Opplysning, råd og veiledning
+#### Opplysning, råd og rettleiing
 
-Veiledning hos Nav når du har utfordringer med hjemmeforhold, bosituasjon, omsorg for barn, arbeid eller økonomi.
+Rettleiing frå Nav når du har utfordringar med heimeforhold, busituasjon, omsorg for barn, arbeid eller økonomi.
 
 
-#### Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse
+#### Opplysningsskjema for avtalefesta pensjon (AFP) frå Statens pensjonskasse
 
-Veiledning til skjema med opplysninger til Nav når du er født før 1963 og skal søke om avtalefestet pensjon (AFP) fra Statens pensjonskasse.
+Hjelp til å fylle ut eit skjema med opplysningar til Nav når du skal søkje om avtalefesta pensjon (AFP) frå Statens pensjonskasse.
 
 
 #### Opplæring
 
-Et tilbud når du trenger kvalifisering for å kunne få jobb.
+Eit tilbod når du treng kvalifisering for å kunne få jobb.
 
 
-#### Opplæringspenger
+#### Opplæringspengar
 
-Sikrer deg inntekt under fravær fra jobb når du er i opplæring for å kunne ta vare på et barn.
+Sikrar deg inntekt under fråvær frå jobb når du er i opplæring for å kunne ta vare på eit barn.
 
 
 #### Ortopediske sko
 
-Hjelper deg når du har ulike problemer med føttene.
+Hjelper deg når du har ulike problem med føtene.
 
 
-#### Ortoser
+#### Ortosar
 
-Stabiliserer eller gir bedre funksjon når du har en kroppsdel som er lammet eller svekket.
-
-
-#### Overgangsstønad til enslig mor eller far
-
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Stabiliserer eller gir betre funksjon når du har ein kroppsdel som er lamma eller svekt.
 
 
-#### Overgangsstønad til gjenlevende
+#### Overgangsstønad til attlevande
 
-Overgangsstønad sikrer deg inntekt når ekteskapet har vart i mindre enn 5 år og dere ikke har felles barn, eller hvis du har daglig omsorg for den avdødes barn.
-
-
-#### Parykk og annen hårerstatning
-
-Erstatter eget hår på hele hodet, eller deler av hodet.
+Sikrar inntekt når ekteskapet har vart i mindre enn 5 år og de ikkje har felles barn, eller dersom du har den daglege omsorga for barna til avdøde.
 
 
-#### Pensjonsopptjening ved omsorg for barn
+#### Overgangsstønad til einsleg mor eller far
 
-Du kan få pensjonsopptjening hvis du har eller har hatt daglig omsorg for barn under 6 år, eller barn mellom 6 og 18 år som er syke eller har funksjonsnedsettelser.
-
-
-#### Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser
-
-Du kan ha rett til pensjonsopptjening hvis du tar deg av en person som er syk, eldre eller har en funksjonsnedsettelse. Dette kalles omsorgsopptjening.
+Sikrar deg inntekt i inntil 3 år når du har minst 60 prosent av den daglege omsorga for barn under 8 år.
 
 
-#### Personløftere og overflyttingsplattformer
+#### Parykk
 
-Trygge løft og overflyttinger for deg som har vansker med bevegelse og forflytning.
-
-
-#### Pleiepenger for en utviklingshemmet person over 18 år
-
-Sikrer deg inntekt under fravær fra jobb når du må ta vare på en utviklingshemmet person over 18 år som er svært alvorlig syk.
+Erstattar eige hår på heile eller delar av hovudet.
 
 
-#### Pleiepenger for sykt barn
+#### Pensjonsopptening ved omsorg for barn
 
-Sikrer deg inntekt når du ikke kan jobbe fordi barnet ditt er innlagt eller følges opp av spesialisthelsetjenesten.
+Du kan søkje om pensjonsopptening dersom du har eller har hatt den daglege omsorga for små barn.
 
 
-#### Pleiepenger i livets sluttfase
+#### Pensjonsopptening ved omsorg for sjuke, eldre og personar med nedsett funksjon
 
-Sikrer deg inntekt under fravær fra jobb når du må ta vare på en person som er i livets sluttfase.
+Du kan søkje om pensjonsopptening for omsorgsarbeid dersom du tek deg av ein eldre person eller ein person som er sjuk eller har nedsett funksjon.
+
+
+#### Personløftarar og overflyttingsplattformer
+
+Trygge løft og overflyttingar for deg som har vanskar med rørsle og flytting.
+
+
+#### Pleiepengar for ein utviklingshemma person over 18 år
+
+Sikrar deg inntekt under fråvær frå jobb når du må ta vare på ein utviklingshemma person over 18 år som er svært alvorleg sjuk.
+
+
+#### Pleiepengar for sjukt barn
+
+Sikrar deg inntekt når du ikkje kan jobbe forbi barnet ditt er innlagt eller blir følgt opp av spesialisthelsetenesta.
+
+
+#### Pleiepengar i sluttfasen av livet
+
+Sikrar deg inntekt under fråvær frå jobb når du må ta vare på ein person som er i sluttfasen av livet.
 
 
 #### Posisjoneringsputer
 
-For støtte og posisjonering i liggende og sittende stilling.
+Spesialtilpassa puter for støtte og posisjonering i liggjande og sitjande stilling.
 
 
 #### Programvare for lese- og skrivestøtte
 
-Programvare som støtter lese- og skrivearbeid for deg som har lese- og skrivevansker.
+Programvare som gjer det enklare å lese og skrive dersom du har lese- og skrivevanskar. Viss du er under 18 år, må du få søknaden signert av ein føresett eller verje.
 
 
 #### Programvare for å lage trykt kommunikasjonsmateriell
 
-Gjør at du selv kan lage, redigere og skrive ut kommunikasjonsmateriell.
+Programvare for å lage, redigere og skrive ut mellom anna kommunikasjonstavler, kommunikasjonsbøker (snakkebøker), dagstavler og overlegg til talemaskiner.
 
 
 #### Ramper
 
-Ramper, terskeleliminator og skråbrett bidrar til terskelfri adkomst til bolig, og mellom rom med terskler og nivåforskjeller.
+Ramper, terskeleliminator og skråbrett. Gir terskelfri tilkomst til bustad, og mellom rom med høgdeforskjellar.
 
 
 #### Reisekostnader ved samvær
 
-Hvordan fordele reisekostnader ved samvær med barn.
+Korleis fordele reisekostnader ved samvær.
 
 
-#### Reisetilskudd
+#### Reisetilskot
 
-Tilskudd i stedet for sykepenger når det gjør at du kan jobbe helt eller delvis. Du kan også få reisetilskudd sammen med graderte sykepenger.
+Tilskudd i staden for sjukepengar når det gjer at du kan jobbe heilt eller delvis. Du kan også få reisetilskot saman med graderte sjukepengar.
 
 
 #### Reiseutgifter
 
-Du kan få dekket reiseutgiftene dine når du skal prøve, tilpasse eller reparere et hjelpemiddel.
+Dekkjer reiseutgiftene dine når du skal prøve ut, tilpasse eller reparere eit hjelpemiddel.
 
 
 #### Rullestol og scooter
 
-Manuelle og elektriske rullestoler for deg med nedsatt gangfunksjon
+Manuelle og elektriske rullestolar for deg med nedsett gangfunksjon.
 
 
-#### Samtale – hjelpemidler
+#### Samtale – hjelpemiddel
 
-Gjør det lettere å delta i samtaler når du har nedsatt hørsel.
-
-
-#### Samtykke fra foresatte
-
-Hvis du er under 18 år og vil registrere deg for å få oppfølging fra Nav, må du ha samtykke fra dine foresatte.
+Gjer det lettare å delta i samtalar når du har nedsett høyrsel.
 
 
-#### Senger, madrasser, tilbehør og forflytning
+#### Samtykke fra føresette
 
-Senger, madrasser, hjertebrett, sengebord og hjelpemidler for overflytting og vending i seng.
+Viss du er under 18 år og ønskjer oppfølging og rettleiing frå Nav, må du ha samtykke frå dine føresette.
 
 
-#### Senter for jobbmestring
+#### Seksualtekniske hjelpemiddel
 
-Et tilbud når du har angst eller depresjon og trenger hjelp til å komme eller bli i jobb.
+Kan bidra til eit betre sexliv når du har nedsett seksualfunksjon.
+
+
+#### Senger, madrassar, tilleggsutstyr og forflytting
+
+Senger, madrassar, hjartebrett, sengebord og hjelpemiddel for overflytting og vending i seng.
+
+
+#### Senter for jobbmeistring
+
+Eit tilbod når du har angst eller depresjon og treng hjelp med å kome eller bli verande i jobb.
 
 
 #### Servicehund
 
-Hjelper deg i hverdagen når du har fysiske funksjonsnedsettelser.
+Hjelper deg i kvardagen når du har nedsett funksjon.
+
+
+#### Sitjeputer som førebyggjer trykksår
+
+Puter med ekstra polstring som beskyttar og skal gi eit godt sete i rullestolen.
+
+
+#### Sjukepengar
+
+Erstattar inntekta di når du ikkje kan jobbe på grunn av sjukdom eller skade.
 
 
 #### Skjermtolk
 
-Gir skrivetolking og tegnspråktolking på skjerm når du har nedsatt hørsel.
+Gir skrive- og teiknspråktolking på skjerm når du har nedsett høyrsel.
 
 
 #### Spesialbelysning
 
-Ekstra belysning som bærbare lykter eller lyssterke arbeidslamper som er spesialutviklet for personer med varig nedsatt syn.
+Ekstra belysning i form av berbare lykter eller lyssterke arbeidslamper som er utvikla spesifikt for personar med varig nedsett syn.
 
 
-#### Stemmeforsterkere
+#### Stemmeforsterkarar
 
-Kan hjelpe deg med svak tale eller som sliter med å bli hørt i støyende omgivelser.
+Kan hjelpe deg med svak tale eller som slit med å bli høyrd i støyande omgivnader.
 
 
 #### Stol med oppreisingsfunksjon
 
-Stoler som gir hjelp til å reise seg opp på en trygg måte.
+Stolar som gir hjelp til å reise seg opp på ein trygg måte.
 
 
-#### Stoler og bord
+#### Stolar og bord
 
-Arbeidsstoler og andre spesialutviklede stoler og bord.
-
-
-#### Studier med støtte
-
-Et tilbud når du har psykiske helseproblemer og trenger hjelp til å gjennomføre skolegang eller studier.
+Arbeidsstolar og andre spesialutvikla stolar og bord.
 
 
-#### Stønad til barnetilsyn for enslig mor eller far
+#### Studiar med støtte
 
-Dekker deler av utgiftene til barnehage, skolefritidsordning (SFO) eller dagmamma når du er alene med barn og er i arbeid.
-
-
-#### Stønad til barnetilsyn for gjenlevende ektefelle
-
-Dekker deler av utgiftene til barnepass når du er en gjenlevende ektefelle som er i arbeid og alene om omsorgen for barnet ditt.
+Eit tilbod når du har psykiske helseproblem og treng hjelp til å gjennomføre skulegang eller studiar.
 
 
-#### Stønad til skolepenger for enslig mor eller far
+#### Stønad til barnetilsyn for attlevande ektefelle
 
-Dekker utgifter til studieavgift, semesteravgift og eksamens- gebyr når du tar utdanning og er alene med barn.
-
-
-#### Stønad til skolepenger for gjenlevende ektefelle
-
-Dekker utgifter til studieavgift, semesteravgift og eksamensgebyr når du tar utdanning og er alene med barn.
+Dekkjer delar av utgiftene til barnepass for deg som er attlevande ektefelle som er i arbeid og åleine om omsorga for eige barn.
 
 
-#### Stønad til skolepenger for tidligere familiepleiere
+#### Stønad til barnetilsyn for einsleg mor eller far
 
-Pengestøtte til studieavgift, semesteravgift og eksamensgebyr når du tar utdanning.
+Dekkjer delar av utgiftene til barnehage, skulefritidsordning (SFO) eller dagmamma når du er åleine med barn og er i arbeid.
+
+
+#### Stønad til skulepengar for attlevande ektefelle
+
+Dekkjer utgifter til studieavgift, semesteravgift og eksamensgebyr når du tek utdanning og er åleine med barn.
+
+
+#### Stønad til skulepengar for einsleg mor eller far
+
+Dekkjer utgifter til studieavgift, semesteravgift og eksamens- gebyr når du tek utdanning og er åleine med barn.
+
+
+#### Stønad til skulepengar for tidlegare familiepleiarar
+
+Pengestøtte til studieavgift, semesteravgift og eksamensgebyr når du tek utdanning.
 
 
 #### Stønad ved båretransport
 
-Et bidrag som skal dekke utgifter til transport når båren må fraktes over lengre avstander.
+Eit bidrag som skal dekkje utgifter til transport når båra må fraktast over lengre avstandar.
 
 
 #### Støtte til arbeids- og utdanningsreiser
 
-Gir støtte til taxi til og fra jobb eller utdanning når du har vanskeligheter med å forflytte deg.
+Gir støtte til taxi til og frå jobb eller skule dersom du har vanskar med å forflytte deg.
 
 
-#### Støtte til folkehøyskole
+#### Støtte til folkehøgskule
 
-Dekker ekstrautgifter når du går tilrettelagt linje med opplæring i daglige aktiviteter.
+Dekkjer ekstrautgifter når du går på ei tilrettelagd linje med opplæring i daglege aktivitetar.
 
 
-#### Støypropper
+#### Støyproppar
 
-Beskytter mot ubehagelig eller smertefull lyd når du har nedsatt toleranse for lyd.
+Vernar mot ubehageleg eller smertefull lyd når du har nedsett toleranse for lyd.
 
 
 #### Ståstativ
 
-Et støttestativ som hjelper deg å komme i oppreist stilling.
+Gir støtte til å kome i oppreist stilling.
 
 
-#### Supplerende stønad for personer over 67 år med kort botid i Norge
+#### Supplerande stønad for personar over 67 år med kort butid i Noreg
 
-Sikrer deg en minste samlet inntekt hvis du får ingen eller redusert pensjon fordi du har bodd for kort tid i Norge.
-
-
-#### Supplerende stønad for uføre flyktninger under 67 år
-
-Sikrer deg en samlet inntekt som tilsvarer minste ytelse for uføretrygd hvis du er ufør og har flyktningstatus.
+Sikrar deg ei minste samla inntekt når du ikkje har rett til full alderspensjon fordi du berre har budd i Noreg i kort tid.
 
 
-#### Svangerskapspenger
+#### Supplerande stønad for uføre flyktningar under 67 år
 
-Erstatter inntekt når du er frisk, men ikke kan fortsette å jobbe under svangerskapet fordi det kan medføre risiko for barnet.
+Sikrar deg som er ufør og har flyktningstatus ei samla inntekt lik minste yting for uføretrygd.
 
 
-#### Sykepenger
+#### Svangerskapspengar
 
-Erstatter inntekten din når du ikke kan jobbe på grunn av sykdom eller skade.
+Erstattar inntekt når du er frisk, men ikkje kan halde fram i jobben under svangerskapet fordi det kan medføre risiko for barnet.
 
 
 #### Sykkel
 
-Gir bedre fremkommelighet og større muligheter i hverdagen.
+Gir betre framkome og fleire moglegheiter i kvardagen.
 
 
-#### Særbidrag (tidligere bidrag til særlige utgifter)
+#### Særbidrag (tidlegare bidrag til særlege utgifter)
 
-Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
-
-
-#### Søk om frivillig medlemskap under opphold i Norge
-
-Hvis du skal jobbe eller oppholde deg i Norge, og du ikke er pliktig medlem i folketrygden, kan du søke om frivillig medlemskap.
+Bidra til ekstrautgifter som ikkje blir dekt av det vanlege barnebidraget, som til dømes konfirmasjon, briller eller tannregulering.
 
 
 #### Talemaskiner, enkle
 
-Gir mulighet for korte uttrykk og beskjeder som kan gi støtte i lek og samspill.
+Gir moglegheit for korte uttrykk og beskjedar som kan gi støtte i leik og samspel.
 
 
 #### Teleslynge
 
-Forsterker lyd slik at du kan høre eller oppfatte tale når du har nedsatt hørsel.
+Forsterkar lyden slik at du kan høyre eller oppfatte tale når du har nedsett høyrsel.
 
 
-#### Tidsnedtellere, tidtakere, påminnelser og alarmer
+#### Tidsnedteljarar, tidtakarar, påminningar og alarmar
 
-Hjelpemidler for deg som trenger hjelp til å forstå, visualisere og huske på tid.
+Tidsnedteljarar, tidtakarar, påminningar og alarmar kan vere til god nytte når du slit med å forstå, visualisere og hugse tid.
 
 
-#### Tilbehør til høreapparat
+#### Tilbehøyr til høgreapparat
 
-Gjør at du kan bruke høreapparat i flere situasjoner og andre sammenhenger.
+Gjer at du kan bruke høyreapparatet i fleire situasjonar og andre samanhengar.
 
 
 #### Tilleggsstønader
 
-Støtte til utgifter når du gjennomfører arbeidsrettet tiltak som du har avtalt med Nav.
+Støtte til barnepass og utgifter når du gjennomfører utdanning eller jobbsøking.
 
 
-#### Tilleggsstønader til enslig mor eller far
+#### Tilleggsstønader til attlevande ektefelle
 
-Støtte til barnepass og utgifter til utdanning eller jobbsøking når du er alene med barn.
-
-
-#### Tilleggsstønader til gjenlevende ektefelle
-
-Støtte til barnepass og utgifter når du tar utdanning eller søker jobb.
+Støtte til barnepass og utgifter når du tek utdanning eller søkjer jobb.
 
 
-#### Tilleggsstønader til tidligere familiepleiere
+#### Tilleggsstønader til einsleg mor eller far
 
-Støtte til utgifter når du gjennomfører nødvendig og godkjent utdanning for å komme i eller beholde arbeid.
-
-
-#### Tilpasningskurs - nedsatt syn og hørsel
-
-Gir verktøy og kunnskap når du har nedsatt syn eller nedsatt hørsel.
+Støtte til barnepass og utgifter til utdanning eller jobbsøk når du er åleine med barn.
 
 
-#### Tilskudd til apper og programvare
+#### Tilleggsstønader til tidlegare familiepleiarar
 
-Gir økonomisk støtte til apper og programvare spesielt utviklet for ulike funksjonsnedsettelser.
-
-
-#### Tilskudd til ekspertbistand
-
-Er tilskudd når du og arbeidsgiveren din trenger hjelp fra en ekspert på sykefravær og arbeidsmiljø.
+Støtte til utgifter når du gjennomfører nødvendig og godkjend utdanning for å kome i arbeid eller behalde jobben din.
 
 
-#### Tilskudd til kjøp av PC eller nettbrett ved lese- og skrivevansker
+#### Tilpassingskurs – nedsett syn og høyrsel
 
-Gir økonomisk støtte til barn med spesifikke lese- og skrivevansker som dysleksi.
-
-
-#### Tilskudd til ombygging
-
-Økonomisk tilskudd til ombygging i stedet for rampe og heis, for å oppnå en varig tilrettelagt bolig.
+Gir verktøy og kunnskap når du har nedsett syn/høyrsel.
 
 
-#### Tilskudd til rimelige hjelpemidler
+#### Tilskot til appar og programvare
 
-Gir økonomisk støtte når du trenger rimelige hjelpemidler som du ikke kan låne av Hjelpemiddelsentralen.
-
-
-#### Tilskudd til sommerjobb
-
-En støtteordning for arbeidsgivere når du ønsker arbeidserfaring og trenger hjelp til å finne en aktuell arbeidsgiver.
+Gir økonomisk støtte til appar og programvare som er utvikla spesifikt for ulike funksjonsnedsetjingar.
 
 
-#### Tiltakspenger
+#### Tilskot til ekspertbistand
 
-En pengestøtte du kan få når du er i et arbeidsmarkedstiltak.
-
-
-#### Tinnitusmaskerer
-
-Lager motlyd for å dempe tinnitus (også kalt øresus) når det er stille eller når du skal sove.
+Eit tilskot når du og arbeidsgivaren din treng hjelp frå ein ekspert på sjukefråvær og arbeidsmiljø.
 
 
-#### Tips Nav om mulig trygdesvindel
+#### Tilskot til kjøp av PC eller nettbrett ved lese- og skrivevanskar
 
-Nav tar imot tips om mulig trygdesvindel. Du kan velge å gi tips anonymt eller være åpen om din identitet.
+Gir økonomisk støtte til barn med spesifikke lese- og skrivevanskar som t.d. dysleksi.
+
+
+#### Tilskot til ombygging
+
+Økonomisk tilskot til ombygging i staden for rampe og heis, for å oppnå ein varig tilrettelagt bustad.
+
+
+#### Tilskot til rimelege hjelpemiddel
+
+Gir økonomisk støtte når du treng rimelege hjelpemiddel som du ikkje kan låne av Hjelpemiddelsentralen.
+
+
+#### Tilskot til sommarjobb
+
+Ei støtteordning for arbeidsgivarar når du ønskjer arbeidserfaring og treng hjelp med å finne ein aktuell arbeidsgivar.
+
+
+#### Tiltakspengar
+
+Dette er ei pengestøtte du kan få når du er i eit arbeidsmarknadstiltak.
+
+
+#### Tinnitusmaskerar
+
+Lagar motlyd for å dempe tinnitus (også kalla øyresus) når det er stille eller du skal sove.
+
+
+#### Tips Nav om mogleg trygdesvindel
+
+Nav tek imot tips om mogleg trygdesvindel. Du kan velje å gi tips anonymt eller vere open om identiteten din.
 
 
 #### Tolk for ulike talespråk
 
-Du kan ha rett på språktolk eller tolk for døve, hørselshemmede og døvblinde når du skal i en samtale med Nav.
+Eit tilbod om språktolk eller tolk for døve, høyrselshemma og døvblinde når du skal i ein samtale med Nav.
 
 
-#### Tolkebestilling for døve, døvblinde og hørselshemmede
+#### Tolkebestilling for døve, døvblinde og høyrselshemma
 
-Før du kan bestille tolk for døve, døvblinde og hørselshemmede til et oppdrag, må du søke og ha fått innvilget tolk. Det er også mulig å bestille tolk på vegne av andre.
-
-
-#### Tolking for døve, døvblinde og hørselshemmede
-
-Tolketjenesten utfører tolkeoppdrag for døve, døvblinde og hørselshemmede.
+Før du kan bestille tolk for døve, døvblinde og høyrselshemma til eit oppdrag, må du søkje og ha fått innvilga tolk.
 
 
-#### Trappeheis og støttesystemer i trapp
+#### Tolking for døve, døvblinde og høyrselshemma
 
-Heis med sete eller plattform som gjør at du som har nedsatt gangfunksjon kan bruke en trapp.
+Du må ha søkt om og fått innvilga tolk for døve, døvblinde og høyrselshemma før du kan bestille tolk til eit oppdrag.
+
+
+#### Trappeheis og støttesystem i trapp
+
+Heis med sete eller plattform slik at du kan bruke trapp sjølv om du har nedsatt gangfunksjon.
 
 
 #### Trening, stimulering og aktivisering
 
-Hjelpemidler for å forbedre eller opprettholde motorisk eller kognitiv funksjonsevne.
+Hjelpemiddel for å forbetre eller halde oppe motorisk eller kognitiv funksjonsevne.
 
 
 #### Trygdeavgift
 
-Er du medlem eller har rettigheter i folketrygden, må du som regel betale trygdeavgift. Med trygdeavgiften bidrar du til finansiering av folketrygden.
+Er du medlem eller har rettar i folketrygda, må du som regel betale trygdeavgift. Med trygdeavgifta bidreg du til finansiering av folketrygda.
 
 
-#### Trykkede kommunikasjonshjelpemidler
+#### Trykte kommunikasjonshjelpemiddel
 
-Papirbaserte symbolpakker og bøker for å kommunisere.
-
-
-#### Trykksårforebyggende sitteputer
-
-Anatomisk formede puter til for eksempel rullestol.
+Symbolpakkar i ulike format som mogleggjer kommunikasjon og bygg ned språkbarrierar.
 
 
 #### Uføretrygd
 
-Skal sikre deg inntekt når inntektsevnen din er varig redusert på grunn av sykdom eller skade.
+Sikrar deg inntekt når inntektsevna di er varig redusert på grunn av sjukdom eller skade.
 
 
 #### Ungdomsprogrammet
 
-Et fulltidsprogram for deg mellom 18 og 30 år som trenger hjelp fra Nav til å komme ut i jobb. Dette er et forsøk som testes på et utvalg Nav-kontorer i Agder, Vestland, og Vestfold og Telemark.
+Eit heiltidsprogram for deg mellom 18 og 30 år som treng hjelp frå Nav til å komme ut i jobb. Dette er eit forsøk som blir testa på eit utval Nav-kontor i Agder, Vestland, og Vestfold og Telemark.
 
 
-#### Utvidet barnetrygd
+#### Utvida barnetrygd
 
-Et tillegg til ordinær barnetrygd når du bor alene med barn under 18 år.
+Eit tillegg til ordinær barnetrygd når du bur åleine med barn under 18 år.
 
 
-#### Varig lønnstilskudd
+#### Varig lønstilskot
 
-Et tilskudd som skal øke mulighetene dine til å få en vanlig jobb når du har varig og vesentlig nedsatt arbeidsevne.
+Eit tilskot som skal auke moglegheitene dine til å skaffe deg ein vanleg jobb når du har varig og vesentleg nedsett arbeidsevne.
 
 
 #### Varig tilrettelagt arbeid
 
-Et tilbud for deg som har uføretrygd når du jobber i en skjermet eller ordinær bedrift med tilpassede arbeidsoppgaver.
+Eit tilbod for deg som har uføretrygd og jobbar med tilpassa arbeidsoppgåver i ei skjerma eller ordinær bedrift.
 
 
-#### Varmehjelpemidler
+#### Varmehjelpemiddel
 
-Votter, hansker, sokker og såler med varmeelementer.
-
-
-#### Varslingshjelpemidler
-
-Påminnelser og varsling til pårørende eller andre nærpersoner.
+Vottar, hanskar, sokkar og solar med varmeelement.
 
 
-#### Varslingsutstyr for hørsel
+#### Varslingshjelpemiddel
 
-Hjelper deg å oppfatte varsler fra for eksempel røykvarsler, dørklokke, barnegråt eller telefon.
+Påminningar og varsling til pårørande eller andre nærståande. Til dømes komfyrvakt, tidsur og epilepsivarsling.
+
+
+#### Varslingsutstyr for høyrsel
+
+Hjelper deg å fange opp lyden av til dømes ein røykvarslar, ei dørklokke, barnegråt eller ein telefon.
 
 
 #### Vogner
 
-For personer som ikke kan dra nytte av rullestol eller som trenger vogn for avlastning.
+Spesielle vogner for personar som ikkje kan nytte seg av rullestol eller som treng vogn for avlastning.
 
 
-#### Yrkesskade eller yrkessykdom - skademelding til Nav
+#### Yrkesskade eller yrkessjukdom – skademelding til Nav
 
-Det er arbeidsgivere, Forsvaret, rektorer og andre i lignende stillinger som har digital meldeplikt til Nav ved yrkesskade eller yrkessykdom.
-
-
-#### Ytelser til tidligere familiepleier
-
-Ytelsen sikrer deg inntekt hvis du ikke kan forsørge deg selv etter å ha pleid foreldre eller andre personer som har stått deg nær.
+Yrkesskade er definert som personskade, sjukdom eller dødsfall som skuldast ei arbeidsulukke. Ein sjukdom kan godkjennast som yrkessjukdom dersom årsaka er skadeleg påverknad frå arbeidet, og sjukdommen er nemnd i forskrifta om yrkessjukdomar.
 
 
-#### Økonomi- og gjeldsrådgivning
+#### Ytingar til tidlegare familiepleiar
 
-Nav kan gi deg råd om privatøkonomien din. Tjenesten er gratis, og du bør søke hjelp så tidlig som mulig.
+Sikrar deg inntekt når du ikkje kan forsørgje deg sjølv etter at pleieforholdet er slutt.
+
+
+#### Økonomi- og gjeldsrådgiving
+
+Nav kan gi deg råd om privatøkonomien din. Tenesta er gratis, og du bør søkje hjelp så tidleg som mogleg.
 
 
 #### Økonomisk sosialhjelp
 
-En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
-
-
-#### Øyeprotese
-
-Erstatter øyet når du mangler et øye, eller har skadet øyet.
-
-
-#### Øyestyringssystemer
-
-Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
+En mellombels støtte du kan få dersom du ikkje klarer å dekkje nødvendige utgifter på eiga hand.
 
 
 ---
@@ -985,3 +985,4 @@ Gjør det mulig for personer med motoriske vansker å betjene datautstyr.
 
 - **2026-06-17** Første gang hentet
 - **2026-06-25** Innhold endret (se git-historikk for diff)
+- **2026-07-04** Innhold endret (se git-historikk for diff)

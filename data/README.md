@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-07-03 22:54 UTC*
+*Sist oppdatert: 2026-07-04 05:33 UTC*
 
 **Antall dokumenter:** 6434
 
@@ -6426,7 +6426,7 @@ Lovdata
 - [Rente for fremføring av underskudd og overskytende friinntekt (utgått sats)](skatt/satser/rente-for-fremforing-av-underskudd-og-overskytende-friinntekt.md)
 - [Rente for leie av flyttbar produksjonsinnretning på kontinentalsokkelen (utgått sats)](skatt/satser/rente-for-leie-av-flyttbar-produksjonsinnretning-pa-kontinentalsokkelen.md)
 - [Renter ved endring etter vedtak og egenretting](skatt/satser/renter-ved-endring-etter-vedtak-og-egenretting.md)
-- [Renter ved utsatt betaling av fomuesskatt beregnet på virksomhetsformue](skatt/satser/renter-ved-utsatt-betaling-av-fomuesskatt-beregnet-pa-virksomhetsformue.md)
+- [Renter ved utsatt betaling av formuesskatt beregnet på virksomhetsformue](skatt/satser/renter-ved-utsatt-betaling-av-fomuesskatt-beregnet-pa-virksomhetsformue.md)
 - [Rentesatser på tilgodebeløp, restskatt og resterende skatt](skatt/satser/rentesatser-pa-tilgodebelop-restskatt-og-resterende-skatt.md)
 - [Representasjonskostnader – beløpsgrenser for fradrag](skatt/satser/representasjonskostnader.md)
 - [Rettsgebyr](skatt/satser/rettsgebyr.md)

@@ -1,17 +1,17 @@
-<!-- innholds-hash: b0365e3a902c6dc620f096c9a3de52d5a86c47b601fa8ef053c75f74ad28e49c -->
+<!-- innholds-hash: 5dc52bd47990b973059d71e81cff0a818d8cf9c3f2ba2dfda3ed475a323ca6d8 -->
 
-# Renter ved utsatt betaling av fomuesskatt beregnet på virksomhetsformue
+# Renter ved utsatt betaling av formuesskatt beregnet på virksomhetsformue
 
 ## Kildeinformasjon
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/renter-ved-utsatt-betaling-av-fomuesskatt-beregnet-pa-virksomhetsformue/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T14:20:04Z
+- **Sist hentet:** 2026-07-04T02:14:43Z
 
 ## Innhold
 
 
-## Renter ved utsatt betaling av fomuesskatt beregnet på virksomhetsformue
+## Renter ved utsatt betaling av formuesskatt beregnet på virksomhetsformue
 
 Du kan søke om å utsette betaling av formuesskatt beregnet på virksomhetsformue i opp til tre år. Den utsatte betalingen har en egen rentesats.
 
@@ -24,3 +24,4 @@ Etter skattebetalingsloven § 9-3 fjerde ledd skal det beregnes særskilte rente
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-07-04** Innhold endret (se git-historikk for diff)
