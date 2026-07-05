@@ -1,11 +1,11 @@
-<!-- innholds-hash: 83641de960f9691a0f516e9b1009fd51943883e57b18387be58c6982ae7b8f4d -->
+<!-- innholds-hash: a188f13e2c9d6ab91c3c95eb48298a82f8f6b0fcc51c7cb9b7f808a32ae946e1 -->
 
 # Digitalt jobbsøkerkurs - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/digitalt-jobbsokerkurs
-- **Sist hentet:** 2026-06-27T15:15:43Z
+- **Sist hentet:** 2026-07-05T13:52:37Z
 
 ## Innhold
 
@@ -69,7 +69,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -79,7 +79,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -90,3 +90,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

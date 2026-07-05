@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4f2135c81ba8bb6e3363452cb9166f3a391046f5b8dc407974312f75f8b1dbc7 -->
+<!-- innholds-hash: 107d73999aa0f48df96923af6251dfadc10196a0be2ac08e9ceb208efdb71b8b -->
 
 # Personvernerklæring for Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personvernerklaering
-- **Sist hentet:** 2026-05-17T19:44:12Z
+- **Sist hentet:** 2026-07-05T14:43:49Z
 
 ## Innhold
 
@@ -96,7 +96,7 @@ Når vi benytter oss av eksterne leverandører, stiller vi strenge krav til sikk
 
 Nav forvalter store mengder personopplysninger, noe som stiller høye krav til sikkerhet.
 
-Etaten har etablert et eget styringssystem for å ivareta krav til informasjonssikkerhet. Dette omfatter blant annet fysisk sikkerhet, sikkerhet i IT-systemer, risikostyring og planer for beredskap og krisehåndtering.
+Etaten har etablert et eget styringssystem for å ivareta krav til informasjonssikkerhet. Dette omfatter blant annet fysisk sikkerhet, sikkerhet i IT-systemer, risikostyring, jevnlige loggkontroller og planer for beredskap og krisehåndtering.
 
 Vi innhenter og utleverer personopplysninger om deg til andre offentlige eller private virksomheter.
 
@@ -181,7 +181,7 @@ Dersom du har lidd skade som følge av at dine personopplysninger er blitt misbr
 
 Du kan la en ideell organisasjon representere deg. Organisasjonen kan representere deg for eksempel ved å klage på dine vegne. Det står mer om kravene til organisasjonen og hvordan den kan representere deg i
 
-Oppdatert 17.03.2026
+Oppdatert 03.07.2026
 
 
 ---
@@ -190,3 +190,4 @@ Oppdatert 17.03.2026
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

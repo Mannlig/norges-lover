@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05f33b93a424d54d23a886c848e3bf87bd708ccfc88f30f326dd9e8ff13054a6 -->
+<!-- innholds-hash: 445ff2fe30138d9ef5377807ada9e07692f360f8108f067398570573f3614378 -->
 
 # Nav hjelpemiddelsentral Vestfold og Telemark - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestfold-og-telemark
-- **Sist hentet:** 2026-06-12T01:25:07Z
+- **Sist hentet:** 2026-07-05T14:19:46Z
 
 ## Innhold
 
@@ -168,6 +168,8 @@ I Vestfold og Telemark er det Nav bilsenter Østlandet som har ansvar for å hje
 
 Skal du sende oss dokumentasjon kan du gjøre det via
 
+Stikk-innom på hørsel holder stengt hele juli.
+
 Stikk-innom-tilbudet er på tirsdager klokka 12.00-15.00. Adressen er Rødbølveien 26, 3270 Larvik.
 
 Tilbudet er for deg som ønsker en prat med en hørselsfaglig rådgiver, eller trenger hjelp til hjelpemidler som er tilpasset ved Nav hjelpemiddelsentral.
@@ -184,3 +186,4 @@ Hvis du har problemer med høreapparatene dine, skal du ta kontakt ØNH-klinikke
 
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

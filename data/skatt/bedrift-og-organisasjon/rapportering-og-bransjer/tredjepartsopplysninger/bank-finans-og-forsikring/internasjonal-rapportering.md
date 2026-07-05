@@ -1,4 +1,4 @@
-<!-- innholds-hash: bd16a59b8e398b8a02bc74b543713c0d73be31d99da141c883812dbbcc5eb401 -->
+<!-- innholds-hash: d17bb481b2daa1a96688b06a8b4a2c7aa5d8ae1637ccba845d9a3d6d1c84c7ec -->
 
 # Internasjonal rapportering (CRS/FATCA)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/internasjonal-rapportering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T23:03:49Z
+- **Sist hentet:** 2026-07-05T10:42:43Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Virksomheter omfattet av CRS/FATCA-reglene skal levere opplysninger til Skatteet
 
 Amerikanske skattemyndigheter har
 
-Fra 1. januar 2026 er det foreslått endringer i skatteforvaltningsloven og tilhørende forskrift i kraft som følge av revidert Common Reporting Standard (CRS). Endringene utvider opplysningsplikten for opplysningspliktige, blant annet om digitale pengeprodukter, sentralbankpenger, finansielle instrumenter knyttet til kryptoeiendeler og innfører
+Fra 1. januar 2026 er det foreslått endringer i skatteforvaltningsloven og tilhørende forskrift som følge av revidert Common Reporting Standard (CRS). Endringene utvider opplysningsplikten for opplysningspliktige, blant annet om digitale pengeprodukter, sentralbankpenger, finansielle instrumenter knyttet til kryptoeiendeler og innfører
 
 Finansielle institusjoner skal etterleve reglene om internasjonal rapportering og levere nærmere angitte opplysninger til Skatteetaten for automatisk informasjonsutveksling. Reglene om internasjonal rapportering gjennomfører OECDs Common Reporting Standard (CRS) og Avtale mellom Norge og USA om forbedret internasjonal overholdelse av skattelovgivningen og gjennomføring av FATCA (FATCA-avtalen).
 
@@ -82,3 +82,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

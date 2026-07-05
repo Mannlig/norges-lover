@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0920bf4eb83cf7d0d8958d82ddccddba0fce5cc4a33aab53e0467c40fb50447d -->
+<!-- innholds-hash: dcd1309183327f9d99479eff4acd23acdb55cdd14ef3a8513afc80fa34a057a6 -->
 
 # Nav hjelpemiddelsentral Oslo - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-oslo
-- **Sist hentet:** 2026-06-12T01:21:00Z
+- **Sist hentet:** 2026-07-05T14:15:37Z
 
 ## Innhold
 
@@ -127,7 +127,7 @@ Ekspedisjonen i Kabelgaten 1 er åpen mandag til fredag kl 10:00 - 14:00
 Kontaktinformasjon til teknisk ordrekontor ved Nav hjelpemiddelsentral Oslo:
 
 - Telefon: 400 02 046
-- Åpningstid: mandag til fredag klokka 09:00 – 15:00.
+- Åpningstid: mandag til fredag kl. 09.00-11.15 og 12.15-14.30.
 Ordreskjema for Nav hjelpemiddelsentral Oslo skal sendes til Nav Skanning. Legg ved førsteside og eventuelle tilleggsskjemaer.
 
 Førstesiden finner du ved å opprette en søknad. Legg ved denne førstesiden til ordreskjema.
@@ -188,7 +188,7 @@ I Oslo og Akershus er det Nav bilsenter Østlandet som har ansvar for å hjelpe 
 
 Skal du sende oss dokumentasjon kan du gjøre det via
 
-Nav hjelpemiddelsentral Oslo disponerer landets største utprøvingssenter for hjelpemidler. Hit kan samarbeidspartnere og brukere komme for å se og prøve et variert utvalg av tekniske hjelpemidler. Det er også mulig å ta med hjelpemiddelet utendørs og teste det på testbanen vår.
+Nav hjelpemiddelsentral Oslo disponerer landets største utprøvingssenter for hjelpemidler. Hit kan samarbeidspartnere sammen med brukere komme for å se og prøve et variert utvalg av tekniske hjelpemidler. Det er også mulig å ta med hjelpemiddelet utendørs og teste det på testbanen vår.
 
 Besøksadresse: Kabelgata 2, 0580 Oslo
 
@@ -197,9 +197,13 @@ Besøksadresse: Kabelgata 2, 0580 Oslo
 
 På utprøvingsenteret finnes det utvalgte produkter på rammeavtale, fra ulike leverandører, slik at det er mulig å sammenligne produkter. Det er utstilt blant annet manuelle og elektriske rullestoler, hjelpemidler til barn, stoler med oppreisningsfunksjon, personløftere og arbeidsstoler. Det er et lite utvalg av sykler, syns- og hørselshjelpemidler, kommunikasjonshjelpemidler og hjelpemidler til kognitiv støtte.
 
-Når du besøker utprøvingsenteret uten avtale på forhånd, skal du i utgangspunktet være selvhjulpen. Vi anbefaler deg å komme sammen med lokal terapeut for å få best utbytte av besøket og hjelp til oppfølging i etterkant. Dersom du har behov for spesifikk hjelp til å prøve hjelpemidler på utprøvingsenteret, må du avtale dette på forhånd. Ta kontakt med kommunehelsetjenesten dersom du ønsker å få kartlagt behovet og prøve ut hjelpemidler sammen med en rådgiver på hjelpemiddelsentralen.
+Besøk på utprøvingsenteret må skje sammen med terapeut eller representant fra kommunen. Det er ikke mulig å benytte tilbudet alene.
+
+Når terapeut og den som ønsker å prøve ut hjelpemidler besøker utprøvingsenteret uten avtale på forhånd, må dere i utgangspunktet være selvhjulpne. Dersom dere har behov for spesifikk hjelp til utprøving av hjelpemidler, må dette avtales på forhånd med rådgiver ved hjelpemiddelsentralen.
 
 Testbanen gir deg sammen med terapeut muligheter til å prøve ut elektriske og manuelle rullestoler i trygge omgivelser.
+
+Utprøvingsområdet er kompakt, men funksjonelt, og skjermet for øvrig trafikk. Banen består av ulike utfordringer som rullestolbrukere ofte møter utendørs:
 
 - Fortauskanter i høydene 4, 7 og 10 cm
 - Brostein
@@ -210,7 +214,7 @@ Testbanen gir deg sammen med terapeut muligheter til å prøve ut elektriske og 
 - Smal passasje mellom to søyler
 - Grov singel
 - Bark
-Testbanen kan benyttes under besøket på vårt utprøvingssenter, enten ved drop-in eller etter avtale.
+Testbanen kan benyttes under besøket på vårt utprøvingssenter, enten ved drop-in eller etter avtale. Banen ligger utenfor hjelpemiddelsentralens kontorbygg.
 
 Nav hjelpemiddelsentral Oslo tilbyr veiledningssamtale for deg som ønsker brukerpass på torsdager klokka 13:00. Ta kontakt på  telefon 55 55 11 11 eller du kan bruke tjenesten
 
@@ -230,3 +234,4 @@ Du kan lese
 
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

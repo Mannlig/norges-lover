@@ -1,11 +1,11 @@
-<!-- innholds-hash: c0faa67963913628ef4e2436c31f38ec80d36f64ca35e94c48f7e8a7a45d6506 -->
+<!-- innholds-hash: cd06882df6c7ccb6a6e3a1b3c1c1a917212217d15f8f630e00100c304ec932d0 -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-06-27T16:14:04Z
+- **Sist hentet:** 2026-07-05T14:51:12Z
 
 ## Innhold
 
@@ -786,6 +786,8 @@ Spania (Land)
 
 Storbritannia (Land)
 
+Svalbard og Jan Mayen (Land)
+
 Sveits (Land)
 
 Sverige (Land)
@@ -936,6 +938,22 @@ Vaktmester (Kategori)
 
 Øvrige håndverksyrker (Kategori)
 
+Andre ingeniører (Kategori)
+
+Arbeidsleder, bygg og anlegg (Kategori)
+
+Arealplanlegging og arkitektur (Kategori)
+
+Hjelpearbeider Bygg og anlegg (Kategori)
+
+Ingeniør bygg (Kategori)
+
+Ingeniør miljøteknikk (Kategori)
+
+Maskin- og kranfører (Kategori)
+
+Skytebaser og sprengningsarbeidere (Kategori)
+
 Baker og konditor (Kategori)
 
 Kokk (Kategori)
@@ -943,18 +961,6 @@ Kokk (Kategori)
 Reiseliv, hotell og overnatting (Kategori)
 
 Restaurant (Kategori)
-
-Logistikk, lagerarbeid og innkjøp (Kategori)
-
-Lufttrafikk (Kategori)
-
-Sjøfart (Kategori)
-
-Speditør og befrakter (Kategori)
-
-Tog-, sporvogn- og vegtrafikk (Kategori)
-
-Truckfører (Kategori)
 
 Andre hjelpearbeidere (Kategori)
 
@@ -976,21 +982,17 @@ Tekstil og presisjonsarbeid (Kategori)
 
 Trevarearbeid og –foredling (Kategori)
 
-Andre ingeniører (Kategori)
+Logistikk, lagerarbeid og innkjøp (Kategori)
 
-Arbeidsleder, bygg og anlegg (Kategori)
+Lufttrafikk (Kategori)
 
-Arealplanlegging og arkitektur (Kategori)
+Sjøfart (Kategori)
 
-Hjelpearbeider Bygg og anlegg (Kategori)
+Speditør og befrakter (Kategori)
 
-Ingeniør bygg (Kategori)
+Tog-, sporvogn- og vegtrafikk (Kategori)
 
-Ingeniør miljøteknikk (Kategori)
-
-Maskin- og kranfører (Kategori)
-
-Skytebaser og sprengningsarbeidere (Kategori)
+Truckfører (Kategori)
 
 Drift, vedlikehold (Kategori)
 
@@ -1062,17 +1064,17 @@ Ansettelsesform ikke oppgitt (Ansettelsesform)
 
 Engasjement (Ansettelsesform)
 
-Sesong (Ansettelsesform)
-
 Prosjekt (Ansettelsesform)
 
-Åremål (Ansettelsesform)
+Sesong (Ansettelsesform)
 
-Feriejobb (Ansettelsesform)
+Åremål (Ansettelsesform)
 
 Lærling (Ansettelsesform)
 
 Selvstendig næringsdrivende (Ansettelsesform)
+
+Feriejobb (Ansettelsesform)
 
 Heltid (Omfang)
 
@@ -1126,33 +1128,49 @@ Nav
 
 Søket ditt
 
-129 stillinger
+149 stillinger
 
-15. juni 2026
+1. juli 2026
 
-Arbeidsgiver
-
-HMS Oppland, Nav
-
-Sted
-
-Gjøvik
-
-Søk senest i overmorgen
-
-22. juni 2026
-
-Veileder/saksbehandler sosiale tjenester fast og vikariat
+Veileder, oppfølging ung
 
 Arbeidsgiver
 
-Levanger kommune, Nav
+Molde kommune NAV Molde
 
 Sted
 
-Levanger
+Molde
 
-Søk senest onsdag 1. juli
+Søk senest onsdag 5. august
+
+To dager siden
+
+Eigedomsansvarleg i Nav
+
+Arbeidsgiver
+
+Nav økonomiteneste
+
+Sted
+
+Leikanger
+
+Søk senest søndag 16. august
+
+26. juni 2026
+
+Veileder
+
+Arbeidsgiver
+
+Marker kommune NAV
+
+Sted
+
+Ørje
+
+Søk senest torsdag 20. august
 
 19. juni 2026
 
@@ -1166,9 +1184,9 @@ Sted
 
 Oslo
 
-Søk senest søndag 5. juli
+Søk senest i dag
 
-I går
+26. juni 2026
 
 Økonomisk rådgiver
 
@@ -1182,59 +1200,73 @@ Sted
 
 Søk senest torsdag 20. august
 
-12. juni 2026
-
-100% vikariat som rådgjevar
+1. juli 2026
 
 Arbeidsgiver
 
-Øygarden kommune NAV Øygarden
+Oslo Samfunn, Nav
 
 Sted
 
-Straume
+Oslo
 
-Søk senest i morgen
+Søk senest mandag 10. august
 
-12. juni 2026
+1. juli 2026
 
-Rådgjevar 100% fast –  Jobbsjansen
+NAV-rettleiar
 
 Arbeidsgiver
 
-Øygarden kommune NAV Øygarden
+Vestnes kommune Nav-Sosial Kommune
 
 Sted
 
-Straume
+Vestnes
 
-Søk senest i morgen
+Søk senest mandag 20. juli
 
-16. juni 2026
-
-Arbeidsgiver
-
-Hadeland, Nav
-
-Sted
-
-Gran
-
-Søk senest tirsdag 30. juni
-
-I går
+29. juni 2026
 
 Veileder
 
 Arbeidsgiver
 
-Marker kommune NAV
+Andøy kommune NAV
 
 Sted
 
-Ørje
+Andenes
 
-Søk senest torsdag 20. august
+Søk senest torsdag 16. juli
+
+29. juni 2026
+
+Veileder Nav Bergen sentrum sosialtjeneste
+
+Arbeidsgiver
+
+Bergen kommune
+
+Sted
+
+Bergen
+
+Søk senest søndag 19. juli
+
+29. juni 2026
+
+Veileder
+
+Arbeidsgiver
+
+Lyngen kommune
+
+Sted
+
+Lyngseidet
+
+Søk senest søndag 26. juli
 
 17. juni 2026
 
@@ -1250,21 +1282,7 @@ Raufoss
 
 Søk senest mandag 27. juli
 
-12. juni 2026
-
-Rettleiar i NAV Nordfjord
-
-Arbeidsgiver
-
-NAV Nordfjord, Stad kommune
-
-Sted
-
-Nordfjordeid
-
-Søk senest i morgen
-
-To dager siden
+25. juni 2026
 
 Saksbehandler/veileder i boligteam
 
@@ -1290,19 +1308,31 @@ Os
 
 Søk senest onsdag 8. juli
 
-16. juni 2026
+2. juli 2026
 
 Arbeidsgiver
 
-NAV, Salangen kommune
+NAV O-30, Stange kommune
 
 Sted
 
-Sjøvegan
+Stange
 
-Søk senest fredag 3. juli
+Søk senest søndag 16. august
 
-I går
+2. juli 2026
+
+Arbeidsgiver
+
+Sandefjord, Nav
+
+Sted
+
+Sandefjord
+
+Søk senest tirsdag 11. august
+
+26. juni 2026
 
 Ungdomsrettleiar 2*100% fast
 
@@ -1316,7 +1346,7 @@ Straume
 
 Søk senest søndag 2. august
 
-To dager siden
+25. juni 2026
 
 Arbeidsgiver
 
@@ -1340,18 +1370,6 @@ Oslo
 
 Søk senest lørdag 15. august
 
-3. juni 2026
-
-Arbeidsgiver
-
-Nav Falkenborg, Trondheim kommune
-
-Sted
-
-Trondheim
-
-Søk senest i morgen
-
 23. juni 2026
 
 Arbeidsgiver
@@ -1362,7 +1380,7 @@ Sted
 
 Husnes
 
-Søk senest i overmorgen
+Søk senest i dag
 
 22. juni 2026
 
@@ -1378,6 +1396,18 @@ Tønsberg
 
 Søk senest søndag 2. august
 
+25. juni 2026
+
+Arbeidsgiver
+
+Nav Hundvåg og Storhaug
+
+Sted
+
+Stavanger
+
+Søk senest fredag 14. august
+
 22. juni 2026
 
 Arbeidsgiver
@@ -1390,19 +1420,7 @@ Oslo
 
 Søk senest mandag 27. juli
 
-To dager siden
-
-Arbeidsgiver
-
-Nav Hundvåg og Storhaug
-
-Sted
-
-Stavanger
-
-Søk senest fredag 14. august
-
-To dager siden
+25. juni 2026
 
 Arbeidsgiver
 
@@ -1414,21 +1432,21 @@ Elverum
 
 Søk senest søndag 16. august
 
-12. juni 2026
+1. juli 2026
 
 Arbeidsgiver
 
-Nav Karmøy-Bokn / Karmøy kommune
+Arbeid og Ytelser Romerike, Nav
 
 Sted
 
-Kopervik
+Lillestrøm
 
-Søk senest fredag 3. juli
+Søk senest mandag 3. august
 
-15. juni 2026
+30. juni 2026
 
-Veileder
+Veiledere
 
 Arbeidsgiver
 
@@ -1439,20 +1457,6 @@ Sted
 Kirkenes
 
 Søk senest søndag 12. juli
-
-To dager siden
-
-Veileder/sosialkonsulent - NAV Bjerke
-
-Arbeidsgiver
-
-Oppfølging 4 -NAV, Oslo kommune, Bydel Bjerke
-
-Sted
-
-Oslo
-
-Søk senest onsdag 8. juli
 
 
 ### Var søketreffene relevante?
@@ -1469,3 +1473,4 @@ Har du tilbakemeldinger eller noe du savner?
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca6b82c7a48dc8d49bc272a8c2db6a58667a7c82f6fbb92ba5f1a43e8f7256a4 -->
+<!-- innholds-hash: 513c83740923ab0ee80bd1dccfe7eddcdbe03fdcd5731071999b1680336b14ff -->
 
 # Trenger tilrettelegging på jobb eller i utdanning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsrettet-veiledningstjeneste
-- **Sist hentet:** 2026-06-27T15:30:52Z
+- **Sist hentet:** 2026-07-05T14:08:01Z
 
 ## Innhold
 
@@ -128,7 +128,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -142,3 +142,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

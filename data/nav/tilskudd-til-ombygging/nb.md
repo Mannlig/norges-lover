@@ -1,11 +1,11 @@
-<!-- innholds-hash: c95005db1f1ec7e6b8674f9c8a1857b064781be068c52375acf01d99dd14979d -->
+<!-- innholds-hash: 2a07e82a3012f6646169b7dd6cee1d307207266503745e09b8c8a24f6eb2a355 -->
 
 # Tilskot til ombygging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilskudd-til-ombygging/nb
-- **Sist hentet:** 2026-06-27T15:28:07Z
+- **Sist hentet:** 2026-07-05T14:05:10Z
 
 ## Innhold
 
@@ -132,7 +132,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -146,3 +146,4 @@ Stengt no, opnar i morgon kl 9
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

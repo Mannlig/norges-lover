@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4e074b83e00e3422d215cdf1db9dca22dc1c87b3cb708d554ab5890026960b03 -->
+<!-- innholds-hash: d9bb97841c35b65931bdd16481b6958bbb210341b012a226294fc6c5943c4039 -->
 
 # Din pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dinpensjon-nn
-- **Sist hentet:** 2026-06-27T16:30:04Z
+- **Sist hentet:** 2026-07-05T15:07:23Z
 
 ## Innhold
 
@@ -63,12 +63,12 @@ Du møter først chatbot Frida som har døgnope. Mellom klokka 9 og 15 på kvard
 
 Alltid ope
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Ring oss på 55 55 33 34
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Skriv til oss
@@ -86,3 +86,4 @@ Still oss eit spørsmål og få skriftleg svar.
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

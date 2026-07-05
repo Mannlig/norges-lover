@@ -1,11 +1,11 @@
-<!-- innholds-hash: db0a6e2c9134bb599e58784af6e660054c21c6b3ee08425cd0b121d806148b42 -->
+<!-- innholds-hash: 857d47dd6cc10eb7e0d9b7d7a954ae643f3c7666e4ba74837daaeef4fd0342e0 -->
 
 # Brukerpass - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/brukerpass
-- **Sist hentet:** 2026-06-27T16:18:56Z
+- **Sist hentet:** 2026-07-05T14:56:02Z
 
 ## Innhold
 
@@ -84,7 +84,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -96,3 +96,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

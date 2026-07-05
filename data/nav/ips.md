@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa1ef45e4aea3e51408aa62da718f7d8b6906977b51905c8335ee26adfeb4043 -->
+<!-- innholds-hash: bf69103dd649d7ce152286f59c61899e8ad37d235ef17192e519c1d257cc8d43 -->
 
 # Individuell jobbstøtte (IPS) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ips
-- **Sist hentet:** 2026-06-27T15:20:30Z
+- **Sist hentet:** 2026-07-05T13:57:35Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -108,3 +108,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

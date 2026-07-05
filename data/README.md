@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-07-05 06:43 UTC*
+*Sist oppdatert: 2026-07-05 15:26 UTC*
 
 **Antall dokumenter:** 6438
 
@@ -618,12 +618,12 @@ Lovdata
 - [§ 3-2. Alminnelige driftsbygninger i landbruket](byggteknisk/regelverk/sak/2/3/3-2.md)
 - [Innledning](byggteknisk/regelverk/sak/2/3/innledning.md)
 - [§ 4-3. Solenergianlegg som ikke krever søknad og tillatelse](byggteknisk/regelverk/sak/2/4/-4-3.solenergianlegg-som-ikke-krever-soknad-og-tillatelse.md)
-- [§ 4-4. Unntak for nødvendige sikringstiltak etter akutte hendelser](byggteknisk/regelverk/sak/2/4/-4-4.-unntak-for-nodvendige-sikringstiltak-etter-akutte-hendelser.md)
+- [§ 4-7. Unntak for nødvendige sikringstiltak etter akutte hendelser](byggteknisk/regelverk/sak/2/4/-4-4.-unntak-for-nodvendige-sikringstiltak-etter-akutte-hendelser.md)
 - [§ 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse](byggteknisk/regelverk/sak/2/4/-4-4.unntak-for-utvendig-etterisolering-av-eksisterende-smahusbebyggelse.md)
 - [§ 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse](byggteknisk/regelverk/sak/2/4/-4-5.etablering-av-ladestasjoner-som-ikke-krever-soknad-og-tillatelse.md)
 - [§ 4-1. Tiltak som ikke krever søknad og tillatelse](byggteknisk/regelverk/sak/2/4/4-1.md)
 - [§ 4-2. Unntak for plassering av særskilt bygning, konstruksjon eller anlegg](byggteknisk/regelverk/sak/2/4/4-2.md)
-- [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](byggteknisk/regelverk/sak/2/4/4-3.md)
+- [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](byggteknisk/regelverk/sak/2/4/4-3.md)
 - [Innledning](byggteknisk/regelverk/sak/2/4/innledning.md)
 - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](byggteknisk/regelverk/sak/2/5/5-1.md)
 - [§ 5-2. Varsel til naboer og gjenboere](byggteknisk/regelverk/sak/2/5/5-2/5.md)

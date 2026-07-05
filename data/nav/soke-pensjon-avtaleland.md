@@ -1,11 +1,11 @@
-<!-- innholds-hash: c8f4d0c210ef63dd777631fd45d3ac3c530d20aaf1bbd14335c0eb9226897232 -->
+<!-- innholds-hash: 4e072bd0476de448362b2d5102c5cbddfb5b18208ccef9e2cfd8b843b48aac10 -->
 
 # Søke pensjon fra land med trygdeavtale utenfor EU/EØS - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soke-pensjon-avtaleland
-- **Sist hentet:** 2026-06-27T16:35:41Z
+- **Sist hentet:** 2026-07-05T15:12:55Z
 
 ## Innhold
 
@@ -745,7 +745,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -755,7 +755,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -768,3 +768,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

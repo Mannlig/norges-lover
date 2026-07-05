@@ -1,11 +1,11 @@
-<!-- innholds-hash: e4ff6069afe188f0aace7f01af1b68ee33bdb79854ae2f2ede04cc57c522bbe1 -->
+<!-- innholds-hash: 0b8c002af8f1cc3c87c5d92c87e79c7fdff0af1ba01de9f42c27d612aae88ce1 -->
 
 # Førerhund - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forerhund
-- **Sist hentet:** 2026-06-27T15:17:05Z
+- **Sist hentet:** 2026-07-05T13:54:03Z
 
 ## Innhold
 
@@ -103,7 +103,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -117,3 +117,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-17** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

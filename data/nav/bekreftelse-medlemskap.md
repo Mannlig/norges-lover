@@ -1,11 +1,11 @@
-<!-- innholds-hash: 79e9461e72e05bcd96f2069ffc79bc460cf1d3c564503984c5ca6d9641e9d338 -->
+<!-- innholds-hash: cdee7b6a589c7618415c9612c56157870a922eb100d0b6f90bf613121d0fa3bb -->
 
 # Søk om avklaring av trygdetilhørighet under opphold i EØS eller Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bekreftelse-medlemskap
-- **Sist hentet:** 2026-06-11T19:03:14Z
+- **Sist hentet:** 2026-07-05T13:51:58Z
 
 ## Innhold
 
@@ -49,22 +49,14 @@ Dette skjemaet bruker du hvis du trenger å avklare om norske trygderegler gjel
 
 #### Søknad om A1 for utsendte arbeidstakere i EØS eller Sveits
 
-Du skal bruke dette skjemaet når du blir utsendt av en norsk arbeidsgiver på et midlertidig arbeidsoppdrag til et annet EØS-land eller Sveits, og du trenger å avklare om norske trygderegler fortsatt gjelder for deg.
+Du skal bruke dette skjemaet når du blir utsendt av en norsk arbeidsgiver på et midlertidig arbeidsoppdrag til et annet EØS-land eller Sveits, og du trenger å avklare om norske trygderegler fortsatt gjelder for deg.
+
+Skjemaet skal ikke brukes hvis du jobber regelmessig både i Norge og i ett eller flere andre land.
 
 For at vi skal kunne behandle søknaden, må vi ha
 
-- søknad fra deg som arbeidstaker
-- bekreftelse på utsending fra arbeidsgiveren din
-
-#### Fullmakt
-
-Hvis du har gitt fullmakt via Navs fullmaktsløsning, kan fullmektigen fylle ut og sende inn søknaden for deg.
-
-Du må logge inn på nav.no og angi hvilke områder i Nav personen skal kunne representere deg på. Medlemskap i folketrygden finner du under kategori øvrig.
-
-Les om
-
-Hvis du ikke har gitt fullmakt, må du og arbeidsgiveren din sende inn hver deres del av søknaden hver for dere.
+- søknad fra deg som arbeidstaker
+Du og arbeidsgiveren din bruker det samme digitale skjemaet, men må logge inn, fylle ut og sende inn deres del hver for dere.
 
 
 #### Hvis arbeidsgiveren din ikke kan bruke digital løsning
@@ -74,6 +66,19 @@ Hvis arbeidsgiveren din ikke kan bruke det digitale skjemaet, kan dere sende inn
 - som vedlegg til søknaden din, eller
 - per post
 Det er en fordel at arbeidsgiveren fyller ut bekreftelsen før du begynner på søknaden. Da kan du laste den opp som vedlegg når du sender inn.
+
+
+#### Gi arbeidsgiver eller andre fullmakt til å søke for deg
+
+Hvis du har gitt fullmakt via Navs fullmaktsløsning, kan fullmektigen fylle ut og sende inn søknaden for deg.
+
+Du må logge inn på nav.no og angi hvilke områder i Nav personen skal kunne representere deg på. Medlemskap i folketrygden finner du under kategori øvrig.
+
+Les om
+
+Hvis fullmektigen også representerer arbeidsgiveren din, kan han/hun sende inn hele søknaden –både din del som arbeidstaker og arbeidsgiverens del.
+
+Hvis du ikke har gitt fullmakt, må du og arbeidsgiveren din sende inn hver deres del av søknaden hver for dere.
 
 
 #### Saksbehandlingstid for søknader
@@ -128,3 +133,4 @@ Oppdatert 01.06.2026
 
 - **2026-05-17** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

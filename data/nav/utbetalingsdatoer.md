@@ -1,11 +1,11 @@
-<!-- innholds-hash: 24b3d572909bff6684371aaadea448b613dd92d5332c399b44ea97f1bb2a45ae -->
+<!-- innholds-hash: f5feaa7f9e6a14672bbf399611e1c3323279da588ce4a272e0e75eb112d4496e -->
 
 # Utbetalingsdatoer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utbetalingsdatoer
-- **Sist hentet:** 2026-06-12T01:29:54Z
+- **Sist hentet:** 2026-07-05T14:24:31Z
 
 ## Innhold
 
@@ -167,7 +167,7 @@ Sikrer deg inntekt under fravær fra jobb når du er i opplæring for å kunne t
 
 #### Overgangsstønad til enslig mor eller far
 
-Sikrer deg inntekt i inntil 3 år når du har minst 60 prosent av den daglige omsorgen for barn under 8 år.
+Sikrer deg inntekt i en tidsbegrenset periode når du har minst 60 prosent av den daglige omsorgen for barn.
 
 
 #### Overgangsstønad til gjenlevende
@@ -302,3 +302,4 @@ En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)
