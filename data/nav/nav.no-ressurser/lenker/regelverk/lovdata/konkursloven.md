@@ -1,11 +1,11 @@
-<!-- innholds-hash: 668f518558161afb1052b9cfcf2a2c8324d036f0e790359e7d6a8e0956006292 -->
+<!-- innholds-hash: 54facdabcd00de306f5809c06b3caebe7157475248f04ea2b1ae254974fc1956 -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/konkursloven
-- **Sist hentet:** 2026-05-17T19:28:24Z
+- **Sist hentet:** 2026-07-05T05:41:43Z
 
 ## Innhold
 
@@ -465,7 +465,7 @@ I den utstrekning retten finner det nødvendig eller hensiktsmessig, kan den la 
 
 Skyldneren plikter å være til stede ved registreringsforretningen om det forlanges av retten eller bostyreren.
 
-Registrerings- og forseglingsforretningene kan overlates til namsmannen eller lensmannen eller til en annen skikket person oppnevnt av retten.
+Registrerings- og forseglingsforretningene kan overlates til namsfogden eller til en annen skikket person oppnevnt av retten.
 
 Ved registreringsforretning kan det tilkalles vitne dersom det av særlige grunner finnes ønskelig eller retten bestemmer det. Domstollovens regler om rettsvitne gjelder tilsvarende så langt de passer. Når verdsettingen krever særskilt sakkyndighet, kan bostyreren eller retten tilkalle en eller flere sakkyndige medhjelpere.
 
@@ -1040,3 +1040,4 @@ Del dokument
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

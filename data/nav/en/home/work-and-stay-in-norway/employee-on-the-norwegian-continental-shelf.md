@@ -1,11 +1,11 @@
-<!-- innholds-hash: 05cc267a7532557fcac36cdb9598483649f0c965f976d9fbb2962e660187f483 -->
+<!-- innholds-hash: 1ad3b56dce3ce7c40243b347fdffea21bb754b4438b0629965bbc2712d4587b2 -->
 
 # Jobbe i Norge  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/en/home/work-and-stay-in-norway/employee-on-the-norwegian-continental-shelf
-- **Sist hentet:** 2026-06-27T07:28:59Z
+- **Sist hentet:** 2026-07-05T06:05:25Z
 
 ## Innhold
 
@@ -247,7 +247,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -257,7 +257,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -269,3 +269,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

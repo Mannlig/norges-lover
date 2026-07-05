@@ -1,11 +1,11 @@
-<!-- innholds-hash: e5fba1e882b46c97d5e0265a4168095e828a493bc2f297b924fd88e01e1497a0 -->
+<!-- innholds-hash: 9c6cb505c9f3acd94509181ee83b7781a3cdc54c4b66020fee5e0a071464c306 -->
 
 # Varslingshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varslingshjelpemidler
-- **Sist hentet:** 2026-06-27T06:55:38Z
+- **Sist hentet:** 2026-07-05T05:32:01Z
 
 ## Innhold
 
@@ -260,7 +260,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -274,3 +274,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

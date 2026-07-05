@@ -1,11 +1,11 @@
-<!-- innholds-hash: 826e3033f13b268570b895e792ce267b16a91c03c5dba48249ebaa6047b92f08 -->
+<!-- innholds-hash: 55c239ada624f095db771e4b0071944d3255506877a28f9d7dcd4f0f963b4892 -->
 
 # Stol med oppreisingsfunksjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/stol-med-oppreisingsfunksjon
-- **Sist hentet:** 2026-06-27T06:46:26Z
+- **Sist hentet:** 2026-07-05T05:23:05Z
 
 ## Innhold
 
@@ -210,7 +210,7 @@ Svartid er nokre arbeidsdagar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -224,3 +224,4 @@ Stengt no, opnar i morgon kl 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

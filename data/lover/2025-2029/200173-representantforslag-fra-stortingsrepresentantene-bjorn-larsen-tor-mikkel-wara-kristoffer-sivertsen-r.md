@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1298d5c11dfa0a4b9bd6cd81b258fffb780f6e7d86a05ff635422fe5a97a1e86 -->
+<!-- innholds-hash: 4f12f415e8459976578dcde280827bda239abbdf8f8b74600a1b51c55a65ccc4 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Tor Mikkel Wara, Kristoffer Sivertsen, Rikard Spets og Morten Stordalen om å styrke nasjonal og alliert forsyningssikkerhet samt strategiske interesser gjennom utvinning av havbunnsmineraler på norsk sokkel
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-04T18:11:05Z
+- **Sist hentet:** 2026-07-05T01:40:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200173
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783185328481+0200)/",
+  "respons_dato_tid": "/Date(1783213288403+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -53,14 +53,14 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
@@ -78,14 +78,14 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
@@ -103,14 +103,14 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
@@ -128,14 +128,14 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
@@ -153,14 +153,14 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -174,7 +174,7 @@
   "innstilling_id": 17435,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783184561881+0200)/",
+    "respons_dato_tid": "/Date(1783213253588+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -183,7 +183,7 @@
   "sak_fremmet_id": 200173,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -192,14 +192,14 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -307,3 +307,4 @@
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

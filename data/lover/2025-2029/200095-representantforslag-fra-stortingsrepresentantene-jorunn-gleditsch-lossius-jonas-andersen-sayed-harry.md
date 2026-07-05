@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5ef3beb1b4a7b5f47a737d79b9f924b04898a4d1433aff58a1a4dfd91015b021 -->
+<!-- innholds-hash: 043adebbe29376510cdf2a0de3ac51803fd3c677b39620c5adf67e81c5701f6a -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Jonas Andersen Sayed, Harry Valderhaug og Ida Lindtveit Røse om en langtidsplan for effektiv norsk bistand
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-04T18:11:05Z
+- **Sist hentet:** 2026-07-05T01:40:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200095
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783185328481+0200)/",
+  "respons_dato_tid": "/Date(1783213288403+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -53,14 +53,14 @@
       "id": "HARVAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -78,14 +78,14 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -103,14 +103,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -128,14 +128,14 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -149,7 +149,7 @@
   "innstilling_id": 17441,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783184561881+0200)/",
+    "respons_dato_tid": "/Date(1783213253588+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200095,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
@@ -167,14 +167,14 @@
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -276,3 +276,4 @@
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

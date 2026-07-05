@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8e58a737407eb5766a337eb74d56f72f191e57f7e8976e211e7ea2300b90d58d -->
+<!-- innholds-hash: 1d2aeaa657945ad919f4d62db2abc4d65a0681b572cf9b16274cb687cdad6c69 -->
 
 # Trygdeavgift - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trygdeavgift
-- **Sist hentet:** 2026-06-27T07:44:32Z
+- **Sist hentet:** 2026-07-05T06:20:43Z
 
 ## Innhold
 
@@ -164,7 +164,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -174,7 +174,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -186,3 +186,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

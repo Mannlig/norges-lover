@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1aead92eb30700dcf95bf1381b87d9439d16be08b30b3ba3ac7903e2a61073ed -->
+<!-- innholds-hash: af7259b4185a5b3618a8ca4b893d1ae3e95c2e4ab517af666dd6cb391fd9aacb -->
 
 # Kodeveileder for særavgifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/kodeveileder/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:45:28Z
+- **Sist hentet:** 2026-07-05T02:01:02Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Denne brukes av særavgiftspliktige virksomheter.
 
 Last ned PDF:
 
-Sist oppdatert 18. mai 2026.
+Sist oppdatert 1. juli 2026.
 
 Riktig bruk av avgiftskoder er nødvendig for at fastsettelsen av avgifter skal bli riktig. I tillegg brukes kodene som grunnlag for å ta ut rapporter.
 
@@ -51,3 +51,4 @@ Satsen er oppgitt i kroner, om annet ikke er nærmere beskrevet i tilknytning ti
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

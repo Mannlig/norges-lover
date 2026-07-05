@@ -1,11 +1,11 @@
-<!-- innholds-hash: 289b250010edb86a23a3daa2a7767b51a30d1c828a54f255a7cd3f24f05e3073 -->
+<!-- innholds-hash: 50df53e38421e9659d22fae383c56b6a1ee17feafc474b0e97308f1fd9165934 -->
 
 # Case processing times - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/saksbehandlingstider/en
-- **Sist hentet:** 2026-06-11T18:29:32Z
+- **Sist hentet:** 2026-07-05T06:15:09Z
 
 ## Innhold
 
@@ -644,7 +644,7 @@ Aids to improve or maintain motor or cognitive functioning.
 
 #### Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 #### Transitional benefit for survivors
@@ -724,3 +724,4 @@ This offer is available to people who need work experience to master a certain t
 
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

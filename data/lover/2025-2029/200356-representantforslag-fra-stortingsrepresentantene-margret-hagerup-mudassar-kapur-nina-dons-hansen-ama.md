@@ -1,4 +1,4 @@
-<!-- innholds-hash: 63b224d19ccf08b2c163a6803b26d0b765d92693da455a7e29bfed4c817540ac -->
+<!-- innholds-hash: 8c7399e6ed649d4e54759e17f8425dd6d0da152a95d448f0933ac32d355ec676 -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-04T18:11:05Z
+- **Sist hentet:** 2026-07-05T01:40:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200356
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783185328324+0200)/",
+  "respons_dato_tid": "/Date(1783213288324+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328324+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molberg",
@@ -53,14 +53,14 @@
       "id": "AIM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328324+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -78,14 +78,14 @@
       "id": "AMAGUN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328324+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -103,14 +103,14 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328324+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kapur",
@@ -128,14 +128,14 @@
       "id": "MUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -144,7 +144,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dons-Hansen",
@@ -153,14 +153,14 @@
       "id": "NINDOH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -174,7 +174,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783184561881+0200)/",
+    "respons_dato_tid": "/Date(1783213253588+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -247,3 +247,4 @@
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

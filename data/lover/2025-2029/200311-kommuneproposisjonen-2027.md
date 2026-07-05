@@ -1,4 +1,4 @@
-<!-- innholds-hash: 43b73527c916289316459726590beca7ee59c37ce8b07d180fad672e3bc8b673 -->
+<!-- innholds-hash: 1d84999256148814cd4ed674db53065a36a2fa8c562e5aa9d0777881daa346e9 -->
 
 # Kommuneproposisjonen 2027
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-04T18:11:05Z
+- **Sist hentet:** 2026-07-05T01:40:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200311
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783185328402+0200)/",
+  "respons_dato_tid": "/Date(1783213288324+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -57,7 +57,7 @@
   "innstilling_id": 17531,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783184561881+0200)/",
+    "respons_dato_tid": "/Date(1783213253588+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200311,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328402+0200)/",
+      "respons_dato_tid": "/Date(1783213288324+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -75,14 +75,14 @@
       "id": "SIGRAF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -187,3 +187,4 @@
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

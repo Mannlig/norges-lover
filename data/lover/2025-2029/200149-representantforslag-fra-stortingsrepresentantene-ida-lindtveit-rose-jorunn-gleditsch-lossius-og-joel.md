@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8bb7076342c1d08895cb31d560e476520627bf40f5b0b10607d0af0a1588de48 -->
+<!-- innholds-hash: 0015e9ee3f813dcb5a2ccd301a4c8909b7a1ba158d4bd14500ef22f9ac1b0b6f -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jorunn Gleditsch Lossius og Joel Ystebø om trygghet for mødre i barselomsorgen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-04T18:11:05Z
+- **Sist hentet:** 2026-07-05T01:40:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200149
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783185328481+0200)/",
+  "respons_dato_tid": "/Date(1783213288403+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -62,14 +62,14 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -87,14 +87,14 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -112,14 +112,14 @@
       "id": "JOEYST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -133,7 +133,7 @@
   "innstilling_id": 17508,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783184561881+0200)/",
+    "respons_dato_tid": "/Date(1783213253588+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200149,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783185328481+0200)/",
+      "respons_dato_tid": "/Date(1783213288403+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -151,14 +151,14 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783162819396+0200)/",
+        "respons_dato_tid": "/Date(1783206023109+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783119617629+0200)/",
+        "respons_dato_tid": "/Date(1783206019124+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -266,3 +266,4 @@
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

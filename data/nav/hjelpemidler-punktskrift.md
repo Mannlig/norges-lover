@@ -1,11 +1,11 @@
-<!-- innholds-hash: bfdbd7594530de680dd5847d48dac0454c3acd850c2da4e61eefa90d3a4815b7 -->
+<!-- innholds-hash: 13240e844fb54d83f8649ea7e23243dabf423304f968b4eb064be8699e680b32 -->
 
 # Hjelpemidler for punktskrift - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-punktskrift
-- **Sist hentet:** 2026-06-27T06:27:45Z
+- **Sist hentet:** 2026-07-05T05:04:31Z
 
 ## Innhold
 
@@ -224,7 +224,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -241,3 +241,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

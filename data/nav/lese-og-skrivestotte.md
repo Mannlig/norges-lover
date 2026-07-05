@@ -1,11 +1,11 @@
-<!-- innholds-hash: 233b8140314d63a28244cc90fa460a940d1c5d4c0eb2150bc04fcb069072dcc6 -->
+<!-- innholds-hash: 84e53e5b4e457ccdc022e35e050f3f8def1231721b927bc16a734d5dcf4379d0 -->
 
 # Programvare for lese- og skrivestøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lese-og-skrivestotte
-- **Sist hentet:** 2026-06-27T06:31:14Z
+- **Sist hentet:** 2026-07-05T05:08:03Z
 
 ## Innhold
 
@@ -145,7 +145,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -159,3 +159,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

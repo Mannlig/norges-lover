@@ -1,11 +1,11 @@
-<!-- innholds-hash: b7fba409099d8923bfb1de8ba179c87fee3c2bdf155a7c60ad17a31b485c7aad -->
+<!-- innholds-hash: 71f7f2fee2811ba1ca7ecd87539de2ddb97094c61c084b9a71381f37b61ea721 -->
 
 # Financial support and services - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester/en
-- **Sist hentet:** 2026-06-19T12:37:43Z
+- **Sist hentet:** 2026-07-05T06:20:03Z
 
 ## Innhold
 
@@ -418,7 +418,7 @@ Secures you income during absence from work when you are in training to be able 
 
 Aids to improve or maintain motor or cognitive functioning.
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 Secures income when the marriage has lasted less than 5 years and you have no children together, or if you have daily care for the deceased's children.
 
@@ -482,3 +482,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 
 - **2026-05-16** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

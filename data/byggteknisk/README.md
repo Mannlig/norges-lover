@@ -2,9 +2,9 @@
 
 Byggtekniske krav og veiledere fra DiBK.
 
-*Sist oppdatert: 2026-07-04 23:39 UTC*
+*Sist oppdatert: 2026-07-05 06:43 UTC*
 
-**Antall dokumenter:** 732
+**Antall dokumenter:** 735
 
 ## Innhold
 
@@ -449,7 +449,10 @@ Byggtekniske krav og veiledere fra DiBK.
 - [§ 3-1. Mindre tiltak på bebygd eiendom](regelverk/sak/2/3/3-1.md)
 - [§ 3-2. Alminnelige driftsbygninger i landbruket](regelverk/sak/2/3/3-2.md)
 - [Innledning](regelverk/sak/2/3/innledning.md)
+- [§ 4-3. Solenergianlegg som ikke krever søknad og tillatelse](regelverk/sak/2/4/-4-3.solenergianlegg-som-ikke-krever-soknad-og-tillatelse.md)
 - [§ 4-4. Unntak for nødvendige sikringstiltak etter akutte hendelser](regelverk/sak/2/4/-4-4.-unntak-for-nodvendige-sikringstiltak-etter-akutte-hendelser.md)
+- [§ 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse](regelverk/sak/2/4/-4-4.unntak-for-utvendig-etterisolering-av-eksisterende-smahusbebyggelse.md)
+- [§ 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse](regelverk/sak/2/4/-4-5.etablering-av-ladestasjoner-som-ikke-krever-soknad-og-tillatelse.md)
 - [§ 4-1. Tiltak som ikke krever søknad og tillatelse](regelverk/sak/2/4/4-1.md)
 - [§ 4-2. Unntak for plassering av særskilt bygning, konstruksjon eller anlegg](regelverk/sak/2/4/4-2.md)
 - [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](regelverk/sak/2/4/4-3.md)

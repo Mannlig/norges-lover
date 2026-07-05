@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9eae29c7f6f86067754a623a2a5e6b88ea867a9ab2cdbecbd92c164c7b82f31c -->
+<!-- innholds-hash: f66ec11489ca8123368ae61fb6e94c167cc80207bada0a472fe0e3468124ee89 -->
 
 # Income report - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding/en
-- **Sist hentet:** 2026-06-27T07:23:22Z
+- **Sist hentet:** 2026-07-05T05:59:54Z
 
 ## Innhold
 
@@ -198,7 +198,7 @@ The employer must submit two or more income reports – one for each employment 
 
 Employers who submit "
 
-The employer sends an "
+If you are a private individual acting as an employer, you will not be able to log in to the employer section of nav.no. You must therefore select "Unable to log in as an employer" when submitting an income report for sickness benefits.
 
 It is not possible for an employee to send a digital sick leave certificate  to a private individual who is an employer. In this case, you, as the employer, must obtain a
 
@@ -444,7 +444,7 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
 - First day of absence: start date for the employee’s employment in Enterprise B
 - New reimbursement amount: requested reimbursement amount
-Updated 06/23/2026
+Updated 06/29/2026
 
 
 #### Chat with us
@@ -453,12 +453,12 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 #### Call us at 55 55 33 36
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 ---
@@ -470,3 +470,4 @@ Closed now, opens tomorrow at 9am
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

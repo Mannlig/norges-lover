@@ -1,11 +1,11 @@
-<!-- innholds-hash: daefcf3a8b6b19a18fdcec75ff92be743e05d73747f51259ffda568fbcbc2ee4 -->
+<!-- innholds-hash: ac1da81e9304901e33fc36a95f29c188377f6df2e1f269fc6541ec7301cfa093 -->
 
 # Hjelpemidler for samtale  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-for-samtale
-- **Sist hentet:** 2026-06-27T06:24:53Z
+- **Sist hentet:** 2026-07-05T05:01:43Z
 
 ## Innhold
 
@@ -229,7 +229,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -246,3 +246,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

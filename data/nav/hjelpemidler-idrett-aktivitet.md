@@ -1,11 +1,11 @@
-<!-- innholds-hash: dc5328423e7160229e25c47b152c4d254b12f43c2903062233bb32e4cf6d5e19 -->
+<!-- innholds-hash: 52055cd9b0433e06124e5123c79ed1bf9464bac8cbc4e60a820cb85cc3926132 -->
 
 # Trenger protese, ortose, ortopediske sko eller parykk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-idrett-aktivitet
-- **Sist hentet:** 2026-06-27T06:25:37Z
+- **Sist hentet:** 2026-07-05T05:02:24Z
 
 ## Innhold
 
@@ -32,7 +32,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
@@ -41,7 +41,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -53,3 +53,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

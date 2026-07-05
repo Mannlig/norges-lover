@@ -1,11 +1,11 @@
-<!-- innholds-hash: 908d826eb542308e568c99a27e5ec5f5d53b0007a3d95185fdc508ab3f632fcb -->
+<!-- innholds-hash: 00a2bd8ea8e0fb43e5c694da63f0d43930dc848eb43ecfbe78deaa543cfea64e -->
 
 # Tidsnedtellere, tidtakere, påminnelser og alarmer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tidtaker-paminnelse-alarm
-- **Sist hentet:** 2026-06-27T06:49:18Z
+- **Sist hentet:** 2026-07-05T05:25:51Z
 
 ## Innhold
 
@@ -218,7 +218,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -232,3 +232,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

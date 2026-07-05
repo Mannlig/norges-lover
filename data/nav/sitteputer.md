@@ -1,11 +1,11 @@
-<!-- innholds-hash: af17f2cb52a21012f4d6cc5444601b4082e3309a9cadfdd8ea8e8938af5db7a0 -->
+<!-- innholds-hash: 510c470ae83312c01460b79fb398aed9d4b4a5accbd21fff3b2ad4c4f046e856 -->
 
 # Trykksårforebyggende sitteputer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sitteputer
-- **Sist hentet:** 2026-06-27T06:43:35Z
+- **Sist hentet:** 2026-07-05T05:20:18Z
 
 ## Innhold
 
@@ -222,7 +222,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -236,3 +236,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

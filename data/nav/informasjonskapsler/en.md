@@ -1,11 +1,11 @@
-<!-- innholds-hash: 71242fa2ab944ffd9bdfebcf5430cad5d11ac1e1eb0b0d4a7f5229ecf8691dff -->
+<!-- innholds-hash: 437a5429de29802e7cbfaecabb28d9333ff9672955f3d3b0bcd334f966d08e03 -->
 
 # Cookies and similar technologies on nav.no - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/informasjonskapsler/en
-- **Sist hentet:** 2026-06-19T12:27:10Z
+- **Sist hentet:** 2026-07-05T06:09:34Z
 
 ## Innhold
 
@@ -61,30 +61,6 @@ We use Lumi for voluntary user surveys on specific services or pages. These surv
 #### lumi-*
 
 Used by the Lumi tool to remember if you have completed a survey or chosen not to take part, to make sure you will not be shown the same survey more than once. The information is stored locally in your browser and is automatically deleted after 30 days.
-
-We use Task Analytics to conduct user surveys. These surveys provide insight into what tasks our users are trying to solve, if they manage to complete their tasks, and what might be preventing them. This information helps us improve content and services, making it easier for everyone to find what they need.
-
-
-#### _tajs*
-
-Only used if you have agreed to participate in a survey. It remembers which survey you have volunteered for, so you can answer it later at your convenience.
-
-Stored temporarily while you use our website or services and is automatically deleted when you close your browser.
-
-
-#### ta-dekoratoren-*
-
-The data contains a technical ID that remembers whether an invitation to participate in a survey has already been shown, so that you don't see the same invitation multiple times. Stored for a maximum of 90 days before being deleted.
-
-
-#### What other types of data are stored?
-
-- Browser and version
-- Operating system
-- Device type (for instance mobile or PC)
-- The web address you visited before and after the questionnaire
-- The answers you provide in the questionnaire
-The IP address is used only for technical monitoring and security. It is not stored together with your survey responses, ensuring that the data remains anonymous and not linked to you as an individual.
 
 We use Skyra to conduct user surveys. These surveys provide insight into what tasks our users are trying to solve, if they manage to complete their tasks, and what might be preventing them. This information helps us improve content and services, making it easier for everyone to find what they need.
 
@@ -290,7 +266,7 @@ If you have questions about privacy or your rights, you can contact
 
 If you believe that your personal data is being processed in a way that violates privacy regulations, you have the right to file a complaint with the Norwegian Data Protection Authority.
 
-Updated 06/18/2026
+Updated 06/29/2026
 
 
 ---
@@ -300,3 +276,4 @@ Updated 06/18/2026
 
 - **2026-05-16** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

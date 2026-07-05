@@ -1,11 +1,11 @@
-<!-- innholds-hash: 81dbf83d81a712b4bbe377c1e27a9f048841813c43c48ee76da43ceaf0b68ca8 -->
+<!-- innholds-hash: cbe9ba1f2e53cda13f9a4d7b8c01944dc50e5c02658f40ac9045cc2dc7d7f110 -->
 
 # Varmehjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varmehjelpemidler
-- **Sist hentet:** 2026-06-27T06:54:54Z
+- **Sist hentet:** 2026-07-05T05:31:20Z
 
 ## Innhold
 
@@ -226,7 +226,7 @@ Skal du bytte fastmonterte hjelpemidler må du søke på nytt, og kan ikke bruke
 
 Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta kontakt med kommunen du bor i eller Nav hjelpemiddelsentral.
 
-Oppdatert 09.04.2026
+Oppdatert 30.06.2026
 
 
 #### Skriv til oss
@@ -245,7 +245,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -259,3 +259,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

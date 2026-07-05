@@ -1,4 +1,4 @@
-<!-- innholds-hash: 473ea32e7dc375df67721efc8963d485ea31c5982bc2841cc380072b3d463670 -->
+<!-- innholds-hash: a03d94bb49504b092a707075922a6c9b0d0e386e0d652b0d1e5c688f2761a61b -->
 
 # Folkeregister
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/folkeregister/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-22T18:35:12Z
+- **Sist hentet:** 2026-07-05T02:42:46Z
 
 ## Innhold
 
@@ -16,11 +16,11 @@
 Folkeregisteret omfatter nøkkelopplysninger om alle personer som er eller har vært bosatt i Norge. Her melder du flytting, at du gifter deg eller dødsfall, endrer navn og bestiller attester.
 
 
-### Har du fått beskjed fra BankID, Buypass eller Commfides om å identifisere deg på nytt?
+### Har du fått beskjed fra BankID om at du må identifisere deg på nytt?
 
-Har du identitetsnummer i Folkeregisteret og har fått beskjed fra BankID om å identifisere deg på nytt, må du sjekke at Folkeregisteret har registrert riktig nummer på ID-dokumentet ditt.
+Da må du ta kontakt med banken din.
 
-Du som har d-nummer må også ha registrert status "kontrollert" i Folkeregisteret.
+Du trenger ikke å gjøre noe hos oss for å aktivere BankID-en din.
 
 
 ### Flytting og adresse
@@ -63,3 +63,4 @@ Du som har d-nummer må også ha registrert status "kontrollert" i Folkeregister
 
 - **2026-05-20** Første gang hentet
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

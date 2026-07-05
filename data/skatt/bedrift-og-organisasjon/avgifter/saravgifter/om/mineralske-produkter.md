@@ -1,4 +1,4 @@
-<!-- innholds-hash: a5667e6bf476c4de966705be6ae07458b18447cd172b37118651210e9157dfd9 -->
+<!-- innholds-hash: 9377e90396f2d01a81e36410337c8dd403b416529b79dd9d95f9807ce5b49c3a -->
 
 # Avgift på mineralske produkter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/mineralske-produkter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-11T04:47:55Z
+- **Sist hentet:** 2026-07-05T02:21:47Z
 
 ## Innhold
 
@@ -45,13 +45,15 @@ Registrerte drivstoffleverandører kan levere mineralolje uten CO2-avgift til fa
 
 Sluttbruker som driver fiske i nære, nære og fjerne farvann eller i fjerne farvann, og kjøper mineralolje fra ikke registrert drivstoffleverandør, kan søke skatteetaten om refusjon for innbetalt CO2-avgift.
 
-Det er innført redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart.
+Det ble innført redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart fra 1. mars 2026.
+
+Virkningstidspunktet for de reduserte satsene er vedtatt endret til 1. januar 2026. Det innebærer at virksomheter som har kjøpt avgiftspliktige varer med full avgiftssats til bruk i kvotepliktig innenriks sjøfart i januar og februar 2026 kan søke Skatteetaten om refusjon.
 
 Med innenriks kvotepliktig sjøfart menes fart i norsk territorialfarvann som er kvotepliktig etter klimakvoteloven eller tilsvarende regelverk i annet EØS-land.
 
 Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgift på mineralolje, naturgass og LPG (direktefritak). Nye avgiftsgrupper for reduserte satser er tilgjengelig i
 
-For avgiftsbelagte produkter som er levert fra ikke registrerte virksomheter gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen.
+For avgiftsbelagte produkter som er levert fra ikke-registrerte virksomheter fra 1. mars 2026, og for avgiftsbelagte produkter som er levert fra ikke-registrerte og registrerte virksomheter i januar og februar 2026, gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen.
 
 - mineralolje til skip i innenriks kvotepliktig sjøfart, 2,15 kroner per liter
 - naturgass til skip i innenriks kvotepliktig sjøfart, 1,59 kroner per Sm3
@@ -61,12 +63,16 @@ Det gis refusjon for innbetalt CO2-avgift på mineralolje, bensin, naturgass og 
 
 Det gis refusjon for innbetalt CO2-avgift på naturgass og LPG som leveres til kjemisk reduksjon eller elektrolyse, metallurgiske og mineralogiske prosesser dersom bruken gir kvotepliktig utslipp etter klimakvoteloven.
 
+Vedtatt virkningstidspunkt for fritaket er endret til 1. januar 2026. Dette innebærer at virksomheter som har fått levert avgiftspliktig vare hvor det er betalt avgift i januar og februar 2026, kan søke Skatteetaten om refusjon av innbetalt avgift.
+
 I 2026 er de reduserte satsene for
 
 - Redusert sats gjennomføres på samme måte som tidligere fritak for fiske og fangst i fjerne farvann.
 Ny avgiftsgruppe 107 for redusert sats er tilgjengelig i
 
 Det er innført fritak for CO2-avgift ved levering av mineralolje fra registrert virksomhet til innenriks kvotepliktig luftfart. Det er et vilkår at drivstoffet leveres direkte på luftfartøyets tank.
+
+Vedtatt virkningstidspunkt for fritaket er endret til 1. januar 2026. Dette innebærer at virksomheter som har fått levert avgiftspliktig vare hvor det er betalt avgift i januar og februar 2026, kan søke Skatteetaten om refusjon av innbetalt avgift.
 
 Det er innført refusjon for CO2-avgift ved kjøp av drivstoff til sivil luftfart på Forsvarets flyplasser.
 
@@ -104,13 +110,15 @@ I 2026 er de reduserte satsene for
 - Redusert sats gjennomføres på samme måte som tidligere fritak for fiske og fangst i fjerne farvann.
 Ny avgiftsgruppe 107 for redusert sats er tilgjengelig i
 
-Det er innført redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart.
+Det ble innført redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart fra 1. mars 2026.
+
+Virkningstidspunktet for de reduserte satsene er vedtatt endret til 1. januar 2026. Det innebærer at virksomheter som har kjøpt avgiftspliktige varer med full avgiftssats til bruk i kvotepliktig innenriks sjøfart i januar og februar 2026 kan søke Skatteetaten om refusjon.
 
 Med innenriks kvotepliktig sjøfart menes fart i norsk territorialfarvann som er kvotepliktig etter klimakvoteloven eller tilsvarende regelverk i annet EØS-land.
 
 Registrerte virksomheter kan levere avgiftsbelagte produkter med redusert CO2-avgift på mineralolje, naturgass og LPG (direktefritak). Nye avgiftsgrupper for reduserte satser er tilgjengelig i
 
-For avgiftsbelagte produkter som er levert fra ikke registrerte virksomheter gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen.
+For avgiftsbelagte produkter som er levert fra ikke-registrerte virksomheter fra 1. mars 2026, og for avgiftsbelagte produkter som er levert fra ikke-registrerte og registrerte virksomheter i januar og februar 2026, gis det refusjon for differansen mellom innbetalt CO2-avgift på mineralolje, naturgass eller LPG og den reduserte satsen.
 
 - mineralolje til skip i innenriks kvotepliktig sjøfart, 2,15 kroner per liter
 - naturgass til skip i innenriks kvotepliktig sjøfart, 1,59 kroner per Sm3
@@ -163,3 +171,4 @@ Skatteetaten gir ut årlige rundskriv om avgiften. Rundskrivene og andre rettski
 
 - **2026-05-20** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

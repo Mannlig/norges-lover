@@ -1,11 +1,11 @@
-<!-- innholds-hash: 83c6bfd4d5daefcde0078f3de58cb8b5cf6bd39853adc06e6eba30b951ea9866 -->
+<!-- innholds-hash: 679c679fdf36ff2136cf6eca51ccf15386c5165e3650767fd359fecd78e552ea -->
 
 # Hovedmeny
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/dekningsloven
-- **Sist hentet:** 2026-05-17T19:27:55Z
+- **Sist hentet:** 2026-07-05T05:41:01Z
 
 ## Innhold
 
@@ -327,7 +327,7 @@ Bestemmelsene i foregående ledd griper ikke inn i den annen parts rett til å p
 
 Skyldnerens avtaler løper videre etter åpning av gjeldsforhandling. Åpningen gir ikke i seg selv den annen part rett til å heve avtalen med skyldneren. Bestemmelsene i
 
-Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsmannen eller tingretten før åpningen av gjeldsforhandlingen.
+Har skyldneren misligholdt en avtale om leie av fast eiendom, kan avtalen bare heves dersom begjæring om fravikelse er mottatt hos namsfogden eller tingretten før åpningen av gjeldsforhandlingen.
 
 Trer konkursboet inn i skyldnerens avtale, blir det berettiget og forpliktet på avtalens vilkår. Den annen parts fordring dekkes som massefordring.
 
@@ -367,7 +367,7 @@ Konkursboet trer uten særskilt vedtagelse inn i avtaler om leie av fast eiendom
 
 Selv om konkursboet erklærer ikke å ville tre inn, må det utrede leien som masseforpliktelse for så vidt angår tiden fra åpningen av bobehandlingen inntil erklæringen kommer frem til utleieren, eller inntil det senere tidspunkt da det leiede blir stilt til utleierens rådighet. Dersom det på eiendommen er eiendeler som inngår i konkursbeslaget, anses ikke det leiede stilt til rådighet før eiendelene enten er fjernet eller abandonert. For øvrig gjelder
 
-At skyldneren har misligholdt sin plikt til å betale leie, gir ikke utleieren rett til å kreve fravikelse, med mindre begjæring om fravikelse er mottatt hos namsmannen eller tingretten før åpningen av bobehandlingen.
+At skyldneren har misligholdt sin plikt til å betale leie, gir ikke utleieren rett til å kreve fravikelse, med mindre begjæring om fravikelse er mottatt hos namsfogden eller tingretten før åpningen av bobehandlingen.
 
 En avtalebestemmelse om at en leieavtale ikke kan overføres sammen med overføring av den virksomhet som drives i lokalet, er ikke bindende for konkursboet.
 
@@ -500,3 +500,4 @@ Del dokument
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

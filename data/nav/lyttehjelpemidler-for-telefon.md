@@ -1,11 +1,11 @@
-<!-- innholds-hash: de2959bba7e5f91046c75a67d2d85ffe11542cbe0bd400e36270b4997ea95d30 -->
+<!-- innholds-hash: d85152cdb60390dc8c3567c9de9390cdaed1c5cf88a8f2f186fc6517be37c859 -->
 
 # Lyttehjelpemidler for telefon  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lyttehjelpemidler-for-telefon
-- **Sist hentet:** 2026-06-27T06:33:21Z
+- **Sist hentet:** 2026-07-05T05:10:03Z
 
 ## Innhold
 
@@ -231,7 +231,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -245,3 +245,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-18** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

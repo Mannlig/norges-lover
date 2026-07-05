@@ -1,11 +1,11 @@
-<!-- innholds-hash: 17ff11d65d59c0da02f18d4beb66762a8b1a9c2570c6f24c4c2df9fb5cd4b22f -->
+<!-- innholds-hash: a17eecce834caf2a64cdf20900c234a3636b35f755ea61797eb74b157c766ec7 -->
 
 # Payment dates - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utbetalingsdatoer/en
-- **Sist hentet:** 2026-06-11T18:35:45Z
+- **Sist hentet:** 2026-07-05T06:21:24Z
 
 ## Innhold
 
@@ -267,7 +267,7 @@ Secures you income during absence from work when you are in training to be able 
 
 #### Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 #### Transitional benefit for survivors
@@ -302,3 +302,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

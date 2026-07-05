@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0d2bc0d15300754ff8c0f6ab68705a62a0cdc3bb9e290335a3297d9fccd2e4af -->
+<!-- innholds-hash: b43ea22b3b0ab69e7b191ef75cc2b1aaa581abb0b90292aa15690d591dbe9b9e -->
 
 # Rates - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/satser/en
-- **Sist hentet:** 2026-06-11T18:30:13Z
+- **Sist hentet:** 2026-07-05T06:15:52Z
 
 ## Innhold
 
@@ -328,7 +328,7 @@ Secures you income during absence from work when you are in training to be able 
 
 #### Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 #### Transitional benefit for survivors
@@ -378,3 +378,4 @@ Ensures that you have an income during periods where, due to illness or injury, 
 
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

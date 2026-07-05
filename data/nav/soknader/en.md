@@ -1,11 +1,11 @@
-<!-- innholds-hash: 14eb9c2fb5137616cf813ebfe1d25f11808f214a9f1322d867b99d611198d577 -->
+<!-- innholds-hash: 34e24f7d897ffc8c5ed769c512da70bce91433800eb64326e278671a0a719006 -->
 
 # Applications and forms - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soknader/en
-- **Sist hentet:** 2026-06-11T18:31:37Z
+- **Sist hentet:** 2026-07-05T06:17:15Z
 
 ## Innhold
 
@@ -871,7 +871,7 @@ Aids to improve or maintain motor or cognitive functioning.
 
 #### Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 #### Transitional benefit for survivors
@@ -986,3 +986,4 @@ A full-time program for individuals aged 18 to 29 who need extra support to ente
 
 - **2026-05-16** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

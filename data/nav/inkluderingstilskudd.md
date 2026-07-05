@@ -1,11 +1,11 @@
-<!-- innholds-hash: 66e6dfeb4634a37871c4f25c182b41e4000626183ec10e44e620a1af2e28f255 -->
+<!-- innholds-hash: 108eaf34017866835f86bbf791b32f66b977e8a789c31aa3d9412ae280e5c5e1 -->
 
 # Inkluderingstilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/inkluderingstilskudd
-- **Sist hentet:** 2026-06-27T06:28:27Z
+- **Sist hentet:** 2026-07-05T05:05:15Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -78,7 +78,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -92,3 +92,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

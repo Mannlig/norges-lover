@@ -1,11 +1,11 @@
-<!-- innholds-hash: 84449f7382891f6ecd7345fcdb1e47a6a6cf51f3b3651acb8e7256c85895da2b -->
+<!-- innholds-hash: 8c407fbc6f8c09928c945d6da70ff3c4b2fc6da8d517ee16d33a0f73af4b58a5 -->
 
 # Trappeheis og støttesystem i trapp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trappeheis
-- **Sist hentet:** 2026-06-27T06:52:06Z
+- **Sist hentet:** 2026-07-05T05:28:32Z
 
 ## Innhold
 
@@ -201,7 +201,7 @@ Alltid ope
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -215,3 +215,4 @@ Stengt no, opnar i morgon kl 9
 - **2026-05-18** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

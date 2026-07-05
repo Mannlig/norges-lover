@@ -1,11 +1,11 @@
-<!-- innholds-hash: c8d3574ab5889b51f22ecc0792e51eaa13d0c2134b45934ac44c71422350da9c -->
+<!-- innholds-hash: 7986ce76c6ed5aac5217990ce88fa8fdd5c49df68ead5cf76674f4c2de900c2e -->
 
 # Vogner - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/vogner
-- **Sist hentet:** 2026-06-27T06:57:04Z
+- **Sist hentet:** 2026-07-05T05:33:26Z
 
 ## Innhold
 
@@ -207,7 +207,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan òg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar i morgon kl 9
+Stengt no, opnar kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -222,3 +222,4 @@ Stengt no, opnar i morgon kl 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)
