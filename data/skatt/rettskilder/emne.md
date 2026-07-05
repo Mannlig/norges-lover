@@ -1,4 +1,4 @@
-<!-- innholds-hash: f6609caa9af91da2917c57bc80bf2eef1435827f7bc2b62a304a06bb74cc9018 -->
+<!-- innholds-hash: f8fcc63d65bdc92ffc1f5d96b0898de8ed704cd2e8d0d5fd2d027e31f31de27b -->
 
 # Rettskilder sortert på emne
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-27T19:19:42Z
+- **Sist hentet:** 2026-07-05T17:56:56Z
 
 ## Innhold
 
@@ -51,6 +51,27 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 
 ### Siste publiserte
 
+- Publisert 03.07.2026
+- Avgitt: 17.06.2026
+- Skatteklagenemnda
+- Publisert 03.07.2026
+- Avgitt 01.07.2026
+- Høring
+- Publisert 02.07.2026
+- Avgitt: 17.06.2026
+- Skatteklagenemnda
+- Publisert 02.07.2026
+- Avgitt: 17.06.2026
+- Skatteklagenemnda
+- Publisert 02.07.2026
+- Avgitt: 19.05.2026
+- Skatteklagenemnda
+- Publisert 01.07.2026
+- Gjelder fra  30.06.2026
+- Avgiftsrundskriv
+- Publisert 29.06.2026
+- Avgitt 29.06.2026
+- Uttalelse
 - Publisert 23.06.2026
 - Avgitt 23.06.2026
 - Høring
@@ -105,27 +126,6 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 - Publisert 09.04.2026
 - Avgitt 23.03.2026
 - Bindende forhåndsuttalelse
-- Publisert 08.04.2026
-- Avgitt: 10.12.2025
-- Skatteklagenemnda
-- Publisert 07.04.2026
-- Avgitt: 17.11.2025
-- Skatteklagenemnda
-- Publisert 07.04.2026
-- Avgitt: 22.09.2024
-- Skatteklagenemnda
-- Publisert 25.03.2026
-- Avgitt: 17.09.2025
-- Skatteklagenemnda
-- Publisert 20.03.2026
-- Avgitt: 13.03.2026
-- Skatteklagenemnda
-- Publisert 20.03.2026
-- Avgitt: 09.12.2025
-- Skatteklagenemnda
-- Publisert 19.03.2026
-- Avgitt: 03.11.2020
-- Skatteklagenemnda
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/emne/) av norges-lover-bot.*
@@ -136,3 +136,4 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

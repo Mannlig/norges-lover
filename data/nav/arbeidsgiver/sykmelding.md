@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6542723ff086e25f4e160075e38b3c96afc6fa0b93a2052dd9bac6f289c8a914 -->
+<!-- innholds-hash: 3cf49e4205ea992ac53ee68362cc860d1e50b48392f7f709c0252f38e8abdf71 -->
 
 # Sykmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmelding
-- **Sist hentet:** 2026-06-27T22:33:30Z
+- **Sist hentet:** 2026-07-05T21:08:57Z
 
 ## Innhold
 
@@ -223,7 +223,7 @@ Oppdatert 10.06.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -248,3 +248,4 @@ Alltid åpen
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

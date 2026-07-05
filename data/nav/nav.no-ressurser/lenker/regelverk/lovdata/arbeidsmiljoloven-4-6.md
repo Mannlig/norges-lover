@@ -1,11 +1,11 @@
-<!-- innholds-hash: e5aa14b064a0768e186062b9db2f6a7fee74ffc9bcf51102f6cfbae23b8a3492 -->
+<!-- innholds-hash: c5d4214af83f74599b7d84bb36bf0b5d89329449a6a4a9c17e8a0260fc76e9bd -->
 
 # Arbeidsmiljøloven – aml
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/arbeidsmiljoloven-4-6
-- **Sist hentet:** 2026-05-18T16:33:41Z
+- **Sist hentet:** 2026-07-05T21:18:23Z
 
 ## Innhold
 
@@ -34,6 +34,8 @@ Departementet kan i forskrift fastsette at reglene om personlig verneutstyr ogs�
 
 
 ### Kapittel 4.  Krav til arbeidsmiljøet
+
+Etter pålegg fra departementet plikter offentlige myndigheter uten hinder av taushetsplikt å gi utsteder av HMS-kort alle opplysninger fra offentlige registre som er nødvendige for utstedelse av HMS-kort.
 
 
 ### Kapittel 5.  Registrerings- og meldeplikt, produsentkrav mv.
@@ -105,3 +107,4 @@ Ved tvist om det foreligger lovlig innleie, midlertidig ansettelse eller suspens
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-07-05** Innhold endret (se git-historikk for diff)

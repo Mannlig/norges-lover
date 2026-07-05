@@ -1,11 +1,11 @@
-<!-- innholds-hash: a6ef1f8800376a5879e14a0513ed8873026ab03cde492f61db93066367fdf671 -->
+<!-- innholds-hash: 10fbd644108cb13bd8a90ca2a20c0fb341fc6bc3e608d0a1940aabf8a4be7e19 -->
 
 # Har ansatte som sliter psykisk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/psykiske-helseproblemer
-- **Sist hentet:** 2026-06-27T22:40:26Z
+- **Sist hentet:** 2026-07-05T21:15:52Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Oppdatert 28.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -96,3 +96,4 @@ Alltid åpen
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

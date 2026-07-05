@@ -1,11 +1,11 @@
-<!-- innholds-hash: d250aa0e4e7176cff6be3ac4830573634fbb891633a510550aea84d329aa755c -->
+<!-- innholds-hash: 47f0d8f8cd82efa6416c11c88d72dee4b3a0675ebb14ad7306a10e1b8a3fcf29 -->
 
 # Samtalestøtte for arbeidsgiver - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/samtalestotte-arbeidsgiver
-- **Sist hentet:** 2026-06-27T22:41:08Z
+- **Sist hentet:** 2026-07-05T21:16:33Z
 
 ## Innhold
 
@@ -231,7 +231,7 @@ Oppdatert 30.04.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -255,3 +255,4 @@ Alltid åpen
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: fdd5c10d07f8600def5521f675a230734ef06a8df05618a1f6522534c570cd96 -->
+<!-- innholds-hash: 329614da285f9298dd23554b7ba96f3d421376c233895ee187cfe9aceaf55acf -->
 
 # Refusjon av særavgifter for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/soke-refusjon-av-saravgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-19T23:58:20Z
+- **Sist hentet:** 2026-07-05T17:53:50Z
 
 ## Innhold
 
@@ -30,7 +30,9 @@ Du kan også sende søknaden i posten, til
 
 Skatteetaten
 
-Det er innført en redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart.
+Det ble innført redusert CO2-avgift på mineralolje, naturgass og LPG til skip i innenriks kvotepliktig sjøfart fra 1. mars 2026.
+
+Virkningstidspunktet for de reduserte satsene er vedtatt endret til 1. januar 2026. Det innebærer at virksomheter som har kjøpt avgiftspliktige varer med full avgiftssats til bruk i kvotepliktig innenriks sjøfart i januar og februar 2026 kan søke Skatteetaten om refusjon av differansen mellom betalt avgift og den reduserte satsen.
 
 Med innenriks kvotepliktig sjøfart menes fart i norsk territorialfarvann som er kvotepliktig etter klimakvoteloven eller tilsvarende regelverk i annet EØS-land.
 
@@ -51,6 +53,10 @@ Dette må du legge ved søknaden:
 - levert mengde mineralolje, naturgass eller LPG
 - bunkringsdato
 - Faktura og leveringsseddel for kjøp av drivstoff
+For kvotepliktige utslipp som ikke omfattes av innsatsfordelingsforordningen ble CO2-avgiften endret fra redusert sats til fullt fritak fra 1. mars 2026.
+
+Vedtatt virkningstidspunkt for fritaket er i ettertid endret til 1. januar 2026. Dette innebærer at virksomheter som har fått levert avgiftspliktig vare, hvor det er betalt avgift i januar og februar 2026, kan søke skatteetaten om refusjon av innbetalt avgift.
+
 Fiske- og fangstfartøy som har gått i utenriks fart, og har bunkret avgiftsbelagt mineralolje, naturgass, LPG eller smøreolje i perioden 1. juli 2025 til 12. august 2025, kan søke Skatteetaten om å få refusjon for innbetalte avgifter. Hva som regnes som utenriks fart er beskrevet i
 
 Søknaden skal inneholde disse opplysningene:
@@ -125,3 +131,4 @@ Hvis du ønsker å få tilbake toll, må du
 
 - **2026-05-21** Første gang hentet
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-07-05** Innhold endret (se git-historikk for diff)
