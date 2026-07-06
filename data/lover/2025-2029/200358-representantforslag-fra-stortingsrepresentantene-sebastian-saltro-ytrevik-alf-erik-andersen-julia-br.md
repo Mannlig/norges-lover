@@ -1,4 +1,4 @@
-<!-- innholds-hash: cae76e6d2d9c6ea15331afb5e27f64257227298a3554968cb1255adcf25f6fac -->
+<!-- innholds-hash: 15089982360865ceb69f7aa82a83e7c28596f1cd7007e17e8140a9c22af35c5c -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T06:25:48Z
+- **Sist hentet:** 2026-07-06T12:15:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783317773528+0200)/",
+  "respons_dato_tid": "/Date(1783339789375+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
@@ -62,7 +62,7 @@
       "id": "ALFAND",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -87,7 +87,7 @@
       "id": "BJOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -112,7 +112,7 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783317773528+0200)/",
+      "respons_dato_tid": "/Date(1783339789375+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
@@ -137,7 +137,7 @@
       "id": "SEBYTR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -158,7 +158,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783317626051+0200)/",
+    "respons_dato_tid": "/Date(1783339314981+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -234,5 +234,6 @@
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)

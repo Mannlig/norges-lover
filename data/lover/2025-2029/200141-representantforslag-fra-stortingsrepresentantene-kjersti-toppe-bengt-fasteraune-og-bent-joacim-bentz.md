@@ -1,4 +1,4 @@
-<!-- innholds-hash: 05182accd03914f7ef91358477c042f0b64f9c01e640722e5348c7bac37f10e5 -->
+<!-- innholds-hash: 8feecfa3021319da1f6dadc01d7c55bd390a5c02fd2bf93590ef2689faa2ad13 -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe, Bengt Fasteraune og Bent-Joacim Bentzen om et gratis og likeverdig kremasjonstilbud
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T06:25:48Z
+- **Sist hentet:** 2026-07-06T12:15:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200141
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783317773606+0200)/",
+  "respons_dato_tid": "/Date(1783339789469+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783317773606+0200)/",
+      "respons_dato_tid": "/Date(1783339789469+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 105,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783317773606+0200)/",
+      "respons_dato_tid": "/Date(1783339789469+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -44,7 +44,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783317773606+0200)/",
+      "respons_dato_tid": "/Date(1783339789469+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -69,7 +69,7 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783317773606+0200)/",
+      "respons_dato_tid": "/Date(1783339789469+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -94,7 +94,7 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -115,7 +115,7 @@
   "innstilling_id": 17413,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783317626051+0200)/",
+    "respons_dato_tid": "/Date(1783339314981+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200141,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783317773606+0200)/",
+      "respons_dato_tid": "/Date(1783339789469+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Estil",
@@ -133,7 +133,7 @@
       "id": "BENEST",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783292418254+0200)/",
+        "respons_dato_tid": "/Date(1783335618797+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -245,5 +245,6 @@
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
