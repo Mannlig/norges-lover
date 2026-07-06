@@ -2,9 +2,9 @@
 
 Skatteregler, satser og veiledere fra Skatteetaten.
 
-*Sist oppdatert: 2026-07-05 22:41 UTC*
+*Sist oppdatert: 2026-07-06 04:24 UTC*
 
-**Antall dokumenter:** 3811
+**Antall dokumenter:** 3816
 
 ## Innhold
 
@@ -3715,6 +3715,11 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [R-8-2.6 Bruk av egen yrkesbil](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.012.md)
 - [R-8-2.7 Ektefeller](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.013.md)
 - [R-8-2.8 Kameratkjøring](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.014.md)
+- [R-8-2.9 Reisetilskudd fra folketrygden](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.015.md)
+- [R-8-2.10 Kommunalt pendlertilskudd](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.002/R-8.016.md)
+- [R-8-3.1 Hovedregel](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.017/R-8.018.md)
+- [R-8-3.2 Arbeidsgiver besørger transport](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.017/R-8.019.md)
+- [R-8-3.3 Uførhet mv.](rettskilder/type/handboker/skatte-abc/2023/r-8-reise-mellom-hjem-og-fast-arbeidssted-arbeidsreiser/R-8.017/R-8.020.md)
 - [Skatte-ABC 2023](rettskilder/type/handboker/skatte-abc/2023.md)
 - [Skatte-ABC](rettskilder/type/handboker/skatte-abc.md)
 - [Håndbøker](rettskilder/type/handboker.md)

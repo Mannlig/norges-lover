@@ -1,15 +1,15 @@
 # Systemstatus – norges-lover-bot
 
-**Sist kjørt:** 2026-07-05 22:41 UTC
+**Sist kjørt:** 2026-07-06 04:24 UTC
 **Intervall:** ~2 timer (daemon-modus)
 
 ## Filer hentet denne kjøringen
 
 - **stortinget:** 100 filer
-- **skatteetaten:** 2 filer
+- **skatteetaten:** 5 filer
 - **dibk:** 0 filer
-- **nav:** 15 filer
+- **nav:** 1 filer
 - **arbeidstilsynet:** 0 filer
 - **husbanken:** 0 filer
 
-**Totalt denne kjøringen:** 117 filer
+**Totalt denne kjøringen:** 106 filer
