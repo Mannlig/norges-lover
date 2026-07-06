@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3dc6256d7194ab610481f7d638d98121fd8239d45049f5529e939d452884e54e -->
+<!-- innholds-hash: 796f4c38d4b28f14f8740dc0d900c22bfb0194bb55f86b7170966ec704421808 -->
 
 # Kommuneproposisjonen 2027
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T00:42:23Z
+- **Sist hentet:** 2026-07-06T06:25:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200311
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783296054672+0200)/",
+  "respons_dato_tid": "/Date(1783317773606+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783296054672+0200)/",
+      "respons_dato_tid": "/Date(1783317773606+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783296054672+0200)/",
+      "respons_dato_tid": "/Date(1783317773606+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783296054672+0200)/",
+      "respons_dato_tid": "/Date(1783317773606+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 184,
@@ -57,7 +57,7 @@
   "innstilling_id": 17531,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783296020388+0200)/",
+    "respons_dato_tid": "/Date(1783317626051+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200311,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783296054672+0200)/",
+      "respons_dato_tid": "/Date(1783317773606+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -190,4 +190,5 @@
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)

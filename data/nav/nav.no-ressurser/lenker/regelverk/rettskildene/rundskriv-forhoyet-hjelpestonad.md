@@ -1,11 +1,11 @@
-<!-- innholds-hash: 261d7c5f8931c7589c713c5370b23ca3147fe5e4213e2cff1e4edaed6982092c -->
+<!-- innholds-hash: da8f9e60eb90da514b3d123a1dbd7b5edeb92674015db1dec0ef86045304e0da -->
 
 # Rundskriv til ftrl kap 6: Grunnstønad og hjelpestønad
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-forhoyet-hjelpestonad
-- **Sist hentet:** 2026-06-10T23:38:58Z
+- **Sist hentet:** 2026-07-06T09:30:55Z
 
 ## Innhold
 
@@ -15,7 +15,7 @@
 
 ### Kapitteloversikt
 
-Sist endret 09.06.2026, se § 6-3 Første ledd bokstav f Fordyret kosthold – Cøliaki og avsnitt markert 6/26
+Sist endret 01.07.2026, se § 6-3 første ledd bokstav f – Fordyret kosthold: Cøliaki og avsnitt merket 7/26
 
 
 ### Generell del
@@ -604,7 +604,7 @@ I alle saker som gjelder et fordyret kosthold på grunn av diett, er det et abso
 
 Omarbeidet i sin helhet 05.10.2021
 
-Sist endret 09.06.2026, se avsnitt markert 6/26
+Sist endret 01.07.2026, se «Voksne» og «Barn» og avsnitt markert 7/26
 
 [Endret 1/24, 10/25, 6/26]
 
@@ -614,38 +614,15 @@ Av prop. 1 S (2019-2020) fremgår at det skal gjelde en særordning for denne pa
 
 Diagnosekriteriene er litt forskjellige for voksne og barn. Nedenfor gis en nærmere beskrivelse av kriteriene.
 
-[Endret 1/24, 10/25, 10/25-2, 6/26]
+[Endret 1/24, 10/25, 10/25-2, 6/26, 7/26]
 
-Cøliakidiagnosen for voksne baseres på retningslinje
+Cøliakidiagnosen for voksne baseres på retningslinjer fra European Society for the Study of Coeliac Disease (ESsCD) publisert i 2025. Hos voksne diagnostiseres sykdommen enten ved en kombinasjon av serologi (blodprøver) og histologi av biopsi (vevsprøve) fra tynntarmen, eller ved blodprøver alene hos pasienter under 45 år. Symptomer tillegges mindre vekt hos voksn
 
-Med serologi menes her enten
+Se
 
-- IgA antistoffer mot enzymet vevstransglutaminase
-Antistoffer mot gluten eller gliadin tillegges ikke vekt.
+[Endret 1/24, 7/26]
 
-Biopsi fra tynntarmen beskrives vanligvis etter den såkalte
-
-Noen ganger tas
-
-Spesialist i fordøyelsessykdommer/indremedisin må dokumentere på hvilket grunnlag diagnosen er satt eller vurdert. Spesialisten må oppgi alle relevante opplysninger og prøver som er tatt i forbindelse med cøliakiutredningen.
-
-Trygderetten har også understreket at primærhelsetjenesten ikke har tilstrekkelig kompetanse til å fastsette diagnosen cøliaki. Det måtte etter rettens syn anses som et klart krav at denne diagnosen skal fastsettes av relevant spesialist, se kjennelsen TRR-2023-2
-
-[Endret 1/24, 10/25, 10/25-2, 6/26]
-
-[Tilføyd 1/24, endret 6/26]
-
-Ved Marsh grad 3
-
-[Endret 1/24]
-
-Cøliakidiagnosen hos barn baseres på European Society of Paediatric Gastroenterologi, Hepatology and Nutriton (ESPGHAN). Med barn menes i denne sammenheng personer under 18 år.
-
-[Endret 1/24]
-
-[Tilføyd 1/24]
-
-Hvis tynntarmsbiopsi er normal og anti-tTG-IgA er mellom øvre referansegrense og 10 ganger øvre referansegrense hos barn med kliniske symptomer og god effekt av glutenfri kost, kan cøliakidiagnosen midlertidig godkjennes. Ny vurdering gjøres i en aldersperiode som er hensiktsmessig for barnets helse. Provokasjon bør gjøres først etter 7 års alder, eventuelt før eller etter pubertal vekstspurt. Disse sakene, og andre saker der det er tvil om diagnosen, må vurderes av rådgivende lege
+Cøliakidiagnosen hos barn baseres på European Society of Paediatric Gastroenterologi, Hepatology and Nutriton (ESPGHAN)
 
 [Endret 10/25]
 
@@ -1463,3 +1440,4 @@ Bestemmelsen i tidligere folketrygdlovs § 11-5 nr. 3 om at hjelpestønad i sær
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-07-06** Innhold endret (se git-historikk for diff)

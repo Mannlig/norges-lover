@@ -1,4 +1,4 @@
-<!-- innholds-hash: a0ae075af4fdafb5d02f8679a5169195517cac11dff154f2a54285ac827a54ce -->
+<!-- innholds-hash: 215607f665e26f4f5797b5335de6599d710e66af5a4e2b03a033fc015f6c64c3 -->
 
 # Representantforslag fra stortingsrepresentantene Harry Valderhaug, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om helhetlige næringspolitiske rammer for ideelle gjenbruksaktører
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T00:42:23Z
+- **Sist hentet:** 2026-07-06T06:25:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200169
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783296054734+0200)/",
+  "respons_dato_tid": "/Date(1783317773668+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -124,7 +124,7 @@
   "innstilling_id": 17498,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783296020388+0200)/",
+    "respons_dato_tid": "/Date(1783317626051+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200169,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783296054734+0200)/",
+      "respons_dato_tid": "/Date(1783317773668+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -256,4 +256,5 @@
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
