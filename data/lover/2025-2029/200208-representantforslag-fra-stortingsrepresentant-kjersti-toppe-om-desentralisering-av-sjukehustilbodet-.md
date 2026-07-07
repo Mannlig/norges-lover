@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3c0d60201c8160e79711728965efb11b6d9352d7f92e81d2167a278b7d90300e -->
+<!-- innholds-hash: 5b8623e677fa54345153729478633ae321cd4c454f7cc8b3d9216cd024924c5c -->
 
 # Representantforslag frå stortingsrepresentant Kjersti Toppe om desentralisering av sjukehustilbodet og sikring av lokalsjukehus med breiddekompetanse i heile landet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T19:44:53Z
+- **Sist hentet:** 2026-07-07T02:01:53Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200208
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783365312320+0200)/",
+  "respons_dato_tid": "/Date(1783389664593+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783365312320+0200)/",
+      "respons_dato_tid": "/Date(1783389664593+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783365312320+0200)/",
+      "respons_dato_tid": "/Date(1783389664593+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783365312320+0200)/",
+      "respons_dato_tid": "/Date(1783389664593+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -53,14 +53,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783335618797+0200)/",
+        "respons_dato_tid": "/Date(1783386200243+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783292418175+0200)/",
+        "respons_dato_tid": "/Date(1783378820575+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -74,7 +74,7 @@
   "innstilling_id": 17507,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783364553525+0200)/",
+    "respons_dato_tid": "/Date(1783389621336+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200208,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783365312320+0200)/",
+      "respons_dato_tid": "/Date(1783389664593+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
@@ -92,14 +92,14 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783335618797+0200)/",
+        "respons_dato_tid": "/Date(1783386200243+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783292418175+0200)/",
+        "respons_dato_tid": "/Date(1783378820575+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -213,3 +213,4 @@
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
+- **2026-07-07** Innhold endret (se git-historikk for diff)

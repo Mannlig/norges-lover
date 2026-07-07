@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c995065236877c7a54142706ec5acfe3b1cd4930e2e24a728fdbaecefe8efec -->
+<!-- innholds-hash: aa427d14a935add0ae6cd07db5714fd8481e6521de301a49de05841d1e6f149f -->
 
 # Innberetning fra Stortingets ombudsnemnd for Forsvaret for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-06T19:44:53Z
+- **Sist hentet:** 2026-07-07T02:01:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200218
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783365312228+0200)/",
+  "respons_dato_tid": "/Date(1783389664484+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783365312228+0200)/",
+      "respons_dato_tid": "/Date(1783389664484+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783365312228+0200)/",
+      "respons_dato_tid": "/Date(1783389664484+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -48,7 +48,7 @@
   "innstilling_id": 17520,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783364553525+0200)/",
+    "respons_dato_tid": "/Date(1783389621336+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200218,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783365312228+0200)/",
+      "respons_dato_tid": "/Date(1783389664484+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -66,14 +66,14 @@
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783335618797+0200)/",
+        "respons_dato_tid": "/Date(1783386200243+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783292418175+0200)/",
+        "respons_dato_tid": "/Date(1783378820575+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -167,3 +167,4 @@
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
 - **2026-07-06** Innhold endret (se git-historikk for diff)
+- **2026-07-07** Innhold endret (se git-historikk for diff)

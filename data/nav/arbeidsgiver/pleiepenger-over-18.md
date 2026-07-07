@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6a640c2481eef0192832d87f7637e5b4e94341e0633abfc91bcfb77ee84cbd4b -->
+<!-- innholds-hash: 753a019348e2627a78efd050a7a3ae2d1b0837b5c0cc59cf3c88f5dafdf872de -->
 
 # Pleiepenger for en  utviklingshemmet person over 18 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-over-18
-- **Sist hentet:** 2026-06-21T05:56:55Z
+- **Sist hentet:** 2026-07-07T05:07:45Z
 
 ## Innhold
 
@@ -133,16 +133,16 @@ Hvis den ansatte jobber skift eller har timelønn, skal inntekten fastsettes ett
 - søker på nytt etter et opphold i pleiepengene på 4 uker eller mer
 - søker på nytt etter et opphold på mindre enn 4 uker, og det er en varig endring i inntekten
 
-#### Hvor kan jeg sjekke inntektsmeldinger jeg har sendt tidligere?
-
-Du kan sjekke tidligere innsendte inntektsmeldinger der du sendte den.
-
-
 #### Gjelder inntektsmeldingen også for selvstendig næringsdrivende/frilansere?
 
 Nei, denne inntektsmeldingen gjelder bare for arbeidstakere.
 
 Nav har informasjon om inntekten for selvstendig næringsdrivende og frilansere fra offentlige registre. Vi innhenter mer informasjon hvis det er nødvendig for å behandle søknaden.
+
+
+#### Hvor kan jeg sjekke inntektsmeldinger jeg har sendt tidligere?
+
+Du kan sjekke tidligere innsendte inntektsmeldinger der du sendte den.
 
 Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
 
@@ -173,6 +173,14 @@ Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanlig
 Merk at pleiepenger vil beholde beregningen fra tidligere arbeidsforhold, dette kan påvirke hvor mye Nav kan utbetale i refusjon.
 
 
+#### Meld fra om endringer i refusjon
+
+Du må endre inntektsmeldingen hvis
+
+- du vil at Nav skal endre mottaker av pleiepengene
+- du vil at Nav skal endre refusjonsbeløpet til dere
+- dere forskutterer lønn og ansatt slutter i arbeidsforholdet. Dere må da legge siste dato for refusjon lik dato dere melder som siste arbeidsdag via A-meldingen.
+
 #### Frist for å kreve refusjon
 
 Nav kan som hovedregel gi refusjon av pleiepenger opptil 3 måneder før den kalendermåneden refusjonskravet sendes til Nav. Den ansatte har som hovedregel samme frist for å sende søknad om pleiepenger til Nav.
@@ -202,7 +210,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 15.06.2026
+Oppdatert 30.06.2026
 
 
 #### Chat
@@ -225,3 +233,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-07-07** Innhold endret (se git-historikk for diff)

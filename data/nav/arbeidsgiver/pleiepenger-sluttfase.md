@@ -1,11 +1,11 @@
-<!-- innholds-hash: 25d00e9901a63c025089ec1d643d213dbe1f462a9896d4213d089f4eb2616be2 -->
+<!-- innholds-hash: d885a61528a8e8d88e2b11f487c4422ccc50c241e69fb1498af3c1b61e913b8e -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-sluttfase
-- **Sist hentet:** 2026-06-21T05:57:38Z
+- **Sist hentet:** 2026-07-07T05:08:27Z
 
 ## Innhold
 
@@ -104,9 +104,11 @@ Hvis den ansatte jobber skift eller har timelønn, skal inntekten fastsettes ett
 - søker på nytt etter et opphold i pleiepengene på 4 uker eller mer
 - søker på nytt etter et opphold på mindre enn 4 uker, og det er en varig endring i inntekten
 
-#### Hvor mange fraværsdager skal jeg opplyse om i inntektsmeldingen?
+#### Gjelder inntektsmeldingen også for selvstendig næringsdrivende/frilansere?
 
-Du trenger kun å opplyse om første fraværsdag i inntektsmeldingen. De øvrige fraværsdagene opplyser den ansatte om selv.
+Nei, denne inntektsmeldingen gjelder bare for arbeidstakere.
+
+Nav har informasjon om inntekten for selvstendig næringsdrivende og frilansere fra offentlige registre. Vi innhenter mer informasjon hvis det er nødvendig for å behandle søknaden.
 
 
 #### Hvor kan jeg sjekke inntektsmeldinger jeg har sendt tidligere?
@@ -116,11 +118,9 @@ Du kan sjekke tidligere innsendte inntektsmeldinger der du sendte den.
 Det betyr at inntektsmeldinger som sendes fra Min side - Arbeidsgiver er synlige i saksoversikten. Har du sendt via Altinn, kan du finne innsendte inntekstmeldinger i innsynstjenesten til Altinn.
 
 
-#### Gjelder inntektsmeldingen også for selvstendig næringsdrivende/frilansere?
+#### Hvor mange fraværsdager skal jeg opplyse om i inntektsmeldingen?
 
-Nei, denne inntektsmeldingen gjelder bare for arbeidstakere.
-
-Nav har informasjon om inntekten for selvstendig næringsdrivende og frilansere fra offentlige registre. Vi innhenter mer informasjon hvis det er nødvendig for å behandle søknaden.
+Du trenger kun å opplyse om første fraværsdag i inntektsmeldingen. De øvrige fraværsdagene opplyser den ansatte om selv.
 
 Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
 
@@ -148,6 +148,14 @@ Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanlig
 - Kryss av for at dere utbetaler lønn og krever refusjon
 Merk at pleiepenger vil beholde beregningen fra tidligere arbeidsforhold, dette kan påvirke hvor mye Nav kan utbetale i refusjon.
 
+
+#### Meld fra om endringer i refusjon
+
+Du må endre inntektsmeldingen hvis
+
+- du vil at Nav skal endre mottaker av pleiepengene
+- du vil at Nav skal endre refusjonsbeløpet til dere
+- dere forskutterer lønn og ansatt slutter i arbeidsforholdet. Dere må da legge siste dato for refusjon lik dato dere melder som siste arbeidsdag via A-meldingen.
 
 #### Frist for å kreve refusjon
 
@@ -178,7 +186,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 15.06.2026
+Oppdatert 30.06.2026
 
 
 #### Chat
@@ -201,3 +209,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-05** Første gang hentet
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
+- **2026-07-07** Innhold endret (se git-historikk for diff)

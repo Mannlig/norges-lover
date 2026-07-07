@@ -1,11 +1,11 @@
-<!-- innholds-hash: 16d1ae946a64635df9b3a3ec7b6be155ead262e4a659cb69509f520b0b6be39c -->
+<!-- innholds-hash: 7a41b8c3e98cbc44e9a410af88f04024bf05957189d81ffd17e13686d6cae9b7 -->
 
 # Inntektsskjema for næringsdrivende og ansatt i eget aksjeselskap - uføretrygd | www.nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav120607/page6
-- **Sist hentet:** 2026-06-05T12:22:30Z
+- **Sist hentet:** 2026-07-07T05:19:30Z
 
 ## Innhold
 
@@ -13,7 +13,7 @@
 ## Inntektsskjema for næringsdrivende og ansatt i eget aksjeselskap - uføretrygd
 
 
-### Om driften av virksomheten
+### Veiledning
 
 
 ## Avbryt og slett?
@@ -32,3 +32,4 @@ Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette 
 ## Endringshistorikk
 
 - **2026-06-05** Første gang hentet
+- **2026-07-07** Innhold endret (se git-historikk for diff)
