@@ -1,11 +1,11 @@
-<!-- innholds-hash: f724ea34c44e2a48dc29aa8cdb2f441a3cb720a8b203e6d9b8c5ba5f6d602da2 -->
+<!-- innholds-hash: 5716934ac83de7a5e5c39cd37762dbfeed266399baad2ad7ca5f49f6039319e7 -->
 
 # Privacy Statement for the Norwegian Labour and Welfare Administration (Nav) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personvernerklaering/en
-- **Sist hentet:** 2026-06-17T20:43:54Z
+- **Sist hentet:** 2026-07-07T16:39:09Z
 
 ## Innhold
 
@@ -105,7 +105,7 @@ When we use external suppliers, we set strict requirements for security, control
 
 Nav manages large amounts of personal data, and this places high demands on security.
 
-Nav has established a dedicated management system to safeguard information security requirements. This includes physical security, security in IT systems, risk management, and plans for emergency preparedness and crisis management.
+Nav has established a dedicated management system to safeguard information security requirements. This includes physical security, security in IT systems, risk management, regular log reviews, and plans for emergency preparedness and crisis management.
 
 We collect and disclose personal data from and to other public or private bodies.
 
@@ -193,7 +193,7 @@ If you have suffered damage as a result of your personal data being misused, pro
 
 You can let a non-profit organisation represent you. The non-profit organisation can represent you for example by complaining on your behalf. More information about the requirements for the non-profits and how they can represent you is written in Article 80 of the General Data Protection Regulation (personvernforordningen).
 
-Updated 05/04/2026
+Updated 07/03/2026
 
 
 ---
@@ -202,3 +202,4 @@ Updated 05/04/2026
 ## Endringshistorikk
 
 - **2026-06-17** Første gang hentet
+- **2026-07-07** Innhold endret (se git-historikk for diff)

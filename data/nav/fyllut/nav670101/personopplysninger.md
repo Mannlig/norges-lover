@@ -4,8 +4,8 @@
 
 ## Kildeinformasjon
 
-- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav670101/personopplysninger
-- **Sist hentet:** 2026-06-11T00:36:33Z
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav670101/utgifteriforbindelsemedkonkursbegjaring/../personopplysninger
+- **Sist hentet:** 2026-07-07T16:18:46Z
 
 ## Innhold
 
@@ -27,8 +27,10 @@ Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette 
 
 
 ---
-*Automatisk hentet fra [NAV](https://www.nav.no/fyllut/nav670101/personopplysninger) av norges-lover-bot.*
+*Automatisk hentet fra [NAV](https://www.nav.no/fyllut/nav670101/utgifteriforbindelsemedkonkursbegjaring/../personopplysninger) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-06-11** Første gang hentet
+- **2026-07-07** Innhold endret (se git-historikk for diff)
+- **2026-07-07** Innhold endret (se git-historikk for diff)
