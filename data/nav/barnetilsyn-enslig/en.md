@@ -1,11 +1,11 @@
-<!-- innholds-hash: 32233f911482d9671c23b130549c128de17d09bf37a42118e68e8118197f5dd4 -->
+<!-- innholds-hash: ebd6064506143079741e91f508d6e37f31b33b0dd22616c8eac4a67fbe6121f4 -->
 
 # Child care benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig/en
-- **Sist hentet:** 2026-06-29T17:47:32Z
+- **Sist hentet:** 2026-07-08T20:59:09Z
 
 ## Innhold
 
@@ -28,11 +28,16 @@ There is also information on child care benefit for single parents for
 
 The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
 
-The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
 
-The changes are justified by the fact that, since the benefits were introduced, much has been done to facilitate childcare alongside work and education. The need for special social security benefits for single parents has therefore changed.
+#### What does this mean for you?
 
-Separate transitional rules are currently being drawn up. The changes will apply from 1 July 2026.
+The changes apply only to new cases from 1 July 2026. If you are already receiving benefits, you will not lose what has already been granted.
+
+During a transitional period, two different sets of rules apply to child care benefit. Which rules apply to you depends on whether you have previously received benefits for single parents.
+
+If you have not previously received benefits as a single parent and apply from 1 July 2026 or later, the new rules apply.
+
+You will find information about both sets of rules on this page.
 
 Generally, you may be entitled to child care benefit if
 
@@ -52,10 +57,6 @@ Shared permanent residence means that the child has a permanent place of residen
 - you spend so much time with the child’s other parent that you cannot be considered a single parent
 To receive child care benefit, you must be working, set up your own business or have an illness that is not permanent (chronic).
 
-The main rule is that you can receive child care benefit until your child has completed their fourth year at school.
-
-In some cases, you may be entitled to receive child care benefit after your child has completed their fourth year of school
-
 In general, you and your children must live in Norway for you to receive single parent benefits. In some cases, you may still be entitled to single parent benefits if you move or stay abroad.
 
 For single parents who are EEA citizens or family members of an EEA citizen:
@@ -72,9 +73,25 @@ Social security periods from other EEA countries may count as equivalent to peri
 
 Only EEA citizens or family members of EEA citizens, can add social security periods from other EEA countries to periods of membership in the Norwegian National Insurance Scheme. If the social security periods are from another Nordic country, citizenship does not matter.
 
-To qualify for child care benefit, you must be in work or in the process of setting up your own business and leave the looking after of your child(ren) to others.
+Age requirements vary depending on whether the new or previous rules apply.
+
+
+#### New rules
+
+You can recieve child care benefit until your child reaches 14 months of age. In some cases, you may receive the benefit beyond this point. See the section “How long can you receive child care benefit for?”
+
+
+#### Previous rules
+
+You can recieve child care benefit until your child has completed their fourth year at school. See the section “How long can you receive child care benefit for?”
+
+It is a condition that you arrange for someone else to look after your child. As a general rule, you can recieve child care benefit in the following cases:
 
 The work must be paid. We may make exceptions to this rule, for example, if you have an internship, an unpaid apprenticeship contract, or are self-employed.
+
+If you have an illness that prevents you from working, you can receive child care benefit for up to one year. The illness must not be chronic (permanent).
+
+In this context, “disorder that is not chronic” means a health disorder that has not lasted more than two years or is not expected to last more than two years.
 
 Requirements to the business:
 
@@ -85,12 +102,15 @@ Requirements to the business:
 - You must register your business in the necessary public registers during the start-up period
 If you receive unemployment benefit while you are setting up your own business, this means this is approved by us and you are entitled to benefit.
 
-If you have an illness that prevents you from working, you can receive child care benefit for up to one year. The illness must not be chronic (permanent).
 
-In this context, “disorder that is not chronic” means a health disorder that has not lasted more than two years or is not expected to last more than two years.
+#### For those receiving transitional benefit under the previous rules
 
-If you are currently not in work, but are registered with Nav as a job seeker or taking education that Nav has approved, as a general rule you will not be entitled to this benefit. In this case, you can apply for benefit for child minding.
+If you are not eligible for child care benefit because you are not in work, you may in some cases be entitled to supplemental benefit for single parents.
 
+This applies if you
+
+- are registered as a jobseeker with Nav, or
+- are undertaking education or training approved by Nav
 This benefit is intended to contribute towards covering your expenses related to having your child in day care. Expenses for food, nappies, etc. are not covered.
 
 The same applies if you have a job that entails that you have to be away from home for extended periods of time. In order for an absence to be regarded as longer than usual, it must exceed ten hours per day. You must provide documentation of your working hours.
@@ -122,6 +142,12 @@ You may be entitled to reduced parental fees for the kindergarten place if your 
 
 
 #### Calculate allowance for childcare
+
+Child care benefit may be paid from the month in witch you meet the eligibility criteria.
+
+The length of time for which you can receive child care benefit depends on whether you are covered by the new or previous rules:
+
+xx
 
 The main rule is that you can receive child care benefit until your child has completed their fourth year at school. There are no other restrictions on how long you can receive benefit for, as long as you continue to meet the conditions.
 
@@ -432,7 +458,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 06/18/2026
+Updated 06/30/2026
 
 
 #### Chat with us
@@ -463,3 +489,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-08** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 485aac218eb71bac117afd79a3ae40927706e7b39bf1ea25127b07ef567fe3f1 -->
+<!-- innholds-hash: 2dd0a9f532e5449dce13ab739dead1fbd4bf032f977a0c12a1cd14de08787357 -->
 
 # Transitional benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig/en
-- **Sist hentet:** 2026-06-29T17:58:35Z
+- **Sist hentet:** 2026-07-08T21:10:27Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@ Benefits
 
 ## Transitional benefit for single parents
 
-Ensures you income for up to 3 years when you have at least 60 per cent of the daily care for children under 8 years of age.
+Ensures income for a limited period if you have at least 60 percent of the daily care of a child.
 
 
 ### Contents on this page
@@ -26,15 +26,23 @@ There is also information on transitional benefit for single parents for
 
 There is also information on transitional benefit for single parents for
 
-The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
 
-The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
+#### Changes to benefits for single parents from 1 July 2026
 
-The changes are justified by the fact that, since the benefits were introduced, much has been done to facilitate childcare alongside work and education. The need for special social security benefits for single parents has therefore changed.
+The Storting has approved changes to the benefits for single parents. These changes mean that transitional benefit and other benefits related to being a single parent will be phased out for the majority of recipients.
 
-Separate transitional rules are currently being drawn up. The changes will apply from 1 July 2026.
 
-Generally, you may be entitled to transitional benefit if
+#### What does this mean for you?
+
+The changes apply only to new cases from 1 July 2026. If you are already receiving benefits, you will not lose what has already been granted.
+
+During a transitional period, two different sets of rules apply to transitional benefit. Which rules apply to you depends on whether you have previously received benefits as a single parent, and whether you still have remaining entitlement. If you apply for transitional benefit, Nav will assess which rules apply to you.
+
+If you have not previously received benefits as a single parent and apply from 1 July 2026 or later, the new rules apply.
+
+You will find information about both sets of rules on this page.
+
+To be entitled to transitional benefit, you must, as a general rule, meet the following conditions:
 
 - you have at least 60 per cent of the daily care of children alone
 - you are a biological parent, adoptive parent or have legally taken over custody of children
@@ -45,8 +53,6 @@ Generally, you may be entitled to transitional benefit if
 - you or the other parent is receiving or has previously received benefit for single parents and have another child with the same partner
 - you are fostering the child you are a single parent of
 - you spend so much time with the child’s other parent that you cannot be considered a single parent
-To qualify for transitional benefit, your youngest child must be under the age of 8 years. In some cases, you can receive benefit after your youngest child has turned 8.
-
 In general, you and your children must live in Norway for you to receive single parent benefits. In some cases, you may still be entitled to single parent benefits if you move or stay abroad.
 
 For single parents who are EEA citizens or family members of an EEA citizen:
@@ -63,30 +69,24 @@ Social security periods from other EEA countries may count as equivalent to peri
 
 Only EEA citizens or family members of EEA citizens, can add social security periods from other EEA countries to periods of membership in the Norwegian National Insurance Scheme. If the social security periods are from another Nordic country, citizenship does not matter.
 
+Age requirements vary depending on whether the new or previous rules apply.
 
-#### If you have children between the ages of 1 and 8 years
 
-Then you must also either work or study at least 50 per cent, be registered as a job seeker with Nav, or be in the process of establishing your own business. In some cases, you may qualify for transitional benefit even if you cannot
+#### New rules
 
-If you have, without a reasonable cause, stopped working in the last 6 months before you apply for the benefit, you are not entitled to transitional benefit. You can receive benefits after these 6 months.
+Your youngest child must be under 14 months. In some cases, you may receive the benefit beyond this point. See the section “How long can you receive transitional benefit for?”
 
-To qualify for transitional benefit, your youngest child must be under the age of 8 years. In some cases, you can receive benefit after your youngest child has turned 8.
 
-You can receive transitional benefit for the calendar month in which you are due to give birth and the preceding month. This is in addition to the three years during which you can receive transitional benefit after the child is born. If you apply before the baby is born, you must submit confirmation of your expected date of delivery.
+#### Previous rules
 
-If your child is under the age of 1 year old, you can receive transitional benefit without having to work, study or seek work. It is nevertheless sensible to start planning childminding and work, education or training as early as possible.
+Your youngest child must be under 8 years old. In some cases, you may receive the benefit beyond this point. See the section “How long can you receive transitional benefit for?”
 
-To receive transitional benefit after your child has turned 1, you must work, study or seek work.
+The activity requirement only applies if you receive transitional benefit under the previous rules.
 
-If your child needs extra supervision due to physical, mental or major social problems, you may still be entitled to benefit after your youngest child turns 8.
+When your child is between 1 and 8 years old, you must be engaged in at least 50 percent work-related activity. In some cases, you may be exempt from the activity requirement.
 
-If you have children aged between 1 and 8 years old, you must be in at least 50 per cent occupational activity to qualify for transitional benefit. The purpose of this benefit is to enable you to support yourself and your child(ren).
 
-- be in at least 50 per cent work
-- be registered with Nav as a job seeker
-- be in at least 50 per cent education that Nav has assessed as necessary for you to be able to get a job and support yourself
-- set up your own business
-If you combine work with education, you must either work or study at least 50 per cent.
+#### How you can meet the activity requirement
 
 You must work at least half of what corresponds to full time in your occupation.
 
@@ -138,6 +138,9 @@ Requirements to the business:
 - You must register your business in the necessary public registers during the start-up period
 If you receive unemployment benefit while you are setting up your own business, this means this is approved by us and you are entitled to benefit.
 
+
+#### When you may be exempt from the activity requirement
+
 We do not require you to work, study or seek work if your child is ill, but you do need to provide documentation proving that the child’s illness is the reason for this.
 
 If you cannot work, study or seek work because your child needs extra supervision due to physical, mental or major social problems, you can receive transitional benefit until the child turns 18.
@@ -167,7 +170,21 @@ We calculate your transitional benefit based on your current income or the incom
 
 #### Calculate monthly transitional benefit
 
-You can receive transitional benefit for up to three years, i.e. 36 months. This does not need to be a continuous period, but can be divided up into multiple periods until the child is 8 years old.
+Transitional benefit can be granted from the month after you become the sole caregiver for your child. If you are a single parent before the child is born, you may receive transitional benefit for the calendar month of your due date and the month before.
+
+How long you can receive transitional benefit depends on whether the new or previous rules apply to you:
+
+You can usually receive transitional benefit until your youngest child turns 14 months. In some cases, you may receive the benefit beyond this point.
+
+Your benefit period may be extended if you cannot work because your child requires special care due to physical, mental, or serious social challenges. This applies until your child turns 18.
+
+If you are already receiving transitional benefit, it may be extended for up to 2 years if your child has a temporary illness that prevents you from working. In this context, temporary means that the illness has not lasted, and is not expected to last, longer than 2 years.
+
+You can receive transitional benefit for up to 3 years, that is 36 months. The benefit can be granted continuously or in several separate periods. However, breaks in the benefit period cannot exceed 12 months.
+
+Breaks before 1 July 2026 are not included.
+
+Periods during which you receive benefit will be deducted from your benefit period even if you do not receive full transitional benefit, for example because you have earned income.
 
 Periods during which you receive childcare benefit, support for school fees or supplemental benefit will also be deducted from the three-year benefit period, even if you are not granted transitional benefit. This applies if
 
@@ -359,11 +376,13 @@ Documentation of the employment conditions and the reason why you reduced your w
 - the reason why you reduced your working hours
 - the date you agreed to a reduction in working hours
 
-#### Information from a single parent who is a job seeker
+#### Information required if you are a job seeker (applies only to previous rules)
 
-If you receive transitional benefits and become a job seeker, you must send us some extra information.
+We need additional information from you if you
 
-The same applies if you are a job seeker and apply for transitional benefits with a paper application.
+• have become a job seeker after receiving a decision about transitional benefit, or
+
+You can submit this information by clicking the “Submit information” button below.
 
 You may
 
@@ -402,14 +421,18 @@ Complaint to the Nav Appeals Management Unit
 
 Appeals to the Nav Appeals Management Unit
 
-Your benefits for single parents may be suspended for one month if you, without reasonable grounds:
+You must provide correct and complete information to Nav.
 
-- resign from your job
-- turn down a job offer
-- fail to return to work after your period of parental leave
-- refuse to participate in labour market schemes
-- fail to attend meetings with Nav
-If you have provided incorrect information or failed to provide information, your benefit may be suspended for up to three months the first time you do this and for up to six months if this happens more than once in a three-year period.
+If you provide incorrect information or fail to provide information, you may lose your right to benefits for single parents for up to
+
+• 3 months the first time
+
+
+#### For those receiving benefits under the previous rules
+
+You may lose the benefits for single parents for 1 month if, without reasonable cause, you
+
+• leave your job
 
 Transitional benefit is paid from the month after you qualify for benefit.
 
@@ -437,36 +460,20 @@ If you pay Svalbard tax or
 
 More about
 
-You must notify us of changes if:
+If there are changes to your income or life situation, you must notify Nav.
 
-- you start working
-- your work situation changes
-- you are granted other benefits from Nav
-- your disability benefit or survivor’s pension changes
-- you are no longer a job seeker
-- you change, drop out of or reduce the scope of your education
-- you or your child falls ill, and this prevents you from being in work, in education or a job seeker
-- your application for separation or divorce is refused
-- you start living with your partner, enter a civil partnership, or get married
-- you start a relationship with someone you have previously lived with and have children with
-- you are expecting another child
-- the child access arrangements change
-- the day-to-day care of the child is temporarily or permanently left to others
-- you will be
-- you or the other parent move very close to one another, i.e. the same building, the same block of flats, next door, or a building around the same courtyard, etc.
+• your monthly income changes by 10 percent or more before tax (this applies to wages, benefits from Nav and benefits from other countries)
 
-#### Change in earned income
+• your application for separation or divorce is rejected
 
-If your monthly income changes by more than 10 per cent, compared with your income when the decision was made, you must request recalculation to avoid overpayment or underpayment of transitional benefit.
+• you and the other parent move very close to each other, for example in the same house, building, nearest homes in the same street, or within the same farmyard
 
+• you receive benefits under EEA rules and you or the other parent stop working in Norway
 
-#### Holidays and periods spent abroad
+If you have an activity requirement, you must also notify Nav if
 
-You must notify us if:
+• you are no longer registered as a job seeker
 
-- you are going to spend more than six weeks abroad
-- you are going to travel abroad and have already spent six weeks outside Norway during the past 12 months
-- you are going to travel abroad, and this stay will result in you having spent more than six weeks abroad during the past 12 months
 In general, you and your children must live in Norway for you to receive single parent benefits. In some cases, you may still be entitled to single parent benefits if you move or stay abroad.
 
 You may stay abroad for a period of up to 6 weeks (42 days), during a 12-month period while you receive the benefit. Weekend stays of up to 2 nights do not count.
@@ -478,7 +485,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 06/18/2026
+Updated 06/30/2026
 
 
 #### Chat with us
@@ -509,3 +516,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-08** Innhold endret (se git-historikk for diff)

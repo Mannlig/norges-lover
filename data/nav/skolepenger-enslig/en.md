@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6c77fbf67a10be92babcb4c1cf41eb420580eb2ab9e33d641907e6ee2356fe9b -->
+<!-- innholds-hash: fcbbe28051cf36b72b8df90ff179d4c1a45a3e40dba751a4f96f05a5d1743c2e -->
 
 # Support for school fees for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-enslig/en
-- **Sist hentet:** 2026-06-29T18:00:41Z
+- **Sist hentet:** 2026-07-08T21:12:32Z
 
 ## Innhold
 
@@ -22,13 +22,16 @@ Covers expenses related to tuition fees, semester fees and examination fees for 
 
 ### Contents on this page
 
-The Storting has approved changes to the benefits for single parents. The changes mean that the transitional benefit and other benefits related to being a single parent will be phased out for the main group of recipients.
+The Storting has approved changes to the benefits for single parents. These changes mean that the support for school fees will be discontinued. In addition, the transitional benefit and the child care benefit will be phased out for the majority of recipients.
 
-The changes will only apply to new cases from 1 July 2026. No one currently receiving these benefits will lose what they have already been granted.
 
-The changes are justified by the fact that, since the benefits were introduced, much has been done to facilitate childcare alongside work and education. The need for special social security benefits for single parents has therefore changed.
+#### What does this mean for you?
 
-Separate transitional rules are currently being drawn up. The changes will apply from 1 July 2026.
+The changes apply only to new cases from 1 July 2026. If you are already receiving benefits, you will not lose what has already been granted.
+
+If you are receiving transitional benefit under the rules that applied before 1 July 2026, and are taking an education that Nav has approved, you may be entitled to support for school fees.
+
+On this page you will find information about the rules that applied before 1 July 2026.
 
 Generally, you may be entitled to support for school fees if
 
@@ -361,7 +364,7 @@ If you meet the other conditions for the benefit, you may have the right to keep
 - You are already receiving a single parent benefit.
 - You are an employee in Norway, but you and your child live in another EEA country (e.g., you live in Sweden and work in Norway).
 - You and your child live in another EEA country, while the other parent works or receives social security benefits or a pension from Norway.
-Updated 06/18/2026
+Updated 06/30/2026
 
 
 #### Chat with us
@@ -392,3 +395,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-08** Innhold endret (se git-historikk for diff)

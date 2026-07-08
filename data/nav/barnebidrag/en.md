@@ -1,11 +1,11 @@
-<!-- innholds-hash: b11e7d35b8bf8153da640adab42cf350bbd499d1991c41fe015dff9e015d86a0 -->
+<!-- innholds-hash: 51f1b2f3afa141778387f7cc479d695eb4dba5c1e1adb515a82e99f40d6ffc84 -->
 
 # Child support - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag/en
-- **Sist hentet:** 2026-06-18T00:41:45Z
+- **Sist hentet:** 2026-07-08T20:57:47Z
 
 ## Innhold
 
@@ -85,7 +85,7 @@ If you cannot come to a private agreement on child support, one or both of you m
 
 When Nav calculates or adjusts the child support, we collect a fee from both the custodial and the non-custodial parent. We do this because child support is normally a private matter, but one we can handle for you as a service.
 
-You will not have to pay the fee if your gross income is less than NOK 354,600.
+You will not have to pay the fee if your gross income is less than NOK 367,400.
 
 You must pay a fee when Nav calculates child support in response to an application from one parent, but you will also incur an additional fee each time one of request adjustment of the child support.
 
@@ -239,37 +239,11 @@ If there are more than 3 people in the household, a deduction of 20 per cent is 
 
 If you live abroad, separate rates apply.
 
-Subsistence rates are set by the Ministry of Children, Equality and Social Inclusion (FOR-2014-06-13-724).
+Subsistence rates are set by the Ministry of Children, Equality and Social Inclusion.
 
-Current rates from 1 July 2024:
+The Norwegian Tax Administration uses the standard subsistence rates as a basis for calculating the amount to be deducted from your salary or benefits.
 
-Child's age
-
-Amount
-
-Single debtor
-
-NOK 11,046
-
-Married or cohabiting debtor
-
-NOK 9,354
-
-Debtors who support a spouse or cohabitant
-
-NOK 18,708
-
-Supplement for children aged 0-5 in the household
-
-NOK 3,535
-
-Supplement for children aged 6-10 in the household
-
-NOK 4,690
-
-Supplement for children aged 11-14 in the household
-
-NOK 5,919
+See the current
 
 
 #### Debt settlement arrangement for child support debt
@@ -317,7 +291,7 @@ Both parents must pay a fee for Nav to perform this service for you. The fee is 
 
 #### Automatic adjustment of child support
 
-In cases where Nav has calculated the child support and is collecting it, the rate will automatically be adjusted in the years the child turns 6, 11 and 15 years old. This means it will not be necessary to request an adjustment in these cases.
+When Nav has determined the child support amount and it is collected by the Norwegian Tax Administration, the amount is automatically adjusted in the year the child turns 6, 11 and 15. This means it will not be necessary to request an adjustment in these cases.
 
 
 #### Apply for adjustment
@@ -437,9 +411,9 @@ Other maximum limits on how much a non-custodial parent can be ordered to pay Th
 
 - 5/6, or 83.3 percent, of the child’s maintenance cost.
 - 25 percent of the gross income estimated by Nav before making deductions for visiting arrangements, if relevant.
-When Nav calculates child support, we also take into account if the child has personal income. The child’s income is only taken into account if the annual income exceeds NOK 60,300.
+When Nav calculates child support, we also take into account if the child has personal income. The child’s income is only taken into account if the annual income exceeds NOK 62,400.
 
-The child is considered self-supporting if their income exceeds NOK 201,000. In these cases, we will not order the non-custodial parent to pay child support.
+The child is considered self-supporting if their income exceeds NOK 208,000. In these cases, we will not order the non-custodial parent to pay child support.
 
 When the non-custodial parent has a visiting arrangement with the child, they also incur costs in connection with the visits. This means the non-custodial parent is entitled to deductions from the child support payment.
 
@@ -523,11 +497,11 @@ When Nav calculates child support for a child who is over 18 years old, the chil
 
 Child support payments will automatically cease when the time period specified in the decision ends. If the child is delayed in their education, Nav will consider whether the conditions for extended child support have been met.
 
-The child is considered self-supporting if their income exceeds NOK 201,000. In this case, the child will not be entitled to child support. If the child’s income exceeds this amount in the child support period, one of the parties must notify Nav.
+The child is considered self-supporting if their income exceeds NOK 208,000. In this case, the child will not be entitled to child support. If the child’s income exceeds this amount in the child support period, one of the parties must notify Nav.
 
 If child support payments should cease, e.g. because the parents have entered into a private agreement with the 18-year-old, or the child drops out of school, the parents must notify Nav of this. The parent paying child support may submit a copy of the agreement, or the child over 18 may give notification that child support payments should cease.
 
-Updated 06/16/2026
+Updated 07/01/2026
 
 
 #### Chat with us
@@ -557,3 +531,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-08** Innhold endret (se git-historikk for diff)

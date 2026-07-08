@@ -1,4 +1,4 @@
-<!-- innholds-hash: 758b2780adc7d4bcb35f19a51d75071bdbe0b2c4340b0c36813d86bff2a4ae5e -->
+<!-- innholds-hash: 4be3c9f1ed491c6bb4948c90ece7c6dc6aaa5b5010af4a7571149bbfcc9bf615 -->
 
 # Representantforslag fra stortingsrepresentantene Sofie Marhaug, Bjørnar Moxnes, Geir Jørgensen og Mímir Kristjánsson om kontroll over krafteksporten og styrking av forsyningssikkerheten
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-08T12:31:52Z
+- **Sist hentet:** 2026-07-08T18:23:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200210
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783512448201+0200)/",
+  "respons_dato_tid": "/Date(1783534348003+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -158,7 +158,7 @@
   "innstilling_id": 17459,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783512024568+0200)/",
+    "respons_dato_tid": "/Date(1783533627382+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -167,7 +167,7 @@
   "sak_fremmet_id": 200210,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783512448201+0200)/",
+      "respons_dato_tid": "/Date(1783534348003+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
@@ -301,6 +301,7 @@
 - **2026-07-07** Innhold endret (se git-historikk for diff)
 - **2026-07-07** Innhold endret (se git-historikk for diff)
 - **2026-07-07** Innhold endret (se git-historikk for diff)
+- **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)

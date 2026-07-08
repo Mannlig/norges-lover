@@ -1,11 +1,11 @@
-<!-- innholds-hash: f774418e5c57ba362f880a6a991e61cb3aba3ed6c1fff1c2a1136d00d538a155 -->
+<!-- innholds-hash: 8d36d7c7fe5760abff45c8ffaa69071043d85f16c19d2a2a7714fbe807296ebf -->
 
 # Supplemental benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader/en
-- **Sist hentet:** 2026-06-18T01:00:27Z
+- **Sist hentet:** 2026-07-08T21:16:44Z
 
 ## Innhold
 
@@ -21,6 +21,15 @@ Support for childcare and expenses you have in connection with education or job 
 
 
 ### Contents on this page
+
+You can still receive supplementary benefits if you are entitled to transitional benefit under the rules that applied before 1 July 2026, or under the transitional rules. If you are entitled to transitional benefit under the new rules that apply from 1 July 2026, you are not entitled to supplementary benefits.
+
+
+#### Am I eligible for supplementary benefits?
+
+If you are entitled to transitional benefit under the old rules or under the transitional rules, you may be entitled to supplementary benefits.
+
+If you are entitled to transitional benefit under the new rules that apply from 1 July 2026, you are not entitled to supplementary benefits.
 
 You can receive supplemental benefit if you are taking an education that Nav has assessed as necessary in order for you to be able to get a job and support yourself. This also applies if you are registered with Nav as a real job seeker.
 
@@ -312,7 +321,7 @@ You must inform us about changes, such as if you:
 - plan a stay abroad
 This may affect the amount you receive from us.
 
-Updated 08/20/2025
+Updated 06/30/2026
 
 
 #### Chat with us
@@ -342,3 +351,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-08** Innhold endret (se git-historikk for diff)
