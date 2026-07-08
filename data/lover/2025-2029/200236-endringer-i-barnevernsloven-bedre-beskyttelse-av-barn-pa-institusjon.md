@@ -1,4 +1,4 @@
-<!-- innholds-hash: c03ef848611943f642e193afc4955a502b5c74b3d3aa1823d504ab7feccf5ac4 -->
+<!-- innholds-hash: d84a4559de733fb2164590555e8ec5d7df0f7082b514611ffabb8ca40cbe8430 -->
 
 # Endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-07T19:09:19Z
+- **Sist hentet:** 2026-07-08T01:17:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200236
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783447792841+0200)/",
+  "respons_dato_tid": "/Date(1783472469755+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17446,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1783447229192+0200)/",
+    "respons_dato_tid": "/Date(1783472421032+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200236,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783447792841+0200)/",
+      "respons_dato_tid": "/Date(1783472469755+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jakobsen",
@@ -47,14 +47,14 @@
       "id": "BENJAK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783429400275+0200)/",
+        "respons_dato_tid": "/Date(1783465219033+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783378820575+0200)/",
+        "respons_dato_tid": "/Date(1783465218846+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -167,3 +167,4 @@
 - **2026-07-07** Innhold endret (se git-historikk for diff)
 - **2026-07-07** Innhold endret (se git-historikk for diff)
 - **2026-07-07** Innhold endret (se git-historikk for diff)
+- **2026-07-08** Innhold endret (se git-historikk for diff)
