@@ -1,16 +1,16 @@
-<!-- innholds-hash: cea8afd143fb76861524bf2504889b6eb6b6eb359259d497ff4be85d7bf7c32d -->
+<!-- innholds-hash: 2cc36865a81a10053888f1afb4aa7b5bddcb32e9378634529c9655ce9cc3bbb2 -->
 
-# Skjema for arbeidsgiver – bekreftelse på utsending utenfor EØS | www.nav.no
+# Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav020806/oppsummering
-- **Sist hentet:** 2026-06-15T09:02:38Z
+- **Sist hentet:** 2026-07-09T20:47:55Z
 
 ## Innhold
 
 
-## Skjema for arbeidsgiver – bekreftelse på utsending utenfor EØS
+## Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS
 
 
 ### Oppsummering
@@ -30,3 +30,4 @@ Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette 
 ## Endringshistorikk
 
 - **2026-06-15** Første gang hentet
+- **2026-07-09** Innhold endret (se git-historikk for diff)
