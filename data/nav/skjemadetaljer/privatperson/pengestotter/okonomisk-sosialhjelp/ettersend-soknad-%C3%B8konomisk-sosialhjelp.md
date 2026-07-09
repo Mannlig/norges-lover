@@ -1,18 +1,18 @@
-<!-- innholds-hash: a9d8aa6d219a417a022c579374ac02ce076f56ee37a8a75f4ab773411b0a2eb4 -->
+<!-- innholds-hash: 4e8d311fdb4a51218e981a0cbcc6c6e149db6bb5baf39a729098752e2e6b7085 -->
 
 # Ettersend til søknad om økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skjemadetaljer/privatperson/pengestotter/okonomisk-sosialhjelp/ettersend-soknad-%C3%B8konomisk-sosialhjelp
-- **Sist hentet:** 2026-06-14T15:47:20Z
+- **Sist hentet:** 2026-07-09T03:36:50Z
 
 ## Innhold
 
 
 ## Ettersend til søknad om økonomisk sosialhjelp
 
-Du kan ettersende vedlegg til en søknad du tidligere har sendt inn.
+Du kan ettersende vedlegg til ein søknad du tidlegare har sendt inn.
 
 
 ---
@@ -21,3 +21,4 @@ Du kan ettersende vedlegg til en søknad du tidligere har sendt inn.
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-07-09** Innhold endret (se git-historikk for diff)

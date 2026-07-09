@@ -2,7 +2,7 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-07-08 22:01 UTC*
+*Sist oppdatert: 2026-07-09 04:09 UTC*
 
 **Antall dokumenter:** 1254
 
