@@ -1,4 +1,4 @@
-<!-- innholds-hash: 503690326e50da7c539a82ed61e491f259432c1480a09749a98677bfbcafefad -->
+<!-- innholds-hash: 6c1787ee935f1012dba76b05f17c8ed8832f1c5aa0bd981fefae76c1bf7c18c0 -->
 
 # Godtgjøring for stortingsrepresentanter og regjeringsmedlemmer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T00:02:05Z
+- **Sist hentet:** 2026-07-09T06:10:54Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=109130
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783555228559+0200)/",
+  "respons_dato_tid": "/Date(1783577008022+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17537,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783555218272+0200)/",
+    "respons_dato_tid": "/Date(1783576850890+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -147,4 +147,5 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

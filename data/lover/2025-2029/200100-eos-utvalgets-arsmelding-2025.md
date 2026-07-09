@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2b7329d5dfb029ad86948bf68ec6c08dcb66aecef8e4a7565f9f11bee285eb6 -->
+<!-- innholds-hash: a95e1ce3fabe71a13d4458d19ef07df11aaaf8193c5ebdfc07f834d7af548071 -->
 
 # EOS-utvalgets årsmelding 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T00:02:05Z
+- **Sist hentet:** 2026-07-09T06:10:54Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200100
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783555228559+0200)/",
+  "respons_dato_tid": "/Date(1783577008022+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -57,7 +57,7 @@
   "innstilling_id": 17399,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783555218272+0200)/",
+    "respons_dato_tid": "/Date(1783576850890+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200100,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228559+0200)/",
+      "respons_dato_tid": "/Date(1783577008022+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
@@ -173,4 +173,5 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

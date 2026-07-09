@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8389a54b67d04703f3e202137add12696f29481c89a933d421abad0c907ea4a3 -->
+<!-- innholds-hash: dac0d82cb11487f455024dab5e49667f1d99b043a9ad121f5a5d53672e4f53c7 -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Jorunn Gleditsch Lossius og Joel Ystebø om trygghet for mødre i barselomsorgen
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T00:02:05Z
+- **Sist hentet:** 2026-07-09T06:10:54Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200149
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783555228606+0200)/",
+  "respons_dato_tid": "/Date(1783577008100+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -133,7 +133,7 @@
   "innstilling_id": 17508,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783555218272+0200)/",
+    "respons_dato_tid": "/Date(1783576850890+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200149,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228606+0200)/",
+      "respons_dato_tid": "/Date(1783577008100+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
@@ -281,4 +281,5 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

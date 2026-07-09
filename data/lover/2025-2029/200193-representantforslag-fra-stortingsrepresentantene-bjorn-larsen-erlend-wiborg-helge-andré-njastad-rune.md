@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6897f8027ed382b08f92f94159dcc18e3d7ae6e987b60468286e18edc5e2d265 -->
+<!-- innholds-hash: 9ba16cb2a727daf2ed8d462b7c97a2b41d0de54c5f32912a03f99b67c0981111 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørn Larsen, Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bård Hoksrud og Dagfinn Henrik Olsen om ivaretakelse av 2G-nettet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T00:02:05Z
+- **Sist hentet:** 2026-07-09T06:10:54Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200193
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783555228622+0200)/",
+  "respons_dato_tid": "/Date(1783577008116+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -178,7 +178,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -208,7 +208,7 @@
   "innstilling_id": 17509,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783555218272+0200)/",
+    "respons_dato_tid": "/Date(1783576850890+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -217,7 +217,7 @@
   "sak_fremmet_id": 200193,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783555228622+0200)/",
+      "respons_dato_tid": "/Date(1783577008116+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -352,4 +352,5 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
