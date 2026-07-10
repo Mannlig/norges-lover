@@ -1,4 +1,4 @@
-<!-- innholds-hash: c173929a36778b123f1c60ebeed27c94fc46915e7d387f974ff554f26f564bd4 -->
+<!-- innholds-hash: f83118f4fa677a617a172f4bcbb4c726908d798d5e9005e485f8dd14ea4e7c9f -->
 
 # Representantforslag fra stortingsrepresentantene Rune Midtun, Bård Hoksrud, May Helen Hetland Ervik, Trond Helleland, Aleksander Stokkebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om salg av Haugesund Lufthavn Karmøy
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T23:17:50Z
+- **Sist hentet:** 2026-07-10T04:55:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200299
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783638048676+0200)/",
+  "respons_dato_tid": "/Date(1783656146426+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -44,7 +44,7 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -69,7 +69,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -94,7 +94,7 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -119,7 +119,7 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -144,7 +144,7 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -169,7 +169,7 @@
       "id": "RUNMID",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -185,7 +185,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
@@ -194,7 +194,7 @@
       "id": "TROH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -215,7 +215,7 @@
   "innstilling_id": 17447,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783638022352+0200)/",
+    "respons_dato_tid": "/Date(1783656055586+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -224,7 +224,7 @@
   "sak_fremmet_id": 200299,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048691+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -233,7 +233,7 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -369,3 +369,4 @@
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
+- **2026-07-10** Innhold endret (se git-historikk for diff)

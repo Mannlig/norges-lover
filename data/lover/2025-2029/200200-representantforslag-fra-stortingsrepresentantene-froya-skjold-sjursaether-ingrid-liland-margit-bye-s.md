@@ -1,4 +1,4 @@
-<!-- innholds-hash: b2cb59e533f3d4bea506a99e80dc2245708e8ea3c0ef2f73000d82dd7f7d1a78 -->
+<!-- innholds-hash: 0a863dbea2b01e23ced127aa492e848d7f55bae69852bc53219ac10b6ed00cbf -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Margit Bye, Siren Julianne Jensen og Oda Indgaard om en helhetlig plan for mer arealvennlig utbygging av landvind
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T23:17:51Z
+- **Sist hentet:** 2026-07-10T04:55:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200200
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783638048832+0200)/",
+  "respons_dato_tid": "/Date(1783656146504+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -71,7 +71,7 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -96,7 +96,7 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -121,7 +121,7 @@
       "id": "MARBYE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -146,7 +146,7 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -171,7 +171,7 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -192,7 +192,7 @@
   "innstilling_id": 17478,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783638022352+0200)/",
+    "respons_dato_tid": "/Date(1783656055586+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200200,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048832+0200)/",
+      "respons_dato_tid": "/Date(1783656146504+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -210,7 +210,7 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -344,3 +344,4 @@
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
+- **2026-07-10** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4f8719c0e3d99118c12f6ac57f2e511aa256359ecdd42091cbffd2f680412a4a -->
+<!-- innholds-hash: 3dd5f1d5cda82fdd6a6fdc12adeb7b4ec07607e88b48eee9843c3ff210adf158 -->
 
 # Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T23:17:50Z
+- **Sist hentet:** 2026-07-10T04:55:45Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200330
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783638048629+0200)/",
+  "respons_dato_tid": "/Date(1783656146426+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048629+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -39,7 +39,7 @@
   "innstilling_id": 17535,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783638022352+0200)/",
+    "respons_dato_tid": "/Date(1783656055586+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200330,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783638048629+0200)/",
+      "respons_dato_tid": "/Date(1783656146426+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -57,7 +57,7 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783638021097+0200)/",
+        "respons_dato_tid": "/Date(1783645852530+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -168,3 +168,4 @@
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
+- **2026-07-10** Innhold endret (se git-historikk for diff)
