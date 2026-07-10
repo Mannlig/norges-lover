@@ -1,4 +1,4 @@
-<!-- innholds-hash: 849899a7c4562e5eb26fd748f0aad17f814e5b53d0d9cbe6e0e4b18f47fad376 -->
+<!-- innholds-hash: ca68f140e9c907f0196ceea12211c96f406c21ea1d8c9fdd1ba77b4eeba3c6d6 -->
 
 # Representantforslag fra stortingsrepresentant Kjersti Toppe om å øke andelen institusjonsplasser i ideelle barnevernsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T17:25:04Z
+- **Sist hentet:** 2026-07-09T23:17:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200199
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783617053123+0200)/",
+  "respons_dato_tid": "/Date(1783638048707+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -53,14 +53,14 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -74,7 +74,7 @@
   "innstilling_id": 17416,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783616468035+0200)/",
+    "respons_dato_tid": "/Date(1783638022352+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200199,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -92,14 +92,14 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -216,6 +216,7 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

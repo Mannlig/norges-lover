@@ -1,4 +1,4 @@
-<!-- innholds-hash: f1bcca479d5524ce8f45f0e4e615fbdb784925654aded6ee2d3b5eb1028a8d04 -->
+<!-- innholds-hash: 3b34a9a80a206550c58c83a21609cf08563837901beb1795352ec634c220be06 -->
 
 # Lov om endringar i utleveringslova (behandlinga av utleveringssaker)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T17:25:05Z
+- **Sist hentet:** 2026-07-09T23:17:51Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200219
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783617053185+0200)/",
+  "respons_dato_tid": "/Date(1783638048832+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17448,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1783616468035+0200)/",
+    "respons_dato_tid": "/Date(1783638022352+0200)/",
     "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200219,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053185+0200)/",
+      "respons_dato_tid": "/Date(1783638048832+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
@@ -47,14 +47,14 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -173,6 +173,7 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

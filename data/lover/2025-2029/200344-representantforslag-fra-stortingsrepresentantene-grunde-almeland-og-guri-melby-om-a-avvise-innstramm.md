@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4774e868bad58db290926f6e63d644c384c966f0e6bd234e31295e148d01e35e -->
+<!-- innholds-hash: 00e8f4549be441af3b39cef8cac8330f5015b85f99beb12200d0aac9bc2b7874 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T17:25:04Z
+- **Sist hentet:** 2026-07-09T23:17:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783617053123+0200)/",
+  "respons_dato_tid": "/Date(1783638048707+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -44,14 +44,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783617053123+0200)/",
+      "respons_dato_tid": "/Date(1783638048707+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -69,14 +69,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -90,7 +90,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783616468035+0200)/",
+    "respons_dato_tid": "/Date(1783638022352+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -204,6 +204,7 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

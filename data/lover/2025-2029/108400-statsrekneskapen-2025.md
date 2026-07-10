@@ -1,4 +1,4 @@
-<!-- innholds-hash: 776c76f048598759f4c58d0cd5e76e6f04090c67d89819bd82587ab1d3e9d2f5 -->
+<!-- innholds-hash: 556907185861de3b9b02d5e194ab075db17ba22f3a90470eb3e55cc45d43b9e4 -->
 
 # Statsrekneskapen 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T17:25:04Z
+- **Sist hentet:** 2026-07-09T23:17:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108400
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783617053107+0200)/",
+  "respons_dato_tid": "/Date(1783638048691+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048691+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048691+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048691+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -57,7 +57,7 @@
   "innstilling_id": 17385,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783616468035+0200)/",
+    "respons_dato_tid": "/Date(1783638022352+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 108400,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048691+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -75,14 +75,14 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -217,6 +217,7 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)

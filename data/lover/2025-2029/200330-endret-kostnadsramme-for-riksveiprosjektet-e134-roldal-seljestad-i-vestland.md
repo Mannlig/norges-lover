@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5888b37b1ee2c27849244aaff84ab6fd3b5db6aabf0cf538a454621693607198 -->
+<!-- innholds-hash: 4f8719c0e3d99118c12f6ac57f2e511aa256359ecdd42091cbffd2f680412a4a -->
 
 # Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-09T17:25:04Z
+- **Sist hentet:** 2026-07-09T23:17:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200330
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783617053107+0200)/",
+  "respons_dato_tid": "/Date(1783638048629+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048629+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -39,7 +39,7 @@
   "innstilling_id": 17535,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783616468035+0200)/",
+    "respons_dato_tid": "/Date(1783638022352+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200330,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783617053107+0200)/",
+      "respons_dato_tid": "/Date(1783638048629+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -57,14 +57,14 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783594832328+0200)/",
+        "respons_dato_tid": "/Date(1783638021097+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783551616992+0200)/",
+        "respons_dato_tid": "/Date(1783638020159+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -163,6 +163,7 @@
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
 - **2026-07-09** Innhold endret (se git-historikk for diff)
