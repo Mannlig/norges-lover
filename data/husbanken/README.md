@@ -2,7 +2,7 @@
 
 Husbanken
 
-*Sist oppdatert: 2026-07-11 10:21 UTC*
+*Sist oppdatert: 2026-07-11 15:54 UTC*
 
 **Antall dokumenter:** 2
 
