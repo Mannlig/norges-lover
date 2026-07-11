@@ -1,4 +1,4 @@
-<!-- innholds-hash: 39fe7a9e3b927278d0c5aee2fdeb8c28482eeb7d0d23c8fdf7ccbe959631f461 -->
+<!-- innholds-hash: 73e9470a4b5a1c13a875e4e6f20e7495f7755e008548ab861fc281f3f3f17e93 -->
 
 # Internkontroll - systematisk arbeid med helse, miljø og sikkerhet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/internkontroll/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-07-03T11:17:27Z
+- **Sist hentet:** 2026-07-11T09:57:02Z
 
 ## Innhold
 
@@ -28,11 +28,11 @@ I tillegg til den jamlege oppfølginga med kartlegging og tiltak, må bedrifta
 - sørge for at det helse-, miljø- og sikkerheitsregelverket som gjeld for verksemda, er tilgjengeleg for alle. Det inneber også å ha oversikt over kva krav som er særleg viktige for verksemda.
 - sørge for at arbeidstakarane har nok kunnskap og ferdigheiter i det systematiske helse-, miljø- og sikkerheitsarbeidet, også informasjon om endringar
 - sørge for at arbeidstakarane medverkar, slik at verksemda kan utnytte kunnskapen og erfaringa til alle i verksemda
-- fastsette mål for helse, miljø og sikkerheit. Måla skal vere skrifteleg dokumenterte.
-- ha oversikt over korleis verksemda er organisert, og korleis ansvaret, oppgåvene og myndigheiten for arbeidet med helse, miljø og sikkerheit er fordelt. Organiseringa må vere skrifteleg dokumentert.
-- kartlegge farar og problem på arbeidsplassen. På grunnlag av kartlegginga skal de vurdere risiko og utarbeide planar og tiltak for å redusere risikoen. Kartlegginga og planane må vere skrifteleg dokumenterte.
+- fastsette mål for helse, miljø og sikkerheit. Måla skal vere skriftleg dokumenterte.
+- ha oversikt over korleis verksemda er organisert, og korleis ansvaret, oppgåvene og myndigheiten for arbeidet med helse, miljø og sikkerheit er fordelt. Organiseringa må vere skriftleg dokumentert.
+- kartlegge farar og problem på arbeidsplassen. På grunnlag av kartlegginga skal de vurdere risiko og utarbeide planar og tiltak for å redusere risikoen. Kartlegginga og planane må vere skriftleg dokumenterte.
 - iverksette rutinar for å avdekke, rette opp og førebygge brot på krava som er fastsett i eller i medhald av helse-, miljø- og sikkerheitslovgivninga. Rutinane må vere skriftlege.
-- foreta systematisk overvaking og gjennomgang av internkontrollen for å sikre at han fungerer som tenkt. Resultatet av gjennomgangen må vere skrifteleg dokumentert.
+- foreta systematisk overvaking og gjennomgang av internkontrollen for å sikre at han fungerer som tenkt. Resultatet av gjennomgangen må vere skriftleg dokumentert.
 
 ### Kven gjeld forskrifta for?
 
@@ -83,3 +83,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-07-11** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9a4985d8ce5a1bce44ce3a440d80aaa449da2d1d66810a8d33bc786c49dd0277 -->
+<!-- innholds-hash: 49f65f101f93f500e01af61df8ae76990bad4b77efc6206ea4008ab731a192c0 -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-10T22:20:34Z
+- **Sist hentet:** 2026-07-11T04:18:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783721685758+0200)/",
+  "respons_dato_tid": "/Date(1783742553915+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Andersen",
@@ -62,14 +62,14 @@
       "id": "ALFAND",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783689086616+0200)/",
+        "respons_dato_tid": "/Date(1783724418029+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783638020159+0200)/",
+        "respons_dato_tid": "/Date(1783724417982+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
@@ -87,14 +87,14 @@
       "id": "BJOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783689086616+0200)/",
+        "respons_dato_tid": "/Date(1783724418029+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783638020159+0200)/",
+        "respons_dato_tid": "/Date(1783724417982+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -112,14 +112,14 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783689086616+0200)/",
+        "respons_dato_tid": "/Date(1783724418029+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783638020159+0200)/",
+        "respons_dato_tid": "/Date(1783724417982+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783721685758+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
@@ -137,14 +137,14 @@
       "id": "SEBYTR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783689086616+0200)/",
+        "respons_dato_tid": "/Date(1783724418029+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783638020159+0200)/",
+        "respons_dato_tid": "/Date(1783724417982+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -158,7 +158,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783721003137+0200)/",
+    "respons_dato_tid": "/Date(1783742431622+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -255,3 +255,4 @@
 - **2026-07-10** Innhold endret (se git-historikk for diff)
 - **2026-07-10** Innhold endret (se git-historikk for diff)
 - **2026-07-10** Innhold endret (se git-historikk for diff)
+- **2026-07-11** Innhold endret (se git-historikk for diff)

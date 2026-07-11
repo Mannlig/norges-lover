@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8924d70bbfb380ad72eaa878078c8c05a6808222ae0361998adb1b81c53c66d9 -->
+<!-- innholds-hash: d2e96e76ff52f75359b682e53f198f3e9b0f0c3d288c8f6e73f763126cfdcb1f -->
 
 # Avvik og avvikshandtering
 
@@ -6,23 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/avvik-og-avvikshandtering/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T00:28:48Z
+- **Sist hentet:** 2026-07-11T09:54:09Z
 
 ## Innhold
 
 
 ## Avvik og avvikshandtering
 
-Alle verksemder skal ha rutinar for å avdekke, rette opp og førebygge avvik frå helse-, miljø- og sikkerheitslovgivinga (HMS-lovgivinga).
-
-Avvikshandtering handlar om å oppdage, melde, rette opp og førebygge brot på krav fastsett i eller i medhald av helse-, miljø- og sikkerheitslovgivinga.
+Alle verksemder skal ha rutinar for å avdekke, melde, rette opp og førebygge avvik frå helse-, miljø- og sikkerheitslovgivinga (HMS-lovgivinga).
 
 
 ### Brot på HMS-regelverket er avvik
 
 Alle hendingar som inneber brot på lovverket, blir rekna som avvik. Avvik kan dreie seg om at tilsette manglar verneutstyr, at kjemikaliar blir handtert eller lagra feil, at tilsette blir skada på jobb, eller at arbeidstakarar som er utsette for støy, ikkje får gjennomført kontroll av høyrsla. Avvik kan handle om brot på viktige prosedyrar, instruksar eller rutinar i verksemda.
 
-Omgrepet avvik omfattar alt som avvik frå sikker drift i verksemda, utan omsyn til bransje eller arbeidsoppgåver. Normale variasjonar i den daglege drifta er ikkje rekna som avvik.
+Omgrepet avvik omfattar alt som avvik frå sikker drift i verksemda, utan omsyn til bransje eller arbeidsoppgåver. Normale variasjonar i den daglege drifta er ikkje rekna som avvik.
 
 
 ### Eksempel på avvik
@@ -51,7 +49,7 @@ I all avvikshandtering må du stille spørsmålet «kvifor?». Det må til for �
 
 ### Arbeidsgivaren har ansvaret
 
-Det er ikkje skaden som er avviket – det er årsaka til skaden som skal registrerast som avvik.
+Det er ikkje skaden som er avviket – det er årsaka til skaden som skal registrerast som avvik.
 
 Det er arbeidsgivaren som har ansvaret for at regelverket blir følgt, også når det gjeld helse, miljø og sikkerheit. Arbeidsgivaren har dermed òg ansvaret for at verksemda har, og brukar, eit system for å registrere og handtere avvik.
 
@@ -104,3 +102,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-11** Innhold endret (se git-historikk for diff)

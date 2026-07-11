@@ -1,11 +1,11 @@
-<!-- innholds-hash: 858b2004ecc8ad89b3dafa90795eec44b6c0b2d05ca8199b28a5e05d04eeed00 -->
+<!-- innholds-hash: adf55c9720e6b824573a4b8ad0348da6444780039b845c185790edcf92f75d22 -->
 
 # Lønnsgaranti - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lonnsgaranti
-- **Sist hentet:** 2026-06-18T09:54:31Z
+- **Sist hentet:** 2026-07-11T08:14:52Z
 
 ## Innhold
 
@@ -264,7 +264,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -274,7 +274,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -285,3 +285,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-15** Første gang hentet
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-11** Innhold endret (se git-historikk for diff)

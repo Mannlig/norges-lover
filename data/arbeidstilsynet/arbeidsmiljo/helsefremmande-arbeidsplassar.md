@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9bed43b65674cd142a3b2ff173005295c83d4577de9d01fafb71fca103bc7a60 -->
+<!-- innholds-hash: af485d8ba80c0cfaf673427253926dcdaa791ac12d9134095617a0e272bf9152 -->
 
 # Helsefremmande arbeidsplassar
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/helsefremmande-arbeidsplassar/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:18:55Z
+- **Sist hentet:** 2026-07-11T10:19:28Z
 
 ## Innhold
 
@@ -14,6 +14,9 @@
 ## Helsefremmande arbeidsplassar
 
 Ein helsefremmande arbeidsplass fokuserer på korleis ein kan organisere arbeidet, skape eit arbeidsmiljø og ein samværskultur som gir god helse og utvikling for alle tilsette.
+
+
+### Systematisk HMS-arbeid er grunnlaget
 
 Ein grunnleggande føresetnad for ein helsefremmande arbeidsplass er det systematiske helse-, miljø- og sikkerheitsarbeidet som reduserer risikoen for sjukdom og ulykker. Det helsefremmande perspektivet er breiare enn risikoperspektivet; ein skal ikkje berre sikre seg mot uheldige forhold, men også aktivt rette søkelyset mot dei positive og helsefremmande faktorane i arbeidsmiljøet.
 
@@ -91,3 +94,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-11** Innhold endret (se git-historikk for diff)

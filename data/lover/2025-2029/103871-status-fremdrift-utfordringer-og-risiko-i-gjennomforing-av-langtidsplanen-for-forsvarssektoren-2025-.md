@@ -1,4 +1,4 @@
-<!-- innholds-hash: af5a2b7070cb55b7ca605f8e9a4d5a921e60690f8842de30cc98a7fe3252fb34 -->
+<!-- innholds-hash: 7a48e221ec0f0b45d80824b10b7240202d12956a849ac10c8c8ca67cb45678ea -->
 
 # Status, fremdrift, utfordringer og risiko i gjennomføring av langtidsplanen for forsvarssektoren 2025-2036
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-10T22:20:35Z
+- **Sist hentet:** 2026-07-11T04:18:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103871
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783721685914+0200)/",
+  "respons_dato_tid": "/Date(1783742553915+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783721685914+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783721685914+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783721685914+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783721685914+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -66,7 +66,7 @@
   "innstilling_id": 17522,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783721003137+0200)/",
+    "respons_dato_tid": "/Date(1783742431622+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 103871,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783721685914+0200)/",
+      "respons_dato_tid": "/Date(1783742553915+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Frølich",
@@ -84,14 +84,14 @@
       "id": "PCF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783689086616+0200)/",
+        "respons_dato_tid": "/Date(1783724418029+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783638020159+0200)/",
+        "respons_dato_tid": "/Date(1783724417982+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -215,3 +215,4 @@
 - **2026-07-10** Innhold endret (se git-historikk for diff)
 - **2026-07-10** Innhold endret (se git-historikk for diff)
 - **2026-07-10** Innhold endret (se git-historikk for diff)
+- **2026-07-11** Innhold endret (se git-historikk for diff)

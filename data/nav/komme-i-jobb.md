@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7e1d68e133c31243333fe1459e382bc55fd7af913f7b6a6219c4fc978afa37de -->
+<!-- innholds-hash: 866e71f96d6aff7bcf4418e069564cda32b48e77b938621e3c125314680ca299 -->
 
 # Trenger hjelp til å komme i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/komme-i-jobb
-- **Sist hentet:** 2026-06-18T09:53:05Z
+- **Sist hentet:** 2026-07-11T08:13:30Z
 
 ## Innhold
 
@@ -125,7 +125,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Skriv til oss
@@ -135,7 +135,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 
 ---
@@ -147,3 +147,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-11** Innhold endret (se git-historikk for diff)
