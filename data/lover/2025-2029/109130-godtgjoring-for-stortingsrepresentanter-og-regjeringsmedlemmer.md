@@ -1,4 +1,4 @@
-<!-- innholds-hash: 84425854fee6a32e7c6309a3790b83957cc2a5754e9b16c4f13bbd29fedfff71 -->
+<!-- innholds-hash: dc9f4d0929f11946813caa88aec584f78b31072b71b8ef0bf12e91c13387faaa -->
 
 # Godtgjøring for stortingsrepresentanter og regjeringsmedlemmer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-11T23:34:15Z
+- **Sist hentet:** 2026-07-12T06:15:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=109130
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783810828735+0200)/",
+  "respons_dato_tid": "/Date(1783836274041+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828735+0200)/",
+      "respons_dato_tid": "/Date(1783836274041+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828735+0200)/",
+      "respons_dato_tid": "/Date(1783836274041+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828735+0200)/",
+      "respons_dato_tid": "/Date(1783836274041+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17537,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783810828532+0200)/",
+    "respons_dato_tid": "/Date(1783836106325+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -160,3 +160,4 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

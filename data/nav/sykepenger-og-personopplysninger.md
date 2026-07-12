@@ -1,11 +1,11 @@
-<!-- innholds-hash: ada90152cecc3375c094c628ff56fe8f935b89802f0a7a03682c7e6499774ac7 -->
+<!-- innholds-hash: 9c5d0ffbcde11e473b742a97b422fc8089e776ca54a984286389207cc60deda9 -->
 
 # Sykepengesøknaden og behandling av personopplysninger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger-og-personopplysninger
-- **Sist hentet:** 2026-07-04T12:23:18Z
+- **Sist hentet:** 2026-07-12T11:02:46Z
 
 ## Innhold
 
@@ -79,7 +79,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -87,7 +87,7 @@ Stengt nå, åpner i morgen kl. 9
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -101,3 +101,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

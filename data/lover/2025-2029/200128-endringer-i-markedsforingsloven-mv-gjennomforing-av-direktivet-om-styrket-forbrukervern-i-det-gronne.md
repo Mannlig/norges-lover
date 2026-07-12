@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ff976459f55cdca2a90a854cb665a1ef1ff442742b7ce647bc8496ea0e93565 -->
+<!-- innholds-hash: 0cb42b2cad7fd3ee9d34c18ac6c9dc9dfcb8e34fe534906bcf416fb4a4f3cd71 -->
 
 # Endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet) og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av direktiv (EU) 2024/825
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-11T23:34:15Z
+- **Sist hentet:** 2026-07-12T06:15:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200128
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783810828797+0200)/",
+  "respons_dato_tid": "/Date(1783836274057+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17426,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783810828532+0200)/",
+    "respons_dato_tid": "/Date(1783836106325+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200128,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -66,7 +66,7 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -203,3 +203,4 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

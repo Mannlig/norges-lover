@@ -1,4 +1,4 @@
-<!-- innholds-hash: e971754fdadb6eb45b2a90286b630d0e804fef15277afe6b8871279ce499ed7c -->
+<!-- innholds-hash: 779f56228ac706bf136a52dcc1b8e8bff7e4aa72f1584b0f1cc6bc8669b246d2 -->
 
 # Finansmarkedsmeldingen 2026
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-11T23:34:15Z
+- **Sist hentet:** 2026-07-12T06:15:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200295
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783810828797+0200)/",
+  "respons_dato_tid": "/Date(1783836274057+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -75,7 +75,7 @@
   "innstilling_id": 17519,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783810828532+0200)/",
+    "respons_dato_tid": "/Date(1783836106325+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -84,7 +84,7 @@
   "sak_fremmet_id": 200295,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828797+0200)/",
+      "respons_dato_tid": "/Date(1783836274057+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -93,7 +93,7 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -247,3 +247,4 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

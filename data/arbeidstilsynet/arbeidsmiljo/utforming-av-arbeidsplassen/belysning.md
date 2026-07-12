@@ -1,4 +1,4 @@
-<!-- innholds-hash: d7a21a3a80a2805e6896de78261a39cb86397e6ccd2fb9f1059073c4ff5ca0ce -->
+<!-- innholds-hash: 333d80ddfcebf40eadea3a3eb61fe2ab0858a5f81d2d016a5b8ae4a1c1da9cdb -->
 
 # Belysning
 
@@ -6,16 +6,14 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/utforming-av-arbeidsplassen/belysning/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T08:01:16Z
+- **Sist hentet:** 2026-07-12T14:19:24Z
 
 ## Innhold
 
 
 ## Belysning
 
-Gode synsforhold krev meir enn berre nok lys. Riktige lyskjelder for oppgaven og plassering av lyskjelder er også viktig. Det samme er plasseringen av arbeidsplasser ut fra vindu og andre lyse flater.
-
-For dårleg belysning i arbeidslokalet kan både gi belastningsskadar og auke risikoen for skadar og ulykker.
+Gode synsforhold krev meir enn berre nok lys. Riktige lyskjelder for oppgaven og plassering av lyskjelder er også viktig. Det samme er plasseringen av arbeidsplasser ut fra vindu og andre lyse flater. For dårleg belysning i arbeidslokalet kan både gi belastningsskadar og auke risikoen for skadar og ulykker.
 
 
 ### Hugs dagslys og utsyn
@@ -62,7 +60,7 @@ Behovet for god belysning auker betrakteleg med alderen. Det er derfor viktig å
 Finn fram til god plassering av lyskjelder ut frå vindusflater og andre lyse flater. Planlegg og prøv ut på arbeidsplassen.
 
 
-### Les meir
+### Meir informasjon
 
 Som hovudregel aksepterer Arbeidstilsynet løysingar som følgjer normene i standarden og rettleiaren.
 
@@ -81,3 +79,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-12** Innhold endret (se git-historikk for diff)

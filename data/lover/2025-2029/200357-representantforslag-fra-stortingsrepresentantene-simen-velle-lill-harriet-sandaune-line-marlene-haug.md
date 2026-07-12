@@ -1,4 +1,4 @@
-<!-- innholds-hash: c998b37e6928375b50326524861107f3dc44ea6041f88fdf3571e931da1d48f4 -->
+<!-- innholds-hash: be36042b84470333acdb5e7d7f09b0e7f52df55dc0143bdc65ca1f4a6d8759a8 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-11T23:34:15Z
+- **Sist hentet:** 2026-07-12T06:15:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783810828610+0200)/",
+  "respons_dato_tid": "/Date(1783836273962+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828610+0200)/",
+      "respons_dato_tid": "/Date(1783836273962+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783810828610+0200)/",
+      "respons_dato_tid": "/Date(1783836273962+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
@@ -44,7 +44,7 @@
       "id": "JOATAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783810828610+0200)/",
+      "respons_dato_tid": "/Date(1783836273962+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
@@ -69,7 +69,7 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783810828610+0200)/",
+      "respons_dato_tid": "/Date(1783836273962+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
@@ -94,7 +94,7 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783810828610+0200)/",
+      "respons_dato_tid": "/Date(1783836273962+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
@@ -119,7 +119,7 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783810817906+0200)/",
+        "respons_dato_tid": "/Date(1783818909388+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783810828532+0200)/",
+    "respons_dato_tid": "/Date(1783836106325+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -241,3 +241,4 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

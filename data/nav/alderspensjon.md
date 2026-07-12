@@ -1,11 +1,11 @@
-<!-- innholds-hash: c099837a7e6245a52c40fa00910c3ba6cdd7a0ca9c468d76f2ffb8989a0a78bb -->
+<!-- innholds-hash: 6999c61d0b5c6de046c1914e14725349a88eb9894c228bf21c697b4282fb3ae2 -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-07-04T13:07:40Z
+- **Sist hentet:** 2026-07-12T11:47:17Z
 
 ## Innhold
 
@@ -1236,7 +1236,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1246,7 +1246,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1261,3 +1261,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6002fc2acb7fb289f28d42bc52a04557ef6379abc627ecbd58fe9eb4a9a30d9e -->
+<!-- innholds-hash: 498551bc5ea645a39c2cec20f898fc5ca7123dfc1e7402b197f269d82a2ff742 -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding
-- **Sist hentet:** 2026-07-04T12:01:21Z
+- **Sist hentet:** 2026-07-12T10:41:01Z
 
 ## Innhold
 
@@ -428,9 +428,10 @@ Inntektsmelding fra virksomhet B:
 - Startdato for foreldrepengeperioden: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen.
 - Refusjonsbeløp per måned: som i den opprinnelige inntektsmeldingen fra virksomhet A for den aktuelle løpende permisjonen.
 - Dato for opphør av refusjonen: sluttdato for arbeidstakeren sitt arbeidsforhold i virksomhet A
+Virksomhet B må opprette manuell inntektsmelding
+
 - Virksomhetsnummer: for virksomhet B
-- Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
-- Startdato for foreldrepengeperioden: startdato for arbeidstakerens arbeidsforhold i virksomhet B
+- Første dag med refusjon: første dag med refusjon i virksomhet B
 - Refusjonsbeløp per måned: ønsket refusjonsbeløp
 - Hvis virksomhet A har sendt inn refusjonskrav for perioder eller dager etter at arbeidsforholdet er blitt overført til virksomhet B, må virksomhet A korrigere dette ved å sende inn nytt refusjonskrav for omsorgspenger.
 - For dager virksomhet A ikke skal kreve refusjon for likevel legges det inn i feltet "Dager dere ønsker å trekke".
@@ -440,25 +441,29 @@ Inntektsmelding fra virksomhet B:
 - Første fraværsdag: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Refusjonsbeløp per måned: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Dato for opphør av refusjonen: sluttdato for arbeidstakerens arbeidsforhold i virksomhet A
+
+#### I
+
+Virksomhet B må opprette manuell inntektsmelding
+
 - Virksomhetsnummer: for virksomhet B
-- Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
-- Første fraværsdag: startdato for arbeidstakerens arbeidsforhold i virksomhet B
+- Første dag med refusjon:
 - Refusjonsbeløp per måned: ønsket refusjonsbeløp
 - Virksomhetsnummer: for virksomhet A
 - Beregnet månedslønn: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Første fraværsdag: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Refusjonsbeløp per måned: som i den opprinnelige inntektsmeldingen fra virksomhet A for den løpende permisjonen
 - Dato for opphør av refusjonen: sluttdato for arbeidstakerens arbeidsforhold i virksomhet A
+Virksomhet B må opprette manuell inntektsmelding
+
 - Virksomhetsnummer: for virksomhet B
-- Beregnet månedslønn: som gitt ut fra lønn og startdato for den ansattes arbeidsforhold i virksomhet B
-- Første fraværsdag: startdato for arbeidstakerens arbeidsforhold i virksomhet B
-- Nytt refusjonsbeløp: ønsket refusjonsbeløp
-Oppdatert 24.06.2026
+- Første dag med refusjon: første dag med refusjon i virksomhet B
+Oppdatert 08.07.2026
 
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -479,3 +484,4 @@ Alltid åpen
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f26c744471efd173a870add8d69f2f1cd5025483542a504796596359c344f170 -->
+<!-- innholds-hash: e6a9f451197d23b012fd7fbf017932e9029c6553c844b983e466f6b51e6fca71 -->
 
 # Dekking av sykepenger i arbeidsgiverperioden - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kronisk-syk-eller-gravid
-- **Sist hentet:** 2026-07-04T12:14:34Z
+- **Sist hentet:** 2026-07-12T10:54:08Z
 
 ## Innhold
 
@@ -94,7 +94,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -104,7 +104,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -118,3 +118,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

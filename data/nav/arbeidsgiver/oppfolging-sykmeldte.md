@@ -1,11 +1,11 @@
-<!-- innholds-hash: bc5f6aaa0da276b04a1773182acc5c1a6bfa23a7b32a1dfc258dd71c7c534083 -->
+<!-- innholds-hash: 08c5c75f7d49dd38d0c2b1e5e4213c6af8f6268668e55e5481362fd6debd819c -->
 
 # Slik følger du opp sykmeldte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppfolging-sykmeldte
-- **Sist hentet:** 2026-07-04T12:02:06Z
+- **Sist hentet:** 2026-07-12T10:41:46Z
 
 ## Innhold
 
@@ -221,7 +221,7 @@ Oppdatert 04.05.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -242,3 +242,4 @@ Alltid åpen
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

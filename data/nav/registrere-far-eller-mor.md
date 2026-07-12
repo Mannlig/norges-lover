@@ -1,11 +1,11 @@
-<!-- innholds-hash: d85fb36c3dfe1c23380f3b281791e3c5bba86e351b9215c93e7fa24e08aee603 -->
+<!-- innholds-hash: b6f5b162c98f709aeb70458da255e853218c86acc6b3139964028a90e8247eb1 -->
 
 # Vil registrere farskap, morskap eller medmorskap - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/registrere-far-eller-mor
-- **Sist hentet:** 2026-07-04T12:35:46Z
+- **Sist hentet:** 2026-07-12T11:15:20Z
 
 ## Innhold
 
@@ -305,7 +305,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -315,7 +315,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -329,3 +329,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

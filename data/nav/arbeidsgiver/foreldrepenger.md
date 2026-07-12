@@ -1,11 +1,11 @@
-<!-- innholds-hash: bc83eafbf1eff802961fa695a12be283ff4dd175286c4d724e6a84f982a93df4 -->
+<!-- innholds-hash: ec59663d37ce4946ae1d12f567aba099c131c1ba28a2e740c4be121f164bf5e9 -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/foreldrepenger
-- **Sist hentet:** 2026-07-04T12:26:06Z
+- **Sist hentet:** 2026-07-12T11:05:35Z
 
 ## Innhold
 
@@ -154,7 +154,7 @@ Oppdatert 21.05.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -180,3 +180,4 @@ Alltid åpen
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

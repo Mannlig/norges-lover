@@ -1,11 +1,11 @@
-<!-- innholds-hash: fae58864a47bdba95adcadbd506ece474d24263040d0e6ffdd2a18befcc74524 -->
+<!-- innholds-hash: 777019220bf2b243456e75d89b972b9d8382f206b5486d7c3c6c6b1164a305e8 -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
-- **Sist hentet:** 2026-07-04T12:28:49Z
+- **Sist hentet:** 2026-07-12T11:08:22Z
 
 ## Innhold
 
@@ -239,8 +239,6 @@ Mor kan ta ut foreldrepenger inntil 12 uker før termin, men da blir det færre 
 
 #### Du har fått barn før 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent foreldrepenger.
-
 16 uker - Aktivitetskrav til mor
 
 18 uker - Aktivitetskrav til mor
@@ -256,8 +254,6 @@ Dere kan selv velge hvem som skal være hjemme når i permisjonen.
 
 
 #### Du har adoptert barn før 1. juli 2024
-
-Den totale utbetalingen blir høyere ved å velge 100 prosent foreldrepenger.
 
 Når begge foreldrene har rett til foreldrepenger består foreldrepengeperioden av mødrekvoten, fedrekvoten eller medmorkvoten og en fellesperiode. Fellesperioden kan dere dele mellom dere.
 
@@ -550,8 +546,6 @@ Du kan velge å starte så tidlig som 12 uker før, men da får du færre uker e
 
 #### Du har fått barn før 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
-
 Du kan starte foreldrepengene når dere overtar omsorgen for barnet. Du kan også velge å starte foreldrepengene senere om du ønsker det.
 
 
@@ -559,8 +553,6 @@ Du kan starte foreldrepengene når dere overtar omsorgen for barnet. Du kan ogs�
 
 
 #### Du har adoptert barn før 1. juli 2024
-
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
 
 Det er andre regler hvis far eller medmor har rett til pengestøtte i et annet EU/EØS-land som tilsvarer foreldrepenger i Norge. Da kan du ha rett til mødrekvote i Norge, og retten din på foreldrepenger er lik som når
 
@@ -575,7 +567,11 @@ For å behandle saken din, må Nav innhente opplysninger fra trygdemyndigheten i
 
 #### Mor har aleneomsorg
 
-Når du er alene om omsorgen for barnet får du hele foreldrepengeperioden, inkludert kvoten til den andre forelderen.
+Når du er alene om omsorgen for barnet, får du hele foreldrepengeperioden, inkludert kvoten til den andre forelderen.
+
+Hvis du blir alene om omsorgen i løpet av foreldrepengeperioden, får du den andre forelderen sin kvote.
+
+Selv om du har rett på hele perioden med foreldrepenger, kan den andre forelderen få foreldrepenger. Dette er mulig hvis den ande forelderen skal ha omsorgen for barnet på hverdager, og dere er enige om når han eller hun skal ha foreldrepenger.
 
 Når du søker om foreldrepenger velger du lengden på foreldrepengeperioden. Den totale utbetalingen blir omtrent lik om du velger 100 % eller 80 %.
 
@@ -591,8 +587,6 @@ Du kan velge å starte så tidlig som 12 uker før, men da får du færre uker e
 
 #### Du har fått barn før 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
-
 Du kan starte foreldrepengene når du overtar omsorgen for barnet. Du kan også velge å starte foreldrepengene senere om du ønsker det.
 
 
@@ -601,32 +595,32 @@ Du kan starte foreldrepengene når du overtar omsorgen for barnet. Du kan også 
 
 #### Du har adoptert barn før 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
-
 
 #### Far eller medmor har aleneomsorg
 
 Når du er alene om omsorgen for barnet får du hele perioden med foreldrepenger etter fødselen eller omsorgsovertakelsen.
 
-Når du søker om foreldrepenger velger du lengden på foreldrepengeperioden. Valget du tar kan ikke gjøres om senere.
+Hvis du bli alene om omsorgen, kan du få foreldrepenger som er igjen. Det vil si at hvis du eller mor har fått foreldrepenger før du ble alene om omsorgen, så får du foreldrepenger for den perioden som er igjen.
 
-Hvis mor har fått foreldrepenger før du blir alene om omsorgen, kan du få foreldrepenger for den perioden som er igjen.
+Når du søker om foreldrepenger velger du lengden på foreldrepengeperioden. Valget du tar kan ikke gjøres om senere.
 
 Se hva som gjelder i din situasjon:
 
 Du kan starte foreldrepengene når barnet blir født. Du kan også velge å starte foreldrepengene senere om du ønsker det.
 
 
-#### Du har fått barn før 1. juli 2024
+#### Du har fått barn fra og med 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
+
+#### Du har fått barn før 1. juli 2024
 
 Du kan starte foreldrepengene når du overtar omsorgen for barnet. Du kan også velge å starte foreldrepengene senere om du ønsker det.
 
 
-#### Du har adoptert barn før 1. juli 2024
+#### Du har fått barn fra og med 1. juli 2024
 
-Den totale utbetalingen blir høyere ved å velge 100 prosent.
+
+#### Du har adoptert barn før 1. juli 2024
 
 
 #### Far og far har rett til foreldrepenger
@@ -1383,7 +1377,7 @@ Du må også melde fra til Nav om du flytter tilbake til Norge.
 
 Hvis barnet ditt dør i foreldrepengeperioden kan du ha rett til foreldrepenger. Du kan lese mer om rettighetene dine på siden lenket nedenfor.
 
-Oppdatert 02.06.2026
+Oppdatert 08.07.2026
 
 
 #### Chat med oss
@@ -1392,7 +1386,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1402,7 +1396,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1417,3 +1411,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

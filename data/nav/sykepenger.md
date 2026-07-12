@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3042f8b6baf985b85a7dcdd0bd5e016c30863e4ac134422d7838d32295e09d85 -->
+<!-- innholds-hash: bf26975f0aa959d9f55bc29d3d0a6ace6971653e02c627e27e2760f7faa17286 -->
 
 # Sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger
-- **Sist hentet:** 2026-07-04T11:56:29Z
+- **Sist hentet:** 2026-07-12T10:36:05Z
 
 ## Innhold
 
@@ -983,7 +983,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -993,7 +993,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1007,3 +1007,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

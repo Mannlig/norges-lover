@@ -1,4 +1,4 @@
-<!-- innholds-hash: cf2b3898b04b58b7f6086360b9b489db90b88b0db5dc152872978e15eff8df2c -->
+<!-- innholds-hash: bcc5c463e1de3345e3ae2f2fcc11daa920b23880d55aad1fea3998e523170419 -->
 
 # Vibrasjonar
 
@@ -6,21 +6,19 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/vibrasjoner/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:50:51Z
+- **Sist hentet:** 2026-07-12T14:12:26Z
 
 ## Innhold
 
 
 ## Vibrasjonar
 
-Vibrasjonar er mekaniske rørsler frå underlag, maskinar eller arbeidsutstyr. Arbeidstakarar kan få helseplager og -skadar av slike vibrasjonar.
-
-Det er vanleg å skilje mellom heilkroppsvibrasjonar og hand- og armvibrasjonar.
-
-Heilkroppsvibrasjonar er vibrasjonar som vert overførte til heile kroppen frå køyretøy, underlag eller maskinar. Hand- og armvibrasjonar er vibrasjonar frå til dømes handtaket på ein drill eller eit ratt.
+Vibrasjonar er mekaniske rørsler frå underlag, maskinar eller arbeidsutstyr. Arbeidstakarar kan få helseplager og -skadar av slike vibrasjonar. Det er vanleg å skilje mellom heilkroppsvibrasjonar og hand- og armvibrasjonar.
 
 
 ### Risiko for helseplager
+
+Heilkroppsvibrasjonar er vibrasjonar som vert overførte til heile kroppen frå køyretøy, underlag eller maskinar. Hand- og armvibrasjonar er vibrasjonar frå til dømes handtaket på ein drill eller eit ratt.
 
 - Heilkroppsvibrasjonar gir sakte svingingar som kan føre til sjøsjuke eller køyresjuke. Andre plager kan vere smerter i ryggen, nakken og skulderpartiet. Varige skadar er ikkje vanlege.
 - Hand- og armvibrasjonar gir risiko for skade på blodkar, nervar og musklar. Vanlege symptom er «kvite fingrar» (Raynauds fenomen), smerter, valne fingrar, nedsett kraft og vanskar med å koordinere kroppsrørsler.
@@ -60,7 +58,10 @@ Arbeidstakarar som er utsette for vibrasjonar skal få informasjon og
 - arbeidsmåtar som minskar eksponeringa og reduserer risikoen
 - bruk av verneutstyr
 
-#### Dette kan redusere plager ved heilkroppsvibrasjonar
+### Slik kan du redusere plager ved vibrasjonar
+
+
+#### Dette kan redusere plager ved heilkroppsvibrasjonar:
 
 - Førarhytte og stol med vibrasjonsdemping.
 - Dekk og hjul tilpassa underlaget.
@@ -70,7 +71,7 @@ Arbeidstakarar som er utsette for vibrasjonar skal få informasjon og
 - Kompetanse som gjer arbeidsgivaren i stand til å kjøpe maskinar med lågare risiko.
 - Kompetanse som gjer arbeidsgivaren i stand til systematisk å halde maskinar ved like.
 
-#### Dette kan redusere skadeverknader av hand- og armvibrasjonar
+#### Dette kan redusere skadeverknader av hand- og armvibrasjonar:
 
 - Alternative arbeidsmetodar og verktøy.
 - Utstyr med relativt låg vibrasjon.
@@ -78,6 +79,9 @@ Arbeidstakarar som er utsette for vibrasjonar skal få informasjon og
 - Vibrasjonsdempande hanskar.
 - Kunnskap som gjer arbeidsgivaren i stand til å velje det minst skadelege utstyret.
 - Kunnskap som gjer arbeidsgivaren i stand til å halde utstyret ved like med låg vibrasjon.
+
+### Meir informasjon
+
 
 ### Regelverk
 
@@ -93,3 +97,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-12** Innhold endret (se git-historikk for diff)

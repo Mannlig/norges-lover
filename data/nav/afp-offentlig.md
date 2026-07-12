@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6950336bc8882acecb528fbd39886a57886fe7d6e57c58625e0788a640218e69 -->
+<!-- innholds-hash: 3d3e7c6fe685122ec0a5c716eaabc76649fbe56239d9d7036e6bde96e18c33b4 -->
 
 # Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-offentlig
-- **Sist hentet:** 2026-07-04T13:06:16Z
+- **Sist hentet:** 2026-07-12T11:45:53Z
 
 ## Innhold
 
@@ -581,7 +581,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -591,7 +591,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -606,3 +606,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

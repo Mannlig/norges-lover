@@ -1,11 +1,11 @@
-<!-- innholds-hash: bb1deab141b577e0182af0240806162e8df43ad796bd36d89cd17e588cf0380b -->
+<!-- innholds-hash: f369948f06a4fbd750c41a5973143a98606ce6f2a124ff39343acf41e8f61526 -->
 
 # Gi riktige opplysninger til Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/endringer
-- **Sist hentet:** 2026-07-04T12:27:28Z
+- **Sist hentet:** 2026-07-12T11:06:57Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -102,3 +102,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

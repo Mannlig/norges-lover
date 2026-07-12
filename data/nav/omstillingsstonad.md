@@ -1,11 +1,11 @@
-<!-- innholds-hash: 67bc051b339113bea12d4615cde40601100f64662d9e5700978b46011ee9fff4 -->
+<!-- innholds-hash: 8285d303c5cc011b053867ffb3b56424882c3d430c1319c850ab32cdc11d869d -->
 
 # Omstillingsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omstillingsstonad
-- **Sist hentet:** 2026-07-04T12:59:13Z
+- **Sist hentet:** 2026-07-12T11:38:49Z
 
 ## Innhold
 
@@ -748,7 +748,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -758,7 +758,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -773,3 +773,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

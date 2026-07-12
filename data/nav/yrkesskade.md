@@ -1,11 +1,11 @@
-<!-- innholds-hash: d13d1a1ac7d97714ef36019b809b0b22911d81bd7ff813848d977518a5b4964a -->
+<!-- innholds-hash: 177de7c0d5d04026d333f4190a03a4ac6848aa4b3a67b0bad69dec74167d2932 -->
 
 # Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/yrkesskade
-- **Sist hentet:** 2026-07-04T12:25:25Z
+- **Sist hentet:** 2026-07-12T11:04:52Z
 
 ## Innhold
 
@@ -295,7 +295,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -317,3 +317,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)
