@@ -1,11 +1,11 @@
-<!-- innholds-hash: af279dacdbb23eb702fb32324ae10e36ace54144e642d79ac37aa14226eda7b2 -->
+<!-- innholds-hash: 1438165dc9712e05bbf00fa7069a3a6bb551413f8b863846e9321770c48cae35 -->
 
 # Tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tiltakspenger
-- **Sist hentet:** 2026-06-27T00:38:02Z
+- **Sist hentet:** 2026-07-12T21:52:37Z
 
 ## Innhold
 
@@ -128,7 +128,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -138,7 +138,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -152,3 +152,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

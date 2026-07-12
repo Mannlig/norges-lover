@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6bfa5a6869ce4090093bf8301bfeca586adc6266f49f22594c1fb78a3d84483c -->
+<!-- innholds-hash: 0eccc672bb7dea1c8a410b1731e136204e25c4909f3865e9df86f6757c7f2a09 -->
 
 # Tinnitusmaskerer  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tinnitusmaskerer
-- **Sist hentet:** 2026-06-27T00:38:45Z
+- **Sist hentet:** 2026-07-12T21:53:20Z
 
 ## Innhold
 
@@ -151,7 +151,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat med oss
@@ -160,7 +160,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -174,3 +174,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

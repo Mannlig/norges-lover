@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1e6f2e2753c375cb80d06eb9534f156256501005b00c2f7cd40951960097c44a -->
+<!-- innholds-hash: 8f787a28e692858a94a4ef78af373a8a7fb30fd7356f862526e0509003013c71 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist hentet:** 2026-07-04T22:00:22Z
+- **Sist hentet:** 2026-07-12T20:39:42Z
 
 ## Innhold
 
@@ -188,7 +188,7 @@ Du kan dele omsorgsdager med den andre forelderen når du har aleneomsorg for ba
 
 #### Dele med nåværende ektefelle eller samboer
 
-Du kan dele opptil 10 omsorgsdager med en samboer du har bodd med i minst 12 måneder, eller med nåværende ektefelle. Dette gjelder når dere ikke har felles barn, eller når samboer/ektefelle ikke allerede har omsorgsdager for egne barn.
+Du kan dele opptil 10 omsorgsdager med en samboer du har bodd med i minst 12 måneder, eller med nåværende ektefelle.
 
 Se video: Hvor mange omsorgsdager kan du ha rett til?
 
@@ -454,7 +454,7 @@ Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen u
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 24.06.2026
+Oppdatert 10.07.2026
 
 
 #### Chat med oss
@@ -463,7 +463,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -473,7 +473,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -488,3 +488,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

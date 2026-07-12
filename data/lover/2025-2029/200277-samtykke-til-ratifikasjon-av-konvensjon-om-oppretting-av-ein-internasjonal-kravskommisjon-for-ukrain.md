@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5f1e469b5a1946c342fb4628b0a8f4039c9bcb09fe4b8fd6c8559be46b13e77 -->
+<!-- innholds-hash: 9577fd7b393657ef82021f0361144a0f51997f37600bc873729f3e18d64dd8f1 -->
 
 # Samtykke til ratifikasjon av konvensjon om oppretting av ein internasjonal kravskommisjon for Ukraina og inngåing av avtale om deltaking i styringskomiteen for spesialtribunalet for Ukraina
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-12T06:15:58Z
+- **Sist hentet:** 2026-07-12T16:51:08Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200277
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783836274057+0200)/",
+  "respons_dato_tid": "/Date(1783872699266+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783836274057+0200)/",
+      "respons_dato_tid": "/Date(1783872699266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783836274057+0200)/",
+      "respons_dato_tid": "/Date(1783872699266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17464,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783836106325+0200)/",
+    "respons_dato_tid": "/Date(1783872245077+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200277,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783836274057+0200)/",
+      "respons_dato_tid": "/Date(1783872699266+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
@@ -66,7 +66,7 @@
       "id": "MORKOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783818909388+0200)/",
+        "respons_dato_tid": "/Date(1783862109504+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -203,4 +203,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)

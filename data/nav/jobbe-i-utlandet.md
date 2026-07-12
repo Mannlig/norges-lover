@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5c2db47006c0244bf402b9c2b5ec3acfa6a26c597d90d3154d8e3404927935a2 -->
+<!-- innholds-hash: 913b36e0be102ed3915603ec9478e2a6abe5416b48506841ed9fe0137e628db9 -->
 
 # Skal jobbe i utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-utlandet
-- **Sist hentet:** 2026-07-04T22:14:20Z
+- **Sist hentet:** 2026-07-12T20:53:38Z
 
 ## Innhold
 
@@ -113,7 +113,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -123,7 +123,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -138,3 +138,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

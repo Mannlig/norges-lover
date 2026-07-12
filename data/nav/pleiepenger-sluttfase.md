@@ -1,11 +1,11 @@
-<!-- innholds-hash: 983e32d0fb4ad4e65ba1033368a31a40b4c59e2cbee05a5fc2dff3954637ecf9 -->
+<!-- innholds-hash: 518e9b62e9016bf9ca3ab090e907a69cf09cc82506b2e6b65166a2c3db07c16b -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-sluttfase
-- **Sist hentet:** 2026-06-27T00:32:29Z
+- **Sist hentet:** 2026-07-12T21:47:05Z
 
 ## Innhold
 
@@ -283,7 +283,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -293,7 +293,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -307,3 +307,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: e9d5f4fa977434f3c6e120953b6d0d43cdf87f6d9d230af5ae13ca1b1ceb1a0e -->
+<!-- innholds-hash: 9b8cb78faf7801875e1857ffbcf1346c4ef90d49c94496108e2c4af639540e81 -->
 
 # Tilleggsstønader til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-enslig
-- **Sist hentet:** 2026-07-04T21:57:25Z
+- **Sist hentet:** 2026-07-12T20:36:40Z
 
 ## Innhold
 
@@ -379,7 +379,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn ditt Nav-kontor
@@ -387,7 +387,7 @@ Stengt nå, åpner i morgen kl. 9
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -402,3 +402,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

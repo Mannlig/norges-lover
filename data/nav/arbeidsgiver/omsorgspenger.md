@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4250ebcbc6f5893e417db9bda1affba17e9991b7d73483d2d803f353c7f29992 -->
+<!-- innholds-hash: df9d483e54a73e30a4779b4da55bd99704227136393886bb00f85c8b8ec46690 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/omsorgspenger
-- **Sist hentet:** 2026-07-04T21:58:47Z
+- **Sist hentet:** 2026-07-12T20:38:07Z
 
 ## Innhold
 
@@ -295,7 +295,7 @@ Dokumentasjonen kan sendes til oss på to måter:
 - Gå til
 Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
-Oppdatert 21.05.2026
+Oppdatert 10.07.2026
 
 
 #### Chat
@@ -307,7 +307,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -322,3 +322,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: e70ca107dbf1530c2c27b57fcdcdea9bdee4055244a64719a5cfcb793ffee09f -->
+<!-- innholds-hash: 48e370503dc4897f7e220c509af4801cb67995821712d45b5a38aa10fca22b70 -->
 
 # Gravferdsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gravferd
-- **Sist hentet:** 2026-06-27T00:22:50Z
+- **Sist hentet:** 2026-07-12T21:37:20Z
 
 ## Innhold
 
@@ -140,7 +140,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -150,7 +150,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -163,3 +163,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

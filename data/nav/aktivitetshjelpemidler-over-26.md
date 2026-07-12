@@ -1,11 +1,11 @@
-<!-- innholds-hash: faba1c54587088d5ea576ba16faaae146ac4114dbf47c6d00ff9a9d9de5bcdd7 -->
+<!-- innholds-hash: 9279832465a57de5d2dd4cb007dbe268dbd1f89cb7a92665bf985a27b3638160 -->
 
 # Aktivitetshjelpemidler for personer over 26 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/aktivitetshjelpemidler-over-26
-- **Sist hentet:** 2026-06-27T00:39:27Z
+- **Sist hentet:** 2026-07-12T21:54:02Z
 
 ## Innhold
 
@@ -212,7 +212,7 @@ Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -229,3 +229,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

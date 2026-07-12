@@ -1,11 +1,11 @@
-<!-- innholds-hash: 292e410dd892a4851ad9cde9b9ab47b4cc32e591b4c8e83fcb953913d0761da4 -->
+<!-- innholds-hash: 97b52b003ecc555cf32abde174eee87e262ad2b4587618689b9cf84502e7124b -->
 
 # Stønad til skolepenger for tidligere familiepleiere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-familiepleier
-- **Sist hentet:** 2026-06-27T00:34:33Z
+- **Sist hentet:** 2026-07-12T21:49:09Z
 
 ## Innhold
 
@@ -176,7 +176,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -186,7 +186,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -200,3 +200,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6a77f9471e3062ccf3b8ce329bb9dcd7a7e1ecfb5cde391b837dfa0016e8915b -->
+<!-- innholds-hash: fa5e24fff3da8df93de42a3de1f8c20bb8aeca5713dd7a61ebe42b48eb1be635 -->
 
 # Særbidrag (tidligere bidrag til særlige utgifter) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidrag-utgifter
-- **Sist hentet:** 2026-07-04T22:52:43Z
+- **Sist hentet:** 2026-07-12T21:31:45Z
 
 ## Innhold
 
@@ -106,7 +106,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -116,7 +116,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -131,3 +131,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

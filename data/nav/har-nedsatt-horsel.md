@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7a9fa8f655176096213763b2b182145a078a0230de991b76f9e0e5a5e2a3a725 -->
+<!-- innholds-hash: 6101df7813406e695a8c7654d3ea454b8b634d860575e28460f1ab1ec0491f0e -->
 
 # Har nedsatt hørsel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-nedsatt-horsel
-- **Sist hentet:** 2026-07-04T21:41:51Z
+- **Sist hentet:** 2026-07-12T20:21:03Z
 
 ## Innhold
 
@@ -118,7 +118,7 @@ Still oss et spørsmål og få skriftlig svar. Svartid er noen arbeidsdager.
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -136,3 +136,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

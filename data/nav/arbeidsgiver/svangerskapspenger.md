@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9332ab84deb04da2f134590121553a78bcb64afc2266f93916ca96d67c6cc7cd -->
+<!-- innholds-hash: a30f72d2b5bb44a15d1d54a94e6b6abe3da3cbbccc2142c8ba0aba7cec895ac8 -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/svangerskapspenger
-- **Sist hentet:** 2026-07-04T22:08:44Z
+- **Sist hentet:** 2026-07-12T20:48:04Z
 
 ## Innhold
 
@@ -117,7 +117,7 @@ Oppdatert 21.05.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Chat
@@ -139,3 +139,4 @@ Alltid åpen
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

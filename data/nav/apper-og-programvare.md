@@ -1,11 +1,11 @@
-<!-- innholds-hash: fc6f103cd0dcc03d7a6229094fb6f23366f149b5229d4d1ea081cf1a45bebace -->
+<!-- innholds-hash: 8a9ac861fe615d59a0b755e7497ee94cd46b5c90c53e3a2df59dc08635008f4b -->
 
 # Tilskudd til apper og programvare - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/apper-og-programvare
-- **Sist hentet:** 2026-06-27T00:14:28Z
+- **Sist hentet:** 2026-07-12T21:28:57Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Alltid åpen
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -126,3 +126,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

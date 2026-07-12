@@ -1,11 +1,11 @@
-<!-- innholds-hash: d292d4d2e81af0451a5ec0bed8569dae6115226546758dec17f973358d965c8b -->
+<!-- innholds-hash: 5c91c89c5d5b680c0cd4368ce6ed6cbd57654013623c76f35dd6ad77a5360446 -->
 
 # Automatikk og styring i bolig - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/automatikk-i-bolig
-- **Sist hentet:** 2026-06-27T00:43:44Z
+- **Sist hentet:** 2026-07-12T21:58:06Z
 
 ## Innhold
 
@@ -200,7 +200,7 @@ Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. 
 
 #### Ring oss på 55 55 11 11
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -217,3 +217,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

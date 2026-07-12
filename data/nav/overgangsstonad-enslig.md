@@ -1,11 +1,11 @@
-<!-- innholds-hash: 12bd435ae411336f8f29fad5e566a03936f3cff2aa37504027718e3afb68643a -->
+<!-- innholds-hash: ed72f35046a508e14cf0fca2dd7bda0cfb91c4629b7250ca0139c29a819c1df4 -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist hentet:** 2026-07-04T21:53:15Z
+- **Sist hentet:** 2026-07-12T20:32:33Z
 
 ## Innhold
 
@@ -33,7 +33,7 @@ Stortinget har vedtatt endringer i stønadene til enslig mor eller far. Endringe
 
 Endringene gjelder bare nye saker fra 1. juli 2026. Ingen som mottar stønadene i dag, vil miste det de allerede er innvilget.
 
-I en overgangsfase gjelder 2 ulike regelverk for overgangsstønad. Hvilket regelverk som gjelder for deg, avhenger av om du har hatt stønad til enslig mor eller far tidligere, og om du har stønadstid til gode. Hvis du søker om overgangsstønad, vil Nav vurdere hvilket regelverk som gjelder for deg.
+I en overgangsfase frem til 30. juni 2031 gjelder 2 ulike regelverk for overgangsstønad. Hvilket regelverk som gjelder for deg, avhenger av om du har hatt stønad til enslig mor eller far tidligere, og om du har stønadstid til gode. Hvis du søker om overgangsstønad, vil Nav vurdere hvilket regelverk som gjelder for deg.
 
 Hvis du ikke har hatt stønad til enslig mor eller far tidligere, og søker fra 1. juli 2026 og senere, gjelder nytt regelverk.
 
@@ -525,7 +525,7 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 26.06.2026
+Oppdatert 06.07.2026
 
 
 #### Chat med oss
@@ -534,7 +534,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -544,7 +544,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -559,3 +559,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

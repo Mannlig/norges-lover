@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2b6d68d83aed4511829f42d3302ac66462e975f3190b3161db354e8196e3cf7c -->
+<!-- innholds-hash: 6a0471407a70330008cb0ccafeff768ee0757d101f4d24aa12af433ef635b49c -->
 
 # Skal oppholde deg i utlandet uten å jobbe - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opphold-i-utlandet
-- **Sist hentet:** 2026-07-04T22:15:01Z
+- **Sist hentet:** 2026-07-12T20:54:18Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -86,7 +86,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -101,3 +101,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

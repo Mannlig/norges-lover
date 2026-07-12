@@ -1,11 +1,11 @@
-<!-- innholds-hash: e977d892b5f8e50d1aa45823229a3a3ea5785c51521cc9294cef695abf234466 -->
+<!-- innholds-hash: 4cc40116724620f6129764fec111be5b3db59c0135209b8d67847708c3f25fd4 -->
 
 # Stønad til skolepenger for enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-enslig
-- **Sist hentet:** 2026-07-04T21:53:59Z
+- **Sist hentet:** 2026-07-12T20:33:14Z
 
 ## Innhold
 
@@ -291,7 +291,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -301,7 +301,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -316,3 +316,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

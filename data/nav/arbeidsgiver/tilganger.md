@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1cffb2308be94289d4dd2e99a84d7dfc42a1406e9d0fa4ae86edcb72d079cade -->
+<!-- innholds-hash: 0176909652ad3051540bb44423949bdba6f8f6d5404729c18855703107befdbb -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-07-04T22:28:50Z
+- **Sist hentet:** 2026-07-12T21:08:02Z
 
 ## Innhold
 
@@ -315,7 +315,7 @@ Oppdatert 02.07.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Kontaktskjema
@@ -342,3 +342,4 @@ Alltid åpen
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8668690caea0d5868badce8c44e7bae7d02156eccec6cfc189f85d713b8f5762 -->
+<!-- innholds-hash: 47643cef33b086c76406a8ec94d466c346a4798826677ba77288ea69fa43d58e -->
 
 # Pleiepenger for en utviklingshemmet person over 18 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-over-18
-- **Sist hentet:** 2026-06-27T00:31:49Z
+- **Sist hentet:** 2026-07-12T21:46:23Z
 
 ## Innhold
 
@@ -395,7 +395,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -405,7 +405,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -419,3 +419,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)

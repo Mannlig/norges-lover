@@ -1,11 +1,11 @@
-<!-- innholds-hash: 090186f89d9ff935b304e4ab531b5f6cea8674c6dbb7c0a0d2fefd760e6822f8 -->
+<!-- innholds-hash: f439a13616dce9e36a0dfcd605611b672d77145492b0a1be53bf0e7c13c0d8e6 -->
 
 # Stønad til skolepenger for gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-gjenlevende
-- **Sist hentet:** 2026-07-04T22:35:12Z
+- **Sist hentet:** 2026-07-12T21:14:10Z
 
 ## Innhold
 
@@ -183,7 +183,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -193,7 +193,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -208,3 +208,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-12** Innhold endret (se git-historikk for diff)
