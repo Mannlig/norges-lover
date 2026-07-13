@@ -1,4 +1,4 @@
-<!-- innholds-hash: 788bd8138a29c76d2ccfb775c78abc01039a9a642771d3c28a9e9498e3fa0d7a -->
+<!-- innholds-hash: 431dd4002b75b6ab14fe3b70173ed0d9c165a957b4e2e94798f85357c1912089 -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Hans Edvard Askjer og Joel Ystebø om å innføre en verifiserbar 18-årsgrense for porno på nettet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200112
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828272+0200)/",
+  "respons_dato_tid": "/Date(1783926239099+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,11 +53,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
-      "foedselsdato": "/Date(-247539600000+0100)/",
+      "foedselsdato": "/Date(-247536000000+0100)/",
       "fornavn": "Hans Edvard",
       "id": "HANASK",
       "kjoenn": 2,
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -133,7 +133,7 @@
   "innstilling_id": 17394,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200112,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -264,4 +264,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

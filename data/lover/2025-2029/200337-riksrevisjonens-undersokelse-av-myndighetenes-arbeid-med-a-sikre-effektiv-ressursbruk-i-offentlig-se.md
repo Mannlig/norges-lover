@@ -1,4 +1,4 @@
-<!-- innholds-hash: da5d518fcd341a082ea712a9462fc9466364061cba7f69eb78971d0143c1dffc -->
+<!-- innholds-hash: 74b7f447db2cb3748847c2d5303f5eae2a83e7c4a3468f06ce15bd47f27cf373 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200337
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828288+0200)/",
+  "respons_dato_tid": "/Date(1783926239115+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -66,7 +66,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -75,11 +75,11 @@
   "sak_fremmet_id": 200337,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
-      "foedselsdato": "/Date(271807200000+0200)/",
+      "foedselsdato": "/Date(271810800000+0200)/",
       "fornavn": "Geir",
       "id": "GP",
       "kjoenn": 2,
@@ -221,4 +221,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

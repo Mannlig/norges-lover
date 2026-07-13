@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9c49a817189f279d3b94623133aa516bcf9feab01ff7101f2a5cf2f581af3775 -->
+<!-- innholds-hash: 86f1bc631cbeb7d934770541b3cbf5aa1add43fa547f6920aea923cb482531e2 -->
 
 # Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200343
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828288+0200)/",
+  "respons_dato_tid": "/Date(1783926239115+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 186,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -44,11 +44,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
-      "foedselsdato": "/Date(402098400000+0200)/",
+      "foedselsdato": "/Date(402105600000+0200)/",
       "fornavn": "Anne Lise Gjerstad",
       "id": "ANNFRE",
       "kjoenn": 1,
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -144,11 +144,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
-      "foedselsdato": "/Date(339717600000+0200)/",
+      "foedselsdato": "/Date(339724800000+0200)/",
       "fornavn": "Mirell",
       "id": "MIREHB",
       "kjoenn": 1,
@@ -169,11 +169,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eidsvoll",
-      "foedselsdato": "/Date(435708000000+0200)/",
+      "foedselsdato": "/Date(435715200000+0200)/",
       "fornavn": "Sunniva Holmås",
       "id": "SUNEID",
       "kjoenn": 1,
@@ -199,7 +199,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -328,4 +328,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

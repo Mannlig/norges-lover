@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23d7b354827034879ff236688a6709e61f15ec92e5bafce9ec4e5d402e26d0cf -->
+<!-- innholds-hash: 8fcf5c4280973ed4ad4d9a5365f986be8f404181016b8f74f3338cb2710a4a5c -->
 
 # Rapport til Stortinget fra Norges Banks representantskap for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828288+0200)/",
+  "respons_dato_tid": "/Date(1783926239115+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17491,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200269,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -196,4 +196,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5ac970d338b1357fb07e54f933faf1799ec3afd3b2d47f46ddd4fe6868b6be0f -->
+<!-- innholds-hash: 30836954ce46097b62b7ddad3f9a6e9759a69e390ae791031db83b70f0092c63 -->
 
 # Jobbklubb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbklubb
-- **Sist hentet:** 2026-07-05T13:58:58Z
+- **Sist hentet:** 2026-07-13T12:39:03Z
 
 ## Innhold
 
@@ -67,7 +67,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -77,7 +77,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -89,3 +89,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

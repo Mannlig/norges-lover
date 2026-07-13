@@ -1,11 +1,11 @@
-<!-- innholds-hash: cd06882df6c7ccb6a6e3a1b3c1c1a917212217d15f8f630e00100c304ec932d0 -->
+<!-- innholds-hash: fab94d21efd6cb14618e97dbdf0a6e7e28fb468fca4431f958f5a7b863d21b3f -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-07-05T14:51:12Z
+- **Sist hentet:** 2026-07-13T13:30:58Z
 
 ## Innhold
 
@@ -780,13 +780,13 @@ Island (Land)
 
 Italia (Land)
 
+Kuwait (Land)
+
 Polen (Land)
 
 Spania (Land)
 
 Storbritannia (Land)
-
-Svalbard og Jan Mayen (Land)
 
 Sveits (Land)
 
@@ -872,13 +872,27 @@ Markedsføring og reklame (Kategori)
 
 Personlig tjenesteyting (Kategori)
 
-Post og måleavlesere (Kategori)
-
 Renholdere og renovasjon (Kategori)
 
 Salg, butikk- og varehandel (Kategori)
 
 Tolk og oversettere (Kategori)
+
+Bank finans forsikring (Kategori)
+
+Juridisk arbeid (Kategori)
+
+Kontor, forvaltning og saksbehandling (Kategori)
+
+Ledelse, administrasjon og rådgivning (Kategori)
+
+Megling (Kategori)
+
+Organisasjonsarbeid og politikk (Kategori)
+
+Personal, arbeidsmiljø og rekruttering (Kategori)
+
+Økonomi, statistikk og regnskap (Kategori)
 
 Barnehage- og skolefritidsassistenter (Kategori)
 
@@ -897,22 +911,6 @@ Ledere av undervisning og utdanning (Kategori)
 Universitet og høyskole (Kategori)
 
 Videregående skole (Kategori)
-
-Bank finans forsikring (Kategori)
-
-Juridisk arbeid (Kategori)
-
-Kontor, forvaltning og saksbehandling (Kategori)
-
-Ledelse, administrasjon og rådgivning (Kategori)
-
-Megling (Kategori)
-
-Organisasjonsarbeid og politikk (Kategori)
-
-Personal, arbeidsmiljø og rekruttering (Kategori)
-
-Økonomi, statistikk og regnskap (Kategori)
 
 Betongfagarbeider (Kategori)
 
@@ -954,14 +952,6 @@ Maskin- og kranfører (Kategori)
 
 Skytebaser og sprengningsarbeidere (Kategori)
 
-Baker og konditor (Kategori)
-
-Kokk (Kategori)
-
-Reiseliv, hotell og overnatting (Kategori)
-
-Restaurant (Kategori)
-
 Andre hjelpearbeidere (Kategori)
 
 Arbeidsleder, industri (Kategori)
@@ -981,6 +971,14 @@ Olje, gass og bergverk (Kategori)
 Tekstil og presisjonsarbeid (Kategori)
 
 Trevarearbeid og –foredling (Kategori)
+
+Baker og konditor (Kategori)
+
+Kokk (Kategori)
+
+Reiseliv, hotell og overnatting (Kategori)
+
+Restaurant (Kategori)
 
 Logistikk, lagerarbeid og innkjøp (Kategori)
 
@@ -1072,9 +1070,9 @@ Sesong (Ansettelsesform)
 
 Lærling (Ansettelsesform)
 
-Selvstendig næringsdrivende (Ansettelsesform)
-
 Feriejobb (Ansettelsesform)
+
+Selvstendig næringsdrivende (Ansettelsesform)
 
 Heltid (Omfang)
 
@@ -1128,7 +1126,7 @@ Nav
 
 Søket ditt
 
-149 stillinger
+175 stillinger
 
 1. juli 2026
 
@@ -1144,7 +1142,35 @@ Molde
 
 Søk senest onsdag 5. august
 
-To dager siden
+9. juli 2026
+
+Veileder
+
+Arbeidsgiver
+
+Nav, Fauske kommune
+
+Sted
+
+Rognan
+
+Søk senest søndag 2. august
+
+Ny i dag
+
+Veileder / saksbehandler i Nav
+
+Arbeidsgiver
+
+NAV Lom og Skjåk
+
+Sted
+
+Skjåk
+
+Søk senest onsdag 26. august
+
+3. juli 2026
 
 Eigedomsansvarleg i Nav
 
@@ -1155,6 +1181,34 @@ Nav økonomiteneste
 Sted
 
 Leikanger
+
+Søk senest søndag 16. august
+
+8. juli 2026
+
+Nav - leder
+
+Arbeidsgiver
+
+NAV
+
+Sted
+
+Skjåk
+
+Søk senest onsdag 26. august
+
+8. juli 2026
+
+Veileder/saksbehandler (0106-2026-04)
+
+Arbeidsgiver
+
+Nav
+
+Sted
+
+Kråkerøy
 
 Søk senest søndag 16. august
 
@@ -1172,20 +1226,6 @@ Sted
 
 Søk senest torsdag 20. august
 
-19. juni 2026
-
-Saksbehandler
-
-Arbeidsgiver
-
-Nav familie -og pensjonsytelser Oslo, avdeling Yrkessykdom
-
-Sted
-
-Oslo
-
-Søk senest i dag
-
 26. juni 2026
 
 Økonomisk rådgiver
@@ -1199,6 +1239,34 @@ Sted
 Ørje
 
 Søk senest torsdag 20. august
+
+9. juli 2026
+
+Jobbspesialist (0105-2026-02)
+
+Arbeidsgiver
+
+Sarpsborg, Nav
+
+Sted
+
+Sarpsborg
+
+Søk senest søndag 16. august
+
+Ny i dag
+
+Veileder Nav
+
+Arbeidsgiver
+
+Nav Sel Sosial
+
+Sted
+
+Otta
+
+Søk senest søndag 9. august
 
 1. juli 2026
 
@@ -1240,6 +1308,18 @@ Andenes
 
 Søk senest torsdag 16. juli
 
+6. juli 2026
+
+Arbeidsgiver
+
+Helse og velferd: NAV Hundvåg og Storhaug
+
+Sted
+
+Stavanger
+
+Søk senest mandag 10. august
+
 29. juni 2026
 
 Veileder Nav Bergen sentrum sosialtjeneste
@@ -1253,6 +1333,18 @@ Sted
 Bergen
 
 Søk senest søndag 19. juli
+
+9. juli 2026
+
+Arbeidsgiver
+
+Nav Værnes
+
+Sted
+
+Stjørdal
+
+Søk senest søndag 16. august
 
 29. juni 2026
 
@@ -1282,6 +1374,70 @@ Raufoss
 
 Søk senest mandag 27. juli
 
+9. juli 2026
+
+Veileder stab og økonomi
+
+Arbeidsgiver
+
+Nav Molde
+
+Sted
+
+Molde
+
+Søk senest onsdag 19. august
+
+9. juli 2026
+
+Veileder stab og økonomi
+
+Arbeidsgiver
+
+Nav Molde
+
+Sted
+
+Molde
+
+Søk senest onsdag 19. august
+
+9. juli 2026
+
+Arbeidsgiver
+
+Nav Kongsberg
+
+Sted
+
+Kongsberg
+
+Søk senest søndag 9. august
+
+8. juli 2026
+
+Arbeidsgiver
+
+Tromsø, Nav
+
+Sted
+
+Tromsø
+
+Søk senest søndag 16. august
+
+8. juli 2026
+
+Arbeidsgiver
+
+Tromsø, Nav
+
+Sted
+
+Tromsø
+
+Søk senest søndag 9. august
+
 25. juni 2026
 
 Saksbehandler/veileder i boligteam
@@ -1296,18 +1452,6 @@ Horten
 
 Søk senest søndag 2. august
 
-24. juni 2026
-
-Arbeidsgiver
-
-Bjørnafjorden kommune NAV
-
-Sted
-
-Os
-
-Søk senest onsdag 8. juli
-
 2. juli 2026
 
 Arbeidsgiver
@@ -1319,144 +1463,6 @@ Sted
 Stange
 
 Søk senest søndag 16. august
-
-2. juli 2026
-
-Arbeidsgiver
-
-Sandefjord, Nav
-
-Sted
-
-Sandefjord
-
-Søk senest tirsdag 11. august
-
-26. juni 2026
-
-Ungdomsrettleiar 2*100% fast
-
-Arbeidsgiver
-
-Øygarden kommune NAV Øygarden
-
-Sted
-
-Straume
-
-Søk senest søndag 2. august
-
-25. juni 2026
-
-Arbeidsgiver
-
-Nav Hundvåg og Storhaug
-
-Sted
-
-Stavanger
-
-Søk senest mandag 10. august
-
-10. juni 2026
-
-Arbeidsgiver
-
-Søndre Nordstrand Kvalifisering og marked, Nav
-
-Sted
-
-Oslo
-
-Søk senest lørdag 15. august
-
-23. juni 2026
-
-Arbeidsgiver
-
-Kvinnherad kommune NAV Kvinnherad
-
-Sted
-
-Husnes
-
-Søk senest i dag
-
-22. juni 2026
-
-Vil du gjøre en reell forskjell for unge mennesker i Tønsberg?
-
-Arbeidsgiver
-
-Tønsberg kommune NAV Tønsberg
-
-Sted
-
-Tønsberg
-
-Søk senest søndag 2. august
-
-25. juni 2026
-
-Arbeidsgiver
-
-Nav Hundvåg og Storhaug
-
-Sted
-
-Stavanger
-
-Søk senest fredag 14. august
-
-22. juni 2026
-
-Arbeidsgiver
-
-Nordre Aker Marked og tiltak, Nav
-
-Sted
-
-Oslo
-
-Søk senest mandag 27. juli
-
-25. juni 2026
-
-Arbeidsgiver
-
-NAV, Elverum kommune
-
-Sted
-
-Elverum
-
-Søk senest søndag 16. august
-
-1. juli 2026
-
-Arbeidsgiver
-
-Arbeid og Ytelser Romerike, Nav
-
-Sted
-
-Lillestrøm
-
-Søk senest mandag 3. august
-
-30. juni 2026
-
-Veiledere
-
-Arbeidsgiver
-
-Sør-Varanger kommune NAV Sør-Varanger
-
-Sted
-
-Kirkenes
-
-Søk senest søndag 12. juli
 
 
 ### Var søketreffene relevante?
@@ -1474,3 +1480,4 @@ Har du tilbakemeldinger eller noe du savner?
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

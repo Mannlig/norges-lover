@@ -1,11 +1,11 @@
-<!-- innholds-hash: af7f8ef26cd83d1291810856f6c78a4286d1aa14b20de868eae950383d354406 -->
+<!-- innholds-hash: 30103efa08eebd1d4aeb9a0642063f5eaa54034379d3cb525b07af83c5b952c7 -->
 
 # Arbeidsrettet rehabilitering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsrettet-rehabilitering
-- **Sist hentet:** 2026-07-05T13:51:15Z
+- **Sist hentet:** 2026-07-13T12:31:24Z
 
 ## Innhold
 
@@ -66,7 +66,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -76,7 +76,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -88,3 +88,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

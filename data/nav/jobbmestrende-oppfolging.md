@@ -1,11 +1,11 @@
-<!-- innholds-hash: ecac41dd9c4efddbc5ae380258679fe56cc8d96aafeacf11d5c2aabc2ec1a550 -->
+<!-- innholds-hash: 3cb76b9e553524f063f20f7cbe495c1f41efd659f729ed299359451bea03d492 -->
 
 # Jobbmestrende oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbmestrende-oppfolging
-- **Sist hentet:** 2026-07-05T13:59:39Z
+- **Sist hentet:** 2026-07-13T12:39:43Z
 
 ## Innhold
 
@@ -61,7 +61,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -71,7 +71,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -83,3 +83,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

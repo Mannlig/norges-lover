@@ -1,11 +1,11 @@
-<!-- innholds-hash: f2b69ae8fa8c6fea2a554cf46f934977bdb9a9516c5ea92fc97a025a76a273bb -->
+<!-- innholds-hash: 9908807330f10ce26ff16ab202a1c88a92897cb04a296a2f6d32ff4d792c7b05 -->
 
 # Arbeidsforberedende trening - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsforberedende-trening
-- **Sist hentet:** 2026-07-05T13:50:33Z
+- **Sist hentet:** 2026-07-13T12:30:41Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -64,7 +64,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -76,3 +76,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

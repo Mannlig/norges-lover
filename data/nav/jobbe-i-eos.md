@@ -1,11 +1,11 @@
-<!-- innholds-hash: f542f6c4fe49f55731dafd674b16856f42c1d7ac66d1d0340f10341224ba56b6 -->
+<!-- innholds-hash: 7163b1c422384336ac3a1418fdfaadf9eb523c3bcca50f87a946575e10c25b81 -->
 
 # Jobbe i EØS eller Sveits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-eos
-- **Sist hentet:** 2026-07-05T13:49:13Z
+- **Sist hentet:** 2026-07-13T12:29:21Z
 
 ## Innhold
 
@@ -322,7 +322,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -332,7 +332,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på +47 21 07 37 00
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -344,3 +344,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

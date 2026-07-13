@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99fc226c3f0edd9bf3cfbef5d8aa660c0685156ca4c8ef1fb0fa2ec340436308 -->
+<!-- innholds-hash: 07f3fadbe4b18d180eaead11bfd7b569fb1fa56bbe662697696cf92d8139296e -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828272+0200)/",
+  "respons_dato_tid": "/Date(1783926239083+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239083+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -35,11 +35,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239083+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
-      "foedselsdato": "/Date(1017270000000+0100)/",
+      "foedselsdato": "/Date(1017273600000+0100)/",
       "fornavn": "Joakim Myklebost",
       "id": "JOATAN",
       "kjoenn": 2,
@@ -60,11 +60,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239083+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
-      "foedselsdato": "/Date(120520800000+0200)/",
+      "foedselsdato": "/Date(120528000000+0200)/",
       "fornavn": "Lill Harriet",
       "id": "LHS",
       "kjoenn": 1,
@@ -85,11 +85,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239083+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
-      "foedselsdato": "/Date(731113200000+0100)/",
+      "foedselsdato": "/Date(731116800000+0100)/",
       "fornavn": "Line Marlene",
       "id": "LINHAU",
       "kjoenn": 1,
@@ -110,11 +110,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239083+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
-      "foedselsdato": "/Date(974847600000+0100)/",
+      "foedselsdato": "/Date(974851200000+0100)/",
       "fornavn": "Simen",
       "id": "SIMVEL",
       "kjoenn": 2,
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -243,4 +243,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

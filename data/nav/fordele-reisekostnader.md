@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9a71fb7d2c9de273281133370e0d811103b41580f8994e3cc95d1602608fc2f6 -->
+<!-- innholds-hash: 59c288025025e0d1997f1962340ff3812b0865296b12978c3503e1b3222d5b02 -->
 
 # Fordele reisekostnader ved samvær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fordele-reisekostnader
-- **Sist hentet:** 2026-07-05T13:53:19Z
+- **Sist hentet:** 2026-07-13T12:33:29Z
 
 ## Innhold
 
@@ -121,7 +121,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -131,7 +131,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -143,3 +143,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f7dd734faf34cd9284d0c64ab87d308754d6acc5685c1ba72dc912d205666ffb -->
+<!-- innholds-hash: d3b5615d60be5fd69b86f12f5277da76e720cda6eb4c5cead807dbd186490277 -->
 
 # Noregs fiskeriavtalar for 2026 og fisket etter avtalane i 2024 og 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200137
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828366+0200)/",
+  "respons_dato_tid": "/Date(1783926239177+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 8,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
@@ -57,7 +57,7 @@
   "innstilling_id": 17353,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -66,11 +66,11 @@
   "sak_fremmet_id": 200137,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
-      "foedselsdato": "/Date(-136519200000+0200)/",
+      "foedselsdato": "/Date(-136512000000+0200)/",
       "fornavn": "Harry",
       "id": "HARVAL",
       "kjoenn": 2,
@@ -216,4 +216,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

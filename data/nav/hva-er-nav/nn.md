@@ -1,11 +1,11 @@
-<!-- innholds-hash: 18301314eeb802563cef265a6066d97d07dad567d95fe1e686ce1acb0b4b7cc4 -->
+<!-- innholds-hash: 78016275703c761818e2e634dafa3c5bb96fa080a1285b9e6f4879a6624b21b9 -->
 
 # Kva er Nav?  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hva-er-nav/nn
-- **Sist hentet:** 2026-05-18T09:29:04Z
+- **Sist hentet:** 2026-07-13T13:29:24Z
 
 ## Innhold
 
@@ -257,8 +257,6 @@ På regjeringa.no finn du oversikt over
 
 Saman med årsrapporten publiserer vi:
 
-Riksrevisjonens revisjonsmelding for Arbeids- og velferdsetaten 2025 blir publisert i midten av mai.
-
 Nav jobbar kontinuerleg med statistikk, analysar, forsking og utvikling (FoU). Kunnskapen dannar grunnlaget for avgjerdene og tilrådingane vi gir i kraft av rolla vår som fagdirektorat på arbeids- og velferdsområdet.
 
 Navs FoU-arbeid skal gi eit solid kunnskapsgrunnlag.
@@ -280,7 +278,7 @@ Tillitsreforma er prosjektet til regjeringa for å utvikle og fornye offentleg s
 
 Nav skal nå målet med tillitsreforma gjennom fleire tiltak innan kompetanse, kultur, styring og tenesteutvikling. Rapporten
 
-Oppdatert 30.04.2026
+Oppdatert 07.07.2026
 
 
 ---
@@ -289,3 +287,4 @@ Oppdatert 30.04.2026
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-07-13** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: c56eb3177c38c4b73f4ae48d80166865e8de6d057e0bb82fed477d100ecafcbf -->
+<!-- innholds-hash: 8c25ba297566cea6ca17d675c3a9b8966ef2762ee346c07dd1019b66a4171bb6 -->
 
 # Senter for jobbmestring - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/senter-for-jobbmestring
-- **Sist hentet:** 2026-07-05T14:02:25Z
+- **Sist hentet:** 2026-07-13T12:42:33Z
 
 ## Innhold
 
@@ -62,7 +62,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -72,7 +72,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -84,3 +84,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

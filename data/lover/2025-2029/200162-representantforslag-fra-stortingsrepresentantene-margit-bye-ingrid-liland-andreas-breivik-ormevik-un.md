@@ -1,4 +1,4 @@
-<!-- innholds-hash: 43999812b9be27e5faf3b8fad7b34dd7427f6d11be6059b1a4432e9e5d521eed -->
+<!-- innholds-hash: 1cc0dc3630e902f27d2105dd702b802586b818680a56225675d8e9bcabfcde83 -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Ingrid Liland, Andreas Breivik Ormevik, Une Bastholm, Oda Indgaard og Marius Langballe Dalin om å redusere kravet til risikokapital for Klimainvesteringsfondet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200162
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828288+0200)/",
+  "respons_dato_tid": "/Date(1783926239115+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ormevik",
@@ -69,11 +69,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
-      "foedselsdato": "/Date(633394800000+0100)/",
+      "foedselsdato": "/Date(633398400000+0100)/",
       "fornavn": "Ingrid",
       "id": "INGLIL",
       "kjoenn": 1,
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -119,11 +119,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
-      "foedselsdato": "/Date(-95475600000+0100)/",
+      "foedselsdato": "/Date(-95472000000+0100)/",
       "fornavn": "Marius Langballe",
       "id": "MARDAL",
       "kjoenn": 2,
@@ -144,11 +144,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
-      "foedselsdato": "/Date(542502000000+0100)/",
+      "foedselsdato": "/Date(542505600000+0100)/",
       "fornavn": "Oda",
       "id": "ODAIND",
       "kjoenn": 1,
@@ -169,7 +169,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828366+0200)/",
+      "respons_dato_tid": "/Date(1783926239177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
@@ -199,7 +199,7 @@
   "innstilling_id": 17468,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -208,11 +208,11 @@
   "sak_fremmet_id": 200162,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828288+0200)/",
+      "respons_dato_tid": "/Date(1783926239115+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nielsen",
-      "foedselsdato": "/Date(143503200000+0200)/",
+      "foedselsdato": "/Date(143510400000+0200)/",
       "fornavn": "Monica",
       "id": "MONNIE",
       "kjoenn": 1,
@@ -356,4 +356,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

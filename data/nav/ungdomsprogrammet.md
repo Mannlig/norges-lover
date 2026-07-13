@@ -1,11 +1,11 @@
-<!-- innholds-hash: d070e4145ffb00ab77c817e3ebab778eee74f586b63660a945c24b909785f6da -->
+<!-- innholds-hash: f0526de27af028be43d2ec3d084214c9e7d43314468f6b9d065e7fd1bf799f28 -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist hentet:** 2026-07-05T14:05:54Z
+- **Sist hentet:** 2026-07-13T12:45:56Z
 
 ## Innhold
 
@@ -242,7 +242,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -252,7 +252,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -265,3 +265,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

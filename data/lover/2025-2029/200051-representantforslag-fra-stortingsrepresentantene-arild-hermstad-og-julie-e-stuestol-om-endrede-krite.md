@@ -1,4 +1,4 @@
-<!-- innholds-hash: 98e9e3986f6bc1f858baf40f58decb62a97bef7510484e1b9d250301d4a2a2f8 -->
+<!-- innholds-hash: 145bc8549c647f25df916690ec067a609fd4e82a0d40eb6a02c5e37d9d41ff13 -->
 
 # Representantforslag fra stortingsrepresentantene Arild Hermstad og Julie E. Stuestøl om endrede kriterier for valg av medlemmer til Den norske Nobelkomité
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T00:19:22Z
+- **Sist hentet:** 2026-07-13T07:25:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200051
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783900828272+0200)/",
+  "respons_dato_tid": "/Date(1783926239099+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -44,11 +44,11 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
-      "foedselsdato": "/Date(-101440800000+0200)/",
+      "foedselsdato": "/Date(-101433600000+0200)/",
       "fornavn": "Arild",
       "id": "ARIHER",
       "kjoenn": 2,
@@ -69,11 +69,11 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783900828272+0200)/",
+      "respons_dato_tid": "/Date(1783926239099+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
-      "foedselsdato": "/Date(432338400000+0200)/",
+      "foedselsdato": "/Date(432345600000+0200)/",
       "fornavn": "Julie E.",
       "id": "JULSTU",
       "kjoenn": 1,
@@ -99,7 +99,7 @@
   "innstilling_id": 17533,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783900821771+0200)/",
+    "respons_dato_tid": "/Date(1783926065192+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -204,4 +204,5 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: de7b5377c2dfa71e8538e790ca1180ac70fa0a8995c78b6c7ab87cc7ef8b3a40 -->
+<!-- innholds-hash: af52bf36101040574ee4d273dd99b7e67eab30be05a47fa407e504dd373b9f35 -->
 
 # Studier med støtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/studier-med-stotte
-- **Sist hentet:** 2026-07-05T14:03:47Z
+- **Sist hentet:** 2026-07-13T12:43:56Z
 
 ## Innhold
 
@@ -75,7 +75,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -85,7 +85,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -97,3 +97,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
