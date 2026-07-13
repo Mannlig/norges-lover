@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ec8d6d23a704709be27567d86789189f41d895dd09720de5c2d6d477236a093 -->
+<!-- innholds-hash: 0516ceb40d00f59cc72b85d0b4cf1542a7344138f88358d0c4830578bd272817 -->
 
 # Statsrådets protokoller for tidsrommet 1. juli-31. desember 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T07:25:01Z
+- **Sist hentet:** 2026-07-13T16:06:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107343
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783926239099+0200)/",
+  "respons_dato_tid": "/Date(1783955429385+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239115+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -39,7 +39,7 @@
   "innstilling_id": 17455,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783926065192+0200)/",
+    "respons_dato_tid": "/Date(1783955093440+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 107343,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -57,7 +57,7 @@
       "id": "AICS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -73,16 +73,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
-      "foedselsdato": "/Date(271810800000+0200)/",
+      "foedselsdato": "/Date(271807200000+0200)/",
       "fornavn": "Geir",
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -98,16 +98,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
-      "foedselsdato": "/Date(270860400000+0200)/",
+      "foedselsdato": "/Date(270856800000+0200)/",
       "fornavn": "Hege Bae",
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -123,16 +123,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
-      "foedselsdato": "/Date(877132800000+0200)/",
+      "foedselsdato": "/Date(877125600000+0200)/",
       "fornavn": "Jonas Andersen",
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -148,16 +148,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
-      "foedselsdato": "/Date(432345600000+0200)/",
+      "foedselsdato": "/Date(432338400000+0200)/",
       "fornavn": "Julie E.",
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -173,16 +173,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandnes",
-      "foedselsdato": "/Date(-19958400000+0200)/",
+      "foedselsdato": "/Date(-19965600000+0200)/",
       "fornavn": "Kari Baadstrand",
       "id": "KARSAN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -198,7 +198,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -207,7 +207,7 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -223,16 +223,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rem",
-      "foedselsdato": "/Date(-111888000000+0200)/",
+      "foedselsdato": "/Date(-111895200000+0200)/",
       "fornavn": "Lars",
       "id": "LARREM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
@@ -248,7 +248,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
@@ -257,7 +257,7 @@
       "id": "LISSEL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -273,7 +273,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
@@ -282,7 +282,7 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -298,7 +298,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
@@ -307,7 +307,7 @@
       "id": "PAMB",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -323,7 +323,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
@@ -332,7 +332,7 @@
       "id": "PTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -348,16 +348,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aukrust",
-      "foedselsdato": "/Date(182995200000+0200)/",
+      "foedselsdato": "/Date(182988000000+0200)/",
       "fornavn": "Ronny",
       "id": "RONAUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -373,16 +373,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
-      "foedselsdato": "/Date(52009200000+0200)/",
+      "foedselsdato": "/Date(52005600000+0200)/",
       "fornavn": "Sverre",
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -506,5 +506,6 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

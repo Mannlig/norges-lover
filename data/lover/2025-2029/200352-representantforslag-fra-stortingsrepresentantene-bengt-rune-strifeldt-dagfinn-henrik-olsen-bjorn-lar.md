@@ -1,4 +1,4 @@
-<!-- innholds-hash: b7275e45b2d35dfe3fcbc55b930625af7fbd72cdfc03b4753d3773a86db45b27 -->
+<!-- innholds-hash: ecd9f6ca6fec3567b4967cf390ae5ab3647b761ac2fea219e0a2d1cae1e54785 -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Bjørn Larsen og Helge André Njåstad om innføring av rullerende maksimal tillatt biomasse (MTB) for å sikre helårsarbeidsplasser, bidra til bedre miljø og dyrevelferd og økt verdiskaping
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T07:25:01Z
+- **Sist hentet:** 2026-07-13T16:06:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200352
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783926239099+0200)/",
+  "respons_dato_tid": "/Date(1783955429385+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -44,7 +44,7 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -60,16 +60,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
-      "foedselsdato": "/Date(-73875600000+0200)/",
+      "foedselsdato": "/Date(-73879200000+0200)/",
       "fornavn": "Bjørn",
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -85,16 +85,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
-      "foedselsdato": "/Date(-110768400000+0200)/",
+      "foedselsdato": "/Date(-110772000000+0200)/",
       "fornavn": "Dagfinn Henrik",
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Njåstad",
@@ -119,7 +119,7 @@
       "id": "HNJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -140,7 +140,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783926065192+0200)/",
+    "respons_dato_tid": "/Date(1783955093440+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -257,5 +257,6 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

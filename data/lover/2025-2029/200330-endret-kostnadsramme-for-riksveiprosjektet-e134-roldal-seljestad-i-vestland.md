@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c88d7e832251496606b6bcd176c32373e69fbf5d5aa6b98f37606fd93eff855 -->
+<!-- innholds-hash: fb1d27b0a44de7e8dcc9ed8d280f0e33eaadc48fc47ef9f54fa33bef1720fb15 -->
 
 # Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T07:25:01Z
+- **Sist hentet:** 2026-07-13T16:06:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200330
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783926239099+0200)/",
+  "respons_dato_tid": "/Date(1783955429385+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -39,7 +39,7 @@
   "innstilling_id": 17535,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783926065192+0200)/",
+    "respons_dato_tid": "/Date(1783955093440+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -48,16 +48,16 @@
   "sak_fremmet_id": 200330,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429385+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
-      "foedselsdato": "/Date(-228009600000+0200)/",
+      "foedselsdato": "/Date(-228016800000+0200)/",
       "fornavn": "Jone",
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -178,5 +178,6 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)

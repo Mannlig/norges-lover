@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c726a9dc9cffdb784280da12583bf3e7bf6ca07bf4ea5b6d2196f720c5d7eb1 -->
+<!-- innholds-hash: 07b12544d9b77396e2f328133c0dcb7b57816b97ce2384882819dfde802c25be -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Sylvi Listhaug, Tom Staahle, Hilde Grande og Martin Virkesdal Jonsterhaug om tiltak for å dempe økte energipriser og levekostnader
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T07:25:01Z
+- **Sist hentet:** 2026-07-13T16:06:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200084
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783926239099+0200)/",
+  "respons_dato_tid": "/Date(1783955429336+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -62,16 +62,16 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
-      "foedselsdato": "/Date(162518400000+0100)/",
+      "foedselsdato": "/Date(162514800000+0100)/",
       "fornavn": "Hilde",
       "id": "HILGRA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -87,16 +87,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
-      "foedselsdato": "/Date(-292377600000+0200)/",
+      "foedselsdato": "/Date(-292384800000+0200)/",
       "fornavn": "Hans Andreas",
       "id": "HLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jonsterhaug",
@@ -121,7 +121,7 @@
       "id": "MARJON",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -146,7 +146,7 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -171,7 +171,7 @@
       "id": "TSTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -192,7 +192,7 @@
   "innstilling_id": 17541,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1783926065192+0200)/",
+    "respons_dato_tid": "/Date(1783955093440+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200084,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1783926239099+0200)/",
+      "respons_dato_tid": "/Date(1783955429336+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -210,7 +210,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1783897217171+0200)/",
+        "respons_dato_tid": "/Date(1783940428254+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -320,5 +320,6 @@
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
