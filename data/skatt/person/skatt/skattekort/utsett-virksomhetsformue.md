@@ -1,4 +1,4 @@
-<!-- innholds-hash: 544866f02bb1c2fd41d1964a3d400539a7961fabf26ae9896ff90af4ffc62945 -->
+<!-- innholds-hash: 77275570e7476a034ab7e849a884559f9f7d71ea3f194e78c9d5f989b5a0e684 -->
 
 # Utsett betaling av formuesskatt beregnet på virksomhetsformue
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekort/utsett-virksomhetsformue/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:57:38Z
+- **Sist hentet:** 2026-07-13T00:59:46Z
 
 ## Innhold
 
@@ -44,7 +44,7 @@ Etter 3 år: 65 244,19 kroner
 
 Du må betale:
 
-Finn beløpet du ønsker å utsette. For å finne beløpet, må du legge sammen den skattemessige formuesverdien av virksomhetsformuen og multiplisere med en skattesats på 1,1 prosent. Hvis du ikke er sikker på beløpet, men vil utsette så mye som mulig, så kan du si skrive det i søknaden.
+Finn beløpet du ønsker å utsette. For å finne beløpet, må du legge sammen den skattemessige formuesverdien av virksomhetsformuen og multiplisere med en skattesats på 1,1 prosent. Hvis du ikke er sikker på beløpet, men vil utsette så mye som mulig, så kan du skrive det i søknaden.
 
 Du kan utsette hele eller deler av beløpet, men beløpet må være minst 30 000 kroner for å kunne søke.
 
@@ -81,3 +81,4 @@ For å betale før tiden må du
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-07-13** Innhold endret (se git-historikk for diff)

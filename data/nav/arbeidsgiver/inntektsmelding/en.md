@@ -1,11 +1,11 @@
-<!-- innholds-hash: f66ec11489ca8123368ae61fb6e94c167cc80207bada0a472fe0e3468124ee89 -->
+<!-- innholds-hash: 1dd40276c2f362bb1aab02249741da393224c24e8631be45bbd0d7d06cbc59e9 -->
 
 # Income report - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding/en
-- **Sist hentet:** 2026-07-05T05:59:54Z
+- **Sist hentet:** 2026-07-13T04:39:55Z
 
 ## Innhold
 
@@ -406,9 +406,10 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Start date for parental benefit period: as in the original income report from Enterprise A for the current leave.
 - Reimbursement amount per month: as in the original income report from Enterprise A for the current leave.
 - Date of end of reimbursement: end date for the employee’s employment in Enterprise A
+Enterprise B must send a manual income report (opprett manuell inntektsmelding)
+
 - Enterprise number: for Enterprise B
-- Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
-- Start date for parental benefit period: start date for the employee’s employment in Enterprise B.
+- First day of reimbursement: first day of reimbursement in Enterprise B
 - Reimbursement amount per month: requested reimbursement amount
 - If enterprise A has submitted a
 - For days enterprise A shall not claim reimbursement for nevertheless:
@@ -423,14 +424,15 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Reimbursement amount per month: as in the original income report from Enterprise A for the current leave
 - Date of end of reimbursement: end date for the employee’s employment in Enterprise A
 
-#### Income report from Enterprise B:
+#### Income report from Enterprise B (reimbursement):
+
+Enterprise B must send a manual income report (opprett manuell inntektsmelding)
 
 - Enterprise number: for Enterprise B
-- Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
-- First day of absence: start date for the employee’s employment in Enterprise B
+- First day of
 - Reimbursement amount per month: requested reimbursement amount
 
-#### Income report from Enterprise A:
+#### Income report from Enterprise A (to end reimbursement):
 
 - Enterprise number: for Enterprise A
 - Calculated monthly salary: as in the original income report from Enterprise A for the current leave
@@ -438,13 +440,14 @@ Assume that the employee is employed in an enterprise with enterprise number 999
 - Reimbursement amount per month: as in the original income report from Enterprise A for the current leave
 - Date of end of reimbursement: end date for the employee’s employment in Enterprise A
 
-#### Income report from Enterprise B:
+#### Income report from Enterprise B (reimbursement):
+
+Enterprise B must send a manual income report (opprett manuell inntektsmelding)
 
 - Enterprise number: for Enterprise B
-- Calculated monthly salary: in accordance with salary and start date for the employee’s employment in Enterprise B
-- First day of absence: start date for the employee’s employment in Enterprise B
-- New reimbursement amount: requested reimbursement amount
-Updated 06/29/2026
+- First day of
+- Reimbursement amount per month: requested reimbursement amount
+Updated 07/08/2026
 
 
 #### Chat with us
@@ -471,3 +474,4 @@ Closed now, opens at 9am
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-13** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e342bd638b3459680c89019aa86585e2e6792d7211bd60917aafdea2f7bafed8 -->
+<!-- innholds-hash: b011de86b886efb361b49c9aa8a7bb678ea3e0c43977c41784cceac3e927169d -->
 
 # Arbeidsinntekt til barn under 13 år
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekort/arbeidsinntekt-til-barn-under-13-ar/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:06:14Z
+- **Sist hentet:** 2026-07-13T02:13:44Z
 
 ## Innhold
 
@@ -22,8 +22,6 @@ Skal du bestille frikort eller skattekort til barn under 13 år kan du
 - inntekt (maks 10 000 kroner)
 - opplysninger om navn og eventuelt organisasjonsnummer på arbeidsgiver/oppdragsgiver
 - beskrivelse av arbeidet.
-Du får en bekreftelse på frikortet i et brev i posten, og ikke et digitalt frikort. Bekreftelsen gir du til arbeidsgiveren.
-
 Frikortgrensen på 10 000 kroner i løpet av et år gjelder uavhengig av om inntektene er tjent hos forskjellige arbeidsgivere. Skattefritaket gjelder kun lønn for faktisk arbeid som barnet utfører selv, det vil si en konkret arbeidsprestasjon.
 
 Passive honorarer, som for eksempel reklamefotografering av spedbarn, er skattepliktige og skal skattlegges hos barnets foreldre.
@@ -39,3 +37,4 @@ Tjener barnet mer enn 10 000 kroner er den overskytende inntekten skattepliktig.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-07-13** Innhold endret (se git-historikk for diff)

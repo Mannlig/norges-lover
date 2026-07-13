@@ -1,11 +1,11 @@
-<!-- innholds-hash: 831d67f0c2b3879e8ed5334df8bd6b55b0f1c8e5429c0c88a82e86999a8afbb2 -->
+<!-- innholds-hash: 6ba78278cf95618f1054c35e6e9cf992f2bea88acecb23fe5ac30aeb8c2c903a -->
 
 # What is Nav? - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hva-er-nav/en
-- **Sist hentet:** 2026-05-16T22:26:03Z
+- **Sist hentet:** 2026-07-13T04:48:55Z
 
 ## Innhold
 
@@ -244,8 +244,6 @@ The Annual Report is Nav’s summary of 2025. Among other things, it contains de
 
 Also published with the annual report is:
 
-The National Audit Office of Norway's report on the Norwegian Labour and Welfare Administration for 2025 will be published mid-May.
-
 Nav works continually on statistics, analyses, research and development (R&D). The knowledge acquired forms the basis for decisions, guidance and recommendations made by us in our role as specialist labour and welfare agency.
 
 The aim of Nav’s R&D work is to develop a solid knowledge base. Our
@@ -267,7 +265,7 @@ The trust reform is the government's project to develop and renew the public sec
 
 During the spring and summer of 2023, we investigated what we need to improve on. Our focus has been to find the areas that challenge the trust and room for action in Nav. Nav will achieve the goal of the trust reform through several measures in competence, culture, management and service development. The report
 
-Updated 04/30/2026
+Updated 07/07/2026
 
 
 ---
@@ -276,3 +274,4 @@ Updated 04/30/2026
 ## Endringshistorikk
 
 - **2026-05-16** Første gang hentet
+- **2026-07-13** Innhold endret (se git-historikk for diff)
