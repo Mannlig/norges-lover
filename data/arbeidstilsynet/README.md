@@ -2,7 +2,7 @@
 
 Arbeidstilsynet
 
-*Sist oppdatert: 2026-07-14 08:54 UTC*
+*Sist oppdatert: 2026-07-14 16:22 UTC*
 
 **Antall dokumenter:** 167
 
