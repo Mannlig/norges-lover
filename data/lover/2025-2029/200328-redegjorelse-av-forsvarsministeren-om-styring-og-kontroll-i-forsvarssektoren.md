@@ -1,4 +1,4 @@
-<!-- innholds-hash: c5fcbc425a21a1c38759734f578bb7d9939a0a2a74eb1d7bca1b97c1d495b42a -->
+<!-- innholds-hash: 68447cfd7a6b8f41961f2e361b67a8b92abafa136962fd6202df940c083b0166 -->
 
 # Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-13T23:22:46Z
+- **Sist hentet:** 2026-07-14T05:06:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1783983629997+0200)/",
+  "respons_dato_tid": "/Date(1784005408333+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1783983629997+0200)/",
+      "respons_dato_tid": "/Date(1784005408333+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -39,7 +39,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1783983620622+0200)/",
+    "respons_dato_tid": "/Date(1784005240673+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -153,3 +153,4 @@
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
+- **2026-07-14** Innhold endret (se git-historikk for diff)

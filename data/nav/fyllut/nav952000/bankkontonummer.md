@@ -1,11 +1,11 @@
-<!-- innholds-hash: 68e9185385a23df2e02b5296b4209063cd5e6186b214f2d5528e869b619faac9 -->
+<!-- innholds-hash: d322a539a8b4fc0fc290590f954ad0444e0317e979300b64d76afd9e4f1cd456 -->
 
 # Melding om nytt bankkontonummer | www.nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fyllut/nav952000/bankkontonummer
-- **Sist hentet:** 2026-06-10T23:02:28Z
+- **Sist hentet:** 2026-07-14T07:33:55Z
 
 ## Innhold
 
@@ -16,7 +16,20 @@
 ### Introduksjon
 
 
-### Vær oppmerksom på dette før du begynner å fylle ut skjemaet
+### Hei!
+
+Dersom du skal endre bankkontonummer bruker du dette skjemaet for bankopplysninger i Norge. Gjelder for alle utbetalinger fra Nav.
+
+Les mer om
+
+
+### Vær klar over
+
+I tillegg til den informasjonen du oppgir i skjemaet, henter vi:
+
+Du kan lese mer om
+
+Det er viktig at du gir oss riktige opplysninger slik at vi kan behandle meldingen din.
 
 
 ## Avbryt og slett?
@@ -30,3 +43,4 @@ Alle opplysningene du har fylt ut vil bli slettet. Hvis du ønsker å fortsette 
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-07-14** Innhold endret (se git-historikk for diff)

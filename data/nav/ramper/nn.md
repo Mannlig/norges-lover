@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2733a2aebd5ce7837462fefc4864ab64f66e7136b2bca802c90e477d6d768ecf -->
+<!-- innholds-hash: a1d20e4289fb5e1378c4369e15471ef57e55de655c69fbf227e7ec5aae712b20 -->
 
 # Ramper - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ramper/nn
-- **Sist hentet:** 2026-07-04T04:10:31Z
+- **Sist hentet:** 2026-07-14T08:29:42Z
 
 ## Innhold
 
@@ -199,7 +199,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan òg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Stengt no, opnar i morgon kl 9
+Ope no
 
 
 #### Finn din hjelpemiddelsentral
@@ -212,3 +212,4 @@ Stengt no, opnar i morgon kl 9
 
 - **2026-06-17** Første gang hentet
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-14** Innhold endret (se git-historikk for diff)

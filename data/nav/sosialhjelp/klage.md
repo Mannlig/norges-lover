@@ -1,11 +1,11 @@
-<!-- innholds-hash: b93875b8b64fb1918163edf88d9a34b1e3cf891cccf0dc83c8fce16c21ff9828 -->
+<!-- innholds-hash: b3df0855e1bd911c191c8c307838130e5e8bbb90e52acc1b30f5c50407e4b140 -->
 
 # Økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sosialhjelp/klage
-- **Sist hentet:** 2026-07-04T04:05:04Z
+- **Sist hentet:** 2026-07-14T08:24:14Z
 
 ## Innhold
 
@@ -300,7 +300,7 @@ Oppdatert 08.04.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 
 #### Finn ditt Nav-kontor
@@ -313,3 +313,4 @@ Stengt nå, åpner i morgen kl. 9
 
 - **2026-06-17** Første gang hentet
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-07-14** Innhold endret (se git-historikk for diff)
