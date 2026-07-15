@@ -1,4 +1,4 @@
-<!-- innholds-hash: 950cfb25f107b5ac174442e781c7461ec0a16e6a5f0595b32047c41097982821 -->
+<!-- innholds-hash: 0d8206eed28c868a87a6a23aed1cf120d464cb1059063bedf231bd62d351addd -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Julie E. Stuestøl, Siren Julianne Jensen og Oda Indgaard om solkraft på tak og grå arealer
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-15T00:39:58Z
+- **Sist hentet:** 2026-07-15T06:18:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200201
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784073652672+0200)/",
+  "respons_dato_tid": "/Date(1784095468307+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
@@ -128,7 +128,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -153,7 +153,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -183,7 +183,7 @@
   "innstilling_id": 17436,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784073625968+0200)/",
+    "respons_dato_tid": "/Date(1784095255970+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -192,7 +192,7 @@
   "sak_fremmet_id": 200201,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -352,4 +352,5 @@
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-15** Innhold endret (se git-historikk for diff)
 - **2026-07-15** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2bd6496a9398dc33dc37e531e4236f1d65ecae47b4c0eaff8e1f4d4e76bf4f02 -->
+<!-- innholds-hash: 316f1648531223aacc7d0f5db07f8baa02a1c48913716ebbc9a1c5dbed66adb2 -->
 
 # Endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet) og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av direktiv (EU) 2024/825
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-15T00:39:58Z
+- **Sist hentet:** 2026-07-15T06:18:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200128
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784073652657+0200)/",
+  "respons_dato_tid": "/Date(1784095467822+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652657+0200)/",
+      "respons_dato_tid": "/Date(1784095467822+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652657+0200)/",
+      "respons_dato_tid": "/Date(1784095467822+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17426,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784073625968+0200)/",
+    "respons_dato_tid": "/Date(1784095255970+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200128,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652657+0200)/",
+      "respons_dato_tid": "/Date(1784095467822+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -212,4 +212,5 @@
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-15** Innhold endret (se git-historikk for diff)
 - **2026-07-15** Innhold endret (se git-historikk for diff)

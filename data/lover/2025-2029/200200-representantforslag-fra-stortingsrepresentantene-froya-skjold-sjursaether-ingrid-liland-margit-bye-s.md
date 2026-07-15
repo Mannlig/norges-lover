@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5852180565c71afc813397267a8e455af9ea3cc1f3a441179d8bb2b31034580 -->
+<!-- innholds-hash: f91243e70c32fd21909e51583bda996d14750c94fcd80a7d3684c918ec47edd2 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Margit Bye, Siren Julianne Jensen og Oda Indgaard om en helhetlig plan for mer arealvennlig utbygging av landvind
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-15T00:39:58Z
+- **Sist hentet:** 2026-07-15T06:18:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200200
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784073652672+0200)/",
+  "respons_dato_tid": "/Date(1784095468307+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -192,7 +192,7 @@
   "innstilling_id": 17478,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784073625968+0200)/",
+    "respons_dato_tid": "/Date(1784095255970+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200200,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784073652672+0200)/",
+      "respons_dato_tid": "/Date(1784095468307+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -361,4 +361,5 @@
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-15** Innhold endret (se git-historikk for diff)
 - **2026-07-15** Innhold endret (se git-historikk for diff)
