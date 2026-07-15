@@ -1,4 +1,4 @@
-<!-- innholds-hash: af9c03ea2bbc1410a7286b0fc1634416864e2078885ab3520d2dcdd058cfaf42 -->
+<!-- innholds-hash: 26e51282b728e2d6b7d6f5d9ad263054efd6f517de66df9343fc1c9bbcea1666 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-14T18:23:05Z
+- **Sist hentet:** 2026-07-15T00:39:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200360
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784052748339+0200)/",
+  "respons_dato_tid": "/Date(1784073652657+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784052748339+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784052748339+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784052748339+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Breivik",
@@ -53,14 +53,14 @@
       "id": "ANEBRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784026818734+0200)/",
+        "respons_dato_tid": "/Date(1784070019889+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783983618637+0200)/",
+        "respons_dato_tid": "/Date(1784070019370+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784052748339+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -78,14 +78,14 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784026818734+0200)/",
+        "respons_dato_tid": "/Date(1784070019889+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783983618637+0200)/",
+        "respons_dato_tid": "/Date(1784070019370+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784052748339+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -103,14 +103,14 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784026818734+0200)/",
+        "respons_dato_tid": "/Date(1784070019889+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783983618637+0200)/",
+        "respons_dato_tid": "/Date(1784070019370+0200)/",
         "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
@@ -124,7 +124,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784052091739+0200)/",
+    "respons_dato_tid": "/Date(1784073625968+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -234,3 +234,4 @@
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-15** Innhold endret (se git-historikk for diff)

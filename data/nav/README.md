@@ -2,7 +2,7 @@
 
 Stønader, ytelser og rettigheter fra NAV.
 
-*Sist oppdatert: 2026-07-14 22:39 UTC*
+*Sist oppdatert: 2026-07-15 04:17 UTC*
 
 **Antall dokumenter:** 1254
 
@@ -663,7 +663,7 @@ Stønader, ytelser og rettigheter fra NAV.
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](fyllut/nav020806/opplysningerOmDenSomFyllerUtSkjemaet.md)
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](fyllut/nav020806/oppsummering.md)
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](fyllut/nav020806/veiledning.md)
-- [Skjema for arbeidsgiver – bekreftelse på utsending utenfor EØS | www.nav.no](fyllut/nav020806.md)
+- [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](fyllut/nav020806.md)
 - [Skjema for arbeidsgiver – bekreftelse på utsending i EØS eller Sveits | www.nav.no](fyllut/nav020808.md)
 - [Søknad om godskriving av omsorgsopptjening | www.nav.no](fyllut/nav031601.md)
 - [Overføring av omsorgsopptjening | www.nav.no](fyllut/nav031610.md)

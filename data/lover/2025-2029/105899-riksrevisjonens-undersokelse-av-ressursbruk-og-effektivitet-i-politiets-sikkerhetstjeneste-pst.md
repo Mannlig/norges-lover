@@ -1,4 +1,4 @@
-<!-- innholds-hash: 41bfa3a4b0858f8b84b9fbbcb902309173170d6fbdaf15be8b4fb73b2115f77e -->
+<!-- innholds-hash: cd1ec28c900198b0581fff1cacd6a2b4281482177954d6b0ddca972f8b9dd23b -->
 
 # Riksrevisjonens undersøkelse av ressursbruk og effektivitet i Politiets sikkerhetstjeneste (PST)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-14T18:23:05Z
+- **Sist hentet:** 2026-07-15T00:39:58Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105899
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784052748355+0200)/",
+  "respons_dato_tid": "/Date(1784073652657+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784052748355+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784052748355+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784052748355+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
@@ -57,7 +57,7 @@
   "innstilling_id": 17540,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784052091739+0200)/",
+    "respons_dato_tid": "/Date(1784073625968+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 105899,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784052748355+0200)/",
+      "respons_dato_tid": "/Date(1784073652657+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -75,14 +75,14 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784026818734+0200)/",
+        "respons_dato_tid": "/Date(1784070019889+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1783983618637+0200)/",
+        "respons_dato_tid": "/Date(1784070019370+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -195,3 +195,4 @@
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-15** Innhold endret (se git-historikk for diff)

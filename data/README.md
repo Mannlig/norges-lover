@@ -2,7 +2,7 @@
 
 Lovdata
 
-*Sist oppdatert: 2026-07-14 22:39 UTC*
+*Sist oppdatert: 2026-07-15 04:17 UTC*
 
 **Antall dokumenter:** 6443
 
@@ -1687,7 +1687,7 @@ Lovdata
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](nav/fyllut/nav020806/opplysningerOmDenSomFyllerUtSkjemaet.md)
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](nav/fyllut/nav020806/oppsummering.md)
 - [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](nav/fyllut/nav020806/veiledning.md)
-- [Skjema for arbeidsgiver – bekreftelse på utsending utenfor EØS | www.nav.no](nav/fyllut/nav020806.md)
+- [Skjema for arbeidsgiver - bekreftelse på utsending utenfor EØS | www.nav.no](nav/fyllut/nav020806.md)
 - [Skjema for arbeidsgiver – bekreftelse på utsending i EØS eller Sveits | www.nav.no](nav/fyllut/nav020808.md)
 - [Søknad om godskriving av omsorgsopptjening | www.nav.no](nav/fyllut/nav031601.md)
 - [Overføring av omsorgsopptjening | www.nav.no](nav/fyllut/nav031610.md)
