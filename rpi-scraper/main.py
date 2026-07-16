@@ -115,6 +115,32 @@ def skriv_heartbeat(output_dir: Path, statistikk: dict[str, int]) -> Path:
     return filepath
 
 
+def rydd_lovdata_sopplefiler(data_dir: Path) -> list[Path]:
+    """
+    Slett gamle Lovdata-filer som bare inneholder navigasjonssøppel
+    (tittel «Hovedmeny»). Lovdata-scraperen er droppet pga. databasevern
+    og bot-beskyttelse, så disse blir aldri reparert. Returnerer slettede
+    stier slik at git kan stage slettingene. No-op når alt er ryddet.
+    """
+    slettet = []
+    lover_dir = data_dir / "lover"
+    if not lover_dir.exists():
+        return slettet
+    for f in lover_dir.glob("*.md"):
+        if f.name == "README.md":
+            continue
+        try:
+            hode = f.read_text(encoding="utf-8", errors="replace")[:600]
+        except OSError:
+            continue
+        if "# Hovedmeny" in hode and "Lovdata" in hode:
+            f.unlink()
+            slettet.append(f)
+    if slettet:
+        logger.info("Ryddet %d Lovdata-søppelfiler fra %s", len(slettet), lover_dir)
+    return slettet
+
+
 def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None = None):
     """Én full runde: scrape → indekser → publish."""
     if publisher is None:
@@ -138,6 +164,9 @@ def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None =
         if not kun_kilde:
             logger.info("Venter %.0fs før neste kilde...", DELAY_BETWEEN_SOURCES)
             time.sleep(DELAY_BETWEEN_SOURCES)
+
+    # Engangsopprydding: slett ødelagte Lovdata-filer (stages som sletting i git)
+    alle_nye_filer.extend(rydd_lovdata_sopplefiler(DATA_DIR))
 
     # Heartbeat skrives alltid – gir synlig commit selv når ingenting endret seg
     heartbeat = skriv_heartbeat(DATA_DIR, statistikk)
