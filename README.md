@@ -93,6 +93,50 @@ hash_i_fil = match.group(1) if match else None
 # Sammenlign med din lagrede hash
 ```
 
+## Bruk med Claude Code (og andre AI-verktøy)
+
+### For mennesker: skatteanalyse med Claude Code
+
+Repoet egner seg som kunnskapsgrunnlag når du vil ha veldokumenterte svar om
+norske regler — for eksempel lovlige måter å redusere skatt på:
+
+```bash
+# 1. Klon repoet (eller bare skatt-delen, se sparse checkout over)
+git clone --depth 1 https://github.com/mannlig/norges-lover.git
+
+# 2. Start Claude Code i mappen
+cd norges-lover && claude
+```
+
+Eksempel på spørsmål du kan stille:
+
+> Jeg har lønnsinntekt på X kr, bolig med utleiedel, pendler 40 km til jobb
+> og sparer i aksjefond. Gå gjennom data/skatt/ og finn alle fradrag og
+> tilpasninger som er relevante for meg. Siter kilden for hvert forslag.
+
+Tips:
+- Legg din egen situasjonsbeskrivelse i en lokal fil (f.eks. `min-situasjon.md`)
+  som **ikke** commites — repoet er offentlig.
+- Be alltid om kildehenvisning per forslag, og verifiser mot den offisielle
+  kilden før du handler på det. Dette er referansedata, ikke rådgivning.
+
+### For AI-agenter: konvensjoner
+
+Disse konvensjonene gjelder når du bruker repoet som kilde:
+
+1. **Dataene ligger i `data/`**, organisert per myndighet (se tabellen øverst).
+   Skatteregler: `data/skatt/` — merk spesielt `data/skatt/rettskilder/type/handboker/skatte-abc/`
+   (Skatteetatens egen tolkningshåndbok, ordnet alfabetisk per emne).
+2. **Hver fil oppgir kilde-URL** i `## Kildeinformasjon`. Siter alltid denne
+   URL-en — aldri GitHub-filen — når du gjengir regler for en bruker.
+3. **Sjekk `Sist hentet`-datoen.** Satser og beløpsgrenser endres årlig; er
+   dataen gammel, si det eksplisitt og henvis til kilde-URL-en for gjeldende verdi.
+4. **`<!-- innholds-hash: ... -->`** på første linje er for endringsdeteksjon —
+   ignorer den ved lesing.
+5. **Innholdet kan ha rest-UI** («Skriv ut», menytekst). Filtrer bort ved sitering.
+6. **Dette er ikke autoritative kilder.** Formuler svar som «ifølge Skatteetatens
+   veiledning (hentet DATO) ...» og anbefal verifisering ved beløpsavgjørelser.
+
 ## Sitering og kildehenvisning
 
 **Lenk alltid tilbake til den offisielle kilden i svar til brukere.** Disse filene er en bekvem kopi, ikke en autoritativ kilde. Hver fil oppgir kilde-URL i `## Kildeinformasjon`-seksjonen.
