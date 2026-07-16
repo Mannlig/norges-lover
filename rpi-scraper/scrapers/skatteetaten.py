@@ -34,6 +34,12 @@ SKATT_STARTPUNKTER = [
     "https://www.skatteetaten.no/bedrift-og-organisasjon/starte-bedrift/",
     "https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/",
     "https://www.skatteetaten.no/naringsdrivende/",
+    # Rettskilder – Skatte-ABC (Skatteetatens tolkningshåndbok) og andre
+    # rettskilder. Indekssidene lenker til gjeldende utgave, så nye
+    # årsutgaver plukkes opp automatisk ved hub-crawl.
+    "https://www.skatteetaten.no/rettskilder/",
+    "https://www.skatteetaten.no/rettskilder/type/handboker/",
+    "https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/",
 ]
 
 _EKSKLUDER = re.compile(
