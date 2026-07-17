@@ -1,4 +1,4 @@
-<!-- innholds-hash: af71cd9e82aa19a62b310db6f3d67d1b3f2ca736958646c1c5c850b0da132715 -->
+<!-- innholds-hash: aa6281d7a45d7539a6dbc4046c7e76fc2ddc1a69c46c741e608df04750e5321c -->
 
 # Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-17T04:35:45Z
+- **Sist hentet:** 2026-07-17T10:10:33Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200265
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784260948481+0200)/",
+  "respons_dato_tid": "/Date(1784282728332+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17524,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784260845550+0200)/",
+    "respons_dato_tid": "/Date(1784282497624+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200265,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
@@ -200,4 +200,5 @@
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
+- **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)

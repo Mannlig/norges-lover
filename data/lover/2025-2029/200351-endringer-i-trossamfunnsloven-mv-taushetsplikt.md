@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9367a63016b98037953608ad7fd7267f50df76a3d3cfebe6070dbf2a3bd6e508 -->
+<!-- innholds-hash: dc1242e2530bfe392e308b78c875b0c051af8bcda3a100d7aa63cc37f84a1eac -->
 
 # Endringer i trossamfunnsloven mv. (taushetsplikt)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-17T04:35:45Z
+- **Sist hentet:** 2026-07-17T10:10:33Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200351
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784260948481+0200)/",
+  "respons_dato_tid": "/Date(1784282728332+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784260845550+0200)/",
+    "respons_dato_tid": "/Date(1784282497624+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200351,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -188,4 +188,5 @@
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
+- **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)

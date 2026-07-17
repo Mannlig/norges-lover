@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f463b3d98bcc4d7067de2dee37061bbf7fb5b5ebc49525f67401a1428d67b88 -->
+<!-- innholds-hash: 6240cb3c0a1a81faa19ae3d2b54f7be388133ee7c57537311c6c6e768350453d -->
 
 # Endringer i støtteprosessloven (registreringsplikt)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-17T04:35:45Z
+- **Sist hentet:** 2026-07-17T10:10:33Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200296
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784260948481+0200)/",
+  "respons_dato_tid": "/Date(1784282728332+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -57,7 +57,7 @@
   "innstilling_id": 17526,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784260845550+0200)/",
+    "respons_dato_tid": "/Date(1784282497624+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200296,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784260948481+0200)/",
+      "respons_dato_tid": "/Date(1784282728332+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vitanza",
@@ -245,4 +245,5 @@
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
 - **2026-07-16** Innhold endret (se git-historikk for diff)
+- **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
