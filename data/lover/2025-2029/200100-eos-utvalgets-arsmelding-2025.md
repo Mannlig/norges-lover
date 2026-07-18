@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7036d789d6883b87aa4fc8e31500d1d7913a76a817d9d948de61d87cb5bbd011 -->
+<!-- innholds-hash: 6698b16fe57a2e90a53fb039765a09d50b3347ba9d6db282f7c1c6c77223ed04 -->
 
 # EOS-utvalgets årsmelding 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-18T09:31:22Z
+- **Sist hentet:** 2026-07-18T15:05:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200100
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784365789527+0200)/",
+  "respons_dato_tid": "/Date(1784383888675+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -57,7 +57,7 @@
   "innstilling_id": 17399,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784365274120+0200)/",
+    "respons_dato_tid": "/Date(1784383285929+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200100,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
@@ -75,7 +75,7 @@
       "id": "LISSEL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -208,5 +208,6 @@
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)

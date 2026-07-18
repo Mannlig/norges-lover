@@ -1,4 +1,4 @@
-<!-- innholds-hash: a92cd875b271d446f41331a97c68d760176fd87a19f4884caa87d23f8197c673 -->
+<!-- innholds-hash: 2c9aa7f3e92413e90ae36ae7487c49d8799281e49830076b6d3b18b09b1e5ed1 -->
 
 # Representantforslag fra stortingsrepresentantene Rune Midtun, Bård Hoksrud, May Helen Hetland Ervik, Trond Helleland, Aleksander Stokkebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om salg av Haugesund Lufthavn Karmøy
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-18T09:31:22Z
+- **Sist hentet:** 2026-07-18T15:05:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200299
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784365789527+0200)/",
+  "respons_dato_tid": "/Date(1784383888675+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
@@ -44,7 +44,7 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -60,16 +60,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101944800000+0200)/",
+      "foedselsdato": "/Date(101948400000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
@@ -94,7 +94,7 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
@@ -119,7 +119,7 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
@@ -144,7 +144,7 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -160,7 +160,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
@@ -169,7 +169,7 @@
       "id": "RUNMID",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -185,16 +185,16 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
-      "foedselsdato": "/Date(-236052000000+0200)/",
+      "foedselsdato": "/Date(-236048400000+0200)/",
       "fornavn": "Trond",
       "id": "TROH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -215,7 +215,7 @@
   "innstilling_id": 17447,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784365274120+0200)/",
+    "respons_dato_tid": "/Date(1784383285929+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -224,7 +224,7 @@
   "sak_fremmet_id": 200299,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784365789527+0200)/",
+      "respons_dato_tid": "/Date(1784383888675+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
@@ -233,7 +233,7 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784336561281+0200)/",
+        "respons_dato_tid": "/Date(1784379762613+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -399,5 +399,6 @@
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
