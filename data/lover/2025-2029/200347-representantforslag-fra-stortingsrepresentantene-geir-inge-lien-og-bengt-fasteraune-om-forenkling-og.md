@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6cd3bf60afe291ea46fb00407cd7bfabf67536971e90e8352ce2216c7fe6db9f -->
+<!-- innholds-hash: 564bf810f0107cde6295d1c23cb7115d4b0fe8e7fb9ba662d5c5c5fc4e57fb40 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-18T03:22:38Z
+- **Sist hentet:** 2026-07-18T09:31:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200347
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784343734396+0200)/",
+  "respons_dato_tid": "/Date(1784365789527+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784343734396+0200)/",
+      "respons_dato_tid": "/Date(1784365789527+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784343734396+0200)/",
+      "respons_dato_tid": "/Date(1784365789527+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784343734396+0200)/",
+      "respons_dato_tid": "/Date(1784365789527+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
@@ -90,7 +90,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784343644400+0200)/",
+    "respons_dato_tid": "/Date(1784365274120+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -227,4 +227,5 @@
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
 - **2026-07-17** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
