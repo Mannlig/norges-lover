@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6afcc6af0acd12aa8c363a51991dfb40f59135df53947de5b4abe58a66d602c4 -->
+<!-- innholds-hash: 5122a2e3f23d210a12f0d377aebb956c618c6e41a1430dade75ad7835dbd953d -->
 
 # Care benefit (home with a child who is ill) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger/en
-- **Sist hentet:** 2026-06-29T17:57:53Z
+- **Sist hentet:** 2026-07-18T00:30:54Z
 
 ## Innhold
 
@@ -186,7 +186,7 @@ You can share care days with the other parent when you are sole caregiver of chi
 
 #### Sharing with current spouse or partner
 
-You can share up to 10 care days with a partner you have lived with for at least 12 months, or with your current spouse. This applies if you do not have children together or if your partner/spouse does not already have care days for their own children.
+You can share up to 10 care days with a partner you have lived with for at least 12 months, or with your current spouse.
 
 Watch video: How many care days are you entitled to?
 
@@ -445,7 +445,7 @@ Complaint to the Nav Appeals Management Unit
 
 Appeals to the Nav Appeals Management Unit
 
-Updated 06/24/2026
+Updated 07/10/2026
 
 
 #### Chat with us
@@ -454,7 +454,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -466,7 +466,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -476,3 +476,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

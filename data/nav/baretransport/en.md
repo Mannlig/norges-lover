@@ -1,11 +1,11 @@
-<!-- innholds-hash: 641fd985e922b61119a092a78a285f4903dc2a0b391c7e4c8bb89dead74e305b -->
+<!-- innholds-hash: 9088a7ce537b8dcdd05cf0ba1c7e4c0625a0c41d5463fd10c587538e17d0c62e -->
 
 # Allowance for transportation of the deceased - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/baretransport/en
-- **Sist hentet:** 2026-06-18T00:41:03Z
+- **Sist hentet:** 2026-07-18T00:18:23Z
 
 ## Innhold
 
@@ -117,7 +117,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -129,7 +129,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -138,3 +138,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

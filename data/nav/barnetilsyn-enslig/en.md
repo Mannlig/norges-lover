@@ -1,11 +1,11 @@
-<!-- innholds-hash: ebd6064506143079741e91f508d6e37f31b33b0dd22616c8eac4a67fbe6121f4 -->
+<!-- innholds-hash: 4cca239b3f99db76581fc114d28c24ddce9c80336c471eb67b53adc934d51b9e -->
 
 # Child care benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-enslig/en
-- **Sist hentet:** 2026-07-08T20:59:09Z
+- **Sist hentet:** 2026-07-18T00:20:25Z
 
 ## Innhold
 
@@ -467,7 +467,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -479,7 +479,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -490,3 +490,4 @@ Closed now, opens at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

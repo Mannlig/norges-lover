@@ -1,11 +1,11 @@
-<!-- innholds-hash: a2bd2711eafd237c097c16b18f25641f577194c694b8ed528065b9852cd39430 -->
+<!-- innholds-hash: 277ff58cbc18c38092e34c3f25b1cf0aa79962b663730b12239c1759b2160816 -->
 
 # Assistance allowance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpestonad/en
-- **Sist hentet:** 2026-06-18T00:49:16Z
+- **Sist hentet:** 2026-07-18T00:26:48Z
 
 ## Innhold
 
@@ -168,7 +168,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -180,7 +180,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -189,3 +189,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

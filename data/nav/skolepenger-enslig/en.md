@@ -1,11 +1,11 @@
-<!-- innholds-hash: fcbbe28051cf36b72b8df90ff179d4c1a45a3e40dba751a4f96f05a5d1743c2e -->
+<!-- innholds-hash: d498e796835ee7f954a6a4a9c21958f2226b2875372cebc69a1cb7338af1e070 -->
 
 # Support for school fees for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skolepenger-enslig/en
-- **Sist hentet:** 2026-07-08T21:12:32Z
+- **Sist hentet:** 2026-07-18T00:33:41Z
 
 ## Innhold
 
@@ -373,7 +373,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -385,7 +385,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -396,3 +396,4 @@ Closed now, opens at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

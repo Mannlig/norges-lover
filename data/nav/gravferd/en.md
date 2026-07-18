@@ -1,11 +1,11 @@
-<!-- innholds-hash: e43b24532c7e14cf5442a88fa0bdebe965c8dd18c407df22dbdfa025b8d24364 -->
+<!-- innholds-hash: 9710a01cd06afcd58b246b5cfcc9d4898f90f32efdd3f8975af3ff870fe3ed51 -->
 
 # Funeral grant - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gravferd/en
-- **Sist hentet:** 2026-06-18T00:47:52Z
+- **Sist hentet:** 2026-07-18T00:25:25Z
 
 ## Innhold
 
@@ -167,7 +167,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -179,7 +179,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -188,3 +188,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

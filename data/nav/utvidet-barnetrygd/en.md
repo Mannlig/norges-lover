@@ -1,11 +1,11 @@
-<!-- innholds-hash: af6fee003c7db127e9f6b12279d73383b7b316e7ea72181fe029cab8e6bb8dad -->
+<!-- innholds-hash: 31053a9863798327ca2e37efd68edd4b8fbd1e7bb7ea18321c2c914aedede5b5 -->
 
 # Extended child benefit  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utvidet-barnetrygd/en
-- **Sist hentet:** 2026-06-29T18:06:46Z
+- **Sist hentet:** 2026-07-18T00:39:50Z
 
 ## Innhold
 
@@ -324,7 +324,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -336,7 +336,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -346,3 +346,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

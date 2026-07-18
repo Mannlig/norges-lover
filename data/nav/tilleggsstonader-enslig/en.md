@@ -1,11 +1,11 @@
-<!-- innholds-hash: 397bb845b98a732b78c20c80338339e1f11259a69a3746c93fb8cc483df9c7ea -->
+<!-- innholds-hash: 9f254649b9573640b94037067790e8bf2d9d45abf92435cf355fb86e06d7e6a6 -->
 
 # Supplemental benefit for single parents - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-enslig/en
-- **Sist hentet:** 2026-07-08T21:15:16Z
+- **Sist hentet:** 2026-07-18T00:36:23Z
 
 ## Innhold
 
@@ -367,7 +367,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Find your local Nav office
@@ -375,7 +375,7 @@ Closed now, opens at 9am
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -386,3 +386,4 @@ Closed now, opens at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-08** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

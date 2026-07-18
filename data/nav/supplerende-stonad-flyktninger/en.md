@@ -1,11 +1,11 @@
-<!-- innholds-hash: bc924d741da89529c480f294e0bb784f86223a8b364218f45f8ebd24924c6a7f -->
+<!-- innholds-hash: 31c17136199912e9168952d74101b09630589d9f7705e4197582f2f4dc23fa58 -->
 
 # Supplementary benefit for disabled refugees under the age of 67 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/supplerende-stonad-flyktninger/en
-- **Sist hentet:** 2026-06-18T00:57:01Z
+- **Sist hentet:** 2026-07-18T00:34:21Z
 
 ## Innhold
 
@@ -199,7 +199,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -211,7 +211,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -220,3 +220,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

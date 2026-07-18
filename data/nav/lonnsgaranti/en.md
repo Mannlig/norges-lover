@@ -1,11 +1,11 @@
-<!-- innholds-hash: 732e749a9eecaf34c523c807eba31f911815da4dbb22fba98bd2fe34aa1094d7 -->
+<!-- innholds-hash: 150d874ebd3f439c72e2b6dbb5403f5321d8f8f38d549e087eb8c0857e14b89c -->
 
 # Wage guarantee - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lonnsgaranti/en
-- **Sist hentet:** 2026-06-18T00:50:42Z
+- **Sist hentet:** 2026-07-18T00:28:09Z
 
 ## Innhold
 
@@ -272,7 +272,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -284,7 +284,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -293,3 +293,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1691d8052fa457be2dec09f5040a3b7d778512f61d5860dc8586897a9d1b085c -->
+<!-- innholds-hash: 4aa00b2d42a53a869926cbf39eb76a3b9289c3dfe8cafa30839d2e2e86f92fbb -->
 
 # Fill in employment status form – work assessment allowance (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-aap/en
-- **Sist hentet:** 2026-06-18T01:03:15Z
+- **Sist hentet:** 2026-07-18T00:40:31Z
 
 ## Innhold
 
@@ -380,7 +380,7 @@ How to complain:
 - Write that your complaint is about the employment status form.
 Read more about your
 
-Updated 05/28/2026
+Updated 07/16/2026
 
 
 #### Chat with us
@@ -389,7 +389,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -401,7 +401,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -410,3 +410,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

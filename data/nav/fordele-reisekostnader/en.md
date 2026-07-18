@@ -1,11 +1,11 @@
-<!-- innholds-hash: 854b5219a59a8e35c99d3b88247637369bf62b199afe19c10ea476cfaa3e5baf -->
+<!-- innholds-hash: e5b162fe0965f500f35f9ae42accc40838ecf8c98eff0b64f34f2e2a76a0b54b -->
 
 # Distribute travel costs for visiting arrangements - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fordele-reisekostnader/en
-- **Sist hentet:** 2026-06-18T01:05:54Z
+- **Sist hentet:** 2026-07-18T00:43:14Z
 
 ## Innhold
 
@@ -118,7 +118,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -130,7 +130,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -139,3 +139,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

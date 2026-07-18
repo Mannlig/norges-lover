@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa740bdc94270dca71203828e467f42c2a5fbb70703e0df2fd35710d6814b6e8 -->
+<!-- innholds-hash: 0115211cab566c81f4742e3aee5b2bbe4d780a14e5bc33c089da83bd1450eb11 -->
 
 # Travel allowance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reisetilskudd/en
-- **Sist hentet:** 2026-06-18T00:55:37Z
+- **Sist hentet:** 2026-07-18T00:33:01Z
 
 ## Innhold
 
@@ -141,7 +141,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -153,7 +153,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -162,3 +162,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

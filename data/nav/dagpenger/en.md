@@ -1,11 +1,11 @@
-<!-- innholds-hash: e2ed5ff75014e489f8c3bab17e2e2cbbc3ca7a892a727a2233d49b219e216812 -->
+<!-- innholds-hash: 197dc7d4ab9ff2fca0b08eaac8eb7cfd3e7443ef483542fd416486872808a146 -->
 
 # Unemployment benefit (dagpenger) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger/en
-- **Sist hentet:** 2026-06-29T17:48:54Z
+- **Sist hentet:** 2026-07-18T00:21:52Z
 
 ## Innhold
 
@@ -967,7 +967,7 @@ You can read about
 
 If you travel abroad on holiday, you will not receive unemployment benefit for the days you are gone.
 
-However, if you are travelling to an EEA country to attend a job interview, you may still receive unemployment benefit. You must notify Nav before you travel. If you are attending a job interview, you can stay in the EEA country for up to three days.
+However, if you are travelling to an EEA country to attend a job interview, you may still receive unemployment benefit. You must
 
 If you move abroad to apply for jobs there, you can in some cases keep the Norwegian unemployment benefit for up to 3 months.
 
@@ -1017,7 +1017,7 @@ If you have
 
 Do you want
 
-Updated 06/18/2026
+Updated 07/17/2026
 
 
 #### Chat with us
@@ -1026,7 +1026,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -1038,7 +1038,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -1048,3 +1048,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

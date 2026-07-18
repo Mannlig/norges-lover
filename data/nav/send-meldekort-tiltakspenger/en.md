@@ -1,11 +1,11 @@
-<!-- innholds-hash: 58eccf65e46fdd2710c6d2cc56838dff4790fe28cd332ded84973f74c081ce17 -->
+<!-- innholds-hash: 62b17699575b74ab4155649ced44e5d5e010842a14fb74b17cb2a4f9e1f55132 -->
 
 # Fill out employment status form – employment scheme benefits - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-tiltakspenger/en
-- **Sist hentet:** 2026-06-29T18:08:55Z
+- **Sist hentet:** 2026-07-18T00:41:56Z
 
 ## Innhold
 
@@ -197,7 +197,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -209,7 +209,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -219,3 +219,4 @@ Closed now, opens at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
+- **2026-07-18** Innhold endret (se git-historikk for diff)

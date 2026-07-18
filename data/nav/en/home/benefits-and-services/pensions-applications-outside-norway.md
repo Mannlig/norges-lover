@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7fd0161bd94da2f62a111c15d828719bed99abc9422c2ac70837f46f5a52d52c -->
+<!-- innholds-hash: 933db4fe0390301dd6e6b4a0217e26ba1010b2a8fd0ea4e45a048f56f17f7893 -->
 
 # Residents in Norway: How to apply for a pension abroad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/en/home/benefits-and-services/pensions-applications-outside-norway
-- **Sist hentet:** 2026-06-18T01:10:43Z
+- **Sist hentet:** 2026-07-18T00:48:08Z
 
 ## Innhold
 
@@ -98,14 +98,14 @@ Updated 09/16/2025
 
 #### Call us at 55 55 33 34
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Chat with us
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -114,3 +114,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

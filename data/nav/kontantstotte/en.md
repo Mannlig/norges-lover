@@ -1,11 +1,11 @@
-<!-- innholds-hash: 152eaad03ee528af9261a53095a52871c949e6c89e87ca8aca3e7c2b261d5b42 -->
+<!-- innholds-hash: 2cf84e956a7f7b7198e24beb61da01f5fadb82cedcb291cfa86aa637a4e2a72c -->
 
 # Cash-for-care benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte/en
-- **Sist hentet:** 2026-06-18T00:50:00Z
+- **Sist hentet:** 2026-07-18T00:27:28Z
 
 ## Innhold
 
@@ -233,7 +233,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -245,7 +245,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -254,3 +254,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

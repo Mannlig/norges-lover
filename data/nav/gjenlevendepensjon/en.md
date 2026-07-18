@@ -1,11 +1,11 @@
-<!-- innholds-hash: 85b4754b53c4a0affeef5ae7474681377a143274edfbd7406d919e84a49012ea -->
+<!-- innholds-hash: 6cf45f655818049a9ce97b37972cb24b23135457c573753827ddba1d36328b64 -->
 
 # Survivor’s pension - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gjenlevendepensjon/en
-- **Sist hentet:** 2026-06-18T00:47:10Z
+- **Sist hentet:** 2026-07-18T00:24:43Z
 
 ## Innhold
 
@@ -344,7 +344,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -356,7 +356,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 34
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -365,3 +365,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1b834683bc611e5c07233fddd1668b138da7ca2f2f3718f1c62d1c54419ee8a3 -->
+<!-- innholds-hash: d64d2d3fb90b589bdbc73843c4cb4258f9ed9847f3f471254c7b9fd987a65dd8 -->
 
 # Basic benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnstonad/en
-- **Sist hentet:** 2026-06-18T00:48:34Z
+- **Sist hentet:** 2026-07-18T00:26:05Z
 
 ## Innhold
 
@@ -176,7 +176,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -188,7 +188,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -197,3 +197,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-07-18** Innhold endret (se git-historikk for diff)
