@@ -1,11 +1,11 @@
-<!-- innholds-hash: 94653d44a95b2220bb4221d3c27b57d81c8cc1c7cabb445181188c285f99adc7 -->
+<!-- innholds-hash: 693bc1ee330709863311091d6046286f2d5c014cd70204e1b2f626ae90c3dd84 -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist hentet:** 2026-07-11T07:55:00Z
+- **Sist hentet:** 2026-07-19T06:28:03Z
 
 ## Innhold
 
@@ -981,7 +981,7 @@ Du kan lese om egne regler som gjelder for
 
 Reiser du på ferie til utlandet vil du ikke få utbetalt dagpenger for de dagene du er borte.
 
-Reiser du til et EØS-land for å delta på jobbintervju, kan du likevel få utbetalt dagpenger. Da må du si ifra om dette til Nav før du reiser. Skal du delta på jobbintervju kan du være i EØS-landet i opptil tre dager.
+Reiser du til et EØS-land for å delta på jobbintervju, kan du likevel få utbetalt dagpenger. Da må du
 
 Flytter du til et EØS-land for å søke jobb der, kan du i noen tilfeller beholde dagpengene dine fra Norge i opptil 3 måneder.
 
@@ -1030,7 +1030,7 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med
 
 Ønsker du
 
-Oppdatert 18.06.2026
+Oppdatert 17.07.2026
 
 
 #### Chat med oss
@@ -1039,7 +1039,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -1049,7 +1049,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -1063,3 +1063,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-19** Innhold endret (se git-historikk for diff)

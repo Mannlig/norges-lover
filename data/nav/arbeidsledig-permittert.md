@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8499c0284a89a371e6dc5094f435fdba05b62410cf98b9e34b9b9aacf22aa105 -->
+<!-- innholds-hash: b10867854e6bd400eb14a6efe4a3fd9dac976b5f457d9254850726c9f3d3f21c -->
 
 # Er arbeidsledig eller permittert - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsledig-permittert
-- **Sist hentet:** 2026-07-11T07:52:40Z
+- **Sist hentet:** 2026-07-19T06:25:45Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -109,3 +109,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-19** Innhold endret (se git-historikk for diff)

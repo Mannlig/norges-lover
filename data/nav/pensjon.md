@@ -1,11 +1,11 @@
-<!-- innholds-hash: 846aafc1445723fb73fe0c83fe01c2a51b4e7b0193bbda32c32cb2c46aebd8ce -->
+<!-- innholds-hash: 977968ccacc15a74162a4813060337eb7910097d6e732075fa8cf8c5d8bce95a -->
 
 # Pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon
-- **Sist hentet:** 2026-07-11T08:18:53Z
+- **Sist hentet:** 2026-07-19T06:52:32Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 #### Skriv til oss
@@ -37,7 +37,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 
 ---
@@ -49,3 +49,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-07-19** Innhold endret (se git-historikk for diff)
