@@ -1,11 +1,11 @@
-<!-- innholds-hash: e4db90727e0ef3e53acad49d211511afd2c3d09eddd647c4a0ebeae072abef36 -->
+<!-- innholds-hash: 56c57e4c82142ae8887c4945125a4a77f59713360b333e2f196b9c16e4b9da5c -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/uforetrygd
-- **Sist hentet:** 2026-07-12T11:28:25Z
+- **Sist hentet:** 2026-07-20T10:06:43Z
 
 ## Innhold
 
@@ -86,7 +86,7 @@ Oppdatert 15.06.2026
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Chat
@@ -113,3 +113,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f32ab8f23cf7e5e88e39e2ef6587a25b631ab53f04ae20d53a780b806ccaaec6 -->
+<!-- innholds-hash: 4e403cf0c47b97d318056d1c2c78e00b53941f914546d40aad6691bd553ff32d -->
 
 # Har ansvar for andres barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/andres-barn
-- **Sist hentet:** 2026-07-12T11:18:07Z
+- **Sist hentet:** 2026-07-20T09:56:16Z
 
 ## Innhold
 
@@ -123,7 +123,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -133,7 +133,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -148,3 +148,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 52913e4d5c396ce12260776eb8eda85fcb5cea94c6ef83db38dd8915f32bcd0b -->
+<!-- innholds-hash: 0171ef29a894cf062c579fba056d4c61c2c9c329f0addccd0244fc6d31a0d5de -->
 
 # Har vært syk eller skadet lenge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syk-lenge
-- **Sist hentet:** 2026-07-12T11:01:13Z
+- **Sist hentet:** 2026-07-20T09:39:21Z
 
 ## Innhold
 
@@ -74,7 +74,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -97,3 +97,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

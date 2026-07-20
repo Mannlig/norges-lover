@@ -1,11 +1,11 @@
-<!-- innholds-hash: 777019220bf2b243456e75d89b972b9d8382f206b5486d7c3c6c6b1164a305e8 -->
+<!-- innholds-hash: 3b2ba58a16b49ae41920b641833d0407c2b7a22f020c0f6e9b2f0de2aab7c7ed -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
-- **Sist hentet:** 2026-07-12T11:08:22Z
+- **Sist hentet:** 2026-07-20T09:46:32Z
 
 ## Innhold
 
@@ -1386,7 +1386,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -1396,7 +1396,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -1412,3 +1412,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

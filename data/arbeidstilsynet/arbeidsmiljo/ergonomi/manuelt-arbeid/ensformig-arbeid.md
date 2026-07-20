@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3f0770ccae10be07224aae4dca23ffb4bbdf39a14f56c1a31a7b63d29fec1609 -->
+<!-- innholds-hash: c0eeb07521dbb7e21810ec5af529c719278c7d6790b7bfdd5a981399ebcaf25e -->
 
 # Ensformig eller tempostyrt arbeid
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/manuelt-arbeid/ensformig-arbeid/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:44:48Z
+- **Sist hentet:** 2026-07-20T12:47:32Z
 
 ## Innhold
 
@@ -74,6 +74,9 @@ Det er en viss risiko for at ansatte utvikler muskel- og skjelettplager på kort
 Det er liten risiko for muskel og skjelettplager. Dersom arbeidet er preget spesielle forhold, eller hvis arbeidstaker likevel pådrar seg belastningsplager, må arbeidsgiver foreta en nærmere vurdering.
 
 
+### Mer informasjon
+
+
 ### Regelverk
 
 
@@ -88,3 +91,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-20** Innhold endret (se git-historikk for diff)

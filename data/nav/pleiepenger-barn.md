@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa6b22489654f1389c3d9a1d5b67ae4eba13c474b23f5ed25f8c8356ed3009c4 -->
+<!-- innholds-hash: fd0e251a6397e3bf2c8a73edd890d76fabc2ee50ad3b3284b50050b0fd58ac62 -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-barn
-- **Sist hentet:** 2026-07-12T11:13:55Z
+- **Sist hentet:** 2026-07-20T09:52:06Z
 
 ## Innhold
 
@@ -623,7 +623,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -633,7 +633,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -648,3 +648,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

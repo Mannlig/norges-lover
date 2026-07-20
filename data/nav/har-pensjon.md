@@ -1,11 +1,11 @@
-<!-- innholds-hash: ad17f921cc223432b62bd7d900f879760beb5a74bc9d0c6797c8bc77b9dd4378 -->
+<!-- innholds-hash: 8ae1866569f54211bcd342f0419d6d714c059ff66ca7a9cfda66f120e9bf9bfa -->
 
 # Har pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-pensjon
-- **Sist hentet:** 2026-07-12T11:49:21Z
+- **Sist hentet:** 2026-07-20T10:27:50Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
-Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen blir etterbetalt i løpet av september. Fra oktober får du utbetalt ny sats.
+Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen gjelder den gamle alderspensjonen for dem født i 1953 eller tidligere, og blir gradvis lavere til og med 1962-kullet.
 
 Logg inn for å se utbetalingene dine:
 
@@ -266,7 +266,7 @@ Her finner du informasjon om pensjonsordningene Nav administrerer.
 
 Hvis du har pensjon fra andre pensjonsordninger, finner du informasjon hos pensjonsleverandøren din.
 
-Oppdatert 25.06.2026
+Oppdatert 20.07.2026
 
 
 #### Chat med oss
@@ -275,7 +275,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -285,7 +285,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -301,3 +301,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

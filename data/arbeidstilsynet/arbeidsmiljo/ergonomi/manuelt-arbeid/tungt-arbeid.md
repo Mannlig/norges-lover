@@ -1,4 +1,4 @@
-<!-- innholds-hash: bdf35b4ebfa1037b7ffc9cddc174a62a03f92e36f5b9be7d1f888ebb79266fe6 -->
+<!-- innholds-hash: 005d71bbb422cc1bff0934efcf0483b3cf90ca1036ca84319a711771c952c7c7 -->
 
 # Tungt arbeid
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/manuelt-arbeid/tungt-arbeid/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:46:19Z
+- **Sist hentet:** 2026-07-20T12:48:30Z
 
 ## Innhold
 
@@ -130,7 +130,7 @@ Arbeidsgiver skal redusere risikoen for at ansatte blir utsatt for helseskade. F
 - Unngå at bæreavstanden er for er lang. Bruk heller hjelpemidler.
 - Vurder alltid belastningen og risikoen opp mot den enkelte arbeidstakers forutsetninger og helse.
 
-### Les mer
+### Mer informasjon
 
 
 #### Er du BHT-ansatt?
@@ -150,3 +150,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-07-20** Innhold endret (se git-historikk for diff)

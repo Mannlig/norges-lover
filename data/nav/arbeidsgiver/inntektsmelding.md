@@ -1,11 +1,11 @@
-<!-- innholds-hash: 498551bc5ea645a39c2cec20f898fc5ca7123dfc1e7402b197f269d82a2ff742 -->
+<!-- innholds-hash: e5ff5fa8aab99906a35f1931d2104ac5aa9439d97fd7fb036f0d06d6b2ae102d -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding
-- **Sist hentet:** 2026-07-12T10:41:01Z
+- **Sist hentet:** 2026-07-20T09:19:22Z
 
 ## Innhold
 
@@ -463,7 +463,7 @@ Oppdatert 08.07.2026
 
 #### Ring oss på 55 55 33 36
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Chat
@@ -485,3 +485,4 @@ Alltid åpen
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

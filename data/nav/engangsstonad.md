@@ -1,11 +1,11 @@
-<!-- innholds-hash: 55e5ad81996abaa489225aed4826876052ad6e10a2b783f84549b96e55eae55a -->
+<!-- innholds-hash: 6a117d53e511aff882202a391487fbf07566c6a25cd8a518aa7c5bac61123504 -->
 
 # Engangsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/engangsstonad
-- **Sist hentet:** 2026-07-12T11:07:41Z
+- **Sist hentet:** 2026-07-20T09:45:51Z
 
 ## Innhold
 
@@ -247,7 +247,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -257,7 +257,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -272,3 +272,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

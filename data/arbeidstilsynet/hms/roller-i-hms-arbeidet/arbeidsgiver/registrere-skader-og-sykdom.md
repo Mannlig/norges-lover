@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99d13ebe3758fe3bc67e93dc6245561cbd5527608e4612f9d83ccbe619558be6 -->
+<!-- innholds-hash: 356df1d2c78d064a840e88e9a78f9cb8736c2220343eabe6daf41e944e2f2028 -->
 
 # Registrere skader og sykdom
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/arbeidsgiver/registrere-skader-og-sykdom/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:49:54Z
+- **Sist hentet:** 2026-07-20T11:26:19Z
 
 ## Innhold
 
@@ -15,7 +15,13 @@
 
 Arbeidsgiver skal sørge for at alle personskader som oppstår under arbeid, blir registrert. Det samme gjelder sykdom som kan skyldes arbeidet eller forholdene på arbeidsplassen.
 
+
+### Tilgang til registeret
+
 Registeret skal være tilgjengelig for Arbeidstilsynet, verneombud, bedriftshelsetjenesten og arbeidsmiljøutvalget.
+
+
+### Plikt til å informere om skade eller sykdom
 
 Arbeidstakere har plikt til å informere arbeidsgiver dersom de blir skadet i arbeidet eller pådrar seg sykdom som de selv mener skyldes arbeidet eller forholdene på arbeidsplassen. Det er viktig at arbeidsgiver informerer arbeidstakerne sine om denne plikten.
 
@@ -61,9 +67,9 @@ Den innsamlede informasjonen gir et godt grunnlag for å kartlegge både fysiske
 Arbeidsulykker der arbeidstakeren blir alvorlig skadet eller omkommer, skal straks meldes til Arbeidstilsynet og nærmeste politimyndighet. Arbeidsgiver skal også sende skademelding til NAV når en arbeidstaker blir påført en skade eller sykdom som kan gi rett til yrkesskadedekning.
 
 
-#### Register over eksponerte arbeidstakere
+### Register over eksponerte arbeidstakere
 
-Arbeidsgiver skal også føre register over arbeidstakere som er utsatt for visse helseskadelige forhold på arbeidsplassen. Les mer om dette:
+Arbeidsgiver skal også føre register over arbeidstakere som er utsatt for visse helseskadelige forhold på arbeidsplassen.
 
 
 ### Regelverk
@@ -80,3 +86,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-20** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: d195562ccf0e18d74e57e7e006be078aaecb3fe45648c76cb41007479ed85475 -->
+<!-- innholds-hash: b982bd6f6afefe4fddeb359d680c6303641261500c9f4e82686103cc9056d664 -->
 
 # Forsikring – sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forsikring-sykepenger
-- **Sist hentet:** 2026-07-12T10:45:53Z
+- **Sist hentet:** 2026-07-20T09:24:09Z
 
 ## Innhold
 
@@ -152,7 +152,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -162,7 +162,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -177,3 +177,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

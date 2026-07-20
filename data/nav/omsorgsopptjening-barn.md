@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4b55e61c432c9332f1dc88a06092d3dfc3d45f3a2429ec96c50ff459563efa79 -->
+<!-- innholds-hash: e8dfd6a5f88875fbef26c3884c71a98c3b0a22fd4b90a8989dfdd4ce9834478c -->
 
 # Pensjonsopptjening ved omsorg for barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsopptjening-barn
-- **Sist hentet:** 2026-07-12T11:13:12Z
+- **Sist hentet:** 2026-07-20T09:51:26Z
 
 ## Innhold
 
@@ -201,7 +201,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -211,7 +211,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -226,3 +226,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)

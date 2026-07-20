@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7c6bc8f3036743e9d7978969d2694737688ac452ade6dcc977ee70e915056794 -->
+<!-- innholds-hash: cf983ed2249aad934234b5b69fe21d85e8af18c2ac55bf5cb04282b4197d480a -->
 
 # Tillitsvalgt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/tillitsvalgte/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:54:51Z
+- **Sist hentet:** 2026-07-20T11:30:17Z
 
 ## Innhold
 
@@ -27,6 +27,9 @@ Vanligvis vil den tillitsvalgte være valgt av og blant de fagorganiserte arbeid
 På andre arbeidsplasser kan en tillitsvalgt være en samlende person som arbeidstakerne i fellesskap har valgt for å representere dem overfor ledelsen. Dette kan være tilfeller der arbeidstakerne ikke er organisert i en fagforening, men der arbeidsgiver og arbeidstakerne sammen blir enige om en tillitsvalgtsordning.
 
 I noen tilfeller kan også
+
+
+### Hva er en tillitsvalgt?
 
 Tillitsvalgte i en fagforening skal hjelpe medlemmene å ivareta de generelle arbeidsvilkårene på arbeidsplassen. De kan også bistå i enkeltsaker, for eksempel ved lønnsforhandlinger eller ved konflikter.
 
@@ -65,3 +68,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-07-20** Innhold endret (se git-historikk for diff)

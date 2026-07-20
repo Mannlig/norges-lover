@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6999c61d0b5c6de046c1914e14725349a88eb9894c228bf21c697b4282fb3ae2 -->
+<!-- innholds-hash: ad557697d2a98f6846a68ec608fb48d0e4b0f7b5ce7635ac5d26867806c14487 -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist hentet:** 2026-07-12T11:47:17Z
+- **Sist hentet:** 2026-07-20T10:25:40Z
 
 ## Innhold
 
@@ -1057,7 +1057,7 @@ Alderspensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten
 
 Du vil se den nye satsen på utbetalingen for juni. Sammen med utbetalingen i juni får du også etterbetalt økning av pensjon for mai måned hvis du hadde pensjon i mai.
 
-Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen blir etterbetalt i løpet av september. Fra oktober får du utbetalt ny sats.
+Det er bestemt at satsene for minstepensjon skal øke med 8000 kroner i året fra 1. mai. Økningen gjelder den gamle alderspensjonen for dem født i 1953 eller tidligere, og blir gradvis lavere til og med 1962-kullet.
 
 Minstepensjonen reguleres hvert år med gjennomsnittet av pris- og lønnsveksten, på samme måte som alderspensjon til utbetaling.
 
@@ -1227,7 +1227,7 @@ Hvis du er bosatt i utlandet og får pensjon fra Nav, kan vi be deg om å
 
 Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra Nav.
 
-Oppdatert 25.06.2026
+Oppdatert 20.07.2026
 
 
 #### Chat med oss
@@ -1236,7 +1236,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -1246,7 +1246,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -1262,3 +1262,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)
