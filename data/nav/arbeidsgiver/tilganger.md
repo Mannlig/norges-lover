@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0176909652ad3051540bb44423949bdba6f8f6d5404729c18855703107befdbb -->
+<!-- innholds-hash: 83abb3ce0d49617cd631fe0cf86588472edde9942ca48572c36521c4bbb9df49 -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-07-12T21:08:02Z
+- **Sist hentet:** 2026-07-20T19:47:05Z
 
 ## Innhold
 
@@ -24,7 +24,7 @@ For å få tilgang til Navs tjenester for arbeidsgivere, trenger du riktige tilg
 
 Du logger inn på Altinn og Nav med BankID slik at vi får bekreftet hvem du er og hva du har tilgang til.
 
-Det fører til at du inntil videre må bruke både gammel og ny løsning i Altinn for enkelte oppgaver. Les mer om
+Altinn-roller har blitt ersattet av tilgangsspakker. Les mer om
 
 
 #### Fra Nav
@@ -307,7 +307,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 02.07.2026
+Oppdatert 13.07.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -343,3 +343,4 @@ Alltid åpen
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)
