@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2de097b66975f5bf7ca2458b26f1d27187a232bb7dbb6b52f57ca2f143a49cd5 -->
+<!-- innholds-hash: 62a65427d24305382590f6f984d7e0f20f30b5cc80f7aa6c936fd3defa2ee96e -->
 
 # Noregs fiskeriavtalar for 2026 og fisket etter avtalane i 2024 og 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-20T22:57:15Z
+- **Sist hentet:** 2026-07-21T06:06:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200137
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784585703438+0200)/",
+  "respons_dato_tid": "/Date(1784613758803+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784585703438+0200)/",
+      "respons_dato_tid": "/Date(1784613758803+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 8,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784585703438+0200)/",
+      "respons_dato_tid": "/Date(1784613758803+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784585703438+0200)/",
+      "respons_dato_tid": "/Date(1784613758803+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
@@ -57,7 +57,7 @@
   "innstilling_id": 17353,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784584956611+0200)/",
+    "respons_dato_tid": "/Date(1784613641188+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200137,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784585703438+0200)/",
+      "respons_dato_tid": "/Date(1784613758803+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
@@ -75,14 +75,14 @@
       "id": "HARVAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784545218803+0200)/",
+        "respons_dato_tid": "/Date(1784588417418+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784502018531+0200)/",
+        "respons_dato_tid": "/Date(1784588417371+0200)/",
         "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
@@ -247,3 +247,4 @@
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)

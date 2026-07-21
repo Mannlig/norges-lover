@@ -1,11 +1,11 @@
-<!-- innholds-hash: 46c0bf35f7c97826fdd576f5fbb516502a70eba904d1e7ec372d1ba0bacb5806 -->
+<!-- innholds-hash: ce6d231b147a328a5d1754231c72c0389fc845d3d9c14c821d75beae200c0f73 -->
 
 # Har bodd eller jobbet i flere land - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon-utland
-- **Sist hentet:** 2026-07-05T14:42:25Z
+- **Sist hentet:** 2026-07-21T12:03:14Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -97,7 +97,7 @@ Stengt nå, åpner kl. 9
 
 #### Ring oss på 55 55 33 34
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -109,3 +109,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)

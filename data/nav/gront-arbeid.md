@@ -1,11 +1,11 @@
-<!-- innholds-hash: d4161f6d4676c079479dbf889769077629d41717f04ac84579a80a9324ecef6c -->
+<!-- innholds-hash: be3057e4dbb9231ead23dbf58ba99d8320b872424140d4a2bc3743bc4556f81e -->
 
 # Grønt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gront-arbeid
-- **Sist hentet:** 2026-07-05T14:58:10Z
+- **Sist hentet:** 2026-07-21T12:18:49Z
 
 ## Innhold
 
@@ -53,7 +53,7 @@ Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 #### Skriv til oss
@@ -63,7 +63,7 @@ Still oss et spørsmål og få skriftlig svar.
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 
 ---
@@ -76,3 +76,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)

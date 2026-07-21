@@ -1,11 +1,11 @@
-<!-- innholds-hash: fab94d21efd6cb14618e97dbdf0a6e7e28fb468fca4431f958f5a7b863d21b3f -->
+<!-- innholds-hash: d73c51d433868d84582ba43dc40addcaf00533e68929187a194dcd5fa5726f2f -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-07-13T13:30:58Z
+- **Sist hentet:** 2026-07-21T12:11:57Z
 
 ## Innhold
 
@@ -782,11 +782,7 @@ Italia (Land)
 
 Kuwait (Land)
 
-Polen (Land)
-
 Spania (Land)
-
-Storbritannia (Land)
 
 Sveits (Land)
 
@@ -972,6 +968,14 @@ Tekstil og presisjonsarbeid (Kategori)
 
 Trevarearbeid og –foredling (Kategori)
 
+Drift, vedlikehold (Kategori)
+
+Interaksjonsdesign (Kategori)
+
+Ledere av IKT-enheter (Kategori)
+
+Utvikling (Kategori)
+
 Baker og konditor (Kategori)
 
 Kokk (Kategori)
@@ -991,14 +995,6 @@ Speditør og befrakter (Kategori)
 Tog-, sporvogn- og vegtrafikk (Kategori)
 
 Truckfører (Kategori)
-
-Drift, vedlikehold (Kategori)
-
-Interaksjonsdesign (Kategori)
-
-Ledere av IKT-enheter (Kategori)
-
-Utvikling (Kategori)
 
 Andre yrker innen estetiske fag (Kategori)
 
@@ -1070,9 +1066,9 @@ Sesong (Ansettelsesform)
 
 Lærling (Ansettelsesform)
 
-Feriejobb (Ansettelsesform)
-
 Selvstendig næringsdrivende (Ansettelsesform)
+
+Feriejobb (Ansettelsesform)
 
 Heltid (Omfang)
 
@@ -1080,9 +1076,9 @@ Omfang ikke oppgitt (Omfang)
 
 Bachelor eller tilsvarende (Krav om utdanning)
 
-Fag- eller svennebrev (Krav om utdanning)
-
 Master eller tilsvarende (Krav om utdanning)
+
+Fag- eller svennebrev (Krav om utdanning)
 
 Fagskole eller tilsvarende (Krav om utdanning)
 
@@ -1126,7 +1122,21 @@ Nav
 
 Søket ditt
 
-175 stillinger
+199 stillinger
+
+16. juli 2026
+
+Andregangsutlysning: Nav-leder
+
+Arbeidsgiver
+
+Nav Vestnes
+
+Sted
+
+Vestnes
+
+Søk senest torsdag 20. august
 
 1. juli 2026
 
@@ -1156,7 +1166,7 @@ Rognan
 
 Søk senest søndag 2. august
 
-Ny i dag
+13. juli 2026
 
 Veileder / saksbehandler i Nav
 
@@ -1226,6 +1236,20 @@ Sted
 
 Søk senest torsdag 20. august
 
+I går
+
+Kvalitet og internkontroll
+
+Arbeidsgiver
+
+Kvalitetsseksjonen, Nav
+
+Sted
+
+Oslo
+
+Søk senest mandag 17. august
+
 26. juni 2026
 
 Økonomisk rådgiver
@@ -1254,7 +1278,7 @@ Sarpsborg
 
 Søk senest søndag 16. august
 
-Ny i dag
+13. juli 2026
 
 Veileder Nav
 
@@ -1280,33 +1304,33 @@ Oslo
 
 Søk senest mandag 10. august
 
-1. juli 2026
+I går
 
-NAV-rettleiar
-
-Arbeidsgiver
-
-Vestnes kommune Nav-Sosial Kommune
-
-Sted
-
-Vestnes
-
-Søk senest mandag 20. juli
-
-29. juni 2026
-
-Veileder
+Personal- og kompetanseleder for design
 
 Arbeidsgiver
 
-Andøy kommune NAV
+Designseksjonen, Nav
 
 Sted
 
-Andenes
+Oslo
 
-Søk senest torsdag 16. juli
+Søk senest torsdag 20. august
+
+17. juli 2026
+
+Tjenesteutvikler
+
+Arbeidsgiver
+
+Funksjonell brukerstøtte 1, Nav
+
+Sted
+
+Steinkjer
+
+Søk senest søndag 2. august
 
 6. juli 2026
 
@@ -1320,31 +1344,17 @@ Stavanger
 
 Søk senest mandag 10. august
 
-29. juni 2026
-
-Veileder Nav Bergen sentrum sosialtjeneste
+I går
 
 Arbeidsgiver
 
-Bergen kommune
+Færder, Nav
 
 Sted
 
-Bergen
+Nøtterøy
 
-Søk senest søndag 19. juli
-
-9. juli 2026
-
-Arbeidsgiver
-
-Nav Værnes
-
-Sted
-
-Stjørdal
-
-Søk senest søndag 16. august
+Søk senest mandag 10. august
 
 29. juni 2026
 
@@ -1360,6 +1370,18 @@ Lyngseidet
 
 Søk senest søndag 26. juli
 
+9. juli 2026
+
+Arbeidsgiver
+
+Nav Værnes
+
+Sted
+
+Stjørdal
+
+Søk senest søndag 16. august
+
 17. juni 2026
 
 Økonomisk veileder 100 % fast stilling
@@ -1373,6 +1395,20 @@ Sted
 Raufoss
 
 Søk senest mandag 27. juli
+
+I går
+
+Veileder
+
+Arbeidsgiver
+
+Nav Grimstad
+
+Sted
+
+Grimstad
+
+Søk senest søndag 9. august
 
 9. juli 2026
 
@@ -1426,44 +1462,6 @@ Tromsø
 
 Søk senest søndag 16. august
 
-8. juli 2026
-
-Arbeidsgiver
-
-Tromsø, Nav
-
-Sted
-
-Tromsø
-
-Søk senest søndag 9. august
-
-25. juni 2026
-
-Saksbehandler/veileder i boligteam
-
-Arbeidsgiver
-
-NAV avd. for kommunale tjenester, Horten kommune
-
-Sted
-
-Horten
-
-Søk senest søndag 2. august
-
-2. juli 2026
-
-Arbeidsgiver
-
-NAV O-30, Stange kommune
-
-Sted
-
-Stange
-
-Søk senest søndag 16. august
-
 
 ### Var søketreffene relevante?
 
@@ -1481,3 +1479,4 @@ Har du tilbakemeldinger eller noe du savner?
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)
