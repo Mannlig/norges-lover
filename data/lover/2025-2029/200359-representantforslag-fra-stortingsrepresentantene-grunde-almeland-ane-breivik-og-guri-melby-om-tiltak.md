@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4030c9e614f3297508420f722d30777eb09ce8191d2ed907f20c80ef925b8466 -->
+<!-- innholds-hash: 744d1ea6acfd6b68d583bbb7a8a7dca2796a3d333ae43d1a3eabb9f424b84d7a -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-20T15:30:07Z
+- **Sist hentet:** 2026-07-20T22:57:14Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784560260638+0200)/",
+  "respons_dato_tid": "/Date(1784585703250+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 5,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -71,7 +71,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Breivik",
@@ -96,7 +96,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -121,7 +121,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784560260654+0200)/",
+      "respons_dato_tid": "/Date(1784585703266+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -151,7 +151,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784559746818+0200)/",
+    "respons_dato_tid": "/Date(1784584956611+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -282,5 +282,6 @@
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
+- **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)

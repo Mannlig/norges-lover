@@ -1,4 +1,4 @@
-<!-- innholds-hash: d33b9f72230382c378c7cd8997af2bde74988d3fc778d8ae59cbb688689cc170 -->
+<!-- innholds-hash: ae3390d476c5eff005f67c8a1b08a3e6872e4ce73963bdfa96ba06fe1d0090fb -->
 
 # Lån og renter på lån
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-06-11T05:32:19Z
+- **Sist hentet:** 2026-07-21T00:26:07Z
 
 ## Innhold
 
@@ -144,6 +144,12 @@ Sjekk at det du kommer til å ha i lån og betale i renter i løpet av året er 
 
 Arbeidsgiver innrapporterer rentene til oss. Rentefradraget blir beregnet automatisk. I skattemeldingen ser du rentefradraget nederst under "Oppsummering og skatteberegning". Hvis du mener at beløpet er feil, bør du ta kontakt med arbeidsgiveren din.
 
+Har du nedbetalt et fastrentelån til underkurs, er dette en skattepliktig inntekt. Banken rapporterer dette inn til oss, og du ser beløpet i skattemeldingen din som en renteinntekt.
+
+Har du nedbetalt fastrentelån til overkurs, får du fradrag for dette. Banken innrapporterer dette som et rentefradrag, og det er forhåndsutfylt i skattemeldingen din.
+
+Hvis du mener at beløpene er feil, bør du ta kontakt med banken din.
+
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/) av norges-lover-bot.*
@@ -152,3 +158,4 @@ Arbeidsgiver innrapporterer rentene til oss. Rentefradraget blir beregnet automa
 
 - **2026-05-20** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f710c09d285056e25bebba94208236e5adf7860334ee26b3f175e15fc5ccb760 -->
+<!-- innholds-hash: 0e9a3efccac6e70a00a6f97465741e19620a0d3243d26c987e7a92eb70e11b4b -->
 
 # Fyll ut meldekort – arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-aap
-- **Sist hentet:** 2026-07-05T05:58:29Z
+- **Sist hentet:** 2026-07-21T03:19:44Z
 
 ## Innhold
 
@@ -380,7 +380,7 @@ Slik klager du:
 - Oppgi at det gjelder meldekort i begrunnelsen.
 Her finner du mer informasjon om
 
-Oppdatert 26.06.2026
+Oppdatert 16.07.2026
 
 
 #### Chat med oss
@@ -412,3 +412,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-21** Innhold endret (se git-historikk for diff)
