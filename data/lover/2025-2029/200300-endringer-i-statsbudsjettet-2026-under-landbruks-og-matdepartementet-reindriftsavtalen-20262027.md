@@ -1,4 +1,4 @@
-<!-- innholds-hash: bdf8785ecc2440755cd512cf3fac58cecabba8377f498017f4fd89e250c4ba16 -->
+<!-- innholds-hash: 9a3df33787010f07bb7b6448095850ad19b9d72e9b3e02f45f86f9715490e3b6 -->
 
 # Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Reindriftsavtalen 2026/2027)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T09:38:47Z
+- **Sist hentet:** 2026-07-22T17:07:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200300
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784711049082+0200)/",
+  "respons_dato_tid": "/Date(1784736508808+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049082+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -39,7 +39,7 @@
   "innstilling_id": 17525,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784710998650+0200)/",
+    "respons_dato_tid": "/Date(1784736508558+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200300,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049082+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
@@ -57,7 +57,7 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -237,5 +237,6 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 178becd5dca4c7d2cfe8a572d6e7e2ff54268573d03f1237a6063bf822d40597 -->
+<!-- innholds-hash: 8b50539f623b16f18e2c7f8c69a541a22616e481d9c2639f7df66bb7c480e0fb -->
 
 # Representantforslag fra stortingsrepresentant Siren Julianne Jensen om å etablere et skulpturmuseum i Nasjonalgalleriet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T09:38:47Z
+- **Sist hentet:** 2026-07-22T17:07:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200176
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784711049675+0200)/",
+  "respons_dato_tid": "/Date(1784736508808+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049675+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711049675+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049675+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -53,7 +53,7 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -74,7 +74,7 @@
   "innstilling_id": 17419,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784710998650+0200)/",
+    "respons_dato_tid": "/Date(1784736508558+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200176,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049675+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Langfeldt",
@@ -92,7 +92,7 @@
       "id": "MORL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
@@ -268,5 +268,6 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)

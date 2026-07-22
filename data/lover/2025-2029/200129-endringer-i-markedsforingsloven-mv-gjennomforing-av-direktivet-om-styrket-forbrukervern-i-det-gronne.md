@@ -1,4 +1,4 @@
-<!-- innholds-hash: 28f1ed2027ac2b58dc14bb5988cd84814788183eb8d0eb891d7d7bd082999e11 -->
+<!-- innholds-hash: 284293622679ad4eaa5dd706e105e139996697ebdc00a0f8bce71282727ad87a -->
 
 # Endringer i markedsføringsloven mv. (gjennomføring av direktivet om styrket forbrukervern i det grønne skiftet) og samtykke til deltakelse i en beslutning  i EØS-komiteen om innlemmelse  i EØS-avtalen av direktiv (EU) 2024/825
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T09:38:47Z
+- **Sist hentet:** 2026-07-22T17:07:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200129
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784711049660+0200)/",
+  "respons_dato_tid": "/Date(1784736508808+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -75,7 +75,7 @@
   "innstilling_id": 17425,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784710998650+0200)/",
+    "respons_dato_tid": "/Date(1784736508558+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -84,7 +84,7 @@
   "sak_fremmet_id": 200129,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049660+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
@@ -93,7 +93,7 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -266,5 +266,6 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-07-22 15:06 UTC*
+*Sist oppdatert: 2026-07-22 21:23 UTC*
 
 **Antall dokumenter:** 365
 
@@ -352,7 +352,7 @@ Stortinget
 - [Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet](2025-2029/200361-representantforslag-fra-stortingsrepresentantene-marian-hussein-mirell-hoyer-berntsen-anne-lise-gjer.md)
 - [Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett](2025-2029/200362-representantforslag-fra-stortingsrepresentantene-abid-raja-guri-melby-og-grunde-almeland-om-a-gi-sto.md)
 - [Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Tom Staahle om endringer i engangsavgiften for kjøretøy](2025-2029/200363-representantforslag-fra-stortingsrepresentantene-morten-stordalen-hans-andreas-limi-bard-hoksrud-ben.md)
-- [Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy](2025-2029/200364-representantforslag-fra-stortingsrepresentantene-morten-stordalen-hans-andreas-limi-bard-hoksrud-ben.md)
+- [Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik,  Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy](2025-2029/200364-representantforslag-fra-stortingsrepresentantene-morten-stordalen-hans-andreas-limi-bard-hoksrud-ben.md)
 - [Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B](2025-2029/200365-representantforslag-fra-stortingsrepresentantene-bard-hoksrud-dagfinn-henrik-olsen-frank-edvard-sve-.md)
 - [Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om å styrke ytringsfriheten for lærere](2025-2029/200366-representantforslag-fra-stortingsrepresentantene-joel-ystebo-jorunn-gleditsch-lossius-jorgen-h-krist.md)
 - [Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen og Morgan Langfeldt om å tillate digitale lotterier for frivillige organisasjoner og idrettslag](2025-2029/200367-representantforslag-fra-stortingsrepresentantene-silje-hjemdal-liv-gustavsen-og-morgan-langfeldt-om-.md)

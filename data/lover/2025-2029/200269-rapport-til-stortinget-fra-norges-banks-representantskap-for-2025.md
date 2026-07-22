@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2b85c4ad918922b6c30fb3e75339564e6904febce14771aba8f785ba86920ab7 -->
+<!-- innholds-hash: e8eff1b92901df119b99087efbd4d83b38adc8099fe660ab6be41c224d417ff0 -->
 
 # Rapport til Stortinget fra Norges Banks representantskap for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T09:38:47Z
+- **Sist hentet:** 2026-07-22T17:07:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784711049566+0200)/",
+  "respons_dato_tid": "/Date(1784736508808+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049566+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17491,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784710998650+0200)/",
+    "respons_dato_tid": "/Date(1784736508558+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200269,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784711049566+0200)/",
+      "respons_dato_tid": "/Date(1784736508808+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -57,7 +57,7 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -230,5 +230,6 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)

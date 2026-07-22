@@ -1,4 +1,4 @@
-<!-- innholds-hash: 952d102be25ef21ffe63b6610b7ed8c5b31fbc95b0c983e71da0eb20f5de048c -->
+<!-- innholds-hash: af38b2509e3fa29910ab6fce5ee9e60ce5912177734f380ba532d1eaebc5278f -->
 
 # Lov om datadeling og dataforvaltning (dataforvaltningsloven) og samtykke til godkjenning av EØS-komiteens beslutninger om innlemmelse i EØS-avtalen av direktiv (EU) 2019/1024 (åpne data-direktivet) for forordning (EU) 2022/868 (dataforvaltningsforordningen) og deltakelse i EØS-komiteens beslutning om delegert kommisjonsforordning (EU) 2023/138 (HVD-forordningen)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T09:38:47Z
+- **Sist hentet:** 2026-07-22T17:07:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107975
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784711050097+0200)/",
+  "respons_dato_tid": "/Date(1784736508823+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784711050097+0200)/",
+      "respons_dato_tid": "/Date(1784736508823+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711050097+0200)/",
+      "respons_dato_tid": "/Date(1784736508823+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784711050097+0200)/",
+      "respons_dato_tid": "/Date(1784736508823+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -57,7 +57,7 @@
   "innstilling_id": 17456,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784710998650+0200)/",
+    "respons_dato_tid": "/Date(1784736508558+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 107975,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784711050097+0200)/",
+      "respons_dato_tid": "/Date(1784736508823+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -75,7 +75,7 @@
       "id": "SIGRAF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784674820203+0200)/",
+        "respons_dato_tid": "/Date(1784718020319+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
@@ -250,5 +250,6 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
