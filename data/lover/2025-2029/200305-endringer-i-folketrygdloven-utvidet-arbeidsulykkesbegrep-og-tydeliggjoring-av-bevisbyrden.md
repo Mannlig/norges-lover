@@ -1,4 +1,4 @@
-<!-- innholds-hash: eea24ffc27b6437ebf696686c7fe478030af61e5220b9dde426fa94db61a4e53 -->
+<!-- innholds-hash: c9b8886c7a5730bdc324d8bb3005d7555588089ef5ac4cc3a64ac5ca949fc665 -->
 
 # Endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-21T22:04:30Z
+- **Sist hentet:** 2026-07-22T03:47:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200305
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784668195108+0200)/",
+  "respons_dato_tid": "/Date(1784689332249+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784668195108+0200)/",
+      "respons_dato_tid": "/Date(1784689332249+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 5,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784668195108+0200)/",
+      "respons_dato_tid": "/Date(1784689332249+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784668195108+0200)/",
+      "respons_dato_tid": "/Date(1784689332249+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -57,7 +57,7 @@
   "innstilling_id": 17523,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784668190264+0200)/",
+    "respons_dato_tid": "/Date(1784689332233+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200305,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784668195108+0200)/",
+      "respons_dato_tid": "/Date(1784689332249+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gunnufsen",
@@ -75,14 +75,14 @@
       "id": "AMAGUN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784631619564+0200)/",
+        "respons_dato_tid": "/Date(1784674820203+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784588417371+0200)/",
+        "respons_dato_tid": "/Date(1784674817419+0200)/",
         "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
@@ -268,3 +268,4 @@
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-22** Innhold endret (se git-historikk for diff)
