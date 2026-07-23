@@ -1,11 +1,11 @@
-<!-- innholds-hash: 985a83ae195bf013056bec37f85be3a39bc96f9592db7c791c312cac15ec98f5 -->
+<!-- innholds-hash: 7ad722b797ece1e9541c5eab5ddd200c829efef91db32916864b3113a148f6e1 -->
 
 # Løfteplattform - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lofteplattform/nn
-- **Sist hentet:** 2026-07-14T08:28:59Z
+- **Sist hentet:** 2026-07-23T14:07:14Z
 
 ## Innhold
 
@@ -186,7 +186,7 @@ Send beskjed eller nye opplysningar i saka di. Du kan óg sende spørsmål. Svar
 
 #### Ring oss på 55 55 11 11
 
-Ope no
+Stengt no, opnar kl 9
 
 
 #### Finn din hjelpemiddelsentral
@@ -200,3 +200,4 @@ Ope no
 - **2026-06-17** Første gang hentet
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
+- **2026-07-23** Innhold endret (se git-historikk for diff)
