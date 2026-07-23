@@ -1,4 +1,4 @@
-<!-- innholds-hash: bac3388291e1ebca01e4ba0d5701eb647bd162b53803f2abe59eeb481c703ef6 -->
+<!-- innholds-hash: 6b4ce4dfec3b239f7ebfe71d6d9647abde7cad7a6f40166a38eae15f1ca4f335 -->
 
 # Menneskerettighetene i Norge 2025 - NIMs årsmelding
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T23:24:15Z
+- **Sist hentet:** 2026-07-23T05:02:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200139
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784761228616+0200)/",
+  "respons_dato_tid": "/Date(1784782939067+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228616+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784761228616+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -48,7 +48,7 @@
   "innstilling_id": 17397,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784761219364+0200)/",
+    "respons_dato_tid": "/Date(1784782939020+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200139,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228616+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
@@ -66,7 +66,7 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -217,3 +217,4 @@
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
+- **2026-07-23** Innhold endret (se git-historikk for diff)

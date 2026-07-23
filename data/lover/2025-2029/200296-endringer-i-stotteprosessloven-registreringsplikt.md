@@ -1,4 +1,4 @@
-<!-- innholds-hash: 82b82a035f28768f57d473ad0d973f7cbe2d0946aa7f70a0160b983b3f22e63c -->
+<!-- innholds-hash: 0561244f5fe8ed886ca05f4a664b60cc3d85018e746a1605f46c32b71edde3e1 -->
 
 # Endringer i støtteprosessloven (registreringsplikt)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T23:24:15Z
+- **Sist hentet:** 2026-07-23T05:02:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200296
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784761228679+0200)/",
+  "respons_dato_tid": "/Date(1784782939067+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228679+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784761228679+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784761228679+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -57,7 +57,7 @@
   "innstilling_id": 17526,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784761219364+0200)/",
+    "respons_dato_tid": "/Date(1784782939020+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200296,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228679+0200)/",
+      "respons_dato_tid": "/Date(1784782939067+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vitanza",
@@ -75,7 +75,7 @@
       "id": "SOLVIT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -267,3 +267,4 @@
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
+- **2026-07-23** Innhold endret (se git-historikk for diff)

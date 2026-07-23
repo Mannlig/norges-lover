@@ -1,4 +1,4 @@
-<!-- innholds-hash: 66b5e234355d5c9fb791ab24930bb840948d283d080c5bd29d1a8238aa204ca2 -->
+<!-- innholds-hash: fb3053428e41130ec9c60b1434fc0f6164ac2a16cc487e2078f3649c8d67cdeb -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Stig Atle Abrahamsen og Anne Grethe Hauan om å redusere ventetider for utredning, tilpasning og oppfølging av høreapparat
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-22T23:24:15Z
+- **Sist hentet:** 2026-07-23T05:02:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200207
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784761228819+0200)/",
+  "respons_dato_tid": "/Date(1784782939082+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -53,7 +53,7 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -78,7 +78,7 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -103,7 +103,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -119,7 +119,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -128,7 +128,7 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -149,7 +149,7 @@
   "innstilling_id": 17512,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784761219364+0200)/",
+    "respons_dato_tid": "/Date(1784782939020+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -158,7 +158,7 @@
   "sak_fremmet_id": 200207,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784761228819+0200)/",
+      "respons_dato_tid": "/Date(1784782939082+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Østensen",
@@ -167,7 +167,7 @@
       "id": "KOS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784761219379+0200)/",
+        "respons_dato_tid": "/Date(1784768957565+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -349,3 +349,4 @@
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
+- **2026-07-23** Innhold endret (se git-historikk for diff)
