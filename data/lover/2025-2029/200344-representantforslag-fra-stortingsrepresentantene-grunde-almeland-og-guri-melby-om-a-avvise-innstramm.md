@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a3d04dd0e0be3227690eb8194ecaf14c589072a5c248b9ef57d48808bdfa35e -->
+<!-- innholds-hash: 0e4dc8ca62d9837ded6bde545a14b3962de7bfc43dc6969d48638ab852ab9f25 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-23T16:33:43Z
+- **Sist hentet:** 2026-07-23T22:40:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784823018153+0200)/",
+  "respons_dato_tid": "/Date(1784844771872+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784823018153+0200)/",
+      "respons_dato_tid": "/Date(1784844771872+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784823018153+0200)/",
+      "respons_dato_tid": "/Date(1784844771872+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784823018153+0200)/",
+      "respons_dato_tid": "/Date(1784844771872+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -90,7 +90,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784822989014+0200)/",
+    "respons_dato_tid": "/Date(1784844771685+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -257,6 +257,7 @@
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-07-22** Innhold endret (se git-historikk for diff)
+- **2026-07-23** Innhold endret (se git-historikk for diff)
 - **2026-07-23** Innhold endret (se git-historikk for diff)
 - **2026-07-23** Innhold endret (se git-historikk for diff)
 - **2026-07-23** Innhold endret (se git-historikk for diff)
