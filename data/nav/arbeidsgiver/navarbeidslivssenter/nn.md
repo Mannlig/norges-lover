@@ -1,11 +1,11 @@
-<!-- innholds-hash: 401dbad0928c50651449f1216911d8fb6ab8d2f332caa0ef9b82ed5bcf63b8eb -->
+<!-- innholds-hash: c6eefb075af485fda6937b4b6b6cc8c9ba6b8e929f02dc6be9dd387d4a6b8c2e -->
 
 # Oppfølging frå Nav arbeidslivssenter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/navarbeidslivssenter/nn
-- **Sist hentet:** 2026-07-09T08:36:52Z
+- **Sist hentet:** 2026-07-25T06:44:01Z
 
 ## Innhold
 
@@ -55,7 +55,7 @@ Oppdatert 01.12.2025
 
 #### Ring oss på 55 55 33 36
 
-Ope no
+Stengt no, opnar i morgon kl 9
 
 
 #### Kontaktskjema
@@ -69,7 +69,7 @@ Du møter først chatbot Frida som har døgnope. Mellom klokka 9 og 15 på kvard
 
 Alltid ope
 
-Ope no
+Stengt no, opnar i morgon kl 9
 
 
 ---
@@ -79,3 +79,4 @@ Ope no
 
 - **2026-06-14** Første gang hentet
 - **2026-07-09** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)

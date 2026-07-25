@@ -1,11 +1,11 @@
-<!-- innholds-hash: a1a44e2af001249508d4a78d52e77539f94fc796198e26e54a25ec5e04f24bb8 -->
+<!-- innholds-hash: b2bf80f5cca4964d3a056d377c29ac705fd4465c83ac19ed75b3ae5f250336ea -->
 
 # Temporary (emergency) accommodation - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/midlertidig-botilbud/en
-- **Sist hentet:** 2026-06-14T15:36:56Z
+- **Sist hentet:** 2026-07-25T05:33:52Z
 
 ## Innhold
 
@@ -48,7 +48,7 @@ Updated 07/04/2025
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -57,3 +57,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-07-25** Innhold endret (se git-historikk for diff)

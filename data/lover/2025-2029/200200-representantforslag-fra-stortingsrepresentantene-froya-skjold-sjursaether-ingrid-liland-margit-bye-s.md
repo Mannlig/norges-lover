@@ -1,4 +1,4 @@
-<!-- innholds-hash: 46bf6f3dbdb0c532f1d4cca6a711e4b16ef9af1506363ebee7fe3149b2ec1db9 -->
+<!-- innholds-hash: 694778dc14f9fda58f2f48d12f4f0c38add5f705a72c7e1453747e5b7f504fa4 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Margit Bye, Siren Julianne Jensen og Oda Indgaard om en helhetlig plan for mer arealvennlig utbygging av landvind
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-24T21:28:50Z
+- **Sist hentet:** 2026-07-25T03:38:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200200
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784927709294+0200)/",
+  "respons_dato_tid": "/Date(1784948487821+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -71,14 +71,14 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -96,14 +96,14 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
@@ -121,14 +121,14 @@
       "id": "MARBYE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
@@ -146,14 +146,14 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
@@ -171,14 +171,14 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
@@ -192,7 +192,7 @@
   "innstilling_id": 17478,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784927310262+0200)/",
+    "respons_dato_tid": "/Date(1784948469547+0200)/",
     "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200200,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -210,14 +210,14 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -400,3 +400,4 @@
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)

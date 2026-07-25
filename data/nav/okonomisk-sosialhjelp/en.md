@@ -1,11 +1,11 @@
-<!-- innholds-hash: 525453a39cea20138c579359f0dab1576fac057a17c591f88a5876b9bf52f745 -->
+<!-- innholds-hash: ebf2bca5e9a20dfaa149507603a3f3a53fb3a8d4f3ec891a21c032091639aea3 -->
 
 # Financial assistance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomisk-sosialhjelp/en
-- **Sist hentet:** 2026-06-14T15:34:55Z
+- **Sist hentet:** 2026-07-25T05:31:47Z
 
 ## Innhold
 
@@ -310,7 +310,7 @@ Updated 04/08/2026
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Find your local Nav office
@@ -322,3 +322,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-07-25** Innhold endret (se git-historikk for diff)

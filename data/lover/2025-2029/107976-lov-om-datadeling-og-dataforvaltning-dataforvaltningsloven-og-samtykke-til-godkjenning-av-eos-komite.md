@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0588df984c52ca39bda1255495f7d62690a6ab3535a8eb4b5679cee789c46896 -->
+<!-- innholds-hash: 0e65aae85da7010b3d4bd7024f7076cc6fafca4e3a83e2acb7d8a9dddd224b0d -->
 
 # Lov om datadeling og dataforvaltning (dataforvaltningsloven) og samtykke til godkjenning av EØS-komiteens beslutninger om innlemmelse i EØS-avtalen av direktiv (EU) 2019/1024 (åpne data-direktivet) for forordning (EU) 2022/868 (dataforvaltningsforordningen) og deltakelse i EØS-komiteens beslutning om delegert kommisjonsforordning (EU) 2023/138 (HVD-forordningen)
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-24T21:28:50Z
+- **Sist hentet:** 2026-07-25T03:38:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107976
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784927709294+0200)/",
+  "respons_dato_tid": "/Date(1784948487821+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17469,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1784927310262+0200)/",
+    "respons_dato_tid": "/Date(1784948469547+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 107975,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784927709294+0200)/",
+      "respons_dato_tid": "/Date(1784948487821+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Rafaelsen",
@@ -47,14 +47,14 @@
       "id": "SIGRAF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -234,3 +234,4 @@
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)

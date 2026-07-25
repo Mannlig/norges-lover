@@ -1,4 +1,4 @@
-<!-- innholds-hash: bc7a917f0defa3f6dd25327984ac51924f21d7f85be218c0194f3445dd6ac27c -->
+<!-- innholds-hash: 5aab6176f7e3df360c260b6eb3563e353ee003c704542044694716ec99951da0 -->
 
 # Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-24T21:28:50Z
+- **Sist hentet:** 2026-07-25T03:38:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200331
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784927706575+0200)/",
+  "respons_dato_tid": "/Date(1784948487602+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -69,7 +69,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
@@ -84,7 +84,7 @@
   "innstilling_id": 17539,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784927310262+0200)/",
+    "respons_dato_tid": "/Date(1784948469547+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -93,7 +93,7 @@
   "sak_fremmet_id": 200331,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784927706575+0200)/",
+      "respons_dato_tid": "/Date(1784948487602+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -102,14 +102,14 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784927704059+0200)/",
+        "respons_dato_tid": "/Date(1784934017979+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1784847620303+0200)/",
+        "respons_dato_tid": "/Date(1784934017933+0200)/",
         "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
@@ -269,3 +269,4 @@
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)

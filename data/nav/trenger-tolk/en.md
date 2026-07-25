@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5b45fb3158f2684d7ff872a2c633abfd9eba4db962b24836a1121f1895e5253b -->
+<!-- innholds-hash: 862bfb6e17c2d9f7f254b5f378067fcbfa4bdc25b88fa905938eebe1d4cb8e59 -->
 
 # Do you need an interpreter? - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trenger-tolk/en
-- **Sist hentet:** 2026-06-14T15:46:02Z
+- **Sist hentet:** 2026-07-25T05:42:57Z
 
 ## Innhold
 
@@ -98,7 +98,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -110,7 +110,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -119,3 +119,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-14** Første gang hentet
+- **2026-07-25** Innhold endret (se git-historikk for diff)
