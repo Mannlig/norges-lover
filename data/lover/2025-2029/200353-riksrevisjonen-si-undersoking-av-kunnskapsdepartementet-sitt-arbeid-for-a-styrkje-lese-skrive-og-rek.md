@@ -1,4 +1,4 @@
-<!-- innholds-hash: a9439473284ad84b610b7cfcc1d74e91b4c87bdfa0338147f7ca27fffb340978 -->
+<!-- innholds-hash: 1cf6948e1e14688b9f63604c7b20c57107af5a3fb26972cef87633aa409eb4a0 -->
 
 # Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-25T03:38:10Z
+- **Sist hentet:** 2026-07-25T09:13:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200353
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784948487743+0200)/",
+  "respons_dato_tid": "/Date(1784970319177+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -48,7 +48,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1784948469547+0200)/",
+    "respons_dato_tid": "/Date(1784970221754+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -207,4 +207,5 @@
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)

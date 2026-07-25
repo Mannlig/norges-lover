@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8300a40a954381a6bf4eaa1be17aae414b10833e2861bc5abcd91d6abcee2c90 -->
+<!-- innholds-hash: 6899a9d86949ad5b52ef59e1da29ddb3f106ea7bf7dbc0bd54cd36bd78a7233f -->
 
 # Representantforslag fra stortingsrepresentantene Jorunn Gleditsch Lossius, Hans Edvard Askjer og Joel Ystebø om å innføre en verifiserbar 18-årsgrense for porno på nettet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-25T03:38:10Z
+- **Sist hentet:** 2026-07-25T09:13:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200112
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1784948487743+0200)/",
+  "respons_dato_tid": "/Date(1784970319177+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
@@ -62,7 +62,7 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784934017979+0200)/",
+        "respons_dato_tid": "/Date(1784967975834+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lossius",
@@ -87,7 +87,7 @@
       "id": "JLO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784934017979+0200)/",
+        "respons_dato_tid": "/Date(1784967975834+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ystebø",
@@ -112,7 +112,7 @@
       "id": "JOEYST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1784934017979+0200)/",
+        "respons_dato_tid": "/Date(1784967975834+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -133,7 +133,7 @@
   "innstilling_id": 17394,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1784948469547+0200)/",
+    "respons_dato_tid": "/Date(1784970221754+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200112,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1784948487743+0200)/",
+      "respons_dato_tid": "/Date(1784970319177+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -151,7 +151,7 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1784934017979+0200)/",
+        "respons_dato_tid": "/Date(1784967975834+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -310,4 +310,5 @@
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
 - **2026-07-24** Innhold endret (se git-historikk for diff)
+- **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
