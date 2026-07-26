@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1278d7ab9396302f06fd89f61e8cf8e11445f237d98e22419aa52fc45222329e -->
+<!-- innholds-hash: 8af3bd276db3eb60be7954d3a7fe369b6a023c25e26d3ee5d40b3505c274f8bd -->
 
 # Rapport til Stortingets presidentskap fra Arbeidsgruppen til å vurdere hvordan Europautvalget skal innrettes for fremtiden
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-25T20:50:51Z
+- **Sist hentet:** 2026-07-26T02:27:09Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200355
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785010288557+0200)/",
+  "respons_dato_tid": "/Date(1785031288231+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785010288557+0200)/",
+      "respons_dato_tid": "/Date(1785031288231+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -39,7 +39,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785010168010+0200)/",
+    "respons_dato_tid": "/Date(1785031262242+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -192,3 +192,4 @@
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-07-26** Innhold endret (se git-historikk for diff)
