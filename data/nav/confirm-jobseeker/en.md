@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5f569f0b600f242dd98dcf0dc61657d12e663e6e54e6e6923b850b06eaa5e7de -->
+<!-- innholds-hash: cb5c795c84d57a90c1e7e1ae8eac0ce998418c16d6a711c22533cb458f1fe160 -->
 
 # Please confirm that you want to stay registered as a jobseeker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/confirm-jobseeker/en
-- **Sist hentet:** 2026-06-17T20:46:00Z
+- **Sist hentet:** 2026-07-25T23:59:18Z
 
 ## Innhold
 
@@ -61,7 +61,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 #### Write to us
@@ -73,7 +73,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens at 9am
+Closed now, opens tomorrow at 9am
 
 
 ---
@@ -82,3 +82,4 @@ Closed now, opens at 9am
 ## Endringshistorikk
 
 - **2026-06-17** Første gang hentet
+- **2026-07-25** Innhold endret (se git-historikk for diff)
