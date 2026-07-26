@@ -1,4 +1,4 @@
-<!-- innholds-hash: abb462af30c8169e801d6fea78a34119001c599b16ba5ec9fbe6283e2038967a -->
+<!-- innholds-hash: 7d7739967746d1235f7253f30ea63da26921c8849d2feb39c9ff14702472e63b -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Ingrid Liland og Frøya Skjold Sjursæther om karantene mot svingdør mellom politikk og lobbyvirksomhet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-26T14:10:53Z
+- **Sist hentet:** 2026-07-26T19:54:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200205
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785075048413+0200)/",
+  "respons_dato_tid": "/Date(1785093249045+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
@@ -142,7 +142,7 @@
   "innstilling_id": 17504,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785074967746+0200)/",
+    "respons_dato_tid": "/Date(1785093060303+0200)/",
     "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -151,7 +151,7 @@
   "sak_fremmet_id": 200205,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048413+0200)/",
+      "respons_dato_tid": "/Date(1785093249045+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
@@ -351,6 +351,7 @@
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)

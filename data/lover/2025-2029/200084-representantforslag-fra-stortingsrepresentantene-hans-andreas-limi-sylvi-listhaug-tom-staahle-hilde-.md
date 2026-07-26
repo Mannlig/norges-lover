@@ -1,4 +1,4 @@
-<!-- innholds-hash: dec247987c8d77d95323d21fda0ff92280b9a9a2349ca7356de6a4dd1f139eed -->
+<!-- innholds-hash: c8d13efa74aa1cd8a5612c6af968cdf03a58adc96bdbe568c8216d81817f26d3 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Sylvi Listhaug, Tom Staahle, Hilde Grande og Martin Virkesdal Jonsterhaug om tiltak for å dempe økte energipriser og levekostnader
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-26T14:10:52Z
+- **Sist hentet:** 2026-07-26T19:54:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200084
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785075048288+0200)/",
+  "respons_dato_tid": "/Date(1785093248910+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
@@ -62,7 +62,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
@@ -87,7 +87,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
@@ -112,7 +112,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jonsterhaug",
@@ -137,7 +137,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
@@ -162,7 +162,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Staahle",
@@ -192,7 +192,7 @@
   "innstilling_id": 17541,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785074967746+0200)/",
+    "respons_dato_tid": "/Date(1785093060303+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -201,7 +201,7 @@
   "sak_fremmet_id": 200084,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785075048288+0200)/",
+      "respons_dato_tid": "/Date(1785093248910+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -370,6 +370,7 @@
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
