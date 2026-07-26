@@ -1,4 +1,4 @@
-<!-- innholds-hash: cfef9a4ee9263884dc9bec91bcd6ef7900284f1a262ad204f7fac933919141aa -->
+<!-- innholds-hash: 35ab1e919d3b288e05ca7a030c19be4ff7a48ffee3835465099c83572f81e00f -->
 
 # Endringar i skatte- og avgiftslovgivinga
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-26T08:34:44Z
+- **Sist hentet:** 2026-07-26T14:10:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200313
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785053128242+0200)/",
+  "respons_dato_tid": "/Date(1785075048288+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785053128242+0200)/",
+      "respons_dato_tid": "/Date(1785075048288+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785053128242+0200)/",
+      "respons_dato_tid": "/Date(1785075048288+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785053128242+0200)/",
+      "respons_dato_tid": "/Date(1785075048288+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785053128242+0200)/",
+      "respons_dato_tid": "/Date(1785075048288+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
@@ -66,7 +66,7 @@
   "innstilling_id": 17546,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785053128210+0200)/",
+    "respons_dato_tid": "/Date(1785074967746+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -75,7 +75,7 @@
   "sak_fremmet_id": 200313,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785053128242+0200)/",
+      "respons_dato_tid": "/Date(1785075048288+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -84,7 +84,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785027671484+0200)/",
+        "respons_dato_tid": "/Date(1785070872884+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -266,5 +266,6 @@
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
