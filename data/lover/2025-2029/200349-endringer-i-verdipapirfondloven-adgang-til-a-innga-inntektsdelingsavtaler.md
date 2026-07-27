@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d360d7af46f0b0fa2d53b12790e9ee1ad192b63429ead7e5beee053c4298d31 -->
+<!-- innholds-hash: 2856eb050dc0a068d951423d8ff50b1469367b13014790ddfbaf840e468ea515 -->
 
 # Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)
 
@@ -11,14 +11,14 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-26T19:54:55Z
+- **Sist hentet:** 2026-07-27T01:57:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200349
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785093248967+0200)/",
+  "respons_dato_tid": "/Date(1785114059399+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785093060303+0200)/",
+    "respons_dato_tid": "/Date(1785114028117+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -201,3 +201,4 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
