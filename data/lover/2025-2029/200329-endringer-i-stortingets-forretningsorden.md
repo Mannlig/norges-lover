@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6923f229e8c562c46a50b26cbcd8fc099c0d66f6b73c2ddfd04dc3fbfba9032a -->
+<!-- innholds-hash: e04d119a803e8491fd69e478b312a16bb889bfad69474119223ca78fcc518798 -->
 
 # Endringer i Stortingets forretningsorden
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T01:57:44Z
+- **Sist hentet:** 2026-07-27T10:08:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200329
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785114059399+0200)/",
+  "respons_dato_tid": "/Date(1785146778345+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785114059399+0200)/",
+      "respons_dato_tid": "/Date(1785146778345+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -39,7 +39,7 @@
   "innstilling_id": 17492,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785114028117+0200)/",
+    "respons_dato_tid": "/Date(1785146667544+0200)/",
     "versjon": "1.6",
     "id": "PRES",
     "navn": "Stortingets presidentskap"
@@ -205,4 +205,5 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
