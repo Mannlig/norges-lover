@@ -1,4 +1,4 @@
-<!-- innholds-hash: ca80173ef5e9482209930699e9e00953303b9fdd83f985bd3cf673b89b56dad1 -->
+<!-- innholds-hash: 6a84342633c14db5ff7422f9e5703f635be9faa4983412bc71e2f86af9dd8991 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen og Hege Bae Nyholt om en ny makt- og demokratiutredning
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T10:08:43Z
+- **Sist hentet:** 2026-07-27T15:44:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200070
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785146778345+0200)/",
+  "respons_dato_tid": "/Date(1785164968047+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
@@ -44,7 +44,7 @@
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
@@ -69,7 +69,7 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -90,7 +90,7 @@
   "innstilling_id": 17472,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785146667544+0200)/",
+    "respons_dato_tid": "/Date(1785164782736+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -99,7 +99,7 @@
   "sak_fremmet_id": 200070,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -108,7 +108,7 @@
       "id": "AICS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -275,5 +275,6 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)

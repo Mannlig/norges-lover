@@ -1,4 +1,4 @@
-<!-- innholds-hash: 64091746c04fa53f3b67a402e901c5c4ca7bb7d6a8339f6b7cf50940db4e3141 -->
+<!-- innholds-hash: 86b75342cd0e06835facbe21dad060f984e0d85813367e3c170b51e4477b723a -->
 
 # Riksrevisjonen si undersøking av helsetenestenes samhandling om eldre
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T10:08:43Z
+- **Sist hentet:** 2026-07-27T15:44:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200301
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785146778345+0200)/",
+  "respons_dato_tid": "/Date(1785164968047+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
@@ -57,7 +57,7 @@
   "innstilling_id": 17528,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785146667544+0200)/",
+    "respons_dato_tid": "/Date(1785164782736+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200301,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
@@ -75,7 +75,7 @@
       "id": "AICS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -264,5 +264,6 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)

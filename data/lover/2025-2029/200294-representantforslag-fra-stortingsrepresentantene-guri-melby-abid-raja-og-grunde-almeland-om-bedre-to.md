@@ -1,4 +1,4 @@
-<!-- innholds-hash: c299a898b6d0a73f4b7ac46be640071a2ebed73422ea9e00db9d5afa7ee7fa92 -->
+<!-- innholds-hash: 258eeda743e55c81d0b06eec5db602e41336326a503700bc7789bf9a389fd51e -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om bedre togtilbud og gjenåpning av togstrekninger på Østlandet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T10:08:43Z
+- **Sist hentet:** 2026-07-27T15:44:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200294
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785146778345+0200)/",
+  "respons_dato_tid": "/Date(1785164968047+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -44,7 +44,7 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -69,7 +69,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -94,7 +94,7 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -115,7 +115,7 @@
   "innstilling_id": 17432,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785146667544+0200)/",
+    "respons_dato_tid": "/Date(1785164782736+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -124,7 +124,7 @@
   "sak_fremmet_id": 200294,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968047+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Refseth",
@@ -133,7 +133,7 @@
       "id": "ANNREF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
@@ -329,5 +329,6 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)

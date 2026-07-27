@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4d053ad2f112855e959d54fd3e15b618656568bcc701309ad6d209dfccca55b7 -->
+<!-- innholds-hash: 1bebb17eda3fbaa3e7f0ece7f00accfb5c59b90bc53336384a7242fe0294488c -->
 
 # Samtykke til inngåing av avtale mellom regjeringa i Kongeriket Noreg og regjeringa i Folkerepublikken Kina om leige av tomt til Den kongelege norske ambassaden i Kina
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T10:08:43Z
+- **Sist hentet:** 2026-07-27T15:44:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200287
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785146778345+0200)/",
+  "respons_dato_tid": "/Date(1785164968063+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17463,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785146667544+0200)/",
+    "respons_dato_tid": "/Date(1785164782736+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200287,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
@@ -66,7 +66,7 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -259,5 +259,6 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)

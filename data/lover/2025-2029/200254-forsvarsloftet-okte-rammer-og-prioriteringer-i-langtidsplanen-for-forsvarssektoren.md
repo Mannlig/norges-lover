@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5f4523c53fff6857570f491f6739cb7dd40ef1ee96cd1af9b78ef4dc2ee79fe -->
+<!-- innholds-hash: 7721d4cf48b1ccc06736b25b42b678be289c241f4373eb81c7a156aa99c86cdf -->
 
 # Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-27T10:08:43Z
+- **Sist hentet:** 2026-07-27T15:44:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200254
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785146778345+0200)/",
+  "respons_dato_tid": "/Date(1785164968063+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -57,7 +57,7 @@
   "innstilling_id": 17521,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785146667544+0200)/",
+    "respons_dato_tid": "/Date(1785164782736+0200)/",
     "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -66,7 +66,7 @@
   "sak_fremmet_id": 200254,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785146778345+0200)/",
+      "respons_dato_tid": "/Date(1785164968063+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Frølich",
@@ -75,7 +75,7 @@
       "id": "PCF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785106817265+0200)/",
+        "respons_dato_tid": "/Date(1785150019040+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -266,5 +266,6 @@
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
+- **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
 - **2026-07-27** Innhold endret (se git-historikk for diff)
