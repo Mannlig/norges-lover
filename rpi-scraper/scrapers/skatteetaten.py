@@ -35,12 +35,31 @@ SKATT_STARTPUNKTER = [
     "https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/",
     "https://www.skatteetaten.no/naringsdrivende/",
     # Rettskilder – Skatte-ABC (Skatteetatens tolkningshåndbok) og andre
-    # rettskilder. Indekssidene lenker til gjeldende utgave, så nye
-    # årsutgaver plukkes opp automatisk ved hub-crawl.
     "https://www.skatteetaten.no/rettskilder/",
     "https://www.skatteetaten.no/rettskilder/type/handboker/",
     "https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/",
 ]
+
+_SKATTE_ABC_BASE = "https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/"
+
+
+def skatte_abc_kandidater(i_dag: datetime | None = None) -> list[str]:
+    """
+    Inngangs-URL-er for Skatte-ABC-årsutgaver.
+
+    Oversiktssiden lister utgavene i en JS-generert meny, så lenkene finnes
+    ikke i HTML-en scraperen ser – uten disse blir arkivet stående på den
+    utgaven som tilfeldigvis ble crawlet først (2023). Utgavene bruker to
+    navnemønstre («2023» og «2022-2023»), begge gjettes ut fra årstall så
+    listen fornyer seg selv. Utgaver som ikke finnes gir 404 og hoppes over.
+    """
+    år = (i_dag or datetime.now(timezone.utc)).year
+    kandidater = []
+    for y in range(år - 2, år + 1):
+        kandidater.append(f"{_SKATTE_ABC_BASE}{y}/")
+        kandidater.append(f"{_SKATTE_ABC_BASE}{y}-{y + 1}/")
+    return kandidater
+
 
 _EKSKLUDER = re.compile(
     r"/(nn|en|se|kontakt|sok|login|logg-inn|om-skatteetaten|"
@@ -114,7 +133,7 @@ class SkatteetatenScraper(BaseScraper):
                     pass
 
         nye = 0
-        for hub_url in SKATT_STARTPUNKTER:
+        for hub_url in SKATT_STARTPUNKTER + skatte_abc_kandidater():
             lenker = self._hent_lenker_fra_side(hub_url)
             logger.info("Hub %s: %d relevante lenker", hub_url, len(lenker))
             for url in lenker:
