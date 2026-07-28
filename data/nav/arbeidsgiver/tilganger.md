@@ -1,11 +1,11 @@
-<!-- innholds-hash: 83abb3ce0d49617cd631fe0cf86588472edde9942ca48572c36521c4bbb9df49 -->
+<!-- innholds-hash: ce200f5dfedd5d7c92e2a30433f78a4c4d253f469afea426f81003df91ba81da -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-07-20T19:47:05Z
+- **Sist hentet:** 2026-07-28T19:41:14Z
 
 ## Innhold
 
@@ -57,7 +57,7 @@ For å gi rettigheter i Altinn må du ha rollen
 
 Har du rollen Hovedadministrator, kan du gi tilganger som du selv ikke har.
 
-Har du tilganger i Altinn du mener at du eller andre ikke skal ha, kan du
+Har du tilganger i Altinn du mener at du eller andre ikke skal ha, kan du fjerne disse selv fra Altinn.
 
 Forskjellige tjenester og skjemaer i Nav krever ulike tilganger i Altinn.
 
@@ -226,7 +226,7 @@ Daglig leder (eller tilsvarende) for juridisk enhet eller det nærmeste organisa
 
 - personer på en sentral HR-/lønns-enhet som skal ha tilganger i Altinn for alle virksomhetens bedriftsnumre (sentralisert håndtering)
 - personer på ulike HR-/lønns-enheter som skal ha tilganger i Altinn for sitt/sine egne bedriftsnumre (desentralisert håndtering)
-Sykmeldingen, skjemaet for nærmeste leder og søknadene om sykepenger blir sendt til innboksen til underenheten som den sykmeldte er innmeldt på gjennom
+Sykmeldingen, skjemaet for nærmeste leder og søknadene om sykepenger blir sendt til innboksen til underenheten som den sykmeldte er innmeldt på i
 
 Vi anbefaler ikke å opprette en egendefinert rolle for tjenestene.
 
@@ -307,7 +307,7 @@ Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 13.07.2026
+Oppdatert 28.07.2026
 
 
 ### Finner du ikke svaret her? Ta kontakt med oss
@@ -344,3 +344,4 @@ Alltid åpen
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-07-28** Innhold endret (se git-historikk for diff)

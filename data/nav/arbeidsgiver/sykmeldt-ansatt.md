@@ -1,11 +1,11 @@
-<!-- innholds-hash: 116f27e941f8493e4283f03082a0dbff7dd4992a530d0b9a052e95f8c4b943ee -->
+<!-- innholds-hash: 76a6b569b56abd0dd05db54e06924827d2e043ef4c44e32c5795eb1f76e0a6ef -->
 
 # Ansatt er sykmeldt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmeldt-ansatt
-- **Sist hentet:** 2026-07-12T21:06:41Z
+- **Sist hentet:** 2026-07-28T19:39:51Z
 
 ## Innhold
 
@@ -122,7 +122,7 @@ Det er gunstig for virksomheten din og de ansatte hvis dere lykkes med å jobbe 
 
 Virksomheter er lovpålagt å føre statistikk over sykefravær og fravær ved barns sykdom. Statistikken skal ikke sendes til Nav, men kan brukes til å måle og forbedre virksomhetens forebyggingsarbeid.
 
-Oppdatert 30.04.2026
+Oppdatert 27.07.2026
 
 
 #### Ring oss på 55 55 33 36
@@ -150,3 +150,4 @@ Alltid åpen
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-07-28** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: ea9acf705b3497f4186f9641e7a0881b65edde4c2786224480c742570dd71cc0 -->
+<!-- innholds-hash: cf3f6f89997971113ae481acc88210df9d86e3463d585b40030bbe8f90fbca2a -->
 
 # Oppgjørsrapport arbeidsgiver – refusjoner fra Nav  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppgjorsrapport
-- **Sist hentet:** 2026-06-18T21:38:43Z
+- **Sist hentet:** 2026-07-28T20:00:06Z
 
 ## Innhold
 
@@ -80,7 +80,7 @@ Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn.
 - Hvis andre i virksomheten har slettet rapporten, ligger den i Slettede elementer i Altinn.
 - Hvis du har avsluttet en virksomhet og har fått refusjon, men ikke har fått oppgjørsrapport, så avvent og følg med i Altinn. Ta kontakt med Nav hvis rapporten ikke har dukket opp i Altinn innen midten av måneden.
 - Eksempel: Hvis du skulle fått rapporten 1. april, kan du vente til 15. april før du eventuelt kontakter Nav.
-Oppdatert 15.06.2026
+Oppdatert 27.07.2026
 
 
 ---
@@ -91,3 +91,4 @@ Oppdatert 15.06.2026
 - **2026-05-21** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-07-28** Innhold endret (se git-historikk for diff)
