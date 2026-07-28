@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ae60513fbc6651e91ca77e797105d25b8580c41471eae8e83b01afb83669112 -->
+<!-- innholds-hash: 485b64b6ba2227a1bb49bb78b35c96e60b0955e27ab240d59d5643746c1cf91e -->
 
 # Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-offentlig
-- **Sist hentet:** 2026-07-20T10:24:18Z
+- **Sist hentet:** 2026-07-28T09:44:32Z
 
 ## Innhold
 
@@ -76,6 +76,7 @@ Den første måneden med AFP er det krav til hvor mye du kan jobbe hos arbeidsgi
 
 - Du kan ikke jobbe den første måneden med AFP hos arbeidsgiveren du pensjonerer deg fra.
 - Etter den første måneden med AFP, står du fritt til å jobbe hvor mye du vil, også hos arbeidsgiveren du søkte AFP fra.
+- Hvis du skal jobbe, må du melde fra til Nav eller pensjonskassen din om hvor mye du forventer å tjene.
 
 #### Er du medlem i Pensjonsordningen for apotekvirksomhet (POA)?
 
@@ -120,7 +121,7 @@ For å få full grunnpensjon, må du ha minst 40 års trygdetid (botid i Norge).
 
 Har du ektefelle, samboer eller partner som får pensjon og/eller har inntekt over 2 G (273 098 kroner)? Da er full grunnpensjon 90 prosent av 1 G, altså 122 894 kroner.
 
-For samboere gjelder redusert grunnpensjon bare om dere har felles barn sammen, har vært samboere i minst 12 av de siste 18 månedene eller om dere tidligere har vært gift.
+For samboere gjelder redusert grunnpensjon bare om dere har felles barn, har vært samboere i minst 12 av de siste 18 månedene eller om dere tidligere har vært gift.
 
 
 #### Tilleggspensjon
@@ -131,7 +132,7 @@ Størrelsen på tilleggspensjonen beregnes ut fra
 - antall år med pensjonspoeng. Du tjener opp full tilleggspensjon når du har opptjent pensjonspoeng i 40 år.
 Pensjonspoengene fastsettes for hvert år ut fra blant annet pensjonsgivende inntekt. Du får også medregnet pensjonspoeng og trygdetid for årene fram til og med året du fyller 66 år. Dette kalles framtidige pensjonspoeng. Du kan ikke tjene opp pensjonspoeng i årene før du fylte 17 år.
 
-Pensjonspoeng beregnes av pensjonsgivende inntekt, først og fremst arbeidsinntekt og personinntekt fra næringsvirksomhet hvert år, fra og med det året man fyller 17.
+Pensjonspoeng beregnes av pensjonsgivende inntekt, først og fremst arbeidsinntekt og personinntekt fra næringsvirksomhet hvert år, fra og med det året man fyller 17. Du får pensjonspoeng for hvert år inntekten er høyere enn gjennomsnittlig grunnbeløp det året.
 
 Enkelte ytelser fra folketrygden – arbeidsavklaringspenger, dagpenger, foreldrepenger, omsorgspenger, pleiepenger og sykepenger – regnes også som pensjonsgivende inntekt. Denne pensjonsgivende inntekten fastsettes av skatteetaten.
 
@@ -572,7 +573,7 @@ AFP er ikke omfattet av trygdebestemmelsene i EØS-avtalen eller andre trygdeavt
 
 AFP-pensjonister kan også søke om
 
-Oppdatert 22.05.2026
+Oppdatert 23.07.2026
 
 
 #### Chat med oss
@@ -608,3 +609,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-07-28** Innhold endret (se git-historikk for diff)
