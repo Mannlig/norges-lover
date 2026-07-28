@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d8034a5e47ee6757045a6822947c9310267047a4e58ab54bac8e45527303012 -->
+<!-- innholds-hash: a497905d2104903b25c91915ef46f54d5f55df0b8373cfe223440452e4664c6a -->
 
 # Hjelp til å få riktig skatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:13:42Z
+- **Sist hentet:** 2026-07-27T23:32:24Z
 
 ## Innhold
 
@@ -43,6 +43,9 @@ Tema og fradrag som hjelper deg til å få riktig skattekort, skattemelding og s
 ### Næring
 
 
+### Svalbard
+
+
 ### Utland
 
 
@@ -70,3 +73,4 @@ Tema og fradrag som hjelper deg til å få riktig skattekort, skattemelding og s
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-07-27** Innhold endret (se git-historikk for diff)
