@@ -2,7 +2,7 @@
 
 Stortinget
 
-*Sist oppdatert: 2026-07-29 12:50 UTC*
+*Sist oppdatert: 2026-07-29 20:06 UTC*
 
 **Antall dokumenter:** 365
 

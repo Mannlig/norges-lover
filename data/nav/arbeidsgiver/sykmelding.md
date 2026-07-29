@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3cf49e4205ea992ac53ee68362cc860d1e50b48392f7f709c0252f38e8abdf71 -->
+<!-- innholds-hash: 4a58036532ec9baf84ad1d00e69244bc7a060b2312e9cc358e1db8c040b1f69e -->
 
 # Sykmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmelding
-- **Sist hentet:** 2026-07-05T21:08:57Z
+- **Sist hentet:** 2026-07-29T18:34:07Z
 
 ## Innhold
 
@@ -218,7 +218,7 @@ Da får du melding når
 - Nav-veilederen sender en forespørsel for å få tilsendt en oppfølgingsplan
 Nærmeste leder får melding til e-postadressen som er oppgitt på skjemaet "Oppgi næremeste leder for sykmeldt ansatt"
 
-Oppdatert 10.06.2026
+Oppdatert 28.07.2026
 
 
 #### Ring oss på 55 55 33 36
@@ -249,3 +249,4 @@ Alltid åpen
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-07-29** Innhold endret (se git-historikk for diff)
