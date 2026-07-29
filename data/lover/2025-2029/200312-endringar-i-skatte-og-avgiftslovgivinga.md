@@ -1,4 +1,4 @@
-<!-- innholds-hash: dfbadb0c3be2a2459cfec33b292237e1746b7aa653edd1f2476fbf570c1674c4 -->
+<!-- innholds-hash: ee7c997a0f3f7432ef37c016364db3e8c0a48a07b30a8bbfc1954fd81aaa274c -->
 
 # Endringar i skatte- og avgiftslovgivinga
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-28T22:52:45Z
+- **Sist hentet:** 2026-07-29T06:07:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200312
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785276868294+0200)/",
+  "respons_dato_tid": "/Date(1785305045929+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17532,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1785276660163+0200)/",
+    "respons_dato_tid": "/Date(1785304825454+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200312,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785276868294+0200)/",
+      "respons_dato_tid": "/Date(1785305045929+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -47,14 +47,14 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785257514615+0200)/",
+        "respons_dato_tid": "/Date(1785279616995+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785193220698+0200)/",
+        "respons_dato_tid": "/Date(1785279616933+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -254,3 +254,4 @@
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
+- **2026-07-29** Innhold endret (se git-historikk for diff)

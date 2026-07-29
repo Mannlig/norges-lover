@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5eb4fc5910666acb956c4e4dab17d9d5a97fe8a2da7d3deb23452f00a8093169 -->
+<!-- innholds-hash: a0e618ba7fb275864deeb3f3d513ddb339638cfedc5464f79ddd4ca8d9887ae5 -->
 
 # Melding for året 2025 fra Sivilombudet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-28T22:52:45Z
+- **Sist hentet:** 2026-07-29T06:07:46Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200170
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785276868294+0200)/",
+  "respons_dato_tid": "/Date(1785305045929+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785276868294+0200)/",
+      "respons_dato_tid": "/Date(1785305045929+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785276868294+0200)/",
+      "respons_dato_tid": "/Date(1785305045929+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -48,7 +48,7 @@
   "innstilling_id": 17434,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785276660163+0200)/",
+    "respons_dato_tid": "/Date(1785304825454+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200170,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785276868294+0200)/",
+      "respons_dato_tid": "/Date(1785305045929+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aukrust",
@@ -66,14 +66,14 @@
       "id": "RONAUK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785257514615+0200)/",
+        "respons_dato_tid": "/Date(1785279616995+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785193220698+0200)/",
+        "respons_dato_tid": "/Date(1785279616933+0200)/",
         "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
@@ -240,3 +240,4 @@
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
+- **2026-07-29** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f0526de27af028be43d2ec3d084214c9e7d43314468f6b9d065e7fd1bf799f28 -->
+<!-- innholds-hash: 0a97f1971b6b396de5ee6addf95758f2231c0e598a2aa74550ef8c354aaa37f1 -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist hentet:** 2026-07-13T12:45:56Z
+- **Sist hentet:** 2026-07-29T11:29:12Z
 
 ## Innhold
 
@@ -230,10 +230,7 @@ Hvis du betaler Svalbardskatt eller
 
 Mer om
 
-
-### Lenker
-
-Oppdatert 22.06.2026
+Oppdatert 29.07.2026
 
 
 #### Chat med oss
@@ -266,3 +263,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
+- **2026-07-29** Innhold endret (se git-historikk for diff)

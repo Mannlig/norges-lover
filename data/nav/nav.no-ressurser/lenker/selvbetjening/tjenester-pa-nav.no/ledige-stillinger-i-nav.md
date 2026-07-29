@@ -1,11 +1,11 @@
-<!-- innholds-hash: d73c51d433868d84582ba43dc40addcaf00533e68929187a194dcd5fa5726f2f -->
+<!-- innholds-hash: 7b05f138d3b45fb9ff37a0c2809f58923949e6831e5579c23db1ad3a9316732b -->
 
 # Ledige stillinger - arbeidsplassen.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav
-- **Sist hentet:** 2026-07-21T12:11:57Z
+- **Sist hentet:** 2026-07-29T12:14:41Z
 
 ## Innhold
 
@@ -868,6 +868,8 @@ Markedsføring og reklame (Kategori)
 
 Personlig tjenesteyting (Kategori)
 
+Post og måleavlesere (Kategori)
+
 Renholdere og renovasjon (Kategori)
 
 Salg, butikk- og varehandel (Kategori)
@@ -1122,7 +1124,7 @@ Nav
 
 Søket ditt
 
-199 stillinger
+224 stillinger
 
 16. juli 2026
 
@@ -1236,20 +1238,6 @@ Sted
 
 Søk senest torsdag 20. august
 
-I går
-
-Kvalitet og internkontroll
-
-Arbeidsgiver
-
-Kvalitetsseksjonen, Nav
-
-Sted
-
-Oslo
-
-Søk senest mandag 17. august
-
 26. juni 2026
 
 Økonomisk rådgiver
@@ -1263,6 +1251,20 @@ Sted
 Ørje
 
 Søk senest torsdag 20. august
+
+20. juli 2026
+
+Kvalitet og internkontroll
+
+Arbeidsgiver
+
+Kvalitetsseksjonen, Nav
+
+Sted
+
+Oslo
+
+Søk senest mandag 17. august
 
 9. juli 2026
 
@@ -1304,7 +1306,7 @@ Oslo
 
 Søk senest mandag 10. august
 
-I går
+20. juli 2026
 
 Personal- og kompetanseleder for design
 
@@ -1344,7 +1346,19 @@ Stavanger
 
 Søk senest mandag 10. august
 
-I går
+To dager siden
+
+Arbeidsgiver
+
+Nav Frogner
+
+Sted
+
+Oslo
+
+Søk senest søndag 16. august
+
+20. juli 2026
 
 Arbeidsgiver
 
@@ -1355,20 +1369,6 @@ Sted
 Nøtterøy
 
 Søk senest mandag 10. august
-
-29. juni 2026
-
-Veileder
-
-Arbeidsgiver
-
-Lyngen kommune
-
-Sted
-
-Lyngseidet
-
-Søk senest søndag 26. juli
 
 9. juli 2026
 
@@ -1382,21 +1382,7 @@ Stjørdal
 
 Søk senest søndag 16. august
 
-17. juni 2026
-
-Økonomisk veileder 100 % fast stilling
-
-Arbeidsgiver
-
-Vestre Toten kommune NAV
-
-Sted
-
-Raufoss
-
-Søk senest mandag 27. juli
-
-I går
+20. juli 2026
 
 Veileder
 
@@ -1409,6 +1395,18 @@ Sted
 Grimstad
 
 Søk senest søndag 9. august
+
+22. juli 2026
+
+Arbeidsgiver
+
+Nav Kongsvinger
+
+Sted
+
+Kongsvinger
+
+Søk senest søndag 16. august
 
 9. juli 2026
 
@@ -1450,17 +1448,17 @@ Kongsberg
 
 Søk senest søndag 9. august
 
-8. juli 2026
+To dager siden
 
 Arbeidsgiver
 
-Tromsø, Nav
+Nav Stord // Regionkontor Sunnhordaland
 
 Sted
 
-Tromsø
+Stord
 
-Søk senest søndag 16. august
+Søk senest mandag 10. august
 
 
 ### Var søketreffene relevante?
@@ -1480,3 +1478,4 @@ Har du tilbakemeldinger eller noe du savner?
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-07-29** Innhold endret (se git-historikk for diff)
