@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e7c230e47547a4d4f2b777652d66f5f48e512d3800c6b2fddbd7045c0332932 -->
+<!-- innholds-hash: 486b3048f0db2aaeacc3a99f1530b0c01135ed8e6e1f2b64d744c45b816798c1 -->
 
 # Rapport fra utvalget til å vurdere Riksrevisjonens internasjonale bistandsvirksomhet
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-30T09:50:57Z
+- **Sist hentet:** 2026-07-30T17:21:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200073
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785402316074+0200)/",
+  "respons_dato_tid": "/Date(1785431389264+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785402316074+0200)/",
+      "respons_dato_tid": "/Date(1785431389264+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785402316074+0200)/",
+      "respons_dato_tid": "/Date(1785431389264+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
@@ -48,7 +48,7 @@
   "innstilling_id": 17518,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785402107074+0200)/",
+    "respons_dato_tid": "/Date(1785431105940+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200073,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785402316074+0200)/",
+      "respons_dato_tid": "/Date(1785431389264+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -66,7 +66,7 @@
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785373700344+0200)/",
+        "respons_dato_tid": "/Date(1785416900998+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -254,5 +254,6 @@
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
+- **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)

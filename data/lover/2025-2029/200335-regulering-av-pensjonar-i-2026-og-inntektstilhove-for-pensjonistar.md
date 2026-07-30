@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3e01318173d3bda3bc8d51843f69d666ed83b5dec3ae5a463c6e281b16499692 -->
+<!-- innholds-hash: 9856246c4b15fa7b176050be0a6b4e5fa3a160634f1fc2e88ace0f847f1740e7 -->
 
 # Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-30T09:50:57Z
+- **Sist hentet:** 2026-07-30T17:21:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200335
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785402316058+0200)/",
+  "respons_dato_tid": "/Date(1785431389123+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785402316058+0200)/",
+      "respons_dato_tid": "/Date(1785431389186+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
@@ -39,7 +39,7 @@
   "innstilling_id": 17536,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785402107074+0200)/",
+    "respons_dato_tid": "/Date(1785431105940+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200335,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785402316058+0200)/",
+      "respons_dato_tid": "/Date(1785431389186+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
@@ -57,7 +57,7 @@
       "id": "AU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785373700344+0200)/",
+        "respons_dato_tid": "/Date(1785416900998+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -262,5 +262,6 @@
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
+- **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
