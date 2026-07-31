@@ -1,11 +1,11 @@
-<!-- innholds-hash: a8556a83fffe4195397844948e0ebdd4d875e6c0b6fc926becbb0017cdaa8ecb -->
+<!-- innholds-hash: b345738a365f615da6adac97bd33839035004498c5a734475585a027faf17e9b -->
 
 # Sickness benefit  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger/en
-- **Sist hentet:** 2026-07-18T00:35:42Z
+- **Sist hentet:** 2026-07-31T14:23:51Z
 
 ## Innhold
 
@@ -1003,7 +1003,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -1015,7 +1015,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -1025,3 +1025,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

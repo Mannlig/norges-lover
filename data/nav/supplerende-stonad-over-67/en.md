@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8ee7423368111663d0bbcf8e2669a8a468cccf3b490d714cb03665f36aff1cff -->
+<!-- innholds-hash: a9f8d7415da9b5c3c86cc77a78374751d1e752b473efd5a6916182766fcb647d -->
 
 # Supplementary benefit for persons over 67 who have only lived a short period in Norway - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/supplerende-stonad-over-67/en
-- **Sist hentet:** 2026-07-18T00:35:01Z
+- **Sist hentet:** 2026-07-31T14:23:08Z
 
 ## Innhold
 
@@ -202,7 +202,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -214,7 +214,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 34
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -224,3 +224,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

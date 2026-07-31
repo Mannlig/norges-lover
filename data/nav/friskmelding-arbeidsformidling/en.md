@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2832c30bc6dcb8e9bbf2688493a0b727c2ac337ee2ce4ea97f9fe7dd0a14cde0 -->
+<!-- innholds-hash: 393677c391fbdd3a057082a3ce6669046f8d3969397c87320f4bcbef3a41fd08 -->
 
 # Fit for employment scheme - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/friskmelding-arbeidsformidling/en
-- **Sist hentet:** 2026-07-18T00:48:50Z
+- **Sist hentet:** 2026-07-31T14:37:13Z
 
 ## Innhold
 
@@ -70,7 +70,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -82,7 +82,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -92,3 +92,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

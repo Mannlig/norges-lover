@@ -1,11 +1,11 @@
-<!-- innholds-hash: 77814eba3d80a87e366353db3bb52ef867f3bfce2d68fa784ef596f84bc647ae -->
+<!-- innholds-hash: fc454de1b36ddf4b4a9ca74599f26a09e539162da12f7f4410d5ea9507b95c4a -->
 
 # Child benefit - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetrygd/en
-- **Sist hentet:** 2026-07-18T00:21:08Z
+- **Sist hentet:** 2026-07-31T14:09:09Z
 
 ## Innhold
 
@@ -372,7 +372,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -384,7 +384,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -395,3 +395,4 @@ Closed now, opens tomorrow at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

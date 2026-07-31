@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8609dc422fa4321d01d11e74a506017556895f1cd5cb438812b52862c51e761c -->
+<!-- innholds-hash: 63ab2a03bb03229c0914d6d3598bbf533be233620583f751eb9c064392cdda9c -->
 
 # Fill in employment status form - unemployment benefit (dagpenger) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-dagpenger/en
-- **Sist hentet:** 2026-07-18T00:41:12Z
+- **Sist hentet:** 2026-07-31T14:29:34Z
 
 ## Innhold
 
@@ -269,7 +269,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -290,3 +290,4 @@ Response time is 3 business days. If you need answers faster, please see our cha
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

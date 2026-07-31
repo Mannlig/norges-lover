@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4cc821bd0fb9e837976acf17366be6c46e333ffcbceaafcb46b1be9eb6dd6270 -->
+<!-- innholds-hash: ed4c10d0d3b84bd55534159b4da0ee28b7f05fb059f62ae7179d30cb8468df4c -->
 
 # Retirement pension - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon/en
-- **Sist hentet:** 2026-07-18T00:17:39Z
+- **Sist hentet:** 2026-07-31T14:05:38Z
 
 ## Innhold
 
@@ -1113,7 +1113,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -1125,7 +1125,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 34
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -1136,3 +1136,4 @@ Closed now, opens tomorrow at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

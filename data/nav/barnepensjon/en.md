@@ -1,11 +1,11 @@
-<!-- innholds-hash: ca0a0fcaf5d1f9dffd879e3da4a1ea3034681be715831e3587dda7b49cf1f394 -->
+<!-- innholds-hash: 9f5811b3a3acf2f6cecdffc9a348117297f0d9566c640d619e5704caca73458f -->
 
 # Children’s pension - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnepensjon/en
-- **Sist hentet:** 2026-07-18T00:19:42Z
+- **Sist hentet:** 2026-07-31T14:07:45Z
 
 ## Innhold
 
@@ -341,7 +341,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -353,7 +353,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 34
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -363,3 +363,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-18** Første gang hentet
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

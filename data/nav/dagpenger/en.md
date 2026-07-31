@@ -1,11 +1,11 @@
-<!-- innholds-hash: 197dc7d4ab9ff2fca0b08eaac8eb7cfd3e7443ef483542fd416486872808a146 -->
+<!-- innholds-hash: 68722888651bc494ef95184f1ba8841e5193718091a0ee88a1888be31e6e2621 -->
 
 # Unemployment benefit (dagpenger) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger/en
-- **Sist hentet:** 2026-07-18T00:21:52Z
+- **Sist hentet:** 2026-07-31T14:09:51Z
 
 ## Innhold
 
@@ -1026,7 +1026,7 @@ You will first meet chatbot Frida. On weekdays from 9 to 15, you can ask Frida t
 
 Always open
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 #### Write to us
@@ -1038,7 +1038,7 @@ Response time is 3 business days. If you need answers faster, please see our cha
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens Monday at 9am
 
 
 ---
@@ -1049,3 +1049,4 @@ Closed now, opens tomorrow at 9am
 - **2026-06-18** Første gang hentet
 - **2026-06-29** Innhold endret (se git-historikk for diff)
 - **2026-07-18** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)
