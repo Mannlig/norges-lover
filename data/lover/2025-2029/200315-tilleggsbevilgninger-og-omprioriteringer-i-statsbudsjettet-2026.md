@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2148eb03682f1194bfa4c4a9f0d0545c7dee5aa418d03fab111d02a2c8d81f62 -->
+<!-- innholds-hash: 6b3a18cd22aafc6840d0cd4139e593d9efdd33792b817191bb8993cf2171f1b6 -->
 
 # Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-30T23:37:19Z
+- **Sist hentet:** 2026-07-31T05:17:49Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200315
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785452424350+0200)/",
+  "respons_dato_tid": "/Date(1785474255271+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785452424350+0200)/",
+      "respons_dato_tid": "/Date(1785474255271+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17546,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785452418771+0200)/",
+    "respons_dato_tid": "/Date(1785474042755+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200315,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785452424350+0200)/",
+      "respons_dato_tid": "/Date(1785474255271+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -57,7 +57,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785452419771+0200)/",
+        "respons_dato_tid": "/Date(1785459761365+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -257,3 +257,4 @@
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)

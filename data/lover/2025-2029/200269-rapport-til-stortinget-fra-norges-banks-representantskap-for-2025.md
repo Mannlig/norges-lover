@@ -1,4 +1,4 @@
-<!-- innholds-hash: aca82ebd92d402a9d11d72185ecb082648fefde443973fe5fbc0dc05c8a640e0 -->
+<!-- innholds-hash: 68c7fffe3fe71ef9fba840d04fa033390169994f05b5610e565a74f502a68715 -->
 
 # Rapport til Stortinget fra Norges Banks representantskap for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-07-30T23:37:19Z
+- **Sist hentet:** 2026-07-31T05:17:49Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200269
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785452426180+0200)/",
+  "respons_dato_tid": "/Date(1785474255381+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785452426180+0200)/",
+      "respons_dato_tid": "/Date(1785474255381+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17491,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785452418771+0200)/",
+    "respons_dato_tid": "/Date(1785474042755+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200269,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785452426180+0200)/",
+      "respons_dato_tid": "/Date(1785474255381+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
@@ -57,7 +57,7 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785452419771+0200)/",
+        "respons_dato_tid": "/Date(1785459761365+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
@@ -264,3 +264,4 @@
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
 - **2026-07-30** Innhold endret (se git-historikk for diff)
+- **2026-07-31** Innhold endret (se git-historikk for diff)
