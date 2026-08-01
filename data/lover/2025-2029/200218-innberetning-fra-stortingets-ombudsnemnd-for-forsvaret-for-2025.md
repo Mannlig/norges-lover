@@ -1,4 +1,4 @@
-<!-- innholds-hash: 32c4fd1ba1467cc21ebc07298685283ec3e313514a1be1d09819f3886809dab8 -->
+<!-- innholds-hash: d0d2933910e635de298c8554e2a7a97b59520ff52adb99e774d4de29365e0210 -->
 
 # Innberetning fra Stortingets ombudsnemnd for Forsvaret for 2025
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200218
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744825+0200)/",
+  "respons_dato_tid": "/Date(1785600662868+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
@@ -48,7 +48,7 @@
   "innstilling_id": 17520,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -57,7 +57,7 @@
   "sak_fremmet_id": 200218,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Myrli",
@@ -66,7 +66,7 @@
       "id": "SMY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -262,5 +262,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)

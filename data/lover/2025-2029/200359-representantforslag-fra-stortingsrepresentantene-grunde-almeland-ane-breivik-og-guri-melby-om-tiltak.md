@@ -1,4 +1,4 @@
-<!-- innholds-hash: dea0a1bd5f323bdb3f1b71c8e7f3ef983d99ef21594a6da6be22a351879f65e2 -->
+<!-- innholds-hash: 36bd368b256a79beda029a76e856806e8a39a60196b89c1c1953af0da1859592 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -11,20 +11,20 @@
 - **Status:** 2
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744731+0200)/",
+  "respons_dato_tid": "/Date(1785600662727+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 5,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -51,7 +51,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
@@ -60,7 +60,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -71,7 +71,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Breivik",
@@ -80,7 +80,7 @@
       "id": "ANEBRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -96,7 +96,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
@@ -105,7 +105,7 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -121,7 +121,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
@@ -130,7 +130,7 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
@@ -151,7 +151,7 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -326,5 +326,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)

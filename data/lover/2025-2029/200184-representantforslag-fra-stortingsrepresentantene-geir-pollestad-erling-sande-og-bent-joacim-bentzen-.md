@@ -1,4 +1,4 @@
-<!-- innholds-hash: 93a39632cbaf2ad0d49cba41c69c9c61c8c85b9e1e980ee659769c775f7b0c4e -->
+<!-- innholds-hash: b9dae24198b01685343df4a8446fe3900985462692861601aebcddcb434fef56 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Erling Sande og Bent-Joacim Bentzen om videreføring av Innovasjon Norges desentraliserte struktur
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200184
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744966+0200)/",
+  "respons_dato_tid": "/Date(1785600663009+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
@@ -53,7 +53,7 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
@@ -69,7 +69,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
@@ -78,7 +78,7 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
@@ -94,7 +94,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
@@ -103,7 +103,7 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
@@ -124,7 +124,7 @@
   "innstilling_id": 17499,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -133,7 +133,7 @@
   "sak_fremmet_id": 200184,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
@@ -142,7 +142,7 @@
       "id": "TAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
@@ -355,5 +355,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)

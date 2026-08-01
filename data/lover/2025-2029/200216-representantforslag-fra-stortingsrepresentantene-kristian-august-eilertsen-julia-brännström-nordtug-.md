@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5fdc2d311ab5bd3ae276eb717cc751429076705369b8d9a7c8ba1a1215a3d861 -->
+<!-- innholds-hash: c0fa75d48292f1083cc75086730e351bc3e00f9543659fc302f2e8f1f17bf454 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Julia Brännström Nordtug, Bård Hoksrud, Stig Atle Abrahamsen og Anne Grethe Hauan om beskyttelse av spedbarn mot RS-virus
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200216
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744966+0200)/",
+  "respons_dato_tid": "/Date(1785600663009+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -35,7 +35,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
@@ -44,7 +44,7 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
@@ -60,7 +60,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
@@ -69,7 +69,7 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
@@ -85,7 +85,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
@@ -94,7 +94,7 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
@@ -110,7 +110,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
@@ -119,7 +119,7 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
@@ -135,7 +135,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
@@ -144,7 +144,7 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -165,7 +165,7 @@
   "innstilling_id": 17511,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -174,7 +174,7 @@
   "sak_fremmet_id": 200216,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744966+0200)/",
+      "respons_dato_tid": "/Date(1785600663009+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergheim",
@@ -183,7 +183,7 @@
       "id": "RAGBER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -399,5 +399,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)

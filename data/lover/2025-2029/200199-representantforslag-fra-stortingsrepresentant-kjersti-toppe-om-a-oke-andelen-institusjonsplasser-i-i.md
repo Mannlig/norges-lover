@@ -1,4 +1,4 @@
-<!-- innholds-hash: d81d6971013b255393e3c9c225e98e351ee1907877f20f346835a395efe3400e -->
+<!-- innholds-hash: 1c9bd5975aa67f7e6ce88f4261849bcb2d4051e8d5fe618339fef3251b2403db -->
 
 # Representantforslag fra stortingsrepresentant Kjersti Toppe om å øke andelen institusjonsplasser i ideelle barnevernsinstitusjoner
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200199
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744825+0200)/",
+  "respons_dato_tid": "/Date(1785600662868+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
@@ -44,7 +44,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
@@ -53,7 +53,7 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
@@ -74,7 +74,7 @@
   "innstilling_id": 17416,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -83,7 +83,7 @@
   "sak_fremmet_id": 200199,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744825+0200)/",
+      "respons_dato_tid": "/Date(1785600662868+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gustavsen",
@@ -92,7 +92,7 @@
       "id": "LIG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -303,5 +303,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)

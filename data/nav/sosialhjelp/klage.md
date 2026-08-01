@@ -1,11 +1,11 @@
-<!-- innholds-hash: e888f21d44f8bcbc1681271161a78e30d6870243b2f2bd828a34ca46e74b60a1 -->
+<!-- innholds-hash: 737efc2049a80d26a0d3543e4a61f627016b03811b12eb364bcec70763253c69 -->
 
 # Økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sosialhjelp/klage
-- **Sist hentet:** 2026-07-23T14:02:27Z
+- **Sist hentet:** 2026-08-01T19:11:46Z
 
 ## Innhold
 
@@ -295,12 +295,12 @@ Hvis du er usikker på om endringen vil påvirke utbetalingen eller oppfølginge
 - Sivilstatusen din endrer seg, for eksempel du blir gift eller skilt, får eller flytter fra samboer, ektefelle eller samboer dør.
 - Familiesituasjonen din endrer seg ved at du får barn, et barn flytter eller du ikke lenger forsørger barnet/barna dine.
 - Du får utbetalt penger i form av utbytte på aksjer, fond, salg av eiendom/eiendeler eller annet.
-Oppdatert 08.04.2026
+Oppdatert 30.07.2026
 
 
 #### Ring oss på 55 55 33 33
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 
 #### Finn ditt Nav-kontor
@@ -315,3 +315,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-14** Innhold endret (se git-historikk for diff)
 - **2026-07-23** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)

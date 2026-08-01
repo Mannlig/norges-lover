@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc05cd5f8c0c5e57d762d1c66092a10703e98acdca60d696375b1afb56e4f265 -->
+<!-- innholds-hash: 5760c3efcdb10ec75e3c4da23395eee6427cae0738dcd4a1adae9a232f5d9e6c -->
 
 # Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T10:19:18Z
+- **Sist hentet:** 2026-08-01T16:18:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200315
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785578744747+0200)/",
+  "respons_dato_tid": "/Date(1785600662743+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -39,7 +39,7 @@
   "innstilling_id": 17546,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785578509278+0200)/",
+    "respons_dato_tid": "/Date(1785600173352+0200)/",
     "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -48,7 +48,7 @@
   "sak_fremmet_id": 200315,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785578744747+0200)/",
+      "respons_dato_tid": "/Date(1785600662743+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
@@ -57,7 +57,7 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785538820629+0200)/",
+        "respons_dato_tid": "/Date(1785582021573+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
@@ -261,5 +261,6 @@
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
 - **2026-07-31** Innhold endret (se git-historikk for diff)
+- **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
