@@ -1,4 +1,4 @@
-<!-- innholds-hash: caa39a1552d7c90331b037f5500965301f8a1fcf63e858f7414fe94e4756753e -->
+<!-- innholds-hash: cd70132f441d1665dcf2c2b389f29a5b1e1613a5395485d19817f31dfa397205 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Sofie Marhaug og Geir Jørgensen om å sikre rullestolbrukere likeverdig tilgang til luftfart
 
@@ -11,20 +11,20 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T21:56:47Z
+- **Sist hentet:** 2026-08-02T04:06:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200308
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785618808483+0200)/",
+  "respons_dato_tid": "/Date(1785643307262+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
@@ -33,7 +33,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -42,7 +42,7 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 167,
@@ -53,7 +53,7 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
@@ -62,14 +62,14 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785582021573+0200)/",
+        "respons_dato_tid": "/Date(1785632941531+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785538820285+0200)/",
+        "respons_dato_tid": "/Date(1785625217108+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -78,7 +78,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
@@ -87,14 +87,14 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785582021573+0200)/",
+        "respons_dato_tid": "/Date(1785632941531+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785538820285+0200)/",
+        "respons_dato_tid": "/Date(1785625217108+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -103,7 +103,7 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
@@ -112,14 +112,14 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785582021573+0200)/",
+        "respons_dato_tid": "/Date(1785632941531+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785538820285+0200)/",
+        "respons_dato_tid": "/Date(1785625217108+0200)/",
         "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
@@ -133,7 +133,7 @@
   "innstilling_id": 17534,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785618267859+0200)/",
+    "respons_dato_tid": "/Date(1785643287875+0200)/",
     "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
@@ -142,7 +142,7 @@
   "sak_fremmet_id": 200308,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785618808483+0200)/",
+      "respons_dato_tid": "/Date(1785643307262+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
@@ -151,14 +151,14 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785582021573+0200)/",
+        "respons_dato_tid": "/Date(1785632941531+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785538820285+0200)/",
+        "respons_dato_tid": "/Date(1785625217108+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -365,3 +365,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)

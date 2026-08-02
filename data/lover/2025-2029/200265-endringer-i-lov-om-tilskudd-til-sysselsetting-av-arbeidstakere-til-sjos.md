@@ -1,4 +1,4 @@
-<!-- innholds-hash: dce8111d128349062ebf9fd5ddf17d9c5635bf4ebcda3574ddae161a4d6cb1da -->
+<!-- innholds-hash: 834068f4191425f530bab2b37b5bfeef0596726fda0cdf56dd594d9f446a49c4 -->
 
 # Endringer i lov om tilskudd til sysselsetting av arbeidstakere til sjøs
 
@@ -11,14 +11,14 @@
 - **Status:** 1
 - **Stortingsperiode:** 2025-2029
 - **Behandlet:** 
-- **Sist hentet:** 2026-08-01T21:56:47Z
+- **Sist hentet:** 2026-08-02T04:06:20Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200265
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785618808499+0200)/",
+  "respons_dato_tid": "/Date(1785643307277+0200)/",
   "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
@@ -29,7 +29,7 @@
   "innstilling_id": 17524,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1785618267859+0200)/",
+    "respons_dato_tid": "/Date(1785643287875+0200)/",
     "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -38,7 +38,7 @@
   "sak_fremmet_id": 200265,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785618808499+0200)/",
+      "respons_dato_tid": "/Date(1785643307277+0200)/",
       "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
@@ -47,14 +47,14 @@
       "id": "MARNIL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785582021573+0200)/",
+        "respons_dato_tid": "/Date(1785632941531+0200)/",
         "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785538820285+0200)/",
+        "respons_dato_tid": "/Date(1785625217108+0200)/",
         "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
@@ -260,3 +260,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)

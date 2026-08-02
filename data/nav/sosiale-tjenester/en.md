@@ -1,11 +1,11 @@
-<!-- innholds-hash: 14358d8f006579590b60db73a860e666c84d997851b62b9d964696bf7e3f4323 -->
+<!-- innholds-hash: f16ef40031e6d1dfb7d66542002f424638aed1e63a5ced13ef4bf181a68127c9 -->
 
 # Social services and guidance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sosiale-tjenester/en
-- **Sist hentet:** 2026-07-25T05:37:55Z
+- **Sist hentet:** 2026-08-02T06:06:23Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 #### Find your local Nav office
@@ -31,3 +31,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-14** Første gang hentet
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)

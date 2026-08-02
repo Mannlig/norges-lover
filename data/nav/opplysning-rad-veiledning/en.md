@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0e05277e55c7f49dbadad5aff2d7f1b1c4151aedca80f9229c5e55b4533672c8 -->
+<!-- innholds-hash: 85fe02cb3313f9584d65a809532a4db60bde74ab672404cae2d120b5e88c1360 -->
 
 # Need advice and guidance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplysning-rad-veiledning/en
-- **Sist hentet:** 2026-07-25T05:36:31Z
+- **Sist hentet:** 2026-08-02T06:04:59Z
 
 ## Innhold
 
@@ -63,7 +63,7 @@ Updated 07/04/2025
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 ---
@@ -73,3 +73,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-14** Første gang hentet
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)

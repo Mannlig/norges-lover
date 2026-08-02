@@ -1,11 +1,11 @@
-<!-- innholds-hash: ebf2bca5e9a20dfaa149507603a3f3a53fb3a8d4f3ec891a21c032091639aea3 -->
+<!-- innholds-hash: 52a08408de5e812a63779dda68e56386018b8c86ef16f0875b96117f57796c53 -->
 
 # Financial assistance - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomisk-sosialhjelp/en
-- **Sist hentet:** 2026-07-25T05:31:47Z
+- **Sist hentet:** 2026-08-02T06:00:08Z
 
 ## Innhold
 
@@ -84,7 +84,7 @@ When the Nav office is considering your application, they may require you to app
 
 If you have low income and high housing expenses, housing allowance from the Norwegian State Housing Bank can be an option for you. The housing allowance scheme was extended i 2023.
 
-The Storting has decided that households will get a deduction in the bill from their grid company or electricity provider when electricity prices are extraordinarily high. The scheme is active in 2024. Go to
+In recent years, the government has introduced several measures to help households with high electricity prices.
 
 You can also apply for money to cover other expenses which are not mentioned above.
 
@@ -305,12 +305,12 @@ If you are not sure whether your change will affect your payment, there will be 
 - Your marital status changes, such as getting married or divorced, moving in with or separating from a partner, or your partner/spouse dies.
 - Your family situation changes because you have a child, one of your children moves out, or you no longer provide for your child or children.
 - You get a payment in the form of dividend on shares, funds, the sale of property/assets, etc.
-Updated 04/08/2026
+Updated 07/30/2026
 
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 #### Find your local Nav office
@@ -323,3 +323,4 @@ Closed now, opens tomorrow at 9am
 
 - **2026-06-14** Første gang hentet
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: b9c1f30cbbd0e8a6d36fa7adf6aa093b9580cc55da462d213df6c3a5ed17f588 -->
+<!-- innholds-hash: 341b55938d850c98d5353d23b5b3f269f56358d8f6385c97a44567ffb1a22018 -->
 
 # Qualification Programme - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kvalifiseringsprogrammet/en
-- **Sist hentet:** 2026-07-25T05:33:12Z
+- **Sist hentet:** 2026-08-02T06:01:27Z
 
 ## Innhold
 
@@ -137,7 +137,7 @@ Updated 06/17/2026
 
 #### Call us at 55 55 33 33
 
-Closed now, opens tomorrow at 9am
+Closed now, opens at 9am
 
 
 ---
@@ -148,3 +148,4 @@ Closed now, opens tomorrow at 9am
 - **2026-06-14** Første gang hentet
 - **2026-06-22** Innhold endret (se git-historikk for diff)
 - **2026-07-25** Innhold endret (se git-historikk for diff)
+- **2026-08-02** Innhold endret (se git-historikk for diff)
