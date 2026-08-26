@@ -6,6 +6,11 @@ on:
     - cron: "0 8 * * *"
   workflow_dispatch:
 
+# GitHub-brukeren som skal varsles. Tildeling + @-omtale gir e-post via
+# GitHub sine standard notification-innstillinger – ingen SMTP-oppsett.
+env:
+  VARSLE_BRUKER: Mannlig
+
 jobs:
   sjekk-heartbeat:
     runs-on: ubuntu-latest
@@ -41,15 +46,16 @@ jobs:
             core.setOutput("siste", sisteDato.toISOString());
             core.setOutput("stille", timerSiden > 12 ? "true" : "false");
 
-      - name: Åpne issue hvis Pi er stille
+      - name: Varsle hvis Pi er stille
         if: steps.sjekk.outputs.stille == 'true'
         uses: actions/github-script@v7
         with:
           script: |
             const timerSiden = "${{ steps.sjekk.outputs.timer_siden }}";
             const siste = "${{ steps.sjekk.outputs.siste }}";
+            const bruker = process.env.VARSLE_BRUKER;
+            const dager = (Number(timerSiden) / 24).toFixed(1);
 
-            // Sjekk om det allerede finnes et åpent varslings-issue
             const { data: issues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -57,37 +63,69 @@ jobs:
               labels: "pi-stille",
             });
 
+            // Finnes det allerede et varsel? Purr på det i stedet for å
+            // lage et nytt – ett enkelt issue som ingen ser er nettopp
+            // grunnen til at nedetid har fått stå i ukevis.
             if (issues.length > 0) {
-              console.log("Issue finnes allerede, hopper over.");
+              const issue = issues[0];
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `@${bruker} Pi-en er **fortsatt** stille – ${timerSiden} timer (${dager} døgn) siden siste heartbeat.`,
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                title: `⚠️ Pi har ikke kjørt på ${dager} døgn`,
+              });
+              console.log(`Purret på issue #${issue.number} (${timerSiden}t nede).`);
               return;
             }
 
-            await github.rest.issues.create({
+            const body = [
+              `@${bruker} – automatisk varsel: Pi-en er stille.`,
+              "",
+              `Siste heartbeat-commit: **${siste}**`,
+              `Stille i: **${timerSiden} timer**`,
+              "",
+              "### Sjekk på Pi-en",
+              "```bash",
+              "cd ~/norges-lover",
+              "docker compose ps        # kjører containeren?",
+              "df -h /                  # fullt SD-kort?",
+              "docker compose logs --tail=40",
+              "```",
+              "",
+              "| Symptom | Tiltak |",
+              "|---|---|",
+              "| `ps` tom / `Exited` | `docker compose up -d` |",
+              "| `df` viser 100 % | `docker system prune -a` og `git gc --aggressive` |",
+              "| `403` / `Authentication failed` | GitHub-token utløpt – forny i `.env` |",
+              "",
+              "*Lukkes automatisk når Pi-en er i gang igjen. Purres daglig til da.*",
+            ].join("\n");
+
+            const { data: nytt } = await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `⚠️ Pi har ikke kjørt på ${timerSiden} timer`,
-              body: [
-                "## Automatisk varsel – Pi er stille",
-                "",
-                `Siste heartbeat-commit: **${siste}**`,
-                `Stille i: **${timerSiden} timer**`,
-                "",
-                "### Mulige årsaker",
-                "- Pi har krasjet eller mistet strøm",
-                "- `norges-lover`-tjenesten har stoppet",
-                "- Nettverksfeil mot GitHub",
-                "",
-                "### Sjekk",
-                "```bash",
-                "systemctl status norges-lover",
-                "tail -50 logs/scraper.log",
-                "pgrep -a python",
-                "```",
-                "",
-                "*Dette issuset lukkes automatisk når Pi-en er i gang igjen og en ny heartbeat er registrert.*",
-              ].join("\n"),
+              body,
               labels: ["pi-stille"],
             });
+
+            // Tildeling gir e-post selv om @-omtalen skulle bli oversett.
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: nytt.number,
+                assignees: [bruker],
+              });
+            } catch (e) {
+              console.log(`Kunne ikke tildele til ${bruker}: ${e.message}`);
+            }
 
       - name: Lukk issue hvis Pi er i gang igjen
         if: steps.sjekk.outputs.stille == 'false'
