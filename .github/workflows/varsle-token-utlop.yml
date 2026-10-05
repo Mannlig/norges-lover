@@ -1,0 +1,157 @@
+name: Varsle før GitHub-token utløper
+
+# Pi-en pusher med et personal access token. Når det utløper, fortsetter
+# den å scrape som normalt men får ikke pushet – utenfra ser det ut som
+# om maskinen er død. Det skjedde 2. august 2026 og sto uoppdaget i to
+# måneder. Denne sjekken varsler i god tid før neste gang.
+
+on:
+  schedule:
+    - cron: "25 8 * * *"
+  workflow_dispatch:
+
+env:
+  # ───────────────────────────────────────────────────────────────
+  # OPPDATER DENNE når du lager nytt token, ellers varsler den på feil
+  # dato. Formatet er YYYY-MM-DD.
+  TOKEN_UTLOP: "2027-01-01"
+  # ───────────────────────────────────────────────────────────────
+  VARSLE_BRUKER: Mannlig
+  VARSLE_DAGER_FOR: "14"
+
+jobs:
+  sjekk-token-utlop:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - name: Sjekk hvor lenge tokenet varer
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const bruker = process.env.VARSLE_BRUKER;
+            const utlopTekst = process.env.TOKEN_UTLOP;
+            const varsleFor = Number(process.env.VARSLE_DAGER_FOR);
+            const LABEL = "token-utlop";
+
+            const utlop = new Date(`${utlopTekst}T00:00:00Z`);
+            if (isNaN(utlop)) {
+              core.setFailed(`TOKEN_UTLOP er ikke en gyldig dato: "${utlopTekst}"`);
+              return;
+            }
+
+            const dagerTil = Math.ceil((utlop - new Date()) / 86400000);
+            console.log(`Tokenet utløper ${utlopTekst} – ${dagerTil} dager igjen.`);
+
+            const { data: aapne } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: LABEL,
+            });
+
+            // God margin igjen: datoen må ha blitt oppdatert, så et
+            // eventuelt gammelt varsel er ikke relevant lenger.
+            if (dagerTil > varsleFor) {
+              for (const issue of aapne) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  body: `✅ Nytt token registrert – utløper ${utlopTekst} (${dagerTil} dager igjen). Lukker.`,
+                });
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: "closed",
+                });
+              }
+              return;
+            }
+
+            const utlopt = dagerTil <= 0;
+            const tittel = utlopt
+              ? `🛑 GitHub-tokenet utløp ${utlopTekst} – Pi-en kan ikke pushe`
+              : `⏳ GitHub-tokenet utløper om ${dagerTil} dager (${utlopTekst})`;
+
+            // Purr bare på milepæler før utløp, men daglig etter – da er
+            // systemet faktisk nede.
+            const MILEPAELER = [7, 3, 1];
+            if (aapne.length > 0) {
+              const issue = aapne[0];
+              if (issue.title !== tittel) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  title: tittel,
+                });
+              }
+              if (utlopt || MILEPAELER.includes(dagerTil)) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  body: utlopt
+                    ? `@${bruker} Tokenet er **utløpt** (${utlopTekst}). Pi-en scraper videre, men ingenting når GitHub før det er byttet.`
+                    : `@${bruker} Påminnelse: **${dagerTil} dager** til tokenet utløper.`,
+                });
+              }
+              console.log(`Oppdaterte issue #${issue.number}.`);
+              return;
+            }
+
+            const body = [
+              utlopt
+                ? `@${bruker} – GitHub-tokenet Pi-en pusher med **utløp ${utlopTekst}**.`
+                : `@${bruker} – GitHub-tokenet Pi-en pusher med utløper **${utlopTekst}**, om **${dagerTil} dager**.`,
+              "",
+              "### Hvorfor dette varsles i forkant",
+              "",
+              "Når tokenet dør, stopper ikke scrapingen – den fortsetter som normalt,",
+              "men `git push` feiler og ingenting nytt kommer til GitHub. Heartbeat-",
+              "alarmen sier da «Pi-en er stille», selv om maskinen er helt frisk.",
+              "Det kostet to måneders data i august 2026.",
+              "",
+              "### Bytt token",
+              "",
+              "1. Lag nytt token: [github.com/settings/tokens](https://github.com/settings/tokens) → «Generate new token (classic)» → scope **`repo`**",
+              "2. På Pi-en:",
+              "",
+              "```bash",
+              "cd ~/norges-lover",
+              "nano .env                            # bytt verdien bak GITHUB_TOKEN=",
+              "docker compose up -d --force-recreate   # MÅ til: .env leses bare ved start",
+              "```",
+              "",
+              "3. **Oppdater `TOKEN_UTLOP` i `.github/workflows/varsle-token-utlop.yml`** til den nye datoen – ellers varsler denne sjekken på feil tidspunkt.",
+              "",
+              "Issuet lukkes automatisk når datoen er oppdatert til mer enn",
+              `${varsleFor} dager fram i tid.`,
+              "",
+              "> Vil du bli kvitt dette for godt, kan Pi-en bruke en deploy key (SSH)",
+              "> i stedet. Den utløper ikke.",
+            ].join("\n");
+
+            const { data: nytt } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: tittel,
+              body,
+              labels: [LABEL],
+            });
+
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: nytt.number,
+                assignees: [bruker],
+              });
+            } catch (e) {
+              console.log(`Kunne ikke tildele til ${bruker}: ${e.message}`);
+            }
+
+            console.log(`Opprettet issue #${nytt.number}.`);
