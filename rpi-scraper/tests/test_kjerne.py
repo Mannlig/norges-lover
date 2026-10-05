@@ -114,6 +114,12 @@ class Nettsted(unittest.TestCase):
             self.assertFalse(n.er_relevant(url), url)
         self.assertTrue(n.er_relevant("https://www.nav.no/arbeidsgiver/klage"))
 
+    def test_husbanken_ny_struktur(self):
+        from scrapers.husbanken import HusbankScraper
+        h = HusbankScraper()
+        self.assertTrue(h.er_relevant(h.normaliser("/person/bostotte/?redirect=/bostotte/")))
+        self.assertFalse(h.er_relevant("https://www.husbanken.no/om-husbanken/ledelse/"))
+
     def test_skatte_abc_tidligere_aar_fryses(self):
         s = SkatteetatenScraper()
         år = datetime.now(timezone.utc).year

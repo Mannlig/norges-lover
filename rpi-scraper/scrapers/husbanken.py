@@ -14,31 +14,22 @@ class HusbankScraper(NettstedScraper):
     base_url = "https://www.husbanken.no"
     source_url = base_url
     state_fil = "husbanken-state.json"
+    # Nettstedet ble omstrukturert (f.eks. /bostotte/ → /person/bostotte/),
+    # så faste prefikser avviste alle lenker – kilden leverte 2 filer på fem
+    # måneder. Hele domenet handler om boligfinansiering, så vi crawler alt
+    # unntatt seksjonene under.
     startpunkter = [
+        "https://www.husbanken.no/person/",
         "https://www.husbanken.no/bostotte/",
         "https://www.husbanken.no/startlan/",
         "https://www.husbanken.no/tilskudd/",
-        "https://www.husbanken.no/boligtilskudd/",
-        "https://www.husbanken.no/utleieboliger/",
         "https://www.husbanken.no/grunnlan/",
         "https://www.husbanken.no/kommuner/",
         "https://www.husbanken.no/regelverk/",
-        "https://www.husbanken.no/tema/",
     ]
-    inkluder_prefiks = (
-        "https://www.husbanken.no/bostotte/",
-        "https://www.husbanken.no/startlan/",
-        "https://www.husbanken.no/tilskudd/",
-        "https://www.husbanken.no/boligtilskudd/",
-        "https://www.husbanken.no/utleieboliger/",
-        "https://www.husbanken.no/grunnlan/",
-        "https://www.husbanken.no/kommuner/",
-        "https://www.husbanken.no/regelverk/",
-        "https://www.husbanken.no/tema/",
-        "https://www.husbanken.no/laane-og-tilskuddsordninger/",
-    )
     ekskluder = re.compile(
-        r"/(om-husbanken|presse|nyheter|kontakt|arrangementer|kurs|statistikk|ansatte)(/|$)",
+        r"/(om-husbanken|presse|nyheter|aktuelt|kontakt|arrangementer|kurs|"
+        r"statistikk|ansatte|jobb|ledige-stillinger|personvern|cookies)(/|$)",
         re.IGNORECASE,
     )
     innhold_selektorer = ["main", "article", "[role='main']", ".article-body", "#main-content"]
