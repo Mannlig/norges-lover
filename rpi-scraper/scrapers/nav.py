@@ -58,7 +58,8 @@ NAV_STARTPUNKTER = [
 _EKSKLUDER = re.compile(
     r"/(innlogging|logg-inn|sok|kontakt|om-nav|presse|"
     r"nyheter|arrangementer|sitemap|404|500|kontakt-oss|"
-    r"minside|samarbeidspartner|[a-z]{2}/person|nav/lov|nav-loven)(/|$)",
+    r"minside|samarbeidspartner|[a-z]{2}/person|"
+    r"nav/lov|nav/forskrift|nav/rundskriv|nav-loven)(/|$)",
     re.IGNORECASE,
 )
 
@@ -85,6 +86,7 @@ class NavScraper(BaseScraper):
         STATE_DIR.mkdir(parents=True, exist_ok=True)
         self._state_path = STATE_DIR / "nav-state.json"
         self._state = self._les_state()
+        self._rydd_ko()
 
         if self._bor_crawle_huber():
             self._crawl_huber()
@@ -93,6 +95,26 @@ class NavScraper(BaseScraper):
         gjenstaar = sum(1 for v in self._state.get("kø", {}).values() if not v["hentet"])
         logger.info("NAV: %d filer | %d gjenstår i kø", len(created), gjenstaar)
         return created
+
+    def _rydd_ko(self) -> int:
+        """
+        Fjern URL-er fra køen som ikke lenger passerer relevansfilteret.
+
+        Filteret brukes bare når lenker oppdages, så URL-er som havnet i
+        køen før et mønster ble utvidet ligger igjen og hentes på nytt
+        hver runde. Det gjaldt tusenvis av nav.no/nav/lov/… og
+        /nav/forskrift/…-adresser som alle svarer 404 og koster ~40
+        sekunder hver – de spiste nesten hele sidekvoten. Dette gjør
+        enhver senere utvidelse av _EKSKLUDER selvryddende.
+        """
+        kø = self._state.get("kø", {})
+        fjern = [k for k, v in kø.items() if not self._er_relevant_side(v["url"])]
+        for k in fjern:
+            del kø[k]
+        if fjern:
+            logger.info("Ryddet %d irrelevante URL-er fra NAV-køen", len(fjern))
+            self._lagre_state()
+        return len(fjern)
 
     def _bor_crawle_huber(self) -> bool:
         sist = self._state.get("sist_hub_crawl", "")
