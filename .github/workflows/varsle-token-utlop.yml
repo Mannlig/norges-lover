@@ -117,7 +117,7 @@ jobs:
               "",
               "### Bytt token",
               "",
-              "1. Lag nytt token: [github.com/settings/tokens](https://github.com/settings/tokens) → «Generate new token (classic)» → scope **`repo`**",
+              "1. Lag nytt fine-grained token: [github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new) → *Only select repositories* → `norges-lover` → Contents: **Read and write** (ingenting annet). Et classic token med `repo` gir tilgang til *alle* repoene dine.",
               "2. På Pi-en:",
               "",
               "```bash",

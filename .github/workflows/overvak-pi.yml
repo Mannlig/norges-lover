@@ -44,7 +44,9 @@ jobs:
 
             core.setOutput("timer_siden", timerSiden.toFixed(1));
             core.setOutput("siste", sisteDato.toISOString());
-            core.setOutput("stille", timerSiden > 12 ? "true" : "false");
+            // 20 t: en runde etter at køen er nullstilt kan ta 8–12 t, og
+            // falske alarmer gjør at de ekte blir oversett.
+            core.setOutput("stille", timerSiden > 20 ? "true" : "false");
 
       - name: Varsle hvis Pi er stille
         if: steps.sjekk.outputs.stille == 'true'
@@ -93,16 +95,18 @@ jobs:
               "### Sjekk på Pi-en",
               "```bash",
               "cd ~/norges-lover",
+              "docker compose logs --tail=300 | grep -E 'PUSH|KRASJ|Starter scraper'",
               "docker compose ps        # kjører containeren?",
               "df -h /                  # fullt SD-kort?",
-              "docker compose logs --tail=40",
               "```",
               "",
-              "| Symptom | Tiltak |",
-              "|---|---|",
-              "| `ps` tom / `Exited` | `docker compose up -d` |",
-              "| `df` viser 100 % | `docker system prune -a` og `git gc --aggressive` |",
-              "| `403` / `Authentication failed` | GitHub-token utløpt – forny i `.env` |",
+              "| Det du ser | Årsak | Tiltak |",
+              "|---|---|---|",
+              "| `PUSH-TILGANG AVVIST` | Token utløpt eller trukket tilbake. Pi-en lever, men venter. | Nytt token i `.env`, så `docker compose up -d --force-recreate` |",
+              "| `PUSH FEILET` | Push feilet midt i en runde (nett, konflikt) | Går som regel over av seg selv neste runde |",
+              "| `ps` tom / `Exited` | Containeren er nede | `docker compose up -d` |",
+              "| `df` viser 100 % | Fullt SD-kort | `docker system prune -a` og `git gc --aggressive` |",
+              "| Ingen logglinjer de siste timene | Pi-en er nede eller uten strøm | Sjekk strøm og nett |",
               "",
               "*Lukkes automatisk når Pi-en er i gang igjen. Purres daglig til da.*",
             ].join("\n");
@@ -151,5 +155,109 @@ jobs:
                 repo: context.repo.repo,
                 issue_number: issue.number,
                 state: "closed",
+                state_reason: "completed",
               });
+            }
+
+      # Pi-en lever, men enkeltkilder kan være døde (blokkert, ny HTML, krasj).
+      # Heartbeaten har en maskinlesbar linje: <!-- helse: kilde=OK kilde=FEIL -->
+      - name: Varsle om kilder med feil
+        if: steps.sjekk.outputs.stille == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const bruker = process.env.VARSLE_BRUKER;
+            const LABEL = "kilde-feil";
+            const { data: fil } = await github.rest.repos.getContent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: "data/status/heartbeat.md",
+            });
+            const tekst = Buffer.from(fil.content, "base64").toString("utf-8");
+            const linje = tekst.match(/<!-- helse: (.*?) -->/);
+            if (!linje) {
+              console.log("Heartbeat har ingen helselinje ennå (gammel kode på Pi-en).");
+              return;
+            }
+            const feil = linje[1].split(/\s+/)
+              .map(p => p.split("="))
+              .filter(([, status]) => status === "FEIL")
+              .map(([kilde]) => kilde);
+
+            const { data: aapne } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: LABEL,
+            });
+
+            if (feil.length === 0) {
+              for (const issue of aapne) {
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  body: "✅ Alle kilder er OK i siste heartbeat. Lukker automatisk.",
+                });
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: "closed",
+                  state_reason: "completed",
+                });
+              }
+              return;
+            }
+
+            const problemer = (tekst.split("## Problemer")[1] || "").trim();
+            const tittel = `⚠️ Kilde med feil: ${feil.join(", ")}`;
+            if (aapne.length > 0) {
+              const issue = aapne[0];
+              if (issue.title !== tittel) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  title: tittel,
+                });
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  body: `@${bruker} Endring i hvilke kilder som feiler: **${feil.join(", ")}**\n\n${problemer}`,
+                });
+              }
+              return;
+            }
+
+            const { data: nytt } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: tittel,
+              labels: [LABEL],
+              body: [
+                `@${bruker} – Pi-en kjører, men én eller flere kilder leverer ikke.`,
+                "",
+                problemer,
+                "",
+                "Se [heartbeat](../blob/main/data/status/heartbeat.md) for tall per kilde.",
+                "Typiske årsaker: nettstedet blokkerer oss, har fått ny HTML, eller er nede.",
+                "",
+                "```bash",
+                "docker compose logs --tail=500 | grep -iE 'KRASJ|feil på rad|HTTP 4|HTTP 5|For lite innhold'",
+                "```",
+                "",
+                "*Lukkes automatisk når alle kilder er OK igjen.*",
+              ].join("\n"),
+            });
+            try {
+              await github.rest.issues.addAssignees({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: nytt.number,
+                assignees: [bruker],
+              });
+            } catch (e) {
+              console.log(`Kunne ikke tildele: ${e.message}`);
             }

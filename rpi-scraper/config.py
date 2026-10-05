@@ -8,72 +8,37 @@ from pathlib import Path
 
 # --- Repo og git ---
 # I Docker settes REPO_ROOT=/repo via miljøvariabel.
-# På Pi uten Docker brukes standard relativ sti.
 REPO_ROOT = Path(os.environ.get("REPO_ROOT", str(Path(__file__).parent.parent)))
 DATA_DIR = REPO_ROOT / "data"
 LOGS_DIR = REPO_ROOT / "logs"
 
-# State-filer lagres utenfor git-repoet så git-operasjoner aldri sletter dem
+# Køtilstand lagres utenfor git-repoet så git-operasjoner aldri sletter den.
+# NB: i Docker havner standardverdien i containerens eget filsystem og slettes
+# ved `docker compose up --force-recreate`. Det er ufarlig (alt crawles på
+# nytt), men første runde etterpå blir lang.
 STATE_DIR = Path(os.environ.get("STATE_DIR", str(Path.home() / ".norges-lover-state")))
 
 GITHUB_REPO = "mannlig/norges-lover"
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")  # Sett på Pi: export GITHUB_TOKEN=...
 GIT_USER_NAME = os.environ.get("GIT_USER_NAME", "norges-lover-bot")
 GIT_USER_EMAIL = os.environ.get("GIT_USER_EMAIL", "bot@norges-lover")
 
-# --- Rate limiting (sekunder mellom requests) ---
-DELAY_MIN = 3.0   # Minimum ventetid mellom requests
-DELAY_MAX = 8.0   # Maksimum ventetid (tilfeldig i intervallet)
+# --- Rate limiting (sekunder) ---
+DELAY_MIN = 3.0               # Minimum ventetid mellom requests
+DELAY_MAX = 8.0               # Maksimum ventetid (tilfeldig i intervallet)
 DELAY_BETWEEN_SOURCES = 15.0  # Pause mellom ulike kilder
-
-# --- Scraping-grenser ---
-MAX_PAGES_PER_RUN = 150   # Maks sider per kilde per kjøring
-REQUEST_TIMEOUT = 30      # Sekunder før timeout
-LOVDATA_RESJEKK_DAGER = 90  # Re-sjekk lovdokumenter for endringer hver 90. dag
 
 # --- Brukeragent - identifiser oss høflig ---
 USER_AGENT = (
     "NorgesLoverBot/1.0 (https://github.com/mannlig/norges-lover; "
-    "åpent arkiv av norsk lovverk; kontakt via GitHub issues)"
+    "åpent arkiv av norsk regelverk; kontakt via GitHub issues)"
 )
 
-# --- Kilde-URL-er ---
-SOURCES = {
-    "stortinget_api": "https://data.stortinget.no/eksport",
-    "lovdata_base": "https://lovdata.no",
-    "skatteetaten_base": "https://www.skatteetaten.no",
-    "dibk_base": "https://www.dibk.no",
-    "nav_base": "https://www.nav.no",
-    "kommuner_base": "https://lovdata.no/register/lokaleforskrifter",
-}
-
-# --- Data-undermapper ---
+# --- Data-undermapper per kilde ---
 DATA_PATHS = {
-    "lovdata": DATA_DIR,
+    "stortinget": DATA_DIR / "lover",
     "skatt": DATA_DIR / "skatt",
     "byggteknisk": DATA_DIR / "byggteknisk",
     "nav": DATA_DIR / "nav",
-    "kommuner": DATA_DIR / "kommuner",
-    "stortinget": DATA_DIR / "lover",
     "arbeidstilsynet": DATA_DIR / "arbeidstilsynet",
     "husbanken": DATA_DIR / "husbanken",
-}
-
-# SSB kommunenummer for alle norske kommuner (utvalg av store)
-KOMMUNER = {
-    "0301": "oslo",
-    "1103": "stavanger",
-    "4601": "bergen",
-    "5001": "trondheim",
-    "3201": "kongsberg",
-    "3203": "drammen",
-    "3205": "ringerike",
-    "1507": "alesund",
-    "5401": "tromso",
-    "1804": "bodo",
-    "1001": "kristiansand",
-    "0602": "drammen",
-    "3811": "skien",
-    "4204": "grimstad",
-    "1502": "molde",
 }

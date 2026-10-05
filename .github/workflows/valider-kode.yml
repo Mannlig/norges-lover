@@ -1,18 +1,27 @@
 name: Valider kode
 
+# Pi-en kjører det som ligger på main innen et par timer, uten noen annen
+# kontroll. Denne jobben er derfor det eneste som står mellom en feil og
+# produksjon: syntaks, at alle moduler faktisk importerer, og enhetstester.
+
 on:
   push:
     branches: [main]
     paths:
-      - "rpi-scraper/**/*.py"
-      - ".github/workflows/*.yml"
+      - "rpi-scraper/**"
+      - ".github/workflows/**"
+      - "Dockerfile"
+      - "docker-setup.sh"
   pull_request:
     paths:
-      - "rpi-scraper/**/*.py"
-      - ".github/workflows/*.yml"
+      - "rpi-scraper/**"
+      - ".github/workflows/**"
+      - "Dockerfile"
+      - "docker-setup.sh"
+  workflow_dispatch:
 
 jobs:
-  syntaks-sjekk:
+  valider:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -21,14 +30,38 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Sjekk Python-syntaks
+      # Samme versjon som imaget på Pi-en (python:3.11-slim)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer avhengigheter (uten nettleser)
         run: |
-          python3 -m compileall -q rpi-scraper/
-          echo "Alle Python-filer er gyldige"
+          pip install --quiet "$(grep -E '^scrapling' rpi-scraper/requirements.txt | sed 's/\[.*\]//')" pyyaml
+
+      - name: Sjekk Python-syntaks
+        run: python -m compileall -q rpi-scraper/
+
+      - name: Sjekk at alle moduler importerer
+        working-directory: rpi-scraper
+        env:
+          REPO_ROOT: ${{ runner.temp }}/repo
+          STATE_DIR: ${{ runner.temp }}/state
+        run: |
+          python -c "import main, smoke_test; from scrapers import *; print('Alle moduler importerer')"
+
+      - name: Kjør enhetstester
+        working-directory: rpi-scraper
+        run: python -m unittest discover -s tests -v
+
+      - name: Sjekk shell-skript
+        run: |
+          bash -n rpi-scraper/setup/entrypoint.sh
+          bash -n docker-setup.sh
 
       - name: Sjekk YAML-syntaks i workflows
         run: |
-          python3 - <<'EOF'
+          python - <<'EOF'
           import sys, yaml
           from pathlib import Path
           feil = []
@@ -54,19 +87,56 @@ jobs:
               state: "open",
               labels: "kode-odelagt",
             });
-            if (issues.length > 0) return;
-
+            const lenke = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            if (issues.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                body: `Fortsatt feil i ${context.sha.substring(0, 7)}: ${lenke}`,
+              });
+              return;
+            }
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: "🔑 Ugyldig kode pushet til main – Pi-en vil krasje",
+              title: "🛑 Ugyldig kode pushet til main – Pi-en vil krasje",
               body: [
-                "Syntaks-sjekken feilet for commit " + context.sha.substring(0, 7) + ".",
+                "Valideringen feilet for commit " + context.sha.substring(0, 7) + ".",
                 "",
-                "Pi-en kjører `git reset --hard origin/main` hver syklus og vil",
-                "krasje på hver kjøring til dette er fikset.",
+                "Pi-en kjører `git reset --hard origin/main` hver runde og tar i bruk",
+                "denne koden ved neste runde.",
                 "",
-                "Se workflow-loggen: " + context.serverUrl + "/" + context.repo.owner + "/" + context.repo.repo + "/actions/runs/" + context.runId,
+                "Se workflow-loggen: " + lenke,
+                "",
+                "*Lukkes automatisk når valideringen går grønt igjen.*",
               ].join("\n"),
               labels: ["kode-odelagt"],
             });
+
+      - name: Lukk feilvarsel når main er i orden igjen
+        if: success() && github.ref == 'refs/heads/main'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: "kode-odelagt",
+            });
+            for (const issue of issues) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `✅ Valideringen er grønn igjen (${context.sha.substring(0, 7)}). Lukker.`,
+              });
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: "closed",
+                state_reason: "completed",
+              });
+            }

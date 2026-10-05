@@ -48,4 +48,3 @@ COPY rpi-scraper/setup/entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
-CMD ["--daemon", "--intervall", "6"]

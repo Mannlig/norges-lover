@@ -1,21 +1,22 @@
 # Norges Lover
 
-Åpent arkiv av norsk lovverk, forskrifter, satser og veiledere – hentet automatisk fra offentlige kilder og publisert som Markdown-filer i dette repoet.
+Åpent arkiv av norske regler, satser og veiledere – hentet automatisk fra offentlige kilder og publisert som Markdown-filer i dette repoet.
 
-**Formålet er å gjøre norsk regelverk maskinlesbart for AI-agenter, RAG-systemer og andre verktøy som trenger lokal tilgang til lovteksten uten å treffe rate-limit på Lovdata.**
+**Formålet er å gjøre norsk regelverk maskinlesbart for AI-agenter, RAG-systemer og andre verktøy**, med skatteregler som hovedprioritet.
 
 ## Hva finnes her
 
 | Mappe | Innhold | Kilde |
 |---|---|---|
-| `data/lover/` | Nasjonale lover, proposisjoner og Stortinget-saker | Stortingets åpne API |
-| `data/skatt/` | Skattesatser, fradrag, MVA, veiledere | Skatteetaten |
-| `data/byggteknisk/` | TEK17, SAK10, byggesak-veiledere | Direktoratet for byggkvalitet (DiBK) |
+| `data/skatt/` | Satser, fradrag, MVA, veiledere og Skatte-ABC | Skatteetaten |
 | `data/nav/` | Stønader, ytelser, satser, grunnbeløp | NAV |
+| `data/byggteknisk/` | TEK17, SAK10, byggesak-veiledere | Direktoratet for byggkvalitet (DiBK) |
 | `data/arbeidstilsynet/` | HMS-regler, arbeidsmiljø, veiledere | Arbeidstilsynet |
 | `data/husbanken/` | Bostøtte, startlån, tilskudd | Husbanken |
-| `data/kommuner/` | Lokale og kommunale forskrifter | Lovdata |
+| `data/lover/` | Saker fra Stortinget: tittel, status, komité, henvisninger. **Saksmetadata, ikke lovtekst** | Stortingets åpne API |
 | `data/status/` | Systemstatus og heartbeat | (bot-intern) |
+
+Selve lovteksten (skatteloven osv.) finnes ikke her – lenk til [Lovdata](https://lovdata.no) for paragrafene.
 
 Hver kategori-mappe har en `README.md` med automatisk indeks over innholdet.
 
@@ -31,7 +32,8 @@ Hver fil følger samme struktur:
 ## Kildeinformasjon
 
 - **Kilde:** <opphav> – <kilde-URL>
-- **Sist hentet:** <ISO-dato i UTC>
+- **Sist oppdatert i arkivet:** <ISO-dato i UTC – når innholdet sist endret seg>
+- **Sist oppdatert (kilde):** <datoen kilden selv oppgir, der den finnes>
 
 ## Innhold
 
@@ -46,6 +48,8 @@ Hver fil følger samme struktur:
 ```
 
 `innholds-hash`-kommentaren brukes til å unngå støy-commits når innholdet ikke har endret seg. AI-agenter kan ignorere den.
+
+Tabeller gjengis som Markdown-tabeller og lenker som `[tekst](url)`, så kryssreferanser i Skatte-ABC kan følges. Filer som fortsatt har feltet «Sist hentet», er fra før oktober 2026: da kuttet uttrekket tekst etter første lenke og droppet tabeller. De skrives om med ny konverter etter hvert som sidene hentes på nytt.
 
 ## Bruk som AI-agent
 
@@ -115,10 +119,13 @@ Eksempel på spørsmål du kan stille:
 > tilpasninger som er relevante for meg. Siter kilden for hvert forslag.
 
 Tips:
-- Legg din egen situasjonsbeskrivelse i en lokal fil (f.eks. `min-situasjon.md`)
-  som **ikke** commites — repoet er offentlig.
+- **Repoet er offentlig.** Legg din egen situasjonsbeskrivelse *utenfor* repoet
+  (f.eks. `~/skatt/min-situasjon.md`) og pek Claude dit. Filnavn som
+  `min-situasjon*`, `*.privat.*` og mappen `privat/` er gitignorert som en
+  ekstra sikring, men utenfor repoet er tryggest.
 - Be alltid om kildehenvisning per forslag, og verifiser mot den offisielle
   kilden før du handler på det. Dette er referansedata, ikke rådgivning.
+- `CLAUDE.md` i roten forteller Claude Code om kjente fallgruver i dataene.
 
 ### For AI-agenter: konvensjoner
 
@@ -129,13 +136,17 @@ Disse konvensjonene gjelder når du bruker repoet som kilde:
    (Skatteetatens egen tolkningshåndbok, ordnet alfabetisk per emne).
 2. **Hver fil oppgir kilde-URL** i `## Kildeinformasjon`. Siter alltid denne
    URL-en — aldri GitHub-filen — når du gjengir regler for en bruker.
-3. **Sjekk `Sist hentet`-datoen.** Satser og beløpsgrenser endres årlig; er
-   dataen gammel, si det eksplisitt og henvis til kilde-URL-en for gjeldende verdi.
+3. **Sjekk datoen og utgaven.** Satser og beløpsgrenser endres årlig. Oppgi
+   alltid hvilket inntektsår et svar gjelder, og hvilken Skatte-ABC-utgave du
+   bygger på.
 4. **`<!-- innholds-hash: ... -->`** på første linje er for endringsdeteksjon —
    ignorer den ved lesing.
-5. **Innholdet kan ha rest-UI** («Skriv ut», menytekst). Filtrer bort ved sitering.
-6. **Dette er ikke autoritative kilder.** Formuler svar som «ifølge Skatteetatens
-   veiledning (hentet DATO) ...» og anbefal verifisering ved beløpsavgjørelser.
+5. **Filer i gammelt format («Sist hentet») kan mangle tabeller og
+   setningsslutter.** Mangler en sats, si det og henvis til kilde-URL-en i
+   stedet for å fylle inn fra hukommelsen.
+6. **`data/lover/` er saksmetadata, ikke lovtekst.** Lenk til Lovdata for paragrafer.
+7. **Dette er ikke autoritative kilder.** Formuler svar som «ifølge Skatteetatens
+   veiledning ...» og anbefal verifisering ved beløpsavgjørelser.
 
 ## Sitering og kildehenvisning
 
@@ -147,15 +158,15 @@ Eksempel på god sitering:
 
 ## Oppdateringsfrekvens og pålitelighet
 
-- Bot-en kjører omtrent **hvert 2. time** og committer kun ved faktisk endring i innholdet.
-- `Sist hentet`-feltet i hver fil viser hvor fersk dataen er.
-- Systemstatus vises i [`data/status/heartbeat.md`](data/status/heartbeat.md).
+- Bot-en kjører én runde, sover 2 timer og starter på nytt. Hver side sjekkes jevnlig (satser hver 2. dag, det meste ukentlig, avsluttede Skatte-ABC-utgaver aldri), og filer skrives bare når innholdet faktisk har endret seg.
+- «Sist oppdatert i arkivet» er når innholdet sist endret seg – siden kan ha blitt sjekket senere uten endring.
+- Systemstatus per kilde vises i [`data/status/heartbeat.md`](data/status/heartbeat.md).
 - Ved tvil: sjekk `Kildeinformasjon`-URL-en og verifiser mot offisiell kilde.
 
 ## Begrensninger
 
-- **Ikke alle dokumenter er hentet ennå.** Kildene har tusenvis av sider; bot-en arbeider seg gjennom køen ~150 dokumenter per kilde per kjøring.
-- **Innhold kan inneholde navigasjonstekst.** Noen sider har «Verktøylinje», «Skriv ut» og lignende UI-elementer som ikke er filtrert helt vekk.
+- **Ikke alle dokumenter er hentet ennå.** Kildene har tusenvis av sider; bot-en henter inntil 150 per kilde per runde, nye sider først.
+- **Innhold kan inneholde rester av navigasjon.** Det meste filtreres bort, men ikke alt.
 - **Ikke juridisk rådgivning.** Dette er åpne data fra offentlige kilder, gjengitt automatisk.
 
 ## Repo-struktur
@@ -163,27 +174,28 @@ Eksempel på god sitering:
 ```
 .
 ├── data/                       ← AI-agenter henter herfra
-│   ├── lover/                  Stortingssaker og nasjonale lover
-│   ├── skatt/                  Skatteetaten
-│   ├── byggteknisk/            DiBK / TEK17
+│   ├── skatt/                  Skatteetaten (inkl. Skatte-ABC)
 │   ├── nav/                    NAV-ytelser og satser
+│   ├── byggteknisk/            DiBK / TEK17
 │   ├── arbeidstilsynet/        HMS og arbeidsmiljø
 │   ├── husbanken/              Boligstøtte og lån
-│   ├── kommuner/               Lokale forskrifter
+│   ├── lover/                  Stortingssaker (metadata, ikke lovtekst)
 │   └── status/                 Systemstatus (heartbeat)
 │
+├── CLAUDE.md                   Fallgruver i dataene – leses av Claude Code
 └── rpi-scraper/                Scraper-koden (kjører på Raspberry Pi)
     ├── main.py                 Inngangspunkt – orkestrerer alle scrapers
-    ├── config.py               Konfigurasjon (URL-er, timing, mapper)
-    ├── scrapers/               Én fil per kilde
-    ├── formatters/             Markdown-konvertering
+    ├── config.py               Konfigurasjon (timing, mapper)
+    ├── scrapers/               nettsted.py (felles crawler) + én konfigfil per kilde
+    ├── formatters/             HTML→Markdown og indekser
     ├── publishers/             Git-commit og push til GitHub
+    ├── tests/                  Enhetstester (kjøres i CI)
     └── setup/                  Docker-oppsett
 ```
 
 ## Lisens
 
-Lovteksten er offentlige data. Scraper-koden er fri programvare (MIT). Se kildehenvisningene i hvert dokument for eventuelle bruksvilkår fra opphavskilden.
+Regelverket er offentlige data. Scraper-koden er fri programvare (MIT). Se kildehenvisningene i hvert dokument for eventuelle bruksvilkår fra opphavskilden.
 
 ---
 

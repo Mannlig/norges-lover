@@ -16,6 +16,13 @@ build/
 secrets.py
 *_token.txt
 *_key.txt
+
+# Personlige opplysninger (f.eks. egen skattesituasjon til Claude Code).
+# Repoet er OFFENTLIG – helst legg slike filer utenfor repoet helt.
+min-situasjon*
+*.privat.*
+privat/
+personlig/
 chromium_profile/
 chromium-user-data/
 

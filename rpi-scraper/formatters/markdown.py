@@ -1,30 +1,54 @@
 """
-Genererer indeksfiler (README.md) for hvert datamappe.
-Gjør det enkelt å navigere i repoet på GitHub.
+Genererer indeksfiler (README.md) for hver datamappe, og en kort oversikt
+i data/README.md. Gjør det enkelt å navigere i repoet på GitHub.
+
+Indeksene har ikke tidsstempel: de skrives om hver runde, og et tidsstempel
+gjorde at alle sju endret seg hver gang og fylte git-loggen med
+«README, README, README …» selv når ingenting annet hadde skjedd.
 """
 
-import re
-from datetime import datetime, timezone
 from pathlib import Path
 
+# DATA_PATHS-nøkkel → (tittel, beskrivelse)
+KATEGORI_INFO = {
+    "stortinget": (
+        "Data – Stortinget",
+        "Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. "
+        "**Dette er saksmetadata, ikke lovtekst.**",
+    ),
+    "skatt": (
+        "Data – Skatteetaten",
+        "Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, "
+        "inkludert Skatte-ABC under `rettskilder/type/handboker/skatte-abc/`.",
+    ),
+    "byggteknisk": (
+        "Data – DiBK (byggteknisk)",
+        "Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. "
+        "`regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.",
+    ),
+    "nav": (
+        "Data – NAV",
+        "Stønader, ytelser, satser og grunnbeløp fra NAV.",
+    ),
+    "arbeidstilsynet": (
+        "Data – Arbeidstilsynet",
+        "Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.",
+    ),
+    "husbanken": (
+        "Data – Husbanken",
+        "Bostøtte, startlån og tilskudd fra Husbanken.",
+    ),
+}
 
-def lag_indeks(data_dir: Path, kategori: str, beskrivelse: str) -> Path:
-    """
-    Lager/oppdaterer README.md i en datamappe med oversikt over alle filer.
-    Returnerer Path til indeksfilen.
-    """
-    md_filer = sorted(data_dir.rglob("*.md"))
-    # Ikke ta med selve README
-    md_filer = [f for f in md_filer if f.name != "README.md"]
 
-    naa = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+def lag_indeks(data_dir: Path, tittel: str, beskrivelse: str) -> Path:
+    """Lager/oppdaterer README.md i en datamappe. Returnerer stien."""
+    md_filer = sorted(f for f in data_dir.rglob("*.md") if f.name != "README.md")
 
     linjer = [
-        f"# {kategori}",
+        f"# {tittel}",
         "",
         beskrivelse,
-        "",
-        f"*Sist oppdatert: {naa}*",
         "",
         f"**Antall dokumenter:** {len(md_filer)}",
         "",
@@ -32,24 +56,17 @@ def lag_indeks(data_dir: Path, kategori: str, beskrivelse: str) -> Path:
         "",
     ]
 
-    # Grupper filer etter undermappe
     grupper: dict[str, list[Path]] = {}
     for f in md_filer:
-        try:
-            relativ = f.relative_to(data_dir)
-            gruppe = relativ.parts[0] if len(relativ.parts) > 1 else "."
-        except ValueError:
-            gruppe = "."
+        relativ = f.relative_to(data_dir)
+        gruppe = relativ.parts[0] if len(relativ.parts) > 1 else "."
         grupper.setdefault(gruppe, []).append(f)
 
     for gruppe, filer in sorted(grupper.items()):
         if gruppe != ".":
-            linjer.append(f"### {gruppe.replace('-', ' ').title()}")
-            linjer.append("")
-        for f in sorted(filer):
-            tittel = _hent_tittel(f)
-            relativ_sti = f.relative_to(data_dir)
-            linjer.append(f"- [{tittel}]({relativ_sti})")
+            linjer += [f"### {gruppe.replace('-', ' ').title()}", ""]
+        for f in filer:
+            linjer.append(f"- [{_hent_tittel(f)}]({f.relative_to(data_dir).as_posix()})")
         linjer.append("")
 
     linjer += [
@@ -57,11 +74,36 @@ def lag_indeks(data_dir: Path, kategori: str, beskrivelse: str) -> Path:
         "",
         "*Alle dokumenter inneholder referanse til originalkilden. "
         "Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode og mer info.*",
+        "",
     ]
+    return _skriv(data_dir / "README.md", "\n".join(linjer))
 
-    readme = data_dir / "README.md"
-    readme.write_text("\n".join(linjer), encoding="utf-8")
-    return readme
+
+def lag_oversikt(data_dir: Path, data_paths: dict[str, Path]) -> Path:
+    """Kort oversikt i data/README.md med antall dokumenter per kilde."""
+    linjer = [
+        "# Data",
+        "",
+        "Hver mappe har sin egen README.md med full innholdsliste.",
+        "",
+        "| Mappe | Innhold | Dokumenter |",
+        "|---|---|---|",
+    ]
+    for kat, (tittel, beskrivelse) in KATEGORI_INFO.items():
+        sti = data_paths.get(kat)
+        if not sti or not sti.exists():
+            continue
+        antall = sum(1 for f in sti.rglob("*.md") if f.name != "README.md")
+        rel = sti.relative_to(data_dir).as_posix()
+        linjer.append(f"| [`{rel}/`]({rel}/) | {tittel.removeprefix('Data – ')} | {antall} |")
+    linjer += ["", "Systemstatus: [`status/heartbeat.md`](status/heartbeat.md)", ""]
+    return _skriv(data_dir / "README.md", "\n".join(linjer))
+
+
+def _skriv(sti: Path, innhold: str) -> Path:
+    if not sti.exists() or sti.read_text(encoding="utf-8") != innhold:
+        sti.write_text(innhold, encoding="utf-8")
+    return sti
 
 
 _GENERISKE_TITLER = {"hoved­meny", "hoved-meny", "hovedmeny", "meny", "menu", "navigation", "ukjent tittel"}
@@ -80,31 +122,3 @@ def _hent_tittel(filepath: Path) -> str:
     except Exception:
         pass
     return filepath.stem.replace("-", " ").title()
-
-
-KATEGORI_INFO = {
-    "lover": (
-        "Norske lover hentet fra Stortingets API og Lovdata.",
-        "Inkluderer lovtekst, metadata og kilde-URL.",
-    ),
-    "forskrifter": (
-        "Nasjonale forskrifter og regelverk.",
-        "Hentet fra Lovdata.",
-    ),
-    "skatt": (
-        "Skatteregler, satser og veiledere fra Skatteetaten.",
-        "Inkluderer skattesatser, MVA, arbeidsgiveravgift og fradrag.",
-    ),
-    "byggteknisk": (
-        "Byggtekniske krav og veiledere fra DiBK.",
-        "TEK17, SAK10, søknadsprosesser og veiledere.",
-    ),
-    "nav": (
-        "Stønader, ytelser og rettigheter fra NAV.",
-        "Dagpenger, sykepenger, foreldrepenger, uføretrygd, alderspensjon m.m.",
-    ),
-    "kommuner": (
-        "Kommunale og lokale forskrifter.",
-        "Hentet fra Lovdata sitt kommuneregister for utvalgte kommuner.",
-    ),
-}

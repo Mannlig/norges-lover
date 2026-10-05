@@ -27,16 +27,20 @@ import time
 import traceback
 from pathlib import Path
 
-# Kjør i contained miljø – ikke skriv til ekte data/ eller logs/
+# Kjør i contained miljø – ikke skriv til ekte data/, logs/ eller køtilstand.
+# STATE_DIR må med: ellers markerer testen sider som «hentet» i produksjonskøen.
 _TMP_LOGS = Path(tempfile.mkdtemp(prefix="norges-lover-smoke-"))
 import os
-os.environ.setdefault("REPO_ROOT", str(_TMP_LOGS))
+os.environ["REPO_ROOT"] = str(_TMP_LOGS)
+os.environ["STATE_DIR"] = str(_TMP_LOGS / "state")
 
 from scrapers import (
     StortingetScraper,
     SkatteetatenScraper,
     DibkScraper,
     NavScraper,
+    ArbeidstilsynetScraper,
+    HusbankScraper,
 )
 
 logging.basicConfig(
@@ -47,10 +51,12 @@ logging.basicConfig(
 
 # (navn, klasse, max_pages, krever_browser)
 SCRAPERS = [
-    ("stortinget",   StortingetScraper,    2, False),  # Ren JSON-API, raskt
-    ("skatteetaten", SkatteetatenScraper,  1, True),
-    ("nav",          NavScraper,           1, True),
-    ("dibk",         DibkScraper,          1, True),
+    ("stortinget",      StortingetScraper,      2, False),  # Ren JSON-API, raskt
+    ("skatteetaten",    SkatteetatenScraper,    1, True),
+    ("nav",             NavScraper,             1, True),
+    ("dibk",            DibkScraper,            1, True),
+    ("arbeidstilsynet", ArbeidstilsynetScraper, 1, True),
+    ("husbanken",       HusbankScraper,         1, True),
 ]
 
 

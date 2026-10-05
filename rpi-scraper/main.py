@@ -1,39 +1,42 @@
 """
 Norges Lover – Raspberry Pi scraper
 ====================================
-Henter norsk lovverk, forskrifter, skatteregler, byggtekniske krav
-og stønader fra offentlige kilder og publiserer til GitHub.
+Henter norsk regelverk, skatteregler, byggtekniske krav og stønader fra
+offentlige kilder og publiserer til GitHub.
 
-Kjøring:
-    python main.py                     # Én full kjøring
+Kjøring (entrypoint.sh kaller denne én gang per runde):
+    python main.py                     # Én full runde
     python main.py --kilde stortinget  # Kun én kilde
-    python main.py --daemon            # Kjør kontinuerlig (cron-modus)
 
-Miljøvariabler som MÅ settes:
-    GITHUB_TOKEN   – Personal Access Token med repo-write tilgang
-    GIT_USER_NAME  – Valgfri, default: norges-lover-bot
-    GIT_USER_EMAIL – Valgfri, default: bot@norges-lover
+Exit-koder:
+    0  runden er fullført og publisert
+    2  push til GitHub avvist eller feilet – se loggen etter «PUSH»
+
+Miljøvariabler:
+    GITHUB_TOKEN   – token med skrivetilgang til repoet (påkrevd)
+    GIT_USER_NAME  – valgfri, standard: norges-lover-bot
+    GIT_USER_EMAIL – valgfri, standard: bot@norges-lover
 """
 
 import argparse
 import logging
-import os
+import logging.handlers
 import subprocess
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-from config import DATA_DIR, DATA_PATHS, DELAY_BETWEEN_SOURCES, LOGS_DIR, MAX_PAGES_PER_RUN
-from formatters.markdown import lag_indeks, KATEGORI_INFO
+from config import DATA_DIR, DATA_PATHS, DELAY_BETWEEN_SOURCES, LOGS_DIR, REPO_ROOT
+from formatters.markdown import KATEGORI_INFO, lag_indeks, lag_oversikt
 from publishers.github_publisher import GitHubPublisher
 from scrapers import (
-    StortingetScraper,
-    SkatteetatenScraper,
-    DibkScraper,
-    NavScraper,
     ArbeidstilsynetScraper,
+    DibkScraper,
     HusbankScraper,
+    NavScraper,
+    SkatteetatenScraper,
+    StortingetScraper,
 )
 
 # --- Logging ---
@@ -43,7 +46,9 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
     handlers=[
         logging.StreamHandler(sys.stdout),
-        logging.FileHandler(LOGS_DIR / "scraper.log", encoding="utf-8"),
+        # Roteres, så loggen ikke vokser til SD-kortet er fullt
+        logging.handlers.RotatingFileHandler(
+            LOGS_DIR / "scraper.log", maxBytes=5_000_000, backupCount=3, encoding="utf-8"),
     ],
 )
 logger = logging.getLogger("main")
@@ -51,7 +56,9 @@ logger = logging.getLogger("main")
 # --- Oversikt over alle kjøringer ---
 # Format: (kilde-nøkkel, scraper-klasse, data-mappe-nøkkel, maks-sider)
 KJØRINGER = [
-    ("stortinget",      StortingetScraper,      "stortinget",      100),
+    # Stortinget henter hele sesjoner i ett API-kall; taket gjelder bare
+    # hvor mange filer som skrives per runde.
+    ("stortinget",      StortingetScraper,      "stortinget",      300),
     ("skatteetaten",    SkatteetatenScraper,    "skatt",           150),
     ("dibk",            DibkScraper,            "byggteknisk",     150),
     ("nav",             NavScraper,             "nav",             150),
@@ -60,207 +67,153 @@ KJØRINGER = [
 ]
 
 
-def kjor_kilde(kilde_navn: str, scraper_klasse, data_mappe: Path, max_sider: int) -> list[Path]:
-    """Kjør én scraper og returner liste over endrede filer."""
+def kjor_kilde(kilde_navn: str, scraper_klasse, data_mappe: Path, max_sider: int) -> tuple[list[Path], dict]:
+    """Kjør én scraper. Returnerer (endrede filer, statistikk)."""
     logger.info("▶ Starter: %s → %s", kilde_navn, data_mappe)
+    start = time.monotonic()
+    scraper = None
     try:
         scraper = scraper_klasse()
         filer = scraper.scrape(data_mappe, max_pages=max_sider)
+        statistikk = dict(scraper.teller)
         logger.info("✓ Ferdig: %s – %d filer", kilde_navn, len(filer))
-        return filer
     except Exception as e:
-        logger.error("✗ Feil i %s: %s", kilde_navn, e, exc_info=True)
-        return []
+        logger.error("✗ KRASJ i %s: %s", kilde_navn, e, exc_info=True)
+        filer = []
+        statistikk = dict(scraper.teller) if scraper else {}
+        statistikk["krasj"] = type(e).__name__
+    statistikk["sekunder"] = int(time.monotonic() - start)
+    return filer, statistikk
 
 
-def oppdater_indekser(alle_filer: list[Path]) -> list[Path]:
-    """Lag/oppdater README.md i hver datamappe."""
-    indeks_filer = []
-    for kat, data_path in DATA_PATHS.items():
-        if not data_path.exists():
-            continue
-        info = KATEGORI_INFO.get(kat, (kat.capitalize(), ""))
-        tittel = f"Data – {kat.capitalize()}"
-        beskrivelse = info[0] if info else ""
-        try:
-            readme = lag_indeks(data_path, tittel, beskrivelse)
-            indeks_filer.append(readme)
-        except Exception as e:
-            logger.warning("Kunne ikke lage indeks for %s: %s", kat, e)
-    return indeks_filer
+def vurder_helse(s: dict) -> tuple[str, str]:
+    """
+    (status, grunn) for én kilde. Heartbeaten teller ikke bare endrede filer
+    lenger – da så en død kilde ut akkurat som en frisk («0 filer»).
+    """
+    ok = s.get("hentet_ok", 0)
+    feilet = s.get("feil_midlertidig", 0)
+    tolket = s.get("ny", 0) + s.get("endret", 0) + s.get("uendret", 0)
+    if "krasj" in s:
+        return "FEIL", f"krasj: {s['krasj']}"
+    if s.get("avbrutt"):
+        return "FEIL", "avbrutt etter mange feil på rad – nede eller blokkerer oss?"
+    if ok == 0 and feilet > 0:
+        return "FEIL", "ingen sider kunne hentes"
+    if ok >= 10 and tolket == 0 and s.get("for_lite_innhold", 0) >= ok // 2:
+        return "FEIL", "sidene hentes, men innholdet kan ikke tolkes – ny HTML?"
+    if feilet and feilet > ok * 0.3:
+        return "ADVARSEL", f"{feilet} feil mot {ok} vellykkede"
+    return "OK", ""
 
 
-def skriv_heartbeat(output_dir: Path, statistikk: dict[str, int]) -> Path:
-    """Skriv heartbeat-fil med tidsstempel og statistikk – alltid, uansett endringer."""
+def skriv_heartbeat(output_dir: Path, statistikk: dict[str, dict], rundetid_s: int) -> Path:
+    """Skriv heartbeat med helse per kilde – alltid, uansett endringer."""
     status_dir = output_dir / "status"
     status_dir.mkdir(parents=True, exist_ok=True)
     filepath = status_dir / "heartbeat.md"
 
-    tidspunkt = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    try:
+        sha = subprocess.run(["git", "rev-parse", "--short", "HEAD"], cwd=REPO_ROOT,
+                             capture_output=True, text=True, timeout=10).stdout.strip()
+    except Exception:
+        sha = "ukjent"
+
+    helse = {k: vurder_helse(s) for k, s in statistikk.items()}
     linjer = [
         "# Systemstatus – norges-lover-bot",
         "",
-        f"**Sist kjørt:** {tidspunkt}",
-        f"**Intervall:** ~2 timer (daemon-modus)",
+        f"**Sist kjørt:** {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
+        f"**Kode:** `{sha or 'ukjent'}`",
+        f"**Rundetid:** {rundetid_s // 3600} t {rundetid_s % 3600 // 60} min",
         "",
-        "## Filer hentet denne kjøringen",
+        # Maskinlesbar linje – leses av .github/workflows/overvak-pi.yml
+        "<!-- helse: " + " ".join(f"{k}={h[0]}" for k, h in helse.items()) + " -->",
         "",
+        "| Kilde | Status | Nye | Endret | Uendret | Hentet OK | Feilet | Borte | I kø |",
+        "|---|---|---|---|---|---|---|---|---|",
     ]
-    total = 0
-    for kilde, antall in statistikk.items():
-        linjer.append(f"- **{kilde}:** {antall} filer")
-        total += antall
-    linjer += ["", f"**Totalt denne kjøringen:** {total} filer", ""]
+    for kilde, s in statistikk.items():
+        status, _ = helse[kilde]
+        linjer.append(
+            f"| {kilde} | {status} | {s.get('ny', 0)} | {s.get('endret', 0)} | "
+            f"{s.get('uendret', 0)} | {s.get('hentet_ok', 0)} | {s.get('feil_midlertidig', 0)} | "
+            f"{s.get('feil_borte', 0)} | {s.get('i_kø', 0)} |")
+    problemer = [(k, h[0], h[1]) for k, h in helse.items() if h[0] != "OK"]
+    if problemer:
+        linjer += ["", "## Problemer", ""]
+        linjer += [f"- **{k}** ({st}): {grunn}" for k, st, grunn in problemer]
+    linjer += ["", "*«Uendret» betyr at siden ble hentet og sjekket uten at innholdet hadde endret seg.*", ""]
     filepath.write_text("\n".join(linjer), encoding="utf-8")
     return filepath
 
 
-def rydd_lovdata_sopplefiler(data_dir: Path) -> list[Path]:
-    """
-    Slett gamle Lovdata-filer som bare inneholder navigasjonssøppel
-    (tittel «Hovedmeny»). Lovdata-scraperen er droppet pga. databasevern
-    og bot-beskyttelse, så disse blir aldri reparert. Returnerer slettede
-    stier slik at git kan stage slettingene. No-op når alt er ryddet.
-    """
-    slettet = []
-    lover_dir = data_dir / "lover"
-    if not lover_dir.exists():
-        return slettet
-    for f in lover_dir.glob("*.md"):
-        if f.name == "README.md":
+def oppdater_indekser() -> list[Path]:
+    """Lag/oppdater README.md i hver datamappe og oversikten i data/."""
+    indeks_filer = []
+    for kat, (tittel, beskrivelse) in KATEGORI_INFO.items():
+        data_path = DATA_PATHS.get(kat)
+        if not data_path or not data_path.exists():
             continue
         try:
-            hode = f.read_text(encoding="utf-8", errors="replace")[:600]
-        except OSError:
-            continue
-        if "# Hovedmeny" in hode and "Lovdata" in hode:
-            f.unlink()
-            slettet.append(f)
-    if slettet:
-        logger.info("Ryddet %d Lovdata-søppelfiler fra %s", len(slettet), lover_dir)
-    return slettet
+            indeks_filer.append(lag_indeks(data_path, tittel, beskrivelse))
+        except Exception as e:
+            logger.warning("Kunne ikke lage indeks for %s: %s", kat, e)
+    try:
+        indeks_filer.append(lag_oversikt(DATA_DIR, DATA_PATHS))
+    except Exception as e:
+        logger.warning("Kunne ikke lage oversikt: %s", e)
+    return indeks_filer
 
 
-def en_kjoring(kun_kilde: str | None = None, publisher: GitHubPublisher | None = None):
-    """Én full runde: scrape → indekser → publish."""
-    if publisher is None:
-        publisher = GitHubPublisher()
-
-    # Hent siste endringer fra GitHub først
+def en_kjoring(kun_kilde: str | None = None) -> int:
+    """Én full runde: sjekk push → scrape → indekser → publish. Returnerer exit-kode."""
+    start = time.monotonic()
+    publisher = GitHubPublisher()
     publisher.pull_latest()
 
+    ok, feil = publisher.sjekk_push_tilgang()
+    if not ok:
+        # Scraping uten push kaster arbeidet (entrypoint nullstiller til
+        # origin/main) mens køen tror sidene er hentet. Bedre å vente.
+        logger.error("=" * 70)
+        logger.error("PUSH-TILGANG AVVIST – scraper ikke denne runden.")
+        logger.error("Sannsynlig årsak: GITHUB_TOKEN er utløpt eller trukket tilbake.")
+        logger.error("Fiks: nytt token i .env, deretter `docker compose up -d --force-recreate`.")
+        logger.error("Svar fra GitHub: %s", feil)
+        logger.error("=" * 70)
+        return 2
+
     alle_nye_filer: list[Path] = []
-    statistikk: dict[str, int] = {}
+    statistikk: dict[str, dict] = {}
 
     for kilde_navn, scraper_klasse, data_nøkkel, max_sider in KJØRINGER:
         if kun_kilde and kilde_navn != kun_kilde:
             continue
-
-        data_path = DATA_PATHS[data_nøkkel]
-        filer = kjor_kilde(kilde_navn, scraper_klasse, data_path, max_sider)
+        filer, statistikk[kilde_navn] = kjor_kilde(
+            kilde_navn, scraper_klasse, DATA_PATHS[data_nøkkel], max_sider)
         alle_nye_filer.extend(filer)
-        statistikk[kilde_navn] = len(filer)
-
         if not kun_kilde:
             logger.info("Venter %.0fs før neste kilde...", DELAY_BETWEEN_SOURCES)
             time.sleep(DELAY_BETWEEN_SOURCES)
 
-    # Engangsopprydding: slett ødelagte Lovdata-filer (stages som sletting i git)
-    alle_nye_filer.extend(rydd_lovdata_sopplefiler(DATA_DIR))
+    alle_nye_filer.append(skriv_heartbeat(DATA_DIR, statistikk, int(time.monotonic() - start)))
+    alle_nye_filer += oppdater_indekser()
 
-    # Heartbeat skrives alltid – gir synlig commit selv når ingenting endret seg
-    heartbeat = skriv_heartbeat(DATA_DIR, statistikk)
-    alle_nye_filer.append(heartbeat)
-
-    indekser = oppdater_indekser(alle_nye_filer)
-    publisher.publish(alle_nye_filer + indekser)
+    if not publisher.publish(alle_nye_filer):
+        logger.error("PUSH FEILET – rundens data ligger bare lokalt og forkastes ved neste runde.")
+        return 2
 
     logger.info("=== Kjøring fullført ===")
-
-
-_SJEKK_INTERVALL = 600  # sekunder mellom kode-sjekker under søvn
-
-
-def _git_sha(ref: str = "HEAD") -> str:
-    try:
-        return subprocess.check_output(
-            ["git", "rev-parse", ref], stderr=subprocess.DEVNULL
-        ).decode().strip()
-    except Exception:
-        return ""
-
-
-def _sov_med_kode_sjekk(sekunder: int):
-    """Sov i `sekunder`, men restart tidlig om ny kode er tilgjengelig på origin/main."""
-    lokal_sha = _git_sha("HEAD")
-    sovet = 0
-    while sovet < sekunder:
-        neste_sjekk = min(_SJEKK_INTERVALL, sekunder - sovet)
-        time.sleep(neste_sjekk)
-        sovet += neste_sjekk
-
-        try:
-            subprocess.run(
-                ["git", "fetch", "origin", "main", "-q"],
-                check=True, capture_output=True
-            )
-        except Exception:
-            continue
-
-        remote_sha = _git_sha("origin/main")
-        if remote_sha and remote_sha != lokal_sha:
-            logger.info("Ny kode oppdaget (%s → %s) – restarter umiddelbart",
-                        lokal_sha[:7], remote_sha[:7])
-            return
-
-        gjenstaar = sekunder - sovet
-        logger.info("Ingen nye endringer – sover %.0f min til...", gjenstaar / 60)
-
-
-def daemon_modus(intervall_timer: int = 2):
-    """Kjør én runde, sov, restart prosessen for å laste ny kode."""
-    publisher = GitHubPublisher()
-    logger.info("Daemon-modus: kjører hvert %d time(r)", intervall_timer)
-
-    try:
-        en_kjoring(publisher=publisher)
-    except Exception as e:
-        logger.error("Uventet feil i daemon-løkke: %s", e, exc_info=True)
-
-    logger.info("Sover opptil %d timer (sjekker for ny kode hvert %ds)...",
-                intervall_timer, _SJEKK_INTERVALL)
-    _sov_med_kode_sjekk(intervall_timer * 3600)
-
-    logger.info("Restarter for å laste eventuelle kode-endringer...")
-    os.execv(sys.executable, [sys.executable] + sys.argv)
+    return 0
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Norges Lover – scraper for Raspberry Pi"
-    )
-    parser.add_argument(
-        "--kilde",
-        choices=[k[0] for k in KJØRINGER],
-        help="Kjør kun én spesifikk kilde",
-    )
-    parser.add_argument(
-        "--daemon",
-        action="store_true",
-        help="Kjør kontinuerlig i bakgrunnen",
-    )
-    parser.add_argument(
-        "--intervall",
-        type=int,
-        default=2,
-        help="Timer mellom kjøringer i daemon-modus (default: 2)",
-    )
+    parser = argparse.ArgumentParser(description="Norges Lover – scraper for Raspberry Pi")
+    parser.add_argument("--kilde", choices=[k[0] for k in KJØRINGER],
+                        help="Kjør kun én spesifikk kilde")
     args = parser.parse_args()
-
-    if args.daemon:
-        daemon_modus(args.intervall)
-    else:
-        en_kjoring(kun_kilde=args.kilde)
+    sys.exit(en_kjoring(kun_kilde=args.kilde))
 
 
 if __name__ == "__main__":

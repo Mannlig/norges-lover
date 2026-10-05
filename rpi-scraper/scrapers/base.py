@@ -1,10 +1,9 @@
 """
 Basis-klasse for alle scrapere.
 Bruker Scrapling (StealthyFetcher) i stedet for requests+BeautifulSoup.
-Scrapling omgår bot-deteksjon og sporer elementer adaptivt selv om
-nettsiden endrer HTML-struktur.
 """
 
+import collections
 import hashlib
 import json
 import logging
@@ -16,14 +15,19 @@ import urllib.request
 from abc import ABC, abstractmethod
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional
 
 from config import DELAY_MIN, DELAY_MAX, USER_AGENT
+from formatters.html import html_til_markdown
 
 logger = logging.getLogger(__name__)
 
 _HASH_PATTERN = re.compile(r"^<!-- innholds-hash: ([a-f0-9]{64}) -->", re.MULTILINE)
 _LOGG_SEPARATOR = "\n\n## Endringshistorikk\n\n"
+
+# Utfall av siste fetch(), slik at køen kan skille feil fra suksess.
+OK = "ok"
+BORTE = "borte"          # 404/410 – siden finnes ikke
+MIDLERTIDIG = "midlertidig"  # nettfeil, timeout, 429, 5xx, 403 – prøv igjen senere
 
 
 class BaseScraper(ABC):
@@ -32,6 +36,10 @@ class BaseScraper(ABC):
 
     def __init__(self):
         self._last_request_time: float = 0.0
+        self.siste_status: str = OK
+        # Tellere per kjøring – leses av heartbeat for å skille en frisk
+        # kilde («0 endret, 150 uendret») fra en død («0 ok, 150 feilet»).
+        self.teller: collections.Counter = collections.Counter()
 
     # ------------------------------------------------------------------
     # Henting via Scrapling
@@ -43,10 +51,11 @@ class BaseScraper(ABC):
         if elapsed < wait:
             time.sleep(wait - elapsed)
 
-    def fetch(self, url: str, retries: int = 3):
+    def fetch(self, url: str, retries: int = 2):
         """
-        Hent en statisk/bot-beskyttet side med StealthyFetcher.
-        Returnerer et Scrapling Adaptor-objekt, eller None ved feil.
+        Hent en side med StealthyFetcher.
+        Returnerer en Scrapling-side, eller None ved feil. Utfallet står i
+        self.siste_status (OK, BORTE eller MIDLERTIDIG).
         """
         from scrapling.fetchers import StealthyFetcher
 
@@ -59,28 +68,35 @@ class BaseScraper(ABC):
                     network_idle=True,
                     disable_resources=True,  # Ikke last bilder/fonter – raskere
                     extra_headers={"Accept-Language": "nb-NO,nb;q=0.9"},
+                    google_search=False,     # Ikke utgi oss for å komme fra Google
+                    retries=1,               # Vi styrer nye forsøk selv (var 3×3)
                 )
                 self._last_request_time = time.time()
-                status = getattr(page, "status", 200)
+                status = getattr(page, "status", 200) or 200
+                if status in (404, 410):
+                    logger.warning("HTTP %d: %s – finnes ikke", status, url)
+                    return self._utfall(BORTE)
+                if status == 429 or status >= 500:
+                    wait = 60 * (attempt + 1)
+                    logger.warning("HTTP %d fra %s, venter %ds", status, url, wait)
+                    time.sleep(wait)
+                    continue
                 if status >= 400:
                     logger.warning("HTTP %d: %s – hopper over", status, url)
-                    return None
+                    return self._utfall(MIDLERTIDIG)
                 logger.debug("Hentet: %s", url)
+                self._utfall(OK)
                 return page
             except Exception as e:
-                msg = str(e).lower()
-                if "429" in msg or "rate" in msg:
-                    wait = 60 * (attempt + 1)
-                    logger.warning("Rate limit fra %s, venter %ds", url, wait)
-                    time.sleep(wait)
-                elif "403" in msg or "404" in msg:
-                    logger.warning("Tilgang nektet/ikke funnet: %s – hopper over", url)
-                    return None
-                else:
-                    logger.warning("Feil (forsøk %d/%d) for %s: %s", attempt + 1, retries, url, e)
-                    time.sleep(5 * (attempt + 1))
+                logger.warning("Feil (forsøk %d/%d) for %s: %s", attempt + 1, retries, url, e)
+                time.sleep(5 * (attempt + 1))
 
         logger.error("Alle %d forsøk feilet: %s", retries, url)
+        return self._utfall(MIDLERTIDIG)
+
+    def _utfall(self, status: str):
+        self.siste_status = status
+        self.teller["hentet_ok" if status == OK else f"feil_{status}"] += 1
         return None
 
     @staticmethod
@@ -108,48 +124,29 @@ class BaseScraper(ABC):
                 })
                 with urllib.request.urlopen(req, timeout=30) as resp:
                     self._last_request_time = time.time()
-                    return json.loads(resp.read().decode("utf-8"))
+                    data = json.loads(resp.read().decode("utf-8"))
+                    self._utfall(OK)
+                    return data
             except Exception as e:
                 logger.warning("JSON-feil (forsøk %d/%d) %s: %s", attempt + 1, retries, url, e)
                 time.sleep(5 * (attempt + 1))
-        return None
+        return self._utfall(MIDLERTIDIG)
 
     def side_til_markdown(self, page, selektorer: list[str]) -> str:
         """
         Konverter Scrapling-side til Markdown.
-        Prøver selektorer i rekkeflølge til én gir innhold.
+        Bruker første selektor som gir et element med innhold.
         """
         if page is None:
             return ""
-
+        base_url = str(getattr(page, "url", "") or "")
         for selector in selektorer:
             element = self.css_first(page, selector)
-            if element:
-                return self._element_til_markdown(element)
+            if element is not None:
+                tekst = html_til_markdown(str(element.html_content), base_url)
+                if tekst:
+                    return tekst
         return ""
-
-    def _element_til_markdown(self, element) -> str:
-        linjer = []
-        for tag in element.css("h1, h2, h3, h4, p, li, dt, dd"):
-            tekst = str(tag.text).strip() if tag.text else ""
-            if not tekst:
-                continue
-            navn = tag.tag
-            if navn == "h1":
-                linjer.append(f"\n## {tekst}\n")
-            elif navn == "h2":
-                linjer.append(f"\n### {tekst}\n")
-            elif navn in ("h3", "h4"):
-                linjer.append(f"\n#### {tekst}\n")
-            elif navn == "p":
-                linjer.append(f"{tekst}\n")
-            elif navn == "li":
-                linjer.append(f"- {tekst}")
-            elif navn == "dt":
-                linjer.append(f"\n**{tekst}**")
-            elif navn == "dd":
-                linjer.append(f"  {tekst}")
-        return "\n".join(linjer)
 
     def hent_tittel(self, page) -> str:
         """Hent sidetittel med flere fallback-strategier."""
@@ -199,11 +196,14 @@ class BaseScraper(ABC):
         if filepath.exists():
             if self._les_hash(filepath) == ny_hash:
                 logger.debug("Ingen endring: %s", filepath.name)
+                self.teller["uendret"] += 1
                 return False
+            self.teller["endret"] += 1
             gammel_logg = self._les_endringslogg(filepath)
             ny_logg = gammel_logg + f"- **{self.today()}** Innhold endret (se git-historikk for diff)\n"
             logger.info("Endring oppdaget: %s", filepath.name)
         else:
+            self.teller["ny"] += 1
             filepath.parent.mkdir(parents=True, exist_ok=True)
             ny_logg = f"- **{self.today()}** Første gang hentet\n"
             logger.info("Ny fil: %s", filepath.name)
