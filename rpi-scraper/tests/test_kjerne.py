@@ -332,9 +332,12 @@ class Heartbeat(unittest.TestCase):
         import main
         ut = Path(tempfile.mkdtemp(dir=_TMP))
         f = main.skriv_heartbeat(ut, {"skatteetaten": {"hentet_ok": 10, "uendret": 10},
-                                      "nav": {"krasj": "ValueError"}}, 3725)
+                                      "nav": {"krasj": "ValueError"},
+                                      "dibk": {"avbrutt": 1, "feil_midlertidig": 10,
+                                               "årsak:TimeoutError": 18, "årsak:HTTP 403": 2}}, 3725)
         tekst = f.read_text()
-        self.assertIn("<!-- helse: skatteetaten=OK nav=FEIL -->", tekst)
+        self.assertIn("feiltyper: TimeoutError ×18, HTTP 403 ×2", tekst)
+        self.assertIn("<!-- helse: skatteetaten=OK nav=FEIL dibk=FEIL -->", tekst)
         self.assertIn("1 t 2 min", tekst)
         self.assertIn("**nav** (FEIL): krasj: ValueError", tekst)
 

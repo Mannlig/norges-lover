@@ -69,7 +69,10 @@ class BaseScraper(ABC):
                     disable_resources=True,  # Ikke last bilder/fonter – raskere
                     extra_headers={"Accept-Language": "nb-NO,nb;q=0.9"},
                     google_search=False,     # Ikke utgi oss for å komme fra Google
-                    retries=1,               # Vi styrer nye forsøk selv (var 3×3)
+                    # Scraplings egne nye forsøk (standard 3) beholdes: på Pi-en
+                    # rekker tunge sider ofte ikke «network idle» på første
+                    # lasting. Med retries=1 feilet Skatteetaten, DiBK og
+                    # Arbeidstilsynet 10 av 10 ganger, mens de virket fra GitHub.
                 )
                 self._last_request_time = time.time()
                 status = getattr(page, "status", 200) or 200
@@ -79,20 +82,27 @@ class BaseScraper(ABC):
                 if status == 429 or status >= 500:
                     wait = 60 * (attempt + 1)
                     logger.warning("HTTP %d fra %s, venter %ds", status, url, wait)
+                    self._årsak(f"HTTP {status}")
                     time.sleep(wait)
                     continue
                 if status >= 400:
                     logger.warning("HTTP %d: %s – hopper over", status, url)
+                    self._årsak(f"HTTP {status}")
                     return self._utfall(MIDLERTIDIG)
                 logger.debug("Hentet: %s", url)
                 self._utfall(OK)
                 return page
             except Exception as e:
                 logger.warning("Feil (forsøk %d/%d) for %s: %s", attempt + 1, retries, url, e)
+                self._årsak(type(e).__name__)
                 time.sleep(5 * (attempt + 1))
 
         logger.error("Alle %d forsøk feilet: %s", retries, url)
         return self._utfall(MIDLERTIDIG)
+
+    def _årsak(self, årsak: str):
+        """Tell feiltype, så heartbeaten kan vise hvorfor en kilde feiler."""
+        self.teller[f"årsak:{årsak}"] += 1
 
     def _utfall(self, status: str):
         self.siste_status = status
@@ -129,6 +139,7 @@ class BaseScraper(ABC):
                     return data
             except Exception as e:
                 logger.warning("JSON-feil (forsøk %d/%d) %s: %s", attempt + 1, retries, url, e)
+                self._årsak(type(e).__name__)
                 time.sleep(5 * (attempt + 1))
         return self._utfall(MIDLERTIDIG)
 

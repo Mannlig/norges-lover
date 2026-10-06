@@ -142,7 +142,11 @@ def skriv_heartbeat(output_dir: Path, statistikk: dict[str, dict], rundetid_s: i
     problemer = [(k, h[0], h[1]) for k, h in helse.items() if h[0] != "OK"]
     if problemer:
         linjer += ["", "## Problemer", ""]
-        linjer += [f"- **{k}** ({st}): {grunn}" for k, st, grunn in problemer]
+        for k, st, grunn in problemer:
+            årsaker = sorted(((n, a.removeprefix("årsak:")) for a, n in statistikk[k].items()
+                              if a.startswith("årsak:")), reverse=True)
+            detalj = ", ".join(f"{a} ×{n}" for n, a in årsaker[:3])
+            linjer.append(f"- **{k}** ({st}): {grunn}" + (f" – feiltyper: {detalj}" if detalj else ""))
     linjer += ["", "*«Uendret» betyr at siden ble hentet og sjekket uten at innholdet hadde endret seg.*", ""]
     filepath.write_text("\n".join(linjer), encoding="utf-8")
     return filepath
