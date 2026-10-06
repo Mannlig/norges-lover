@@ -1,4 +1,4 @@
-<!-- innholds-hash: 82d145a1b9085ecabbc58384df8d20383b07ce3bdcfb4bc1d02ee79ba819270d -->
+<!-- innholds-hash: bef6515d4864c7313a5c35f4c84031adc3773a7013a4fd34ac41097845369a97 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Lars Haltbrekken, Anne Lise Gjerstad Fredlund, Marthe Hammer og Mirell Høyer-Berntsen om kontroll av drivstoffkjedene og deres prissetting
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om kontroll av drivstoffkjedene og deres prissetting
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 8:274 S (2025-2026), Innst. 446 S (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Olje og gass, Priser og konkurranseforhold, Forbrukersaker
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200270
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307262+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
       "id": 74,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 83,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 98,
@@ -53,8 +50,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -62,15 +57,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -78,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
       "foedselsdato": "/Date(362786400000+0200)/",
@@ -87,15 +76,11 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -103,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
       "foedselsdato": "/Date(37321200000+0100)/",
@@ -112,15 +95,11 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -128,8 +107,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
       "foedselsdato": "/Date(302738400000+0200)/",
@@ -137,15 +114,11 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -153,8 +126,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
       "foedselsdato": "/Date(339717600000+0200)/",
@@ -162,15 +133,11 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -183,8 +150,6 @@
   "innstilling_id": 17527,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -192,8 +157,6 @@
   "sak_fremmet_id": 200270,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
       "foedselsdato": "/Date(461282400000+0200)/",
@@ -201,15 +164,11 @@
       "id": "MARNIL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -224,7 +183,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -391,3 +350,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

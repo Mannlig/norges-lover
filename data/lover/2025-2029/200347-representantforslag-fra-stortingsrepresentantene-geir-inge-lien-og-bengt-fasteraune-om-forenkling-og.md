@@ -1,4 +1,4 @@
-<!-- innholds-hash: d3e81c73f906fb01cd27fe8df0dec615128a740bad09369001763f8aa481478a -->
+<!-- innholds-hash: 95a347af9130ae94918912748318e4adf57993cbf33e67732572cfb0997b356d -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 
@@ -7,36 +7,27 @@
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200347
 - **Type:** 2
-- **Korttittel:** Representantforslag om forenkling og avbyråkratisering i jernbanesektoren
+- **Korttittel:** Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 8:302 S (2025–2026)
+- **Komité:** Samferdselskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200347
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307262+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 107,
-      "navn": "Jernbaner",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
       "foedselsdato": "/Date(-176090400000+0200)/",
@@ -44,15 +35,11 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -60,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
       "foedselsdato": "/Date(76024800000+0200)/",
@@ -69,15 +54,11 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -90,12 +71,10 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
-    "id": "TRANSKOM",
-    "navn": "Transport- og kommunikasjonskomiteen"
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
   },
-  "korttittel": "Representantforslag om forenkling og avbyråkratisering i jernbanesektoren",
+  "korttittel": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren",
   "sak_fremmet_id": 200347,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
@@ -105,7 +84,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -284,3 +263,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

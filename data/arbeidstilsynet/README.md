@@ -1,8 +1,6 @@
 # Data – Arbeidstilsynet
 
-Arbeidstilsynet
-
-*Sist oppdatert: 2026-08-02 07:41 UTC*
+Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 
 **Antall dokumenter:** 167
 

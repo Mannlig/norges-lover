@@ -1,4 +1,4 @@
-<!-- innholds-hash: 119c04325ab63bab4d80c6144320ee9f6b4b6d9c00d640ffa8593e5631e9865d -->
+<!-- innholds-hash: 5a723ab126c936129a27b4474881b0a8486524085fd6e75bbf9a8f48138a5d32 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -9,34 +9,25 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om fleksibel skolestart
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 8:306 S (2025–2026)
+- **Komité:** Utdannings- og forskningskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307121+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 32,
-      "id": 183,
-      "navn": "Grunnskole",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
       "foedselsdato": "/Date(1017270000000+0100)/",
@@ -44,15 +35,11 @@
       "id": "JOATAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -60,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
       "foedselsdato": "/Date(120520800000+0200)/",
@@ -69,15 +54,11 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -85,8 +66,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
       "foedselsdato": "/Date(731113200000+0100)/",
@@ -94,15 +73,11 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -110,8 +85,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
       "foedselsdato": "/Date(974847600000+0100)/",
@@ -119,15 +92,11 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -140,8 +109,6 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
@@ -155,7 +122,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -320,3 +287,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f4376fa38553296d0c8a2ae83cb8a929bd5c516142cc3ea873670fa820855572 -->
+<!-- innholds-hash: b5582f83fd56d9c76266bdc2061b6fe83f8870d6e9915e44d5d6f1dc02337aea -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen
 
@@ -7,36 +7,27 @@
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200342
 - **Type:** 2
-- **Korttittel:** Representantforslag om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen
+- **Korttittel:** Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 8:299 S (2025–2026)
+- **Komité:** Samferdselskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200342
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307277+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 107,
-      "navn": "Jernbaner",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
       "foedselsdato": "/Date(504745200000+0100)/",
@@ -44,15 +35,11 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -60,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
       "foedselsdato": "/Date(524613600000+0200)/",
@@ -69,15 +54,11 @@
       "id": "MMIKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -85,8 +66,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
       "foedselsdato": "/Date(208044000000+0200)/",
@@ -94,15 +73,11 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -115,12 +90,10 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
-    "id": "TRANSKOM",
-    "navn": "Transport- og kommunikasjonskomiteen"
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
   },
-  "korttittel": "Representantforslag om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen",
+  "korttittel": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Mímir Kristjánsson og Marie Sneve Martinussen om å si opp trafikkavtalen med Go-Ahead Norge på Sørlandsbanen",
   "sak_fremmet_id": 200342,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
@@ -130,7 +103,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -321,3 +294,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

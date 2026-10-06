@@ -1,4 +1,4 @@
-<!-- innholds-hash: f3b86f1ff49bbd53a6c92eb080dfb4a1344c7db1b38a2ed728aba30b1f844141 -->
+<!-- innholds-hash: ed6e09b72b87d34f2ddbc2c42ced502570418401a89f4d8e8f190587881c89cc -->
 
 # Riksrevisjonens undersøkelse av Norads kontroll og oppfølging av tilskudd til sivil støtte gjennom Nansen-programmet
 
@@ -9,65 +9,29 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av Norads kontroll og oppfølging av tilskudd til sivil støtte gjennom Nansen-programmet
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Henvisning:** Dokument 3:11 (2025-2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200317
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 151,
-      "id": 29,
-      "navn": "Riksrevisjonen",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 155,
-      "id": 155,
-      "navn": "Statsforvaltning",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 163,
-      "id": 163,
-      "navn": "Utenrikssaker",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 174,
-      "navn": "Utviklingssamarbeid",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:11 (2025-2026)",
   "id": 200317,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -75,8 +39,6 @@
   "sak_fremmet_id": 200317,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
       "foedselsdato": "/Date(877125600000+0200)/",
@@ -84,15 +46,11 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -107,7 +65,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -126,3 +84,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

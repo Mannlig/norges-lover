@@ -1,41 +1,34 @@
-<!-- innholds-hash: fb8244c8e387254a68dd9c790cf71aee00ac341c920dd087378ec7c2106fc8e5 -->
+<!-- innholds-hash: dd387990a73ca09de287c48fbbc39756b368193b01cc42c08db2cd4af8451ab6 -->
 
 # Sykepenger i arbeidsgiverperioden  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden
-- **Sist hentet:** 2026-07-12T21:24:48Z
+- **Sist oppdatert i arkivet:** 2026-10-06T04:28:42Z
 
 ## Innhold
 
-Pengestøtte til ansatt og Refusjon  —  For arbeidsgivere
-
+Pengestøtte til ansatt og Refusjon — For arbeidsgivere
 
 ## Sykepenger i arbeidsgiverperioden
 
 Erstatter inntekten til arbeidstakeren når de ikke kan jobbe på grunn av sykdom eller skade.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om sykepenger i arbeidsgiverperioden til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om sykepenger i arbeidsgiverperioden til
+### Hvem er det aktuelt for?
 
 Hvis en ansatt blir syk eller skadet, er hovedregelen at du som arbeidsgiver betaler sykepengene til den ansatte i inntil 16 kalenderdager for hver sykefraværsperiode. Dette kalles arbeidsgiverperioden. Sykefraværet kan være dokumentert med egenmelding eller sykmelding.
 
 Arbeidsgiverperioden starter første hele egenmeldingsdag eller den første dagen med hel eller gradert sykmelding. Arbeidsgiverperioden varer i 16 kalenderdager hvis fraværet er sammenhengende. Du skal betale for alle planlagte arbeidsdager i løpet av disse 16 kalenderdagene.
 
-For ansatte over 67 år må inntekten tilsvare minst 273 098 i årsinntekt for at de skal ha rett til sykepenger. Det tilsvarer to ganger grunnbeløpet i folketrygden. Ansatte over 70 år har ikke rett til sykepenger.
+For ansatte over 67 år må inntekten tilsvare minst 273 098 i årsinntekt for at de skal ha rett til sykepenger. Det tilsvarer to ganger grunnbeløpet i folketrygden. Ansatte over 70 år har ikke rett til sykepenger.
 
-- Arbeidstakeren må ha jobbet minst 4 uker for å ha rett til sykepenger i arbeidsgiverperioden.
+#### Opptjeningstid
+
+- Arbeidstakeren må ha jobbet minst 4 uker for å ha rett til sykepenger i arbeidsgiverperioden.
 - Opptjeningstiden starter fra den dagen arbeidstakeren ble ansatt, det vil si den datoen lønnen beregnes fra.
-- Lovlig fravær som ferie, sykefravær, permisjon, permittering og avspasering inngår i opptjeningstiden, så lenge arbeidstakeren har vært i arbeid minst 1 dag først.
-- Etter en 100 prosent permisjon eller permittering i mer enn 14 dager, er det en ny opptjeningstid på 4 uker før arbeidstakeren har rett til sykepenger i arbeidsgiverperioden igjen.
+- Lovlig fravær som ferie, sykefravær, permisjon, permittering og avspasering inngår i opptjeningstiden, så lenge arbeidstakeren har vært i arbeid minst 1 dag først.
+- Etter en 100 prosent permisjon eller permittering i mer enn 14 dager, er det en ny opptjeningstid på 4 uker før arbeidstakeren har rett til sykepenger i arbeidsgiverperioden igjen.
 
 #### Eksempel
 
@@ -43,17 +36,27 @@ Hvis en ansatt har hatt 100 prosent foreldrepermisjon eller 100 prosent permisjo
 
 Den ansatte må søke om sykepenger fra Nav fra første sykmeldingsdag. I inntektsmeldingen skal du som arbeidsgiver velge "Det er ikke 4 uker opptjening" som begrunnelse for å ikke betale sykepenger de første 16 dagene.
 
+[Egenmelding](https://www.nav.no/egenmelding)
+
+Når du er syk
+
+[Sykmelding](https://www.nav.no/arbeidsgiver/sykmelding)
+
+Slik gjør du det
+
+### Hva kan den ansatte få?
+
+#### Slik beregnes sykepenger i arbeidsgiverperioden
+
 Hovedregelene for beregning:
 
 For å beregne sykepenger i arbeidsgiverperioden, må du først fastsette arbeidstakerens månedsinntekt. Deretter beregnes dagsatsen som skal utbetales for sykefraværsdager i denne perioden.
 
 Månedsinntekten fastsettes som hovedregel ut fra et gjennomsnitt av den inntekten som er rapportert til a-ordningen i de tre siste kalendermånedene før sykefraværet startet. Denne perioden kalles beregningsperioden.
 
-
 #### Eksempel
 
 Kari Nordmann blir syk 7. januar 2025. Det er Karis gjennomsnittlige månedsinntekt for oktober, november og desember 2024 du skal bruke når du skal beregne Karis månedsinntekt.
-
 
 #### Unntak fra hovedregelen
 
@@ -63,15 +66,14 @@ Det er noen unntak fra hovedregelen som du må være klar over når du skal bere
 - Hvis arbeidstakeren har fått en varig lønnsendring i eller etter beregningsperioden, men før første fraværsdag, skal du bruke perioden etter lønnsendringen.
 - Hvis arbeidstakeren har hatt lovlig fravær uten lønn i beregningsperioden, skal du bruke den inntekten arbeidstakeren ville hatt hvis han eller hun hadde vært i jobb. Fraværet vil vanligvis være ulønnet permisjon eller ferie uten lønn.
 - Hvis arbeidstakeren har vært i 100 prosent permisjon eller permittering i mer enn 14 dager er det kun inntekten etter avbruddet som skal brukes når du beregner månedsinntekten.
-Når månedsinntekten er fastsatt, skal du utbetale sykepenger i arbeidsgiverperioden basert på denne inntekten. Du beregner en dagsats, som deretter utbetales for de dagene arbeidstakeren skulle ha jobbet.
 
+Når månedsinntekten er fastsatt, skal du utbetale sykepenger i arbeidsgiverperioden basert på denne inntekten. Du beregner en dagsats, som deretter utbetales for de dagene arbeidstakeren skulle ha jobbet.
 
 #### Tariffendring av lønn
 
 Hvis en ansatt får endret lønn som følge av et tariffoppgjør, må du endre inntektsmeldingen som allerede er sendt til Nav. Den nye lønnen må gjelde fra og med en dato som ligger før beregningstidspunktet for sykepengene. Fristen for å sende inn endret inntektsmelding med opplysninger om etterbetaling etter et tariffoppgjør er 3 måneder etter at tariffavtalen er signert.
 
 I inntektsmeldingen justerer du beløpet for månedsinntekt til ny beregnet inntekt og velger begrunnelsen "tariffendring". Husk å justere refusjonsbeløpet hvis du forskutterer lønn.
-
 
 #### Inntekter som inngår i beregning av månedsinntekten
 
@@ -105,14 +107,13 @@ Hvis naturalytelsen faller bort fra første fraværsdag, skal beløpet inngå i 
 
 Hvis naturalytelsene faller bort i perioden med fravær, skal de tas med i beregningsgrunnlaget fra det tidspunktet de faller bort. Naturalytelsene beregnes med den verdien som benyttes ved forskuddstrekk av skatt. For at naturalytelser skal tas med i beregningsgrunnlaget, må Nav få informasjon om at de har falt bort.
 
-
 #### Beregning for timelønnede arbeidstakere i skift- eller turnusarbeid
 
-Månedsinntekten for timelønnede arbeidstakere skal omgjøres til sykepengegrunnlag per dag. Inntekten skal fordeles på det faktiske antallet arbeidsdager arbeidstakere har hatt i beregningsperioden. Sykepenger gis bare for dager som det skulle ha vært utbetalt lønn for.
+Månedsinntekten for timelønnede arbeidstakere skal omgjøres til sykepengegrunnlag per dag. Inntekten skal fordeles på det faktiske antallet arbeidsdager arbeidstakere har hatt i beregningsperioden. Sykepenger gis bare for dager som det skulle ha vært utbetalt lønn for.
 
-- Du fordeler inntekten på det faktiske antallet arbeidsdager som arbeidstakeren har hatt i beregningsperioden. Da får du dagsatsen. Nedenfor ser du to eksempler.
-- Deretter utbetaler du sykepenger for de dagene arbeidstakeren skulle ha jobbet.
-- Når du oppgir månedsinntekten i inntektsmeldingen, oppgir du et gjennomsnitt av inntekten arbeidstakeren har hatt i beregningsperioden.
+1. Du fordeler inntekten på det faktiske antallet arbeidsdager som arbeidstakeren har hatt i beregningsperioden. Da får du dagsatsen. Nedenfor ser du to eksempler.
+2. Deretter utbetaler du sykepenger for de dagene arbeidstakeren skulle ha jobbet.
+3. Når du oppgir månedsinntekten i inntektsmeldingen, oppgir du et gjennomsnitt av inntekten arbeidstakeren har hatt i beregningsperioden.
 
 #### Eksempel 1:
 
@@ -121,27 +122,27 @@ En arbeidstaker på timelønn
 - jobbet varierende antall dager i månedene før sykefraværet
 - ble syk 9. mai
 - hadde jobbet 9 dager i april, 13 dager i mars og 12 dager i februar. Det vil si 9 + 13 + 12 = 34 dager
-- tjente til sammen 40 000 kroner i beregningsperioden
-- tjente 1 176 kroner
-Du utbetaler 1 176 kroner i sykepenger for hver dag arbeidstakeren skulle ha jobbet i arbeidsgiverperioden.
+- tjente til sammen 40 000 kroner i beregningsperioden
+- tjente 1 176 kroner per dag i arbeid (40 000 kr / 34 dager) = dagsatsen
 
-I inntektsmeldingen oppgir du
+Du utbetaler 1 176 kroner i sykepenger for hver dag arbeidstakeren skulle ha jobbet i arbeidsgiverperioden.
 
+I inntektsmeldingen oppgir du månedsinntekten: 40 000 kroner / 3 måneder = 13 333 kroner.
 
 #### Eksempel 2:
 
 En arbeidstaker i turnus
 
-- jobber 14 dager og har 14 dager fri
+- jobber 14 dager og har 14 dager fri
 - har arbeidsdager på 12 timer
 - har timelønn på 220 kroner
 - jobbet 14 dager x 3 måneder = 42 dager
-- tjente til sammen i perioden 110 880 kroner (42 dager x 12 timer x 220 kr)
-- tjente 2 640 kroner
-Du utbetaler 2 640 kroner i sykepenger for hver dag arbeidstakeren skulle ha jobbet i arbeidsgiverperioden.
+- tjente til sammen i perioden 110 880 kroner (42 dager x 12 timer x 220 kr)
+- tjente 2 640 kroner per dag i arbeid (110 880 kr / 42 dager) = dagsatsen
 
-I inntektsmeldingen oppgir du
+Du utbetaler 2 640 kroner i sykepenger for hver dag arbeidstakeren skulle ha jobbet i arbeidsgiverperioden.
 
+I inntektsmeldingen oppgir du månedsinntekten: 110 880 kroner / 3 måneder = 36 960 kroner.
 
 #### Beregning for tilkallingsvikarer
 
@@ -155,18 +156,19 @@ Et slikt grunnlag skal brukes hvis den ansatte har jobbet hos dere i minst tre m
 
 I begge disse tilfellene må dere beregne et gjennomsnittlig antall dager som dere skal utbetale sykepenger for i arbeidsgiverperioden.
 
-Antall vakter i
+Antall vakter i [beregningsperioden](https://lovdata.no/lov/1997-02-28-19/%C2%A78-28) x7,5 timer (snitt arbeidstid per dag for arbeidstakere) = antall arbeidstimer i beregningsperioden. Dette må deles på antall måneder i beregningsperioden og så på 21,67 (snitt antall arbeidsdager per måned). Dette utgjør antall dager dere må dekke i arbeidsgiverperioden.
 
 Eksempel: Den ansatte har jobbet 12 dager de siste 3 månedene: 12x7,5 = 90 timer. 90/3 = 30 timer per måned. 30/21,67 = 1,4 dager.
 
-For beregning av dagsatsen dere skal utbetale, se
+For beregning av dagsatsen dere skal utbetale, se [Timelønnet skift- eller turnusarbeid og tilkallingsvikarer](https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden#regler).
+
+#### Arbeidsgiverperioden
 
 Arbeidsgiverperioden gjelder fra og med første fraværsdag som skyldes sykdom. Det vil si at arbeidsgiverperioden ikke kan starte på en fridag, avspaseringsdag, feriedag eller permisjonsdag.
 
 Første fraværsdag kan være dokumentert med egenmelding for hele dagen eller med hel eller gradert sykmelding. Egenmelding for del av en dag kan ikke regnes som første fraværsdag.
 
 I en sammenhengende sykefraværsperiode varer arbeidsgiverperioden fra og med første fraværsdag og 16 dager fremover. Fridager det er sykmelding for, skal telles med i arbeidsgiverperioden. Fridager det ikke er egenmelding eller sykmelding for skal ikke telles med.
-
 
 #### Nytt sykefravær
 
@@ -178,8 +180,10 @@ Hvis arbeidstakeren har vært sykmeldt i en hel arbeidsgiverperiode og deretter 
 
 - Arbeidstakeren har gjenopptatt arbeidet.
 - Det er gått minst 16 kalenderdager siden arbeidet ble gjenopptatt.
+
 Det finnes ingen begrensning i antall ganger eller dager som arbeidsgiveren er forpliktet til å betale sykepenger for i løpet av ett kalenderår.
 
+#### Ferie
 
 #### Den ansatte blir syk under ferieavvikling
 
@@ -187,16 +191,15 @@ Hvis den ansatte blir syk mens han/hun har ferie, regnes arbeidsgiverperioden fr
 
 Den ansatte avvikler ferie i løpet av arbeidsgiverperioden
 
-
 #### Ferieavvikling med sykmelding
 
 Hvis arbeidsgiverperioden har startet og den ansatte ønsker å avvikle ferie, fører den ansatte ferie på søknaden om sykepenger. Feriedagene skal da beregnes inn i tellingen av arbeidsgiverperioden.
-
 
 #### Ferieavvikling uten sykmelding
 
 Hvis arbeidsgiverperioden avbrytes av en ferieperiode og den ansatte dagen etter ferien på nytt blir syk, fortsetter arbeidsgiverperioden etter ferien hvis ferien varer i mindre enn 16 dager. Hvis ferien varer i 16 dager eller mer, starter en helt ny arbeidsgiverperiode etter ferien.
 
+#### Ulike former for sykmelding
 
 #### Avventende sykmelding
 
@@ -206,6 +209,8 @@ Hvis arbeidstakeren har en avventende sykmelding og blir borte fra jobben på gr
 
 Det er kun dager med helt eller delvis fravær som teller i beregningen av arbeidsgiverperioden.
 
+#### Hvis den ansatte har vært sykmeldt i ett år
+
 Når den ansatte har vært sykmeldt i 52 uker, er rettigheten til sykepenger fra Nav brukt opp. Arbeidsgiveren har likevel plikt til å utbetale sykepenger de første 16 dagene av et nytt sykefravær.
 
 Kommer den ansatte tilbake i 100 prosent av stillingen og blir syk før det har gått 16 kalenderdager, blir det ikke noen ny arbeidsgiverperiode.
@@ -214,33 +219,71 @@ Hvis arbeidsavtalen eksempelvis blir endret til 50 prosent stilling, blir det ny
 
 Ellers gjelder de samme reglene for beregning av arbeidsgiverperioden som beskrevet over.
 
+#### Andre tilbud
+
 Mer informasjon når
 
+- [Ansatt er sykmeldt](https://www.nav.no/arbeidsgiver/sykmeldt-ansatt) Hva arbeidsgivere må vite
 
 #### Unntak fra arbeidsgiveransvar
 
 Når arbeidstakeren har langvarig eller kronisk sykdom som kan føre til hyppige sykefravær, eller er sykmeldt på grunn av graviditet, kan arbeidsgiveren søke om å få dekket sykepengene i arbeidsgiverperioden fra Nav.
 
+[Dekking av sykepenger i arbeidsgiverperioden](https://www.nav.no/arbeidsgiver/kroniker-gravid)
+
+Tiltak og Refusjon
+
+### Arbeidsgivers rolle
+
+#### Søknad om sykepenger
+
 Når sykmeldingsperioden er over, får den ansatte melding om at søknaden om sykepenger kan fylles ut på nav.no.
+
+[Søknad om sykepenger](https://www.nav.no/arbeidsgiver/sykepenger)
+
+Slik gjør du det
+
+#### Utbetaling av sykepengene etter arbeidsgiverperioden
 
 Når arbeidsgiverperioden er over, kan den ansatte ha rett til sykepenger fra Nav. Du må sende inntektsmelding for at saken skal bli behandlet.
 
+[Sykepenger etter arbeidsgiverperioden](https://www.nav.no/arbeidsgiver/sykepenger-etter-arbeidsgiverperioden)
+
+Slik gjør du det
+
+#### Hvis du ikke godtar en sykmelding
+
 Hvis du mener at du har god grunn til mistanke om at den ansatte ikke er syk eller skadet eller ikke medvirker i oppfølgingsarbeidet, kan du velge å ikke godta sykmeldingen, og dermed ikke utbetale sykepenger i arbeidsgiverperioden.
 
-Oppdatert 30.04.2026
+[Arbeidsgiveren godtar ikke sykmeldingen](https://www.nav.no/arbeidsgiver/betvile-sykmelding)
 
+Slik gjør du det
 
-#### Chat
+### Hva sier loven?
 
-Chatbot Frida har døgnåpent.
+- [Folketrygdloven § 8-18 – Sykepenger fra arbeidsgiveren (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven--8-18--sykepenger-fra-arbeidsgiveren)
+- [Folketrygdloven § 8-19 – Beregning av arbeidsgiverperioden (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven--8-19--beregning-av-arbeidsgiverperioden)
+- [Folketrygdloven § 8-28 - Sykepengegrunnlaget i arbeidsgiverperioden (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-8-28-sykepengegrunnlaget-i-arbeidsgiverperioden)
+
+Oppdatert 30.04.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chatbot
+
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
+
+Chatbot:
 
 Alltid åpen
 
+Ring oss på 55 55 33 36
 
-#### Ring oss på 55 55 33 36
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden) av norges-lover-bot.*
@@ -254,3 +297,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

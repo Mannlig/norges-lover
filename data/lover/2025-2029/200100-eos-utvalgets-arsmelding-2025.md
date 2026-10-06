@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6f1ac42b900ca7a6bf326a2488c262e513b0b361b434d10bed755f893c22a00c -->
+<!-- innholds-hash: e010dfb2359ec8ee008b641ffbfc374d3c5ee056aa5337db4e577e70f9fce503 -->
 
 # EOS-utvalgets årsmelding 2025
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** EOS-utvalgets årsmelding 2025
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 7 (2025-2026), Innst. 319 S (2025-2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** Forsvar, Politi og påtalemyndighet, Stortinget
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200100
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307262+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 141,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
       "id": 203,
@@ -57,8 +54,6 @@
   "innstilling_id": 17399,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -66,8 +61,6 @@
   "sak_fremmet_id": 200100,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Selnes",
       "foedselsdato": "/Date(216514800000+0100)/",
@@ -75,15 +68,11 @@
       "id": "LISSEL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -98,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -265,3 +254,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

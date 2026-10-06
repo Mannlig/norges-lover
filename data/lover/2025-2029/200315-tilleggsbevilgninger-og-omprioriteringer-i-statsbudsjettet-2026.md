@@ -1,4 +1,4 @@
-<!-- innholds-hash: 173b3b2e978ba6d9b512d190a7060077dd8618527374735aca3ed2ed0bbc62d8 -->
+<!-- innholds-hash: 5ad8e5b1d518b4d278cf265a62dec6c07488dcac5c93ce54d4484748ceac92cd -->
 
 # Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026
 
@@ -9,23 +9,24 @@
 - **Type:** 1
 - **Korttittel:** Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2026
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Prop. 96 S (2025-2026), Innst. 450 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Statsbudsjettet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200315
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307168+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307168+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 185,
@@ -39,8 +40,6 @@
   "innstilling_id": 17546,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -48,8 +47,6 @@
   "sak_fremmet_id": 200315,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307168+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
       "foedselsdato": "/Date(290473200000+0100)/",
@@ -57,15 +54,11 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -80,7 +73,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -266,3 +259,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

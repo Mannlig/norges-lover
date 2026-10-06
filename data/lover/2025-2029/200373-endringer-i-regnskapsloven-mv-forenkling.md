@@ -1,4 +1,4 @@
-<!-- innholds-hash: 33d6f58f360a6219b7ca8efa43ef36232e6e7a4814ace5a1665673c99c0062e1 -->
+<!-- innholds-hash: 4261ed717bc94129b76a2d932657b06fbbac74d79f0632f4080a49b8974e31aa -->
 
 # Endringer i regnskapsloven mv. (forenkling)
 
@@ -8,18 +8,21 @@
 - **Sak-ID:** 200373
 - **Type:** 3
 - **Korttittel:** Endringer i regnskapsloven mv. (forenkling)
-- **Status:** 3
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T15:25:01Z
+- **Status:** 2
+- **Henvisning:** Prop. 106 L (2025–2026)
+- **Komité:** Finanskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200373
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781881619011+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [],
@@ -28,19 +31,23 @@
   "id": 200373,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Endringer i regnskapsloven mv. (forenkling)",
   "sak_fremmet_id": 200373,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781862300000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "status": 2,
   "tittel": "Endringer i regnskapsloven mv. (forenkling)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

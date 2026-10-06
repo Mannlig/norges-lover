@@ -1,4 +1,4 @@
-<!-- innholds-hash: ec114d1510c8964d0c9c4435a901af63c6d3a10564f1b18ea2b120978a855a8f -->
+<!-- innholds-hash: 66f52001f1ef4e4e17183e21e5c7d7c4e36a8aa6120853d867ebec94717e240d -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup, Aleksander Stokkebø og Kari Sofie Bjørnsen om kvalitetssikring av støtte til flytende havvind
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om kvalitetssikring av støtte til flytende havvind
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T06:18:09Z
+- **Henvisning:** Dokument 8:213 S (2025-2026), Innst. 401 S (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Elektrisitet, Næringsutvikling
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200165
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781849040054+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
       "id": 71,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 114,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
       "foedselsdato": "/Date(783730800000+0100)/",
@@ -53,15 +50,11 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
       "foedselsdato": "/Date(-91155600000+0100)/",
@@ -78,15 +69,11 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
       "foedselsdato": "/Date(266450400000+0200)/",
@@ -103,15 +88,11 @@
       "id": "NA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -124,8 +105,6 @@
   "innstilling_id": 17477,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781848828695+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -133,8 +112,6 @@
   "sak_fremmet_id": 200165,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vik",
       "foedselsdato": "/Date(1058824800000+0200)/",
@@ -142,15 +119,11 @@
       "id": "SOLVIK",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -165,7 +138,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -203,3 +176,4 @@
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

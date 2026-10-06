@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23e3d844e5a648b49cce4a241958ad4105c3e57a8722b671f1b4009609de3519 -->
+<!-- innholds-hash: 9d0177aceae727d507d6de9443f4b39128de530ed945684f1ba21240aa5e23f6 -->
 
 # Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)
 
@@ -9,23 +9,24 @@
 - **Type:** 1
 - **Korttittel:** Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Prop. 98 S (2025-2026), Innst. 452 S (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Forurensning, Landbruk, Landbruksprodukter, Lønn og inntekt, Jordbruk, Husdyr
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200331
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307121+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
       "id": 46,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 69,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
       "id": 95,
@@ -60,8 +55,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 128,
@@ -69,8 +62,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 129,
@@ -84,8 +75,6 @@
   "innstilling_id": 17539,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -93,8 +82,6 @@
   "sak_fremmet_id": 200331,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
       "foedselsdato": "/Date(271807200000+0200)/",
@@ -102,15 +89,11 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -125,7 +108,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -300,3 +283,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

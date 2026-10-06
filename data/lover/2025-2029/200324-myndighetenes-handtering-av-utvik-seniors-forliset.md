@@ -1,4 +1,4 @@
-<!-- innholds-hash: feb056184bbd05a2641a802146b5f71fd294b08a5572ac1138c353ebf0fbd3e3 -->
+<!-- innholds-hash: b1be38c2f1b9d807d800ceb27ffd2b6e66f5f4dfddf930f6c160652948ee058a -->
 
 # Myndighetenes håndtering av Utvik Seniors forliset
 
@@ -9,17 +9,20 @@
 - **Type:** 2
 - **Korttittel:** Myndighetenes håndtering av Utvik Seniors forliset
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Henvisning:** None
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200324
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 7,
   "emne_liste": [],
@@ -29,8 +32,6 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -38,8 +39,6 @@
   "sak_fremmet_id": 200324,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
       "foedselsdato": "/Date(270856800000+0200)/",
@@ -47,15 +46,11 @@
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -70,7 +65,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -88,3 +83,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

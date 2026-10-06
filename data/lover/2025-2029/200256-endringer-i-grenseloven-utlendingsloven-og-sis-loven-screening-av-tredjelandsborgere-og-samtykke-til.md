@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4efbd34e3f4893d89715b19612f7705dbcddb3ea2f2a08fb3cee604e6b26fa7 -->
+<!-- innholds-hash: ae5ebdd3b33864a1a9608daed730ea8d2ae5d8677ee8fd114e8f50c4f76abccb -->
 
 # Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)
 
@@ -8,18 +8,21 @@
 - **Sak-ID:** 200256
 - **Type:** 3
 - **Korttittel:** Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere)
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-12T04:58:36Z
+- **Status:** 1
+- **Henvisning:** Prop. 73 LS (2025-2026), Innst. 370 L (2025-2026), Lovvedtak 60 (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200256
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781237008500+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [],
@@ -29,8 +32,6 @@
   "innstilling_id": 17461,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781236861154+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -38,8 +39,6 @@
   "sak_fremmet_id": 200256,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781237008500+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
       "foedselsdato": "/Date(505350000000+0100)/",
@@ -47,15 +46,11 @@
       "id": "FARQUR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781218818853+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -64,13 +59,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringer i grenseloven, utlendingsloven og SIS-loven (screening av tredjelandsborgere) og samtykke til godtakelse av forordning (EU) 2024/1356 om innføring av screening av tredjelandsborgere ved de ytre grensene mv. og forordning (EU) 2022/1190 om endringer i politisamarbeidsforordningen (videreutvikling av Schengen-regelverket)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -86,3 +81,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d7020308900ba2a44e5d6b89c612b17cadbf514640dac37f9e503c2777175f07 -->
+<!-- innholds-hash: 870b8f53a356561366d91f62c3d2ccdbb87bec9d3f8849a5ebe42a00b2a948a5 -->
 
 # Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Prop. 68 S (2025-2026), Innst. 440 S (2025-2026)
+- **Komité:** Utenriks- og forsvarskomiteen
+- **Emner:** Forsvar, Forsvarsmateriell, Nato
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200254
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307277+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
       "id": 60,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 177,
@@ -57,8 +54,6 @@
   "innstilling_id": 17521,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
   },
@@ -66,8 +61,6 @@
   "sak_fremmet_id": 200254,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Frølich",
       "foedselsdato": "/Date(558828000000+0200)/",
@@ -75,15 +68,11 @@
       "id": "PCF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -98,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -289,3 +278,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

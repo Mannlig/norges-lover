@@ -1,4 +1,4 @@
-<!-- innholds-hash: 77924e9f239ead26512065ad87a9baac41c8e24086ef40acdcec9508e609953e -->
+<!-- innholds-hash: ed5b1c895314359c1db4e4fdde86abc80565434af540a0fbf4e8f8098f779dbe -->
 
 # Representantforslag fra stortingsrepresentantene Tor André Johnsen, Rune Midtun, På Morten Borgli, Morten Kolbjørnsen, Bjørnar Laabak, May Helen Hetland Ervik og Kristoffer Sivertsen om gjødselbrukforskriften
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om gjødselbrukforskriften
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-17T05:56:25Z
+- **Henvisning:** Dokument 8:224 S (2025-2026), Innst. 427 S (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Jordbruk
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200157
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781672788655+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 128,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
       "foedselsdato": "/Date(-283654800000+0100)/",
@@ -44,15 +43,11 @@
       "id": "BJOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
       "foedselsdato": "/Date(596242800000+0100)/",
@@ -69,15 +62,11 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
       "foedselsdato": "/Date(169200000+0100)/",
@@ -94,15 +81,11 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
       "foedselsdato": "/Date(-356320800000+0200)/",
@@ -119,15 +100,11 @@
       "id": "MORKOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -135,8 +112,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Borgli",
       "foedselsdato": "/Date(-65667600000+0100)/",
@@ -144,15 +119,11 @@
       "id": "PAMB",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -160,8 +131,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Midtun",
       "foedselsdato": "/Date(106437600000+0200)/",
@@ -169,15 +138,11 @@
       "id": "RUNMID",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -185,8 +150,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Johnsen",
       "foedselsdato": "/Date(-34736400000+0100)/",
@@ -194,15 +157,11 @@
       "id": "TAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -215,8 +174,6 @@
   "innstilling_id": 17495,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781672432054+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -224,8 +181,6 @@
   "sak_fremmet_id": 200157,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781672788655+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-133149600000+0200)/",
@@ -233,15 +188,11 @@
       "id": "ERLL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781650817942+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781650817801+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -256,7 +207,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -291,3 +242,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

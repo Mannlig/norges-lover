@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0d0063214ce1e5dbbbe1b156ff268d6d784ea63dcf08c2c9e0c0f2fbf7bf4cc0 -->
+<!-- innholds-hash: 96e99b2eaa4a660afa3e1df6cdab76206e59d3a4cf63126379b9129821079d7a -->
 
 # Status, fremdrift, utfordringer og risiko i gjennomføring av langtidsplanen for forsvarssektoren 2025-2036
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Status, fremdrift, utfordringer og risiko i gjennomføring av langtidsplanen for forsvarssektoren 2025-2036
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Meld. St. 33 (2024-2025), Innst. 432 S (2025-2026)
+- **Komité:** Utenriks- og forsvarskomiteen
+- **Emner:** Forsvar, Forsvarsmateriell, Nato, Militært personell
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103871
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307277+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
       "id": 60,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 177,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
       "id": 193,
@@ -66,8 +61,6 @@
   "innstilling_id": 17522,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
   },
@@ -75,8 +68,6 @@
   "sak_fremmet_id": 103871,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Frølich",
       "foedselsdato": "/Date(558828000000+0200)/",
@@ -84,15 +75,11 @@
       "id": "PCF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -107,7 +94,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -298,3 +285,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

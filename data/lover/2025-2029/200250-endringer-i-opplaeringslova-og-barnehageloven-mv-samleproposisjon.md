@@ -1,4 +1,4 @@
-<!-- innholds-hash: 12a2a92dc4b2d8455a0c53b2acaa5f7de42bf0481c9fac380bb8a67a41a8c62f -->
+<!-- innholds-hash: 809077f87ae9533e0ded216d6dc7e4048ef7c8fccd5861235344893637d6207c -->
 
 # Endringer i opplæringslova og barnehageloven mv. (samleproposisjon)
 
@@ -8,29 +8,66 @@
 - **Sak-ID:** 200250
 - **Type:** 3
 - **Korttittel:** Endringer i opplæringslova og barnehageloven mv. (samleproposisjon)
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Status:** 1
+- **Henvisning:** Prop. 79 L (2025-2026), Innst. 356 L (2025-2026), Lovvedtak 67 (2025-2026)
+- **Komité:** Utdannings- og forskningskomiteen
+- **Emner:** Personvern, Skoler, Utdanning, Barnehager, Videregående skoler
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200250
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 17,
+      "navn": "Personvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 31,
+      "navn": "Skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 32,
+      "id": 32,
+      "navn": "Utdanning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 42,
+      "navn": "Barnehager",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 158,
+      "navn": "Videregående skoler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 79 L (2025-2026), Innst. 356 L (2025-2026), Lovvedtak 67 (2025-2026)",
   "id": 200250,
   "innstilling_id": 17473,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
-    "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
@@ -38,8 +75,6 @@
   "sak_fremmet_id": 200250,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
       "foedselsdato": "/Date(731113200000+0100)/",
@@ -47,15 +82,11 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -64,13 +95,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringer i opplæringslova og barnehageloven mv. (samleproposisjon)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -98,3 +129,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

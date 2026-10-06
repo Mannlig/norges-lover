@@ -1,4 +1,4 @@
-<!-- innholds-hash: eaa5e9ac453bd990ed3c02d86da558eff0dbb04e743090749166838cd6378ca4 -->
+<!-- innholds-hash: 37c93ecff5191e4af3a5edf32d8558dd87e1f4ee6b0a69bb0336524dc2aa4b18 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen
 
@@ -9,107 +9,55 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Henvisning:** Dokument 3:9 (2025-2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200297
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168809+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 139,
-      "id": 21,
-      "navn": "Forurensning",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 139,
-      "id": 23,
-      "navn": "Naturvern",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 151,
-      "id": 29,
-      "navn": "Riksrevisjonen",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 139,
-      "id": 139,
-      "navn": "Miljøvern",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 166,
-      "navn": "Traktater",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 168,
-      "navn": "Fn",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 184,
-      "id": 184,
-      "navn": "Lokalforvaltning",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 46,
-      "id": 196,
-      "navn": "Skogbruk",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:9 (2025-2026)",
   "id": 200297,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
   "korttittel": "Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen",
   "sak_fremmet_id": 200297,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Stuestøl",
+      "foedselsdato": "/Date(432338400000+0200)/",
+      "fornavn": "Julie E.",
+      "id": "JULSTU",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ve",
+        "navn": "Vestfold"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1777327200000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av myndighetenes arbeid med å kartlegge naturverdier og klimaeffekter som grunnlag for beslutninger i arealforvaltningen",
@@ -117,7 +65,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -138,3 +86,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

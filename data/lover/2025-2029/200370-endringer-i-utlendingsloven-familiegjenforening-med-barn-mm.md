@@ -1,4 +1,4 @@
-<!-- innholds-hash: cb6b95114d423d19b77d5fa62c13e4adaab203ff2b565492e47951daa56fa952 -->
+<!-- innholds-hash: 4917df70f42ecb4df60ce4f2764d8adad2692605383b1f5cda05c136f7814fb4 -->
 
 # Endringer i utlendingsloven (familiegjenforening med barn m.m.)
 
@@ -8,18 +8,21 @@
 - **Sak-ID:** 200370
 - **Type:** 3
 - **Korttittel:** Endringer i utlendingsloven (familiegjenforening med barn m.m.)
-- **Status:** 3
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T15:25:01Z
+- **Status:** 2
+- **Henvisning:** Prop. 108 L (2025–2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781881619011+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
   "emne_liste": [],
@@ -28,19 +31,23 @@
   "id": 200370,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Endringer i utlendingsloven (familiegjenforening med barn m.m.)",
   "sak_fremmet_id": 200370,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1781862300000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "status": 2,
   "tittel": "Endringer i utlendingsloven (familiegjenforening med barn m.m.)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

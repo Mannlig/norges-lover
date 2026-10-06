@@ -1,10 +1,8 @@
-# Data – Byggteknisk
+# Data – DiBK (byggteknisk)
 
-Byggtekniske krav og veiledere fra DiBK.
+Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.
 
-*Sist oppdatert: 2026-08-02 07:41 UTC*
-
-**Antall dokumenter:** 735
+**Antall dokumenter:** 734
 
 ## Innhold
 
@@ -745,10 +743,6 @@ Byggtekniske krav og veiledere fra DiBK.
 - [Regelendringer fra 1. juli](regelverk/tidligere-nyheter-om-endringer-i-regelverket/regelendringer-fra-1.-juli.md)
 - [Tryggere bolighandel fra nyttår](regelverk/tidligere-nyheter-om-endringer-i-regelverket/tryggere-bolighandel-fra-nyttar.md)
 - [Tidligere nyheter om endringer i regelverket](regelverk/tidligere-nyheter-om-endringer-i-regelverket.md)
-
-### Tek17
-
-- [Byggteknisk forskrift (TEK17) med veiledning](tek17/krav-til-byggverk.md)
 
 ---
 

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 13b1d21fa749bebb5c7a63e702217649ea67e1b49a93855533898da7187ecdac -->
+<!-- innholds-hash: 85c362b586b1d392e77af89fe81e47d26d88206afd4272246ba94befb00d3af9 -->
 
 # Finansmarkedsmeldingen 2026
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Finansmarkedsmeldingen 2026
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Meld. St. 9 (2025-2026), Innst. 379 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Internasjonalt samarbeid, Banker, Norges bank, Finanser, Statens pensjonsfond
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200295
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307277+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 22,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 87,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 88,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
       "id": 187,
@@ -60,8 +55,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 226,
@@ -75,8 +68,6 @@
   "innstilling_id": 17519,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -84,8 +75,6 @@
   "sak_fremmet_id": 200295,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Mørland",
       "foedselsdato": "/Date(325116000000+0200)/",
@@ -93,15 +82,11 @@
       "id": "TIM",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -116,7 +101,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -326,3 +311,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

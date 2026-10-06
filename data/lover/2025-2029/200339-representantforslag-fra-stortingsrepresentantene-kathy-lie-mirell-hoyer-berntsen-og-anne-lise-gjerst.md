@@ -1,4 +1,4 @@
-<!-- innholds-hash: 48a386a07003321a8c03ac05a167c56b5662ab0bb1e388ca97490b73f227f1c5 -->
+<!-- innholds-hash: c1af61459099550a68339c13f9ec5bce0c43099c7bacc6418244429dabf900e3 -->
 
 # Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand
 
@@ -9,24 +9,25 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om innføring av makspris på egenandeler knyttet til praktisk bistand
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T06:18:09Z
+- **Henvisning:** Dokument 8:298 S (2025–2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200339
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781849040054+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -34,15 +35,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -50,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lie",
       "foedselsdato": "/Date(-183085200000+0100)/",
@@ -59,15 +54,11 @@
       "id": "KATLIE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -75,8 +66,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Høyer-Berntsen",
       "foedselsdato": "/Date(339717600000+0200)/",
@@ -84,15 +73,11 @@
       "id": "MIREHB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -100,19 +85,37 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:298 S (2025-2026)",
+  "henvisning": "Dokument 8:298 S (2025–2026)",
   "id": 200339,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781848828695+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
   "korttittel": "Representantforslag om innføring av makspris på egenandeler knyttet til praktisk bistand",
   "sak_fremmet_id": 200339,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Nilsen",
+      "foedselsdato": "/Date(117064800000+0200)/",
+      "fornavn": "Mona",
+      "id": "MONNIL",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "No",
+        "navn": "Nordland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand",
@@ -120,7 +123,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -159,3 +162,4 @@
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

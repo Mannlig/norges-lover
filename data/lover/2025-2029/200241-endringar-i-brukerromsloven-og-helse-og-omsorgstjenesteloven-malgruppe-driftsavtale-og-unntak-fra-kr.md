@@ -1,4 +1,4 @@
-<!-- innholds-hash: 60f27bb49b40ea4ec1a6c54aa94e590678e6ad70a5da8c3cd33c5d9d105506d3 -->
+<!-- innholds-hash: 2a1b6a41c347ddf251646877311a78540f32e9336156fdbf3fab9ba932971b31 -->
 
 # Endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)
 
@@ -8,29 +8,52 @@
 - **Sak-ID:** 200241
 - **Type:** 3
 - **Korttittel:** Endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-12T04:58:36Z
+- **Status:** 1
+- **Henvisning:** Prop. 50 L (2025-2026), Innst. 339 L (2025-2026), Lovvedtak 64 (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Omsorgstjenester, Kommuner, Rusmidler
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200241
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781237008500+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 48,
+      "navn": "Omsorgstjenester",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 211,
+      "navn": "Rusmidler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 50 L (2025-2026), Innst. 339 L (2025-2026), Lovvedtak 64 (2025-2026)",
   "id": 200241,
   "innstilling_id": 17420,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781236861154+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -38,8 +61,6 @@
   "sak_fremmet_id": 200241,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781237008500+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nilsen",
       "foedselsdato": "/Date(117064800000+0200)/",
@@ -47,15 +68,11 @@
       "id": "MONNIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781218818853+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781218818806+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -64,13 +81,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringar i brukerromsloven og helse- og omsorgstjenesteloven (målgruppe, driftsavtale og unntak frå krava til brukarromlokala)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -86,3 +103,4 @@
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

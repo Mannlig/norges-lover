@@ -1,49 +1,47 @@
-<!-- innholds-hash: ce200f5dfedd5d7c92e2a30433f78a4c4d253f469afea426f81003df91ba81da -->
+<!-- innholds-hash: cf1c36a322f8df1e2fe6dc04cd07b28c4edce9c3e0037a17d21b78f3d24ced39 -->
 
 # Tilgang til Navs tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilganger
-- **Sist hentet:** 2026-07-28T19:41:14Z
+- **Sist oppdatert i arkivet:** 2026-10-06T04:12:50Z
 
 ## Innhold
 
-Brukerstøtte  —  For arbeidsgivere
-
+Brukerstøtte — For arbeidsgivere
 
 ## Tilgang til Navs tjenester
 
 For å få tilgang til Navs tjenester for arbeidsgivere, trenger du riktige tilganger i Altinn.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Logge inn
 
 Du logger inn på Altinn og Nav med BankID slik at vi får bekreftet hvem du er og hva du har tilgang til.
 
-Altinn-roller har blitt ersattet av tilgangsspakker. Les mer om
+### Finn, få og fjern tilganger
 
+Altinn er fornyet
+
+Altinn-roller har blitt ersattet av tilgangsspakker. Les mer om [tilgangsstyring i Altinn](https://info.altinn.no/hjelp/).
 
 #### Fra Nav
 
 Du ser hvilke tilganger du har på "Min side – arbeidsgiver", under «Se mine Nav-tilganger». Her kan du se om du er registrert som nærmeste leder for sykmeldte ansatte, hvilke Altinn-tilganger du har, samt hvordan tilgangene er gitt.
 
-
 #### Fra Altinn
 
-- En enkelttjeneste gir tilgang til et spesifikt skjema eller tjeneste.
-- Tilgangspakker gir tilgang til flere enkelttjenester.
-- En rolle i Enhetsregisteret gir tilgang til et utvalg av skjemaer og tjenester.
-Se hvordan du går frem i din situasjon:
+[Gå til Altinn](https://www.altinn.no/), velg "Tilgangsstyring", riktig virksomhet gå inn på "Dine tilganger". Her ser du enkelttjenester og tilgangspakker du er tildelt.
 
+- En enkelttjeneste gir tilgang til et spesifikt skjema eller tjeneste.
+- Tilgangspakker gir tilgang til flere enkelttjenester.
+- En rolle i Enhetsregisteret gir tilgang til et utvalg av skjemaer og tjenester.
+
+Se hvordan du går frem i din situasjon:
 
 #### Hvis du ikke har tilgang fra før
 
 Spør virksomheten din hvem som kan gi deg rettigheter i Altinn. Ofte kan det være daglig leder eller styreleder. I større virksomheter har ofte en annen person fått ansvar for å håndtere Altinn-rettighetene.
-
 
 #### Hvis du allerede har tilganger
 
@@ -51,26 +49,34 @@ Spør virksomheten din hvem som kan gi deg rettigheter i Altinn. Ofte kan det v�
 - Lengst nede på siden ligger tjenester du kan be om tilgang til.
 - Klikk "Be om tilgang" på tjenesten du trenger.
 - Når du har klikket "Be om tilgang", sender vi deg til Altinn.
-For "Dine sykmeldte" må du
 
-For å gi rettigheter i Altinn må du ha rollen
+[Du kan også be om tilgang direkte fra Altinn](https://info.altinn.no/nn/hjelp/ny-tilgangsstyring/steg-for-steg-guider/be-om-fullmakt-fra-andre-aktorer/).
+
+For "Dine sykmeldte" må du [registreres som nærmeste leder for én eller flere ansatte](https://www.nav.no/arbeidsgiver/sykmelding).
+
+For å gi rettigheter i Altinn må du ha rollen ["Tilgangsstyring"](https://info.altinn.no/hjelp/profil/alle-altinn-roller/tilgangsstyring/). Du må også selv ha tilgang til tjenestene du vil delegere.
 
 Har du rollen Hovedadministrator, kan du gi tilganger som du selv ikke har.
 
+[Les mer på Altinn om hvordan du gir rettigheter til andre](https://info.altinn.no/hjelp/ny-tilgangsstyring/steg-for-steg-guider/).
+
 Har du tilganger i Altinn du mener at du eller andre ikke skal ha, kan du fjerne disse selv fra Altinn.
+
+### Hvilke tilganger kreves?
 
 Forskjellige tjenester og skjemaer i Nav krever ulike tilganger i Altinn.
 
-For å få tilgang til innsynstjeneste for arbeidsforhold innrapportert via a-meldingen trenger du enkelttjenesten "Innsyn i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) for arbeidsgivere". Tilgang gis også automatisk til personer med følgende roller i enhetsregisteret:
+For å få tilgang til innsynstjeneste for arbeidsforhold innrapportert via a-meldingen trenger du enkelttjenesten "Innsyn i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) for arbeidsgivere". Tilgang gis også automatisk til personer med følgende roller i enhetsregisteret:
 
 - daglig leder/administrerende direktør
 - styreleder
 - innehaver av enkeltpersonsforetak
 - deltaker i ansvarlig selskap (ANS og DA)
 - bestyrende reder
-- bostyrer i konkursbo (omfatter ikke virksomheten som er gått konkurs) og andre bo
+- bostyrer i konkursbo (omfatter ikke virksomheten som er gått konkurs) og andre bo
 - komplementar (kun fødselsnummer)
 - norsk representant for utenlandsk enhet
+
 Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få tilgang til tjenestene nedenfor må du ha enkelttjenesten til tjenesten i Altinn. Navn på enkelttjenesten er det samme som navnet på tjenesten.
 
 - avtale om arbeidstrening
@@ -80,6 +86,7 @@ Nav tilbyr en rekke tiltak som digitale tjenester for arbeidsgivere. For å få 
 - avtale om sommerjobb
 - avtale om inkluderingstilskudd
 - avtale om mentor
+
 For å se personer med adressesperre må du i tillegg ha enkelttjenesten «Adressebeskyttelse — avtaler og refusjoner for arbeidsmarkedstiltak».
 
 For å benytte denne tjenesten må du enten få delegert enkelttjenesten «Registrere kontonummer for utbetalinger fra Nav til arbeidsgiver» eller ha en av disse rollene i enhetsregisteret:
@@ -93,44 +100,57 @@ For å benytte denne tjenesten må du enten få delegert enkelttjenesten «Regis
 - Komplementar
 - Styrets leder
 - Norsk representant for utenlandsk enhet
-Les mer om å
 
-Nav vil i de fleste tilfeller sende post til norske virksomheter digitalt, i stedet for på papir. Posten vil bli sendt til virksomhetenes innboks i Altinn.
+Les mer om å [registrere kontonummer for utbetalinger fra Nav](https://www.nav.no/arbeidsgiver/endre-kontonummer).
+
+Nav vil i de fleste tilfeller sende post til norske virksomheter digitalt, i stedet for på papir. Posten vil bli sendt til virksomhetenes innboks i Altinn. For å få muligheten til å behandle digital post fra Nav må du:
 
 - Ha tilgangspakken "Post til virksomheten med taushetsbelagt innhold". Denne tilgangspakken gir tilgang til taushetsbelagt post fra det offentlige, ikke bare Nav.
 - Eller ha tilgang til tjenesten "Taushetsbelagt Post fra Nav". Denne personen vil kun se post sendt fra Nav.
+
 I tillegg må du for å kunne videresende/fordele post fra Nav ha tilgang til tilgangspakken "Tilgangsstyrer for enkeltmeldinger, -skjema og -dialoger".
 
 For å se post fra Nav som ble sendt før april 2026 må du i tillegg ha enkelttjenesten "Taushetsbelagt post fra Nav - migrert fra Altinn 2".
 
-Alle som logger inn med nivå 4 på ID-porten kan sende skjemaet «fritak fra arbeidsgiverperioden – gravid ansatt/kronisk sykdom» digitalt. Inngangen til skjemaet er også synlig fra Min side - arbeidsgiver.
+Alle som logger inn med nivå 4 på ID-porten kan sende skjemaet «fritak fra arbeidsgiverperioden – gravid ansatt/kronisk sykdom» digitalt. Inngangen til skjemaet er også synlig fra Min side - arbeidsgiver.
 
-Tilgang til kvittering for innsendt skjema fritak fra arbeidsgiverperioden – gravid ansatt/kronisk sykdom kommer i innboksen i Altinn. Den får du ved å ha en av tilgangspakkene
+Tilgang til kvittering for innsendt skjema fritak fra arbeidsgiverperioden – gravid ansatt/kronisk sykdom kommer i innboksen i Altinn. Den får du ved å ha en av tilgangspakkene
 
 - Lønn med personopplysninger av særlig kategori
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Regnskapsfører lønn
+
 Alternativt kan en ha tilgang til enkelttjenesten:
 
 - Refusjonskrav for sykepenger i arbeidsgiverperioden
+
 Tilgang til inntektsmelding får du ved å ha en av tilgangspakkene:
 
 - Lønn med personopplysninger av særlig kategori
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Regnskapsfører lønn
+
+Alternativt kan en ha tilgang til enkelttjenestene:
+
 - Inntektsmelding for sykepenger
 - Inntektsmelding for foreldrepenger og svangerskapspenger
 - Inntektsmelding for pleie-, opplærings- og omsorgspenger og refusjonskrav for omsorgspenger
 - (Dialog for sykmelding - Denne tilgangen trengs for å kunne se dialog for forespørsel og innsendt inntektsmelding i innboksen på Altinn.no for sykepenger)
-For å få tilgang til å melde inn yrkesskade eller yrkessykdom digitalt på vegne av virksomheten må du ha enkelttjenesten «Skademelding til Nav ved arbeidsulykke eller yrkessykdom» eller en av følgende tilgangspakker:
+
+[Les mer om inntektsmelding her](https://www.nav.no/arbeidsgiver/inntektsmelding).
+
+For å få tilgang til å melde inn yrkesskade eller yrkessykdom digitalt på vegne av virksomheten må du ha enkelttjenesten «Skademelding til Nav ved arbeidsulykke eller yrkessykdom» eller en av følgende tilgangspakker:
 
 - Yrkesskade
 - Ansettelsesforhold
 - Regnskapsfører med signeringsrett
 - Regnskapsfører lønn
-Les mer om
+
+Les mer om [meldeplikten og hva som meldes som yrkesskade](https://www.nav.no/arbeidsgiver/meldyrkesskade).
+
+[Oppgjørsrapport (tidligere kalt K27)](https://www.nav.no/arbeidsgiver/oppgjorsrapport) fra Nav viser informasjon om refusjon av sykepenger, foreldrepenger og svangerskapspenger, pleie/opplæring- og omsorgspenger. Arbeidsgivere som har forskuttert til arbeidstakere utover arbeidsgiverperioden, får utbetalt refusjon. Refusjon av feriepenger fremkommer også på oppgjørsrapporten.
 
 For å lese rapporten trenger du en av disse tilgangspakkene i Altinn:
 
@@ -138,87 +158,88 @@ For å lese rapporten trenger du en av disse tilgangspakkene i Altinn:
 - Ansvarlig revisor
 - Lønn
 - Regnskapsfører lønn
-- Regnskapsfører med eller uten signeringsrettighet
+- Regnskapsfører med eller uten signeringsrettighet
 - Revisormedarbeider
+
 Du kan også få tilgang til rapporten ved å få tildelt denne enkelttjenesten:
 
 - Oppgjørsrapport arbeidsgiver - refusjoner fra Nav (tidligere K27)
-For å få tilgang til digitalt skjema om permittering uten lønn, masseoppsigelse og innskrenking av arbeidstid må du ha enkelttjenesten "Skjema til Nav om permitteringer, oppsigelser, eller innskrenkning i arbeidstid". Den gir tilgang til å opprette og se innsendte meldinger.
+
+For å få tilgang til digitalt skjema om permittering uten lønn, masseoppsigelse og innskrenking av arbeidstid må du ha enkelttjenesten "Skjema til Nav om permitteringer, oppsigelser, eller innskrenkning i arbeidstid". Den gir tilgang til å opprette og se innsendte meldinger. Enkelttjenesten gis automatisk til
 
 - daglig leder
 - styrets leder
 - bostyrer
+
+[Les mer om permittering og nedbemanning](https://www.nav.no/arbeidsgiver/permittere-nedbemanne).
+
 Tilgang til «Refusjonskrav for omsorgspenger» får du ved å ha en av tilgangspakkene:
 
 - Lønn med personopplysninger av særlig kategori
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Regnskapsfører lønn
+
+Alternativt kan en ha tilgang til enkelttjenesten:
+
 - Inntektsmelding for pleie-, opplærings- og omsorgspenger og refusjonskrav for omsorgspenger
-Tilgang til skjemaene «refusjon av sykepenger i arbeidsgiverperioden - gravid ansatt/kronisk sykdom»  får du ved å ha en av tilgangspakkene:
+
+Tilgang til skjemaene «refusjon av sykepenger i arbeidsgiverperioden - gravid ansatt/kronisk sykdom» får du ved å ha en av tilgangspakkene:
 
 - Lønn med personopplysninger av særlig kategori
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Regnskapsfører lønn
+
 Alternativt kan en ha tilgang til enkelttjenesten:
 
 - Refusjonskrav for sykepenger i arbeidsgiverperioden
-For å få tilgang til løsningen må du ha enkelttjenesten "Tiltaksrefusjon", eller en av følgende Altinn-roller:
+
+For å få tilgang til løsningen må du ha enkelttjenesten "Tiltaksrefusjon", eller en av følgende Altinn-roller:
 
 - lønn og personalmedarbeider
 - regnskapsfører lønn
 - regnskapsfører med signeringsrettighet
+
 Løsningen håndterer refusjon for midlertidig lønnstilskudd, varig lønnstilskudd, tilskudd til sommerjobb, mentortilskudd og varig tilrettelagt arbeid i ordinær virksomhet. Boksen for «Refusjon for tiltak» vises kun om det finnes slike tiltak som er aktuelle for refusjon, eller dere har tidligere digitale refusjonssøknader.
 
-På
+På [Arbeidsplassen.no](https://arbeidsplassen.nav.no/) kan du lage stillingsannonser. For å ta tjenesten i bruk må du ha tilgangspakken "Ansettelsesforhold" eller enkelttjenesten “Stillingsannonser på arbeidsplassen.no”.
+
+[Kandidater til dine stillinger](https://arbeidsgiver.nav.no/kandidatliste) viser deg CV-en til arbeidssøkere Nav har sendt deg. Denne tjenesten krever tilgangspakken "Ansettelsesforhold" eller enkelttjenesten "Rekrutteringssaker og CV-er fra Nav”.
 
 Navs tjenester via Altinn knyttet til sykefraværsoppfølging ligger i én tilgangspakke med flere enkelttjenester.
 
-- Tilgangspakken
-- (NY) Meldinger om sykefraværsoppfølging til arbeidsgiver fra Nav
-- (NY) Kopi av oppfølgingsplaner
-- (NY) Kopi av dialogmøtebrev til arbeidsgiver fra Nav
-- (NY) Oppgi nærmeste leder for sykmeldt ansatt
-
-#### Hvem skal ha tilgang?
-
-Følgende roller fra enhetsregisteret får automatisk tilgang til hele tilgangspakken: Daglig leder, Styrets leder, Innehaver, Deltaker fullt ansvar, Deltaker delt ansvar, Komplementar, Bestyrende reder, Bostyrer.
-
-Daglig leder (eller tilsvarende) kan administrere det som kommer inn i Altinn selv, og trenger ikke å tildele tilganger. Daglig leder må selv vurdere om det er andre personer i virksomheten som trenger tilgang til sykefravær med personopplysninger av særlig kategori.
-
-Det er viktig å vurdere om det er nødvendig å delegere hele tilgangspakken, eller om personene kun har behov for enkelte ressurser.
-
-Daglig leder (eller tilsvarende) for juridisk enhet eller det nærmeste organisasjonsleddet må gi tilganger i Altinn til utvalgte personer i virksomheten som skal ha tilgang til sykefravær med personopplysninger av særlig kategori. Tilgangspakken inneholder ikke infromasjon om sykepenger.
-
+- Tilgangspakken Sykefravær med personopplysninger av særlig kategori gir fullmakter til tjenester knyttet til sykefravær som inkluderer personopplysninger av særlig kategori. Det vil si personopplysninger om enkeltpersoner sitt sykefravær. Denne tilgangspakken gir foreløpig tilgang følgende ressurser:
+  - (NY) Meldinger om sykefraværsoppfølging til arbeidsgiver fra Nav
+  - (NY) Kopi av oppfølgingsplaner
+  - (NY) Kopi av dialogmøtebrev til arbeidsgiver fra Nav
+  - (NY) Oppgi nærmeste leder for sykmeldt ansatt
+- (NY) Meldinger om sykefraværsoppfølging til arbeidsgiver fra Nav. Rettigheten gir tilgang til å lese meldinger som sendes til arbeidsgiver fra Nav om sykefraværsoppfølging. Rettigheten gir ikke tilgang til å lese innholdet. Disse styres av egne rettigheter.
+- (NY) Kopi av oppfølgingsplaner. Rettigheten gir tilgang til å lese innholdet i alle oppfølgingsplaner som er laget av arbeidsgiver på Nav sine innloggede sider. For å kunne lese meldingen om en mottatt oppfølgingsplan, trengs også ressursen "(NY) Meldinger om sykefraværsoppfølging til arbeidsgiver fra Nav." [Her kan du lese mer om oppfølgingsplanen](https://www.nav.no/arbeidsgiver/oppfolgingsplan).
+- (NY) Kopi av dialogmøtebrev til arbeidsgiver fra Nav. Rettigheten gir tilgang til å lese innholdet alle dialogmøtebrev som sendes til bedriften fra Nav. For å kunne lese meldingen om et mottatt dialogmøtebrev, trengs også ressursen "(NY) Meldinger om sykepfraværsoppfølging til arbeisgiver fra Nav."
+- (NY) Oppgi nærmeste leder for sykmeldt ansatt. Rettigheten gir tilgang til et skjema på Min side arbeidsgiver hos Nav, hvor arbeidsgiver skal fylle ut hvem som er nærmeste leder for en sykmeldt ansatt i bedriften. Tilgangen gjør også at man mottar meldinger fra Nav når informasjonen om hvem som er nærmeste leder for en sykmeldt ansatt mangler. VIKTIG: spørsmålet om arbeidsgiver forskutterer lønn er fjernet fra skjemaet. Dette oppgis i inntektsmeldingen. Hvem skal ha tilgang? Følgende roller fra enhetsregisteret får automatisk tilgang til hele tilgangspakken: Daglig leder, Styrets leder, Innehaver, Deltaker fullt ansvar, Deltaker delt ansvar, Komplementar, Bestyrende reder, Bostyrer. Små virksomheter Daglig leder (eller tilsvarende) kan administrere det som kommer inn i Altinn selv, og trenger ikke å tildele tilganger. Daglig leder må selv vurdere om det er andre personer i virksomheten som trenger tilgang til sykefravær med personopplysninger av særlig kategori. Det er viktig å vurdere om det er nødvendig å delegere hele tilgangspakken, eller om personene kun har behov for enkelte ressurser. Store virksomheter Daglig leder (eller tilsvarende) for juridisk enhet eller det nærmeste organisasjonsleddet må gi tilganger i Altinn til utvalgte personer i virksomheten som skal ha tilgang til sykefravær med personopplysninger av særlig kategori. Tilgangspakken inneholder ikke infromasjon om sykepenger.
 - personer på en sentral HR-/lønns-enhet som skal ha tilganger i Altinn for alle virksomhetens bedriftsnumre (sentralisert håndtering)
 - personer på ulike HR-/lønns-enheter som skal ha tilganger i Altinn for sitt/sine egne bedriftsnumre (desentralisert håndtering)
-Nærmeste leder får tilgang til oppfølgingstjenestene, sykmeldingen og søknaden om sykepenger på nav.no/dinesykmeldte. Personalledere med oppfølgingsansvar - som er meldt inn som nærmeste leder, trenger som hovedregel IKKE å ha tilganger i Altinn.
+- Nærmeste leder får tilgang til oppfølgingstjenestene, sykmeldingen og søknaden om sykepenger på nav.no/dinesykmeldte. Personalledere med oppfølgingsansvar - som er meldt inn som nærmeste leder, trenger som hovedregel IKKE å ha tilganger i Altinn. Det er viktig å vurdere om det er nødvendig å delegere hele tilgangspakken, eller om personene kun har behov for enkelte ressurser. [Sørg for at du får varsler fra Altinn](https://www.nav.no/arbeidsgiver/tilganger#varsling). Er det vanskelig å finne dokumentene? Søket på Altinn lar deg utføre og lagre søk med ulike søkekriterier. Søkefunksjonen lar deg søke i hele meldingsboksen, og du kan blant annet filtrere søket på hvem, hva, når, fra hvilken etat, status og tittel.
 
-Det er viktig å vurdere om det er nødvendig å delegere hele tilgangspakken, eller om personene kun har behov for enkelte ressurser.
+Sykmelding og søknad om sykepenger til arbeidsgiver via Altinn og min side arbeidsgiver på nav.no styres av tilgangspakken Lønn med personopplysninger av særlig kategori, eller disse enkeltrettighetene:
 
+- Sykmelding til arbeidsgiver. Gir tilgang til digitale sykmeldinger som den ansatte sender fra nav.no. Du finner sykmeldingen fra den sykmeldte i meldingsboksen i Altinn og på min side arbeidsgiver på nav.no.
+- Sykepengesøknad til arbeidsgiver. Gir tilgang til digital søknad om sykepenger som den sykmeldte har fylt ut og sendt inn fra nav.no. Den sykmeldte sender søknaden når sykefraværsperioden er over, arbeidsgiver får den i Altinn og på min side arbeidsgiver på nav.no.
+- Dialog for sykepenger. For å kunne se sykmelding og søkand i innboksen på Altinn så må man i tillegg ha rettigheten Dialog for sykepenger.
 
-#### Er det vanskelig å finne dokumentene?
-
-Søket på Altinn lar deg utføre og lagre søk med ulike søkekriterier. Søkefunksjonen lar deg søke i hele meldingsboksen, og du kan blant annet filtrere søket på hvem, hva, når, fra hvilken etat, status og tittel.
-
-Sykmelding og søknad til arbeidsgiver via Altinn knyttet til sykepenger styres av tilgangspakken Lønn med personopplysninger av særlig kategori, eller disse enkeltrettighetene:
-
-- Sykmelding til arbeidsgiver. Gir tilgang til digitale sykmeldinger som den ansatte sender fra nav.no. Du finner sykmeldingen fra den sykmeldte i meldingsboksen i Altinn.
-- Sykepengesøknad til arbeidsgiver. Gir tilgang til digital søknad om sykepenger som den sykmeldte har fylt ut og sendt inn fra nav.no. Den sykmeldte sender søknaden når sykefraværsperioden er over, arbeidsgiver får den i Altinn.
-- Dialog for sykepenger. For å kunne se sykmelding og søkand i innboksen på Altinn så må man i tillegg ha rettigheten Dialog for sykepenger.
 For refusjon av sykepenger trenger du også:
+
+- [Oppgjørsrapport (K27) fra Nav for refusjon av sykepenger](https://www.nav.no/arbeidsgiver/oppgjorsrapport)
+- [Inntektsmelding](https://www.nav.no/arbeidsgiver/tilganger#inntektsmelding)
 
 Det anbefales å benytte seg av tilgangspakken lønn med personopplysninger av særlig kategori, da vil alle disse rettighetene inngå.
 
-
 #### Hvem skal ha tilgang?
-
 
 #### Små virksomheter
 
 Daglig leder (eller tilsvarende) kan administrere det som kommer inn i Altinn selv, og trenger ikke å tildele tilganger. Alternativt kan regnskapsfører eller en stedfortreder få tilgangene.
-
 
 #### Store virksomheter
 
@@ -226,37 +247,52 @@ Daglig leder (eller tilsvarende) for juridisk enhet eller det nærmeste organisa
 
 - personer på en sentral HR-/lønns-enhet som skal ha tilganger i Altinn for alle virksomhetens bedriftsnumre (sentralisert håndtering)
 - personer på ulike HR-/lønns-enheter som skal ha tilganger i Altinn for sitt/sine egne bedriftsnumre (desentralisert håndtering)
-Sykmeldingen, skjemaet for nærmeste leder og søknadene om sykepenger blir sendt til innboksen til underenheten som den sykmeldte er innmeldt på i
+
+Sykmeldingen, skjemaet for nærmeste leder og søknadene om sykepenger blir sendt til innboksen til underenheten som den sykmeldte er innmeldt på i [a-meldingen](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/). Når tjenestene tildeles på juridisk enhet eller organisasjonsledd, vil dette også gi rettigheten til tjenestene på de underliggende bedriftsnumrene.
 
 Vi anbefaler ikke å opprette en egendefinert rolle for tjenestene.
 
+[Sørg for at du får varsler fra Altinn](https://www.nav.no/arbeidsgiver/tilganger#varsling).
 
 #### Er det vanskelig å finne dokumentene?
 
 Søket på Altinn lar deg utføre og lagre søk med ulike søkekriterier. Søkefunksjonen lar deg søke i hele meldingsboksen, og du kan blant annet filtrere søket på hvem, hva, når, fra hvilken etat, status og tittel.
 
-- For å få innsyn i legemeldt sykefraværsstatistikk og sammenligning med tilhørende næring, trenger du enkelttjenesten “Virksomhetens legemeldte sykefraværsstatistikk”.
+Virksomhetens legemeldte sykefraværsstatistikk
+
+- For å få innsyn i legemeldt sykefraværsstatistikk og sammenligning med tilhørende næring, trenger du enkelttjenesten “Virksomhetens legemeldte sykefraværsstatistikk”.
+
+Virksomhetens IA-samarbeid
+
 - Detaljer og dokumentasjon fra samarbeid om Inkluderende arbeidsliv (IA) deles på siden Forebygge fravær. For å se samarbeid i virksomheten og innhold knyttet til disse trenger du enkelttjenesten “Virksomhetens IA-samarbeid”.
-For å få tilgang til digitale tilskuddsbrev om Nav-tiltak i Altinn innboks må du ha enkelttjenesten "Tilskuddsbrev arbeidsmarkedstiltak" eller en av disse rollene i enhetsregistret:
+
+For å få tilgang til digitale tilskuddsbrev om Nav-tiltak i Altinn innboks må du ha enkelttjenesten "Tilskuddsbrev arbeidsmarkedstiltak" eller en av disse rollene i enhetsregistret:
 
 - daglig leder
 - innehaver
+
 Nav sender digitale tilskuddsbrev for følgende tiltak:
 
 - Inkluderingstilskudd
 - Funksjonsassistanse
 - Enkeltplass Fag og yrkesopplæring
 - Enkeltplass arbeidsmarkedsopplæring
+
 For å se tilskuddsbrev fra Nav som ble sendt før april 2026 må du i tillegg ha enkelttjenesten "Arkiverte tilskuddsbrev arbeidsmarkedstiltak".
 
-For å sende inn søknad om ekspertbistand og se svaret på søknaden trenger du enkelttjenesten “Tilskudd til ekspertbistand”.
+For å sende inn søknad om ekspertbistand og se svaret på søknaden trenger du enkelttjenesten “Tilskudd til ekspertbistand”.
 
 Enkelttjenesten gis ikke via tilgangspakker, så du må be om å få den eksplisitt delegert til deg.
 
 For å få tilgang til skjemaet «Utsendt arbeidstaker til EØS/Sveits» må du ha enkelttjenesten «Søknad om medlemskap i folketrygden eller lovvalgsavklaring» eller tilgangspakken:
 
 - Ansettelsesforhold
+
+### Varsler på SMS og e-post
+
 Her har vi samlet svar på vanlige problemstillinger knyttet til varsling.
+
+[Mange av valgene du kan ta knyttet til varsler styrer du selv på Altinn](https://info.altinn.no/nn/hjelp/oversikt-over-varslingsinnstillinger/). Finner du ikke svaret her, anbefaler vi at du kontakter Altinn brukerstøtte.
 
 Du får bare varsel hvis den ansatte har brukt den digitale sykmeldingen og sendt den til arbeidsgiveren. Nav sender varsler både til HR/daglig leder og til nærmeste leder. Vi varsler nærmeste leder kun på e-post, aldri på SMS.
 
@@ -270,65 +306,70 @@ Eksempel 1:
 
 - Du har tilgang i Altinn fordi du er administrerende direktør (eller liknende), eller du har fått tildelt tilganger av noen andre i virksomheten.
 - Samtidig er du meldt inn som nærmeste leder for en ansatt som er sykmeldt. Da kan du oppleve å få varsler om det samme flere ganger.
+
 Eksempel 2:
 
 - Virksomheten har meldt inn din kontaktinformasjon under «Kontaktinformasjon for virksomheten».
 - Samtidig får du varsler fordi du er administrerende direktør (eller liknende), eller fordi du har fått tildelt tilganger av noen andre i virksomheten.
+
 Les om hvordan du kan skru av varsler nedenfor.
 
 Noen av varslene kan du selv velge om du vil ha, og om du vil ha dem på e-post og/eller SMS. Dette gjelder varslene om at det har kommet noe nytt i Altinn-innboksen til virksomheten. Du kan eventuelt slette den kontaktinformasjonen du ikke ønsker meldinger til. Vær oppmerksom på at det vil gjelde også andre tjenester i Altinn.
 
 Du får varsler om at noe er nytt på «Dine sykmeldte» på nav.no hvis du er oppgitt som nærmeste leder. Disse kan du ikke skru av. Den i virksomheten som henter sykmeldingen i Altinn, oppgir samtidig til Nav hvem som er nærmeste leder og hvilken e-postadresse vi skal sende varsler til.
 
-Har du oppgitt en privat e-postadresse eller et telefonnummer som nærmeste leder, som du ikke ønsker varsler til, må dette endres i skjemaet
+Har du oppgitt en privat e-postadresse eller et telefonnummer som nærmeste leder, som du ikke ønsker varsler til, må dette endres i skjemaet [Sykmelding - Oppgi nærmeste leder](https://www.nav.no/arbeidsgiver/soknader#sykmelding). Det er de i virksomheten din som melder inn nærmeste leder, som kan endre kontaktinformasjonen din.
 
-Det er adressen du har oppgitt i Kontakt- og reservasjonsregisteret (KRR) som brukes for å sende ut varsler fra Nav, Skatteetaten, leger, kommunen osv.
+Det er adressen du har oppgitt i Kontakt- og reservasjonsregisteret (KRR) som brukes for å sende ut varsler fra Nav, Skatteetaten, leger, kommunen osv. [Her kan du logge inn for å oppdatere kontaktinformasjonen din](https://www.norge.no/nb/digital-borger/oppdater-kontaktinformasjon).
 
-- Kontaktinformasjon din som privatperson endrer du i
-- Kontaktinformasjonen din som både privatperson og for virksomheten kan du
+- Kontaktinformasjon din som privatperson endrer du i [Kontakt- og reservasjonsregisteret (KRR)](https://minside-samarbeid.digdir.no/).
+- Kontaktinformasjonen din som både privatperson og for virksomheten kan du [endre hos Altinn](https://info.altinn.no/nn/hjelp/oversikt-over-varslingsinnstillinger/varslinger2/).
 - Kontaktinformasjonen for deg som nærmeste leder må noen i virksomheten din endre for deg, det vil si de som melder inn de nærmeste lederne.
+
 Varselet sendes til e-postadresser og/eller telefonnummer som er registrert i Altinn. Man får kun varsler om saker som man har rettighet til å se for denne virksomheten.
 
-Eksempel: Har en ansatt tilgang til tjenesten «Sykmelding» eller «Søknad om sykepenger», vil vedkommende få varsel på e-post og/eller SMS registrert som kontaktinformasjon knyttet til virksomheten. Den ansatte må gå til "Din kontaktinformasjon for virksomheten" i Altinn for å endre.
+Eksempel: Har en ansatt tilgang til tjenesten «Sykmelding» eller «Søknad om sykepenger», vil vedkommende få varsel på e-post og/eller SMS registrert som kontaktinformasjon knyttet til virksomheten. Den ansatte må gå til "Din kontaktinformasjon for virksomheten" i Altinn for å endre.
 
-Varselet sendes også på e-post og/eller SMS til alle som er registrert i felles kontaktinformasjon for virksomheten. Gå til "Felles kontaktinformasjon for virksomheten" i Altinn for å endre.
+Varselet sendes også på e-post og/eller SMS til alle som er registrert i felles kontaktinformasjon for virksomheten. Gå til "Felles kontaktinformasjon for virksomheten" i Altinn for å endre.
 
 Den beste måten å få kontroll over refusjonene på er å melde inn nærmeste leder. Vi varsler lederen hvis søknaden ikke sendes inn. Vi sender en e-post til lederen når det har gått 14 dager etter at søknaden ble tilgjengelig for den ansatte på nav.no. Nærmeste leder kan se på nav.no/dinesykmeldte om søknaden er kommet i kopi til virksomheten.
 
-I tillegg kan du alltid finne søknaden i Altinn.
+I tillegg kan du alltid finne søknaden i Altinn og i saksoversikten på min side arbeidsgiver på nav.no.
 
 Ønsker du at en HR-/lønnsenhet skal ha kontroll på om de ansatte har sendt inn søknaden om sykepenger? Noen virksomheter har hatt nytte av følgende rutine:
 
-- Når det kommer inn en sykmelding fra den ansatte i Altinn: Følg virksomhetens egne rutiner for håndteringen av denne, men ikke arkiver sykmeldingen. La den ligge i meldingsboksen inntil videre.
-- Når søknaden om sykepenger er sendt til virksomheten, arkiverer du sykmeldingen og søknaden.
+1. Når det kommer inn en sykmelding fra den ansatte i Altinn: Følg virksomhetens egne rutiner for håndteringen av denne, men ikke arkiver sykmeldingen. La den ligge i meldingsboksen inntil videre.
+2. Når søknaden om sykepenger er sendt til virksomheten, arkiverer du sykmeldingen og søknaden.
+
 På denne måten kan du følge med på hvilke sykmeldinger som mangler en søknad ved å se i meldingsboksen til den aktuelle underenheten i Altinn. Hvis du ser at en sykmeldingsperiode er forbi, vet du at den ansatte har fått tilgang på søknaden, og du kan minne vedkommende på å sende inn søknaden.
 
 Ved å bruke «Avansert søk» i Altinn er det mulig å sette opp søk som leter etter sykmeldinger som ikke er arkivert på tvers av organisasjonsnumre. Det er også mulig å lagre disse søkene.
 
 Husk at den ansatte som hovedregel ikke kan fylle ut søknaden om sykepenger før siste dag i sykmeldingen.
 
-Oppdatert 28.07.2026
-
+Oppdatert 14.08.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
+Ring oss på 55 55 33 36
 
-#### Ring oss på 55 55 33 36
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
-#### Kontaktskjema
+[Kontaktskjema](https://kontaktskjema.arbeidsgiver.nav.no/)
 
 Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeidstakere og forebygge sykefravær.
 
+Chatbot
 
-#### Chat
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
 
-Chatbot Frida har døgnåpent.
+Chatbot:
 
 Alltid åpen
-
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/tilganger) av norges-lover-bot.*
@@ -345,3 +386,4 @@ Alltid åpen
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

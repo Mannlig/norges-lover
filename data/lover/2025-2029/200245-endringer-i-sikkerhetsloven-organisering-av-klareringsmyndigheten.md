@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4041a20cae5298ac568a30816300cc8a53c143d55cb3cb67d382ef731971d3f0 -->
+<!-- innholds-hash: 678c08ca0e093c8eea22f77cbec1fd64467052aa6d60967662b3bba2dbbb83c3 -->
 
 # Endringer i sikkerhetsloven (organisering av klareringsmyndigheten)
 
@@ -9,28 +9,51 @@
 - **Type:** 3
 - **Korttittel:** Endringer i sikkerhetsloven (organisering av klareringsmyndigheten)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T06:18:09Z
+- **Henvisning:** Prop. 76 L (2025-2026), Innst. 353 L (2025-2026), Lovvedtak 81 (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** Forsvar, Statsforvaltning, Samfunnssikkerhet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200245
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781849040054+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 59,
+      "id": 59,
+      "navn": "Forsvar",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 76 L (2025-2026), Innst. 353 L (2025-2026), Lovvedtak 81 (2025-2026)",
   "id": 200245,
   "innstilling_id": 17466,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781848828695+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -38,8 +61,6 @@
   "sak_fremmet_id": 200245,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Farahmand",
       "foedselsdato": "/Date(306194400000+0200)/",
@@ -47,15 +68,11 @@
       "id": "MAHF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -70,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -109,3 +126,4 @@
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

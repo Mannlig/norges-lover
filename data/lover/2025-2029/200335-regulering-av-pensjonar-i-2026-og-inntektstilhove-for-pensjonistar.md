@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a9ac60932fb6919257579ea4822aa8895e1ca38ca03e26184c92606a3c0fa28 -->
+<!-- innholds-hash: 4a9c5a65d02e07e78fc3f8e6678b15e1fc31e2edff39be563464d7934bb1906b -->
 
 # Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Meld. St. 10 (2025-2026), Innst. 451 S (2025-2026)
+- **Komité:** Arbeids- og sosialkomiteen
+- **Emner:** Trygder
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200335
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307121+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
       "id": 186,
@@ -39,8 +40,6 @@
   "innstilling_id": 17536,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
   },
@@ -48,8 +47,6 @@
   "sak_fremmet_id": 200335,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307121+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Unneland",
       "foedselsdato": "/Date(772927200000+0200)/",
@@ -57,15 +54,11 @@
       "id": "AU",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -80,7 +73,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -275,3 +268,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

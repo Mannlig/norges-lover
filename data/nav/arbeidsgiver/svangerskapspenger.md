@@ -1,42 +1,34 @@
-<!-- innholds-hash: a30f72d2b5bb44a15d1d54a94e6b6abe3da3cbbccc2142c8ba0aba7cec895ac8 -->
+<!-- innholds-hash: 8bc558c3e1f74ab1c0e01cc3061a19c865f9ed68bf22a67ae69d53483101656d -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/svangerskapspenger
-- **Sist hentet:** 2026-07-12T20:48:04Z
+- **Sist oppdatert i arkivet:** 2026-10-06T03:50:09Z
 
 ## Innhold
 
-Pengestøtte til ansatt  —  For arbeidsgivere
-
+Pengestøtte til ansatt — For arbeidsgivere
 
 ## Svangerskapspenger
 
 Sikrer inntekt til friske kvinner som ikke kan fortsette å jobbe under svangerskapet fordi det kan medføre risiko for barnet.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om svangerskapspenger til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om svangerskapspenger til
+### Hvem kan få?
 
 For å få svangerskapspenger skal den ansatte ha en jobb der arbeidssituasjoner kan utgjøre en risiko for det ufødte barnet. Eksempler kan være
 
 - arbeid med kjemiske stoffer
-- fysisk tungt arbeid
+- fysisk tungt arbeid
 - stressende arbeid
 - psykososiale forhold
+
 Vanligvis er det 3 krav den ansatte må fylle for å få svangerskapspenger.
 
-- Jobben kan skade det ufødte barnet
-- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
-- Den ansatte må ha vært i jobb i minst 4 uker
+1. Jobben kan skade det ufødte barnet
+2. Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
+3. Den ansatte må ha vært i jobb i minst 4 uker
 
 #### Tilrettelegging
 
@@ -44,31 +36,48 @@ For at den ansatte skal få svangerskapspenger må du som arbeidsgiver først vu
 
 Hvis den ansatte kan jobbe delvis, kan den ansatte få delvis svangerskapspenger.
 
-Svangerskapspenger dekker opptil 819 294 kroner (6 ganger grunnbeløpet/6G).
+### Hva kan den ansatte få?
+
+#### Hvor mye kan den ansatte få?
+
+Svangerskapspenger dekker opptil 819 294 kroner (6 ganger grunnbeløpet/6G).
 
 Svangerskapspenger kan betales til den ansatte fra Nav, eller så kan du som arbeidsgiver betale lønn til den ansatte og få refusjon fra Nav i etterkant.
 
+#### Hvor lenge kan den ansatte få svangerskapspenger?
+
 Den ansatte kan få svangerskapspenger fra det tidspunktet vedkommende må avbryte arbeidet, og frem til 3 uker før den ansatte har termin.
+
+#### Andre tilbud
 
 Mer informasjon når
 
-Som arbeidsgiver får du et skjema fra den ansatte. I skjemaet oppgir du om du kan tilrettelegge arbeidet for den gravide eller ikke, og eventuelt i hvilken grad du kan tilrettelegge. Tilrettelegging kan bety at du omplasserer den ansatte, eller at den ansatte får andre arbeidsoppgaver.
+- [Ansatt venter barn](https://www.nav.no/arbeidsgiver/ansatt-venter-barn) Hva arbeidsgivere må vite
+
+### Slik går du frem
+
+#### Fyll ut skjema om tilrettelegging
+
+Som arbeidsgiver får du et skjema fra den ansatte. I skjemaet oppgir du om du kan tilrettelegge arbeidet for den gravide eller ikke, og eventuelt i hvilken grad du kan tilrettelegge. Tilrettelegging kan bety at du omplasserer den ansatte, eller at den ansatte får andre arbeidsoppgaver. [Skjemaet kommer fra Arbeidstilsynet.](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
+
+#### Send inntektsmelding
 
 For at den ansatte skal få svangerskapspenger, må du som arbeidsgiver sende inntektsmelding. Siden saksbehandlingstiden først starter når Nav har fått all dokumentasjon, bør dere sende inntektsmeldingen så tidlig som mulig. Hvis dere venter for lenge, risikerer den ansatte å ikke få vedtaket og utbetalingen fra Nav i tide. I inntektsmeldingen oppgir du om du skal betale lønn under foreldrepengeperioden eller ikke.
 
 - Inntektsmeldingen sendes digitalt så fort du er kjent med søknad om svangerskapspenger. Den ansatte må selv opplyse arbeidsgiver om at hun har søkt om svangerskapspenger.
-- Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
-Når den ansatte har sendt søknad om svangerskapspenger, vil du få en oppgave om å sende inntektsmelding på
+- Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
+
+Når den ansatte har sendt søknad om svangerskapspenger, vil du få en oppgave om å sende inntektsmelding på [Min side - arbeidsgiver.](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/)
 
 Selv om Nav varsler om at vi har fått en søknad, må du som arbeidsgiver ha dialog med den ansatte rundt fraværet fra jobb og mulighetene for tilrettelegging og omplassering.
 
 Les mer om hvordan du bruker inntektsmeldingen på Min side - arbeidsgiver:
 
-Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får
+Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får [tilgang til inntektsmeldingen](https://www.nav.no/arbeidsgiver/tilganger).
 
 Hvis den ansatte har søkt for en periode frem i tid, får du tidligst varsel om å sende inntektsmeldingen fire uker før første fraværsdag.
 
-Noen ganger kan du få varsel om å sende inntektsmelding, men senere står oppgaven som "utgått" på Min side - arbeidsgiver. Dette skjer som regel på grunn av endringer i saken, som gjør at vi ikke lenger trenger inntektsmelding. Du kan avklare med den ansatte hva som er status for søknaden.
+Noen ganger kan du få varsel om å sende inntektsmelding, men senere står oppgaven som "utgått" på Min side - arbeidsgiver. Dette skjer som regel på grunn av endringer i saken, som gjør at vi ikke lenger trenger inntektsmelding. Du kan avklare med den ansatte hva som er status for søknaden.
 
 Inntektsmeldingen foreslår en beregnet månedslønn ut fra registrerte inntekter i A-ordningen. Det er du som arbeidsgiver som må vurdere om dette er riktig inntekt, eller om du bør korrigere den.
 
@@ -77,6 +86,7 @@ Du må vanligvis endre den foreslåtte inntekten hvis:
 - den ansatte har hatt lovlig fravær uten lønn som har gitt trekk i lønnsutbetaling
 - den ansatte har endret stillingsprosent
 - den ansatte har hatt varig lønnsendring
+
 Hvis du endrer den foreslåtte månedslønnen, må du oppgi en årsak til hvorfor du endrer. Noen av endringsårsakene krever også at du oppgir periode for endringen, for eksempel hvis den ansatte har hatt ferie eller har vært permittert.
 
 Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert for utbetalinger fra Nav.
@@ -89,11 +99,9 @@ Du kan finne den innsendte inntektsmeldingen i saksoversikten på Min side - arb
 
 Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller eget lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
 
-
 #### Endre inntekt
 
 Hvis den ansatte har en endring i inntekten sin, skal du kun endre inntekten hvis den nye inntekten var aktuell ved første fraværsdag. Endringer i inntekt etter denne dagen påvirker ikke beregningen hos Nav. Du må likevel vurdere om du vil endre i refusjonen, hvis det har vært varig lønnsendring.
-
 
 #### Endre refusjon
 
@@ -101,31 +109,56 @@ Merk at hvis du skal gjøre endringer i refusjon, må du beholde refusjonsperiod
 
 Her finner du inntektsmeldingen på Min side - arbeidsgiver.
 
+[Send inntektsmelding](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/)
+
 Når søknaden er ferdig behandlet får den ansatte et vedtak fra Nav. Du kan ikke kreve å få se vedtaket fordi det kan inneholde sensitive personopplysninger. Hvis du har behov for opplysninger om saken, for eksempel hvor mye svangerskapspenger som er innvilget, må du ha dialog med arbeidstakeren din.
 
-- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 819 294 (6G).
-- Hvis den ansatte har graderte svangerskapspenger, får arbeidsgiver bare delvis refusjon.
-- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 819 294 (6G), kan du få mindre refusjon.
-Husk å kontrollere at refusjonen blir utbetalt til
+#### Refusjon hvis du betaler lønn under perioden med svangerskapspenger
 
-Hvis den ansatte ikke kan jobbe under svangerskapet fordi vedkommende selv er syk, kan den ansatte ha rett til sykepenger.
+- Hvis du fortsetter å betale lønn som normalt til den ansatte, får du bare refusjon opptil 819 294 (6G).
+- Hvis den ansatte har graderte svangerskapspenger, får arbeidsgiver bare delvis refusjon.
+- Hvis den ansatte har flere arbeidsforhold og samlet inntekt over 819 294 (6G), kan du få mindre refusjon.
+
+Husk å kontrollere at refusjonen blir utbetalt til [riktig bankkontonummer](https://www.nav.no/arbeidsgiver/endre-kontonummer). Du kan kontrollere i [Oppgjørsrapporten (tidligere kalt K27)](https://www.nav.no/arbeidsgiver/oppgjorsrapport) at refusjonen stemmer med virksomhetens beregninger.
+
+### Når den ansatte får svangerskapspenger
+
+#### Hvis den gravide blir syk
+
+Hvis den ansatte ikke kan jobbe under svangerskapet fordi vedkommende selv er syk, kan den ansatte ha rett til sykepenger.
+
+[Ansatt er sykmeldt](https://www.nav.no/arbeidsgiver/sykmeldt-ansatt)
+
+Hva arbeidsgivere må vite
+
+#### Den ansatte må melde fra om endringer
 
 Som arbeidsgiver får du ikke automatisk beskjed hvis den ansatte endrer søknaden om svangerskapspenger. Husk å minne den ansatte om å si fra ved eventuelle endringer.
 
-Oppdatert 21.05.2026
+### Hva sier loven?
 
+- [Lov om folketrygd (lovdata.no)](https://lovdata.no/dokument/NL/lov/1997-02-28-19/KAPITTEL_5-1#KAPITTEL_5-1)
+- [Rundskriv om ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-#### Ring oss på 55 55 33 33
+Oppdatert 21.05.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
-#### Chat
+Chatbot
 
-Chatbot Frida har døgnåpent.
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
+
+Chatbot:
 
 Alltid åpen
-
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/svangerskapspenger) av norges-lover-bot.*
@@ -140,3 +173,4 @@ Alltid åpen
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: a877d7bdfc79391e668934b87ecd3f4a4859357c8f9f8930ecc69cf01d58feda -->
+<!-- innholds-hash: aa997e7d4e20e09561d8f3c239d444853ffcf3e623d34f215d2c3bdfa2923547 -->
 
 # Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 
@@ -9,47 +9,29 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Dokument 3:17 (2025–2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200353
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307262+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 151,
-      "id": 29,
-      "navn": "Riksrevisjonen",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 32,
-      "id": 31,
-      "navn": "Skoler",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:17 (2025–2026)",
   "id": 200353,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -63,7 +45,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -238,3 +220,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,10 +1,8 @@
-# Data – Skatt
+# Data – Skatteetaten
 
-Skatteregler, satser og veiledere fra Skatteetaten.
+Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skatte-ABC under `rettskilder/type/handboker/skatte-abc/`.
 
-*Sist oppdatert: 2026-08-02 07:41 UTC*
-
-**Antall dokumenter:** 3816
+**Antall dokumenter:** 3815
 
 ## Innhold
 
@@ -3835,10 +3833,6 @@ Skatteregler, satser og veiledere fra Skatteetaten.
 - [Vektårsavgift](satser/vektarsavgift.md)
 - [Viltlevende marine ressurser](satser/viltlevende-marine-ressurser.md)
 - [Vrakpant](satser/vrakpant.md)
-
-### Veiledere
-
-- [Aksjer og verdipapirer](veiledere/aksjer.md)
 
 ---
 

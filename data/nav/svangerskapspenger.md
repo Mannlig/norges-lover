@@ -1,50 +1,39 @@
-<!-- innholds-hash: 9a1004f3cde831ca60867b717a6c516804e15a347ee9fcfffb18a24e8ce5b1be -->
+<!-- innholds-hash: 6ad8147e9058ab9df38f8a25dac34e9a72fc7fad8f3135b87246b11c00bafd02 -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/svangerskapspenger
-- **Sist hentet:** 2026-07-12T20:51:34Z
+- **Sist oppdatert i arkivet:** 2026-10-06T03:53:40Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Svangerskapspenger
 
 Erstatter inntekt når du er frisk, men ikke kan fortsette å jobbe under svangerskapet fordi det kan medføre risiko for barnet.
 
+### Hvem kan få?
 
-### Innhold på denne siden
+#### Hvem har rett til svangerskapspenger?
 
-Det finnes også informasjon om svangerskapspenger til
+Gravide som ikke kan fortsette å jobbe under svangerskapet fordi arbeidet kan medføre risiko for skade på det ufødte barnet, kan få svangerskapspenger.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om svangerskapspenger til
-
-Gravide som ikke kan fortsette å jobbe under svangerskapet fordi arbeidet kan medføre risiko for skade på det ufødte barnet, kan få svangerskapspenger.
-
-Vanligvis er det flere krav
-
+Vanligvis er det flere krav du må fylle for å ha rett til svangerskapspenger:
 
 #### Arbeidstaker
 
-Hvis du er arbeidstaker som må slutte i arbeidet under svangerskapet fordi arbeidet kan medføre risiko for skade på det ufødte barnet, kan du ha rett til svangerskapspenger.
-
+Hvis du er arbeidstaker som må slutte i arbeidet under svangerskapet fordi arbeidet kan medføre risiko for skade på det ufødte barnet, kan du ha rett til svangerskapspenger.
 
 #### Selvstendig næringsdrivende
 
 Hvis du er selvstendig næringsdrivende og du er utsatt for risikofaktorer i virksomheten, som gjør at du ikke kan fortsette virket ditt, kan du ha rett til svangerskapspenger.
 
-
 #### Frilanser
 
 Hvis du er frilanser og er utsatt for risikofaktorer i oppdaget, som gjør at du ikke kan fortsette oppdraget ditt, kan du ha rett til svangerskapspenger.
-
 
 #### Arbeid som kan utgjøre en risiko
 
@@ -55,37 +44,41 @@ Hvis du er frilanser og er utsatt for risikofaktorer i oppdaget, som gjør at du
 - arbeid med stressbelastning
 - psykososiale forhold
 - fysiske forhold ved arbeidsmiljøet
-Listen er ikke fullstendig, og andre arbeidssituasjoner kan også utgjøre en risiko.
 
+Listen er ikke fullstendig, og andre arbeidssituasjoner kan også utgjøre en risiko.
 
 #### Om graviditet og arbeidsmiljø
 
-Les mer om graviditet og arbeidsmiljø på
+Les mer om graviditet og arbeidsmiljø på [arbeidstilsynet.no](https://arbeidstilsynet.no/):
+
+- [Graviditet og arbeidsmiljø](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/)
+- [Skjema for tilrettelegging for gravide](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
 
 Arbeidstilsynet kan svare på spørsmål du eller arbeidsgiveren din har om graviditet og arbeidsmiljø på arbeidsplassen.
 
-Før du kan få svangerskapspenger må arbeidsgiveren din vurdere om det er mulig å omplassere deg, eller gi deg andre passende arbeidsoppgaver.
+Før du kan få svangerskapspenger må arbeidsgiveren din vurdere om det er mulig å omplassere deg, eller gi deg andre passende arbeidsoppgaver.
 
-Arbeidsgiver skal tilrettelegge arbeidet ditt hvis det er mulig, også når du er gravid. Hvis tilretteleggingen forhindrer risiko for skade på det ufødte barnet, skal tilretteleggingen gjennomføres. Da kan du ikke få svangerskapspenger.
+Arbeidsgiver skal tilrettelegge arbeidet ditt hvis det er mulig, også når du er gravid. Hvis tilretteleggingen forhindrer risiko for skade på det ufødte barnet, skal tilretteleggingen gjennomføres. Da kan du ikke få svangerskapspenger.
 
 Hvis arbeidsgiver kan omplassere deg, eller tilrettelegge så du fortsatt kan jobbe din opprinnelige stillingsprosent, trenger du ikke søke om svangerskapspenger.
 
-Hvis du kan jobbe delvis kan du få delvis svangerskapspenger.
+#### Delvis tilrettelegging eller omplassering
+
+Hvis du kan jobbe delvis kan du få delvis svangerskapspenger.
 
 Du kan få delvis svangerskapspenger i tilfeller hvor
 
 - arbeidsgiver kan delvis omplassere deg
 - arbeidsgiver kan delvis tilrettelegge arbeidet ditt
 - en reduksjon av arbeidstiden din kan forhindre risiko for skade på det ufødte barnet
-Det samme gjelder hvis du er frilanser eller selvstendig næringsdrivende, og kan fortsette å jobbe delvis.
 
+Det samme gjelder hvis du er frilanser eller selvstendig næringsdrivende, og kan fortsette å jobbe delvis.
 
 #### Hvordan legge inn arbeid i søknaden
 
 I søknaden legger du inn hvor mange prosent du skal jobbe av en full stilling, uavhengig av din opprinnelige stillingsprosent.
 
 Eksempel: Du skal jobbe 2 dager i uken, som tilsvarer en 40 % stilling. Du legger inn 40 % i søknaden.
-
 
 #### Hvordan beregner vi svangerskapspengene når du jobber delvis?
 
@@ -95,18 +88,18 @@ Eksempel 1: Du har en 100 % stilling hos arbeidsgiver. Du kan fortsatt jobbe 40 
 
 Eksempel 2: Du har en 80 % stilling hos arbeidsgiver. Du kan fortsette å jobbe tilsvarende en 20 % stilling, på grunn av tilrettelegging eller omplassering. Du jobber da 25 % av den opprinnelige stillingen din (20 % jobb av 80 % stilling er 25 %). Du får utbetalt 75 % svangerskapspenger.
 
-
 #### Om tilrettelegging
 
-Les mer om tilrettelegging på
+Les mer om tilrettelegging på [arbeidstilsynet.no](http://arbeidstilsynet.no/):
+
+- [Tilrettelegging av arbeidet](https://www.arbeidstilsynet.no/arbeidsforhold/tilrettelegging/)
+- [Skjema for tilrettelegging og omplassering ved graviditet](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
 
 Arbeidstilsynet kan svare på spørsmål du eller arbeidsgiveren din har om tilrettelegging og omplassering ved graviditet.
 
-
 #### Arbeid i minst 4 uker
 
-For å ha rett til svangerskapspenger må du ha vært i arbeid med inntekt sammenhengende i minst 4 uker (28 dager) rett før du midlertidig må slutte i arbeidet ditt. Dette kalles opptjening av rett til svangerskapspenger.
-
+For å ha rett til svangerskapspenger må du ha vært i arbeid med inntekt sammenhengende i minst 4 uker (28 dager) rett før du midlertidig må slutte i arbeidet ditt. Dette kalles opptjening av rett til svangerskapspenger.
 
 #### Utbetalinger fra Nav som gir opptjening av rett til svangerskapspenger
 
@@ -115,11 +108,11 @@ Nav teller med disse pengestøttene, hvis du har mottatt utbetaling for dem i l�
 - sykepenger
 - dagpenger
 - foreldre- og svangerskapspenger
-- pleie-, opplærings- og omsorgspenger
+- pleie-, opplærings- og omsorgspenger
+
 Det betyr at du kan ha rett til svangerskapspenger hvis du har fått minst én av disse pengestøttene i løpet av de siste fire ukene før du starter med svangerskapspenger.
 
 Det er kun de som er arbeidstakere, frilansere eller selvstendig næringsdrivende dagen de starter svangerskapspengene som kan få svangerskapspenger. Du kan derfor ikke få svangerskapspenger for en utbetaling fra Nav, med mindre du har et arbeidsforhold du er fraværende fra.
-
 
 #### Unntak når du har jobbet mindre enn fire uker
 
@@ -129,33 +122,39 @@ Eksempel 1: Du sluttet i arbeidsforholdet ditt 31. mai, og startet i nytt arbeid
 
 Eksempel 2: I de fire ukene før du starter med svangerskapspenger, har du hatt to uker ulønnet permisjon fra arbeidsgiveren din. Du har opptjening selv om du har jobbet mindre enn fire uker, fordi du var midlertidig ute av arbeid i mindre enn en måned.
 
-Du må ha hatt inntekt som utgjør 68 275 kroner i året, før du må midlertidig slutte i arbeidet. Dette utgjør halvparten av grunnbeløpet, som tilsvarer 136 549 kroner
+Du må ha hatt inntekt som utgjør 68 275 kroner i året, før du må midlertidig slutte i arbeidet. Dette utgjør halvparten av grunnbeløpet, som tilsvarer 136 549 kroner
 
 Fraværet under svangerskapet må føre til at du taper inntekt.
 
-For å få rett til svangerskapspenger må du være medlem av folketrygden på tidspunktet du skal ha svangerskapspenger. Bor du i Norge, er du vanligvis medlem av folketrygden.
+For å få rett til svangerskapspenger må du være medlem av folketrygden på tidspunktet du skal ha svangerskapspenger. Bor du i Norge, er du vanligvis medlem av folketrygden.
 
-Om du beholder medlemskapet ditt i folketrygden under opphold i utlandet, avhenger av hvor du skal oppholde deg og hvor lenge du skal være der. Før du reiser bør du undersøke hvilke regler som gjelder for deg og din situasjon.
+Om du beholder medlemskapet ditt i folketrygden under opphold i utlandet, avhenger av hvor du skal oppholde deg og hvor lenge du skal være der. Før du reiser bør du undersøke hvilke regler som gjelder for deg og din situasjon.
 
 Du er ikke medlem i folketrygden når du regnes som bosatt i utlandet. Når du skal være i utlandet i mer enn 12 måneder, anser vi deg normalt som bosatt i utlandet etter folketrygdlovens regler. Det samme gjelder hvis du i 2 eller flere kalenderår etter hverandre skal være i utlandet mer enn 6 måneder i året.
 
-Les mer om
+Les mer om [medlemskap i folketrygden](https://www.nav.no/medlem).
 
+#### Hvem har ikke rett til svangerskapspenger
 
 #### Egen sykdom
 
 Hvis det er din egen sykdom som gjør at du ikke kan jobbe har du ikke rett til svangerskapspenger, men du kan ha rett til sykepenger.
 
-
 #### Jobbe hele stillingen din
 
 Hvis arbeidsgiver kan tilrettelegge eller omplassere deg, og du fortsatt kan jobbe din opprinnelige stilling har du ikke rett til svangerskapspenger. Da trenger du ikke søke om svangerskapspenger.
 
-Du kan få svangerskapspenger fra det tidspunktet du må slutte i arbeidet, og fram til 3 uker før du har termin.
+### Hva kan du få?
+
+#### Hvor lenge kan du få svangerskapspenger?
+
+Du kan få svangerskapspenger fra det tidspunktet du må slutte i arbeidet, og fram til 3 uker før du har termin.
 
 Fra 3 uker før termin kan du søke foreldrepenger eller engangsstønad.
 
-Svangerskapspenger beregnes ut fra inntekten du har hatt før du mottar svangerskapspenger. Du kan få utbetalt svangerskapspenger opp til 819 294 kroner, som er seks ganger grunnbeløpet i folketrygden.
+#### Hvor mye kan du få?
+
+Svangerskapspenger beregnes ut fra inntekten du har hatt før du mottar svangerskapspenger. Du kan få utbetalt svangerskapspenger opp til 819 294 kroner, som er seks ganger grunnbeløpet i folketrygden.
 
 Se hva som gjelder for deg:
 
@@ -166,7 +165,7 @@ Denne utregningen gjelder både hvis du er fast ansatt eller har varierende arbe
 Er det mer enn 25 prosent forskjell mellom inntekten din de 3 siste månedene og årsinntekten din, må vi vurdere hvilken inntekt som er mest representativ i din situasjon. Hvis forskjellen er mindre eller lik 25 prosent brukes de 3 siste kalendermånedene. Vi har ikke anledning til å vurdere inntekten utover dette.
 
 - Hvis arbeidsforholdet ditt har vart under 3 måneder, bruker vi inntekten du har hatt i den perioden du har vært i jobb. Inntekten din regnes om til en månedsinntekt.
-- Har du fått en varig lønnsendring eller tariffendring i løpet av de 3 månedene, legges tidsrommet etter lønnsendringen til grunn.
+- Har du fått en varig lønnsendring eller tariffendring i løpet av de 3 månedene, legges tidsrommet etter lønnsendringen til grunn.
 - Hvis du har hatt ferie eller permisjon uten lønn i perioden du har hatt inntekt, fastsettes inntekten din til det du vanligvis ville hatt hvis du hadde vært i jobb.
 
 #### Inntekter som tas med i beregningen
@@ -184,13 +183,14 @@ Er det mer enn 25 prosent forskjell mellom inntekten din de 3 siste månedene og
 
 #### Arbeidsforhold som ikke tas med i beregningen
 
-- Hvis arbeidsforholdet ditt er avsluttet før du starter svangerskapspengene dine, tas ikke inntekter fra dette arbeidsforholdet med i beregningen.
+- Hvis arbeidsforholdet ditt er avsluttet før du starter svangerskapspengene dine, tas ikke inntekter fra dette arbeidsforholdet med i beregningen.
 - Hvis arbeidsforholdet ditt ikke er påstartet før du starter svangerskapspengene, tas ikke inntekter fra dette arbeidsforholdet med i beregningen. At arbeidsforholdet er påstartet vil si at du har vært på jobb i dette arbeidsforholdet og det beregnes lønn av denne perioden.
+
 Svangerskapspengene dine regnes vanligvis ut fra gjennomsnittet av inntekten du har hatt i de 3 siste kalendermånedene før svangerskapspengene din starter.
 
-Hvis det er mer enn 25 prosent
+Hvis det er mer enn 25 prosent forskjell mellom inntekten din de 3 siste månedene og årsinntekten din, vurderer vi hvilken inntekt som er mest representativ i din situasjon.
 
-Hvis du har jobbet så kort tid at det ikke er rapportert frilanserinntekt for 3 hele måneder til skatteetaten
+Hvis du har jobbet så kort tid at det ikke er rapportert frilanserinntekt for 3 hele måneder til skatteetaten [(skatteetaten om a-ordningen)](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/om-a-ordningen/) skal inntekten for det kortere tidsrommet brukes i beregningen.
 
 Svangerskapspengene dine regnes vanligvis ut fra gjennomsnittet av den pensjonsgivende årsinntekten din de 3 siste ferdigliknede årene. Både inntekt som kommer fra næring og annen liknet inntekt de 3 siste årene brukes i beregningen.
 
@@ -198,33 +198,33 @@ Er virksomheten eller arbeidssituasjonen din varig endret vil vi vurdere hvilken
 
 En inntektsendring alene (økt eller redusert inntekt) er ikke tilstrekkelig for at det foreligger en varig endring. Det må ha vært en varig endring av selve arbeidssituasjonen eller virksomheten.
 
-Har du blitt yrkesaktiv i løpet av de siste tre årene vil vi også vurdere hvilken inntekt som er mest representativ for din situasjon.
+Har du blitt yrkesaktiv i løpet av de siste tre årene vil vi også vurdere hvilken inntekt som er mest representativ for din situasjon.
 
 Det trekkes ikke skatt av utbetalinger som selvstendig næringsdrivende fra Nav.
 
-Du må enten være arbeidstaker, frilanser eller selvstendig næringsdrivende for å ha rett til svangerskapspenger. Hvis du har sykepenger, foreldrepenger eller pleiepenger som arbeidstaker, frilanser eller selvstendig næringsdrivende kan du ha rett til svangerskapspenger, hvis du går rett over fra en av pengestøttene til svangerskapspenger. Du må fortsatt være arbeidstaker, frilanser eller selvstendig næringsdrivende når du starter svangerskapspengene.
+Du må enten være arbeidstaker, frilanser eller selvstendig næringsdrivende for å ha rett til svangerskapspenger. Hvis du har sykepenger, foreldrepenger eller pleiepenger som arbeidstaker, frilanser eller selvstendig næringsdrivende kan du ha rett til svangerskapspenger, hvis du går rett over fra en av pengestøttene til svangerskapspenger. Du må fortsatt være arbeidstaker, frilanser eller selvstendig næringsdrivende når du starter svangerskapspengene.
 
 Svangerskapspengene dine blir beregnet til det samme som du vanligvis ville hatt i inntekt hvis du var i jobb.
 
 Hvis du har kombinasjon av inntekter og arbeidsforhold vil vi beregne svangerskapspengene dine ut fra en kombinasjon av disse inntektene.
 
-
 #### Arbeidstaker og frilanser
 
 Svangerskapspengene blir beregnet ut fra begge inntektene dine.
 
-Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløp.
+[Inntekten din som arbeidstaker](https://www.nav.no/foreldrepenger#arbeidstaker) og [inntekten din som frilanser](https://www.nav.no/foreldrepenger#frilanser) de tre siste månedene beregnes hver for seg, og legges sammen til ett beløp. Hvis det er mer enn 25 prosent forskjell mellom denne inntekten og årsinntekten din, vurderer vi hvilken inntekt som er mest representativ i din situasjon.
 
-Eksempel: Arbeidsinntekten din er 600 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 900 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 819 294 kroner (2026). Arbeidsinntekten din dekkes fullt ut med 600 000 kroner. Frilansinntekten din dekkes med 219 294 kroner, opp til seks ganger grunnbeløpet.
+Hvis du har en samlet inntekt over 819 294 kroner (seks ganger grunnbeløpet), blir inntekten din som arbeidstaker først lagt til grunn i beregningen. Inntekt som frilanser dekkes så opp til seks ganger grunnbeløp.
 
+Eksempel: Arbeidsinntekten din er 600 000 kroner og frilansinntekten din er 300 000 kroner. Dette gir en total inntekt på 900 000 kroner. Total inntekt er derfor på mer enn 6 ganger grunnbeløpet, 819 294 kroner (2026). Arbeidsinntekten din dekkes fullt ut med 600 000 kroner. Frilansinntekten din dekkes med 219 294 kroner, opp til seks ganger grunnbeløpet.
 
 #### Arbeidstaker og selvstendig næringsdrivende
 
 Når du er både arbeidstaker og selvstendig næringsdrivende, blir svangerskapspengene beregnet ut fra begge inntektene dine.
 
-Først fastsetter vi
+Først fastsetter vi [inntekten som arbeidstaker](https://www.nav.no/foreldrepenger#arbeidstaker), basert på de siste tre kalendermånedene, og omregner dette til en årsinntekt.
 
-For å finne
+For å finne [inntekten din som selvstendig næringsdrivende](https://www.nav.no/foreldrepenger#naringsdrivende), bruker vi gjennomsnittet av inntekten din de siste tre ferdiglignede årene. Denne beregningen inkluderer derfor all inntekten du har hatt, inkludert inntekter som arbeidstaker, frilanser og pengestøtte fra Nav. Derfor må vi finne differansen mellom inntekten du har som arbeidstaker og alle inntektene du hadde de tre ligningsårene. Det er denne differansen som vanligvis regnes som næringsinntekt.
 
 Eksempel: Vi har fastsatt inntekten som arbeidstaker til 200 000 kroner i året, og gjennomsnittlig inntekt de siste tre kalenderårene er 500 000 kroner i året. Inntekten som selvstendig næringsdrivende settes da til 300 000 kroner i året.
 
@@ -232,14 +232,13 @@ I noen tilfeller kan inntekten som arbeidstaker være høyere, slik at det ikke 
 
 Hvis det har vært varige endringer i arbeidssituasjonen din, kan det skje at det er mer enn 25 prosent avvik mellom inntekten du har nå og gjennomsnittet av inntekten for de siste tre ferdiglignede årene. Da vurderer vi hvilken inntekt som er mest representativ for situasjonen din når du starter med svangerskapspenger.
 
-
 #### Frilanser og selvstendig næringsdrivende
 
 Når du er både frilanser og selvstendig næringsdrivende, blir svangerskapspengene beregnet ut fra begge inntektene dine.
 
-Først fastsetter vi
+Først fastsetter vi [inntekten som frilanser](https://www.nav.no/foreldrepenger#frilanser), basert på de siste tre kalendermånedene, og omregner dette til en årsinntekt.
 
-For å finne
+For å finne [inntekten din som selvstendig næringsdrivende](https://www.nav.no/foreldrepenger#naringsdrivende), bruker vi gjennomsnittet av inntekten din de siste tre ferdiglignede årene. Denne beregningen inkluderer derfor all inntekten du har hatt, inkludert inntekter som arbeidstaker, frilanser og pengestøtte fra Nav. Derfor må vi finne differansen mellom inntekten du har som frilanser og alle inntektene du hadde de tre ligningsårene. Det er denne differansen som vanligvis regnes som næringsinntekt.
 
 Eksempel: Vi har fastsatt inntekten som frilanser til 200 000 kroner i året, og gjennomsnittlig inntekt de siste tre kalenderårene er 500 000 kroner i året. Inntekten som selvstendig næringsdrivende settes da til 300 000 kroner i året.
 
@@ -247,14 +246,13 @@ I noen tilfeller kan inntekten som frilanser være høyere, slik at det ikke er 
 
 Hvis det har vært varige endringer i arbeidssituasjonen din, kan det skje at det er mer enn 25 prosent avvik mellom inntekten du har nå og gjennomsnittet av inntekten for de siste tre ferdiglignede årene. Da vurderer vi hvilken inntekt som er mest representativ for situasjonen din når du starter med svangerskapspenger.
 
-
 #### Arbeidstaker, frilanser og selvstendig næringsdrivende
 
 Når du er både arbeidstaker, frilanser og selvstendig næringsdrivende, blir svangerskapspengene beregnet ut fra alle inntektene dine.
 
-Først fastsetter vi
+Først fastsetter vi [inntekten som arbeidstaker](https://www.nav.no/foreldrepenger#arbeidstaker) og [inntekten som frilanser](https://www.nav.no/foreldrepenger#frilanser), basert på de siste tre kalendermånedene, og omregner dette til en årsinntekt.
 
-For å finne
+For å finne [inntekten din som selvstendig næringsdrivende](https://www.nav.no/foreldrepenger#naringsdrivende), bruker vi gjennomsnittet av inntekten din de siste tre ferdiglignede årene. Denne beregningen inkluderer derfor all inntekten du har hatt, inkludert inntekter som arbeidstaker, frilanser og pengestøtte fra Nav. Derfor må vi finne differansen mellom inntekten du har som arbeidstaker og frilanser og alle inntektene du hadde de tre ligningsårene. Det er denne differansen som vanligvis regnes som næringsinntekt.
 
 Eksempel: Vi har fastsatt inntekten som arbeidstaker og frilanser til 200 000 kroner i året, og gjennomsnittlig inntekt de siste tre kalenderårene er 500 000 kroner i året. Inntekten som selvstendig næringsdrivende settes da til 300 000 kroner i året.
 
@@ -264,24 +262,25 @@ Hvis det har vært varige endringer i arbeidssituasjonen din, kan det skje at de
 
 Hvis du har jobbet i mindre enn 4 uker, og har vært midlertidig ute av arbeid i mindre enn én måned før du starter med svangerskapspenger, kan du få svangerskapspenger utbetalt fra og med den 15. dagen etter at du starter med svangerskapspenger.
 
-Hvis du har rett på svangerskapspenger etter dette unntaket, beregnes de ut fra gjennomsnittet av din pensjonsgivende årsinnktekt for de tre siste ferdiglignede årene. Denne beregningen må være minst lik ett grunnbeløp (1 G), som vil si 136 549 kroner.
+Hvis du har rett på svangerskapspenger etter dette unntaket, beregnes de ut fra gjennomsnittet av din pensjonsgivende årsinnktekt for de tre siste ferdiglignede årene. Denne beregningen må være minst lik ett grunnbeløp (1 G), som vil si 136 549 kroner.
 
 Som fisker er det ulike måter man kan motta lønn. Du kan motta lønn som hyre eller lott, eller du kan motta begge deler. Det er viktig at vi mottar riktig informasjon om arbeidssituasjonen din slik at vi får gitt deg riktig beregning av svangerskapspenger.
 
-På skatteetaten.no kan du lese mer om
+På skatteetaten.no kan du lese mer om [lott og hyre](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/primarnaringer/fiske/).
+
+#### Hyre
 
 Hvis du mottar hyre får du lønn som arbeidstaker. Det er ikke alle fiskere som er registret med et arbeidsforhold i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) slik at det er synlig i søknaden. Grunnen til at du ikke ser arbeidsforholdet ditt er at arbeidsgiveren din ikke er pliktig til å melde deg inn som arbeidstaker når du er fisker.
 
+Hvis du er fisker med hyre, må arbeidsgiveren din sende inn inntektsmelding med informasjon om inntekten din. Arbeidsgiveren din kan lese mer om hvordan man sender inn [inntektsmelding](https://www.nav.no/arbeidsgiver/inntektsmelding) og hvordan denne skal fylles ut.
 
 #### Lott
 
 Hvis du er fisker med lott, regnes du som selvstendig næringsdrivende. I søknadsdialogen må du svare ja på spørsmålet om du er selvstendig næringsdrivende, du må velge at du er fisker når du fyller ut informasjon om næringen din. Spørsmålene du får i søknaden er tilpasset din situasjon og du får veiledning og informasjon underveis. Når du gir oss informasjon om at du er fisker får vi registret riktig informasjon om deg, og vi får sendt riktig informasjon om deg til skatteetaten.
 
-
 #### Fisker med egen båt
 
 Hvis du er fisker med egen båt, er du selvstendig næringsdrivende. I søknadsdialogen må du svare ja på spørsmålet om du er selvstendig næringsdrivende, du må velge at du er fisker når du fyller ut informasjon om næringen din. Spørsmålene du får i søknaden er tilpasset din situasjon og du får veiledning og informasjon underveis.
-
 
 #### Hvis du har både lott og hyre
 
@@ -291,7 +290,15 @@ For den delen av inntekten din som er hyre er du å regne som arbeidstaker, og d
 
 For den delen av innteksten din som er lott, er du å regne som selvstendig næringsdrivende. I søknadsdialogen må du svare ja på spørsmålet om du er selvstendig næringsdrivende, du må velge at du er fisker når du fyller ut informasjon om næringen din. Spørsmålene du får i søknaden er tilpasset din situasjon og du får veiledning og informasjon underveis. Når du gir oss informasjon om at du er fisker får vi registret riktig informasjon om deg, og vi får sendt riktig informasjon om deg til skatteetaten.
 
+#### Andre tilbud
+
 Mer informasjon til deg som
+
+- [Venter eller har nylig fått barn](https://www.nav.no/barn) Dette kan du ha rett til
+
+### Søke, ettersende eller klage
+
+#### Før du søker svangerskapspenger
 
 Før du søker må du be legen din eller jordmor vurdere risikoen for at det ufødte barnet kan bli skadet hvis du fortsetter å jobbe.
 
@@ -299,36 +306,43 @@ Er du arbeidstaker må du avklare med arbeidsgiver om de kan tilrettelegge arbei
 
 Er du frilanser eller selvstendig næringsdrivende må du vurdere om du kan tilrettelegge arbeidet.
 
-Du må søke innen tre måneder etter måneden du ønsker  svangerskapspenger fra.
+#### Søknadsfrist
 
-Eksempel: Du ønsker svangerskapspenger fra 1. januar. Du må senest sende søknad om svangerskapspenger innen utgangen av april, altså senest 30. april.
+Du må søke innen tre måneder etter måneden du ønsker svangerskapspenger fra.
+
+Eksempel: Du ønsker svangerskapspenger fra 1. januar. Du må senest sende søknad om svangerskapspenger innen utgangen av april, altså senest 30. april.
+
+#### Søknad og ettersendelse
 
 Det kan være lurt å sjekke om det er relevant dokumentasjon som skal legges ved søknaden.
 
-
 #### Dokumentasjon av risikofaktorer og mulighet for tilrettelegging
 
+#### Arbeidstaker
+
+- [Arbeidstilsynets skjema](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/) fylles ut av lege/jordmor og arbeidsgiver, før det lastes opp i søknaden
+
+#### Selvstendig næringsdrivende
+
 - Risikovurdering fra lege eller jordmor. Risikovurderingen må inneholde:
-- termindato
-- redegjørelse fra lege/jordmor, som forklarer hvilken medisinsk risiko for skade arbeidet ditt kan påføre fosteret?
+  - termindato
+  - redegjørelse fra lege/jordmor, som forklarer hvilken medisinsk risiko for skade arbeidet ditt kan påføre fosteret?
 - Du må beskrive i søknaden hvorfor det ikke er mulig å tilrettelegge virket ditt.
 
 #### Frilanser
 
 - Risikovurdering fra lege eller jordmor. Risikovurderingen må inneholde:
-- termindato
-- redegjørelse fra lege/jordmor, som forklarer hvilken medisinsk risiko for skade arbeidet ditt kan påføre fosteret?
-- Du må beskrive i søknaden hvorfor det ikke er mulig å tilrettelegge arbeidet ditt, eller omplassere deg til annet arbeid.
+  - termindato
+  - redegjørelse fra lege/jordmor, som forklarer hvilken medisinsk risiko for skade arbeidet ditt kan påføre fosteret?
+- Du må beskrive i søknaden hvorfor det ikke er mulig å tilrettelegge arbeidet ditt, eller omplassere deg til annet arbeid.
 
 #### Dokumentasjon på inntekt
 
 For å kunne beregne hva du skal ha utbetalt, må vi ha opplysninger om inntekten din.
 
-
 #### Hvis du er arbeidstaker
 
-Arbeidsgiveren din sende
-
+Arbeidsgiveren din sende [digital inntektsmelding](https://www.nav.no/arbeidsgiver/inntektsmelding) til Nav. Inntektsmeldingen kan tidligst sendes 4 uker før svangerskapspengene dine starter.
 
 #### Hvis du er selvstendig næringsdrivende eller frilanser
 
@@ -336,11 +350,9 @@ Du trenger ikke å legge ved dokumentasjon på inntekt. Vi henter inn opplysning
 
 Du må huske å opplyse i søknaden at du er selvstendig næringsdrivende eller frilanser.
 
-
 #### Utbetalinger fra Nav
 
 Hvis du får utbetalt penger fra Nav, trenger du ikke sende dokumentasjon på dette. Vi henter inn opplysninger fra våre registre, og tar kontakt med deg hvis vi trenger flere opplysninger.
-
 
 #### Søknad om svangerskapspenger
 
@@ -348,20 +360,29 @@ Du kan søke om svangerskapspenger digitalt, eller med papirsøknad som du sende
 
 Du kan også ettersende dokumentasjon i saken din.
 
+[Send søknad](https://www.nav.no/start/soknad-svangerskapspenger)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-soknad-svangerskapspenger)
+
 Slik søker du:
 
-- På kontroll eller legetime fyller jordmor eller legen din ut Del 1 av
+- På kontroll eller legetime fyller jordmor eller legen din ut Del 1 av [Arbeidstilsynets skjema](https://www.arbeidstilsynet.no/tema/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
 - Du tar med deg skjemaet til arbeidsgiveren din, som fyller ut Del 2.
 - Du tar bilde av skjemaet, eller skanner det.
 - Du søker om svangerskapspenger.
+
 Spørsmålene i søknaden er tilpasset situasjonen din, og du får veiledning og informasjon underveis. Du vil bli bedt om å laste opp skjemaet fra Arbeidstilsynet i løpet av søknaden.
 
+- På kontroll eller legetime skriver jordmor en bekreftelse på termindato og risikofaktorer ved arbeidet ditt.
+- Du må vurdere om du kan tilrettelegge arbeidet ditt. Eller om du som frilanser kan omplasseres til annet arbeid.
+- Du tar bilde av skjemaet, eller skanner det.
+- Du søker om svangerskapspenger. Du må krysse av i søknaden for at du er frilanser eller selvstendig næringsdrivende.
+
 Spørsmålene i søknaden er tilpasset situasjonen din, og du får veiledning og informasjon underveis. Du vil bli bedt om å laste opp bekreftelsen i løpet av søknaden.
+
+#### Etter at du har søkt
 
 Du kan tidligst få svar på søknaden når vi har mottatt all nødvendig dokumentasjon.
 
 Du får skriftlig vedtak når søknaden er behandlet.
-
 
 #### Saksbehandlingstid for søknader
 
@@ -369,47 +390,68 @@ Saksbehandlingstiden regnes fra det tidspunktet Nav har fått all nødvendig dok
 
 Det gjelder også inntektsmeldingen fra arbeidsgiveren din.
 
-Etter du har søkt kan du
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad | 8 uker |
+| Internasjonal søknad | 3 måneder |
+
+#### Følg saken din
+
+Etter du har søkt kan du [logge deg inn på Dine svangerskapspenger](https://foreldrepenger.nav.no/) for å følge saken din.
 
 Her kan du
 
 - se en oversikt over og informasjon om saken din
-- ettersende dokumentasjon i saken din
+- ettersende dokumentasjon i saken din
 - se dokumenter i saken din
+
 Hvis du har søkt på papirskjema, kan du se status i saken din etter omkring 10 dager.
+
+#### Klagerettigheter
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt.
 
-
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/SVANGERSKAPSPENGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/SVANGERSKAPSPENGER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/SVANGERSKAPSPENGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/SVANGERSKAPSPENGER)
+
 Her kan du lese mer om klagerettighetene dine.
+
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
+
+### Når du har svangerskapspenger
+
+#### Når utbetales pengene?
 
 Pengene utbetales innen den 25. i måneden.
 
 I desember utbetales pengene innen den 12. desember.
 
-I
+I [din utbetalingsoversikt](https://tjenester.nav.no/utbetalingsoversikt/) kan du se utbetalingen på kvelden den dagen pengene er utbetalt.
 
 Får du utbetalt pengene av arbeidsgiveren din, må du kontakte arbeidsgiveren din for å få vite utbetalingsdato og utbetalingsoversikt.
 
-
 #### Utbetalinger i utlandet
 
-Svangerskapspenger utbetales som vanlig når du bor i utlandet hvis du fyller vilkårene om å være medlem i folketrygden.
+Svangerskapspenger utbetales som vanlig når du bor i utlandet hvis du fyller vilkårene om å være medlem i folketrygden.
 
+[Utbetalinger fra Nav til utlandet](https://www.nav.no/utbetaling-utland)
+
+Utbetaling
 
 #### Endre kontonummer
 
-Ønsker du å
-
+Ønsker du å [endre kontonummer](https://www.nav.no/kontonummer), kan du gjøre det på nav.no
 
 #### Nye søknader
 
@@ -419,12 +461,11 @@ Hvis søknaden blir innvilget etter den 15. i måneden eller du får innvilget f
 
 Hvis søknaden blir innvilget før 6. desember, blir pengene utbetalt den 12. desember. Søknader som blir innvilget etter 6. desember, blir utbetalt innen 5 dager.
 
-
 #### Feriepenger
 
 Feriepengene blir utbetalt i mai året etter at feriepengene er opptjent.
 
-Les mer om
+Les mer om [ferie og feriepenger](https://www.nav.no/feriepenger).
 
 Feriepenger fra Nav utgjør 10,2 prosent av brutto svangerskapspenger for de første 64 dager av stønadsperioden, også der stønadsperioden går over et årsskifte.
 
@@ -432,10 +473,11 @@ Hvis du har tjent opp feriepenger over et årsskifte, vil du få utbetalt feriep
 
 Perioden som benyttes på utbetaling av feriepenger og som vises på utbetalingsmeldingen er 1. til 31. mai i det året de utbetales.
 
+Hvem kan få feriepenger?
+
 Hvis du er arbeidstaker har du rett til feriepenger av svangerskapspenger. Hvis arbeidsgiveren betaler deg lønn under permisjonen din, utbetaler Nav feriepengene til arbeidsgiveren din. Arbeidsgiver betaler deg feriepenger som normalt.
 
 Selvstendig næringsdrivende og frilansere har ikke rett til feriepenger av svangerskapspengene.
-
 
 #### Skatt
 
@@ -445,18 +487,25 @@ Før jul er det ikke skattetrekk på utbetalinger for uke 47/48 eller 48/49, så
 
 Hvis du betaler Svalbardskatt er det ordinært skattetrekk før jul.
 
+[Mer om skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
+
 Selvstendig næringsdrivende betaler selv forskuddsskatt. Det blir derfor ikke trukket skatt av utbetalinger fra Nav.
 
-For at du skal få kortere saksbehandlingstid, riktig vedtak og utbetaling, er Nav avhengig av riktige opplysninger fra deg. Det er derfor viktig at du gir riktige opplysninger til Nav når vi skal vurdere saken din.
+#### Meld fra om endringer
 
+For at du skal få kortere saksbehandlingstid, riktig vedtak og utbetaling, er Nav avhengig av riktige opplysninger fra deg. Det er derfor viktig at du gir riktige opplysninger til Nav når vi skal vurdere saken din.
 
 #### Pass på feilutbetalte svangerskapspenger ved endringer
 
 Du må også melde fra om endringer som kan ha betydning for svangerskapspengesaken din. Når det skjer endringer, kan dette påvirke retten til eller utbetalingen av svangerskapspengene dine. Det er viktig at du gir beskjed til oss om endringen, slik at du ikke får for mye eller for lite svangerskapspenger.
 
-Hvis du allerede har fått utbetalt svangerskapspenger for en periode, vil endringer kunne føre til feilutbetalte svangerskapspenger, som du må betale tilbake. Det kan derfor lønne seg å søke om endring av svangerskapspenger før endringen starter, hvis det er mulig.
+Hvis du allerede har fått utbetalt svangerskapspenger for en periode, vil endringer kunne føre til feilutbetalte svangerskapspenger, som du må betale tilbake. Det kan derfor lønne seg å søke om endring av svangerskapspenger før endringen starter, hvis det er mulig.
+
+[Meld fra om endringer](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-foreldrepenger-svangerskapspenger-eller-engangsstonad)
 
 Videre nedover finner du informasjon om noen situasjoner som kan være aktuelle når du har svangerskapspenger.
+
+#### Hvis du selv er syk
 
 For å ha rett til svangerskapspenger må arbeidssituasjonen din medføre risiko for skade på det ufødte barnet.
 
@@ -468,30 +517,44 @@ Du kan likevel få svangerskapspenger og sykepenger samtidig i tilfeller hvor
 
 - du har reduserte svangerskapspenger og jobber delvis
 - du har flere arbeidsforhold, og kun har svangerskapspenger i noen av dem
-Du kan i disse tilfellene ha rett på sykepenger eller benytte
 
-Hvis du blir syk og ikke skal ha svangerskapspenger en periode må du
+Du kan i disse tilfellene ha rett på sykepenger eller benytte [egenmelding](https://www.nav.no/egenmelding) for den delen du fortsatt jobber, samtidig som du har svangerskapspenger for den andre delen.
 
-I perioder du har lovbestemt ferie har du ikke rett på utbetaling av svangerskapspenger. Når du har lovbestemt ferie har du ikke fravær fra jobb fordi arbeidet kan være skadelig for fosteret.
+Hvis du blir syk og ikke skal ha svangerskapspenger en periode må du [melde fra til oss](https://www.nav.no/kontaktoss).
 
-I perioden du har ferie utbetaler vi deg ikke svangerskapspenger. Hvis du skal ha en periode med ferie, sender du inn en søknad om svangerskapspenger hvor du legger inn periodene du har ferie.
+[Sykepenger](https://www.nav.no/sykepenger)
 
+Pengestøtte
+
+#### Hvis du skal ha ferie
+
+I perioder du har lovbestemt ferie, har du ikke rett på utbetaling av svangerskapspenger. Du må være borte fra jobb fordi arbeidet er en risiko for skade på det ufødte barnet. I en ferieperiode har du fravær av andre grunner enn at arbeidet ditt er farlig for det ufødte barnet.
+
+Hvis du har avtalt ferie, oppgir du dette i søknaden om svangerskapspenger. Hvis du endrer ferien din etter at du har søkt, må du sende oss en ny søknad om svangerskapspenger.
 
 #### Hvis du mottar feriepenger, men ikke har ferieperiode
 
 Du kan ha svangerskapspenger samtidig som du mottar feriepenger fra arbeidsgiveren din. Feriepenger er opptjent på bakgrunn av tidligere arbeid, og har derfor ikke betydning for løpende utbetaling av svangerskapspenger, når du ikke har ferieperiode.
 
-For å få rett til svangerskapspenger må du være medlem av folketrygden på tidspunktet du skal ha svangerskapspenger.
+[Her finner du informasjon om feriepenger](https://www.nav.no/no/nav-og-samfunn/kontakt-nav/satser-/produktdetaljer-satser/svangerskapspenger#feriepenger)
 
-Om du beholder svangerskapspengene dine under opphold i utlandet, avhenger av hvor du skal oppholde deg og hvor lenge du skal være der. Før du reiser bør du undersøke hvilke regler som gjelder for deg og din situasjon.
+#### Reise eller flytte til utlandet
+
+For å få rett til svangerskapspenger må du være medlem av folketrygden på tidspunktet du skal ha svangerskapspenger.
+
+Om du beholder svangerskapspengene dine under opphold i utlandet, avhenger av hvor du skal oppholde deg og hvor lenge du skal være der. Før du reiser bør du undersøke hvilke regler som gjelder for deg og din situasjon.
 
 Du er ikke lenger medlem i folketrygden når du regnes som bosatt i utlandet. Når du skal være i utlandet i mer enn 12 måneder, anser vi deg normalt som bosatt i utlandet etter folketrygdlovens regler. Det samme gjelder hvis du i 2 eller flere kalenderår etter hverandre skal være i utlandet mer enn 6 måneder i året.
 
-Du kan søke om
+Du kan søke om [frivillig medlemskap](https://www.nav.no/frivillig-medlemskap) i folketrygden for å beholde medlemskapet.
+
+[Medlemskap i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden)
+
+Medlemskap i folketrygden
 
 Når du er på ferie i utlandet regnes du som turist og beholder medlemskapet i folketrygden, dersom du ikke har arbeidsinntekt under oppholdet og oppholdet ikke varer lenger enn 12 måneder. Så lenge du er medlem i folketrygden beholder du som hovedregel svangerskapspengene.
 
-Veksler du mellom å være i Norge og i utlandet, må oppholde deg i Norge i minst 6 måneder hvert kalenderår for ikke å miste medlemskapet. Det er den faktiske tiden du oppholder deg i utlandet, uavhengig av hvor du er folkeregistret, som legges til grunn når vi vurderer om du fortsatt er medlem av folketrygden.
+Veksler du mellom å være i Norge og i utlandet, må oppholde deg i Norge i minst 6 måneder hvert kalenderår for ikke å miste medlemskapet. Det er den faktiske tiden du oppholder deg i utlandet, uavhengig av hvor du er folkeregistret, som legges til grunn når vi vurderer om du fortsatt er medlem av folketrygden.
 
 Skal du oppholde deg i et EU/EØS-land kan du få ytelsen under oppholdet så lenge du er medlem i folketrygden.
 
@@ -499,9 +562,11 @@ Skal du oppholde deg i et EU/EØS-land kan du få ytelsen under oppholdet så le
 - Hvis du skal begynne i arbeid i EU/EØS-land, må du ta kontakt med Nav.
 - Du må sjekke med arbeidsgiveren din om oppholdet vil hindre planlagt tilrettelegging.
 - Hvis du har opptjent rett til svangerskapspenger fra Norge, men ikke har startet på stønadsperioden før du reiser til et EU/EØS-land, kan du få ytelsen fra Norge under oppholdet. Forutsetningen er at du ikke tar arbeid i et annet EU/EØS-land før permisjonen starter og vilkårene for foreldrepenger ellers er til stede.
-- Skal du oppholde deg i et land Norge
-- Skal du oppholde deg i et land Norge
-Du må
+
+- Skal du oppholde deg i et land Norge har trygdeavtale med, er det bestemmelsene i den enkelte avtalen som avgjør om du vil få ytelsen under oppholdet. Det avgjørende for utbetaling av ytelsen under utenlandsoppholdet er om du er omfattet av avtalen. I tillegg må ytelsen være omfattet av avtalen.
+- Skal du oppholde deg i et land Norge ikke har trygdeavtale med, vil du kunne få ytelsen hvis du er medlem i folketrygden under oppholdet. Forutsetningen er imidlertid at du ikke er i arbeid og vilkårene for svangerskapspenger ellers er til stede.
+
+Du må [gi beskjed til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-foreldrepenger-svangerskapspenger-eller-engangsstonad).
 
 Du må gi beskjed til Nav før du reiser ved opphold som varer lenger enn 4 uker (ferieopphold). Vi må vite hvilket land du skal reise til, og hvor lenge oppholdet skal vare. Hvis oppholdet varer lenger enn planlagt må du også gi beskjed om dette.
 
@@ -510,6 +575,8 @@ Når du flytter til utlandet, må du melde fra til folkeregisteret.
 Vi gjør oppmerksom på at du ved flytting til utlandet også må kontakte Skatteetaten om reglene for skatteplikt til Norge.
 
 Du må også melde fra til Nav om du flytter tilbake til Norge.
+
+#### Hvis du endrer hvor mye du skal jobbe, eller får inntekt
 
 Hvis du starter å jobbe, skal jobbe mer eller mindre, eller får inntekt må vi vurdere hvor mye svangerskapspenger du har rett til.
 
@@ -524,8 +591,8 @@ Du kan få delvis svangerskapspenger i tilfeller hvor
 - arbeidsgiver kan delvis omplassere deg
 - arbeidsgiver kan delvis tilrettelegge arbeidet ditt
 - en reduksjon av arbeidstiden din kan forhindre risiko for skade på det ufødte barnet
-Det samme gjelder hvis du kan jobbe delvis som frilanser eller selvstendig næringsdrivende.
 
+Det samme gjelder hvis du kan jobbe delvis som frilanser eller selvstendig næringsdrivende.
 
 #### Meld fra om endring
 
@@ -533,13 +600,11 @@ Når du endrer hvor mye du skal jobbe må du sende inn en ny søknad om svangers
 
 I søknaden legger du ved en bekreftelse fra arbeidsgiver med oppdatert informasjon om tilrettelegging. Er du frilanser eller selvstendig næringsdrivende skriver du denne bekreftelsen selv.
 
-
 #### Hvis du skal jobbe din fulle stilling en periode, for så å ha svangerskapspenger igjen
 
-Først sender du inn en søknad, hvor du legger inn datoen du skal jobbe fullt. Så sender du en ny søknad med dato fra når du skal ha svangerskapspenger igjen.
+Først sender du inn en søknad, hvor du legger inn datoen du skal jobbe fullt. Så sender du en ny søknad med dato fra når du skal ha svangerskapspenger igjen.
 
 Hvis du skal jobbe mindre enn det som det tidligere er søkt svangerskapspenger om, må vi vurdere om du kan ha rett på mer svangerskapspenger.
-
 
 #### Meld fra om endring
 
@@ -551,11 +616,9 @@ Hvis du kan jobbe tilsvarende din fulle opprinnelig stilling har du ikke rett ti
 
 Hvis du skal søke svangerskapspenger fra den nye arbeidsgiveren din må retten din til svangerskapspenger vurderes for det nye arbeidsforholdet. Lege eller jordmor må før du søker svangerskapspenger vurdere risikoen i det nye arbeidsforholdet, og arbeidsgiveren må vurdere mulighetene for tilrettelegging eller omplassering.
 
-
 #### Meld fra om endring
 
-Hvis du starter hos ny arbeidsgiver og ikke skal ha svangerskapspenger herfra må du
-
+Hvis du starter hos ny arbeidsgiver og ikke skal ha svangerskapspenger herfra må du [gi beskjed til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-foreldrepenger-svangerskapspenger-eller-engangsstonad), slik at vi kan stanse svangerskapspengene dine.
 
 #### Du får inntekt
 
@@ -563,7 +626,9 @@ Du må ha tap av inntekt når du mottar svangerskapspenger. Hvis du har inntekt 
 
 Eksempel: Du er helt fraværende fra jobben din siden den utgjør en risiko for fosteret, men du opprettholder fortsatt deler av inntekten din.
 
-Hvis du opprettholder eller øker inntekten samtidig som du har svangerskapspenger må du
+Hvis du opprettholder eller øker inntekten samtidig som du har svangerskapspenger må du [melde fra til Nav](https://www.nav.no/kontaktoss) med informasjon om inntekten.
+
+#### Termindatoen er endret
 
 For å utbetale riktige perioder med svangerskapspenger må vi ha riktig termindato i svangerskapspengesaken din.
 
@@ -575,35 +640,48 @@ Eksempel: Termindatoen er endret fra 1. mai til 7 mai.
 
 - Du opplyser den nye termindatoen i søknaden
 - Du forlenger perioden med svangerskapspenger frem til tre uker før den nye termindatoen 7. mai.
+
+#### Hvis du mister barnet under svangerskapet
+
 Du vil ikke ha rett til svangerskapspenger videre hvis du mister barnet under svangerskapet.
 
-Du kan ha rett til engangsstønad eller foreldrepenger. Ved egen sykdom kan du ha rett til sykepenger.
+Du kan ha rett til engangsstønad eller foreldrepenger. Ved egen sykdom kan du ha rett til sykepenger.
 
-Du må
+Du må [melde fra til Nav](https://www.nav.no/kontaktoss) hvis du mister barnet under svangerskapet.
 
-Du kan lese mer her om du har
+Du kan lese mer her om du har [mistet barnet](https://www.nav.no/mistet-noen#/barn).
 
-Oppdatert 18.06.2026
+### Hva sier loven?
 
+[Folketrygdloven, Kapittel 14, Ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-#### Chat med oss
+Oppdatert 26.08.2026
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/svangerskapspenger) av norges-lover-bot.*
@@ -618,3 +696,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

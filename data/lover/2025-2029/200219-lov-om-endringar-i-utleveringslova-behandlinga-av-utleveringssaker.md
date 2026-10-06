@@ -1,4 +1,4 @@
-<!-- innholds-hash: 58fae21618e154c73e2021c90b7fb69bda647424c30ff37306328ad64d16cb22 -->
+<!-- innholds-hash: ac35a909d8106bb195f64cae0c2871d64746af3ce47b07da8f174d420d3da04a -->
 
 # Lov om endringar i utleveringslova (behandlinga av utleveringssaker)
 
@@ -9,28 +9,72 @@
 - **Type:** 3
 - **Korttittel:** Lov om endringar i utleveringslova (behandlinga av utleveringssaker)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Prop. 66 L (2025-2026), Innst. 352 L (2025-2026), Lovvedtak 78 (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** Rettsvesen, Domstoler, Strafferett, Internasjonalt samarbeid, Politi og påtalemyndighet, Internasjonal rett
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200219
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307340+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 12,
+      "navn": "Domstoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 14,
+      "navn": "Strafferett",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 200,
+      "navn": "Internasjonal rett",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 66 L (2025-2026), Innst. 352 L (2025-2026), Lovvedtak 78 (2025-2026)",
   "id": 200219,
   "innstilling_id": 17448,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -38,8 +82,6 @@
   "sak_fremmet_id": 200219,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307340+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
       "foedselsdato": "/Date(612050400000+0200)/",
@@ -47,15 +89,11 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -70,7 +108,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -264,3 +302,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c978d3b11034c3bfbafe9a3e43e9c4a623981b94e436e191d67f1a94a2292121 -->
+<!-- innholds-hash: b89735f1b17ff29bd3a79aca94bbe0e9e7cd26fcfab5bcaa67bb9653dbd2fd08 -->
 
 # Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 
@@ -9,38 +9,29 @@
 - **Type:** 2
 - **Korttittel:** Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** None
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307262+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1785643307262+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 59,
-      "id": 59,
-      "navn": "Forsvar",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200328,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -54,7 +45,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -226,3 +217,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

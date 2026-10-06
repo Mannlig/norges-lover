@@ -1,33 +1,29 @@
-<!-- innholds-hash: 9b8cb78faf7801875e1857ffbcf1346c4ef90d49c94496108e2c4af639540e81 -->
+<!-- innholds-hash: 5665739f4a14ff7f2bcb262fae7f0d6b5837fa521b849b4f4d075fbc836aa411 -->
 
 # Tilleggsstønader til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-enslig
-- **Sist hentet:** 2026-07-12T20:36:40Z
+- **Sist oppdatert i arkivet:** 2026-10-06T03:36:22Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Tilleggsstønader til enslig mor eller far
 
 Støtte til barnepass og utgifter til utdanning eller jobbsøking når du er alene med barn.
 
+Endringer i stønadene til enslig mor eller far fra 1. juli 2026
 
-### Innhold på denne siden
-
-
-### Innhold på denne siden
-
-Du kan fortsatt få tilleggsstønader hvis du har rett til overgangsstønad etter reglene som gjaldt før 1. juli 2026, eller etter overgangsreglene. Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
+Du kan fortsatt få tilleggsstønader hvis du har rett til overgangsstønad etter reglene som gjaldt før 1. juli 2026, eller etter overgangsreglene. Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader. Kan jeg få tilleggsstønader? Hvis du har rett til overgangsstønad etter de gamle reglene eller etter overgangsreglene, kan du ha rett til tilleggsstønader.
 
 Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. juli 2026, har du ikke rett til tilleggsstønader.
 
-For å ha rett til tilleggsstønader til enslig mor eller far, må du som hovedregel
+### Hvem kan få?
 
+For å ha rett til tilleggsstønader til enslig mor eller far, må du som hovedregel
 
 #### Du regnes som enslig mor eller far hvis alle disse punktene gjelder deg:
 
@@ -43,7 +39,6 @@ Delt fast bosted betyr at barnet har fast bosted hos begge foreldrene. Dette er 
 
 Avtale om delt fast bosted er en juridisk avtale i henhold til barneloven §36. En slik avtale innebærer at begge foreldre i fellesskap tar større avgjørelser på vegne av barnet, for eksempel hvor barnet skal gå i barnehage og hvor i landet barnet skal bo.
 
-
 #### Du regnes ikke som enslig mor eller far hvis
 
 - du bor sammen med en du har barn med, uavhengig av om dere er kjærester eller ikke
@@ -51,9 +46,10 @@ Avtale om delt fast bosted er en juridisk avtale i henhold til barneloven §36. 
 - du eller den andre forelderen får, eller tidligere har fått stønad til enslig mor eller far for felles barn og dere får et nytt barn sammen
 - du er fosterforelder for barnet du er enslig mor eller far for
 - du er så mye sammen med den andre av barnets foreldre at du ikke regnes som enslig mor eller far
-Du kan få tilleggsstønader når du er enslig mor eller far og du tar en
 
-Det samme gjelder dersom du er enslig mor eller far og er
+Du kan få tilleggsstønader når du er enslig mor eller far og du tar en [utdanning som Nav har vurdert som nødvendig](https://www.nav.no/overgangsstonad-enslig#utdanning) for at du skal kunne komme i jobb og forsørge deg selv.
+
+Det samme gjelder dersom du er enslig mor eller far og er [registrert som arbeidssøker hos Nav](https://www.nav.no/overgangsstonad-enslig#arbeidssoker).
 
 For å ha rett til stønad som enslig mor eller far, må du og barnet som hovedregel oppholde dere i Norge. I noen tilfeller kan du likevel ha rett til å beholde stønaden under opphold i utlandet.
 
@@ -62,8 +58,8 @@ Hvis du er EØS-borger eller familiemedlem med en EØS-borger:
 - Du kan fortsette å motta stønad ved opphold i andre EØS-land, forutsatt at øvrige vilkår er oppfylt.
 - Du kan ha rett til stønad hvis du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge).
 - Hvis du bor sammen med barnet i et annet EØS-land, og den andre forelderen arbeider eller mottar trygdeytelse eller pensjon fra Norge, har du selvstendig rett på stønad.
-Som hovedregel må du ha vært medlem i folketrygden i de siste 5 årene for å ha rett til stønad. Vi kan gjøre unntak hvis du har vært medlem i minst 5 år etter at du ble 16 år, hvis avbruddet i medlemskapet har vart mindre enn 10 år.
 
+Som hovedregel må du ha vært medlem i folketrygden i de siste 5 årene for å ha rett til stønad. Vi kan gjøre unntak hvis du har vært medlem i minst 5 år etter at du ble 16 år, hvis avbruddet i medlemskapet har vart mindre enn 10 år.
 
 #### Egne regler for medlemskap for EØS-borgere
 
@@ -71,20 +67,27 @@ Hvis du har opparbeidet deg trygdetid i et annet EØS-land, kan denne trygdetide
 
 Det er kun er statsborgere fra EØS-land eller tredjelandsborgere som er i familie med en EØS-borger som kan legge sammen trygdetid fra andre EØS-land med norsk trygdetid. Hvis trygdetiden er fra et annet nordisk land, har ikke statsborgerskap betydning.
 
+### Hva kan du få?
+
+#### Hva kan du få støtte til?
+
 Du kan få støtte til ulike utgifter du har i forbindelse med at du tar utdanning eller er arbeidssøker. Hva du kan få stønad til avhenger av om du tar utdanning eller er arbeidssøker.
 
-Når du er arbeidssøker kan du også ha rett til
+Når du er arbeidssøker kan du også ha rett til [andre tilleggsstønader](https://www.nav.no/tilleggsstonader) uten at det er et krav at du er enslig mor eller far.
 
 Dette kan du få når du er i utdanning eller når du er arbeidssøker:
 
 Du må dokumentere utgiftene til barnepass med faktura som står i ditt navn.
 
-Hvis du har privat barnepass, for eksempel dagmamma, må du dokumentere utgiftene ved å legge ved avtalen du har med barnepasseren når du søker. Her er et forslag til hvordan en
+Hvis du har privat barnepass, for eksempel dagmamma, må du dokumentere utgiftene ved å legge ved avtalen du har med barnepasseren når du søker. Her er et forslag til hvordan en [avtale om privat barnepass (PDF 52kB)](https://www.nav.no/_/attachment/inline/4ca6c120-caa2-415d-972b-12bc08aa2d64:d4c1c17869c51f69ae364e1aa8770b297308c53f/Avtale%20privat%20barnepass.pdf) kan se ut. Dette forslaget viser også hvilke opplysninger vi trenger for å behandle søknaden din.
 
-Hvis barnet ditt passes av praktikant, au pair eller liknende hjemme hos dere, må du sende a-melding som viser betaling til Skatteetaten. Dette gjelder også hvis dagmamma passer barnet hjemme hos seg.
+Hvis barnet ditt passes av praktikant, au pair eller liknende hjemme hos dere, må du sende a-melding som viser betaling til Skatteetaten. Dette gjelder også hvis dagmamma passer barnet hjemme hos seg. [Les mer om dette hos Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/familie-og-helse/barn/betalt-barnepass/). Vi trenger også dokumentasjon fra Kemnerkontoret på at du har betalt barnepasseren.
 
 Hvis du er i arbeid, kan du søke stønad til barnetilsyn for enslig mor eller far i arbeid.
 
+[Stønad til barnetilsyn for enslig mor eller far](https://www.nav.no/barnetilsyn-enslig)
+
+Pengestøtte
 
 #### Satser for stønad til pass av barn
 
@@ -92,15 +95,19 @@ Stønaden dekker 64 prosent av utgiftene til barnepass, som for eksempel barneha
 
 Du kan få dekket utgiftene til barnepass opp til en maksimumssats som er fastsatt av Stortinget.
 
-Fra 1. januar 2026 er det disse satsene som gjelder:
+Fra 1. januar 2026 er det disse satsene som gjelder:
 
+| Antall barn | Maksimalt beløp per dag |
+| --- | --- |
+| 1 barn | 226 kroner |
+| 2 barn | 295 kroner |
+| 3 eller flere barn | 334 kroner |
 
 #### Hvis du får kontantstøtte
 
 Da trekkes månedsbeløpet du får i kontantstøtte fra utgiftene du har til barnepass. Dette gjelder både for barn du får utbetalt kontantstøtte for, og for andre barn som du bor sammen med.
 
 Hvis kontantstøtten er høyere enn utgiftene dine til barnepass, har du derfor ikke rett til stønad til pass av barn.
-
 
 #### Hvis du har redusert foreldrebetaling for barnehageplass
 
@@ -124,17 +131,24 @@ Hvis du på grunn av funksjonshemming har særlig store utgifter til bøker og u
 
 Hvis du har utgifter til studieavgift, semesteravgift og eksamensgebyr, kan du søke om stønad til skolepenger.
 
+[Stønad til skolepenger for enslig mor eller far](https://www.nav.no/skolepenger-enslig)
+
+Pengestøtte
 
 #### Satser for stønad til læremidler
 
 Fra 1. januar 2026 er det disse satsene som gjelder for vår- og høstsemesteret 2026:
 
+| Nivå | Full sats per måned | Halv sats per måned |
+| --- | --- | --- |
+| Videregående skole | 461 kroner | 231 kroner |
+| Høgskole, universitet eller fagskole | 921 kroner | 461 kroner |
+
 Dette kan du få når du er i utdanning.
 
 Du kan få dekket reiseutgifter når du reiser til for eksempel skole, kurs eller annet arbeidsrettet tiltak.
 
-For at du skal kunne få dekket stønad til daglig reise, må reiseavstanden være 6 kilometer eller mer hver vei mellom hjemmet ditt og tiltaket/utdanningsstedet. Når vi beregner reiseavstanden, tar vi utgangspunkt i den korteste kjøreavstanden. Hvis du har behov for transport på grunn av helsen din kan du få dekket utgiftene selv om reiseavstanden er kortere. Du må levere legeerklæring.
-
+For at du skal kunne få dekket stønad til daglig reise, må reiseavstanden være 6 kilometer eller mer hver vei mellom hjemmet ditt og tiltaket/utdanningsstedet. Når vi beregner reiseavstanden, tar vi utgangspunkt i den korteste kjøreavstanden. Hvis du har behov for transport på grunn av helsen din kan du få dekket utgiftene selv om reiseavstanden er kortere. Du må levere legeerklæring.
 
 #### Satser for stønad til daglig reise
 
@@ -142,14 +156,21 @@ Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det
 
 Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
 
-Fra 1. januar 2026 er det disse satsene som gjelder:
+[Send kjøreliste](https://www.nav.no/kjoreliste)
+
+Slik gjør du det
+
+Fra 1. januar 2026 er det disse satsene som gjelder:
+
+| Reisetype | Sats per km |
+| --- | --- |
+| Reise med egen bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
-Du kan få dekket reiseutgifter til samlinger som er en del av utdanningen din. Utdanningen må være godkjent av Nav. Vi trenger dokumentasjon for dine utgifter og en bekreftelse fra undervisningsstedet ditt som viser at samlingen er obligatorisk.
+Du kan få dekket reiseutgifter til samlinger som er en del av utdanningen din. Utdanningen må være godkjent av Nav. Vi trenger dokumentasjon for dine utgifter og en bekreftelse fra undervisningsstedet ditt som viser at samlingen er obligatorisk.
 
 Reiseveien mellom hjemmet ditt og samlingen må være minst 30 kilometer hver vei for at du skal få dekket reiseutgifter.
-
 
 #### Satser for stønad til reise til samling
 
@@ -157,7 +178,15 @@ Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det
 
 Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
 
-Fra 1. januar 2026 er det disse satsene som gjelder:
+[Send kjøreliste](https://www.nav.no/kjoreliste)
+
+Slik gjør du det
+
+Fra 1. januar 2026 er det disse satsene som gjelder:
+
+| Reisetype | Sats per km |
+| --- | --- |
+| Reise med egen bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
@@ -167,14 +196,21 @@ Du kan få dekket inntil 4 hjemreiser tur/retur. Du kan få dekket utgifter til 
 
 Vi kan gi stønad til flere hjemreiser dersom det er særlige grunner, for eksempel familiemessige eller behandlingsmessige grunner. Dette må dokumenteres av lege.
 
-
 #### Satser for stønad på grunn av oppstart, avslutning eller hjemreise
 
 Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm. I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
 
 Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
 
-Fra 1. januar 2026 er det disse satsene som gjelder:
+[Send kjøreliste](https://www.nav.no/kjoreliste)
+
+Slik gjør du det
+
+Fra 1. januar 2026 er det disse satsene som gjelder:
+
+| Reisetype | Sats per km |
+| --- | --- |
+| Reise med egen bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
@@ -188,10 +224,13 @@ Du må dokumentere utgiftene dine til bolig og overnatting med for eksempel husl
 
 Hvis du har rett til bostøtte gjennom bustøttelova, har du ikke rett til stønad til de samme boutgiftene gjennom Nav.
 
-
 #### Satser for stønad til bolig og overnatting
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
+
+| Stønadstype | Maksimalt beløp per måned |
+| --- | --- |
+| Stønad til boutgifter | 5 062 kroner |
 
 Som enslig mor eller far kan du få støtte til flytteutgifter så lenge du har rett til overgangsstønad. Det samme gjelder dersom du tidligere har mottatt overgangsstønad og det er mindre enn 6 måneder siden overgangsstønaden opphørte.
 
@@ -201,20 +240,23 @@ Hvis du tar eller skal ta utdanning, kan du få dekket nødvendige utgifter hvis
 
 Du må søke om å få dekket utgiftene før du flytter. Du kan velge mellom å benytte et flyttebyrå eller flytte selv.
 
-
 #### Satser for stønad til flytting
 
 Hvis du bruker et flyttebyrå må du innhente to skriftlige tilbud. Du kan få dekket det laveste tilbudet.
 
 Hvis du selv innhenter tilbud fra flyttebyrå, og likevel velger å flytte selv, kan du få dekket nødvendige flytteutgifter opp til beløpet i det laveste tilbudet.
 
-Fra 1. januar 2026 er det disse satsene som gjelder:
+Fra 1. januar 2026 er det disse satsene som gjelder:
 
+| Reisetype | Sats per km |
+| --- | --- |
+| Flytting med egen bil | 2,94 kroner |
 
 #### Beregn stønad til pass av barn
 
-Du kan få tilleggsstønader så lenge du har rett til overgangsstønad og du har utgifter i forbindelse med utdanning eller arbeidssøk.
+#### Hvor lenge kan du få?
 
+Du kan få tilleggsstønader så lenge du har rett til overgangsstønad og du har utgifter i forbindelse med utdanning eller arbeidssøk.
 
 #### Får du eller har du tenkt til å søke om overgangsstønad?
 
@@ -223,84 +265,133 @@ Du kan få overgangsstønad i inntil 3 år. Du bruker av denne perioden hvis du 
 - du har rett til overgangsstønad i denne perioden, men ikke har søkt om det
 - du har rett til overgangsstønad i denne perioden, men valgt å ikke få
 - du har fått innvilget overgangsstønad, men inntekten din er for høy til at stønaden blir utbetalt
-Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+
+#### Omsorgsopptjening
+
+Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+
+[Pensjonsopptjening ved omsorg for barn](https://www.nav.no/omsorgsopptjening-barn)
+
+Slik gjør du det
+
+#### Andre tilbud
 
 Mer informasjon til deg som
 
+- [Er helt eller delvis alene med barn](https://www.nav.no/alene-med-barn) Dette kan du ha rett til
+
+### Søke, ettersende eller klage
+
+#### Slik søker du
+
 Du kan søke om støtte til ulike utgifter du har i forbindelse med at du tar utdanning eller er arbeidssøker. Har du rett til støtte til flere ulike utgifter, må du fylle ut egen søknad for hver.
 
-Du kan ta
+Du kan ta [kontakt med Nav](https://www.nav.no/person/kontakt-oss) hvis du ønsker mer informasjon og veiledning, og/eller hjelp til å fylle ut skjemaet.
 
+#### Søknad og ettersendelse
 
 #### Søknad om støtte til pass av barn
 
 Dette kan du søke om når du har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til pass av barn](https://www.nav.no/start/soknad-tilleggsstonader-for-pass-av-barn)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111215b/innsendingsvalg)
 
 #### Søknad om støtte til daglig reise
 
-Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til daglig reise](https://www.nav.no/start/soknad-tilleggstonader-daglig-reise)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111221b/innsendingsvalg)
 
 #### Søknad om støtte til læremidler
 
-Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til læremidler](https://www.nav.no/start/soknad/soknad-om-tilleggsstonader-stotte-til-laremidler)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111216b/innsendingsvalg)
 
 #### Søknad om støtte ved reise til samling
 
-Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til samling](https://www.nav.no/fyllut/nav111217b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111217b/innsendingsvalg)
 
 #### Søknad om støtte til reise ved oppstart, avslutning eller hjemreise
 
-Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til reise](https://www.nav.no/fyllut/nav111218b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111218b/innsendingsvalg)
 
 #### Søknad om støtte til reise for å komme i arbeid
 
 Dette kan du søke om når du er arbeidssøker.
 
+[Søk om støtte til reise](https://www.nav.no/fyllut/nav111222b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111222b/innsendingsvalg)
 
 #### Søknad om støtte til bolig og overnatting
 
-Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til bolig og overnatting](https://www.nav.no/start/soknad-tilleggstonader-bolig-overnatting)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111219b/innsendingsvalg)
 
 #### Søknad om støtte til flytting
 
 Dette kan du søke om når du er arbeidssøker, har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
+[Søk om støtte til flytting](https://www.nav.no/fyllut/nav111223b%20%20%20)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111223b/innsendingsvalg)
 
 #### Refusjon av utgifter til daglig reise med bruk av egen bil
 
 Du sender kjøreliste hvis du har vedtak om rett til å få dekket utgiftene til bruk av egen bil. Du skal oppgi antall dager og dokumenterte parkeringsutgifter.
 
-Du får skriftlig vedtak når søknaden er behandlet.
+[Søk om refusjon](https://www.nav.no/start/refusjon-av-utgifter-til-daglig-reise-med-bruk-av-egen-bil)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111224b/innsendingsvalg)
 
+#### Etter at du har søkt
+
+Du får skriftlig vedtak når søknaden er behandlet.
 
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak. Husk at vi trenger all nødvendig dokumentasjon for å behandle søknaden din.
 
-Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad | 8 uker |
+| Internasjonal søknad | 4 uker |
 
+#### Klagerettigheter
+
+Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
 #### Klage på vedtak om tilleggsstønader
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/TILLEGGSSTONADER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/TILLEGGSSTONADER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/TILLEGGSSTONADER_TIL_ENSLIG_MOR_ELLER_FAR)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/TILLEGGSSTONADER_TIL_ENSLIG_MOR_ELLER_FAR)
+
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 3 uker |
+| Klage til Nav klageinstans | 5 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har tilleggsstønader
+
+#### Pass på å ikke miste retten til stønad til barnetilsyn
 
 Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig grunn:
 
@@ -309,26 +400,30 @@ Du kan miste stønadene til enslig mor eller far i 1 måned hvis du uten rimelig
 - unnlater å gjenoppta et arbeidsforhold etter endt foreldrepermisjon
 - nekter å delta i arbeidsmarkedstiltak
 - ikke møter når vi har innkalt deg til møte
+
 Hvis du har gitt uriktige opplysninger eller unnlatt å gi opplysninger, kan du miste retten til stønad i inntil 3 måneder første gang og inntil 6 måneder dersom dette skjer flere ganger i løpet av de siste 3 årene.
+
+#### Når utbetales pengene?
 
 Det er ikke én fast utbetalingsdato for tilleggsstønader. Tilleggsstønad utbetales på tre ulike måter:
 
 - Har du søkt og fått godkjent støtte som skal dekke faste utgifter, vil du få utbetalt stønaden hver måned. Utbetalingsdato vil stå i vedtaket.
 - Har du søkt og fått godkjent støtte til daglig reise med egen bil, vil du få utbetalingen omtrent 2-3 virkedager etter du har sendt inn kjørelisten.
 - Stønad til reise og flytting skal dekke engangsutgifter. Har du søkt og fått innvilget stønad til reise eller flytting vil du få utbetalt pengene så snart vi har fått nødvendig dokumentasjon fra deg, etter at du har gjennomført flyttingen eller reisen.
+
 Du vil få pengene på din konto omtrent 2-3 virkedager etter at pengene har blitt utbetalt fra Nav.
 
-I
-
+I [din utbetalingsoversikt](https://tjenester.nav.no/utbetalingsoversikt/) kan du se utbetalingen på kvelden den dagen pengene er utbetalt.
 
 #### Feriepenger
 
 Det er ikke feriepenger på denne pengestøtten.
 
-
 #### Skatt
 
 Det blir ikke trukket skatt.
+
+#### Meld fra om endringer
 
 Du må melde fra til oss hvis
 
@@ -340,9 +435,11 @@ Du må melde fra til oss hvis
 - du venter nytt barn
 - samværsordningen endres
 - den daglige omsorgen for barnet blir midlertidig eller varig overlatt til andre
-- du skal
-- du eller den andre forelderen flytter svært nærme hverandre. Med det mener vi for eksempel samme hus, blokk, nærmeste bolig i samme gate eller rundt samme gårdstun
+- du skal [oppholde deg i utlandet](https://www.nav.no/tilleggsstonader-enslig#utland)
+- du eller den andre forelderen flytter svært nærme hverandre. Med det mener vi for eksempel samme hus, blokk, nærmeste bolig i samme gate eller rundt samme gårdstun
 - du blir syk og dette hindrer deg i å være i arbeid, utdanning eller være arbeidssøker
+
+[Meld fra om endring](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-overgangsstonad-stonad-til-barnetilsyn-stonad-til-skolepenger-og-tilleggsstonader-til-enslig-mor-eller-far)
 
 #### Ferie og utenlandsopphold
 
@@ -351,6 +448,9 @@ Du må melde fra til oss hvis
 - du skal oppholde deg i utlandet i mer enn 6 uker
 - du skal reise til utlandet og allerede har oppholdt deg i utlandet i 6 uker i løpet av de siste 12 månedene
 - du skal reise til utlandet og dette oppholdet fører til at du vil ha oppholdt deg i utlandet i mer enn 6 uker i løpet av de siste 12 månedene
+
+#### Reise eller flytte til utlandet
+
 For å ha rett til stønad som enslig mor eller far, må du og barnet som hovedregel oppholde dere i Norge. I noen tilfeller kan du likevel ha rett til å beholde stønaden under opphold i utlandet.
 
 Du kan være i utlandet i inntil 6 uker, det vil si 42 dager, i løpet av en 12 måneders periode mens du får stønad. Helgeopphold på inntil 2 overnattinger teller ikke med.
@@ -362,33 +462,47 @@ Hvis du fyller de andre vilkårene for stønaden, kan du fortsatt ha rett til st
 - du allerede mottar stønad som enslig mor eller far
 - du er arbeidstaker i Norge, men du og barnet ditt bor i et annet EØS-land (f.eks. bor i Sverige og jobber i Norge)
 - du og barnet ditt bor i et annet EØS-land, mens den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge
-Oppdatert 30.06.2026
 
+### Hva sier loven?
 
-#### Skriv til oss
+- [Tilleggsstønadsforskriften (lovdata.no)](https://lovdata.no/nav/forskrift/2015-07-02-867)
+- [Om pensjonsopptjening for omsorgsarbeid](https://www.nav.no/omsorgsopptjening-eldre)
 
-Still oss et spørsmål og få skriftlig svar.
+Oppdatert 30.06.2026
 
+### Finner du ikke svaret her? Ta kontakt med oss
 
-#### Finn din hjelpemiddelsentral
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
-#### Chat med oss
+[Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Finn ditt Nav-kontor
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Finn ditt Nav-kontor](https://www.nav.no/sok-nav-kontor)
+
+Søk opp Nav-kontor med postnummer, sted eller by.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/tilleggsstonader-enslig) av norges-lover-bot.*
@@ -403,3 +517,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

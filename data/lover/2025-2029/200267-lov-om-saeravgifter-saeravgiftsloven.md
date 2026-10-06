@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4413be8ee0e9875276e0ef23e9e802d5309e03f677eccda53d6a7586bd29382 -->
+<!-- innholds-hash: e9314e791b4ae5c8ea2232b8c3ab1271767a9b9632d7663a3d40b84f2dfe2825 -->
 
 # Lov om særavgifter (særavgiftsloven)
 
@@ -9,23 +9,24 @@
 - **Type:** 3
 - **Korttittel:** Lov om særavgifter (særavgiftsloven)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Henvisning:** Prop. 55 L (2025-2026), Innst. 364 L (2025-2026), Lovvedtak 70 (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Skatter, Avgifter
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200267
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 58,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 80,
@@ -48,8 +47,6 @@
   "innstilling_id": 17486,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -57,8 +54,6 @@
   "sak_fremmet_id": 200267,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
       "foedselsdato": "/Date(-44416800000+0200)/",
@@ -66,15 +61,11 @@
       "id": "FROJAC",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781737216780+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -89,7 +80,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -124,3 +115,4 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

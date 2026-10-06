@@ -1,30 +1,21 @@
-<!-- innholds-hash: 2d0876f119a4bdda53190f7b5dadfb6577fffd6e3e0612ba350b1134bdcec3b0 -->
+<!-- innholds-hash: a33c89736ac805e4fa0bd5a7e265d322cbfbdfe6f8652b41c3a8702e47cf5bda -->
 
 # Bilstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bilstonad
-- **Sist hentet:** 2026-07-12T21:33:08Z
+- **Sist oppdatert i arkivet:** 2026-10-06T04:37:45Z
 
 ## Innhold
 
 Pengestøtte og Hjelpemiddel
 
-
 ## Bilstønad
 
 Gir økonomisk støtte til bil, tilpasning av bil og spesialutstyr til bil.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om bilstønad til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om bilstønad til
+### Hvem kan få stønad til bil og spesialutstyr?
 
 Nav har tre ulike ordninger for stønad til bil. Vilkårene for å få stønad, kommer an på hvilken ordning du søker på. Du må ha en funksjonsnedsettelse for å få stønad til bil av Nav.
 
@@ -36,9 +27,9 @@ Du kan få tilskudd til bil til og fra arbeid eller utdanning når du har en var
 
 At det ikke finnes tilbud om offentlig transport der du bor, er ikke en grunn til å få tilskudd til bil.
 
-- du må ha behov for bilen til og fra arbeidssted eller utdanningssted
+- du må ha behov for bilen til og fra arbeidssted eller utdanningssted
 - kravet om stønad må være framsatt før du fylte 67 år
-- du må være
+- du må være [medlem av Folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
 
 #### Med arbeid og utdanning mener vi:
 
@@ -46,11 +37,11 @@ Inntektsgivende arbeid, inklusiv arbeid som lærling.
 
 Høyere utdanning ut over videregående opplæring.
 
-
 #### Har du uføretrygd?
 
-Hvis du mottar 100 prosent utbetalt uføretrygd, kan du ikke få tilskudd til bil. 100 prosent utbetalt uføretrygd vil si at utbetalingen ikke blir redusert fordi du tjener over fribeløpet. Du kan likevel søke om tilskudd dersom det er sannsynlig at bilstønaden vil føre til at uføretrygden faller bort eller blir redusert. Du kan ikke få tilskudd dersom du mottar alderspensjon eller avtalefestet pensjon som det godskrives pensjonspoeng for.
+Du kan søke om tilskudd hvis du tjener mer enn 40 prosent av grunnbeløpet, eller det er sannsynlig at bilstønaden bidrar til at du tjener over 40 prosent av grunnbeløpet. Hvis du får tilskudd må du fortsette å tjene over 40 prosent av grunnbeløpet, som blir oppdatert hvert kalenderår.
 
+Du kan ikke få tilskudd hvis du mottar alderspensjon eller avtalefestet pensjon som det godskrives pensjonspoeng for.
 
 #### Når kan du ikke få?
 
@@ -59,32 +50,31 @@ Du kan ikke få tilskudd til bil til og fra arbeid og utdanning når:
 - du ikke trenger bilen til arbeid eller utdanning
 - avstanden til arbeid eller utdanning er svært kort
 - når du bare har behov for å reise en gang i blant
-- grunnen til at du trenger bil er at det ikke finnes tilbud om offentlig transport der du bor
+- grunnen til at du trenger bil er at det ikke finnes tilbud om offentlig transport der du bor
 - du har fått tilskudd til bil av Nav for mindre enn åtte år siden.
 - du har for høy inntekt
-- du kan dekke transportbehovet til og fra arbeidssted eller utdanningssted på en annen måte. Dette kan for eksempel være ved hjelp av
+- du kan dekke transportbehovet til og fra arbeidssted eller utdanningssted på en annen måte. Dette kan for eksempel være ved hjelp av [Arbeids- og utdanningsreiser](https://www.nav.no/arbeids-og-utdanningsreiser) (nav.no).
+
 Hvis noen andre i husstanden din har en bil som du kan bruke, vil vi legge vekt på dette i vurderingen av søknaden din.
 
 Du kan få lån til spesialtilpasset kassebil enten på grunn av en fysisk funksjonsnedsettelse eller på grunn av utagerende adferd i bil:
 
-
 #### For å få stønad til kassebil må du oppfylle følgende vilkår:
 
 - Du har et reelt og betydelig transportbehov som du ikke kan dekke på annen måte enn ved egen bil.
-- Du har behov for bilen i dagliglivet eller til og fra arbeidssted eller utdanningssted.
+- Du har behov for bilen i dagliglivet eller til og fra arbeidssted eller utdanningssted.
 - Funksjonsnedsettelse gjør at du har store vansker med å benytte offentlig transport alene eller med følge.
 - Funksjonsnedsettelsen oppsto før du fylte 70 år.
-- Du er
+- Du er [medlem av Folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
 
 #### Hvis du søker på grunn av en fysisk funksjonsnedsettelse:
 
-- Du må være avhengig av heis eller rampe for å komme inn og ut av bil, eller
-- Du må ha så sterkt begrenset gangfunksjon at det er nødvendig med spesialtilpasset kassebil for å ta med seg hjelpemidler.
+- Du må være avhengig av heis eller rampe for å komme inn og ut av bil, eller
+- Du må ha så sterkt begrenset gangfunksjon at det er nødvendig med spesialtilpasset kassebil for å ta med seg hjelpemidler.
 
 #### Hvis du søker på grunn av utagerende adferd i bil:
 
 Den som skal ha bilen har utagerende atferd som gjør det nødvendig med en spesialtilpasset kassebil for å skjerme førermiljøet av hensyn til trafikksikkerheten.
-
 
 #### Mer om transportbehovet
 
@@ -92,19 +82,23 @@ Transportbehov som dekkes gjennom annet lovverk, som skyss til skole eller til b
 
 Lånet kan gis både for å reise til og fra arbeid eller utdanningssted og for å dekke nødvendig transportbehov i dagliglivet.
 
-Spesialutstyr skal avhjelpe en varig funksjonsnedsettelse. Søknad må derfor være begrunnet med uttalelse fra terapeut eller lege.
+Spesialutstyr skal avhjelpe en varig funksjonsnedsettelse. Søknad må derfor være begrunnet med uttalelse fra terapeut eller lege.
 
-Du trenger ikke fylle vilkårene for kassebil eller bil til arbeid og utdanning for å få tilskudd til spesialutstyr.
+Du trenger ikke fylle vilkårene for kassebil eller bil til arbeid og utdanning for å få tilskudd til spesialutstyr.
 
 Det er ingen øvre aldersgrense for å få stønad til spesialutstyr og tilpasning av bil.
 
-Hvis du ikke har en bil fra før, anbefaler vi å se på
+Hvis du ikke har en bil fra før, anbefaler vi å se på [vår sjekkliste ved kjøp av bil (kunnskapsbanken.net)](https://www.kunnskapsbanken.net/bil/bilen/). Her står det tips til hva du bør se etter når du skal kjøpe bil som skal ha spesialutstyr og tilpasninger.
+
+### Hva kan du få?
+
+#### Hva er stønad til bil?
 
 Nav har tre ulike ordninger for stønad til bil.
 
 Du kan lese mer om hva du kan få gjennom de enkelte ordningene i menyen under.
 
-Du kan få tilskudd til å kjøpe bil hvis du ikke har bil fra før. Dersom andre i husstanden har en bil som du kan bruke, kan det hende du ikke vil få tilskudd til bil.
+Du kan få tilskudd til å kjøpe bil hvis du ikke har bil fra før. Dersom andre i husstanden har en bil som du kan bruke, kan det hende du ikke vil få tilskudd til bil.
 
 Dersom du har egen bil som du kjøpte for mindre enn 6 måneder siden, kan du søke om refusjon.
 
@@ -112,8 +106,8 @@ Dersom du har en eldre, privatfinansiert bil fra før og søker om tilskudd, kan
 
 - hvis bilen din er over 11 år, eller
 - hvis bilen din er over 8 år og har kjørt mer enn 150 000 km.
-Vi legger vekt på alderen til selve bilen, ikke tidspunktet du kjøpte den.
 
+Vi legger vekt på alderen til selve bilen, ikke tidspunktet du kjøpte den.
 
 #### Hvilken bil kan du få?
 
@@ -125,7 +119,7 @@ Dersom du allerede har kjøpt bil som må tilpasses, kan du be om veiledning hos
 
 Når du skal kjøpe bil, bør du tenke gjennom en rekke ting. Behov for tilpasning, slik som kjøreteknisk spesialutstyr, er avgjørende for hvilken biltype som er egnet. Nav dekker ikke utstyr som kan leveres fra fabrikk, men det er viktig at du vurderer om dette er noe du bør kjøpe selv. Be om en gjennomgang av tilleggsutstyr sammen med bilforhandler og tenk gjennom om noe av dette utstyret er nødvendig for at bilen skal kunne fungere i din hverdag.
 
-Se også vår
+Se også vår [sjekkliste når du kjøper bil (kunnskapsbanken.net](https://www.kunnskapsbanken.net/bil/bilen/)).
 
 Når du får stønad til spesialtilpasset kassebil får du et lån til en kassebil som tilpasses dine behov. Det kan være blant annet med rullestolheis eller rampe.
 
@@ -137,15 +131,13 @@ Lånet gjøres opp når du leverer inn igjen bilen eller hvis du overtar bilen v
 
 Du har bilen så lenge du fyller vilkårene. Når du har hatt bilen 11 år, kan du søke Nav om en ny bil. Hvis du har fått bilen for å bruke den til og fra arbeid og utdanning, kan du søke om ny bil etter 8 år hvis bilen har kjørt 150 000 kilometer.
 
-Du vil i utgangspunktet få en gjenbruksbil. Dersom det ikke finnes gjenbruksbiler som egner seg, vil du få en ny bil.
+Du vil i utgangspunktet få en gjenbruksbil. Dersom det ikke finnes gjenbruksbiler som egner seg, vil du få en ny bil.
 
-Nav har innkjøpsavtale for biler. Avtalen bestemmer hvilken bil som skal vurderes først. Du kan under gitte vilkår kjøpe en dyrere bil enn den du får innvilget. Du må da selv betale de ekstra kostnadene dette medfører.
-
+Nav har innkjøpsavtale for biler. Avtalen bestemmer hvilken bil som skal vurderes først. Du kan under gitte vilkår kjøpe en dyrere bil enn den du får innvilget. Du må da selv betale de ekstra kostnadene dette medfører.
 
 #### Fabrikkmontert utstyr
 
 Bilene er prisforhandlet med standardutstyr.
-
 
 #### Antall seter
 
@@ -153,19 +145,17 @@ Nav kan dekke inntil fem sitteplasser i en bil der det ikke går utover behovet 
 
 Dersom du ønsker flere enn fem sitteplasser, kan du kjøpe seter selv, dersom det er mulig med hensyn til plass og totalvekt på bilen. Du kan be om pristilbud fra bilombygger. De ekstra setene bestiller du selv hos bilombygger.
 
-
 #### Firehjulstrekk
 
-Du kan søke om støtte til firehjulstrekk, men det gis sjelden. I dagliglivet kan du velge å la bilen stå, for eksempel på dager med vanskelige kjøreforhold på vinterstid. Da kan drosje være et godt alternativ eller du kan vente med å kjøre til veiene er ryddet for snø. Det vil ha betydning for vår vurdering om du kjører selv eller er passasjer.
+Du kan søke om støtte til firehjulstrekk, men det gis sjelden. I dagliglivet kan du velge å la bilen stå, for eksempel på dager med vanskelige kjøreforhold på vinterstid. Da kan drosje være et godt alternativ eller du kan vente med å kjøre til veiene er ryddet for snø. Det vil ha betydning for vår vurdering om du kjører selv eller er passasjer.
 
 Vi kan legge større vekt på behov for firehjulstrekk om du får lån til bil til arbeid og utdanning enn hvis du får lån til bil i dagliglivet. Det er fordi du da har behov for å komme deg til og fra arbeid eller utdanning til faste tider, uansett vær og føreforhold.
 
-Vil du søke om støtte til firehjulstrekk, må du dokumentere behovet når du søker om lån til bil. Til vurderingen trenger vi dokumentasjon på veiforholdene. Disse innhenter du fra kommunens tekniske etat.
+Vil du søke om støtte til firehjulstrekk, må du dokumentere behovet når du søker om lån til bil. Til vurderingen trenger vi dokumentasjon på veiforholdene. Disse innhenter du fra kommunens tekniske etat.
 
 Spesialutstyr er utstyr som ikke kan leveres fra bilfabrikk, men som monteres av en bilombygger. Du kan søke om spesialutstyr både til trygdefinansiert bil og til privatfinansiert bil. Eksempler på spesialutstyr er håndbetjening av gass/brems og utstyr for innlasting av rullestoler.
 
 Spesialutstyr skal alltid kjøpes inn av Nav. Du får ikke refundert utstyr du kjøper selv.
-
 
 #### Tilhenger
 
@@ -173,20 +163,30 @@ Du kan søke om tilhenger og tilhengerfeste for å frakte nødvendige forflytnin
 
 Har du fått utlånt tilhenger fra Nav og ikke lenger fyller vilkårene for å beholde den, skal den leveres tilbake. Bilsenteret må få beskjed om dette.
 
+#### Hvor mye kan du få?
+
 Tilskudds- og låneordningene for bil er behovsprøvd, og behovsprøvingen er basert på inntekt.
 
 Størrelsen på tilskuddet du kan få til bil er behovsprøvd. Dersom du har for høy inntekt kan du ikke få tilskudd til bil.
 
 Satsene gjelder fra 1. januar 2026.
 
-Du kan se
+| Type tilskudd | Maksimalt beløp |
+| --- | --- |
+| Tilskudd til bil til arbeid og utdanning | Inntil 175 603 kroner |
 
+Du kan se [satser tilbake i tid på satsoversikten](https://www.ansatt.dev.nav.no/satser#bilstonad-spesialutstyr-og-tilskudd-til-bil).
 
 #### Beregn hvor mye du kan få
 
 Her kan du se hvor mye du kan få i tilskudd til kjøp av bil.
 
 Klikk på rett alternativ for din private status i lenkene under. Når du klikker på en lenke, laster du ned en Excel-fil. Her kan du legge inn inntekstopplysninger, og regnearket beregner tilskuddet.
+
+1. [Jeg er ugift, har ingen å forsørge](https://www.nav.no/_/attachment/inline/6f89db33-1c4b-4577-8bb7-0570ae9fa59e:138b07e05b38c99c4bf8b45ada2adb9e9dd1cae7/Inntektskalkulator%20bil%20-%20ugift%20uten%20forsorgeransvar%20260422.xls) (Excel)
+2. [Jeg er ugift og har forsørgeransvar](https://www.nav.no/_/attachment/inline/509cbc39-e5fe-400b-b403-b9d30f19cd88:8997946b1df0544f32b14e7bca3a32f13efe9234/inntektskalkulator%20bil%20-%20ugift%20med%20forsorgeransvar%20260422.xls) (Excel)
+3. [Jeg er gift/partner, har ingen å forsørge](https://www.nav.no/_/attachment/inline/ffab9634-5615-41a2-bfbc-502ea13564ce:18bf11ccb48c3edab9ae6ee8745c04cbe06ec04f/inntektskalkulator%20bil%20-%20gift%20uten%20forsorgeransvar%20260422.xls) (Excel)
+4. [Jeg er gift/partner og har forsørgeransvar](https://www.nav.no/_/attachment/inline/45605db6-315b-4eb7-a986-c5b42eeb7133:624b0dae3cf2dba049967d4ca489a824fa71df60/inntektskalkulator%20bil%20-%20gift%20med%20forsorgeransvar%20260422.xls) (Excel)
 
 Behovsprøvingen avgjør hvor stor egenandel du må betale dersom du får lån til spesialtilpasset kassebil. Ingen må betale mer enn 150.000 kroner i behovsprøvd egenandel.
 
@@ -198,23 +198,31 @@ Spesialutstyr og tilpassing av bil er ikke et tilskudd eller pengelån som du f�
 
 Når vi gjennomfører behovsprøvingen tar vi utgangspunkt i alminnelig inntekt som vi regner om til grunnbeløpet. Vi bruker som hovedregel siste tilgjengelige likningsopplysninger. Har du ektefelle, eller samboer som du har felles barn med, blir deres inntekt tatt med i behovsprøvingen. I behovsprøvingen tar vi hensyn til om du forsørger ektefelle eller barn under 18 år.
 
-Hvis du er under 18 år og forsørget, bruker vi som hovedregel foreldrene dine sin inntekt i beregningen. At du er forsørget vil si at du har en alminnelig inntekt på under 136 549 kroner.
+Hvis du er under 18 år og forsørget, bruker vi som hovedregel foreldrene dine sin inntekt i beregningen. At du er forsørget vil si at du har en alminnelig inntekt på under 136 549 kroner.
 
 Tabellen viser hvordan inntekt påvirker lån eller tilskudd til bil fra folketrygden.
 
-409 647 - 477 922  kroner
+| Inntekt i året | Lån/tilskudd |
+| --- | --- |
+| 0 - 409 647 kroner | 100 prosent |
+| 409 647 - 477 922 kroner | 80 prosent |
+| 477 922 - 546 196 kronar | 70 prosent |
+| 546 196 - 614 471 kroner | 60 prosent |
+| 614 471 - 682 745 kroner | 50 prosent |
+| 682 745 - 751 020 kronar | 40 prosent |
+| 751 020 - 819 294 kroner | 20 prosent |
+
+#### Trafikkopplæring og tilvenning
 
 Hvis du ikke har førerkort fra før, kan du få tilskudd til trafikkopplæring dersom du fyller vilkårene for stønad til bil. Tilskuddet er økonomisk behovsprøvd og blir beregnet på samme måte som bilstønaden.
 
-I noen tilfeller kan en annen i husstanden få tilskudd til trafikkopplæring. Dette gjelder når du av medisinske årsaker ikke kan kjøre bil selv eller er for ung til å kjøre bil.
-
+I noen tilfeller kan en annen i husstanden få tilskudd til trafikkopplæring. Dette gjelder når du av medisinske årsaker ikke kan kjøre bil selv eller er for ung til å kjøre bil.
 
 #### Kjøreskole
 
-Når du får innvilget tilskudd til trafikkopplæring finner du selv trafikkskole, og det fylles ut en skriftlig avtale mellom Nav og trafikkskolen.
+Når du får innvilget tilskudd til trafikkopplæring finner du selv trafikkskole, og det fylles ut en skriftlig avtale mellom Nav og trafikkskolen.
 
 Enkelte kjøreskoler har biler med kjøreteknisk utstyr. I noen tilfeller vil det være behov for kjøreopplæring i egen spesialtilpasset bil.
-
 
 #### Søknad
 
@@ -222,20 +230,17 @@ Du søker om trafikkopplæring samtidig som du søker om bil, og bruker det samm
 
 Hvis du ikke har førerkort fra før, kan du få tilskudd til trafikkopplæring dersom du fyller vilkårene for stønad til bil. Tilskuddet er økonomisk behovsprøvd og blir beregnet på samme måte som bilstønaden.
 
-I noen tilfeller kan en annen i husstanden få tilskudd til trafikkopplæring. Dette gjelder når du av medisinske årsaker ikke kan kjøre bil selv eller er for ung til å kjøre bil.
-
+I noen tilfeller kan en annen i husstanden få tilskudd til trafikkopplæring. Dette gjelder når du av medisinske årsaker ikke kan kjøre bil selv eller er for ung til å kjøre bil.
 
 #### Kjøreskole
 
-Når du får innvilget tilskudd til trafikkopplæring finner du selv trafikkskole, og det fylles ut en skriftlig avtale mellom Nav og trafikkskolen.
+Når du får innvilget tilskudd til trafikkopplæring finner du selv trafikkskole, og det fylles ut en skriftlig avtale mellom Nav og trafikkskolen.
 
 Enkelte kjøreskoler har biler med kjøreteknisk utstyr. I noen tilfeller vil det være behov for kjøreopplæring i egen spesialtilpasset bil.
-
 
 #### Søknad
 
 Du søker om trafikkopplæring samtidig som du søker om bil, og bruker det samme søknadsskjemaet. Støtten til trafikkopplæring søker du om i steget "Førerkort" i søknadsskjemaet.
-
 
 #### Opplæring og tilvenning
 
@@ -245,19 +250,30 @@ Alle som får ombygd bil med kjøreteknisk utstyr, får opplæring i bruk av uts
 
 Når bilen blir forevist hos trafikkstasjonen, må du som får kjøreteknisk utstyr testkjøre med sensor for å vise at du behersker utstyret. Trafikkstasjonen kan kreve at førerkortet blir kodet det aktuelle utstyret.
 
-Nav dekker nødvendige tilvenningstimer og kostnader forbundet med at førerkortet blir kodet.
+Nav dekker nødvendige tilvenningstimer og kostnader forbundet med at førerkortet blir kodet.
 
-Selv om du ikke fyller kravene for å få trafikkopplæring, kan Nav dekke
+Selv om du ikke fyller kravene for å få trafikkopplæring, kan Nav dekke [tilpasning av privateid bil for øvelseskjøring](https://www.kunnskapsbanken.net/bil/kjore-bilen-selv/tilpasning-av-privateid-bil-for-ovelseskjoring/).
+
+#### Refusjon av reiseutgifter
 
 Du kan få refundert reiseutgiftene hvis du har
 
 - reist til bilsenter eller bilombygger for prøving og tilpasning av bil
-- reist til bilsenter eller bilombygger ved innmontering av spesialutstyr
+- reist til bilsenter eller bilombygger for opplæring i bruk av spesialutstyr
 - reist til bilombygger ved reparasjon av spesialutstyr
 - reist til bilombygger ved periodisk etterkontroll av spesialutstyr.
-Du må sende søknad om refusjon av reiseutgifter senest 6 måneder etter at reisen er gjennomført. Husk å legge ved dokumentasjonen som blir etterspurt i søknadsskjemaet.
 
-For refusjon av reiser til sykehus og andre tjenster som administreres av helsforetakene,
+Du må sende søknad om refusjon av reiseutgifter senest 6 måneder etter at reisen er gjennomført. Husk å legge ved dokumentasjonen som blir etterspurt i søknadsskjemaet.
+
+For refusjon av reiser til sykehus og andre tjenster som administreres av helsforetakene, [gå til pasientreiser (åpnes i ny fane)](https://www.pasientreiser.no/).
+
+[Reiseutgifter](https://www.nav.no/reiseutgifter)
+
+Pengestøtte
+
+### Slik søker du om stønad til bil eller spesialutstyr
+
+#### Søknad og dokumentasjon
 
 Hvis du er myndig, kan du sende søknaden elektronisk. Slik går du fram:
 
@@ -265,6 +281,7 @@ Hvis du er myndig, kan du sende søknaden elektronisk. Slik går du fram:
 - Skann eller ta bilde av aktuelle vedlegg. Lagre disse på pc før du begynner.
 - Logg inn i søknaden med elektronisk ID.
 - Fyll ut søknaden og legg ved all dokumentasjonen. Send inn søknaden.
+
 Hvis du søker på vegne av noen som er under 18 år, må du sende søknaden i posten.
 
 Dette gjelder også hvis den du søker for er over 18 år, men har verge.
@@ -274,9 +291,10 @@ Slik går du fram:
 - Samle all dokumentasjon. Se "Dette må du dokumentere" nedenfor".
 - Fyll ut søknadsskjemaet i nettleseren. Benytt personnummer og postnummer til personen du søker for.
 - Skriv ut Nav førsteside og søknaden når den er ferdig utfylt.
-- Signer søknaden. Verge eller foresatte signerer. Hvis barnets foreldre bor hver for seg, og begge har foreldreansvar, må begge foreldrene signere.
+- Signer søknaden. Verge eller foresatte signerer. Hvis barnets foreldre bor hver for seg, og begge har foreldreansvar, må begge foreldrene signere.
 - Legg førstesiden (øverst) og søknaden og alle vedleggene i en konvolutt og send til Nav i posten.
-Hvis en søker under 18 eller under vergemål blir innvilget stønad til spesialtilpasset kassebil, må foresatte eller verge sende gjeldsbrev og salgspant til Vergemålsmyndigheten hos statsforvalteren. Statsforvalteren må godkjenne at den som søker pådrar seg gjeld. Skjema for søknad og mer informasjon du finner på
+
+Hvis en søker under 18 eller under vergemål blir innvilget stønad til spesialtilpasset kassebil, må foresatte eller verge sende gjeldsbrev og salgspant til Vergemålsmyndigheten hos statsforvalteren. Statsforvalteren må godkjenne at den som søker pådrar seg gjeld. Skjema for søknad og mer informasjon du finner på [vergemal.no](http://www.vergemal.no/). Dette blir først aktuelt senere i prosessen, og du vil få mer infomasjon når du mottar gjeldsbrevet og salgspantet.
 
 Hvis du søker om spesialtilpasset kassebil fordi den som skal ha bilen må skjermes fra førermiljøet på grunn av utagerende atferd i bil, må du legge ved et tilleggsskjema som beskriver dette. Skjemaet finner du under.
 
@@ -284,8 +302,11 @@ Hvis søknaden gjelder barn, kan skjemaet fylles ut av foreldre eller verge. Hvi
 
 Vi oppfordrer til å begrense mengden sensitiv informasjon til det som er nødvendig.
 
+Skjemaet finner du her:
 
 #### Tilleggsskjema for stønad til kassebil ved utagerende atferd
+
+[Fyll ut skjema](https://www.nav.no/fyllut/nav100744)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100744)
 
 Når du søker om bilstønad er det ofte behov for å legge ved en eller flere skjema som må fylles ut av fagpersoner.
 
@@ -296,15 +317,20 @@ Dette gjelder følgende skjema:
 - Legeerklæring for motorkjøretøy
 - Funksjonsvurdering fra ergo- eller fysioterapeut
 - Tilleggsskjema for stønad til kassebil ved utagerende atferd
+
 Fagpersonene kan finne informasjon om og inngang til disse skjemaene fra denne siden:
 
+[Stønad til bil](https://www.nav.no/samarbeidspartner/bilstonad)
+
 Nav har tre ulike ordninger for stønad til bil og spesialutstyr. Velg knappen "Send søknad" under, deretter velger du hvilken stønadsordning du skal søke på.
+
+[Send søknad](https://www.nav.no/fyllut/nav100740)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100740)
 
 Her er en liste over hvilken dokumentasjon du kan bli bedt om å legge ved når du fyller ut søknaden.
 
 - Legeerklæring (eget skjema som ligger i skjemoversikten for samarbeidspartnere)
-- Funksjonsvurdering fra ergo- eller fysioterapeut (eget skjema som ligger i skjemoversikten for samarbeidspartnere)
-- Dokumentasjon fra fagansvarlig helsepersonell på at du må skjermes fra førermiljøet i bilen (eget skjema som ligger i skjemoversikten for samarbeidspartnere)
+- Funksjonsvurdering fra ergo- eller fysioterapeut (eget skjema som ligger i skjemoversikten for samarbeidspartnere)
+- Dokumentasjon fra fagansvarlig helsepersonell på at du må skjermes fra førermiljøet i bilen (eget skjema som ligger i skjemoversikten for samarbeidspartnere)
 - Kopi av førerkort
 - Arbeidskontrakt eller bekreftelse på studieplass
 - Erklæring fra teknisk etat i kommunen ved søknad om firehjulstrekk
@@ -312,26 +338,31 @@ Her er en liste over hvilken dokumentasjon du kan bli bedt om å legge ved når 
 
 #### Mer om dokumentasjonskravene
 
-Legeerklæringen skal gi Nav bilsenter nødvendig informasjon om diagnosen din. Hvis du skal kjøre bilen selv må det komme fram om du har førerrett. Den skal også opplyse om du har mulighet for å benytte annen transport. Annen transport kan for eksempel være drosje eller kollektivtransport. Legeerklæringen må fylles ut av lege og er en viktig dokumentasjon på om de medisinske kravene er oppfylt. Du finner skjema for legeerklæring på nav.no, sammen med søknadsskjemaet for stønad om bil.
+#### Legeerklæring
+
+Legeerklæringen skal gi Nav bilsenter nødvendig informasjon om diagnosen din. Hvis du skal kjøre bilen selv må det komme fram om du har førerrett. Den skal også opplyse om du har mulighet for å benytte annen transport. Annen transport kan for eksempel være drosje eller kollektivtransport. Legeerklæringen må fylles ut av lege og er en viktig dokumentasjon på om de medisinske kravene er oppfylt. Du finner skjema for legeerklæring på nav.no, sammen med søknadsskjemaet for stønad om bil.
 
 Legeerklæringen skal ikke være eldre enn tre måneder gammel regnet fra søknadstidspunktet.
 
-Ergo- eller fysioterapeut skal fylle ut “Tilleggsskjema bil”. Du finner skjemaet på nav.no, sammen med søknadsskjemaet for stønad om bil.
+#### Funksjonsvurdering
+
+Ergo- eller fysioterapeut skal fylle ut “Tilleggsskjema bil”. Du finner skjemaet på nav.no, sammen med søknadsskjemaet for stønad om bil.
 
 Informasjonen i skjemaet gir saksbehandler et mer helhetlig bilde av dine ressurser og begrensninger. Det er viktig med en beskrivelse av forflytningsevne mellom for eksempel rullestol og bilsete, eventuelt mellom elektrisk og manuell rullestol. En utfyllende beskrivelse av gangfunksjonen er også viktig, også i de tilfeller der denne er betydelig nedsatt og utføres med hjelpemidler eller med støtte.
 
 Informasjonen i “Tilleggsskjema bil” skal være en beskrivelse og vurdering av funksjon, og kan utdype opplysningene i legeerklæringen. Den er nødvendig når bilsenteret skal vurdere om de medisinske kravene for stønad til bil er oppfylt. Bilsenteret benytter også funksjonsvurderingen i utredningen av nødvendig og hensiktsmessig bil og utstyr, og for å kunne forberede utprøvingen så godt som mulig.
 
-
 #### Skjerming av førermiljøet
 
 Dokumentasjon om at du må skjermes fra førermiljøet i bilen, er for deg som søker stønad til spesialtilpasset kassebil på grunn av utagerende adferd i bil. Skjemaet fylles ut av fagansvarlig helsepersonell. Dersom det gjelder barn, kan du fylle ut skjemaet hvis du er forelder eller verge.
+
+#### Gode råd om skjema og søknad
 
 Hvilken dokumentasjon du må legge ved avhenger av hvilken ordning du søker på, og hvilken situasjon du er i. Det kan være lurt å skaffe seg en oversikt over dette på forhånd. Det kan du gjøre ved å orientere deg i skjemaet før du fyller det ut. Slik kan du gjøre dette:
 
 Det enkleste er å velge "send i posten", da trenger du ikke logge inn med BankID. For å få en oversikt over hvilke vedlegg som er aktuelle for deg, kan du gjøre de valgene som gjelder i din situasjon underveis i søknadsskjemaet. I stedet for å bruke "Neste steg"-knappen nederst på hver side, kan du klikke på de ulike stegene du finner i sidemenyen til høyre. På denne måten slipper du å fylle ut tekstfeltene for å komme videre, og kan orientere deg fritt rundt i skjemaet. På det nest siste steget finner du oversikt over hvilke vedlegg du må legge ved. Disse avhenger av hvilke valg du har gjort underveis i skjemaet.
 
-Når du ikke er innlogget kan du skrive hva som helst i feltene, og Nav lagrer ikke informasjonen du legger inn.
+Når du ikke er innlogget kan du skrive hva som helst i feltene, og Nav lagrer ikke informasjonen du legger inn.
 
 Du må gi opplysninger om hva bilen skal brukes til. Dette kan være reiser til og fra jobb, innkjøp av dagligvarer, besøk hos familie og venner, fritidsaktiviteter med mer.
 
@@ -341,19 +372,22 @@ I tillegg til å oppgi det transportbehovet du har i dag, kan du også oppgi tra
 
 Hvis du ikke har førerkort kan du søke om støtte til trafikkopplæring samtidig som du søker om bil. Du bruker det samme søknadsskjemaet. Støtten til trafikkopplæring søker du om i steget "Førerkort" i søknadsskjemaet.
 
+#### Etter at du har søkt
+
 Når du har sendt inn søknaden, er det ulik saksgang avhengig av hvilken ordning du har søkt på:
 
 - Vi gir svar på søknaden.
-- Hvis Nav innvilger søknaden, får du en bekreftelse på dette som du tar du med til bilselger.
-- Du inngår kjøpekontrakt på ønsket bil (se
+- Hvis Nav innvilger søknaden, får du en bekreftelse på dette som du tar du med til bilselger.
+- Du inngår kjøpekontrakt på ønsket bil (se [sjekkliste når du kjøper bil på kunnskapsbanken.net](https://www.kunnskapsbanken.net/bil/bilen/)) og får den registrert i ditt navn.
 - Du betaler eventuelt mellomlegg mellom tilskuddet og prisen på bilen.
 - Du sender oss:
-- kopi av kjøpekontrakt
-- kopi av vognkort
-- Bilselger sender faktura til Nav i elektronisk format (EHF).
+  - kopi av kjøpekontrakt
+  - kopi av vognkort
+- Bilselger sender faktura til Nav i elektronisk format (EHF).
 - Vi sender deg gjeldsbrev.
 - Du sender oss originalt undertegnet gjeldsbrev.
 - Vi betaler tilskuddet til bilselger.
+
 - Vi gir svar på søknaden
 - Dersom innvilgelse blir du kalt inn til møte på bilsenteret
 - Du møter på bilsenteret sammen med kommunal terapeut for at vi i fellesskap vurderer hvilken bil og hvilket spesialutstyr som er nødvendig
@@ -368,15 +402,16 @@ Når du har sendt inn søknaden, er det ulik saksgang avhengig av hvilken ordnin
 - Bilombygger bygger om bilen
 - Trafikkstasjonen godkjenner bilen
 - Salgspant blir tinglyst
-- Du forsikrer bilen med tredjemannsinteresse
+- Du forsikrer bilen med tredjemannsinteresse
 - Du får bilen utlevert hos bilforhandler eller bilombygger
+
 - Vi gir svar på søknaden
 - Du vil i noen saker bli innkalt til oss for møte med bilformidler
 - Bilombygger, som Nav har avtale med, bygger om bilen
+
 Du blir kontaktet av oss etter ca. 3 måneder for oppfølging av bil og utstyr.
 
-Du kan lese mer om prosessen på
-
+Du kan lese mer om prosessen på [kunnskapsbanken.net: Hva skjer i bilsaker](https://www.kunnskapsbanken.net/bil/hva-skjer-i-bilsaker/)
 
 #### Saksbehandlingstid for søknader
 
@@ -386,36 +421,75 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 Leveringstiden for bilen kommer i tillegg til saksbehandlingstiden.
 
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad om spesialtilpasset kassebil | 19 uker |
+| Søknad om spesialutstyr og tilpasning | 19 uker |
+| Søknad om tilskudd til bil til arbeid og utdanning | 11 uker |
+
+#### Utprøving og oppfølging ved Nav bilsenter
+
 Når du har fått innvilget stønad til bil eller spesialutstyr, blir du innkalt til utprøving ved Nav bilsenter. Utprøvingen består av en kartleggingssamtale og en praktisk utprøving av bil og spesialutstyr. Det enkelte bilsenteret har egen bilhall med en eller flere demonstrasjonsbiler og et utvalg spesialutstyr. Utprøvingen munner ut i en skriftlig rapport, som danner grunnlag for det endelige vedtaket på bil og spesialutstyr.
 
 Bilsenteret har ansvar for å bestille bil og utstyr og følge opp saken både underveis i prosessen og etter utlevering.
 
 Bilsenterne er lokalisert på fem steder i landet. Hvis du klikker på fylket ditt eller regionen du bor i, finner du ditt bilsenter.
 
+- [Agder](https://www.nav.no/kontor/nav-hjelpemiddelsentral-agder#bil-og-spesialutstyr)
+- [Innlandet](https://www.nav.no/kontor/nav-hjelpemiddelsentral-innlandet-elverum#bil-og-spesialutstyr)
+- [Møre og Romsdal](https://www.nav.no/kontor/nav-hjelpemiddelsentral-trondelag#bil-og-spesialutstyr)
+- [Nordland](https://www.nav.no/kontor/nav-hjelpemiddelsentral-nordland#bil-og-spesialutstyr)
+- [Oslo](https://www.nav.no/kontor/nav-hjelpemiddelsentral-oslo#bil-og-spesialutstyr) (inkludert Follo og Romerike)
+- [Rogaland](https://www.nav.no/kontor/nav-hjelpemiddelsentral-rogaland#bil-og-spesialutstyr)
+- [Troms og Finnmark](https://www.nav.no/kontor/nav-hjelpemiddelsentral-troms-og-finnmark#bil-og-spesialutstyr)
+- [Trøndelag](https://www.nav.no/kontor/nav-hjelpemiddelsentral-trondelag#bil-og-spesialutstyr)
+- [Vestfold og Telemark](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestfold-og-telemark#bil-og-spesialutstyr)
+- [Vestland](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen#bil-og-spesialutstyr)
+- [Vest-Viken](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vest-viken#bil-og-spesialutstyr) ​​​​​​​(Buskerud, Bærum kommune, Asker kommune og Jevnaker kommune)
+- [Øst-Viken](https://www.nav.no/kontor/nav-hjelpemiddelsentral-ost-viken#bil-og-spesialutstyr) (Østfold)
+
 Nav bilsenter er et nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
 
 Det enkelte bilsenteret behandler alle søknader om stønad til bil og spesialutstyr innenfor sitt geografiske område. Hvert bilsenter er tverrfaglig sammensatt av saksbehandlere, ergo- og fysioterapeuter, tekniske rådgivere og innkjøpere.
 
-I saker der det er uklart om du oppfyller vilkårene for å få stønaden innvilget, kaller bilsenteret deg inn til en funksjonsvurdering som en del av søknadsbehandlingen.
+I saker der det er uklart om du oppfyller vilkårene for å få stønaden innvilget, kaller bilsenteret deg inn til en funksjonsvurdering som en del av søknadsbehandlingen.
+
+#### Klagerettigheter
 
 Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
 
-
 #### Klage på vedtak - bilstønad og tilskudd til bil
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/BILSTONAD)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/BILSTONAD)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/BILSTONAD)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/BILSTONAD)
+
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet om tilskudd til bil i arbeid og utdanning | 6 måneder |
+| Klage til Nav-enhet om lån til spesielt tilrettelagt kassebil | 12 måneder |
+| Klage til Nav klageinstans | 5 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har bilstønad
+
+#### Hva koster det?
 
 Om du får tilskudd til bil til arbeid og utdanning må du ha en bil registrert på deg i 11 år.
 
@@ -423,7 +497,7 @@ Du må regne med faste utgifter til forsikring, service, reparasjon og drivstoff
 
 Du kan søke om grunnstønad til drift av bil, men det dekker bare en liten andel av utgiftene.
 
-Et tilskudd til bil skal vare i 11 år. Tilskuddet nedskrives med 1/22 hvert halvår. Første del er nedskrevet 6 måneder etter datoen gjeldsbrevet ble undertegnet. Tilskuddet er helt nedskrevet etter 11 år, men det anses nedskrevet dersom du får nytt tilskudd etter reglene om gjenanskaffelse.
+Et tilskudd til bil skal vare i 11 år. Tilskuddet nedskrives med 1/22 hvert halvår. Første del er nedskrevet 6 måneder etter datoen gjeldsbrevet ble undertegnet. Tilskuddet er helt nedskrevet etter 11 år, men det anses nedskrevet dersom du får nytt tilskudd etter reglene om gjenanskaffelse.
 
 Dersom du får innvilget lån til kassebil er det viktig å ha et bevisst forhold til hva dette innebærer for deg av ansvar og kostnader. Kostnadene til drift av en slik bil er betydelige.
 
@@ -432,7 +506,6 @@ Du har ansvar for bilen så lenge den er i ditt eie.
 Når vilkårene ikke lenger er oppfylt kan du enten kjøpe ut bilen, eller levere den til Nav. Bilens verdi blir da vurdert. Dersom dersom den har en underverdi som følge av manglende service og vedlikehold, kan du måtte betale for dette.
 
 Biler som utleveres fra Nav er personbiler og krever førerkort klasse B.
-
 
 #### Ditt ansvar
 
@@ -458,8 +531,8 @@ Kostnader ved drift av bil omfatter:
 - Periodisk kjøretøykontroll (EU-kontroll)
 - Dekk
 - Bom/ferje/parkering
-Kostnadene ved drift av spesialtilpasset kassebil vil på de fleste punkter være høyere enn ved drift av en mindre bil.
 
+Kostnadene ved drift av spesialtilpasset kassebil vil på de fleste punkter være høyere enn ved drift av en mindre bil.
 
 #### Nav sitt økonomiske ansvar
 
@@ -473,25 +546,39 @@ Spesialutstyr, tilpasning eller ombygging av bilen din fra Nav koster deg i utga
 
 Du kan søke om grunnstønad til drift av bil, men dette dekker bare en liten del av utgiftene.
 
+[Grunnstønad](https://www.nav.no/grunnstonad)
+
+Pengestøtte
+
+#### Gjeld og kredittverdighet
+
 Spesialtilpasset kassebil er et trygdefinansiert kjøretøy, som er sikret med tinglyst pant i bilen. Hvis du har fått lån til spesialtilpasset kassebil vil bilen være registrert på deg. Pantelånet vil derfor bli tatt med i en eventuell kredittvurdering, og kan føre til problemer med å handle på kreditt selv om lånet er rente- og avdragsfritt.
 
 Dersom dette er tilfelle for deg, bør du ta direkte kontakt med finansieringsinstitusjonen slik at dere kan se gjennom kredittsøknaden. Nav kan være behjelpelig med å dokumentere at pantelånet fra Nav er rente- og avdragsfritt.
+
+#### Reparasjoner
 
 Hvis du har spesialtilpasset kassebil fra Nav, må du selv dekke kostnader for reparasjoner som går ut over de garantier som billeverandøren gir. Gjenbruksbil fra Nav leveres med inntil 1 års garanti ut over garantitiden fra billeverandør.
 
 Nav dekker nødvendige reparasjoner av spesialutstyr når bilen er i Norge.
 
+#### Ta med bil til utlandet
+
 Har du fått innvilget spesialtilpasset kassebil kan du ta bilen med til utlandet i inntil tre måneder. Dersom du skal oppholde deg i utlandet mer enn disse tre månedene, må du søke bilsenteret om dispensasjon.
 
 Nav dekker ikke reparasjonsutgifter på spesialutstyr når bilen er i utlandet.
 
-Her finner du
+Her finner du [mer informasjon om rettigheter i folketrygden ved flytting til utlandet](https://www.nav.no/om-hjelpemidler#reise).
+
+#### Meld fra om endringer
 
 Hvis du har fått tilskudd til bil i arbeid og utdanning, må du informere Nav hjelpemiddelsentral hvis du slutter i arbeidet eller utdanningen. Vi vil da vurdere bilsaken din på nytt.
 
 Dersom du blir arbeidssøker må vi i hver enkelt sak vurdere om retten til tilskuddet skal opphøre. Du kan da risikere å måtte betale tilbake hele eller deler av tilskuddet.
 
 Dersom du går over til uføretrygd har du ikke lenger rett til å beholde tilskuddet og må betale det tilbake. Det gjelder bare ved 100 prosent uføretrygd uten reduksjon av uføreutbetalingen på grunn av inntekt over fribeløpet.
+
+#### Bytte bil eller utstyr
 
 Du kan søke om nytt tilskudd etter 8 år hvis du fortsatt er i arbeid. Vi vurderer ikke alder på bilen du eier når du søker gjenanskaffelse. Dersom du får nytt tilskudd etter 8 år, blir det foregående tilskuddet avskrevet.
 
@@ -501,15 +588,15 @@ Dersom helsetilstanden din endrer seg slik at du har behov for en spesialtilpass
 
 Hvis du har fått stønad til bil til bruk i dagliglivet, kan du søke om stønad til en ny bil når den gamle er minst 11 år.
 
-Hvis stønaden er gitt til reiser til og fra arbeid og utdanning, kan du søke om stønad til ny bil når bilen er minst 8 år og har gått 150 000 km.
+Hvis stønaden er gitt til reiser til og fra arbeid og utdanning, kan du søke om stønad til ny bil når bilen er minst 8 år og har gått 150 000 km.
 
 Du kan søke om ny bil 6 måneder før brukstiden (på 8 eller 11 år) er utløpt.
 
-Dersom helsen din har forandret seg så mye at den bilen du har ikke kan brukes lenger, kan du søke om ny stønad før tiden.
+Dersom helsen din har forandret seg så mye at den bilen du har ikke kan brukes lenger, kan du søke om ny stønad før tiden.
 
 Ved behandling av søknaden vurderer bilsenteret alle vilkårene på nytt. Selv om du har fått lån til bil fra før, må du sende inn nye og oppdaterte opplysninger når du søker om stønad til ny bil.
 
-Selv om du kan søke om ny bil etter 11 (eller 8) år, betyr ikke det at du må bytte bil da hvis du ikke trenger eller ønsker det. Du kan beholde den så lenge den blir brukt til det formålet den ble gitt for. Du disponerer likevel ikke bilen fritt etter 11 år.
+Selv om du kan søke om ny bil etter 11 (eller 8) år, betyr ikke det at du må bytte bil da hvis du ikke trenger eller ønsker det. Du kan beholde den så lenge den blir brukt til det formålet den ble gitt for. Du disponerer likevel ikke bilen fritt etter 11 år.
 
 Du kan som hovedregel bare få stønad til spesialutstyr én gang i løpet av stønadsperioden for bil på 11 år. Vi kan likevel gjøre unntak dersom helsetilstanden din endrer seg slik at utstyret ikke lenger er hensiktsmessig, eller utstyret er utslitt.
 
@@ -517,9 +604,12 @@ Hvis du får innmontert spesialutstyret i en trygdefinansiert bil, kan du få st
 
 Hvis du får innmontert spesialutstyret i en privatfinansiert bil, kan du få stønad til nytt spesialutstyr når det har gått 11 år siden denne bilen ble registrert på deg.
 
+#### Plikter
+
 - Du må ha bil i hele tilskuddsperioden
 - Du kan ikke la bilen stå avregistrert.
 - Bilen må være registrert i ditt navn og EU-godkjent.
+
 Hvis pliktene ikke overholdes, vil vi gjennomføre gjeldsoppgjør på tilskuddet. Det betyr at du må betale tilbake den delen av tilskuddet som ikke er avskrevet.
 
 Du må holde bilen forsikret i hele bruksperioden med full kasko uten forhøyet egenandel. Forsikringen må være registrert med tredjemannsinteresse med Nav hjelpemiddelsentral som panthaver.
@@ -530,6 +620,12 @@ Bilen skal ikke benyttes til andre formål enn det den er gitt til. Det vil si a
 
 Spesialutstyr er Nav sin eiendom. Du må derfor ta kontakt med oss dersom du ikke lenger har behov for spesialutstyret.
 
+#### Brukerutvalg
+
+[Brukerutvalgene for Nav bilsenter finner du her](https://www.nav.no/samarbeidspartner/brukerutvalg-hjelpemiddelomradet#lokale-brukerutvalg).
+
+#### Når du ikke lenger har stønad til bil
+
 Bilstønaden opphører dersom du ikke lenger har rett til stønad til bil, eller dersom du ikke lenger ønsker å motta stønad til bil. Det samme gjelder dersom stønadsmottaker dør.
 
 Hvis bilen din ikke er lovlig å bruke, for eksempel fordi den ikke er EU-godkjent eller mangler lovpålagte forsikringer, risikerer du at bilstønaden opphører.
@@ -538,7 +634,7 @@ Når bilstønaden opphører vil vi foreta et gjeldsoppgjør.
 
 Hvis du ikke vil ha bilen lenger eller hvis du ikke lenger fyller vilkårene, opphører stønaden. Nav vil da foreta et gjeldsoppgjør.
 
-Gjeldsoppgjør innebærer at du må betale tilbake den delen av tilskuddet som ikke er avskrevet. Tilskuddet er ikke knyttet til et bestemt kjøretøy, og gjelden kan dermed ikke gjøres opp ved å levere inn bilen.
+Gjeldsoppgjør innebærer at du må betale tilbake den delen av tilskuddet som ikke er avskrevet. Tilskuddet er ikke knyttet til et bestemt kjøretøy, og gjelden kan dermed ikke gjøres opp ved å levere inn bilen.
 
 Nav kan kreve gjeldsoppgjør ved mislighold av vilkårene.
 
@@ -572,21 +668,28 @@ Spesialutstyr er Nav sin eiendom. Du må derfor ta kontakt med oss dersom du ikk
 
 Du kan få dekket kostnader til utmontering av spesialutstyr, men ikke kostnader til å sette bilen tilbake til original stand.
 
-Oppdatert 13.04.2026
+### Hva sier loven?
 
+- [Rundskriv om anskaffelse av motorkjøretøy (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07h)
+- [Forskrift om stønad til motorkjøretøy (lovdata.no)](https://lovdata.no/nav/forskrift/2003-03-07-290)
 
-#### Skriv til oss
+Oppdatert 22.09.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
 Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. Svartid er noen arbeidsdager.
 
+Ring oss på 55 55 11 11
 
-#### Ring oss på 55 55 11 11
+Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
 Stengt nå, åpner kl. 9
 
+[Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
-#### Finn din hjelpemiddelsentral
-
+Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/bilstonad) av norges-lover-bot.*
@@ -600,3 +703,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

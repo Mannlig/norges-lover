@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0014b650a0a466398bd6c727984ed73867fa28364cd962f1e235f1ee56a55e78 -->
+<!-- innholds-hash: 7bfc3a5919afaac0ad2c3c85a458c65a38f498805320dbcc2027517e7ad8e3c3 -->
 
 # Endringer i støtteprosessloven (registreringsplikt)
 
@@ -9,23 +9,24 @@
 - **Type:** 3
 - **Korttittel:** Endringer i støtteprosessloven (registreringsplikt)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-08-02T04:06:20Z
+- **Henvisning:** Prop. 91 L (2025-2026), Innst. 441 L (2025-2026), Lovvedtak 88 (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Skatter, Avgifter, Næringsliv, Eu/eøs
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200296
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1785643307277+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 58,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 80,
@@ -42,12 +41,17 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 113,
       "id": 113,
       "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
       "underemne_liste": []
     }
   ],
@@ -57,8 +61,6 @@
   "innstilling_id": 17526,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1785643287875+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -66,8 +68,6 @@
   "sak_fremmet_id": 200296,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1785643307277+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vitanza",
       "foedselsdato": "/Date(395100000000+0200)/",
@@ -75,15 +75,11 @@
       "id": "SOLVIT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1785632941531+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1785625217108+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -98,7 +94,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -306,3 +302,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

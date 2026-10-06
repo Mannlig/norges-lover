@@ -1,4 +1,4 @@
-<!-- innholds-hash: 14e5ee735237136842239df0fcabda318f416a20c468ba48175c9c8c8b6d37a6 -->
+<!-- innholds-hash: 6b3fc769706f0c77edca86bdaa82d0d6be02364be7bed6e9355b5318280fe75e -->
 
 # Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene
 
@@ -8,18 +8,21 @@
 - **Sak-ID:** 200228
 - **Type:** 3
 - **Korttittel:** Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860)
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Status:** 1
+- **Henvisning:** Prop. 77 LS (2025-2026), Innst. 347 L (2025-2026), Lovvedtak 66 (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200228
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [],
@@ -29,8 +32,6 @@
   "innstilling_id": 17451,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -38,8 +39,6 @@
   "sak_fremmet_id": 200228,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
       "foedselsdato": "/Date(-69472800000+0200)/",
@@ -47,15 +46,11 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -64,13 +59,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -99,3 +94,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

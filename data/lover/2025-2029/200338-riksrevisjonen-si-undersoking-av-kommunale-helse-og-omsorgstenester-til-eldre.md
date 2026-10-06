@@ -1,4 +1,4 @@
-<!-- innholds-hash: 823abe4f0277e499a9c9d7922b06b006cc1461e2b119d08e28bbfe8906d3f329 -->
+<!-- innholds-hash: 207cfedbbb686c27e994e0db531884c80329d4c4988729b5f2e471e659ad2e20 -->
 
 # Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre
 
@@ -9,47 +9,29 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-19T06:18:09Z
+- **Henvisning:** Dokument 3:16 (2025-2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200338
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781849040054+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 151,
-      "id": 29,
-      "navn": "Riksrevisjonen",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 61,
-      "id": 48,
-      "navn": "Omsorgstjenester",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:16 (2025-2026)",
   "id": 200338,
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1781848828695+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -57,8 +39,6 @@
   "sak_fremmet_id": 200338,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781849040054+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenersen",
       "foedselsdato": "/Date(431474400000+0200)/",
@@ -66,15 +46,11 @@
       "id": "AICS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781823625571+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781823624610+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -89,7 +65,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -128,3 +104,4 @@
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

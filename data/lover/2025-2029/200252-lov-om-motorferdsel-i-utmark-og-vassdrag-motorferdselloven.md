@@ -1,4 +1,4 @@
-<!-- innholds-hash: 755a0deb8df7561731c836ac3f03b7874c2bfa2ff56cc60ecea986b75318c694 -->
+<!-- innholds-hash: d93214eafa635e9858d6228dd291edeb0cfabbafebdff8ef593e78093f438aa8 -->
 
 # Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
 
@@ -9,28 +9,58 @@
 - **Type:** 3
 - **Korttittel:** Lov om motorferdsel i utmark og vassdrag (motorferdselloven)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-18T04:23:44Z
+- **Henvisning:** Prop. 61 L (2025-2026), Innst. 436 L (2025-2026), Lovvedtak 73 (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Naturvern, Kommuner, Reindrift, Miljøvern
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200252
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781755408508+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 132,
+      "navn": "Reindrift",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 139,
+      "id": 139,
+      "navn": "Miljøvern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 61 L (2025-2026), Innst. 436 L (2025-2026), Lovvedtak 73 (2025-2026)",
   "id": 200252,
   "innstilling_id": 17517,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781755244624+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -38,8 +68,6 @@
   "sak_fremmet_id": 200252,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781755408508+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagenborg",
       "foedselsdato": "/Date(59094000000+0100)/",
@@ -47,15 +75,11 @@
       "id": "ANNHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781737216905+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781737216780+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -70,7 +94,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -106,3 +130,4 @@
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-17** Innhold endret (se git-historikk for diff)
 - **2026-06-18** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

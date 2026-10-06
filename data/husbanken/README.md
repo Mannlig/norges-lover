@@ -1,8 +1,6 @@
 # Data – Husbanken
 
-Husbanken
-
-*Sist oppdatert: 2026-08-02 07:41 UTC*
+Bostøtte, startlån og tilskudd fra Husbanken.
 
 **Antall dokumenter:** 2
 

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e585602374df93266ea1b5666b475fe4f69344f984cc88e2b48fcccb2ce70041 -->
+<!-- innholds-hash: 058cab1e1c2b6bcac0e9114ccf120127cf1dc7aea345a13d02af0a19df03806d -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon
 
@@ -9,43 +9,25 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å nedsette en forskjellskommisjon
 - **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T12:06:50Z
+- **Henvisning:** Dokument 8:279 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200288
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779365133939+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [
-    {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": true,
-      "hovedemne_id": 24,
-      "id": 24,
-      "navn": "Likestilling",
-      "underemne_liste": []
-    },
-    {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
-      "er_hovedemne": false,
-      "hovedemne_id": 5,
-      "id": 95,
-      "navn": "Lønn og inntekt",
-      "underemne_liste": []
-    }
-  ],
+  "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bergstø",
       "foedselsdato": "/Date(362786400000+0200)/",
@@ -53,15 +35,11 @@
       "id": "KIB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -69,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
       "foedselsdato": "/Date(302738400000+0200)/",
@@ -78,15 +54,11 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -99,8 +71,6 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779364903760+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -108,8 +78,6 @@
   "sak_fremmet_id": 200288,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jacobsen",
       "foedselsdato": "/Date(-44416800000+0200)/",
@@ -117,15 +85,11 @@
       "id": "FROJAC",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -140,7 +104,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -160,3 +124,4 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

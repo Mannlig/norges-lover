@@ -1,4 +1,4 @@
-<!-- innholds-hash: ba7cf74b120ab2a84bf9b5f98fc657994342717bf6457437ce92fc8514577c6e -->
+<!-- innholds-hash: 23fe796340c7446f540cc14977f9a70f98d315c11d46216ab4c074ceb8308699 -->
 
 # Endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)
 
@@ -8,29 +8,59 @@
 - **Sak-ID:** 200231
 - **Type:** 3
 - **Korttittel:** Endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-15T12:36:44Z
+- **Status:** 1
+- **Henvisning:** Prop. 53 L (2025-2026), Innst. 344 L (2025-2026), Lovvedtak 65 (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Familie, Omsorgstjenester, Helsevesen, Helsepersonell
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200231
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781525248779+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 40,
+      "id": 40,
+      "navn": "Familie",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 48,
+      "navn": "Omsorgstjenester",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 64,
+      "navn": "Helsepersonell",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 53 L (2025-2026), Innst. 344 L (2025-2026), Lovvedtak 65 (2025-2026)",
   "id": 200231,
   "innstilling_id": 17452,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781524938544+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -38,8 +68,6 @@
   "sak_fremmet_id": 200231,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781525248779+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abrahamsen",
       "foedselsdato": "/Date(543798000000+0100)/",
@@ -47,15 +75,11 @@
       "id": "STIA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781521221987+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781478018738+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -64,13 +88,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -99,3 +123,4 @@
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
 - **2026-06-15** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

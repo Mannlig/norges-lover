@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8b065a4a980e06dd0de71a10d260c8be609fa4d57d96d18467cdf97906621739 -->
+<!-- innholds-hash: 917bc513503061800cd7fe5fb78c4f0a847ebd5906cbfa0481812b3102af0acd -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Kari Sofie Bjørnsen, Helene Røsholt og Mathias Willassen Hanssen om å realisere Fensfeltet og mer mineralnæring i Norge
 
@@ -8,25 +8,41 @@
 - **Sak-ID:** 200119
 - **Type:** 2
 - **Korttittel:** Representantforslag om å realisere Fensfeltet og mer mineralnæring i Norge
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-11T13:21:35Z
+- **Status:** 1
+- **Henvisning:** Dokument 8:186 S (2025-2026), Innst. 376 S (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Næringsutvikling, Bergverk
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200119
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781183248239+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 114,
+      "navn": "Næringsutvikling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 115,
+      "navn": "Bergverk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
       "foedselsdato": "/Date(214178400000+0200)/",
@@ -34,15 +50,11 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -50,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røsholt",
       "foedselsdato": "/Date(566089200000+0100)/",
@@ -59,15 +69,11 @@
       "id": "HELERS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -75,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
       "foedselsdato": "/Date(-91155600000+0100)/",
@@ -84,15 +88,11 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -100,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hanssen",
       "foedselsdato": "/Date(875052000000+0200)/",
@@ -109,15 +107,11 @@
       "id": "MWH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -130,8 +124,6 @@
   "innstilling_id": 17483,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781182982417+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -139,8 +131,6 @@
   "sak_fremmet_id": 200119,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linge",
       "foedselsdato": "/Date(870040800000+0200)/",
@@ -148,15 +138,11 @@
       "id": "TOBLIN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -165,13 +151,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Kari Sofie Bjørnsen, Helene Røsholt og Mathias Willassen Hanssen om å realisere Fensfeltet og mer mineralnæring i Norge",
   "type": 2
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -187,3 +173,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

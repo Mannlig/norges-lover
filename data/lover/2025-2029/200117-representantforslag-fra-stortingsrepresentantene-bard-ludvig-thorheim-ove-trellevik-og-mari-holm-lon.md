@@ -1,4 +1,4 @@
-<!-- innholds-hash: d0f5bd61234e7bf53d005b3db4b6cb5fb8e3d82aec86be0c5ac8e7cd6b333cc1 -->
+<!-- innholds-hash: 7188443a62e4187c924cfcfe8cb2091ac596d4dfab7f70c2aa78978e6e569be8 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Ove Trellevik og Mari Holm Lønseth om å avvikle Prisrådet for havbruk
 
@@ -9,24 +9,33 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avvikle Prisrådet for havbruk
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-16T12:17:40Z
+- **Henvisning:** Dokument 8:185 S (2025-2026), Innst. 377 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Havbruk
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T02:12:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200117
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781611790324+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 92,
+      "navn": "Havbruk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781611790324+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
       "foedselsdato": "/Date(214178400000+0200)/",
@@ -34,15 +43,11 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -50,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781611790324+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
       "foedselsdato": "/Date(683416800000+0200)/",
@@ -59,15 +62,11 @@
       "id": "MHL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -75,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781611790324+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
       "foedselsdato": "/Date(-138247200000+0200)/",
@@ -84,15 +81,11 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -105,8 +98,6 @@
   "innstilling_id": 17458,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781611309056+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -114,8 +105,6 @@
   "sak_fremmet_id": 200117,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781611790324+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røed",
       "foedselsdato": "/Date(698799600000+0100)/",
@@ -123,15 +112,11 @@
       "id": "EVR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781607619284+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781564417825+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -146,7 +131,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -178,3 +163,4 @@
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
 - **2026-06-16** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
