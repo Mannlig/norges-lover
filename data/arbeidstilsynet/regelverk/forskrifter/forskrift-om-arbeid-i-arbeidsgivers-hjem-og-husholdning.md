@@ -1,4 +1,4 @@
-<!-- innholds-hash: 69e8091b00455df00214efd8006948d7b6359a55faf395befd6721e2ab4e8b4c -->
+<!-- innholds-hash: e3c563af2da117f958cf10876f0ee8322d41ea0fa84ef0a6efadd4271479b56b -->
 
 # Forskrift om arbeid i arbeidsgivers hjem og husholdning
 
@@ -6,34 +6,19 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T20:49:26Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:21:59Z
 
 ## Innhold
 
-
 ## Forskrift om arbeid i arbeidsgivers hjem og husholdning
 
-
-### Kapittel 1 – Innledende bestemmelse
-
-
-### Kapittel 2 – Ansettelse og lønn mv.
-
-
-### Kapittel 3 – Arbeidsgivers og arbeidstakers plikter
-
-
-### Kapittel 4 – Arbeidstid mv.
-
-
-### Kapittel 5 – Arbeidstakere under 18 år
-
-
-### Kapittel 6 – Oppsigelse og avskjed mv.
-
-
-### Kapittel 7 – Tvister, tilsyn mv.
-
+1. Kapittel 1 – Innledende bestemmelse
+2. Kapittel 2 – Ansettelse og lønn mv.
+3. Kapittel 3 – Arbeidsgivers og arbeidstakers plikter
+4. Kapittel 4 – Arbeidstid mv.
+5. Kapittel 5 – Arbeidstakere under 18 år
+6. Kapittel 6 – Oppsigelse og avskjed mv.
+7. Kapittel 7 – Tvister, tilsyn mv.
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning/) av norges-lover-bot.*
@@ -41,3 +26,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

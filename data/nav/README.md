@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 626
+**Antall dokumenter:** 629
 
 ## Innhold
 
@@ -175,6 +175,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Leveattest for deg som får pensjon og uføretrygd i utlandet - nav.no](leveattest.md)
 - [Løfteplattform - nav.no](lofteplattform.md)
 - [Lønnsgaranti - nav.no](lonnsgaranti.md)
+- [Lydoverføringsanlegg  - nav.no](lydoverforingsanlegg.md)
 - [Lydutjevningsanlegg  - nav.no](lydutjevningsanlegg.md)
 - [Lyttehjelpemidler for telefon  - nav.no](lyttehjelpemidler-for-telefon.md)
 - [Lyttehjelpemidler til TV og radio  - nav.no](lyttehjelpemidler-til-radio-og-tv.md)
@@ -669,6 +670,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Ettersend til søknad om svangerskapspenger - nav.no](start/ettersend-soknad-svangerskapspenger.md)
 - [Ettersend til søknad om sykepenger - nav.no](start/ettersend-soknad-sykepenger.md)
 - [Ettersend til søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/ettersend-soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)
+- [Generell fullmakt - nav.no](start/generell-fullmakt.md)
 - [Meldekort for tiltakspenger - nav.no](start/meldekort-tiltakspenger.md)
 - [Søknad om økonomisk sosialhjelp - nav.no](start/okonomisk-sosialhjelp.md)
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
@@ -685,6 +687,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)
 - [Søknad om overgangsstønad til enslig mor eller far - nav.no](start/soknad-overgangsstonad-enslig.md)
 - [Søknad om svangerskapspenger - nav.no](start/soknad-svangerskapspenger.md)
+- [Søknad om tiltakspenger - nav.no](start/soknad-tiltakspenger.md)
 - [Søknad om uføretrygd - nav.no](start/soknad-uforetrygd.md)
 - [Søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)
 - [Tilleggsopplysninger ved yrkessykdom - nav.no](start/tilleggsopplysninger.md)

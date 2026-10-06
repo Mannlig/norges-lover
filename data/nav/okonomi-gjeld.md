@@ -1,35 +1,27 @@
-<!-- innholds-hash: 7219c2291a7b0f041d04e5a59a55690b1a9ba56feaf6265ecd9a3daf013ca29e -->
+<!-- innholds-hash: 0914afe517fa0132917bf7907bb0c1cb075897f113480abe47d2c15eca8cddbf -->
 
 # Trenger rådgivning om økonomi og gjeld - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomi-gjeld
-- **Sist hentet:** 2026-07-20T10:44:32Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:17:13Z
 
 ## Innhold
 
 Dette kan du ha rett til
 
-
 ## Trenger rådgivning om økonomi og gjeld
 
 Nav kan gi deg råd hvis du har økonomiske problemer. Tjenesten er gratis, og du bør søke hjelp så tidlig som mulig.
 
+### Har du økonomiske bekymringer?
 
-### Innhold på denne siden
+Sliter du med å betale husleie, strøm, lån eller andre utgifter? Du er ikke alene. I denne videoen deler vi noen tips og råd til deg som har økonomiske bekymringer.
 
+Trenger du hjelp til det aller nødvendigste (f.eks. mat, bolig osv.) i en kortere periode, kan du søke om [økonomisk sosialhjelp](https://www.nav.no/okonomisk-sosialhjelp).
 
-### Innhold på denne siden
-
-Sliter du med å betale husleie, strøm, lån eller andre utgifter? Du er ikke alene. I denne videoen deler vi noen tips og råd til deg som har økonomiske bekymringer.
-
-Se video: Har du økonomiske bekymringer?
-
-Varighet er 2 min
-
-Trenger du hjelp til det aller nødvendigste (f.eks. mat, bolig osv.) i en kortere periode, kan du søke om
-
+### Spør Nav om råd
 
 #### Ring 55 55 33 39 for økonomi- og gjeldsveiledning
 
@@ -43,7 +35,7 @@ Navs økonomi- og gjeldsveiledningstelefon er et tilbud for deg som har økonomi
 
 På Nav-kontoret kan du få hjelp av en økonomi- og gjeldsrådgiver. Se hva du kan få hjelp med og hvordan du kan forberede deg til møtet med Nav.
 
-Ring 55 55 33 39 eller
+Ring 55 55 33 39 eller [kontakt ditt Nav-kontor](https://www.nav.no/sok-nav-kontor) for å avtale et møte.
 
 Rådgiveren kan for eksempel hjelpe deg med å
 
@@ -51,20 +43,21 @@ Rådgiveren kan for eksempel hjelpe deg med å
 - gjøre avtaler med dem du skylder penger til
 - finne opplysninger om dine rettigheter og plikter
 - kontakte namsmannen
-- søke om gjeldsordning
+- søke om gjeldsordning
 
 #### Ta med dokumentasjon
 
-Ta med dokumentasjon på inntekter, utgifter og gjeld. Det hjelper veilederen med å få oversikt slik at du kan få gode råd. Under finner du eksempler på aktuelle dokumenter du kan ta med.
+Ta med dokumentasjon på inntekter, utgifter og gjeld. Det hjelper veilederen med å få oversikt slik at du kan få gode råd. Under finner du eksempler på aktuelle dokumenter du kan ta med.
 
 Inntekter
 
 - saldo på alle bankkontoer
 - utbetalt lønn de siste 3 månedene
-- utbetalinger fra Nav de siste 3 månedene
+- utbetalinger fra Nav de siste 3 månedene
 - penger i spareordninger, fond eller aksjer
 - skattemelding de tre siste år
 - dokumentasjon på bostøtte fra Husbanken eller kommunen
+
 Utgifter
 
 - kopi av husleiekontrakt eller dokumentasjon på boutgifter
@@ -72,35 +65,37 @@ Utgifter
 - utgifter til lege, tannlege og annen medisinsk behandling
 - utgifter til barnehage, SFO eller annen barnepass
 - avtale om barnebidrag
+
 Gjeld
 
 - opplysninger om lån, kredittgjeld og ubetalte regninger
 - utskrift fra gjeldsregisteret
 - utskrift fra inkassoregisteret
 - andre brev og krav om innbetaling av gjeld
+
 Hvis det har gått lang tid uten at du har betalt det du skylder, kan namsmannen sende brev om at de vil kreve inn pengene. Dette kalles begjæring om utlegg eller krav om tvangsinndrivelse. Hvis du har fått et slikt brev, bør du ta det med til møtet. Hvis du har fått innkalling til forliksrådet, tar du med det brevet også.
 
-Les mer om
+Les mer om [tvangsfullbyrdelse, utlegg og forliksrådet på politiet.no](https://www.politiet.no/tjenester/namsmann-og-forliksrad/).
 
-Hvis du ikke klarer å skaffe alt du trenger til møtet på Nav-kontoret, går det fint.
+Hvis du ikke klarer å skaffe alt du trenger til møtet på Nav-kontoret, går det fint.
+
+### Problemer med å betale regningene dine?
 
 For å kunne håndtere gjelden din, bør du først finne ut hvor mye du skylder og til hvem.
 
-
 #### Skaff deg oversikten over gjelden din
 
-Det kan være vanskelig å få oversikt over hvor mye du skylder hvis brev og regninger har hopet seg opp. Det er lurt å starte med å åpne brev og regninger du har fått i posten, på e-post og i nettbanken.
+Det kan være vanskelig å få oversikt over hvor mye du skylder hvis brev og regninger har hopet seg opp. Det er lurt å starte med å åpne brev og regninger du har fått i posten, på e-post og i nettbanken.
 
-Sorter regningene, purringer og inkassokrav som hører sammen, slik at du finner den nyeste. Da vet du hvor stort pengekravet har blitt med alle tilleggskostnader for renter og gebyrer.
+Sorter regningene, purringer og inkassokrav som hører sammen, slik at du finner den nyeste. Da vet du hvor stort pengekravet har blitt med alle tilleggskostnader for renter og gebyrer.
 
 Sjekk deretter om du har betalt noen av regningene, slik at du bare sitter igjen med regninger som ikke er betalt ennå.
 
-Har du forbruksgjeld? Det finnes flere nettsider hvor du kan sjekke hvor mye forbruksgjeld du har.
+Har du forbruksgjeld? Det finnes flere nettsider hvor du kan sjekke hvor mye forbruksgjeld du har.
 
-Du kan sjekke hvor mye forbruksgjeld du har hos
+Du kan sjekke hvor mye forbruksgjeld du har hos [Gjeldsregisteret](https://www.gjeldsregisteret.com/pages/innsyn-i-egne-opplysninger-og-administrasjon-av-samtykke), [Norsk gjeldsinformasjon](https://www.norskgjeld.no/) eller [Experian](https://www.minexperian.no/). Vær oppmerksom på at det bare er kredittkort- og forbrukslån som vises i disse registrene.
 
-Hvis du har regninger som har gått til inkasso, kan du logge inn hos inkassoselskapet du skylder penger til for å få oversikt. Du kan også logge deg inn hos
-
+Hvis du har regninger som har gått til inkasso, kan du logge inn hos inkassoselskapet du skylder penger til for å få oversikt. Du kan også logge deg inn hos [Inkassoregisteret](https://www.inkassoregisteret.com/) for å få oversikt over alle dine inkassosaker.
 
 #### Ta kontakt med dem du skylder penger
 
@@ -108,10 +103,9 @@ Når du har fått oversikten, bør du kontakte kreditorer, banker og undersøke 
 
 Hvis du ser at du ikke klarer å betale i tide, må du kontakte kreditorene dine. Kreditorene er de du skylder penger til. Forklar at du ønsker å betale, men at du ikke har mulighet akkurat nå. Forklar situasjonen du er i og prøv å få til en avtale.
 
-Ta utgangspunkt i muligheten du har for å betale med de inntektene og utgiftene du har nå. Du kan bruke
+Ta utgangspunkt i muligheten du har for å betale med de inntektene og utgiftene du har nå. Du kan bruke [hjelpeskjemaet fordeling til kreditorene (filen lastes ned)](https://www.nav.no/no/person/sosialhjelp-og-radgiving/livssituasjoner/trenger-okonomi-og-gjeldsradgivning/Hjelpeskjema-fordeling-kreditorer.xlsx) til å foreslå en betalingsplan.
 
 Det er lurt å ha kontakten med kreditor skriftlig, slik at du har oversikt over hva som blir avtalt. Derfor bør du be om en skriftlig bekreftelse på det dere ble enige om, hvis du ringer eller møter kreditor.
-
 
 #### Forhandle renter og gebyrer ved å kontakte kreditor
 
@@ -121,22 +115,23 @@ I noen tilfeller vil kreditorene godta en lavere engangsinnbetaling, en såkalt 
 
 Hvis kreditoren godtar tilbudet ditt, vil resten av gjelden slettes når du har betalt engangssummen. Tenk på det som å prute på prisen, mot at du betaler alt med en gang.
 
-
 #### Uenig i kravet til kreditoren?
 
 Hvis du er helt eller delvis uenig i kravet, bør du sende en melding til kreditor.
 
 Husk at hvis du har barn under 18 år, regnes de som umyndige og kan ikke bestille varer uten at du har skrevet under bestillingen. Verken bedriften eller inkassobyrået har rett til å kreve at du betaler slike pengekrav.
 
-Kontakt kreditoren og send varer i retur. Hvis du er usikker på om inkassobyrået følger reglene, kan du kontakte
+Kontakt kreditoren og send varer i retur. Hvis du er usikker på om inkassobyrået følger reglene, kan du kontakte [Finansklagenemnda](https://www.finkn.no/) for råd og veiledning.
 
-Hvis du har økonomiske utfordringer og har lån, kan du spørre om banken kan hjelpe deg. Les mer om hvilke løsninger bankene kan tilby på
+Hvis du har økonomiske utfordringer og har lån, kan du spørre om banken kan hjelpe deg. Les mer om hvilke løsninger bankene kan tilby på [Finans Norge](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/).
 
 Du kan spørre banken om:
 
-- en
-- en betalingsplan eller å
-- mulighet for
+- [avdragsfrihet](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/avdragsfrihet-eller-utsettelse/) i en periode
+- en [midlertidig betalingsutsettelse](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/betalingsutsettelse-eller-rentefritak/)
+- en betalingsplan eller å [forlenge nedbetalingsperioden](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/forlenge-nedbetalingsperioden/)
+- mulighet for [refinansiering](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/refinansiering/)
+
 Refinansiering kan være aktuelt hvis du har flere smålån. Du kan be om refinansiering av lån med sikkerhet i bolig, hvis det er mulig. Da kan smålån inngå som en del av boliglånet ditt.
 
 Hvis du har regninger som er sendt til inkasso, kan du kontakte inkassobyrået for å sjekke mulighetene dine.
@@ -145,13 +140,15 @@ Spør for eksempel om du kan få en nedbetalingsplan eller betalingsutsettelse. 
 
 Skatteetaten tilbyr tjenesten Skattehjelpen. De kan gi veiledning hvis du ikke klarer å betale det du skylder til Skatteetaten. Skattehjelpen kan også veilede deg med å få riktig skattetrekk dersom du har fått lavere inntekt.
 
-Les mer om
+Les mer om [skattehjelpen på Skatteetaten.no.](https://www.skatteetaten.no/om-skatteetaten/om-oss/skattehjelpen/)
 
-Hvis du har lånt penger eller kjøpt en vare eller tjeneste, vil du først få en vanlig faktura. Hvis du ikke betaler innen fristen (forfallsdatoen), får du en påminnelse om manglende betaling (purring) eller et inkassovarsel.
+### Hva skjer når du ikke betaler regningene dine?
+
+Hvis du har lånt penger eller kjøpt en vare eller tjeneste, vil du først få en vanlig faktura. Hvis du ikke betaler innen fristen (forfallsdatoen), får du en påminnelse om manglende betaling (purring) eller et inkassovarsel.
 
 Hvis du er uenig i fakturaen, bør du ta kontakt med kreditoren så fort som mulig. Kreditoren er den du skylder penger til. Forklar hvorfor du er uenig.
 
-Du kan lese mer om klagerettighetene dine på
+Du kan lese mer om klagerettighetene dine på [Forbrukerrådet](https://www.forbrukerradet.no/forside/okonomi-og-betaling/inkasso-2/).
 
 Hvis du ikke betaler første faktura innen fristen, kan kreditor sende en ny faktura som kalles en purring. Da må du ofte betale forsinkelsesrenter og et purregebyr.
 
@@ -161,21 +158,19 @@ Et inkassovarsel må være skriftlig og skal ha en betalingsfrist på minst 14 d
 
 Er du uenig i inkassokravet, er det viktig å sende en innsigelse til den som har sendt deg inkassovarselet innen fristen.
 
-På Forbrukerrådets nettsider kan du lese mer om
+På Forbrukerrådets nettsider kan du lese mer om [inkasso og betalingsanmerkninger](https://www.forbrukerradet.no/forside/okonomi-og-betaling/inkasso-2/).
 
 Hvis et pengekrav sendes til inkasso, får du et brev der du blir bedt om å betale. Dette kalles en betalingsoppfordring. En betalingsoppfordring er en bekreftelse på at saken er sendt til inkasso. Betalingsoppfordringen kan tidligst sendes 14 dager etter at du fikk inkassovarselet.
 
 Du får en frist på minst 14 dager til å betale eller klage på pengekravet. Betalingsoppfordringen kan inneholde et ekstra gebyr inkassoselskapet krever og renter for forsinket betaling (inkassosalær og forsinkelsesrenter).
 
-Du kan lese mer om
-
+Du kan lese mer om [klagerettighetene dine hos Forbrukerrådet](https://www.forbrukerradet.no/forside/okonomi-og-betaling/inkasso-2/).
 
 #### Rettslig inndrivelse
 
 Hvis du ikke har betalt etter at du fikk betalingsoppfordring, kan inkassoselskapet starte en rettslig inndrivelse. Det betyr at de sender saken din til namsmannen. Namsmannen kan trekke deg i lønn eller ta pant i eiendelene dine. Dette kalles rettslig inndrivelse.
 
-Hvis du er uenig i pengekravet, kan du sende en skriftlig beskjed til inkassoselskapet om at du ønsker at
-
+Hvis du er uenig i pengekravet, kan du sende en skriftlig beskjed til inkassoselskapet om at du ønsker at [saken din skal behandles i forliksrådet (politiet.no)](https://www.politiet.no/tjenester/namsmann-og-forliksrad/forliksradet/). Hvis du får en innkalling fra forliksrådet, må du møte opp og begrunne hvorfor du er uenig i pengekravet. Hvis du ikke møter opp, kan inkassoselskapet fortsette den rettslige inndrivelsen.
 
 #### Betalingsanmerkning
 
@@ -189,24 +184,21 @@ Du får varsel fra kredittopplysningsbyrået før de registrerer en betalingsanm
 
 En betalingsanmerkning vil slettes når hele pengekravet er betalt, inkludert alle tilleggskostnader som renter og gebyrer, eller når det har gått 4 år.
 
-Du kan lese mer om
+Du kan lese mer om [inkasso og betalingsanmerkninger (finansportalen.no)](https://www.finansportalen.no/andre-valg/artikler/verdt-a-vite-om-inkasso-og-betalingsanmerkninger/).
 
 Du kan også se en video om hva som skjer hvis du ikke betaler regningene dine innen fristen, og hva du bør gjøre.
 
-Se video: Når du ikke kan betale innen frist
+### Hvordan forbedre økonomien
 
-Varighet er 2 min
-
-Et budsjett hjelper deg med å holde oversikt over økonomien din, og det blir enklere å se hvilke utgifter du kan kutte. Prioriter de nødvendige tingene.
+Et budsjett hjelper deg med å holde oversikt over økonomien din, og det blir enklere å se hvilke utgifter du kan kutte. Prioriter de nødvendige tingene.
 
 Et budsjett er en oversikt over dine inntekter og utgifter. Når du skal lage et budsjett, er det viktig at det blir så realistisk som mulig. Finn frem fakturaer, kvitteringer og kontoutskrifter for å se hva du faktisk bruker penger på.
 
-Last ned
+Last ned [et enkelt skjema for budsjett (Excel)](https://www.nav.no/_/attachment/download/308da958-4b01-49c9-b023-db3b7d93c119:6f0a8d270631ef527bcf622be075bd8defc65dcc/Enkelt%20budsjettskjema.xlsx)
 
 Det kan være vanskelig å vite hvor mye du bør sette av til de forskjellige utgiftene dine. SIFOs referansebudsjett viser vanlige forbruksutgifter for ulike typer husholdninger.
 
-Se
-
+Se [SIFOs referansebudsjett for forbruksutgifter (OsloMet)](https://www.oslomet.no/om/sifo/referansebudsjettet)
 
 #### Budsjett-app på mobil
 
@@ -218,22 +210,21 @@ Er det mer du kan gjøre for å få kontroll på økonomien din?
 - Unngå bruk av kredittkort.
 - Unngå å ta opp forbrukslån.
 - Har du ting som du egentlig ikke trenger og kan selge?
-- Har du mulighet for å leie ut deler av boligen din?
-- Har du mulighet for å jobbe ekstra?
-- Har du rett på bostøtte fra Husbanken? Hvis du har lav inntekt og høye boutgifter, kan bostøtte være aktuelt. På husbanken.no kan du
+- Har du mulighet for å leie ut deler av boligen din?
+- Har du mulighet for å jobbe ekstra?
+- Har du rett på bostøtte fra Husbanken? Hvis du har lav inntekt og høye boutgifter, kan bostøtte være aktuelt. På husbanken.no kan du [sjekke om du har rett på bostøtte, og beregne hvor mye du kan få](https://www.husbanken.no/person/bostotte/). Studenter som har fått avslag på utdanningsstøtte fra Lånekassen, kan søke om bostøtte. Les mer [om bostøtte til studenter på husbanken.no](https://www.husbanken.no/person/bostotte/student/).
+
 Du kan også se en video om hva et budsjett er og hva det kan brukes til.
 
-Se video: Hva er budsjett?
-
-Varighet er 2,5 min
+### Sletting av gjeld
 
 Som hovedregel må du betale tilbake det du skylder. Det kan likevel være noen situasjoner hvor du kan få redusert eller slettet gjeld. Sletting av gjeld kalles også ettergivelse av gjeld.
 
-Hvis du er mer enn 50 prosent ufør og har lav inntekt, kan du få slettet hele eller deler av studiegjelden din. Se mer informasjon om
+Hvis du er mer enn 50 prosent ufør og har lav inntekt, kan du få slettet hele eller deler av studiegjelden din. Se mer informasjon om [gjeld og betaling ved uførhet hos Lånekassen](https://lanekassen.no/nb-NO/gjeld-og-betaling/ufor/).
 
-Hvis du er i en situasjon som gjør at du har lav inntekt, kan du søke om sletting av renter i inntil 3 år tilbake i tid hos Lånekassen. Det kan for eksempel gjelde deg som er syk eller arbeidsledig. Se informasjon om
+Hvis du er i en situasjon som gjør at du har lav inntekt, kan du søke om sletting av renter i inntil 3 år tilbake i tid hos Lånekassen. Det kan for eksempel gjelde deg som er syk eller arbeidsledig. Se informasjon om [sletting av renter på studiegjeld hos Lånekassen](https://lanekassen.no/nb-NO/gjeld-og-betaling/arbeidsledig-aap-syk-og-lav-inntekt/).
 
-Hvis du skylder skatt som du over flere år ikke har klart å betale, kan du søke om å få slettet hele eller deler av skattegjelden din. Det kalles ettergivelse av skatt. Les om
+Hvis du skylder skatt som du over flere år ikke har klart å betale, kan du søke om å få slettet hele eller deler av skattegjelden din. Det kalles ettergivelse av skatt. Les om [ettergivelse av skatt på Skatteetaten.no](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/sletting-av-krav/). Skattehjelpen i Skatteetaten kan veilede deg som er i en vanskelig livssituasjon.
 
 Statens innkrevingssentral krever inn ubetalt gjeld på vegne av en kreditor som du skylder penger til. Hvis du er varig ute av stand til å betale gjeld til Statens innkrevingssentral, kan du søke om å få slettet gjelden.
 
@@ -243,30 +234,31 @@ Hvis du har lån som er gitt etter lov om sosiale tjenester (såkalt sosiallån)
 
 Hvis du mener at barnebidraget er fastsatt for høyt, kan du søke om å få fastsatt barnebidraget på nytt eller gjøre en privat avtale med bidragsmottakeren. Som forelder har du en plikt til å forsørge barna dine. Derfor er det kun i unntakstilfeller at det vil være mulig å redusere eller slette bidragsgjeld.
 
-Les mer om
+Les mer om [tilbakebetaling og sletting av bidragsgjeld](https://www.nav.no/barnebidrag#slette)
 
-Hvis du har spilt pengespill ved å belaste kredittkortet ditt direkte, kan du undersøke om du har plikt til å betale tilbake denne gjelden. Les mer om
+Hvis du har spilt pengespill ved å belaste kredittkortet ditt direkte, kan du undersøke om du har plikt til å betale tilbake denne gjelden. Les mer om [gjeld som skyldes problemer med spill eller gambling](https://www.nav.no/okonomi-gjeld#spille-eller-gamblingproblem).
 
 Står du i fare for å få problemer med å betale gjeld, skal bankene fraråde deg fra å ta opp nye lån. Dette gjelder alle typer lån som banken tilbyr. Hvis banken ikke har gjort det, kan du ta kontakt med banken og kreve at lånet blir redusert eller slettet.
 
-Be samtidig om en tilbakemelding på hvordan de vurderte din økonomiske situasjon da du fikk innvilget lånet. Hvis banken ikke er enig med deg, kan du
+Be samtidig om en tilbakemelding på hvordan de vurderte din økonomiske situasjon da du fikk innvilget lånet. Hvis banken ikke er enig med deg, kan du [klage til Finansklagenemnda](https://www.finkn.no/). De kan gjøre en ny vurdering av saken din og avgjøre om gjelden din skal reduseres eller slettes.
 
 Barn under 18 år kan ikke ta opp lån eller bestille varer og tjenester uten at en foresatt har skrevet under bestillingen. Kreditoren har ikke lov til å kreve inn en slik betaling fra barnet.
 
-Kontakt kreditoren og send bestilte varer i retur. Hvis du er usikker på om inkassobyrå følger reglene, kan du
+Kontakt kreditoren og send bestilte varer i retur. Hvis du er usikker på om inkassobyrå følger reglene, kan du [kontakte Finansklagenemnda for råd og veiledning](https://www.finkn.no/).
 
-Identitetstyveri kan være når noen har misbrukt din identitet til å kjøpe varer, åpne bankkonto, tegne abonnement eller å søke om lån eller kredittkort. Du bør ta kontakt med banken eller kreditoren med en gang for å bestride kravet. Du kan lese mer om identitetstyveri og hva du bør gjøre hos
+Identitetstyveri kan være når noen har misbrukt din identitet til å kjøpe varer, åpne bankkonto, tegne abonnement eller å søke om lån eller kredittkort. Du bør ta kontakt med banken eller kreditoren med en gang for å bestride kravet. Du kan lese mer om identitetstyveri og hva du bør gjøre hos [Politiet](https://www.politiet.no/rad/beskytt-deg-mot-svindel-og-id-tyveri/) og [Datatilsynet](https://www.datatilsynet.no/personvern-pa-ulike-omrader/internett-og-apper/id-tyveri/).
 
-Hvis du har store problemer med gjeld, kan en gjeldsordning gi deg mulighet til å få kontroll over økonomien igjen. Du kan søke namsmannen om gjeldsordning, det vil si lensmannen eller byfogden.
+### Hva er gjeldsordning?
 
-Med gjeldsordning kan du betale så mye som mulig av det du skylder til kreditorene i en tidsbegrenset periode. Som regel har gjeldsordning en varighet på 5 år, men i noen tilfeller blir det lettere å få gjeldsordning for en kortere periode.
+Hvis du har store problemer med gjeld, kan en gjeldsordning gi deg mulighet til å få kontroll over økonomien igjen. Du kan søke namsmannen om gjeldsordning, det vil si lensmannen eller byfogden.
 
-Når perioden med gjeldsordning er over, er du som hovedregel gjeldfri, med unntak av gjeld som er sikret med pant i bolig.
+Med gjeldsordning kan du betale så mye som mulig av det du skylder til kreditorene i en tidsbegrenset periode. Som regel har gjeldsordning en varighet på 5 år, men i noen tilfeller blir det lettere å få gjeldsordning for en kortere periode.
+
+Når perioden med gjeldsordning er over, er du som hovedregel gjeldfri, med unntak av gjeld som er sikret med pant i bolig.
 
 Gjeldsordning kan være aktuelt uansett hva som er årsaken til gjeldsproblemene. Det er ikke noen krav til størrelsen på gjelden eller hvor mye du tjener.
 
 Loven åpner opp for at man kan søke om gjeldsordning mer enn en gang.
-
 
 #### Følg budsjettet fra namsmannen
 
@@ -274,25 +266,69 @@ Namsmannen vil lage et budsjett du skal følge i tiden du har gjeldsordning. Bud
 
 I perioden du har offentlig gjeldsordning har du også automatisk en betalingsanmerkning. Det kan føre til at du vil få avslag på søknad om boliglån, kreditt, og tegning av forsikring eller abonnement.​
 
-Les også om
+Les også om [gjeldsordning på Politiets nettside](https://www.politiet.no/tjenester/namsmann-og-forliksrad/gjeldsordning/).
 
 I videoen får du informasjon om hva gjeldsordning er, hva som er krav og hvordan du søker.
 
-Se video: Hva er gjeldsordning?
+### Andre som kan hjelpe
 
-Varighet er 3 min
+[Gjeldsopplysninger](https://www.gjeldsregisteret.com/)
 
-Spilleavhengighet kan føre til økonomiske problemer for deg og familien din. Det er mulig å få hjelp til å slutte å spille og få orden på økonomien.
+Sjekk dine gjeldsopplysninger i gjeldsregisteret
+
+informasjon fra gjeldsregisteret
+
+[Norsk gjeldsinformasjon](https://www.norskgjeld.no/)
+
+Få en oversikt over hvor mye usikret gjeld du har hos ulike finansforetak
+
+informasjon fra Norsk gjeldsinformasjon
+
+[Inkassoregisteret](https://www.inkassoregisteret.com/)
+
+Gratis tjeneste for privatpersoner som gir en komplett oversikt over ens inkassosaker
+
+informasjon fra inkassoregisteret
+
+[Skattehjelpen](https://www.skatteetaten.no/om-skatteetaten/om-oss/skattehjelpen/)
+
+Veiledning til personer i vanskelig livssituasjon som ikke klarer å betale det de skylder til Skatteetaten.
+
+Informasjon fra Skatteetaten
+
+[Namsmannen og forliksråd](https://www.politiet.no/tjenester/namsmann-og-forliksrad/)
+
+Om namsmannen, tvangsinndriving av krav og forliksrådets rolle
+
+Informasjon fra politiet.no
+
+[Bankene gir råd om privatøkonomi](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/)
+
+Bankene kan hjelpe sine kunder med råd om privatøkonomi og gjeldssituasjon.
+
+informasjon fra Finans Norge
+
+[Gjeldsordning](https://www.politiet.no/tjenester/namsmann-og-forliksrad/gjeldsordning/)
+
+Om gjeldsordning som en mulighet til å få orden på økonomien
+
+Informasjon fra politiet.no
+
+### Har du et spille- eller gamblingproblem?
+
+Spilleavhengighet kan føre til økonomiske problemer for deg og familien din. Det er mulig å få hjelp til å slutte å spille og få orden på økonomien.
 
 Prøv å få oversikt over gjelden din og ta kontakt med dem du skylder penger.
 
+[Les mer om hvordan du kan skaffe oversikt over gjelden](https://www.nav.no/okonomi-gjeld#problemer-med-a-betale-regninger)
+
 Står du i fare for å få problemer med å betale gjeld, skal bankene fraråde deg fra å ta opp nye lån. Hvis banken ikke har gjort det, kan du kreve at lånet blir redusert eller slettet.
 
-Ta kontakt med banken din og be om en tilbakemelding på hvordan de vurderte din økonomiske situasjon da du fikk innvilget lånet. Hvis banken ikke er enig med deg, kan du
+Ta kontakt med banken din og be om en tilbakemelding på hvordan de vurderte din økonomiske situasjon da du fikk innvilget lånet. Hvis banken ikke er enig med deg, kan du [klage til Finansklagenemnda](https://www.finkn.no/). De kan gjøre en ny vurdering av saken din, og avgjøre om gjelden din skal reduseres eller slettes.
 
 Er du usikker på om du klarer å holde deg borte fra spilling, kan du legge inn en frivillig kredittsperre.
 
-En kredittsperre gjør at det ikke er mulig å gjøre en kredittvurdering av deg. Det kan igjen føre til at du ikke kan ta opp nye lån eller starte abonnementer. Hos Finansnorge kan du lese om
+En kredittsperre gjør at det ikke er mulig å gjøre en kredittvurdering av deg. Det kan igjen føre til at du ikke kan ta opp nye lån eller starte abonnementer. Hos Finansnorge kan du lese om [frivillig kredittsperre og hvordan du går frem (finansnorge.no)](https://www.finansnorge.no/tema/personlig-okonomi/okonomi--og-gjeldsradgivning/frivillig-kredittsperre/).
 
 Hvis du har brukt kredittkort til å betale spillselskaper, kan du undersøke om du har plikt til å betale tilbake denne gjelden. Hvis den som har gitt deg kreditt var kjent med at du tok opp lån gjennom kredittkort, og brukte dette direkte på pengespill, har du ikke plikt til å betale tilbake gjeld.
 
@@ -300,18 +336,49 @@ De fleste kredittkort er sperret mot betaling til spillselskaper. Derfor bruker 
 
 Skriv til banken som har gitt deg lånet. Be om en tilbakemelding på hvordan de vurderte situasjonen din da du fikk lånet. Skriv samtidig en begrunnelse på hvorfor du mener at banken burde vært klar over at pengene gikk til spill, og be om at lånet slettes.
 
-Hvis banken avslår kravet, kan du klage saken til Finansklagenemnda. Legg ved den skriftlige dialogen du har hatt med banken når du kontakter Finansklagenemnda, og be om en ny vurdering av saken. Det er gratis å klage til Finansklagenemnda, og du trenger ikke bruke advokat.
+Hvis banken avslår kravet, kan du klage saken til Finansklagenemnda. Legg ved den skriftlige dialogen du har hatt med banken når du kontakter Finansklagenemnda, og be om en ny vurdering av saken. Det er gratis å klage til Finansklagenemnda, og du trenger ikke bruke advokat. [Les om saksgangen på finansklagenemnda.no](https://www.finkn.no/Saksgangen2/Bank-og-finans).
 
-Oppdatert 09.02.2026
+### Organisasjoner som kan hjelpe med spille- og gamblingproblemer
 
+[Spilleavhengighet Norge](https://www.spillavhengighet.no/)
 
-#### Finn ditt Nav-kontor
+Få hjelp med spilleavhengigheten din
 
+Hjelp fra spilleavhengig
 
-#### Ring oss på 55 55 33 39
+[Blåkors](https://www.blakors.no/fagside/pengespillavhengighet/)
 
-Åpent nå
+Er spillingen din blitt et problem for deg og dine nærmeste?
 
+Hjelp fra Blåkors
+
+[Hjelpelinjen.no](https://hjelpelinjen.no/)
+
+Hjelper deg med problemer med pengespill eller dataspill
+
+Hjelp fra hjelpelinjen.no
+
+[Akan](https://akan.no/)
+
+Hjelper deg å håndtere problematisk bruk av alkohol, narkotika, legemidler og spill
+
+Hjelp fra Akan
+
+Oppdatert 26.08.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+[Finn ditt Nav-kontor](https://www.nav.no/sok-nav-kontor)
+
+Søk opp Nav-kontor med postnummer, sted eller by.
+
+Ring oss på 55 55 33 39
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/okonomi-gjeld) av norges-lover-bot.*
@@ -327,3 +394,4 @@ Oppdatert 09.02.2026
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

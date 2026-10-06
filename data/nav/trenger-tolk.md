@@ -1,111 +1,89 @@
-<!-- innholds-hash: 9bebd5e781ca0fc3bc1d0b58c1057af0c3e97af650c715bb1c45433398dcf8e8 -->
+<!-- innholds-hash: c308d909f3ff968c2e2297ba0cd827ce48fee98bc09a74c581351443372a5a01 -->
 
 # Trenger du tolk? - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trenger-tolk
-- **Sist hentet:** 2026-07-05T05:56:16Z
+- **Sist oppdatert i arkivet:** 2026-10-06T14:51:27Z
 
 ## Innhold
 
 Tjeneste
 
-
 ## Trenger du tolk?
 
 Du kan ha rett på språktolk eller tolk for døve, hørselshemmede og døvblinde når du skal i en samtale med Nav.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Du har rett til tolk i en samtale med Nav hvis du ikke forstår det som blir sagt og ikke kan formidle hva du trenger.
 
-Dette gjelder både tolk i ulike språk og
+Dette gjelder både tolk i ulike språk og [tolk for døve, hørselshemmede og døvblinde](https://www.nav.no/tolking-for-dove-dovblinde-horselshemmede).
+
+### Hva kan du få?
+
+#### Hvem kan tolke?
 
 Nav benytter profesjonelle tolker. Familie, bekjente og barn kan ikke være tolker.
+
+#### Hva er tilbudet?
 
 En tolk kan være
 
 - fysisk deltaker på et møte
 - telefontolk
 - skjermtolk
+
 Nav vurderer hva som er det beste alternativet.
+
+#### Video om tolker i Nav på ulike språk
 
 Her finner du informasjonsfilmen "Tolk i møte med Nav" på 10 ulike språk i tillegg til norsk.
 
-Se video: Norsk - Tolk i møte med Nav
-
-Varighet er 0,5 min
-
-Se video: Engelsk - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Russisk - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Arabisk - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Urdu - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Ukrainsk - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Polsk - Tolk i møte med Nav
-
-Varighet er 0,5 min
-
-Se video: Somali - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Kurdisk – Sorani - Tolk i møte med Nav
-
-Varighet er 1 min
-
-Se video: Tysk - Tolk i møte med Nav
-
-Varighet er 0,5 min
-
-Se video: Bosnisk - Tolk i møte med Nav
-
-Varighet er 0,5 min
+### Hvordan kan du få?
 
 Hvis du skal ha et møte med Nav, er det Nav som har ansvar for å vurdere om du trenger tolk og vil bestille tolken.
 
-Ta kontakt med Nav hvis du mener du har behov for tolk i en samtale. Det koster ikke noe å bruke tolk.
+Ta kontakt med Nav hvis du mener du har behov for tolk i en samtale. Det koster ikke noe å bruke tolk.
 
-Oppdatert 20.08.2025
+[Kontakt oss](https://www.nav.no/kontaktoss)
 
+### Hva sier loven?
 
-#### Chat med oss
+- [Tolkeloven (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/lov-om-offentlige-organers-ansvar-for-bruk-av-tolk-mv.tolkeloven)
+- [Forvaltningsloven om informasjonsplikt (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/forvaltningsloven-17.forvaltningsorganets-utrednings-og-informasjonsplikt)
+- [Forvaltningsloven om veiledningsplikt (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/forvaltningsloven-11-veiledningsplikt)
+- [Nav-loven om brukermedvirkning (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/nav-loven-6.brukermedvirkning)
+- [Nav-loven om samarbeid og individuell plan (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/nav-loven-15.samarbeid-med-brukeren-og-individuell-plan)
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Oppdatert 20.08.2025
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/trenger-tolk) av norges-lover-bot.*
@@ -117,3 +95,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

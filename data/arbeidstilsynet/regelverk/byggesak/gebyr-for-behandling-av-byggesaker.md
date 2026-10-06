@@ -1,4 +1,4 @@
-<!-- innholds-hash: fea623313241abde24f81fe71970ff2803d5b13bd15c5d342c8b1d283a9647d2 -->
+<!-- innholds-hash: 4f1e43f4a3d76c67089085a1dbdb5e51a9a53a5eff733af6f2465e5adf63db75 -->
 
 # Gebyr for behandling av byggesaker
 
@@ -6,96 +6,53 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/gebyr-for-behandling-av-byggesaker/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T20:26:37Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:02:29Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Gebyr for behandling av byggesaker
 
 Behandlinga av søknader om samtykke etter arbeidsmiljølova, blir belasta med eit gebyr. Gebyret blir fastsett etter storleik og type bygg. Her finn du gebyrsatsane.
 
-Gebyret er fastsett etter følgande retningslinjer:
-
-Publikumsbygg og yrkesbygg uten faste arbeidsplassar, for eksempel lager.
-
-Gebyr per sak:
-
-a) BRA 0–100 m²: kr 808,-
-
-b) BRA 101–500 m²: kr 1 618, -
-
-c) BRA 501–1000 m²: kr 2 426,-
-
-d) BRA 1001–10 000 m²: kr 3 236,-
-
-e) BRA over 10 000 m²: kr 4 480,-
-
-(BRA = Bruksareal etter NS 3940)
-
-Yrkesbygg med faste arbeidsplassar, men utan maskinelle prosessar og forureiningar (for eksempel butikkar og kontorlokale).
-
-Gebyr per sak:
-
-a) BRA 0–100 m²: kr 2 426,-
-
-b) BRA 101–500 m²: kr 4 854,-
-
-c) BRA 501–1000 m²: kr 7 280,-
-
-d) BRA 1001–10 000 m²: kr 9 707,-
-
-e) BRA over 10 000 m²: kr 13 440,-
-
-(BRA = Bruksareal etter NS 3940)
-
-Yrkesbygg med faste arbeidsplassar og med maskinelle prosessar og fare for forureiningar (for eksempel maskinverkstader og laboratorium).
-
-Gebyr per sak:
-
-a) BRA 0–100 m²: kr 4 854,-
-
-b) BRA 101–500 m²: kr 9 707,-
-
-c) BRA 501–1000 m²: kr 14 561,-
-
-d) BRA 1001–10 000 m²: kr 19 415,-
-
-e) BRA over 10 000 m²: kr 26 875,-
-
-(BRA = Bruksareal etter NS 3940)
-
-Ved større byggekompleks (for eksempel butikksenter og flyplassutbygging) blir gebyret vurdert i kvart enkelt tilfelle.
-
-I enkeltsaker som ikkje går inn under nokre av dei nemnde kategoriane (for eksempel ventilasjonssaker og bygningstekniske installasjonar), vil det maksimale gebyret vere kr 1 295,-.
+### Retningslinjer for korleis gebyret blir fastsett
 
 Gebyret for saksbehandling er det same anten du får samtykke eller avslag på søknaden. Dersom du søker på nytt, får du eit nytt gebyr.
 
 Maksimalsatsane for gebyr vart sist justert 1. juli 2024.
 
+Gebyret er fastsett etter følgande retningslinjer:
 
 ### Kven skal betale?
 
 Det er den som er søkar av tiltaket – tiltakshavar – som får tilsendt rekninga.
 
-
 ### Frist for betaling
 
-De må betale innan betalingsfristen. Gebyr som ikkje blir betalte innan fristen, blir tvangsinnkrevd av
-
+De må betale innan betalingsfristen. Gebyr som ikkje blir betalte innan fristen, blir tvangsinnkrevd av [innkrevjingsmyndigheita i Skatteetaten (skatteetaten.no)](https://www.skatteetaten.no/nn/om-skatteetaten/om-oss/myndighetsomrader-i-skatteetaten/om-innkrevjingsmyndigheita/). Da får de eit tilleggsgebyr.
 
 ### De kan klage på vedtaket om gebyr
 
 De har rett til å klage på vedtak om gebyr.
 
+[Slik går du fram for å klage på Arbeidstilsynet sine vedtak](https://www.arbeidstilsynet.no/om-oss/klage/)
 
 ### Regelverk
 
+[Plikt til å betale gebyr for byggesaksbehandling: arbeidsplassforskriften § 9-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften//#85540)
 
-### Fann du det du leitte etter?
+[Storleiken på gebyret i ulike byggkategoriar, forskrift om administrative ordninger § 14-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-administrative-ordninger//#86865)
 
-Denne sida er beskytta av reCaptcha, og Googles
+[Plan- og bygningloven §§ 21-4 og 21-5 (lovdata.no)](https://lovdata.no/lov/2008-06-27-71/%C2%A721-4)
 
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/byggesak/gebyr-for-behandling-av-byggesaker/) av norges-lover-bot.*
@@ -103,3 +60,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

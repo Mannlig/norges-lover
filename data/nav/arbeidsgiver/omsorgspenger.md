@@ -1,46 +1,44 @@
-<!-- innholds-hash: df9d483e54a73e30a4779b4da55bd99704227136393886bb00f85c8b8ec46690 -->
+<!-- innholds-hash: d17b5ddc526bc80547aab87c6b16ec67b9acdf285d06b9e80fa04e4204aa6bef -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/omsorgspenger
-- **Sist hentet:** 2026-07-12T20:38:07Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:21:43Z
 
 ## Innhold
 
-Pengestøtte til ansatt og Refusjon  —  For arbeidsgivere
-
+Pengestøtte til ansatt og Refusjon — For arbeidsgivere
 
 ## Omsorgspenger (hjemme med sykt barn-dager)
 
 Sikrer inntekt når en ansatt må være borte fra jobb på grunn av barns eller barnepassers sykdom.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om omsorgspenger til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om omsorgspenger til
+### Hvem er det aktuelt for?
 
 For å kunne benytte seg av omsorgsdager må den ansatte
 
 - ha omsorgen for barnet. Det betyr at barnet bor fast hos den ansatte, og at de har samme folkeregistrerte adresse.
-- Hvis den ansatte ikke bor sammen med den andre forelderen, men de har en avtale om delt bosted, bor barnet fast hos dem begge.
-- En ansatt kan også få omsorgsdager fra en forelder som er alene om omsorgen.
+  - Hvis den ansatte ikke bor sammen med den andre forelderen, men de har en avtale om delt bosted, bor barnet fast hos dem begge.
+  - En ansatt kan også få omsorgsdager fra en forelder som er alene om omsorgen.
 - ha vært i jobb i minst fire uker
-- Hvis den ansatte ikke har vært i jobb i minst fire uker, men har hatt sykepenger, dagpenger, foreldrepenger, svangerskapspenger, omsorgspenger, pleiepenger eller opplæringspenger, er det likestilt med jobb.
-Ansatte har i alle tilfeller rett til permisjon etter Arbeidsmiljøloven §12-9, når de pleier et sykt barn, uavhengig av om de fyller vilkårene for omsorgspenger. Du finner informasjon om retten til permisjon på
+  - Hvis den ansatte ikke har vært i jobb i minst fire uker, men har hatt sykepenger, dagpenger, foreldrepenger, svangerskapspenger, omsorgspenger, pleiepenger eller opplæringspenger, er det likestilt med jobb.
+- [være medlem av folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
+
+Ansatte har i alle tilfeller rett til permisjon etter Arbeidsmiljøloven §12-9, når de pleier et sykt barn, uavhengig av om de fyller vilkårene for omsorgspenger. Du finner informasjon om retten til permisjon på [Arbeidstilsynet sine nettsider](https://www.arbeidstilsynet.no/arbeidsforhold/permisjoner/rett-til-permisjon-ved-barns-og-barnepassers-sykdom/).
+
+### Hva kan den ansatte få?
+
+#### Hvor mange omsorgsdager har den ansatte?
 
 Ansatte som har egne barn boende hos seg, har automatisk rett til et bestemt antall omsorgsdager som du kan bruke per kalenderår.
 
 Som hovedregel har man rett til:
 
 - 10 dager for 1-2 barn
-- 15 dager for 3 eller flere barn
+- 15 dager for 3 eller flere barn
+
 Omsorgsdagene gjelder for hele kalenderåret, og er felles for alle arbeidsforhold.
 
 Man får som hovedregel kun omsorgspenger for egne barn i egen bolig og for fosterbarn. Andres barn, eller egne barn som ikke bor med den ansatte, gir ikke automatisk rett til omsorgsdager.
@@ -55,10 +53,15 @@ Ansatt har tre barn på 8, 11 og 14 år, det vil si to barn som gir rett til 10 
 
 Hvis den ansatte har fått ekstra omsorgsdager for barnet på 14 år, er det tre barn som gir rett til 15 omsorgsdager. De 10 ekstra dagene på grunn av langvarig/kronisk sykdom eller funksjonshemning kommer i tillegg.
 
-
 #### Kalkulator for omsorgsdager
 
 Med kalkulatoren for omsorgsdager kan du få hjelp til å regne ut hvor mange omsorgsdager du selv eller den ansatte kan ha rett på.
+
+For å regne ut den ansattes omsorgsdager må du vite hvor mange barn den ansatte har, og samlivssituasjonen. Du kan eventuelt henvise den ansatte til selv å bruke kalkulatoren.
+
+[Finn ut hvor mange omsorgsdager du kan ha rett til](https://www.nav.no/omsorgspenger/kalkulator-antall-omsorgsdager)
+
+Kalkulator
 
 Den ansatte kan søke om ekstra omsorgsdager i disse tilfellene:
 
@@ -70,25 +73,29 @@ Hvis den ansatte får nytt barn med ny samboer/ektefelle, beholder man retten ti
 
 Ansatte som har ekstra omsorgsdager fordi de er alene om omsorgen kan dele omsorgsdager med den andre forelderen og/eller ny samboer/ektefelle. Man skal ikke sende melding til Nav når man deler omsorgsdager, dette avtaler de selv og informerer arbeidsgiver om antall dager som er delt. Nav vil legge til grunn at arbeidsgiver har oversikt over riktig antall dager for sine ansatte.
 
-Når en ansatt har et barn som er
+Når en ansatt har et barn som er
 
 - langvarig sykt
 - kronisk sykt
 - funksjonshemmet
-kan dette gjøre at han eller hun har høyere risiko for å måtte være borte fra jobb. Den ansatte kan da søke om å få 10 ekstra omsorgsdager for hvert kalenderår, eller 20 ekstra omsorgsdager hvis en er alene om omsorgen.
+
+kan dette gjøre at han eller hun har høyere risiko for å måtte være borte fra jobb. Den ansatte kan da søke om å få 10 ekstra omsorgsdager for hvert kalenderår, eller 20 ekstra omsorgsdager hvis en er alene om omsorgen. Har man flere barn i denne situasjonen, kan man få 10 ekstra dager for hvert barn.
 
 Når man har fått ekstra dager i denne situasjonen beholder den ansatte både de ordinære og de ekstra omsorgsdagene ut kalenderåret som står i vedtaksbrevet til den ansatte. Omsorgsdager kan maks gis ut kalenderåret barnet fyller 18 år.
 
-En ansatt kan søke om ekstra omsorgsdager hvis den andre forelderen ikke kan ha tilsyn med barn
+En ansatt kan søke om ekstra omsorgsdager hvis den andre forelderen ikke kan ha tilsyn med barn i en periode på minst 6 måneder. Dette er i tilfeller hvor man bor sammen med den andre forelderen, og den andre forelderen for eksempel
 
 - er fysisk eller psykisk syk
 - er innlagt i helseinstitusjon
 - har en funksjonshemning
 - er i fengsel
 - utøver verneplikt
+
 Den ansatte kan da regnes som alene om omsorgen, og få dobbelt antall omsorgsdager.
 
-Her finner du informasjon om hvordan du som arbeidsgiver søker om
+Her finner du informasjon om hvordan du som arbeidsgiver søker om [refusjon av utbetalte omsorgsdager.](https://www.nav.no/arbeidsgiver/omsorgspenger#refusjon)
+
+#### Deling av omsorgsdager
 
 Foreldre som har ekstra omsorgsdager fordi de er alene om omsorgen kan dele omsorgsdager med den andre forelderen og/eller ny samboer/ektefelle.
 
@@ -96,7 +103,9 @@ Hvis din ansatte har egne barn som de har samvær med, kan de derfor få omsorgs
 
 De skal ikke sende melding til Nav når de deler omsorgsdager, dette avtaler de selv og informerer arbeidsgiver om antall dager som er delt. Nav vil legge til grunn at arbeidsgiver har oversikt over riktig antall dager for sine ansatte.
 
-Arbeidsgiver står for lønnen de første 10 omsorgsdagene også når den ansatte har fått dager etter disse reglene. Dere kan også søke refusjon fra Nav på samme vilkår som ansatte med hjemmeboende barn.
+Arbeidsgiver står for lønnen de første 10 omsorgsdagene også når den ansatte har fått dager etter disse reglene. Dere kan også søke refusjon fra Nav på samme vilkår som ansatte med hjemmeboende barn.
+
+#### Arbeidssituasjon
 
 Foreldre har rett til like mange omsorgsdager uavhengig av om man har fulltidsstilling, deltidsstilling eller er tilkallingsvikar. Antall omsorgsdager er felles for alle arbeidsforhold innenfor ett kalenderår.
 
@@ -104,7 +113,11 @@ Hvis den ansatte har flere arbeidsforhold, må den ansatte selv ha kontroll på 
 
 Hvis den ansatte bytter jobb midt i kalenderåret, kan ny arbeidsgiver kreve en bekreftelse fra forrige arbeidsgiver på hvor mange omsorgsdager som er brukt. Dette vil påvirke hvor mange omsorgsdager den ansatte kan bruke ut året, og dermed hvor mye man kan få i refusjon.
 
-Vanligvis har man rett til omsorgspenger ut kalenderåret barnet fyller 12 år.
+#### Hvor lenge kan man få?
+
+Vanligvis har man rett til omsorgspenger ut kalenderåret barnet fyller 12 år. Hvis man har fått ekstra omsorgsdager fordi barnet er kronisk/langvarig sykt eller har en funksjonshemning, kan den ansatte også få ekstra omsorgsdager etter at barnet fyller 12 år. I vedtaksbrevet til den ansatte vil det stå hvor lenge man har fått innvilget ekstra omsorgsdager. Omsorgsdager kan maks gis ut kalenderåret barnet fyller 18 år.
+
+#### Når kan den ansatte bruke omsorgsdager?
 
 Disse situasjonene gir rett til å bruke omsorgsdager:
 
@@ -124,54 +137,67 @@ Du kan bruke omsorgsdag hvis den som vanligvis har den daglige omsorgen må føl
 
 Dette kan for eksempel være at en forelder har omsorgen for et barn i foreldrepermisjon, men må følge et annet barn til utredning. Da kan du bruke omsorgsdag for å passe det barnet som vanligvis er hjemme.
 
-Se video: Når kan man bruke omsorgsdager?
-
-Varighet er 2 min
+Den ansatte kan ikke bruke omsorgsdager i disse tilfellene:
 
 - møter med skolen, som ikke skyldes sykdom
 - planlagt fravær, for eksempel ved skoleferie og planleggingsdager
 - rutinekontroller på helsestasjonen
 - rutinekontroll hos tannlege, som ikke skyldes sykdom
 - når barnehage/skole er stengt på grunn av streik
+
 Kan arbeidstakere som er permittert bruke omsorgsdager?
 
 Ansatte som er 100 prosent permitterte har ikke rett til å bruke omsorgsdager. Omsorgsdager kan benyttes til og med siste arbeidsdag før permitteringen. Ansatte som er delvis permitterte kan ha rett til å bruke omsorgsdager for de dagene han eller hun skulle ha vært på jobb.
 
-Vi benytter opplysninger fra Aa-registret i saksbehandlingen. Det er derfor viktig at opplysninger er rapportert korrekt. Du kan lese mer om
-
+Vi benytter opplysninger fra Aa-registret i saksbehandlingen. Det er derfor viktig at opplysninger er rapportert korrekt. Du kan lese mer om [hvordan permisjoner og permitteringer skal rapporteres til a-meldingen](https://www.nav.no/arbeidsgiver/aa-registeret).
 
 #### Kan arbeidstakeren være borte deler av en arbeidsdag?
 
-Arbeidsgiver kan gi rett til omsorgspenger for kortere perioder enn hele dager. Arbeidsgiver har plikt til å drøfte med de tillitsvalgte om det skal gis slik rett til å ta ut omsorgspenger for del av dag.
+Arbeidsgiver kan gi rett til omsorgspenger for kortere perioder enn hele dager. Arbeidsgiver har plikt til å drøfte med de tillitsvalgte om det skal gis slik rett til å ta ut omsorgspenger for del av dag. Nav godtar refusjonskrav for delvis forbrukte dager. Vi beregner 7,5 timer som en hel arbeidsdag og utbetalingen avrundes til nærmeste halve time. Det betyr at arbeidsgiver selv må beregne hvor mange timer det skal kreves refusjon for.
+
+#### Hvor mye kan man få?
 
 Omsorgspenger beregnes på samme måte som sykepenger og utgjør 100 prosent av sykepengegrunnlaget.
 
-Når Nav refunderer omsorgspenger utbetaler vi 100 prosent av grunnlaget som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
+Når Nav refunderer omsorgspenger utbetaler vi 100 prosent av grunnlaget som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år. Eksempel på beregning:
 
 Slik beregnes dagsatsen til en arbeidstaker med gjennomsnittlig månedsinntekt på brutto 17 000 kroner de tre siste månedene:
 
 - Dette tilsvarer en årsinntekt på 204 000 kroner
 - Beregnet årsinntekt deles på 260
 - Nav vil utbetale med en dagsats på 785 kroner
+
 Dette kan medføre at du får mindre refundert fra Nav enn du har utbetalt i lønn for dagene arbeidstakeren har hatt fravær, for eksempel hvis arbeidstakeren jobber deltid. Det samme gjelder hvis du har utbetalt full lønn til arbeidstakeren, og full lønn overstiger 6G.
+
+#### Andre tilbud
 
 Mer informasjon når
 
+- [Ansatt har sykdom i familien](https://www.nav.no/arbeidsgiver/sykdom-i-familien) Hva arbeidsgivere må vite
+
+### Arbeidsgivers rolle
+
+#### Arbeidsgivers plikt til å betale omsorgsdager
+
 Når arbeidstakeren har jobbet hos deg i 4 uker eller mer, plikter du å utbetale lønn for alle omsorgsdagene som arbeidstakeren har rett til å bruke. Som hovedregel har en arbeidstaker rett til å bruke 10 omsorgsdager per år ut kalenderåret barnet fyller 12 år, og det er disse 10 dagene du må dekke. En arbeidstaker kan ha rett til å bruke flere enn 10 omsorgsdager per år, og du er pliktig til å utbetale for alle dagene, men kan få refusjon fra den 11. dagen.
 
-Du får refusjon fra første dag hvis den ansatte kun har barn som fyller 13 år i år eller er eldre, og minst ett av barna har fått ekstra omsorgsdager på grunn av langvarig sykdom eller funksjonshemning. Du er likevel pliktig til å utbetale lønn fra første dag.
+Du får refusjon fra første dag hvis den ansatte kun har barn som fyller 13 år i år eller er eldre, og minst ett av barna har fått ekstra omsorgsdager på grunn av langvarig sykdom eller funksjonshemning. Du er likevel pliktig til å utbetale lønn fra første dag.
 
 Hvis det er et opphold i arbeidsforholdet på 14 dager eller mer anses arbeidsforholdet som opphørt, og den ansatte må på nytt jobbe i 4 uker for at du skal være pliktig til å utbetale lønn for omsorgsdager.
 
 Når du ikke er pliktig til å utbetale lønn for omsorgsdager, kan det være at den ansatte har rett på omsorgspenger utbetalt fra Nav. I dette tilfellet er det opp til deg som arbeidsgiver om du vil forskuttere lønn til den ansatte for så å kreve refusjon fra Nav. Hvis du forskutterer lønn må du sende refusjonskrav for omsorgspenger via Min side - arbeidsgiver. Hvis dere ikke har utbetalt lønn under fraværet, kan den ansatte selv søke om utbetaling av omsorgspenger. Etter at den ansatte har sendt søknaden sin, vil du få varsel om å sende inntektsmelding på Min side – arbeidsgiver.
 
+#### Når den ansatte ikke har rett til omsorgspenger
+
 Et sykt barn vil ha det samme behovet for å være hjemme med en omsorgsperson, selv om man ikke har rett til omsorgspenger eller omsorgsdagene ikke strekker til.
 
 Da er det greit å vite at arbeidstakere har rett til permisjon etter Arbeidsmiljøloven §12-9 når de pleier et sykt barn, uavhengig av om de fyller vilkårene for omsorgspenger. Det betyr at de har rett til permisjon fra jobben, men den kan være ulønnet hvis man ikke har opptjent rett til omsorgspenger.
 
-Du finner informasjon om retten til permisjon på grunn av sykt barn på
+Du finner informasjon om retten til permisjon på grunn av sykt barn på [Arbeidstilsynet sine nettsider](https://www.arbeidstilsynet.no/arbeidsforhold/permisjoner/rett-til-permisjon-ved-barns-og-barnepassers-sykdom/). Merk også at arbeidstakere som har fått ekstra omsorgsdager på grunn av langvarig eller kronisk sykdom eller funksjonshemning, beholder retten til permisjon for å ta vare på barnet etter at det har fylt 18 år. Dette fremgår av Arbeidsmiljøloven §12-10, du finner informasjon om dette hos [Arbeidstilsynet.](https://www.arbeidstilsynet.no/lonn-og-ansettelse/permisjoner/pleie-av-naere-parorende-i-sluttfasen-av-livet/) Den ansatte har likevel ikke rett til å få omsorgspenger for slik permisjon.
 
 Når den ansatte ikke har rett til omsorgspenger kan dere som arbeidsgiver vurdere å innvilge lønnet velferdspermisjon selv om den ikke er lovfestet, eller avtale at den ansatte tar ut feriedager/avspaserer.
+
+#### Legeerklæring
 
 Arbeidstakere som bruker omsorgsdag, skal bruke egenmelding overfor arbeidsgiver de første tre dagene.
 
@@ -179,60 +205,82 @@ Fra den fjerde dagen kan arbeidsgiver kreve legeerklæring for å dokumentere at
 
 Med "fjerde dag" mener vi den fjerde dagen man er borte fra jobben, selv om den fjerde dagen ikke nødvendigvis er en arbeidsdag. For eksempel, hvis den ansatte bruker omsorgsdag på en fredag, har fri hele helgen, og må være hjemme med et sykt barn på en mandag, blir mandag regnet som den fjerde dagen. Da kan det være nødvendig med en legeerklæring. De fire dagene gjelder bare hvis du er borte fra jobben sammenhengende, uten å være tilbake på jobb mellom dagene.
 
-Du søker om refusjon for utbetalt lønn ved å sende digitalt refusjonskrav til Nav via Min side - arbeidsgiver.
+#### Refusjon fra Nav
+
+Du søker om refusjon for utbetalt lønn ved å sende digitalt refusjonskrav til Nav via Min side - arbeidsgiver. Hvis du skal søke om refusjon for omsorgsdager samlet for i fjor og i år, må du sende to refusjonskrav. Det betyr at du må sende et refusjonskrav som gjelder for 2025 og et som gjelder for 2026.
 
 Les mer om hvordan du søker om refusjon i ulike situasjoner:
+
+Eksempel 1:
 
 Du skal sende refusjonskrav for en arbeidstaker som til vanlig jobber 7,5 timer per dag, og som har vært borte en halv dag.
 
 - Da utgjør fraværet 3,75 timer. Dette må avrundes til nærmeste halve time, slik at det oppgis 4 timer i refusjonskravet. Ved flere halve dager kan det oppgis som 3,5 og 4 timer annenhver dag.
-Når du skal sende refusjonskrav for deler av en dag, og arbeidstakeren ikke jobber ordinære arbeidstid på 7,5 time, må fraværet omregnes.
+
+Når du skal sende refusjonskrav for deler av en dag, og arbeidstakeren ikke jobber ordinære arbeidstid på 7,5 time, må fraværet omregnes. Eksempel 2:
 
 Du skal sende refusjonskrav for en arbeidstaker som til vanlig jobber 9 timer per dag, og er borte 4 av disse. Da deler du antall timer fravær på antall timer arbeidstakeren skulle jobbet. Tallet du får ganger du med 7,5:
 
 - 4 delt på 9 er 0,44. 0,44 ganger 7,5 er 3,33. Da skal dette fraværet meldes som 3,5 timer i refusjonskravet.
-- 3 delt på 5 er 0,60 ganger 7,5 er 4,5. Da skal dette fraværet meldes som 4,5 i refusjonskravet.
+
+Eksempel 3: Du skal sende refusjonskrav for en arbeidstaker som vanligvis jobber 5 timer per dag, og er borte 3 timer av disse. Da deler du antall timer fravær på antall timer arbeidstakeren skulle jobbet. Tallet du får ganger du med 7,5.
+
+- 3 delt på 5 er 0,60 ganger 7,5 er 4,5. Da skal dette fraværet meldes som 4,5 i refusjonskravet.
+
 Som arbeidsgiver plikter du å utbetale lønn til arbeidstakeren for de dagene han eller hun skulle vært på jobb. Dette inkluderer lørdag og søndag. I refusjonskravet kan du oppgi lørdag og søndag som enkeltstående dager eller som en del av en sammenhengende periode.
 
 Eksempler:
 
 Du har lagt inn en sammenhengende periode som er seks dager eller kortere og som inneholder lørdag eller søndag
 
-- Da utbetaler vi for alle dagene i perioden du oppgir.
+- Da utbetaler vi for alle dagene i perioden du oppgir.
+
 Arbeidstakeren er borte fra jobb fredag og påfølgende mandag på grunn av sykt barn og har ikke avtalt jobb i helgen.
 
 - Da har arbeidstakeren vært borte fra jobb to dager.
 - I refusjonskravet må du som arbeidsgiver oppgi fredag og mandag som enkeltstående dager for ikke å få utbetalt fire dager.
+
 Du har sendt inn refusjonskrav med en periode som er seks dager eller kortere og perioden inneholder lørdag og søndag som du ikke skal ha refusjon for.
 
-- Da må du sende et nytt refusjonskrav for å korrigere det forrige kravet. Les mer om dette nedenfor, under «Skal du endre et refusjonskrav?».
+- Da må du sende et nytt refusjonskrav for å korrigere det forrige kravet. Les mer om dette nedenfor, under «Skal du endre et refusjonskrav?».
+
 Arbeidstakeren har vært borte fra jobb mer enn seks dager sammenhengende.
 
 - Da refunderer vi ut fra en femdagersuke selv om perioden som er oppgitt i refusjonskravet er lengre enn dette. Dette kompenseres for ved en høyere dagsats ved at månedsinntekten fordeles på fem dager per uke i stedet for syv. Dagsatsen regnes ut fra 260 dager selv om arbeidstakeren jobber flere dager enn dette i løpet av et år.
+
 Vanligvis skal du bruke gjennomsnittet av de tre siste månedenes inntekt og omregne det til årslønn og dagsats. For timelønnede skift- og turnusarbeidere og tilkallingsvikarer beregnes det annerledes.
 
-- Du fordeler inntekten på det faktiske antallet arbeidsdager som arbeidstakeren har hatt i beregningsperioden. Da får du dagsatsen. Nedenfor ser du to eksempler.
-- Når du oppgir månedsinntekten i refusjonskravet, oppgir du et gjennomsnitt av inntekten arbeidstakeren har hatt i beregningsperioden.
+Slik gjør du det:
+
+1. Du fordeler inntekten på det faktiske antallet arbeidsdager som arbeidstakeren har hatt i beregningsperioden. Da får du dagsatsen. Nedenfor ser du to eksempler.
+2. Når du oppgir månedsinntekten i refusjonskravet, oppgir du et gjennomsnitt av inntekten arbeidstakeren har hatt i beregningsperioden.
+
+Eksempel 1: En arbeidstaker på timelønn
+
 - jobbet varierende antall dager i månedene før sykefraværet
 - ble syk 9. mai
 - hadde jobbet 9 dager i april, 13 dager i mars og 12 dager i februar. Det vil si 9 + 13 + 12 = 34 dager
-- tjente til sammen 40 000 kr i beregningsperioden
-- tjente 1 176 kr
-I refusjonskravet oppgir du
+- tjente til sammen 40 000 kr i beregningsperioden
+- tjente 1 176 kr per dag i arbeid (40 000 kr / 34 dager) = dagsatsen
 
-- jobber 14 dager og har 14 dager fri
+I refusjonskravet oppgir du månedsinntekten: 40 000 kroner / 3 måneder = 13 333 kroner.
+
+Eksempel 2: En arbeidstaker i turnus
+
+- jobber 14 dager og har 14 dager fri
 - har arbeidsdager på 12 timer
 - har timelønn på 220 kr
 - jobbet 14 dager x 3 måneder = 42 dager
-- tjente til sammen i perioden 110 880 kr (42 dager x 12 timer x 220 kr)
-- tjente 2 640 kr
-I refusjonskravet oppgir du
+- tjente til sammen i perioden 110 880 kr (42 dager x 12 timer x 220 kr)
+- tjente 2 640 kr per dag i arbeid (110 880 kr / 42 dager) = dagsatsen
 
+I refusjonskravet oppgir du månedsinntekten: 110 880 kroner / 3 måneder = 36 960 kroner.
 
 #### Når kan jeg tidligst søke refusjon?
 
-Du søker refusjon for utbetalt lønn etterskuddsvis. Du kan ikke søke om refusjon frem i tid.
+Du søker refusjon for utbetalt lønn etterskuddsvis. Du kan ikke søke om refusjon frem i tid. Frist for å kreve refusjon er tre måneder tilbake i tid.
 
+[Logg inn og send digitalt](https://arbeidsgiver.nav.no/k9-im-dialog/refusjon-omsorgspenger-redirect)
 
 #### Klage på avslag om refusjon av omsorgspenger
 
@@ -240,11 +288,15 @@ Har du fått avslag på refusjon som du mener er feil? Da kan du sende inn en kl
 
 Du legger inn fødselsnummer eller D-nummeret til den arbeidstakeren som vedtaket gjelder for.
 
-I skjemaet  skal du legge inn opplysninger om arbeidstakerens navn og fødselsnummer. Du trenger ikke å oppgi saksnummer.
+I skjemaet skal du legge inn opplysninger om arbeidstakerens navn og fødselsnummer. Du trenger ikke å oppgi saksnummer.
+
+[Send klage](https://klage.nav.no/nb/klage/omsorgspenger_hjemme_med_sykt_barn_dager/begrunnelse)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/OMSORGSPENGER_HJEMME_MED_SYKT_BARN_DAGER)
+
+#### Refusjonskrav og inntektsmelding
 
 På omsorgspenger er det refusjonskrav for omsorgspenger som er arbeidsgiver sitt krav om refusjon fra Nav, og det er som hovedregel ikke nødvendig med en søknad fra den ansatte.
 
-Hvis du ikke har utbetalt omsorgspenger, og den ansatte søker om utbetaling direkte fra Nav, vil du få et varsel om å sende inntektsmelding på Min side - arbeidsgiver. Dette er en ny løsning for inntektsmelding som ble lansert 28.august 2025, og vil gjelde for søknader om omsorgspenger som sendes til Nav fra denne dagen.
+Hvis du ikke har utbetalt omsorgspenger, og den ansatte søker om utbetaling direkte fra Nav, vil du få et varsel om å sende inntektsmelding på Min side - arbeidsgiver. Dette er en ny løsning for inntektsmelding som ble lansert 28.august 2025, og vil gjelde for søknader om omsorgspenger som sendes til Nav fra denne dagen.
 
 Årsaken til at du ikke har utbetalt omsorgspengene styrer om du må sende inn mer dokumentasjon enn inntektsmeldingen. For eksempel hvis årsaken er uenighet om fraværet, så må du i tillegg til inntektsmeldingen sende en forklaring som beskriver hvorfor du ikke skal utbetale hele eller deler av perioden.
 
@@ -252,9 +304,13 @@ Når du har sendt inn et refusjonskrav som inneholder feil opplysninger, må du 
 
 Når vi får inn et nytt refusjonskrav, revurderer vi saken. Hvis arbeidsgiveren har fått for mye utbetalt, trekkes dette i neste utbetaling.
 
+Må alle opplysningene legges inn manuelt på nytt ved innsending av nytt refusjonskrav?
+
 Du må legge inn opplysningene på nytt, men det er mulig å både søke om nye dager og trekke dager på samme skjema hvis du har brukt refusjonskravet via Min side - arbeidsgiver. I refusjonskravet kan du se periodene du har sendt inn tidligere.
 
-1.
+Eksempler på situasjoner du vil endre, og hva du gjør:
+
+1. Du har sendt inn et refusjonskrav som inneholder dager du ikke skal ha refusjon for:
 
 Du må sende inn et nytt refusjonskrav
 
@@ -274,16 +330,19 @@ Det nye refusjonskravet vil korrigere tidligere innsendt refusjonskrav for samme
 
 Send nytt refusjonskrav for den personen du i utgangspunktet skulle ha sendt for
 
+Fra 21. mai 2026 må alle inntektsmeldinger og refusjonskrav for omsorgspenger sendes via [Min side - arbeidsgiver](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/). Har du sendt en inntektsmelding fra Altinn som inneholder feil opplysninger, må du sende et nytt refusjonskrav for omsorgspenger via Min side - arbeidsgiver med opplysninger om det som skal endres. Følg beskrivelsen over for å endre et refusjonskrav for omsorgspenger.
+
 Hvis du har sendt inn en inntektsmelding via Min side - Arbeidsgiver, kan du endre tidligere innsendte inntektsmeldinger som du finner i saksoversikten.
 
 Når vi får inn en endret inntektsmelding, revurderer vi saken.
-
 
 #### Hvor kan jeg sjekke refusjonskravene jeg har sendt tidligere?
 
 Du kan sjekke innsendte refusjonskrav via saksoversikten på Min side - arbeidsgiver. Er inntektsmeldingene sendt via lønns- og personalsystem eller Altinn kan du finne de ved å benytte deg av innsynstjenesten på Altinn.
 
-Refusjonskrav eller inntektsmelding sendes inn på Min side – arbeidsgiver.
+#### Slik sender du dokumentasjon til Nav
+
+Refusjonskrav eller inntektsmelding sendes inn på Min side – arbeidsgiver.
 
 I noen få tilfeller trenger Nav mer dokumentasjon fra deg enn inntektsmeldingen. Du får brev fra vår saksbehandler med informasjon om hva vi trenger, hvis dette er nødvendig.
 
@@ -291,24 +350,34 @@ Noen arbeidsgivere ønsker også å sende annen dokumentasjon direkte til saksbe
 
 Dokumentasjonen kan sendes til oss på to måter:
 
-- Gi dokumentasjonen til den ansatte, som selv ettersender den digitalt ved å logge inn på nav.no.
-- Gå til
-Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
+- Gi dokumentasjonen til den ansatte, som selv ettersender den digitalt ved å logge inn på nav.no.
+- Gå til [siden for ettersendelse](https://www.nav.no/start/ettersend-soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler), og velg ettersend i post. Husk å notere den ansatte sitt fødsels- og personnummer når du henter ut førsteside for innsendelse.
 
-Oppdatert 10.07.2026
+Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
+### Hva sier loven?
 
-#### Chat
+[Folketrygdloven kapittel 9](https://lovdata.no/nav/folketrygdloven/kap9)
 
-Chatbot Frida har døgnåpent.
+Oppdatert 10.07.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chatbot
+
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
+
+Chatbot:
 
 Alltid åpen
 
+Ring oss på 55 55 33 36
 
-#### Ring oss på 55 55 33 36
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/omsorgspenger) av norges-lover-bot.*
@@ -323,3 +392,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

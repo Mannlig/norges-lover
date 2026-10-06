@@ -1,4 +1,4 @@
-<!-- innholds-hash: ec0494b90efeca34897c54ab2c169b36be828129b4cccd6fb35239abcb995b9d -->
+<!-- innholds-hash: 398ad708a8230640dfdda81c01979d85db6f392c496255c6f0de2e2e7cad3952 -->
 
 # Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene
 
@@ -6,25 +6,16 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T21:01:27Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:31:12Z
 
 ## Innhold
 
-
 ## Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene
 
-
-### Kap.  I.  Innledende bestemmelser
-
-
-### Kap.  II.  Lønns- og arbeidsvilkår
-
-
-### Kap.  III.  Fravikelighet m. m.
-
-
-### Kap.  IV.  Ikrafttreden m. m.
-
+1. Kap. I. Innledende bestemmelser
+2. Kap. II. Lønns- og arbeidsvilkår
+3. Kap. III. Fravikelighet m. m.
+4. Kap. IV. Ikrafttreden m. m.
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene/) av norges-lover-bot.*
@@ -32,3 +23,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

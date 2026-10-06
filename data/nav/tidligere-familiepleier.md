@@ -1,45 +1,45 @@
-<!-- innholds-hash: a4c8827dc400733defbcb9f1a4e24ec7504d7a180e4a77eb09bbd75569f699e4 -->
+<!-- innholds-hash: 458717f0c672d5846e5c4af75c5f92b2a11c02858a02a2270c8aaee233a1b756 -->
 
 # Ytelser til tidligere familiepleier - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tidligere-familiepleier
-- **Sist hentet:** 2026-07-12T21:50:34Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:42:03Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Ytelser til tidligere familiepleier
 
 Ytelsen sikrer deg inntekt hvis du ikke kan forsørge deg selv etter å ha pleid foreldre eller andre personer som har stått deg nær.
-
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
 
 Etter 1. januar 2024 kan du få ytelser til tidligere familiepleier etter nytt regelverk. Du kan da få omstillingsstønad.
 
 Fikk du ytelsen før 2024, beholder du den etter gammelt regelverk.
 
+### Hvem kan få?
+
 Er du ugift, under 67 år og har hatt tilsyn med og pleie av noen som har stått deg nær? Hvis pleieforholdet er avsluttet, kan du ha rett til ytelsen.
 
 Pleieforholdet må ha
 
-- vart i minst 5 år
+- vart i minst 5 år
 - gjort det umulig for deg å arbeide og forsørge deg selv under pleieforholdet
-- gjort at du ikke kan forsørge deg selv gjennom eget arbeid når pleieforholdet er slutt
-Den personen du pleide må ha vært
+- gjort at du ikke kan forsørge deg selv gjennom eget arbeid når pleieforholdet er slutt
+
+Den personen du pleide må ha vært [medlem i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden) i minst 5 år frem til pleieforholdet tok slutt.
 
 Du må også være medlem i folketrygden.
 
+### Hva kan du få?
+
+#### Hvor mye kan du få?
+
 Hvor mye du kan få avhenger av om du har fått ytelsen før eller etter 1. januar 2024.
 
-Full ytelse til tidligere familiepleier er 2,25 ganger grunnbeløpet i folketrygden (G), 307 235 kroner i året. Det er 25 603 kroner i måneden før skatt.
+Full ytelse til tidligere familiepleier er 2,25 ganger grunnbeløpet i folketrygden (G), 307 235 kroner i året. Det er 25 603 kroner i måneden før skatt.
 
 Inntekten din avgjør hvor mye du kan få.
 
@@ -49,9 +49,11 @@ Ytelsen reguleres 1. mai hver år.
 
 Ytelse til tidligere familiepleier består av grunnpensjon og et særtillegg. Størrelsen på ytelsen avhenger av hvor lenge du har vært medlem av folketrygden.
 
-Hvis du har minst 40 år trygdetid i Norge, blir full grunnpensjon med særtillegg 22 758 kroner i måneden.
+Hvis du har minst 40 år trygdetid i Norge, blir full grunnpensjon med særtillegg 22 758 kroner i måneden.
 
 Ytelsen blir redusert hvis du har eller kan forventes å ha en egen arbeidsinntekt. Grunnpensjonen din kan også bli redusert hvis du blir samboer.
+
+#### Hvor lenge kan du få?
 
 Hvor lenge du kan få ytelsen avhenger av om du har fått ytelsen før eller etter 1. januar 2024.
 
@@ -65,20 +67,37 @@ Hvis du allerede får ytelsen, vil du kunne beholde den i 3 år. Ytelsen kan for
 
 Er du født i 1970 eller tidligere og har hatt lav arbeidsinntekt de siste 5 årene til og med 2023, kan du beholde ytelsen i 5 år. Deretter omregnes pensjonen til omstillingsstønad som kan bety at utbetalingen endres. Denne stønaden får du til du blir 67 år.
 
+#### Andre aktuelle pengestøtter
+
 Hvis du er i utdanning, eller må flytte for å komme i arbeid etter gjennomført utdanning, kan du ha rett til tilleggsstønader.
 
 Det gjelder også hvis du er registrert hos Nav som reell arbeidssøker.
 
-Hvis du tar en utdanning som Nav har godkjent, kan du har rett på stønad til skolepenger.
+[Tilleggsstønader til tidligere familiepleiere](https://www.nav.no/tilleggsstonader-familiepleiere)
+
+Pengestøtte
+
+Hvis du tar en utdanning som Nav har godkjent, kan du har rett på stønad til skolepenger.
 
 Utdanningen må være nødvendig og hensiktsmessig for å komme i arbeid eller beholde arbeid.
 
+[Stønad til skolepenger for tidligere familiepleiere](https://www.nav.no/skolepenger-familiepleier)
+
+Pengestøtte
 
 #### Pensjonsopptjening ved omsorgsarbeid
 
-Du kan ha rett til
+Du kan ha rett til [pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelse](https://www.nav.no/omsorgsopptjening-eldre).
+
+#### Andre rettigheter
 
 Mer informasjon til deg som
+
+- [Har mistet noen i nær familie](https://www.nav.no/mistet-noen) Dette kan du ha rett til
+
+### Søke, ettersende og klage
+
+#### Søknad og ettersendelse
 
 Du kan søke om ytelser til tidligere familiepleier på flere måter. Det er enklest og raskest er å søke digitalt.
 
@@ -86,36 +105,61 @@ Vi oppfordrer deg til å søke så snart som mulig fordi vi vanligvis bare etter
 
 Du kan bli bedt om å ettersende dokumentasjon.
 
+[Send søknad](https://www.nav.no/start/soknad-tidligere-familiepleier)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav171501)
 
 #### Hvis du har fått ytelsen før 2024
 
 Det er fortsatt mulig å ettersende dokumentasjon hvis du allerede har søkt om ytelser til tidligere familiepleier før 2024.
 
-Du får et skriftlig vedtak når søknaden er behandlet. Normal saksbehandlingstid er inntil en måned, du vil få beskjed hvis saksbehandlingstiden blir lenger.
+[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav171501)
 
+#### Etter at du har søkt
+
+Du får et skriftlig vedtak når søknaden er behandlet. Normal saksbehandlingstid er inntil en måned, du vil få beskjed hvis saksbehandlingstiden blir lenger.
 
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
 
-Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad | 4 uker |
 
+#### Klagerettigheter
+
+Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/YTELSER_TIL_TIDLIGERE_FAMILIEPLEIERE)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/YTELSER_TIL_TIDLIGERE_FAMILIEPLEIERE)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/YTELSER_TIL_TIDLIGERE_FAMILIEPLEIERE)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/YTELSER_TIL_TIDLIGERE_FAMILIEPLEIERE)
+
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 12 uker |
+| Klage til Nav klageinstans | 3 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har ytelser til tidligere familiepleier
+
+#### Aktivitetsplikt
 
 Aktivitetsplikt for ytelser til tidligere familiepleier gjelder bare for deg som har fått ytelsen etter 1. januar 2024.
 
@@ -125,6 +169,7 @@ Aktivitetsplikten innebærer
 
 - at 6 måneder etter dødsfallet må du må være i minst 50 prosent jobb eller annen aktivitet med sikte på å komme i jobb
 - at når det har gått ett år siden dødsfallet, kan vi kreve at du er i aktivitet på fulltid. Målet er at du skal bli i stand til å forsørge deg selv med egen inntekt fra arbeid
+
 Du kan fylle aktivitetsplikten hvis du
 
 - jobber
@@ -144,27 +189,46 @@ Vi stanser utbetalingene til deg midlertidig hvis du
 - sier nei til å delta i, eller slutter i et arbeidsmarkedstiltak
 - sier opp, eller på andre måter slutter i jobben din
 - blir avskjediget eller sagt opp på grunn av forhold som du selv er skyld i
+
 Vi må kunne komme i kontakt med deg for å følge deg opp ved behov. Får vi ikke kontakt med deg, kan vi stoppe ytelsen din.
+
+#### Når kan du miste ytelsen?
 
 Ytelser til tidligere familiepleiere stopper
 
 - hvis du gifter deg.
 - hvis du blir skilt før det er gått to år, kan du igjen få ytelser tidligere familiepleiere. Da må du søke på nytt.
-Ytelsen kan også stoppe om du får
+
+Ytelsen kan også stoppe om du får [alderspensjon](https://www.nav.no/alderspensjon), full [uføretrygd](https://www.nav.no/arbeidsgiver/uforetrygd) eller [avtalefestet pensjon (AFP) i offentlig sektor.](https://www.nav.no/afp-offentlig) Hvis du får [livsvarig avtalefestet pensjon (AFP) i offentlig sektor etter nye regler i 2025,](https://www.nav.no/afp-offentlig-livsvarig) kan du få ytelsen samtidig. Ytelsen kan utbetales til du fyller 67 år.
 
 Du kan miste ytelsen hvis du ikke fyller aktivitetsplikten eller oppgir feil informasjon.
 
-I
+#### Når utbetales pengene?
+
+I [utbetalingsoversikten din](https://tjenester.nav.no/utbetalingsoversikt/) kan du se den kommende utbetalingen din flere dager før utbetalingsdatoen.
 
 Når på dagen pengene er på konto, vil variere fordi det er banken din som overfører pengene til deg. Utbetalingen kan derfor komme på kontoen din først på ettermiddagen eller kvelden.
 
 Utbetalingsdato er dagen Nav garanterer at pengene skal være på kontoen din.
 
+| Utbetalingsdatoer i 2026 |
+| --- |
+| 20. januar |
+| 20. februar |
+| 20. mars |
+| 20. april |
+| 13. mai |
+| 19. juni |
+| 20. juli |
+| 20. august |
+| 18. september |
+| 20. oktober |
+| 20. november |
+| 11. desember |
 
 #### Feriepenger
 
 Det er ikke feriepenger på denne pengestøtten.
-
 
 #### Skatt
 
@@ -174,7 +238,11 @@ Hvis du har fått ytelsen før 2024 er det ordinært skattetrekk i juni. I desem
 
 Hvis du har fått ytelsen etter 1. januar 2024 trekkes det ikke skatt i juni. I desember blir det trukket halv skatt.
 
-Hvis du betaler Svalbardskatt eller
+Hvis du betaler Svalbardskatt eller [kildeskatt](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/bosatt-i-utlandet/kildeskatt/mottar-du-kildeskatt-pa-pensjon-og-uforeytelser/), er det ordinært skattetrekk i juni og desember.
+
+[Mer om skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
+
+#### Meld fra om endringer
 
 Hvis det skjer en endring i inntekten din, privatlivet ditt eller situasjonen din, kan det påvirke ytelsen din. Derfor er det viktig at du gir beskjed til Nav om endringer, slik at du ikke får for mye eller for lite utbetalt.
 
@@ -192,8 +260,12 @@ Dette må du melde fra om
 - du skal oppholde deg utenfor Norge i en periode på mer enn seks måneder
 - du flytter til et annet land
 - du får varig opphold i institusjon
-Du kan også
 
+[Meld fra om endringer](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-stotte-til-gjenlevende)
+
+Du kan også [kontakte oss](https://www.nav.no/kontaktoss) på telefon.
+
+#### Reise eller flytte til utlandet
 
 #### For deg som skal til utlandet
 
@@ -203,30 +275,27 @@ Kontakt Nav for å sjekke om du kan beholde ytelsen under midlertidig opphold el
 
 EØS-avtalen kan gi deg rett til utbetaling.
 
-
 #### Kan jeg ta med ytelsen?
 
 Hvis du flytter til et EØS-land, får du vanligvis med deg ytelsen fra folketrygden.
 
-
 #### Hvilke land er EØS-land?
+
+[Se oversikt over EØS-landene.](https://www.nav.no/jobbe-i-eos#hva)
 
 Sveits og Færøyene er ikke EØS-land, men EØS-reglene om ytelsen gjelder også i disse landene.
 
 Trygdeavtaler kan gi deg utvidet rett til utbetaling.
 
-
 #### Beholder du medlemskapet i folketrygden?
 
-Hvis du flytter til et annet land, beholder du ikke medlemskapet i folketrygden, men du kan søke om
-
+Hvis du flytter til et annet land, beholder du ikke medlemskapet i folketrygden, men du kan søke om [frivillig medlemskap](https://www.nav.no/frivillig-medlemskap). Dette får du hvis du har minst 30 års botid i Norge etter fylte 16 år og minst 10 av årene var umiddelbart før flyttingen til utlandet.
 
 #### Kan du ta med ytelsen til tidligere familiepleier?
 
 Når du flytter til et land utenfor EØS, kan du vanligvis ikke få med deg ytelsen til tidligere familiepleier.
 
-Trygdeavtaler som Norge har med andre land, kan imidlertid gi rett til å få ytelsen utbetalt. Ta
-
+Trygdeavtaler som Norge har med andre land, kan imidlertid gi rett til å få ytelsen utbetalt. Ta [kontakt med Nav](https://www.nav.no/kontaktoss).
 
 #### Land utenfor EØS-området som Norge har trygdeavtale med
 
@@ -234,53 +303,61 @@ Disse landene kan gi utvidet rett til utbetaling: USA, Storbritannia, Australia,
 
 Folketrygdloven kan gi deg rett til utbetaling i utlandet.
 
-
 #### Beholder du medlemskapet i folketrygden?
 
-Hvis du flytter til et annet land, beholder du ikke medlemskapet i folketrygden, men du kan søke om
-
+Hvis du flytter til et annet land, beholder du ikke medlemskapet i folketrygden, men du kan søke om [frivillig medlemskap](https://www.nav.no/frivillig-medlemskap). Dette får du hvis du har minst 30 års botid i Norge etter fylte 16 år og minst 10 av årene var umiddelbart før flyttingen til utlandet.
 
 #### Kan du ta med ytelsen til tidligere familiepleier?
 
 Når du flytter til et land utenfor EØS, kan du vanligvis ikke få med deg ytelser til tidligere familiepleier.
 
-Trygdeavtaler som Norge har med andre land, kan imidlertid gi rett til å få ytelsen utbetalt. Ta
-
+Trygdeavtaler som Norge har med andre land, kan imidlertid gi rett til å få ytelsen utbetalt. Ta [kontakt med Nav](https://www.nav.no/kontaktoss).
 
 #### Plikter ved flytting til utlandet
 
 Ved flytting til utlandet må du
 
+- [sende beskjed](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-stotte-til-gjenlevende) til Nav
 - melde fra til folkeregisteret
 - kontakte Skatteetaten angående skatteplikt
-Les mer på
 
+Les mer på [Helsenorge](https://www.helsenorge.no/bo-i-utlandet/) om hva som gjelder for helsetjenester hvis du flytter til utlandet.
 
 #### For deg som kommer til Norge
 
-Du kan bare få ytelse til tidligere familiepleier når du har pleiet en nærstående person som var medlem av folketrygden og bosatt i Norge.
+Du kan bare få ytelse til tidligere familiepleier når du har pleiet en nærstående person som var medlem av folketrygden og bosatt i Norge.
 
-Oppdatert 16.09.2025
+### Hva sier loven?
 
+[Ytelser til gjenlevende ektefelle og tidligere familiepleier (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap17)[Om beregning av pensjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap3)[Lovverk før 2024: Rundskriv](https://lovdata.no/nav/rundskriv/r16-00%20)
 
-#### Chat med oss
+Oppdatert 20.08.2026
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/tidligere-familiepleier) av norges-lover-bot.*
@@ -294,3 +371,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

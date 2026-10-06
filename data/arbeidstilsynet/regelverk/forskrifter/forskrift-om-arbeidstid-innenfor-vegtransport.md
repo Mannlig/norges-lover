@@ -1,4 +1,4 @@
-<!-- innholds-hash: ace86cb6eaa8efd9abc14ce028fe46a4fb4085ed2bfd3c1fa8767038bb5c7519 -->
+<!-- innholds-hash: 3e129f372c9bc3a5fbd1dff6ba84bc1840248f2b584e8a33ba8b42b355968f23 -->
 
 # Forskrift om arbeidstid innenfor vegtransport
 
@@ -6,25 +6,16 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T20:55:25Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:26:35Z
 
 ## Innhold
 
-
 ## Forskrift om arbeidstid innenfor vegtransport
 
-
-### Innledende bestemmelser
-
-
-### Bestemmelser om arbeidstid, hvilepauser, nattarbeid, m. m.
-
-
-### Kontroll og straff mv.
-
-
-### Ikrafttredelse
-
+1. Innledende bestemmelser
+2. Bestemmelser om arbeidstid, hvilepauser, nattarbeid, m. m.
+3. Kontroll og straff mv.
+4. Ikrafttredelse
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport/) av norges-lover-bot.*
@@ -32,3 +23,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

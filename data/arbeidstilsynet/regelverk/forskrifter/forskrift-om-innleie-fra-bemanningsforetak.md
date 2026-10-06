@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d96aa76945c220928719a0af370124a1a029d88703a5e22ac3540fb646b9c8c -->
+<!-- innholds-hash: 1fb99fe46e86d88d521a9a3f08b7e1bf63e6b849092dd35f92eda431983a35b5 -->
 
 # Forskrift om innleie fra bemanningsforetak
 
@@ -6,25 +6,16 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-innleie-fra-bemanningsforetak/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T21:16:31Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:41:43Z
 
 ## Innhold
 
-
 ## Forskrift om innleie fra bemanningsforetak
 
-
-### Kapittel I.  Arbeidsmiljøloven og innleie til virksomhet som ikke sysselsetter arbeidstaker
-
-
-### Kapittel II.  Taushetsplikt mv.  i tilknytning til likebehandlingsreglene.  Straff
-
-
-### Kapittel III.  Særregler om innleie på visse områder
-
-
-### Kapittel IV.  Ikrafttredelse
-
+1. Kapittel I. Arbeidsmiljøloven og innleie til virksomhet som ikke sysselsetter arbeidstaker
+2. Kapittel II. Taushetsplikt mv. i tilknytning til likebehandlingsreglene. Straff
+3. Kapittel III. Særregler om innleie på visse områder
+4. Kapittel IV. Ikrafttredelse
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-innleie-fra-bemanningsforetak/) av norges-lover-bot.*
@@ -32,3 +23,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: cdda2a4a06bbed3b4dc1f9780a292b34ca2ad801a96be42dbb60558f886276c2 -->
+<!-- innholds-hash: a7b38d31b1dff4f0639ec6d63c455de18ce22ecff7116290308bcbf3b4015c1f -->
 
 # Rettskilder sortert på type
 
@@ -6,33 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T07:05:33Z
+- **Sist oppdatert i arkivet:** 2026-10-06T11:25:36Z
 
 ## Innhold
-
 
 ## Rettskilder sortert på type
 
 Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende juridisk informasjon.
-
-
-### Regelverk
-
-
-### Uttalelser
-
-
-### Høringer
-
-
-### Vedtak
-
-
-### Retningslinjer
-
-
-### Håndbøker
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/) av norges-lover-bot.*
@@ -40,3 +20,4 @@ Disse sidene er for deg som er profesjonell aktør og som vil ha utdypende jurid
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

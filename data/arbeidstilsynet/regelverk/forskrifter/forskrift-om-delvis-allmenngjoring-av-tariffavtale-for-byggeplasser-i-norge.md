@@ -1,4 +1,4 @@
-<!-- innholds-hash: ced61c4e6b163df5f192e9ced8f941cf141f2314565b0e36197b56b270b877d5 -->
+<!-- innholds-hash: c7f71f9edf988f06656a22fd37b14b1fd752cd31d720bb2a2812536435199763 -->
 
 # Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge
 
@@ -6,25 +6,16 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T21:02:57Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:32:19Z
 
 ## Innhold
 
-
 ## Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge
 
-
-### Kap.  I.  Innledende bestemmelser
-
-
-### Kap.  II.  Lønns- og arbeidsvilkår
-
-
-### Kap.  III.  Fravikelighet m. m.
-
-
-### Kap.  IV.  Ikrafttreden m. m.
-
+1. Kap. I. Innledende bestemmelser
+2. Kap. II. Lønns- og arbeidsvilkår
+3. Kap. III. Fravikelighet m. m.
+4. Kap. IV. Ikrafttreden m. m.
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge/) av norges-lover-bot.*
@@ -32,3 +23,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

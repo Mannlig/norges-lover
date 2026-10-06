@@ -1,74 +1,76 @@
-<!-- innholds-hash: 36eba2ca3f6d164fe47a6226d116ef1f2c4ffb3a991bbe4c879358722f38af68 -->
+<!-- innholds-hash: 7c020e15efb824da0421c46a353f5b9d1b2f61d3817258127130c5d45f6bedef -->
 
 # Sykkel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykkel
-- **Sist hentet:** 2026-07-05T05:24:27Z
+- **Sist oppdatert i arkivet:** 2026-10-06T14:21:36Z
 
 ## Innhold
 
 Hjelpemiddel
 
-
 ## Sykkel
 
 Gir bedre fremkommelighet og større muligheter i hverdagen.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Se hva som gjelder for deg:
 
 Du kan få spesialtilpasset sykkel av Nav hjelpemiddelsentral, hvis du:
 
 - Er under 26 år
-- Har en varig funksjonsnedsettelse som gjør at du ikke kan bruke vanlig sykkel (med varig mener vi over to år eller permanent)
+- Har en varig funksjonsnedsettelse som gjør at du ikke kan bruke vanlig sykkel (med varig mener vi over to år eller permanent)
 - Trenger sykkel til trening, aktivisering og stimulering
-- Syklingen kan bidra til å opprettholde og bedre motorisk og kognitiv funksjonsevne.
+- Syklingen kan bidra til å opprettholde og bedre motorisk og kognitiv funksjonsevne.
 
 #### El-sykler
 
-Hvis det du trenger er en vanlig tohjulssykkel med motor/batteri, kan du som regel ikke få dekket dette av Nav. Dette er fordi el-sykler er blitt så vanlig, og ikke lenger kan regnes som hjelpemiddel.
+Hvis det du trenger er en vanlig tohjulssykkel med motor/batteri, kan du som regel ikke få dekket dette av Nav. Dette er fordi el-sykler er blitt så vanlig, og ikke lenger kan regnes som hjelpemiddel. Vi kan gjøre unntak for denne regelen hvis du er under 18 år og vanlig sykkel ikke dekker dine behov. Da kan du få en sykkel med hjelpemotor av Nav, hvis følgende kriterier er oppfylt:
 
 - Du er under 18 år
 - Du ikke kan bruke manuell sykkel på grunn av en varig funksjonsnedsettelse
 - En hjelpemotor er det som skal til for at du kan sykle på tohjulssykkel
 - Du er istand til å ferdes trygt i trafikken (se nedenfor om funksjonsvurdering, og les kapitlet Søknad og dokumentasjon).
-Du vil ikke få dekket innkjøp av el-sykkel i vanlig handel. Hvis du ikke kan bruke modellen Nav hjelpemiddelsentral låner ut, kan vi i enkelte tilfeller ettermontere hjelpemotor på en vanlig sykkel. Dette vil en hjelpemiddelformidler i kommunen du bor i hjelpe deg å finne ut av, i samråd med Nav hjelpemiddelsentral.
 
-Hvis du trenger et forflytningshjelpemiddel i dagliglivet og ønsker spesialsykkel i stedet for rullestol, kan du få dette. Da må vilkårene for at du trenger rullestol som forflytningshjelpemiddel for å få utført oppgaver i dagliglivet være oppfylt. Snakk med en hjelpemiddelformidler i kommunen du bor i for å få vite mer om dette. Muligheten til å få spesialsykkel som forflytningshjelpemiddel i stedet for elektrisk rullestol er
+Du vil ikke få dekket innkjøp av el-sykkel i vanlig handel. Hvis du ikke kan bruke modellen Nav hjelpemiddelsentral låner ut, kan vi i enkelte tilfeller ettermontere hjelpemotor på en vanlig sykkel. Dette vil en hjelpemiddelformidler i kommunen du bor i hjelpe deg å finne ut av, i samråd med Nav hjelpemiddelsentral.
 
-Hvis du trenger sykkel for å drive fysisk aktivitet og er over 26 år, kan du søke Nav om spesialsykkel gjennom en
+Hvis du trenger et forflytningshjelpemiddel i dagliglivet og ønsker spesialsykkel i stedet for rullestol, kan du få dette. Da må vilkårene for at du trenger rullestol som forflytningshjelpemiddel for å få utført oppgaver i dagliglivet være oppfylt. Snakk med en hjelpemiddelformidler i kommunen du bor i for å få vite mer om dette. Muligheten til å få spesialsykkel som forflytningshjelpemiddel i stedet for elektrisk rullestol er [beskrevet i vedlegg 7 til folketrygdlovens § 10-7](https://lovdata.no/nav/rundskriv/v7-10-07acd#ref/lov/1997-02-28-19/%C2%A710-7).
 
-Synshemmede, bevegelseshemmede og psykisk utviklingshemmede personer over 26 år, kan også få
+Hvis du trenger sykkel for å drive fysisk aktivitet og er over 26 år, kan du søke Nav om spesialsykkel gjennom en [ordning for aktivitetshjelpemidler til personer over 26 år](https://www.nav.no/aktivitetshjelpemidler-over-26). For å få aktivitetshjelpemidler når du er over 26 år, må du ha nedsatt funksjonsevne og trenge et hjelpemiddel for å kunne delta i fysisk aktivitet. Ordning er rammestyrt. Det betyr at om du fyller kravet til aktivitetshjelpemidler, vil du få det innvilget så sant det er midler igjen i potten. Er potten tom, må du søke på nytt året etter. Ordningen er populær, så det kan være lurt å søke tidlig på året.
+
+Synshemmede, bevegelseshemmede og psykisk utviklingshemmede personer over 26 år, kan også få [støtte til eget innkjøp av tandemsykkel fra Helfo (helsenorge.no)](https://www.helsenorge.no/refusjon-og-stotteordninger/tandemsykkel).
 
 Hvis du trenger sykkel med hjelpemotor, må du kjenne trafikkreglene og være i stand til å bruke sykkelen. Kommunen er ansvarlig for å vurdere din funksjonsevne, og om det er trygt for deg å ferdes i trafikken. Sykkelen kan komme opp i høy fart, og det er viktig at trafikkferdighetene til den som skal bruke sykkelen er grundig vurdert.
 
-Formidlere i kommunen kan få mer
+Formidlere i kommunen kan få mer [informasjon om funksjonsvurderinger på kunnskapsbanken.net](https://www.kunnskapsbanken.net/bevegelse/sykkel/).
+
+### Hva kan du få?
+
+#### Hva er hjelpemiddelet?
 
 Det finnes mange typer sykler med ulike kombinasjoner av spesialfunksjoner, med og uten hjelpemotor.
 
-En spesialsykkel kan for mange gi bedre framkommelighet, mulighet for fysisk aktivitet og økt sosial deltakelse i samfunnet.
+En spesialsykkel kan for mange gi bedre framkommelighet, mulighet for fysisk aktivitet og økt sosial deltakelse i samfunnet.
 
-Noen eksempler: Støttehjul til tohjulssykler, spesialutviklede trehjulssykler, tandemsykler, hånddrevne sykler og spesialsykler for personer med nedsatt armfunksjon eller nedsatt funksjon i overkroppen.
+Noen eksempler: Støttehjul til tohjulssykler, spesialutviklede trehjulssykler, tandemsykler, hånddrevne sykler og spesialsykler for personer med nedsatt armfunksjon eller nedsatt funksjon i overkroppen.
+
+[Du vil få en sykkel som Nav har rammeavtale med](https://finnhjelpemiddel.nav.no/rammeavtale/d8b40d10-2834-4962-a061-5b2f4acbb766) (finnhjelpemiddel.no), så sant den dekker behovet ditt.
 
 En hjelpemiddelformidler i kommunen du bor i kan hjelpe deg med å finne den sykkelen som passer for deg.
 
 For barn som ikke kan sykle på vanlig sykkel, kan det være aktuelt med en spesialutviklet trehjulssykkel. Tandemsykkel med hjelpemotor kan være nyttig for barn som trenger hjelp til å ferdes i trafikken, eller som ikke klarer å sykle selv. Tohjulssykkel med hjelpemotor kan være aktuelt for barn under 18 år. For voksne som av ulike grunner ikke kan sykle på vanlig sykkel kan det være aktuelt med trehjulssykkel eller hånddrevet sykkel.
 
-Ved behov kan du få hoftebelte, vest og andre belter for posisjonering. Hvis det er behov for belte eller sele for å hindre deg i å gå ut av hjelpemiddelet når du ønsker det, må det foreligge
+Ved behov kan du få hoftebelte, vest og andre belter for posisjonering. Hvis det er behov for belte eller sele for å hindre deg i å gå ut av hjelpemiddelet når du ønsker det, må det foreligge [et tvangsvedtak (statsforvalteren.no](https://www.statsforvalteren.no/portal/helse-omsorg-og-sosialtjenester/tvang/))
 
 Du får låne hjelpemidlene av Nav hjelpemiddelsentral.
 
 På Kunnskapsbanken.net kan du lese mer om sykkel og bruk av sykkel:
 
-- på denne siden
-- på denne siden
+- på denne siden [om sykkel](https://www.kunnskapsbanken.net/bevegelse/sykkel/)
+- på denne siden [om sommeraktiviteter](https://www.kunnskapsbanken.net/bevegelse/aktivitetshjelpemidler/sommeraktiviteter/#sykle)
 
 #### Når og hva kan du ikke få?
 
@@ -78,17 +80,33 @@ For eksempel:
 
 - Hvis du er over 18 år, kan du ikke få vanlig tohjulssykkel med hjelpemotor / elsykkel.
 - Du kan ikke få påhengssykler eller tandemkoblinger til barn under åtte år.
+
+#### Refusjon av reiseutgifter
+
 Du kan søke om å få dekket reiseutgifter hvis du har reist på grunn av:
 
 - Utprøving av hjelpemidler
 - Reparasjon av spesialutstyr
 - Periodisk kontroll av spesialutstyr
+
 For refusjon av reiser til sykehus og andre tjenester som administreres av helseforetakene, søker du hos pasientreiser.no.
+
+[Reiseutgifter](https://www.nav.no/reiseutgifter)
+
+Pengestøtte
+
+#### Andre tilbud
 
 Mer informasjon til deg som
 
-Vi anbefaler at du får hjelp fra kommunen du bor i. De har ansvar for å kartlegge behovet og finne ut hva du trenger. Det er hensiktsmessig at kommunal hjelpemiddelformidler utformer søknaden på dine vegne.
+- [Har vansker med bevegelse og forflytning](https://www.nav.no/bevegelse) Dette kan du ha rett til
+- [Har vansker med å huske, planlegge og forstå](https://www.nav.no/huske-planlegge) Dette kan du ha rett til
 
+### Hvordan kan du få?
+
+#### Slik går du fram
+
+Vi anbefaler at du får hjelp fra kommunen du bor i. De har ansvar for å kartlegge behovet og finne ut hva du trenger. Det er hensiktsmessig at kommunal hjelpemiddelformidler utformer søknaden på dine vegne.
 
 #### Hvorfor bør du få hjelp av kommunen?
 
@@ -97,7 +115,10 @@ En god utredning med en godt begrunnet søknad øker sjansen for at du får med 
 - er godt kjent med de ulike mulighetene
 - kan utrede hva som passer best for deg
 - vet hva som trengs av dokumentasjon
+
 En kommunal formidler kan skrive en søknad med riktig dokumentasjon, utredning og god begrunnelse, og vil bidra til at Nav kan behandle søknaden din raskere.
+
+#### Søknad og dokumentasjon
 
 En god utredning med en godt begrunnet søknad øker sjansen for at vi får den informasjonen vi trenger, derfor anbefaler vi deg å be om hjelp fra kommunen når du skal søke.
 
@@ -108,9 +129,10 @@ Da er det en del ting du må passe på.
 Du må finne det hjelpemiddelet du trenger. Når du skal finne hjelpemiddel:
 
 - Sjekk at det du trenger ikke er i vanlig handel. Vanlige produkter du får kjøpt i butikk/nettbutikk dekkes ikke av Nav.
-- Se etter produkter som er
+- Se etter produkter som er [på avtale med Nav (finnhjelpemiddel.nav.no](https://finnhjelpemiddel.nav.no/rammeavtale)).
 - Produkter som er rangert som nummer 1 må vurderes først. Lavere rangerte produkter må begrunnes spesielt.
-- Du kan få andre hjelpemidler, hvis produkter som er på avtale med Nav ikke dekker behovet ditt. Da må dette begrunnes spesielt. Nav kan i så fall dekke enkleste og rimeligste løsning.
+- Du kan få andre hjelpemidler, hvis produkter som er på avtale med Nav ikke dekker behovet ditt. Da må dette begrunnes spesielt. Nav kan i så fall dekke enkleste og rimeligste løsning.
+
 Søknaden må inneholde en god forklaring på behovet ditt, og begrunnelse for hvorfor du trenger dette hjelpemiddelet.
 
 Det må komme fram at en person har påtatt seg et opplærings- og oppfølgingsansvar for hjelpemiddelet overfor deg som bruker. Vedkommende har ansvar for å lære deg å bruke sykkelen og informere deg om hvilket ansvar du selv har for vedlikehold og vanlig service. I søknaden må det gå fram hvem som er opplærings- og oppfølgingsansvarlig.
@@ -118,6 +140,8 @@ Det må komme fram at en person har påtatt seg et opplærings- og oppfølgingsa
 Søker du om sykkel med hjelpemotor, må dette være en kontaktperson i kommunen som kan bekrefte at det er trygt for deg å ferdes i trafikken.
 
 Hvis du er usikker på hvilken sykkel du bør ha, må du ta kontakt med kommunen. Kommunal formidler kan enten hjelpe deg, eller sende henvisning til Nav hjelpemiddelsentral slik at du kan komme og prøve ut ulike modeller.
+
+[Søk om hjelpemiddel](https://www.nav.no/fyllut/nav100703/pdf?filter=N6)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100703?sub=paper&filter=N6)
 
 Bekreftelse fra fagperson på at du har behov for sykkelen og hvorfor.
 
@@ -128,18 +152,21 @@ Bekreftelse fra fagperson på at du har behov for sykkelen og hvorfor.
 
 Vi har egne løsninger for deg.
 
-Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke
+Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke [skjemaoversikten for samarbeidspartnere](https://www.nav.no/samarbeidspartner/soknader/hjelpemiddelformidler) for å få tilgang på alle aktuelle skjema. Her vil du finne tilleggsskjema, henvisningsskjema for utprøving og andre skjema som er beregnet på fagpersoner og hjelpemiddelformidlere.
 
-Her finner du også inngangen til digital behovsmelding og andre
+Her finner du også inngangen til digital behovsmelding.
 
-Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på
+Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på [samarbeidspartner-sidene til nav.no](https://www.nav.no/samarbeidspartner/hjelpemiddelformidler).
+
+#### Brukerpass
 
 Hvis du er en erfaren hjelpemiddelbruker og ønsker å søke selv, kan det være aktuelt å søke om brukerpass.
 
-Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring.
+Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring. [Mer om brukerpass.](https://www.nav.no/brukerpass)
+
+#### Etter at du har søkt
 
 Du får skriftlig vedtak når søknaden er behandlet.
-
 
 #### Saksbehandlingstid for søknader
 
@@ -149,24 +176,46 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
-Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad om hjelpemiddel til dagligliv | 17 dager |
+| Søknad om hjelpemiddel til arbeidsliv | 21 dager |
 
+#### Klagerettigheter
+
+Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/HJELPEMIDLER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/HJELPEMIDLER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/HJELPEMIDLER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/HJELPEMIDLER)
+
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 17 uker |
+| Klage til Nav klageinstans | 5 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har sykkel
+
+#### Vedlikehold
 
 Les bruksanvisningen som følger med sykkelen du har fått, det kan være spesielle ting du må passe på for den bestemte modellen.
 
@@ -177,10 +226,10 @@ Du har selv ansvar for vedlikehold av sykkelen. Med det mener vi:
 - Merke og oppbevare nøkler
 - Ta batteriet inn i romtemperatur om vinteren
 - Du bør lagre sykkelen inne eller under tak for å unngå rust og feil på elektronikk. Vi anbefaler ikke presenning. Det kan gi kondens og er ikke egnet for lagring over tid
-- Bytte slitedeler som er i vanlig handel (dekk, slanger, kjeder, bremseklosser, wire, lys, skjermer og pedaler)
+- Bytte slitedeler som er i vanlig handel (dekk, slanger, kjeder, bremseklosser, wire, lys, skjermer og pedaler)
 - Justere gir og bremser der det ikke er spesialløsninger
-Hvis du ikke kan gjøre disse tingene selv, kan de hjelpe deg på et vanlig sykkelverksted.
 
+Hvis du ikke kan gjøre disse tingene selv, kan de hjelpe deg på et vanlig sykkelverksted.
 
 #### Laderutiner for sykkel med hjelpemotor:
 
@@ -192,6 +241,8 @@ Les bruksanvisningen når du skal lade batteriet.
 - Lade batteriet snarest etter bruk. Det må ikke lagres utladet
 - Du bør lade batteriet innendørs om vinteren, unngå minusgrader og høy temperatur
 
+#### Reparasjon og service
+
 #### Enklere reparasjoner
 
 Kommunen skal gjøre enklere reparasjoner og kan skifte deler som display, gir og andre deler som ikke er i vanlig handel.
@@ -202,24 +253,25 @@ Ta derfor alltid først kontakt med kommunen når du har et hjelpemiddel som ikk
 
 Ved reparasjon og innlevering må du sende lader og nøkler inn sammen med sykkelen
 
-
 #### Andre reparasjoner
 
 Når det er behov for reparasjon som krever kompetanse eller godkjenning som kommunen ikke har selv, skal kommunen avtale reparasjonen med Nav hjelpemiddelsentral.
 
 Slike reparasjoner kan være skifte av batteri, elektronikk og lignende, bytte av dekk og slanger på drivhjul (med integrert elektrisk motor) eller reparasjon av ramme.
 
-
 #### Behov for akutt reparasjon
 
 Ta først kontakt med kommunen.
 
-Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
+Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
 
 - Telefonnummer: 917 81 122
 - Åpningstid hverdager: klokka 15:30–24:00
-- Åpningstid helger og helligdager: klokka 08:00–24:00
-Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+- Åpningstid helger og helligdager: klokka 08:00–24:00
+
+Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+
+#### Forsikring, tyveri og ansvar
 
 Du kan bli erstatningspliktig hvis du påfører andre eller andres eiendom skade med utlånt sykkel. Du må selv finne informasjon om egnet forsikring som dekker ansvar ved erstatningskrav hvis uhell skulle inntreffe.
 
@@ -227,20 +279,29 @@ Blir sykkelen eller sykkeldeler stjålet må du melde tyveriet til politiet og s
 
 Du trenger ikke forsikre selve sykkelen, siden Nav er selvassurandør og dermed håndterer tap og skader hvis det oppstår.
 
+#### Hjelpemiddel på reise
+
 Hvis du skal ha med deg et hjelpemiddel på utenlandsreise, bør du kontakte Nav hjelpemiddelsentral i forkant for en gjennomgang av hjelpemidlet. Det kan være utfordrende hvis et hjelpemiddel går i stykker når du er på reise, spesielt i utlandet. Mange problemer kan forebygges eller reduseres ved å planlegge sammen før reisen.
+
+#### Batteri på fly
 
 Hvis du skal reise med fly og hjelpemiddelet ditt bruker batteri, må du undersøke regelverk for flytransport. Ta kontakt med flyselskapet på forhånd.
 
 Dette gjelder særlig hvis hjelpemiddelet bruker lithiumbatteri. Det er strenge internasjonale regler for hvor store lithiumbatteri man kan ha med på fly, hvordan de skal pakkes og hva slags bagasje de skal sendes som. I tillegg kan hvert enkelt flyselskap ha egne regler. Til syvende og sist er det piloten som avgjør hva som får bli med på flyet og ikke.
 
+[Her kan du lese mer om å ta med hjelpemidler på reise](https://www.nav.no/om-hjelpemidler#reise).
+
+#### Flytting og ny bolig
+
 Du kan ta med deg hjelpemidler til ny bolig. Hvis du ikke trenger hjelpemiddelet i den nye boligen, skal det leveres tilbake til hjelpemiddelsentralen.
 
 Hvis du overtar et dødsbo med hjelpemidler, skal du ta kontakt med kommunen som kan hente hjelpemidlene og levere dem til Nav hjelpemiddelsentral.
 
-
 #### Flytte til institusjon
 
 Du kan ta med deg personlige hjelpemidler når du flytter til institusjon som for eksempel sykehjem eller barnebolig.
+
+#### Bytte eller levere tilbake
 
 Du kan kun bytte til et tilsvarende hjelpemiddel. Hvis hjelpemiddelet ditt er utslitt eller noe er ødelagt, må du selv kontakte kommunal servicetekniker for å få en vurdering før du kan be om bytte.
 
@@ -248,35 +309,43 @@ Trenger du et annet hjelpemiddel, må du søke på nytt. Er du i tvil om du skal
 
 Skal du bytte fastmonterte hjelpemidler må du søke på nytt, og kan ikke bruke bytteskjemaet.
 
+[Bytt hjelpemiddel](https://www.nav.no/fyllut/nav100731/pdf)
 
 #### Levere tilbake
 
-Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta kontakt med kommunen du bor i eller Nav hjelpemiddelsentral.
+Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta kontakt med kommunen du bor i eller Nav hjelpemiddelsentral. [Les mer om tilbakelevering](https://www.nav.no/om-hjelpemidler#bytte)
 
-Oppdatert 13.04.2026
+### Hva sier loven?
 
+[Forskrift til stønad om hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318/%C2%A72#%C2%A72)
 
-#### Chat med chatbot
+Oppdatert 13.04.2026
 
-Chatbot Frida har døgnåpent.
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med chatbot
+
+Navs chatbot kan svare deg på generelle spørsmål.
+
+Chatbot:
 
 Alltid åpen
 
-
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
 Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 Svartid er noen arbeidsdager.
 
+Ring oss på 55 55 11 11
 
-#### Ring oss på 55 55 11 11
+Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
 Stengt nå, åpner kl. 9
 
+[Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
-#### Finn din hjelpemiddelsentral
-
+Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/sykkel) av norges-lover-bot.*
@@ -287,3 +356,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

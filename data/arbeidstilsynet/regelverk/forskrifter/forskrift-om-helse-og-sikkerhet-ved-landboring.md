@@ -1,4 +1,4 @@
-<!-- innholds-hash: fe6c549f3404dc83d8495fc6a686c93b8d150e2ade14d244e3847ae4ec5dfa3e -->
+<!-- innholds-hash: f22313abb770ba327aee5c5f8241be8a1670098694a1397c64a4c3e58b2e4383 -->
 
 # Forskrift om helse og sikkerhet ved landboring
 
@@ -6,31 +6,18 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T21:12:00Z
+- **Sist oppdatert i arkivet:** 2026-10-06T16:38:10Z
 
 ## Innhold
 
-
 ## Forskrift om helse og sikkerhet ved landboring
 
-
-### Kapittel I.  Innledende bestemmelser
-
-
-### Kapittel II.  Alminnelige bestemmelser
-
-
-### Kapittel III.  Måling og ventilasjon
-
-
-### Kapittel IV.  Helsefarlige gasser, brann- og eksplosjonsfare
-
-
-### Kapittel V.  Beredskap i forbindelse med faresituasjoner og ulykker
-
-
-### Kapittel VI.  Helsekontroll
-
+1. Kapittel I. Innledende bestemmelser
+2. Kapittel II. Alminnelige bestemmelser
+3. Kapittel III. Måling og ventilasjon
+4. Kapittel IV. Helsefarlige gasser, brann- og eksplosjonsfare
+5. Kapittel V. Beredskap i forbindelse med faresituasjoner og ulykker
+6. Kapittel VI. Helsekontroll
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring/) av norges-lover-bot.*
@@ -38,3 +25,4 @@
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

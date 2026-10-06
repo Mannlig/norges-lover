@@ -1,14 +1,13 @@
-<!-- innholds-hash: bd57c3d2b5b2ce9db5820978661b8bb6e086393681c938e89652ea918800874b -->
+<!-- innholds-hash: 6c4054e90c67416efdde31ec643f78434b9fd9a30a46873bccc9fa75ce6cb998 -->
 
 # Søknad om omstillingsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/start/soknad-omstillingsstonad
-- **Sist hentet:** 2026-06-03T14:02:54Z
+- **Sist oppdatert i arkivet:** 2026-10-06T14:34:17Z
 
 ## Innhold
-
 
 ## Søknad om omstillingsstønad
 
@@ -16,6 +15,8 @@ Du kan søke digitalt eller på papir. Hvis du søker digitalt, trenger du ikke 
 
 Behandlingen av papirsøknader kan ta noe lenger tid.
 
+- [Send digitalt](https://www.nav.no/omstillingsstonad/soknad) Det er enklest og raskest å sende inn digitalt. Du blir bedt om å logge inn.
+- [Send i posten](https://www.nav.no/fyllut/nav170106) Du fyller ut søknaden før du skriver den ut. Du trenger ikke å logge inn. NAV 17-01.06
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/start/soknad-omstillingsstonad) av norges-lover-bot.*
@@ -23,3 +24,4 @@ Behandlingen av papirsøknader kan ta noe lenger tid.
 ## Endringshistorikk
 
 - **2026-06-03** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.
 
-**Antall dokumenter:** 734
+**Antall dokumenter:** 735
 
 ## Innhold
 
@@ -429,6 +429,7 @@ Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byg
 - [Ombruk av byggevarer](regelverk/horinger/hoyringar/ombruk-av-byggevarer.md)
 - [Parselloppdeling av campingplasser. Endringer i TEK17 § 11-6](regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6.md)
 - [Høringer](regelverk/horinger/hoyringar.md)
+- [Byggereglene før 1997](regelverk/liste-over-tidligere-regelverk/Byggereglene-for-1997.md)
 - [Eldre rundskriv etter plan- og bygningsloven](regelverk/liste-over-tidligere-regelverk/Eldre-rundskriv.md)
 - [Eldre temaveiledninger](regelverk/liste-over-tidligere-regelverk/Eldre-temaveiledninger.md)
 - [Byggesaksforskriften (SAK) 1997-2010](regelverk/liste-over-tidligere-regelverk/Saksbehandlingsforskriften-SAK-1997-2010.md)

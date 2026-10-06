@@ -1,4 +1,4 @@
-<!-- innholds-hash: f4ebf4905feccae3d02f29826b0f6ba8138f770fcc83f8e585c79857c250ea3e -->
+<!-- innholds-hash: 64084169b0eba6bd311bcffc11dfa222e520b09738842903c1ac8009cfe59d9a -->
 
 # Ferieloven – feriel
 
@@ -6,29 +6,16 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/lover/ferieloven--feriel/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:37:10Z
+- **Sist oppdatert i arkivet:** 2026-10-06T17:02:26Z
 
 ## Innhold
 
-
 ## Ferieloven – feriel
 
-Jf.
-
-
-### Kap I.  Alminnelige bestemmelser.
-
-
-### Kap II.  Feriefritiden.
-
-
-### Kap III.  Feriepenger.
-
-i opptil 3 måneder til sammen hvert opptjeningsår.
-
-
-### Kap IV.  Forskjellige bestemmelser.
-
+1. Kap I. Alminnelige bestemmelser.
+2. Kap II. Feriefritiden.
+3. Kap III. Feriepenger.
+4. Kap IV. Forskjellige bestemmelser.
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/lover/ferieloven--feriel/) av norges-lover-bot.*
@@ -36,3 +23,4 @@ i opptil 3 måneder til sammen hvert opptjeningsår.
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

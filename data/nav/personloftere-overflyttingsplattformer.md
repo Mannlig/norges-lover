@@ -1,26 +1,21 @@
-<!-- innholds-hash: 8cef3e4822ed86feb16fd4900deee2695f484913398c627a941f61e668ed310a -->
+<!-- innholds-hash: 777533be32e0b2bf58489801c7e1567cd99c1860e3548137a42fe71a10bfdc0e -->
 
 # Personløftere og overflyttingsplattformer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personloftere-overflyttingsplattformer
-- **Sist hentet:** 2026-07-05T05:16:11Z
+- **Sist oppdatert i arkivet:** 2026-10-06T14:13:11Z
 
 ## Innhold
 
 Hjelpemiddel
 
-
 ## Personløftere og overflyttingsplattformer
 
 Trygge løft og overflyttinger for deg som har vansker med bevegelse og forflytning.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Personløftere kan være aktuelt for deg som ikke kan stå selv, og må ha hjelp til å forflytte deg mellom ulike møbler som rullestol, seng og toalett.
 
@@ -30,7 +25,12 @@ Generelle vilkår:
 
 - Du må ha vesentlig nedsatt funksjonsevne, og ha behov for spesialprodukter eller spesialtilpassede produkter for å kunne opprettholde eller bedre funksjonsevnen.
 - Funksjonsnedsettelsen må være varig, det vil si at den må ha en varighet på mer enn to år.
-- Du må være
+- Du må være [medlem av Folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
+
+### Hva kan du få?
+
+#### Hva er hjelpemiddelet?
+
 En personløfter er et hjelpemiddel med løftearm, motor og seil, som kan løfte deg trygt fra for eksempel seng til stol. Det finnes mobile og stasjonære personløftere.
 
 En overflyttingsplattform er et stativ beregnet på å gi støtte når du skal flytte deg fra for eksempel seng til stol.
@@ -43,42 +43,58 @@ Dersom du har ståfunksjon og kraft i armene, kan det hende du kan bruke overfly
 
 Mobile personløftere kan flyttes fritt omkring i huset. Noen typer kan du også slå sammen og ta med på reise. Det finnes mobile løftere som kan løfte deg fra sittende til stående stilling og løftere som kan flytte deg i sittende eller liggende stilling.
 
-Vi skiller også mellom aktiv og passiv forflytning. Personløftere for aktiv forflytning innebærer at du bidrar noe selv. Med passiv forflytning kan du bli løftet uten å hjelpe til.
+Vi skiller også mellom aktiv og passiv forflytning. Personløftere for aktiv forflytning innebærer at du bidrar noe selv. Med passiv forflytning kan du bli løftet uten å hjelpe til. Merk at en personløfter er et løftehjelpemiddel og ikke et transporthjelpemiddel.
 
 Stasjonære personløftere finnes bare med passivt løft. Løfteren festes til en løftemotor og et skinnesystem. Siden skinnene ofte festes i taket kalles disse personløfterne gjerne takheiser, men det leveres løsninger for montering av skinner i vegg også.
 
-Stasjonære personløftere brukes i hovedsak på soverom og bad, og det er mulig å få skinnesystem med  overganger mellom rom, slik at personen kan løftes for eksempel fra badet til sengen. Hvis det er mulig å  benytte for eksempel en dusjstol til forflytning mellom rommene i stedet, vil det være mer behagelig.
+Stasjonære personløftere brukes i hovedsak på soverom og bad, og det er mulig å få skinnesystem med overganger mellom rom, slik at personen kan løftes for eksempel fra badet til sengen. Hvis det er mulig å benytte for eksempel en dusjstol til forflytning mellom rommene i stedet, vil det være mer behagelig.
 
 Stasjonære personløftere krever en takhøyde på minimum 240 cm. Prosessen med å kartlegge og montere den stasjonære personløfteren er større enn for mobilløfteren, og kravene til godkjenninger og dokumentasjon er mer kompleks.
 
-Både mobil og stasjonær personløfter er utstyrt med seil. Det finnes ulike typer seil, og valg av type er avhengig av funksjon og situasjon. Riktig type seil er viktig for å få til et godt løft, og seil og løfter må komme fra samme leverandør.
+Både mobil og stasjonær personløfter er utstyrt med seil. Det finnes ulike typer seil, og valg av type er avhengig av funksjon og situasjon. Riktig type seil er viktig for å få til et godt løft, og seil og løfter må komme fra samme leverandør. Seil fås som tilbehør til personløftere. Du kan søke opp dette i tilbehørslisten til avtalen i FinnHjelpemiddel. Seil skal ikke kombineres med personløftere fra ulike leverandører.
 
 Det finnes også badekarmonterte personløftere for sittende posisjon. Dette kalles badekarheis.
 
 Løfteseter fra gulv kan brukes som hjelp til å komme seg opp fra gulvet. Dette kan være aktuelt etter fall, eller hvis du har behov for å være på gulvet for eksempel i lek med barn. Dette hjelpemiddelet krever en god sittestabilitet. Vær oppmerksom på at en passiv personløfter er en tryggere måte å komme seg opp fra gulvet på.
 
-Du kan lese mer om
+Du kan lese mer om [personløftere og seil på kunnskapsbanken.net](https://www.kunnskapsbanken.net/bolig/personlofter/).
 
-På FinnHjelpemiddel kan du få oversikt over
+På FinnHjelpemiddel kan du få oversikt over [de ulike overflyttingsplattformene, løftesetene og personløfterne](https://finnhjelpemiddel.nav.no/rammeavtale/hjelpemidler/51b2817e-774f-4361-9ee0-bdfaeea6dd6e) som Nav har avtale om.
+
+#### Refusjon av reiseutgifter
 
 Hvis du har hatt reiseutgifter på grunn av utprøving av hjelpemidler, kan du søke om å få dekket reiseutgifter.
 
 For refusjon av reiser til sykehus og andre tjenester som administreres av helseforetakene, søker du hos pasientreiser.no.
 
+[Reiseutgifter](https://www.nav.no/reiseutgifter)
+
+Pengestøtte
+
+#### Andre tilbud
+
 Mer informasjon til deg som
+
+- [Har vansker med bevegelse og forflytning](https://www.nav.no/bevegelse) Dette kan du ha rett til
+- [Trenger tilrettelegging av bolig](https://www.nav.no/tilrettelegge-bolig) Dette kan du ha rett til
+
+### Hvordan kan du få?
+
+#### Slik går du fram
 
 Ta kontakt med kommunehelsetjenesten hvis du har behov for hjelpemidler i boligen din. De vil kartlegge hva slags utstyr du trenger og har best nytte av, basert på funksjonsevnen, omgivelsene og boligen. De vil også skrive og begrunne søknaden for deg.
 
-Det er viktig å være klar over at fastmontering av hjelpemidler kan innebære bygningsmessige utgifter. Dette dekkes ikke av Nav, men det kan være en mulighet å søke tilskudd i kommunen du bor i. Slike tilskudd vurderes som regel opp mot din økonomiske situasjon.
-
+Det er viktig å være klar over at fastmontering av hjelpemidler kan innebære bygningsmessige utgifter. Dette dekkes ikke av Nav, men det kan være en mulighet å søke tilskudd i kommunen du bor i. Slike tilskudd vurderes som regel opp mot din økonomiske situasjon.
 
 #### Dette bør du undersøke hvis du skal søke om stasjonær personløfter
 
 - Finn frem aktuelle plantegninger
-- Du bør få hjelp av kommunal hjelpemiddelformidler til å dokumentere trapperom med bilder og mål.
+- Du bør få hjelp av kommunal hjelpemiddelformidler til å dokumentere trapperom med bilder og mål.
 - Hvis du leier bolig, må du be huseier om å godkjenne monteringen.
-En hjelpemiddelformidler utformer søknaden på dine vegne. Kontakt kommunen du bor i for å få hjelp.
 
+#### Søknad og dokumentasjon
+
+En hjelpemiddelformidler utformer søknaden på dine vegne. Kontakt kommunen du bor i for å få hjelp.
 
 #### Fullmakt til å søke hjelpemidler
 
@@ -86,13 +102,15 @@ Bruk dette skjemaet når du gir en fagperson (for eksempel kommunal hjelpemiddel
 
 Ved søknad om fastmonterte hjelpemidler, må du signere godkjenningsskjemaet i tillegg til søknadsskjemaet eller et fullmaktsskjema.
 
-Hjelpemiddelformidleren skal alltid vurdere mobil personløfter før stasjonær. I søknaden må det begrunnes hvorfor det ikke er tilstrekkelig med mobil personløfter.
+[Lag fullmakt](https://www.nav.no/start/fullmakt-hjelpemidler)
+
+Hjelpemiddelformidleren skal alltid vurdere mobil personløfter før stasjonær. I søknaden må det begrunnes hvorfor det ikke er tilstrekkelig med mobil personløfter.
 
 Hvis du søker om personløfter, er det viktig at seilet og løfteren kommer fra samme leverandør, og at du velger riktig type seil til riktig bruk.
 
-Både stasjonær og mobil personløfter krever at den som søker, og den som har oppfølgings- og opplæringsansvaret, har gjennomført
+Både stasjonær og mobil personløfter krever at den som søker, og den som har oppfølgings- og opplæringsansvaret, har gjennomført [godkjenningskurs i personløftere og seil](https://www.kunnskapsbanken.net/kurs/godkjenningskurs-personlofter-og-seil/) (kunnskapsbanken.net).
 
-Hvis du
+Hvis du [har brukerpass](https://www.nav.no/brukerpass) og ønsker å søke selv, må du også gjennomføre kurset for å sikre at bruken og betjeningen av utstyret er forsvarlig.
 
 - Bekreftelse fra fagperson på at du har behov for hjelpemiddelet og hvorfor.
 - Bekreftelse på at noen har påtatt seg ansvaret for opplæring og oppfølging av hjelpemidlet. For søknad om personløftere må dette være en som har godkjenningskurs i elektromedisinske hjelpemidler. Dette er som oftest en ansatt i kommunen din.
@@ -102,29 +120,33 @@ Hvis du
 
 Fagperson har tilgang til aktuelle skjema:
 
-- Søkadsskjema med tilleggsskjema T10 (Stasjonær personløfter).
-- Godkjenningsskjema signert av beboer, og huseier. Dersom du eier boligen din selv, må du signere både som beboer og huseier. Riktig godkjenningsskjema finner du sammen med tilleggsskjemaet (T10).
-- Hvis du søker om mobil personløfter må du
-- Bilde av eksisterende løsning må legges ved.
-- Du må begrunne hvorfor det ikke er tilstrekkelig med mobil personløfter.
-- Bekreftelse fra fagperson på at du har behov for hjelpemiddelet og hvorfor.
+- Søkadsskjema med tilleggsskjema T10 (Stasjonær personløfter).
+- Godkjenningsskjema signert av beboer, og huseier. Dersom du eier boligen din selv, må du signere både som beboer og huseier. Riktig godkjenningsskjema finner du sammen med tilleggsskjemaet (T10).
+- Hvis du søker om mobil personløfter må du [ha gjennomført godkjenningskurs i formidling av personløftere og seil](https://www.kunnskapsbanken.net/kurs/godkjenningskurs-personlofter-og-seil/).
+- [Måltegninger (les om dette på kunnskapsbanken.net)](https://www.kunnskapsbanken.net/bolig/kjokken/) må legges ved.
+- Bilde av eksisterende løsning må legges ved.
+- Du må begrunne hvorfor det ikke er tilstrekkelig med mobil personløfter.
+- Bekreftelse fra fagperson på at du har behov for hjelpemiddelet og hvorfor.
 
 #### Er du fagperson?
 
 Vi har egne løsninger for deg.
 
-Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke
+Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke [skjemaoversikten for samarbeidspartnere](https://www.nav.no/samarbeidspartner/soknader/hjelpemiddelformidler) for å få tilgang på alle aktuelle skjema. Her vil du finne tilleggsskjema, henvisningsskjema for utprøving og andre skjema som er beregnet på fagpersoner og hjelpemiddelformidlere.
 
-Her finner du også inngangen til digital behovsmelding og andre
+Her finner du også inngangen til digital behovsmelding.
 
-Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på
+Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på [samarbeidspartner-sidene til nav.no](https://www.nav.no/samarbeidspartner/hjelpemiddelformidler).
+
+#### Brukerpass
 
 Hvis du er en erfaren hjelpemiddelbruker og ønsker å søke selv, kan det være aktuelt å søke om brukerpass.
 
-Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring.
+Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring. [Mer om brukerpass.](https://www.nav.no/brukerpass)
 
-Du får skriftlig vedtak når Nav har behandlet søknaden din.
+#### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -134,7 +156,14 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
-Hvis du har søkt om mobil personløfter, vil du få hjelpemiddelet utlevert av kommunen når det er klart. Hvis du ikke har reservert deg mot digitale meldinger fra staten, vil du få beskjed på SMS eller e-post når Nav sender hjelpemiddelet  til kommunen. Du vil også kunne følge status på saken din hvis du logger inn på nav.no med ID-porten.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad om hjelpemiddel til dagligliv | 17 dager |
+| Søknad om hjelpemiddel til arbeidsliv | 21 dager |
+
+#### Levering, montering og opplæring
+
+Hvis du har søkt om mobil personløfter, vil du få hjelpemiddelet utlevert av kommunen når det er klart. Hvis du ikke har reservert deg mot digitale meldinger fra staten, vil du få beskjed på SMS eller e-post når Nav sender hjelpemiddelet til kommunen. Du vil også kunne følge status på saken din hvis du logger inn på nav.no med ID-porten.
 
 Kommunen kontakter deg når hjelpemiddelet skal leveres videre til deg.
 
@@ -156,24 +185,41 @@ Når søknaden er ferdig planlagt og innvilget, og anlegget skal monteres, skal 
 
 Leverandør skal foreta belastningstest av anlegget før det godkjennes for bruk.
 
-Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
+#### Klagerettigheter
 
+Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/HJELPEMIDLER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/HJELPEMIDLER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/HJELPEMIDLER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/HJELPEMIDLER)
+
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 17 uker |
+| Klage til Nav klageinstans | 5 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har personløfter eller overflyttingsplattform
+
+#### Reparasjon, service og vedlikehold
 
 Du har selv ansvar for testing, rengjøring og enkelt vedlikehold av hjelpemidlene dine.
 
@@ -183,17 +229,19 @@ Nav gjennomfører jevnlig sjekk (periodisk ettersyn) av elektriske rullestoler, 
 
 Nav hjelpemiddelsentral eller kommunen tar kontakt når det nærmer seg sjekk av ditt hjelpemiddel. Hvis det blir oppdaget mangler, dekker Nav utgifter til reparasjon.
 
-
 #### Behov for akutt reparasjon
 
 Ta først kontakt med kommunen.
 
-Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
+Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
 
 - Telefonnummer: 917 81 122
 - Åpningstid hverdager: klokka 15:30–24:00
-- Åpningstid helger og helligdager: klokka 08:00–24:00
-Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+- Åpningstid helger og helligdager: klokka 08:00–24:00
+
+Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+
+#### Forsikring og tyveri
 
 Blir hjelpemiddelet eller deler av det stjålet, må du melde tyveriet til politiet og sende kopi av anmeldelsen til Nav hjelpemiddelsentral. Du må også gi beskjed til kommunen.
 
@@ -203,13 +251,21 @@ Du skal gi beskjed til kommunen hvis det skjer uhell og ulykker der et hjelpemid
 
 Kommunen er ansvarlig for å melde saken videre til Nav hjelpemiddelsentral.
 
+#### Ta med hjelpemiddel på reise
+
 Enkelte mobile personløftere og overflyttingsplattformer er sammenleggbare, og egnet for å ta med på reise.
 
 Hvis du skal ha med deg et hjelpemiddel på utenlandsreise, bør du kontakte Nav hjelpemiddelsentral i forkant for en gjennomgang av hjelpemidlet. Det kan være utfordrende hvis et hjelpemiddel går i stykker når du er på reise, spesielt i utlandet. Mange problemer kan forebygges eller reduseres ved å planlegge sammen før reisen.
 
+#### Batteri på fly
+
 Hvis du skal reise med fly og hjelpemiddelet ditt bruker batteri, må du undersøke regelverk for flytransport. Ta kontakt med flyselskapet på forhånd.
 
 Dette gjelder særlig hvis hjelpemiddelet bruker lithiumbatteri. Det er strenge internasjonale regler for hvor store lithiumbatteri man kan ha med på fly, hvordan de skal pakkes og hva slags bagasje de skal sendes som. I tillegg kan hvert enkelt flyselskap ha egne regler. Til syvende og sist er det piloten som avgjør hva som får bli med på flyet og ikke.
+
+[Her kan du lese mer om å ta med hjelpemidler på reise](https://www.nav.no/om-hjelpemidler#reise).
+
+#### Flytting og ny bolig
 
 Du kan ta med deg hjelpemidler til ny bolig. Hvis du ikke trenger hjelpemiddelet i den nye boligen, skal det leveres tilbake til hjelpemiddelsentralen.
 
@@ -223,7 +279,6 @@ Dette gjelder også hvis du overtar et dødsbo med fastmonterte hjelpemidler.
 
 Dere kan gjøre avtale om montering av hjelpemiddelet i ny bolig hvis det er aktuelt. Nav dekker ikke utgifter til flyttebyrå og transport i forbindelse med flytting.
 
-
 #### Flytte til institusjon
 
 Noen typer hjelpemidler må du returnere når du flytter til institusjon. Dette er hjelpemidler som er nødvendig for å kunne yte den pleien som normalt ytes på institusjon, og som institusjonen dermed har ansvar for å skaffe selv. Dette gjelder blant annet
@@ -233,7 +288,10 @@ Noen typer hjelpemidler må du returnere når du flytter til institusjon. Dette 
 - trykkavlastningsmadrasser
 - dusjstol/toalettforhøyerer
 - lenestoler med oppreisningsfunksjon
+
 Omsorgsbolig regnes som vanlig bolig og ikke som institusjon. Du kan derfor ta med deg alle slags hjelpemidler hvis du flytter til omsorgsbolig
+
+#### Bytte eller levere tilbake
 
 Du kan kun bytte til et tilsvarende hjelpemiddel. Hvis hjelpemiddelet ditt er utslitt eller noe er ødelagt, må du selv kontakte kommunal servicetekniker for å få en vurdering før du kan be om bytte.
 
@@ -241,6 +299,7 @@ Trenger du et annet hjelpemiddel, må du søke på nytt. Er du i tvil om du skal
 
 Skal du bytte fastmonterte hjelpemidler må du søke på nytt, og kan ikke bruke bytteskjemaet.
 
+[Bytt hjelpemiddel](https://www.nav.no/fyllut/nav100731/pdf)
 
 #### Merk at:
 
@@ -252,23 +311,31 @@ Skal du bytte fastmonterte hjelpemidler må du søke på nytt, og kan ikke bruke
 
 #### Levere tilbake
 
-Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta kontakt med kommunen du bor i eller Nav hjelpemiddelsentral.
+Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta kontakt med kommunen du bor i eller Nav hjelpemiddelsentral. [Les mer om tilbakelevering](https://www.nav.no/om-hjelpemidler#bytte)
 
-Oppdatert 20.02.2026
+### Hva sier loven?
 
+- [Folketrygdloven, kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10/)
+- [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
+- [Rundskriv om hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-#### Skriv til oss
+Oppdatert 05.10.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
 Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål. Svartid er noen arbeidsdager.
 
+Ring oss på 55 55 11 11
 
-#### Ring oss på 55 55 11 11
+Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
 Stengt nå, åpner kl. 9
 
+[Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
-#### Finn din hjelpemiddelsentral
-
+Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/personloftere-overflyttingsplattformer) av norges-lover-bot.*
@@ -279,3 +346,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

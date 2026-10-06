@@ -1,4 +1,4 @@
-<!-- innholds-hash: 42b1176d723ba3f4785d222e691fecd421f7ec0f2a6003cbee025d8dd609ab83 -->
+<!-- innholds-hash: 72f8aceed0018b251a7028ef78fbb7817d22efa124554817acb3685e2d2eab89 -->
 
 # Virksomheten skal ha rutiner for intern varsling
 
@@ -6,10 +6,17 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/varsling/virksomheten-skal-ha-rutiner-for-intern-varsling/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:38:50Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:18:32Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Virksomheten skal ha rutiner for intern varsling
 
@@ -25,38 +32,13 @@ Rutinen skal utarbeides i samarbeid med ansatte og tillitsvalgte (for eksempel v
 
 Varslingsrutinene skal alltid utarbeides eller oppdateres i samarbeid med de ansatte i virksomheten.
 
-- Hva er varsling om kritikkverdige forhold?
-- Hvorfor bør du varsle om kritikkverdige forhold i vår virksomhet?
-- Hvem kan du varsle til?
-- Hvordan kan du varsle?
-- Hvem varsler du til, hvis varselet gjelder øverste leder?
-- Kan du varsle anonymt?
-- Når har du plikt til å varsle?
-- Hva må du tenke på hvis du skal varsle eksternt?
-- Hvilke opplysninger bør varselet inneholde?
-- Vil du som varsler, få en bekreftelse på varselet er mottatt?
-- Hvem skal undersøke, vurdere og håndtere varsling?
-- Hvordan undersøker, vurderer og håndterer vi varsling?
-- Prinsipper for god saksbehandling
-- Hvordan håndterer vi personopplysninger i varsling?
-- I hvilke tilfeller kan det være vanskelig å undersøke et varsel?
-- Vil du som varsler, få informasjon om hvordan arbeidsgiver håndterer varselet?
-- Hva skjer hvis du som varsler, blir utsatt for gjengjeldelse?
-- Hva skjer dersom du blir varslet på?
-- Hvilken rolle har verneombudet i varslingssaker?
-- Rollen til tillitsvalgt i varslingssaker
-- Rollen til AMU i varslingssaker
-- Rollen til andre aktører i varslingssaker
-
 #### Hvorfor er varslingsrutiner viktig?
 
 Varslingsrutiner virker positivt inn på varslingsprosessen. En god rutine gir en forutsigbar prosess, og trygger de som er involvert. I tillegg kan gode rutiner føre til bedre håndtering av varsling, og reduserer risikoen for gjengjeldelse
 
-
 #### Diskuter varsling
 
 Arbeidsplasser som diskuterer varsling, hva som er kritikkverdige forhold og kjenner egen varslingsrutine er bevisst hvordan et varsel skal fremmes og håndteres. En god opplæring påvirker varslingsprosessen på en god måte.
-
 
 ### Tilpass rutinen til virksomheten
 
@@ -64,13 +46,11 @@ En rutine for intern varsling er en del av virksomhetens systematiske helse-, mi
 
 Gode varslingsrutiner er et resultat av skreddersøm. De må tilpasses situasjonen og behovet i hver enkelt virksomhet. Varslingsrutiner skal også sees i sammenheng med virksomhetens risikostyring og systematiske HMS-arbeid.
 
-
 ### Varslingsrutinen er lagt ned
 
-Verktøyet
+Verktøyet Lag en varslingsrutine er lagt ned, og vil ikke lenger være tilgjengelig på nettsidene våre.
 
-Vi anbefaler å besvare de viktige spørsmålene listet opp på
-
+Vi anbefaler å besvare de viktige spørsmålene listet opp på [virksomheten skal ha rutiner for intern varsling](https://www.arbeidstilsynet.no/arbeidsmiljo/varsling/virksomheten-skal-ha-rutiner-for-intern-varsling/) for å lage en varslingsrutine for din virksomhet.
 
 ### Dere kan få veiledning om varslingsrutiner
 
@@ -78,14 +58,25 @@ Vi anbefaler å besvare de viktige spørsmålene listet opp på
 
 Ta kontakt med Arbeidstilsynet på telefon 73 19 97 00.
 
-
 ### Regelverk
 
+[Rett til å varsle om kritikkverdige forhold i virksomheten, arbeidsmiljøloven § 2 A-1](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88604)
+
+[Fremgangsmåte ved varsling, arbeidsmiljøloven § 2 A-2](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88605)
+
+[Arbeidsgivers aktivitetsplikt ved varsling, arbeidsmiljøloven § 2 A-3](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88606)
+
+[Forbud mot gjengjeldelse, arbeidsmiljøloven § 2 A-4.](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88607)
+
+[Oppreisning og erstatning ved brudd på forbudet mot gjengjeldelse, arbeidsmiljøloven § 2 A-5](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88608)
+
+[Plikt til å utarbeide rutiner for intern varsling, arbeidsmiljøloven § 2 A-6](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88609)
+
+[Taushetsplikt ved ekstern varsling til offentlig myndighet, arbeidsmiljøloven § 2 A-7](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88610)
+
+[Diskrimineringsnemnda, arbeidsmiljøloven § 2 A-8](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88611)
 
 ### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/varsling/virksomheten-skal-ha-rutiner-for-intern-varsling/) av norges-lover-bot.*
@@ -93,3 +84,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

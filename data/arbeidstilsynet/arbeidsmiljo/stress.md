@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3df110887a27e7250dbf0e0f9f0e35bcc9d9d6630b372b7b9024854085733300 -->
+<!-- innholds-hash: 91afc5c4b48e061041e7dadb1354c995a074e40f41f436dab52f6cf4ffd7b060 -->
 
 # Stress
 
@@ -6,22 +6,27 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/stress/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-07-04T13:50:01Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:09:19Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Stress
 
-Arbeidstakere opplever stress når det stilles større krav og forventninger i jobben enn det de er i stand til å takle, mestre eller kontrollere. Arbeidstakere som opplever stress over lengre tid kan utvikle alvorlige fysiske og psykiske helseproblemer.
-
+Arbeidstakere opplever stress når det stilles større krav og forventninger i jobben enn det de er i stand til å takle, mestre eller kontrollere. Arbeidstakere som opplever stress over lengre tid kan utvikle alvorlige fysiske og psykiske helseproblemer.
 
 ### Årsaker til arbeidsrelatert stress
 
 Arbeidsrelatert stress skyldes ofte problemer på virksomhetsnivå. Det må derfor håndteres på dette nivået.
 
 Stress oppstår gjerne på grunn av hvordan arbeidet er organisert og tilrettelagt, og hvordan arbeidsoppgavene er fordelt.
-
 
 ### Hva er stress?
 
@@ -30,7 +35,6 @@ Stressreaksjoner er kroppens alarmberedskap, og oppstår når vi er utsatt for u
 Stress må ikke gjøres til et individuelt problem hos arbeidstakeren. Ingen mennesker er helt like, og vi har ulike forutsetninger for å håndtere egen arbeidssituasjon.
 
 Arbeidsmiljøloven stiller et generelt krav til at arbeidet skal organiseres og tilrettelegges slik at det tas hensyn til den enkelte arbeidstakers arbeidsevne, kyndighet, alder og øvrige forutsetninger.
-
 
 ### Faktorer som kan gi risiko og opphav til arbeidsrelatert stress
 
@@ -42,14 +46,15 @@ Dette kan blant annet være:
 - mangel på tydelighet med hensyn til arbeidstakerens rolle
 - ineffektiv kommunikasjon
 - organisatoriske endringer, særlig dersom de håndteres på en dårlig måte
+
 Andre risikofaktorer er at arbeidsrelatert stress også kan oppstå som følge av problemer i relasjonene med andre, for eksempel i situasjoner med:
 
 - manglende støtte fra ledelsen eller kolleger
 - dårlige mellommenneskelige forhold, for eksempel konflikter
 - trakassering
 - vold, trusler og uheldige belastninger som en følge av kontakt med andre, som kunder, klienter, pasienter, brukere etc.
-Det kan også oppstå arbeidsrelatert stress når det er vansker med å forene jobb-, fritids- og/eller familieforpliktelser.
 
+Det kan også oppstå arbeidsrelatert stress når det er vansker med å forene jobb-, fritids- og/eller familieforpliktelser.
 
 ### Råd til arbeidstaker
 
@@ -63,40 +68,15 @@ Følelsen av at kroppen er i alarmberedskap kan være ubehagelig, men alarmreaks
 
 Det helseskadelige stresset oppstår når situasjoner som stresser oss ikke forsvinner eller blir håndtert, men vedvarer over lang tid. Hvis kroppen over lengre tid produserer store mengder adrenalin og kortisol, vil den fortsette å være i konstant beredskap. Når kroppen på denne måten ikke får lov til å slappe av, blir det skadelig for oss.
 
-
 ### Symptomer på stress
 
 Hvis man over lengre tid er stresset vil man begynne å tære på kroppens immunforsvar, og det kan føre til ubalanse i nesten alle systemer. Hvis man har flere av disse symptomene over lengre tid, kan det være tegn på at man opplever helseskadelig stress.
 
 Stress over lang tid kan øke risikoen for utvikling av sykdommer og plager, eksempelvis hodepine, nakke-, skulder- og ryggsmerter, angst, depresjoner og hjerte-/karsykdommer.
 
-- Hjertebank
-- Rastløshet
-- Skjelvende hender
-- Mageproblemer (fordøyelsesproblemer)
-- Manglende appetitt
-- Hyppige infeksjoner
-- Forverring av kroniske sykdommer som psoriasis og diabetes
-- Tretthet/utmattethet
-- Dårligere hukommelse
-- Manglende konsentrasjon
-- Manglende lyst til å gå på arbeid
-- Negative tanker om seg selv
-- Lav selvfølelse
-- Rastløshet
-- Dårligere humør, frustrasjon, irritasjon
-- Tilbaketrukkethet
-- Irritasjon
-- Følelsesmessig ustabil
-- Søvnproblemer
-- Hyperaktivitet
-- Mangel på engasjement
-- Vanskelig å samarbeide med
-- Økt bruk av stimulerende midler som kaffe, røyk og alkohol
-- Økt bruk av sove- og beroligende medikamenter
-- Mindre fysisk aktivitet/mosjon
-- Ubesluttsomhet
-- Økt bruk av sykmelding
+[Les mer om arbeidsrelaterte muskel- og skjelettplager](https://www.arbeidstilsynet.no/arbeidsmiljo/arbeidsrelaterte-muskel--og-skjelettplager/)
+
+[Les mer om arbeidsrelaterte psykiske plager](https://www.arbeidstilsynet.no/arbeidsmiljo/arbeidsrelaterte-psykiske-plager/)
 
 ### Hvorfor er det viktig å forebygge arbeidsrelatert stress?
 
@@ -106,24 +86,27 @@ God forebygging og håndtering av arbeidsrelatert stress vil for det første fø
 
 Ved å ta de ansatte med på råd gjør det enklere å sette i verk relevante og nødvendige forebyggende tiltak. De som har skoen på vet best hvor den trykker.
 
-
 ### Hvordan kan arbeidsrelatert stress forebygges?
 
 Arbeidsrelatert stress kan vurderes og forebygges på den samme systematiske måten som benyttes for andre helse-, miljø- og sikkerhetsrisikoer på arbeidsplassen. Arbeidsmiljøloven krever at arbeidsgiver kartlegger potensielle kilder til stress i arbeidet, risikovurderer disse og gjør tiltak for å sikre et fullt forsvarlig arbeidsmiljø. Loven krever også at arbeidstakerne skal medvirke i dette arbeidet.
-
 
 #### Hvem bør involveres i arbeidet med å forebygge arbeidsrelatert stress?
 
 Arbeidsgiver, mellomledere og arbeidstakere må jobbe sammen for å få et godt arbeidsmiljø. I dette arbeidet har verneombud, tillitsvalgte og eventuelt arbeidsmiljøutvalget og bedriftshelsetjenesten en viktig rolle.
 
-
 ### Regelverk
 
+[Krav til internkontroll i arbeidsmiljøloven § 3-1](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88613)
 
-### Fann du det du leitte etter?
+[Generelle krav til arbeidsmiljøet i arbeidsmiljøloven § 4-1](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88620)
 
-Denne sida er beskytta av reCaptcha, og Googles
+[Krav til tilrettelegging, medvirkning og utvikling i arbeidsmiljøloven § 4-2](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88621)
 
+[Forskrift om organisering, ledelse og medvirkning, §§ 10-1 og 10-8](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85741)
+
+[Forskrift om utførelse av arbeid, kap. 23-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#95037)
+
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/stress/) av norges-lover-bot.*
@@ -132,3 +115,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

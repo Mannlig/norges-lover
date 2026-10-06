@@ -1,4 +1,4 @@
-<!-- innholds-hash: 019c83acae433443af9a7fa6b0b95ce8e7351a8023f85228c0f522bd01084965 -->
+<!-- innholds-hash: 3b7b3508764ea60b319f119e4b64350feeeb9ade376a0bdbaa2e21de0fe3a927 -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,46 +6,37 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-07-04T13:48:07Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:07:02Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Psykososialt arbeidsmiljø
 
-Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter. Arbeidsgiver har ansvaret for at arbeidsmiljøet er trygt og forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og HMS-arbeid.
+Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter. Arbeidsgiver har ansvaret for at arbeidsmiljøet er trygt og forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og HMS-arbeid. Her får dere en oversikt over hva psykososialt arbeidsmiljø er, hvilke krav som gjelder, og hvordan dere kan jobbe forebyggende.
 
+[Tydeligere regelverk fra 1. januar 2026](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#Tydeligere-regelverk)
 
 ### Aktuelt
 
+[Hvordan kan du gjøre jobben bedre? Ikke vent til det blir sykefravær, konflikt eller høy turnover. Finn ut hva som skaper belastninger og sett inn tiltak. Jobb forebyggende med psykososialt arbeidsmiljø.](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#jobb-forebyggende)
 
-#### Stressmestring er ikke løsningen på et dårlig arbeidsmiljø
+[Hvordan kan du gjøre jobben bedre?](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#jobb-forebyggende)
 
-En misforståelse går igjen: Psykososialt arbeidsmiljø fremstilles ofte som noe som handler om den enkelte ansatte.
+[Hvordan jobbe med psykososialt arbeidsmiljø i praksis? Loven krever at vi jobber systematisk med psykososialt arbeidsmiljø. Mange synes dette er vanskelig å ta tak i. Webinar: Hvordan skal vi egentlig gjøre jobben i praksis? (Ca. 30 min, YouTube)](https://youtu.be/WqwbbrlWtSw?si=888OqHSLSzKmi8fF)
 
-Les innlegget
+[Hvordan jobbe med psykososialt arbeidsmiljø i praksis?](https://youtu.be/WqwbbrlWtSw?si=888OqHSLSzKmi8fF)
 
+[Over 1200 voldshendelser på jobb varslet til Arbeidstilsynet «Beboer angriper uprovosert med kvelertak og roping. Elev blir sint, og slår hardt mot bakhodet.» – Vold og trusler er fortsatt et alvorlig arbeidsmiljøproblem i norsk arbeidsliv. Les innlegget](https://www.arbeidstilsynet.no/nyheter/over-1200-voldshendelser-pa-jobb-varslet-til-arbeidstilsynet/)
 
-#### Stressmestring er ikke løsningen på et dårlig arbeidsmiljø
-
-
-#### Jobb med det før du må
-
-Ikke vent til det blir konflikter, sykefravær eller at folk slutter. Finn ut hva som skaper belastninger, sett inn tiltak, og gjør jobben bedre!
-
-Jobb forebyggende med psykososialt arbeidsmiljø
-
-
-#### Jobb med det før du må
-
-
-#### Hvordan jobbe med psykososialt arbeidsmiljø i praksis?
-
-Loven krever at vi jobber systematisk med psykososialt arbeidsmiljø. Mange synes dette er vanskelig å ta tak i.
-
-
-#### Hvordan jobbe med psykososialt arbeidsmiljø i praksis?
-
+[Over 1200 voldshendelser på jobb varslet til Arbeidstilsynet](https://www.arbeidstilsynet.no/nyheter/over-1200-voldshendelser-pa-jobb-varslet-til-arbeidstilsynet/)
 
 ### Hva er psykososialt arbeidsmiljø?
 
@@ -59,12 +50,12 @@ Det psykososiale arbeidsmiljøet påvirkes blant annet av
 - samarbeid og relasjoner i virksomheten
 - kontakt med mennesker som brukere, pasienter, elever, kunder eller andre
 - arbeidstakernes kompetanse og øvrige forutsetninger
+
 Det psykososiale arbeidsmiljøet har stor betydning for både arbeidstakerne, virksomhetene og samfunnet.
 
 Et godt og trygt psykososialt arbeidsmiljø kan fremme både helse, trivsel, motivasjon, mening, engasjement og utvikling hos arbeidstakerne. For virksomhetene kan det bidra til lavere sykefravær, bedre produktivitet, kvalitet og omdømme, og at de lykkes bedre med å tiltrekke seg og beholde relevant kompetanse.
 
 Et dårlig psykososialt arbeidsmiljø kan øke risikoen for psykiske plager, muskel- og skjelettplager, hjerte- og karsykdom, sykefravær og at arbeidstakere faller ut av arbeidslivet. Det kan også bidra til økt risiko for feil og ulykker.
-
 
 #### Eksempler på et godt psykososialt arbeidsmiljø
 
@@ -77,13 +68,19 @@ Eksempler på et godt psykososialt arbeidsmiljø er når
 
 ### Tydeligere regelverk fra 1. januar 2026
 
+1. januar 2026 ble regelverket om psykososialt arbeidsmiljø endret. Endringene innebærer ingen nye krav til arbeidsgivere, men presiserer og tydeliggjør allerede gjeldende krav. Hensikten er at det skal bli lettere å forstå hva psykososialt arbeidsmiljø er, og å jobbe med det.
 
 #### Krav til fullt forsvarlig psykososialt arbeidsmiljø
 
+[Arbeidsmiljøloven § 4-3](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml/#88622) presiserer at kravet om et fullt forsvarlig arbeidsmiljø også gjelder det psykososiale. Samtidig er det gitt flere eksempler på psykososiale arbeidsmiljøfaktorer. De angitte eksemplene innebærer ikke et forbud mot disse faktorene. De innebærer heller ikke et minimumskrav til hva enhver virksomhet skal kartlegge og risikovurdere. For svært mange virksomheter vil de nevnte faktorene likevel være nødvendige eller relevante å ta hensyn til for å sikre et fullt forsvarlig arbeidsmiljø.
+
 En ny del i forskrift om utførelse av arbeid presiserer og utdyper hvordan arbeidsgivere skal jobbe systematisk og forebyggende med det psykososiale arbeidsmiljøet. Den nye delen består av tre kapitler:
 
-Kapitlet om vold og trusler er hovedsakelig en videreføring av kapittel 23A som er opphevet.
+- [krav til det psykososiale arbeidsmiljøet, andre del, kapittel 1 A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94755)
+- [bestemmelser om trakassering og annen utilbørlig opptreden, andre del, kapittel 2A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94761)
+- [bestemmelser om vold og trusler, andre del, kapittel 3A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94766)
 
+Kapitlet om vold og trusler er hovedsakelig en videreføring av kapittel 23A som er opphevet.
 
 ### Det psykososiale arbeidsmiljøet skal være fullt forsvarlig
 
@@ -93,79 +90,11 @@ Noen psykososiale arbeidsmiljøfaktorer er alltid uakseptable, som trakassering,
 
 Om forholdene er forsvarlige, avhenger blant annet av hvor krevende de er, hvor ofte de oppstår, hvor lenge de varer, og hvilke beskyttende faktorer som finnes i arbeidsmiljøet. Derfor må arbeidsgiveren se på helheten i arbeidsmiljøet og hvordan ulike faktorer virker sammen for å vurdere om det psykososiale arbeidsmiljøet er fullt forsvarlig.
 
-
 ### Psykososiale arbeidsmiljøfaktorer
 
 Det psykososiale arbeidsmiljøet består av en rekke ulike faktorer som kan påvirke hverandre og arbeidsmiljøet som helhet. Regelverket omtaler flere psykososiale arbeidsmiljøfaktorer, men gir ingen fullstendig liste.
 
 Noen av faktorene har egne krav i regelverket, mens andre nevnes som eksempler på psykososiale arbeidsmiljøfaktorer. Eksemplene bygger på kunnskap om hva som kan påvirke helse, og hva som er relevant for svært mange virksomheter i ulike deler av arbeidslivet. Under finner du en nærmere beskrivelse av faktorer som regelverket omtaler.
-
-I arbeidshverdagen møter arbeidstakere ulike krav og forventninger fra ledere, kollegaer, samarbeidspartnere, seg selv eller andre. Det kan for eksempel handle om hvem som skal gjøre hva, hvordan arbeidsoppgavene skal gjøres, hvilke tidsfrister som gjelder, eller hva som skal prioriteres.
-
-Når krav og forventninger oppleves som uklare, utydelige eller motstridende kan det skape stress og utgjøre en risiko for både helse og sikkerhet.
-
-Krav og forventninger kan være både formelle og uformelle, og komme fra ulike hold. Av og til kan krav eller forventninger fra andre oppleves å være i strid med arbeidstakerens egne profesjonelle eller moralske verdier, for eksempel hvis arbeidstakeren må utføre en oppgave på en måte han eller hun mener burde vært gjort annerledes.
-
-Uklare krav og forventninger omtales ofte som rolleuklarhet, mens motstridende krav og forventninger kan kalles rollekonflikt.
-
-Arbeid med mennesker som pasienter, brukere, pårørende, klienter, barn, elever, studenter, kunder eller andre kan innebære emosjonelle krav og belastninger.
-
-Emosjonelle krav kan handle om å
-
-- sette seg inn i eller håndtere andres tanker, følelser eller atferd
-- håndtere eller skjule sine egne tanker eller følelser
-- tilpasse kommunikasjon eller atferd i møte med andre
-Eksempler på emosjonelt krevende arbeid kan være når arbeidstakere behandler, pleier, veileder, støtter, setter grenser, yter service eller tar beslutninger av betydning for menneskene de arbeider med. Det kan være særlig krevende i arbeid med mennesker i sårbare situasjoner, kriser, med sterke følelser, eller utagerende atferd.
-
-Emosjonelle krav kan være meningsfulle, faglig utviklende og bidra til mestring. Samtidig kan høy følelsesmessig innsats over tid være belastende, og utgjøre en risiko for helse og trivsel. Risikoen kan øke hvis arbeidstakerne ikke får tilstrekkelig støtte eller restitusjon.
-
-Arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal gjøres, og den tiden som er til rådighet kan handle om at arbeidstakerne har mange, store eller krevende oppgaver som gjør at de må jobbe mye eller i høyt tempo. Over tid kan det føre til stress og utgjøre en risiko for både helse og sikkerhet. Risikoen kan øke hvis arbeidstakerne samtidig opplever andre belastninger eller har lav selvbestemmelse og innflytelse i arbeidet.
-
-Høyt tidspress er en vanlig risikofaktor. Trivsel og helse kan imidlertid også påvirkes dersom arbeidstakerne har for lite å gjøre, eller får for lite utfordring i arbeidet.
-
-Arbeidsmengde og tidspress blir ofte omtalt som jobbkrav.
-
-Støtte og hjelp i arbeidet handler om at arbeidstakerne får den støtten de trenger fra leder, kollegaer eller andre.
-
-Støtten kan være emosjonell, som omsorg, forståelse og anerkjennelse. Den kan også være instrumentell, som faglige råd, teknisk assistanse eller tilbakemeldinger på arbeidet. For å sikre at arbeidstakerne får den støtten som er nødvendig, kan det være behov for å sette den i system, for eksempel gjennom faste arenaer for faglig sparring, jevnlige kontaktpunkter med leder, kollegastøtteordninger, eller på andre måter.
-
-Når arbeidstakerne får den støtten og hjelpen de trenger, bidrar det blant annet til å mestre kravene i arbeidet, forebygge stress og sikre at oppgaver kan løses på en god måte. Utilstrekkelig støtte kan derimot være belastende og øke risikoen for helseplager.
-
-Arbeidsgiveren skal legge vekt på at arbeidstakerne skal ha mulighet til selvbestemmelse, innflytelse og faglig ansvar i arbeidssituasjonen sin.
-
-Selvbestemmelse og innflytelse i arbeidet handler om i hvilken grad arbeidstakerne kan påvirke for eksempel beslutninger av betydning for arbeidssituasjonen deres, eller hvordan de utfører arbeidsoppgavene sine. Dette innebærer påvirkning gjennom formelle medvirkningsprosesser, men også at arbeidstakeren har et faktisk handlingsrom i arbeidshverdagen.
-
-Selvbestemmelse og innflytelse kan bidra til trivsel og motivasjon, fleksibel og god oppgaveløsing, og er sentralt for at arbeidstakeren skal kunne mestre arbeidet. Det er imidlertid viktig at selvbestemmelsen balanseres med tydelige rammer og god støtte. For lite selvbestemmelse kan bidra til stress og helseplager.
-
-Selvbestemmelse og innflytelse i arbeidet blir også omtalt som jobbkontroll eller autonomi.
-
-Arbeidet skal legges til rette slik at arbeidstakernes integritet og verdighet ivaretas. Dette handler både om å beskytte arbeidstakerne mot krenkelser og å legge til rette for trygghet og respekt i arbeidsmiljøet.
-
-Å ivareta integritet og verdighet kan blant annet handle om
-
-- å forebygge og håndtere vold, trusler, trakassering og annen utilbørlig opptreden
-- å ta personvern på alvor, og respektere arbeidstakernes grenser og privatliv
-- å sikre at alle møtes med respekt og likeverd, uavhengig av personlige egenskaper, kompetanse, identitet, bakgrunn eller annet
-- å legge til rette for at arbeidstakere kan utføre arbeidet i tråd med sitt faglige skjønn og etiske standarder, så lenge det er forsvarlig
-- å fremme rettferdighet, trygghet og tillit i arbeidsmiljøet, for eksempel slik at det er trygt å si ifra og diskutere faglige og etiske spørsmål
-Arbeidsgiveren skal, så langt det lar seg gjøre, utforme arbeidet slik at det gir mulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomheten. Dette har flere fordeler for arbeidstakernes helse og sikkerhet.
-
-Å arbeide alene kan bidra til sosial isolasjon, ensomhet og mistrivsel, som igjen kan føre til helseplager. Derimot er mulighet til kontakt og kommunikasjon med kollegaer og ledere en forutsetning for støtte og hjelp i arbeidet. Å arbeide sammen med noen har også betydning for sikkerheten, for eksempel fordi det kan gi mulighet til å tilkalle hjelp i kritiske situasjoner.
-
-Arbeidstakere skal ikke utsettes for trakassering, inkludert seksuell trakassering, eller annen utilbørlig opptreden.
-
-Trakassering er handlinger, unnlatelser eller ytringer som har som formål eller virkning å være krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende.
-
-Seksuell trakassering er enhver form for uønsket seksuell oppmerksomhet som har som formål eller virkning å være krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom.
-
-Annen utilbørlig opptreden er ikke definert i regelverket. Det kan være atferd som ikke faller under definisjonene til vold, trusler, trakassering eller seksuell trakassering, men som likevel er krenkende og innebærer et klart avvik fra hva som er akseptabel oppførsel i arbeidslivet.
-
-Arbeidstakere skal beskyttes mot vold, trusler og uheldige belastninger som følge av kontakt med andre, så langt det er mulig.
-
-Vold og trusler er hendelser hvor arbeidstakere blir angrepet på en måte som åpenbart eller antydet er en fare for deres sikkerhet, helse eller velferd. Det kan for eksempel være fysisk, verbalt eller digitalt. Kravet i loven gjelder hendelser som er relatert til arbeidet eller arbeidstakerens rolle, men som også kan skje utenfor arbeidsstedet eller arbeidstiden.
-
-Vold omfatter handlinger som har til hensikt å skade en person fysisk eller psykisk. Det inkluderer ikke rene uhell, men kan også omfatte hendelser der den som skader, ikke er klar over eller vurderer konsekvensene av handlingen sin – for eksempel på grunn av rus, sykdom eller mental tilstand.
-
 
 ### Jobb forebyggende med det psykososiale arbeidsmiljøet
 
@@ -175,150 +104,47 @@ For svært mange virksomheter er det nødvendig å se nærmere på de psykososia
 
 Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelte virksomhet, og være rettet mot de behovene og utfordringene som finnes der. Samtidig må arbeidet være i tråd med kravene i regelverket.
 
-
 #### Slik jobber dere forebyggende med det psykososiale arbeidsmiljøet
 
-Arbeidsgiveren skal kartlegge psykososiale arbeidsmiljøfaktorer som kan påvirke arbeidstakernes helse, sikkerhet eller velferd. Kartleggingen handler om å beskrive arbeidet og gi grunnlag for å vurdere hva som kan være belastende eller farlig. Ulike grupper eller deler av virksomheten kan ha forskjellige arbeidsoppgaver og dermed ulike arbeidsmiljøutfordringer.
-
-For å få et godt bilde av det psykososiale arbeidsmiljøet, bør virksomheten bruke flere kilder i kartleggingen, som for eksempel arbeidsmiljøundersøkelser, vernerunder, avviksmeldinger, medarbeidersamtaler eller uformelle samtaler.
-
-Kartleggingen bør omfatte psykososiale arbeidsmiljøfaktorer som kan
-
-- føre til akutt skade
-- gi helseskadelige belastninger over tid
-- beskytte mot helseskadelige belastninger
-På grunnlag av kartleggingen skal arbeidsgiveren vurdere risikoen for skadelig påvirkning. Det gjelder både risiko for helseskadelige belastninger som oppstår over tid og risiko for akutt skade.
-
-Risikovurdering handler om å vurdere
-
-- sannsynligheten for at en uønsket hendelse eller arbeidsmiljøtilstand oppstår
-- konsekvenser det kan ha for arbeidstakernes helse, sikkerhet eller velferd
-Det kan handle om én enkelt psykososial arbeidsmiljøfaktor, eller om en kombinasjon av ulike faktorer og hvordan de påvirker hverandre. For eksempel kan en uønsket hendelse handle om enkeltfaktorer som vold eller trakassering, mens en uønsket arbeidsmiljøtilstand kan handle om at arbeidstakerne samtidig har høyt tidspress, høye emosjonelle krav og utilstrekkelig støtte og restitusjon over tid. Arbeidsgiveren må også vurdere den samlede risikoen i det psykososiale arbeidsmiljøet.
-
-Det finnes ulike metoder og verktøy for risikovurdering. Uansett hvordan virksomheten gjennomfører risikovurderingen, kan det være nyttig å stille seg spørsmål som for eksempel:
-
-- Hvilke arbeidsoppgaver eller -prosesser kan føre til belastning?
-- Når eller hvor kan en farlig situasjon oppstå?
-- Hvordan kan belastningen eller faren beskrives?
-- Hvor hyppig eller varig utsettes arbeidstakerne for belastningen?
-- Hvem berøres, og er det grupper i virksomheten som er spesielt utsatt?
-- Hvor sannsynlig er det at en uønsket hendelse skjer, eller at belastningen blir uforsvarlig?
-- Hva kan være årsakene til at den uønskede hendelsen skjer?
-- Hvordan virker organiseringen og planleggingen av arbeidet inn på belastningen?
-- Hvilke, og hvor alvorlige konsekvenser kan hendelsen eller belastningen gi – både akutt og på lengre sikt?
-- Hvordan fungerer eventuelle tiltak man allerede har iverksatt?
-- Hvordan påvirker de ulike arbeidsmiljøfaktorene hverandre?
-- Hva er den samlede risikoen i det psykososiale arbeidsmiljøet?
-På bakgrunn av risikovurderingen skal arbeidsgiveren planlegge og iverksette tiltak for å fjerne eller redusere risiko.
-
-Det vil ikke alltid være mulig å fjerne risikoen helt, særlig når den er knyttet til forhold som er en naturlig eller iboende del av arbeidet. Forebyggende tiltak vil derfor ofte handle om å redusere risikoen så langt det lar seg gjøre. Tiltak kan handle om både
-
-- å redusere sannsynligheten for at en uønsket hendelse eller tilstand oppstår
-- å begrense uheldige konsekvenser hvis det likevel skjer
-Informasjonen fra kartleggingen og risikovurderingen skal gi et grunnlag for å prioritere og velge tiltak som treffer behovet. For å finne gode løsninger, er det viktig å forstå hva som kan være årsakene til at problemer kan oppstå. Det kan være aktuelt å rette tiltak mot både organisering av arbeidet, ledelse, grupper, eller arbeidstakerne. Kollektive tiltak bør vurderes før individuelle tiltak.
-
-Psykososiale arbeidsmiljøtiltak kan være
-
-- tydelige rolle- og ansvarsbeskrivelser som gjentas jevnlig for å sikre felles forståelse, trygghet og effektiv oppgaveløsning
-- faste møtepunkter mellom leder og medarbeider for støtte til prioritering, planlegging av oppgaver, forventningsavklaringer og lignende
-- kollegastøtteordninger for å sikre at arbeidstakere med emosjonelt krevende oppgaver får mulighet til støtte og faglig sparring
-- å legge til rette for gode samarbeidsrutiner og arenaer der samarbeidsutfordringer kan tas opp tidlig, slik at konflikter kan forebygges
-- å etablere gode rutiner for å melde fra om og håndtere trakassering
-- opplæring og øvelse i bruk av sikkerhetsutstyr og håndtering av volds- og trusselsituasjoner
-Dette er eksempler for å illustrere hva det kan handle om. Det er viktig at valg av tiltak tilpasses behovene og risikoforholdene i den enkelte virksomhet.
-
-En handlingsplan bør beskrive hva som er målet, hva som skal gjøres, hvem som berøres, hvem som har ansvaret, og tidsrammen for tiltaket. For å finne ut om tiltakene har ønsket effekt, må de evalueres. Dersom tiltakene ikke virker som planlagt, må de justeres og eventuelt erstattes eller suppleres av andre tiltak.
-
-Arbeidsgiveren må sørge for at arbeidstakere, verneombud og tillitsvalgte får informasjon om risikofaktorer i det psykososiale arbeidsmiljøet, og om iverksatte tiltak og rutiner. Informasjonen skal være tydelig, oppdatert og lett tilgjengelig, slik at arbeidstakeren forstår hva risikoen består av og hvordan arbeidsgiveren håndterer den.
-
-God informasjon kan gi fordeler som at
-
-- arbeidstakernes mulighet til å medvirke i arbeidsmiljøarbeidet styrkes
-- det blir lettere å oppdage problemer tidlig
-- verneombud og tillitsvalgte får et bedre grunnlag for å ivareta sine roller
-- tilliten og åpenheten i organisasjonen øker
-Informasjonen kan gis gjennom ulike kanaler, som for eksempel
-
-- faste møter der arbeidsmiljø, risiko og forebygging er tema
-- skriftlige oppdateringer i HMS-systemet
-- intranett eller informasjonsbrev
-- dialog med verneombud og tillitsvalgte om funn og tiltak
-Det viktigste er at informasjonen er relevant, tydelig og når frem til alle det gjelder.
-
-Arbeidsgiveren skal sørge for at arbeidstakerne får den
-
-Hvis det for eksempel er risiko for vold eller andre alvorlige hendelser, kan det være nødvendig med øvelser. Øvelsene bør omfatte hvordan hendelsene både kan forebygges og håndteres. Ved særlig fare for liv og helse, skal arbeidsgiveren utarbeide en
-
-Arbeidsgiveren skal sørge for at det systematiske helse-, miljø- og sikkerhetsarbeidet med psykososialt arbeidsmiljø gjøres i samarbeid med arbeidstakerne og deres representanter. Dette betyr at arbeidsgiveren ikke kan gjøre dette arbeidet alene, men må involvere ansatte og verneombud aktivt i både kartlegging, risikovurdering samt planlegging og oppfølging av tiltak. Arbeidstakerne har plikt til å medvirke. Verneombudet har en viktig rolle og skal involveres hvis virksomheten har verneombud. Andre representanter for arbeidstakerne kan for eksempel være tillitsvalgte fra fagforeningene.
-
-Fordeler ved å involvere arbeidstakerne kan være at
-
-- man bygger tillit gjennom god dialog mellom arbeidsgiveren og arbeidstakerne
-- man får best innsikt i det psykososiale arbeidsmiljøet fra de som kjenner det best
-- det gir grunnlag for gode prioriteringer og tiltak som treffer behovene
-- det bidrar til motivasjon og eierskap hos arbeidstakerne, slik at tiltakene blir lettere å gjennomføre
-Dersom arbeidstakerne opplever at det både nytter og er trygt å ytre seg, stille spørsmål og komme med ideer, øker sjansen for å lykkes med samarbeidet.
-
-Dersom risikoforholdene i virksomheten tilsier det, eller om virksomheten tilhører
-
-Alle arbeidsgivere har uansett plikt til å bruke sakkyndig bistand dersom det er nødvendig for å kunne gjennomføre det systematisk forebyggende arbeidsmiljøarbeidet. Det kan være aktuelt for eksempel dersom virksomheten ikke selv har den kompetansen som trengs.
-
-
-#### Risikovurdering
-
-Les mer om hvordan dere kan arbeide systematisk med kartlegging, risikovurdering og tiltak
-
-
-### Artikler om psykososialt arbeidsmiljø
-
-
-#### Innlegg: Sykehjem med sykere pasienter stiller nye krav til arbeidshverdagen
-
-Ansatte i eldreomsorgen beskriver en arbeidshverdag der de løper mellom oppgaver, mangler tid til oppfølging og går hjem med dårlig samvittighet.
-
-Lesetid: 3 min
-
-
-#### Innlegg: Når sykepleiere føler de ikke strekker til, er det også et arbeidsmiljøspørsmål
-
-«Jeg har ikke tid til å være den sykepleieren jeg vil være». Det er en setning som gjør inntrykk.
-
-Lesetid: 2 min
-
-
-#### Innlegg: Vi må snakke mer om hva som holder folk i arbeid
-
-Vi snakker mye om hva som skjer
-
-Lesetid: 2 min
-
+[Risikovurdering Les mer om hvordan dere kan arbeide systematisk med kartlegging, risikovurdering og tiltak](https://www.arbeidstilsynet.no/hms/risikovurdering/)
 
 ### Regelverk
 
+[Krav til det psykososiale arbeidsmiljøet: Forskrift om utførelse av arbeid, andre del](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94755)
+
+[Arbeidsmiljøloven, § 4-3. Krav til det psykososiale arbeidsmiljøet](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88622)
+
+### Kommende kurs og webinar
+
+[Digital faglunsj: Psykososialt arbeidsmiljø og verdien av partssamarbeid Teams tir. 13. okt. 11.00 - 12.00 Digitale arrangement](https://www.arbeidstilsynet.no/kurs/digital-faglunsj-psykososialt-arbeidsmiljo-og-verdien-av-partssamarbeid/)
+
+[Frokostmøte Tønsberg: Tillit på arbeidsplassen – hvordan få det til i praksis? Statens Park, Anton Jenssens gate 5 tor. 15. okt. 08.00 - 10.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/forkostmote-tonsberg-tillit-pa-arbeidsplassen/)
+
+[Oslo: Bli med oss å knuse myter om psykososialt arbeidsmiljø Statens Arbeidsmiljøinstitutt, Gydas vei 8 tir. 20. okt. 09.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/myter-om-psykososialt-arbeidsmiljo/)
+
+[Se alle våre kurs og webinar](https://www.arbeidstilsynet.no/kurs/)
+
+### Artikler om psykososialt arbeidsmiljø
+
+[Innlegg: Ingen skal tåle vold og trusler på jobb – heller ikke i skolen En lærer blir slått. En assistent blir sparket. En miljøarbeider går hjem med en klump i magen etter nok en trusselsituasjon. Dette skjer i norsk skole. Publisert 28.09.2026](https://www.arbeidstilsynet.no/nyheter/innlegg-ingen-skal-tale-vold-og-trusler-pa-jobb--heller-ikke-i-skolen/)
+
+Meninger [Innlegg: Når alt haster på jobb, må du slippe å stå alene NRK-serien LIS viser en sykehushverdag der mye haster og ansvaret er stort. Med høyt press må legene ha støtte og rammer som gjør det mulig å gjøre en god jobb. Publisert 16.09.2026 Lesetid: 3 min](https://www.arbeidstilsynet.no/nyheter/nar-alt-haster-pa-jobb-ma-du-slippe-a-sta-alene/)
+
+Nyhet [Skolene må bli bedre på å forebygge vold og trusler – Lærere og andre ansatte i skolen skal kunne gå på jobb uten å risikere å bli utsatt for vold og trusler, sier direktør Ingvill Kvernmo. En ny rapport fra Arbeidstilsynet viser at mange skoler fortsatt har et stykke igjen før dette er godt nok ivaretatt. Ved nær ni av ti skoler fant vi mangler i arbeidet med å kartlegge risiko, vurdere farer og sette inn tiltak for å beskytte arbeidstakerne. Publisert 17.09.2026 Lesetid: 5 min](https://www.arbeidstilsynet.no/nyheter/nar-9-av-10-skoler-forebygger-ikke-vold-og-trusler-godt-nok/)
+
+[Flere aktuelle saker](https://www.arbeidstilsynet.no/nyheter/)
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
 
+[Skap et bedre arbeidsmiljø Et godt arbeidsmiljø kan øke produktivitet, trivsel og motivasjon for arbeidet, og redusere sykefravær. Bruk Arbeidsmiljøhjelpen og snakk sammen om tema som har stor betydning for helse og sykefravær i din bransje. Prøv Arbeidsmiljøhjelpen](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-#### Skap et bedre arbeidsmiljø
+[Skap et bedre arbeidsmiljø](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-Godt arbeidsmiljø kan øke produktivitet, trivsel og redusere sykefraværet. Bruk Arbeidsmiljøhjelpen og snakk sammen om det som har størst betydning for helse og sykefravær i din bransje.
+[Få kunnskap om arbeidsmiljø På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje. Besøk arbeidsmiljøportalen.no](https://www.arbeidsmiljoportalen.no/)
 
+[Få kunnskap om arbeidsmiljø](https://www.arbeidsmiljoportalen.no/)
 
-#### Skap et bedre arbeidsmiljø
-
-
-#### Få kunnskap om arbeidsmiljø
-
-På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje.
-
-
-#### Få kunnskap om arbeidsmiljø
-
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/) av norges-lover-bot.*
@@ -330,3 +156,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

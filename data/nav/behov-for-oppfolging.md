@@ -1,26 +1,21 @@
-<!-- innholds-hash: 949171f95aed75ca77da96cec64d89c6bcf1a5c8c3cc0bb7abdeeeedf99fe43e -->
+<!-- innholds-hash: 9cafb558eea742262cdfdd7bf1192907ed0cce8e8433f4d5bff6fce1a14161d6 -->
 
 # Vurdering av behov for oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/behov-for-oppfolging
-- **Sist hentet:** 2026-05-17T05:39:39Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:51:48Z
 
 ## Innhold
 
 Hjelp til å komme i jobb
 
-
 ## Vurdering av behov for oppfølging
 
 Når du kontakter Nav for å få hjelp til å komme i jobb eller beholde jobben du har, har du rett til å få en vurdering av jobbmulighetene dine og hva slags hjelp og støtte som kan være aktuelt for deg.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvordan vurderer Nav behovet ditt for hjelp og støtte?
 
 Vi vurderer jobbmulighetene dine opp mot kravene i arbeidslivet, og hvilke krav som stilles til forskjellige yrker. Vi tar utgangspunkt i opplysninger du har gitt oss, og relevant opplysninger vi har innhentet fra andre. Vi ser for eksempel på
 
@@ -31,12 +26,14 @@ Vi vurderer jobbmulighetene dine opp mot kravene i arbeidslivet, og hvilke krav 
 - personlige egenskaper
 - behov for tilrettelegging
 - ledige stillinger på arbeidsmarkedet
-Du vil få et vedtak fra oss. Dette kalles et oppfølgingsvedtak etter Nav-loven § 14 a. Vedtaket vil si noe om veiledningen og oppfølgingen du har rett på fra Nav.
+
+### Hva skjer når Nav har gjort vurderingen?
+
+Du vil få et vedtak fra oss. Dette kalles et oppfølgingsvedtak etter Nav-loven § 14 a. Vedtaket vil si noe om veiledningen og oppfølgingen du har rett på fra Nav.
 
 Vurderingene som gjøres i oppfølgingsvedtaket, danner i mange tilfeller grunnlaget for hvilke tiltak, pengestøtter og tjenester du kan få tilbud om fra Nav.
 
 Hvis du har søkt om pengestøtte fra Nav, så vil ikke dette vedtaket gi svar på om du har rett til pengestøtte eller ikke.
-
 
 #### Hva står i vedtaket?
 
@@ -66,17 +63,26 @@ Denne kategorien er for deg som har varig nedsatt arbeidsevne med liten mulighet
 
 I utgangspunktet er det ikke et mål at du skal kunne jobbe, men du kan når som helst ta kontakt med Nav dersom situasjonen din endrer seg.
 
-
 #### Hva skjer etter at du har fått vedtaket?
 
 Når du har fått et oppfølgingsvedtak, bruker vi kategorien din som utgangspunkt for videre oppfølging. Hva slags hjelp og støtte som kan være aktuelt for at du skal nå dine mål, blir tema i den videre dialogen mellom deg og Nav.
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+### Du kan klage på vedtaket
 
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
+
+[Send klage](https://klage.nav.no/nb/klage/NAV_LOVEN_14A)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/NAV_LOVEN_14A)
 
 #### Saksbehandlingstid for klage på oppfølgingsvedtak
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 8 uker |
+| Klage til Nav klageinstans | 5 måneder |
+
+### Meld fra om endringer
 
 Behovet ditt for veiledning og oppfølging kan endre seg over tid. Oppfølgingsvedtaket skal gi en god beskrivelse av situasjonen din på det tidspunktet vedtaket blir fattet.
 
@@ -84,8 +90,13 @@ Hvis din situasjon og/eller målene dine endrer seg i løpet av oppfølgingen, s
 
 Endringer i arbeidsmarkedet er et eksempel på en endring som kan få konsekvenser for jobbmulighetene dine. Da har du rett til en ny vurdering og et nytt oppfølgingsvedtak.
 
-Oppdatert 11.12.2025
+[Meld fra om endring](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-vurdering-av-arbeidsevne)
 
+### Hva sier loven?
+
+[Nav-loven, § 14 a: Vurdering av behov for bistand for å beholde eller skaffe seg arbeid (lovdata.no)](https://lovdata.no/nav/nav-loven/kap3/%C2%A714a)
+
+Oppdatert 11.12.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/behov-for-oppfolging) av norges-lover-bot.*
@@ -93,3 +104,4 @@ Oppdatert 11.12.2025
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

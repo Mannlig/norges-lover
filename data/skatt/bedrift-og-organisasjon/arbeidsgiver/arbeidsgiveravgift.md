@@ -1,4 +1,4 @@
-<!-- innholds-hash: e2c7bf37916e4b367251e62507b97b94be5c76e29701007161a6c4fd0bb03c4b -->
+<!-- innholds-hash: 947d8d75f70285f84614d68ff17be02e5e19d718fe4ffd8c52a6b8e879257e42 -->
 
 # Arbeidsgiveravgift
 
@@ -6,36 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:52:12Z
+- **Sist oppdatert i arkivet:** 2026-10-06T10:15:28Z
 
 ## Innhold
-
 
 ## Arbeidsgiveravgift
 
 Som arbeidsgiver har du ansvar for å beregne og innbetale arbeidsgiveravgift.
-
-
-### Betale forskuddstrekk, arbeidsgiveravgift, finansskatt og utleggstrekk
-
-
-### Lag KID for arbeidsgiveravgift
-
-
-### Soner, beregningskoder og satser for arbeidsgiveravgift
-
-
-### Hva inngår i avgiftsgrunnlaget for beregning av arbeidsgiveravgift?
-
-
-### Plikt til å betale arbeidsgiveravgift
-
-
-### Unntak
-
-
-### SKD-melding om arbeidsgiveravgift til folketrygden
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/) av norges-lover-bot.*
@@ -43,3 +20,4 @@ Som arbeidsgiver har du ansvar for å beregne og innbetale arbeidsgiveravgift.
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

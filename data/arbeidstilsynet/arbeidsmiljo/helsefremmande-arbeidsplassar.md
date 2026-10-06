@@ -1,4 +1,4 @@
-<!-- innholds-hash: af485d8ba80c0cfaf673427253926dcdaa791ac12d9134095617a0e272bf9152 -->
+<!-- innholds-hash: 276352eedcbc63a82e5417da1c273d226386c8ac52c2eb3940024eea548c4ab1 -->
 
 # Helsefremmande arbeidsplassar
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/helsefremmande-arbeidsplassar/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-07-11T10:19:28Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:00:08Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Helsefremmande arbeidsplassar
 
 Ein helsefremmande arbeidsplass fokuserer på korleis ein kan organisere arbeidet, skape eit arbeidsmiljø og ein samværskultur som gir god helse og utvikling for alle tilsette.
-
 
 ### Systematisk HMS-arbeid er grunnlaget
 
@@ -26,13 +32,11 @@ Ein helsefremmande arbeidsplass inneber at arbeidet blir organisert og tilpassa 
 
 Føremålet til arbeidsmiljølova er å sikre eit arbeidsmiljø som gir grunnlag for ein helsefremmande og meiningsfull arbeidssituasjon. Denne skal gi full sikkerheit mot fysiske og psykiske skadeverknader, og ha ein velferdsmessig standard som til kvar tid er i samsvar med den teknologiske og sosiale utviklinga i samfunnet.
 
-
 ### Korleis definerast helse?
 
 Helse har blitt betrakta som ein tilstand av å vere frisk, der fråværet av sjukdom har vore det viktigaste kriteriet. Innan den helsefremmande ideologien blir helse forstått meir som eit psykososialt omgrep som inkluderer ressursar, velvære, sosial samanheng, personleg vekst og evne til å fungere og meistre.
 
 Helse kan også bli knytt til det å ha overskot til krava i kvardagen, og å ha styrke og motstandskraft i møte med ulike påkjenningar.
-
 
 ### Kva kan bidra til ein helsefremmande arbeidsplass?
 
@@ -63,30 +67,19 @@ Arbeidstilsynet kontrollerer at verksemdene følger krava i arbeidsmiljølova og
 
 ### Regelverk
 
+[Formålsparagrafen, arbeidsmiljølova § 1-1](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88588)
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
 
+[Skap et bedre arbeidsmiljø Et godt arbeidsmiljø kan øke produktivitet, trivsel og motivasjon for arbeidet, og redusere sykefravær. Bruk Arbeidsmiljøhjelpen og snakk sammen om tema som har stor betydning for helse og sykefravær i din bransje. Prøv Arbeidsmiljøhjelpen](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-#### Skap et bedre arbeidsmiljø
+[Skap et bedre arbeidsmiljø](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-Godt arbeidsmiljø kan øke produktivitet, trivsel og redusere sykefraværet. Bruk Arbeidsmiljøhjelpen og snakk sammen om det som har størst betydning for helse og sykefravær i din bransje.
+[Få kunnskap om arbeidsmiljø På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje. Besøk arbeidsmiljøportalen.no](https://www.arbeidsmiljoportalen.no/)
 
+[Få kunnskap om arbeidsmiljø](https://www.arbeidsmiljoportalen.no/)
 
-#### Skap et bedre arbeidsmiljø
-
-
-#### Få kunnskap om arbeidsmiljø
-
-På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje.
-
-
-#### Få kunnskap om arbeidsmiljø
-
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/helsefremmande-arbeidsplassar/) av norges-lover-bot.*
@@ -95,3 +88,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

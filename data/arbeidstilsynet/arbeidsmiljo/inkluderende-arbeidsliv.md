@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9ef68b0fec848de3cc2e32567c8fd3e7df882c396420c9816f342b604262fc22 -->
+<!-- innholds-hash: 1303d42279b4dc42f656ad4111cd28e9a9c440311c4268755f7c091754b79ada -->
 
 # Inkluderande arbeidsliv
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/inkluderende-arbeidsliv/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:20:25Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:01:16Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Inkluderande arbeidsliv
 
 Det overordna målet med IA-avtalen er å skape eit arbeidsliv med plass til alle gjennom å førebygge sjukefråvær og fråfall. Eit viktig verkemiddel for å oppnå dette er Arbeidsmiljøsatsinga og Arbeidsmiljøportalen. På Arbeidsmiljøportalen finn du kunnskap og verktøy til korleis de kan jobbe meir systematisk med dei forholda som er viktig for arbeidsmiljøet på arbeidsplassen din.
-
 
 ### Arbeidsmiljøportalen
 
@@ -24,7 +30,6 @@ Vi anbefaler at leiar, verneombod og tillitsvalde samarbeider om å utvikle arbe
 
 Innhaldet på Arbeidsmiljøportalen er utvikla i samarbeid mellom Arbeidstilsynet, STAMI, NAV, Havindustritilsynet og partane i arbeidslivet.
 
-
 ### Kva inneheld Arbeidsmiljøportalen?
 
 Arbeidsmiljøportalen inneheld mellom anna
@@ -33,26 +38,10 @@ Arbeidsmiljøportalen inneheld mellom anna
 - En bra dag på jobb (verktøy frå STAMI)
 - Fakta om bransjen (statistikk frå STAMI og Havindustritilsynet)
 - Min side – arbeidsgivar (statistikk frå NAV)
-Innhaldet på Arbeidsmiljøportalen er utvikla i samarbeid mellom Arbeidstilsynet, STAMI, NAV, Havindustritilsynet og partane i arbeidslivet. Per i dag finst det kunnskap og verktøy for fleire bransjar og sektorar på Arbeidsmiljøportalen.
 
-Arbeidsmiljøet
+Innhaldet på Arbeidsmiljøportalen er utvikla i samarbeid mellom Arbeidstilsynet, STAMI, NAV, Havindustritilsynet og partane i arbeidslivet. Per i dag finst det kunnskap og verktøy for fleire bransjar og sektorar på Arbeidsmiljøportalen.
 
-- er knytt til korleis verksemda organiserer, planlegg og gjennomfører arbeidet
-- er forskjellig frå arbeidsplass til arbeidsplass, og krev derfor ulike tilnærmingar
-- påverkar arbeidstakarane si helse, jobbengasjement og verksemda sine resultat
-Det overordna målet med IA-avtalen (avtale om redusert sjukefråvær og fråfall frå arbeidslivet) er å skape eit arbeidsliv med plass til alle gjennom å førebygge sjukefråvær og fråfall.
-
-Arbeidsplassen er den viktigaste arenaen for førebygging, og eit godt samarbeid mellom leiar, tillitsvalde og verneombod er avgjerande for å lykkast i IA-arbeidet.
-
-Betre oppfølging av sjukemelde arbeidstakarar og betre innsats for arbeidsmiljø er blant grepa partane er einige om. Perioden for den inneverande IA-avtalen går ut i 2028.
-
-
-#### Arbeidsmiljøportalen
-
-På Arbeidsmiljøportalen finner du kunnskap og verktøy slik at dere kan jobbe mer systematisk med de forholdene som er viktige for arbeidsmiljøet på arbeidsplassen din. Ikke optimalt arbeidsmiljø koster Norge 75 milliarder kroner hvert år.
-
-Besøk arbeidsmiljøportalen
-
+[Arbeidsmiljøportalen På Arbeidsmiljøportalen finner du kunnskap og verktøy slik at dere kan jobbe mer systematisk med de forholdene som er viktige for arbeidsmiljøet på arbeidsplassen din. Ikke optimalt arbeidsmiljø koster Norge 75 milliarder kroner hvert år. Besøk arbeidsmiljøportalen](https://www.arbeidsmiljoportalen.no/)
 
 ### Arbeidsmiljøsatsinga
 
@@ -60,16 +49,17 @@ Arbeidsmiljøsatsinga er eit tverretatleg samarbeid mellom NAV, STAMI, Havindust
 
 Gjennom arbeidsmiljøsatsinga rettar Arbeidstilsynet merksemda mot dei faktorane som i størst grad fører til sjukefråvær og fråfall. Dei organisatoriske, ergonomiske og psykososiale arbeidsvilkåra har stor påverknad på arbeidsmiljøet i ei verksemd. Desse faktorane har stor påverknad i arbeidet med å skape gode arbeidsplassar, uavhengig av kva slags arbeid som inngår i dei daglege arbeidsoppgåvene i verksemda.
 
-Målet med arbeidsmiljøsatsinga er å styrke og motivere til felles innsats, og bidra til at verksemdene ser verdien og effekt av å jobbe førebyggande. Målgruppene er tillitsvalde, verneombod, HR-personell, mellomleiarar og bedriftshelsetenesta.
-
+Målet med arbeidsmiljøsatsinga er å styrke og motivere til felles innsats, og bidra til at verksemdene ser verdien og effekt av å jobbe førebyggande. Målgruppene er tillitsvalde, verneombod, HR-personell, mellomleiarar og bedriftshelsetenesta.
 
 ### Les meir
 
+[Organisatoriske arbeidsvilkår](https://www.arbeidstilsynet.no/arbeidsmiljo/organisatorisk-arbeidsmiljo/)
 
-### Fann du det du leitte etter?
+[Ergonomiske arbeidsvilkår](https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/)
 
-Denne sida er beskytta av reCaptcha, og Googles
+[Psykososiale arbeidsvilkår](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/)
 
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/inkluderende-arbeidsliv/) av norges-lover-bot.*
@@ -77,3 +67,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

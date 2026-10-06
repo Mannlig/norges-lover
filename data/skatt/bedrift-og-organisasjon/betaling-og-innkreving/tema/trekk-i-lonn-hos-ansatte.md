@@ -1,4 +1,4 @@
-<!-- innholds-hash: c3956b2bde51ccd7bc9714253db1aa4bb54ded0ee6a5b99300595ccbeaecd6e6 -->
+<!-- innholds-hash: 826dbd45ba09786caaa68222d585f06290c3594afe5996b05f36e6c56f5951a0 -->
 
 # Trekk i lønn hos ansatte
 
@@ -6,22 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/trekk-i-lonn-hos-ansatte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T21:59:12Z
+- **Sist oppdatert i arkivet:** 2026-10-06T10:25:48Z
 
 ## Innhold
-
-- Tema
 
 ## Trekk i lønn hos ansatte
 
 Som arbeidsgiver kan du få beskjed om å trekke en ansatt i lønn for å dekke et ubetalt krav som den ansatte har.
-
-
-### Betale inn trekk i lønn
-
-
-### Om trekk i lønn
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/trekk-i-lonn-hos-ansatte/) av norges-lover-bot.*
@@ -29,3 +20,4 @@ Som arbeidsgiver kan du få beskjed om å trekke en ansatt i lønn for å dekke 
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

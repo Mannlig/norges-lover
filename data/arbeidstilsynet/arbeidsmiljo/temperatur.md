@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4e67a43c121c2b6c5b6d480cc04c65cb133d9aea85822644d5f9f128a9f73de -->
+<!-- innholds-hash: fe4c59a95738c507aa929b6dc85b0e2ee4c8c70d7f3b7534bccfce8f0e0d1ec6 -->
 
 # Temperatur - varme og kulde på jobben
 
@@ -6,25 +6,31 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/temperatur/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T10:30:19Z
+- **Sist oppdatert i arkivet:** 2026-10-06T15:10:30Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Temperatur - varme og kulde på jobben
 
-Det kan være svært ubehagelig når det er for varmt eller for kaldt på arbeidsplassen. Arbeidsgiver har et ansvar for å planlegge og tilrettelegge, men du har ikke rett til å gå hjem på grunn av temperaturproblemene alene.
-
+Det kan være svært ubehagelig når det er for varmt eller for kaldt på arbeidsplassen. Arbeidsgiver har et ansvar for å planlegge og tilrettelegge, men du har ikke rett til å gå hjem på grunn av temperaturproblemene alene.
 
 ### Regler om temperatur
 
 Lov eller forskrifter inneholder ingen faste temperaturgrenser, men Arbeidstilsynet anbefaler at dere holder temperaturen under 22°C ved fysisk lett innearbeid i perioder med oppvarmingsbehov. Unngå temperatur under 19°C eller over 26°C.
 
+[Les mer om krav til det fysiske arbeidsmiljøet i arbeidsmiljølovens § 4-4](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88623)
 
 ### Konsekvenser av varme og kulde
 
 Riktig temperatur er i alles interesse. For høy eller for lav temperatur kan oppleves som plagsomt, og du kan bli mindre effektiv når det er for varmt eller for kaldt.
-
 
 #### Når det er for varmt
 
@@ -41,7 +47,6 @@ Riktig temperatur er i alles interesse. For høy eller for lav temperatur kan op
 ### Når problemene er permanente eller gjentagende
 
 Arbeidsgiver har et ansvar for å planlegge og tilrettelegge for forventede temperaturvariasjoner sommer og vinter.
-
 
 #### Aktuelle tiltak ved varmebelastning
 
@@ -60,6 +65,12 @@ Arbeidsgiver har et ansvar for å planlegge og tilrettelegge for forventede temp
 - Endre driftsmåten for varmeanlegget (øke nattetemperaturen)
 - Lufte radiatorer og justere termostater
 
+### Råd til arbeidsgiver
+
+Mot varme: Vurder grense for forsvarlighet. Sjekk om ventilasjon er justert riktig, og vurder tiltak som ekstra pauser, tilgang på drikke, vifter, kjøleanlegg med videre.
+
+Mot kulde: Vurder grense for forsvarlighet. Vurder tiltak i form av varmebekledning, varmt pauserom, nedsatte krav og andre arbeidsoppgaver
+
 ### Utearbeid i ekstrem kulde
 
 Opplevelsen av kulde er avhengig av både temperatur, vind og fuktighet. Arbeidsmiljøloven gir ingen temperaturgrenser. Verneombudet kan avbryte arbeidet dersom det mener at temperaturen innebærer umiddelbar risiko for sikkerhet og helse.
@@ -68,6 +79,9 @@ Det er inngått enkelte lokale avtaler om at arbeidet stanser ved temperaturer u
 
 Dersom normalt varmt tøy ikke gir tilstrekkelig vern mot kulden, må arbeidsgiveren stille nødvendig ekstra bekledning til disposisjon. Slik bekledning regnes som personlig verneutstyr, og skal bekostes av arbeidsgiveren.
 
+[Les mer om krav til systematisk helse-, miljø- og sikkerhetsarbeid i arbeidsmiljølovens § 3-1](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88613)
+
+[Les mer om særskilte forholdsregler for å ivareta sikkerheten i arbeidsmiljølovens § 3-2](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88614)
 
 ### Du kan ikke gå hjem
 
@@ -79,31 +93,21 @@ Ta opp problemet med arbeidsgiver, gjerne via verneombudet eller arbeidsmiljøut
 
 Dersom problemene ikke kan løses på annen måte kan man tilkalle Arbeidstilsynet, som eventuelt kan gi pålegg om tiltak.
 
-
-### Konkrete råd
-
-
-#### Arbeidstaker:
+### Råd til arbeidstaker
 
 Problemer tas opp med arbeidsgiver og/eller verneombud. Hvis problemet gjentar seg år etter år, be om at det utarbeides rutiner for temperaturbelastninger.
 
 Sjekk om bedriften har ventilasjonsanlegg og om dette kan innstilles på annen måte.
 
+### Hvem kan bistå?
 
-#### Arbeidsgiver:
+[Arbeidsmiljøutvalg (AMU)](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/arbeidsmiljoutvalg-amu/)
 
-Mot varme: Vurder grense for forsvarlighet. Sjekk om ventilasjon er justert riktig, og vurder tiltak som ekstra pauser, tilgang på drikke, vifter, kjøleanlegg med videre.
+[Bedriftshelsetjeneste (BHT)](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/)
 
-Mot kulde: Vurder grense for forsvarlighet. Vurder tiltak i form av varmebekledning, varmt pauserom, nedsatte krav og andre arbeidsoppgaver
+[Verneombud](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/verneombud/)
 
-
-### Hvem kan bistå
-
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/temperatur/) av norges-lover-bot.*
@@ -111,3 +115,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

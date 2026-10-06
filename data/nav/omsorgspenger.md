@@ -1,34 +1,25 @@
-<!-- innholds-hash: 8f787a28e692858a94a4ef78af373a8a7fb30fd7356f862526e0509003013c71 -->
+<!-- innholds-hash: 9d97ca5f43e1b967d8098c834c4042f791c6d9310005e651f68d13c7294c69ff -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist hentet:** 2026-07-12T20:39:42Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:23:19Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Omsorgspenger (hjemme med sykt barn-dager)
 
 Sikrer deg inntekt når du må være borte fra jobb på grunn av barns eller barnepassers sykdom.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om omsorgspenger til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om omsorgspenger til
+### Hvem kan få?
 
 For å ha rett til omsorgspenger gjelder alle disse punktene:
 
-For å ha rett til å bruke omsorgsdager må du ha omsorgen for barnet. Det betyr som hovedregel at foreldre og fosterforeldre som bor med barnet kan ha rett til å bruke omsorgsdager. Hvis du ikke bor sammen med den andre forelderen, men dere har en avtale om delt fast bosted, bor barnet fast hos dere begge.
+For å ha rett til å bruke omsorgsdager må du ha omsorgen for barnet. Det betyr som hovedregel at foreldre og fosterforeldre som bor med barnet kan ha rett til å bruke omsorgsdager. Hvis du ikke bor sammen med den andre forelderen, men dere har en avtale om delt fast bosted, bor barnet fast hos dere begge.
 
 I noen tilfeller kan også samværsforeldre og steforeldre bruke omsorgsdager, hvis de har fått omsorgsdager fra en forelder som er alene om omsorgen.
 
@@ -36,13 +27,13 @@ For å ha rett til omsorgspenger, må du ha fravær fra jobb slik at du mister a
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
+
 I tillegg må fraværet skyldes at du må være hjemme fordi barnet eller barnepasser er sykt. Her kan du lese mer detaljert om hvilke situasjoner som gjør at du kan bruke omsorgsdager.
 
 For å ha rett til omsorgspenger, må du ha jobbet minst fire uker før du er hjemme på grunn av sykt barn eller barnepasser.
-
 
 #### Unntak når du ikke har jobbet fire uker
 
@@ -52,25 +43,32 @@ Perioder med disse ytelsene kan likestilles med jobb:
 - Dagpenger
 - Foreldre- og svangerskapspenger
 - Pleie-, opplærings- og omsorgspenger
+
 Vi kan også gjøre unntak hvis du har vært i ulønnet permisjon i inntil 12 måneder direkte etter foreldrepengeperioden, og har avtalt med arbeidsgiver når du skal tilbake til jobb.
 
 Du må likevel ha tapt arbeidsinntekt, og kan derfor tidligst bruke omsorgsdager når du skulle vært tilbake i jobb.
 
 Hvis du ikke har jobbet 4 uker før du må bruke første omsorgsdag, er ikke arbeidsgiver forpliktet til å utbetale deg lønn. Du kan da søke om utbetaling fra Nav.
 
-Bor du i Norge er du vanligvis
+Bor du i Norge er du vanligvis [medlem av folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
 
 Vanligvis trenger du ikke søke om omsorgsdagene, men i noen tilfeller kan du søke om å få ekstra dager.
+
+### Hva kan du få?
+
+#### Hvor mange omsorgsdager kan du få?
 
 Når du har egne barn boende hos deg, har du rett til et bestemt antall omsorgsdager som du kan bruke per kalenderår. Hvor mange dager du har rett til, avhenger blant annet av:
 
 - Alderen til barnet
 - Om du har aleneomsorg
 - Om barnet har langvarig sykdom som gir markert høyere risiko for fravær.
+
 Som hovedregel har du rett til:
 
 - 10 dager hvis du har 1-2 barn
-- 15 dager hvis du har 3 eller flere barn
+- 15 dager hvis du har 3 eller flere barn
+
 Du får som hovedregel kun omsorgspenger for egne barn som bor med deg, eller fosterbarn. Du skal ikke telle med andres barn, eller egne barn som ikke bor med deg.
 
 Som hovedregel har du kun rett til omsorgspenger for barn ut det kalenderåret de fyller 12 år. Det betyr at hvis du har eldre barn, vil ikke disse påvirke hvor mange omsorgsdager du har rett til.
@@ -83,6 +81,10 @@ Hvis du har tre barn på 8, 11 og 14 år, har du som hoveregel to barn som gir r
 
 Hvis du har fått ekstra omsorgsdager for barnet på 14 år, har du tre barn som gir rett til 15 omsorgsdager. De 10 ekstra dagene på grunn av langvarig/kronisk sykdom eller funksjonshemning kommer i tillegg.
 
+[Finn ut hvor mange omsorgsdager du kan ha rett til](https://www.nav.no/omsorgspenger/kalkulator-antall-omsorgsdager)
+
+Kalkulator
+
 Les mer om antall omsorgsdager og om du kan dele dem, ut fra din situasjon:
 
 Når foreldrene bor sammen, har dere rett til likt antall omsorgsdager.
@@ -90,9 +92,9 @@ Når foreldrene bor sammen, har dere rett til likt antall omsorgsdager.
 Hver av dere har rett til:
 
 - 10 omsorgsdager hvis dere har 1-2 barn
-- 15 omsorgsdager hvis dere har tre eller flere barn.
-Dere trenger ikke å søke Nav om å få disse dagene.
+- 15 omsorgsdager hvis dere har tre eller flere barn.
 
+Dere trenger ikke å søke Nav om å få disse dagene.
 
 #### Om å dele omsorgsdager
 
@@ -104,17 +106,16 @@ Når du har fått nytt barn med ny partner, og i tillegg bor med egne barn fra t
 
 Du har da rett til:
 
-- 10 omsorgsdager hvis du har 1-2 barn
-- 15 omsorgsdager hvis du har tre eller flere barn.
+- 10 omsorgsdager hvis du har 1-2 barn
+- 15 omsorgsdager hvis du har tre eller flere barn.
+
 I denne situasjonen har ikke nødvendigvis den nye partneren din like mange omsorgsdager. Dere regner ut hvor mange omsorgsdager hver av dere har rett til, ut fra hvor mange egne barn dere bor med.
 
 Eksempel:
 
 Hvis du har to barn fra tidligere forhold som bor hos deg, og får et barn med ny partner, har du rett til 15 omsorgsdager for 3 barn. Hvis den nye partneren ikke har barn fra tidligere forhold, har han eller hun ett barn som gir rett til 10 omsorgsdager.
 
-
 #### Om ekstra omsorgsdager
-
 
 #### Aleneomsorg
 
@@ -123,7 +124,6 @@ Hvis du har barn fra tidligere forhold som bor med deg, og som ikke har avtale o
 Eksempel:
 
 Hvis du har to barn fra tidligere forhold som bor hos deg, og får et barn med ny partner, har du rett til 15 omsorgsdager for 3 barn. Du kan i tillegg søke om ekstra omsorgsdager for de to barna fra tidligere forhold, som gir deg ti ekstra omsorgsdager.
-
 
 #### Barn med langvarig/kronisk sykdom eller funksjonshemning
 
@@ -137,7 +137,6 @@ Hvis du har fått ekstra omsorgsdager for barnet på 14 år, har du tre barn som
 
 Husk at du må søke om å få ekstra omsorgsdager ved sykdom. Er du alene om omsorgen, kan du i tillegg sende søknad om ekstra omsorgsdager ved aleneomsorg for å få vurdert hvor mange dager du kan ha rett til. Hvis du har flere barn som du har aleneomsorg for, eller flere barn med langvarig sykdom, må du sende en søknad per barn.
 
-
 #### Om å dele omsorgsdager
 
 Foreldre som bor sammen, kan vanligvis ikke dele omsorgsdagene som de får automatisk for egne barn.
@@ -146,18 +145,18 @@ Hvis du har fått ekstra omsorgsdager fordi du er alene om omsorgen for barn fra
 
 Du kan dele opptil ti omsorgsdager med ny samboer/ektefelle. Disse dagene vil komme i tillegg til de dagene han eller hun eventuelt har automatisk rett til for egne barn.
 
-Hvis du skal dele med den andre forelderen som ikke bor barnet, bestemmer du selv hvor mange av de ekstra omsorgsdagene du vil dele. Du har rett til å beholde alle dagene, eller trekke dem tilbake, hvis dere ikke kommer til enighet om fordeling av omsorgsdager.
+Hvis du skal dele med den andre forelderen som ikke bor barnet, bestemmer du selv hvor mange av de ekstra omsorgsdagene du vil dele. Du har rett til å beholde alle dagene, eller trekke dem tilbake, hvis dere ikke kommer til enighet om fordeling av omsorgsdager.
 
-Det er også mulig å søke om å overta alle omsorgsdagene til den andre forelderen, hvis denne forelderen ikke kan passe barnet. Du finner mer informasjon om når dette er aktuelt under
+Det er også mulig å søke om å overta alle omsorgsdagene til den andre forelderen, hvis denne forelderen ikke kan passe barnet. Du finner mer informasjon om når dette er aktuelt under ["Når kan du søke om ekstra dager".](https://www.nav.no/omsorgspenger#ekstra-dager)
 
 Når foreldrene ikke bor sammen, men har avtale om delt fast bosted, er barnet bosatt hos begge. Foreldrene har da rett til likt antall omsorgsdager, slik som foreldre som bor sammen.
 
 Hver av dere har rett til:
 
 - 10 omsorgsdager hvis dere har 1-2 barn
-- 15 omsorgsdager hvis dere har tre eller flere barn.
-Dere trenger ikke å søke Nav om å få rett til disse dagene.
+- 15 omsorgsdager hvis dere har tre eller flere barn.
 
+Dere trenger ikke å søke Nav om å få rett til disse dagene.
 
 #### Om å dele omsorgsdager
 
@@ -170,9 +169,9 @@ Når barnet bor fast sammen med bare en av foreldrene, vil forelderen som barnet
 Bostedsforelderen har da rett til alle omsorgsdagene, og har derfor dobbelt antall omsorgsdager:
 
 - 20 omsorgsdager for 1-2 barn
-- 30 omsorgsdager for tre eller flere barn.
-For å få vurdert hvor mange dager du kan ha rett til når du er alene om omsorgen, kan du søke om ekstra omsorgsdager ved aleneomsorg.
+- 30 omsorgsdager for tre eller flere barn.
 
+For å få vurdert hvor mange dager du kan ha rett til når du er alene om omsorgen, kan du søke om ekstra omsorgsdager ved aleneomsorg.
 
 #### Om deling av dager
 
@@ -180,19 +179,15 @@ Hvis du har fått ekstra omsorgsdager fordi du er alene om omsorgen for barn, ha
 
 Selv om du får vedtak om ekstra omsorgsdager fra Nav på grunn av aleneomsorg, skal du ikke melde fra til oss når du deler av disse omsorgsdagene. Dere må selv gi beskjed til egne arbeidsgivere, som da får oversikt over hvor mange omsorgsdager hver av dere kan bruke.
 
-
 #### Dele med den andre forelderen
 
-Du kan dele omsorgsdager med den andre forelderen når du har aleneomsorg for barn, og du og den andre forelderen ikke har avtale om delt bosted.
-
+Du kan dele omsorgsdager med den andre forelderen når du har aleneomsorg for barn, og du og den andre forelderen ikke har avtale om delt bosted. Forelderen som bor med barnet bestemmer hvor mange omsorgsdager han eller hun vil dele, uavhengig samværsavtalen. Den som er alene om omsorgen har rett til å beholde alle dagene, hvis dere ikke kommer til enighet.
 
 #### Dele med nåværende ektefelle eller samboer
 
 Du kan dele opptil 10 omsorgsdager med en samboer du har bodd med i minst 12 måneder, eller med nåværende ektefelle.
 
-Se video: Hvor mange omsorgsdager kan du ha rett til?
-
-Varighet er 2,5 min
+#### Når du skal søke om ekstra dager
 
 Les mer om reglene for når du kan søke om ekstra omsorgsdager:
 
@@ -203,9 +198,9 @@ Når det gjelder omsorgsdager er du alene om omsorgen når barnet bor fast hos d
 At barnet bor fast hos deg vil si at
 
 - barnet bor hos deg, og
-- du og den andre forelderen har ikke avtale om delt fast bosted.
-Hvis du får nytt barn med ny samboer/ektefelle, beholder du retten til ekstra omsorgsdager for særkullsbarnet som man fortsatt er alene om omsorgen for.
+- du og den andre forelderen har ikke avtale om delt fast bosted.
 
+Hvis du får nytt barn med ny samboer/ektefelle, beholder du retten til ekstra omsorgsdager for særkullsbarnet som man fortsatt er alene om omsorgen for.
 
 #### Vil du dele dager med en annen omsorgsperson?
 
@@ -213,36 +208,41 @@ Hvis du har ekstra omsorgsdager fordi du er alene om omsorgen, kan du:
 
 - dele dager med den andre forelderen. Du velger selv hvor mange dager du vil dele, uavhengig av samværsavtalen.
 - dele dager med den nye samboeren din. Du kan dele inntil 10 omsorgsdager med samboeren eller ny ektefelle.
-Du trenger ikke å informere Nav om at du deler omsorgsdagene, men arbeidsgiver må informeres.
 
+Du trenger ikke å informere Nav om at du deler omsorgsdagene, men arbeidsgiver må informeres.
 
 #### Om søknaden
 
 For å få vurdert hvor mange omsorgsdager du kan ha rett til, kan du søke om ekstra omsorgsdager ved aleneomsorg. Hvis du er alene med flere barn, må du sende en søknad for hvert av barna.
 
-Hvis du er arbeidstaker, må du informere arbeidsgiveren din hvis du får vedtak om ekstra omsorgsdager.
+[Søk om ekstra omsorgsdager](https://www.nav.no/familie/sykdom-i-familien/soknad/omsorgsdager-aleneomsorg)
+
+Hvis du er arbeidstaker, må du informere arbeidsgiveren din hvis du får vedtak om ekstra omsorgsdager. Du må gi beskjed til oss hvis
 
 - dere senere inngår avtale om delt fast bosted
 - du flytter sammen med den andre forelderen
 - barnet flytter fra deg
+
 Hvis du har et barn med kronisk/langvarig sykdom eller funksjonshemning, kan dette gjøre at du har markert høyere risiko for å måtte være borte fra jobb. I denne situasjonen kan du søke om å få 10 ekstra omsorgsdager, eller 20 ekstra omsorgsdager hvis du er alene om omsorgen.
 
 Har du flere barn med kronisk/langvarig sykdom eller funksjonshemning, kan du få 10 ekstra dager for hvert barn. Du må sende én søknad for hvert barn.
 
 Når du har fått ekstra dager i denne situasjonen beholder du både de ordinære og de ekstra omsorgsdagene i perioden oppgitt i vedtaksbrevet. Omsorgsdager kan maks gis ut kalenderåret barnet fyller 18 år.
 
-
 #### Om søknaden
 
 Du kan søke digitalt om ekstra omsorgsdager hvis du har barn med langvarig/kronisk sykdom eller funksjonshemning som gjør at du har markert høyere risiko for fravær.
 
-Det er viktig at du sender inn legeerklæring som beskriver barnets sykdom eller funksjonshemning, og hvordan denne gir markert høyere risiko for fravær. Hvis sykdommen er langvarig, må legen også si noe om forventet varighet på sykdommen.
+Det er viktig at du sender inn legeerklæring som beskriver barnets sykdom eller funksjonshemning, og hvordan denne gir markert høyere risiko for fravær. Hvis sykdommen er langvarig, må legen også si noe om forventet varighet på sykdommen.
 
 Nyttig å vite:
 
 - Hvis begge foreldre bor med barnet, enten sammen eller ved delt fast bosted, må dere sende en søknad hver for å få ekstra omsorgsdager.
 - Hvis du har fått innvilget ekstra omsorgsdager på grunn av kronisk/langvarig sykdom eller funksjonshemning står det i vedtaksbrevet hvor lenge det varer.
-Du kan søke om ekstra omsorgsdager hvis den andre forelderen ikke kan ha tilsyn med barn i en periode på minst 6 måneder.
+
+[Søk om ekstra omsorgsdager](https://www.nav.no/start/soknad-ekstra-omsorgsdager-kronisk-sykt-barn)
+
+Du kan søke om ekstra omsorgsdager hvis den andre forelderen ikke kan ha tilsyn med barn i en periode på minst 6 måneder.
 
 I tillegg til at situasjonen må vare i minst 6 måneder, må det være utenfor forelderens kontroll at han eller hun ikke kan ha tilsyn med barnet. Det kan for eksempel være fordi forelderen:
 
@@ -251,16 +251,22 @@ I tillegg til at situasjonen må vare i minst 6 måneder, må det være utenfor 
 - har en funksjonshemning
 - er i fengsel
 - utøver verneplikt
+
 I disse tilfellene kan du søke om å bli regnet som alene om omsorgen, selv om dere bor sammen eller har avtale om delt fast bosted.
+
+[Søk om ekstra omsorgsdager](https://www.nav.no/start/soknad-ekstra-omsorgsdager-andre-forelder)
 
 Hvis situasjonen er innenfor deres kontroll, vil du ikke bli regnet som alene om omsorgen. Det kan være når forelderen:
 
 - arbeider et annet sted
 - studerer eller går på skole et annet sted
 - er militærpersonell utstasjonert i utlandet
-Omsorgspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på  819 294 kroner.
 
-Omsorgspengene beregnes etter samme regler som
+#### Hvor mye kan du få?
+
+Omsorgspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
+
+Omsorgspengene beregnes etter samme regler som [sykepenger](https://www.nav.no/sykepenger).
 
 Les mer om hvem som skal utbetale omsorgspengene ut fra din situasjon:
 
@@ -270,10 +276,10 @@ Arbeidsgiver må selv dekke de første ti dagene. Hvis du har rett til mer enn t
 
 I noen tilfeller kan Nav utbetale omsorgspenger fra første dag. Det er aktuelt når:
 
-- du ikke har jobbet fire uker hos arbeidsgiver, men har rett etter unntaksreglene. Dette kan være fordi du har skiftet arbeidsgiver, eller at du kommer tilbake etter sykemelding eller foreldrepermisjon.
+- du ikke har jobbet fire uker hos arbeidsgiver, men har rett etter unntaksreglene. Dette kan være fordi du har skiftet arbeidsgiver, eller at du kommer tilbake etter sykemelding eller foreldrepermisjon.
 - du ikke har barn som du automatisk har rett til omsorgsdager for ut fra alder, men har fått ekstra omsorgsdager for et eldre barn på grunn av langvarig sykdom eller funksjonshemning.
-Du kan da søke om utbetaling fra Nav, eller arbeidsgiver kan søke refusjon fra første dag hvis de har utbetalt lønn.
 
+Du kan da søke om utbetaling fra Nav, eller arbeidsgiver kan søke refusjon fra første dag hvis de har utbetalt lønn.
 
 #### Er du og arbeidsgiver uenig eller usikre?
 
@@ -285,9 +291,13 @@ Hvis du har rett til mer enn ti omsorgsdager, kan du søke om utbetaling fra Nav
 
 Hvis du ikke har barn som du automatisk har rett til omsorgsdager for ut fra alder, men har fått ekstra omsorgsdager for eldre barn på grunn av kronisk/langvarig sykdom eller funksjonshemning, kan du søke om utbetaling fra 1. fraværsdag.
 
+#### Hvor lenge kan du få?
+
 Vanligvis har du rett til å bruke omsorgsdager ut kalenderåret barnet fyller 12 år.
 
 Hvis du har fått ekstra omsorgsdager fordi barnet er kronisk/langvarig sykt eller har en funksjonshemning, kan du også få ekstra omsorgsdager etter at barnet fyller 12 år. I vedtaksbrevet vil det stå hvor lenge du har fått innvilget ekstra omsorgsdager. Omsorgsdager kan maks gis ut kalenderåret barnet fyller 18 år.
+
+#### Får du en annen pengestøtte fra Nav?
 
 Når du kombinerer arbeid med pengestøtte fra Nav, har du mulighet til å bruke omsorgsdager.
 
@@ -295,23 +305,25 @@ Du kan likevel kun få omsorgspenger for den tiden det var avtalt at du skulle j
 
 Hvis du har fravær fra avtalt aktivitet som ikke er jobb, for eksempel arbeidsrettet tiltak, må du sjekke hvordan dette påvirker stønaden du får. Slikt fravær blir ikke dekket av omsorgspenger hvis det ikke er lønnet arbeid.
 
-
 #### Viktig å vite om opptjening av rett til omsorgspenger
 
 Noen pengestøtter gir lik rett til omsorgspenger, selv om du ikke har jobbet delvis de fire ukene før du er hjemme med sykt barn. Dette gjelder deg som har hatt sykepenger, foreldrepenger, pleiepenger eller dagpenger. I disse tilfellene kan du bruke omsorgsdager hvis det var avtalt at du skulle vært på jobb.
 
 Hvis du mottar arbeidsavklaringspenger, tiltakspenger eller uføretrygd, må du ha vært i arbeid, enten heltid eller deltid, i minst fire uker for å ha rett til omsorgspenger. Disse pengestøttene alene gir ikke opptjening til omsorgspenger.
 
+#### Hvis du ikke har rett til omsorgspenger
+
 Et sykt barn vil ha det samme behovet for å være hjemme med en omsorgsperson, selv om man ikke har rett til omsorgspenger eller omsorgsdagene ikke strekker til.
 
 Da er det greit å vite at arbeidstakere har rett til permisjon etter Arbeidsmiljøloven §12-9 når de pleier et sykt barn, uavhengig av om de fyller vilkårene for omsorgspenger. Det betyr at du har rett til permisjon fra jobben, men den kan være ulønnet hvis du ikke har opptjent deg rett til omsorgspenger.
 
-Du finner informasjon om retten til permisjon på
+Du finner informasjon om retten til permisjon på [Arbeidstilsynet sine nettsider](https://www.arbeidstilsynet.no/arbeidsforhold/permisjoner/rett-til-permisjon-ved-barns-og-barnepassers-sykdom/).
 
 Når du ikke har rett til omsorgspenger kan du også høre med arbeidsgiveren din om du kan få lønnet velferdspermisjon selv om den ikke er lovfestet, eller avtale at du tar ut feriedager/avspaserer om du har dette som en mulighet.
 
-Du har ikke rett til omsorgsdager når du avvikler ferie.
+#### Ferie og feriepenger
 
+Du har ikke rett til omsorgsdager når du avvikler ferie.
 
 #### Feriepenger til arbeidstakere
 
@@ -325,12 +337,27 @@ Perioden som benyttes på utbetaling av feriepenger, og som vises på utbetaling
 
 Selvstendig næringsdrivende og frilansere får ikke feriepenger av omsorgspenger.
 
-
 #### Omsorgsopptjening
 
-Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+
+[Pensjonsopptjening ved omsorg for barn](https://www.nav.no/omsorgsopptjening-barn)
+
+Slik gjør du det
+
+#### Andre tilbud
 
 Mer informasjon til deg som
+
+- [Venter eller har nylig fått barn](https://www.nav.no/barn) Dette kan du ha rett til
+- [Er helt eller delvis alene med barn](https://www.nav.no/alene-med-barn) Dette kan du ha rett til
+- [Er alene med barn fordi den andre forelderen er død](https://www.nav.no/alene-med-barn-etter-dodsfall) Dette kan du ha rett til
+- [Har ansvar for andres barn](https://www.nav.no/andres-barn) Dette kan du ha rett til
+- [Tar vare på noen som er syk, skadet eller har en funksjonsnedsettelse](https://www.nav.no/tar-vare-pa) Dette kan du ha rett til
+
+### Når du skal bruke omsorgsdager
+
+#### Når kan du bruke omsorgsdager?
 
 Du kan bruke omsorgsdager i disse situasjonene:
 
@@ -350,29 +377,29 @@ Du kan bruke omsorgsdag hvis den som vanligvis har den daglige omsorgen må føl
 
 Dette kan for eksempel være at en forelder har omsorgen for et barn i foreldrepermisjon, men må følge et annet barn til utredning. Da kan du bruke omsorgsdag for å passe det barnet som vanligvis er hjemme.
 
-Se video: Når du kan bruke omsorgsdager
-
-Varighet er 2 min
-
-
 #### Du kan ikke bruke omsorgsdager til:
 
 - møter med skolen som ikke skyldes sykdom
-- planlagt fravær, slik som skoleferie og planleggingsdager
+- planlagt fravær, slik som skoleferie og planleggingsdager
 - ordinær rutinekontroll som ikke skyldes sykdom, for eksempel på helsestasjon og hos tannlege.
-- når barnehage/skole er stengt på grunn av andre årsaker enn sykdom, for eksempel ved streik.
+- når barnehage/skole er stengt på grunn av andre årsaker enn sykdom, for eksempel ved streik.
 - å skjerme barn fra sykdom, for eksempel ved karantene.
 
 #### Pleiepenger for sykt barn
 
 Hvis barnet ditt er innlagt på sykehus, skal opereres eller har behov for kontinuerlig tilsyn og pleie utover det som er vanlig, kan det være aktuelt å søke om pleiepenger for sykt barn.
 
+[Pleiepenger for sykt barn](https://www.nav.no/pleiepenger-barn)
+
+Pengestøtte
+
+#### Slik teller du brukte dager
+
 Du har rett til å bruke omsorgsdagene dine kun de dagene du skulle ha vært på jobb. Hvis du har en fridag, vil du ikke miste lønn, og derfor er det ikke nødvendig å bruke en omsorgsdag.
 
 Det er arbeidstiden din som bestemmer hvor mye av en omsorgsdag du har brukt. Hvis arbeidstiden din varierer, vil antallet timer som teller som en omsorgsdag også variere. Hvis du jobber en vakt som strekker seg over to dager, vil det likevel telle som kun én omsorgsdag.
 
-Hvis du har mer enn ett arbeidsforhold, vil du fortsatt ha det samme totale antallet omsorgsdager. Disse dagene kan brukes i de forskjellige jobbene dine. For eksempel, hvis du har 15 omsorgsdager totalt, og du har brukt to dager i hovedjobben din og en dag i den andre jobben, vil du ha 12 omsorgsdager igjen.
-
+Hvis du har mer enn ett arbeidsforhold, vil du fortsatt ha det samme totale antallet omsorgsdager. Disse dagene kan brukes i de forskjellige jobbene dine. For eksempel, hvis du har 15 omsorgsdager totalt, og du har brukt to dager i hovedjobben din og en dag i den andre jobben, vil du ha 12 omsorgsdager igjen.
 
 #### Er du borte deler av arbeidsdagen?
 
@@ -382,6 +409,8 @@ Arbeidsgiver har plikt til å drøfte om de skal godkjenne bruk av delvise omsor
 
 Også selvstendig næringsdrivende og frilansere kan bruke delvise omsorgsdager.
 
+#### Legeerklæring
+
 Arbeidstakere som bruker omsorgsdag, skal bruke egenmelding overfor arbeidsgiver de første tre dagene.
 
 Fra den fjerde dagen kan arbeidsgiver kreve legeerklæring for å dokumentere at barn eller barnepasser er syk.
@@ -389,6 +418,8 @@ Fra den fjerde dagen kan arbeidsgiver kreve legeerklæring for å dokumentere at
 Hvis du skal søke om utbetaling fra Nav, må du dokumentere fraværet med en legeerklæring fra fjerde dag.
 
 Med "fjerde dag" mener vi den fjerde dagen du er borte fra jobben, selv om den fjerde dagen ikke nødvendigvis er en arbeidsdag. For eksempel, hvis du tar omsorgsdag på en fredag, har fri hele helgen, og må være hjemme med et sykt barn på en mandag, blir mandag regnet som den fjerde dagen. Da kan det være nødvendig med en legeerklæring. De fire dagene gjelder bare hvis du er borte fra jobben sammenhengende.
+
+#### Reise til utlandet
 
 Du kan fint bruke omsorgspenger når du oppholder deg i andre EØS-land, så lenge vilkårene er oppfylt. Det som da er av betydning er hvor mange omsorgsdager du kan bruke etter ordinære regler, og at du har omsorg for barnet de aktuelle dagene.
 
@@ -402,12 +433,18 @@ Vi trenger å vite:
 - Hvilket land dere skal reise til
 - I hvilken periode dere skal være i utlandet
 - Om du skal avvikle ferie
+
 Du melder fra ved å skrive en beskjed til oss, eller ved å ringe 55 55 33 33.
+
+[Skriv til oss](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endringer-pleiepenger-omsorgspenger-eller-opplaeringspenger)
+
+### Søke, ettersende eller klage
+
+#### Søknad om ekstra omsorgsdager
 
 Her finner du søknadene for deg som skal søke om ekstra omsorgsdager fra Nav.
 
 Hvis du skal søke ekstra omsorgsdager på grunn av aleneomsorg eller kronisk/langvarig sykdom eller funksjonshemning, gjelder søknader per barn. Har du flere barn som du kan få ekstra dager for, må du sende en søknad per barn.
-
 
 #### Søknad om ekstra omsorgsdager ved aleneomsorg
 
@@ -415,11 +452,17 @@ Søknaden er digital, og du blir bedt om å logge inn.
 
 Hvis du ikke kan sende søknaden digitalt, ber vi deg kontakte oss på telefon 55 55 33 33.
 
+[Søk om ekstra omsorgsdager](https://www.nav.no/familie/sykdom-i-familien/soknad/omsorgsdager-aleneomsorg)
 
 #### Søknad om ekstra omsorgsdager for barn som har kronisk/langvarig sykdom eller funksjonshemning
 
+[Søk om ekstra omsorgsdager](https://www.nav.no/start/soknad-ekstra-omsorgsdager-kronisk-sykt-barn)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-dokumentasjon-til-soknad-om-ekstra-omsorgsdager-for-et-barn-som-er-kronisk-sykt-funksjonshemmet-eller-langvarig-sykt)
 
 #### Søknad om ekstra omsorgsdager når den andre forelderen ikke kan ha tilsyn med barn
+
+[Søk om ekstra omsorgsdager](https://www.nav.no/start/soknad-ekstra-omsorgsdager-andre-forelder)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-dokumentasjon-til-soknad-om-ekstra-omsorgsdager-nar-den-andre-forelderen-ikke-kan-ha-tilsyn-med-barn)
+
+#### Søke om utbetaling fra Nav
 
 Her finner du søknader om utbetaling av omsorgspenger.
 
@@ -427,54 +470,77 @@ Merk at hvis du er arbeidstaker, skal du som hovedregel ikke søke om utbetaling
 
 I dokumentoversikten på Min side kan du se om arbeidsgiver har sendt inn inntektsmelding. Hvis inntektsmeldingen er sendt til Nav etter 11. februar 2026 kan du også se hva arbeidsgiver har opplyst om.
 
+Legeerklæring Når du har brukt mer enn 3 omsorgsdager sammenhengende, skal Nav ha en legeerklæring som gjelder fra den 4. dagen. Du trenger altså ikke legeerklæring for de 3 første dagene.
+
 Hvis du har vært hjemme med sykt barn kun to dager, trenger du ikke å legge ved legeerklæring. Du trenger heller ikke legeerklæring hvis du er tilbake i arbeid, men må bruke en ny omsorgsdag en uke senere.
 
 Hvis du derimot har brukt en omsorgsdag på fredag, hadde avtalt fri i helgen, og fortsatt må være hjemme fra jobb på mandag, må du legge ved en legeerklæring som gjelder fra mandag
 
-
 #### Søknad om utbetaling av omsorgspenger for selvstendig næringsdrivende og frilansere
 
+[Send søknad](https://www.nav.no/start/soknad-om-utbetaling-av-omsorgspenger-for-selvstendig-naeringsdrivende-og-frilansere)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-soknad-omsorgspenger-selvstendig-frilansere)
 
 #### Søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler
 
-Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+[Send søknad](https://www.nav.no/start/soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler)
 
+#### Klagerettigheter
+
+Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/OMSORGSPENGER_HJEMME_MED_SYKT_BARN_DAGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/OMSORGSPENGER_HJEMME_MED_SYKT_BARN_DAGER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/OMSORGSPENGER_HJEMME_MED_SYKT_BARN_DAGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/OMSORGSPENGER_HJEMME_MED_SYKT_BARN_DAGER)
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
-Oppdatert 10.07.2026
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 10 uker |
+| Klage til Nav klageinstans | 3 måneder |
+| Anke til Nav klageinstans | 2 måneder |
 
+### Hva sier loven?
 
-#### Chat med oss
+[Folketrygdloven kapittel 9](https://lovdata.no/nav/folketrygdloven/kap9)
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Oppdatert 10.07.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/omsorgspenger) av norges-lover-bot.*
@@ -489,3 +555,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

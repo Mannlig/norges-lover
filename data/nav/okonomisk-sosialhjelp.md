@@ -1,26 +1,23 @@
-<!-- innholds-hash: b3df0855e1bd911c191c8c307838130e5e8bbb90e52acc1b30f5c50407e4b140 -->
+<!-- innholds-hash: 82199d24aeb1d263077855c3457d319c5be8fc273078fb3d374b5ac5daa312c9 -->
 
 # Økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomisk-sosialhjelp
-- **Sist hentet:** 2026-07-20T10:30:46Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:11:38Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Økonomisk sosialhjelp
 
 En midlertidig støtte når du ikke kan dekke nødvendige utgifter selv.
 
+### Hvem kan få?
 
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+#### Hvem kan få økonomisk sosialhjelp?
 
 Alle har rett til å søke om økonomisk sosialhjelp og få vurdert behovet sitt.
 
@@ -28,48 +25,52 @@ Du må i utgangspunktet ha lovlig opphold i Norge for å ha rett til økonomisk 
 
 Når alle andre inntektsmuligheter er utnyttet fullt ut, men ikke strekker til, kan du ha rett til økonomisk sosialhjelp. Andre inntektsmuligheter kan være inntektsgivende arbeid, egne midler og andre økonomiske rettigheter.
 
-Du har rett til
+Du har rett til [opplysning, råd og veiledning](https://www.nav.no/opplysning-rad-veiledning) fra Nav uavhengig av om du har rett til økonomisk sosialhjelp.
 
 Er du under 18 år, må du ha samtykke fra dine foresatte for å søke om økonomisk sosialhjelp.
+
+#### Er du i en nødssituasjon?
 
 Hjelp i en nødssituasjon skal dekke helt nødvendige utgifter for en kort periode. Det kan for eksempel være støtte til:
 
 - mat
 - reiseutgifter
-- regninger som du må betale for å hindre at nødvendige tjenester som strøm eller lignende blir stengt
+- regninger som du må betale for å hindre at nødvendige tjenester som strøm eller lignende blir stengt
 - andre utgifter
-Du kan søke ved å bruke søknadsskjema for økonomisk sosialhjelp hvis du trenger hjelp i en nødssituasjon (nødhjelp). Skriv gjerne at du trenger hjelp i en nødssituasjon.
 
-Kan du ikke sende digital søknad, bør du
+Du kan søke ved å bruke søknadsskjema for økonomisk sosialhjelp hvis du trenger hjelp i en nødssituasjon (nødhjelp). Skriv gjerne at du trenger hjelp i en nødssituasjon.
 
-Hvis du ikke har et sted å sove og oppholde deg det neste døgnet, kan du også søke hjelp til å finne et
+[Søk om økonomisk sosialhjelp](https://www.nav.no/start/okonomisk-sosialhjelp)
 
-Du kan søke om å få hjelp med nødvendige utgifter du ikke kan dekke selv.
+Kan du ikke sende digital søknad, bør du [ta kontakt med Nav-kontoret](https://www.nav.no/sok-nav-kontor) i den kommunen hvor du bor eller oppholder deg.
 
+Hvis du ikke har et sted å sove og oppholde deg det neste døgnet, kan du også søke hjelp til å finne et [midlertidig botilbud](https://www.nav.no/midlertidig-botilbud).
 
-#### Du kan blant annet søke om støtte til
+### Hva kan du få?
 
-Du kan søke om støtte til å betale utgifter for å leve, såkalte levekostnader eller livsopphold. Det kan for eksempel være mat, utgifter til bolig som husleie, strøm, oppvarming, kommunale avgifter med mer. Andre eksempler på levekostnader er tannlegeutgifter, klær og fritidsaktiviteter, utgifter til mobil, internett og transport i hverdagen.
+#### Hvilke utgifter kan du få støtte til?
 
-Du kan også søke om støtte til spesielle utgifter som høytidsfeiring og konfirmasjon.
+Du kan søke om å få hjelp med nødvendige utgifter til livsopphold, eller levekostnader, som du ikke kan dekke selv. Det kan for eksempel være mat, utgifter til bolig som husleie, strøm, oppvarming, kommunale avgifter med mer.
+
+Andre eksempler på levekostnader er tannlegeutgifter, klær og fritidsaktiviteter, utgifter til mobil, internett og transport i hverdagen. Du kan også søke om støtte til spesielle utgifter som høytidsfeiring og konfirmasjon.
 
 Har du barn, vil vi ta særlig hensyn til behovene deres i vurderingen.
 
-Du kan søke om å få dekket utgifter til lege, psykolog, tannlege og viktige legemidler. Du har i utgangspunktet ikke rett til støtte til alternativ behandling.
+Les mer om noen av utgiftene du kan søke om.
 
+Du kan søke om å få dekket utgifter til lege, psykolog, tannlege, viktige legemidler og briller. Du har i utgangspunktet ikke rett til støtte til alternativ behandling.
 
 #### Utgifter til tannbehandling
 
-Du kan sjekke om du har
+Du kan sjekke om du har [krav på støtte fra Helfo til tannbehandling](https://www.helsenorge.no/betaling-for-helsetjenester/hvem-betaler-tannlegeregningen-din/). Du kan også spørre tannlegen din om det er mulig å lage en nedbetalingsavtale hvis du ikke kan betale hele regningen på en gang.
 
 Hvis du ikke kan få støtte fra Helfo og ikke har økonomi til å få en nedbetalingsavtale, kan du søke Nav om å få økonomisk sosialhjelp til å betale disse utgiftene delvis eller i sin helhet.
 
-Du kan søke om støtte til depositum  når du inngår en leiekontrakt og ikke har mulighet til å skaffe penger til dette på egen hånd.
+Du kan søke om støtte til depositum når du inngår en leiekontrakt og ikke har mulighet til å skaffe penger til dette på egen hånd.
 
 Nav gir vanligvis hjelp gjennom en garanti for depositum, men kan også gi økonomisk støtte til depositum på en sperret depositumskonto.
 
 Mange opplever store utgifter til strøm og har problemer med å betale regningene sine. For å hjelpe husholdninger med strømutgifter er det vedtatt flere midlertidige støtteordninger.
-
 
 #### Hva kan Nav hjelpe med?
 
@@ -77,38 +78,52 @@ Hvis du har behov for økonomisk støtte til å betale strømutgiftene dine, kan
 
 Når Nav-kontoret ditt vurderer søknaden din, kan de kreve at du søker om bostøtte fra Husbanken.
 
-
 #### Bostøtte fra Husbanken
 
 Hvis du har lav inntekt og høye boutgifter, kan bostøtte fra Husbanken være en aktuell støtteordning for deg. Bostøtten blir utbetalt i måneden etter at du søker.
 
+Støtteordninger for høye strømpriser De siste årene har regjeringen innført flere tiltak for å hjelpe husholdninger med høye strømpriser. [Les mer om støtteordningene på regjeringen.no.](https://www.regjeringen.no/no/tema/energi/regjeringens-stromtiltak/id2900232/?expand=factbox2900261)
+
 Du kan også søke om penger til å dekke andre nødvendige utgifter som ikke er nevnt over.
 
-Vi kan gi deg
+Vi kan gi deg [opplysning, råd og veiledning](https://www.nav.no/opplysning-rad-veiledning) hvis du ønsker hjelp til å finne ut hva du kan ha rett på.
 
-For deg som har lav inntekt og høye boutgifter, kan bostøtte være en aktuell støtteordning. Les om
-
-Se video: Bostøtte fra Husbanken
-
-Varighet er 3 min
-
+For deg som har lav inntekt og høye boutgifter, kan bostøtte være en aktuell støtteordning. Les om [bostøtte på husbanken.no.](https://www.husbanken.no/person/bostotte/) Du kan også se videoen om bostøtte.
 
 #### Har du gjeldsproblemer?
 
-Du kan i utgangspunktet ikke få økonomisk støtte til å betale utgifter til gjeld. I enkelte tilfeller kan Nav vurdere å gi økonomisk støtte til å betale utgifter til gjeld. Dette gjelder for eksempel i situasjoner når du holder på å miste boligen eller få kuttet strømmen, og det ikke finnes andre muligheter for å hindre at dette skjer.
+Du kan i utgangspunktet ikke få økonomisk støtte til å betale utgifter til gjeld. I enkelte tilfeller kan Nav vurdere å gi økonomisk støtte til å betale utgifter til gjeld. Dette gjelder for eksempel i situasjoner når du holder på å miste boligen eller få kuttet strømmen, og det ikke finnes andre muligheter for å hindre at dette skjer. Hvis du har gjeld, kan du få økonomisk rådgivning.
+
+[Trenger rådgivning om økonomi og gjeld](https://www.nav.no/okonomi-gjeld)
+
+Dette kan du ha rett til
 
 Du har rett til opplysning, råd og veiledning, uavhengig av om du har rett til økonomisk sosialhjelp.
+
+[Opplysning, råd og veiledning](https://www.nav.no/opplysning-rad-veiledning)
+
+Veiledning
+
+#### Hvor mye kan du få?
 
 Hvor mye du kan få i økonomisk støtte, vurderer vi ut fra situasjonen din, inntektene og utgiftene dine.
 
 Alle kommuner har veiledende satser for livsopphold. Noen kommuner har egne satser, mens andre kommuner følger de statlige veiledende satser.
 
-Statlige veiledende retningslinjer for økonomisk stønad til livsopphold, fastsatt av Arbeids- og sosialdepartementet.
+Statlige veiledende retningslinjer for økonomisk stønad til livsopphold, fastsatt av Arbeids- og sosialdepartementet.
 
 Satsene gjelder fra og med 1. januar 2026.
 
-Satsene brukes som et utgangspunkt for å beregne hvor mye du kan få utbetalt, men det skal også vurderes ut ifra situasjonen din. Satsene omfatter utgifter til helt grunnleggende behov som mat, klær, kommunikasjon, husholdningsartikler, hygiene med mer. Utgifter til å bo, som husleie og strøm, samt utgifter til transport og organiserte fritidsaktiviteter for barn, kommer i tillegg.
+| Støtte til | Beløp |
+| --- | --- |
+| Enslige | 8 300 kroner |
+| Ektepar/samboere | 13 800 kroner |
+| Person i bofellesskap | 6 950 kroner |
+| Barn 0-5 år | 4 050 kroner |
+| Barn 6-10 år | 4 150 kroner |
+| Barn 11-17 år | 5 400 kroner |
 
+Satsene brukes som et utgangspunkt for å beregne hvor mye du kan få utbetalt, men det skal også vurderes ut ifra situasjonen din. Satsene omfatter utgifter til helt grunnleggende behov som mat, klær, kommunikasjon, husholdningsartikler, hygiene med mer. Utgifter til å bo, som husleie og strøm, samt utgifter til transport og organiserte fritidsaktiviteter for barn, kommer i tillegg.
 
 #### Er du gift, samboer eller har barn?
 
@@ -122,7 +137,8 @@ Hvis ektefellen din har inntekt, men likevel ikke forsørger deg økonomisk, vil
 - du lever i skjul fra en voldelig ektefelle
 - du prøver å komme deg bort fra et tvangsekteskap
 - ektefellen din soner i fengsel
-- du blir ikke forsørget av ektefellen din av andre årsaker
+- du blir ikke forsørget av ektefellen din av andre årsaker
+
 Hvis du har barn, er det egne plikter og ordninger som gjelder når du søker om økonomisk sosialhjelp. Vi tar særlige hensyn til barns behov i vurderingen.
 
 Barnetrygden påvirker ikke hvor mye du kan få i økonomisk sosialhjelp.
@@ -137,13 +153,25 @@ Samboere har ikke plikt til å forsørge hverandre. Hvis dere har barn sammen, v
 
 Samboere som har felles barn, har plikt til å forsørge barna etter økonomisk evne. Dette betyr at den av dere som har høy nok inntekt til å forsørge felles barn, i utgangspunktet må gjøre dette alene. I familier med særkullsbarn kan vi vurdere deler av familien for seg.
 
+#### Hvor lenge kan du få?
+
 Økonomisk sosialhjelp er en midlertidig stønad. Hvor lenge du kan få økonomisk sosialhjelp er avhengig av situasjonen din.
 
 Når du mottar økonomisk sosialhjelp, får du oppfølging fra Nav slik at du kan bli selvforsørget.
 
-Hvis du trenger hjelp til å finne ut hvilke muligheter du har, kan du ta kontakt med
+Hvis du trenger hjelp til å finne ut hvilke muligheter du har, kan du ta kontakt med [Nav-kontoret ditt](https://www.nav.no/sok-nav-kontor). Du kan også [kontakte oss på telefon](https://www.nav.no/kontaktoss).
+
+#### Andre tilbud
 
 Mer informasjon til deg som
+
+- [Trenger rådgivning om økonomi og gjeld](https://www.nav.no/okonomi-gjeld) Dette kan du ha rett til
+- [Trenger råd og veiledning](https://www.nav.no/snakke-med-nav) Dette kan du ha rett til
+- [Har ikke et sted å bo](https://www.nav.no/ikke-bolig) Dette kan du ha rett til
+
+### Søknad, ettersendelse eller klage
+
+#### Før du søker
 
 Når du søker, må du gi opplysninger om deg selv og den økonomiske situasjonen din. Du kan dokumentere opplysningene med vedlegg til søknaden.
 
@@ -155,10 +183,14 @@ Når du søker, må du gi opplysninger om deg selv og den økonomiske situasjone
 - opplysninger om boforhold (husleiekontrakt)
 - legitimasjon
 - gyldig oppholdstillatelse
+
 Hvis vi trenger flere opplysninger for å behandle saken din, tar vi kontakt med deg.
+
+#### Søknad og ettersendelse
 
 Du kan søke om det du trenger økonomisk støtte til. Det er bare ett søknadsskjema hvor du selv beskriver hva du søker om. Du skal søke til Nav-kontoret i kommunen der du oppholder deg.
 
+[Søk om økonomisk sosialhjelp](https://www.nav.no/start/okonomisk-sosialhjelp)[Ettersend dokumentasjon](https://www.nav.no/start/ettersend-soknad-okonomisk-stonad)
 
 #### Hvordan vurderer vi søknaden din
 
@@ -166,9 +198,11 @@ Vi vurderer behovet ditt for økonomisk sosialhjelp sammen med deg, og gjør en 
 
 I vurderingen tar vi hensyn til nødvendige utgifter du har for å leve, inntekten din og mulighetene dine for fremtidig inntekt.
 
-Vi tar hensyn til alder, familiesituasjon, hvordan du bor og helse. Hvis du har barn, tar vi særlige hensyn til behovene deres i vurderingen.
+Vi tar hensyn til alder, familiesituasjon, hvordan du bor og helse. Hvis du har barn, tar vi særlige hensyn til behovene deres i vurderingen.
 
 Det er viktig at du opplyser oss om alle inntekter og utgifter du har, slik at vi får vurdert situasjonen din og behovet ditt for hjelp.
+
+#### Fullmakt
 
 Hvis du vil ha hjelp i kontakten din med Nav, kan du gi fullmakt til en person du har tillit til.
 
@@ -176,53 +210,61 @@ Fullmakten kan brukes i kontakten med Nav-kontoret ditt.
 
 Du bestemmer selv hva fullmakten skal gjelde, og hvor lenge den varer.
 
+[Last ned fullmakt (pdf)](https://www.nav.no/no/person/sosialhjelp-og-radgiving/okonomisk-sosialhjelp/Fullmakt%20for%20%C3%98konomisk%20sosialhjelp.pdf)
+
+#### Status på søknaden og saksbehandlingstider
+
 Hvis du har søkt digitalt, finner du en liste over alle søknadene dine om økonomisk sosialhjelp på nav.no. Her kan du blant annet følge status på søknaden din, og se om du må levere opplysninger vi trenger for å behandle søknaden.
 
+[Logg inn for å se søknadene dine](https://nav.no/sosialhjelp/innsyn)
 
 #### Saksbehandlingstid for søknader
 
-Kommunene kan ha ulik svartid, men du skal får svar innen rimelig tid. I en
+Kommunene kan ha ulik svartid, men du skal får svar innen rimelig tid. I en [nødssituasjon](https://www.nav.no/sosialhjelp/nodsituasjon) skal du få et raskt svar på søknaden din.
 
 Hvis vi trenger flere opplysninger for å behandle søknaden din, tar vi kontakt med deg. For å få raskt svar på søknaden, bør du levere de opplysningene vi ber om så fort som mulig.
 
 Hvis det har gått mer enn én måned fra du søkte, skal du få brev om at saksbehandlingstiden er forlenget.
 
-
 #### Er du i en nødssituasjon?
 
-Da bør du kontakte
+Da bør du kontakte [Nav-kontoret](https://www.nav.no/sok-nav-kontor) i den kommunen du oppholder deg i.
 
-Når søknaden din er ferdigbehandlet, får du et skriftlig svar, også kalt et vedtaksbrev.  Du kan
+#### Når du har fått svar på søknaden
+
+Når søknaden din er ferdigbehandlet, får du et skriftlig svar, også kalt et vedtaksbrev. Du kan [logge inn](https://nav.no/sosialhjelp/innsyn) for å lese vedtaket.
 
 I vedtaket ditt kan du lese om hva du har rett på. Hvis du og din veileder har avtalt at du skal være i aktivitet i løpet av vedtaksperioden, står det beskrevet i vedtaket.
+
+#### Klagerettigheter
 
 Har du fått et svar på søknaden din og er uenig i vedtaket, kan du klage.
 
 Du skal sende klagen til Nav-kontoret som behandlet søknaden din. Klagefristen er 3 uker fra du mottar et svar på søknaden.
 
-For å klage kan du skrive ut klageskjema og fylle det ut for hånd, eller skrive klage på eget ark. Har du søkt digitalt, kan du sende klagen som
+For å klage kan du skrive ut klageskjema og fylle det ut for hånd, eller skrive klage på eget ark. Har du søkt digitalt, kan du sende klagen som [vedlegg til søknaden din](https://nav.no/sosialhjelp/innsyn) (du må logge inn). Du kan ellers sende klagen i post eller levere på [Nav-kontoret](https://www.nav.no/sok-nav-kontor) som har behandlet saken din.
 
+[Last ned klageskjema (pdf)](https://www.nav.no/no/person/sosialhjelp-og-radgiving/okonomisk-sosialhjelp/Papirskjema%20for%20klage%20for%20%C3%98konomisk%20sosialhjelp.pdf)
 
 #### Saksbehandlingstid for klage
 
 Kommunene kan ha ulik svartid, men du skal få svar innen rimelig tid. Hvis det har gått mer enn én måned fra du klagde, skal du få brev om at saksbehandlingstiden er forlenget.
 
-
 #### Klagen skal inneholde informasjon om
 
 - hvilket vedtak du klager på. Du kan eventuelt legge ved vedtaksbrevet du klager på.
-- hva du mener er feil ved vedtaket og hva du ønsker endret.
+- hva du mener er feil ved vedtaket og hva du ønsker endret.
 - signatur
+
 Du kan legge ved opplysninger som vedlegg til klagen din.
 
 Nav-kontoret ditt kan hjelpe deg hvis du trenger hjelp til å skrive klagen. Da må du avtale en time på Nav-kontoret. Hvis du ønsker å ha med deg en person du har tillit til, har du rett til det.
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
-
 #### Hva skjer når du klager?
 
-Klager behandles på nytt av Nav-kontoret som har behandlet søknaden din. Hva skjer videre i klagesaken er avhengig av utfallet av den nye vurderingen.
+Klager behandles på nytt av Nav-kontoret som har behandlet søknaden din. Hva skjer videre i klagesaken er avhengig av utfallet av den nye vurderingen.
 
 Hvis du får medhold i klagen din, vil du motta ett nytt vedtak. Å få medhold betyr at Nav-kontoret har endret sitt vedtak - helt eller delvis - basert på din klage.
 
@@ -230,33 +272,35 @@ Hvis du ikke får medhold i klagen fra Nav-kontoret, blir klagen sendt videre ti
 
 Når statsforvalteren har avgjort saken din, vil du få skriftlig beskjed. Hvis statsforvalteren gir deg medhold i klagen din, skal Nav-kontoret behandle søknaden din på nytt og du vil motta et nytt vedtak.
 
-
 #### Du kan få dekket utgifter
 
 Hvis du får medhold i klagen din, kan du ha rett til å få dekket utgifter som har vært nødvendige for å få endret vedtaket. Et eksempel er utgifter til advokat. Da kan du sende krav om å få dekket sakskostnader til Nav-kontoret som har endret, også kalt omgjort, vedtaket.
-
 
 #### Du kan klage på service
 
 Hvis du har blitt møtt på en dårlig måte eller hatt en negativ opplevelse i møte med Nav, kan du klage på service du har fått.
 
-Du kan sende eller levere serviceklagen til
+Du kan sende eller levere serviceklagen til [ditt lokale Nav-kontor](https://www.nav.no/sok-nav-kontor).
+
+### Når du har økonomisk sosialhjelp
+
+#### Når utbetales pengene
 
 I vedtaksbrevet ditt finner du informasjon om beløp og utbetalinger.
 
-Utbetalingsdato kan variere fra kommune til kommune. Du finner informasjon om utbetalinger under
+Utbetalingsdato kan variere fra kommune til kommune. Du finner informasjon om utbetalinger under [Dine utbetalinger](http://www.nav.no/sosialhjelp/innsyn/utbetaling) eller i vedtaksbrevet.
 
 Hvis utbetalingsdatoen er i en helg eller på en helligdag, får du vanligvis pengene dagen før.
-
 
 #### Feriepenger
 
 Det er ikke feriepenger på denne pengestøtten.
 
-
 #### Skatt
 
 Det blir ikke trukket skatt.
+
+#### Vilkår
 
 Veilederen din kan sette vilkår (krav) om en aktivitet eller en handling for å hjelpe deg med din økonomiske situasjon. Aktivitetsplikten skal hjelpe deg i å oppnå dine mål om økonomisk selvstendighet.
 
@@ -276,35 +320,51 @@ Nav kan for eksempel stille krav om at du
 
 Hvis du er under 30 år, vil Nav stille et krav om at du deltar i aktivitet når du mottar økonomisk sosialhjelp. Målet er å hjelpe deg til å komme ut i arbeid eller utdanning, slik at du kan forsørge deg selv med egen inntekt.
 
+#### Reise til utlandet
+
 Du må som hovedregel oppholde deg i Norge for å ha rett til økonomisk sosialhjelp.
 
 Hvis du skal reise til utlandet, må du avklare dette med Nav-kontoret før du reiser. Reiser til utlandet kan påvirke dine utbetalinger.
 
 Ta kontakt med oss hvis du skal ha ferie eller reise til utlandet.
 
+[Finn ditt Nav-kontor](https://www.nav.no/sok-nav-kontor)
+
+#### Meld fra om endringer
+
 Hvis det skjer endringer i situasjonen din, kan det påvirke oppfølgingen eller utbetalingen du får fra Nav. Det er derfor viktig at du melder fra til oss.
 
-Det kan være endringer i din inntekt, familiesituasjon, jobbsituasjon, og så videre. Er du gift eller registrert partner, må du også melde fra til Nav hvis det skjer endringer i situasjonen til ektefellen/partneren din.
+Det kan være endringer i din inntekt, familiesituasjon, jobbsituasjon, og så videre. Er du gift eller registrert partner, må du også melde fra til Nav hvis det skjer endringer i situasjonen til ektefellen/partneren din.
 
-For å melde fra om endringer kan du ringe oss på
+For å melde fra om endringer kan du ringe oss på 55 55 33 33 eller [sende oss et brev i posten](https://www.nav.no/sok-nav-kontor). Har du dokumenter du vil sende digitalt til Nav, kan du [sende dem som vedlegg på saken din](https://www.nav.no/sosialhjelp/innsyn).
 
-Hvis du er usikker på om endringen vil påvirke utbetalingen eller oppfølgingen din, kan du kontakte Nav på telefon
+Hvis du er usikker på om endringen vil påvirke utbetalingen eller oppfølgingen din, kan du kontakte Nav på telefon 55 55 33 33.
 
 - Du begynner å tjene mer eller mindre enn du tidligere har oppgitt til Nav.
 - Du skal flytte
 - Sivilstatusen din endrer seg, for eksempel du blir gift eller skilt, får eller flytter fra samboer, ektefelle eller samboer dør.
 - Familiesituasjonen din endrer seg ved at du får barn, et barn flytter eller du ikke lenger forsørger barnet/barna dine.
 - Du får utbetalt penger i form av utbytte på aksjer, fond, salg av eiendom/eiendeler eller annet.
-Oppdatert 08.04.2026
 
+### Hva sier loven?
 
-#### Ring oss på 55 55 33 33
+- [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)](https://lovdata.no/dokument/NL/lov/2009-12-18-131?q=sosiale%20tjenester)
 
-Åpent nå
+Oppdatert 06.10.2026
 
+### Finner du ikke svaret her? Ta kontakt med oss
 
-#### Finn ditt Nav-kontor
+Ring oss på 55 55 33 33
 
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
+
+[Finn ditt Nav-kontor](https://www.nav.no/sok-nav-kontor)
+
+Søk opp Nav-kontor med postnummer, sted eller by.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/okonomisk-sosialhjelp) av norges-lover-bot.*
@@ -320,3 +380,4 @@ Oppdatert 08.04.2026
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

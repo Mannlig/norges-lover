@@ -1,39 +1,29 @@
-<!-- innholds-hash: 94924d8a6944cdb80a3b4ecae8ce9db8f50b22a06fdf4d3f0e7950eaf883495b -->
+<!-- innholds-hash: f33f09a46bde0a15dfb07c4052f14cd0958408ea45c1b8702d3cbbacd07880fa -->
 
 # Opplæringspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplaringspenger
-- **Sist hentet:** 2026-07-12T21:42:56Z
+- **Sist oppdatert i arkivet:** 2026-10-06T13:34:24Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Opplæringspenger
 
 Sikrer deg inntekt under fravær fra jobb når du er i opplæring for å kunne ta vare på et barn.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om opplæringspenger til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om opplæringspenger til
+### Hvem kan få?
 
 For å få opplæringspenger, gjelder alle disse punktene:
 
-Hvis det er nødvendig med opplæring for å ta deg av barn med funksjonshemning eller langvarig sykdom, kan du ha rett til opplæringspenger. Det kan også gis opplæringspenger etter at barnet har fylt 18 år.
+Hvis det er nødvendig med opplæring for å ta deg av barn med funksjonshemning eller langvarig sykdom, kan du ha rett til opplæringspenger. Det kan også gis opplæringspenger etter at barnet har fylt 18 år.
 
 Langvarig sykdom vil si at barnet er forventet å være syk i minst ett år fra sykdommen blir stadfestet. Du kan også få opplæringspenger hvis barnet ditt har utviklings- eller atferdsforstyrrelse, slik som autisme, asperger og ADHD.
 
 Opplæringen må være nødvendig for at du skal kunne ha omsorg for barnet, og dette må dokumenteres fra lege.
-
 
 #### Hvem kan få opplæringspenger?
 
@@ -47,7 +37,6 @@ Opplæring ved offentlige helseinstitusjoner i kommune- eller spesialisthelsetje
 
 Du kan også få opplæringspenger for foreldrekurs ved et offentlig spesialpedagogisk kompetansesenter. Det kan for eksempel være kurs for hørsels- og synshemmede barn, kurs hos PPT og lignende. I noen tilfeller kan også private kompetansesentre godkjennes, hvis det er kvalitetsmessig likestilt med det offentlige tilbudet.
 
-
 #### Hva er ikke godkjent som helseinstitusjon?
 
 Det gis ikke opplæringspenger hvis du deltar i opplæring som arrangeres av humanitære organisasjoner, brukerorganisasjoner eller lignende. Barne-, ungdoms- og familieetaten (Bufetat) og hjelpemiddelsentralen er andre eksempler på helseinstitusjoner som ikke er godkjente.
@@ -56,11 +45,11 @@ For å ha rett til opplæringspenger, må du ha fravær fra jobb på grunn av op
 
 Det er flere forhold som må være oppfylt:
 
-- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
 - Arbeidstiden eller inntekten din er redusert med minst 20%
 - Du er under 70 år
-For å ha rett til opplæringspenger, må du ha jobbet minst fire uker før du starter opplæringen.
 
+For å ha rett til opplæringspenger, må du ha jobbet minst fire uker før du starter opplæringen.
 
 #### Unntak når du ikke har jobbet fire uker
 
@@ -70,33 +59,56 @@ Perioder med disse pengestøttene kan likestilles med jobb:
 - Dagpenger
 - Foreldre- og svangerskapspenger
 - Pleie-, opplærings- og omsorgspenger
+
 Det betyr at du kan ha rett til opplæringspenger hvis du har fått minst én av disse pengestøttene i løpet av de siste fire ukene før du skal ha opplæring.
 
-Vi kan også gjøre unntak hvis du har vært i ulønnet permisjon i inntil 12 måneder etter foreldrepengeperioden, eller hatt andre lovfestede permisjoner etter Arbeidsmiljølovens §§12-1 til 12-5. Du må ha avtalt med arbeidsgiver når du skal tilbake i jobb etter permisjonen. Du kan lese mer om lovfestede permisjoner på
+Vi kan også gjøre unntak hvis du har vært i ulønnet permisjon i inntil 12 måneder etter foreldrepengeperioden, eller hatt andre lovfestede permisjoner etter Arbeidsmiljølovens §§12-1 til 12-5. Du må ha avtalt med arbeidsgiver når du skal tilbake i jobb etter permisjonen. Du kan lese mer om lovfestede permisjoner på [Arbeidstilsynet sine nettsider.](https://www.arbeidstilsynet.no/arbeidsforhold/permisjoner/)
 
 Hvis du fortsatt er i permisjon når du skal på opplæring, kan opplæringspengene utbetales med 65% av beregnet inntekt.
-
 
 #### Får du arbeidsavklaringspenger?
 
 Arbeidsavklaringspenger gir ikke rett til opplæringspenger. Hvis du kombinerer arbeidsavklaringspengene med arbeid, kan du søke om opplæringspenger hvis du må være borte fra jobben på grunn av nødvendig opplæring.
 
-Bor du i Norge er du vanligvis
+Bor du i Norge er du vanligvis [medlem av folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
 
-Opplæringspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
+### Hva kan du få?
+
+#### Hvor mye kan du få?
+
+Opplæringspengene skal dekke inntekten du vanligvis har opptil 6 ganger grunnbeløpet, som tilsvarer en årslønn på 819 294 kroner.
+
+#### Hvor lenge kan du få?
 
 Det er ingen tidsbegrensing på hvor lenge du kan få opplæringspenger når du er i en situasjon hvor alle vilkårene er oppfylt.
 
-For opplæringspenger vil en periode kunne bestå av en enkeltdag/timer, og vurderingen av om arbeidstiden er redusert med minst 20% regnes ut fra din normalarbeidstid denne dagen. Opplæringspengene gis bare for den tiden du faktisk får opplæring, og den tiden du trenger for å komme deg til og fra kursstedet. Det vil for eksempel si at hvis opplæringen varer i fire timer, og du bruker to timer på å reise til og fra opplæringen, kan du maksimalt få dekket til sammen seks timer av arbeidsdagen. Du får ikke opplæringspenger for hjemmelekser, praktiske øvelser utenom kursene eller lignende.
-
+For opplæringspenger vil en periode kunne bestå av en enkeltdag/timer, og vurderingen av om arbeidstiden er redusert med minst 20% regnes ut fra din normalarbeidstid denne dagen. Opplæringspengene gis bare for den tiden du faktisk får opplæring, og den tiden du trenger for å komme deg til og fra kursstedet. Det vil for eksempel si at hvis opplæringen varer i fire timer, og du bruker to timer på å reise til og fra opplæringen, kan du maksimalt få dekket til sammen seks timer av arbeidsdagen. Du får ikke opplæringspenger for hjemmelekser, praktiske øvelser utenom kursene eller lignende.
 
 #### Omsorgsopptjening
 
-Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist. Det samme gjelder hvis du hvis du tar deg av en person som er syk, eldre eller har en funksjonsnedsettelse.
+Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist. Det samme gjelder hvis du hvis du tar deg av en person som er syk, eldre eller har en funksjonsnedsettelse.
+
+[Pensjonsopptjening ved omsorg for barn](https://www.nav.no/omsorgsopptjening-barn)
+
+Slik gjør du det
+
+[Pensjonsopptjening ved omsorg for syke, eldre og personer med funksjonsnedsettelser](https://www.nav.no/omsorgsopptjening-eldre)
+
+Slik gjør du det
+
+#### Andre tilbud
 
 Mer informasjon til deg som
 
+- [Tar vare på noen som er syk, skadet eller har en funksjonsnedsettelse](https://www.nav.no/tar-vare-pa) Dette kan du ha rett til
+
+### Søke, ettersende eller klage
+
+#### Søknadsfrist
+
 Normalt søker du med en gang. Nav kan gi opplæringspenger for opptil 3 måneder før den måneden du søkte. Søker du for eksempel om opplæringspenger for juni, må Nav ha søknaden senest i september.
+
+#### Søknad og ettersendelse
 
 Du må selv sende en søknad om opplæringspenger til Nav. Du må legge ved erklæring fra lege om barnets sykdom og at opplæringen er nødvendig. Hvis det ikke står i legeerklæringen, må du også sende informasjon om tidspunkt og innhold for opplæringen. Hvis du ikke har dette med en gang, kan du ettersende dokumentasjon.
 
@@ -104,38 +116,56 @@ Når du har sendt søknad, må du informere arbeidsgiveren din og be dem sende i
 
 I dokumentoversikten på Min side kan du se om arbeidsgiver har sendt inn inntektsmelding. Hvis inntektsmeldingen er sendt til Nav etter 11. februar 2026 kan du også se hva arbeidsgiver har opplyst om.
 
+[Søk om opplæringspenger](https://www.nav.no/start/soknad-opplaeringspenger)[Ettersend dokumentasjon](https://www.nav.no/start/samarbeidspartner/ettersend-soknad-opplaringspenger)
 
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak. Husk at vi trenger all nødvendig dokumentasjon for å behandle søknaden din.
 
-Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad | 13 uker |
+| Internasjonal søknad | 6 måneder |
 
+#### Klagerettigheter
+
+Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
+[Send klage](https://klage.nav.no/nb/klage/OPPLARINGSPENGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/OPPLARINGSPENGER)
 
 #### Anke vedtak
 
 Hvis du er uenig i svaret på klagen din fra Nav klageinstans, kan du med noen unntak anke vedtaket. Fristen for å anke står i vedtaket.
 
+[Send anke](https://klage.nav.no/nb/anke/OPPLARINGSPENGER)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/anke/OPPLARINGSPENGER)
 
 #### Saksbehandlingstid for klage og anke
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 10 uker |
+| Klage til Nav klageinstans | 3 måneder |
+| Anke til Nav klageinstans | 2 måneder |
+
+### Når du har opplæringspenger
+
+#### Når utbetales pengene?
+
 Pengene utbetales innen den 25. i måneden.
 
-I
+I [din utbetalingsoversikt](https://tjenester.nav.no/utbetalingsoversikt/) kan du se utbetalingen på kvelden den dagen pengene er utbetalt.
 
-Arbeidsgiveren din kan utbetale opplæringspengene til deg, og kreve refusjon fra Nav etterpå. Hvis arbeidsgiveren ikke ønsker å gjøre dette, får du utbetalingen direkte fra Nav.
+Arbeidsgiveren din kan utbetale opplæringspengene til deg, og kreve refusjon fra Nav etterpå. Hvis arbeidsgiveren ikke ønsker å gjøre dette, får du utbetalingen direkte fra Nav.
 
 Nye søknader som ikke er ferdigbehandlet innen den 20. i en måned eller innen den 6. i desember, blir etterbetalt fortløpende når søknaden er ferdig behandlet.
 
 Feriepengene blir utbetalt i mai året etter at feriepengene er opptjent.
-
 
 #### Skatt
 
@@ -145,10 +175,13 @@ Før jul er det ikke skattetrekk på utbetalinger for uke 47/48 eller 48/49, så
 
 Hvis du betaler Svalbardskatt er det ordinært skattetrekk før jul.
 
-Du har ikke rett til opplæringspenger for de dagene du avvikler ferie. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Du må derfor informere om ferie i søknaden.
+[Mer om skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
 
-Du skal ikke gi beskjed til Nav hvis du har avtalt med arbeidsgiver at du får utsatt ferie. Spørsmål om ferieloven må rettes til Arbeidstilsynet.
+#### Ferie og feriepenger
 
+Du har ikke rett til opplæringspenger for de dagene du avvikler ferie. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Du må derfor informere om ferie i søknaden.
+
+Du skal ikke gi beskjed til Nav hvis du har avtalt med arbeidsgiver at du får utsatt ferie. Spørsmål om ferieloven må rettes til Arbeidstilsynet.
 
 #### Feriepenger
 
@@ -158,11 +191,15 @@ Hvis du har hatt både opplæringspenger og pleiepenger i samme kalenderår, kan
 
 Hvis stønadsperioden går fra ett kalenderår og over i neste kalenderår, vil du i år kun få utbetalt feriepenger av de dagene du har hatt med opplæringspenger forrige kalenderår. Feriepenger for inneværende kalenderår utbetales ved neste års feriepengeutbetaling.
 
+#### Reise til utlandet
+
 Hvis du ikke avvikler ferie, men skal reise til et land utenfor EØS må du gi beskjed til Nav.
 
-Hvis du reiser
+Hvis du reiser utenfor EU-/EØS-området, og vilkårene for rett til opplæringspenger er oppfylt i perioden, kan du motta opplæringspenger i opptil 8 uker i løpet av en 12 måneder lang periode.
 
-Hvis du skal reise
+Hvis du skal reise innenfor EU-/EØS-området er det ingen begrensning for hvor lenge du kan motta opplæringspenger, så lenge vilkårene for rett til opplæringspenger er oppfylt i perioden. Du melder fra ved å skrive en beskjed til oss. [Skriv til oss](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endringer-pleiepenger-omsorgspenger-eller-opplaeringspenger)
+
+#### Meld fra om endringer
 
 Du må melde fra til oss når det blir endringer i noen av disse situasjonene i perioden du har opplæringspenger:
 
@@ -173,29 +210,42 @@ Du må melde fra til oss når det blir endringer i noen av disse situasjonene i 
 - omsorgen for barnet er overført til andre, helt eller delvis.
 - du skal ha ferie.
 - du skal til et land utenfor EØS.
+
 Du melder fra om endringer ved å skrive en beskjed til oss.
 
-Oppdatert 02.03.2026
+[Meld fra om endring](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endringer-pleiepenger-omsorgspenger-eller-opplaeringspenger)
 
+### Hva sier loven?
 
-#### Chat med oss
+[Folketrygdloven kapittel 9](https://lovdata.no/nav/folketrygdloven/kap9)
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Oppdatert 02.03.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/opplaringspenger) av norges-lover-bot.*
@@ -209,3 +259,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
