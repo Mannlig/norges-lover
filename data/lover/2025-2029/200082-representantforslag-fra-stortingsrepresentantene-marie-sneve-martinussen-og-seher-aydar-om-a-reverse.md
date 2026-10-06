@@ -1,4 +1,4 @@
-<!-- innholds-hash: d028e1d98f29fe0bd07f175fb4ce76f042906487bf1a416947f9d25122356b67 -->
+<!-- innholds-hash: 82f499ed8dbbf60e139725e28d67e2544d249ea12dd8d9687115fd60df6dd1db -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen og Seher Aydar om å reversere tidligere svekkelser i arbeidsmiljøloven og styrke tillitsvalgtes myndighet
 
@@ -9,24 +9,25 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å reversere tidligere svekkelser i arbeidsmiljøloven og styrke tillitsvalgtes myndighet
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Henvisning:** Dokument 8:157 LS (2025-2026), Innst. 246 S (2025-2026)
+- **Komité:** Arbeids- og sosialkomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200082
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574900034+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Martinussen",
       "foedselsdato": "/Date(504745200000+0100)/",
@@ -34,15 +35,11 @@
       "id": "MARMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -50,8 +47,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
       "foedselsdato": "/Date(621381600000+0200)/",
@@ -59,15 +54,11 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -80,8 +71,6 @@
   "innstilling_id": 17318,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
-    "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
   },
@@ -89,8 +78,6 @@
   "sak_fremmet_id": 200082,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Laabak",
       "foedselsdato": "/Date(-283654800000+0100)/",
@@ -98,15 +85,11 @@
       "id": "BJOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -121,7 +104,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -140,3 +123,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

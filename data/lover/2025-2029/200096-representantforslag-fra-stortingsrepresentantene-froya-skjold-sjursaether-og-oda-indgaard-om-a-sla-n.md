@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7fd6e1ec0d24d14b9f7ac2e57c545825ac44a1ce4a29d3e74f958b73ed150f6e -->
+<!-- innholds-hash: fb683ed69aa5b155340df0f9eaa9e626411b7e53a6d439000baed21767f07e46 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther og Oda Indgaard om å slå ned på grov miljøkriminalitet
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å slå ned på grov miljøkriminalitet
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Henvisning:** Dokument 8:172 S (2025-2026), Innst. 286 S (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Strafferett, Forurensning, Miljøvern, Politi og påtalemyndighet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200096
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574900034+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 14,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
       "id": 139,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 141,
@@ -62,8 +57,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
       "foedselsdato": "/Date(1149717600000+0200)/",
@@ -71,15 +64,11 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -87,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
       "foedselsdato": "/Date(542502000000+0100)/",
@@ -96,15 +83,11 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -117,8 +100,6 @@
   "innstilling_id": 17370,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -126,8 +107,6 @@
   "sak_fremmet_id": 200096,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
       "foedselsdato": "/Date(-91155600000+0100)/",
@@ -135,15 +114,11 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -158,7 +133,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -177,3 +152,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: bdaba4401cc01f05e11e261a92acc7bb1fbea3097254338d25290610563f2d3f -->
+<!-- innholds-hash: 9c8e19b4222277c9c8e52d876b724153c278cb860bbc4af62e9a4e1d73dcb057 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bent-Joacim Bentzen og Erling Sande om å sikre mobildekning på alle offentlige veier
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre mobildekning på alle offentlige veier
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Henvisning:** Dokument 8:194 S (2025-2026), Innst. 239 S (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Vegtrafikk, Kommunikasjonsteknologi
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200111
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 47,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 179,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
       "foedselsdato": "/Date(670629600000+0200)/",
@@ -53,15 +50,11 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
       "foedselsdato": "/Date(279327600000+0100)/",
@@ -78,15 +69,11 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
       "foedselsdato": "/Date(76024800000+0200)/",
@@ -103,15 +88,11 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -124,8 +105,6 @@
   "innstilling_id": 17341,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780405407612+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -133,8 +112,6 @@
   "sak_fremmet_id": 200111,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-73879200000+0200)/",
@@ -142,15 +119,11 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -165,7 +138,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -192,3 +165,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

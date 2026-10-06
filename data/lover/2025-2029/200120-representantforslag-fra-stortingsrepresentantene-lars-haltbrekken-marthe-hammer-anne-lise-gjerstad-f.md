@@ -1,4 +1,4 @@
-<!-- innholds-hash: e55c0fa2e354271bc588144c620fa31ea1def2d06d4ecb682da88cab40170407 -->
+<!-- innholds-hash: ed50cc4b19b15fea54bf9a353ac6b64023d8a0f41e437a69983d60c2641e722c -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Marthe Hammer, Anne Lise Gjerstad Fredlund og Ingrid Fiskaa om nullutslippshurtigbåter
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om nullutslippshurtigbåter
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Henvisning:** Dokument 8:187 S (2025-2026), Innst. 279 S (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** Ferger, Næringsutvikling, Miljøvern
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200120
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574900034+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 111,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 114,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
       "id": 139,
@@ -53,8 +50,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -62,15 +57,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -78,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fiskaa",
       "foedselsdato": "/Date(229989600000+0200)/",
@@ -87,15 +76,11 @@
       "id": "INF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -103,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
       "foedselsdato": "/Date(37321200000+0100)/",
@@ -112,15 +95,11 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -128,8 +107,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hammer",
       "foedselsdato": "/Date(302738400000+0200)/",
@@ -137,15 +114,11 @@
       "id": "MARHAM",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -158,8 +131,6 @@
   "innstilling_id": 17355,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -167,8 +138,6 @@
   "sak_fremmet_id": 200120,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
       "foedselsdato": "/Date(-110772000000+0200)/",
@@ -176,15 +145,11 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -199,7 +164,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -218,3 +183,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

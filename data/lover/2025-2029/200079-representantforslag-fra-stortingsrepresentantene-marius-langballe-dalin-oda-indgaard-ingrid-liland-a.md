@@ -1,4 +1,4 @@
-<!-- innholds-hash: 539c91db3dc3622575a844f2a884f7139219da7624e9a39cc6fe802a2408f699 -->
+<!-- innholds-hash: 3ff03e4c435dd0ae149ee09d9e201f0c4dcdc655d25ebe47478da17f1d530dec -->
 
 # Representantforslag fra stortingsrepresentantene Marius Langballe Dalin, Oda Indgaard, Ingrid Liland, Arild Hermstad, Siren Julianne Jensen, Frøya Skjold Sjursæther og Une Bastholm om å avvikle Helseplattformen og sørge for brukervennlige journalsystemer
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avvikle Helseplattformen og sørge for brukervennlige journalsystemer
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:155 S (2025-2026), Innst. 328 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Helsevesen
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200079
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622796+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hermstad",
       "foedselsdato": "/Date(-101440800000+0200)/",
@@ -44,15 +43,11 @@
       "id": "ARIHER",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
       "foedselsdato": "/Date(1149717600000+0200)/",
@@ -69,15 +62,11 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
       "foedselsdato": "/Date(633394800000+0100)/",
@@ -94,15 +81,11 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
       "foedselsdato": "/Date(-95475600000+0100)/",
@@ -119,15 +100,11 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -135,8 +112,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
       "foedselsdato": "/Date(542502000000+0100)/",
@@ -144,15 +119,11 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -160,8 +131,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
       "foedselsdato": "/Date(431474400000+0200)/",
@@ -169,15 +138,11 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -185,8 +150,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
       "foedselsdato": "/Date(506041200000+0100)/",
@@ -194,15 +157,11 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -215,8 +174,6 @@
   "innstilling_id": 17398,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -224,8 +181,6 @@
   "sak_fremmet_id": 200079,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
       "foedselsdato": "/Date(775951200000+0200)/",
@@ -233,15 +188,11 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -256,7 +207,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -267,3 +218,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: cf0446b17acd89df2526eee303286c44c6edd66674d0a0c570e980a618d7a361 -->
+<!-- innholds-hash: f65ecd76a678cbff95457b961199fc0829acd518d45f9018365471a280fde771 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby og Abid Raja om å stimulere til økt bruk av samkjøring for å nå nullvekstmålet
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å stimulere til økt bruk av samkjøring for å nå nullvekstmålet
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Henvisning:** Dokument 8:169 S (2025-2026), Innst. 243 S (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** Forurensning, Vegtrafikk
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200097
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 47,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Raja",
       "foedselsdato": "/Date(184374000000+0100)/",
@@ -53,15 +50,11 @@
       "id": "ABIR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
       "foedselsdato": "/Date(670201200000+0100)/",
@@ -78,15 +69,11 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Melby",
       "foedselsdato": "/Date(350002800000+0100)/",
@@ -103,15 +88,11 @@
       "id": "GME",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
         "representert_parti": true
@@ -124,8 +105,6 @@
   "innstilling_id": 17327,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -133,8 +112,6 @@
   "sak_fremmet_id": 200097,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Indgaard",
       "foedselsdato": "/Date(542502000000+0100)/",
@@ -142,15 +119,11 @@
       "id": "ODAIND",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -165,7 +138,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -191,3 +164,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

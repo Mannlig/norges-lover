@@ -1,4 +1,4 @@
-<!-- innholds-hash: fcd64d3c5b503ddc82014d2868b01a08da70f34e2cc20ad388868078abdce69c -->
+<!-- innholds-hash: a25b1fc2dd278c910a34b56a48d308f1a8fe88d747961e30561bdcdd86f99e90 -->
 
 # Representantforslag fra stortingsrepresentantene Sofie Marhaug, Hanne Beate Stenvaag, Geir Jørgensen og Hege Bae Nyholt om å styrke vernet av samisk kultur- og næringsutøvelse
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke vernet av samisk kultur- og næringsutøvelse
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Henvisning:** Dokument 8:127 S (2025-2026), Innst. 231 S (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Samer, Reindrift
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200049
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 39,
       "id": 39,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 132,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
       "foedselsdato": "/Date(93308400000+0100)/",
@@ -53,15 +50,11 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
       "foedselsdato": "/Date(43538400000+0200)/",
@@ -78,15 +69,11 @@
       "id": "HANSTE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nyholt",
       "foedselsdato": "/Date(270856800000+0200)/",
@@ -103,15 +88,11 @@
       "id": "HEGNYH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -119,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
       "foedselsdato": "/Date(643500000000+0200)/",
@@ -128,15 +107,11 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -149,8 +124,6 @@
   "innstilling_id": 17314,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -158,8 +131,6 @@
   "sak_fremmet_id": 200049,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -167,15 +138,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -190,7 +157,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -216,3 +183,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

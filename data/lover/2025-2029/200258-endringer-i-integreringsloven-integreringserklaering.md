@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2d36e1b4cc87e9c05fea66a81e1a56506d2bd93a46315fb3cb0ddc86dfa7b03c -->
+<!-- innholds-hash: 7e1577e9b157428dc5fb44be0c31e00f877742d112225ab0292664dfa90290f7 -->
 
 # Endringer i integreringsloven (integreringserklæring)
 
@@ -9,28 +9,65 @@
 - **Type:** 3
 - **Korttittel:** Endringer i integreringsloven (integreringserklæring)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Prop. 70 L (2025-2026), Innst. 309 L (2025-2026), Lovvedtak 50 (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Arbeidsliv, Sysselsetting, Innvandrere, Likestilling, Utdanning
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200258
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622709+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 5,
+      "id": 5,
+      "navn": "Arbeidsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 7,
+      "navn": "Sysselsetting",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 24,
+      "id": 24,
+      "navn": "Likestilling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 32,
+      "id": 32,
+      "navn": "Utdanning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 70 L (2025-2026), Innst. 309 L (2025-2026), Lovvedtak 50 (2025-2026)",
   "id": 200258,
   "innstilling_id": 17401,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -38,8 +75,6 @@
   "sak_fremmet_id": 200258,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
       "foedselsdato": "/Date(80863200000+0200)/",
@@ -47,15 +82,11 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -70,7 +101,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -81,3 +112,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

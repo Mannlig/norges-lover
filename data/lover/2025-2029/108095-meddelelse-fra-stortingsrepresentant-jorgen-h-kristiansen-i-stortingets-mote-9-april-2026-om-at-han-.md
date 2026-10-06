@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7e3d9bd4fb4439541df7cc3a4e6a207cae7daa1d1a7d0dccc6fd8c11383ea924 -->
+<!-- innholds-hash: 6adfc36f7b710d4c71b90cd2cf9b92f1e66511a720c58d3ba4c6bfbed34260be -->
 
 # Meddelelse fra stortingsrepresentant Jørgen H. Kristiansen i Stortingets møte 9. april 2026 om at han trekker tilbake forslag fra Jonas Andersen Sayed, Hans Edvard Askjer og seg selv om avgiftskutt i lys av de høye drivstoffprisene, jf. Dokument 8:189 S (2025-2026)
 
@@ -9,28 +9,51 @@
 - **Type:** 2
 - **Korttittel:** Meddelelse fra stortingsrepresentant Jørgen H. Kristiansen i Stortingets møte 9. april 2026 om at han trekker tilbake forslag fra Jonas Andersen Sayed, Hans Edvard Askjer og seg selv om de høye drivstoffprisene, jf. Dokument 8:189 S (2025-2026)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Innst. 260 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Vegtrafikk, Olje og gass, Avgifter
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108095
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622502+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 7,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 47,
+      "navn": "Vegtrafikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 74,
+      "navn": "Olje og gass",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Innst. 260 S (2025-2026)",
   "id": 108095,
   "innstilling_id": 17347,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -38,8 +61,6 @@
   "sak_fremmet_id": 108095,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622502+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moflag",
       "foedselsdato": "/Date(290473200000+0100)/",
@@ -47,15 +68,11 @@
       "id": "TUMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -70,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -81,3 +98,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 55626cdcdec9e98eebd65e7f9fb7c2cd3ed88d47ec4b272e229d016ae929d815 -->
+<!-- innholds-hash: 069428b1e18a348b5e4fb5edbc7b03abdb52370e4eb0e094c89462fea82c4293 -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe og Geir Inge Lien om ein betre pasientreiseordning
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om ein betre pasientreiseordning
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Henvisning:** Dokument 8:117 S (2025-2026), Innst. 226 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Helsevesen, Helseinstitusjoner
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200039
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 62,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
       "foedselsdato": "/Date(76024800000+0200)/",
@@ -53,15 +50,11 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
       "foedselsdato": "/Date(-69472800000+0200)/",
@@ -78,15 +69,11 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -99,8 +86,6 @@
   "innstilling_id": 17305,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -108,8 +93,6 @@
   "sak_fremmet_id": 200039,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
       "foedselsdato": "/Date(775951200000+0200)/",
@@ -117,15 +100,11 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -140,7 +119,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -166,3 +145,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

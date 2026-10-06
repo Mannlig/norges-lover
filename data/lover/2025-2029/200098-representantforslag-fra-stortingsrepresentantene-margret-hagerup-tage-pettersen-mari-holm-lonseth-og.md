@@ -1,4 +1,4 @@
-<!-- innholds-hash: 04a96de995547127c5f2828ac09881f77f548710c311e15c0934f7db78993f8e -->
+<!-- innholds-hash: ccaa9f9253e2b833bb22a6fd71b146df91066b14ff220e8e5e4b54d9ce23ab43 -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Tage Pettersen, Mari Holm Lønseth og Tone Wilhelmsen Trøen om å sikre forutsigbar finansiering for krisesenterbygg
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre forutsigbar finansiering for krisesenterbygg
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Henvisning:** Dokument 8:170 S (2025-2026), Innst. 242 S (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Familie, Helseinstitusjoner, Husbanken
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200098
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 40,
       "id": 40,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 62,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
       "id": 138,
@@ -53,8 +50,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
       "foedselsdato": "/Date(329263200000+0200)/",
@@ -62,15 +57,11 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -78,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
       "foedselsdato": "/Date(683416800000+0200)/",
@@ -87,15 +76,11 @@
       "id": "MHL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -103,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
       "foedselsdato": "/Date(80863200000+0200)/",
@@ -112,15 +95,11 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -128,8 +107,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
       "foedselsdato": "/Date(-121654800000+0100)/",
@@ -137,15 +114,11 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -158,8 +131,6 @@
   "innstilling_id": 17340,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780405407612+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -167,8 +138,6 @@
   "sak_fremmet_id": 200098,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stenvaag",
       "foedselsdato": "/Date(43538400000+0200)/",
@@ -176,15 +145,11 @@
       "id": "HANSTE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -199,7 +164,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -226,3 +191,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

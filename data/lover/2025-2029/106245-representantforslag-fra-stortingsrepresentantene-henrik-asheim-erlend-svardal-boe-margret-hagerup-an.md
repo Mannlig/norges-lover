@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9d5749fcdcb759b3c8c4f5379cbe785e4d69c43388cd3cde9253e762e7112aa9 -->
+<!-- innholds-hash: c9d2463b4d0e3954d7df0d33605f62a4f57ef2c874143e90de85b48b2876c269 -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Erlend Svardal Bøe, Margret Hagerup, Anne Kristine Linnestad, Erna Solberg og Tone Wilhelmsen Trøen om et helhetlig løft for kvinnehelse og overgangsalderen
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om et helhetlig løft for kvinnehelse og overgangsalderen
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Henvisning:** Dokument 8:80 S (2025-2026), Innst. 191 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Helsevesen, Arbeidsvilkår, Folkehelse
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106245
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192570031+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 5,
       "id": 94,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 188,
@@ -53,8 +50,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Linnestad",
       "foedselsdato": "/Date(-253587600000+0100)/",
@@ -62,15 +57,11 @@
       "id": "ALI",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -78,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bøe",
       "foedselsdato": "/Date(725670000000+0100)/",
@@ -87,15 +76,11 @@
       "id": "ERLBE1",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -103,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solberg",
       "foedselsdato": "/Date(-279334800000+0100)/",
@@ -112,15 +95,11 @@
       "id": "ES",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -128,8 +107,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Asheim",
       "foedselsdato": "/Date(430264800000+0200)/",
@@ -137,15 +114,11 @@
       "id": "HEA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -153,8 +126,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
       "foedselsdato": "/Date(329263200000+0200)/",
@@ -162,15 +133,11 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -178,8 +145,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
       "foedselsdato": "/Date(-121654800000+0100)/",
@@ -187,15 +152,11 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -208,8 +169,6 @@
   "innstilling_id": 17271,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -217,8 +176,6 @@
   "sak_fremmet_id": 106245,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hovda",
       "foedselsdato": "/Date(934927200000+0200)/",
@@ -226,15 +183,11 @@
       "id": "AUDHOV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -249,7 +202,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -264,3 +217,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

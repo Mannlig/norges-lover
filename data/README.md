@@ -4,7 +4,7 @@ Hver mappe har sin egen README.md med full innholdsliste.
 
 | Mappe | Innhold | Dokumenter |
 |---|---|---|
-| [`lover/`](lover/) | Stortinget | 450 |
+| [`lover/`](lover/) | Stortinget | 602 |
 | [`skatt/`](skatt/) | Skatteetaten | 3815 |
 | [`byggteknisk/`](byggteknisk/) | DiBK (byggteknisk) | 734 |
 | [`nav/`](nav/) | NAV | 626 |

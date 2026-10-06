@@ -1,4 +1,4 @@
-<!-- innholds-hash: 74a92121d8cb70eb9f2ee3f6098ffc226fb4da254f4baaefc7ac9cb925f50378 -->
+<!-- innholds-hash: 898a82435a8d69bd5e2b27f54843514bc471233896a53653579014761d68353a -->
 
 # Representantforslag fra stortingsrepresentantene Tor Mikkel Wara, Morten Stordalen, Kristoffer Sivertsen, Erlend Wiborg, Bjørn Larsen og Rikard Spets om å tilrettelegge for kjernekraft i Norge
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å tilrettelegge for kjernekraft i Norge
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:191 S (2025-2026), Innst. 278 S (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Energi, Elektrisitet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200121
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622977+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 4,
       "id": 4,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
       "id": 71,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-73879200000+0200)/",
@@ -53,15 +50,11 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
       "foedselsdato": "/Date(443401200000+0100)/",
@@ -78,15 +69,11 @@
       "id": "EW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
       "foedselsdato": "/Date(-39146400000+0200)/",
@@ -103,15 +88,11 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -119,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
       "foedselsdato": "/Date(596242800000+0100)/",
@@ -128,15 +107,11 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -144,8 +119,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
       "foedselsdato": "/Date(38185200000+0100)/",
@@ -153,15 +126,11 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -169,8 +138,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
       "foedselsdato": "/Date(-158202000000+0100)/",
@@ -178,15 +145,11 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -199,8 +162,6 @@
   "innstilling_id": 17373,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -208,8 +169,6 @@
   "sak_fremmet_id": 200121,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stokkebø",
       "foedselsdato": "/Date(783730800000+0100)/",
@@ -217,15 +176,11 @@
       "id": "ALES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -240,7 +195,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -255,3 +210,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

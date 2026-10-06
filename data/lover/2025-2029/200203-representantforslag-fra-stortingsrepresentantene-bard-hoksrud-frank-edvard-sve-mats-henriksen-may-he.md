@@ -1,4 +1,4 @@
-<!-- innholds-hash: 198dbf11d6bae562e8c93aee25ef773bb3642722b5bfd20b83fda52c31aad0b8 -->
+<!-- innholds-hash: 59386d8767f098523df09b1dcb939e7137986e13d4115f6f2eff813f0c6c2bba -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Frank Edvard Sve, Mats Henriksen, May Helen Hetland Ervik, Bjørn Larsen og Dagfinn Henrik Olsen om å opprettholde hele rv. 85 og rv. 83 som riksvei etter åpningen av Hålogalandsvegen
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å opprettholde hele rv. 85 og rv. 83 som riksvei etter åpningen av Hålogalandsvegen
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:233 S (2025-2026), Innst. 302 S (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** Vegvesen
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200203
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622796+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 189,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-73879200000+0200)/",
@@ -44,15 +43,11 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
       "foedselsdato": "/Date(101944800000+0200)/",
@@ -69,15 +62,11 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
       "foedselsdato": "/Date(-110772000000+0200)/",
@@ -94,15 +81,11 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
       "foedselsdato": "/Date(-59014800000+0100)/",
@@ -119,15 +100,11 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -135,8 +112,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
       "foedselsdato": "/Date(899330400000+0200)/",
@@ -144,15 +119,11 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -160,8 +131,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
       "foedselsdato": "/Date(169200000+0100)/",
@@ -169,15 +138,11 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -190,8 +155,6 @@
   "innstilling_id": 17383,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -199,8 +162,6 @@
   "sak_fremmet_id": 200203,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Blikra",
       "foedselsdato": "/Date(-228016800000+0200)/",
@@ -208,15 +169,11 @@
       "id": "JONBLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -231,7 +188,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -242,3 +199,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

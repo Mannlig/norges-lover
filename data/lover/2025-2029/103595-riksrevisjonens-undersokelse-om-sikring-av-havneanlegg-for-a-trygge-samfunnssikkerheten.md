@@ -1,4 +1,4 @@
-<!-- innholds-hash: aa692ddd89e94317b9227c1fe7f000db6fadd7d98ecb40a09a11a0213a735507 -->
+<!-- innholds-hash: 6e8b9b1862f6194a4ae9e56c6424a5f2c14b45535653ac97bc63a30b733ab33c -->
 
 # Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse om sikring av havneanlegg for å trygge samfunnssikkerheten
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Henvisning:** Dokument 3:12 (2024-2025), Innst. 178 S (2025-2026)
+- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Emner:** Samferdsel, Riksrevisjonen, Havner, Samfunnssikkerhet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103595
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168809+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 6,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 2,
       "id": 2,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
       "id": 29,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 147,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
       "id": 181,
@@ -66,8 +61,6 @@
   "innstilling_id": 17266,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
-    "versjon": "1.6",
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
   },
@@ -75,8 +68,6 @@
   "sak_fremmet_id": 103595,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
       "foedselsdato": "/Date(-138247200000+0200)/",
@@ -84,15 +75,11 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -107,7 +94,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -129,3 +116,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

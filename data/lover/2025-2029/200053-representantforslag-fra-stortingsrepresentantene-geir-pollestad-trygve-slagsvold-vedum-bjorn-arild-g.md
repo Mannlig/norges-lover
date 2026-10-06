@@ -1,4 +1,4 @@
-<!-- innholds-hash: 44c3aa96e1538ab3dabc86160aaf78afd859447042675745515fa32ef0b5263e -->
+<!-- innholds-hash: 7a62ce3831ca8f4306ca524e22355bd9e9694a94dabcf1f3d9536c54fd17bf82 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad, Trygve Slagsvold Vedum, Bjørn Arild Gram, og Bent-Joacim Bentzen  om Svalbard
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om Svalbard
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:130 S (2025-2026), Innst. 251 S (2025-2026)
+- **Komité:** Utenriks- og forsvarskomiteen
+- **Emner:** Svalbard
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200053
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622977+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 175,
       "id": 176,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
       "foedselsdato": "/Date(670629600000+0200)/",
@@ -44,15 +43,11 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
       "foedselsdato": "/Date(74037600000+0200)/",
@@ -69,15 +62,11 @@
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
       "foedselsdato": "/Date(271807200000+0200)/",
@@ -94,15 +81,11 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
       "foedselsdato": "/Date(281314800000+0100)/",
@@ -119,15 +100,11 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -140,8 +117,6 @@
   "innstilling_id": 17335,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
   },
@@ -149,8 +124,6 @@
   "sak_fremmet_id": 200053,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Foshaug",
       "foedselsdato": "/Date(28076400000+0100)/",
@@ -158,15 +131,11 @@
       "id": "NF",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -181,7 +150,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -196,3 +165,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c9ab6c283dea9de56300afcc431804821f6163202f01f862077ce740a17ba28c -->
+<!-- innholds-hash: cb5b68f4f1800314f57fd5a2ac610c9fffc9ac2aefc465cc78b2d5ad95bd77b3 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Pollestad og Trygve Slagsvold Vedum om beredskapslagring av diesel og flybensin
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om beredskapslagring av diesel og flybensin
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:178 S (2025-2026), Innst. 295 S (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Olje og gass, Samfunnssikkerhet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200108
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622883+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622883+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
       "id": 74,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622883+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
       "id": 181,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622883+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pollestad",
       "foedselsdato": "/Date(271807200000+0200)/",
@@ -53,15 +50,11 @@
       "id": "GP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622883+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
       "foedselsdato": "/Date(281314800000+0100)/",
@@ -78,15 +69,11 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -99,8 +86,6 @@
   "innstilling_id": 17369,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -108,8 +93,6 @@
   "sak_fremmet_id": 200108,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622883+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haltbrekken",
       "foedselsdato": "/Date(37321200000+0100)/",
@@ -117,15 +100,11 @@
       "id": "LAHA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -140,7 +119,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -155,3 +134,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

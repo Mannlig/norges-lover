@@ -1,4 +1,4 @@
-<!-- innholds-hash: 713dc2b6ab5888a5c2dc81c220865559f97c400d8b43788192dde13701cd1c5f -->
+<!-- innholds-hash: 77e1b1cc96fda416aeae14ab7a6237676e16ed8b5397f8f359e70f9e6ea911a1 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen og Sofie Marhaug om å innføre nabosjekk av EU-regelverk
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å innføre nabosjekk av EU-regelverk
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Henvisning:** Dokument 8:83 S (2025-2026), Innst. 190 S (2025-2026)
+- **Komité:** Utenriks- og forsvarskomiteen
+- **Emner:** Statsforvaltning, Eu/eøs
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106364
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168700+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 155,
       "id": 155,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 173,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Moxnes",
       "foedselsdato": "/Date(377564400000+0100)/",
@@ -53,15 +50,11 @@
       "id": "BJMO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jørgensen",
       "foedselsdato": "/Date(93308400000+0100)/",
@@ -78,15 +69,11 @@
       "id": "GEIRAJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Marhaug",
       "foedselsdato": "/Date(643500000000+0200)/",
@@ -103,15 +88,11 @@
       "id": "SOFMAR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -124,8 +105,6 @@
   "innstilling_id": 17272,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
-    "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
   },
@@ -133,8 +112,6 @@
   "sak_fremmet_id": 106364,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168700+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solberg",
       "foedselsdato": "/Date(-279334800000+0100)/",
@@ -142,15 +119,11 @@
       "id": "ES",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -165,7 +138,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -187,3 +160,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

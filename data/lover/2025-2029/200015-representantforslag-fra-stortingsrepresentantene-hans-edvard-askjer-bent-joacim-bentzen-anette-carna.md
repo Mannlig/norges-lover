@@ -1,4 +1,4 @@
-<!-- innholds-hash: db128bbd60314be5b6139db1b9940dfe61c27ee5e5aa329bcad5efa02fa98484 -->
+<!-- innholds-hash: 9c35a3a3aef7c38a10bb02732e9e4d6f6432bf2316224de0d0e9ad2e96973bd1 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Bent-Joacim Bentzen, Anette Carnarius Elseth og Mari Holm Lønseth om sikkerhet for et nasjonalt avhopperprogram
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om sikkerhet for et nasjonalt avhopperprogram
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:95 S (2025-2026), Innst. 253 S (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** Rettsvesen, Kriminalomsorg, Politi og påtalemyndighet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200015
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622977+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 11,
       "id": 11,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 16,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 141,
@@ -53,8 +50,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Elseth",
       "foedselsdato": "/Date(112831200000+0200)/",
@@ -62,15 +57,11 @@
       "id": "AE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -78,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bentzen",
       "foedselsdato": "/Date(670629600000+0200)/",
@@ -87,15 +76,11 @@
       "id": "BENBEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -103,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
       "foedselsdato": "/Date(-247539600000+0100)/",
@@ -112,15 +95,11 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -128,8 +107,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lønseth",
       "foedselsdato": "/Date(683416800000+0200)/",
@@ -137,15 +114,11 @@
       "id": "MHL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -158,8 +131,6 @@
   "innstilling_id": 17326,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -167,8 +138,6 @@
   "sak_fremmet_id": 200015,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Qureshi",
       "foedselsdato": "/Date(505350000000+0100)/",
@@ -176,15 +145,11 @@
       "id": "FARQUR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -199,7 +164,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -214,3 +179,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

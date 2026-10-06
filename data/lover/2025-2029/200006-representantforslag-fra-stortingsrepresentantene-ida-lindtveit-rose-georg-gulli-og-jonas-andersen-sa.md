@@ -1,4 +1,4 @@
-<!-- innholds-hash: ac8b20f410855ec2976aa46ca24cd8db768af37e899adf0300adad915ed3f24b -->
+<!-- innholds-hash: 1ee8557e8b7d578e69008273d2e5daaea66eb57b4133ad58956841d3dee111fa -->
 
 # Representantforslag fra stortingsrepresentantene Ida Lindtveit Røse, Georg Gulli og Jonas Andersen Sayed om et nasjonalt røykesluttprogram - uten kostnad for staten
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om et nasjonalt røykesluttprogram - uten kostnad for staten
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Henvisning:** Dokument 8:93 S (2025-2026), Innst. 207 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Folkehelse
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200006
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168762+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 188,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gulli",
       "foedselsdato": "/Date(1096840800000+0200)/",
@@ -44,15 +43,11 @@
       "id": "GEOGUL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
       "foedselsdato": "/Date(723337200000+0100)/",
@@ -69,15 +62,11 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168809+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
       "foedselsdato": "/Date(877125600000+0200)/",
@@ -94,15 +81,11 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -115,8 +98,6 @@
   "innstilling_id": 17295,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -124,8 +105,6 @@
   "sak_fremmet_id": 200006,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168762+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
       "foedselsdato": "/Date(-106970400000+0200)/",
@@ -133,15 +112,11 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -156,7 +131,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -178,3 +153,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

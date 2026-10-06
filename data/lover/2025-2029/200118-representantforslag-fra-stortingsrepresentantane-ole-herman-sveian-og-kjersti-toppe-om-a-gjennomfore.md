@@ -1,4 +1,4 @@
-<!-- innholds-hash: c3862c1f05bad9018f841c711abdab40f88da76052733059aaaf6baf5f2c05f1 -->
+<!-- innholds-hash: 0f3fc5edfb001069c86612f40d8c184edc1df33c00dc2420a71343e375d0cf98 -->
 
 # Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg
 
@@ -8,25 +8,34 @@
 - **Sak-ID:** 200118
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Status:** 1
+- **Henvisning:** Dokument 8:192 S (2025-2026), Innst. 327 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Sykehus
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200118
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 63,
+      "navn": "Sykehus",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
       "foedselsdato": "/Date(-69472800000+0200)/",
@@ -34,15 +43,11 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -50,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sveian",
       "foedselsdato": "/Date(136850400000+0200)/",
@@ -59,15 +62,11 @@
       "id": "OHJ",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -80,8 +79,6 @@
   "innstilling_id": 17403,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -89,8 +86,6 @@
   "sak_fremmet_id": 200118,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vasvik",
       "foedselsdato": "/Date(267832800000+0200)/",
@@ -98,15 +93,11 @@
       "id": "TRV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -115,13 +106,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag frå stortingsrepresentantane Ole Herman Sveian og Kjersti Toppe om å gjennomføre ei ekstern evaluering av sjukehusplanar og sjukehusbygging i Noreg",
   "type": 2
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -135,3 +126,4 @@
 - **2026-06-09** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

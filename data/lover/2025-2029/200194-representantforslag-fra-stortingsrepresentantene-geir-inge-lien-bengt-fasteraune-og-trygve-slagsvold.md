@@ -1,4 +1,4 @@
-<!-- innholds-hash: e1627b99415791c8b9354e4a19690e55800463c6f272661dbbde1e082defcb2c -->
+<!-- innholds-hash: eead2a604955964330de41fea188a7f564527d822680d999d72ac7dcbd7f61a3 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Bengt Fasteraune og Trygve Slagsvold Vedum om endring av yrkestransportlova § 9 andre ledd
 
@@ -9,24 +9,54 @@
 - **Type:** 3
 - **Korttittel:** Representantforslag om endring av yrkestransportlova § 9 andre ledd
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:248 L (2025-2026), Innst. 305 L (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** Samferdsel, Vegtrafikk, Skatter, Avgifter
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200194
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622709+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 2,
+      "id": 2,
+      "navn": "Samferdsel",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 47,
+      "navn": "Vegtrafikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 58,
+      "navn": "Skatter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
       "foedselsdato": "/Date(-176090400000+0200)/",
@@ -34,15 +64,11 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -50,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Lien",
       "foedselsdato": "/Date(76024800000+0200)/",
@@ -59,15 +83,11 @@
       "id": "GEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -75,8 +95,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
       "foedselsdato": "/Date(281314800000+0100)/",
@@ -84,15 +102,11 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -105,8 +119,6 @@
   "innstilling_id": 17381,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -114,8 +126,6 @@
   "sak_fremmet_id": 200194,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622796+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Refseth",
       "foedselsdato": "/Date(188953200000+0100)/",
@@ -123,15 +133,11 @@
       "id": "ANNREF",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -146,7 +152,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -157,3 +163,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

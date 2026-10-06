@@ -1,4 +1,4 @@
-<!-- innholds-hash: 352af6aa61b1cf3f02142e810f10c1be32c730158da0042c5ea6cb2122a789df -->
+<!-- innholds-hash: 9cf4ed09a49517231349dfd77854e75a333382d594515d9361a900f59fdbd846 -->
 
 # Årsmelding 2025 for pensjonsordninga for stortingsrepresentantar og regjeringsmedlemer
 
@@ -9,28 +9,51 @@
 - **Type:** 2
 - **Korttittel:** Årsmelding 2025 for pensjonsordninga for stortingsrepresentantar og regjeringsmedlemer
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Henvisning:** Meld. St. 6 (2025-2026), Innst. 235 S (2025-2026)
+- **Komité:** Arbeids- og sosialkomiteen
+- **Emner:** Regjeringen, Stortingsrepresentanter, Trygder
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200225
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 25,
+      "navn": "Regjeringen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 6 (2025-2026), Innst. 235 S (2025-2026)",
   "id": 200225,
   "innstilling_id": 17302,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
-    "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
   },
@@ -38,8 +61,6 @@
   "sak_fremmet_id": 200225,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
       "foedselsdato": "/Date(522540000000+0200)/",
@@ -47,15 +68,11 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -70,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -88,3 +105,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

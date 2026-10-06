@@ -1,4 +1,4 @@
-<!-- innholds-hash: a26a8a5e996837a60dabd229d85697fdbf161dcc4842143e189bef4ebf9ff402 -->
+<!-- innholds-hash: 9d6adb4b78ccf1621e604e1433f61d1922444f161aa2401dc1ace8032e3e0e9a -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum og Bengt Fasteraune om å ta i bruk Haslemoen som midlertidig supplement for å øke utdanningskapasiteten ved rekruttutdanningen på Terningmoen
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å ta i bruk Haslemoen som midlertidig supplement for å øke utdanningskapasiteten ved rekruttutdanningen på Terningmoen
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Henvisning:** Dokument 8:107 S (2025-2026), Innst. 210 S (2025-2026)
+- **Komité:** Utenriks- og forsvarskomiteen
+- **Emner:** Forsvar, Militært personell
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200024
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 59,
       "id": 193,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fasteraune",
       "foedselsdato": "/Date(-176090400000+0200)/",
@@ -53,15 +50,11 @@
       "id": "BFA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Vedum",
       "foedselsdato": "/Date(281314800000+0100)/",
@@ -78,15 +69,11 @@
       "id": "TMV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -99,8 +86,6 @@
   "innstilling_id": 17312,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
-    "versjon": "1.6",
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
   },
@@ -108,8 +93,6 @@
   "sak_fremmet_id": 200024,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kolbjørnsen",
       "foedselsdato": "/Date(-356320800000+0200)/",
@@ -117,15 +100,11 @@
       "id": "MORKOL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "He",
         "navn": "Hedmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -140,7 +119,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -166,3 +145,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

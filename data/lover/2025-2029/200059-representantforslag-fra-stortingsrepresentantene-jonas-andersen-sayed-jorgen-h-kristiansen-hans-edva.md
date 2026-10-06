@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0164c62841b7cb8631e79f0d8427d0a55d5ed229a9629d8c1ecfa55ce2d19087 -->
+<!-- innholds-hash: 2c11a4dba7011207c56bc0854fb1301c5b5b52075685ad744ad0ebea0fecd45c -->
 
 # Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Jørgen H. Kristiansen, Hans Edvard Askjer og Harry Valderhaug om å la ukrainere reise hjem
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å la ukrainere reise hjem
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-23T14:47:00Z
+- **Henvisning:** Dokument 8:136 S (2025-2026), Innst. 233 S (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Innvandrere
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200059
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779545068560+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
       "id": 18,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Askjer",
       "foedselsdato": "/Date(-247539600000+0100)/",
@@ -44,15 +43,11 @@
       "id": "HANASK",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Valderhaug",
       "foedselsdato": "/Date(-136519200000+0200)/",
@@ -69,15 +62,11 @@
       "id": "HARVAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sayed",
       "foedselsdato": "/Date(877125600000+0200)/",
@@ -94,15 +81,11 @@
       "id": "JONSAY",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
       "foedselsdato": "/Date(195346800000+0100)/",
@@ -119,15 +100,11 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -140,8 +117,6 @@
   "innstilling_id": 17313,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779545068544+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -149,8 +124,6 @@
   "sak_fremmet_id": 200059,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779545068560+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wiborg",
       "foedselsdato": "/Date(443401200000+0100)/",
@@ -158,15 +131,11 @@
       "id": "EW",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779534025371+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779490815423+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -181,7 +150,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -207,3 +176,4 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

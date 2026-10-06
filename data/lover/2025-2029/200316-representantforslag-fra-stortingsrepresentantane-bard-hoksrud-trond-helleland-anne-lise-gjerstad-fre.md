@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2fc2a6eed2bbb4feaffa68a75c6be87904a5baea5acf6afaa9bc38102fe590ea -->
+<!-- innholds-hash: 37ae0fc5581361dfde264d44c786c018ad63318789fb211ef8b78815ccfc714c -->
 
 # Representantforslag frå stortingsrepresentantane Bård Hoksrud, Trond Helleland, Anne Lise Gjerstad Fredlund, Erling Sande, Remi Sølvberg, Marius Langballe Dalin, Jørgen H. Kristiansen og Grunde Almeland om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
 
@@ -9,24 +9,33 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre det regionale flytilbodet på FOT-rutenettet i Sør-Noreg
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-22T07:13:15Z
+- **Henvisning:** Dokument 8:291 S (2025-2026)
+- **Komité:** 
+- **Emner:** Luftfart
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200316
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779433345613+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 109,
+      "navn": "Luftfart",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -34,15 +43,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -50,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
       "foedselsdato": "/Date(101944800000+0200)/",
@@ -59,15 +62,11 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -75,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sande",
       "foedselsdato": "/Date(279327600000+0100)/",
@@ -84,15 +81,11 @@
       "id": "ESAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -100,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Almeland",
       "foedselsdato": "/Date(670201200000+0100)/",
@@ -109,15 +100,11 @@
       "id": "GKAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "V",
         "navn": "Venstre",
         "representert_parti": true
@@ -125,8 +112,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
       "foedselsdato": "/Date(195346800000+0100)/",
@@ -134,15 +119,11 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -150,8 +131,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
       "foedselsdato": "/Date(-95475600000+0100)/",
@@ -159,15 +138,11 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -175,8 +150,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
       "foedselsdato": "/Date(208044000000+0200)/",
@@ -184,15 +157,11 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -200,8 +169,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779433345613+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Helleland",
       "foedselsdato": "/Date(-236052000000+0200)/",
@@ -209,15 +176,11 @@
       "id": "TROH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779404413699+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779404413633+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -240,7 +203,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -252,3 +215,4 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-22** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

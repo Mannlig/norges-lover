@@ -1,4 +1,4 @@
-<!-- innholds-hash: a88f8544634a9a1a464d559f2073d35a01110b3afd681e4e1df5b29443011656 -->
+<!-- innholds-hash: 5a4ef1fcf26ca0d3d83ff9d866447daa6eee844fd42b2460ad3087b697519cdb -->
 
 # Representantforslag fra stortingsrepresentantene Siren Julianne Jensen, Marius Langballe Dalin, Ingrid Liland, Margit Bye og Julie E. Stuestøl om å beskytte folk mot gjeldsfeller
 
@@ -8,25 +8,34 @@
 - **Sak-ID:** 200212
 - **Type:** 2
 - **Korttittel:** Representantforslag om å beskytte folk mot gjeldsfeller
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-11T13:21:35Z
+- **Status:** 1
+- **Henvisning:** Dokument 8:254 S (2025-2026), Innst. 332 S (2025-2026)
+- **Komité:** Familie- og kulturkomiteen
+- **Emner:** Forbrukersaker
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200212
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781183248239+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
       "foedselsdato": "/Date(633394800000+0100)/",
@@ -34,15 +43,11 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -50,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
       "foedselsdato": "/Date(432338400000+0200)/",
@@ -59,15 +62,11 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -75,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
       "foedselsdato": "/Date(1011654000000+0100)/",
@@ -84,15 +81,11 @@
       "id": "MARBYE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -100,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
       "foedselsdato": "/Date(-95475600000+0100)/",
@@ -109,15 +100,11 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -125,8 +112,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Jensen",
       "foedselsdato": "/Date(431474400000+0200)/",
@@ -134,15 +119,11 @@
       "id": "SIRJEN",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -155,8 +136,6 @@
   "innstilling_id": 17418,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781182982417+0200)/",
-    "versjon": "1.6",
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
   },
@@ -164,8 +143,6 @@
   "sak_fremmet_id": 200212,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Abdi",
       "foedselsdato": "/Date(1095804000000+0200)/",
@@ -173,15 +150,11 @@
       "id": "HASABD",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -190,13 +163,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779314400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Siren Julianne Jensen, Marius Langballe Dalin, Ingrid Liland, Margit Bye og Julie E. Stuestøl om å beskytte folk mot gjeldsfeller",
   "type": 2
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -213,3 +186,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4a1701654c2a7f64398a3e3b56374eb25d3f2b66c3abc8c0fd080163aa1b3602 -->
+<!-- innholds-hash: 18f2522b2fac3965afe5c2c2ff5725d1772ac5bf43a4ec0326c4d0270c05cacf -->
 
 # Lov om infrastruktur for alternativt drivstoff og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/1804 om utbygging av infrastruktur for alternativt drivstoff og om oppheving av direktiv 2014/94/EU
 
@@ -8,18 +8,21 @@
 - **Sak-ID:** 200224
 - **Type:** 3
 - **Korttittel:** Lov om infrastruktur for alternativt drivstoff
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-11T13:21:35Z
+- **Status:** 1
+- **Henvisning:** Prop. 71 LS (2025-2026), Innst. 350 L (2025-2026), Lovvedtak 56 (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** 
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200224
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781183248239+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [],
@@ -29,8 +32,6 @@
   "innstilling_id": 17431,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1781182982417+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -38,8 +39,6 @@
   "sak_fremmet_id": 200224,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781183248239+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
       "foedselsdato": "/Date(101944800000+0200)/",
@@ -47,15 +46,11 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781175618498+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781132418408+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -64,13 +59,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Lov om infrastruktur for alternativt drivstoff og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2023/1804 om utbygging av infrastruktur for alternativt drivstoff og om oppheving av direktiv 2014/94/EU",
   "type": 3
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -86,3 +81,4 @@
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-06-11** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

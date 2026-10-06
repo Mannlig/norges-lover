@@ -1,4 +1,4 @@
-<!-- innholds-hash: c421c3e1c2356180bfe1f46df2813e2f3b22c505cbb7cfa489c640280c52e1ad -->
+<!-- innholds-hash: 6ce0f8c2ccf665dea36bc29f22c885747800d4087e2ce72fd4d0bcb789d73e45 -->
 
 # Representantforslag fra stortingsrepresentantene Per-Willy Amundsen, Hans Andreas Limi, Jon Engen-Helgheim, Hilde Grande og Bengt Rune Strifeldt om videreføring av pilotordning for politiutdanning i Alta
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om videreføring av pilotordning for politiutdanning i Alta
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:84 S (2025-2026), Innst. 249 S (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** Politi og påtalemyndighet, Høgskoler
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106365
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622977+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 141,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
       "id": 160,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Strifeldt",
       "foedselsdato": "/Date(38617200000+0100)/",
@@ -53,15 +50,11 @@
       "id": "BERST",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Fi",
         "navn": "Finnmark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Grande",
       "foedselsdato": "/Date(162514800000+0100)/",
@@ -78,15 +69,11 @@
       "id": "HILGRA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Limi",
       "foedselsdato": "/Date(-292384800000+0200)/",
@@ -103,15 +88,11 @@
       "id": "HLI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -119,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
       "foedselsdato": "/Date(367192800000+0200)/",
@@ -128,15 +107,11 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -144,8 +119,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Amundsen",
       "foedselsdato": "/Date(33260400000+0100)/",
@@ -153,15 +126,11 @@
       "id": "PTA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -174,8 +143,6 @@
   "innstilling_id": 17333,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -183,8 +150,6 @@
   "sak_fremmet_id": 106365,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622977+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Solli",
       "foedselsdato": "/Date(612050400000+0200)/",
@@ -192,15 +157,11 @@
       "id": "KRISOL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -215,7 +176,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -230,3 +191,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

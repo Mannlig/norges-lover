@@ -1,4 +1,4 @@
-<!-- innholds-hash: ed1934b211b6a32e8b28bb293c708d24cb02714ea44f87d4e49825942bac6b6c -->
+<!-- innholds-hash: 965b73cd65aab88a4edeeb5a7775ead849a527b5b428270a2d0637a4e7f76cce -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Larsen, Margret Hagerup, Kari Sofie Bjørnsen, Monica Molvær, Haagen Poppe, Ove Trellevik og Bård Ludvig Thorheim om økt produksjon og eksport av norsk lokalmat og drikke
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om økt produksjon og eksport av norsk lokalmat og drikke
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Henvisning:** Dokument 8:149 S (2025-2026), Innst. 256 S (2025-2026)
+- **Komité:** Næringskomiteen
+- **Emner:** Landbruk, Landbruksprodukter, Fiskeomsetning, Utenrikshandel
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200072
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 46,
       "id": 46,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 46,
       "id": 69,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 8,
       "id": 91,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 99,
@@ -62,8 +57,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Thorheim",
       "foedselsdato": "/Date(214178400000+0200)/",
@@ -71,15 +64,11 @@
       "id": "BRDTHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -87,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-133149600000+0200)/",
@@ -96,15 +83,11 @@
       "id": "ERLL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -112,8 +95,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
       "foedselsdato": "/Date(810856800000+0200)/",
@@ -121,15 +102,11 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -137,8 +114,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
       "foedselsdato": "/Date(-91155600000+0100)/",
@@ -146,15 +121,11 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -162,8 +133,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hagerup",
       "foedselsdato": "/Date(329263200000+0200)/",
@@ -171,15 +140,11 @@
       "id": "MAHAG",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -187,8 +152,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
       "foedselsdato": "/Date(505177200000+0100)/",
@@ -196,15 +159,11 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -212,8 +171,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trellevik",
       "foedselsdato": "/Date(-138247200000+0200)/",
@@ -221,15 +178,11 @@
       "id": "OBT",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -242,8 +195,6 @@
   "innstilling_id": 17330,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780405407612+0200)/",
-    "versjon": "1.6",
     "id": "NÆRING",
     "navn": "Næringskomiteen"
   },
@@ -251,8 +202,6 @@
   "sak_fremmet_id": 200072,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hop",
       "foedselsdato": "/Date(157503600000+0100)/",
@@ -260,15 +209,11 @@
       "id": "RUTHOP",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -283,7 +228,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -310,3 +255,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

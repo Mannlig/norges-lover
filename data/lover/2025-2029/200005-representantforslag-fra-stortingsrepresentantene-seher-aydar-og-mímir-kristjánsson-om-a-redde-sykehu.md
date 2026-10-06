@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1ff5a549ef3051c58fe7f82ecae77b9b1b2861b74b51e0ed65da05c380d5cf7d -->
+<!-- innholds-hash: 174d7e85a246b65dba4d02addaa98f6338a5f6247f6e70793a1fed7ba67a04ff -->
 
 # Representantforslag fra stortingsrepresentantene Seher Aydar og Mímir Kristjánsson om å redde sykehusdriften i Egersund
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å redde sykehusdriften i Egersund
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T20:19:23Z
+- **Henvisning:** Dokument 8:88 S (2025-2026), Innst. 206 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Sykehus
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200005
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779394168762+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168762+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 63,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168762+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristjánsson",
       "foedselsdato": "/Date(524613600000+0200)/",
@@ -44,15 +43,11 @@
       "id": "MMIKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779394168762+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aydar",
       "foedselsdato": "/Date(621381600000+0200)/",
@@ -69,15 +62,11 @@
       "id": "SEA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -90,8 +79,6 @@
   "innstilling_id": 17294,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779393928030+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -99,8 +86,6 @@
   "sak_fremmet_id": 200005,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779394168762+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
       "foedselsdato": "/Date(775951200000+0200)/",
@@ -108,15 +93,11 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779373014321+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -131,7 +112,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -153,3 +134,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

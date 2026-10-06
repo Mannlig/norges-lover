@@ -1,4 +1,4 @@
-<!-- innholds-hash: a7f424538a62c4f6711bb4bcaa07b544514c6112b7104914ec6e8c3428f9a82b -->
+<!-- innholds-hash: df6a196cefbd35c012a251ec85006fcae598e1274c4cca05ffc0ee2f7aab51a9 -->
 
 # Redegjørelse av kultur- og likestillingsministeren om status i arbeidet med å fremme likestilling og mangfold i alle sektorer
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Redegjørelse av kultur- og likestillingsministeren om status i arbeidet med å fremme likestilling og mangfold i alle sektorer
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T21:16:07Z
+- **Henvisning:** None
+- **Komité:** 
+- **Emner:** Likestilling
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106024
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779221840847+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779221840847+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 24,
       "id": 24,
@@ -49,7 +50,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -65,3 +66,4 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

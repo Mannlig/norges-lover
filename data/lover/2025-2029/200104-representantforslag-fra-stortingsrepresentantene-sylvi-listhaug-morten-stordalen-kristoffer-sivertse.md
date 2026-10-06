@@ -1,4 +1,4 @@
-<!-- innholds-hash: 443b58fb1a43b63fa9e32a16a68b9e0f203eaf6655942d9a03703bb9e3b75ca8 -->
+<!-- innholds-hash: 8aa9db62bf1076d95cb8644ba8368e38a5b35a8a4168cef3054044d53432da58 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Morten Stordalen, Kristoffer Sivertsen, Rikard Spets og Tor Mikkel Wara om kostnadsberegninger for å nå Norges klimamål
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om kostnadsberegninger for å nå Norges klimamål
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-04T12:13:42Z
+- **Henvisning:** Dokument 8:174 S (2025-2026), Innst. 283 S (2025-2026)
+- **Komité:** Energi- og miljøkomiteen
+- **Emner:** Forurensning, Miljøvern
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200104
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780574900034+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 139,
       "id": 139,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
       "foedselsdato": "/Date(-39146400000+0200)/",
@@ -53,15 +50,11 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sivertsen",
       "foedselsdato": "/Date(596242800000+0100)/",
@@ -78,15 +69,11 @@
       "id": "KRISIV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Spets",
       "foedselsdato": "/Date(38185200000+0100)/",
@@ -103,15 +88,11 @@
       "id": "RIKSPE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -119,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
       "foedselsdato": "/Date(251852400000+0100)/",
@@ -128,15 +107,11 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -144,8 +119,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Wara",
       "foedselsdato": "/Date(-158202000000+0100)/",
@@ -153,15 +126,11 @@
       "id": "TOWA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -174,8 +143,6 @@
   "innstilling_id": 17365,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780574475852+0200)/",
-    "versjon": "1.6",
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
   },
@@ -183,8 +150,6 @@
   "sak_fremmet_id": 200104,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780574900034+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
       "foedselsdato": "/Date(1149717600000+0200)/",
@@ -192,15 +157,11 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780540023040+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780527619014+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -215,7 +176,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -234,3 +195,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b864f638ab59fdbb2319e43bfe290927ae5dd2723974b84489b01e277794ba22 -->
+<!-- innholds-hash: 8c2bf44fa958a74116daec001d787c0c86462406ef252348e4e8d16b33223a18 -->
 
 # Endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)
 
@@ -9,23 +9,24 @@
 - **Type:** 3
 - **Korttittel:** Endringer i folketrygdloven (delvis avvikling av stønad til enslig mor eller far)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Prop. 43 L (2025-2026), Innst. 322 L (2025-2026), Lovvedtak 44 (2025-2026)
+- **Komité:** Arbeids- og sosialkomiteen
+- **Emner:** Sosiale tjenester, Familie, Trygder
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200130
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622709+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 186,
       "id": 10,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 40,
       "id": 40,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
       "id": 186,
@@ -57,8 +54,6 @@
   "innstilling_id": 17387,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
   },
@@ -66,8 +61,6 @@
   "sak_fremmet_id": 200130,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
       "foedselsdato": "/Date(686008800000+0200)/",
@@ -75,15 +68,11 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -98,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -109,3 +98,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

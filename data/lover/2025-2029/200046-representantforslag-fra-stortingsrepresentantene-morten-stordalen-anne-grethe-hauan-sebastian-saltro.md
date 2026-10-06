@@ -1,4 +1,4 @@
-<!-- innholds-hash: 89801b33b475107ea5029686a8af1168a86b050c67bb614afd492a8407a0c761 -->
+<!-- innholds-hash: 18b8c826e732242d3a1777b93defad196594d562240441955e33d9c098a347ec -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Anne Grethe Hauan, Sebastian Saltrø Ytrevik, Bård Hoksrud og Simen Velle om tilrettelegging for studentene fra Pilot Flight Academy
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om tilrettelegging for studentene fra Pilot Flight Academy
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:12Z
+- **Henvisning:** Dokument 8:122 S (2025-2026), Innst. 179 S (2025-2026)
+- **Komité:** Utdannings- og forskningskomiteen
+- **Emner:** Luftfart, Fagskoler
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200046
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167066167+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 109,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
       "id": 227,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hauan",
       "foedselsdato": "/Date(-106970400000+0200)/",
@@ -53,15 +50,11 @@
       "id": "AGHA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
       "foedselsdato": "/Date(101944800000+0200)/",
@@ -78,15 +69,11 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stordalen",
       "foedselsdato": "/Date(-39146400000+0200)/",
@@ -103,15 +88,11 @@
       "id": "FMS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -119,8 +100,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ytrevik",
       "foedselsdato": "/Date(1045954800000+0100)/",
@@ -128,15 +107,11 @@
       "id": "SEBYTR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -144,8 +119,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
       "foedselsdato": "/Date(974847600000+0100)/",
@@ -153,15 +126,11 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -174,8 +143,6 @@
   "innstilling_id": 17259,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
-    "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
@@ -183,8 +150,6 @@
   "sak_fremmet_id": 200046,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066245+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gorseth",
       "foedselsdato": "/Date(767052000000+0200)/",
@@ -192,15 +157,11 @@
       "id": "VEBGOR",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -215,7 +176,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -229,3 +190,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

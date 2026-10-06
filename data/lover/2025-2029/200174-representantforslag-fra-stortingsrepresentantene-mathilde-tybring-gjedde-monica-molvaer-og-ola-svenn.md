@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6635114e725a82f8b28d74e5ebe85945ee671b48dccddfe735fdc3d84b4c3896 -->
+<!-- innholds-hash: 29c311663d456e2437f9f88c19a9de43feb47a399338e988f1ef52c67ccacebe -->
 
 # Representantforslag fra stortingsrepresentantene Mathilde Tybring-Gjedde, Monica Molvær og Ola Svenneby om å beholde og forbedre nasjonale prøver og kartleggingsprøver
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å beholde og forbedre nasjonale prøver og kartleggingsprøver
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-02T13:27:29Z
+- **Henvisning:** Dokument 8:240 S (2025-2026), Innst. 236 S (2025-2026)
+- **Komité:** Utdannings- og forskningskomiteen
+- **Emner:** Grunnskole
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200174
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780405690119+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690135+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
       "id": 183,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
       "foedselsdato": "/Date(505177200000+0100)/",
@@ -44,15 +43,11 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tybring-Gjedde",
       "foedselsdato": "/Date(724374000000+0100)/",
@@ -69,15 +62,11 @@
       "id": "MTY",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -85,8 +74,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780405690135+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Svenneby",
       "foedselsdato": "/Date(859071600000+0100)/",
@@ -94,15 +81,11 @@
       "id": "OLASVE",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -115,8 +98,6 @@
   "innstilling_id": 17321,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780405407612+0200)/",
-    "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
@@ -124,8 +105,6 @@
   "sak_fremmet_id": 200174,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780405690119+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
       "foedselsdato": "/Date(974847600000+0100)/",
@@ -133,15 +112,11 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780398020977+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780354819830+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -156,7 +131,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -183,3 +158,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

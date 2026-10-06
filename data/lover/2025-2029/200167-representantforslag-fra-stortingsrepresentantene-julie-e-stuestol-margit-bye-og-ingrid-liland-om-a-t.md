@@ -1,4 +1,4 @@
-<!-- innholds-hash: d80e8df3b09eb5ebd17d176f4e6bd42248707f6ebea8787209d6590d89912fdf -->
+<!-- innholds-hash: 8cfcd775a4ed8eb368b94304a0b67d446499920c2de4017739650bbd7127d51f -->
 
 # Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Margit Bye og Ingrid Liland om å tilrettelegge for innføring av åpenhetsregister i norske kommuner
 
@@ -8,25 +8,48 @@
 - **Sak-ID:** 200167
 - **Type:** 2
 - **Korttittel:** Representantforslag om å tilrettelegge for innføring av åpenhetsregister i norske kommuner
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-10T09:50:48Z
+- **Status:** 1
+- **Henvisning:** Dokument 8:217 S (2025-2026), Innst. 272 S (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Personvern, Kommuner, Lokalforvaltning
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200167
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781082507983+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 17,
+      "navn": "Personvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 184,
+      "id": 184,
+      "navn": "Lokalforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781082507983+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Liland",
       "foedselsdato": "/Date(633394800000+0100)/",
@@ -34,15 +57,11 @@
       "id": "INGLIL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781046018514+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -50,8 +69,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781082507983+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
       "foedselsdato": "/Date(432338400000+0200)/",
@@ -59,15 +76,11 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781046018514+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -75,8 +88,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781082507983+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bye",
       "foedselsdato": "/Date(1011654000000+0100)/",
@@ -84,15 +95,11 @@
       "id": "MARBYE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781046018514+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -105,8 +112,6 @@
   "innstilling_id": 17374,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781082070416+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -114,8 +119,6 @@
   "sak_fremmet_id": 200167,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781082507983+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fredlund",
       "foedselsdato": "/Date(402098400000+0200)/",
@@ -123,15 +126,11 @@
       "id": "ANNFRE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781046018514+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Op",
         "navn": "Oppland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -140,13 +139,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Julie E. Stuestøl, Margit Bye og Ingrid Liland om å tilrettelegge for innføring av åpenhetsregister i norske kommuner",
   "type": 2
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -158,3 +157,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

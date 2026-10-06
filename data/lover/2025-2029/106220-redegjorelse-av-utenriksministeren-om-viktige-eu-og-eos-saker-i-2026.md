@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9ed8c0ddc119a5478f82d55cb2ec5654cb8402b57a476bd935dd60fc05e8c568 -->
+<!-- innholds-hash: c943deb5f76435ff033fc3ce48d3ca9402de0b12a7db0b3b701aa6a982523f5b -->
 
 # Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T21:16:07Z
+- **Henvisning:** None
+- **Komité:** 
+- **Emner:** Eu/eøs
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106220
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779221836113+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779221836113+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 173,
@@ -49,7 +50,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -65,3 +66,4 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

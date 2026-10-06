@@ -1,4 +1,4 @@
-<!-- innholds-hash: 92ee06a935946bc1e6d90243de7b5a1e5279c3a8aaf335243ac15954a25475e2 -->
+<!-- innholds-hash: cec2406c7b9551b36740ae841b6210a0dc1d838a6da627f159a3fbe041012884 -->
 
 # Representantforslag fra stortingsrepresentantene Kristian August Eilertsen, Marius Langballe Dalin, Ida Lindtveit Røse og Kjersti Toppe om å stille i bero alle kontraktsinngåelser innen rehabilitering i Helse Sør-Øst RHF og Helse Midt-Norge RHF
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å stille i bero alle kontraktsinngåelser innen rehabilitering i Helse Sør-Øst RHF og Helse Midt-Norge RHF
 - **Status:** 5
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T21:16:07Z
+- **Henvisning:** Dokument 8:287 S (2025-2026)
+- **Komité:** 
+- **Emner:** Helsevesen
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200304
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779221840644+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779221840644+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779221840644+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Røse",
       "foedselsdato": "/Date(723337200000+0100)/",
@@ -44,15 +43,11 @@
       "id": "IDARSE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779221840644+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
       "foedselsdato": "/Date(775951200000+0200)/",
@@ -69,15 +62,11 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -85,24 +74,18 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779221840644+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
-      "foedselsdato": "/Date(-69469200000+0200)/",
+      "foedselsdato": "/Date(-69472800000+0200)/",
       "fornavn": "Kjersti",
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -110,8 +93,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779221840644+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
       "foedselsdato": "/Date(-95475600000+0100)/",
@@ -119,15 +100,11 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -150,7 +127,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -166,3 +143,4 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

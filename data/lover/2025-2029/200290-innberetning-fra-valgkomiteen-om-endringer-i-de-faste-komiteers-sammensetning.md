@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1ea14428e006243d628510ad5e680f9ade534b4550517010abf0903388280c6e -->
+<!-- innholds-hash: d5ed6d8258ad4a01612bfb622205bc76db213046afc4620d96ff3c770a6ebeaa -->
 
 # Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T12:06:50Z
+- **Henvisning:** Innberetning 2 (2025-2026)
+- **Komité:** Valgkomiteen
+- **Emner:** Stortingsrepresentanter, Stortinget
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200290
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779365133939+0200)/",
-  "versjon": "1.6",
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 8,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
       "id": 26,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 151,
       "id": 203,
@@ -48,8 +47,6 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "respons_dato_tid": "/Date(1779364903760+0200)/",
-    "versjon": "1.6",
     "id": "VALG",
     "navn": "Valgkomiteen"
   },
@@ -63,7 +60,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -83,3 +80,4 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

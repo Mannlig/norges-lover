@@ -1,4 +1,4 @@
-<!-- innholds-hash: 07d6170be1c8244e12fbf6a8399e544a8d027b854b538b6ca5b896e423e2af5d -->
+<!-- innholds-hash: 65e543629ed94af345a792edbc4bcf69abb9013789c918f7c528189337f9bb14 -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup og Kari Sofie Bjørnsen om å forbedre aksjesparekontoordningen for å øke investeringer i vekstbedrifter
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å forbedre aksjesparekontoordningen for å øke investeringer i vekstbedrifter
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Henvisning:** Dokument 8:108 S (2025-2026), Innst. 182 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Aksjer
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200028
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192570031+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 192,
@@ -35,8 +36,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bjørnsen",
       "foedselsdato": "/Date(-91155600000+0100)/",
@@ -44,15 +43,11 @@
       "id": "KARBJR",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -60,8 +55,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Astrup",
       "foedselsdato": "/Date(266450400000+0200)/",
@@ -69,15 +62,11 @@
       "id": "NA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -90,8 +79,6 @@
   "innstilling_id": 17267,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -99,8 +86,6 @@
   "sak_fremmet_id": 200028,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Kristiansen",
       "foedselsdato": "/Date(195346800000+0100)/",
@@ -108,15 +93,11 @@
       "id": "JRGKRI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "KrF",
         "navn": "Kristelig Folkeparti",
         "representert_parti": true
@@ -131,7 +112,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -146,3 +127,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

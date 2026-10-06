@@ -1,4 +1,4 @@
-<!-- innholds-hash: 94bdbf2a97b05f186bbbb4cd9f1d3a94f225f5249d897d40e3268c81d29aa8b1 -->
+<!-- innholds-hash: 6789891165ffa143bc60749ccf245ef5d18ee739c19d0f302cf98d5b88e897a9 -->
 
 # Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)
 
@@ -9,23 +9,24 @@
 - **Type:** 3
 - **Korttittel:** Endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-21T12:06:50Z
+- **Henvisning:** Prop. 31 L (2025-2026), Innst. 177 L (2025-2026), Lovvedtak 39 (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Forsikring, Trygder, Finanser
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=105929
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779365133939+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 50,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
       "id": 186,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 187,
       "id": 187,
@@ -57,8 +54,6 @@
   "innstilling_id": 17284,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1779364903760+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -66,8 +61,6 @@
   "sak_fremmet_id": 105929,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779365133939+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Aasen-Svensrud",
       "foedselsdato": "/Date(320022000000+0100)/",
@@ -75,15 +68,11 @@
       "id": "AASE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779329683217+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779318014638+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -98,7 +87,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -117,3 +106,4 @@
 - **2026-05-20** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

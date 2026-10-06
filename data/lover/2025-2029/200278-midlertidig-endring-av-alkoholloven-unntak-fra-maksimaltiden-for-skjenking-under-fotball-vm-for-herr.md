@@ -1,4 +1,4 @@
-<!-- innholds-hash: 934b82fe1ed6a5f96972612934634a9e75d0308b97b6fa217de975ca49df1966 -->
+<!-- innholds-hash: f062b9b3ad9e42106643411c398d5c11645de1ceca1c751eb98171dabc231378 -->
 
 # Midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 
@@ -9,28 +9,58 @@
 - **Type:** 3
 - **Korttittel:** Midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-03T08:28:19Z
+- **Henvisning:** Prop. 88 L (2025-2026), Innst. 296 L (2025-2026), Lovvedtak 41 (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Kommuner, Idrett, Lokalforvaltning, Rusmidler
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200278
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780473992012+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 127,
+      "navn": "Idrett",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 184,
+      "id": 184,
+      "navn": "Lokalforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 211,
+      "navn": "Rusmidler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 88 L (2025-2026), Innst. 296 L (2025-2026), Lovvedtak 41 (2025-2026)",
   "id": 200278,
   "innstilling_id": 17368,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780473644714+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -38,8 +68,6 @@
   "sak_fremmet_id": 200278,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780473992012+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Østensen",
       "foedselsdato": "/Date(781221600000+0200)/",
@@ -47,15 +75,11 @@
       "id": "KOS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780441220127+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "VA",
         "navn": "Vest-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780441220018+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -70,7 +94,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -81,3 +105,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

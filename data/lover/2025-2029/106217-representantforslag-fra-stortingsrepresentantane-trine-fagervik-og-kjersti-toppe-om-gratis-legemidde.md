@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4ea24e76cb2a41399952c51db9aaa55a34cf4af239a3a624a31758f8c4083f18 -->
+<!-- innholds-hash: 8b05b33b853db91b86ee1d4459f2c821d699066819190f43cdb26f389b690d2e -->
 
 # Representantforslag frå stortingsrepresentantane Trine Fagervik og Kjersti Toppe om gratis legemiddel på kvit resept for barn opp til seks år
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om gratis legemiddel på kvit resept for barn opp til seks år
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Henvisning:** Dokument 8:79 S (2025-2026), Innst. 204 S (2025-2026)
+- **Komité:** Helse- og omsorgskomiteen
+- **Emner:** Barn, Sykdommer
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=106217
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192570031+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
       "id": 41,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 61,
       "id": 66,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Toppe",
       "foedselsdato": "/Date(-69472800000+0200)/",
@@ -53,15 +50,11 @@
       "id": "KJT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Fagervik",
       "foedselsdato": "/Date(412124400000+0100)/",
@@ -78,15 +69,11 @@
       "id": "TRINFA",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -99,8 +86,6 @@
   "innstilling_id": 17293,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
-    "versjon": "1.6",
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
   },
@@ -108,8 +93,6 @@
   "sak_fremmet_id": 106217,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570031+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Nordtug",
       "foedselsdato": "/Date(686008800000+0200)/",
@@ -117,15 +100,11 @@
       "id": "JSB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -140,7 +119,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -155,3 +134,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

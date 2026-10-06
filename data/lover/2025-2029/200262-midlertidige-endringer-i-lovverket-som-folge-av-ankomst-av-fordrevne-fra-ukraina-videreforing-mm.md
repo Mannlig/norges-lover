@@ -1,4 +1,4 @@
-<!-- innholds-hash: 98815bc891b64b5a42385f0ab907e6c919721718883c505d4fa5f3e1c901ab9a -->
+<!-- innholds-hash: 7afc7c2e96c284b330f4c292b514e2f104f877e2107beda45b8df2e4956e56de -->
 
 # Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
 
@@ -9,23 +9,24 @@
 - **Type:** 3
 - **Korttittel:** Midlertidige endringer i lovverket som følge av ankomst av fordrevne fra Ukraina (videreføring m.m.)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Prop. 51 L (2025-2026), Innst. 336 L (2025-2026), Lovvedtak 48 (2025-2026)
+- **Komité:** Kommunal- og forvaltningskomiteen
+- **Emner:** Innvandrere, Utdanning, Barnevern, Kommuner, Helsevesen, Utenrikssaker
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200262
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622709+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 18,
       "id": 18,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 32,
       "id": 32,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 40,
       "id": 43,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 184,
       "id": 52,
@@ -60,8 +55,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
@@ -69,8 +62,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 163,
       "id": 163,
@@ -84,8 +75,6 @@
   "innstilling_id": 17402,
   "innstilling_kode": 2,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
   },
@@ -93,8 +82,6 @@
   "sak_fremmet_id": 200262,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622709+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Busch",
       "foedselsdato": "/Date(574383600000+0100)/",
@@ -102,15 +89,11 @@
       "id": "ISABUS",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "A",
         "navn": "Arbeiderpartiet",
         "representert_parti": true
@@ -125,7 +108,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -136,3 +119,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

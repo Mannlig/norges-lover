@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24df29429f912731959837bdb35ffb4d19af3246237bc134429f3e1301649ea5 -->
+<!-- innholds-hash: c64bb7017a3da5fd1fd5cb8c978c59a7b7a4fd3731eb73edf6bdcfd1d60dc1c7 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Julie E. Stuestøl, Marius Langballe Dalin og Une Bastholm om en tryggere og mer dyrevennlig nyttårsfeiring
 
@@ -8,25 +8,55 @@
 - **Sak-ID:** 200102
 - **Type:** 2
 - **Korttittel:** Representantforslag om en tryggere og mer dyrevennlig nyttårsfeiring
-- **Status:** 2
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-10T15:33:36Z
+- **Status:** 1
+- **Henvisning:** Dokument 8:176 S (2025-2026), Innst. 320 S (2025-2026)
+- **Komité:** Justiskomiteen
+- **Emner:** Naturvern, Veterinærvesen, Samfunnssikkerhet, Folkehelse
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200102
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1781104348664+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 133,
+      "navn": "Veterinærvesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 188,
+      "navn": "Folkehelse",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sjursæther",
       "foedselsdato": "/Date(1149717600000+0200)/",
@@ -34,15 +64,11 @@
       "id": "FRYSJU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -50,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Stuestøl",
       "foedselsdato": "/Date(432338400000+0200)/",
@@ -59,15 +83,11 @@
       "id": "JULSTU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ve",
         "navn": "Vestfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -75,8 +95,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Dalin",
       "foedselsdato": "/Date(-95475600000+0100)/",
@@ -84,15 +102,11 @@
       "id": "MARDAL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "SF",
         "navn": "Sogn og Fjordane"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -100,8 +114,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Bastholm",
       "foedselsdato": "/Date(506041200000+0100)/",
@@ -109,15 +121,11 @@
       "id": "UAB",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "MDG",
         "navn": "Miljøpartiet De Grønne",
         "representert_parti": true
@@ -130,8 +138,6 @@
   "innstilling_id": 17393,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1781103724893+0200)/",
-    "versjon": "1.6",
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
@@ -139,8 +145,6 @@
   "sak_fremmet_id": 200102,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1781104348664+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Engen-Helgheim",
       "foedselsdato": "/Date(367192800000+0200)/",
@@ -148,15 +152,11 @@
       "id": "JOEH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1781089219165+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Bu",
         "navn": "Buskerud"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1781046018483+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -165,13 +165,13 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Julie E. Stuestøl, Marius Langballe Dalin og Une Bastholm om en tryggere og mer dyrevennlig nyttårsfeiring",
   "type": 2
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -185,3 +185,4 @@
 - **2026-06-09** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-06-10** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

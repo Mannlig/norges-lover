@@ -1,4 +1,4 @@
-<!-- innholds-hash: b5906c34db2b8fd2c45b343b77f8249a465e9a2a1a42ff288a1a8bdb1843f97b -->
+<!-- innholds-hash: 614c9de800cc582c293dd79003afa105ffaa1a6f44eefd469a70ca5e8d48d37e -->
 
 # Pensjonar frå statskassa
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Pensjonar frå statskassa
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T12:51:34Z
+- **Henvisning:** Prop. 40 S (2025-2026), Innst. 202 S (2025-2026)
+- **Komité:** Arbeids- og sosialkomiteen
+- **Emner:** Statens personalpolitikk, Trygder
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200125
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779192570125+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570125+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 155,
       "id": 44,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779192570125+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 186,
       "id": 186,
@@ -48,8 +47,6 @@
   "innstilling_id": 17283,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779192359936+0200)/",
-    "versjon": "1.6",
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
   },
@@ -57,8 +54,6 @@
   "sak_fremmet_id": 200125,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779192570125+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hussein",
       "foedselsdato": "/Date(522540000000+0200)/",
@@ -66,15 +61,11 @@
       "id": "MAAH",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779188415264+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "SV",
         "navn": "Sosialistisk Venstreparti",
         "representert_parti": true
@@ -89,7 +80,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -104,3 +95,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

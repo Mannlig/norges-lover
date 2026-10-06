@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d29024069d56d83c8e24596bf386334c232f1c333db58fa0fb243b161685a77 -->
+<!-- innholds-hash: 9b46dad82eeb2049b024187d6011e7d74ca5f247c85226d6197d3db3fca71d40 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe og Tage Pettersen om fastsettelse av provenyeffekt av fritak fra merverdiavgift på levende lyd og bilde
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om fastsettelse av provenyeffekt av fritak fra merverdiavgift på levende lyd og bilde
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-06-05T08:59:04Z
+- **Henvisning:** Dokument 8:244 S (2025-2026), Innst. 259 S (2025-2026)
+- **Komité:** Finanskomiteen
+- **Emner:** Merverdiavgift, Massemedier
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200185
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1780646622421+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 187,
       "id": 81,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 6,
       "id": 122,
@@ -44,8 +43,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Poppe",
       "foedselsdato": "/Date(810856800000+0200)/",
@@ -53,15 +50,11 @@
       "id": "HSP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "AA",
         "navn": "Aust-Agder"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -69,8 +62,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Pettersen",
       "foedselsdato": "/Date(80863200000+0200)/",
@@ -78,15 +69,11 @@
       "id": "TAGP",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -94,8 +81,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1780646622423+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Trøen",
       "foedselsdato": "/Date(-121654800000+0100)/",
@@ -103,15 +88,11 @@
       "id": "TWT",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -124,8 +105,6 @@
   "innstilling_id": 17343,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1780646426934+0200)/",
-    "versjon": "1.6",
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
@@ -133,8 +112,6 @@
   "sak_fremmet_id": 200185,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1780646622421+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Gram",
       "foedselsdato": "/Date(74037600000+0200)/",
@@ -142,15 +119,11 @@
       "id": "BJAG",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1780614017953+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1780614017895+0200)/",
-        "versjon": "1.6",
         "id": "Sp",
         "navn": "Senterpartiet",
         "representert_parti": true
@@ -165,7 +138,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -176,3 +149,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

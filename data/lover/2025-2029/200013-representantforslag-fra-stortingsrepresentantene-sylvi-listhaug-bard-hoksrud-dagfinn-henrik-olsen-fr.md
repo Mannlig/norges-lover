@@ -1,4 +1,4 @@
-<!-- innholds-hash: e9c9a5ca2e10cf1d3b2e3d4fef5e5e5e3866edec7caec221c049e546f83abf8e -->
+<!-- innholds-hash: bc51553df9a6c7f694a81f6c6dc6f0eac010c65f11443477329613a6c83ec248 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Bjørn Larsen, Silje Hjemdal og Kristian August Eilertsen om å oppheve klimakrav til kjøretøy for å ivareta og styrke samfunnets beredskap
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å oppheve klimakrav til kjøretøy for å ivareta og styrke samfunnets beredskap
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:12Z
+- **Henvisning:** Dokument 8:96 S (2025-2026), Innst. 186 S (2025-2026)
+- **Komité:** Transport- og kommunikasjonskomiteen
+- **Emner:** Forurensning, Vegtrafikk, Samfunnssikkerhet, Vegvesen
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200013
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167066167+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 47,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 181,
       "id": 181,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 2,
       "id": 189,
@@ -62,8 +57,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Larsen",
       "foedselsdato": "/Date(-73879200000+0200)/",
@@ -71,15 +64,11 @@
       "id": "BLA",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -87,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hoksrud",
       "foedselsdato": "/Date(101944800000+0200)/",
@@ -96,15 +83,11 @@
       "id": "BÅH",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -112,8 +95,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Olsen",
       "foedselsdato": "/Date(-110772000000+0200)/",
@@ -121,15 +102,11 @@
       "id": "DHO",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "No",
         "navn": "Nordland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -137,8 +114,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sve",
       "foedselsdato": "/Date(-59014800000+0100)/",
@@ -146,15 +121,11 @@
       "id": "FES",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -162,8 +133,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Eilertsen",
       "foedselsdato": "/Date(775951200000+0200)/",
@@ -171,15 +140,11 @@
       "id": "KEI",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Tr",
         "navn": "Troms"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -187,8 +152,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Henriksen",
       "foedselsdato": "/Date(899330400000+0200)/",
@@ -196,15 +159,11 @@
       "id": "MATHEN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "NT",
         "navn": "Nord-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -212,8 +171,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Ervik",
       "foedselsdato": "/Date(169200000+0100)/",
@@ -221,15 +178,11 @@
       "id": "MHER",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -237,8 +190,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Hjemdal",
       "foedselsdato": "/Date(460764000000+0200)/",
@@ -246,15 +197,11 @@
       "id": "SIHJE",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Ho",
         "navn": "Hordaland"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -262,8 +209,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Listhaug",
       "foedselsdato": "/Date(251852400000+0100)/",
@@ -271,15 +216,11 @@
       "id": "SYL",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -292,8 +233,6 @@
   "innstilling_id": 17261,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
-    "versjon": "1.6",
     "id": "TRANSKOM",
     "navn": "Transport- og kommunikasjonskomiteen"
   },
@@ -301,8 +240,6 @@
   "sak_fremmet_id": 200013,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sølvberg",
       "foedselsdato": "/Date(208044000000+0200)/",
@@ -310,15 +247,11 @@
       "id": "REMSLV",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Øs",
         "navn": "Østfold"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "R",
         "navn": "Rødt",
         "representert_parti": true
@@ -333,7 +266,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -347,3 +280,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

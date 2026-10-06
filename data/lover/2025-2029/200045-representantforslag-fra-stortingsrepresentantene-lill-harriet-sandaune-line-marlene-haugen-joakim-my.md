@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8f3bcce3b9f51a671301bea615f094f52a6fbfd7fc345c05cb453ff13d611d0c -->
+<!-- innholds-hash: bd127c78040ce624fef17e0299912cdcaf5556ad61917ddceb3f1d7b0f0919b6 -->
 
 # Representantforslag fra stortingsrepresentantene Lill Harriet Sandaune, Line Marlene Haugen, Joakim Myklebost Tangen og Simen Velle om nasjonale regler mot sikkerhetstrusler ved forskningsinstitusjonene
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om nasjonale regler mot sikkerhetstrusler ved forskningsinstitusjonene
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-19T05:57:12Z
+- **Henvisning:** Dokument 8:121 S (2025-2026), Innst. 180 S (2025-2026)
+- **Komité:** Utdannings- og forskningskomiteen
+- **Emner:** Universiteter, Forskning, Forsvar, Politi og påtalemyndighet
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200045
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779167066167+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 32,
       "id": 35,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 45,
       "id": 45,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 11,
       "id": 141,
@@ -62,8 +57,6 @@
   ],
   "forslagstiller_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Tangen",
       "foedselsdato": "/Date(1017270000000+0100)/",
@@ -71,15 +64,11 @@
       "id": "JOATAN",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -87,8 +76,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Sandaune",
       "foedselsdato": "/Date(120520800000+0200)/",
@@ -96,15 +83,11 @@
       "id": "LHS",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "ST",
         "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -112,8 +95,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Haugen",
       "foedselsdato": "/Date(731113200000+0100)/",
@@ -121,15 +102,11 @@
       "id": "LINHAU",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Te",
         "navn": "Telemark"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -137,8 +114,6 @@
       "vara_representant": false
     },
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Velle",
       "foedselsdato": "/Date(974847600000+0100)/",
@@ -146,15 +121,11 @@
       "id": "SIMVEL",
       "kjoenn": 2,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "Os",
         "navn": "Oslo"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "FrP",
         "navn": "Fremskrittspartiet",
         "representert_parti": true
@@ -167,8 +138,6 @@
   "innstilling_id": 17264,
   "innstilling_kode": 1,
   "komite": {
-    "respons_dato_tid": "/Date(1779166825701+0200)/",
-    "versjon": "1.6",
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
@@ -176,8 +145,6 @@
   "sak_fremmet_id": 200045,
   "saksordfoerer_liste": [
     {
-      "respons_dato_tid": "/Date(1779167066167+0200)/",
-      "versjon": "1.6",
       "doedsdato": null,
       "etternavn": "Molvær",
       "foedselsdato": "/Date(505177200000+0100)/",
@@ -185,15 +152,11 @@
       "id": "MMO",
       "kjoenn": 1,
       "fylke": {
-        "respons_dato_tid": "/Date(1779145215194+0200)/",
-        "versjon": "1.6",
         "historisk_fylke": false,
         "id": "MR",
         "navn": "Møre og Romsdal"
       },
       "parti": {
-        "respons_dato_tid": "/Date(1779145215147+0200)/",
-        "versjon": "1.6",
         "id": "H",
         "navn": "Høyre",
         "representert_parti": true
@@ -208,7 +171,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -222,3 +185,4 @@
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-18** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
