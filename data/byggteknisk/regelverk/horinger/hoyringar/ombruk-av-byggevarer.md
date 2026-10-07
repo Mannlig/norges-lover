@@ -1,57 +1,34 @@
-<!-- innholds-hash: 6c93379bb207683809e7e9d94a63043e1fa5488af228e5ab64e2fd4d53849c0f -->
+<!-- innholds-hash: b93d6fb38e7e6e45f8640a7dc7fdf26948f1a4eb8d3400d4626b6350c35dba30 -->
 
 # Ombruk av byggevarer
 
 ## Kildeinformasjon
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/
-- **Sist oppdatert (kilde):** Sist endret
-        09.09.2021
-- **Sist hentet:** 2026-05-19T06:02:03Z
+- **Sist oppdatert (kilde):** Publisert
+        06.02.2023
+- **Sist oppdatert i arkivet:** 2026-10-07T07:59:25Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Høyringar](https://www.dibk.no/regelverk/horinger/hoyringar)
+- [Ombruk av byggevarer](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer)
 
 ## Ombruk av byggevarer
 
 Etter oppdrag fra Kommunal- og moderniseringsdepartementet (KMD) sender Direktoratet for byggkvalitet (DiBK) forslag om endring av forskrift om omsetning og dokumentasjon av produkter til byggverk (DOK) på høring. Endringen gjelder ombruk av byggevarer.
 
+Publisert 06.02.2023
 
 ### Status: Avsluttet
 
 Høringsfristen var 09.11.2021
 
-
-### Høringsbrev - ombruk av byggevarer
-
-På oppdrag fra Kommunal- og moderniseringsdepartementet (KMD) sender Direktoratet for byggkvalitet (DiBK) forslag om endring av forskrift om omsetning og dokumentasjon av produkter til byggverk (DOK) på høring. Endringen gjelder ombruk av byggevarer.
-
-DiBK foreslår en endring i DOK § 9 som angir virkeområdet for DOK kapittel III Krav til byggevarer som ikke er CE-merket. Endringen vil innebære et unntak fra kravene til produktdokumentasjon for ombrukte byggevarer.
-
-Den foreslåtte endringen vil kunne bidra til å redusere de hindringene for ombruk, som følger av kravene til produktdokumentasjon. Det vil kunne gi økte insentiver til omsetning av ombrukte byggevarer. Forslaget vil dermed kunne føre til økt ombruk av byggevarer i byggverk, og klima- og miljøkonsekvensene vil normalt bli positive.
-
-I tillegg til det fremlagte forslaget, ønsker DiBK innspill til et alternativt forslag til regulering av ombrukte byggevarer.
-
-
-### Gjennomføring av høringen
-
-Høringen gjennomføres elektronisk. Høringsdokumentene er tilgjengelige på̊ direktoratets nettsider. Høringssvar ønskes mottatt på direktoratets elektroniske høringsløsning.
-
-Alle som ønsker kan sende inn høringsuttalelse, selv om de ikke står oppført i adresselisten.
-
-
-### Høringsfrist
-
-Høringsfristen er 9. november 2021.
-
-Spørsmål til høringen kan rettes til avdelingsdirektør Hanne Kofstadmoen og seniorrådgiver Mailen Vangsnes.
-
-Vennlig hilsen
-
-Per-Arne Horne
-
-Hanne Kofstadmoen
-
+- Høringsbrev Vår ref.: 21/6344 Høringsbrev - ombruk av byggevarer På oppdrag fra Kommunal- og moderniseringsdepartementet (KMD) sender Direktoratet for byggkvalitet (DiBK) forslag om endring av forskrift om omsetning og dokumentasjon av produkter til byggverk (DOK) på høring. Endringen gjelder ombruk av byggevarer. DiBK foreslår en endring i DOK § 9 som angir virkeområdet for DOK kapittel III Krav til byggevarer som ikke er CE-merket. Endringen vil innebære et unntak fra kravene til produktdokumentasjon for ombrukte byggevarer. Den foreslåtte endringen vil kunne bidra til å redusere de hindringene for ombruk, som følger av kravene til produktdokumentasjon. Det vil kunne gi økte insentiver til omsetning av ombrukte byggevarer. Forslaget vil dermed kunne føre til økt ombruk av byggevarer i byggverk, og klima- og miljøkonsekvensene vil normalt bli positive. I tillegg til det fremlagte forslaget, ønsker DiBK innspill til et alternativt forslag til regulering av ombrukte byggevarer. Gjennomføring av høringen Høringen gjennomføres elektronisk. Høringsdokumentene er tilgjengelige på̊ direktoratets nettsider. Høringssvar ønskes mottatt på direktoratets elektroniske høringsløsning. Alle som ønsker kan sende inn høringsuttalelse, selv om de ikke står oppført i adresselisten. Høringsfrist Høringsfristen er 9. november 2021. Spørsmål til høringen kan rettes til avdelingsdirektør Hanne Kofstadmoen og seniorrådgiver Mailen Vangsnes. Vennlig hilsen Per-Arne Horne direktør Hanne Kofstadmoen avdelingsdirektør
+- Høringsnotat [Høringsnotat: Ombruk av byggevarer.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/1e9ca645-2232-4ba3-8290-f86aae8010a3:01c70628f374e7aab2b56874557770390e07e176/horingsnotat-ombruk-av-byggevarer.pdf)
+- Høringssvar [Arkitektbedriftene i Norge.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/3d2b235f-165c-4a89-861b-96bee6dddbf7:1db8de7585e73716c55ccd8087e591b64f9b3633/arkitektbedriftenene-i-norge-ombruk-av-byggevarer.pdf) [Boligprodusentenes Forening.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/ef201f6b-f1d9-4ae9-baad-399da9132d4c:650a19a7b933e90eff1a6403f47f65ecdc1a077e/boligprodusentenes-forening.pdf) [Byggenæringens Landsforening.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/dfd3f8a3-f730-495f-add3-7fa6ee75fa74:2d6e3c689943c0dd47a946173a96ecc6233a6fa5/byggenaringens-landsforening.pdf) [Byggevareindustriens forening og Betongelementforeningen.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/ea680f15-d3f5-4908-95f0-8214c29d3715:2347c575174905af31458e13b100e71b019e76d6/byggevareindustrien-og-betongelement.pdf) [Byggmesterforbundet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/44a85f71-afbb-46f9-af75-5aa8eba5461e:98e0eb546415022aaa978b1ed72173124e04c62c/byggmesterforbundet-ombruk-av-byggevarer.pdf) [Cobuilder.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/93c4fb2d-ab17-4e4b-9c19-5281e8b72d47:20393d60c4b3c6dbe486cb310ac9a6c0c9d2076f/cobuilder.pdf) [Direktoratet for forvaltning og økonomistyring.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/4e129596-6cb8-49b9-92bd-d1dee0c846ed:1a178ccd00b9e2aae4d3f80c8af7c50b7716aead/direktoratet-for-forvaltning-og-okonomistyring-ombruk-av-byggevarer.pdf) [Direktoratet for samfunnssikkerhet og beredskap.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/ae971250-6301-47bf-92da-dda892db88f9:9a659c6689b910d1fef8029eae0b12060672a003/direktoratet-for-samfunnssikkerhet-og-beredskap_.pdf) [Grønn byggallianse og Norsk Eiendom.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/04812700-b55e-49e9-9e7c-36486f722486:85f04b06a5e8997a9a6bf05b0efe26d724627e17/gronn-byggallianse-og-norsk-eiendom.pdf) [GS1.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/79a6c118-10ed-41fc-9d6f-0d6eb85e4aa6:8c718b583cfd46e48dce67f852bc9e6bbb04d5c9/gs1.pdf) [Helse- og omsorgsdepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/b996fd1f-e74d-44a8-87c6-08fdbb495b7d:ec93a5b8df762ded1007fad9357655f52031e9f0/helse--og-omsorgsdepartementet.pdf) [Innlandet fylkeskommune.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/3e6b9b43-2f46-497d-a6f3-b75983d8ee41:5b1edc5fb0960fdd6e744f81d48d1c98774b25b4/innlandet-fylkeskommune.pdf) [Justis- og beredskapsdepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/b7f734fb-409d-44d1-b294-6b11b5e48e2e:7c686a0754aea19d7afe097b2ff1c104179d0b82/justis--og-beredskapsdepartementet.pdf) [Loopfront.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/5afafe32-7975-43a3-887b-6d5d355c37d5:60c1fca6f291388bbf188efe76cd3e00c87f2dc6/loopfront-ombruk-av-byggevarer.pdf) [Mad Oslo as.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/b1415f74-498b-4bee-96da-d39ef1ec3c7a:a96151b61249bb9c685f316ebd73093ed3f6636c/mad-oslo-as.pdf) [Multiconsult.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/d8e5a7ca-b8bc-427c-b832-47d259a6fa7d:099de3a16fbc4f65eaef01cb747d557b3780e4c8/multiconsult.pdf) [NBBL - Norske Boligbyggelags Landsforbund SA.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/21a85cb0-5231-4e98-9cf5-18e09c0dc299:8847a66220c07ac548cc78c64b1e768b1e328464/nbbl---norske-boligbyggelags-landsforbund-sa.pdf) [Norges Hytteforbund.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/c4e61194-de0a-4cb2-9ce3-669c9c74fb93:080d5daa6844b6ef366c14ce589a0238ee0d189c/norges-hytteforbund-ombruk-av-byggevarer.pdf) [Norsk Stålforbund.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/60f94c39-ada5-41a9-8023-eee2898e5e29:f18f7644392df68e9c8bf4dd54d7fc2fd3d715e4/norsk-stalforbund-ombruk-av-byggevarer.pdf) [Norsk Treteknisk Institutt.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/5e0ecd47-c112-4514-ac0c-53c9ce5baa7c:6c412125fadaf4b6ee8e43908589cfa022cb419f/norsk-treteknisk-institutt.pdf) [Norske Trevarer.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/c39ebfe3-4b06-40dc-a462-69b6bf02c69b:18882b18f020e31d3a287f8be2fc495c7aa1d59c/norske-trevarer.pdf) [NVE.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/2e881b92-262d-4f9b-8387-90c1070785ec:4950d3832cab4a9c94f3ff134f6ce8f3539c0776/nve%20(1).pdf) [Nyvoll Consult as.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/52046c6c-8889-4bd9-8092-afd7c846178e:060e643918142f9eb5552c36cea729452b78e588/nyvoll-consult-as-ombruk-av-byggevarer.pdf) [OMTRE.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/7f06d257-5f48-4498-837b-42c7ab20668b:c4d062cffa14b20bbd5d5fb9c577c0bceee7b1f5/omtre-ombruk-av-byggevarer.pdf) [Oslo kommune, Plan- og bygningsetaten.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/bae13bb0-8527-4139-998e-6ed1bd5ec62e:6d008d14a9a3d50a67f181a4e8d4f2d65751f5c6/oslo-kommune-plan--og-bygningsetaten-ombruk-av-byggevarer.pdf) [Resirqel AS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/94c7c263-79a1-4364-9c96-d6b7682d3220:f206b9e86599fd85904e66a1b1aff0b4e1087e7b/resirqel-as-ombruk-av-byggevarer.pdf) [RISE Fire Research.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/3a63ccea-2f14-4b2a-9e14-a64d268e2f87:bae559d7f74fe4990facaf8133aa52b2b659eb42/rise-fire-research-ombruk-av-byggevarer.pdf) [Samferdselsdepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/77e2b027-c3cb-464c-af03-854006531309:93935357f1f55df51e231154400916f7341334bd/samferdselsdepartementet.pdf) [SINTEF.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/560fdd48-0566-4731-a2ef-168a15428e46:6ca39fd63ed10cd0d2409730e2f9c91b266bdbda/sintef.pdf) [Skanska Norge AS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/86249e76-8114-4121-9bd2-623a67459096:35fc25b8665ca63646661c4301977e4c8fc24926/skanska-norge-as-ombruk-av-byggevarer.pdf) [Standard Norge.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/1a6dc63d-6f17-4bf7-b58e-77ecc61d7dc7:343011ca941bf51ea8ec48ee4b536fdc4231bf7f/standard-norge-ombruk-av-byggevarer.pdf) [Statsforvalteren i Oslo og Viken. Klima- og miljøvernavdelingen.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/7aa7378d-f058-4260-999d-b7d7deebc875:c9cbe9e9de9968617722bc678f99f674b3ee739c/statsforvalteren-i-oslo-og-viken.-klima--og-miljovernavdelingen.pdf) [Stiftelsen Miljømerking i Norge.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/23180b21-cc31-4bd3-a22b-365e355a2fcc:4723921e63821c91605dcfaeaabd45ad5788c035/stiftelsen-miljomerking-i-norge.pdf) [Treindustrien.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/849eadd9-f959-4dbc-ba74-87c3f43c8c61:36b4b406e0f225a4f3d62383d3154fd94171d8ff/treindustrien-.pdf) [Trondheim kommune.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/cfc10edb-5316-4ff8-8a30-b988a8611a20:ae51df2e187b5a813661fc2ee368f90a0571a26f/trondheim-kommune.pdf) [Aase Teknikk AS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/_/attachment/inline/91076535-6479-4957-bf4c-bbf91911ea71:845ed08663fad5049d9652da22e32e3999e67e43/aase-teknikk-as.pdf)
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/horinger/hoyringar/ombruk-av-byggevarer/) av norges-lover-bot.*
@@ -59,3 +36,4 @@ Hanne Kofstadmoen
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

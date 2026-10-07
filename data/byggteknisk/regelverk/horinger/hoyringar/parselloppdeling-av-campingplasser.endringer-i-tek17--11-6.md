@@ -1,53 +1,34 @@
-<!-- innholds-hash: c74557f807f4f886e88e08e98e127d2174dd76b6c458cdd2701e2f9c8786c43b -->
+<!-- innholds-hash: b6c512d51113accd15f8f96bb692f93bc502b83d3c8ade65cd07808b6800ac35 -->
 
 # Parselloppdeling av campingplasser. Endringer i TEK17 § 11-6
 
 ## Kildeinformasjon
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/
-- **Sist oppdatert (kilde):** Sist endret
-        09.08.2021
-- **Sist hentet:** 2026-05-19T06:02:33Z
+- **Sist oppdatert (kilde):** Publisert
+        06.02.2023
+- **Sist oppdatert i arkivet:** 2026-10-07T08:00:08Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Høyringar](https://www.dibk.no/regelverk/horinger/hoyringar)
+- [Parselloppdeling av campingplasser. Endringer i TEK17 § 11-6](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6)
 
 ## Parselloppdeling av campingplasser. Endringer i TEK17 § 11-6
 
 På oppdrag fra Kommunal- og moderniseringsdepartementet sender Direktoratet for byggkvalitet på høring forslag om endring i byggteknisk forskrift § 11-6 Tiltak mot brannspredning mellom byggverk.
 
+Publisert 06.02.2023
 
 ### Status: Avsluttet
 
 Høringsfristen var 09.11.2021.
 
-På oppdrag fra Kommunal- og moderniseringsdepartementet sender Direktoratet for byggkvalitet (DiBK) på høring forslag til endring i byggteknisk forskrift (TEK 17) § 11-6.
-
-Direktoratet foreslår å innføre forskrift om inndeling av campingplasser i parseller og etablering av branngater.
-
-Forskriftshjemmelen vil framgå av ny § 26-2.
-
-Hensikten med krav om parsellinndeling og etablering av branngater er å hindre brannspredning på campingplasser og sikre tilgang for brannvesenet. Ved å dele campingplasser inn i avgrensede parseller med bestemte minimums avstander mellom parsellene, hindres brann på en parsell i å spre seg til andre deler av campingplassen. Parsellinndeling av campingplasser er således et viktig brannverntiltak.
-
-Et krav om parsellinndeling av campingplasser vil også innebære en tydeliggjøring av regelverket. Forslaget til forskriftshjemmelen er en oppfølging av forslag 15. mars 2019 om endring i byggteknisk forskrift § 11-6 om brannsikkerhet og avstandskrav på campingplasser. Det ble her fremmet forslag om et nytt generelt avstandskrav på fire meter mellom campingenheter på campingplasser. Som det fremgår av samme høringsforslag tas det også sikte på å forskriftsfeste krav til parsellinndeling av campingplasser.
-
-Merknader til forslaget må være mottatt i DiBK innen
-
-Høringsdokumentene er tilgjengelig på direktoratets nettsider. Høringssvar ønskes mottatt på direktoratets elektroniske høringsløsning. Det er anledning til å uttale seg til høringen selv om man ikke er oppført på listen over høringsinstanser.
-
-Spørsmål om høringen kan rettes til DiBK ved seniorrådgiver Dagfinn Kalheim.
-
-Christine Molland Karlsen
-
-
-#### Uten merknader
-
-Hunton Fiber AS.pdf
-
-Samferdselsdepartementet.pdf
-
-Statens Kartverk.pdf
-
+- Høringsbrev Vår ref.: 18/5790 På oppdrag fra Kommunal- og moderniseringsdepartementet sender Direktoratet for byggkvalitet (DiBK) på høring forslag til endring i byggteknisk forskrift (TEK 17) § 11-6. Direktoratet foreslår å innføre forskrift om inndeling av campingplasser i parseller og etablering av branngater. Forskriftshjemmelen vil framgå av ny § 26-2. Hensikten med krav om parsellinndeling og etablering av branngater er å hindre brannspredning på campingplasser og sikre tilgang for brannvesenet. Ved å dele campingplasser inn i avgrensede parseller med bestemte minimums avstander mellom parsellene, hindres brann på en parsell i å spre seg til andre deler av campingplassen. Parsellinndeling av campingplasser er således et viktig brannverntiltak. Et krav om parsellinndeling av campingplasser vil også innebære en tydeliggjøring av regelverket. Forslaget til forskriftshjemmelen er en oppfølging av forslag 15. mars 2019 om endring i byggteknisk forskrift § 11-6 om brannsikkerhet og avstandskrav på campingplasser. Det ble her fremmet forslag om et nytt generelt avstandskrav på fire meter mellom campingenheter på campingplasser. Som det fremgår av samme høringsforslag tas det også sikte på å forskriftsfeste krav til parsellinndeling av campingplasser. Høringsnotat, høringsfrist og innsending av høringsuttalelse Merknader til forslaget må være mottatt i DiBK innen 09.11.2021 Høringsdokumentene er tilgjengelig på direktoratets nettsider. Høringssvar ønskes mottatt på direktoratets elektroniske høringsløsning. Det er anledning til å uttale seg til høringen selv om man ikke er oppført på listen over høringsinstanser. Spørsmål om høringen kan rettes til DiBK ved seniorrådgiver Dagfinn Kalheim. Med hilsen Per-Arne Horne direktør Christine Molland Karlsen avdelingsdirektør
+- Høringsnotat [Høringsnotat - Parselloppdeling av campingplasser.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/e9b65fff-01bd-444e-b0e5-1de0540aebba:db4ac1912cab2bdf63c36dae6057457579bb66e5/210628-horingsnotat-parselloppdeling-av-campingplasser.pdf) [Vedlegg 1. Situasjonen på eksisterende campingplasser.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/327c8949-0141-42db-8289-82df2fb1c095:f70fca74ea8ad71e7d2c3b9fc5d16b4ce219fbf4/vedlegg-1.situasjonen-pa-eksisterende-campingplasser.pdf) [Vedlegg 2. Rapport fra Konsensusgruppen for etablering av revidert regelverk vedrørende brannvern på campingplasser_2015.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/a8a19abf-c89c-48d8-9984-768b12dcd230:ee694cdc07ecaaa785f88adafac3bd608faad44c/rapport-fra-konsensusgruppen-for-etablering-av-revidert-regelverk-vedrorende-brannvern-pa-campingplasser-2015.pdf) [Vedlegg 3. Brannsikkerhet på campingplasser_SP Fire Research_2016.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/54e675fd-8bac-40e4-b72d-b3578984157e:0fe96a95d299d3a6a454d914f8e1f2ccd2405914/brannsikkerhet-pa-campingplasser-sp-fire-research-2016.pdf) [Vedlegg 4. Forenklet samfunnsøkonomisk analyse av virkningene av endring i reglene for avstand mellom campingenheter Oslo Economics_2017.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/7806a60f-7df1-49d6-a074-75d4590b202e:9a938d171760b266406ec0b9d23d2751a2cd867e/forenklet-samfunnsokonomisk-analyse-av-virkningene-av-endring-i-reglene-for-avstand-mellom-campingenheter-oslo-economics-2017.pdf)
+- Høringssvar [Uttalelse fra Regelrådet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/0be4c5fe-d92f-4e8a-9069-5be65b2168d6:2b4ad891e4613630b090ec3b47457284a53cbd4d/uttalelse-fra-regelradet.pdf) [Advokatforeningen.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/42f719d3-2eb1-4129-82b4-b2ca1c5626f9:b19a96cb38ab05de513003f0e308fa5819542753/advokatforeningen-parselloppdeling-av-campingplasser.endringer-i-tek17-11-6.pdf) [Aurskog-Høland kommune.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/fcb26f25-6121-4d7d-bbdd-10484497acdb:dc0da56f30894a15decff1847d996d1b914fea0b/aurskog-holand-kommune.pdf) [Countryfestivalen AS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/f6c51601-188c-4c39-8b6c-db51c48a5325:e7c62ff18259c5fda168f0e76f61da4082a909b1/countryfestivalen-as.pdf) [Direktoratet for samfunnssikkerhet og beredskap.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/b782c54e-1fac-4f42-9a78-b22d92ed2ab4:621cc661fa949b7a3480a371b6a762bcb5fa0324/direktoratet-for-samfunnssikkerhet-og-beredskap.pdf) [Forsvarsdepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/2042917e-9efc-41a7-9a44-0d1b298c285e:e42a16e4604076c163bd42be88ddb7336abe1f59/forsvarsdepartementet.pdf) [Gjøvik brann og redningsvesen.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/1e5b7d46-ab32-4fd2-86ed-6151534f1e22:a8a22749ac6428404a85b55745454127cbecad55/gjovik-brann-og-redningsvesen-parselloppdeling-av-campingplasser.endringer-i-tek17-11-6.pdf) [Grenland brann og redning IKS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/5b7918ff-553c-4692-a94b-09884e04a630:2ed9698a17fa75a3a26ad90cf25049267586160c/grenland-brann-og-redning-iks.pdf) [Justis og beredskapsdepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/50524fb5-6621-4989-8f57-280d850642cd:2a623c9d03d83975243f18980257f2d15e78922e/justis-og-beredskapsdepartementet.pdf) [Klima- og miljødepartementet.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/d689ec78-24b8-46d4-b445-2ee79475b9cd:2403b78852f6bdc436f517de31ae6c183848bd5b/klima-og-miljodepartementet.pdf) [Norges Bondelag Bondelagets Servicekontor.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/e3093471-df4d-4864-aec2-549ec8cda81c:50d96c0f348d13f25ecb8d335b1efce1ca895ccd/norges-bondelagbondelagets-servicekontor-parselloppdeling-av-campingplasser.endringer-i-tek17-11-6.pdf) [Norges Hytteforbund.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/f021ef6a-d9fd-46bd-9618-889850024eed:5e9826fb5af72c340bc4da84219cc182381f633a/norges-hytteforbund.pdf) [Norsk Bobil og Caravan Club.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/b4983136-3665-4a96-9617-cdf16d9ce377:e695c39ba297e8d1b079b28ab2cf53b314273d65/norsk-bobil-og-caravan-club.pdf) [NVE.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/bc0e4b5b-8317-495f-8262-ba9dace81fcc:910604e8fb069dc50639c516b2d27d5559cccbd9/nve.pdf) [Privatperson.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/6c77e64a-365f-48b0-af05-6c8af47a435d:9915261ed738478ce2de28844a3eb936d48a2487/privatperson-parselloppdeling-av-campingplasser.endringer-i-tek17-11-6.pdf) [Rogaland brann og redning IKS.pdf](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/_/attachment/inline/fe3676a6-15d7-4ec8-99c3-56e56dc881aa:81dca7d38603d2da8e88c97e85198754e05433d7/rogaland-brann-og-redning-iks-parselloppdeling-av-campingplasser.endringer-i-tek17-11-6.pdf) Uten merknader Hunton Fiber AS.pdf Samferdselsdepartementet.pdf Statens Kartverk.pdf
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/horinger/hoyringar/parselloppdeling-av-campingplasser.endringer-i-tek17--11-6/) av norges-lover-bot.*
@@ -55,3 +36,4 @@ Statens Kartverk.pdf
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

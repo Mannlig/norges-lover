@@ -1,4 +1,4 @@
-<!-- innholds-hash: 603adc3fa4b0afc02f7c3893b8e4dcbd5b520720c8323d676e3d7d1510160116 -->
+<!-- innholds-hash: c05c3a052e855d0be6c92302640866827964d98738c13675fb1f2262682f4f88 -->
 
 # Innledning
 
@@ -6,32 +6,192 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/sak/2/7/innledning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-19T06:20:15Z
+- **Sist oppdatert i arkivet:** 2026-10-07T08:27:58Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Byggesaksforskriften (SAK10)](https://www.dibk.no/regelverk/sak)
+- [Innledning](https://www.dibk.no/regelverk/sak/2/7/innledning)
 
 ## Byggesaksforskriften (SAK10) med veiledning
 
-
 ### INNHOLD SAK10
 
-Første del Generelle bestemmelser
+Søk
 
-Andre del Søknadsplikt, innhold i og behandling av søknader
+[Om veiledningen til SAK10](https://www.dibk.no/regelverk/sak)
 
-Tredje del Kvalifikasjoner og ansvar
+- Første del Generelle bestemmelser
+- Kapittel 1 Generelle bestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/sak/1/1/innledning)
+  - [§ 1-1. Formål](https://www.dibk.no/regelverk/sak/1/1/1-1)
+  - [§ 1-2. Definisjoner](https://www.dibk.no/regelverk/sak/1/1/1-2)
+  - [§ 1-3. Opplysningsplikt](https://www.dibk.no/regelverk/sak/1/1/1-3)
+  - [§ 1-4. Virkeområdet for bestemmelser som omhandler utvalgte naturtyper](https://www.dibk.no/regelverk/sak/1/1/1-4)
+  - [§ 1-5. Byggesaksbestemmelsenes virkeområde for fartøy](https://www.dibk.no/regelverk/sak/1/1/-1-5.-byggesaksbestemmelsenes-virkeomrade-for-fartoy)
+- Andre del Søknadsplikt, innhold i og behandling av søknader
+- Kapittel 2 Tiltak som krever søknad og tillatelse
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/2/innledning)
+  - [§ 2-1. Varig og tidsbestemt bruksendring](https://www.dibk.no/regelverk/sak/2/2/2-1)
+  - [§ 2-2. Oppdeling av boenhet](https://www.dibk.no/regelverk/sak/2/2/2-2)
+- Kapittel 3 Tiltak som krever søknad og tillatelse og som kan forestås av tiltakshaver
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/3/innledning)
+  - [§ 3-1. Mindre tiltak på bebygd eiendom](https://www.dibk.no/regelverk/sak/2/3/3-1)
+  - [§ 3-2. Alminnelige driftsbygninger i landbruket](https://www.dibk.no/regelverk/sak/2/3/3-2)
+- Kapittel 4 Tiltak som er unntatt fra byggesaksbehandling
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/4/innledning)
+  - [§ 4-1. Tiltak som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/4-1)
+  - [§ 4-2. Unntak for plassering av særskilt bygning, konstruksjon eller anlegg](https://www.dibk.no/regelverk/sak/2/4/4-2)
+  - [§ 4-3. Solenergianlegg som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/-4-3.solenergianlegg-som-ikke-krever-soknad-og-tillatelse)
+  - [§ 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse](https://www.dibk.no/regelverk/sak/2/4/-4-4.unntak-for-utvendig-etterisolering-av-eksisterende-smahusbebyggelse)
+  - [§ 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/-4-5.etablering-av-ladestasjoner-som-ikke-krever-soknad-og-tillatelse)
+  - [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](https://www.dibk.no/regelverk/sak/2/4/4-3)
+  - [§ 4-7. Unntak for nødvendige sikringstiltak etter akutte hendelser](https://www.dibk.no/regelverk/sak/2/4/-4-4.-unntak-for-nodvendige-sikringstiltak-etter-akutte-hendelser)
+- Kapittel 5 Søknad og dokumentasjon
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/5/innledning)
+  - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](https://www.dibk.no/regelverk/sak/2/5/5-1)
+  - [§ 5-2. Varsel til naboer og gjenboere](https://www.dibk.no/regelverk/sak/2/5/5-2)
+  - [§ 5-3. Gjennomføringsplan](https://www.dibk.no/regelverk/sak/2/5/5-3)
+  - [§ 5-4. Opplysninger som skal gis ved søknad om tillatelse til tiltak](https://www.dibk.no/regelverk/sak/2/5/5-4)
+  - [§ 5-5. Dokumentasjon som skal foreligge i tiltaket](https://www.dibk.no/regelverk/sak/2/5/5-5)
+- Kapittel 6 Kommunens saksbehandling
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/6/innledning)
+  - [§ 6-1. Forhåndskonferanse](https://www.dibk.no/regelverk/sak/2/6/6-1)
+  - [§ 6-2. Den kommunale bygningsmyndighetens samordningsplikt](https://www.dibk.no/regelverk/sak/2/6/6-2)
+  - [§ 6-3. Plassering av tiltak](https://www.dibk.no/regelverk/sak/2/6/6-3)
+  - [§ 6-4. Rammetillatelse](https://www.dibk.no/regelverk/sak/2/6/6-4)
+  - [§ 6-5.](https://www.dibk.no/regelverk/sak/2/6/6-5)
+  - [§ 6-6. Rapportering til andre myndigheter](https://www.dibk.no/regelverk/sak/2/6/6-6)
+  - [§ 6-7. Mulighet for bruk av ansvarlige foretak i tiltak etter plan- og bygningsloven § 20-4](https://www.dibk.no/regelverk/sak/2/6/6-7)
+  - [§ 6-8. Selvbygger](https://www.dibk.no/regelverk/sak/2/6/6-8)
+  - [§ 6-9. Vedtak om å frata ansvarsrett](https://www.dibk.no/regelverk/sak/2/6/6-9)
+- Kapittel 7 Tidsfrister for saksbehandling
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/7/innledning)
+  - [§ 7-1. Tidsfrister for kommunens og klageinstansens saksbehandling](https://www.dibk.no/regelverk/sak/2/7/7-1)
+  - [§ 7-2. Beregning av tidsfrister](https://www.dibk.no/regelverk/sak/2/7/7-2)
+  - [§ 7-3. Kommunens og klageinstansens adgang til ensidig fristforlengelse](https://www.dibk.no/regelverk/sak/2/7/7-3)
+  - [§ 7-4. Tidsfrister ved søknad som kun gjelder dispensasjon](https://www.dibk.no/regelverk/sak/2/7/7-4)
+  - [§ 7-5. Tidsfrist for statlige og regionale myndigheters saksbehandling](https://www.dibk.no/regelverk/sak/2/7/7-5)
+  - [§ 7-6. Gebyrbortfall ved kommunens fristoverskridelse](https://www.dibk.no/regelverk/sak/2/7/7-6)
+- Kapittel 8 Ferdigstillelse
+  - [Innledning](https://www.dibk.no/regelverk/sak/2/8/innledning)
+  - [§ 8-1. Ferdigstillelse av tiltak](https://www.dibk.no/regelverk/sak/2/8/8-1)
+  - [§ 8-2. Overlevering av dokumentasjon for forvaltning, drift og vedlikehold](https://www.dibk.no/regelverk/sak/2/8/8-2)
+- Tredje del Kvalifikasjoner og ansvar
+- Kapittel 9 Foretak og tiltaksklasser
+  - [Innledning](https://www.dibk.no/regelverk/sak/3/9/innledning)
+  - [§ 9-1. Generelle krav](https://www.dibk.no/regelverk/sak/3/9/9-1)
+  - [§ 9-2. Krav til foretak](https://www.dibk.no/regelverk/sak/3/9/9-2)
+  - [§ 9-3. Fastsettelse av tiltaksklasser](https://www.dibk.no/regelverk/sak/3/9/9-3)
+  - [§ 9-4. Oppdeling i tiltaksklasser](https://www.dibk.no/regelverk/sak/3/9/9-4)
+- Kapittel 10 Krav til kvalitetssikring
+  - [Innledning](https://www.dibk.no/regelverk/sak/3/10/innledning)
+  - [§ 10-1. Kvalitetssikringsrutiner for oppfyllelse av plan- og bygningsloven](https://www.dibk.no/regelverk/sak/3/10/10-1)
+  - [§ 10-2. Dokumentasjon for oppfyllelse av kvalitetssikringsrutiner](https://www.dibk.no/regelverk/sak/3/10/10-2)
+- Kapittel 11 Krav til utdanning og praksis
+  - [Innledning](https://www.dibk.no/regelverk/sak/3/11/innledning)
+  - [§ 11-1. Kvalifikasjonskrav og dokumentasjon av kvalifikasjoner](https://www.dibk.no/regelverk/sak/3/11/11-1)
+  - [§ 11-2. Utdanningsnivåer](https://www.dibk.no/regelverk/sak/3/11/11-2)
+  - [§ 11-3. Krav til utdanning og praksis](https://www.dibk.no/regelverk/sak/3/11/11-3)
+  - [§ 11-4. Krav til praksis for de enkelte funksjonene](https://www.dibk.no/regelverk/sak/3/11/11-4)
+  - [§ 11-5. Vurdering av utdanning og praksis](https://www.dibk.no/regelverk/sak/3/11/11-5)
+- Kapittel 12 Ansvar
+  - [Innledning](https://www.dibk.no/regelverk/sak/3/12/innledning)
+  - [§ 12-1. Tiltakshavers ansvar](https://www.dibk.no/regelverk/sak/3/12/12-1)
+  - [§ 12-2. Ansvarlig søkers ansvar](https://www.dibk.no/regelverk/sak/3/12/12-2)
+  - [§ 12-3. Ansvarlig prosjekterendes ansvar](https://www.dibk.no/regelverk/sak/3/12/12-3)
+  - [§ 12-4. Ansvarlig utførendes ansvar](https://www.dibk.no/regelverk/sak/3/12/12-4)
+  - [§ 12-5. Ansvarlig kontrollerendes ansvar](https://www.dibk.no/regelverk/sak/3/12/12-5)
+  - [§ 12-6. Særskilte bestemmelser om ansvar](https://www.dibk.no/regelverk/sak/3/12/12-6)
+- Kapittel 13 Sentral godkjenning for ansvarsrett
+  - [Innledning](https://www.dibk.no/regelverk/sak/3/13/innledning)
+  - [§ 13-1. Organ for sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-1)
+  - [§ 13-1a. Seriøsitetsvilkår for sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-1a)
+  - [§ 13-1b. Tilleggsopplysninger for sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-1b)
+  - [§ 13-2. Søknad om sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-2)
+  - [§ 13-3. Saksbehandlingsfrist for søknad om sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-3)
+  - [§ 13-4. Godkjenningens varighet - Endring og fornyelse](https://www.dibk.no/regelverk/sak/3/13/13-4)
+  - [§ 13-5. Godkjenningsområder for sentral godkjenning av foretak](https://www.dibk.no/regelverk/sak/3/13/13-5)
+  - [§ 13-6. Tilbaketrekking av sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-6)
+  - [§ 13-6a. Bortfall av sentral godkjenning for ansvarsrett ved forhold i strid med § 13-1a](https://www.dibk.no/regelverk/sak/3/13/13-6a)
+  - [§ 13-7. Overtredelsesgebyr ved brudd på reglene for sentral godkjenning](https://www.dibk.no/regelverk/sak/3/13/13-7)
+  - [§ 13-8. Register over foretak med sentral godkjenning for ansvarsrett](https://www.dibk.no/regelverk/sak/3/13/13-8)
+  - [§ 13-9. Gebyr for sentral godkjenning](https://www.dibk.no/regelverk/sak/3/13/13-9)
+  - [§ 13-10. Klage. Klagenemnd](https://www.dibk.no/regelverk/sak/3/13/13-10)
+- Fjerde del Kontroll, tilsyn og overtredelsesgebyr
+- Kapittel 14 Kontroll av tiltak
+  - [Innledning](https://www.dibk.no/regelverk/sak/4/14/innledning)
+  - [§ 14-1. Krav til uavhengighet for kontrollerende foretak](https://www.dibk.no/regelverk/sak/4/14/14-1)
+  - [§ 14-2. Obligatoriske krav om uavhengig kontroll](https://www.dibk.no/regelverk/sak/4/14/14-2)
+  - [§ 14-3. Krav om uavhengig kontroll etter kommunens vurdering](https://www.dibk.no/regelverk/sak/4/14/14-3)
+  - [§ 14-4. Tidsavgrensede krav om uavhengig kontroll](https://www.dibk.no/regelverk/sak/4/14/14-4)
+  - [§ 14-5. Unntak fra krav om obligatorisk uavhengig kontroll](https://www.dibk.no/regelverk/sak/4/14/14-5)
+  - [§ 14-6. Gjennomføring av uavhengig kontroll etter § 14-2 første ledd og annen uavhengig kontroll i tiltaksklasse 1](https://www.dibk.no/regelverk/sak/4/14/14-6)
+  - [§ 14-7. Gjennomføring av uavhengig kontroll i tiltaksklasse 2 og 3](https://www.dibk.no/regelverk/sak/4/14/14-7)
+  - [§ 14-8. Sluttkontroll](https://www.dibk.no/regelverk/sak/4/14/14-8)
+- Kapittel 15 Kommunens tilsyn
+  - [Innledning](https://www.dibk.no/regelverk/sak/4/15/innledning)
+  - [§ 15-1. Strategi for tilsyn. Rapportering](https://www.dibk.no/regelverk/sak/4/15/15-1)
+  - [§ 15-2. Tilsynsrapporter](https://www.dibk.no/regelverk/sak/4/15/15-2)
+  - [§ 15-3. Tidsavgrensede krav om tilsyn](https://www.dibk.no/regelverk/sak/4/15/15-3)
+- Kapittel 16 Overtredelsesgebyr
+  - [Innledning](https://www.dibk.no/regelverk/sak/4/16/innledning)
+  - [§ 16-1. Forhold som kan medføre overtredelsesgebyr. Gebyrenes størrelse](https://www.dibk.no/regelverk/sak/4/16/16-1)
+  - [§ 16-2. Utmåling av overtredelsesgebyr](https://www.dibk.no/regelverk/sak/4/16/16-2)
+  - [§ 16-3 Kommunens varslingsplikt til påtalemyndigheten](https://www.dibk.no/regelverk/sak/4/16/16-3)
+  - [§ 16-4 Krav til innhold i varsel om overtredelsesgebyr](https://www.dibk.no/regelverk/sak/4/16/-16-4-krav-til-innhold-i-varsel-om-overtredelsesgebyr)
+- Femte del Diverse bestemmelser
+- Kapittel 17 Refusjon
+  - [Innledning](https://www.dibk.no/regelverk/sak/5/17/innledning)
+  - [§ 17-1. Planer på kart og dokumentasjon](https://www.dibk.no/regelverk/sak/5/17/17-1)
+  - [§ 17-2. Kostnadsoverslag over refusjonsenheten](https://www.dibk.no/regelverk/sak/5/17/17-2)
+  - [§ 17-3. Tekniske planer](https://www.dibk.no/regelverk/sak/5/17/17-3)
+  - [§ 17-4. Forslag til fordeling av utgifter](https://www.dibk.no/regelverk/sak/5/17/17-4)
+  - [§ 17-5. Berørte grunneiere og festere](https://www.dibk.no/regelverk/sak/5/17/17-5)
+  - [§ 17-6. Kommunens godkjenning av planer og kostnadsoverslag](https://www.dibk.no/regelverk/sak/5/17/17-6)
+  - [§ 17-7. Kommunens vedtak om foreløpig beregning av refusjon](https://www.dibk.no/regelverk/sak/5/17/17-7)
+  - [§ 17-8. Anledning til uttalelse til gitt pristilbud. Anbudskonkurranse](https://www.dibk.no/regelverk/sak/5/17/17-8)
+  - [§ 17-9. Tilleggsutligning](https://www.dibk.no/regelverk/sak/5/17/17-9)
+  - [§ 17-10. Renter ved betaling i årlige terminer](https://www.dibk.no/regelverk/sak/5/17/17-10)
+- Kapittel 18 (ikke i bruk)
+  - [§ 18-1. (Opphevet)](https://www.dibk.no/regelverk/sak/5/18/18-1)
+  - [§ 18-2. (Opphevet)](https://www.dibk.no/regelverk/sak/5/18/18-2)
+- Kapittel 19 Kommunenes adgang til å gi pålegg om utbedring av bevaringsverdige bygninger
+  - [Innledning](https://www.dibk.no/regelverk/sak/5/19/innledning)
+  - [§ 19-1. Formål](https://www.dibk.no/regelverk/sak/5/19/19-1)
+  - [§ 19-2. Pålegg om dokumentasjon, forhåndskonferanse, tilsyn](https://www.dibk.no/regelverk/sak/5/19/19-2)
+  - [§ 19-3. Bevaringsverdige bygninger](https://www.dibk.no/regelverk/sak/5/19/19-3)
+  - [§ 19-4. Varsel om pålegg om sikring eller utbedring](https://www.dibk.no/regelverk/sak/5/19/19-4)
+  - [§ 19-5. Pålegg om utbedring](https://www.dibk.no/regelverk/sak/5/19/19-5)
+  - [§ 19-6. Pålegg om sikring](https://www.dibk.no/regelverk/sak/5/19/19-6)
+- Kapittel 20 Ikrafttreden og overgangsbestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/sak/5/20/innledning)
+  - [§ 20-1. Ikrafttreden](https://www.dibk.no/regelverk/sak/5/20/20-1)
+  - [§ 20-2. Overgangsbestemmelser](https://www.dibk.no/regelverk/sak/5/20/20-2)
+  - [§ 20-3. Overgangsbestemmelser for forskriftsendringer i kraft 1. januar 2016](https://www.dibk.no/regelverk/sak/5/20/20-3)
+  - [§ 20-4. Overgangsregel ved Storbritannias uttreden fra Den Europeiske Union](https://www.dibk.no/regelverk/sak/5/20/20-4)
 
-Fjerde del Kontroll, tilsyn og overtredelsesgebyr
+Lenke kopiert til utklippstavlen
 
-Femte del Diverse bestemmelser
+Forrige
 
+Neste
+
+- [Skriv ut denne siden](https://www.dibk.no/regelverk/sak/2/7/innledning/#autoprint)
+- [Skriv ut Kapittel 7 Tidsfrister for saksbehandling](https://www.dibk.no/regelverk/sak/2/7/innledning?subtype=chapter&print=true&/#autoprint)
+- [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/sak/2/7/innledning?subtype=root&print=true&/#autoprint)
+
+Veiledningstekst sist endret undefined Vis all veiledningstekst Lukk all veiledningstekst
+
+Kapittel 7 Tidsfrister for saksbehandling
 
 ### Innledning
 
 I plan- og bygningsloven og byggesaksforskriften er det fastsatt frister for kommunens saksbehandling av byggesøknader. For noen frister utløses ingen rettsvirkning ved overskridelse av fristen, mens for andre utløses rettsvirkninger som tap av gebyr eller at tillatelse anses som gitt. Fristene er, uavhengig av rettsvirkning, forpliktende for kommunen.
 
-Pbl.
+Pbl. [§ 21-7](https://lovdata.no/lov/2008-06-27-71/%C2%A721-7) regulerer tidsfrister med rettsvirkninger som plan- og bygningsmyndighetene er bundet av. Dette gjelder frister for behandling av søknad om tillatelse til tiltak etter pbl. § 20-2, søknad om igangsettingstillatelse og søknad om ferdigattest. Også byggesaker som krever dispensasjon fra plan og planbestemmelser skal behandles av kommunen innen 12 uker. Fristen løper ikke i den tiden søknaden ligger til uttalelse hos regionale og statlige myndigheter, jf. pbl. § 19-1.
 
 Rettsvirkningene ved fristoverskridelse fremgår direkte av pbl. § 21-7. I tillegg hjemler pbl. § 19-2 adgang til å fastsette tidsfrist med rettsvirkning for søknad som kun gjelder dispensasjon. Det er fastsatt i byggesaksforskriften § 7-4 at også slike søknader skal avgjøres innen 12 uker. Heller ikke i disse tilfellene vil fristen løpe i tiden søknaden ligger til uttalelse hos regionale og statlige myndigheter, jf. pbl. § 19-1. Regelen om bortfall av gebyr ved fristoverskridelse i byggesaksforskriften § 7-6 gjelder også for søknader som kun gjelder dispensasjon fra plan og planbestemmelser.
 
@@ -41,10 +201,14 @@ Det er adgang til å avtale lengre frist i den enkelte sak. Denne adgangen gjeld
 
 I byggesaksforskriften § 7-2 og § 7-4 bokstav a er det gitt regler om beregning av tidsfrister og i § 7-3 og § 7-4 bokstav a og d er det gitt regler om kommunens og klageinstansens adgang til ensidig fristforlengelse.
 
-I
+I [pbl. § 12-15](https://lovdata.no/lov/2008-06-27-71/%C2%A712-15) er det gitt adgang til felles behandling av reguleringsplanforslag og byggesøknad. Behandling av plan- og byggesaken i felles prosess forutsetter samtykke både fra kommunen og forslagsstiller/tiltakshaver. Saksbehandlingsfristene for den kommunale behandling av planen gjelder også for byggesaken. Det må fattes separate vedtak i byggesaken og plansaken.
 
 Det følger av pbl. § 19-2 og § 21-7 første ledd annet punktum at det kan bli gebyrmessige konsekvenser ved overskridelse av frist. I byggesaksforskriften § 7-6 er det gitt regler om gebyrbortfall ved kommunens fristoverskridelse.
 
+### Endringshistorikk
+
+- 01.07.15 Endring som følge av nye bestemmelser i pbl. § 19-2 og byggesaksforskriftens kapittel 7 om frist for byggesaker som inneholder søknader om dispensasjon, frist for søknader som kun gjelder dispensasjon og tidsfrist for statlige og regionale myndigheters saksbehandling. [Se veiledningsteksten før denne endringen (pdf)](https://www.dibk.no/globalassets/endringshistorikk_byggesaksforskriften/sak--7_innledning_01.07.2012-30.06.2015.pdf)
+- 01.07.12 Endring som følge av nye bestemmelser i kap. 7 om frist for klageinstansens behandling. [Se veiledningsteksten før denne endringen (pdf)](https://www.dibk.no/globalassets/endringshistorikk_byggesaksforskriften/sak--7_innledning_01.07.2010-30.03.2012.pdf)
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/sak/2/7/innledning/) av norges-lover-bot.*
@@ -52,3 +216,4 @@ Det følger av pbl. § 19-2 og § 21-7 første ledd annet punktum at det kan bli
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

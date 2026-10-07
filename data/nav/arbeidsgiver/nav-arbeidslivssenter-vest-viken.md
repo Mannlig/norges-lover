@@ -1,49 +1,33 @@
-<!-- innholds-hash: 24d08af7c0c6af41dfae27fab8a7181ce721b201077db4cc3bf7164068557c91 -->
+<!-- innholds-hash: 1e67765718ffbe34986739ef493d7c30569deb48f042eb1ccbd20318bdefa986 -->
 
 # Nav arbeidslivssenter Vest-Viken - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-vest-viken
-- **Sist hentet:** 2026-05-18T16:40:23Z
+- **Sist oppdatert i arkivet:** 2026-10-07T08:48:17Z
 
 ## Innhold
-
 
 ## Nav arbeidslivssenter Vest-Viken
 
 Arbeidslivssenter
 
-
 ### Kontakt oss
-
 
 ### Telefonnummeret til Nav er
 
-Telefontid hverdager kl. 9–15.
+55 55 33 36
 
+Telefontid hverdager kl. 9–15.
 
 #### Kontaktskjema
 
-Du kan også
-
+Du kan også [skrive til oss](https://kontaktskjema.arbeidsgiver.nav.no/) hvis du ønsker hjelp til å rekruttere eller inkludere arbeidstakere og forebygge sykefravær.
 
 ### Kontorinformasjon
 
-
-#### Beliggenhet
-
-Bragernes torg 1, 3017 DRAMMEN
-
-
-#### Postadresse
-
-Postboks 1583, 3007 DRAMMEN
-
-
-#### Kontornummer
-
-0691
+### Hva er Nav arbeidslivssenter?
 
 Nav arbeidslivssenter er et ressurs- og kompetansesenter for virksomheter med høyt sykefravær.
 
@@ -52,20 +36,26 @@ Virksomheten din kan samarbeide med våre rådgivere om
 - utvikle partssamarbeidet som grunnlag for å forbedre arbeidsmiljøet og redusere sykefraværet
 - øke kvaliteten på sykefraværsoppfølgingen
 - kartlegging og støtte til forebyggende arbeidsmiljøarbeid
+
 Les mer om:
+
+[Oppfølging fra Nav arbeidslivssenter](https://www.nav.no/arbeidsgiver/navarbeidslivssenter)
+
+Veiledning
+
+### Søknader og skjema
 
 Skal du sende inn et skjema eller søke om støtte fra Nav?
 
+[Søknad og skjema for arbeidsgivere](https://www.nav.no/arbeidsgiver/soknader)
 
 #### Saksbehandlingstider
 
-Her finner du
-
+Her finner du [saksbehandlingstider for arbeidsgivere](https://www.nav.no/arbeidsgiver/saksbehandlingstider).
 
 #### Skjemaer for klage
 
-Her finner du
-
+Her finner du [klageskjemaer for arbeidsgivere](https://www.nav.no/arbeidsgiver/klage).
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-vest-viken) av norges-lover-bot.*
@@ -73,3 +63,4 @@ Her finner du
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

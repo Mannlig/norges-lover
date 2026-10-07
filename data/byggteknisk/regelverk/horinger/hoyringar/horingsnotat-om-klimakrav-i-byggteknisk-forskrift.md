@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4ac53bbeee89c9b173295eb8b4c39f7e45782f5f3847c9b558a4662e3110beab -->
+<!-- innholds-hash: c226159c6ea2ac6d746e9e633939415f61f70cad33f6cb0b70da7700be7dbdf6 -->
 
 # Forslag til endringer i klimakrav i byggteknisk forskrift
 
@@ -6,89 +6,153 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/horingsnotat-om-klimakrav-i-byggteknisk-forskrift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-19T06:00:40Z
+- **Sist oppdatert i arkivet:** 2026-10-07T07:57:19Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Høyringar](https://www.dibk.no/regelverk/horinger/hoyringar)
+- [Forslag til endringer i klimakrav i byggteknisk forskrift](https://www.dibk.no/regelverk/horinger/hoyringar/horingsnotat-om-klimakrav-i-byggteknisk-forskrift)
 
 ## Forslag til endringer i klimakrav i byggteknisk forskrift
 
-
-### Høring åpnet
-
-05.02.2026
-
-
-### Høringsbrev
-
-På oppdrag fra Kommunal- og distriktsdepartementet sender Direktoratet for byggkvalitet på høring forslag til endringer i byggteknisk forskrift kapittel 17 Klima og livsløp. Det er også foreslått tilhørende mindre endringer i byggesaksforskriften.
-
-
-### Bakgrunn for endringsforslaget
-
-Bygging innebærer bruk av store mengder naturressurser og gir et betydelig samlet klimafotavtrykk. Utslipp knyttet til byggematerialer og byggevarer utgjør en stor del av klimafotavtrykket. Formålet med de foreslåtte endringene er å bidra til å redusere klimafotavtrykket fra bygging, samtidig som byggekostnadene holdes så lave som mulig.
-
-
-### Om høringsforslaget
-
-Høringsforslaget går ut på å utvide kravet om klimagassregnskap fra materialer til å omfatte flere bygningskategorier, livsløpsfaser og bygningsdeler. Vi foreslår også å innføre krav om grenseverdier for klimagassutslipp knyttet til materialer.
-
-Direktoratet har samtidig på høring forslag til endringer i energikrav i byggteknisk forskrift.
-
-
-### Gjennomføring av høringen
-
-Høringssvar ønskes mottatt i direktoratets elektroniske høringsløsning.
-
-Vi ber om at høringsinstansene bare gir innspill til forslagene som er på høring.
-
-Alle som ønsker, kan sende inn høringsuttalelse selv om de ikke står oppført i adresselisten.
-
-Spørsmål til høringen kan rettes til
-
-Per-Arne Horne
-
-Hanne Kofstadmoen
-
-
-### Høringsfrist
-
-05.05.2026
-
-Vi har mottatt 133 svar. Høringen er nå avsluttet.
-
-
-#### Offentlig instans
-
-
-#### Svar med merknader
-
-
-#### Svar uten merknader
-
-Kartverket
-
-Kartverket
-
-Justis- og beredskapsdepartementet
-
-
-#### Organisasjon/virksomhet
-
-
-#### Svar med merknader
-
-
-#### Person
-
-
-#### Svar med merknader
-
-
-### Høringsoppsummering
-
-Når høringsfristen er ute, oppsummerer Direktoratet for byggkvalitet høringssvarene for videre behandling.
-
+- Høring åpnet 05.02.2026 Høringsbrev På oppdrag fra Kommunal- og distriktsdepartementet sender Direktoratet for byggkvalitet på høring forslag til endringer i byggteknisk forskrift kapittel 17 Klima og livsløp. Det er også foreslått tilhørende mindre endringer i byggesaksforskriften. Bakgrunn for endringsforslaget Bygging innebærer bruk av store mengder naturressurser og gir et betydelig samlet klimafotavtrykk. Utslipp knyttet til byggematerialer og byggevarer utgjør en stor del av klimafotavtrykket. Formålet med de foreslåtte endringene er å bidra til å redusere klimafotavtrykket fra bygging, samtidig som byggekostnadene holdes så lave som mulig. Om høringsforslaget Høringsforslaget går ut på å utvide kravet om klimagassregnskap fra materialer til å omfatte flere bygningskategorier, livsløpsfaser og bygningsdeler. Vi foreslår også å innføre krav om grenseverdier for klimagassutslipp knyttet til materialer. Direktoratet har samtidig på høring forslag til endringer i energikrav i byggteknisk forskrift. Gjennomføring av høringen Høringssvar ønskes mottatt i direktoratets elektroniske høringsløsning. Vi ber om at høringsinstansene bare gir innspill til forslagene som er på høring. Alle som ønsker, kan sende inn høringsuttalelse selv om de ikke står oppført i adresselisten. Høringsfristen er 05.05.2026 Spørsmål til høringen kan rettes til prosjektleder Marie Karvel Kyllingstad. Med hilsen Per-Arne Horne direktør Hanne Kofstadmoen enhetsdirektør [Les høringsdokumentene](https://hoering.dibk.no/hoering/3761)
+- Høringsfrist 05.05.2026 Vi har mottatt 133 svar. Høringen er nå avsluttet. Les svarene Lukk svarene Offentlig instans 24 svar Svar med merknader Svar uten merknader Organisasjon/virksomhet 91 svar Svar med merknader Person 18 svar Svar med merknader
+  - 12.05.2026 [Oslo kommune](https://hoering.dibk.no/hoering/3761/uttalelse/e3b01878-a6a0-4261-aea3-842932bbca3b)
+  - 08.05.2026 [Statsbygg](https://hoering.dibk.no/hoering/3761/uttalelse/addce60c-d56f-44df-a729-bd07a809cbfc)
+  - 07.05.2026 [Bergen kommune](https://hoering.dibk.no/hoering/3761/uttalelse/a47a3c2b-e1b3-4954-988c-ee5c927580ba)
+  - 07.05.2026 [Asker kommune](https://hoering.dibk.no/hoering/3761/uttalelse/cc4e576f-69b7-40c9-b1e4-ca7634c5f35f)
+  - 05.05.2026 [Universitet i Sørøst-Norge](https://hoering.dibk.no/hoering/3761/uttalelse/8880aaef-4dda-469c-acd8-baaf617c7a96)
+  - 05.05.2026 [Øksnes kommune](https://hoering.dibk.no/hoering/3761/uttalelse/c1745791-8c3b-48a5-8f82-30c45d4f3237)
+  - 05.05.2026 [Enova SF](https://hoering.dibk.no/hoering/3761/uttalelse/0ff4116a-5c96-49c8-8d68-b71815d57022)
+  - 05.05.2026 [NTNU: Institutt for arkitektur og teknologi, Institutt for bygg- og miljøteknikk, Institutt for energi- og prosessteknikk](https://hoering.dibk.no/hoering/3761/uttalelse/c0fa1340-33fc-49fd-8f56-f91d2100029a)
+  - 05.05.2026 [Østfold fylkeskommune](https://hoering.dibk.no/hoering/3761/uttalelse/eabf6966-da71-4b88-8e54-a7dfc92c3c46)
+  - 05.05.2026 [Direktoratet for forvaltning og økonomistyring](https://hoering.dibk.no/hoering/3761/uttalelse/95588154-f72c-4ece-9ebd-1223891594d6)
+  - 05.05.2026 [Miljødirektoratet](https://hoering.dibk.no/hoering/3761/uttalelse/e8e0284e-e625-4af9-b685-9e063aac1069)
+  - 05.05.2026 [Sykehusbygg HF på vegne av de regionale helseregionene (Helse Sør-Øst, Helse Vest, Helse Midt-Norge og Helse Nord)](https://hoering.dibk.no/hoering/3761/uttalelse/8265a80a-bfa1-4f90-a573-f3bf26fb2c89)
+  - 04.05.2026 [Trondheim kommune](https://hoering.dibk.no/hoering/3761/uttalelse/272cb55f-47ea-4f3d-b9e2-b18fb45d4866)
+  - 04.05.2026 [Drangedal kommune](https://hoering.dibk.no/hoering/3761/uttalelse/da5cdf7a-b0cd-4c4c-aed5-bf70431a13f9)
+  - 04.05.2026 [Stavanger kommune](https://hoering.dibk.no/hoering/3761/uttalelse/1bcc7814-b181-44e2-a3fa-86564a66550d)
+  - 04.05.2026 [Fredrikstad kommune](https://hoering.dibk.no/hoering/3761/uttalelse/4094f7bb-f468-4ef1-8352-f13dcbf005dc)
+  - 30.04.2026 [Lillestrøm kommune](https://hoering.dibk.no/hoering/3761/uttalelse/fb81d3d7-79fb-408f-9ada-b983a8d1288a)
+  - 30.04.2026 [Nordre Follo](https://hoering.dibk.no/hoering/3761/uttalelse/c1968a5f-0966-48b3-82bd-df1346329f62)
+  - 29.04.2026 [Akershus fylkeskommune](https://hoering.dibk.no/hoering/3761/uttalelse/d74a9984-1d49-497b-8856-d0d738017f0f)
+  - 24.04.2026 [Statistisk sentralbyrå (SSB)](https://hoering.dibk.no/hoering/3761/uttalelse/97567075-005f-418a-983e-139985b8a11a)
+  - 24.02.2026 [Porsanger kommune](https://hoering.dibk.no/hoering/3761/uttalelse/5f98558b-ff9d-42dc-ad16-26c6b016ba90)
+  - 27.04.2026 Kartverket
+  - 27.04.2026 Kartverket
+  - 24.04.2026 Justis- og beredskapsdepartementet
+  - 07.05.2026 [Forsvarsbygg](https://hoering.dibk.no/hoering/3761/uttalelse/4451529b-86ce-475a-aac8-8ca9f48ccee3)
+  - 06.05.2026 [Cosentino](https://hoering.dibk.no/hoering/3761/uttalelse/9ef34535-1f7d-40f6-9522-c3079a2cc489)
+  - 06.05.2026 [Standard Norge](https://hoering.dibk.no/hoering/3761/uttalelse/cb198d52-be0c-486e-8e1d-2755233bf05b)
+  - 05.05.2026 [SEQUOIA UTVIKLING AS](https://hoering.dibk.no/hoering/3761/uttalelse/4b3a5125-bcfc-4183-96ff-2a1f368655c4)
+  - 05.05.2026 [ACT! AS](https://hoering.dibk.no/hoering/3761/uttalelse/ad4e0a43-8ba3-4e24-8c27-d8cbf29904d0)
+  - 05.05.2026 [SEQUOIA UTVIKLING AS](https://hoering.dibk.no/hoering/3761/uttalelse/c66757cf-f28a-491c-bad8-2928d6a5d855)
+  - 05.05.2026 [VKE - Foreningen for ventilasjon, kulde og energi](https://hoering.dibk.no/hoering/3761/uttalelse/4cfad1e7-816c-4b3d-8dab-3049413d4cf3)
+  - 05.05.2026 [Norsk Stålforbund](https://hoering.dibk.no/hoering/3761/uttalelse/2ae8eec7-d867-4169-a906-72b54da0d671)
+  - 05.05.2026 [Elektroforeningen](https://hoering.dibk.no/hoering/3761/uttalelse/7df4f9de-83e2-46c4-aa0e-3973cec765d9)
+  - 05.05.2026 [ACAN Norge](https://hoering.dibk.no/hoering/3761/uttalelse/6a883ea0-75ce-4089-985d-925c7434f62a)
+  - 05.05.2026 [Norske Trevarer](https://hoering.dibk.no/hoering/3761/uttalelse/5bd59b53-ca90-45cb-aede-d5c2faa13e61)
+  - 05.05.2026 [JM Norge AS](https://hoering.dibk.no/hoering/3761/uttalelse/a44d0045-430f-45cc-8d65-1f4d6cb1bf78)
+  - 05.05.2026 [Fornybar Norge](https://hoering.dibk.no/hoering/3761/uttalelse/4af6b198-9190-4624-8a5c-046c6f80f724)
+  - 05.05.2026 [Maskinentreprenørenes Forbund](https://hoering.dibk.no/hoering/3761/uttalelse/c18471dd-1940-4554-a006-0987953bab19)
+  - 05.05.2026 [Miljøstiftelsen ZERO](https://hoering.dibk.no/hoering/3761/uttalelse/436ddaec-31e6-40cc-b04b-8d23ff4cb471)
+  - 05.05.2026 [NBBL](https://hoering.dibk.no/hoering/3761/uttalelse/84f16ec7-91a6-423a-8346-87ab40ee2be1)
+  - 05.05.2026 [Omtre AS](https://hoering.dibk.no/hoering/3761/uttalelse/5cf81878-c824-4f15-a8ce-32637357c394)
+  - 05.05.2026 [Advokatforeningen](https://hoering.dibk.no/hoering/3761/uttalelse/18a862c2-8132-45a4-a7d3-88016c07beb2)
+  - 05.05.2026 [NIBIO](https://hoering.dibk.no/hoering/3761/uttalelse/255a6385-9db4-43fc-ae5e-a2ad1a22904d)
+  - 05.05.2026 [Moelven Industrier ASA](https://hoering.dibk.no/hoering/3761/uttalelse/e1d20955-0c10-41d7-bdcd-615f6f36a514)
+  - 05.05.2026 [Byggma ASA](https://hoering.dibk.no/hoering/3761/uttalelse/15059846-feb0-4070-b364-5864565e2600)
+  - 05.05.2026 [Miljømerking Norge - Svanemerket](https://hoering.dibk.no/hoering/3761/uttalelse/20475da0-b034-4be3-9d47-78b885dd9576)
+  - 05.05.2026 [Dynea AS](https://hoering.dibk.no/hoering/3761/uttalelse/d751707e-c8f6-4de1-9095-91ae62a627a9)
+  - 05.05.2026 [Entreprenørforeningen Bygg- og Anlegg](https://hoering.dibk.no/hoering/3761/uttalelse/a86e28aa-970f-46de-80dd-e3a3e63f9a55)
+  - 05.05.2026 [Resirqel AS](https://hoering.dibk.no/hoering/3761/uttalelse/ac98f821-0538-4b07-8192-255acc886d96)
+  - 05.05.2026 [NHO Elektro](https://hoering.dibk.no/hoering/3761/uttalelse/a59c7d18-5023-45d8-baa5-b6e8a231bee8)
+  - 05.05.2026 [Splitkon AS](https://hoering.dibk.no/hoering/3761/uttalelse/c0fd793e-bf42-42cd-9f6c-c84a14c58b62)
+  - 05.05.2026 [Flexit AS](https://hoering.dibk.no/hoering/3761/uttalelse/26b6aad2-2821-49b2-a906-515004d4a780)
+  - 05.05.2026 [Byggevareindustriens forening](https://hoering.dibk.no/hoering/3761/uttalelse/08e27f86-9e8d-464d-b880-ceb71f3717cc)
+  - 05.05.2026 [Boligbyggelaget Usbl](https://hoering.dibk.no/hoering/3761/uttalelse/567a65c7-f437-4300-8a35-74a69b4c647c)
+  - 05.05.2026 [zero emission studio](https://hoering.dibk.no/hoering/3761/uttalelse/5b18c4bd-e9fe-4177-8fc1-e9831f6a087c)
+  - 05.05.2026 [norsk massivtre as](https://hoering.dibk.no/hoering/3761/uttalelse/f615b334-6160-4d30-911b-afa45eb5d328)
+  - 05.05.2026 [Framtiden i våre hender](https://hoering.dibk.no/hoering/3761/uttalelse/6d340a88-7875-4aad-b3d6-fcb7b99fbc1b)
+  - 05.05.2026 [WWF Verdens naturfond](https://hoering.dibk.no/hoering/3761/uttalelse/76e5769a-1628-4860-bb9a-33a1a275e7c0)
+  - 05.05.2026 [Betong Norge](https://hoering.dibk.no/hoering/3761/uttalelse/01fb588f-8e23-40b8-96f4-fe3101f280aa)
+  - 05.05.2026 [Norsk Bygdesagforening](https://hoering.dibk.no/hoering/3761/uttalelse/41dbc315-ab5b-4264-bc24-b781a8c3e08a)
+  - 05.05.2026 [Heidelberg Materials Norge](https://hoering.dibk.no/hoering/3761/uttalelse/185da6a5-a530-4626-8290-4a8a215b9c7b)
+  - 05.05.2026 [Huseierne](https://hoering.dibk.no/hoering/3761/uttalelse/73c426c7-5dd8-4e36-bb54-318d1983b3ea)
+  - 05.05.2026 [Norske interiørarkitekters og møbeldesigneres landsforening (NIL)](https://hoering.dibk.no/hoering/3761/uttalelse/1e4d26d0-d4b7-437b-8edd-7edf19a341bf)
+  - 05.05.2026 [OBOS](https://hoering.dibk.no/hoering/3761/uttalelse/396902e7-9c4b-41cd-a37b-f2214798db85)
+  - 05.05.2026 [Norwegian Wood Cluster SA](https://hoering.dibk.no/hoering/3761/uttalelse/c176726c-3e44-4a2f-9302-6413a1281800)
+  - 05.05.2026 [Rørentreprenørene Norge](https://hoering.dibk.no/hoering/3761/uttalelse/912390d0-8858-4eaa-9b1e-133dc0dd70ba)
+  - 05.05.2026 [Treindustrien](https://hoering.dibk.no/hoering/3761/uttalelse/f476e24a-29c7-462d-83e4-2973a11bfa10)
+  - 04.05.2026 [NKF - Norsk kommunalteknisk forening](https://hoering.dibk.no/hoering/3761/uttalelse/289dba6a-d28a-4fb8-a833-6d74de6c0cc6)
+  - 05.05.2026 [Treindustrien](https://hoering.dibk.no/hoering/3761/uttalelse/96190263-f532-42f7-b811-1a270140da64)
+  - 05.05.2026 [Hovedorganisasjonen Virke](https://hoering.dibk.no/hoering/3761/uttalelse/3e81b168-66ea-40d4-a16e-7338dfbd1beb)
+  - 05.05.2026 [Ny Struktur AS](https://hoering.dibk.no/hoering/3761/uttalelse/621c5347-fd2b-4d71-9839-b0b772d464f0)
+  - 05.05.2026 [Arkitektbedriftene i Norge](https://hoering.dibk.no/hoering/3761/uttalelse/698bd059-d0dc-4318-b238-0eb9e5bd56ab)
+  - 05.05.2026 [Bergene Holm AS](https://hoering.dibk.no/hoering/3761/uttalelse/c9919413-742a-45d0-afc7-572ced149b86)
+  - 05.05.2026 [Glasopor AS](https://hoering.dibk.no/hoering/3761/uttalelse/320f7cd7-554c-4088-ae0b-a63a7d1c69e0)
+  - 05.05.2026 [Boligprodusentenes Forening](https://hoering.dibk.no/hoering/3761/uttalelse/338472c5-22f5-452c-8fb6-3f6ca1359031)
+  - 05.05.2026 [Sirk Norge](https://hoering.dibk.no/hoering/3761/uttalelse/95fcc329-98d0-46a5-a0d5-4a8eb254f418)
+  - 05.05.2026 [LavKarbonBygg AS](https://hoering.dibk.no/hoering/3761/uttalelse/19095715-f26d-4246-a803-012fe722cc84)
+  - 05.05.2026 [Veidekke Bygg](https://hoering.dibk.no/hoering/3761/uttalelse/db1d6f00-0e54-4597-987d-eeb34cb292ea)
+  - 05.05.2026 [Hunton Fiber AS](https://hoering.dibk.no/hoering/3761/uttalelse/9944aa4d-65f9-4845-b457-216e740338ed)
+  - 05.05.2026 [co2pilot AS](https://hoering.dibk.no/hoering/3761/uttalelse/cc42be7f-641f-4ff4-b620-62693f38179e)
+  - 04.05.2026 [ACAN Norge](https://hoering.dibk.no/hoering/3761/uttalelse/a6fb665f-3acd-41da-bbb2-b27bedd8caf7)
+  - 04.05.2026 [WoodWorks! Cluster](https://hoering.dibk.no/hoering/3761/uttalelse/70a99be5-7b66-4ed3-ad87-65d6983f19bf)
+  - 04.05.2026 [GK Norge](https://hoering.dibk.no/hoering/3761/uttalelse/37db44db-7158-4e08-b12a-64c129aedf25)
+  - 04.05.2026 [Rådgivende Ingeniørers Forening (RIF)](https://hoering.dibk.no/hoering/3761/uttalelse/4b131047-7b96-4790-90ee-2acd661a2bcd)
+  - 04.05.2026 [GrindTun AS](https://hoering.dibk.no/hoering/3761/uttalelse/559e91ac-7a84-48bc-a9c4-8ce74765978f)
+  - 04.05.2026 [Grønn Byggallianse](https://hoering.dibk.no/hoering/3761/uttalelse/b1363134-8a98-4ad9-a956-51d66e06d6ea)
+  - 04.05.2026 [Den Norske Turistforening](https://hoering.dibk.no/hoering/3761/uttalelse/7589716c-afc9-49f7-bcc5-f1fdda1e0335)
+  - 04.05.2026 [Sørlaminering AS](https://hoering.dibk.no/hoering/3761/uttalelse/5f703e24-879d-4ac8-a30b-50a183c46220)
+  - 04.05.2026 [Entra ASA](https://hoering.dibk.no/hoering/3761/uttalelse/a2397c9d-aba8-493a-a959-5d7deaae7f9c)
+  - 04.05.2026 [Byggmesterforbundet](https://hoering.dibk.no/hoering/3761/uttalelse/76b6cd87-781e-406a-9583-dcfb1a87a18c)
+  - 04.05.2026 [Bygghåndverk Norge](https://hoering.dibk.no/hoering/3761/uttalelse/ca086a62-58ab-42b3-bd8a-31b84f59b364)
+  - 04.05.2026 [Tekna - Teknisk-naturvitenskapelig forening](https://hoering.dibk.no/hoering/3761/uttalelse/fed26eba-d05b-4cf3-91da-63b838d9df4b)
+  - 04.05.2026 [Studentsamskipnaden i Gjøvik, Ålesund og Trondheim](https://hoering.dibk.no/hoering/3761/uttalelse/af7733f3-e74c-48ce-a721-e7e63731bc6d)
+  - 04.05.2026 [Bygg og Bevar](https://hoering.dibk.no/hoering/3761/uttalelse/bb399286-650f-47d2-a3f9-de037e873327)
+  - 04.05.2026 [Agder Tresenter/ InnoTre](https://hoering.dibk.no/hoering/3761/uttalelse/b925bb3f-7caf-474d-bce9-2fbd52cd9455)
+  - 04.05.2026 [Skift - Næringslivets klimaledere](https://hoering.dibk.no/hoering/3761/uttalelse/149986b6-f084-48d0-836c-daf96055181d)
+  - 04.05.2026 [Norsk Treteknisk Institutt](https://hoering.dibk.no/hoering/3761/uttalelse/375fc93e-7168-494a-88e2-60eb328381de)
+  - 04.05.2026 [Tankesmia for sirkulære bygg / Sirkulær Ressurssentral](https://hoering.dibk.no/hoering/3761/uttalelse/08471849-acff-47c8-870e-7daa66b5189a)
+  - 30.04.2026 [Finans Norge](https://hoering.dibk.no/hoering/3761/uttalelse/f71f2220-f209-4320-adfa-47f037566bdf)
+  - 30.04.2026 [Norsk Fjernvarme og Overskuddsenergi](https://hoering.dibk.no/hoering/3761/uttalelse/9aaab518-2637-4ec6-a2ac-883dc66236b0)
+  - 30.04.2026 [SINTEF Community](https://hoering.dibk.no/hoering/3761/uttalelse/5e9e2aff-e3b8-4403-aff7-d1e11be9134d)
+  - 29.04.2026 [Skanska Norge AS](https://hoering.dibk.no/hoering/3761/uttalelse/06e77653-e853-46a1-9d6e-61da2d36aabf)
+  - 29.04.2026 [Norconsult Norge](https://hoering.dibk.no/hoering/3761/uttalelse/e363a31e-cce8-483a-af4c-959dcc482d5e)
+  - 22.04.2026 [Inntre Kjeldstad](https://hoering.dibk.no/hoering/3761/uttalelse/c80bd55e-f9f7-4348-9230-6ef88d32ea32)
+  - 29.04.2026 [Norsk Bioenergiforening](https://hoering.dibk.no/hoering/3761/uttalelse/279bd23e-6ec4-4093-8c94-f67f22b51a09)
+  - 28.04.2026 [CLTre Norge AS](https://hoering.dibk.no/hoering/3761/uttalelse/47214fc6-8edd-47f8-ab85-176fd8beb81c)
+  - 28.04.2026 [Multiconsult AS](https://hoering.dibk.no/hoering/3761/uttalelse/4d932303-5002-4cee-b671-8a9670c81411)
+  - 28.04.2026 [Norsk Eiendom](https://hoering.dibk.no/hoering/3761/uttalelse/3c479b2f-5cba-4e78-b42b-24f790210c5f)
+  - 27.04.2026 [Oslotre AS](https://hoering.dibk.no/hoering/3761/uttalelse/4747370f-d29c-434b-afad-694c3143f4fc)
+  - 27.04.2026 [AF Gruppen (AF Bygg Oslo, AF Byggfornyelse, AF Eiendom, AF Bygg Østfold, Betonmast)](https://hoering.dibk.no/hoering/3761/uttalelse/2a6d6bf0-b95d-4b11-885c-f3fa0d8fdb51)
+  - 22.04.2026 [Silva Consult AS](https://hoering.dibk.no/hoering/3761/uttalelse/cd9a5d13-26ff-449d-943b-202f98a07d03)
+  - 22.04.2026 [Marnar Bruk AS](https://hoering.dibk.no/hoering/3761/uttalelse/21d31ec1-4947-4513-9af3-3b6e398f4c34)
+  - 17.04.2026 [Vyrk AS](https://hoering.dibk.no/hoering/3761/uttalelse/c269698b-1cf9-47dc-8191-ed50acaa5c8f)
+  - 15.04.2026 [Lovdata v/Norsk Lovtidend](https://hoering.dibk.no/hoering/3761/uttalelse/ef61726e-0ce3-4893-8b98-996f1a74917b)
+  - 14.02.2026 [Sørensen Arkitektur](https://hoering.dibk.no/hoering/3761/uttalelse/ef42918c-5cb7-46eb-81d5-8b56224cd4f1)
+  - 05.05.2026 [Lene Westeng](https://hoering.dibk.no/hoering/3761/uttalelse/6d78c70b-4409-4c84-afca-9df38f943545)
+  - 05.05.2026 [Johann K. Næss](https://hoering.dibk.no/hoering/3761/uttalelse/8091599c-a9d2-4ad6-805b-e16c2e8eeb0d)
+  - 05.05.2026 [siri jæger brudvik](https://hoering.dibk.no/hoering/3761/uttalelse/77a9664a-cca6-4d15-a402-53f9a8944da4)
+  - 05.05.2026 [Erik Alnes Tokle](https://hoering.dibk.no/hoering/3761/uttalelse/e59a3866-06bc-47c8-9f35-72c2871fa5c0)
+  - 05.05.2026 [Sunniva Baarnes](https://hoering.dibk.no/hoering/3761/uttalelse/b038cfa9-b696-48c1-85f5-e096e037a2f3)
+  - 28.04.2026 [Mariya Simon](https://hoering.dibk.no/hoering/3761/uttalelse/f2bd28a9-dcc4-4761-a295-272f1295a893)
+  - 05.05.2026 [Live Thorsrud](https://hoering.dibk.no/hoering/3761/uttalelse/9db52f90-2140-41e2-b37a-8c917accd7f4)
+  - 05.05.2026 [Jingjing Zhou](https://hoering.dibk.no/hoering/3761/uttalelse/6eebd5ee-8449-4935-beba-98b8eea47a8f)
+  - 22.04.2026 [Vegard Wikstøl](https://hoering.dibk.no/hoering/3761/uttalelse/4da50bba-31d2-4207-a229-b153c3148611)
+  - 29.04.2026 [Anne Bøklep](https://hoering.dibk.no/hoering/3761/uttalelse/2fc46812-eca1-4698-ab7d-3c2c51e3f7fe)
+  - 28.04.2026 [Ingjerd Jevnaker Straand](https://hoering.dibk.no/hoering/3761/uttalelse/8ff8218e-1c1d-4547-9ccd-bc1416722101)
+  - 02.03.2026 [Andreas Rosén](https://hoering.dibk.no/hoering/3761/uttalelse/6e3012ee-89a5-467b-88ef-db7a1b03673d)
+  - 27.02.2026 [Magne Skaret](https://hoering.dibk.no/hoering/3761/uttalelse/c2941eba-db25-4ecb-b31a-384a3b0bff7f)
+  - 27.02.2026 [Ove Øien](https://hoering.dibk.no/hoering/3761/uttalelse/bda1dd73-5950-442b-bfd4-59c488b298fe)
+  - 24.02.2026 [Krister Midtdal](https://hoering.dibk.no/hoering/3761/uttalelse/2caa1eb3-7db5-43f7-8856-130b51c176cf)
+  - 07.02.2026 [Barbro Westlund-Storm](https://hoering.dibk.no/hoering/3761/uttalelse/d9070f60-76a2-4528-bcd6-c704bc624f4c)
+  - 06.02.2026 [Rasmus Fihl Kvamstad](https://hoering.dibk.no/hoering/3761/uttalelse/85c1b0bd-9051-48fd-8cac-41c678b1f158)
+  - 06.02.2026 [Knut Bratland](https://hoering.dibk.no/hoering/3761/uttalelse/feb6c737-79b0-4b31-8479-60ad5ac139b4)
+- Høringsoppsummering Når høringsfristen er ute, oppsummerer Direktoratet for byggkvalitet høringssvarene for videre behandling.
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/horinger/hoyringar/horingsnotat-om-klimakrav-i-byggteknisk-forskrift/) av norges-lover-bot.*
@@ -96,3 +160,4 @@ Når høringsfristen er ute, oppsummerer Direktoratet for byggkvalitet høringss
 ## Endringshistorikk
 
 - **2026-05-19** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

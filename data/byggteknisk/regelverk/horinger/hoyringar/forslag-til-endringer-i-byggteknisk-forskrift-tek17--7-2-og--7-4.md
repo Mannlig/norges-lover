@@ -1,54 +1,34 @@
-<!-- innholds-hash: 694ad06281fed181b8e919207a70a773cf800b4446e30c78ac12c6664b240383 -->
+<!-- innholds-hash: ae68c62b7b85fa1ab4829cdb883ad31bbff2d965851b5ab6506aa8fbe0bbb031 -->
 
 # Forslag til endringer i byggteknisk forskrift (TEK17) § 7-2 og § 7-4
 
 ## Kildeinformasjon
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/
-- **Sist oppdatert (kilde):** Sist endret
+- **Sist oppdatert (kilde):** Publisert
         22.11.2022
-- **Sist hentet:** 2026-05-18T23:11:55Z
+- **Sist oppdatert i arkivet:** 2026-10-07T07:43:59Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Høyringar](https://www.dibk.no/regelverk/horinger/hoyringar)
+- [Forslag til endringer i byggteknisk forskrift (TEK17) § 7-2 og § 7-4](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4)
 
 ## Forslag til endringer i byggteknisk forskrift (TEK17) § 7-2 og § 7-4
 
 På vegne av Kommunal- og distriktsdepartementet sender Direktoratet for byggkvalitet med dette på høring forslag til endringer i byggteknisk forskrift (TEK17) §§ 7-2 og 7-4.
 
+Publisert 22.11.2022
 
 ### Status: Avsluttet
 
 Høringfristen var 13.01.2023.
 
-På oppdrag fra Kommunal- og distriktsdepartementet (KDD) sender Direktoratet for byggkvalitet (DiBK) på høring forslag om endringer av byggteknisk forskrift (TEK17).
-
-De foreslåtte endringene gjelder TEK17 §§ 7-2 Sikkerhet mot flom og 7-4 Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred. De foreslåtte endringene inngår i et pågående arbeid med å gjennomgå kravene til sikkerhet mot naturfarer i plan- og bygningsloven og TEK17.
-
-Departementet foreslår
-
-
-### Gjennomføring av høringen
-
-Høringssvar sendes på e-post til Direktoratet for byggkvalitet: post@dibk.no. Merk e-posten 22/7801.
-
-Alle som ønsker kan sende inn høringsuttalelse, selv om de ikke står oppført i adresselisten.
-
-
-### Høringsfrist
-
-Høringsfristen er
-
-I henhold til utredningsinstruksen punkt 3.3 skal høringsfristen normalt være tre måneder, og ikke mindre enn seks uker. Høringsforslaget er avgrenset til å gjelde mindre endringer i to bestemmelser i TEK17. De foreslåtte endringene vil bidra til å sikre et regelverk som tar høyde for ny kunnskap, er bedre tilpasset områder som er utsatt for ulik risiko, og fjerne unødvendig strenge hindringer som i dag gjelder for flere kommuner, og således av stor betydning for å kunne opprettholde levedyktige lokalsamfunn. Departementet mener derfor det samlet sett er forsvarlig å sette høringsfristen til 7 uker.
-
-Eventuelle spørsmål til forslagene kan sendes på epost til Kommunal- og distriktsdepartementet ved rådgiver Sebastian Stene Law.
-
-Med hilsen
-
-Mariann Jodis Blomli (e.f.)
-
-Sebastian Stene Law
-
+- Høringsbrev På oppdrag fra Kommunal- og distriktsdepartementet (KDD) sender Direktoratet for byggkvalitet (DiBK) på høring forslag om endringer av byggteknisk forskrift (TEK17). De foreslåtte endringene gjelder TEK17 §§ 7-2 Sikkerhet mot flom og 7-4 Sikkerhet mot skred. Unntak for flodbølge som skyldes fjellskred. De foreslåtte endringene inngår i et pågående arbeid med å gjennomgå kravene til sikkerhet mot naturfarer i plan- og bygningsloven og TEK17. Departementet foreslår for det første et nytt andre ledd i TEK17 § 7-4 som åpner for en forenklet prosedyre for å kunne tillate utbygging der sannsynligheten for fjellskred eller flodbølge som følge av fjellskred er 1/5000 eller mindre per år. For det andre foreslås det å utvide unntaksbestemmelsen i TEK17 § 7-4 til også å omfatte primærvirkninger av fjellskred. Det vil si områder som rammes direkte av skred, og ikke bare indirekte gjennom flodbølge som følger skredet. For det tredje foreslås det at storulykkevirksomheter, det vil si virksomheter som håndterer farlige kjemikalier, ikke skal være underlagt totalforbud mot plassering i flomutsatte områder etter TEK17 § 7-2 første ledd. Det foreslås også å avgrense forbudet i § 7-2 første ledd til bygninger som er avgjørende for nasjonal eller regional beredskap, og å åpne for at kravet også kan oppfylles med sikringstiltak. Gjennomføring av høringen Høringssvar sendes på e-post til Direktoratet for byggkvalitet: post@dibk.no. Merk e-posten 22/7801. Alle som ønsker kan sende inn høringsuttalelse, selv om de ikke står oppført i adresselisten. Høringsfrist Høringsfristen er 13. januar 2023. I henhold til utredningsinstruksen punkt 3.3 skal høringsfristen normalt være tre måneder, og ikke mindre enn seks uker. Høringsforslaget er avgrenset til å gjelde mindre endringer i to bestemmelser i TEK17. De foreslåtte endringene vil bidra til å sikre et regelverk som tar høyde for ny kunnskap, er bedre tilpasset områder som er utsatt for ulik risiko, og fjerne unødvendig strenge hindringer som i dag gjelder for flere kommuner, og således av stor betydning for å kunne opprettholde levedyktige lokalsamfunn. Departementet mener derfor det samlet sett er forsvarlig å sette høringsfristen til 7 uker. Eventuelle spørsmål til forslagene kan sendes på epost til Kommunal- og distriktsdepartementet ved rådgiver Sebastian Stene Law. Med hilsen Mariann Jodis Blomli (e.f.) avdelingsdirektør Sebastian Stene Law rådgiver [Høringsbrev - endringer i byggteknisk forskrift](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/96302fa9-7073-49af-8030-4d5b471ec67c:c4382acfbe9e43cb47d76b7496197413030e241d/horingsbrev-endringer-i-byggteknisk-forskrift.pdf)
+- Høringsnotat [Høringsnotat - endringer i TEK17 §§ 7-2 og 7-4 (147736).pdf](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/bb393bce-8dfa-48cc-bee8-335cbf153bd4:10d12ca284de784f1624d66caa12fe6e964d4280/horingsnotat-endringer-i-tek17-7-2-og-7-4147736.pdf)
+- Høringssvar [Advokatforeningen](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/4035f304-a9fd-41c8-a3e8-99192422712a:90d793cd35323bf95764597aa441f30cfe8c28b3/Advokatforeningen.pdf) [Aker Horizons](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/d35450c4-d953-48d2-9d01-a40fd49997d3:f35ef97cf47c1b3e9b0af278220135e238ae85df/Aker%20Horizons.pdf) [Byggmesterforbundet](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/cd3a5da1-0662-4367-b920-0a8892fd326d:33a500b4173c35366c22ed32f199bcb60882e297/Byggmesterforbundet.pdf) [Direktoratet for strålevern- og atomsikkerhet-DSA](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/1d8b77d0-3087-4d07-9a38-11ed09e04c55:5bf03879420273fa99f345d56196d5b7032e5aac/Direktoratet%20for%20str%C3%A5levern%20og%20atomsikkerhet-DSA.pdf) [DSB](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/31b0c8f6-6d9a-4f87-8f2a-910855ee103a:65dd6559d0e2c735bf048a8f98a728a1316cbe65/H%C3%B8ringssvar%20fra%20DSB.PDF) [Eidfjord kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/88c3d3df-5a51-4690-9a5a-ec4063ca84ea:e7a01edec1e5a8bfa08d56fa41a5d6157af28d6f/Eidfjord%20kommune.pdf) [Fjord kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/eadfa4d8-091d-40d2-af58-606555a6bd79:135de40c7b90a5d85ac2f6266528382c363f12b3/Fjord%20kommune.pdf) [Justis- og beredskapsdepartementet](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/caa203d9-a255-4971-a7b2-7039a1995315:85a454edcbf0f0384e8743997d2373eddc75ff5b/Justis-%20og%20beredskapsdepartementet.pdf) [Klima- og miljødepartementet](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/8151ed27-994e-4c2d-9e8f-44f7db498d03:ccc6a9dc1b9f2b7f952c086aa3447fb568934c2b/Klima-og%20milj%C3%B8departementet.PDF) [Kvinesdal, Sirdal og Sokndal kommuner](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/7bc1affa-e03c-489c-b415-06c08ff291c4:50333b4652380f7b647182b20ab2dab87c754d12/Kvinesdal,%20Sirdal%20og%20Sokndal%20kommuner.pdf) [Kåfjord kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/ce9423ed-f5da-4a45-bab5-c0c1fd633b78:8e43f413d306ce3e45f3dcadf9e8e84cdc52c32e/K%C3%A5fjord%20kommune.pdf) [Lillestrøm kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/a4e11286-126a-46fa-9ed5-0453834fc0d8:24982525002236e9a27ac6ae14f3888fc9cbe700/Lillestr%C3%B8m%20kommune.PDF) [Multiconsult](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/03031d7c-8ed4-45cb-9743-652800a4b004:c83d416b7a203df50c5616b994ef0822e6654319/Multiconsult.pdf) [Nord-Aurdal kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/555b1774-c62c-428b-a6f6-26ddf5c94025:870fe7e6ff308be48f603dba13453504d1ba0dbb/Nord-Aurdal%20kommune.PDF) [NVE - Norges vassdrags- og energidirektorat](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/7b09483b-fd68-44b4-9b47-bbbb3f253be8:9fd6cc287c0b10671c46187ef4ff006b381c2979/NVE.pdf) [Oslo kommune, plan- og bygningsetaten](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/b33f6d68-b0e4-4efd-b6e6-c001ae8944ec:6cdc280ba18edcb310a282d0eeb393ad6340e5a4/Oslo%20kommune.PDF) [SINTEF og NTNU](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/6e873bf0-d5f5-4eeb-a43c-b037a6081cba:3824d4a66971cff57a8072c99911e7614dcfecc3/SINTEF%20og%20NTNU.pdf) [Statens vegvesen](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/fc27c91e-6432-40ad-9a9e-8dc30a56fc36:d829a00b146773e0f0bd3d459f0271cda383e69f/H%C3%B8ringssvar%20fra%20Statens%20vegvesen.PDF) [Statsforvaltaren i Møre og Romsdal](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/cc6b01b1-ca73-41c1-a671-b75858f8fc6a:7103ae4e8169b6576e9381ce052c6745e0fdb411/Statsforvaltaren%20i%20M%C3%B8re%20og%20Romsdal.pdf) [Statsforvaltaren i Vestland](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/967a245e-ae8a-4971-9420-cb25840299ab:7336dd38f35c34eb2d5966a21fa6dcaa2f5d204c/Statsforvaltaren%20i%20Vestland.pdf) [Stranda kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/f8cdc10f-4edd-4432-becd-d20d462f493e:15ab3a06ec56f0cb6c677afb32f7757cd3c76ea4/Stranda%20kommune.PDF) [Ullensvang kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/291c045e-1333-4a8a-bb56-6fd0c30f3370:fd66038d2c7832f2b8c80211194019e9f3a4e659/Ullensvang%20kommune.pdf) [Vang kommune](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/_/attachment/inline/1cd87203-308c-4485-a42e-0128cd8cf845:9a694c022a90787a7bd2aeeabd2d78d21f6ae731/Vang%20kommune.pdf)
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-byggteknisk-forskrift-tek17--7-2-og--7-4/) av norges-lover-bot.*
@@ -56,3 +36,4 @@ Sebastian Stene Law
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

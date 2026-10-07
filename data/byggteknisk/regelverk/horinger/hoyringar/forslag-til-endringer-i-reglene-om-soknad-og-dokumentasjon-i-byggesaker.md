@@ -1,4 +1,4 @@
-<!-- innholds-hash: 05723c4a879fa39f043e4179ac7aadc52a7987d3b5cd4f03bb16b5ad917ba116 -->
+<!-- innholds-hash: 56295b1f8bddf12ff620afda7ce74fd9f7990238ca123184dc7814f45cb41a61 -->
 
 # Forslag til endringer i reglene om søknad og dokumentasjon i byggesaker
 
@@ -6,104 +6,160 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-reglene-om-soknad-og-dokumentasjon-i-byggesaker/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-18T23:12:57Z
+- **Sist oppdatert i arkivet:** 2026-10-07T07:45:26Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Høyringar](https://www.dibk.no/regelverk/horinger/hoyringar)
+- [Forslag til endringer i reglene om søknad og dokumentasjon i byggesaker](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-reglene-om-soknad-og-dokumentasjon-i-byggesaker)
 
 ## Forslag til endringer i reglene om søknad og dokumentasjon i byggesaker
 
-
-### Høring åpnet
-
-06.05.2025
-
-
-### Bakgrunn for endringsforslaget
-
-Formålet med endringene er å tydeliggjøre kravene til søknad og dokumentasjon for søknadspliktige tiltak og hvilke opplysninger som er nødvendig i den enkelte byggesaken. Forslaget skal bidra til å redusere antall mangelfulle søknader.
-
-Vi foreslår i tillegg å tydeliggjøre hva kommunens vedtak om byggetillatelse som minimum skal inneholde. Dette skal bidra til å gjøre det enklere å se hva kommunen skal vurdere i byggesakene, og sikre likere saksbehandling.
-
-Direktoratets forslag må ses i sammenheng med Kommunal- og distriktsdepartementet sitt høringsforslag om å tydeliggjøre og effektivisere reglene om tidsfrister for saksbehandling og gebyrbortfall i byggesaker. Se mer om departementets høring under.
-
-
-### Gjennomføring av høringen
-
-Du finner
-
-Vi ber om at du bare gir innspill til forslagene som er på høring.
-
-Alle som ønsker, kan sende inn høringsuttalelse selv om de ikke står oppført i adresselisten.
-
-Spørsmål til høringen kan rettes til
-
-
-### Mer om Kommunal- og distriktsdepartementets høring
-
-Direktoratets forslag må ses i sammenheng med Kommunal- og distriktsdepartementet sitt høringsforslag om å tydeliggjøre og effektivisere reglene om tidsfrister for saksbehandling og gebyrbortfall i byggesaker, som er på høring parallelt.
-
-Departementet foreslår å endre utgangspunktet for beregning av saksbehandlingsfrister i plan- og bygningslovgivningen. Forslaget innebærer at saksbehandlingsfristene starter å løpe når søknaden er
-
-Høringsnotatet til
-
-Med hilsen
-
-Per-Arne Horne
-
-Kari Befring Bjørnstad
-
-
-### Høringsfrist
-
-06.09.2025
-
-Vi har mottatt 140 svar. Høringen er nå avsluttet.
-
-
-#### Organisasjon/virksomhet
-
-
-#### Svar med merknader
-
-
-#### Svar uten merknader
-
-Norges Hytteforbund
-
-
-#### Person
-
-
-#### Svar med merknader
-
-
-#### Svar uten merknader
-
-Andrea Isabel Kringen
-
-
-#### Offentlig instans
-
-
-#### Svar med merknader
-
-
-#### Svar uten merknader
-
-Domstoladministrasjonen
-
-Klima- og miljødepartementet
-
-Justis- og beredskapsdepartementet
-
-Nye Veier AS
-
-
-### Høringsoppsummering
-
-Direktoratet for byggkvalitet oppsummerer høringssvarene for videre behandling når høringsfristen er ute.
-
+- Høring åpnet 06.05.2025 På oppdrag fra Kommunal- og distriktsdepartementet sender Direktoratet for byggkvalitet på høring et forslag om endring av byggesaksforskriften (SAK10) kapittel 5 Søknad og dokumentasjon og kapittel 6 Kommunens saksbehandling. Bakgrunn for endringsforslaget Formålet med endringene er å tydeliggjøre kravene til søknad og dokumentasjon for søknadspliktige tiltak og hvilke opplysninger som er nødvendig i den enkelte byggesaken. Forslaget skal bidra til å redusere antall mangelfulle søknader. Vi foreslår i tillegg å tydeliggjøre hva kommunens vedtak om byggetillatelse som minimum skal inneholde. Dette skal bidra til å gjøre det enklere å se hva kommunen skal vurdere i byggesakene, og sikre likere saksbehandling. Direktoratets forslag må ses i sammenheng med Kommunal- og distriktsdepartementet sitt høringsforslag om å tydeliggjøre og effektivisere reglene om tidsfrister for saksbehandling og gebyrbortfall i byggesaker. Se mer om departementets høring under. Gjennomføring av høringen Du finner [høringsdokumentene og gir høringssvaret ditt i vår elektroniske høringsløsning](https://hoering.dibk.no/Hoering/3443). Vi ber om at du bare gir innspill til forslagene som er på høring. Alle som ønsker, kan sende inn høringsuttalelse selv om de ikke står oppført i adresselisten. Høringsfristen er 6. september 2025. Spørsmål til høringen kan rettes til Caroline Wille. Mer om Kommunal- og distriktsdepartementets høring Direktoratets forslag må ses i sammenheng med Kommunal- og distriktsdepartementet sitt høringsforslag om å tydeliggjøre og effektivisere reglene om tidsfrister for saksbehandling og gebyrbortfall i byggesaker, som er på høring parallelt. Departementet foreslår å endre utgangspunktet for beregning av saksbehandlingsfrister i plan- og bygningslovgivningen. Forslaget innebærer at saksbehandlingsfristene starter å løpe når søknaden er «mottatt» i kommunen. Departementet foreslår videre at kommunen gis en utvidet og lovfestet adgang til å avvise en søknad der etterspurte opplysninger ikke blir sendt inn innen en gitt frist, og at kommunens ensidige adgang til å forlenge saksbehandlingsfristen utvides. Høringsnotatet til [Kommunal- og distriktsdepartementets høring](https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-plan-og-bygningslovgivningens-regler-om-beregning-av-tidsfrister-i-byggesaker/id3098792/) og muligheten til å sende inn høringssvar finner du på regjeringens nettsider. Med hilsen Per-Arne Horne direktør Kari Befring Bjørnstad direktør innovasjon og digital transformasjon [Les høringsdokumentene](https://hoering.dibk.no/hoering/3443)
+- Høringsfrist 06.09.2025 Vi har mottatt 140 svar. Høringen er nå avsluttet. Les svarene Lukk svarene Organisasjon/virksomhet 24 svar Svar med merknader Svar uten merknader Person 89 svar Svar med merknader Svar uten merknader Offentlig instans 27 svar Svar med merknader Svar uten merknader
+  - 06.09.2025 [Byggesaksforumet på Søre Sunnmøre - Ulstein, Hareid, Herøy, Sande, Vanylven, Volda og Ørsta](https://hoering.dibk.no/hoering/3443/uttalelse/d738ab00-14a9-4bea-95df-e65127c1e71b)
+  - 06.09.2025 [Norges Bondelag](https://hoering.dibk.no/hoering/3443/uttalelse/b317c53d-c717-41ed-a5db-e6548c6baac2)
+  - 06.09.2025 [Norske Boligbyggelags Landsforbund](https://hoering.dibk.no/hoering/3443/uttalelse/0bf8d782-b150-4214-9803-58443801601c)
+  - 05.09.2025 [Studio Synne Farstad](https://hoering.dibk.no/hoering/3443/uttalelse/74e00a53-f8e7-440e-88c7-4017c8d42a46)
+  - 05.09.2025 [Norske arkitekters landsforbund](https://hoering.dibk.no/hoering/3443/uttalelse/947f824e-df36-419b-9717-ca39449b73a4)
+  - 05.09.2025 [Rådgivende Ingeniørers Forening](https://hoering.dibk.no/hoering/3443/uttalelse/9719acef-bb8b-4cab-851a-69c176c0ce47)
+  - 05.09.2025 [Norsk Vann BA](https://hoering.dibk.no/hoering/3443/uttalelse/9e4fbabc-5bf4-40ab-ae7c-db0b351b2060)
+  - 05.09.2025 [SPEED arkitekter AS](https://hoering.dibk.no/hoering/3443/uttalelse/02e9800b-dabc-433f-ae67-50e33c29ce63)
+  - 05.09.2025 [Oslo arkitektforening](https://hoering.dibk.no/hoering/3443/uttalelse/a99976e9-98c3-4261-a685-e5c7d27cda66)
+  - 05.09.2025 [Boligprodusentenes Forening på vegne av felleskapet i NHO Byggenæringen](https://hoering.dibk.no/hoering/3443/uttalelse/b02f9a50-cdd0-4cd5-a344-a1c58d176663)
+  - 05.09.2025 [Reinhardsen arkitekter as](https://hoering.dibk.no/hoering/3443/uttalelse/6632cab9-dba5-4042-b17e-7eddc398cd3d)
+  - 05.09.2025 [Norsk Eiendom](https://hoering.dibk.no/hoering/3443/uttalelse/1aa820ae-d27f-47eb-9fdb-e52cd81de719)
+  - 05.09.2025 [ASTAD ARKITEKTUR AS](https://hoering.dibk.no/hoering/3443/uttalelse/6696250f-9f17-407a-9793-184b51b73acf)
+  - 05.09.2025 [Norsk kommunalteknisk forening- NKF](https://hoering.dibk.no/hoering/3443/uttalelse/4574edd4-f1f3-4d4d-a3f2-dfc15f022379)
+  - 05.09.2025 [Norconsult Norge AS](https://hoering.dibk.no/hoering/3443/uttalelse/895abd49-3309-420c-a27c-7ea6798c92bf)
+  - 04.09.2025 [Artmorepons](https://hoering.dibk.no/hoering/3443/uttalelse/88634878-3a54-4024-b3d4-7d48b68389d4)
+  - 04.09.2025 [Arkitektbedriftene i Norge](https://hoering.dibk.no/hoering/3443/uttalelse/e781c723-ebdb-4024-ac65-dcb81e2ca5a9)
+  - 04.09.2025 [Byggmesterforbundet / Bygghåndverk Norge](https://hoering.dibk.no/hoering/3443/uttalelse/4bd3d9fb-851d-4561-aeb3-1eb261fa9347)
+  - 04.09.2025 [Advansia Norge AS](https://hoering.dibk.no/hoering/3443/uttalelse/0fe2657e-045b-46b6-9663-13d8d0364b0f)
+  - 01.09.2025 [Advokatforeningen](https://hoering.dibk.no/hoering/3443/uttalelse/29cdea22-a3f7-4a3a-9970-aeab44a461cc)
+  - 28.08.2025 [RIF - Ekspertgruppe brann](https://hoering.dibk.no/hoering/3443/uttalelse/d99f3827-3c4a-4870-bfc4-4c7232a4317e)
+  - 27.08.2025 [Norges Handikapforbund og Norges Handikapforbunds Ungdom](https://hoering.dibk.no/hoering/3443/uttalelse/110d138a-5cca-47fe-b903-93494e3f744e)
+  - 24.06.2025 [Brannfag AS](https://hoering.dibk.no/hoering/3443/uttalelse/735c9fb0-6cd9-49d3-ac50-29299c9fce22)
+  - 02.06.2025 Norges Hytteforbund
+  - 06.09.2025 [Kenneth](https://hoering.dibk.no/hoering/3443/uttalelse/6fbb8688-c11b-4933-a2a7-4303961d17e8)
+  - 06.09.2025 [Espen Heimdal](https://hoering.dibk.no/hoering/3443/uttalelse/f8f7faa6-37eb-41a8-b9d4-0e97211b291e)
+  - 06.09.2025 [Luis Santos](https://hoering.dibk.no/hoering/3443/uttalelse/ed38e5ae-2422-4b7e-bb1f-bba28074546d)
+  - 06.09.2025 [Elin Grimstvedt](https://hoering.dibk.no/hoering/3443/uttalelse/cbc5e2d8-c5c1-4b21-bf8f-f1ba38713acd)
+  - 06.09.2025 [Thomas G Løvdahl](https://hoering.dibk.no/hoering/3443/uttalelse/73386570-41a1-4d7d-b583-4493b2090bcd)
+  - 06.09.2025 [Anna Ekman](https://hoering.dibk.no/hoering/3443/uttalelse/0eeda389-99d6-4f88-8ac5-bbb309bea9e3)
+  - 06.09.2025 [Catherine Bryhn](https://hoering.dibk.no/hoering/3443/uttalelse/11ee9faa-a53b-435a-b101-9fe0e08dc9c5)
+  - 06.09.2025 [Catherine Bryhn](https://hoering.dibk.no/hoering/3443/uttalelse/7143cc44-5afb-4899-aae4-64fadef1c691)
+  - 06.09.2025 [Lise Rystad](https://hoering.dibk.no/hoering/3443/uttalelse/e0a0f570-1b8a-4b28-a68a-5378cc41c3c0)
+  - 06.09.2025 [Anette Hole](https://hoering.dibk.no/hoering/3443/uttalelse/bb899950-ed3a-4169-b803-7a636de7bbf5)
+  - 06.09.2025 [Anna Rosa Strassegger](https://hoering.dibk.no/hoering/3443/uttalelse/4dd1709b-cf8f-4885-a641-a4b38970bd9d)
+  - 06.09.2025 [Ingrid Steen-Chabert](https://hoering.dibk.no/hoering/3443/uttalelse/1868c1da-66d0-44b5-8863-59217818ed98)
+  - 06.09.2025 [Håvard Holm Snellingen](https://hoering.dibk.no/hoering/3443/uttalelse/969bd841-3e3c-4269-b110-9c724bf322eb)
+  - 05.09.2025 [Eli Undlien](https://hoering.dibk.no/hoering/3443/uttalelse/46b43a78-af58-4f20-8d5d-31add9cacfb8)
+  - 05.09.2025 [Jonas Haldoupis](https://hoering.dibk.no/hoering/3443/uttalelse/e4035187-f0e9-43bf-b48b-8ec7b161b3a3)
+  - 05.09.2025 [Lise Larstuvold](https://hoering.dibk.no/hoering/3443/uttalelse/0dd80f26-6ea3-4d7b-989b-dd38c27f1f9a)
+  - 05.09.2025 [Ulrike Rode](https://hoering.dibk.no/hoering/3443/uttalelse/63b47d33-10df-404a-9f9d-0a89ee579eb8)
+  - 05.09.2025 [Jonas Løland](https://hoering.dibk.no/hoering/3443/uttalelse/3d07b185-9f2c-42ee-b7ab-a23a37c662a2)
+  - 05.09.2025 [Ida Revfem](https://hoering.dibk.no/hoering/3443/uttalelse/a7cae5d5-e926-41a8-af47-aeff16d4f198)
+  - 05.09.2025 [Ole Johan Bjørge](https://hoering.dibk.no/hoering/3443/uttalelse/80662cb3-4c24-4a85-a377-7ac2e8874dad)
+  - 05.09.2025 [David Cabo](https://hoering.dibk.no/hoering/3443/uttalelse/9abcdf54-1d5d-46d0-bda4-19e4cd9a30dc)
+  - 05.09.2025 [Inger Svare Morset](https://hoering.dibk.no/hoering/3443/uttalelse/06227803-7356-4c6f-8fdf-f48618408b38)
+  - 05.09.2025 [Silje Ekornrud Seim](https://hoering.dibk.no/hoering/3443/uttalelse/dd2138cf-2cef-4bb1-8b9a-e1cd6ff00a7b)
+  - 05.09.2025 [Maren Hessen](https://hoering.dibk.no/hoering/3443/uttalelse/d43f225b-59ce-4fdc-a0a5-e647d3b39307)
+  - 05.09.2025 [Gustav Jerlvall Jeppsson](https://hoering.dibk.no/hoering/3443/uttalelse/9ea972bc-277b-40f3-93c8-8542742580ba)
+  - 05.09.2025 [Anna](https://hoering.dibk.no/hoering/3443/uttalelse/3081e64f-4b39-42bd-9af0-77e51359769d)
+  - 05.09.2025 [Gro Frøyen](https://hoering.dibk.no/hoering/3443/uttalelse/4191d72a-7695-45d3-be5d-48a8440c2781)
+  - 05.09.2025 [Idunn Eide Sanden](https://hoering.dibk.no/hoering/3443/uttalelse/19df3f65-05ee-4ce2-95db-fc8817743062)
+  - 05.09.2025 [Annichen Larsen](https://hoering.dibk.no/hoering/3443/uttalelse/aa78c620-94cb-403c-b96a-8dac04e577f4)
+  - 05.09.2025 [Konstantinos Ioannidis](https://hoering.dibk.no/hoering/3443/uttalelse/c45b8c06-c248-449f-bf46-f4c8095168f6)
+  - 05.09.2025 [Hanne Finseth](https://hoering.dibk.no/hoering/3443/uttalelse/92a96ed1-0761-4b77-ac16-856e74ff7efd)
+  - 05.09.2025 [Julie Elise Bølstad](https://hoering.dibk.no/hoering/3443/uttalelse/08bde63b-dc4b-4816-9ecb-139a0253f4ad)
+  - 05.09.2025 [Christian Opdal](https://hoering.dibk.no/hoering/3443/uttalelse/2bbf618b-c9f6-44b1-a165-fdebd032102e)
+  - 05.09.2025 [Solveig Tjetland](https://hoering.dibk.no/hoering/3443/uttalelse/739546ea-c0a2-4e3f-8246-6eef5851cb3b)
+  - 05.09.2025 [Åshild Wangensteen Bjørvik](https://hoering.dibk.no/hoering/3443/uttalelse/0eeb8ccf-a44f-405e-bea4-17712f63e5da)
+  - 05.09.2025 [Julie Elise Bølstaf](https://hoering.dibk.no/hoering/3443/uttalelse/6d32de77-77f8-4feb-9dff-024c146f904f)
+  - 05.09.2025 [Celine Montarou](https://hoering.dibk.no/hoering/3443/uttalelse/0c0743b6-45f1-4563-bc9f-db91872bd74a)
+  - 05.09.2025 [Karsten Lunde](https://hoering.dibk.no/hoering/3443/uttalelse/0004b109-d6d9-474e-b95a-b223702cf19d)
+  - 05.09.2025 [Kristine Mellbye](https://hoering.dibk.no/hoering/3443/uttalelse/0d9d881a-3912-43f7-b5a0-8cb77b3734c8)
+  - 05.09.2025 [Ingrid Danielsen](https://hoering.dibk.no/hoering/3443/uttalelse/aea25e89-e706-4703-8f43-800a9f71c957)
+  - 05.09.2025 [sophie](https://hoering.dibk.no/hoering/3443/uttalelse/b0150867-6597-4dc9-9595-19e339cc436a)
+  - 05.09.2025 [fredrik bull](https://hoering.dibk.no/hoering/3443/uttalelse/88db7b9f-0dfb-48c1-bd2a-5c8c880b375a)
+  - 05.09.2025 [Liv Hanstad](https://hoering.dibk.no/hoering/3443/uttalelse/639b8400-62c5-4ea1-9011-bf0733b36d43)
+  - 05.09.2025 [Therese Rustad](https://hoering.dibk.no/hoering/3443/uttalelse/fa71052a-cee7-4687-9207-2f124b6e1fa3)
+  - 05.09.2025 [Tone Furevik](https://hoering.dibk.no/hoering/3443/uttalelse/79e7a90d-d554-4521-b190-69a5dc3d7900)
+  - 05.09.2025 [Anaïs de Massey](https://hoering.dibk.no/hoering/3443/uttalelse/87722f89-91bb-45a6-84c9-a1a9e9ff016d)
+  - 05.09.2025 [Christoffer Hagen](https://hoering.dibk.no/hoering/3443/uttalelse/9d8e6f6f-2efb-47fa-bda5-939e3a4248a1)
+  - 05.09.2025 [Kristoffer](https://hoering.dibk.no/hoering/3443/uttalelse/c91a16c3-f3e8-4eb4-aae9-9aefa804137f)
+  - 05.09.2025 [joakim imset](https://hoering.dibk.no/hoering/3443/uttalelse/0740feb6-ecd5-48af-835a-31dc6a0925a1)
+  - 05.09.2025 [Rasmus Pettersen](https://hoering.dibk.no/hoering/3443/uttalelse/f8aff38a-aa77-4d11-b964-a6abae32cf5a)
+  - 05.09.2025 [Ida Mathisen](https://hoering.dibk.no/hoering/3443/uttalelse/22f625c1-2873-4915-9d02-b7290fe74e00)
+  - 05.09.2025 [Eline Fjellbirkeland](https://hoering.dibk.no/hoering/3443/uttalelse/b7a1d3b4-45f9-495c-ae16-4bffab81f0bb)
+  - 05.09.2025 [Patricia Policer](https://hoering.dibk.no/hoering/3443/uttalelse/7865d09a-3134-4b43-ace9-15dd36debf81)
+  - 05.09.2025 [Veronica Dubourgh](https://hoering.dibk.no/hoering/3443/uttalelse/a312c3c8-0d3c-4e25-aedb-bd66221ee77d)
+  - 05.09.2025 [Veronica Dubourgh Mallaug](https://hoering.dibk.no/hoering/3443/uttalelse/fa729688-e5ff-4a09-9c4c-cb6317a6f1f2)
+  - 05.09.2025 [Kjetil Bøe](https://hoering.dibk.no/hoering/3443/uttalelse/491a2e37-163d-47ca-82c3-cc359ec01d4d)
+  - 05.09.2025 [Sissel Arctander](https://hoering.dibk.no/hoering/3443/uttalelse/9477968c-761a-4f6e-833c-53f58cd2cc6f)
+  - 05.09.2025 [Helle Dalen Sørgård](https://hoering.dibk.no/hoering/3443/uttalelse/acd58d7b-7b45-4387-9151-15e440d6836a)
+  - 04.09.2025 [Nina Tendal](https://hoering.dibk.no/hoering/3443/uttalelse/96a98121-224c-406a-baa7-e065c6df9de7)
+  - 04.09.2025 [Rasmus Fihl Kvamstad](https://hoering.dibk.no/hoering/3443/uttalelse/6cc2d806-6322-4d2d-83ba-c6fb3027d860)
+  - 04.09.2025 [Inger Åsmundhavn](https://hoering.dibk.no/hoering/3443/uttalelse/be21afbc-04c0-4e26-818a-87699b5db55f)
+  - 04.09.2025 [Jeta Andreassen](https://hoering.dibk.no/hoering/3443/uttalelse/b94ffdb7-62db-4e20-876f-9e3c8c4fa3f2)
+  - 04.09.2025 [Anders Gjesdal](https://hoering.dibk.no/hoering/3443/uttalelse/6b763c23-0f9f-4a22-ae40-35c673688970)
+  - 04.09.2025 [Ellen Haukås](https://hoering.dibk.no/hoering/3443/uttalelse/774c3766-c495-44ef-9de3-e6ef1a1088a4)
+  - 04.09.2025 [Amira Matland](https://hoering.dibk.no/hoering/3443/uttalelse/cd7ee9ee-65c8-4b15-8aa2-370e515ab8ef)
+  - 04.09.2025 [Robin](https://hoering.dibk.no/hoering/3443/uttalelse/f280d601-e3ec-438c-8f91-be0571d93659)
+  - 04.09.2025 [Bård Sødal Grasbekk](https://hoering.dibk.no/hoering/3443/uttalelse/94e27d0a-f878-4fcd-a98b-fcb88afdd2da)
+  - 04.09.2025 [Karoline Kolstad Heen](https://hoering.dibk.no/hoering/3443/uttalelse/8ae2a8f6-f133-4747-acf3-ea343d6a844c)
+  - 04.09.2025 [Erick Allende](https://hoering.dibk.no/hoering/3443/uttalelse/a8416286-033c-4fdb-94e3-5bbbf42cf09a)
+  - 04.09.2025 [Katinka Thormodsrud](https://hoering.dibk.no/hoering/3443/uttalelse/b7622ef2-bfd3-47b7-b13a-93d63998d011)
+  - 04.09.2025 [Tina](https://hoering.dibk.no/hoering/3443/uttalelse/211529ea-bcb7-4b4e-9651-5b768c13774c)
+  - 04.09.2025 [Frida Dale](https://hoering.dibk.no/hoering/3443/uttalelse/4936e823-4ac3-4420-9305-880a61ab439c)
+  - 04.09.2025 [Kristian Sandnes Grøstad](https://hoering.dibk.no/hoering/3443/uttalelse/ac1480d5-eae1-4dfd-be48-e91460c7f684)
+  - 04.09.2025 [Eli Haugen Sandnes](https://hoering.dibk.no/hoering/3443/uttalelse/fc13c5e5-2d1c-48ee-82e1-6ba8d1af7c1d)
+  - 04.09.2025 [Olga](https://hoering.dibk.no/hoering/3443/uttalelse/eb02dfc1-affb-4902-aa84-4bdcbbb96011)
+  - 04.09.2025 [Elise](https://hoering.dibk.no/hoering/3443/uttalelse/d4ada51a-a199-4c53-9704-297e49c388c6)
+  - 04.09.2025 [Elin Hellem](https://hoering.dibk.no/hoering/3443/uttalelse/1e057ff1-1c25-4cc6-943c-b6067b811a62)
+  - 04.09.2025 [Daniel Lund Godbolt](https://hoering.dibk.no/hoering/3443/uttalelse/94a671a3-c075-482a-8264-ec05642b94d3)
+  - 21.08.2025 [Rune Hansen](https://hoering.dibk.no/hoering/3443/uttalelse/3f9a9556-067f-4893-86f0-1a356e16e589)
+  - 17.06.2025 [Martin Bashevkin](https://hoering.dibk.no/hoering/3443/uttalelse/7cdcc548-94ac-40f8-80b5-9d3e9692fb65)
+  - 04.06.2025 [Morten Rye](https://hoering.dibk.no/hoering/3443/uttalelse/e85d23b9-bdd1-47f5-9b46-8b1b519640ed)
+  - 19.05.2025 [Anita Tenold](https://hoering.dibk.no/hoering/3443/uttalelse/1278ff58-f026-4ea5-bd3e-19b19a9e444c)
+  - 14.05.2025 [Kenneth Langvatn](https://hoering.dibk.no/hoering/3443/uttalelse/3ae79084-0188-40f3-8eb3-11fe929baa5e)
+  - 13.05.2025 [Arnfinn Martinsen](https://hoering.dibk.no/hoering/3443/uttalelse/da6ce420-d038-44d6-af89-1a06545b7b6f)
+  - 13.05.2025 [Barbro Westlund-Storm](https://hoering.dibk.no/hoering/3443/uttalelse/c621ca81-789a-447a-825d-f178f3ce9fb1)
+  - 11.05.2025 [Barbro Westlund-Storm](https://hoering.dibk.no/hoering/3443/uttalelse/b74814f7-261a-4441-aa88-4b043cdfffd9)
+  - 10.05.2025 [Roar Askeland](https://hoering.dibk.no/hoering/3443/uttalelse/c2912758-5c09-47fd-914d-89e9d72b2c8e)
+  - 09.05.2025 [Christine](https://hoering.dibk.no/hoering/3443/uttalelse/c974d0ab-027d-430a-b823-3e2aa0388f38)
+  - 05.09.2025 Andrea Isabel Kringen
+  - 06.09.2025 [Gjøvik kommune avd arealplan](https://hoering.dibk.no/hoering/3443/uttalelse/3e13be2c-f23d-4641-bcf4-099c59eb2dbf)
+  - 05.09.2025 [Rauma kommune](https://hoering.dibk.no/hoering/3443/uttalelse/1f5bd5f3-96fc-44f5-9f5c-c5eebbcc9392)
+  - 05.09.2025 [Kartverket](https://hoering.dibk.no/hoering/3443/uttalelse/7de56052-89c2-4f1f-97b8-61ec04ab15dd)
+  - 05.09.2025 [Bodø kommune](https://hoering.dibk.no/hoering/3443/uttalelse/fc76cda6-5500-48b1-ae40-39129fe6a5d6)
+  - 05.09.2025 [Statsforvalteren i Østfold, Buskerud, Oslo og Akershus](https://hoering.dibk.no/hoering/3443/uttalelse/3df47191-e516-460d-8773-fb38481403e1)
+  - 05.09.2025 [Statsforvalteren i Innlandet](https://hoering.dibk.no/hoering/3443/uttalelse/f410b36c-1ae1-4cbd-a68a-699af39c2f12)
+  - 04.09.2025 [Nannestad kommune](https://hoering.dibk.no/hoering/3443/uttalelse/35965c85-3ecb-4b5f-9b50-d5b3af0c9bc5)
+  - 04.09.2025 [Norges vassdrags- og energidirektorat](https://hoering.dibk.no/hoering/3443/uttalelse/45080262-eb13-4853-a6ae-2289d09033b6)
+  - 04.09.2025 [Drangedal kommune](https://hoering.dibk.no/hoering/3443/uttalelse/37ee7905-986e-4bfb-b49e-4c537a69b288)
+  - 03.09.2025 [Strand kommune](https://hoering.dibk.no/hoering/3443/uttalelse/87abc6fb-021f-46e7-afe6-11cd3d829a13)
+  - 02.09.2025 [Halden kommune](https://hoering.dibk.no/hoering/3443/uttalelse/f896b550-3277-42a7-9364-4241f027c51c)
+  - 02.09.2025 [Nesodden kommune](https://hoering.dibk.no/hoering/3443/uttalelse/b9569033-a59c-4b2e-b9e2-179fe4f017dc)
+  - 02.09.2025 [Fredrikstad kommune v/Byggesak og geomatikk](https://hoering.dibk.no/hoering/3443/uttalelse/9ae45d63-8a9b-48c2-aa58-032b0d2a9d38)
+  - 02.09.2025 [Asker kommune](https://hoering.dibk.no/hoering/3443/uttalelse/8e0d5ff2-76ad-433d-bb59-0f358f6bba00)
+  - 02.09.2025 [Skien kommune](https://hoering.dibk.no/hoering/3443/uttalelse/2db15708-c65a-4f1a-a6e6-003b9b1686a7)
+  - 02.09.2025 [Tønsberg kommune](https://hoering.dibk.no/hoering/3443/uttalelse/f61affc2-7d0f-4fdd-82ea-8eecd11fd8d4)
+  - 02.09.2025 [Kristiansand kommune](https://hoering.dibk.no/hoering/3443/uttalelse/e3a2d395-1ee7-48df-9ad4-ef6abc1ebdd4)
+  - 02.09.2025 [Barne-, ungdoms og familiedirektoratet (Bufdir)](https://hoering.dibk.no/hoering/3443/uttalelse/2db78c7e-2730-4157-910b-e26bbe407f82)
+  - 29.08.2025 [Nes kommune](https://hoering.dibk.no/hoering/3443/uttalelse/7f58f370-e10b-49c7-bbf8-050762c9de12)
+  - 11.07.2025 [Plan- og bygningsavdelingen Vågan kommune](https://hoering.dibk.no/hoering/3443/uttalelse/b068f458-8e8b-4e1c-af9a-dfac2dada5f1)
+  - 13.06.2025 [Aurskog-Høland kommune](https://hoering.dibk.no/hoering/3443/uttalelse/cc1036de-dd3a-4c35-aaaf-243b9410295e)
+  - 11.06.2025 [Ulvik kommune](https://hoering.dibk.no/hoering/3443/uttalelse/93cbdd68-7c1c-4363-8e57-d8890b4e0e47)
+  - 14.05.2025 [Rendalen kommune](https://hoering.dibk.no/hoering/3443/uttalelse/f5f6c3f1-4b89-4631-920e-bb1cd80edf6b)
+  - 01.09.2025 Domstoladministrasjonen
+  - 24.06.2025 Klima- og miljødepartementet
+  - 25.08.2025 Justis- og beredskapsdepartementet
+  - 21.08.2025 Nye Veier AS
+- Høringsoppsummering Direktoratet for byggkvalitet oppsummerer høringssvarene for videre behandling når høringsfristen er ute.
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/horinger/hoyringar/forslag-til-endringer-i-reglene-om-soknad-og-dokumentasjon-i-byggesaker/) av norges-lover-bot.*
@@ -111,3 +167,4 @@ Direktoratet for byggkvalitet oppsummerer høringssvarene for videre behandling 
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)
