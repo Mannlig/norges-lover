@@ -1,4 +1,4 @@
-<!-- innholds-hash: 04c335fb425096924b1d6fb265db99822213d59d7abedfbd9f6591eb503d9ef2 -->
+<!-- innholds-hash: 718fe12de735695da0ad45e3cbc7214b3d2ceef861a23218919ed25b814a27f1 -->
 
 # Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)
 
@@ -10,11 +10,11 @@
 - **Korttittel:** Grunnlovsforslag om ny § 103 (om rett til frivillig å avbryte eget svangerskap)
 - **Status:** 2
 - **Henvisning:** Dokument 12:1 (2022-2023)
-- **Komité:** Kommunal- og forvaltningskomiteen
+- **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=93233
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -147,8 +147,8 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "id": "KOMMFORV",
-    "navn": "Kommunal- og forvaltningskomiteen"
+    "id": "KONTROLL",
+    "navn": "Kontroll- og konstitusjonskomiteen"
   },
   "korttittel": "Grunnlovsforslag om ny § 103 (om rett til frivillig å avbryte eget svangerskap)",
   "sak_fremmet_id": 93233,
@@ -166,3 +166,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)

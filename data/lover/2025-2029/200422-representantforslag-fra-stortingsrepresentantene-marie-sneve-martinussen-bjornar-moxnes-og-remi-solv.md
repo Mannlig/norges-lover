@@ -1,20 +1,20 @@
-<!-- innholds-hash: cd8016e3f4666e7ace1cf8db56a4b37601c5e5fa7a637d14bb49e6e81eeea8e1 -->
+<!-- innholds-hash: 8b770c965300acd3a1d78e1b7e45c4bdc5a801751622244e96e77910210e72b5 -->
 
-# Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få ut kriminelle aktører fra barnevernet
+# Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200422
 - **Type:** 2
-- **Korttittel:** Representantforslag om å få ut kriminelle aktører fra barnevernet
+- **Korttittel:** Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet
 - **Status:** 2
 - **Henvisning:** Dokument 8:5 S (2026–2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200422
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -93,12 +93,12 @@
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
   },
-  "korttittel": "Representantforslag om å få ut kriminelle aktører fra barnevernet",
+  "korttittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet",
   "sak_fremmet_id": 200422,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få ut kriminelle aktører fra barnevernet",
+  "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet",
   "type": 2
 }
 ```
@@ -109,3 +109,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)
