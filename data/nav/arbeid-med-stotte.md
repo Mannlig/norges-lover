@@ -1,28 +1,27 @@
-<!-- innholds-hash: 713ade32ce354d422075b84f0dbc44f57a230b08fb2f2608477257826fb426c1 -->
+<!-- innholds-hash: 633ad0e27a80ff36f8223a7ad5a9ce9b104ac4a5ccbb2ee2fdd6d09054b68089 -->
 
 # Arbeid med støtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeid-med-stotte
-- **Sist hentet:** 2026-07-13T12:30:00Z
+- **Sist oppdatert i arkivet:** 2026-10-06T23:47:49Z
 
 ## Innhold
 
 Tiltak
 
-
 ## Arbeid med støtte
 
 Et tilbud for deg som trenger støtte for å skaffe og beholde en jobb.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Arbeid med støtte er et tilbud til deg som er over 16 år og er registrert hos Nav. Du må ha behov for hjelp til å komme ut i jobb og være i en jobb over tid.
+
+### Hva kan du få?
+
+#### Hva er tilbudet?
 
 I Arbeid med støtte får du tilpasset støtte ut ifra interessene og jobbønskene dine.
 
@@ -36,45 +35,73 @@ I Arbeid med støtte er det du som skal eie din egen prosess. Vi legger vekt på
 
 Hvis du ikke finner den riktige jobben med en gang eller faller ut av en jobb, kan jobbspesialisten hjelpe deg med å finne en annen vei inn i arbeidslivet.
 
-Varigheten tilpasses dine individuelle behov og muligheter på arbeidsmarkedet. Tiltaket kan vare i inntil 3 år avhengig av hvordan vi vurderer behovet ditt for hjelp.
+#### Hvor lenge kan du få?
+
+Varigheten tilpasses dine individuelle behov og muligheter på arbeidsmarkedet. Tiltaket kan vare i inntil 3 år avhengig av hvordan vi vurderer behovet ditt for hjelp.
 
 Hvis du deltar i fag- og yrkesopplæring, kan tiltaket forlenges med ett ekstra år. Ta kontakt med Nav-veilederen din for å få vite hvor lenge du kan delta i tiltaket.
 
+#### Andre tilbud
+
 Mer informasjon til deg som
 
+- [Trenger hjelp til å komme i jobb](https://www.nav.no/komme-i-jobb) Dette kan du ha rett til
+
+[Rekrutteringsprogrammet](https://www.nav.no/rekrutteringsprogrammet)
+
+### Hvordan kan du få?
+
+#### Hvem kontakter du?
+
 Snakk med Nav-veilederen din om Arbeid med støtte er tilgjengelig ved Nav-kontoret ditt. Avklar med veilederen din om tiltaket er riktig for deg.
+
+[Finn ditt Nav-kontor](https://www.nav.no/finn-nav-kontor)
+
+#### Klagerettigheter
 
 Hvis du har fått et vedtak om et arbeidsmarkedstiltak, står det hvordan du kan klage. Du kan klage hvis du ikke ønsker å delta, hvis du ønsker et annet arbeidsmarkedstiltak, eller hvis du ikke får tilbud om et arbeidsmarkedstiltak du har bedt om.
 
 Du kan også klage selv om du bare har fått et muntlig vedtak uten en skriftlig begrunnelse.
 
-Skriv hvilket vedtak det gjelder, hvorfor du klager og begrunnelse. Hvis du har spørsmål om vedtaket, kan du
+Skriv hvilket vedtak det gjelder, hvorfor du klager og begrunnelse. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
-Hvis du har spørsmål om vedtaket, kan du
+[Send klage](https://klage.nav.no/nb/klage/ARBEID_MED_STOTTE)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/ARBEID_MED_STOTTE)
+
+Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
-Oppdatert 07.04.2026
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
 
+Slik gjør du det
 
-#### Chat med oss
+Oppdatert 07.04.2026
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
+Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeid-med-stotte) av norges-lover-bot.*
@@ -86,3 +113,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

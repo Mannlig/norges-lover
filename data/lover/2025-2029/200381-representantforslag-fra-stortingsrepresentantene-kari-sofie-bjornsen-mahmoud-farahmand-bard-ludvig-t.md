@@ -1,4 +1,4 @@
-<!-- innholds-hash: 76b1c0d732a2dad3a469d8550768bbd1bba545982658d1819c635fe8cedd3f30 -->
+<!-- innholds-hash: 1941b25fc662190e2b02467447bf6934443ed6b7be0922bca6747638f5eadfc3 -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Mahmoud Farahmand, Bård Ludvig Thorheim, Mudassar Kapur, Tage Pettersen og Aleksander Stokkebø om en nasjonal strategi for datasenterindustrien
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200381
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -152,7 +152,27 @@
   },
   "korttittel": "Representantforslag om en nasjonal strategi for datasenterindustrien",
   "sak_fremmet_id": 200381,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fiskaa",
+      "foedselsdato": "/Date(229989600000+0200)/",
+      "fornavn": "Ingrid",
+      "id": "INF",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Mahmoud Farahmand, Bård Ludvig Thorheim, Mudassar Kapur, Tage Pettersen og Aleksander Stokkebø om en nasjonal strategi for datasenterindustrien",
@@ -165,4 +185,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

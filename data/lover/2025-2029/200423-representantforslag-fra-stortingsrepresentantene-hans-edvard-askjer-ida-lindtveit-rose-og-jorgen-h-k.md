@@ -1,4 +1,4 @@
-<!-- innholds-hash: 533392de4f73ea43dea4e489554e845fc7a7691d735a83398ab5e68785c17f23 -->
+<!-- innholds-hash: 9022a62893d0dd920eb9cee9f71a78974ae8b91449e18f4aee71e1c951179bde -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200423
 - **Type:** 2
 - **Korttittel:** Representantforslag om Tolletatens fremtidige kontrolloppdrag og bevæpning
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:4 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200423
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200423,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om Tolletatens fremtidige kontrolloppdrag og bevæpning",
   "sak_fremmet_id": 200423,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

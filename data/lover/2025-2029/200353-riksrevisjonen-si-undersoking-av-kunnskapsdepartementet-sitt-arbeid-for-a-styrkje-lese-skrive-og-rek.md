@@ -1,4 +1,4 @@
-<!-- innholds-hash: aa997e7d4e20e09561d8f3c239d444853ffcf3e623d34f215d2c3bdfa2923547 -->
+<!-- innholds-hash: a83a9eaa54ddc58b5aea8d70f08be878aef56b4c4a2865e1e444674a27071ab4 -->
 
 # Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200353
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane",
   "sak_fremmet_id": 200353,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Nyholt",
+      "foedselsdato": "/Date(270856800000+0200)/",
+      "fornavn": "Hege Bae",
+      "id": "HEGNYH",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "R",
+        "navn": "Rødt",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane",
@@ -220,4 +240,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

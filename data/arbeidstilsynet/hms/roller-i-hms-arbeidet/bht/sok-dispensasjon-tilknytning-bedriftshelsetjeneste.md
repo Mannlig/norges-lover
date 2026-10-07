@@ -1,4 +1,4 @@
-<!-- innholds-hash: e8d04cd3c6a1a1a1f9de81d9a37631018a556e7ea99b0a5163198dd658d33ab3 -->
+<!-- innholds-hash: c566d5a892af41cb086f229ccb78c4ee6fb89c99ec51a8e7bcbd75fc7a81ef09 -->
 
 # Slik søker dere om dispensasjon fra tilknytning til bedriftshelsetjeneste
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/sok-dispensasjon-tilknytning-bedriftshelsetjeneste/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T08:21:58Z
+- **Sist oppdatert i arkivet:** 2026-10-07T02:16:02Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Slik søker dere om dispensasjon fra tilknytning til bedriftshelsetjeneste
 
 Virksomheter kan søke om dispensasjon fra kravet om å være tilknyttet en godkjent bedriftshelsetjeneste (BHT). Det er også mulig å søke om en delvis dispensasjon.
-
 
 ### Hvem kan få dispensasjon?
 
@@ -23,14 +29,15 @@ Alle virksomheter kan søke om dispensasjon fra kravet om å knytte til seg en g
 - være sikkerhets- og helsemessig forsvarlig
 - ikke stride mot EØS-regelverket
 - foreligge særlige grunner i virksomheten
+
 Her er noen eksempler på hva som kan være særlige grunner for å få dispensasjon:
 
 - Arbeidsmiljøet i virksomheten har ikke de risikoforholdene som har utløst tilknytningsplikten for bransjen (næringskoden), og virksomheten har i tillegg et godt dokumentert HMS-system.
 - Virksomheten har en egen ordning som ikke er godkjent som bedriftshelsetjeneste, men som er særlig tilpasset risikoforholdene i virksomheten.
 - Virksomheten benytter en utenlandsk bedriftshelsetjeneste som kjenner til det norske regelverket.
 - Andre særlige grunner.
-Vi vurderer hver enkelt søknad. Selv om punktene er oppfylt, er det ikke sikkert dere får godkjent søknaden.
 
+Vi vurderer hver enkelt søknad. Selv om punktene er oppfylt, er det ikke sikkert dere får godkjent søknaden.
 
 ### Hvem kan få delvis dispensasjon?
 
@@ -39,7 +46,6 @@ Utgangspunktet er at dersom hovedaktiviteten hos en virksomhet faller inn under 
 En delvis dispensasjon betyr at deler av virksomheten får dispensasjon fra kravet om å ha BHT. Den delen av virksomheten dere søker om dispensasjon for, må være markant adskilt fra resten av virksomheten. Det vil si fysisk adskilt på ulike lokasjoner, eller funksjonelt eller organisatorisk adskilt fra resten av virksomheten.
 
 Ansatte i den delen av virksomheten som får dispensasjon, må ikke på noe tidspunkt bli utsatt for de risikoforholdene som har utløst tilknytningsplikten.
-
 
 ### Hva må søknaden om dispensasjon inneholde?
 
@@ -52,8 +58,9 @@ I søknaden må dere
 - dokumentere at det er gjort en vurdering av risikoforhold i arbeidsmiljøet og hvordan disse er ivaretatt
 - beskrive hvordan dere jobber systematisk med helse, miljø og sikkerhet
 - legge ved en uttalelse fra verneombudet som må si hvorfor det er sikkerhets- og helsemessig forsvarlig å gi dispensasjon (dersom dere ikke har plikt til å ha verneombud, skal dere legge ved en uttalelse fra en representant for arbeidstakerne)
-- legge ved referatet fra møtet i arbeidsmiljøutvalget (dersom dere har det) der saken om dispensasjon er behandlet, se
+- legge ved referatet fra møtet i arbeidsmiljøutvalget (dersom dere har det) der saken om dispensasjon er behandlet, se [arbeidsmiljøloven § 7-2 (2) bokstav a](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88640)
 - legge ved andre opplysninger som er relevante for behandling av søknaden
+
 For en søknad om delvis dispensasjon må dere i tillegg
 
 - beskrive hvilken del (eller deler) av virksomheten dere søker om en delvis dispensasjon for
@@ -63,21 +70,21 @@ For en søknad om delvis dispensasjon må dere i tillegg
 
 En dispensasjon gjelder som hovedregel for en tidsbegrenset periode på tre år. Det er under forutsetningen av at vilkårene for dispensasjonen er oppfylt i hele perioden.
 
-
 ### Slik søker dere
 
 Bruk eDialog til å sende oss søknaden digitalt.
 
-Vi vurderer hver søknad på bakgrunn av de faktiske forholdene i saken.
+[Se hvordan dere bruker eDialog](https://www.arbeidstilsynet.no/kontakt-oss/post/)
 
+Vi vurderer hver søknad på bakgrunn av de faktiske forholdene i saken.
 
 ### Regelverk
 
+[Dispensasjon, forskrift om organisering, ledelse og medvirkning § 1-5](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85679)
+
+[Bedriftshelsetjeneste, forskrift om organisering, ledelse og medvirkning kapittel 13](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88693)
 
 ### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/sok-dispensasjon-tilknytning-bedriftshelsetjeneste/) av norges-lover-bot.*
@@ -85,3 +92,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

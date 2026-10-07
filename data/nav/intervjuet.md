@@ -1,30 +1,23 @@
-<!-- innholds-hash: e90e3059e1b57690d6695cfa4073f9a591ad62928d307767bff5d3f89763b5ff -->
+<!-- innholds-hash: ea33dab358a317135a6303f72b170d79739df18810dc1d64f34b04e0802df5fe -->
 
 # Intervjuet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/intervjuet
-- **Sist hentet:** 2026-05-17T05:33:27Z
+- **Sist oppdatert i arkivet:** 2026-10-06T23:47:09Z
 
 ## Innhold
 
 Jobbsøkertips
 
-
 ## Intervjuet
 
 Tips til hvordan komme i gang med jobbsøking så raskt som mulig.
 
+### Se video med gode tips til intervjuet
 
-### Innhold på denne siden
-
-
-### Innhold på denne siden
-
-Se video: Jobbintervju
-
-Varighet er 3,5 min
+### Forbered deg til intervjuet
 
 Jobbintervjuet kan virke skummelt. Er du godt forberedt, senker du skuldrene.
 
@@ -44,17 +37,17 @@ Hvis arbeidsgiveren synes du er en interessant kandidat til en stilling, vil han
 
 I intervjuet skal du overbevise arbeidsgiveren om at du passer inn i bedriften og at du er et trygt valg. Tenk igjennom hva du vil svare på spørsmål før du møter opp til intervjuet.
 
-Mange spørsmål går igjen fra intervju til intervju. Her kan du se en fin
+Mange spørsmål går igjen fra intervju til intervju. Her kan du se en fin [oversikt over vanlige spørsmål du kan få på et intervju.](https://studenttorget.no/index.php?show=4793&artikkelid=8162)
 
-Er det et spørsmål du føler du ikke har et godt svar på under intervjuet, ta deg tid og svar så godt du kan. Det viktigste er at du er deg selv. Ikke vær beskjeden, dette er en god anledning til å vise hvem du er.
+Er det et spørsmål du føler du ikke har et godt svar på under intervjuet, ta deg tid og svar så godt du kan. Det viktigste er at du er deg selv. Ikke vær beskjeden, dette er en god anledning til å vise hvem du er.
 
-Tenk gjennom dine egne grenser for hvor privat du vil være. Arbeidsgiver har ikke rett til å vite politisk orientering, seksuell legning, hvilken religion du tilhører eller om du er fagorganisert.
+Tenk gjennom dine egne grenser for hvor privat du vil være. Arbeidsgiver har ikke rett til å vite politisk orientering, seksuell legning, hvilken religion du tilhører eller om du er fagorganisert.
 
-For flere
+For flere [tips til jobbintervjuet på manpower.no](https://www.manpower.no/nb/aktuelt/blogs/2021/06/16/20-tips-for-et-godt-jobbintervju).
 
-Forbered et par ting du kan svare kort og greit på. Du trenger ikke fortelle mye om personlige forhold. Du skal bare formidle litt selvinnsikt og vise at du kan snakke om ting du trenger å jobbe med på en rolig og avslappet måte.
+Forbered et par ting du kan svare kort og greit på. Du trenger ikke fortelle mye om personlige forhold. Du skal bare formidle litt selvinnsikt og vise at du kan snakke om ting du trenger å jobbe med på en rolig og avslappet måte.
 
-Forbered en liste med dine sterke egenskaper. Hvis du synes det er vanskelig, tenk på hva andre vil beskrive som dine sterke sider.
+Forbered en liste med dine sterke egenskaper. Hvis du synes det er vanskelig, tenk på hva andre vil beskrive som dine sterke sider.
 
 For hver sterk egenskap, skriv ned et eksempel fra din karriere eller fritid der du har brukt og fått vist denne egenskapen. Skriv så ned hvordan du tror du kan få brukt de sterke egenskapene dine hos den nye arbeidsgiveren.
 
@@ -64,7 +57,7 @@ Gå gjennom stillingsannonsen, søknaden og CV-en din på nytt før intervjuet.
 
 Hvis du blir innkalt til ett eller flere intervjuer, vil du på et tidspunkt få spørsmål om hva slags forventninger du har til lønn. Det kan derfor være lurt å forberede seg på hvordan du ønsker å svare.
 
-Ofte vil lønn først være et tema på et annengangsintervju, eller hvis du får tilbud om jobben. Les mer om
+Ofte vil lønn først være et tema på et annengangsintervju, eller hvis du får tilbud om jobben. Les mer om [lønnsspørsmål på karrierestart.no](https://karrierestart.no/lonn-og-frynsegoder/331-forhandle-om-lonn-i-jobbintervjuet-slik-gar-du-frem).
 
 I noen bransjer og stillinger er det er vanlig å gjennomføre flere intervjurunder. Hvis du blir kalt inn til andre- og tredjegangsintervju, bør du spørre om det er noe spesielt du skal forberede deg til. Du bør også tenke over førstegangsintervjuet. Hva gikk bra, og hva gikk dårlig?
 
@@ -72,7 +65,9 @@ Som forberedelse til andregangsintervju kan en arbeidsgivere gi deg tester og hj
 
 Målet med andregangsintervjuet er å bli bedre kjent med deg og dine egenskaper, kvalifikasjoner og ferdigheter. Arbeidsgiveren ønsker å finne ut om du er riktig person for jobben.
 
-Hvis du har forberedt en oppgave, kan du bli bedt om å presentere denne. Se
+Hvis du har forberedt en oppgave, kan du bli bedt om å presentere denne. Se [manpower.no](https://www.manpower.no/nb/aktuelt/blogs/2021/06/18/slik-kan-du-lykkes-i-andregangsintervjuet) for tips til andregangsintervju.
+
+### Slik gjør du et godt intervju
 
 Førsteinntrykket kan avgjøre om du får jobben, tenk gjennom hvordan du ønsker å framstå.
 
@@ -82,7 +77,7 @@ Legg vekt på personlig hygiene, vær nydusjet og nybarbert, dropp røyken og ha
 
 Husk hvilken avdeling du skal til og hvem som er kontaktperson for stillingen. Ta med deg notater, CV, søknad, attester og vitnemål til intervjuet. Ha et sett med kopier som arbeidsgiveren kan få.
 
-Still spørsmål som viser at du er nysgjerrig og har forstått hva som er viktig for denne arbeidsgiveren.
+Still spørsmål som viser at du er nysgjerrig og har forstått hva som er viktig for denne arbeidsgiveren.
 
 - Ta med gode spørsmål som viser at du har forberedt deg til intervjuet.
 - Følg godt med og vis evne til å lytte.
@@ -90,7 +85,10 @@ Still spørsmål som viser at du er nysgjerrig og har forstått hva som er vikt
 - Still spørsmål eller kommenter når dette er passende, men unngå å avbryte intervjueren.
 - Vær forberedt på overraskende spørsmål.
 - Vent med spørsmål om lønn til den som intervjuer deg tar opp temaet.
-Les mer på
+
+Les mer på [manpower.no](https://www.manpower.no/nb/aktuelt/blogs/2021/06/18/still-sporsmal-i-jobbintervju).
+
+### Dette gjør du etter intervjuet
 
 Hvordan gikk intervjuet? Finn forbedringspunkter og gjør det enda bedre neste gang.
 
@@ -98,8 +96,11 @@ Hva fungerte godt og hva fungerte mindre bra? Hvor god var du til å lytte? Stil
 
 Ta kontakt med arbeidsgiveren hvis du ikke fikk jobben. Du kan få tilbakemeldinger som hjelper deg videre. Du har ikke krav på en slik tilbakemelding, men mange arbeidsgivere vil kunne gi deg det.
 
-Oppdatert 20.08.2025
+### Andre jobbsøkertips
 
+[Kom i gang som jobbsøker](https://www.nav.no/kom-i-gang-som-jobbsoker)[Finn jobbene](https://www.nav.no/finn-jobbene)[Søknaden og CV-en](https://www.nav.no/soknaden-og-cv)[Hverdagen som arbeidssøker](https://www.nav.no/hverdagen-som-arbeidssoker)[Huskeliste når du søker på en stilling](https://www.nav.no/huskeliste)
+
+Oppdatert 20.08.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/intervjuet) av norges-lover-bot.*
@@ -107,3 +108,4 @@ Oppdatert 20.08.2025
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

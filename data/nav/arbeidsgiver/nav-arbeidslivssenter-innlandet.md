@@ -1,49 +1,33 @@
-<!-- innholds-hash: 512bbca49550203cf9aacafe8da5d7b13ea01be4a7f1ed832f8ce04f7463f0cd -->
+<!-- innholds-hash: be23dc92c4899c1a90bdd97f5f2a72f91e828503a1e8af53cccb27289dc19d05 -->
 
 # Nav arbeidslivssenter Innlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-innlandet
-- **Sist hentet:** 2026-05-18T16:36:28Z
+- **Sist oppdatert i arkivet:** 2026-10-07T01:27:16Z
 
 ## Innhold
-
 
 ## Nav arbeidslivssenter Innlandet
 
 Arbeidslivssenter
 
-
 ### Kontakt oss
-
 
 ### Telefonnummeret til Nav er
 
-Telefontid hverdager kl. 9–15.
+55 55 33 36
 
+Telefontid hverdager kl. 9–15.
 
 #### Kontaktskjema
 
-Du kan også
-
+Du kan også [skrive til oss](https://kontaktskjema.arbeidsgiver.nav.no/) hvis du ønsker hjelp til å rekruttere eller inkludere arbeidstakere og forebygge sykefravær.
 
 ### Kontorinformasjon
 
-
-#### Beliggenhet
-
-Torggata 63, 2317 HAMAR
-
-
-#### Postadresse
-
-Postboks 4120, 2307 HAMAR
-
-
-#### Kontornummer
-
-0491
+### Hva er Nav arbeidslivssenter?
 
 Nav arbeidslivssenter er et ressurs- og kompetansesenter for virksomheter med høyt sykefravær.
 
@@ -52,20 +36,26 @@ Virksomheten din kan samarbeide med våre rådgivere om
 - utvikle partssamarbeidet som grunnlag for å forbedre arbeidsmiljøet og redusere sykefraværet
 - øke kvaliteten på sykefraværsoppfølgingen
 - kartlegging og støtte til forebyggende arbeidsmiljøarbeid
+
 Les mer om:
+
+[Oppfølging fra Nav arbeidslivssenter](https://www.nav.no/arbeidsgiver/navarbeidslivssenter)
+
+Veiledning
+
+### Søknader og skjema
 
 Skal du sende inn et skjema eller søke om støtte fra Nav?
 
+[Søknad og skjema for arbeidsgivere](https://www.nav.no/arbeidsgiver/soknader)
 
 #### Saksbehandlingstider
 
-Her finner du
-
+Her finner du [saksbehandlingstider for arbeidsgivere](https://www.nav.no/arbeidsgiver/saksbehandlingstider).
 
 #### Skjemaer for klage
 
-Her finner du
-
+Her finner du [klageskjemaer for arbeidsgivere](https://www.nav.no/arbeidsgiver/klage).
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-innlandet) av norges-lover-bot.*
@@ -73,3 +63,4 @@ Her finner du
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

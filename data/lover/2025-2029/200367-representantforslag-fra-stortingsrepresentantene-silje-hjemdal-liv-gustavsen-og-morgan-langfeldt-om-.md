@@ -1,4 +1,4 @@
-<!-- innholds-hash: d64957e5dcfb86020a8894820ac12818730b24f3e6fa1f72f98b5ab3b6537042 -->
+<!-- innholds-hash: a040ae37fb358ca4a5e791b56adfe21990fef390fa368932fc07a9c9423c25f1 -->
 
 # Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen og Morgan Langfeldt om å tillate digitale lotterier for frivillige organisasjoner og idrettslag
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200367
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å tillate digitale lotterier for frivillige organisasjoner og idrettslag",
   "sak_fremmet_id": 200367,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Abdi",
+      "foedselsdato": "/Date(1095804000000+0200)/",
+      "fornavn": "Hashim",
+      "id": "HASABD",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Silje Hjemdal, Liv Gustavsen og Morgan Langfeldt om å tillate digitale lotterier for frivillige organisasjoner og idrettslag",
@@ -108,4 +128,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

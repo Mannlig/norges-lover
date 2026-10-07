@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8f0f547d795c4fe55ea6dee1b56feb63baf285511339d9ef8537f83475e74fb2 -->
+<!-- innholds-hash: 13ddb921d4873797ddab79dd639bdb64d54c1fda015fbce20dc9def9e3e82592 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200303
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -98,19 +98,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Askjer",
-      "foedselsdato": "/Date(-247539600000+0100)/",
-      "fornavn": "Hans Edvard",
-      "id": "HANASK",
-      "kjoenn": 2,
+      "etternavn": "Solli",
+      "foedselsdato": "/Date(612050400000+0200)/",
+      "fornavn": "Kristine Løfshus",
+      "id": "KRISOL",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Te",
-        "navn": "Telemark"
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "id": "KrF",
-        "navn": "Kristelig Folkeparti",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
         "representert_parti": true
       },
       "vara_representant": false
@@ -149,4 +149,5 @@
 - **2026-05-22** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

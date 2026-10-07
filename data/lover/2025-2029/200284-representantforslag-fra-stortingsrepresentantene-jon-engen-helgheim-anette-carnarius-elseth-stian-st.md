@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4262fc3fb2a98a50dd9ee86d57fe1461c5030b21cfe5f424472e89e4016f86f8 -->
+<!-- innholds-hash: 19839b55dec8a36f8857e1954a133c7200d949b8d299679a19d5254c15344478 -->
 
 # Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Anette Carnarius Elseth, Stian Storbukås og Finn Krokeide om hastetiltak for å sette politiet bedre i stand til å trygge samfunnet i en usikker tid
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200284
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -117,15 +117,15 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Eriksen",
-      "foedselsdato": "/Date(805068000000+0200)/",
-      "fornavn": "Even H.",
-      "id": "EVEERI",
-      "kjoenn": 2,
+      "etternavn": "Gruer",
+      "foedselsdato": "/Date(968277600000+0200)/",
+      "fornavn": "June Trengereid",
+      "id": "JUNGRU",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "He",
-        "navn": "Hedmark"
+        "id": "Ho",
+        "navn": "Hordaland"
       },
       "parti": {
         "id": "A",
@@ -147,3 +147,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

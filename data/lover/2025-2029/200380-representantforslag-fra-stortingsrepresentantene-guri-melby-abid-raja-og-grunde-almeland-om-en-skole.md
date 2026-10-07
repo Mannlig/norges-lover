@@ -1,4 +1,4 @@
-<!-- innholds-hash: 33988def40a95b01c711371a19f44d6e4ba01d64ae823d6c42f40a883aca2abb -->
+<!-- innholds-hash: e7347c9a3583d1ad6a888fe1b430ca19e390e59cec2dcfdbaca5fbc679eb3a0c -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200380
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om en skole å bli nysgjerrig i",
   "sak_fremmet_id": 200380,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Gorseth",
+      "foedselsdato": "/Date(767052000000+0200)/",
+      "fornavn": "Vebjørn",
+      "id": "VEBGOR",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i",
@@ -108,4 +128,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

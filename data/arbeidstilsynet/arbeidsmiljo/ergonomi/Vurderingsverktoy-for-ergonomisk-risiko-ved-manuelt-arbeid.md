@@ -1,4 +1,4 @@
-<!-- innholds-hash: 577019a51c504662b9fd47a48c606be4c0d5c1d0b96cc64128148562058aeaba -->
+<!-- innholds-hash: e7cc2936a5f218279a624516900279e23d31e2271a064818e17aa6ad7bcb714a -->
 
 # Vurderingsverktøy for ergonomisk risiko ved manuelt arbeid
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/Vurderingsverktoy-for-ergonomisk-risiko-ved-manuelt-arbeid/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T07:53:51Z
+- **Sist oppdatert i arkivet:** 2026-10-07T01:52:46Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Vurderingsverktøy for ergonomisk risiko ved manuelt arbeid
 
-Det finnes en rekke ulike verktøy for å vurdere ergonomisk risiko og om arbeidet kan føre til muskel- og skjelettplager eller belastningsskader. Slike spesifikke vurderingsverktøy brukes etter en innledende kartlegging av
-
+Det finnes en rekke ulike verktøy for å vurdere ergonomisk risiko og om arbeidet kan føre til muskel- og skjelettplager eller belastningsskader. Slike spesifikke vurderingsverktøy brukes etter en innledende kartlegging av [ergonomisk arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/). Bruk dem sammen med fagfolk innenfor risikovurdering, for eksempel bedriftshelsetjenesten. Risikovurderingsverktøy velges ut fra arbeidet dere gjør, og hva dere har behov for å risikovurdere mer spesifikt.
 
 ### Kjenn verktøyenes begrensninger
 
@@ -24,22 +30,9 @@ Risikovurderingsverktøyene er tilpasset forskjellige arbeidsoperasjoner, og kan
 
 Alle verktøyene er på engelsk, men noen lar deg også velge andre språk.
 
-
 ### Eksempler på vurderingsverktøy dere kan bruke
 
-Du finner KIM-MHO ved å scrolle ned på siden og trykker på FORMS (ENGLISH).
-
-Du finner KIM-LHC og KIM-PP ved å scrolle ned på siden og trykker på FORMS (ENGLISH).
-
-Du finner KIM-ABP ved å scrolle ned på siden og trykker på FORMS (ENGLISH).
-
-Du finner KIM-BF og KIM-BM ved å scrolle ned på siden og trykker på FORMS (ENGLISH).
-
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/Vurderingsverktoy-for-ergonomisk-risiko-ved-manuelt-arbeid/) av norges-lover-bot.*
@@ -47,3 +40,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

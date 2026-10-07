@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8a0e2fd5ef397884aab1c4183cedd78e9dabdfb5d789ddb3465d3fca61f58a2c -->
+<!-- innholds-hash: 55c6cd7381e305eebfec28a7afea7ffaa996c99d5d29e564d14d3685e135a58a -->
 
 # Arbeidslokalene skal beskytte mot støy
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/beskyttelse-mot-stoy/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T08:28:02Z
+- **Sist oppdatert i arkivet:** 2026-10-07T02:21:42Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Arbeidslokalene skal beskytte mot støy
 
 Arbeidslokaler og arbeidsplasser skal være utformet og innredet slik at hver enkelt arbeidsplass er beskyttet mot støy, først og fremst gjennom bygningsmessige løsninger.
-
 
 ### Kartlegg arbeidet og vurder risikoen for støy
 
@@ -23,8 +29,8 @@ Det er først og fremst bygnings- og utstyrsmessige løsninger som skal redusere
 - Kartlegg og dokumenter i hvilken utstrekning arbeidstakerne utsettes for støy.
 - Vurder risikoen for at støyen går ut over helsen og sikkerheten.
 - Vurder hvilke bygnings- og utstyrsmessige løsninger som er nødvendige.
-Kartleggingen og risikovurderingen skal kunne dokumenteres dersom Arbeidstilsynet ber om det.
 
+Kartleggingen og risikovurderingen skal kunne dokumenteres dersom Arbeidstilsynet ber om det.
 
 ### Velg løsninger som oppfyller kravene til beskyttelse mot støy
 
@@ -32,46 +38,27 @@ Arbeidsmiljøforskriftene stiller ikke spesifikke krav til bygningsmessige løsn
 
 Uavhengig av hvilke løsninger dere velger, må dere dokumentere at løsningene sikrer at hver enkelt arbeidsplass er beskyttet mot støy i tråd med kravene.
 
-Den mest effektive løsningen for å forebygge og bekjempe støy, er å fjerne eller isolere lydkilden. Vurder alltid muligheten for dette når dere planlegger arbeidsplassene og installasjon av utstyr i arbeidslokalene.
-
-Hvis det ikke er mulig å fjerne eller isolere lydkilden:
-
-- Utform arbeidsplassene slik at årvåkenheten ikke svekkes eller at det blir vanskelig å føre en samtale på grunn av støy.
-- Sørg for at arbeidsplasser og personalrom har lydabsorberende materialer.
-- Sørg for at arbeidsplasser og personalrom er nok avskjermet mot lyd til at arbeidstakerne blir beskyttet mot støy.
-- Ta hensyn til støy fra tekniske innretninger.
-- Sørg for at fundamenter og festeanordninger for arbeidsutstyr blir innrettet slik at de ikke forårsaker unødig støy.
-Regelverket plasserer ulike arbeidsforhold i støygrupper basert på hvilket arbeid som skal utføres. Hver støygruppe har en tiltaksverdi som krever ulike støyforebyggende tiltak. Støybelastningen bør reduseres til minst 10 desibel under denne verdien.
-
-
-#### Følg tiltaks- og grenseverdiene
-
-- kan ikke det daglige eksponeringsnivået være høyere enn 85 desibel (L
-- kan ikke toppverdien av lydtrykknivået (impulsstøy) være høyere enn 130 desibel (L
-Arbeidsgiver/tiltakshaver må
-
-- prosjektere og innrette arbeidslokalene basert på hvilke arbeidsforhold/støygrupper de ulike rommene sorterer under
-- sørge for bygningsmessige tiltak som bidrar til å overholde de absolutte grenseverdiene
-
-#### Spise- og hvilerom har strengest grenseverdier
-
-Spise- og hvilerom er plassert i støygruppe 1. For disse rommene skal vurderingen eller støymålingen kun omfatte bakgrunnsstøy fra installasjoner, tilstøtende lokaler og omgivelser.
-
-Forebygg eventuell gjenstående risiko ved blant annet
-
-
 ### Regelverk
 
+[Krav til det fysiske arbeidsmiljøet og at eksponering for støy skal være fullt forsvarlig: Arbeidsmiljøloven § 4-4 første ledd](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml/#88623)
+
+[Arbeidslokaler og arbeidsplasser skal være utformet og innredet slik at de enkelte arbeidsplassene er beskyttet mot støy: Arbeidsplassforskriften § 2-16 og Arbeidstilsynets kommentarer til forskriften](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85471)
+
+[Risikovurdering av helsefare ved støy og mekaniske vibrasjoner: Forskrift om utførelse av arbeid § 14-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94915)
+
+[Støygrupper og tiltaksverdier for ulike arbeidsoppgaver og arbeidsforhold: Forskrift om tiltaks- og grenseverdier § 2-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier/#86044)
+
+[Absolutte grenseverdier for hvor mye støy arbeidstakere kan eksponeres for: Forskrift om tiltaks- og grenseverdier § 2-2](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-tiltaks--og-grenseverdier/#86045)
 
 ### Følg gjerne Arbeidstilsynets preaksepterte løsninger
 
 Planlegg og innrett gjerne tiltaket/bygget i samsvar med Arbeidstilsynets preaksepterte (forhåndsgodkjente) løsninger. Da sikrer dere at kravene er oppfylt. Det øker sannsynligheten for å få Arbeidstilsynets samtykke.
 
+[Last ned og se Arbeidstilsynets preaksepterte løsninger i skjemaet for egenerklæring](https://www.arbeidstilsynet.no/regelverk/byggesak/egenerklaring/)
 
-### Fann du det du leitte etter?
+[Søk om Arbeidstilsynets samtykke](https://www.arbeidstilsynet.no/regelverk/byggesak/)
 
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/beskyttelse-mot-stoy/) av norges-lover-bot.*
@@ -79,3 +66,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

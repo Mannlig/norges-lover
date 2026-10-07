@@ -1,4 +1,4 @@
-<!-- innholds-hash: d68c241cfcf73e208eeecaf9bcd4fd05f5e5872da3aa6c14c4dac80a3e6bc399 -->
+<!-- innholds-hash: 6925d0b9527ff620ffe8aa1270b45990ff6560de5683efc0bb028583cc74f059 -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200356
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -133,7 +133,27 @@
   },
   "korttittel": "Representantforslag om modernisering av regelverket for offentlige søkerlister",
   "sak_fremmet_id": 200356,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Blikra",
+      "foedselsdato": "/Date(-228016800000+0200)/",
+      "fornavn": "Jone",
+      "id": "JONBLI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Te",
+        "navn": "Telemark"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister",
@@ -306,4 +326,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

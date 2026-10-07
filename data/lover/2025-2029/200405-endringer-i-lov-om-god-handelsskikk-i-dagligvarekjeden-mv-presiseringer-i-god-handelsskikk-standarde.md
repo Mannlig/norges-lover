@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3c6ef1832c97a0127891b1f74f924ad11d31364c218cad77d67aafacac951a76 -->
+<!-- innholds-hash: 51eece6b37ae7b51af10cf6ce8777dec45ebdab41c38d26429a62b9db8e6a9e6 -->
 
 # Endringer i lov om god handelsskikk i dagligvarekjeden mv. (presiseringer i god handelsskikk-standarden mv.)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200405
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i lov om god handelsskikk i dagligvarekjeden mv. (presiseringer i god handelsskikk-standarden mv.)",
   "sak_fremmet_id": 200405,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Linge",
+      "foedselsdato": "/Date(870040800000+0200)/",
+      "fornavn": "Tobias Hangaard",
+      "id": "TOBLIN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i lov om god handelsskikk i dagligvarekjeden mv. (presiseringer i god handelsskikk-standarden mv.)",
@@ -50,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

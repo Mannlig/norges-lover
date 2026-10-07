@@ -1,4 +1,4 @@
-<!-- innholds-hash: b56fd966f7a742f556ffc7590f184717c6260f9ade201f1ccf8eff5798bd26e7 -->
+<!-- innholds-hash: 23b271020f7f773b9e2d4ab7e0e1abd7d1009a766ff85e6266ce395d8ffe58e5 -->
 
 # Endringer i de faste komiteers sammensetning
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200418
 - **Type:** 2
 - **Korttittel:** Endringer i de faste komiteers sammensetning
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Innst. 18 S (2026-2027)
 - **Komité:** Valgkomiteen
 - **Emner:** Stortingsrepresentanter, Stortinget
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200418
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
@@ -54,7 +54,7 @@
   "sak_fremmet_id": 200418,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Endringer i de faste komiteers sammensetning",
   "type": 2
 }
@@ -65,3 +65,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

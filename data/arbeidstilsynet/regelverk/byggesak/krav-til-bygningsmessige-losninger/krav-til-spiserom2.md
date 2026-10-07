@@ -1,4 +1,4 @@
-<!-- innholds-hash: f4d04b48abd0bb01e705c9aa69aa3dcbcd215771d41a4914be37c83525efa9d0 -->
+<!-- innholds-hash: 5cbf7a465632ac86f9e8c1b64f4e0ed2631f5ff707a684a4528dfbe474897281 -->
 
 # Krav til spiserom på arbeidsplassen
 
@@ -6,60 +6,49 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-spiserom2/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T20:54:24Z
+- **Sist oppdatert i arkivet:** 2026-10-07T02:34:30Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Krav til spiserom på arbeidsplassen
 
 Alle arbeidsplasser skal ha spiserom som er tilgjengelig for arbeidstakerne. Spiserommet skal enten være et dedikert spiserom, eller arbeidstakerne må ha tilgang til tilfredsstillende lokaler utenom virksomheten.
 
-Hvis virksomheten har eller skal ha spiserom utenfor de egne arbeidslokalene, for eksempel i en kantine i fellesarealer, bør virksomhetens egne lokaler ha
+### Arbeidslokaler uten eget spiserom bør ha pauserom
 
+Hvis virksomheten har eller skal ha spiserom utenfor de egne arbeidslokalene, for eksempel i en kantine i fellesarealer, bør virksomhetens egne lokaler ha [pauserom](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-pauserom/).
 
 ### Generelle krav til spiserom på arbeidsplassen
 
-Spiserommet må være tilgjengelig for arbeidstakerne enten det ligger i eller utenfor egne lokaler.
-
-Spiserommet
-
-- bør ha dagslys og utsyn
-- skal ha plass til det største antallet arbeidstakere som skal spise samtidig
-- skal ha plass til bord og stoler med rygg som er tilpasset antallet arbeidstakere
-- skal være minimum 6 m
-- skal være plassert, utformet og innredet slik at arbeidstakere med nedsatt funksjonsevne kan benytte rommet
-Spiserommet
-
-- bør være utstyrt med kjøleskap og mulighet til å tilberede måltider, for eksempel ved skiftarbeid eller overtid
-- bør ha tilgang til varmt og kaldt vann, blant annet for å kunne ivareta hygieniske forhold
-- bør være innredet slik at arbeidstakere med nedsatt funksjonsevne kan bruke rommet
-Spiserommet
-
-- skal være tilgjengelig når arbeidstakerne har behov for det
-- skal gi mulighet for pause og avkobling
-- skal normalt kunne brukes til å spise medbragt mat uten kjøpeplikt
-- skal normalt være skjermet fra kunder, elever, pasienter og liknende
-Hvis spiserommet ikke er i virksomhetens egne arbeidslokaler, bør lokalene ha pauserom.
-
-Spiserommet
-
-- skal være tilgjengelig for arbeidstakerne når de har behov for det
-- skal ikke ha annet utstyr eller innredning enn det som er knyttet til spiseromsfunksjonen. Det betyr at det som hovedregel ikke er akseptert å blande ulike funksjoner, som spiserom og møterom, i samme rom.
-- skal normalt være skjermet fra brukergrupper som publikum, kunder, elever og pasienter
-
 ### Regelverk
 
+[Krav til at bygnings- og utstyrsmessige forhold skal være fullt forsvarlige: arbeidsmiljøloven § 4-4 første ledd](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml/#88623)
+
+[Krav til plassering av personalrom: arbeidsplassforskriften § 3-1](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85481)
+
+[Generelle krav til hvordan personalrom skal dimensjoneres og innredes: Arbeidsplassforskriften § 3-2.](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85482)
+
+[Krav til spiserom: Arbeidsplassforskriften § 3-5 og kommentarene til forskriften](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85485)
+
+[Arbeidstilsynets kommentarer til arbeidsplassforskriften kapittel 3: Krav til personalrom, rom for renholdsutstyr, førstehjelpsrom og førstehjelpsutstyr](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85480)
 
 ### Følg gjerne Arbeidstilsynets preaksepterte løsninger
 
 Planlegg og innrett gjerne tiltaket/bygget i samsvar med Arbeidstilsynets preaksepterte (forhåndsgodkjente) løsninger. Da sikrer dere at kravene er oppfylt. Det øker sannsynligheten for å få Arbeidstilsynets samtykke.
 
+[Last ned og se Arbeidstilsynets preaksepterte løsninger i skjemaet for egenerklæring](https://www.arbeidstilsynet.no/regelverk/byggesak/egenerklaring/)
 
-### Fann du det du leitte etter?
+[Søk om Arbeidstilsynets samtykke](https://www.arbeidstilsynet.no/regelverk/byggesak/)
 
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-spiserom2/) av norges-lover-bot.*
@@ -67,3 +56,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

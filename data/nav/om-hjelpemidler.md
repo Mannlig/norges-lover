@@ -1,28 +1,19 @@
-<!-- innholds-hash: 34bc7464de47f6848e7b6bfa951e14a35e69e078ed45faf642015c912373cd9a -->
+<!-- innholds-hash: e1ef074b8540223d9ce3bb4c12f9b215f037c516a5cc09e4276292ef5f7642e5 -->
 
 # Informasjon om hjelpemidler og tilrettelegging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/om-hjelpemidler
-- **Sist hentet:** 2026-07-21T11:42:19Z
+- **Sist oppdatert i arkivet:** 2026-10-07T00:18:28Z
 
 ## Innhold
-
 
 ## Informasjon om hjelpemidler og tilrettelegging
 
 Sjekk status i saken din. Les om hvem som kan få hjelpemidler, hvordan du kan få det og hvordan du går fram i ulike situasjoner når du har et hjelpemiddel.
 
-
-### Innhold på denne siden
-
-Det finnes også informasjon om informasjon om hjelpemidler og tilrettelegging til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om informasjon om hjelpemidler og tilrettelegging til
+### Sjekk saken din
 
 Hvis du har sendt en søknad til Nav hjelpemidler og tilrettelegging, kan du logge inn på nav.no og sjekke saken din selv.
 
@@ -32,37 +23,58 @@ På innloggede sider på nav.no kan du sjekke
 
 - status i dine pågående saker
 - oversikt over utlånte hjelpemidler (utlånsoversikt)
-- oversikt over innsendte saker, dokumenter og vedtak.
+- oversikt over innsendte saker, dokumenter og vedtak.
+
 Du vil ikke få opp oversikt over søknader til egne barn hvis du logger inn. Du kan ringe til oss hvis du trenger informasjon om status på saken til eget barn.
+
+### Generelt om hjelpemidler
 
 Personer med varig nedsatt funksjonsevne, kan låne hjelpemidler av Nav hjelpemiddelsentral.
 
-Nav hjelpemiddelsentral finnes i alle regionene i landet.
+Nav hjelpemiddelsentral finnes i alle regionene i landet. [Her kan du finne din hjelpemiddelsentral](https://www.nav.no/kontaktoss#finn-hjelpemiddelsentral).
 
 Et hjelpemiddel i denne sammenhengen er spesialutviklet for personer med ulike funksjonsnedsettelser. Du får ikke lånt hjelpemidler som er vanlig for befolkningen ellers å ha, eller som er å få i vanlig handel.
 
-Du kan lese mer om ulike hjelpemidler til ulike typer vansker eller funksjonsvariasjoner på egne sider. Disse sidene kan du navigere deg fram til fra
+Du kan lese mer om ulike hjelpemidler til ulike typer vansker eller funksjonsvariasjoner på egne sider. Disse sidene kan du navigere deg fram til fra [nav.no sin forside for hjelpemiddelområdet](https://www.nav.no/hjelpemidler).
 
 Her kan du blant annet finne ut om det er spesielle vilkår for hjelpemiddelet du trenger, og lese om hvordan du best ivaretar hjelpemiddelet ditt. Du vil også finne informasjon om hvilke rettigheter og muligheter du har på ulike arenaer, som arbeidsplass, skole, bolig og dagligliv.
+
+### Hvem kan få hjelpemidler
 
 Generelle vilkår:
 
 - Funksjonsvanskene må være varige. Det vil si at vanskene har en varighet på over to år.
 - Hjelpemiddelet skal kompensere for funksjonstap uavhengig av alder.
-- Du må ha
+- Du må ha [medlemskap i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
+
 Har du behov for kortvarig utlån av hjelpemidler, må du ta kontakt med din kommune.
 
-I tillegg til de generelle vilkårene, er det ulike spesifikke vilkår knyttet til bestemte hjelpemidler eller hjelpemiddeltyper. Disse kan du få mer informasjon om på sidene om disse hjelpemidlene, som du kan finne fra
+I tillegg til de generelle vilkårene, er det ulike spesifikke vilkår knyttet til bestemte hjelpemidler eller hjelpemiddeltyper. Disse kan du få mer informasjon om på sidene om disse hjelpemidlene, som du kan finne fra [nav.no sin forside om hjelpemidler og tilrettelegging](https://www.nav.no/hjelpemidler).
+
+### Hva kan du få?
+
+#### Hva kan du få av Nav hjelpemiddelsentral?
 
 Hvis du har en funksjonsnedsettelse kan du få hjelp av Nav hjelpemiddelsentral. Du kan få:
 
-- stønad til
-På
+- [tilrettelegging og råd](https://www.nav.no/hjelpemidler) om tilrettelegging i arbeid, barnehage, skole og dagligliv
+- [låne hjelpemidler](https://www.nav.no/hjelpemidler) for syn, hørsel, lese- og skrivevansker, kognitive vansker, vansker med tale og språk, tilrettelegging av bolig, vansker med bevegelse og forflytning.
+- [førerhund](https://www.nav.no/forerhund)
+- [lese- og sekretærhjelp](https://www.nav.no/samarbeidspartner/optiker/lese-og-sekretarhjelp) for blinde og svaksynte
+- [tolking for døve, døvblinde og hørselshemmede](https://www.nav.no/redirects/tolk)
+- stønad til [bil, spesialutstyr til bil og tilpasning av bil](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/bil-og-spesialutstyr)
 
-Du kan også få
+På [kunnskapsbanken.net](https://www.kunnskapsbanken.net) kan du lese mer om tilrettelegging i ulike situasjoner.
 
-Se
+#### Andre hjelpemidler
 
+Du kan også få [høreapparat](https://www.nav.no/horeapparat), [grunnmønster](https://www.nav.no/grunnmonster), [seksualtekniske hjelpemidler](https://www.nav.no/seksualtekniskehjelpemidler), [proteser, ortoser, ortopediske sko og parykk](https://www.nav.no/protese-ortose-ortopediskesko-parykk) av Nav. Disse hjelpemidlene har andre søknadsprosedyrer og dokumentasjonskrav enn hjelpemidlene du kan låne av Nav hjelpemiddelsentral. Du vil finne informasjon om dette inne på sidene til hver enkelt av hjelpemiddeltypene.
+
+Se [Folketrygdloven kap. 10: Stønad for å kompensere for utgifter til bedring av arbeidsevnen og funksjonsevnen i dagliglivet](https://lovdata.no/nav/folketrygdloven/kap10)
+
+### Hvordan kan du få?
+
+#### Kartlegging og søknad
 
 #### Til deg som er privatperson
 
@@ -72,7 +84,7 @@ Hvem som kan hjelpe deg, kommer an på hva slags hjelpemiddel du har behov for. 
 
 For hjelpemidler på jobb, bør du involvere arbeidsgiver og en eventuell bedriftshelsetjeneste.
 
-Noe kan inngå i
+Noe kan inngå i [arbeidsgiverens tilretteleggingsplikt (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A74-2). Både arbeidsgiver, bedriftshelsetjenesten eller du selv kan ta kontakt med Nav hjelpemiddelsentral som kan hjelpe dere med å utrede og kartlegge behovet for hjelpemidler og tilrettelegging på arbeidsplassen. Nav hjelpemiddelsentral kan hjelpe deg med å fylle ut søknaden.
 
 Er du arbeidssøker eller har fått innvilget arbeidsavklaringspenger (AAP), kan du sammen med din veileder på Nav-kontoret kontakte Nav hjelpemiddelsentral.
 
@@ -84,10 +96,11 @@ Det er kommunen som har ansvaret for å søke om hjelpemidler i skole og barneha
 
 Som foresatt skal du skrive under på søknaden.
 
+[Statped](https://www.statped.no/syn/) (Statlig spesialpedagogisk tjeneste) eller [Nav hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral) kan bistå med veiledning og hjelp til å velge riktig hjelpemiddel.
+
 Når du skal søke om hjelpemidler til dagliglivet, anbefaler vi at du får hjelp fra kommunen du bor i. En kommunal ergoterapeut eller hjelpemiddelformidler kan kartlegge behovet ditt og finne ut hva du trenger.
 
 Som regel er det best at kommunal hjelpemiddelformidler fyller ut søknaden på dine vegne. Vedkommende skal også bidra med oppfølging og opplæring.
-
 
 #### Hvorfor bør du få hjelp av kommunen?
 
@@ -96,21 +109,23 @@ En god utredning med en godt begrunnet søknad øker sjansen for at du får med 
 - er godt kjent med de ulike mulighetene
 - kan utrede hva som passer best for deg
 - vet hva som trengs av dokumentasjon
+
 En kommunal formidler kan skrive en søknad med riktig dokumentasjon, utredning og god begrunnelse, og vil bidra til at Nav kan behandle søknaden din raskere.
 
 Når du skal finne hjelpemiddel:
 
-- Sjekk at det du trenger ikke er i vanlig handel. Vanlige produkter du får kjøpt i butikk/nettbutikk dekkes ikke av Nav.
-- Se etter
-- Produkter som er rangert som nummer 1 må vurderes først. Lavere rangerte produkter må begrunnes spesielt.
-- Du kan få andre hjelpemidler, hvis produkter som er på avtale med Nav ikke dekker behovet ditt. Da må dette begrunnes spesielt.
+1. Sjekk at det du trenger ikke er i vanlig handel. Vanlige produkter du får kjøpt i butikk/nettbutikk dekkes ikke av Nav.
+2. Se etter [produkter som er på avtale med Nav](https://finnhjelpemiddel.nav.no/) (finnhjelpemiddel.nav.no).
+3. Produkter som er rangert som nummer 1 må vurderes først. Lavere rangerte produkter må begrunnes spesielt.
+4. Du kan få andre hjelpemidler, hvis produkter som er på avtale med Nav ikke dekker behovet ditt. Da må dette begrunnes spesielt.
+
 Dette må søknaden din inneholde:
 
-Søknaden må inneholde en god forklaring på behovet ditt, og begrunnelse for hvorfor du trenger dette hjelpemiddelet.
+Søknaden må inneholde en god forklaring på behovet ditt, og begrunnelse for hvorfor du trenger dette hjelpemiddelet.
 
 Det må komme fram at en person har påtatt seg et opplærings- og oppfølgingsansvar for hjelpemiddelet overfor deg som bruker. Som oftest er dette en kommunal terapeut, men hvis du søker uten hjelp fra kommunen har du anledning til å føre opp deg selv. Nav hjelpemiddelsentral vil vurdere i hvert enkelt tilfelle om det er tilstrekkelig.
 
-Trenger du hjelp til å vurdere eller prøve ut hjelpemidler, må du ta kontakt med kommunen.
+Trenger du hjelp til å vurdere eller prøve ut hjelpemidler, må du ta kontakt med kommunen. Når du printer ut søknadsskjema må du også printe ut en førsteside. På førstesiden står det hvilken adresse du skal sende søknaden til.
 
 Når du lar en fagperson søke på dine vegne, må du enten signere søknaden selv, eller fylle ut et fullmaktsskjema. Din signatur på fullmaktsskjemaet vil da erstatte signaturen på selve søknadsskjemaet.
 
@@ -126,13 +141,11 @@ Hvis du ikke kan signere selv, eller hvis noen andre søker på dine vegne, finn
 
 Dersom søker som ikke selv kan signere er innlagt på institusjon og det ikke er nære pårørende i nærheten, godtar vi at ansatte på institusjonen underskriver på vegne av søker. Underskriften må «bekreftes» med et stempel som viser at vedkommende er ansatt ved institusjonen. MEN: underskrift fra en ansatt godtas kun på en førstegangssøknad. Dersom vi mottar flere søknader hvor ansatt har skrevet under, stiller vi krav om at det oppnevnes en verge/hjelpeverge for vedkommende.
 
-
 #### Fosterforeldre og samboere
 
 Vi godtar søknader og klager hvor en av fosterforeldrene har underskrevet på vegne av sitt fosterbarn, selv om det formelt sett er barnevernet som har overtatt omsorgen for barnet. Vi kan i slike tilfeller ha en medunderskrift av barnevernsmyndighetene. En søknad/klage kan imidlertid fremsettes av barnevernsmyndighetene (kommunen) alene.
 
 Samboerskap som samlivsform likestilles ikke med ekteskap når det gjelder underskrift. Her kreves det en muntlig eller skriftlig fullmakt.
-
 
 #### Bekreftelse
 
@@ -141,40 +154,56 @@ Ved å skrive under på søknad eller fullmakt bekrefter du at du er kjent med f
 - Utlånte hjelpemidler er Arbeids- og velferdsetatens eiendom og skal tas godt vare på.
 - Du kan ikke kreve at hjelpemidlene du får utlevert er ubrukte eller av et bestemt merke.
 - Når du ikke har bruk for et hjelpemiddel lenger, skal det leveres tilbake. Les mer om utlevering og tilbakelevering.
+
 Søknader som ikke er underskrevet er ikke gyldige, og kan derfor ikke behandles.
 
-Her kan du lese om
-
+Her kan du lese om [hvordan personopplysningene dine blir behandlet av Nav](https://www.nav.no/personvernerklaering).
 
 #### Til deg som er fagperson
 
-Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke
+Hvis du er fagperson og skal søke hjelpemidler på vegne av en innbygger, må du bruke [skjemaoversikten for samarbeidspartnere](https://www.nav.no/samarbeidspartner/soknader/hjelpemiddelformidler) for å få tilgang på alle aktuelle skjema. Her vil du finne tilleggsskjema, henvisningsskjema for utprøving og andre skjema som er beregnet på fagpersoner og hjelpemiddelformidlere.
 
-Her finner du også inngangen til digital behovsmelding og andre
+Her finner du også inngangen til digital behovsmelding.
 
-Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på
+Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpersoner, kan du finne på [samarbeidspartner-sidene til nav.no](https://www.nav.no/samarbeidspartner/hjelpemiddelformidler).
+
+#### Brukerpass
 
 Hvis du er en erfaren hjelpemiddelbruker og ønsker å søke selv, kan det være aktuelt å søke om brukerpass.
 
-Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring.
+Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hjelpemiddelbehov. For å få brukerpass må du gjennomgå opplæring. [Mer om brukerpass.](https://www.nav.no/brukerpass)
+
+#### Levering og ventetid
 
 Hjelpemidlene blir først levert fra Nav hjelpemiddelsentral til et kommunalt lager. Kommunen tar kontakt når hjelpemiddelet skal leveres videre til deg.
 
-Hvis vi har hjelpemidlene på lager, sender vi dem til kommunen din i løpet av noen få dager, og senest innen tre uker etter at søknaden er innvilget. Det kan ta opp til fem uker hvis hjelpemiddelet må bestilles fra leverandør eller spesialtilpasses.
+Hvis vi har hjelpemidlene på lager, sender vi dem til kommunen din i løpet av noen få dager, og senest innen tre uker etter at søknaden er innvilget. Det kan ta opp til fem uker hvis hjelpemiddelet må bestilles fra leverandør eller spesialtilpasses.
 
 Hvis det er behov for tilpasninger, opplæring i bruk og vedlikehold av hjelpemiddelet, vil du få det ved utlevering.
 
 Om det haster å få hjelpemiddelet, kan du avtale med Nav hjelpemiddelsentral at du henter det selv.
 
-Hvis du ikke har reservert deg mot digitale meldinger fra staten, vil du få beskjed på SMS eller e-post når hjelpemiddelet er klart til å sendes fra oss til kommunen. Du vil også kunne følge status på saken din hvis du logger inn på nav.no med ID-porten.
+Hvis du ikke har reservert deg mot digitale meldinger fra staten, vil du få beskjed på SMS eller e-post når hjelpemiddelet er klart til å sendes fra oss til kommunen. Du vil også kunne følge status på saken din hvis du logger inn på nav.no med ID-porten.
+
+#### Montering, tilpassing og opplæring
 
 Kommunen har ansvaret for å montere utstyret, tilpasse det og lære deg å bruke hjelpemidlet.
 
 Har du fått hjelpemidler til arbeid, vil du få hjelp til montering, tilpassing og opplæring av rådgiver ved Nav hjelpemiddelsentral, eller av kommunen du bor i.
 
+#### Klagerettigheter
+
 Får du avslag på søknaden din kan du klage til Nav hjelpemiddelsentral. Du må ha sendt en søknad som er blitt behandlet for å kunne klage. Du kan ikke klage på muntlig avslag.
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
+
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
+
+### Når du har hjelpemidler
+
+#### Flytting og ny bolig
 
 Du kan ta med deg hjelpemidler til ny bolig. Hvis du ikke trenger hjelpemiddelet i den nye boligen, skal det leveres tilbake til hjelpemiddelsentralen.
 
@@ -188,7 +217,6 @@ Dette gjelder også hvis du overtar et dødsbo med fastmonterte hjelpemidler.
 
 Dere kan gjøre avtale om montering av hjelpemiddelet i ny bolig hvis det er aktuelt. Nav dekker ikke utgifter til flyttebyrå og transport i forbindelse med flytting.
 
-
 #### Flytte til institusjon
 
 Du kan ta med deg personlige hjelpemidler når du flytter til institusjon som for eksempel sykehjem eller barnebolig. Dette gjelder blant annet
@@ -197,6 +225,7 @@ Du kan ta med deg personlige hjelpemidler når du flytter til institusjon som fo
 - enkle ganghjelpemidler
 - rullestol til personlig bruk (inkludert tilleggsutstyr som trykkavlastende pute)
 - kommunikasjonshjelpemidler.
+
 Noen typer hjelpemidler må du returnere når du flytter til institusjon. Dette er hjelpemidler som er nødvendig for å kunne yte den pleien som normalt ytes på institusjon, og som institusjonen dermed har ansvar for å skaffe selv. Dette gjelder blant annet
 
 - seng
@@ -204,7 +233,10 @@ Noen typer hjelpemidler må du returnere når du flytter til institusjon. Dette 
 - trykkavlastningsmadrass
 - dusjstol/toalettforhøyer
 - lenestol med oppreisningsfunksjon
+
 Omsorgsbolig regnes som vanlig bolig og ikke som institusjon. Du kan derfor ta med deg alle slags hjelpemidler hvis du flytter til omsorgsbolig.
+
+#### Vedlikehold og reparasjon
 
 Ta godt vare på hjelpemiddelet.
 
@@ -214,24 +246,25 @@ Les bruksanvisningen som følger med produktet. Noen hjelpemidler har behov for 
 
 Opplærings- og oppfølgingsansvarlig kan bistå deg hvis du trenger hjelp.
 
-
 #### Hvem reparerer hjelpemiddelet?
 
 Reparasjon må utføres av fagfolk. Hvis hjelpemidlet går i stykker, det oppstår feil eller problemer, ta kontakt med din kontaktperson i kommunen. Hvis de ikke kan hjelpe deg, kontakter de Nav hjelpemiddelsentral. I noen tilfeller kan leverandør gi brukerstøtte.
 
 Har du fått hjelpemidler til arbeidsplassen eller utdanningsstedet, må du ta kontakt med de som har levert utstyret ved behov for reparasjoner.
 
-
 #### Behov for akutt reparasjon
 
 Ta først kontakt med kommunen.
 
-Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
+Utenom åpningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemidler:
 
 - Telefonnummer: 917 81 122
 - Åpningstid hverdager: klokka 15:30–24:00
-- Åpningstid helger og helligdager: klokka 08:00–24:00
-Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+- Åpningstid helger og helligdager: klokka 08:00–24:00
+
+Når du ringer servicetelefonen vil du komme i kontakt med en av våre teknikere. De vil vurdere situasjonen ut fra din beskrivelse, og avtale med deg hva som skal gjøres videre.
+
+#### Tyveri, forsikring og ansvar
 
 Meld fra til kommunen hvis hjelpemiddelet blir stjålet. De vil vurdere om du må politianmelde tyveriet.
 
@@ -241,9 +274,13 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 
 Du kan bli erstatningspliktig hvis du påfører personer eller eiendom skade med rullestol eller scooter. For elektrisk rullestol og scooter bør du derfor tegne ansvarsforsikring som dekker ansvar ved erstatningskrav, i tilfelle det skjer et uhell. Du må selv finne informasjon om egnet forsikring.
 
+#### Uhell med hjelpemidler
+
 Du skal gi beskjed til kommunen hvis det skjer uhell og ulykker der et hjelpemiddel som er utlånt fra Nav hjelpemiddelsentral er involvert. Dette gjelder både ved uhell (ikke personskade) og ulykke (personskade).
 
 Kommunen er ansvarlig for å melde saken videre til Nav hjelpemiddelsentral.
+
+#### Hjelpemiddel på reise
 
 Hvis du skal ha med deg et hjelpemiddel på utenlandsreise, bør du kontakte Nav hjelpemiddelsentral i forkant for en gjennomgang av hjelpemidlet. Det kan være utfordrende hvis et hjelpemiddel går i stykker når du er på reise, spesielt i utlandet. Mange problemer kan forebygges eller reduseres ved å planlegge sammen før reisen.
 
@@ -267,24 +304,32 @@ Hjelpemidler som blir stjålet i utlandet må meldes til det lokale politiet. Be
 
 Informasjon om assistanse på reise
 
+- [fra VY](https://www.vy.no/kundeservice/sporsmal-og-svar/sporsmal-og-svar-om-tog/bagasje-og-spesielle-behov)
+- [fra Avinor](https://www.avinor.no/praktisk-info/assistanse/)
+
+#### Batteri på fly
+
 Hvis du skal reise med fly og hjelpemiddelet ditt bruker batteri, må du undersøke regelverk for flytransport. Ta kontakt med flyselskapet på forhånd.
 
 Dette gjelder særlig hvis hjelpemiddelet bruker lithiumbatteri. Det er strenge internasjonale regler for hvor store lithiumbatteri man kan ha med på fly, hvordan de skal pakkes og hva slags bagasje de skal sendes som. I tillegg kan hvert enkelt flyselskap ha egne regler. Til syvende og sist er det piloten som avgjør hva som får bli med på flyet og ikke.
 
 Ladere som leveres sammen med hjelpemiddelet ditt, skal kun brukes i stikkontakter med nettspenning 220V. Hvis du reiser til et land med en annen nettspenning, må du ha en omformer eller kjøpe/låne en lader tilpasset nettspenningen.
 
+#### Bytte eller levere tilbake
+
 - Av og til må man bytte hjelpemiddel, for eksempel hvis det er utslitt eller det ikke passer lenger. Ta kontakt med kommunen for å få hjelp til å bytte. Hvis du ønsker å ordne det selv, kan du sende søknad om bytte.
 - Du kan bare bytte til samme type hjelpemiddel. Trenger du et annet må du søke på nytt.
 - Hvis hjelpemiddelet ikke fungerer og ikke kan repareres, kan det hende det holder å bytte enkeltdeler. Ved bytte av enkeltdeler er det viktig å passe på at den nye delen fungerer sammen med den gamle. Du bør få hjelp av en tekniker i kommunen til å finne ut av dette.
-- Hvis du mister eller ødelegger hjelpemidler kan du som regel få nytt. Ta kontakt med kommunen eller bruk bytteskjemaet.
+- Hvis du mister eller ødelegger hjelpemidler kan du som regel få nytt. Ta kontakt med kommunen eller bruk bytteskjemaet.
 - Hvis du ikke trenger hjelpemiddelet lenger, skal du sende det tilbake. Ta kontakt med kommunen din eller Nav hjelpemiddelsentral.
+
+[Skjema for bytte finner du i skjemaoversikten](https://www.nav.no/soknader). Søk opp den hjelpemiddeltypen du har og skal bytte, så kommer det opp lenke til riktig bytteskjema.
 
 #### Bytte og demontering av fastmonterte hjelpemidler
 
 Hvis du ikke trenger hjelpemiddelet lenger skal du levere det tilbake. Ta kontakt med kommunen eller Nav hjelpemiddelsentral for demontering.
 
 Fastmonterte hjelpemidler kan ikke byttes som andre hjelpemidler, men krever ny søknad med nye mål og signaturer hvis du trenger noe nytt. Dette har sammenheng med at regelverk og sortiment kan ha endret seg siden forrige gang du søkte.
-
 
 #### Spesielt for hjelpemidler i skolen
 
@@ -298,35 +343,37 @@ Planleggingen av slike overganger må starte i god tid, slik at utstyret og even
 
 Hvis oppfølgingsansvarlig jobber på skolen eller barnehagen, har vedkommende ansvaret for at en ny person overtar dette ansvaret ved skolebytte.
 
-
 #### Brukermedvirkning
 
-Nav hjelpemidler og tilrettelegging samarbeider med brukerorganisasjonene i utviklingen av tjenestene våre. Her kan du lese om
+Nav hjelpemidler og tilrettelegging samarbeider med brukerorganisasjonene i utviklingen av tjenestene våre. Her kan du lese om [brukerutvalget og hvordan vi jobber med brukerdrevet tjenesteutvikling](https://www.nav.no/samarbeidspartner/brukerutvalg-hjelpemiddelomradet)
 
-Oppdatert 04.05.2026
+Oppdatert 05.10.2026
 
+### Finner du ikke svaret her? Ta kontakt med oss
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
 Send beskjed eller nye opplysninger i saken din. Du kan også sende spørsmål.
 
 Svartid er noen arbeidsdager.
 
+Chat med chatbot
 
-#### Chat med chatbot
+Navs chatbot kan svare deg på generelle spørsmål.
 
-Chatbot Frida har døgnåpent.
+Chatbot:
 
 Alltid åpen
 
+Ring oss på 55 55 11 11
 
-#### Ring oss på 55 55 11 11
+Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
-#### Finn din hjelpemiddelsentral
-
+Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/om-hjelpemidler) av norges-lover-bot.*
@@ -340,3 +387,4 @@ Alltid åpen
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)

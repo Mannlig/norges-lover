@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5a723ab126c936129a27b4474881b0a8486524085fd6e75bbf9a8f48138a5d32 -->
+<!-- innholds-hash: 93d28dd5898d2895de034aad389e8c5da0df229e36838c50599ca343b950f4af -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om fleksibel skolestart",
   "sak_fremmet_id": 200357,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Molvær",
+      "foedselsdato": "/Date(505177200000+0100)/",
+      "fornavn": "Monica",
+      "id": "MMO",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "MR",
+        "navn": "Møre og Romsdal"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart",
@@ -287,4 +307,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

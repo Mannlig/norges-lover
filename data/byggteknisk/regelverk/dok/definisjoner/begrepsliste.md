@@ -1,4 +1,4 @@
-<!-- innholds-hash: efa73548529ff7649659248f15f72223dbdf425fbe8b229a20a7f5083a0367d4 -->
+<!-- innholds-hash: 433a7fcccd021c72f2b4f5d210d81fc1c76742b8d62e03cf3142e1bb744a3c9a -->
 
 # Begrepsliste
 
@@ -6,258 +6,240 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-18T09:01:17Z
+- **Sist oppdatert i arkivet:** 2026-10-06T22:28:20Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Forskrift om dokumentasjon av byggevarer (DOK)](https://www.dibk.no/regelverk/dok)
+- [Begrepsliste](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste)
 
 ## Forskrift om dokumentasjon av byggevarer (DOK)
 
-
 ### INNHOLD DOK
 
+Søk
+
+[Om veiledningen til DOK](https://www.dibk.no/regelverk/dok)
+
+- I Innledende bestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/i/innledning)
+  - [§ 1. Forskriftens virkeområde](https://www.dibk.no/regelverk/dok/i/1)
+  - [§ 2. Omsetning, markedsføring og distribusjon av produkter](https://www.dibk.no/regelverk/dok/i/2)
+- II Krav til byggevarer som er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/ii/innledning)
+  - [§ 3. Gjennomføring av byggevareforordningen samt delegerte rettsakter og gjennomføringsrettsakter](https://www.dibk.no/regelverk/dok/ii/3)
+  - [§ 3a. Gjennomføring av delegerte rettsakter av teknisk karakter](https://www.dibk.no/regelverk/dok/ii/3a)
+  - [§ 4. Språk i ytelseserklæring](https://www.dibk.no/regelverk/dok/ii/4)
+  - [§ 5. Språk på anvisninger og sikkerhetsinformasjon](https://www.dibk.no/regelverk/dok/ii/5)
+  - [§ 6. Varekontaktpunkt for byggevarer](https://www.dibk.no/regelverk/dok/ii/6)
+  - [§ 7. Teknisk bedømmelsesorgan](https://www.dibk.no/regelverk/dok/ii/7)
+  - [§ 8. Tekniske kontrollorgan etter byggevareforordningen](https://www.dibk.no/regelverk/dok/ii/8)
+- III Krav til byggevarer som ikke er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/iii/innledning)
+  - [§ 9. Virkeområde for kapittel III](https://www.dibk.no/regelverk/dok/iii/9)
+  - [§ 10. Dokumentasjon av vesentlige egenskaper](https://www.dibk.no/regelverk/dok/iii/10)
+  - [§ 11. Markedsdeltakernes plikter](https://www.dibk.no/regelverk/dok/iii/11)
+  - [§ 12. Vurdering og verifikasjon av byggevarers ytelser](https://www.dibk.no/regelverk/dok/iii/12)
+  - [§ 13. Innhold i dokumentasjonen](https://www.dibk.no/regelverk/dok/iii/13)
+  - [§ 14. Gjensidig godkjenning](https://www.dibk.no/regelverk/dok/iii/14)
+- IV Løfteinnretning og varmtvannskjel
+  - [Innledning](https://www.dibk.no/regelverk/dok/iv/innledning)
+  - [§ 15. Virkeområde for kapittel IV](https://www.dibk.no/regelverk/dok/iv/15)
+  - [§ 16. Løfteinnretning](https://www.dibk.no/regelverk/dok/iv/16)
+  - [§ 17. Varmtvannskjel som fyres med flytende eller gassformig brensel](https://www.dibk.no/regelverk/dok/iv/17)
+  - [§ 18. CE-merking av løfteinnretninger og varmtvannskjeler](https://www.dibk.no/regelverk/dok/iv/18)
+  - [§ 19. Teknisk kontrollorgan for løfteinnretninger og varmtvannskjel](https://www.dibk.no/regelverk/dok/iv/19)
+- V Fellesbestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/v/innledning)
+  - [§ 20. Forbud mot villedende informasjon](https://www.dibk.no/regelverk/dok/v/20)
+  - [§ 21. Tilsynsmyndighet](https://www.dibk.no/regelverk/dok/v/21)
+  - [§ 22. Tilsyn med produkter til byggverk](https://www.dibk.no/regelverk/dok/v/22)
+  - [§ 23. Reaksjoner fra tilsynsmyndigheten](https://www.dibk.no/regelverk/dok/v/23)
+  - [§ 24. Overtredelsesgebyr. Gebyrenes størrelse](https://www.dibk.no/regelverk/dok/v/24)
+  - [§ 25. Utmåling av overtredelsesgebyr](https://www.dibk.no/regelverk/dok/v/25)
+  - [§ 26. Gebyr](https://www.dibk.no/regelverk/dok/v/26)
+  - [§ 27. Ikrafttredelse, overgangsbestemmelse og endringer i andre forskrifter](https://www.dibk.no/regelverk/dok/v/27)
+- Vedlegg
+  - [Vedlegg I](https://www.dibk.no/regelverk/dok/i1/vedlegg-i)
+  - [Vedlegg II](https://www.dibk.no/regelverk/dok/i1/vedlegg-ii)
+- Byggevareforordningen
+  - [Byggevareforordningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/byggevareforordningen)
+  - [Fortale](https://www.dibk.no/regelverk/dok/byggevareforordningen/fortale)
+  - [Artikkel 1 Formål](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-1-formal)
+  - [Artikkel 2 Definisjoner](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-2-definisjoner)
+  - [Artikkel 3 Grunnleggende krav til byggverk og byggevarers vesentlige egenskaper](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-3-grunnleggende-krav)
+  - [Artikkel 4 Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-4-ytelseserklaring)
+  - [Artikkel 5 Unntak fra kravet om å utarbeide en ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-5-unntak-fra-kravet-om)
+  - [Artikkel 6 Ytelseserklæringens innhold](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-6-ytelseserklaringens)
+  - [Artikkel 7 Framleggelse av ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-7-framleggelse-av)
+  - [Artikkel 8 Allmenne prinsipper og bruken av CE-merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-8-allmenne-prinsipper)
+  - [Artikkel 9 Regler og vilkår for påføring av CE merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-9-regler-og-vilkar-for)
+  - [Artikkel 10 Kontaktpunkter for byggevarer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-10-kontaktpunkter-for)
+  - [Artikkel 11 Produsentenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes)
+  - [Artikkel 12 Representanter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-12-representanter)
+  - [Artikkel 13 Importørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-13-importorenes)
+  - [Artikkel 14 Distributørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-14-distributorenes)
+  - [Artikkel 15 Tilfeller der produsentenes forpliktelser gjelder for importører og distributører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-15-tilfeller-der)
+  - [Artikkel 16 Identifikasjon av markedsdeltakere](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-16-identifikasjon-av)
+  - [Artikkel 17 Harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-17-harmoniserte)
+  - [Artikkel 18 Formell innvending mot harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-18-formell-innvending)
+  - [Artikkel 19 Europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-19-europeisk)
+  - [Artikkel 20 Prinsipper for utarbeidelse og vedtakelse av europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-20-prinsipper-for)
+  - [Artikkel 21 Forpliktelser for det tekniske bedømmelsesorgan som mottar en anmodning om en europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-21-forpliktelser-for)
+  - [Artikkel 22 Offentliggjøring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-22-offentliggjoring)
+  - [Artikkel 23 Tvisteløsning ved uenighet mellom de tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-23-tvistelosning-ved)
+  - [Artikkel 24 Innholdet i det europeiske bedømmelsesdokumentet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-24-innholdet-i-det)
+  - [Artikkel 25 Formelle innvendinger mot europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-25-formelle)
+  - [Artikkel 26 Europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-26-europeisk-teknisk)
+  - [Artikkel 27 Ytelsesnivåer eller -klasser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-27-ytelsesnivaer-eller)
+  - [Artikkel 28 Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-28-vurdering-og)
+  - [Artikkel 29 Utpeking, overvåking og evaluering av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-29-utpeking)
+  - [Artikkel 30 Krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-30-krav-til-tekniske)
+  - [Artikkel 31 Samordning av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-31-samordning-av)
+  - [Artikkel 32 Unionsfinansiering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-32-unionsfinansiering)
+  - [Artikkel 33 Finansieringsordninger](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-33)
+  - [Artikkel 34 Forvaltning og overvåking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-34-forvaltning-og)
+  - [Artikkel 35 Beskyttelse av Unionens økonomiske interesser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-35-beskyttelse-av)
+  - [Artikkel 36 Bruk av hensiktsmessig teknisk dokumentasjon](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-36-bruk-av)
+  - [Artikkel 37 Svært små foretaks bruk av forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-37-svart-sma-foretaks)
+  - [Artikkel 38 Andre forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-38-andre-forenklede)
+  - [Artikkel 39 Underretning](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-39-underretning)
+  - [Artikkel 40 Utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-40-utpekende)
+  - [Artikkel 41 Krav til utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-41-krav-til-utpekende)
+  - [Artikkel 42 Medlemsstatenes opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-42-medlemsstatenes)
+  - [Artikkel 43 Krav til tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-43-krav-til-tekniske)
+  - [Artikkel 44 Samsvarsvurdering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-44-samsvarsvurdering)
+  - [Artikkel 45 Tekniske kontrollorganers datterforetak og underleverandører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-45-tekniske)
+  - [Artikkel 46 Bruk av anlegg utenfor det teknisk kontrollorgans prøvingslaboratorium](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-46-bruk-av-anlegg)
+  - [Artikkel 47 Søknad om utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-47-soknad-om-utpeking)
+  - [Artikkel 48 Framgangsmåte for utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-48-framgangsmate-for)
+  - [Artikkel 49 Identifikasjonsnumre og lister over tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-49)
+  - [Artikkel 50 Endringer av underretningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-50-endringer-av)
+  - [Artikkel 51 Tvil om tekniske kontrollorganers kompetanse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-51-tvil-om-tekniske)
+  - [Artikkel 52 Tekniske kontrollorganers driftsmessige forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-52-tekniske)
+  - [Artikkel 53 Tekniske kontrollorganers opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-53-tekniske)
+  - [Artikkel 54 Erfaringsutveksling](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-54-erfaringsutveksling)
+  - [Artikkel 55 Samordning av tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-55-samordning-av)
+  - [Artikkel 56 Framgangsmåte for behandling på nasjonalt plan av byggevarer som utgjør en risiko](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-56-framgangsmate-for)
+  - [Artikkel 57 Unionens framgangsmåte ved beslutninger om beskyttelsestiltak](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-57-unionens)
+  - [Artikkel 58 Byggevarer som oppfyller kravene, men som likevel utgjør en risiko for helse og sikkerhet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-58-byggevarer-som)
+  - [Artikkel 59 Formelt manglende samsvar](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-59-formelt-manglende)
+  - [Artikkel 60 Delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-60-delegerte)
+  - [Artikkel 61 Utøvelse av delegeringen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-61-utovelse-av)
+  - [Artikkel 62 Tilbakekalling av delegering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-62-tilbakekalling-av)
+  - [Artikkel 63 Innvendinger mot delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-63-innvendinger-mot)
+  - [Artikkel 64 Utvalg](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-64-utvalg)
+  - [Artikkel 65 Oppheving](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-65-oppheving)
+  - [Artikkel 66 Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-66)
+  - [Artikkel 67 Kommisjonens rapportering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-67-kommisjonens)
+  - [Artikkel 68 Ikrafttredelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-68-ikrafttredelse)
+  - [Vedlegg I Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav)
+  - [Vedlegg II Framgangsmåte for vedtakelse av et europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-ii-framgangsmate-for)
+  - [Vedlegg III Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iii-ytelseserklaring)
+  - [Vedlegg IV Produktområder og krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iv-produktomrader-og)
+  - [Vedlegg V Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-v-vurdering-og)
+- Veiledning til byggevareforordningen
+  - [Veiledning til byggevareforordningen](https://www.dibk.no/regelverk/dok/veiledning-til/veiledning-til)
+  - [1. Innledning](https://www.dibk.no/regelverk/dok/veiledning-til/1.-innledning)
+  - [2. Begrepet byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/2.-begrepet-byggevarer)
+  - [3. Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/veiledning-til/3.-grunnleggende-krav-til)
+  - [4. Harmoniserte tekniske spesifikasjoner](https://www.dibk.no/regelverk/dok/veiledning-til/4.-harmoniserte-tekniske)
+  - [5. Byggevarens vesentlige egenskaper](https://www.dibk.no/regelverk/dok/veiledning-til/5.-byggevarens-vesentlige)
+  - [6. Forskjell mellom teknisk dokumentasjon og produktdokumentasjon](https://www.dibk.no/regelverk/dok/veiledning-til/6.-forskjell-mellom-teknisk)
+  - [7. Systemer for vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/veiledning-til/7.-systemer-for-vurdering-og)
+  - [8. Tekniske kontrollorgan](https://www.dibk.no/regelverk/dok/veiledning-til/8.-tekniske-kontrollorgan)
+  - [9. Obligatorisk CE-merking og ytelseserklæring (plikt til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/9.-obligatorisk-ce-merking-og)
+  - [10. Frivillig CE-merking og ytelseserklæring (rett til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/10.-frivillig-ce-merking-og)
+  - [11. Tekniske bedømmelsesorgan](https://www.dibk.no/regelverk/dok/veiledning-til/11.-tekniske-bedommelsesorgan)
+  - [12. CE-merking](https://www.dibk.no/regelverk/dok/veiledning-til/12.-ce-merking)
+  - [13. Ytelseserklæringen](https://www.dibk.no/regelverk/dok/veiledning-til/13.-ytelseserklaringen)
+  - [14. Hvordan meddeles ytelseserklæringen?](https://www.dibk.no/regelverk/dok/veiledning-til/14.-hvordan-meddeles)
+  - [15. Byggevarer som er individuelt produsert eller etter mål i en prosess som ikke innebærer serieproduksjon](https://www.dibk.no/regelverk/dok/veiledning-til/15.-byggevarer-som-er)
+  - [16. Farlige stoffer](https://www.dibk.no/regelverk/dok/veiledning-til/16.-farlige-stoffer)
+  - [17. Forpliktelser til produsenter, importører og distributører](https://www.dibk.no/regelverk/dok/veiledning-til/17.-forpliktelser-til)
+  - [18. Importører og distributører som omsetter byggevarer under sitt eget navn eller varemerke eller som endrer byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/18.-importorer-og-distributorer)
+  - [19. Forenklede fremgangsmåter for svært små foretak](https://www.dibk.no/regelverk/dok/veiledning-til/19.-forenklede-fremgangsmater)
+  - [20. Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/veiledning-til/20.-overgangsbestemmelser)
+  - [21. Produktkontaktpunker](https://www.dibk.no/regelverk/dok/veiledning-til/21.-produktkontaktpunker)
+- Forordninger
+  - [Forordning (EU) nr. 305/2011](https://www.dibk.no/regelverk/dok/i.vedlegg/2)
+  - [Forordning (EU) nr. 1062/2013 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/3)
+  - [Forordning (EU) nr. 157/2014 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/4)
+  - [Forordning (EU) nr. 574/2014 av 21. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/5)
+  - [Forordning (EU) nr. 568/2014 av 18. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/6)
+  - [Kommisjonsdelegert forordning (EU) nr. 1291/2014 av 16. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/7)
+  - [Kommisjonsdelegert forordning (EU) nr. 1292/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/8)
+  - [Kommisjonsdelegert forordning (EU) nr. 1293/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/9)
+- Definisjoner
+  - [Begrepsliste](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste)
+
+Lenke kopiert til utklippstavlen
+
+Forrige
+
+Neste
+
+- [Skriv ut denne siden](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste/#autoprint)
+- [Skriv ut Definisjoner](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste?subtype=chapter&print=true&/#autoprint)
+- [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste?subtype=root&print=true&/#autoprint)
+
+Vis all veiledningstekst Lukk all veiledningstekst
+
+Definisjoner
 
 ### Begrepsliste
 
-
-#### Autorisert representant
-
-Enhver fysisk eller juridisk person etablert i Unionen som har fått skriftlig fullmakt fra en produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver (oppbevare dokumentasjon, svare til og samarbeide med tilsynsmyndighet). Fullmakten kan ikke innebærer utarbeidelse av dokumentasjon.
-
-
-#### Byggevare
-
-Enhver vare og ethvert byggesett som er produsert og bragt i omsetning med sikte på å inngå permanent i byggverk eller deler av byggverk, og hvis ytelse påvirker byggverkets ytelse når det gjelder de grunnleggende krav til byggverket.
-
-
-#### Byggesett
-
-En byggevare som bringes i omsetning av en enkelt produsent som en enhet bestående av minst to separate deler som må settes sammen for å skulle inngå i byggverket.
-
-
-#### Byggevareinfo.no
-
-Direktoratets nettside som gir informasjon om hvorfor og hvordan man skal vurdere og angi byggevarens egenskaper.
-
-
-#### Byggevarers vesentlige egenskaper
-
-De egenskaper ved byggevaren som gjelder de grunnleggende krav til byggverk.
-
-
-#### Byggevarens ytelser
-
-Ytelsen knyttet til de relevante vesentlige egenskaper uttrykt som nivå eller klasse eller ved hjelp av en beskrivelse.
-
-
-#### Bærekraft
-
-Bærekraft innføres som et nytt grunnleggende krav til byggverk. Kravet innebærer at byggverk skal konstrueres, oppføres og rives på en slik måte at naturressurser anvendes på en bæredyktig måte. Dette betyr å sikre gjenvinning av byggverk, materialer og deler etter riving, en sikring av byggverkenes holdbarhet og anvendelse av miljøkompatible råmaterialer og sekundære materialer i byggverkene.
-
-
-#### CEN
-
-CEN står for Comité européen de normalisation (European Committee for Standardization).
-
-
-#### CE-merking
-
-CE står for ”Communauté Européenne”. CE-merkingen er bekreftelse på at byggevaren oppfyller byggevareforordningens krav. CE-merkede byggevarer skal derfor kunne omsettes i hele EØS-området.
-
-
-#### Distributør
-
-Enhver fysisk eller juridisk person i forsyningskjeden, bortsett fra produsenten eller importøren, som gjør byggevaren tilgjengelig på markedet.
-
-
-#### EAD
-
-Forkortelse på European Assessment Document (europeisk bedømmelsesdokument på norsk)
-
-
-#### ETA
-
-Forkortelse på European Technical Assessment (europeisk teknisk bedømmelse på norsk)
-
-
-#### EOTA
-
-European Organisation for Technical Assessment (europeisk organisasjon for tekniske bedømmelser) er den europeiske organisasjonen for tekniske bedømmelser av byggevarer. EOTA koordinerer arbeidet for tekniske vurderingsorganer (TABs) i Europa (jf. byggevareforordningen artikkel 31).
-
-
-#### Europeisk teknisk bedømmelse
-
-Europeiske tekniske bedømmelser sikrer den frivillige CE-merkingen av byggevarer. For byggevarer som ikke er dekket av en harmonisert produktstandard kan produsent velge å CE-merke sine byggevarer ved å skaffe seg en europeisk teknisk bedømmelse. For det skal produsent ta kontakt med et europeisk bedømmelsesorgan, utpekt nasjonalt av myndighetene i EØS-området. I Norge er SINTEF utnevnt som europeiske bedømmelsesorgan. Listen over alle gjeldende europeiske tekniske bedømmelser finner du på EOTA sin hjemmeside nettsider.
-
-
-#### Europeiske bedømmelsesdokument
-
-Europeiske tekniske bedømmelser er, i tillegg til harmoniserte produktstandarder, en harmonisert teknisk spesifikasjon. Det er på bakgrunn av europeiske bedømmelsesdokumenter, at europeiske bedømmelsesorgan kan utstede europeiske tekniske bedømmelser: Dersom en produsent ber om en europeisk bedømmelse, skal et europeisk bedømmelsesdokument utarbeides og fremlegges av et teknisk bedømmelsesorgan.
-
-
-#### Farlige stoffer
-
-CE-merkingen av byggevarer skal, der det er mulig, etterfølges av informasjon om skadelige stoffer i byggevarene for slik å øke muligheten for bærekraftig bygging, samt for å støtte opp under utviklingen av miljøvennlige produkter. Slik informasjon skal i utgangspunktet gis for stoffer som er referert i EUs kjemikalieregelverk REACH.
-
-
-#### Framstilling
-
-Lage eller produsere.
-
-
-#### Grunnleggende krav til byggverk
-
-Byggverk skal oppfylle grunnleggende krav (heretter GK) med hensyn til mekanisk motstandsevne og stabilitet (GK 1), brannsikkerhet (GK2), hygiene, helse og miljø (GK3), sikkerhet og tilgjengelighet ved bruk (GK4), vern mot støy (GK 5), energiøkonomisering og varmeisolering (GK 6), bærekraftig bruk av naturressurser (GK 7). Dette er de grunnleggende krav til byggverk, som byggevarer skal vurderes opp mot.
-
-Vær oppmerksom på at disse grunnleggende kravene er abstrakte, brukere må alltid sjekke om byggevaren medvirker til at byggverk oppfyller
-
-
-#### Harmoniserte produktstandarder
-
-En standard vedtatt av et av de europeiske standardiseringsorganer oppført i vedlegg I til direktiv 98/34/EF på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv.
-
-
-#### Harmoniserte tekniske spesifikasjoner
-
-Harmoniserte produktstandarder og europeiske bedømmelsesdokumenter
-
-
-#### Importører
-
-Enhver fysisk eller juridisk person etablert i EØS-området som markedsfører en byggevare produsert utenfor EØS-området.
-
-
-#### IYA
-
-Står for ingen ytelse angitt.
-
-
-#### ISO 9001-sertifikat
-
-Et ISO 9001-sertifikat viser at bedriftens kvalitetsstyringssystem er sertifisert etter
-
-
-#### Klasser
-
-En rekke nivåer, avgrenset ved en laveste og høyeste verdi for en byggevares ytelse.
-
-
-#### Kontaktpunkt for byggevarer
-
-Medlemsstatene må opprette et nasjonalt kontaktpunkt som skal gi lett tilgjengelig produktinformasjon om byggevarer og bruken av dem. Tjenesten skal være kostnadsfri.
-
-Nærings- og fiskeridepartementet har inntil videre påtatt seg ansvaret for å ivareta oppgaven som nasjonalt varekontaktpunkt for alle handelsvarer, inkludert byggevarer.
-
-
-#### Markedsdeltaker
-
-Produsent, autorisert representant, importør, og distributør.
-
-
-#### Overtredelsesgebyr
-
-En økonomisk forpliktelse som har som formål å virke som sanksjon for brudd på en pliktbestemmelse i lov, forskrift eller enkeltvedtak (som for eksempel direktoratets pålegg).
-
-
-#### Produktdokumentasjon
-
-Produktdokumentasjon er en fremstilling av informasjon om produktets egenskaper og ytelser.
-
-
-#### Produksjonskontroll i fabrikk
-
-Dokumentert løpende intern kontroll av produksjonen i en fabrikk .
-
-
-#### Produkttype
-
-Et sett representative ytelsesnivåer eller klasser for en byggevare med hensyn til dens vesentlige egenskaper, som produseres ved bruk av en gitt kombinasjon av råmaterialer eller andre elementer i en bestemt produksjonsprosess,
-
-
-#### Produsent
-
-Enhver fysisk eller juridisk person som produserer en byggevare eller får en slik vare konstruert eller produsert, eller som markedsfører denne varen under sitt navn eller varemerke
-
-
-#### NANDO-base
-
-Nettside drevet av Europakommisjonen. NANDO står for New Approach Directives . NANDO-basen inneholder informasjon om alle relevante harmoniserte produktstandarder, alle vedtak fra Kommisjonen som fastsetter hvilke systemer for vurdering og verifikasjon av byggevarers egenskaper som gjelder per produktgruppe, og en oversikt over alle utpekte tekniske kontrollorgan og tekniske bedømmelsesorgan i EØS-området.
-
-
-#### NPD
-
-NPD står for ”No Performance Determined”
-
-
-#### REACH
-
-REACH står for registrering, evaluering, godkjenning og restriksjoner av kjemiske stoffer (Registration, Evaluation, Authorisation and Restriction of Chemical substances). Kjemikalieregelverket REACH er tatt inn i EØS-avtalen og er gjennomført i REACH-forskriften. Miljødirektoratet er ansvarlig nasjonal myndighet i Norge.
-
-
-#### Samsvarsvurderingsorgan
-
-Samsvarsvurderingsorgan omfatter tekniske kontrollorgan (CE-merkede produkter til byggverk) og andre tredjepartsorgan involvert dokumentasjon av ikke CE-merkede byggevarer.
-
-
-#### Systemer for vurdering og verifikasjon av byggevarers egenskaper/ytelser
-
-Samsvarsvurderingsorgan omfatter tekniske kontrollorgan (CE-merkede produkter til byggverk) og andre tredjepartsorgan involvert dokumentasjon av ikke CE-merkede byggevarer.
-
-
-#### TAB
-
-Står for Technical Assessment Body – teknisk bedømmelsesorgan.
-
-
-#### TEK10
-
-Forkortelse for byggteknisk forskrift.
-
-
-#### Teknisk dokumentasjon
-
-Som grunnlag for ytelseserklæringen, må produsenten utarbeide en teknisk dokumenta­sjon som beskriver relevante elementer relatert til ytelsesvurderingen og verifiseringen.
-
-
-#### Teknisk kontrollorgan
-
-Et teknisk kontrollorgan (TKO) er et uavhengig organ som er utpekt av myndighetene i EØS-landene. Kontrollorganene utfører kontroll og testing av byggevarer, og utsteder også samsvarsvurderinger i tråd med den enkelte harmoniserte tekniske spesifikasjonen.
-
-
-#### Terskler
-
-Laveste eller høyeste ytelsesnivå med hensyn til vesentlig egenskap ved en byggevare.
-
-
-#### Teknisk spesifikasjon
-
-En teknisk spesifikasjon er et dokument som fastsetter tekniske krav som en byggevare skal oppfylle.
-
-
-#### Tilbakekalling
-
-Alle tiltak som tar sikte på å oppnå retur av en byggevare som allerede er gjort tilgjengelig for sluttbrukeren.
-
-
-#### Tilbaketrekking
-
-Ethvert tiltak som tar sikte på å hindre at en byggevare i forsyningskjeden blir gjort tilgjengelig på markedet.
-
-
-#### TKO
-
-Forkortelse for tekniske kontrollorgan.
-
-
-#### Tvangsmulkt
-
-En økonomisk forpliktelse som har til formål å sikre at markedsdeltakere etterlever lover, forskrifter eller enkeltvedtak.
-
-
-#### Ytelseserklæring
-
-Ytelseserklæring er et A-4 dokument som inneholder strukturerte opplysninger om byggevaren. Gjennom ytelseserklæringen tar produsenten ansvar for at produktet oppfyller ytelsen som angitt i erklæringen. Ytelseserklæring skal være på norsk, svensk eller dansk. Den kan enten ledsage byggevaren i papirform, eller sendes elektronisk eller publiseres på produsentens nettside.
-
+| Definisjon | Beskrivelse |
+| --- | --- |
+| Autorisert representant | Enhver fysisk eller juridisk person etablert i Unionen som har fått skriftlig fullmakt fra en produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaver (oppbevare dokumentasjon, svare til og samarbeide med tilsynsmyndighet). Fullmakten kan ikke innebærer utarbeidelse av dokumentasjon. |
+| Byggevare | Enhver vare og ethvert byggesett som er produsert og bragt i omsetning med sikte på å inngå permanent i byggverk eller deler av byggverk, og hvis ytelse påvirker byggverkets ytelse når det gjelder de grunnleggende krav til byggverket. |
+| Byggesett | En byggevare som bringes i omsetning av en enkelt produsent som en enhet bestående av minst to separate deler som må settes sammen for å skulle inngå i byggverket. |
+| Byggevareinfo.no | Direktoratets nettside som gir informasjon om hvorfor og hvordan man skal vurdere og angi byggevarens egenskaper. |
+| Byggevarers vesentlige egenskaper | De egenskaper ved byggevaren som gjelder de grunnleggende krav til byggverk. |
+| Byggevarens ytelser | Ytelsen knyttet til de relevante vesentlige egenskaper uttrykt som nivå eller klasse eller ved hjelp av en beskrivelse. |
+| Bærekraft | Bærekraft innføres som et nytt grunnleggende krav til byggverk. Kravet innebærer at byggverk skal konstrueres, oppføres og rives på en slik måte at naturressurser anvendes på en bæredyktig måte. Dette betyr å sikre gjenvinning av byggverk, materialer og deler etter riving, en sikring av byggverkenes holdbarhet og anvendelse av miljøkompatible råmaterialer og sekundære materialer i byggverkene. |
+| CEN | CEN står for Comité européen de normalisation (European Committee for Standardization). |
+| CE-merking | CE står for ”Communauté Européenne”. CE-merkingen er bekreftelse på at byggevaren oppfyller byggevareforordningens krav. CE-merkede byggevarer skal derfor kunne omsettes i hele EØS-området. |
+| Distributør | Enhver fysisk eller juridisk person i forsyningskjeden, bortsett fra produsenten eller importøren, som gjør byggevaren tilgjengelig på markedet. |
+| EAD | Forkortelse på European Assessment Document (europeisk bedømmelsesdokument på norsk) |
+| ETA | Forkortelse på European Technical Assessment (europeisk teknisk bedømmelse på norsk) |
+| EOTA | European Organisation for Technical Assessment (europeisk organisasjon for tekniske bedømmelser) er den europeiske organisasjonen for tekniske bedømmelser av byggevarer. EOTA koordinerer arbeidet for tekniske vurderingsorganer (TABs) i Europa (jf. byggevareforordningen artikkel 31). |
+| Europeisk teknisk bedømmelse | Europeiske tekniske bedømmelser sikrer den frivillige CE-merkingen av byggevarer. For byggevarer som ikke er dekket av en harmonisert produktstandard kan produsent velge å CE-merke sine byggevarer ved å skaffe seg en europeisk teknisk bedømmelse. For det skal produsent ta kontakt med et europeisk bedømmelsesorgan, utpekt nasjonalt av myndighetene i EØS-området. I Norge er SINTEF utnevnt som europeiske bedømmelsesorgan. Listen over alle gjeldende europeiske tekniske bedømmelser finner du på EOTA sin hjemmeside nettsider. |
+| Europeiske bedømmelsesdokument | Europeiske tekniske bedømmelser er, i tillegg til harmoniserte produktstandarder, en harmonisert teknisk spesifikasjon. Det er på bakgrunn av europeiske bedømmelsesdokumenter, at europeiske bedømmelsesorgan kan utstede europeiske tekniske bedømmelser: Dersom en produsent ber om en europeisk bedømmelse, skal et europeisk bedømmelsesdokument utarbeides og fremlegges av et teknisk bedømmelsesorgan. |
+| Farlige stoffer | CE-merkingen av byggevarer skal, der det er mulig, etterfølges av informasjon om skadelige stoffer i byggevarene for slik å øke muligheten for bærekraftig bygging, samt for å støtte opp under utviklingen av miljøvennlige produkter. Slik informasjon skal i utgangspunktet gis for stoffer som er referert i EUs kjemikalieregelverk REACH. |
+| Framstilling | Lage eller produsere. |
+| Grunnleggende krav til byggverk | Byggverk skal oppfylle grunnleggende krav (heretter GK) med hensyn til mekanisk motstandsevne og stabilitet (GK 1), brannsikkerhet (GK2), hygiene, helse og miljø (GK3), sikkerhet og tilgjengelighet ved bruk (GK4), vern mot støy (GK 5), energiøkonomisering og varmeisolering (GK 6), bærekraftig bruk av naturressurser (GK 7). Dette er de grunnleggende krav til byggverk, som byggevarer skal vurderes opp mot. Vær oppmerksom på at disse grunnleggende kravene er abstrakte, brukere må alltid sjekke om byggevaren medvirker til at byggverk oppfyller [byggteknisk forskrift.](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17) |
+| Harmoniserte produktstandarder | En standard vedtatt av et av de europeiske standardiseringsorganer oppført i vedlegg I til direktiv 98/34/EF på grunnlag av en anmodning fra Kommisjonen i samsvar med artikkel 6 i nevnte direktiv. |
+| Harmoniserte tekniske spesifikasjoner | Harmoniserte produktstandarder og europeiske bedømmelsesdokumenter |
+| Importører | Enhver fysisk eller juridisk person etablert i EØS-området som markedsfører en byggevare produsert utenfor EØS-området. |
+| IYA | Står for ingen ytelse angitt. |
+| ISO 9001-sertifikat | Et ISO 9001-sertifikat viser at bedriftens kvalitetsstyringssystem er sertifisert etter [NS-EN ISO 9001 – Systemer for kvalitetsstyring – Krav.](https://online.standard.no/ns-en-iso-9001-2015) |
+| Klasser | En rekke nivåer, avgrenset ved en laveste og høyeste verdi for en byggevares ytelse. |
+| Kontaktpunkt for byggevarer | Medlemsstatene må opprette et nasjonalt kontaktpunkt som skal gi lett tilgjengelig produktinformasjon om byggevarer og bruken av dem. Tjenesten skal være kostnadsfri. [Listen over kontaktpunktene finner du her.](https://ec.europa.eu/growth/single-market/goods/free-movement-sectors/mutual-recognition/contacts-list_en) Nærings- og fiskeridepartementet har inntil videre påtatt seg ansvaret for å ivareta oppgaven som nasjonalt varekontaktpunkt for alle handelsvarer, inkludert byggevarer. |
+| Markedsdeltaker | Produsent, autorisert representant, importør, og distributør. |
+| Overtredelsesgebyr | En økonomisk forpliktelse som har som formål å virke som sanksjon for brudd på en pliktbestemmelse i lov, forskrift eller enkeltvedtak (som for eksempel direktoratets pålegg). |
+| Produktdokumentasjon | Produktdokumentasjon er en fremstilling av informasjon om produktets egenskaper og ytelser. |
+| Produksjonskontroll i fabrikk | Dokumentert løpende intern kontroll av produksjonen i en fabrikk . |
+| Produkttype | Et sett representative ytelsesnivåer eller klasser for en byggevare med hensyn til dens vesentlige egenskaper, som produseres ved bruk av en gitt kombinasjon av råmaterialer eller andre elementer i en bestemt produksjonsprosess, |
+| Produsent | Enhver fysisk eller juridisk person som produserer en byggevare eller får en slik vare konstruert eller produsert, eller som markedsfører denne varen under sitt navn eller varemerke |
+| NANDO-base | Nettside drevet av Europakommisjonen. NANDO står for New Approach Directives . NANDO-basen inneholder informasjon om alle relevante harmoniserte produktstandarder, alle vedtak fra Kommisjonen som fastsetter hvilke systemer for vurdering og verifikasjon av byggevarers egenskaper som gjelder per produktgruppe, og en oversikt over alle utpekte tekniske kontrollorgan og tekniske bedømmelsesorgan i EØS-området. |
+| NPD | NPD står for ”No Performance Determined” |
+| REACH | REACH står for registrering, evaluering, godkjenning og restriksjoner av kjemiske stoffer (Registration, Evaluation, Authorisation and Restriction of Chemical substances). Kjemikalieregelverket REACH er tatt inn i EØS-avtalen og er gjennomført i REACH-forskriften. Miljødirektoratet er ansvarlig nasjonal myndighet i Norge. |
+| Samsvarsvurderingsorgan | Samsvarsvurderingsorgan omfatter tekniske kontrollorgan (CE-merkede produkter til byggverk) og andre tredjepartsorgan involvert dokumentasjon av ikke CE-merkede byggevarer. |
+| Systemer for vurdering og verifikasjon av byggevarers egenskaper/ytelser | Samsvarsvurderingsorgan omfatter tekniske kontrollorgan (CE-merkede produkter til byggverk) og andre tredjepartsorgan involvert dokumentasjon av ikke CE-merkede byggevarer. |
+| TAB | Står for Technical Assessment Body – teknisk bedømmelsesorgan. |
+| TEK10 | Forkortelse for byggteknisk forskrift. |
+| Teknisk dokumentasjon | Som grunnlag for ytelseserklæringen, må produsenten utarbeide en teknisk dokumenta­sjon som beskriver relevante elementer relatert til ytelsesvurderingen og verifiseringen. |
+| Teknisk kontrollorgan | Et teknisk kontrollorgan (TKO) er et uavhengig organ som er utpekt av myndighetene i EØS-landene. Kontrollorganene utfører kontroll og testing av byggevarer, og utsteder også samsvarsvurderinger i tråd med den enkelte harmoniserte tekniske spesifikasjonen. |
+| Terskler | Laveste eller høyeste ytelsesnivå med hensyn til vesentlig egenskap ved en byggevare. |
+| Teknisk spesifikasjon | En teknisk spesifikasjon er et dokument som fastsetter tekniske krav som en byggevare skal oppfylle. |
+| Tilbakekalling | Alle tiltak som tar sikte på å oppnå retur av en byggevare som allerede er gjort tilgjengelig for sluttbrukeren. |
+| Tilbaketrekking | Ethvert tiltak som tar sikte på å hindre at en byggevare i forsyningskjeden blir gjort tilgjengelig på markedet. |
+| TKO | Forkortelse for tekniske kontrollorgan. |
+| Tvangsmulkt | En økonomisk forpliktelse som har til formål å sikre at markedsdeltakere etterlever lover, forskrifter eller enkeltvedtak. |
+| Ytelseserklæring | Ytelseserklæring er et A-4 dokument som inneholder strukturerte opplysninger om byggevaren. Gjennom ytelseserklæringen tar produsenten ansvar for at produktet oppfyller ytelsen som angitt i erklæringen. Ytelseserklæring skal være på norsk, svensk eller dansk. Den kan enten ledsage byggevaren i papirform, eller sendes elektronisk eller publiseres på produsentens nettside. |
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste/) av norges-lover-bot.*
@@ -265,3 +247,4 @@ Ytelseserklæring er et A-4 dokument som inneholder strukturerte opplysninger om
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

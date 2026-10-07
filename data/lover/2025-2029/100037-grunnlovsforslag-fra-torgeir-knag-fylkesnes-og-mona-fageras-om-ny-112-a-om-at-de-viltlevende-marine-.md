@@ -1,4 +1,4 @@
-<!-- innholds-hash: f279e287fb51c52864c4349c97e71078801f509665df0890be1b5040b47ef72e -->
+<!-- innholds-hash: 4044082e307951b6ba947909e2fafe2468d63b2cab2029444752b75477710fce -->
 
 # Grunnlovsforslag fra Torgeir Knag Fylkesnes og Mona Fagerås om ny § 112 a (om at de viltlevende marine ressursene tilhører fellesskapet og skal komme kystsamfunnene til gode)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100037
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -76,7 +76,27 @@
   },
   "korttittel": "Grunnlovsforslag om ny § 112 a (om at de viltlevende marine ressursene tilhører fellesskapet og skal komme kystsamfunnene til gode)",
   "sak_fremmet_id": 100037,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sandnes",
+      "foedselsdato": "/Date(-19965600000+0200)/",
+      "fornavn": "Kari Baadstrand",
+      "id": "KARSAN",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "No",
+        "navn": "Nordland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsforslag fra Torgeir Knag Fylkesnes og Mona Fagerås om ny § 112 a (om at de viltlevende marine ressursene tilhører fellesskapet og skal komme kystsamfunnene til gode)",
@@ -89,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7a1e195f402fc9e59ae3ef9a07ba57101dfebada05f569049ce366dcaa283f8b -->
+<!-- innholds-hash: b594cbedf3fb7f3a66ff6067f558aa573f3139487f707f967a7443138569a62a -->
 
 # Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200343
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -152,7 +152,27 @@
   },
   "korttittel": "Representantforslag om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte",
   "sak_fremmet_id": 200343,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sjursæther",
+      "foedselsdato": "/Date(1149717600000+0200)/",
+      "fornavn": "Frøya Skjold",
+      "id": "FRYSJU",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte",
@@ -351,4 +371,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ccfea7eddaf86a88b117ac2c358969aabe1fd801d7d678a6f030b5c97dfbe1ef -->
+<!-- innholds-hash: 1b67957cfc2740f681a84e75ca78aa49f2962b775f57ca83b9d6048be856852b -->
 
 # Grunnlovsforslag fra Masud Gharahkhani, Svein Harberg, Nils T. Bjørke, Morten Wold, Kari Henriksen og Ingrid Fiskaa om endring i Grunnlovens tittel og i §§ 2, 3, 6, 9, 13, 16, 17, 21, 26, 28, 30, 45, 67, 74, 80, 86, 88, 90, 114, 115 og 121 (om retting av språklige feil og inkonsistenser)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100009
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -152,7 +152,27 @@
   },
   "korttittel": "Grunnlovsforslag om endring i Grunnlovens tittel og i §§ 2, 3, 6, 9, 13, 16, 17, 21, 26, 28, 30, 45, 67, 74, 80, 86, 88, 90, 114, 115 og 121 (om retting av språklige feil og inkonsistenser)",
   "sak_fremmet_id": 100009,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Borgli",
+      "foedselsdato": "/Date(-65667600000+0100)/",
+      "fornavn": "Pål Morten",
+      "id": "PAMB",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsforslag fra Masud Gharahkhani, Svein Harberg, Nils T. Bjørke, Morten Wold, Kari Henriksen og Ingrid Fiskaa om endring i Grunnlovens tittel og i §§ 2, 3, 6, 9, 13, 16, 17, 21, 26, 28, 30, 45, 67, 74, 80, 86, 88, 90, 114, 115 og 121 (om retting av språklige feil og inkonsistenser)",
@@ -165,3 +185,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

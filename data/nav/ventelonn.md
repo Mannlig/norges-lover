@@ -1,31 +1,25 @@
-<!-- innholds-hash: 71753cc6abebd48e14f3dd822e18789304ea14ba22e6f48292fa7f8895bb148d -->
+<!-- innholds-hash: 3756fe3237d0ec8f94ddfc4a4abeb28f821efbb5fd2b7faa1c3defaefc58cca8 -->
 
 # Ventelønn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ventelonn
-- **Sist hentet:** 2026-07-21T12:35:40Z
+- **Sist oppdatert i arkivet:** 2026-10-07T01:05:01Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Ventelønn
 
-Ventelønn er en ordning for ansatte i statlige virksomheter som har blitt uforskyldt oppsagt. Ordningen er bare aktuell hvis du allerede får ventelønn.
+Ventelønn er en ordning for ansatte i statlige virksomheter som har blitt uforskyldt oppsagt. Ordningen er bare aktuell hvis du allerede får ventelønn.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Ordningen med ventelønn blir faset ut, ingen nye personer kan få ventelønn.
 
 Personer som har fått innvilget ventelønn før 29. februar 2016, beholder retten til ventelønn etter gjeldende regler.
-
 
 #### Hva er kravene til få ventelønn?
 
@@ -34,29 +28,42 @@ Du må være ansatt i staten og ha blitt oppsagt fordi
 - stillingen er inndratt eller arbeidsoppgavene har falt bort, eller fordi
 - du på grunn av sykdom er varig uskikket til å utføre jobben din på en forsvarlig måte, eller
 - du ikke lenger har de kvalifikasjonene som stillingen krever
+
 Videre er kravet at du
 
 - har minst 2 års tjeneste i staten som fast ansatt tjenestemann
 - har minst 4 års tjeneste i staten som midlertidig ansatt tjenestemann
 - ikke har funnet annet arbeid internt eller eksternt
 - ikke har rett til å ta ut pensjon, det gjelder også avtalefestet pensjon (AFP)
-- er
-- er
+- er [registrert hos Nav som arbeidssøker](https://www.nav.no/arbeid/registrering/)
+- [sender meldekort](https://www.nav.no/send-meldekort)
+- er [reell arbeidssøker](https://www.nav.no/dagpenger)
+
+### Hva kan du få?
+
+#### Hvor mye kan du få?
+
 Full ventelønn tilsvarer 66 prosent av stillingens lønn når du fratrer.
 
-Det er en forutsetning at du ville ha oppnådd 30 års tjenestetid i staten hvis du hadde stått i stillingen fram til den aldersgrensen som gjelder for stillingen.
+Det er en forutsetning at du ville ha oppnådd 30 års tjenestetid i staten hvis du hadde stått i stillingen fram til den aldersgrensen som gjelder for stillingen.
 
 Hvis du ved aldersgrensen ikke ville ha oppnådd 30 års tjenestetid, blir ventelønnen redusert forholdsmessig.
+
+#### Dagpenger og ventelønn
 
 Vanligvis kan du ikke motta dagpenger samtidig med ventelønn, men du kan få supplerende dagpenger fra Nav samtidig med ventelønn hvis dagpenger ville gitt deg en høyere utbetaling enn ventelønn.
 
 Ventelønn gir ikke opptjeningsgrunnlag for senere utbetaling av dagpenger.
+
+#### Regulering av ventelønn
 
 Ventelønnen blir regulert ut fra det sentrale lønnsoppgjøret i staten hvert år.
 
 Hvis stillingens lønnsplassering blir endret etter at du har fratrådte stillingen, blir det ikke tatt hensyn til.
 
 Det samme gjelder for arbeidstakere fra omdannede virksomheter. Ventelønn blir regulert ut fra lønnsoppgjøret i staten hvert år, og det statlige lønnsregulativet gjelder, selv om du ble avlønnet i et annet system da du fratrådte stillingen.
+
+#### Hvor lenge kan du få?
 
 Ventelønn blir som hovedregel innvilget for 1 år av gangen. Du må altså søke på nytt hvert år, og Nav gjør en ny vurdering. Nav Ventelønn sender ut en påminnelse og et søknadsskjema i god tid før du skal søke på nytt.
 
@@ -67,6 +74,7 @@ Hvis du fratrer
 - før fylte 50 år, er maksimal tid 3 år
 - fra 50 til og med 54 år, er maksimal tid 4 år
 - fra fylte 55 år, er maksimal tid 12 år
+
 Du kan maksimalt få utbetalt ventelønn fram til du går av med pensjon.
 
 Hvis du er ansatt i staten og blir oppsagt eller har fått varsel om oppsigelse, kan du hevde fortrinnsrett til en annen stilling i staten.
@@ -81,8 +89,7 @@ Du kan ikke hevde fortrinnsrett til høyere stillinger og/eller stillinger som h
 
 Hvis du er arbeidsgiver, skal du informere arbeidstakerne dine om fortrinnsretten.
 
-Henvend deg til Kommunal- og distriktsdepartementet hvis du har
-
+Henvend deg til Kommunal- og distriktsdepartementet hvis du har [spørsmål om fortrinnsretten](https://www.regjeringen.no/no/tema/arbeidsliv/Statlig-arbeidsgiverpolitikk/omstilling-i-staten/id2076349/).
 
 #### Slik hevder du fortrinnsrett til en stilling i staten
 
@@ -90,7 +97,7 @@ Søk stillingen på vanlig måte og vis til at du har fortrinnsrett.
 
 Legg ved kopi av overtallighetsattest.
 
-Send samtidig en fullstendig kopi av søknaden, vedlegg samt stillingskunngjøringen til: Kommunal- og distriktsdepartementet, Arbeidsgiverpolitisk avdeling, postboks 8112 Dep,0032 Oslo
+Send samtidig en fullstendig kopi av søknaden, vedlegg samt stillingskunngjøringen til: Kommunal- og distriktsdepartementet, Arbeidsgiverpolitisk avdeling, postboks 8112 Dep,0032 Oslo
 
 Hvis du ikke lenger oppfyller vilkårene for å motta ventelønn, stanser Nav utbetalingen. Dette gjelder også hvis du ikke gjør de aktivitetene som du har avtalt med Nav for å komme i jobb.
 
@@ -106,7 +113,7 @@ Du har som hovedregel ikke rett på ventelønn hvis du
 
 #### Krav om å være reell arbeidssøker
 
-For å fylle vilkårene for å få ventelønn, må du være reell arbeidssøker.
+For å fylle vilkårene for å få ventelønn, må du være reell arbeidssøker.
 
 Du må aktivt søke arbeid selv. Nav kan pålegge arbeidssøkere som mottar stønader å gjennomføre ulike jobbsøkingsaktiviteter.
 
@@ -121,6 +128,7 @@ Du mister også retten til ventelønn hvis du uten rimelig grunn nekter å
 - motta tilbud om arbeid uavhengig av om det er heltids- eller deltidsarbeid
 - delta på tiltak for å komme i jobb
 - møte hos Nav etter å ha blitt kalt inn
+
 Nav vurderer hva som kan være rimelig grunn til å nekte å oppfylle de kravene som er nevnt over. Som hovedregel må du være villig til å søke og ta i mot arbeid du får tilbud om.
 
 Hvis Nav vurderer at du uten rimelig grunn nekter å oppfylle et av kravene som er nevnt over, mister du midlertidig retten til ventelønn i
@@ -128,7 +136,8 @@ Hvis Nav vurderer at du uten rimelig grunn nekter å oppfylle et av kravene som 
 - 8 uker første gang det skjer
 - 12 uker hvis det skjer 2 ganger innenfor de siste 12 måneder
 - 6 måneder hvis det skjer 3 ganger innenfor de siste 12 måneder
-Midlertidig bortfall av ventelønn berører ikke fortrinnsretten.
+
+Midlertidig bortfall av ventelønn berører ikke fortrinnsretten.
 
 Hvis du mottar ventelønn, kan den bli utbetalt som lønnstilskudd til en arbeidsgiver i staten.
 
@@ -137,7 +146,6 @@ Arbeidsoppgavene skal være ulike typer midlertidig arbeid. Målet skal være å
 Som arbeidstaker vil du motta ordinær lønn fra arbeidsgiveren.
 
 Arbeidet skal være midlertidig med varighet på inntil 3 måneder, med mulighet til å forlenge til 6 måneder. I særlige tilfeller kan det være aktuelt å forlenge ut over 6 måneder. Arbeidsgiver eller du må sende søknad til Nav Ventelønn senest 2 måneder før arbeidsforholdet skal starte.
-
 
 #### Søknaden sendes til:
 
@@ -149,19 +157,23 @@ En tjenestemannsrepresentant i virksomheten må godkjenne og skrive under på av
 
 Ventelønn som lønnstilskudd blir refundert etterskuddsvis.
 
-Du kan bare søke om ventelønn for en ny periode hvis du allerede får ventelønn. Nav vil kontakte  deg hvis dette gjelder deg.
+### Slik søker du periode
 
-Se informasjon
+Du kan bare søke om ventelønn for en ny periode hvis du allerede får ventelønn. Nav vil kontakte deg hvis dette gjelder deg.
+
+Se informasjon [om klagerettigheter](https://www.nav.no/klagerettigheter).
+
+### Når du har ventelønn
+
+#### Når utbetales pengene
 
 Pengene utbetales forskuddsvis den 12. i måneden.
 
-I
-
+I [din utbetalingsoversikt](https://tjenester.nav.no/utbetalingsoversikt/) kan du se utbetalingen på kvelden den dagen pengene er utbetalt.
 
 #### Feriepenger
 
 Det er ikke feriepenger på denne pengestøtten.
-
 
 #### Skatt
 
@@ -169,24 +181,28 @@ Det blir trukket skatt av pengene.
 
 Det blir ikke trukket skatt i juni. I desember blir det trukket halv skatt.
 
-Hvis du betaler Svalbardskatt eller
+Hvis du betaler Svalbardskatt eller [kildeskatt](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/bosatt-i-utlandet/kildeskatt/mottar-du-kildeskatt-pa-pensjon-og-uforeytelser/), er det ordinært skattetrekk i juni og desember.
 
-Mer om
+Mer om [skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
 
-Hvis du får endringer i inntekt, familiesituasjon og/eller jobbsituasjon, eller planlegger opphold i utlandet, kan det ha betydning for beløpet du får utbetalt fra Nav. I slike tilfeller må du derfor straks
+#### Meld fra om endringer
+
+Hvis du får endringer i inntekt, familiesituasjon og/eller jobbsituasjon, eller planlegger opphold i utlandet, kan det ha betydning for beløpet du får utbetalt fra Nav. I slike tilfeller må du derfor straks [melde fra til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endringer-ventelonn).
 
 Hvis du har hatt inntekt, skal du rapportere for den måneden du har arbeidet.
 
 Send beskjed om endringer
 
-- på e-post nav.ventelonn@nav.no, eller
-- send brev i posten til Nav Ventelønn, postboks 6944 St. Olavs plass, 0130 Oslo
-Har du ventelønn og hadde biinntekt før du sluttet i stillingen? Du må ha hatt biinntekten før du mottok varsel om oppsigelse, for å ikke få redusert ventelønnen.
+- på e-post nav.ventelonn@nav.no, eller
+- send brev i posten til Nav Ventelønn, postboks 6944 St. Olavs plass, 0130 Oslo
+
+Har du ventelønn og hadde biinntekt før du sluttet i stillingen? Du må ha hatt biinntekten før du mottok varsel om oppsigelse, for å ikke få redusert ventelønnen.
 
 Ta kontakt med Nav
 
-- på e-post nav.ventelonn@nav.no, eller
-- send brev i posten til Nav Ventelønn, postboks 6944 St. Olavs plass, 0130 Oslo
+- på e-post nav.ventelonn@nav.no, eller
+- send brev i posten til Nav Ventelønn, postboks 6944 St. Olavs plass, 0130 Oslo
+
 Hvis du får for mye utbetalt ventelønn, vil du få krav om tilbakebetaling hvis du selv med vilje eller ved uaktsomhet ikke opplyser om forhold som kan ha betydning for utbetalingen din.
 
 Det samme gjelder hvis Nav er skyld i en feilutbetaling av ventelønn, og du burde ha oppdaget dette.
@@ -195,17 +211,15 @@ Får du ventelønn uten å ha rett til det, og er klar over det eller har handle
 
 Som hovedregel kan du ikke motta ventelønn under utdanning eller sykdom. Du kan ta ferie i inntil 3 uker per kalenderår mens du mottar ventelønn.
 
-
 #### Utdanning
 
 Som hovedregel kan du ikke motta ventelønn samtidig som du tar ordinær utdanning på dagtid. Unntak er blant annet kurs i regi av eller i samarbeid med Nav (arbeidsmarkedskurs).
 
-Du kan likevel i særlige tilfeller søke Nav om å få ta annen utdanning sammen med ventelønn. Men ventelønn er en jobbsøkerstønad og ingen studiefinansiering, så praksis for å få godkjent utdanning mens du mottar ventelønn er streng.
+Du kan likevel i særlige tilfeller søke Nav om å få ta annen utdanning sammen med ventelønn. Men ventelønn er en jobbsøkerstønad og ingen studiefinansiering, så praksis for å få godkjent utdanning mens du mottar ventelønn er streng.
 
 Du må sende søknad om å få godkjent utdanning til Nav Ventelønn senest 2 måneder før planlagt studiestart. Send søknaden til
 
 Nav Ventelønn, postboks 6944 St. Olavs plass, 0130 Oslo
-
 
 #### Sykdom
 
@@ -216,9 +230,9 @@ Hvis du er sykmeldt over lengre tid, blir utbetaling av ventelønn stanset. Utbe
 Når du blir sykmeldt må du snarest sende
 
 - kopi av sykemeldingen til Nav Ventelønn
-- krav om sykepenger til Nav. Les mer om
-Når du blir friskmeldt må du snarest sende friskmelding til Nav Ventelønn.
+- krav om sykepenger til Nav. Les mer om [hvor sykmeldingen skal sendes](https://www.nav.no/sykepenger#soknad).
 
+Når du blir friskmeldt må du snarest sende friskmelding til Nav Ventelønn.
 
 #### Ferie
 
@@ -226,31 +240,42 @@ Du kan ta ferie i inntil 3 uker per kalenderår mens du mottar ventelønn. I den
 
 Du har anledning til å ta ut mer enn 3 uker ferie, men du får bare utbetalt ventelønn for 3 uker.
 
-For å få utbetalt ventelønn i ferien, må du
+For å få utbetalt ventelønn i ferien, må du [ta kontakt med Nav](https://www.nav.no/person/kontakt-oss/nb) før du reiser på ferie.
 
 Ventelønn gir ikke opptjening av feriepenger.
 
-Oppdatert 05.12.2025
+### Hva sier loven?
 
+- [Forskrift til tjenestemannsloven (lovdata.no)](https://lovdata.no/dokument/SFO/forskrift/1983-11-11-1608/%C2%A712#%C2%A712)
+- [Folketrygden (lovdata.no)](https://lovdata.no/nav/folketrygdloven/KAPITTEL_5-4-7)
 
-#### Chat med oss
+Oppdatert 05.12.2025
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
+Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/ventelonn) av norges-lover-bot.*
@@ -264,3 +289,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)

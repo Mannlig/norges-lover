@@ -1,4 +1,4 @@
-<!-- innholds-hash: daf7a2d7d497367572682dcba71aa22de838147b7356d9ec8758669f03d7023f -->
+<!-- innholds-hash: f641db4ac9be84f7cbc1fb888c7b2331c4723b2f9ebf723592bfae932074f2bb -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Erlend Larsen, Mahmoud Farahmand, Margret Hagerup, Erna Solberg og Aleksander Stokkebø om raskere og skånsom utbygging av solenergi
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200379
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -152,7 +152,27 @@
   },
   "korttittel": "Representantforslag om raskere og skånsom utbygging av solenergi",
   "sak_fremmet_id": 200379,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sjursæther",
+      "foedselsdato": "/Date(1149717600000+0200)/",
+      "fornavn": "Frøya Skjold",
+      "id": "FRYSJU",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Erlend Larsen, Mahmoud Farahmand, Margret Hagerup, Erna Solberg og Aleksander Stokkebø om raskere og skånsom utbygging av solenergi",
@@ -165,4 +185,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

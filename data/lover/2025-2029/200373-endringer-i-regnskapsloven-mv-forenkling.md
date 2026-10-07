@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4261ed717bc94129b76a2d932657b06fbbac74d79f0632f4080a49b8974e31aa -->
+<!-- innholds-hash: 685e4675c191517066bdf01f71d969c1c1693a7193d5737f0c63b0c8e0b5b002 -->
 
 # Endringer i regnskapsloven mv. (forenkling)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200373
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i regnskapsloven mv. (forenkling)",
   "sak_fremmet_id": 200373,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Grande",
+      "foedselsdato": "/Date(162514800000+0100)/",
+      "fornavn": "Hilde",
+      "id": "HILGRA",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "No",
+        "navn": "Nordland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i regnskapsloven mv. (forenkling)",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

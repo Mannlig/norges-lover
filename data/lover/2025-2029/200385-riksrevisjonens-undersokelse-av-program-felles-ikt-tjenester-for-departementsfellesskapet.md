@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9865085b396cc91496bab0a36030fa287928e62c5e3ead517ad1ec4635cff688 -->
+<!-- innholds-hash: 13739c50644cab3aece4e570067b888499c6ac45cd78eb5d27a55b9597fed153 -->
 
 # Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200385
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet",
   "sak_fremmet_id": 200385,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Pollestad",
+      "foedselsdato": "/Date(271807200000+0200)/",
+      "fornavn": "Geir",
+      "id": "GP",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-21** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

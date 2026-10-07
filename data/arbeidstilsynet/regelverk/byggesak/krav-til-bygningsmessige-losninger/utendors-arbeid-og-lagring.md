@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08b539a08458b60fafdaf3159adfd3165ee3ed07b5c72f72fa20f121dbaa55f8 -->
+<!-- innholds-hash: e9de7727ad0600e0591a05dbf56449ff9b967ff9a76d9a0e113270c2588d19e6 -->
 
 # Krav til utendørs arbeid og lagring
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/utendors-arbeid-og-lagring/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T20:58:58Z
+- **Sist oppdatert i arkivet:** 2026-10-07T02:37:57Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Krav til utendørs arbeid og lagring
 
 Utendørs arbeidsplasser skal ha løsninger som beskytter arbeidstakerne mot skader og sykdom. Dette må tiltakshaver ta hensyn til når arbeidsplassen blir planlagt.
-
 
 ### Generelle krav til utendørs arbeid og lagring
 
@@ -29,39 +35,23 @@ Utendørs arbeidsplasser skal så langt det er mulig være planlagt og innrettet
 
 Ulike bygningsmessige løsninger kan beskytte arbeidstakerne og redusere risikoen for skade, for eksempel mot følgende risikoer:
 
-Beskytt arbeidstakerne mot krevende værforhold ved hjelp av
-
-- levegger som beskytter mot vind
-- tak som beskytter mot sol og nedbør
-- strålevarme som beskytter mot kulde
-- isolerende underlag som beskytter mot kulde fra bakken
-Beskytt arbeidstakerne mot fallende gjenstander ved hjelp av tak og overbygg der det skal utføres arbeid.
-
-Beskytt arbeidstakerne mot fall ved hjelp av sklihemmende underlag eller underlag med varmekabler.
-
-Beskytt arbeidstakerne mot utforkjøring eller velt ved å etablere faste tippesteder for last.
-
-Andre områder som kan innebære særskilt fare for kjøretøy, skal ha sperringer.
-
-Beskytt arbeidstakerne mot helseskadelig støy og kjemisk helsefare ved hjelp av
-
-- bygningsmessig avskjerming
-- inneslutning av maskiner, utstyr og prosesser
-Bekytt arbeidstakerne mot drukningsulykker på kaianlegg ved å utstyre kaianlegget med kaifrontlist, fastmontert stige eller annen innretning som gjør det mulig å komme opp av vannet uten hjelp av andre.
-
-
 ### Regelverk
 
+[Krav til at bygnings- og utstyrsmessige forhold skal være fullt forsvarlige: Arbeidsmiljøloven § 4-4 første ledd](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml/#88623)
+
+[Krav til at kaianlegg skal ha kaifrontlist og fortøyningsfester til fartøy: Arbeidsplassforskriften § 2-20 og forskriftens kommentardel](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85475)
+
+[Krav til vern ved utendørs arbeid og lagring: Arbeidsplassforskriften § 2-24 og forskriftens kommentardel](https://www.arbeidstilsynet.no/regelverk/forskrifter/arbeidsplassforskriften/#85479)
 
 ### Følg gjerne Arbeidstilsynets preaksepterte løsninger
 
 Planlegg og innrett gjerne tiltaket/bygget i samsvar med Arbeidstilsynets preaksepterte (forhåndsgodkjente) løsninger. Da sikrer dere at kravene er oppfylt. Det øker sannsynligheten for å få Arbeidstilsynets samtykke.
 
+[Last ned og se Arbeidstilsynets preaksepterte løsninger i skjemaet for egenerklæring](https://www.arbeidstilsynet.no/regelverk/byggesak/egenerklaring/)
 
-### Fann du det du leitte etter?
+[Søk om Arbeidstilsynets samtykke](https://www.arbeidstilsynet.no/regelverk/byggesak/)
 
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/utendors-arbeid-og-lagring/) av norges-lover-bot.*
@@ -69,3 +59,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

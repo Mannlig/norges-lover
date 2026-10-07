@@ -1,4 +1,4 @@
-<!-- innholds-hash: 91287303483adc2b149127d71d05fe53d54e7d3f5e440452fc6db76253b86346 -->
+<!-- innholds-hash: f6eb72b8d03482b288db87b7b364e9488681816732d565f2ca8d9b297da6baee -->
 
 # Vedlegg I Grunnleggende krav til byggverk
 
@@ -6,94 +6,219 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-18T02:17:03Z
+- **Sist oppdatert i arkivet:** 2026-10-06T22:24:53Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Forskrift om dokumentasjon av byggevarer (DOK)](https://www.dibk.no/regelverk/dok)
+- [Vedlegg I Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav)
 
 ## Forskrift om dokumentasjon av byggevarer (DOK)
 
-
 ### INNHOLD DOK
 
+Søk
+
+[Om veiledningen til DOK](https://www.dibk.no/regelverk/dok)
+
+- I Innledende bestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/i/innledning)
+  - [§ 1. Forskriftens virkeområde](https://www.dibk.no/regelverk/dok/i/1)
+  - [§ 2. Omsetning, markedsføring og distribusjon av produkter](https://www.dibk.no/regelverk/dok/i/2)
+- II Krav til byggevarer som er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/ii/innledning)
+  - [§ 3. Gjennomføring av byggevareforordningen samt delegerte rettsakter og gjennomføringsrettsakter](https://www.dibk.no/regelverk/dok/ii/3)
+  - [§ 3a. Gjennomføring av delegerte rettsakter av teknisk karakter](https://www.dibk.no/regelverk/dok/ii/3a)
+  - [§ 4. Språk i ytelseserklæring](https://www.dibk.no/regelverk/dok/ii/4)
+  - [§ 5. Språk på anvisninger og sikkerhetsinformasjon](https://www.dibk.no/regelverk/dok/ii/5)
+  - [§ 6. Varekontaktpunkt for byggevarer](https://www.dibk.no/regelverk/dok/ii/6)
+  - [§ 7. Teknisk bedømmelsesorgan](https://www.dibk.no/regelverk/dok/ii/7)
+  - [§ 8. Tekniske kontrollorgan etter byggevareforordningen](https://www.dibk.no/regelverk/dok/ii/8)
+- III Krav til byggevarer som ikke er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/iii/innledning)
+  - [§ 9. Virkeområde for kapittel III](https://www.dibk.no/regelverk/dok/iii/9)
+  - [§ 10. Dokumentasjon av vesentlige egenskaper](https://www.dibk.no/regelverk/dok/iii/10)
+  - [§ 11. Markedsdeltakernes plikter](https://www.dibk.no/regelverk/dok/iii/11)
+  - [§ 12. Vurdering og verifikasjon av byggevarers ytelser](https://www.dibk.no/regelverk/dok/iii/12)
+  - [§ 13. Innhold i dokumentasjonen](https://www.dibk.no/regelverk/dok/iii/13)
+  - [§ 14. Gjensidig godkjenning](https://www.dibk.no/regelverk/dok/iii/14)
+- IV Løfteinnretning og varmtvannskjel
+  - [Innledning](https://www.dibk.no/regelverk/dok/iv/innledning)
+  - [§ 15. Virkeområde for kapittel IV](https://www.dibk.no/regelverk/dok/iv/15)
+  - [§ 16. Løfteinnretning](https://www.dibk.no/regelverk/dok/iv/16)
+  - [§ 17. Varmtvannskjel som fyres med flytende eller gassformig brensel](https://www.dibk.no/regelverk/dok/iv/17)
+  - [§ 18. CE-merking av løfteinnretninger og varmtvannskjeler](https://www.dibk.no/regelverk/dok/iv/18)
+  - [§ 19. Teknisk kontrollorgan for løfteinnretninger og varmtvannskjel](https://www.dibk.no/regelverk/dok/iv/19)
+- V Fellesbestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/v/innledning)
+  - [§ 20. Forbud mot villedende informasjon](https://www.dibk.no/regelverk/dok/v/20)
+  - [§ 21. Tilsynsmyndighet](https://www.dibk.no/regelverk/dok/v/21)
+  - [§ 22. Tilsyn med produkter til byggverk](https://www.dibk.no/regelverk/dok/v/22)
+  - [§ 23. Reaksjoner fra tilsynsmyndigheten](https://www.dibk.no/regelverk/dok/v/23)
+  - [§ 24. Overtredelsesgebyr. Gebyrenes størrelse](https://www.dibk.no/regelverk/dok/v/24)
+  - [§ 25. Utmåling av overtredelsesgebyr](https://www.dibk.no/regelverk/dok/v/25)
+  - [§ 26. Gebyr](https://www.dibk.no/regelverk/dok/v/26)
+  - [§ 27. Ikrafttredelse, overgangsbestemmelse og endringer i andre forskrifter](https://www.dibk.no/regelverk/dok/v/27)
+- Vedlegg
+  - [Vedlegg I](https://www.dibk.no/regelverk/dok/i1/vedlegg-i)
+  - [Vedlegg II](https://www.dibk.no/regelverk/dok/i1/vedlegg-ii)
+- Byggevareforordningen
+  - [Byggevareforordningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/byggevareforordningen)
+  - [Fortale](https://www.dibk.no/regelverk/dok/byggevareforordningen/fortale)
+  - [Artikkel 1 Formål](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-1-formal)
+  - [Artikkel 2 Definisjoner](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-2-definisjoner)
+  - [Artikkel 3 Grunnleggende krav til byggverk og byggevarers vesentlige egenskaper](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-3-grunnleggende-krav)
+  - [Artikkel 4 Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-4-ytelseserklaring)
+  - [Artikkel 5 Unntak fra kravet om å utarbeide en ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-5-unntak-fra-kravet-om)
+  - [Artikkel 6 Ytelseserklæringens innhold](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-6-ytelseserklaringens)
+  - [Artikkel 7 Framleggelse av ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-7-framleggelse-av)
+  - [Artikkel 8 Allmenne prinsipper og bruken av CE-merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-8-allmenne-prinsipper)
+  - [Artikkel 9 Regler og vilkår for påføring av CE merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-9-regler-og-vilkar-for)
+  - [Artikkel 10 Kontaktpunkter for byggevarer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-10-kontaktpunkter-for)
+  - [Artikkel 11 Produsentenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes)
+  - [Artikkel 12 Representanter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-12-representanter)
+  - [Artikkel 13 Importørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-13-importorenes)
+  - [Artikkel 14 Distributørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-14-distributorenes)
+  - [Artikkel 15 Tilfeller der produsentenes forpliktelser gjelder for importører og distributører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-15-tilfeller-der)
+  - [Artikkel 16 Identifikasjon av markedsdeltakere](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-16-identifikasjon-av)
+  - [Artikkel 17 Harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-17-harmoniserte)
+  - [Artikkel 18 Formell innvending mot harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-18-formell-innvending)
+  - [Artikkel 19 Europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-19-europeisk)
+  - [Artikkel 20 Prinsipper for utarbeidelse og vedtakelse av europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-20-prinsipper-for)
+  - [Artikkel 21 Forpliktelser for det tekniske bedømmelsesorgan som mottar en anmodning om en europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-21-forpliktelser-for)
+  - [Artikkel 22 Offentliggjøring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-22-offentliggjoring)
+  - [Artikkel 23 Tvisteløsning ved uenighet mellom de tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-23-tvistelosning-ved)
+  - [Artikkel 24 Innholdet i det europeiske bedømmelsesdokumentet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-24-innholdet-i-det)
+  - [Artikkel 25 Formelle innvendinger mot europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-25-formelle)
+  - [Artikkel 26 Europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-26-europeisk-teknisk)
+  - [Artikkel 27 Ytelsesnivåer eller -klasser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-27-ytelsesnivaer-eller)
+  - [Artikkel 28 Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-28-vurdering-og)
+  - [Artikkel 29 Utpeking, overvåking og evaluering av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-29-utpeking)
+  - [Artikkel 30 Krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-30-krav-til-tekniske)
+  - [Artikkel 31 Samordning av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-31-samordning-av)
+  - [Artikkel 32 Unionsfinansiering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-32-unionsfinansiering)
+  - [Artikkel 33 Finansieringsordninger](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-33)
+  - [Artikkel 34 Forvaltning og overvåking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-34-forvaltning-og)
+  - [Artikkel 35 Beskyttelse av Unionens økonomiske interesser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-35-beskyttelse-av)
+  - [Artikkel 36 Bruk av hensiktsmessig teknisk dokumentasjon](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-36-bruk-av)
+  - [Artikkel 37 Svært små foretaks bruk av forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-37-svart-sma-foretaks)
+  - [Artikkel 38 Andre forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-38-andre-forenklede)
+  - [Artikkel 39 Underretning](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-39-underretning)
+  - [Artikkel 40 Utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-40-utpekende)
+  - [Artikkel 41 Krav til utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-41-krav-til-utpekende)
+  - [Artikkel 42 Medlemsstatenes opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-42-medlemsstatenes)
+  - [Artikkel 43 Krav til tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-43-krav-til-tekniske)
+  - [Artikkel 44 Samsvarsvurdering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-44-samsvarsvurdering)
+  - [Artikkel 45 Tekniske kontrollorganers datterforetak og underleverandører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-45-tekniske)
+  - [Artikkel 46 Bruk av anlegg utenfor det teknisk kontrollorgans prøvingslaboratorium](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-46-bruk-av-anlegg)
+  - [Artikkel 47 Søknad om utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-47-soknad-om-utpeking)
+  - [Artikkel 48 Framgangsmåte for utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-48-framgangsmate-for)
+  - [Artikkel 49 Identifikasjonsnumre og lister over tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-49)
+  - [Artikkel 50 Endringer av underretningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-50-endringer-av)
+  - [Artikkel 51 Tvil om tekniske kontrollorganers kompetanse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-51-tvil-om-tekniske)
+  - [Artikkel 52 Tekniske kontrollorganers driftsmessige forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-52-tekniske)
+  - [Artikkel 53 Tekniske kontrollorganers opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-53-tekniske)
+  - [Artikkel 54 Erfaringsutveksling](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-54-erfaringsutveksling)
+  - [Artikkel 55 Samordning av tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-55-samordning-av)
+  - [Artikkel 56 Framgangsmåte for behandling på nasjonalt plan av byggevarer som utgjør en risiko](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-56-framgangsmate-for)
+  - [Artikkel 57 Unionens framgangsmåte ved beslutninger om beskyttelsestiltak](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-57-unionens)
+  - [Artikkel 58 Byggevarer som oppfyller kravene, men som likevel utgjør en risiko for helse og sikkerhet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-58-byggevarer-som)
+  - [Artikkel 59 Formelt manglende samsvar](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-59-formelt-manglende)
+  - [Artikkel 60 Delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-60-delegerte)
+  - [Artikkel 61 Utøvelse av delegeringen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-61-utovelse-av)
+  - [Artikkel 62 Tilbakekalling av delegering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-62-tilbakekalling-av)
+  - [Artikkel 63 Innvendinger mot delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-63-innvendinger-mot)
+  - [Artikkel 64 Utvalg](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-64-utvalg)
+  - [Artikkel 65 Oppheving](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-65-oppheving)
+  - [Artikkel 66 Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-66)
+  - [Artikkel 67 Kommisjonens rapportering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-67-kommisjonens)
+  - [Artikkel 68 Ikrafttredelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-68-ikrafttredelse)
+  - [Vedlegg I Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav)
+  - [Vedlegg II Framgangsmåte for vedtakelse av et europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-ii-framgangsmate-for)
+  - [Vedlegg III Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iii-ytelseserklaring)
+  - [Vedlegg IV Produktområder og krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iv-produktomrader-og)
+  - [Vedlegg V Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-v-vurdering-og)
+- Veiledning til byggevareforordningen
+  - [Veiledning til byggevareforordningen](https://www.dibk.no/regelverk/dok/veiledning-til/veiledning-til)
+  - [1. Innledning](https://www.dibk.no/regelverk/dok/veiledning-til/1.-innledning)
+  - [2. Begrepet byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/2.-begrepet-byggevarer)
+  - [3. Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/veiledning-til/3.-grunnleggende-krav-til)
+  - [4. Harmoniserte tekniske spesifikasjoner](https://www.dibk.no/regelverk/dok/veiledning-til/4.-harmoniserte-tekniske)
+  - [5. Byggevarens vesentlige egenskaper](https://www.dibk.no/regelverk/dok/veiledning-til/5.-byggevarens-vesentlige)
+  - [6. Forskjell mellom teknisk dokumentasjon og produktdokumentasjon](https://www.dibk.no/regelverk/dok/veiledning-til/6.-forskjell-mellom-teknisk)
+  - [7. Systemer for vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/veiledning-til/7.-systemer-for-vurdering-og)
+  - [8. Tekniske kontrollorgan](https://www.dibk.no/regelverk/dok/veiledning-til/8.-tekniske-kontrollorgan)
+  - [9. Obligatorisk CE-merking og ytelseserklæring (plikt til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/9.-obligatorisk-ce-merking-og)
+  - [10. Frivillig CE-merking og ytelseserklæring (rett til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/10.-frivillig-ce-merking-og)
+  - [11. Tekniske bedømmelsesorgan](https://www.dibk.no/regelverk/dok/veiledning-til/11.-tekniske-bedommelsesorgan)
+  - [12. CE-merking](https://www.dibk.no/regelverk/dok/veiledning-til/12.-ce-merking)
+  - [13. Ytelseserklæringen](https://www.dibk.no/regelverk/dok/veiledning-til/13.-ytelseserklaringen)
+  - [14. Hvordan meddeles ytelseserklæringen?](https://www.dibk.no/regelverk/dok/veiledning-til/14.-hvordan-meddeles)
+  - [15. Byggevarer som er individuelt produsert eller etter mål i en prosess som ikke innebærer serieproduksjon](https://www.dibk.no/regelverk/dok/veiledning-til/15.-byggevarer-som-er)
+  - [16. Farlige stoffer](https://www.dibk.no/regelverk/dok/veiledning-til/16.-farlige-stoffer)
+  - [17. Forpliktelser til produsenter, importører og distributører](https://www.dibk.no/regelverk/dok/veiledning-til/17.-forpliktelser-til)
+  - [18. Importører og distributører som omsetter byggevarer under sitt eget navn eller varemerke eller som endrer byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/18.-importorer-og-distributorer)
+  - [19. Forenklede fremgangsmåter for svært små foretak](https://www.dibk.no/regelverk/dok/veiledning-til/19.-forenklede-fremgangsmater)
+  - [20. Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/veiledning-til/20.-overgangsbestemmelser)
+  - [21. Produktkontaktpunker](https://www.dibk.no/regelverk/dok/veiledning-til/21.-produktkontaktpunker)
+- Forordninger
+  - [Forordning (EU) nr. 305/2011](https://www.dibk.no/regelverk/dok/i.vedlegg/2)
+  - [Forordning (EU) nr. 1062/2013 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/3)
+  - [Forordning (EU) nr. 157/2014 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/4)
+  - [Forordning (EU) nr. 574/2014 av 21. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/5)
+  - [Forordning (EU) nr. 568/2014 av 18. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/6)
+  - [Kommisjonsdelegert forordning (EU) nr. 1291/2014 av 16. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/7)
+  - [Kommisjonsdelegert forordning (EU) nr. 1292/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/8)
+  - [Kommisjonsdelegert forordning (EU) nr. 1293/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/9)
+- Definisjoner
+  - [Begrepsliste](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste)
+
+Lenke kopiert til utklippstavlen
+
+Forrige
+
+Neste
+
+- [Skriv ut denne siden](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav/#autoprint)
+- [Skriv ut Byggevareforordningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav?subtype=chapter&print=true&/#autoprint)
+- [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav?subtype=root&print=true&/#autoprint)
+
+Vis all veiledningstekst Lukk all veiledningstekst
+
+Byggevareforordningen
 
 ### Vedlegg I Grunnleggende krav til byggverk
 
 Byggverk skal i sin helhet og sine ulike deler være egnet for sin tilsiktede bruk, særlig med hensyn til de berørte menneskers helse og sikkerhet gjennom hele byggverkets livssyklus. Med forbehold for normalt vedlikehold skal byggverk oppfylle disse grunnleggende krav til byggverk gjennom en økonomisk rimelig levetid.
 
-
-#### Mekanisk motstandsevne og stabilitet
-
-Byggverket skal være utformet og bygget slik at de belastninger som det sannsynligvis kan bli utsatt for under oppføring og bruk, ikke vil føre til noe av følgende:
-
-sammenstyrtning av hele eller deler av byggverket,
-
-større deformasjoner av uakseptabel grad,
-
-skade på andre deler av byggverket, dets faste utrustning eller installert utstyr som følge av større deformasjon av bærende elementer,
-
-skade gjennom en hendelse hvis omfang ikke står i forhold til den opprinnelige årsaken.
-
-
-#### Brannsikkerhet
-
-Byggverket skal være utformet og bygget på slik måte at
-
-byggverket kan antas å ha sin bæreevne i behold en viss tid,
-
-utvikling og spredning av ild og røyk inne i byggverket er begrenset,
-
-spredning av ild til byggverk i nærheten er begrenset,
-
-personer som befinner seg i byggverket, kan forlate bygningen eller reddes på annet vis,
-
-redningsmannskapets sikkerhet er ivaretatt.
-
-
-#### Hygiene, helse og miljø
-
-Byggverk skal utformes og oppføres på slik måte at de gjennom hele sin livssyklus ikke kommer til å utgjøre en trussel mot arbeidstakernes, brukernes eller naboenes hygiene, helse eller sikkerhet, eller i urimelig høy grad under hele sin livssyklus påvirker miljøkvaliteten eller klimaet under oppføring, bruk og riving, særlig på grunn av
-
-avgivelse av giftige gasser,
-
-utslipp innendørs eller utendørs av farlige stoffer, flyktige organiske forbindelser (VOC), klimagasser eller farlige stoffer til luften,
-
-utslipp av farlig stråling,
-
-utslipp av farlig stoffer til grunnvann, sjø, overflatevann eller jord,
-
-utslipp av farlige stoffer til drikkevann eller av stoffer som på annet vis kan ha negativ innvirkning på drikkevann,
-
-ikke forskriftsmessig avløp for avløpsvann, utslipp av avgasser eller feil håndtering av fast eller flytende avfall,
-
-fukt i deler av byggverket eller på overflater inne i byggverket.
-
-
-#### Sikkerhet og tilgjengelighet ved bruk
-
-Byggverk skal være konstruert og oppført på slik måte at de ikke medfører en uakseptabel risiko for ulykke eller skade i bruk eller drift, som skli-, fall- eller kollisjonsskade, brannskader, elektriske støt, eksplosjonsskader eller innbrudd. Særlig skal byggverk være utformet og bygget slik at de er tilgjengelige for og kan brukes av funksjonshemmede personer.
-
-
-#### Vern mot støy
-
-Byggverk skal være utformet og bygget på slik måte at støyen som oppfattes av dem som befinner seg i byggverket eller av mennesker i nærheten, holdes på et nivå som ikke kan true deres helse, og som gjør det mulig for dem å sove, hvile og arbeide under tilfredsstillende forhold.
-
-
-#### Energiøkonomisering og varmeisolering
-
-Byggverk og deres varme-, kjøle-, belysnings- og ventilasjonsinstallasjoner skal være utformet og bygget på slik måte at den energimengde som kreves, skal være lav når det tas hensyn til brukerne og de klimatiske forhold på stedet. Byggverk skal også være energieffektive og bruke så lite energi som mulig i løpet av oppføring og riving.
-
-
-#### Bærekraftig bruk av naturressurser
-
-Byggverk skal konstrueres, oppføres og rives på slik måte at bruken av naturressurser er bærekraftig, og særlig sikre
-
-at byggverk og materialer og deler i byggverk kan brukes på nytt eller gjenvinnes etter riving,
-
-byggverkets bestandighet,
-
-bruk av miljøvennlige råmaterialer og sekundærmaterialer i byggverk.
-
+1. Mekanisk motstandsevne og stabilitet Byggverket skal være utformet og bygget slik at de belastninger som det sannsynligvis kan bli utsatt for under oppføring og bruk, ikke vil føre til noe av følgende:
+  1. sammenstyrtning av hele eller deler av byggverket,
+  2. større deformasjoner av uakseptabel grad,
+  3. skade på andre deler av byggverket, dets faste utrustning eller installert utstyr som følge av større deformasjon av bærende elementer,
+  4. skade gjennom en hendelse hvis omfang ikke står i forhold til den opprinnelige årsaken.
+2. Brannsikkerhet Byggverket skal være utformet og bygget på slik måte at
+  1. byggverket kan antas å ha sin bæreevne i behold en viss tid,
+  2. utvikling og spredning av ild og røyk inne i byggverket er begrenset,
+  3. spredning av ild til byggverk i nærheten er begrenset,
+  4. personer som befinner seg i byggverket, kan forlate bygningen eller reddes på annet vis,
+  5. redningsmannskapets sikkerhet er ivaretatt.
+3. Hygiene, helse og miljø Byggverk skal utformes og oppføres på slik måte at de gjennom hele sin livssyklus ikke kommer til å utgjøre en trussel mot arbeidstakernes, brukernes eller naboenes hygiene, helse eller sikkerhet, eller i urimelig høy grad under hele sin livssyklus påvirker miljøkvaliteten eller klimaet under oppføring, bruk og riving, særlig på grunn av
+  1. avgivelse av giftige gasser,
+  2. utslipp innendørs eller utendørs av farlige stoffer, flyktige organiske forbindelser (VOC), klimagasser eller farlige stoffer til luften,
+  3. utslipp av farlig stråling,
+  4. utslipp av farlig stoffer til grunnvann, sjø, overflatevann eller jord,
+  5. utslipp av farlige stoffer til drikkevann eller av stoffer som på annet vis kan ha negativ innvirkning på drikkevann,
+  6. ikke forskriftsmessig avløp for avløpsvann, utslipp av avgasser eller feil håndtering av fast eller flytende avfall,
+  7. fukt i deler av byggverket eller på overflater inne i byggverket.
+4. Sikkerhet og tilgjengelighet ved bruk Byggverk skal være konstruert og oppført på slik måte at de ikke medfører en uakseptabel risiko for ulykke eller skade i bruk eller drift, som skli-, fall- eller kollisjonsskade, brannskader, elektriske støt, eksplosjonsskader eller innbrudd. Særlig skal byggverk være utformet og bygget slik at de er tilgjengelige for og kan brukes av funksjonshemmede personer.
+5. Vern mot støy Byggverk skal være utformet og bygget på slik måte at støyen som oppfattes av dem som befinner seg i byggverket eller av mennesker i nærheten, holdes på et nivå som ikke kan true deres helse, og som gjør det mulig for dem å sove, hvile og arbeide under tilfredsstillende forhold.
+6. Energiøkonomisering og varmeisolering Byggverk og deres varme-, kjøle-, belysnings- og ventilasjonsinstallasjoner skal være utformet og bygget på slik måte at den energimengde som kreves, skal være lav når det tas hensyn til brukerne og de klimatiske forhold på stedet. Byggverk skal også være energieffektive og bruke så lite energi som mulig i løpet av oppføring og riving.
+7. Bærekraftig bruk av naturressurser Byggverk skal konstrueres, oppføres og rives på slik måte at bruken av naturressurser er bærekraftig, og særlig sikre
+  1. at byggverk og materialer og deler i byggverk kan brukes på nytt eller gjenvinnes etter riving,
+  2. byggverkets bestandighet,
+  3. bruk av miljøvennlige råmaterialer og sekundærmaterialer i byggverk.
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav/) av norges-lover-bot.*
@@ -101,3 +226,4 @@ bruk av miljøvennlige råmaterialer og sekundærmaterialer i byggverk.
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

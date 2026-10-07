@@ -1,4 +1,4 @@
-<!-- innholds-hash: 39373c90fce6d62439e587ac7a6c12334a9b188c844b8d1d0346b86c52ff3869 -->
+<!-- innholds-hash: f8e76318960c0ff490336322bd27d06d5e2891ea001832ff9f88d0407a6d02c0 -->
 
 # Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200425
 - **Type:** 2
 - **Korttittel:** Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:7 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200425
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200425,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   ",
   "sak_fremmet_id": 200425,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   ",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

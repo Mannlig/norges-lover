@@ -1,26 +1,21 @@
-<!-- innholds-hash: 3cb76b9e553524f063f20f7cbe495c1f41efd659f729ed299359451bea03d492 -->
+<!-- innholds-hash: 1ed7fff42fa4bb5aafa70dfba92795461419204232180ef65301dacf7e924200 -->
 
 # Jobbmestrende oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbmestrende-oppfolging
-- **Sist hentet:** 2026-07-13T12:39:43Z
+- **Sist oppdatert i arkivet:** 2026-10-06T23:56:57Z
 
 ## Innhold
 
 Tiltak
 
-
 ## Jobbmestrende oppfølging
 
 Et tilbud når du trenger arbeidstrening og oppfølging og har alvorlige psykiske helseproblemer.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Tiltaket er aktuelt for deg som
 
@@ -28,7 +23,12 @@ Tiltaket er aktuelt for deg som
 - ikke har kunnet jobbe på grunn av en psykisk lidelse
 - har utsikter til å komme i lønnet arbeid
 - er motivert for å komme i jobb
+
+### Hva kan du få?
+
 I Jobbmestrende oppfølging får du som ikke har vært i jobb på grunn av psykiske helseproblemer tett og tilrettelagt oppfølging.
+
+#### Hva er tilbudet?
 
 Du får arbeidstrening og oppfølging. Målet er at du skal komme ut i vanlig jobb.
 
@@ -38,41 +38,66 @@ Både du, tiltaksarrangøren og arbeidsgiveren får opplæring i hvordan håndte
 
 Tiltaket innebærer et tett samarbeid mellom deg, Nav, behandleren din og tiltaksarrangøren.
 
+#### Andre tilbud
+
 Mer informasjon til deg som
+
+- [Trenger hjelp til å komme i jobb](https://www.nav.no/komme-i-jobb) Dette kan du ha rett til
+- [Har psykiske helseproblemer](https://www.nav.no/psykiske-helseproblemer) Dette kan du ha rett til
+
+### Hvordan kan du få?
+
+#### Hvem kontakter du?
 
 Tilbudet finnes i Nord-Trøndelag, Buskerud, Telemark, Oslo, Rogaland, Vest-Agder og Oppland.
 
 Ta kontakt med Nav-kontoret ditt for mer informasjon.
 
+[Finn ditt Nav-kontor](https://www.nav.no/finn-nav-kontor)
+
+#### Klagerettigheter
+
 Hvis du har fått et vedtak om et arbeidsmarkedstiltak, står det hvordan du kan klage. Du kan klage hvis du ikke ønsker å delta, hvis du ønsker et annet arbeidsmarkedstiltak, eller hvis du ikke får tilbud om et arbeidsmarkedstiltak du har bedt om.
 
 Du kan også klage selv om du bare har fått et muntlig vedtak uten en skriftlig begrunnelse.
 
-Skriv hvilket vedtak det gjelder, hvorfor du klager og begrunnelse. Hvis du har spørsmål om vedtaket, kan du
+Skriv hvilket vedtak det gjelder, hvorfor du klager og begrunnelse. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
+
+[Send klage](https://klage.nav.no/nb/klage/JOBBMESTRENDE_OPPFOLGING)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/JOBBMESTRENDE_OPPFOLGING)
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
-Oppdatert 05.12.2025
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
 
+Slik gjør du det
 
-#### Chat med oss
+Oppdatert 05.12.2025
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
+Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/jobbmestrende-oppfolging) av norges-lover-bot.*
@@ -84,3 +109,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

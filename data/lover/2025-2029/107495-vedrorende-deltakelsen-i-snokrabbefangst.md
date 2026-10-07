@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7cbcccf72af32521827307d0f0777f404fe158899fe1ead3335bbe5780a49a68 -->
+<!-- innholds-hash: 1b92db1d0f4859d3ff5e0d2a9566929dab99929eb63cf08de9ef3a51a7518a52 -->
 
 # Vedrørende deltakelsen i snøkrabbefangst
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107495
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -40,19 +40,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Pollestad",
-      "foedselsdato": "/Date(271807200000+0200)/",
-      "fornavn": "Geir",
-      "id": "GP",
-      "kjoenn": 2,
+      "etternavn": "Stenersen",
+      "foedselsdato": "/Date(431474400000+0200)/",
+      "fornavn": "Aina",
+      "id": "AICS",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
+        "id": "Os",
+        "navn": "Oslo"
       },
       "parti": {
-        "id": "Sp",
-        "navn": "Senterpartiet",
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
         "representert_parti": true
       },
       "vara_representant": false
@@ -70,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

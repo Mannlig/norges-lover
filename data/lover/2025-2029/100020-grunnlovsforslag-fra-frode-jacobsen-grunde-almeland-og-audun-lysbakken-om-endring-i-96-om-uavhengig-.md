@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1c39dd606c25e6cc0d48a88b101ece3c038ab4711ff38cfe88ba5d931cf226c0 -->
+<!-- innholds-hash: 7ce1f76bb5ac3a93d2ffbf81120e9c73e8f81fc68e5e9bb84957ebfb26ef3779 -->
 
 # Grunnlovsforslag fra Frode Jacobsen, Grunde Almeland og Audun Lysbakken om endring i § 96 (om uavhengig påtalemyndighet)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100020
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Grunnlovsforslag om endring i § 96 (om uavhengig påtalemyndighet)",
   "sak_fremmet_id": 100020,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Busch",
+      "foedselsdato": "/Date(574383600000+0100)/",
+      "fornavn": "Isak Veierud",
+      "id": "ISABUS",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsforslag fra Frode Jacobsen, Grunde Almeland og Audun Lysbakken om endring i § 96 (om uavhengig påtalemyndighet)",
@@ -108,3 +128,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

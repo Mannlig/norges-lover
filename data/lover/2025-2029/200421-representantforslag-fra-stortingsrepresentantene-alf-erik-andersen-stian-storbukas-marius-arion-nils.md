@@ -1,4 +1,4 @@
-<!-- innholds-hash: b4851e17e6cc1686c87b15a17c93689706cd7f00d0452100af969f7aae6ed486 -->
+<!-- innholds-hash: ed4d9224780d2b51c81ce4c965e2e80c35f102b8af21171c1b2fa1857decd121 -->
 
 # Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200421
 - **Type:** 2
 - **Korttittel:** Representantforslag om å redusere bompengebelastningen på E39 Mandal-Kristiansand
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:3 S (2026–2027)
 - **Komité:** 
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200421
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -226,8 +226,8 @@
   "korttittel": "Representantforslag om å redusere bompengebelastningen på E39 Mandal-Kristiansand",
   "sak_fremmet_id": 200421,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand",
   "type": 2
 }
@@ -238,3 +238,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

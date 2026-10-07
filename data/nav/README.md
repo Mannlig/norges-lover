@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 629
+**Antall dokumenter:** 637
 
 ## Innhold
 
@@ -63,6 +63,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Navs brukerundersøkelser 2026 - nav.no](brukerundersokelser.md)
 - [Brystprotese - nav.no](brystprotese.md)
 - [Dagpenger - nav.no](dagpenger.md)
+- [Stortinget har vedtatt delvis utfasing av stønadene til enslig mor eller far - nav.no](delvis-utfasing-enslig-mor-far.md)
 - [Dialogmøte  - nav.no](dialogmote.md)
 - [Digitale kommunikasjonshjelpemidler - nav.no](digitale-kommunikasjonshjelpemidler.md)
 - [Digitalt jobbsøkerkurs - nav.no](digitalt-jobbsokerkurs.md)
@@ -274,6 +275,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Skriv til oss - nav.no](skriv-til-oss-om-familie.md)
 - [Få svar på spørsmål - nav.no](skriv-til-oss-om-hjelpemidler.md)
 - [Skriv til oss - nav.no](skriv-til-oss.md)
+- [Unge med uføretrygd vil få SMS fra Nav - nav.no](sms-unge-ufore.md)
 - [Trenger råd og veiledning - nav.no](snakke-med-nav.md)
 - [Søk jobb i Nav - nav.no](sok-jobb-i-nav.md)
 - [Medlemskap i folketrygden - nav.no](sok-medlemskap-i-folketrygden.md)
@@ -673,7 +675,10 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Generell fullmakt - nav.no](start/generell-fullmakt.md)
 - [Meldekort for tiltakspenger - nav.no](start/meldekort-tiltakspenger.md)
 - [Søknad om økonomisk sosialhjelp - nav.no](start/okonomisk-sosialhjelp.md)
+- [Refusjon av utgifter til daglig reise med bruk av egen bil - nav.no](start/refusjon-av-utgifter-til-daglig-reise-med-bruk-av-egen-bil.md)
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
+- [Søknad om tilleggsstønader - støtte til læremidler - nav.no](start/soknad/soknad-om-tilleggsstonader-stotte-til-laremidler.md)
+- [Søknad om arbeidsavklaringspenger (AAP) - nav.no](start/soknad-aap.md)
 - [Søknad om AFP i privat sektor - nav.no](start/soknad-afp-privat.md)
 - [Opplysningsskjema til Nav for avtalefestet pensjon (AFP) fra Statens pensjonskasse for deg født før 1963 - nav.no](start/soknad-afp-statens-pensjonskasse.md)
 - [Søknad om alderspensjon og AFP i privat sektor - nav.no](start/soknad-alderspensjon-afp-privat.md)
@@ -687,6 +692,9 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)
 - [Søknad om overgangsstønad til enslig mor eller far - nav.no](start/soknad-overgangsstonad-enslig.md)
 - [Søknad om svangerskapspenger - nav.no](start/soknad-svangerskapspenger.md)
+- [Søknad om tilleggsstønader for pass av barn - nav.no](start/soknad-tilleggsstonader-for-pass-av-barn.md)
+- [Søknad om tilleggsstønader - støtte til bolig og overnatting - nav.no](start/soknad-tilleggstonader-bolig-overnatting.md)
+- [Søknad om tilleggsstønader – støtte til daglig reise - nav.no](start/soknad-tilleggstonader-daglig-reise.md)
 - [Søknad om tiltakspenger - nav.no](start/soknad-tiltakspenger.md)
 - [Søknad om uføretrygd - nav.no](start/soknad-uforetrygd.md)
 - [Søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c24de961a87f4e2bf558bc085f2b03b1e1e5c792dd4a95ef476e1ed57abe01c3 -->
+<!-- innholds-hash: cd8016e3f4666e7ace1cf8db56a4b37601c5e5fa7a637d14bb49e6e81eeea8e1 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få ut kriminelle aktører fra barnevernet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200422
 - **Type:** 2
 - **Korttittel:** Representantforslag om å få ut kriminelle aktører fra barnevernet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:5 S (2026–2027)
-- **Komité:** 
+- **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200422
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200422,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FAMKULT",
+    "navn": "Familie- og kulturkomiteen"
+  },
   "korttittel": "Representantforslag om å få ut kriminelle aktører fra barnevernet",
   "sak_fremmet_id": 200422,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få ut kriminelle aktører fra barnevernet",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

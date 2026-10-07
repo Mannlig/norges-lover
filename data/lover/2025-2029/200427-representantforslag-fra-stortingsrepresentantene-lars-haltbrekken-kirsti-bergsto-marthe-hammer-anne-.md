@@ -1,4 +1,4 @@
-<!-- innholds-hash: dc697092ebe9316534fbd0508e31e7602ee228adf2a7733fd8a111a764891377 -->
+<!-- innholds-hash: 24565458de045f1a58623e73756c70f2f3f2e6625f5537b0c7018bd789aa76e1 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200427
 - **Type:** 2
 - **Korttittel:** Representantforslag om konsesjonssystem for etablering av datasentre
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:9 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200427
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -203,12 +203,15 @@
   "id": 200427,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om konsesjonssystem for etablering av datasentre",
   "sak_fremmet_id": 200427,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre",
   "type": 2
 }
@@ -219,3 +222,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

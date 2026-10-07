@@ -1,4 +1,4 @@
-<!-- innholds-hash: cb74c428a6c5ebb2531ee8cdf5d054305119d70f54a152d234e2a3933b605d7f -->
+<!-- innholds-hash: 8e2bed03155835311a8d40649939bb4613f446b79291af7e32beb093a9a056bc -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen og Terje Kollbotn om stans i datasenterutbygging og kontroll over kraft- og industripolitikken
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200424
 - **Type:** 2
 - **Korttittel:** Representantforslag om stans i datasenterutbygging og kontroll over kraft- og industripolitikken
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:6 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200424
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200424,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
   "sak_fremmet_id": 200424,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen og Terje Kollbotn om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

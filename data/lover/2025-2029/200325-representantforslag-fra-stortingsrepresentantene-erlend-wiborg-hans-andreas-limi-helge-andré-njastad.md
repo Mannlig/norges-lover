@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0761361089aee18b87067b359388bc291bd835b79e586cdec61325846dff41de -->
+<!-- innholds-hash: fb01949c3f7aa0c7246be27313252fe4a44be530052690a8b2787baa107969aa -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200325
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -136,15 +136,15 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Vestenfor",
-      "foedselsdato": "/Date(110152800000+0200)/",
-      "fornavn": "Solveig",
-      "id": "SOLVES",
+      "etternavn": "Alvær",
+      "foedselsdato": "/Date(1027288800000+0200)/",
+      "fornavn": "Konstanse Marie",
+      "id": "KONALV",
       "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Bu",
-        "navn": "Buskerud"
+        "id": "Te",
+        "navn": "Telemark"
       },
       "parti": {
         "id": "A",
@@ -175,4 +175,5 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

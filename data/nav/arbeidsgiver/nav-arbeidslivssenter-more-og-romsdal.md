@@ -1,51 +1,33 @@
-<!-- innholds-hash: 0306e32cc3a03c3c00faebe838c94b991fb57c3ce33c09931f2040ea50eab2f4 -->
+<!-- innholds-hash: 0c403a199e3f37c5c1bf522082222afafb103cea54a586fd59a864a57253f63e -->
 
 # Nav arbeidslivssenter Møre og Romsdal - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-more-og-romsdal
-- **Sist hentet:** 2026-05-18T16:36:56Z
+- **Sist oppdatert i arkivet:** 2026-10-07T01:27:57Z
 
 ## Innhold
-
 
 ## Nav arbeidslivssenter Møre og Romsdal
 
 Arbeidslivssenter
 
-
 ### Kontakt oss
-
 
 ### Telefonnummeret til Nav er
 
-Telefontid kvardagar kl 9–15.
+55 55 33 36
 
+Telefontid kvardagar kl 9–15.
 
 #### Kontaktskjema
 
-Du kan også
-
+Du kan også [skrive til oss](https://kontaktskjema.arbeidsgiver.nav.no/) om du ønskjer hjelp til å rekruttere eller inkludere arbeidstakarar og førebyggje sjukefråvær.
 
 ### Kontorinformasjon
 
-
-#### Plassering
-
-Nav Molde
-
-Frænavegen 16, 6415 MOLDE
-
-
-#### Postadresse
-
-Frænavegen 16, 6415 MOLDE
-
-
-#### Kontornummer
-
-1591
+### Kva er Nav arbeidslivssenter?
 
 Nav arbeidslivssenter er eit ressurs- og kompetansesenter for verksemder med høgt sjukefråvær.
 
@@ -54,25 +36,30 @@ Verksemda di kan samarbeida med rådgivarane våre om
 - utvikle partssamarbeidet som grunnlag for å forbetre arbeidsmiljøet og redusere sjukefråværet
 - auka kvaliteten på sjukefråværsoppfølginga
 - kartlegging og støtte til førebyggjande arbeidsmiljøarbeid
+
 Les meir om:
+
+[Oppfølging frå Nav arbeidslivssenter](https://www.nav.no/arbeidsgiver/navarbeidslivssenter/nn)
+
+Rettleiing
+
+### Søknader og skjema
 
 Skal du sende inn eit skjema eller søkje om støtte frå Nav?
 
+[Søknad og skjema for arbeidsgivarar](https://www.nav.no/arbeidsgiver/soknader/nn)
 
 #### Saksbehandlingstider
 
-Her finn du
-
+Her finn du [saksbehandlingstider for arbeidsgivarar](https://www.nav.no/arbeidsgiver/saksbehandlingstider/nn).
 
 #### Skjemaer for klage
 
-Her finn du
-
+Her finn du [klageskjema for arbeidsgivarar](https://www.nav.no/arbeidsgiver/klage/nn).
 
 ### Følg oss på LinkedIn
 
-Vil du redusere sjukefråværet og betre arbeidsmiljøet? Følg
-
+Vil du redusere sjukefråværet og betre arbeidsmiljøet? Følg [Nav arbeidslivssenter Møre og Romsdal](https://www.linkedin.com/company/nav-arbeidslivssenter-m%C3%B8re-og-romsdal/) på LinkedIn for nyttige råd og aktuelle nyheiter.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/nav-arbeidslivssenter-more-og-romsdal) av norges-lover-bot.*
@@ -80,3 +67,4 @@ Vil du redusere sjukefråværet og betre arbeidsmiljøet? Følg
 ## Endringshistorikk
 
 - **2026-05-18** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

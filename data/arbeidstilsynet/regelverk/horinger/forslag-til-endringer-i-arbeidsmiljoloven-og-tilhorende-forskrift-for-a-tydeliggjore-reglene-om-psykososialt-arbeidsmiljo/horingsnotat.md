@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1e0933801b2364ef0e72a9fce0793f6f48e89094bddd24885531224d73564d96 -->
+<!-- innholds-hash: fd7b469d3719a61ca55ec47607f6e3a8aca419e73866c13cd92a095987e08325 -->
 
 # Høringsnotat – Høring om endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid for å tydeliggjøre regelverket om psykososialt arbeidsmiljø
 
@@ -6,25 +6,49 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo/horingsnotat/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-23T21:00:29Z
+- **Sist oppdatert i arkivet:** 2026-10-07T02:39:03Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Høringsnotat – Høring om endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid for å tydeliggjøre regelverket om psykososialt arbeidsmiljø
 
 Publisert av Arbeidstilsynet 1.10.2024
 
-
 ### Innhold
+
+1. Innledning
+
+2. Bakgrunn og utfordringer
+
+3. Gjeldende rett
+
+4. Overordnede vurderinger
+
+5. Forslag til endringer i arbeidsmiljøloven § 4-3 om krav til det psykososiale arbeidsmiljøet
+
+6. Forslag om å forskriftsfeste krav til psykososialt arbeidsmiljø
+
+7. Økonomiske og administrative konsekvenser av forslagene
+
+8. Forslag
+
+### 1. Innledning
 
 Arbeidstilsynet foreslår i dette høringsnotatet endringer i arbeidsmiljøloven og presiserende forskriftsbestemmelser som skal tydeliggjøre arbeidsmiljøregelverkets krav til det psykososiale arbeidsmiljøet.
 
-Selv om det norske arbeidsmiljøet generelt er godt og rangeres i verdenstoppen, har vi arbeidsmiljøutfordringer knyttet til psykososiale faktorer som det er viktig å ta tak i. Mange arbeidstakere opplever et belastende psykososialt arbeidsmiljø, kjennetegnet av blant annet tidspress og stress, uklare krav og forventninger, høye emosjonelle krav og belastninger i arbeid med mennesker og lignende (
+Selv om det norske arbeidsmiljøet generelt er godt og rangeres i verdenstoppen, har vi arbeidsmiljøutfordringer knyttet til psykososiale faktorer som det er viktig å ta tak i. Mange arbeidstakere opplever et belastende psykososialt arbeidsmiljø, kjennetegnet av blant annet tidspress og stress, uklare krav og forventninger, høye emosjonelle krav og belastninger i arbeid med mennesker og lignende ([noa.stami.no, PDF](https://noa.stami.no/wp-content/uploads/2024/09/Faktabok-om-arbeidsmiljo-og-helse-2024.pdf)). I tillegg er risikoen for å bli utsatt for trakassering, vold og trusler en alvorlig arbeidsmiljøutfordring i flere bransjer.
 
-En majoritet av sykemeldingene og uføretilfellene skyldes psykiske diagnoser og muskel- og skjelettdiagnoser. Forskning har vist at flere psykososiale arbeidsmiljøfaktorer innebærer risiko for disse typene helseplager (
+En majoritet av sykemeldingene og uføretilfellene skyldes psykiske diagnoser og muskel- og skjelettdiagnoser. Forskning har vist at flere psykososiale arbeidsmiljøfaktorer innebærer risiko for disse typene helseplager ([noa.stami.no, PDF](https://noa.stami.no/wp-content/uploads/2024/09/Faktabok-om-arbeidsmiljo-og-helse-2024.pdf)). I en [studie av Statens Arbeidsmiljøinstitutt (STAMI) fra 2014 (stami.no)](https://stami.no/publikasjon/work-related-psychosocial-risk-factors-for-long-term-sick-leave-a-prospective-study-of-the-general-working-population-in-norway/) ble det estimert at 15 prosent av alt langtidssykefravær i Norge kan tilskrives forhold i det psykososiale arbeidsmiljøet.
 
-Samfunnsøkonomiske beregninger
+Samfunnsøkonomiske beregninger [(osloeconomics.no, PDF)](https://osloeconomics.no/wp-content/uploads/2018/05/Samfunnsnytten-av-bedriftshelsetjenesten.pdf) viser at et ikke-optimalt arbeidsmiljø, som forhindrer arbeidstakerne fra å produsere det de ellers kunne ha gjort eller som utsetter arbeidstakerne for uhelse, sykdom og skade, koster norske virksomheter totalt 30 milliarder kroner årlig og samfunnet 75 milliarder kroner årlig.
 
 Det er derfor av stor verdi og gevinst for både arbeidstakere, virksomhetene og samfunnet at virksomhetene har et godt systematisk forebyggende helse-, miljø- og sikkerhetsarbeid (HMS-arbeid).
 
@@ -34,29 +58,33 @@ Arbeidstilsynet mener derfor at det er et klart forbedringspotensial i å løfte
 
 Arbeidstilsynet satte i 2021 i gang et arbeid med å utrede hvordan arbeidsmiljøregelverket på det psykososiale området kan bli tydeligere og i større grad bidra til et godt arbeidsmiljøarbeid på det psykososiale området. Arbeidstilsynet har i dette arbeidet hatt dialog med partene i arbeidslivet gjennom to partssammensatte arbeidsgrupper, hvor også Havindustritilsynet og STAMI har deltatt.
 
-Arbeidet resulterte i 2023 i
+Arbeidet resulterte i 2023 i [Arbeidstilsynets rapport «Behov for bedre regulering av arbeidsmiljølovens krav til psykososialt arbeidsmiljø» (arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf). Denne rapporten gir et helhetlig bilde av utfordringene i arbeidslivet og erfaringene med dagens regelverk på det psykososiale området. Arbeidstilsynet synliggjør i rapporten ulike tiltak som kan sette virksomhetene bedre i stand til å forebygge problemer innenfor det psykososiale arbeidsmiljøet.
 
 Arbeidstilsynet foreslår i denne høringen presiseringer i arbeidsmiljøloven § 4-3 om krav til det psykososiale arbeidsmiljøet og utdypende bestemmelser i forskrift om utførelse av arbeid. Endringene som foreslås tar sikte på å synliggjøre og tydeliggjøre arbeidsmiljøregelverkets krav til det psykososiale arbeidsmiljøet, og innfører således ingen nye krav på område.
 
-Kunnskapsgrunnlaget som presenteres i dette høringsnotatet gjengir og oppsummerer i hovedsak kunnskap og erfaringer som presenteres mer i dybden i
+### 2. Bakgrunn og utfordringer
 
+Kunnskapsgrunnlaget som presenteres i dette høringsnotatet gjengir og oppsummerer i hovedsak kunnskap og erfaringer som presenteres mer i dybden i [rapporten fra Arbeidstilsynets utredning som ble publisert i 2023 (arbeidstilsynet.no, PDF).](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf)
 
 #### 2.1. Om begrepet psykososialt arbeidsmiljø og hvordan virksomhetene forstår det
 
-I opptakten til IA-avtalen 2019-2022 ble STAMI, NAV, Petroleumstilsynet (nå Havindustritilsynet), Arbeidstilsynet og partene i arbeidslivet enige om en felles beskrivelse av arbeidsmiljø generelt: «Arbeidsmiljø handler om arbeidet. Det er knyttet til hvordan virksomheten organiserer, planlegger og gjennomfører arbeidet. Det er forskjellig fra arbeidsplass til arbeidsplass, og krever derfor ulike tilnærminger. Det påvirker arbeidstakernes helse, jobbengasjement og virksomhetens resultater». Når det gjelder
+I opptakten til IA-avtalen 2019-2022 ble STAMI, NAV, Petroleumstilsynet (nå Havindustritilsynet), Arbeidstilsynet og partene i arbeidslivet enige om en felles beskrivelse av arbeidsmiljø generelt: «Arbeidsmiljø handler om arbeidet. Det er knyttet til hvordan virksomheten organiserer, planlegger og gjennomfører arbeidet. Det er forskjellig fra arbeidsplass til arbeidsplass, og krever derfor ulike tilnærminger. Det påvirker arbeidstakernes helse, jobbengasjement og virksomhetens resultater». Når det gjelder psykososialt arbeidsmiljø, spesifikt, finnes det imidlertid ingen felles definisjon eller beskrivelse, hverken nasjonalt eller internasjonalt. Begrepet brukes med noe ulik betydning blant forskere, virksomheter, myndigheter og partene i arbeidslivet.
 
-De
+De [nordiske arbeidstilsynene beskrev, i en felles rapport fra 2015 (norden.diva.portal.org, PDF)](https://norden.diva-portal.org/smash/get/diva2:795004/FULLTEXT01.pdf), det psykososiale arbeidsmiljøet som et resultat av interaksjonen mellom faktorer relatert til arbeidet og de menneskene som utfører det. Videre beskrev de at denne interaksjonen påvirkes av hvordan arbeidet er organisert og planlagt, hvilke kvalifikasjoner arbeidet krever av de som skal utføre det, hvordan de opplever sin arbeidssituasjon, og hvordan de reagerer i forhold til dette.
 
-Både Sverige og Danmark har definisjoner av psykososialt arbeidsmiljø i sine forskrifter på området. I disse to landene har de imidlertid valgt å benevne det ulikt. Sverige bruker benevnelsen
+Både Sverige og Danmark har definisjoner av psykososialt arbeidsmiljø i sine forskrifter på området. I disse to landene har de imidlertid valgt å benevne det ulikt. Sverige bruker benevnelsen organisatorisk og sosialt arbeidsmiljø, hvor den organisatoriske delen av det defineres som vilkår og forutsetninger for arbeidet som inkluderer 1) ledelse og styring, 2) kommunikasjon, 3) medvirkning, handlingsrom, 4) fordeling av arbeidsoppgaver, og 5) krav, ressurser og ansvar. De definerer sosialt arbeidsmiljø som vilkår og forutsetninger for arbeidet som inkluderer sosialt samspill, samarbeid og sosial støtte fra ledere og kollegaer.
 
-Danmark bruker benevnelsen
+Danmark bruker benevnelsen psykisk arbeidsmiljø, og definerer det som psykososiale påvirkninger i arbeidet som oppstår i forbindelse med 1) måten som arbeidet er planlagt og tilrettelagt på, 2) organisatoriske forhold for de ansattes arbeid, 3) arbeidets innhold, herunder kravene i arbeidet, 4) måten som arbeidet utføres på, og 5) de sosiale relasjoner i arbeidet.
 
 I norsk regelverk er det ingen definisjon av psykososialt arbeidsmiljø, men Arbeidstilsynet har forholdt seg til psykososialt arbeidsmiljø som «de sosiale og mellommenneskelige forholdene på arbeidsplassen samt form og innhold i disse». STAMI beskriver psykososialt arbeidsmiljø bredere, som bestående av både psykologiske arbeidsfaktorer og sosiale arbeidsfaktorer. STAMI definerer videre psykologiske arbeidsfaktorer som opplevelsen av arbeidssituasjonen og arbeidsinnholdet (f.eks. høye jobbkrav, emosjonelle krav, rollekonflikt, selvbestemmelse og positive utfordringer), og sosiale arbeidsfaktorer som det mellommenneskelige samspillet på jobb. Også i øvrig forskning og faglitteratur er det svært vanlig at psykologiske og organisatoriske aspekter inkluderes i begrepet psykososialt arbeidsmiljø, i tillegg til det sosiale. Et eksempel på hvordan det kan forstås er at enkelte organisatoriske arbeidsmiljøfaktorer anses som psykososiale arbeidsmiljøfaktorer på organisasjonsnivå, og at andre psykososiale arbeidsmiljøfaktorer kan være enten på leder-, gruppe- eller individnivå.
 
-Arbeidstilsynet har forholdt seg til psykososialt arbeidsmiljø med utgangspunkt i faktorene som nevnes i arbeidsmiljøloven § 4-3, og med dette ikke inkludert organisatoriske faktorer i begrepet. Arbeidstilsynet har imidlertid lagt til grunn at
+Arbeidstilsynet har forholdt seg til psykososialt arbeidsmiljø med utgangspunkt i faktorene som nevnes i arbeidsmiljøloven § 4-3, og med dette ikke inkludert organisatoriske faktorer i begrepet. Arbeidstilsynet har imidlertid lagt til grunn at [«ofte er de psykososiale arbeidsbetingelsene en konsekvens av hvordan arbeidet organiseres, planlegges og gjennomføres» og at kravet til psykososialt arbeidsmiljø må sees i sammenheng med krav til organisatorisk arbeidsmiljø (arbeidstilsynet.no).](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/)
 
 En partssammensatt arbeidsgruppe ledet av Arbeidstilsynet og med representanter fra både arbeidsgiversiden, arbeidstakersiden og STAMI, drøftet i 2021 begrepene psykososialt og organisatorisk arbeidsmiljø og hadde mål om å identifisere og differensiere mellom organisatoriske og psykososiale faktorer. Arbeidsgruppen kategoriserte enkelte faktorer som utelukkende organisatoriske (f.eks. lange arbeidsuker, og endringer knyttet til nedbemanning, oppbemanning og omorganisering), noen som både organisatoriske og psykologiske (f.eks. jobbusikkerhet og organisatorisk rettferdighet), noen som både organisatoriske og sosiale (f.eks. lederatferd og godt arbeidsklima) og noen som utelukkende psykologiske eller sosiale faktorer (f.eks. mobbing, trakassering, vold og trusler). Hvorvidt man kategoriserer en arbeidsmiljøfaktor som psykososial eller organisatorisk vil imidlertid avhenge av hvilke definisjoner man forholder seg til når det gjelder disse to begrepene. Arbeidsgruppa uttrykte enighet om at psykososialt arbeidsmiljø og organisatorisk arbeidsmiljø henger tett sammen, og at det psykososiale ofte er en konsekvens av hvordan arbeidet er organisert, planlagt og gjennomført. Arbeidsgruppa var også enig om at primærforebyggende psykososialt arbeidsmiljøarbeid retter søkelys mot faktorer i arbeidsmiljøet heller enn egenskaper ved individet, og at tiltak for å forebygge og håndtere utfordringer på dette området i hovedsak ligger i det organisatoriske arbeidsmiljøet – selv om utfordringene kan komme til syne i det psykologiske og sosiale.
 
+[Arbeidslivslovutvalget (regjeringen.no)](https://www.regjeringen.no/no/dokumenter/nou-2004-5/id384819/), som utredet forslag til det som er blitt dagens arbeidsmiljølov, argumenterte for at det er vanskelig å sette en grense mellom hva som er organisatoriske og psykososiale arbeidsmiljøfaktorer, men valgte i sin innstilling å sette søkelyset på utbredelse og konsekvenser av ulike arbeidsmiljøfaktorer heller enn å gå nærmere inn på en diskusjon om grenseoppgangen.
+
+[I 2022 kartla SINTEF, på oppdrag fra NAV OG STAMI, hvordan et representativt utvalg av norske virksomheter forstår psykososialt arbeidsmiljø (sintef.no)](https://www.sintef.no/prosjekter/2021/kunnskap-om-arbeidsmiljoarbeid/). Resultatene viste blant annet at det varierer hvordan virksomhetene oppfatter begrepet psykososialt arbeidsmiljø, og at det oppleves som komplisert og diffust. Eksempler på hvordan virksomhetene forsto begrepet var «hvordan man har det på jobben», «ikke-fysiske forhold på jobb» og «trivsel». Andre aspekter som ble trukket fram var mellommenneskelige relasjoner, kommunikasjon, psykologisk trygghet og fravær av mobbing og trakassering. Mange virksomheter la vekt på resultatet av psykososiale og organisatoriske arbeidsmiljøforhold, som trivsel eller ugunstige helseutfall, heller enn arbeidsmiljøfaktorene i seg selv. Mange virksomheter beskrev psykososialt arbeidsmiljø som trivsel på jobb, men reflekterte i mindre grad rundt hva som skaper trivsel eller hvordan trivsel er koblet til arbeidet. Få virksomheter la vekt på betydningen av organisatoriske faktorer for det psykososiale arbeidsmiljøet. I tillegg til at forståelsen av begrepet psykososialt arbeidsmiljø varierte mellom virksomheter, var det flere som fremhevet at det også manglet felles forståelse av begrepet internt i egen virksomhet. Om lag to tredeler av virksomhetene vurderte psykososialt arbeidsmiljø som et positivt ladet begrep, mens en liten andel (14 %) vurderte det som negativt. Seks av ti virksomheter oppga at psykososialt arbeidsmiljø er et begrep de bruker, men for noen grupper var denne andelen lavere.
 
 #### 2.2. Psykososialt arbeidsmiljø og helse
 
@@ -64,18 +92,19 @@ Sammenhengen mellom psykososialt arbeidsmiljø og helse er veldokumentert, og de
 
 På den andre siden, er det studier som viser at høy grad av faktorer som selvbestemmelse og sosial støtte fra kollegaer eller ledere kan beskytte mot risiko for helseplager. Et gunstig psykososialt arbeidsmiljø bidra til eksempelvis å beskytte mot helseplager, øke jobbengasjement og jobbtilfredshet, øke sannsynligheten for at arbeidstakeren står i jobb lenger enn vanlig pensjonsalder, og ha betydning for sikkerhetsatferd, sikkerhetskultur og produktivitet. Arbeid er et grunnleggende levekårsgode, og dersom arbeidsmiljøet er godt, kan det bidra til å dekke grunnleggende behov for individet som økonomisk trygghet, struktur i hverdagen, mening, mestring og tilhørighet.
 
-Selv om forskning har vist at enkeltfaktorer i psykososialt arbeidsmiljø kan innebære risiko, har studier også lagt vekt på betydningen av helheten i det psykososiale arbeidsmiljøet, og samspillet mellom ulike faktorer. Et eksempel er
+Selv om forskning har vist at enkeltfaktorer i psykososialt arbeidsmiljø kan innebære risiko, har studier også lagt vekt på betydningen av helheten i det psykososiale arbeidsmiljøet, og samspillet mellom ulike faktorer. Et eksempel er [en studie som ble gjennomført av forskere ved Det Nationale Forskningscenter for Arbejdsmiljø i Danmark (nfa.dk, PDF)](https://nfa.dk/media/lfslx0pa/faktaark_kombinationseffekter_i_det_psykiske_arbejdsmiljo.pdf). De fant at høye emosjonelle krav kombinert med stor arbeidsmengde og tidspress, hadde en større effekt på depressive symptomer, enn summen av de to enkeltfaktorene hver for seg. Det samme gjaldt effekter på langtidssykefravær av stor arbeidsmengde og tidspress kombinert med arbeidsrelatert vold, og av stor arbeidsmengde og tidspress kombinert med uklare krav og motstridende krav.
 
 Et vanlig faglig perspektiv er at et godt psykososialt arbeidsmiljø kjennetegnes av balanse mellom ulike faktorer. Et eksempel på dette er jobbkrav-ressursmodellen som de siste 20 årene har vært hyppig brukt i både forskning og praksis for å forklare, forstå og arbeide med psykososialt arbeidsmiljø og helse. Utgangspunktet i modellen er at alle psykososiale arbeidsmiljøfaktorer kan kategoriseres som enten jobbkrav eller jobbressurser. Jobbkravene kan sette i gang en helsereduserende prosess, mens jobbressursene kan bidra som en buffer og begrense negative helsekonsekvenser. Jobbressursene kan, i tillegg, bidra til en motiverende eller helsefremmende prosess. Selv om utgangspunktet i modellen er at jobbkravene setter i gang en helsereduserende prosess, er det ikke nødvendigvis gunstig med en jobbsituasjon uten jobbkrav. Jobbkravene kan, i tillegg til å innebære belastninger, også innebære positive utfordringer og kan bidra til motivasjon og mening i arbeidet dersom man har relevante og tilstrekkelige jobbressurser til stede. Forskning har støttet at det er en balanse mellom jobbkrav og jobbressurser som kjennetegner en arbeidssituasjon som er gunstig for både helse og motivasjon.
-
 
 #### 2.3. Tilstandsbeskrivelse
 
 I internasjonal sammenheng er Norge på et høyt nivå når det gjelder psykososialt arbeidsmiljø, og mange norske arbeidstakere rapporterer om høy grad av jobbtilfredshet og motivasjon. Likevel har vi noen betydelige utfordringer. Over 60 prosent av både langtidssykefravær og uføretrygd i Norge tilskrives muskel- og skjelettdiagnoser og psykiske diagnoser. Psykiske lidelser er den hyppigst forekommende diagnosen blant personer som mottar arbeidsavklaringspenger, og stadig flere unge arbeidstakere faller ut av arbeidslivet grunnet psykiske lidelser og atferdsforstyrrelser.
 
-I
+I [2013 publiserte OECD en rapport om psykisk helse og arbeid i Norge (oecd.org)](https://www.oecd.org/en/publications/mental-health-and-work-norway_9789264178984-en.html) hvor det ble påpekt at Norge har den høyeste forekomsten av sykefravær og tilfeller av uføretrygd av alle OECD-landene. OECD anbefalte Norge å gjøre tiltak for å unngå sykefravær grunnet psykisk uhelse, og viste til arbeidsplassen som en arena for å løse dette problemet. De siste ti årene har imidlertid forekomsten av arbeidsrelaterte psykiske plager over doblet seg. Ved siste måling, i 2022, viste Levekårsundersøkelsen at 19 prosent av sysselsatte i Norge hadde arbeidsrelaterte psykiske plager. Det vil si at de oppga at de hadde vært plaget av nervøsitet, angst, rastløshet, nedtrykthet eller depresjon i løpet av den siste måneden, helt eller delvis grunnet sin daværende jobb. [En samfunnsøkonomisk analyse fra 2018 (osloeconomics.no, PDF)](https://osloeconomics.no/wp-content/uploads/2018/05/Samfunnsnytten-av-bedriftshelsetjenesten.pdf) anslo at et ikke-optimalt arbeidsmiljø, som medfører sykdom eller skade, eller hindrer arbeidstakere i å produsere det de ellers kunne gjort, årlig koster samfunnet 75 milliarder kroner, og virksomhetene 30 milliarder kroner.
 
-Arbeidstakere på tvers av hele det norske arbeidslivet eksponeres for risiko knyttet til psykososialt arbeidsmiljø, og noen yrker og næringer er spesielt utsatte, blant annet på grunn av egenskaper ved arbeidet som utføres.
+[STAMI estimerte i 2014 at 15 prosent av langtidssykefraværet i Norge kan tilskrives psykososiale faktorer i arbeidsmiljøet (stami.no)](https://stami.no/publikasjon/work-related-psychosocial-risk-factors-for-long-term-sick-leave-a-prospective-study-of-the-general-working-population-in-norway/). I meldinger om arbeidsrelatert sykdom, som Arbeidstilsynet mottok fra leger i perioden 2005-2023, var psykososiale arbeidsmiljøfaktorer den hyppigst oppgitte årsaken til arbeidsrelatert sykdom hos kvinner.
+
+Arbeidstakere på tvers av hele det norske arbeidslivet eksponeres for risiko knyttet til psykososialt arbeidsmiljø, og noen yrker og næringer er spesielt utsatte, blant annet på grunn av egenskaper ved arbeidet som utføres. [Levekårsundersøkelsen om arbeidsmiljø i 2022 (noa.stami.no)](https://noa.stami.no/) viste for eksempel at
 
 - 54 % av sysselsatte i Norge oppgir at de har høye jobbkrav i form av høyt arbeidstempo eller for mye å gjøre (leger, barnehagelærere, sykepleiere, ledere og psykologer/fysioterapeuter er blant yrkesgruppene som er særlig utsatt)
 - 25 % av sysselsatte oppgir at de har lav grad av selvbestemmelse (buss-/drosjesjåfører, pleiemedarbeidere, servitører og sykepleiere er blant yrkesgruppene som er særlig utsatt)
@@ -86,20 +115,22 @@ Arbeidstakere på tvers av hele det norske arbeidslivet eksponeres for risiko kn
 - 4,7 % oppgir at de har blitt utsatt for uønsket seksuell oppmerksomhet i løpet av det siste året (servitører, pleiemedarbeidere, sykepleiere, vernepleiere/sosialarbeidere og helsefagarbeidere er blant de særlig utsatte yrkesgruppene)
 - 3,3 % oppgir at de har blitt utsatt for mobbing fra leder eller kollegaer i løpet av det siste året (leger, servitører, pleiemedarbeidere, lager-/logistikkmedarbeidere, helsefagarbeidere og vaktmestere er blant de særlig utsatte yrkesgruppene)
 - 16 % oppgir at de ofte eller av og til er involvert i ubehagelige konflikter med ledere eller kollegaer (los/flygere, ledere, vakt/militær, toppledere, vernepleiere/sosialarbeidere, leger og barnehagelærere er blant de særlig utsatte yrkesgruppene)
-Flere utviklingstrekk i samfunnet og arbeidslivet fordrer søkelys på psykososialt arbeidsmiljø i årene fremover. Befolkningsendringer og en stadig aldrende befolkning bidrar til at behovet for arbeidskraft endrer seg. Mange arbeidstakere vil kunne oppleve økt grad av jobbusikkerhet. Andre, som for eksempel arbeidstakere innen helse og omsorg, vil kunne oppleve økt arbeidspress. Et annet eksempel er at stadig flere sysselsettes i tjenesteytende næringer hvor det utføres arbeid i kontakt med eksempelvis kunder, brukere og pasienter. Dette kan bety at flere arbeidstakere eksponeres for psykososiale risikofaktorer. Eksempler på øvrige forhold som kan ha betydning for tilstanden når det gjelder psykososialt arbeidsmiljø og utfall for helse, sikkerhet og velferd framover er økt fleksibilitet når det gjelder arbeidstid og arbeidssted, teknologiske endringer, samt økt bruk av åpne kontorlandskap.
 
+Flere utviklingstrekk i samfunnet og arbeidslivet fordrer søkelys på psykososialt arbeidsmiljø i årene fremover. Befolkningsendringer og en stadig aldrende befolkning bidrar til at behovet for arbeidskraft endrer seg. Mange arbeidstakere vil kunne oppleve økt grad av jobbusikkerhet. Andre, som for eksempel arbeidstakere innen helse og omsorg, vil kunne oppleve økt arbeidspress. Et annet eksempel er at stadig flere sysselsettes i tjenesteytende næringer hvor det utføres arbeid i kontakt med eksempelvis kunder, brukere og pasienter. Dette kan bety at flere arbeidstakere eksponeres for psykososiale risikofaktorer. Eksempler på øvrige forhold som kan ha betydning for tilstanden når det gjelder psykososialt arbeidsmiljø og utfall for helse, sikkerhet og velferd framover er økt fleksibilitet når det gjelder arbeidstid og arbeidssted, teknologiske endringer, samt økt bruk av åpne kontorlandskap.
 
 #### 2.4. Hvordan jobber virksomhetene med psykososialt arbeidsmiljø
 
-Det er viktig at virksomhetene arbeider forebyggende med det psykososiale arbeidsmiljøet for å forhindre at det bidrar til helseplager, sykdom, sykefravær og andre uheldige utfall for arbeidstakerne, virksomhetene og samfunnet (se punkt 2.2).
+Det er viktig at virksomhetene arbeider forebyggende med det psykososiale arbeidsmiljøet for å forhindre at det bidrar til helseplager, sykdom, sykefravær og andre uheldige utfall for arbeidstakerne, virksomhetene og samfunnet (se punkt 2.2). [Studier av forskere ved STAMI (noa.stami.no)](https://noa.stami.no/) har vist at en fjerdedel av alle tilfeller av psykiske plager, en fjerdedel av alle tilfeller av moderate til alvorlige nakke- og skuldersmerter, og en tredjedel av alle tilfeller av moderate til alvorlige korsryggsmerter, kunne vært unngått dersom kjente risikofaktorer i arbeidsmiljøet hadde vært eliminert (noa.stami.no). En [studie av Oxford Research som ble publisert i 2022 (nav.no)](https://www.nav.no/no/nav-og-samfunn/kunnskap/forskningsrapporter-og-evalueringer-finansiert-av-nav/sykefravaer-og-arbeidsmiljo-rapportarkiv2/kartlegging-av-sammenhengen-mellom-forebyggende-arbeidsmiljoarbeid-og-sykefravaer-pa-bransje-og-virksomhetsniva), på oppdrag av Arbeids- og velferdsdirektoratet, viste at virksomheter som prioriterer forebyggende arbeidsmiljøarbeid har lavere sykefravær enn de som ikke gjør det.
 
 Som respons på et solid evidensgrunnlag når det gjelder sammenhenger mellom psykososialt arbeidsmiljø og helse, har det blitt gjort stadig mer forskning på intervensjoner og tiltak på dette området. Studiene har imidlertid foreløpig handlet mest om reaktive tiltak på individnivå, noe som også har kjennetegnet mye av praksisen på området. Den felles beskrivelsen av at «arbeidsmiljø handler om arbeidet» (omtalt i punkt 2.1) var i stor grad resultat av en kritikk mot individrettede tiltak for å adressere utfordringer i det psykososiale arbeidsmiljøet. Forskning dreier også fokuset stadig mer mot at det kan være hensiktsmessig å sette inn tiltak på flere nivåer i organisasjonen, som leder-, gruppe- og organisasjonsnivå, og på betydningen av et helsefremmende perspektiv på dette området.
 
-I en
+[Erfaringer knyttet til IA-avtalen 2014-2018 (regjeringen.no, PDF)](https://www.regjeringen.no/contentassets/43da268314c14e1dbccc7442cd793b3a/underveisvurdering-ia-avtalen-alpr.pdf) tilsa at kjennetegn ved virksomheter som lykkes med forebyggende arbeidsmiljøarbeid var ansvarlig og engasjert ledelse, samarbeid og arbeidstakermedvirkning, aktive verneombud og tillitsvalgte, samt kunnskap og kompetanse. Arbeidstilsynet erfarer imidlertid at virksomhetene generelt har et stort forbedringspotensial når det gjelder systematisk forebygging av helseplager relatert til psykososialt og organisatorisk arbeidsmiljø. I perioden 2016-2023 gjennomførte Arbeidstilsynet 8144 tilsyn hvor psykososialt arbeidsmiljø var tema, og i 61 prosent av disse ble det avdekket brudd på regelverket. En intern spørreundersøkelse i Arbeidstilsynet viste at inspektører og jurister i etaten erfarer at mange virksomheter ikke forstår årsakene til, er motiverte til, eller forstår hvordan de skal ta tak i psykososiale arbeidsmiljøutfordringer som blir påpekt i tilsyn. Inspektørene og juristene erfarer også at arbeidsgivere i liten grad kjenner eller forstår reglene knyttet til psykososialt arbeidsmiljø, og at faktorene som nevnes særskilt i arbeidsmiljølovens § 4-3 vies liten oppmerksomhet.
 
-At norske virksomheter har utfordringer og potensial til forbedring når det gjelder forebyggende arbeidsmiljøarbeid og etterlevelse av lovens krav til et fullt forsvarlig arbeidsmiljø på det psykososiale området, bekreftes også av forskning og flere kilder i forbindelse med
+I en [rapport fra 2024 om oppfølging av psykososial og organisatorisk risiko på gruppenivå (havtil.no, PDF)](https://www.havtil.no/contentassets/0c84d886350b425ab27457c92e7e59b0/st-18572-3-oppfolging-av-organisatorisk-og-psykososial-risiko-pa-gruppeniva.pdf) kom det frem at også Havindustritilsynet erfarer at virksomhetene har utfordringer i sitt arbeid med psykososialt arbeidsmiljø. Havindustritilsynet erfarer blant annet at virksomhetene mangler systematikk i arbeidet med det psykososiale arbeidsmiljøet, at det ofte ikke gjennomføres risikovurderinger, at tiltak ikke er risikobaserte, og at oppfølging ofte utløses av eksisterende problemer og i mindre grad er proaktiv eller forebyggende.
 
-Arbeidstilsynets utredning baserer seg på funn fra både SINTEF-studien, annen forskning og erfaringer innhentet fra ulike aktører innen HMS-arbeid. Som
+At norske virksomheter har utfordringer og potensial til forbedring når det gjelder forebyggende arbeidsmiljøarbeid og etterlevelse av lovens krav til et fullt forsvarlig arbeidsmiljø på det psykososiale området, bekreftes også av forskning og flere kilder i forbindelse med [Arbeidstilsynets utredning (arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf). En del av utfordringen er at virksomhetene opplever det som vanskelig å forstå hva psykososialt arbeidsmiljø er, og hvilke faktorer som ligger i det (se også punkt 2.1). Ofte blir psykososialt arbeidsmiljø tolket snevrere enn det egentlig er. [SINTEF sin kartlegging av virksomhetenes arbeid med psykososialt arbeidsmiljø fra 2022 (sintef.no, PDF)](https://www.sintef.no/globalassets/sintef-digital/sintef-rapport-kartlegging-psykososialt-arbeidsmiljoarbeid-fou-2021-15.pdf) viste at to av tre virksomheter oppgir at de prioriterer psykososialt arbeidsmiljø på lik linje med andre arbeidsmiljøfaktorer, men SINTEF poengterer at dette ikke forteller noe om hva virksomhetene faktisk har på dagsordenen.
+
+Arbeidstilsynets utredning baserer seg på funn fra både SINTEF-studien, annen forskning og erfaringer innhentet fra ulike aktører innen HMS-arbeid. Som [rapporten (arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf) påpeker, gjøres det mye bra blant virksomhetene, men det er også noen sentrale utfordringer og forbedringsområder, som blant annet at
 
 - psykososialt arbeidsmiljø er vanskelig, både å forstå og å jobbe med
 - ledelse, psykisk sykdom, kulturforskjeller, stress, samhold, konflikter, mobbing, trakassering og utviklingstrekk i arbeidslivet er eksempler på temaer som oppleves som utfordrende å jobbe med
@@ -108,6 +139,9 @@ Arbeidstilsynets utredning baserer seg på funn fra både SINTEF-studien, annen 
 - få gjør gode tiltak for det psykososiale arbeidsmiljøet, trivsels- og velferdstiltak dominerer, og det mangler en rød tråd tilbake til kartlegging og risikovurdering
 - det er manglende kunnskap, blant annet om hvordan det organisatoriske arbeidsmiljøet påvirker det psykososiale arbeidsmiljøet
 - stor arbeidsbelastning og tidspress innebærer dobbel risiko da det fører til at flere nedprioriterer eller ikke får jobbet godt nok på dette området
+
+[Arbeidstilsynets utredning (arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf) har avdekket flere utfordringer knyttet til i hvilken grad dagens regelverk fungerer som hjelpemiddel for virksomhetene, deriblant at
+
 - arbeidsmiljøloven § 4-3 oppleves som mangelfull og burde inneholdt flere relevante risikofaktorer
 - faktorene som nevnes i arbeidsmiljøloven § 4-3 fremstår som en uttømmende liste over psykososiale arbeidsmiljøfaktorer
 - begrepene i loven, som for eksempel «integritet og verdighet», oppfattes som vanskelig å forstå
@@ -122,13 +156,13 @@ Arbeidstilsynet gjør flere innsatser og aktiviteter hvor psykososialt arbeidsmi
 
 Arbeidstilsynet har gjennomført en rekke tilsynssatsinger, prosjekter og lignende, med forskjellige målgrupper, hvor psykososialt arbeidsmiljø har vært tema. I tillegg til tilsyn som målrettet risikobasert innsats, gjennomfører Arbeidstilsynet tilsyn på bakgrunn av mottatte tips om kritikkverdige forhold eller meldinger fra leger om arbeidsrelatert sykdom.
 
-I perioden 2016-2023 gjennomførte Arbeidstilsynet 8144 tilsyn hvor psykososialt arbeidsmiljø var tema, og i 61 prosent av disse ble det avdekket brudd på regelverket. En stor andel av disse tilsynene ble gjennomført i næringene overnatting og servering, og helse- og sosialtjenester, men det har også blitt gjennomført tilsyn innen eksempelvis offentlig administrasjon, varehandel og undervisning. Arbeidstilsynet finner oftest brudd på kontrollpunkter knyttet til kartlegging, risikovurdering, plan og tiltak – enten når det gjelder psykososialt arbeidsmiljø generelt, eller konkret om vold og trusler. I tilsyn med kontrollpunkter som omhandler psykososialt arbeidsmiljø generelt, har det blitt tatt utgangspunkt i forskning om kjente risikofaktorer på området som for eksempel høye jobbkrav, lav kontroll, arbeidsbelastning, sosial støtte, rollekonflikter, emosjonelle krav, trakassering med mer. Tilsyn med psykososialt arbeidsmiljø har svært ofte organisatorisk arbeidsmiljø som tema i tillegg. Mer om hvordan Arbeidstilsynet gjennomfører tilsyn med psykososialt arbeidsmiljø, og hva som avdekkes i disse tilsynene, kan leses i
+I perioden 2016-2023 gjennomførte Arbeidstilsynet 8144 tilsyn hvor psykososialt arbeidsmiljø var tema, og i 61 prosent av disse ble det avdekket brudd på regelverket. En stor andel av disse tilsynene ble gjennomført i næringene overnatting og servering, og helse- og sosialtjenester, men det har også blitt gjennomført tilsyn innen eksempelvis offentlig administrasjon, varehandel og undervisning. Arbeidstilsynet finner oftest brudd på kontrollpunkter knyttet til kartlegging, risikovurdering, plan og tiltak – enten når det gjelder psykososialt arbeidsmiljø generelt, eller konkret om vold og trusler. I tilsyn med kontrollpunkter som omhandler psykososialt arbeidsmiljø generelt, har det blitt tatt utgangspunkt i forskning om kjente risikofaktorer på området som for eksempel høye jobbkrav, lav kontroll, arbeidsbelastning, sosial støtte, rollekonflikter, emosjonelle krav, trakassering med mer. Tilsyn med psykososialt arbeidsmiljø har svært ofte organisatorisk arbeidsmiljø som tema i tillegg. Mer om hvordan Arbeidstilsynet gjennomfører tilsyn med psykososialt arbeidsmiljø, og hva som avdekkes i disse tilsynene, kan leses i [rapporten som ble publisert i 2023 i forbindelse med Arbeidstilsynets utredning (arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf).
 
 I årene 2018-2022 mottok Arbeidstilsynet i overkant av 43000 tips om kritikkverdige forhold, hvorav 5445 av disse (12,6 %) omhandlet psykososiale arbeidsbetingelser, som for eksempel trakassering, konflikt, vold eller uheldige belastninger. Generelt er flere av tipsene som mottas komplekse, og omhandler elementer fra ulike kategorier. En viss andel av tips om organisatoriske arbeidsbetingelser (totalt 17567 tips og varsler) og systematisk arbeidsmiljøarbeid (totalt 5302 tips og varsler) omhandler derfor også sannsynligvis psykososiale arbeidsmiljøforhold. Arbeidstilsynet mottar også meldinger fra leger om arbeidsrelatert sykdom.
 
 Arbeidstilsynet veileder om psykososialt arbeidsmiljø gjennom ulike kanaler. Veiledningen retter seg mot alle roller i arbeidsmiljøarbeidet, som arbeidsgivere, ledere, verneombud, tillitsvalgte, arbeidstakere og andre målgrupper.
 
-Den største veiledningskanalen til Arbeidstilsynet er nettsidene på
+Den største veiledningskanalen til Arbeidstilsynet er nettsidene på [arbeidstilsynet.no](https://www.arbeidstilsynet.no/). Arbeidstilsynets nettsider har en tematisk inngang og inneholder veiledningssider om blant annet psykososialt arbeidsmiljø, organisatorisk arbeidsmiljø, arbeidsrelaterte psykiske plager, arbeidsrelaterte muskel og skjelettplager, arbeidsrelatert stress, mobbing og vold og trusler. I tillegg veileder Arbeidstilsynet gjennom
 
 - Arbeidstilsynets svartjeneste som veileder ulike aktører om rettigheter og plikter i arbeidslivet
 - seksjon for kunnskapsformidling inkluderende arbeidsliv (KIA) som særlig veileder og kunnskapsformidler om forebyggende arbeidsmiljøarbeid med fokus på blant annet at arbeidsmiljø handler om arbeidet, partssamarbeid og forebygging av arbeidsrelaterte muskel- og skjelettplager og psykiske plager
@@ -137,12 +171,13 @@ Den største veiledningskanalen til Arbeidstilsynet er nettsidene på
 - tilsyn
 - kampanjer, nyhetssaker, sosiale medier mv.
 
-#### 3.1. Arbeidsmiljølovens krav til det psykososiale arbeidsmiljøet
+### 3. Gjeldende rett
 
+#### 3.1. Arbeidsmiljølovens krav til det psykososiale arbeidsmiljøet
 
 #### 3.1.1. Arbeidsmiljøloven § 4-3
 
-Kravene til psykososialt arbeidsmiljø er hovedsakelig regulert i
+Kravene til psykososialt arbeidsmiljø er hovedsakelig regulert i [arbeidsmiljøloven § 4-3 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A74-3), men kravene må også ses i sammenheng med bestemmelsene i §§ 4-1, 4-2 og 4-6 (1) som handler om de organisatoriske arbeidsbetingelsene. Av arbeidsmiljøloven § 4-3 fremgår det at:
 
 - arbeidet skal legges til rette slik at arbeidstakers integritet og verdighet ivaretas
 - arbeidet skal søkes utformet slik at det gir mulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomheten
@@ -151,36 +186,39 @@ Kravene til psykososialt arbeidsmiljø er hovedsakelig regulert i
 
 #### 3.1.2. Hvem har ansvaret
 
-Arbeidsgiver har ansvaret for å sikre at det psykososiale arbeidsmiljøet er fullt forsvarlig, jf. arbeidsmiljøloven §§ 2-1 og 4-1. Arbeidsgiver kan også ha ansvar for at andre enn egne arbeidstakere, herunder innleide og selvstendige oppdragstakere, har et fullt forsvarlig arbeidsmiljø når disse utfører arbeid i tiknytning til arbeidsgivers aktivitet eller innretning jf.
+Arbeidsgiver har ansvaret for å sikre at det psykososiale arbeidsmiljøet er fullt forsvarlig, jf. arbeidsmiljøloven §§ 2-1 og 4-1. Arbeidsgiver kan også ha ansvar for at andre enn egne arbeidstakere, herunder innleide og selvstendige oppdragstakere, har et fullt forsvarlig arbeidsmiljø når disse utfører arbeid i tiknytning til arbeidsgivers aktivitet eller innretning jf. [arbeidsmiljøloven § 2-2 (1) bokstav a (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A72-2).
 
-Arbeidstakers medvirkningsplikt er også en sentral del av arbeidsmiljølovens rammeverk, som pålegger ansatte en aktiv rolle i arbeidet med helse, miljø og sikkerhet (HMS) på arbeidsplassen. I henhold til
-
+Arbeidstakers medvirkningsplikt er også en sentral del av arbeidsmiljølovens rammeverk, som pålegger ansatte en aktiv rolle i arbeidet med helse, miljø og sikkerhet (HMS) på arbeidsplassen. I henhold til [arbeidsmiljøloven § 2-3 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A72-3) har arbeidstakere en plikt til å medvirke til gjennomføringen av tiltak som skal sikre et forsvarlig psykososialt arbeidsmiljø. Dette innebærer blant annet at arbeidstakere skal følge instrukser som gis av arbeidsgiver, rapportere farer og ulykker, og delta i utformingen og oppfølgingen av HMS-tiltak mv.
 
 #### 3.1.3. Det forebyggende aspektet og krav til et fullt forsvarlig arbeidsmiljø
 
+[Arbeidsmiljøloven § 4-1 (1), første punktum (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A74-1) presiserer lovens forebyggingsaspekt ved å pålegge arbeidsgivere en plikt til å forebygge uheldige fysiske og psykiske belastninger for arbeidstakerne. Dette innebærer at arbeidet skal organiseres på en måte som reduserer risikoen for skader og helseproblemer, samtidig som sikkerhetshensyn ivaretas. Det inkluderer blant annet arbeidets organisering, tilrettelegging av arbeidsoppgaver, ledelse, arbeidstidsordninger, lønnssystemer og bruk av teknologi.
+
 Forsvarlighetskravet i arbeidsmiljøloven § 4-1 (1) angir den generelle arbeidsmiljøstandarden. § 4-3 supplerer § 4-1 (1). Etter § 4-1 (1) har arbeidsgiver ansvaret for at:
 
-Arbeidsmiljøloven § 4-1 (1) er uttrykk for en rettslig standard og er en dynamisk vurderingsnorm hvor innholdet endres i tråd med samfunnsutviklingen, for eksempel ved teknisk utvikling, ny kunnskap om risikofaktorer i arbeidsmiljøet, og den sosiale utviklingen i samfunnet (jf. også
+Arbeidsmiljøet i virksomheten skal være fullt forsvarlig ut fra en enkeltvis og samlet vurdering av faktorer i arbeidsmiljøet som kan innvirke på arbeidstakeres fysiske og psykiske helse og velferd. Standarden for sikkerhet, helse og arbeidsmiljø skal til enhver tid utvikles og forbedres i samsvar med utviklingen i samfunnet.
 
+Arbeidsmiljøloven § 4-1 (1) er uttrykk for en rettslig standard og er en dynamisk vurderingsnorm hvor innholdet endres i tråd med samfunnsutviklingen, for eksempel ved teknisk utvikling, ny kunnskap om risikofaktorer i arbeidsmiljøet, og den sosiale utviklingen i samfunnet (jf. også [arbeidsmiljøloven § 1-1 (1) bokstav a (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A71-1) som angir arbeidsmiljølovens formål). Dette innebærer at det må foretas jevnlige vurderinger av arbeidsmiljøet for å tilpasse det til endrede forhold.
 
 #### 3.1.4. Virkemidler i arbeidsmiljøarbeidet
 
 Et av arbeidsgivers virkemidler for å sikre et fullt forsvarlig arbeidsmiljø er at det utføres systematisk helse-, miljø- og sikkerhetsarbeid.
 
-Det følger av
+Det følger av [arbeidsmiljøloven § 3-1 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A73-1) at arbeidsgiver har en plikt til å gjennomføre systematisk helse-, miljø- og sikkerhetsarbeid (HMS) i virksomheten. Systematisk HMS-arbeid skal utføres på alle plan i virksomheten. Dette innebærer blant annet kartlegging av farer og problemer, utarbeide planer og iverksetting av tiltak for å forebygge og redusere risiko, samt løpende kontroll med arbeidsmiljøet og arbeidstakernes helse. [Internkontrollforskriften (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/1996-12-06-1127) oppstiller nærmere krav til innholdet i det systematiske helse-, miljø- og sikkerhetsarbeidet.
 
 For å sikre arbeidstakeres medvirkning i HMS-arbeidet, pålegges arbeidsgiveren å involvere arbeidstakerne i utforming, gjennomføring og oppfølging av dette arbeidet i henhold til arbeidsmiljøloven § 2-3. Videre har arbeidstaker etter § 2-3 en plikt til å melde fra til arbeidsgiver om trakassering eller diskriminering på arbeidsplassen.
 
-Videre pålegges virksomheter å velge verneombud i henhold til
+Videre pålegges virksomheter å velge verneombud i henhold til [arbeidsmiljøloven § 6-1 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A76-1), som skal ivareta arbeidstakernes interesser knyttet til arbeidsmiljøet. [Arbeidsmiljøloven § 6-2 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A76-2) angir hvilke oppgaver verneombudet skal ha. Verneombudet skal ivareta arbeidstakernes interesser i saker som angår arbeidsmiljøet. Dette inkluderer å påse at arbeidsmiljøet er fullt forsvarlig når det gjelder helse, miljø og sikkerhet.
 
 I 2024 kom det et nytt punkt i loven som presiserer at verneombudet særlig skal påse at arbeidstakernes psykososiale arbeidsmiljø er ivaretatt. Denne presiseringen kom inn i loven med det mål å øke bevisstheten om verneombudets ansvar for de psykososiale sidene av arbeidsmiljøet.
 
 Arbeidsgiverne har en lovfestet plikt til å knytte virksomheten sin til en godkjent bedriftshelsetjeneste (BHT) under visse omstendigheter. Denne plikten er primært basert på risikoforholdene i arbeidsmiljøet. Hvis arbeidsmiljøet innebærer særlige helse- eller sikkerhetsrisikoer, er arbeidsgiveren pålagt å ha en BHT-tilknytning.
 
-Noen bransjer, som er kjent for å ha høyere risiko for arbeidsrelaterte sykdommer, skader eller psykiske belastninger, er i forskrift pålagt å være tilknyttet BHT (
-
+Noen bransjer, som er kjent for å ha høyere risiko for arbeidsrelaterte sykdommer, skader eller psykiske belastninger, er i forskrift pålagt å være tilknyttet BHT ([forskrift om organisering, ledelse og medvirkning kap. 13; lovdata.no).](https://lovdata.no/dokument/SF/forskrift/2011-12-06-1355/KAPITTEL_13#KAPITTEL_13)
 
 #### 3.2. Særlige forskriftsbestemmelser om arbeid som kan medføre fare for å bli utsatt for vold og trussel om vold
+
+[Forskrift om utførelse av arbeid kapittel 23A (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2011-12-06-1357/KAPITTEL_4-2#%C2%A723a-1) angir arbeidsgivers ansvar for å forebygge vold og trusler om vold på arbeidsplassen.
 
 Arbeidsgivere pålegges her å gjennomføre grundige risikovurderinger for å kartlegge potensielle farer knyttet til vold og trusler på arbeidsplassen. Dette innebærer å vurdere ulike faktorer og situasjoner som kan øke risikoen for slike hendelser. Basert på risikovurderingen skal arbeidsgiveren iverksette tiltak for å forebygge og håndtere situasjoner med vold eller trusler om vold. Dette kan omfatte organisatoriske tiltak, opplæring av ansatte, bruk av tekniske hjelpemidler og utvikling av beredskapsplaner.
 
@@ -188,12 +226,11 @@ Videre krever forskriften at arbeidstakere får nødvendig opplæring i hvordan 
 
 Arbeidsgiver skal også sørge for at arbeidstaker som er utsatt for vold og trussel om vold får nødvendig oppfølging.
 
-
 #### 3.3. Håndheving – tilsyn og sanksjoner
 
 Dagens regelverk inneholder ingen særlige bestemmelser knyttet til konkrete risikofaktorer i det psykososiale arbeidsmiljøet, ut over det som går frem av arbeidsmiljøloven § 4-3. Det følger imidlertid av § 4-1 at arbeidsmiljøet i virksomheten skal være fullt forsvarlig ut fra en enkeltvis og samlet vurdering av faktorer i arbeidsmiljøet som kan innvirke på arbeidstakernes fysiske og psykiske helse og velferd. Tilsynene er ofte innrettet mot det systematiske HMS-arbeidet, som kartlegging, risikovurdering, plan og tiltak – enten når det gjelder psykososialt arbeidsmiljø generelt, eller konkret om vold og trusler. Det er tatt utgangspunkt i risikofaktorer som eksempelvis høye jobbkrav, lav kontroll, arbeidsbelastning, sosial støtte, rollekonflikter, emosjonelle krav, trakassering med mer.
 
-Arbeidstilsynet fører tilsyn med at arbeidsmiljølovens krav til arbeidsmiljøet blir overholdt og har en rekke virkemidler til rådighet, jf.
+Arbeidstilsynet fører tilsyn med at arbeidsmiljølovens krav til arbeidsmiljøet blir overholdt og har en rekke virkemidler til rådighet, jf. [arbeidsmiljøloven kapittel 18 (lovdata.no)](https://lovdata.no/lov/2005-06-17-62/%C2%A718-1). Arbeidstilsynet har adgang til å gi pålegg og treffe de enkeltvedtak som er nødvendig for å sikre gjennomføringen av de aktuelle reglene i arbeidsmiljøloven og regler gitt i medhold av loven, jf. § 18-6. For å sikre at pålegg etterleves har Arbeidstilsynet blant annet adgang til å ilegge tvangsmulkt, pålegge hel eller delvis stansing av virksomheten, samt ilegge overtredelsesgebyr, jf. §§ 18-7, 18-8 og 18-10. Lovens § 18-10 andre ledd har momenter for vurdering ved ileggelse og utmåling av overtredelsesgebyr. Overtredelsesgebyr er en administrativ sanksjon og ilegges med det formål om å straffe virksomheten. Dette til forskjell fra pålegg, tvangsmulkt og stans, som har til formål å rette opp et lovstridig forhold.
 
 Kjerneområdet for Arbeidstilsynets bruk av overtredelsesgebyr er overtredelser som ikke er så alvorlige at de bør straffeforfølges, men hvor Arbeidstilsynets reaksjonsapparat ikke er tilstrekkelig effektive. Overtredelsesgebyr ilegges følgelig ved overtredelser av en viss alvorlighet eller ved gjentatte brudd på arbeidsmiljøregelverket. I perioden 2016- 2023 er det fattet i alt 798 vedtak om overtredelsesgebyr hvorav 13 vedtak gjaldt psykososialt arbeidsmiljø. I 2023 ble det vedtatt 7 overtredelsesgebyr knyttet til psykososialt arbeidsmiljø. Samtlige overtredelsesgebyr ble gitt ved brudd på bestemmelser om kartlegging, risikovurdering, tiltak og plan for å forebygge vold og trusler.
 
@@ -203,26 +240,23 @@ Det er i perioden 2015-2023 inngitt seks politianmeldelser for på brudd på dag
 
 Dette viser at det sjelden gis overtredelsesgebyr eller inngis anmeldelser når det gjelder krav til psykososialt arbeidsmiljø. Arbeidstilsynet legger til grunn at regelverksforslagene i dette høringsnotatet i seg selv ikke vil gi grunn til endring i Arbeidstilsynets håndhevingspraksis.
 
-
 #### 3.4. Regulering i Norden
 
 Arbeidstilsynet erfarer et økt fokus også i de nordiske landene på psykososialt arbeidsmiljø og behovet for tiltak på regelverkssiden. Både Sverige og Danmark har i løpet av de senere årene samlet og presisert krav til det psykososiale arbeidsmiljøet i egne forskrifter, med sikte på å gjøre regelverket på området mer tilgjengelig og forståelig. Finland vedtok presiseringer i loven av begrepet psykososiale faktorer i 2023, og er i gang med et arbeid, der regelverkskrav på det psykososiale området gjennomgås og gjeldende forskriftsregulering av psykososial arbeidsbelastning evalueres.Arbeidstilsynet har vært i kontakt med og hatt møter med arbeidstilsynene i Sverige og Danmark og etterspurt informasjon om og erfaringer med deres forskriftsregulering på det psykososiale arbeidsmiljøfeltet.
-
 
 #### 3.4.1. Sverige
 
 Reguleringen av det psykososiale arbeidsmiljøet i Sverige er basert på den svenske arbeidsmiljøloven og forskrifter til loven, som er utstedt av det svenske arbeidstilsynet, Arbetsmiljöverket. Den svenske arbeidsmiljøloven fastsetter de generelle rammene for hvilke krav som stilles til arbeidsgiver for å oppnå et tilfredsstillende arbeidsmiljø gjennom systematisk arbeidsmiljøarbeid.
 
-I 2015 ble det vedtatt en særskilt forskrift i Sverige om
+I 2015 ble det vedtatt en særskilt forskrift i Sverige om [«Organisatorisk och social arbetsmiljö», AFS 2015: 4 (OSA-forskriften; av.se, PDF)](https://www.av.se/globalassets/filer/publikationer/foreskrifter/organisatorisk-och-social-arbetsmiljo-foreskrifter-afs2015_4.pdf) som fokuserer spesifikt på organisatoriske og sosiale forhold på arbeidsplassen som kan påvirke ansattes trivsel, helse og sikkerhet.
 
 Formålet med forskriften er blant annet å sørge for at arbeidsgiverne har kunnskap om hvordan de kan forebygge og håndtere risikoforhold i det organisatoriske og sosiale arbeidsmiljøet. Forskriften tydeliggjør hvilke risikofaktorer som skal være en del av det systematiske forebyggende arbeidsmiljøarbeidet som arbeidsgiver er ansvarlig for etter loven. Ved å tydeliggjøre og regulere hvilke arbeidsmiljøfaktorer som fører til uhelse, er forskriften ment å bidra til at arbeidsgivere og arbeidstakere bedre skal forstå og følge lovens krav på dette området.
 
 Den svenske OSA-forskriften retter seg særskilt mot risikofaktorer i arbeidet som knytter seg til psykososialt arbeidsmiljø innenfor områdene: arbeidsbelastning, arbeidstid og krenkende særbehandling. Forskriften beskriver arbeidsgivers ansvar for å forebygge uhelse på grunn av risiko for uhelse knyttet til arbeidsmiljøfaktorer innenfor disse områdene.
 
-
 #### 3.4.2. Danmark
 
-I Danmark er det psykososiale arbeidsmiljøet også regulert gjennom den danske arbeidsmiljøloven. Loven oppstiller grunnleggende prinsipper og krav for arbeidsmiljøet, og gir hjemmel for tilhørende forskrifter. I 2020 fikk Danmark en ny forskrift om psykisk arbeidsmiljø,
+I Danmark er det psykososiale arbeidsmiljøet også regulert gjennom den danske arbeidsmiljøloven. Loven oppstiller grunnleggende prinsipper og krav for arbeidsmiljøet, og gir hjemmel for tilhørende forskrifter. I 2020 fikk Danmark en ny forskrift om psykisk arbeidsmiljø, [“Bekendtgørelse om psykisk arbejdsmiljø nr. 1406” (at.dk)](https://at.dk/regler/bekendtgoerelser/psykisk-arbejdsmiljoe-1406-sam/).
 
 Den danske forskriften tar sikte på å samle og tydeliggjøre gjeldende regelverkskrav på det psykososiale området, med sikte på å gjøre det lettere for virksomhetene å forstå hvordan forebygge og håndtere psykososiale risikofaktorer på arbeidsplassen. Forskriften inneholder både generelle krav og særlige bestemmelser, med definisjoner og detaljerte regler knyttet til følgende fem sentrale risikofaktorer i det psykiske arbeidsmiljøet:
 
@@ -234,10 +268,9 @@ Den danske forskriften tar sikte på å samle og tydeliggjøre gjeldende regelve
 
 #### 3.4.3. Finland
 
-Bestemmelser som har til formål å forbedre arbeidsmiljø og arbeidsforhold, opprettholde arbeidstakers arbeidsevne og forebygge ulykker og helseskade er fastsatt i den finske arbeidervernloven (arbetarskyddslagen 738/2002). I juni 2023 ble en presisering av psykososiale belastningsfaktorer tatt inn i lovens § 10 om kartlegging og risikovurdering. Det fremgår nå av arbeidervernlovens § 10 nr. 4 at arbeidsgiver skal ta hensyn til «
+Bestemmelser som har til formål å forbedre arbeidsmiljø og arbeidsforhold, opprettholde arbeidstakers arbeidsevne og forebygge ulykker og helseskade er fastsatt i den finske arbeidervernloven (arbetarskyddslagen 738/2002). I juni 2023 ble en presisering av psykososiale belastningsfaktorer tatt inn i lovens § 10 om kartlegging og risikovurdering. Det fremgår nå av arbeidervernlovens § 10 nr. 4 at arbeidsgiver skal ta hensyn til «fysiske belastningsfaktorer og belastningsfaktorer knyttet til innholdet i arbeidet, organiseringen av arbeidet og arbeidsfellesskapets sosiale funksjon» (vår oversettelse) ved vurdering av om ulemper og risiko utgjør en fare for arbeidstakers sikkerhet og helse.
 
 Finland har videre en arbeidsmiljøforskrift om psykososial arbeidsbelastning, som nylig er evaluert av et trepartssammensatt utvalg. Utvalget har gjennomgått lov- og forskriftsbestemmelser knyttet til det psykososiale området, og vurdert behovet for å oppdatere og utvikle disse. Utvalget, som fullførte sitt arbeid i juni 2024, har presentert forslag til endringer i arbeidervernloven og utfyllende forskriftsbestemmelser om psykososiale arbeidsbelastningsfaktorer. Det var delte meninger i utvalget om forslagene. Arbeidstilsynet erfarer at videre prosess er at forslagene skal til behandling i et rådgivende organ for utarbeidelse av HMS-forskrifter.
-
 
 #### 3.5. Kort om psykososialt arbeidsmiljø i EU og i et internasjonalt perspektiv
 
@@ -247,18 +280,19 @@ Det mest sentrale direktivet i EU på arbeidsmiljøområdet er direktiv av 12. j
 
 Den internasjonale arbeidsorganisasjonen (ILO) vedtok i 2019 ILO-konvensjon nr. 190 om avskaffelse av vold og trakassering, med en tilhørende rekommandasjon (nr. 206). Dette er den første internasjonale konvensjonen som innfører en internasjonal arbeidslivsstandard som anerkjenner alles rett til arbeidsliv fritt for vold og trakassering, inkludert kjønnsbasert vold og trakassering. Norge ratifiserte ILO-konvensjon nr. 190 i 2023.
 
-Uhelse som skyldes psykososiale risikofaktorer, slik som for høy arbeidsbelastning og stress, høye emosjonelle krav med videre, er et problem i hele Europa (
+Uhelse som skyldes psykososiale risikofaktorer, slik som for høy arbeidsbelastning og stress, høye emosjonelle krav med videre, er et problem i hele Europa ([osha.europe.eu](https://osha.europa.eu/no/themes/psychosocial-risks-and-mental-health)). En [statusrapport fra EU-OSHA i 2023 (osha.europa.eu)](https://osha.europa.eu/en/publications/occupational-safety-and-health-europe-state-and-trends-2023) om HMS-standard og trender i EU viser at psykososiale risikofaktorer og særlig emosjonelt belastende arbeid med mennesker (klienter, pasienter, brukere mv.) rapporteres å utgjøre en stadig økende arbeidsmiljøutfordring i europeisk arbeidsliv.
 
 Selv om det er lite internasjonal regulering på området, erfarer Arbeidstilsynet at det er et stadig økende fokus på de psykososiale arbeidsmiljøutfordringene i arbeidslivet, og behovet for regulering på området. Flere europeiske land, som for eksempel Belgia, har nylig innført særskilt regelverk rettet mot psykososialt arbeidsmiljø, og i EU diskuteres behovet for et eget direktiv innen det psykososiale arbeidsmiljøfeltet.
 
+### 4. Overordnede vurderinger
 
 #### 4.1. Om regulering som tiltak
 
-Psykososiale faktorer i arbeidsmiljøet har stor betydning for arbeidstakeres helse, motivasjon, fravær og frafall fra arbeidslivet, se punkt 2.2.
+Psykososiale faktorer i arbeidsmiljøet har stor betydning for arbeidstakeres helse, motivasjon, fravær og frafall fra arbeidslivet, se punkt 2.2. [Forskning (stami.no)](https://stami.no/publikasjon/work-related-psychosocial-risk-factors-for-long-term-sick-leave-a-prospective-study-of-the-general-working-population-in-norway/) viser blant annet at en ikke ubetydeligandel av langtidssykefraværet kan knyttes til psykososiale risikofaktorer i arbeidet. Tiltak som kan styrke forebyggingen av slike belastninger har derfor et stort potensial når det gjelder både å oppnå helse- og velferdsgevinster, høyne produktiviteten og å hindre frafall fra arbeidslivet.
 
 Arbeidsmiljøregelverkets systematikk er at mer generelle overordnede prinsipper og regler følger av loven, mens den mer utdypende og detaljerte reguleringen fastsettes i forskrift. Arbeidsmiljøloven slår således fast som en generell norm at arbeidstakerne skal sikres et arbeidsmiljø som er fullt forsvarlig, slik at de ikke utsettes for uheldige fysiske eller psykiske belastninger.
 
-Krav til psykososialt arbeidsmiljø følger i dag av arbeidsmiljøloven § 4-1 om generelle krav til arbeidsmiljøet, § 4-2 om krav til tilrettelegging, medvirkning og utvikling og § 4-3 om krav til det psykososiale arbeidsmiljøet. Når det gjelder vold og trusler er kravene utdypet i forskrift om utførelse av arbeid kapittel 23A. Generelle metodekrav følger videre av arbeidsmiljøloven § 3-1 og forskrift om systematisk helse-, miljø og sikkerhetsarbeid (
+Krav til psykososialt arbeidsmiljø følger i dag av arbeidsmiljøloven § 4-1 om generelle krav til arbeidsmiljøet, § 4-2 om krav til tilrettelegging, medvirkning og utvikling og § 4-3 om krav til det psykososiale arbeidsmiljøet. Når det gjelder vold og trusler er kravene utdypet i forskrift om utførelse av arbeid kapittel 23A. Generelle metodekrav følger videre av arbeidsmiljøloven § 3-1 og forskrift om systematisk helse-, miljø og sikkerhetsarbeid ([internkontrollforskriften](https://lovdata.no/dokument/SF/forskrift/1996-12-06-1127?q=internkontrollforskriften)). Lov- og forskriftsreguleringen vedrørende det psykososiale arbeidsmiljøet er imidlertid mye mindre konkret og omfattende enn reguleringen av det fysiske og kjemiske arbeidsmiljøet.
 
 Forskning og Arbeidstilsynets erfaring, se punkt 2, viser at virksomhetene i mange tilfeller ikke forstår hva det innebærer at det psykososiale arbeidsmiljøet skal være fullt forsvarlig i henhold til arbeidsmiljølovens krav. Kunnskapen om hvordan virksomhetene i praksis skal jobbe med psykososiale risikofaktorer varierer.
 
@@ -272,7 +306,7 @@ Arbeidstilsynet vil i den sammenheng, for det første peke på at vi er helt eni
 
 Utgangspunktet for vurderingen, her som ellers, er likevel en objektiv forsvarlighetsnorm, og arbeidstakernes behov og oppfatninger skal ikke alene være avgjørende for om arbeidsmiljøet anses forsvarlig. Det er derfor ikke slik at arbeidstakerne får «definisjonsmakten» for hva som er eller ikke er brudd på regelverket. Slik er det ikke i dag, og slik vil det heller ikke være med en mer detaljert regulering.
 
-Arbeidstilsynet viser til at resultater fra flere studier viser at reguleringer og krav som stilles i lovverket på HMS-området virker,
+Arbeidstilsynet viser til at resultater fra flere studier viser at reguleringer og krav som stilles i lovverket på HMS-området virker, [(se Arbeidstilsynets rapport fra 2023, punkt 10.5 arbeidstilsynet.no, PDF)](https://www.arbeidstilsynet.no/contentassets/1715bdd4ec5943358b024e206969a5d4/behov-for-bedre-regulering-av-arbeidsmiljolovens-krav-til-psykososialt-arbeidsmiljo.-utredning-av-arbeidstilsynet-2023.pdf). En [Undersøkelse ESENER («European Survey of Enterprises on New and Emerging Risks»; osha-europa.eu)](https://osha.europa.eu/en/publications/esener-2019-policy-brief) viste at å oppfylle juridiske forpliktelser er den viktigste motivasjonsfaktoren for at virksomhetene skal jobbe systematisk med helse og sikkerhet. Dette understøtter verdien av en god og hensiktsmessig regulering. Regelverks iboende kraft gjør at mange følger dette nettopp fordi det står i regelverket.
 
 For at regelverket skal ha ønsket effekt er det imidlertid avgjørende at mottaker forstår sine forpliktelser uten for store anstrengelser. Nytten av lovgivning som styringsmiddel og veiledning vil være begrenset til hva virksomhetene forstår av sine forpliktelser. Loven sender sterke signaler til arbeidsgiver om hva som er viktig å prioritere. Arbeidsgivers forebyggende arbeid og satsing på HMS-arbeid styres i stor grad av lovverket. Signaler om mer fokus og prioritering via regelverket kan bidra til å synliggjøre verdien av å øke kvaliteten på virksomhetenes forebyggende systematiske arbeidsmiljøarbeid.
 
@@ -288,10 +322,9 @@ Etter Arbeidstilsynets oppfatning bør spørsmålet om hvordan virksomhetenes ar
 
 Arbeidstilsynet vurderer at presiserende regler i lov og forskrift er et viktig tiltak for å tydeliggjøre krav og ansvar. Det er imidlertid også behov for omfattende veilednings- og informasjonstiltak, samt målrettet opplæring og kompetanseutvikling. Arbeidstilsynet vil ta initiativ til at veiledning som tar utgangspunkt i eventuelle nye forskriftsbestemmelser utarbeides i nært samarbeid med partene i arbeidslivet. Etter Arbeidstilsynets vurdering vil en slik kombinasjon av tiltak være den beste måten å oppnå et forsvarlig, trygt og inkluderende arbeidsmiljø, som fremmer trivsel og forebygger skadelige helsebelastninger.
 
-
 #### 4.2. Om begrepene psykososialt arbeidsmiljø og psykososiale arbeidsmiljøfaktorer i nytt regelverk
 
-Det finnes ingen felles definisjon eller beskrivelse av begrepet «psykososialt arbeidsmiljø», verken nasjonalt eller internasjonalt. Begrepet brukes med noe ulik betydning blant både forskere, virksomheter, myndigheter og partene i arbeidslivet. I tillegg, viste
+Det finnes ingen felles definisjon eller beskrivelse av begrepet «psykososialt arbeidsmiljø», verken nasjonalt eller internasjonalt. Begrepet brukes med noe ulik betydning blant både forskere, virksomheter, myndigheter og partene i arbeidslivet. I tillegg, viste [SINTEFs kartlegging fra 2022 (sintef.no, PDF)](https://www.sintef.no/globalassets/sintef-digital/sintef-rapport-kartlegging-psykososialt-arbeidsmiljoarbeid-fou-2021-15.pdf) at det varierer hvordan virksomhetene oppfatter begrepet, at det er mange misforståelser om innholdet i dette, og at det oppleves som komplisert og diffust. I tillegg til at forståelsen varierer mellom virksomheter, fremhevet flere respondenter at det manglet en felles forståelse av begrepet internt i egen virksomhet.
 
 På grunn at dette, ønsker Arbeidstilsynet å være tydelig når det gjelder hvilket innhold begrepet skal ha i lov og forskrift. Dette for å bidra til at aktører i norsk arbeidsliv får en mer omforent forståelse av hva psykososialt arbeidsmiljø dreier seg om, og for å hjelpe virksomhetene til å sikte seg inn på relevante psykososiale arbeidsmiljøfaktorer i sitt systematisk forebyggende arbeidsmiljøarbeid.
 
@@ -309,7 +342,6 @@ Arbeidstilsynet legger etter dette til grunn at begrepet psykososiale arbeidsmil
 
 Videre har Arbeidstilsynet mottatt innspill på alternative måter å benevne begrepet psykososialt arbeidsmiljø. Både Sverige og Danmark har definisjoner av psykososialt arbeidsmiljø i sin forskriftsregulering på området, men har valgt ulike benevnelser. Sverige bruker «organisatorisk og sosialt arbeidsmiljø», mens Danmark bruker «psykisk arbeidsmiljø», selv om det i hovedsak er det samme området de regulerer i sine forskrifter. Arbeidstilsynet vurderer det som lite hensiktsmessig å foreslå en annen benevnelse på psykososialt arbeidsmiljø enn den som allerede er innarbeidet i både loven og i faglitteratur på området. Arbeidstilsynet ønsker heller å gjøre tiltak for å oppklare, tydeliggjøre og bidra til en felles forståelse av hva psykososialt arbeidsmiljø handler om. I så måte antas det at en rød tråd i begrepsbruk mellom regelverket, veiledning og faglitteratur vil være det mest pedagogiske.
 
-
 #### 4.3. Psykososiale arbeidsmiljøfaktorer
 
 Det er veldokumentert at en rekke psykososiale arbeidsmiljøfaktorer har betydning for helse, se nærmere punkt 2.2 ovenfor. Både forskning og arbeidsmiljøloven peker på ulike forhold som innebærer risiko for helseplager eller skader, og som er sentrale å jobbe forebyggende med for å ivareta et godt psykososialt arbeidsmiljø. Noen psykososiale arbeidsmiljøfaktorer nevnes eksplisitt i både forskning og arbeidsmiljøloven. Andre faktorer, som løftes frem som sentrale både i forskning og i Arbeidstilsynets tilsyn på området, er imidlertid ikke direkte nevnt i loven i dag.
@@ -325,6 +357,7 @@ Nedenfor har vi inntatt en liste over faktorer som forskning har identifisert so
 - Arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet
 - Støtte og hjelp i arbeidet
 - Mulighet til å ha innflytelse over betingelsene for arbeidet og hvordan arbeidet skal utføres.
+
 Arbeidsmiljøfaktorene i listen ovenfor er valgt ut på bakgrunn av vurderinger knyttet til blant annet forskningsbasert kunnskap om sammenhenger med helseutfall, relevans for arbeidslivet som helhet, og hvorvidt risikoen knyttet til dem kan påvirkes av hvordan arbeidet organiseres, planlegges og gjennomføres. Med relevans i denne sammenhengen, mener vi hvor mange arbeidstakere som utsettes for risiko knyttet til den gitte faktoren, eller i hvor store deler av arbeidslivet faktoren er gjeldende. I den sammenheng har det også vært et mål å benevne og avgrense faktorene på en slik måte at de kan passe til ulike kontekster, som for eksempel ulike næringer og virksomhetsstørrelser. Dette er også faktorer som Arbeidstilsynet legger vekt på i sin tilsynspraksis med lovens krav til organisatorisk og psykososialt arbeidsmiljø, se nærmere omtale ovenfor under punkt 2.5.
 
 Arbeidsmiljøregelverket må ta utgangspunkt i veldokumentert kunnskap om særskilte risikofaktorer innenfor det psykososiale arbeidsmiljøområdet.
@@ -335,19 +368,23 @@ Erfaringsinnhenting viser også at virksomhetene ofte assosierer psykososialt ar
 
 Arbeidstilsynet foreslår derfor en mer omfattende, men ikke uttømmende opplisting av eksempler på fremtredende psykososiale arbeidsmiljøfaktorer i arbeidsmiljøloven § 4-3 og i forslaget til presiserende forskriftsbestemmelser, se nærmere om forslagene i punkt 5 og 6 nedenfor. Hovedformålet med denne eksemplifiseringen er å gi partene på arbeidsplassen god praktisk veiledning i hva som ligger i kravet til et fullt forsvarlig psykososialt arbeidsmiljø.
 
+### 5. Forslag til endringer i arbeidsmiljøloven § 4-3 om krav til det psykososiale arbeidsmiljøet
+
 I punkt 4.1 ovenfor konkluderer Arbeidstilsynet med at det vil være hensiktsmessig å foreslå en bredere og mer detaljert regulering av det psykososiale arbeidsmiljøet, som ett av flere tiltak for å styrke innsatsen på dette området. Som det også vises til under punkt 4.1 er arbeidsmiljøregelverkets systematikk at mer generelle overordnede prinsipper og regler følger av loven, mens utdypende og detaljerte regler gjerne fastsettes i forskrift. Slik Arbeidstilsynet ser det, er det således hensiktsmessig å gjøre endringer både i arbeidsmiljøloven § 4-3 om krav det psykososiale arbeidsmiljøet og presiserende bestemmelser forskrift om utførelse av arbeid.
 
 Det er ikke tvil om at arbeidsmiljøloven materielt sett allerede regulerer det psykososiale arbeidsmiljøet «fullt ut». Arbeidsmiljøloven § 4-1 første ledd fastsetter i dag at arbeidsmiljøet i virksomheten skal være fullt forsvarlig ut fra en enkeltvis og samlet vurdering av alle faktorer i arbeidsmiljøet som kan innvirke på arbeidstakernes fysiske og psykiske helse og velferd. Bestemmelsen gir uttrykk for det viktige prinsippet om at forsvarligheten til det psykososiale arbeidsmiljøet ikke bare kan vurderes ut fra hver enkeltfaktor isolert, men at de forskjellige arbeidsmiljøfaktorene også må vurderes i sammenheng.
 
-I tillegg framgår lovens krav til hvordan det psykososiale arbeidsmiljøet skal være av arbeidsmiljøloven § 4-3. Bestemmelsen i § 4-3 angir enkelte sentrale faktorer i det psykososiale arbeidsmiljøet. Det følger av lovforarbeidene til § 4-3 at bestemmelsen ikke er ment å være uttømmende, og at også andre relevante arbeidsmiljøfaktorer i det psykososiale arbeidsmiljøet vil være dekket av den generelle bestemmelsen i arbeidsmiljøloven § 4-1 første ledd. Arbeidstilsynet vil påpeke at dette poenget ikke nødvendigvis er så lett å få øye på for lovens brukere. Det er således Arbeidstilsynets erfaring, blant annet gjennom tilsyn og funn i
+I tillegg framgår lovens krav til hvordan det psykososiale arbeidsmiljøet skal være av arbeidsmiljøloven § 4-3. Bestemmelsen i § 4-3 angir enkelte sentrale faktorer i det psykososiale arbeidsmiljøet. Det følger av lovforarbeidene til § 4-3 at bestemmelsen ikke er ment å være uttømmende, og at også andre relevante arbeidsmiljøfaktorer i det psykososiale arbeidsmiljøet vil være dekket av den generelle bestemmelsen i arbeidsmiljøloven § 4-1 første ledd. Arbeidstilsynet vil påpeke at dette poenget ikke nødvendigvis er så lett å få øye på for lovens brukere. Det er således Arbeidstilsynets erfaring, blant annet gjennom tilsyn og funn i [SINTEFs kartlegging (sintef.no, PDF)](https://www.sintef.no/globalassets/sintef-digital/sintef-rapport-kartlegging-psykososialt-arbeidsmiljoarbeid-fou-2021-15.pdf),at dagens bestemmelse om psykososialt arbeidsmiljø i arbeidsmiljøloven § 4-3 lett oppfattes som uttømmende. Dette kan føre til at virksomhetenes arbeid får et for snevert fokus.
 
 Selv om det rettslig sett ikke er nødvendig, mener Arbeidstilsynet på denne bakgrunn at det av pedagogiske hensyn vil være hensiktsmessig at det fremkommer uttrykkelig av arbeidsmiljøloven § 4-3 om krav til det psykososiale arbeidsmiljøet, at lovens forsvarlighetskrav også omfatter psykososiale arbeidsmiljøfaktorer generelt.
 
 Konkret foreslår Arbeidstilsynet at følgende ordlyd legges til som et nytt første ledd i arbeidsmiljøloven § 4-3:
 
-Endringen vil for det første innebære at arbeidsmiljøloven § 4-3 materielt sett vil dekke alle psykososiale arbeidsmiljøfaktorer. Arbeidstilsynet vil videre vise til at en slik oppbygning av bestemmelsen vil være konsistent med oppbygningen av lovens § 4-4 om krav til det
+(1) Arbeidet skal organiseres, planlegges og gjennomføres slik at det psykososiale arbeidsmiljøet i virksomheten er fullt forsvarlig ut fra hensynet til arbeidstakernes helse, sikkerhet og velferd.
 
-Forsvarlighetskravet til det psykososiale arbeidsmiljøet kan som nevnt ikke kun basere seg på en vurdering der en kun ser på enkeltfaktorer isolert. Arbeidstilsynet viser til at det er viktig at psykososiale arbeidsmiljøfaktorer ses i sammenheng med andre typer faktorer, og at det særlig gjelder de organisatoriske.På denne måten vil helheten og
+Endringen vil for det første innebære at arbeidsmiljøloven § 4-3 materielt sett vil dekke alle psykososiale arbeidsmiljøfaktorer. Arbeidstilsynet vil videre vise til at en slik oppbygning av bestemmelsen vil være konsistent med oppbygningen av lovens § 4-4 om krav til det fysiske arbeidsmiljøet. Også denne paragrafen angir i første ledd det generelle kravet til fullt forsvarlig arbeidsmiljø (for så vidt gjelder fysiske arbeidsmiljøfaktorer).
+
+Forsvarlighetskravet til det psykososiale arbeidsmiljøet kan som nevnt ikke kun basere seg på en vurdering der en kun ser på enkeltfaktorer isolert. Arbeidstilsynet viser til at det er viktig at psykososiale arbeidsmiljøfaktorer ses i sammenheng med andre typer faktorer, og at det særlig gjelder de organisatoriske.På denne måten vil helheten og samspillet mellom ulike psykososiale faktorer, bli ivaretatt. Arbeidstilsynet mener at det i denne sammenheng også er et poeng å få frem i regelverket at det psykososiale arbeidsmiljøet ikke begrenser seg til å kun dreie seg om risikofaktorer, som kan føre til at arbeidstakerne utsettes for negative belastninger. Regelverket bør og ta høyde for, og eksplisitt omtale også «positive» faktorer eller arbeidsmiljøkrav som kan være beskyttende og som virksomhetene skal søke å innrette arbeidet på å oppnå.Arbeidstilsynet legger derfor til grunn at forsvarlighetskravet bør knyttes til arbeidsmiljøet som sådan, og kobles til arbeidsgivers plikt til å organisere og planlegge arbeidet, jf. innledningspassusen i lovforslaget det det sies at: Arbeidet skal organiseres, planlegges og gjennomføres slik at [..].
 
 Som nevnt i punkt 4.3 foreslår Arbeidstilsynet at det regelfestes en mer omfattende oppregning av eksempler på fremtredende psykososiale risikofaktorer, utover de som nevnes i arbeidsmiljøloven § 4-3 i dag. Dette innebærer en utvidelse av eksemplene som lovbestemmelse positivt lister opp, og som virksomhetene i utgangspunktet derfor skal være særlig oppmerksomme på. Med henvisning til listen i punkt 4.3 over psykososiale arbeidsmiljøfaktorer som kan være relevante for svært mange virksomheter, også på tvers av bransjer, foreslår Arbeidstilsynet at følgende faktorer tilføyes i lovens § 4-3:
 
@@ -355,6 +392,7 @@ Som nevnt i punkt 4.3 foreslår Arbeidstilsynet at det regelfestes en mer omfatt
 - Emosjonelle krav og belastninger i arbeidet
 - Arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet
 - Støtte og hjelp i arbeidet
+
 Når det gjelder den nærmere beskrivelsen av disse faktorene, vises det til omtalen under punkt 6.6.1 nedenfor.
 
 Av pedagogiske hensyn foreslår Arbeidstilsynet at denne oppregningen av fremtredende arbeidsmiljøfaktorer, dvs. de som følger av arbeidsmiljøloven § 4-3 andre ledd i dag, supplert med de ovenfor nevnte, skal framkomme eksplisitt både av lovbestemmelsen og av forskriftsreguleringen.
@@ -363,12 +401,31 @@ For ordens skyld gjøres det igjen oppmerksom på at opplistingen av relevante p
 
 Etter dette foreslår Arbeidstilsynet følgende ordlyd i nytt andre ledd i § 4-3:
 
+(2) Et fullt forsvarlig psykososialt arbeidsmiljø innebærer blant annet at:
+
+a. arbeidstaker beskyttes mot uheldige belastninger som følge av:
+
+- krav og forventninger i arbeidet som er uklare eller motstridende
+
+- emosjonelle krav i arbeid med mennesker
+
+- arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres og tiden som er til rådighet.
+
+b.arbeidstaker får forsvarlig hjelp og støtte i arbeidet
+
+c. arbeidstaker så langt som mulig får mulighet for kontakt og kommunikasjon med andre arbeidstakere i virksomheten
+
+d. arbeidstakers integritet og verdighet ivaretas.
+
 Videre foreslås følgende justeringer som følge av endringsforslagene i § 4-3 første og andre ledd.
 
 Gjeldende § 4-3 første og andre ledd oppheves og erstattes av forslagene til nytt første og andre ledd som omtalt ovenfor.
 
 Endring av ordlyden i § 4-3 fjerde ledd, der formuleringen «og uheldige belastninger som følge av kontakt med andre» tas ut, og reguleres i nytt andre ledd, bokstav a. Det betyr at ordlyden i fjerde ledd blir som følger:
 
+(4) Arbeidstaker skal, så langt det er mulig, beskyttes mot vold og trusler.
+
+### 6. Forslag om å forskriftsfeste krav til psykososialt arbeidsmiljø
 
 #### 6.1. Innledning
 
@@ -407,10 +464,10 @@ Arbeidstilsynet foreslår på bakgrunn av dette å presisere gjeldende krav til 
 - risikovurdering
 - planer og tiltak
 - informasjon og opplæring
+
 I tillegg foreslår Arbeidstilsynet særlige bestemmelser i egne kapitler om temaene trakassering og annen utilbørlig opptreden, og om vold og trusler. Disse siste bestemmelsene utgjør en noe mer utdypende regulering sammenlignet med de øvrige arbeidsmiljøfaktorene som reguleres i forskriftens generelle bestemmelser. Disse særlige bestemmelsene er ment å synliggjøre at det å bli utsatt for vold, trusler eller trakassering, kan ha spesielt alvorlige konsekvenser både fysisk, psykisk og sosialtfor den som rammes. Når disse mer alvorlige eksponeringene foreslås særlig regulert, er det imidlertid ikke slik at disse nødvendigvis skal anses «viktigere» enn de øvrige nevnte faktorene i forskriften. Arbeidstilsynet vil poengtere at psykososialt arbeidsmiljø omfatter langt mer enn disse. For eksempel faktorer som stor arbeidsmengde og tidspress eller emosjonelle krav og belastninger i yrker som innebærer kontakt med klienter, pasienter osv., vil i praksis ofte være vel så viktige for de fleste virksomheter å jobbe med i arbeidsmiljøet sitt.
 
 Arbeidstilsynet foreslår at nye presiserende bestemmelser om krav til psykososialt arbeidsmiljø tas inn som en ny andre del i forskrift om utførelse av arbeid.
-
 
 #### 6.2. Brukertesting av forskriftskrav til psykososialt arbeidsmiljø
 
@@ -420,29 +477,25 @@ Gjennom kvalitative intervjuer observerte vi hvordan leserne orienterer seg i te
 
 Intervjuene var semistrukturerte. Det vil si at de tok utgangspunkt i et sett med planlagte spørsmål og oppgaver, men at intervjueren også fulgte opp viktige innspill som dukket opp underveis.
 
-
-#### 6.2.1.   Hvordan funnene ble brukt i det videre skrivearbeidet
+#### 6.2.1. Hvordan funnene ble brukt i det videre skrivearbeidet
 
 Etter brukerinvolveringen jobbet Arbeidstilsynet med å bruke funnene i skrivearbeidet. Det er ingen automatikk i at alle innspill fører til endringer, men de blir vurdert opp mot formålet med forskriftsendringene. I dette tilfellet ga innsikten trygghet for mange av de valgene som var gjort allerede, og intervjuene førte ikke til store endringer i teksten. Det ble likevel gjort en del mindre endringer, og særlig jobbet vi med å løse misforståelsen rundt «enkeltvis og samlet vurdering».
 
 De fleste ønskene som knyttet seg til konkretisering av skjønnsbegreper, gir innsikt for arbeidet med kommentarer og veiledninger. Det er ikke alt som kan løses i en forskriftstekst. Faktorene må kunne benevnes, avgrenses og beskrives på en slik måte at de er relevante for ulike kontekster, som for eksempel ulike næringer.
 
-
 #### 6.3. Plassering av bestemmelser om krav til psykososialt arbeidsmiljø
 
 Arbeidstilsynet har vurdert om forskriftsbestemmelsene mest hensiktsmessig bør inntas i en egen forskrift eller innpasses i det eksisterende forskriftsverket. En egen forskrift vil i stor grad løfte psykososialt arbeidsmiljø som et viktig element i arbeidsmiljøarbeidet. Samtidig har arbeidsmiljøforskriftene en gitt struktur, og en egen forskrift vil bryte med dette. For de som i dag er godt vant til å bruke eksisterende forskrifter kan også det psykososiale området bli mindre synlig dersom det tas ut av eksisterende forskriftsverk, for å heller gjelde på siden av dette. Arbeidstilsynet foreslår derfor at bestemmelsene om krav til psykososialt arbeidsmiljø inntas som en ny del i forskrift om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid). Arbeidstilsynet ønsker imidlertid høringsinstansenes synspunkter på plasseringen.
 
-
 #### 6.4. Andre endringer i arbeidsmiljøforskriftene
 
-Arbeidstilsynet foreslår å endre forskriftens navn til «Forskrift om utførelse av arbeid,
+Arbeidstilsynet foreslår å endre forskriftens navn til «Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav».
 
 Formålet med endringene er å tydeliggjøre og fremheve viktigheten av det psykososiale arbeidsmiljøet. En slik navneendring vil signalisere at psykososiale faktorer er like vesentlige for et trygt og helsefremmende arbeidsmiljø som fysiske og tekniske forhold. Målet er også å bidra til økt oppmerksomhet og bevissthet om betydningen av et godt, forebyggende og systematisk arbeidsmiljøarbeid på det psykososiale området, og samtidig samle og gjøre reglene lettere tilgjengelig.
 
 Forslagene vil også nødvendiggjøre endringer i både formålsbestemmelse og virkeområdebestemmelse i forskrift om utførelse av arbeid, slik at disse hensyntar psykososialt arbeidsmiljø.
 
 Forslagene innebærer også at henvisninger i andre forskrifter må tilpasses eventuelle endringer i forskrift om utførelse av arbeid.
-
 
 #### 6.5. Ny andre del om krav til psykososialt arbeidsmiljø
 
@@ -460,15 +513,35 @@ Situasjoner med trakassering eller vold og trusler kan føre til betydelige nega
 
 Vi foreslår også separate kapitler for å kunne gi mer detaljerte og målrettede bestemmelser om disse faktorene, som kan bidra til å sikre en mer systematisk og effektiv håndtering av eventuell risiko på disse områdene.
 
-
 #### 6.6. Generelle bestemmelser – nytt kapittel 1A
 
-
-#### 6.6.1.   Fullt forsvarlig psykososialt arbeidsmiljø – ny § 1A-1
+#### 6.6.1. Fullt forsvarlig psykososialt arbeidsmiljø – ny § 1A-1
 
 Arbeidstilsynet foreslår å ta inn en bestemmelse om krav til et fullt forsvarlig psykososialt arbeidsmiljø i ny § 1A-1 i forskrift om utførelse av arbeid. Dette er ment som en utdyping og konkretisering av plikten som allerede følger av § 4-1 i arbeidsmiljøloven. Selv om arbeidsmiljøloven § 4-1 allerede pålegger arbeidsgiver å sikre også et fullt forsvarlig psykososialt arbeidsmiljø, mener Arbeidstilsynet at en presisering av dette vil bidra til å klargjøre at lovens krav til et fullt forsvarlig arbeidsmiljø også gjelder på det psykososiale området. Dette er viktig for å vise at virksomhetene skal jobbe systematisk forebyggende også når det gjelder psykososialt arbeidsmiljø. Arbeidstilsynet forslår følgende ordlyd i ny § 1A-1:
 
+Arbeidsgiveren skal sørge for at det psykososiale arbeidsmiljøet er fullt forsvarlig ut fra hensynet til arbeidstakernes helse, sikkerhet og velferd.
+
 Videre foreslås det i § 1A-1 presiseringer av hva som menes med psykososialt arbeidsmiljø og psykososiale arbeidsmiljøfaktorer i denne forskriften, før det gis eksempler på psykososiale arbeidsmiljøfaktorer.
+
+Med psykososialt arbeidsmiljø menes i denne forskriften samspillet mellom psykososiale arbeidsmiljøfaktorer som følger av arbeidets organisering, planlegging og gjennomføring, eller av mellommenneskelig kontakt og samhandling i arbeidet.
+
+Psykososiale arbeidsmiljøfaktorer er blant annet:
+
+a. krav og forventninger i arbeidet som er uklare eller motstridende
+
+b. emosjonelle krav og belastninger i arbeid med mennesker
+
+c. arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet
+
+d. nødvendig støtte og hjelp i arbeidet
+
+e. mulighet til å ha innflytelse over betingelser for arbeidet og hvordan arbeidet skal utføres
+
+f. mulighet til kontakt og kommunikasjon med andre arbeidstakere i virksomheten
+
+g. trakassering, herunder mobbing og seksuell trakassering eller annen utilbørlig opptreden
+
+h. vold og trusler
 
 Formålet er at disse to leddene i fellesskap skal bidra til å oppklare, og gi felles forståelse av hva psykososialt arbeidsmiljø er. Eksemplene er ment å tydeliggjøre begrepet, og å hjelpe virksomhetene med hva slags faktorer det kan være viktig å rette fokuset mot i det forebyggende arbeidsmiljøarbeidet på dette området.
 
@@ -490,6 +563,13 @@ De øvrige faktorene som nevnes i dagens § 4-3 foreslås som eksempler. I punkt
 
 Når det gjelder de øvrige eksemplene har Arbeidstilsynet følgende kommentarer:
 
+Krav og forventninger i arbeidet som er uklare eller motstridende er satt sammen av to faktorer som i faglitteratur ofte betegnes som rolleuklarhet og rollekonflikt. Dette handler om at krav og forventninger i arbeidet er uforenlige eller oppleves som utydelige. Det kan dreie seg om krav og forventninger til for eksempel arbeidsoppgaver, kvalitet på arbeidet som skal utføres, ansvarsområder, arbeidsmetoder, arbeidsprosedyrer, rollefordeling, tidsforbruk, arbeidstempo eller arbeidstid. Krav og forventninger kan komme fra andre, som ledere, kollegaer eller samarbeidspartnere, eller fra arbeidstakeren selv, for eksempel som følge av verdier knyttet til moral eller profesjon.
+
+Emosjonelle krav og belastninger i arbeid med mennesker handler om krav og belastninger som kan oppstå i direkte eller indirekte kontakt med mennesker, som for eksempel pasienter, brukere, pårørende, klienter, barnehagebarn, elever, studenter, kunder eller andre. Kravene kan handle om at arbeidstakerne må sette seg inn i eller håndtere andres tanker, følelser eller atferd, at de må håndtere eller skjule sine egne tanker eller følelser, eller må tilpasse kommunikasjon eller atferd til menneskene det arbeides med.
+
+Arbeidsmengde og tidspress som innebærer ubalanse mellom arbeidet som skal utføres, og den tiden som er til rådighet betegnes i enkelte sammenhenger som kvantitative jobbkrav i faglitteraturen. Denne faktoren sees ofte i sammenheng med mulighet til å ha innflytelse over betingelser for arbeidet og hvordan arbeidet skal utføres, som i faglitteratur ofte betegnes som selvbestemmelse eller autonomi. Det kan handle om mulighet til å bestemme eller ha innflytelse over forhold ved arbeidsutførelsen eller betingelser for arbeidet, som for eksempel hvordan man utfører arbeidet sitt, i hvilket tempo man arbeidet, og hvilke arbeidsoppgaver man skal få. I arbeidsmiljøloven § 4-2 andre ledd bokstav c fremgår det at det i utformingen av den enkeltes arbeidssituasjon skal legges vekt på å gi arbeidstaker mulighet til selvbestemmelse, innflytelse og faglig ansvar. Dette endrer ikke arbeidsgivers styringsrett.
+
+Nødvendig støtte og hjelp i arbeidet handler om at arbeidstakerne har mulighet til å få relevant støtte og hjelp i arbeidet, fra for eksempel leder eller kollegaer, når det er behov for det. Eksempler på hva støtte og hjelp kan dreie seg om er emosjonell støtte og omsorg, teknisk hjelp, å få tilbakemeldinger på arbeidet eller faglige råd.
 
 #### 6.6.2. Krav til kartlegging og risikovurdering av det psykososiale arbeidsmiljøet i virksomheten – ny §§ 1A-2 og 1A-3
 
@@ -497,9 +577,13 @@ Kartlegging og risikovurdering er en forutsetning for arbeidet med risikoreduser
 
 Krav til kartlegging og risikovurdering følger av arbeidsmiljøloven § 3-1 og internkontrollforskriften § 5. Gjennomgående krav til kartlegging og risikovurdering følger også av forskrift om organisering, ledelse og medvirkning § 7-1.
 
+6.6.2.1. Krav til kartlegging
+
 Kartlegging av det psykososiale arbeidsmiljøet er en avgjørende forutsetning for å kunne identifisere og forstå de faktorene som kan påvirke arbeidstakernes helse, sikkerhet og velferd.
 
 Arbeidstilsynet foreslår en egen bestemmelse, i ny § 1A-2 i forskrift om utførelse av arbeid, om krav til kartlegging av det psykososiale arbeidsmiljøet i virksomheten:
+
+Arbeidsgiveren skal kartlegge psykososiale arbeidsmiljøfaktorer som kan påvirke arbeidstakernes helse, sikkerhet og velferd på kort og lang sikt.
 
 Psykososiale faktorer, for eksempel de som er nevnt i forslagets § 1A-1, kan alle ha betydelig effekt på arbeidstakernes arbeidsmiljø. Eksemplene er som nevnt likevel ikke ment å være verken en uttømmende liste eller et minimum av faktorer som skal kartlegges og risikovurderes. Det vil si at dersom det er andre faktorer som kan være relevante, skal disse også være med i vurderingen. Mens for faktorer i eksempellisten i § 1A-1, som virksomheten ikke har grunn til å anta utgjør en risiko for uhelse på vedkommende arbeidsplass, er det ikke krav til kartlegging. Kartleggingen er bare det første steget i prosessen, hvor en grundig risikovurdering skal gjøres på grunnlag av denne.
 
@@ -507,9 +591,13 @@ Ulike metoder kan benyttes for å kartlegge, og få et helhetlig bilde av det ps
 
 Kartleggingen skal også ta hensyn til eventuelle risikogrupper av arbeidstakere som kan være spesielt utsatt for psykososiale belastninger. Dette kan for eksempel være grupper som arbeidstakere med mye kontakt med mennesker, ansatte i stressende eller emosjonelt krevende yrker, eller arbeidstakere med ansvar for kritiske beslutninger.
 
+6.6.2.2. Krav til risikovurdering
+
 Arbeidstilsynet mener at kravet til risikovurdering er viktig for å styrke det systematiske arbeidet med psykososialt arbeidsmiljø i norske virksomheter. Ved å kreve en grundig risikovurdering legges det til rette for tidlig identifisering og håndtering av potensielle problemer, noe som kan legge et solid grunnlag for forebygging av helseplager.
 
 Arbeidstilsynet foreslår derfor at kravet til risikovurdering presiseres i forskriften knyttet til det psykososiale arbeidsmiljøet. Arbeidstilsynet forslår følgende første ledd i ny §1A-3:
+
+På grunnlag av kartleggingen, skal arbeidsgiveren vurdere risikoen for uheldig påvirkning på arbeidstakernes helse, sikkerhet og velferd.
 
 Bestemmelsen og kravene i dette forslaget utdyper og presiserer arbeidsgivers generelle plikt til å foreta risikovurderinger som er regulert i arbeidsmiljøloven, internkontrollforskriften og forskrift om organisering, ledelse og medvirkning. Ny bestemmelse om risikovurdering er en presisering og utdyping av dagens regulering, og innebærer således ingen nye krav.
 
@@ -520,6 +608,14 @@ Virksomheten skal da vurdere sannsynligheten for at en fare eller skade vil opps
 Dersom virksomheten har identifisert risikoforhold, uten at det er tydelig hva det skyldes, er det viktig å finne årsakene. For eksempel, dersom medarbeiderne opplever mye stress, er det viktig å finne årsaken til dette for å kunne iverksette relevante forebyggende tiltak. Årsakene kan være på ulike nivåer (individ, gruppe, leder eller organisasjon) i virksomheten, og ha betydning for hvilke tiltak som blir relevante.
 
 Arbeidstilsynet foreslår at det tas inn som et ledd i nytt ledd i § 1A-3 i forskrift om utførelse av arbeid, som sier noe om hva arbeidsgiver særlig skal ta hensyn til ved risikovurdering av de faktorene som kartleggingen identifiserte i andre ledd:
+
+I risikovurderingen av en psykososial arbeidsmiljøfaktor skal arbeidsgiveren særlig ta hensyn til
+
+a. hvordan arbeidet er organisert, planlagt og gjennomført
+
+b.faktorens karakter og omfang, det vil si dens alvorlighet, hyppighet, varighet mv.
+
+c. effekten av allerede iverksatte tiltak
 
 Måten arbeidet er organisert, planlagt og gjennomført er svært ofte en del av årsaken til at det oppstår risiko knyttet til det psykososiale arbeidsmiljøet. Det er viktig at dette tas høyde for i risikovurderingen, både for å kunne vurdere risikonivået og for å vurdere videre faser av arbeidsmiljøarbeidet, for eksempel valg av relevante risikoreduserende tiltak.
 
@@ -533,30 +629,47 @@ Vurderingen skal altså se på de psykososiale risikofaktorene både hver for se
 
 Arbeidstilsynet foreslår at dette presiseres i forskriften og foreslår følgende tredje ledd i ny § 1A-3:
 
+Risikovurderingen skal omfatte de enkelte faktorene hver for seg, hvordan de påvirker hverandre, og om de samlet utgjør en risiko.
+
 For å kunne vurdere risiko knyttet til én psykososial arbeidsmiljøfaktor, er det ofte nødvendig å ta andre psykososiale arbeidsmiljøfaktorer i betraktning. Et eksempel er at lav grad av selvbestemmelse kan bidra til å øke risikoen ved stor arbeidsmengde og høyt tidspress. Et annet eksempel er at støtte og hjelp i arbeidet kan bidra til å redusere risikoen ved høye emosjonelle krav. En samlet vurdering av faktorer kan vise at det psykososiale arbeidsmiljøet som helhet medfører høy risiko for skadelige påvirkninger på helse, sikkerhet eller velferd, selv om vurderingen av enkeltfaktorer tilsier lavere risiko.
+
+6.6.2.3. Krav til samarbeid
 
 Kartleggingen og risikovurderingen skal foretas i samarbeid med arbeidstakere og deres representanter (f.eks. verneombud og tillitsvalgte for de som har det). Arbeidsmiljøloven § 3-1 første ledd presiserer at plikten til å utøve systematisk HMS-arbeid skal gjøres i samarbeid med arbeidstakerne og deres tillitsvalgte. Verneombud skal medvirke under planlegging og gjennomføring av tiltak som har betydning for helse, miljø og sikkerhet etter lovens § 6-2 fjerde ledd, og arbeidsmiljøutvalget kan vedta at arbeidsgiveren skal gjennomføre konkrete tiltak til utbedring av arbeidsmiljøet dersom de finner det nødvendig for å verne arbeidstakernes liv eller helse, jf. lovens § 7-2 femte ledd. Arbeidstilsynet foreslår at krav til samarbeid tas inn i bestemmelsene om kartlegging og risikovurdering med følgende ordlyd:
 
+Kartleggingen/Risikovurderingen skal foretas i samarbeid med arbeidstakerne og deres representanter.
+
 Risiko i det psykososiale arbeidsmiljøet kan ikke vurderes ved hjelp av objektive mål eller grenseverdier. Derfor er medvirkning og involvering av arbeidstakere særlig viktig for at arbeidsgiver skal kunne få informasjon om utfordringer og behov knyttet til denne delen av arbeidsmiljøet. Samarbeid sikrer at kartleggingen og risikovurderingen tar hensyn til faktiske forhold i arbeidsmiljøet og innspill fra dem som er direkte påvirket. Kravet om samarbeid med arbeidstakere og deres representanter fremmer bred involvering og kan bidra til å øke bevisstheten om psykososiale faktorer i hele virksomheten.
+
+#### 6.6.2.4. Krav til gjentakelse av risikovurderingen
 
 Det følger av forskrift om organisering, ledelse og medvirkning § 7-1, fjerde ledd at kartlegging og risikovurdering blant annet skal gjentas regelmessig og ved endringer som kan ha betydning for risikoforholdene. Ved å gjenta kartlegging og risikovurdering regelmessig og ved endringer, øker sannsynligheten for å tidligere identifisere risikofaktorer og dermed tidligere få iverksatt eller justert forebyggende tiltak. Regelmessige vurderinger er viktig for å fange opp endringer, og vil også kunne bidra til å opprettholde et fokus og bevissthet på det psykososiale arbeidsmiljøet blant både ledere og ansatte. Arbeidstilsynet foreslår derfor at også dette kravet presiseres knyttet til det psykososiale arbeidsmiljøet:
 
+Kartleggingen/Risikovurderingen skal gjentas regelmessig og ved endringer som kan ha betydning for risikoforholdene i virksomheten.
+
 Det psykososiale arbeidsmiljøet er i konstant endring, påvirket av faktorer som for eksempel organisasjonsendringer, nye arbeidsoppgaver, endringer i ledelse eller personalgruppe, og eksterne forhold. Det er viktig at endringer som kan ha betydning for risikoforholdene i virksomheten fanges opp og vurderes knyttet til behov for tiltak. Klare endringer, som for eksempel organisasjonsendringer eller store utskiftninger i en personalgruppe, kan i seg selv være grunnlag for å gjenta kartlegging og risikovurdering i virksomheten. I tillegg skal kartlegging og risikovurdering gjentas med jevne mellomrom for å kunne fange opp eventuelle endringer som følger av andre forhold. Arbeidstilsynet har vurdert om det skal stilles krav til faste intervaller på kartlegging og risikovurdering, som for eksempel «årlig». Arbeidstilsynet mener imidlertid at hvor regelmessig kartlegging og risikovurderinger må gjennomføres, må vurderes ut fra virksomhetens art, størrelse og risikoforhold. Noen virksomheter kan trenge hyppigere vurderinger enn andre. Kravet til at det skal gjentas regelmessig vil likevel kreve at dette er en kontinuerlig prosess, og det viktigste er at virksomheten har en systematisk tilnærming til risikovurdering og at den gjentas ofte nok til å fange opp endringer i risikobildet og sikre et kontinuerlig fokus på helse, miljø og sikkerhet.
+
+6.6.2.5. Krav til dokumentasjon
 
 Resultatene fra kartleggingen og risikovurderingen skal dokumenteres og inngå i virksomhetenes systematiske helse-, miljø- og sikkerhetsarbeid. Det følger av internkontrollforskriften § 5 pkt. 6. Arbeidstilsynet foreslår at kravet inntas i forskriften som følger:
 
+Kartleggingen/Risikovurderingen skal dokumenteres og inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid.
+
 Dette innebærer at arbeidsgiveren må utarbeide skriftlig dokumentasjon på hvilke psykososiale risikofaktorer som er identifisert, og hvordan disse kan påvirke arbeidstakernes helse, sikkerhet og velferd. Det følger av internkontrollforskriften § 5 tredje ledd at dokumentasjon av internkontrollen vil variere etter virksomhetens art, aktiviteter, risiko og størrelse. Kommentarene til bestemmelsen sier at;
 
-Dette vil naturlig også gjøre seg gjeldende for kravene som nå foreslås presisert i denne forskriften.
+Noen virksomheter vil utarbeide grundige analyser av risiko, mens andre kan nøye seg med en enkel dokumentasjon. Internkontroll krever ryddighet og et gjennomtenkt system. I dette ligger også at alle som arbeider i virksomheten er kjent med hvordan internkontroll på helse-, miljø- og sikkerhetsområdet praktiseres, og tilsynsmyndighetene må kunne forstå hvordan virksomheten arbeider med helse- miljø- og sikkerhetsområdet.
 
+Dette vil naturlig også gjøre seg gjeldende for kravene som nå foreslås presisert i denne forskriften.
 
 #### 6.6.3. Tiltak på det psykososiale området – ny § 1A-4
 
 Det er viktig å sikre at risikovurderinger av psykososialt arbeidsmiljø følges opp med konkrete, effektive tiltak for å sikre en systematisk tilnærming til det psykososiale arbeidsmiljøet. Arbeidstilsynet foreslår derfor at også krav til tiltak presiseres i forskriften. Krav om tiltak er en utdyping av arbeidsmiljøloven § 3-1 (særlig andre ledd bokstav c), og forskrift om organisering, ledelse og medvirkning § 10-1. Arbeidstilsynet foreslår følgende ordlyd i ny § 1A-4:
 
+På grunnlag av risikovurderingen skal arbeidsgiveren utarbeide nødvendige planer og iverksette nødvendige forebyggende tiltak. Dette skal gjøres i samarbeid med arbeidstakerne og deres representanter.
+
 Ved å utarbeide og iverksette tiltak basert på risikovurderingen, legges det til rette for aktiv forebygging av psykososiale arbeidsmiljøproblemer. Tiltakene må prioriteres basert på alvorlighetsgrad og omfang av identifiserte risikoer, slik at de tilpasses den spesifikke arbeidssituasjonen og utfordringene i den aktuelle virksomhet.
 
-I mange tilfeller vil det ikke være aktuelt å fjerne selve faktoren, men tiltaket vil innebære å fjerne eller redusere
+I mange tilfeller vil det ikke være aktuelt å fjerne selve faktoren, men tiltaket vil innebære å fjerne eller redusere risikoen knyttet til den. I virksomheter hvor det arbeides med mennesker, for eksempel innen helse, omsorg, skole eller kundeservice, må det kunne påregnes emosjonelle krav i arbeidet.
 
 De emosjonelle kravene er ofte en integrert del av arbeidet, og utgjør i seg selv ikke nødvendigvis en risiko. Arbeidsgiver kan heller ikke fjerne emosjonelle krav fullstendig. Arbeidsgiver har imidlertid ansvar for at arbeidet som innebærer emosjonelle krav er organisert på en slik måte at det er fullt forsvarlig med hensyn til arbeidstakernes helse, sikkerhet og velferd. Arbeidsgiver må da vurdere, for eksempel, om det er andre faktorer som øker risikoen, og som dermed bør reduseres. Eller om beskyttende faktorer er til stede i tilstrekkelig grad. Det kan også være aktuelt å redusere de emosjonelle kravene for noen arbeidstakere ved å fordele arbeidsoppgaver på en annen måte.
 
@@ -571,6 +684,7 @@ Eksempler på forebyggende tiltak kan være:
 - Riktig bruk av tekniske hjelpemidler, som skal være egnet eller tilpasset arbeidet
 - Mulighet for støtte i arbeidet, herunder støtte fra ledelsen og kollegaer
 - Mulighet for innflytelse i arbeidet i forhold til det arbeidet som skal utføres
+
 Dette er kun eksempler og vil ikke passe for alle virksomheter og risikoområder. Tiltakene må velges basert på en grundig risikovurdering og tilpasses den spesifikke arbeidssituasjonen og utfordringene i den aktuelle virksomheten.
 
 Videre skal informasjonen fra kartleggingen og risikovurderingen brukes til å utarbeide planer for videre forebyggende arbeid. Planen skal inneholde informasjon om hva som skal gjøres, når det skal gjøres og hvem som har ansvaret for gjennomføring.
@@ -578,7 +692,6 @@ Videre skal informasjonen fra kartleggingen og risikovurderingen brukes til å u
 De planlagte tiltakene må gjennomføres i tråd med planen, og følges opp underveis. Det kan oppstå behov for å justere planen, for eksempel på bakgrunn av at arbeidet ikke fungerer som tiltenkt eller at det oppstår endringer av betydning
 
 Det er viktig at arbeidet med tiltak og planer gjøres i samarbeid med arbeidstakerne og deres representanter. Arbeidstakerne har ofte førstehånds kjennskap til det psykososiale arbeidsmiljøet og potensielle utfordringer. Arbeidstakernes perspektiver er viktige for å fange opp kompleksiteten i det psykososiale arbeidsmiljøet. Ved å involvere dem i prosessen, sikrer arbeidsgiver at verdifull kunnskapen blir tatt hensyn til når tiltak utformes. Å involvere arbeidstakere i utarbeidelse av tiltak og planer øker også sannsynligheten for at de føler eierskap til prosessen og engasjerer seg i implementeringen. Det kan øke sannsynligheten for å lykkes med tiltakene, og bidra til mer effektive gjennomføringer. Arbeidstilsynet foreslår derfor at kravet til samarbeid også her presiseres i forskriften.
-
 
 #### 6.6.4. Informasjon og opplæring – ny § 1A-5
 
@@ -589,7 +702,6 @@ Arbeidsgivers plikt til å sørge for at arbeidstakerne får den opplæring som 
 Informasjon og opplæring om psykososialt arbeidsmiljø er avgjørende av flere grunner. God informasjon og opplæring kan bidra til å forebygge stress, utbrenthet og andre helseplager relatert til det psykososiale arbeidsmiljøet. Informasjon og opplæring øker bevisstheten om psykososiale risikofaktorer og hvordan disse kan håndteres, både blant ledere og ansatte. Dette er viktig for å skape en felles forståelse av utfordringene. I tillegg gir informasjon og opplæring ansatte verktøy til å håndtere utfordringer knyttet til det psykososiale arbeidsmiljøet, og fremmer en åpenhetskultur der psykososiale problemer kan diskuteres og løses proaktivt. Samlet sett legger dette grunnlaget for et sunnere og mer produktivt arbeidsmiljø, som gagner både ansatte og virksomheten.
 
 Arbeidstilsynet foreslår på bakgrunn av dette en presisering av arbeidsgivers plikt til å gi løpende informasjon om risikofaktorer i det psykososiale arbeidsmiljøet og til å sørge for nødvendig opplæring, øvelse og instruksjon. Denne plikten følger allerede av arbeidsmiljøloven og forskrift om organisering, ledelse og medvirkning. Presiseringen tydeliggjør at disse pliktene også gjelder psykososiale faktorer.
-
 
 #### 6.7. Særlige bestemmelser om trakassering og annen utilbørlig opptreden – nytt kapittel 2A
 
@@ -616,10 +728,10 @@ Eksempler på tiltak kan være:
 - at arbeidsgiver setter tydelige grenser og reagerer ved uakseptabel oppførsel
 - å utarbeide felles regler for oppførsel i arbeidet/på arbeidsplassen
 - rutiner for varsling
+
 Arbeidsgiver har et ansvar ikke bare for forebygging, men også for å håndtere ettervirkningene av trakassering. Arbeidstilsynet foreslår at dette presiseres i forskriften på samme måte som for vold og trusler.
 
 Arbeidstilsynet mener at en presisering av arbeidsgivers plikter knyttet til forebygging av trakassering vil bidra til å tydeliggjøre behovet for å beskytte arbeidstakere, gir klarhet og forutsigbarhet for både arbeidsgivere og ansatte, og legger til rette for mer effektiv håndtering av trakasseringssaker. I tillegg vil en tydeligere regulering gi arbeidsgiver en viss rettslig beskyttelse ved å vise at de har oppfylt sine forpliktelser. Samlet sett legger dette grunnlaget for et tryggere og mer inkluderende arbeidsmiljø.
-
 
 #### 6.8. Særlige bestemmelser om vold og trusler – nytt kapittel 3A
 
@@ -627,7 +739,7 @@ Arbeidstilsynet mener at en presisering av arbeidsgivers plikter knyttet til for
 
 Arbeidstilsynet foreslår at det også knyttet til vold og trusler tas inn en overordnet pliktbestemmelse som tydeliggjør arbeidsgivers ansvar for å organisere, planlegge og gjennomføre arbeidet på en måte som beskytter arbeidstakere mot vold og trusler, på samme måte som foreslått for trakassering. Dette for å understreke at forebygging av vold og trusler er en integrert del av arbeidsgivers systematiske HMS-arbeid.
 
-Videre foreslår Arbeidstilsynet at en definisjon av vold og trusler tas inn i kapitlet. Definisjonen tar utgangspunkt i definisjonen som Arbeidstilsynet benytter per i dag, og omfatter hendelser hvor arbeidstakere blir angrepet i situasjoner
+Videre foreslår Arbeidstilsynet at en definisjon av vold og trusler tas inn i kapitlet. Definisjonen tar utgangspunkt i definisjonen som Arbeidstilsynet benytter per i dag, og omfatter hendelser hvor arbeidstakere blir angrepet i situasjoner forbundet med deres arbeid. Definisjonen omfatter dermed hendelser som kan skje utenfor både arbeidsstedet og arbeidstiden, så lenge volden eller truslene er relatert til arbeidet.
 
 Angrepene kan være eksempelvis fysiske eller verbale, og det tas dermed høyde for at vold og trusler kan skje i ulike former og gjennom ulike kanaler – for eksempel ansikt til ansikt, på telefon, skriftlig eller via digitale kanaler som sosiale medier. For at en hendelse skal kunne kalles vold eller trusler etter denne definisjonen må angrepet innebære en åpenlys eller antydet trussel mot arbeidstakerens helse, sikkerhet eller velferd. Det kan for eksempel defineres som vold når arbeidstakere opplever utagerende handlinger hvor det utøves stort skadeverk på inventar og utstyr.
 
@@ -635,7 +747,9 @@ Hendelser kan betegnes som vold selv om den som skader en annen person ikke er k
 
 Ut over dette foreslår Arbeidstilsynet at dagens bestemmelser i forskrift om utførelse av arbeid videreføres, med kun noen språklige/strukturelle endringer.
 
-Et tiltak som innebærer en tydeliggjøring av regelverket, vil direkte påvirke alle som er omfattet av det. Det vil si alle virksomheter som sysselsetter arbeidstaker, med mindre annet er uttrykkelig fastsatt i regelverket. Totalt sett er det litt over 200 000 slike virksomheter i Norge. Også arbeidstakere vil bli berørt, enten direkte eller indirekte, av tiltaket.
+### 7. Økonomiske og administrative konsekvenser av forslagene
+
+Et tiltak som innebærer en tydeliggjøring av regelverket, vil direkte påvirke alle som er omfattet av det. Det vil si alle virksomheter som sysselsetter arbeidstaker, med mindre annet er uttrykkelig fastsatt i regelverket. Totalt sett er det litt over 200 000 slike virksomheter i Norge. Også arbeidstakere vil bli berørt, enten direkte eller indirekte, av tiltaket.
 
 Små og mellomstore bedrifter (SMB), det vil si bedrifter med mellom 1 og 100 ansatte, representerer cirka 99 prosent av alle bedrifter i landet. Med andre ord er det hovedsakelig SMB som blir direkte berørt av tiltaket. Dette er virksomheter med svært ulike arbeidsmiljøutfordringer, samt ressurser, vilje og evne til å håndtere utfordringene.
 
@@ -648,6 +762,7 @@ Det antas derimot at de virksomhetene som enten
 - ikke har hatt en god nok forståelse av hvordan de skal jobbe forebyggende med psykososialt arbeidsmiljø,
 - ikke har kjent seg igjen i begrepsbruken og dermed ikke ansett reglene som relevant eller
 - har forholdt seg likegyldig til regelverket
+
 vil kunne oppleve de største økonomiske eller administrative virkningene av tiltaket, både på kostnads- og nyttesiden. Det å sette i gang et arbeid med psykososialt arbeidsmiljø fra et nullpunkt, eller et tilnærmet nullpunkt, vil kunne medføre noen kostnader på kort sikt, spesielt i form av tid. På den andre siden vil disse virksomhetene trolig unngå betydelig kostnader etter hvert i form av lavere sykefravær, økt produktivitet og kvalitet og styrket omdømme.
 
 Det kan også tenkes at SMB fra de mest risikoutsatte næringene, som blant annet helse og sosial og undervisning i offentlig sektor, og overnatting og servering, renhold og transport i privat sektor, som særlig vil kunne oppleve de største virkningene av tiltaket.
@@ -662,8 +777,11 @@ Når det gjelder samfunnsøkonomisk lønnsomhet, så vil tiltaket kunne muliggj�
 
 Samfunnsnytten vil hovedsakelig bestå av økt produktivitet, effektivisering og sysselsetting. Økt produktivitet og sysselsetning vil følge av blant annet det lavere sykefraværet som kan resultere fra tiltaket.
 
+### 8. Forslag
 
 #### 8.1. Forslag til endringer i arbeidsmiljøloven § 4-3 om krav til det psykososiale arbeidsmiljøet
+
+I lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) foreslås følgende endringer:
 
 § 4-3 nytt første og andre ledd skal lyde:
 
@@ -671,7 +789,7 @@ Samfunnsnytten vil hovedsakelig bestå av økt produktivitet, effektivisering og
 
 (2) Et fullt forsvarlig psykososialt arbeidsmiljø innebærer blant annet at:
 
-a)  arbeidstaker beskyttes mot uheldige belastninger som følge av:
+a) arbeidstaker beskyttes mot uheldige belastninger som følge av:
 
 - krav og forventninger i arbeidet som er uklare eller motstridende
 
@@ -693,10 +811,17 @@ Gjeldende tredje, fjerde og femte ledd videreføres slik:
 
 (5) Departementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av kravene i denne paragraf.
 
-
 #### 8.2. Forslag om å forskriftsfeste krav til psykososialt arbeidsmiljø i forskrift om utførelse av arbeid
 
+I forskrift av 12. juni 2011 nr. 1357 om utførelse av arbeid, bruk av arbeidsutstyr og tilhørende tekniske krav (forskrift om utførelse av arbeid) foreslås følgende endringer:
+
 Forskrift om utførelse av arbeid, psykososialt arbeidsmiljø, bruk av arbeidsutstyr og tilhørende tekniske krav
+
+Andre del Krav til psykososialt arbeidsmiljø
+
+Kapittel 1A Generelle bestemmelser
+
+§ 1A-1 Fullt forsvarlig psykososialt arbeidsmiljø
 
 Arbeidsgiveren skal sørge for at det psykososiale arbeidsmiljøet er fullt forsvarlig ut fra hensynet til arbeidstakernes helse, sikkerhet og velferd.
 
@@ -720,6 +845,8 @@ g. trakassering, inkludert mobbing og seksuell trakassering
 
 h. vold og trusler
 
+§ 1A-2 Kartlegging av det psykososiale arbeidsmiljøet i virksomheten
+
 Arbeidsgiveren skal kartlegge psykososiale arbeidsmiljøfaktorer som kan påvirke arbeidstakernes helse, sikkerhet eller velferd på kort og lang sikt.
 
 Kartleggingen skal foretas i samarbeid med arbeidstakerne og deres representanter.
@@ -728,15 +855,17 @@ Kartleggingen skal gjentas regelmessig og ved endringer som kan ha betydning for
 
 Kartleggingen skal dokumenteres og inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid.
 
+§ 1A-3 Risikovurdering av det psykososiale arbeidsmiljøet
+
 På grunnlag av kartleggingen skal arbeidsgiveren vurdere risikoen for skadelig påvirkning på arbeidstakernes helse, sikkerhet eller velferd på kort og lang sikt.
 
 I risikovurderingen av de psykososiale arbeidsmiljøfaktorene skal arbeidsgiveren særlig ta hensyn til
 
-a.  hvordan arbeidet er organisert, planlagt og gjennomført
+a. hvordan arbeidet er organisert, planlagt og gjennomført
 
-b.  faktorenes karakter og omfang, det vil si alvorlighet, hyppighet, varighet mv.
+b. faktorenes karakter og omfang, det vil si alvorlighet, hyppighet, varighet mv.
 
-c.  effekten av allerede iverksatte tiltak
+c. effekten av allerede iverksatte tiltak
 
 Risikovurderingen skal omfatte de enkelte faktorene hver for seg, hvordan de påvirker hverandre, og om de samlet utgjør en risiko.
 
@@ -746,17 +875,29 @@ Risikovurderingen skal gjentas regelmessig og ved endringer som kan ha betydning
 
 Risikovurderingen skal dokumenteres og inngå i virksomhetens systematiske helse-, miljø- og sikkerhetsarbeid.
 
+§ 1A-4 Tiltak
+
 På grunnlag av risikovurderingen skal arbeidsgiveren utarbeide nødvendige planer og iverksette nødvendige forebyggende tiltak. Dette skal gjøres i samarbeid med arbeidstakerne og deres representanter.
+
+§ 1A-5 Informasjon og opplæring
 
 Arbeidsgiveren skal sørge for at arbeidstakere, verneombud og tillitsvalgte får løpende informasjon om risikofaktorer i det psykososiale arbeidsmiljøet og om iverksatte tiltak og rutiner.
 
 Arbeidsgiveren skal sørge for at arbeidstakerne får nødvendig opplæring, øvelse og instruksjon.
 
+Kapittel 2A Særlige bestemmelser om trakassering og annen utilbørlig opptreden
+
+§ 2A-1 Trakassering og annen utilbørlig opptreden
+
 Arbeidet skal organiseres, planlegges og gjennomføres slik at arbeidstakerne ikke utsettes for trakassering, inkludert mobbing og seksuell trakassering, eller annen utilbørlig opptreden.
+
+§ 2A-2 Definisjon
 
 Med trakassering menes i denne forskrift handlinger, unnlatelser eller ytringer som har som formål eller virkning å være krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende.
 
 Med seksuell trakassering menes enhver form for uønsket seksuell oppmerksomhet som har som formål eller virkning å være krenkende, skremmende, fiendtlig, nedverdigende, ydmykende eller plagsom.
+
+§ 2A-3 Kartlegging og vurdering av risiko for å bli utsatt for trakassering
 
 Arbeidsgiveren skal kartlegge forhold ved arbeidet og arbeidsmiljøet som kan medføre at arbeidstakere blir utsatt for trakassering eller annen utilbørlig opptreden.
 
@@ -764,21 +905,33 @@ På grunnlag av kartleggingen skal arbeidsgiveren vurdere forholdene som kan inn
 
 I risikovurderingen skal arbeidsgiveren særlig ta hensyn til
 
-a.  hvordan arbeidet er organisert, planlagtog gjennomført
+a. hvordan arbeidet er organisert, planlagtog gjennomført
 
-b.  hvor, når og i hvilke situasjoner trakassering kan skje
+b. hvor, når og i hvilke situasjoner trakassering kan skje
 
-c.  effekten av allerede iverksatte tiltak.
+c. effekten av allerede iverksatte tiltak.
 
 Risikovurderingen skal foretas i samarbeid med arbeidstakerne og deres representanter.
 
+§ 2A-4 Tiltak mot trakassering
+
 På grunnlag av risikovurderingen, skal arbeidsgiveren utarbeide nødvendige planer og iverksette nødvendige tiltak for å hindre at arbeidstakere utsettes for trakassering eller annen utilbørlig opptreden. Dette skal skje i samarbeid med arbeidstakerne og deres representanter.
+
+§ 2A-5 Oppfølging av arbeidstakere som har blitt utsatt for trakassering
 
 Arbeidsgiveren skal sørge for at arbeidstakere som har blitt utsatt for trakassering eller annen utilbørlig opptreden får nødvendig oppfølging med hensyn til belastningen som trakasseringen kan ha medført.
 
+Kapittel 3A Særlige bestemmelser om vold og trusler
+
+§ 3A-1 Vold og trusler
+
 Arbeidet skal organiseres, planlegges og gjennomføres slik at arbeidstakerne, så langt det er mulig, beskyttes mot vold og trusler.
 
+§ 3A-2 Definisjoner
+
 Med vold og trusler menes i denne forskriften hendelser hvor arbeidstakere blir angrepet i situasjoner forbundet med deres arbeid. Angrepet kan være for eksempel fysisk eller verbalt og må innebære en åpenlys eller antydet trussel mot arbeidstakerens helse, sikkerhet eller velferd.
+
+§ 3A-3 Kartlegging og vurdering av risiko for vold og trusler
 
 Arbeidsgiveren skal kartlegge forhold ved arbeidet og arbeidsmiljøet som kan medføre at arbeidstakere blir utsatt for vold og trusler.
 
@@ -804,6 +957,8 @@ h. effekten av allerede iverksatte tiltak.
 
 Risikovurderingen skal foretas i samarbeid med arbeidstakernes og deres representanter.
 
+§ 3A-4 Tiltak mot vold og trusler
+
 På grunnlag av risikovurderingen skal arbeidsgiveren utarbeide nødvendige planer og iverksette nødvendige tiltak for, så langt det er mulig, å fjerne eller redusere risikoen for vold og trusler. Dette skal skje i samarbeid med arbeidstakerne og deres representanter.
 
 Arbeidsgiveren skal vurdere tiltak knyttet til blant annet
@@ -818,25 +973,27 @@ d. muligheter for å tilkalle hjelp
 
 e. bemanning, inkludert bruk av alenearbeid.
 
+§ 3A-5 Informasjon ved arbeid som kan medføre risiko for å bli utsatt for vold og trusler
+
 Arbeidsgiveren skal sørge for at arbeidstakerne, verneombud og tillitsvalgte får nødvendig informasjon om
 
-a.  risikofaktorer knyttet til vold og trusler
+a. risikofaktorer knyttet til vold og trusler
 
-b.  iverksatte tiltak og rutiner for å forebygge, håndtere og følgeopp vold- og trusselsituasjoner
+b. iverksatte tiltak og rutiner for å forebygge, håndtere og følgeopp vold- og trusselsituasjoner
 
-c.  rutiner for varsling og rapportering av vold ogtrusler
+c. rutiner for varsling og rapportering av vold ogtrusler
+
+§ 3A-6 Opplæring ved arbeid som innebærer risiko for å bli utsatt for vold og trusler
 
 Ved arbeid som innebærer risiko for å bli utsatt for vold og trusler, skal arbeidsgiveren sørge for å gi arbeidstakerne nødvendig opplæring og øvelse i forebygging og håndtering av volds- og trusselsituasjoner, og i bruk av eventuelt sikkerhetsutstyr.
 
 Arbeidsgiveren skal sørge for at opplæring og øvelse gjentas og tilpasses vesentlige endringer i risikovurderingen og ellers når det er nødvendig.
 
+§ 3A-7 Oppfølging av arbeidstakere som har blitt utsatt for vold eller trusler
+
 Arbeidsgiveren skal sørge for at arbeidstakere som har blitt utsatt for vold og trusler, får nødvendig oppfølging. Oppfølgingen skal omfatte både den fysiske og psykiske belastningen som hendelsen kan ha medført.
 
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo/horingsnotat/) av norges-lover-bot.*
@@ -844,3 +1001,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-23** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

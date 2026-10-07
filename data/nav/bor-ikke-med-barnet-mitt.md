@@ -1,52 +1,83 @@
-<!-- innholds-hash: 72420d4949dd84fdfd51d113743a2ff9afc7a5dfd08ce8de79935d110ca342b3 -->
+<!-- innholds-hash: 175bd55c04ac0a3fa52da3503dda9ef95a6380580076ddd8317c71fdf8853a23 -->
 
 # Bor ikke sammen med barnet mitt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bor-ikke-med-barnet-mitt
-- **Sist hentet:** 2026-07-05T06:22:07Z
+- **Sist oppdatert i arkivet:** 2026-10-06T23:42:59Z
 
 ## Innhold
 
 Dette kan du ha rett til
 
-
 ## Bor ikke sammen med barnet mitt
 
 Om pengestøtter og bidrag når du ikke bor sammen med barnet ditt.
 
+### Pengestøtter og bidrag
 
-### Innhold på denne siden
+[Barnebidrag](https://www.nav.no/barnebidrag)
 
+Penger den ene forelderen betaler til den andre for å sikre at barnet forsørges når foreldrene ikke bor sammen.
 
-### Innhold på denne siden
+[Særbidrag (tidligere bidrag til særlige utgifter)](https://www.nav.no/bidrag-utgifter)
 
-Det er mulig å få økonomisk sosialhjelp for å kunne ivareta omsorgen og ta med barnet på
+Bidrag til ekstrautgifter som ikke dekkes av det vanlige barnebidraget, som for eksempel konfirmasjon, briller eller tannregulering.
 
-Hvis du har forsørgingsplikt og får en pengestøtte fra Nav, kan du har krav på barnetillegg selv om du ikke bor med barnet. Sjekk hva reglene sier for
+[Ektefellebidrag](https://www.nav.no/ektefellebidrag)
 
-Oppdatert 05.12.2025
+Et bidrag når mulighetene til å forsørge deg selv er svekket på grunn av ekteskapet eller omsorg for barna.
 
+[Oppfostringsbidrag](https://www.nav.no/oppfostringsbidrag)
 
-#### Chat med oss
+Et bidrag som kommunen kan kreve av deg når barnevernet overtar omsorgen for barnet ditt.
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+[Fordele reisekostnader ved samvær](https://www.nav.no/fordele-reisekostnader)
+
+Hvordan fordele reisekostnader ved samvær med barn.
+
+### Andre pengestøtter
+
+Det er mulig å få økonomisk sosialhjelp for å kunne ivareta omsorgen og ta med barnet på [aktiviteter under samvær](https://www.nav.no/okonomisk-sosialhjelp#hvis-du-har-barn).
+
+Hvis du har forsørgingsplikt og får en pengestøtte fra Nav, kan du har krav på barnetillegg selv om du ikke bor med barnet. Sjekk hva reglene sier for [den aktuelle pengestøtten](https://www.nav.no/tjenester).
+
+### Andre som kan hjelpe
+
+[Hjelp hos familievernet](https://www.bufdir.no/familie/)
+
+Familievernkontorene tilbyr rådgiving, veiledning, kurs og samtalegrupper.
+
+Informasjon fra Bufdir
+
+Oppdatert 05.12.2025
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Stengt nå, åpner kl. 9
-
-
-#### Skriv til oss
-
-Still oss et spørsmål og få skriftlig svar.
-
-
-#### Ring oss på 55 55 33 33
+Chat med veileder:
 
 Stengt nå, åpner kl. 9
 
+[Skriv til oss](https://www.nav.no/still-sporsmal)
+
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
+
+Ring oss på 55 55 33 33
+
+Åpent hverdager kl. 9–15.
+
+Stengt nå, åpner kl. 9
+
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/bor-ikke-med-barnet-mitt) av norges-lover-bot.*
@@ -58,3 +89,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)

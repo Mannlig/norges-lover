@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6cf73166e751d6765ec1456dbcfb52cf26bfd219b8d2211b99dc4d360870ab77 -->
+<!-- innholds-hash: ac97a702c3f535527bff9fbf34f3dbddca38bcd7e27c99547395d254307476f0 -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om å styrke ytringsfriheten for lærere
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200366
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om å styrke ytringsfriheten for lærere",
   "sak_fremmet_id": 200366,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fredlund",
+      "foedselsdato": "/Date(402098400000+0200)/",
+      "fornavn": "Anne Lise Gjerstad",
+      "id": "ANNFRE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om å styrke ytringsfriheten for lærere",
@@ -127,4 +147,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

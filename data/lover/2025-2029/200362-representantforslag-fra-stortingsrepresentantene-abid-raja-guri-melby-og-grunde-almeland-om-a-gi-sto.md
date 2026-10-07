@@ -1,4 +1,4 @@
-<!-- innholds-hash: dca14b1ae0e383515e2a6679a1000b6aae6266d5701581972d283e6c159dd664 -->
+<!-- innholds-hash: 700128a38d57760a0f49d3c091499fb8624b117377ded04a14f43d704375fe73 -->
 
 # Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200362
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
   "sak_fremmet_id": 200362,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Langfeldt",
+      "foedselsdato": "/Date(-58323600000+0100)/",
+      "fornavn": "Morgan",
+      "id": "MORL",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Bu",
+        "navn": "Buskerud"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Abid Raja, Guri Melby og Grunde Almeland om å gi stortingsrepresentanter og regjeringsmedlemmer vigselsrett",
@@ -109,4 +129,5 @@
 
 - **2026-06-19** Første gang hentet
 - **2026-06-22** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

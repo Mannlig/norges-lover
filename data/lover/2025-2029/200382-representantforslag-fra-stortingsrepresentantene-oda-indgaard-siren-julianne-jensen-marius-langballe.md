@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a20c78301595c2d6ee6e0c8cf828c541b152422d62fbfa7ed2f3e9a3137fe52 -->
+<!-- innholds-hash: 8f89f6c48b857abe5d8c9295e8817ca5103b43011fa097a8d61ed0f6e1e6693f -->
 
 # Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200382
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om et nasjonalt trafikklyssystem for trygge skoleveier",
   "sak_fremmet_id": 200382,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Gustavsen",
+      "foedselsdato": "/Date(-88563600000+0100)/",
+      "fornavn": "Liv",
+      "id": "LIG",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier",
@@ -127,4 +147,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

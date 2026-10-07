@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f974b240c4bf7ff21781cffb17694e52363ac9c57f4d3f515bb5b3b582065de -->
+<!-- innholds-hash: ddd00ce60cb0b94cea22df7a2b5f85d669d597bcb96c1dbdf30db83fd5964c43 -->
 
 # Endringer i verdipapirhandelloven (europeiske grønne obligasjoner) og samtykke til godkjenning av EØS-komiteens beslutning nr. 243/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/2631
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200372
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i verdipapirhandelloven (europeiske grønne obligasjoner) og samtykke til godkjenning av EØS-komiteens beslutning nr. 243/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/2631 (L-delen)",
   "sak_fremmet_id": 200372,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Eriksen",
+      "foedselsdato": "/Date(701305200000+0100)/",
+      "fornavn": "Andreas Bjelland",
+      "id": "ANDERI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i verdipapirhandelloven (europeiske grønne obligasjoner) og samtykke til godkjenning av EØS-komiteens beslutning nr. 243/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/2631",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

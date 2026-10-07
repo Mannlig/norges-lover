@@ -1,4 +1,4 @@
-<!-- innholds-hash: 83cab36cffc719f3b0e7d41077b28825a1728af1fdf43ef34aa3c3b819bac351 -->
+<!-- innholds-hash: 6936b3b443a3cccd87f9db43a14e06b055fcfc8e6068680a1862f081d08fe6d0 -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200364
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -228,7 +228,27 @@
   },
   "korttittel": "Representantforslag om rammebetingelser for entusiastkjøretøy",
   "sak_fremmet_id": 200364,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sølvberg",
+      "foedselsdato": "/Date(208044000000+0200)/",
+      "fornavn": "Remi",
+      "id": "REMSLV",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "id": "R",
+        "navn": "Rødt",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy",
@@ -242,4 +262,5 @@
 
 - **2026-06-22** Første gang hentet
 - **2026-07-22** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

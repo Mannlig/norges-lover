@@ -1,4 +1,4 @@
-<!-- innholds-hash: cb47adf2bc0713e20243f3d2eddf9891d5c09cdc7fb823e3e2dd6a19872bdd54 -->
+<!-- innholds-hash: be4d53f4d5f422378d170475be7472a436f54499289b1653a33eabbdff50d72e -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Tom Staahle om endringer i engangsavgiften for kjøretøy
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200363
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -209,7 +209,27 @@
   },
   "korttittel": "Representantforslag om endringer i engangsavgiften for kjøretøy",
   "sak_fremmet_id": 200363,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Moflag",
+      "foedselsdato": "/Date(290473200000+0100)/",
+      "fornavn": "Tuva",
+      "id": "TUMO",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Tom Staahle om endringer i engangsavgiften for kjøretøy",
@@ -222,4 +242,5 @@
 ## Endringshistorikk
 
 - **2026-06-22** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

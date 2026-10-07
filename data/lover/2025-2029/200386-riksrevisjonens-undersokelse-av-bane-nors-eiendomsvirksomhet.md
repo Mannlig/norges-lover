@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0f70abfa3a399f947450118b3ed59be627a832f7dda9da4f1f1fca3ee61b05d2 -->
+<!-- innholds-hash: 8cc524168d11ffdb762b37db4eb0dc743ff08d7e78586f135a001f2ee9fd39f2 -->
 
 # Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200386
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet",
   "sak_fremmet_id": 200386,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Busch",
+      "foedselsdato": "/Date(574383600000+0100)/",
+      "fornavn": "Isak Veierud",
+      "id": "ISABUS",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-25** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

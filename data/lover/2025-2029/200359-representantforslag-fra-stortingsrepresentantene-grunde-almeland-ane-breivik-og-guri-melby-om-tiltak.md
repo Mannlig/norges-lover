@@ -1,4 +1,4 @@
-<!-- innholds-hash: 36df81217538b56ac25aeeaaf77f3db2f578d1d339807d0163041dd3e2d24244 -->
+<!-- innholds-hash: 4505eaeb290fbe144f5cc26cd7e38697335dec1e54aa0bafbf8acd05025a971f -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -98,15 +98,15 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Sandanger",
-      "foedselsdato": "/Date(859676400000+0100)/",
-      "fornavn": "Morten",
-      "id": "MORSAN",
+      "etternavn": "Vereide",
+      "foedselsdato": "/Date(603846000000+0100)/",
+      "fornavn": "Torbjørn",
+      "id": "TVER",
       "kjoenn": 2,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Ro",
-        "navn": "Rogaland"
+        "id": "SF",
+        "navn": "Sogn og Fjordane"
       },
       "parti": {
         "id": "A",
@@ -288,4 +288,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

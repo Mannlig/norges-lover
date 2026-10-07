@@ -1,31 +1,27 @@
-<!-- innholds-hash: 4a58036532ec9baf84ad1d00e69244bc7a060b2312e9cc358e1db8c040b1f69e -->
+<!-- innholds-hash: 8ea21a090c1490b0c9f05a6467f216eeb7f5bf574720a0407d496d34757ece0b -->
 
 # Sykmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmelding
-- **Sist hentet:** 2026-07-29T18:34:07Z
+- **Sist oppdatert i arkivet:** 2026-10-07T01:14:20Z
 
 ## Innhold
 
-Slik gjør du det  —  For arbeidsgivere
-
+Slik gjør du det — For arbeidsgivere
 
 ## Sykmelding
 
 Slik håndterer du som arbeidsgiver sykmeldinger trinn for trinn.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Sykmelding trinn for trinn
 
 Det er fem trinn knyttet til det å håndtere en sykmelding.
 
-
 #### 1. Tilganger
+
+[Virksomheten gir tilganger i Altinn](https://www.nav.no/arbeidsgiver/tilganger#sykmelding) til den/de som skal håndtere sykmeldinger, for eksempel HR/lønn.
 
 Følgende roller har tilgang automatisk, og kan også gi tilgang til andre:
 
@@ -38,27 +34,31 @@ Følgende roller har tilgang automatisk, og kan også gi tilgang til andre:
 - bestyrende reder
 - norsk representant for utenlandsk enhet
 - bostyrer
+
 Du ser tilgangene dine i Altinn under «Profil» og «Skjema og tjenester du har tilgang til». Hvis du mangler rettigheter, må du få dem tildelt.
 
+[Her kan du lese mer om tilgang til Navs tjenester via Altinn](https://www.nav.no/arbeidsgiver/tilganger).
 
 #### 2. Den ansatte sender sykmelding
 
-Den ansatte finner sykmeldingen sin på nav.no og sender den til arbeidsgiveren. Medisinske opplysninger er utelatt i arbeidsgiverens eksemplar av sykmeldingen.
+Den ansatte finner sykmeldingen sin på nav.no og sender den til arbeidsgiveren. Medisinske opplysninger er utelatt i arbeidsgiverens eksemplar av sykmeldingen.
 
 Hvis den ansatte ikke kan benytte digital sykmelding, må sykmeldingen leveres på papir.
-
 
 #### 3. Svar på hvem som er nærmeste leder
 
 Virksomheten oppgir hvem som er nærmeste leder for den sykmeldte. Det gjøres i et eget skjema på Min side – arbeidsgiver. Virksomheten kan også registrere nærmeste leder når Nav sender en forespørsel til innboksen i Altinn.
 
+[Oppgi nærmeste leder](https://www.nav.no/arbeidsgiver/ansatte/narmesteleder)
+
 Når den nærmeste lederen er registrert, får lederen
 
 - verktøy for å følge opp den sykmeldte
 - påminnelser om sykmeldinger, søknader og andre viktige hendelser i sykefraværet
+
 Hver ansatt kan kun ha registrert én nærmeste leder. Hvis en leder allerede er registrert, vil virksomheten ikke bli spurt igjen.
 
-Ved nye sykmeldinger vil den ansatte bli spurt om den registrerte lederen fortsatt er nærmeste leder. Hvis svaret er nei, vil virksomheten få spørsmålet på nytt i Altinn. Lederen kan også bryte koblingen til den ansatte på Dine sykmeldte.
+Ved nye sykmeldinger vil den ansatte bli spurt om den registrerte lederen fortsatt er nærmeste leder. Hvis svaret er nei, vil virksomheten få spørsmålet på nytt i Altinn. Lederen kan også bryte koblingen til den ansatte på Dine sykmeldte.
 
 Virksomheten kan også endre nærmeste leder ved å benytte seg av et tomt skjema som ligger på Min side arbeidsgiver hos Nav.
 
@@ -67,40 +67,46 @@ Personen som oppgis som nærmeste leder må ha norsk fødselsnummer eller d-numm
 - Få oversikt over hvem lederen har oppfølgingsansvar for.
 - Finn ut hvem av disse som er sykmeldt.
 - Send inn skjemaet på nytt kun for de som er sykmeldt nå.
-Virksomheten trenger ikke å registrere ny leder for alle ansatte som har hatt ham/henne som nærmeste leder, bare de som er sykmeldt når lederskiftet skjer.
 
+Virksomheten trenger ikke å registrere ny leder for alle ansatte som har hatt ham/henne som nærmeste leder, bare de som er sykmeldt når lederskiftet skjer.
 
 #### 4. Forskuttering av lønn
 
-I det nye skjemaet for å oppgi nærmeste leder, er spørsmålet om forskuttering av lønn fjernet.
+I det nye skjemaet for å oppgi nærmeste leder, er spørsmålet om forskuttering av lønn fjernet.
 
 Når du sender inn inntektsmeldingen, vil du igjen bli spurt om forskuttering av lønn. Svaret du gir når du sender inntektsmeldingen er avgjørende for hvor Nav utbetaler pengene.
 
 Hvis du vil endre svaret om forskuttering, må du sende inntektsmeldingen på nytt.
 
-
 #### 5. Oversikt over sykmeldinger
 
-Nærmeste leder får en e-post fra Nav om at det har kommet en sykmelding, logger inn og finner sykmeldingen på
+Nærmeste leder får en e-post fra Nav om at det har kommet en sykmelding, logger inn og finner sykmeldingen på [nav.no/dinesykmeldte](http://www.nav.no/dinesykmeldte).
 
 For at du skal kunne motta varsel om nye saker på nav.no, må kontaktinformasjonen din ha blitt meldt inn fra virksomheten du jobber i.
 
 Sykmeldinger som er eldre enn fire måneder, forsvinner fra nav.no/dinesykmeldte. Ansatte som har vært friske i over fire måneder, fjernes også fra siden. Hvis det meldes inn en ny leder midt i et sykefraværstilfelle, fjernes sykmeldingen fra den tidligere lederens side, og den nye lederen får tilgang til gjeldende sykmeldinger.
 
-
 #### Lagring og søk i Altinn:
 
-Sykmeldinger og søknader slettes ikke automatisk fra Altinn. De blir liggende i virksomhetens meldingsboks til noen sletter dem manuelt.
+Sykmeldinger og søknader ligger som en del av dialogen for et sykefravær i innboksen i Altinn. De blir liggende i virksomhetens innboks til noen arkiverer dem manuelt.
 
-Du kan enkelt søke opp sykmeldinger og søknader ved å bruke den ansattes navn eller fødselsnummer i tittelfeltet.
+Du kan søke opp sykmeldinger og søknader ved å bruke den ansattes navn eller fødselsdato.
 
-Sykmeldinger og skjemaer sendes til meldingsboksen for den underenheten som den ansatte er registrert på via a-meldingen, ikke til det juridiske organisasjonsnummeret. For å finne riktig underenhet i Altinn, velg “Vis alle aktører” og huk av for “Se alle underenheter”.
+Sykmeldinger og skjemaer sendes til innboksen for den underenheten som den ansatte er registrert på via a-meldingen, ikke til det juridiske organisasjonsnummeret. For å finne riktig underenhet i Altinn, velg “alle virksomheter” eller finn den underenheten du ser etter.
+
+#### Andre tilbud
 
 Mer informasjon når
 
-Som hovedregel kreves det én sykmelding, én søknad og én inntektsmelding for hvert arbeidsforhold man er sykmeldt fra. Dette gjelder også hvis en ansatt har flere stillinger i samme underenhet, men er registrert med ulike arbeidsforhold.
+- [Ansatt er sykmeldt](https://www.nav.no/arbeidsgiver/sykmeldt-ansatt) Hva arbeidsgivere må vite
 
-Noen ansatte har en fast stillingsprosent og jobber på timesbasis innenfor samme avdeling med samme arbeidsoppgaver. Da er det nok med én sykmelding og én søknad.
+### Sykmeldte har flere arbeidsforhold
+
+Som hovedregel kreves det én sykmelding, én søknad og én inntektsmelding for hvert arbeidsforhold man er sykmeldt fra.
+
+Hvis en ansatt har flere stillinger i samme underenhet, men er registrert med ulike arbeidsforhold så skal det kun være én sykmelding. Dette er for eksempel typisk når ansatte har en fast stillingsprosent og jobber på timesbasis innenfor samme avdeling med samme arbeidsoppgaver.
+
+### Sykmelding på papir
 
 Den som gir ut papirsykmelding, sender også sykmeldingen til Nav for digitalisering. Hvis du får papirsykmelding, bør du oppfordre den ansatte til å sende deg den digitale versjonen når den er klar på Ditt sykefravær på nav.no. Prosessen tar noen dager, fordi papirene sendes i posten til Nav og skannes inn.
 
@@ -108,29 +114,38 @@ Noen ansatte må fortsatt bruke papirsykmelding. Dette gjelder hvis de ikke har
 
 - BankID eller annen legitimasjon på høyeste sikkerhetsnivå
 - et norsk fødselsnummer eller D-nummer
+
 Ansatte kan også selv velge å bruke papir fremfor en digital løsning.
 
 Arbeidsgiveren beholder papirsøknaden (del D av sykmeldingen) så lenge den er innenfor arbeidsgiverperioden. Hvis virksomheten forskutterer sykepenger, må arbeidsgiveren sende papirsøknaden til Nav for å få refusjon når arbeidsgiverperioden er over. Hvis virksomheten ikke forskutterer sykepenger, skal den ansatte levere papirsøknaden til Nav når arbeidsgiverperioden er over.
 
 Adressen finner du på førstesiden som skrives ut og sendes sammen med søknaden om sykepenger.
 
+[Hent førsteside](https://www.nav.no/fyllut-ettersending/nb/lospost/paper)
+
 Hvis den sykmeldte er fast bosatt i utlandet, skal søknaden om sykepenger sendes til Nav arbeid og ytelser – D-skjema, Postboks 6600 Etterstad, 0607 Oslo.
+
+### Tilbakedatering av sykmeldingen
 
 Hvis sykmeldingen er tilbakedatert, vil dette gå frem av sykmeldingen.
 
-Hovedregelen er at Nav ikke godtar en sykmelding for et tidsrom før den ansatte var hos legen. Det finnes unntak fra denne regelen. En tilbakedatert sykmelding kan godkjennes hvis den ansatte har vært forhindret fra å oppsøke lege, og det er godtgjort at den ansatte var arbeidsufør fra et tidligere tidspunkt. Det kan gjøres unntak for eksempel hvis det ikke var mulig for den ansatte å få time hos legen tidligere. Nav  vurderer om en tilbakedatert sykmelding kan godkjennes, og unntakene praktiseres strengt. Ved tilbakedatert sykmelding oppgir sykmelderen årsaken til tilbakedateringen til Nav.
+Hovedregelen er at Nav ikke godtar en sykmelding for et tidsrom før den ansatte var hos legen. Det finnes unntak fra denne regelen. En tilbakedatert sykmelding kan godkjennes hvis den ansatte har vært forhindret fra å oppsøke lege, og det er godtgjort at den ansatte var arbeidsufør fra et tidligere tidspunkt. Det kan gjøres unntak for eksempel hvis det ikke var mulig for den ansatte å få time hos legen tidligere. Nav vurderer om en tilbakedatert sykmelding kan godkjennes, og unntakene praktiseres strengt. Ved tilbakedatert sykmelding oppgir sykmelderen årsaken til tilbakedateringen til Nav.
 
 Hvis du mottar en tilbakedatert sykmelding og er i tvil om den ansatte har vært forhindret fra å oppsøke lege, bør du gå i dialog med den ansatte for å avklare årsaken til tilbakedateringen.
 
 Du kan velge å ikke godta en tilbakedatert sykmelding hvis du mener at den ansatte ikke var forhindret fra å oppsøke lege. I slike tilfeller kan du godta sykmeldingen fra den datoen den ansatte har blitt undersøkt av lege.
 
-Les mer om hvordan du går frem hvis du
+Les mer om hvordan du går frem hvis du [ikke godkjenner en sykmelding](https://www.nav.no/arbeidsgiver/betvile-sykmelding).
+
+### Den ansatte har ikke gitt beskjed om sykdom fra første dag
 
 Den ansatt må melde fra om sykdom til arbeidsgiveren fra første sykedag. Først når denne beskjeden er gitt, har den ansatte rett til sykepenger fra arbeidsgiveren.
 
 Meldingen kan gis som egenmelding eller som sykmelding fra lege.
 
 Hvis den ansatte ikke gir en slik melding, vil retten til sykepenger fra arbeidsgiveren først gjelde fra den dagen meldingen blir gitt. Man kan gjøre unntak hvis det ikke har vært mulig for den ansatte å gi melding i tide, og det er klart at sykdommen har ført til arbeidsuførhet fra et tidligere tidspunkt.
+
+### Sykmelding fra utlandet
 
 Hvis den ansatte har fått sykmelding fra en lege i et annet EØS-land, vil denne sykmeldingen også gjelde som sykmelding i Norge.
 
@@ -165,27 +180,30 @@ Hvis den ansatte har fått sykmelding fra en lege i et annet EØS-land, vil denn
 - Tyskland
 - Ungarn
 - Østerrike
+
 *Sveits er ikke et EØS-land, men trygdereglene gjelder likevel der hvis du er statsborger i et EFTA-land (Norge, Island, Liechtenstein eller Sveits).
 
-Se fullstendig oversikt over områder der EØS-reglene gjelder i
+Se fullstendig oversikt over områder der EØS-reglene gjelder i [rundskriv til EØS-avtalens bestemmelser om trygd kapittel 1 nr. 3 (Lovdata)](https://lovdata.no/nav/rundskriv/r45-00/kap0#KAPITTEL_1-3).
 
 Enkelte utenlandske sykmeldinger blir digitalisert. Hvis den sykmeldte bekrefter sykmeldingen på nav.no, vil den sendes til arbeidsgiveren på lik linje som norske sykmeldinger. Den sykmeldte vil da også kunne sende søknaden om sykepenger digitalt. For å benytte digital sykmelding og søknad om sykepenger må den sykmeldte ha BankID, Comfides eller Buypass.
 
-Hvis sykmeldingen ikke blir digitalisert, eller den ansatte ikke har mulighet til å logge inn på Ditt sykefravær, må den ansatte sende kopi av den utenlandske sykmeldingen til Nav og arbeidsgiveren. Den sykmeldte må også sende inn en
+Hvis sykmeldingen ikke blir digitalisert, eller den ansatte ikke har mulighet til å logge inn på Ditt sykefravær, må den ansatte sende kopi av den utenlandske sykmeldingen til Nav og arbeidsgiveren. Den sykmeldte må også sende inn en [egenerklæring for utenlandske sykmeldinger](https://www.nav.no/fyllut/nav080906) for hver sykmeldingsperiode.
 
 Nav godtar som hovedregel ikke sykmeldinger utstedt av en lege i land utenfor EØS.
+
+### Vanlige problemstillinger
 
 Her finner du svar på noen vanlige problemstillinger i forbindelse med sykmeldinger.
 
 Hvis du har fått feilmelding om at fødselsnummeret og etternavnet til nærmeste leder ikke stemmer med Folkeregisteret, kan det ha flere årsaker:
 
-Virksomheten har kopiert fødselsnummeret eller navnet til lederen og fått med et mellomrom foran eller bak nummeret eller navnet.
+- Virksomheten har kopiert fødselsnummeret eller navnet til lederen og fått med et mellomrom foran eller bak nummeret eller navnet.
 
-Navnet i personalsystemet kan være stavet annerledes enn i Folkeregisteret.
+- Navnet i personalsystemet kan være stavet annerledes enn i Folkeregisteret.
 
-Det som kommer frem som mellomnavn i personalsystemet kan være en del av etternavnet i Folkeregisteret.
+- Det som kommer frem som mellomnavn i personalsystemet kan være en del av etternavnet i Folkeregisteret.
 
-Lederen har nylig fått tildelt norsk fødselsnummer etter å ha hatt D-nummer.
+- Lederen har nylig fått tildelt norsk fødselsnummer etter å ha hatt D-nummer.
 
 Den som er sykmeldt krysser av for hvilken arbeidsgiver sykmeldingen skal sendes til. Valgmulighetene den ansatte får er hentet fra Aa-registeret.
 
@@ -193,18 +211,19 @@ Den ansatte kan da se og velge alle arbeidsforhold de siste fire månedene. Som 
 
 Legen skriver inn navnet på arbeidsgiveren i et fritekstfelt. Av og til hender det at en tidligere arbeidsgiver "henger igjen" og at legen overser dette. Den ansatte kan likevel sende sykmeldingen til riktig arbeidsgiver fra nav.no, fordi det kommer opp en liste med arbeidsgiverne som den ansatte er registrert hos i Aa-registeret.
 
+### Meldinger når noe skjer
+
 Virksomheten får melding når det skjer noe nytt i et sykefravær. Hvilke meldinger man får, avhenger av rollen man har:
 
-
-#### Har du tilgang i Altinn til sykmeldinger, søknader om sykepenger og brev om dialogmøte?
+#### Har du tilgang i Altinn til sykmeldinger, søknader om sykepenger og brev om dialogmøte?
 
 Da får du melding når
 
 - den ansatte sender inn en ny sykmelding
 - den ansatte sender inn en ny søknad om sykepenger
 - nærmeste leder ikke er registrert, og Nav-kontoret sender brev om dialogmøte: innkalling, endring, avlysning og referat
-Meldingen kommer som SMS og/eller e-post avhengig hva man har valgt i
 
+Meldingen kommer som SMS og/eller e-post avhengig hva man har valgt i [varslingsinnstillingene](https://info.altinn.no/hjelp/oversikt-over-varslingsinnstillinger/) i Altinn.
 
 #### Er du nærmeste leder?
 
@@ -216,27 +235,32 @@ Da får du melding når
 - Nav spør om behovet for dialogmøte (kommer i uke 17 av sykefraværet)
 - Nav-veilederen sender melding om dialogmøte: innkalling, endring, avlysning og referat
 - Nav-veilederen sender en forespørsel for å få tilsendt en oppfølgingsplan
+
 Nærmeste leder får melding til e-postadressen som er oppgitt på skjemaet "Oppgi næremeste leder for sykmeldt ansatt"
 
-Oppdatert 28.07.2026
+Oppdatert 21.08.2026
 
+### Finner du ikke svaret her? Ta kontakt med oss
 
-#### Ring oss på 55 55 33 36
+Ring oss på 55 55 33 36
+
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
-#### Kontaktskjema
+[Kontaktskjema](https://kontaktskjema.arbeidsgiver.nav.no/)
 
 Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeidstakere og forebygge sykefravær.
 
+Chatbot
 
-#### Chat
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
 
-Chatbot Frida har døgnåpent.
+Chatbot:
 
 Alltid åpen
-
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/sykmelding) av norges-lover-bot.*
@@ -250,3 +274,4 @@ Alltid åpen
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)

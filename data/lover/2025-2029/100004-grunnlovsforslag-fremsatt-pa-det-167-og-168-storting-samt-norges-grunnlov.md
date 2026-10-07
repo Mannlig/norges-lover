@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4a02d11c205e4b81c3230e81ec8be294e056cbb6a287099c1d7d8c868b18c8d9 -->
+<!-- innholds-hash: 52cef47c7c7b836a0853acb5ca90707b0a01b2fdc29137c63e2f288335df8940 -->
 
 # Grunnlovsforslag fremsatt på det 167. og 168. storting samt Norges grunnlov
 
@@ -10,11 +10,11 @@
 - **Korttittel:** Grunnlovsforslag fremsatt på det 167. og 168. storting samt Norges grunnlov
 - **Status:** 2
 - **Henvisning:** None
-- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100004
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -32,8 +32,8 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "id": "KONTROLL",
-    "navn": "Kontroll- og konstitusjonskomiteen"
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
   },
   "korttittel": "Grunnlovsforslag fremsatt på det 167. og 168. storting samt Norges grunnlov",
   "sak_fremmet_id": 100004,
@@ -50,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

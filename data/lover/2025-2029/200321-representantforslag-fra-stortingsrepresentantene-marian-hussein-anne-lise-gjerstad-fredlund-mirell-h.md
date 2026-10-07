@@ -1,4 +1,4 @@
-<!-- innholds-hash: 70ac2b3549c8b298d5d83d363e83817f7d3939b656f1ca9d2f91c7ae9cc9fab4 -->
+<!-- innholds-hash: d2d2c91d2c7d28b7ff7675bb23f8b62247a70499e327f28e3b0ee3dc49806135 -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200321
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -117,19 +117,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Askjer",
-      "foedselsdato": "/Date(-247539600000+0100)/",
-      "fornavn": "Hans Edvard",
-      "id": "HANASK",
-      "kjoenn": 2,
+      "etternavn": "Solli",
+      "foedselsdato": "/Date(612050400000+0200)/",
+      "fornavn": "Kristine Løfshus",
+      "id": "KRISOL",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Te",
-        "navn": "Telemark"
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
       },
       "parti": {
-        "id": "KrF",
-        "navn": "Kristelig Folkeparti",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
         "representert_parti": true
       },
       "vara_representant": false
@@ -157,4 +157,5 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

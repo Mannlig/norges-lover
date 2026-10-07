@@ -1,77 +1,109 @@
-<!-- innholds-hash: db62bfdccb0bd53e520ea0a4a6618de355ae4bece1e7c22b951d088e4a40cbd3 -->
+<!-- innholds-hash: fd19941d44d951edc2271193c37d22df5af0e0aff9d02b3dee73801f3d7849d0 -->
 
 # Nav hjelpemiddelsentral Vestland-Bergen - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen
-- **Sist hentet:** 2026-05-17T12:41:39Z
+- **Sist oppdatert i arkivet:** 2026-10-07T00:17:00Z
 
 ## Innhold
-
 
 ## Nav hjelpemiddelsentral Vestland-Bergen
 
 Hjelpemiddelsentral
 
-
 ### Du finn oss her
+
+#### Besøksadresse
 
 Kokstaddalen 35, 5257 KOKSTAD
 
+#### Opningstider
+
+| dag | tid |
+| --- | --- |
+| Måndag | 09.00–14.30 |
+| Tysdag | 09.00–14.30 |
+| Onsdag | 09.00–14.30 |
+| Torsdag | 09.00–14.30 |
+| Fredag | 09.00–14.30 |
 
 ### Telefonnummeret til hjelpemiddelsentralen er
 
-Telefonen er open på kvardagar frå 09.00 til 11.15 og frå 12.15 til 14.30.
+55 55 11 11
 
+Telefonen er open på kvardagar frå 09.00 til 11.15 og frå 12.15 til 14.30.
 
 ### Kontorinformasjon
 
+### Dette kan vi hjelpe deg med
 
-#### Plassering
+- [Kva er situasjonen din?](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen#situasjon)
+- Utprøving og søknad
+- Sjekk saka di
+- Levering av hjelpemiddel
+- [Sakar som hastar](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen#hast)
+- Reparasjon, deler og byte
+- Tolketenesta
+- Bil og spesialutstyr
+- [Brukarmedverknad](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen#Medvirkning)
 
-Kokstaddalen 35, 5257 KOKSTAD
-
-
-#### Postadresse
-
-Postboks 121 Kokstad, 5863 BERGEN
-
-
-#### Kontornummer
-
-4712
+### Kva er situasjonen din?
 
 Sjå sidene våre for å finne informasjon om hjelpemiddel og tilrettelegging i ulike situasjonar.
 
+[Hjelpemiddel og tilrettelegging](https://www.nav.no/hjelpemidler-alle) (for privatperson)
+
 Jobbar du med hjelpemiddel og tilrettelegging? Sjå sidene våre for samarbeidspartnarar.
+
+[Jobbar med hjelpemiddel](https://www.nav.no/samarbeidspartner/jobber-med-hjelpemidler) (for samarbeidspartnar)
+
+### Utprøving og søknad
 
 I kvar kommune er det tilsette som har eit spesielt ansvar for hjelpemiddelformidling. Ofte er det ergoterapeutar eller fysioterapeutar, men det kan også vere andre yrkesgrupper. Dei kan hjelpe til med å kartlegge behovet, hjelpe deg å søke og gi opplæring og oppfølging. Ofte må eit hjelpemiddel prøvast ut før du søker. Ergoterapeut i kommunen vil organisere utprøving for deg.
 
 Nav hjelpemiddelsentral hjelper kommunar og andre samarbeidspartnarar ved kompliserte hjelpemiddel- og tilretteleggingsbehov i daglegliv, barnehage, skule, utdanning og arbeid.
 
+[Alver](https://www.alver.kommune.no/) [Askøy](https://askoy.kommune.no/) [Austevoll](https://www.austevoll.kommune.no/) [Austrheim](https://www.austrheim.kommune.no/) [Bergen](https://www.bergen.kommune.no/) [Bjørnafjorden](https://bjornafjorden.kommune.no/) [Bømlo](https://www.bomlo.kommune.no/) [Eidfjord](https://www.eidfjord.kommune.no/) [Etne](https://www.etne.kommune.no/) [Fedje](https://www.fedje.kommune.no/) [Fitjar](https://www.fitjar.kommune.no/) [Kvam](https://www.kvam.no/) [Kvinnherad](https://www.kvinnherad.kommune.no/) [Masfjorden](https://www.masfjorden.kommune.no/) [Modalen](https://www.modalen.kommune.no/) [Osterøy](https://www.osteroy.kommune.no/) [Samnanger](https://www.samnanger.kommune.no/) [Stord](https://www.stord.kommune.no/) [Sveio](https://www.sveio.kommune.no/) [Tysnes](https://www.tysnes.kommune.no/) [Ullensvang](https://ullensvang.kommune.no/) [Ulvik](https://www.ulvik.kommune.no/) [Vaksdal](https://www.vaksdal.kommune.no/) [Voss](https://voss.herad.no/) [Øygarden](https://www.oygarden.kommune.no/)
 
 #### Nedsett syn og høyrsel
 
-Syns- og audiopedagogisk teneste (SAPT Vestland) gir råd til brukarar som bur i Hordaland fylke. Både fagpersonar og brukarar kan ta kontakt. For å få bistand frå tenesten må syns- og høyrselstap vere dokumentert av spesialisthelsetenesta. Barn og unge blir prioriterte.
+Syns- og audiopedagogisk teneste (SAPT Vestland) gir råd til brukarar som bur i Hordaland fylke. Både fagpersonar og brukarar kan ta kontakt. For å få bistand frå tenesten må syns- og høyrselstap vere dokumentert av spesialisthelsetenesta. Barn og unge blir prioriterte. [Du finn informasjon om SAPT Vestland på Bergen kommune sine nettsider.](https://www.bergen.kommune.no/innbyggerhjelpen/barnehage-og-skole/grunnskole/spesialpedagogisk-tilbud/synsog-audiopedagogisk-tjeneste-sapt-vestland)
 
+#### Informasjon til privatpersonar
+
+[Oversikt over hjelpemiddel og tilrettelegging for privatpersonar](https://www.nav.no/hjelpemidler)
+
+[Søknad og skjema](https://www.nav.no/soknader/nn)
+
+#### Informasjon til fagpersonar
+
+[Oversikt over hjelpemiddel og tilrettelegging for samarbeidspartnarar](https://www.nav.no/samarbeidspartner/hjelpemiddelformidler)
+
+[Søknad og skjema for samarbeidspartnarar](https://www.nav.no/samarbeidspartner/soknader/nn)
 
 #### Open dag for utprøving av hjelpemiddel
 
 Open dag er eit tilbod der brukarar i følgje med ergo- eller fysioterapeut frå kommunen, kan prøve prisforhandla hjelpemiddel. Det er ikkje opne dagar for utprøving i feriar eller på høgtidsdagar.
 
+Terapeut i kommunen må sende hjelpemiddelsentralen nødvendige opplysningar før enkelte typar open dag. Terapeutane finn rutinar for dette i samhandlingsteamet mellom kommunane og hjelpemiddelsentralen.
+
 Det er open dag for utprøving av elektriske og manuelle rullestolar og for arbeids- og løftestolar kvar onsdag klokka 10.00–14.00.
 
-Det er open sykkeldag kvar torsdag klokka 12.00–14.00.
+Det er open dag for utprøving av sykkel og ganghjelpemiddel kvar torsdag klokka 11.30–13.30.
 
-Det er open vogndag den siste torsdagen i månaden kl. 10.00–11.30.
+Det er open dag for utprøving av vogner, arbeidsstolar og bilstolar tysdagar i oddetalsveker kl. 12.00–13.30.
 
+Det er utprøving av trappeheis og Assistep den siste torsdagen i månaden klokka 09.00–14.30.
 
 #### Lån utprøvingsrom
 
 Måndag og fredag klokka 10:00–14:00 kan terapeutar låne utprøvingsrom og gjere utprøvingar på eiga hand.
 
-Ta kontakt for å avtale tid. Opplys om det på førehand dersom det trengst drosje-rekvisisjon.
+Ta kontakt for å avtale tid. Opplys om det på førehand dersom det trengst drosje-rekvisisjon.
+
+### Sjekk saka di
 
 Viss du har sendt ein søknad til Nav hjelpemidler og tilrettelegging, kan du logge inn på nav.no og sjekke saka di sjølv. Innloggingsknappen finn du øvst til høgre i nettlesarvindauget.
 
@@ -82,18 +114,22 @@ På innlogga sider på nav.no kan du sjekke
 - status i saker du har til behandling
 - oversikt over utlånte hjelpemiddel (utlånsoversikt)
 - oversikt over saker som er sendt inn, dokument og vedtak
+
 Du vil ikkje få opp oversikt over søknader til eigne barn viss du loggar inn. Du kan skrive eller ringe til oss viss du treng informasjon om status på saka til eige barn.
 
 Viss du har brukt digital behovsmelding til å søke om hjelpemiddel for ein innbyggjar, kan du sjekke
 
 - status i saka for dei hjelpemiddelsøknadene du sjølv har søkt om på innbyggjars vegner.
+
 Du kan lese meir om korleis kommunale terapeutar og teknikarar kan bruke digitale tenester i hjelpemiddelformidlinga.
+
+### Levering av hjelpemiddel
 
 Hjelpemiddelsentralen leverer hjelpemiddelet til kommunen.
 
 Viss du ikkje har reservert deg mot digitale meldingar frå staten, får du beskjed på SMS eller e-post når hjelpemiddelet er klart til å sendast frå oss til kommunen. Du kan også følgje status på saka di viss du loggar inn på nav.no med ID-porten.
 
-Utleveringa av hjelpemidla skjer som regel éin gong per veke til mottaksstader i kommunane. Derfrå blir hjelpemiddelet  levert vidare til deg som skal ha det.
+Utleveringa av hjelpemidla skjer som regel éin gong per veke til mottaksstader i kommunane. Derfrå blir hjelpemiddelet levert vidare til deg som skal ha det.
 
 Du får beskjed frå Nav om at vi har levert hjelpemiddelet til kommunen din. Viss du har spørsmål om leveringa, må du kontakte kommunen.
 
@@ -103,44 +139,84 @@ Du må kvittere på at du har fått hjelpemiddelet ved utlevering.
 
 Det vil bli avvik frå vanlege køyreruter i samband med ferie og høgtider. Dersom du treng å vite nøyaktig køyredag, kan du ta kontakt med kommunen din.
 
-Når det er behov for særleg rask utlevering av hjelpemiddel, skal det meldast inn i digital behovsmelding under steg 5: "Levering". Det er berre tilsette i kommunen som kan gjere dette.
+| Kommune | Vekedag |
+| --- | --- |
+| Alver | Måndag |
+| Askøy | Tysdag |
+| Austevoll | Måndag |
+| Austrheim | Tysdag |
+| Bergen | Kvar dag |
+| Bjørnafjorden | Torsdag |
+| Bømlo | Måndag |
+| Eidfjord | Fredag |
+| Etne | Måndag |
+| Fedje | Tysdag |
+| Fitjar | Måndag |
+| Kvam | Onsdag |
+| Kvinnherad | Onsdag |
+| Masfjorden | Tysdag |
+| Modalen | Tysdag |
+| Osterøy | Onsdag |
+| Samnanger | Onsdag |
+| Stord | Måndag |
+| Sveio | Måndag |
+| Tysnes | Torsdag |
+| Ullensvang | Onsdag |
+| Ulvik | Fredag |
+| Vaksdal | Fredag |
+| Voss | Fredag |
+| Øygarden | Torsdag |
+
+### Sakar som hastar
+
+Når det er behov for særleg rask utlevering av hjelpemiddel, skal det meldast inn i digital behovsmelding under steg 5: "Levering". Det er berre tilsette i kommunen som kan gjere dette.
 
 Tilsette ved sjukehus og privateigde institusjonar kan ikkje bruke digital behovsmelding og må kontakte kommunen som brukaren bur i.
 
 Hjelpemiddelsentralen vurderar i kvart tilfelle om det er ein hastesak. Hastesakar får høgste prioritet i saksbehandlinga vår. Du kan følgje med på status i saka på Dine hjelpemiddelsaker.
 
-Årsaken til at det hastar skal vere begrunna i sjukdomstilstanden og livssituasjon til innbyggaren, og i samanhengen hjelpemiddelet skal brukast. Hjelpemiddelsentralen behandlar saka som hastesak når
+Årsaken til at det hastar skal vere begrunna i sjukdomstilstanden og livssituasjon til innbyggaren, og i samanhengen hjelpemiddelet skal brukast. Hjelpemiddelsentralen behandlar saka som hastesak når
 
-- brukaren treng hjelpemiddel for å hindre vidare utvikling av trykksår, eller fordi det er stor fare for utvikling av trykksår
-- brukaren må ha terminalpleie
-- brukaren skrivast ut frå sjukehus og det ikkje var mogleg å planlegge i forkant
-- det har skjedd ei rask forverring av ein alvorleg diagnose.
+- brukaren treng hjelpemiddel for å hindre vidare utvikling av trykksår, eller fordi det er stor fare for utvikling av trykksår
+- brukaren må ha terminalpleie
+- brukaren skrivast ut frå sjukehus og det ikkje var mogleg å planlegge i forkant
+- det har skjedd ei rask forverring av ein alvorleg diagnose.
+
+### Reparasjon, deler og byte
+
 Ta kontakt med kommunen din for å melde behov for reparasjon, byte eller delar til hjelpemiddelet ditt.
 
 Kommunal hjelpemiddelteknikar utfører enkle reparasjonar og byte av delar. Kommunen kontaktar hjelpemiddelsentralen dersom den har behov for bistand i ei sak.
 
+#### Reparasjon av hjelpemiddel ved akutte behov
+
 Ta først kontakt med kommunen.
 
-Utanom opningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemiddel:
+Utanom opningstid og ved akutte behov, kan du ringe Nav hjelpemiddelsentral sin servicetelefon for reparasjon av hjelpemiddel:
 
 - Telefonnummer: 917 81 122
 - Opningstid kvardagar: klokka 15:30–24:00
-- Opningstid helger og heilagdagar: klokka 08:00–24:00
-Når du ringer Servicetelefonen vil du komme i kontakt med ein av våre teknikarar. Dei vil vurdere situasjonen ut frå situasjonsskildringa di, og avtale med deg hva som skal gjerast vidare.
+- Opningstid helger og heilagdagar: klokka 08:00–24:00
 
+Når du ringer Servicetelefonen vil du komme i kontakt med ein av våre teknikarar. Dei vil vurdere situasjonen ut frå situasjonsskildringa di, og avtale med deg hva som skal gjerast vidare.
+
+### Tolketenesta
 
 #### Bestille tolk
 
 Dersom du har søkt og fått innvilga tolk, kan du bestille tolk til konkrete oppdrag.
 
-Du kan
+Du kan [logge inn og bestille tolk på Nav si tolkebestillingsløysing](https://tolkebestilling.nav.no)
 
+[Bestille tolk](https://www.nav.no/bestille-tolk)
+
+Slik gjer du det
 
 #### Kontakt tolketenesta i Vestland
 
 - Telefon:
-- 40 64 97 93 (berre samtale)
-- 41 71 60 90 (berre sms. Du kan ikkje sende bilete til dette nummeret)
+  - 40 64 97 93 (berre samtale)
+  - 41 71 60 90 (berre sms. Du kan ikkje sende bilete til dette nummeret)
 - Opningstid telefon: kvardagar klokka 09.00-14.30
 - E-postadresse: nav.tolketjenesten.vestland@nav.no.
 
@@ -148,24 +224,43 @@ Du kan
 
 Ved akutt behov for tolk for døve, høyrselshemma og døvblinde, ring eller send sms til 99 48 18 10. Her kan du få kontakt med tolk når som helst på døgnet, ved til dømes sjukdom eller brann.
 
+[Tolking for døve, døvblinde og hørselshemmede](https://www.nav.no/tolking-for-dove-dovblinde-horselshemmede)
+
+Teneste
+
+### Bil og spesialutstyr
+
 Viss du treng stønad til bil eller spesialutstyr, kan du kontakte bilsenteret i regionen din.
 
 Nav bilsenter er eit nasjonalt ressurs- og kompetansesenter med ansvar for formidling av bil og spesialutstyr.
 
-I Vestland fylke er det Nav bilsenter Vest-Norge som har ansvar for å hjelpe deg.
+Har du spørsmål om stønad til bil eller spesialutstyr?
 
-- Telefon: 40 64 83 23
-- Opningstid telefon: mandag til fredag klokka 09:00–11:00
-- Besøksadresse: Kokstaddalen 35, 5257 Kokstad
-- Postadresse: Postboks 121 Kokstad, 5863 Bergen
-Ønskjer du å stille oss eit spørsmål eller gi oss ein beskjed, kan du bruke tenesta
+Telefon:
 
-Skal du sende oss dokumentasjon kan du gjere det via
+- 55 55 11 11 (felles nummer frå 1. september 2026)
+- Opningstid på telefonen: kvardagar frå kl. 09.00 til 11.15 og frå kl. 12.15 til 14.30.
+
+Ønskjer du å stille oss eit spørsmål eller gi oss ein beskjed, kan du bruke tenesta [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler/nn) på nav.no.
+
+Skal du sende oss dokumentasjon kan du gjere det via [nav.no/ettersende](https://www.nav.no/ettersende).
+
+Utprøving og rettleiing i enkeltsaker vil føre seg ved Nav bilsenter Vest-Norge.
+
+#### Adresse Nav bilsenter Vest-Norge
+
+- Besøksadresse: Kokstaddalen 35, 5257 Kokstad
+- Postadresse: Postboks 121 Kokstad, 5863 Bergen
+
+[Bilstønad](https://www.nav.no/bilstonad)
+
+Pengestøtte og Hjelpemiddel
+
+### Brukarmedverknad
 
 Brukarmedverknad på systemnivå skal støtte opp under det overordna målet i Nav-reforma, som er å etablere ei arbeids- og velferdsforvalting som er tilpassa brukarane sine behov.
 
-Nav hjelpemiddelsentral Vestland har fleire brukarutval. Du finn meir informasjon om Nav sine brukarutval på
-
+Nav hjelpemiddelsentral Vestland har fleire brukarutval. Du finn meir informasjon om Nav sine brukarutval på [sida om brukermedverknad](https://www.nav.no/samarbeidspartner/brukermedvirkning#ovrige).
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/kontor/nav-hjelpemiddelsentral-vestland-bergen) av norges-lover-bot.*
@@ -173,3 +268,4 @@ Nav hjelpemiddelsentral Vestland har fleire brukarutval. Du finn meir informasj
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-10-07** Innhold endret (se git-historikk for diff)

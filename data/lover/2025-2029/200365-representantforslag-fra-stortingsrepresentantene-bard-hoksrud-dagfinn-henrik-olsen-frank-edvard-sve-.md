@@ -1,4 +1,4 @@
-<!-- innholds-hash: a86b0e78846abcf9046f3f2bdf79ca0c172515405feb88a849a07c85fb63a906 -->
+<!-- innholds-hash: e1f6a09c29a7a7353f2026b2b62fcf77178e2e62eea41a13811e23a710c51ffe -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200365
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -171,7 +171,27 @@
   },
   "korttittel": "Representantforslag om å øke vektgrensen for førerkortklasse B",
   "sak_fremmet_id": 200365,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Lien",
+      "foedselsdato": "/Date(76024800000+0200)/",
+      "fornavn": "Geir Inge",
+      "id": "GEL",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "MR",
+        "navn": "Møre og Romsdal"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B",
@@ -184,4 +204,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

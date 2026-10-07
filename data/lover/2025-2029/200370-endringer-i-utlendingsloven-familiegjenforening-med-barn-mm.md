@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4917df70f42ecb4df60ce4f2764d8adad2692605383b1f5cda05c136f7814fb4 -->
+<!-- innholds-hash: 579ac59063296e4c15953e8ccad14bed6f243ae6a5e8a92d156db64c434ef23e -->
 
 # Endringer i utlendingsloven (familiegjenforening med barn m.m.)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i utlendingsloven (familiegjenforening med barn m.m.)",
   "sak_fremmet_id": 200370,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Wiborg",
+      "foedselsdato": "/Date(443401200000+0100)/",
+      "fornavn": "Erlend",
+      "id": "EW",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i utlendingsloven (familiegjenforening med barn m.m.)",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

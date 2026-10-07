@@ -1,4 +1,4 @@
-<!-- innholds-hash: c90eb9f7a956d5f4757a764f36ca66a8627625a99f8ebf861a9b2ae6e3d1f640 -->
+<!-- innholds-hash: ef9898dcc1e78becf5c3fc2e5be9770e0764c3eb92473ee4fdf565f84e97455d -->
 
 # Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200349
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
   "sak_fremmet_id": 200349,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Eriksen",
+      "foedselsdato": "/Date(701305200000+0100)/",
+      "fornavn": "Andreas Bjelland",
+      "id": "ANDERI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
   "status": 2,
   "tittel": "Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)",
@@ -225,4 +245,5 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

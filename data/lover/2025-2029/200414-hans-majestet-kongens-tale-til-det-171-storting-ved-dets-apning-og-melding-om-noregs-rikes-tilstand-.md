@@ -1,4 +1,4 @@
-<!-- innholds-hash: 553f49ea34c063012c7fdda232850b16899149a5dd4f794a3722d2f806e91a2e -->
+<!-- innholds-hash: a0d1dce695a84b714a0b07181aa7a5448fe64c70255c1c7c803a3c5f0c822980 -->
 
 # Hans Majestet Kongens tale til det 171. storting ved dets åpning og melding om Noregs rikes tilstand og styring (trontaledebatt)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200414
 - **Type:** 2
 - **Korttittel:** Hans Majestet Kongens tale til det 171. storting ved dets åpning og melding om Noregs rikes tilstand og styring (trontaledebatt)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
 - **Emner:** Kongen, Stortinget
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200414
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
@@ -50,8 +50,8 @@
   "korttittel": "Hans Majestet Kongens tale til det 171. storting ved dets åpning og melding om Noregs rikes tilstand og styring (trontaledebatt)",
   "sak_fremmet_id": 200414,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1790805600000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1790892000000+0200)/",
+  "status": 1,
   "tittel": "Hans Majestet Kongens tale til det 171. storting ved dets åpning og melding om Noregs rikes tilstand og styring (trontaledebatt)",
   "type": 2
 }
@@ -62,3 +62,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6c18036173deb20168f8efb64608e1cf4ed67ae136852926ab58c460ba401013 -->
+<!-- innholds-hash: 8244450c4951195bd51d0a4610f0e36befb1c4108d39dac2e61133e9b631446e -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200369
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
   "sak_fremmet_id": 200369,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Ystebø",
+      "foedselsdato": "/Date(1002060000000+0200)/",
+      "fornavn": "Joel",
+      "id": "JOEYST",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
@@ -127,4 +147,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

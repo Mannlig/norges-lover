@@ -1,4 +1,4 @@
-<!-- innholds-hash: a4366dba29c0aec8d1e39b1be82d7cd5c83d307145f67081c3e9534a9ac33299 -->
+<!-- innholds-hash: 20378f8e4b3bf5cb11fb3c7e44f823c8d78b630ba7474017c4306b9cdc4e91e9 -->
 
 # Endringer i verdipapirhandelloven mv. (lettelser i prospekt- og verdipapirregelverket) og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2024/2809
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200376
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i verdipapirhandelloven mv. (lettelser i prospekt- og verdipapirregelverket) og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2024/2809 (L-delen)",
   "sak_fremmet_id": 200376,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Eriksen",
+      "foedselsdato": "/Date(701305200000+0100)/",
+      "fornavn": "Andreas Bjelland",
+      "id": "ANDERI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i verdipapirhandelloven mv. (lettelser i prospekt- og verdipapirregelverket) og samtykke til deltakelse i en beslutning i EØS-komiteen om innlemmelse i EØS-avtalen av forordning (EU) 2024/2809",
@@ -50,4 +70,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

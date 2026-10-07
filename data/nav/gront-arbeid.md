@@ -1,34 +1,31 @@
-<!-- innholds-hash: be3057e4dbb9231ead23dbf58ba99d8320b872424140d4a2bc3743bc4556f81e -->
+<!-- innholds-hash: f8edba6e4bd199fa3c5b4be1a1183954142f5487ab1e2f034da5aa4e70f21d28 -->
 
 # Grønt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gront-arbeid
-- **Sist hentet:** 2026-07-21T12:18:49Z
+- **Sist oppdatert i arkivet:** 2026-10-07T00:43:55Z
 
 ## Innhold
 
 Tiltak
 
-
 ## Grønt arbeid
 
 Et tilbud om gårdsarbeid når har utfordringer med psykisk helse eller rus og ønsker hjelp til å komme i jobb.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 Tilbudet er for deg som har psykiske helseproblemer og/eller rusproblemer. Du trenger
 
 - arbeidstrening i et alternativt miljø
 - fleksibilitet og individuell tilpasning
 - fysisk aktivitet, sosialt fellesskap og psykisk vekst
-I Grønt arbeid jobber du på en gård og bidrar i den daglige gårdsdriften, og får oppgaver som er tilpasset situasjonen din.
 
+### Hva kan du få?
+
+I Grønt arbeid jobber du på en gård og bidrar i den daglige gårdsdriften, og får oppgaver som er tilpasset situasjonen din.
 
 #### Hva er tilbudet?
 
@@ -42,29 +39,48 @@ Gårdbrukeren er arbeidslederen eller praksislæreren din.
 
 Grønt arbeid har en varighet på inntil ett år.
 
+#### Andre tilbud
+
 Mer informasjon til deg som
 
-Oppdatert 05.12.2025
+- [Trenger hjelp til å komme i jobb](https://www.nav.no/komme-i-jobb) Dette kan du ha rett til
+- [Har psykiske helseproblemer](https://www.nav.no/psykiske-helseproblemer) Dette kan du ha rett til
 
+### Hvordan kan du få?
 
-#### Chat med oss
+#### Hvem kontakter du?
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Ta kontakt med Nav-kontoret der du bor. Nav vurderer sammen med deg om du har behov for tiltaket. Nav avgjør om du får tilbudet.
+
+[Finn ditt Nav-kontor](https://www.nav.no/finn-nav-kontor)
+
+Oppdatert 05.12.2025
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
+Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/gront-arbeid) av norges-lover-bot.*
@@ -77,3 +93,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
+- **2026-10-07** Innhold endret (se git-historikk for diff)

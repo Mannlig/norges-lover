@@ -1,4 +1,4 @@
-<!-- innholds-hash: a20d7fa1d4b7f51f3a61215111aaa02423a83e0c84f546306c3fa62293f55cba -->
+<!-- innholds-hash: ad88b1d373edc073c1949d87a64c92e5fbbb7466c279adcd120cfff036d539aa -->
 
 # Artikkel 11 Produsentenes forpliktelser
 
@@ -6,41 +6,199 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-17T19:03:44Z
+- **Sist oppdatert i arkivet:** 2026-10-06T21:36:58Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Forskrift om dokumentasjon av byggevarer (DOK)](https://www.dibk.no/regelverk/dok)
+- [Artikkel 11 Produsentenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes)
 
 ## Forskrift om dokumentasjon av byggevarer (DOK)
 
-
 ### INNHOLD DOK
 
+Søk
+
+[Om veiledningen til DOK](https://www.dibk.no/regelverk/dok)
+
+- I Innledende bestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/i/innledning)
+  - [§ 1. Forskriftens virkeområde](https://www.dibk.no/regelverk/dok/i/1)
+  - [§ 2. Omsetning, markedsføring og distribusjon av produkter](https://www.dibk.no/regelverk/dok/i/2)
+- II Krav til byggevarer som er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/ii/innledning)
+  - [§ 3. Gjennomføring av byggevareforordningen samt delegerte rettsakter og gjennomføringsrettsakter](https://www.dibk.no/regelverk/dok/ii/3)
+  - [§ 3a. Gjennomføring av delegerte rettsakter av teknisk karakter](https://www.dibk.no/regelverk/dok/ii/3a)
+  - [§ 4. Språk i ytelseserklæring](https://www.dibk.no/regelverk/dok/ii/4)
+  - [§ 5. Språk på anvisninger og sikkerhetsinformasjon](https://www.dibk.no/regelverk/dok/ii/5)
+  - [§ 6. Varekontaktpunkt for byggevarer](https://www.dibk.no/regelverk/dok/ii/6)
+  - [§ 7. Teknisk bedømmelsesorgan](https://www.dibk.no/regelverk/dok/ii/7)
+  - [§ 8. Tekniske kontrollorgan etter byggevareforordningen](https://www.dibk.no/regelverk/dok/ii/8)
+- III Krav til byggevarer som ikke er CE-merket
+  - [Innledning](https://www.dibk.no/regelverk/dok/iii/innledning)
+  - [§ 9. Virkeområde for kapittel III](https://www.dibk.no/regelverk/dok/iii/9)
+  - [§ 10. Dokumentasjon av vesentlige egenskaper](https://www.dibk.no/regelverk/dok/iii/10)
+  - [§ 11. Markedsdeltakernes plikter](https://www.dibk.no/regelverk/dok/iii/11)
+  - [§ 12. Vurdering og verifikasjon av byggevarers ytelser](https://www.dibk.no/regelverk/dok/iii/12)
+  - [§ 13. Innhold i dokumentasjonen](https://www.dibk.no/regelverk/dok/iii/13)
+  - [§ 14. Gjensidig godkjenning](https://www.dibk.no/regelverk/dok/iii/14)
+- IV Løfteinnretning og varmtvannskjel
+  - [Innledning](https://www.dibk.no/regelverk/dok/iv/innledning)
+  - [§ 15. Virkeområde for kapittel IV](https://www.dibk.no/regelverk/dok/iv/15)
+  - [§ 16. Løfteinnretning](https://www.dibk.no/regelverk/dok/iv/16)
+  - [§ 17. Varmtvannskjel som fyres med flytende eller gassformig brensel](https://www.dibk.no/regelverk/dok/iv/17)
+  - [§ 18. CE-merking av løfteinnretninger og varmtvannskjeler](https://www.dibk.no/regelverk/dok/iv/18)
+  - [§ 19. Teknisk kontrollorgan for løfteinnretninger og varmtvannskjel](https://www.dibk.no/regelverk/dok/iv/19)
+- V Fellesbestemmelser
+  - [Innledning](https://www.dibk.no/regelverk/dok/v/innledning)
+  - [§ 20. Forbud mot villedende informasjon](https://www.dibk.no/regelverk/dok/v/20)
+  - [§ 21. Tilsynsmyndighet](https://www.dibk.no/regelverk/dok/v/21)
+  - [§ 22. Tilsyn med produkter til byggverk](https://www.dibk.no/regelverk/dok/v/22)
+  - [§ 23. Reaksjoner fra tilsynsmyndigheten](https://www.dibk.no/regelverk/dok/v/23)
+  - [§ 24. Overtredelsesgebyr. Gebyrenes størrelse](https://www.dibk.no/regelverk/dok/v/24)
+  - [§ 25. Utmåling av overtredelsesgebyr](https://www.dibk.no/regelverk/dok/v/25)
+  - [§ 26. Gebyr](https://www.dibk.no/regelverk/dok/v/26)
+  - [§ 27. Ikrafttredelse, overgangsbestemmelse og endringer i andre forskrifter](https://www.dibk.no/regelverk/dok/v/27)
+- Vedlegg
+  - [Vedlegg I](https://www.dibk.no/regelverk/dok/i1/vedlegg-i)
+  - [Vedlegg II](https://www.dibk.no/regelverk/dok/i1/vedlegg-ii)
+- Byggevareforordningen
+  - [Byggevareforordningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/byggevareforordningen)
+  - [Fortale](https://www.dibk.no/regelverk/dok/byggevareforordningen/fortale)
+  - [Artikkel 1 Formål](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-1-formal)
+  - [Artikkel 2 Definisjoner](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-2-definisjoner)
+  - [Artikkel 3 Grunnleggende krav til byggverk og byggevarers vesentlige egenskaper](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-3-grunnleggende-krav)
+  - [Artikkel 4 Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-4-ytelseserklaring)
+  - [Artikkel 5 Unntak fra kravet om å utarbeide en ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-5-unntak-fra-kravet-om)
+  - [Artikkel 6 Ytelseserklæringens innhold](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-6-ytelseserklaringens)
+  - [Artikkel 7 Framleggelse av ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-7-framleggelse-av)
+  - [Artikkel 8 Allmenne prinsipper og bruken av CE-merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-8-allmenne-prinsipper)
+  - [Artikkel 9 Regler og vilkår for påføring av CE merking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-9-regler-og-vilkar-for)
+  - [Artikkel 10 Kontaktpunkter for byggevarer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-10-kontaktpunkter-for)
+  - [Artikkel 11 Produsentenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes)
+  - [Artikkel 12 Representanter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-12-representanter)
+  - [Artikkel 13 Importørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-13-importorenes)
+  - [Artikkel 14 Distributørenes forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-14-distributorenes)
+  - [Artikkel 15 Tilfeller der produsentenes forpliktelser gjelder for importører og distributører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-15-tilfeller-der)
+  - [Artikkel 16 Identifikasjon av markedsdeltakere](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-16-identifikasjon-av)
+  - [Artikkel 17 Harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-17-harmoniserte)
+  - [Artikkel 18 Formell innvending mot harmoniserte standarder](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-18-formell-innvending)
+  - [Artikkel 19 Europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-19-europeisk)
+  - [Artikkel 20 Prinsipper for utarbeidelse og vedtakelse av europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-20-prinsipper-for)
+  - [Artikkel 21 Forpliktelser for det tekniske bedømmelsesorgan som mottar en anmodning om en europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-21-forpliktelser-for)
+  - [Artikkel 22 Offentliggjøring](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-22-offentliggjoring)
+  - [Artikkel 23 Tvisteløsning ved uenighet mellom de tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-23-tvistelosning-ved)
+  - [Artikkel 24 Innholdet i det europeiske bedømmelsesdokumentet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-24-innholdet-i-det)
+  - [Artikkel 25 Formelle innvendinger mot europeiske bedømmelsesdokumenter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-25-formelle)
+  - [Artikkel 26 Europeisk teknisk bedømmelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-26-europeisk-teknisk)
+  - [Artikkel 27 Ytelsesnivåer eller -klasser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-27-ytelsesnivaer-eller)
+  - [Artikkel 28 Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-28-vurdering-og)
+  - [Artikkel 29 Utpeking, overvåking og evaluering av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-29-utpeking)
+  - [Artikkel 30 Krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-30-krav-til-tekniske)
+  - [Artikkel 31 Samordning av tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-31-samordning-av)
+  - [Artikkel 32 Unionsfinansiering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-32-unionsfinansiering)
+  - [Artikkel 33 Finansieringsordninger](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-33)
+  - [Artikkel 34 Forvaltning og overvåking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-34-forvaltning-og)
+  - [Artikkel 35 Beskyttelse av Unionens økonomiske interesser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-35-beskyttelse-av)
+  - [Artikkel 36 Bruk av hensiktsmessig teknisk dokumentasjon](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-36-bruk-av)
+  - [Artikkel 37 Svært små foretaks bruk av forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-37-svart-sma-foretaks)
+  - [Artikkel 38 Andre forenklede framgangsmåter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-38-andre-forenklede)
+  - [Artikkel 39 Underretning](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-39-underretning)
+  - [Artikkel 40 Utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-40-utpekende)
+  - [Artikkel 41 Krav til utpekende myndigheter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-41-krav-til-utpekende)
+  - [Artikkel 42 Medlemsstatenes opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-42-medlemsstatenes)
+  - [Artikkel 43 Krav til tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-43-krav-til-tekniske)
+  - [Artikkel 44 Samsvarsvurdering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-44-samsvarsvurdering)
+  - [Artikkel 45 Tekniske kontrollorganers datterforetak og underleverandører](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-45-tekniske)
+  - [Artikkel 46 Bruk av anlegg utenfor det teknisk kontrollorgans prøvingslaboratorium](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-46-bruk-av-anlegg)
+  - [Artikkel 47 Søknad om utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-47-soknad-om-utpeking)
+  - [Artikkel 48 Framgangsmåte for utpeking](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-48-framgangsmate-for)
+  - [Artikkel 49 Identifikasjonsnumre og lister over tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-49)
+  - [Artikkel 50 Endringer av underretningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-50-endringer-av)
+  - [Artikkel 51 Tvil om tekniske kontrollorganers kompetanse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-51-tvil-om-tekniske)
+  - [Artikkel 52 Tekniske kontrollorganers driftsmessige forpliktelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-52-tekniske)
+  - [Artikkel 53 Tekniske kontrollorganers opplysningsplikt](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-53-tekniske)
+  - [Artikkel 54 Erfaringsutveksling](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-54-erfaringsutveksling)
+  - [Artikkel 55 Samordning av tekniske kontrollorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-55-samordning-av)
+  - [Artikkel 56 Framgangsmåte for behandling på nasjonalt plan av byggevarer som utgjør en risiko](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-56-framgangsmate-for)
+  - [Artikkel 57 Unionens framgangsmåte ved beslutninger om beskyttelsestiltak](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-57-unionens)
+  - [Artikkel 58 Byggevarer som oppfyller kravene, men som likevel utgjør en risiko for helse og sikkerhet](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-58-byggevarer-som)
+  - [Artikkel 59 Formelt manglende samsvar](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-59-formelt-manglende)
+  - [Artikkel 60 Delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-60-delegerte)
+  - [Artikkel 61 Utøvelse av delegeringen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-61-utovelse-av)
+  - [Artikkel 62 Tilbakekalling av delegering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-62-tilbakekalling-av)
+  - [Artikkel 63 Innvendinger mot delegerte rettsakter](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-63-innvendinger-mot)
+  - [Artikkel 64 Utvalg](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-64-utvalg)
+  - [Artikkel 65 Oppheving](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-65-oppheving)
+  - [Artikkel 66 Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-66)
+  - [Artikkel 67 Kommisjonens rapportering](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-67-kommisjonens)
+  - [Artikkel 68 Ikrafttredelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-68-ikrafttredelse)
+  - [Vedlegg I Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-i-grunnleggende-krav)
+  - [Vedlegg II Framgangsmåte for vedtakelse av et europeisk bedømmelsesdokument](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-ii-framgangsmate-for)
+  - [Vedlegg III Ytelseserklæring](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iii-ytelseserklaring)
+  - [Vedlegg IV Produktområder og krav til tekniske bedømmelsesorganer](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-iv-produktomrader-og)
+  - [Vedlegg V Vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/byggevareforordningen/vedlegg-v-vurdering-og)
+- Veiledning til byggevareforordningen
+  - [Veiledning til byggevareforordningen](https://www.dibk.no/regelverk/dok/veiledning-til/veiledning-til)
+  - [1. Innledning](https://www.dibk.no/regelverk/dok/veiledning-til/1.-innledning)
+  - [2. Begrepet byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/2.-begrepet-byggevarer)
+  - [3. Grunnleggende krav til byggverk](https://www.dibk.no/regelverk/dok/veiledning-til/3.-grunnleggende-krav-til)
+  - [4. Harmoniserte tekniske spesifikasjoner](https://www.dibk.no/regelverk/dok/veiledning-til/4.-harmoniserte-tekniske)
+  - [5. Byggevarens vesentlige egenskaper](https://www.dibk.no/regelverk/dok/veiledning-til/5.-byggevarens-vesentlige)
+  - [6. Forskjell mellom teknisk dokumentasjon og produktdokumentasjon](https://www.dibk.no/regelverk/dok/veiledning-til/6.-forskjell-mellom-teknisk)
+  - [7. Systemer for vurdering og verifikasjon av ytelse](https://www.dibk.no/regelverk/dok/veiledning-til/7.-systemer-for-vurdering-og)
+  - [8. Tekniske kontrollorgan](https://www.dibk.no/regelverk/dok/veiledning-til/8.-tekniske-kontrollorgan)
+  - [9. Obligatorisk CE-merking og ytelseserklæring (plikt til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/9.-obligatorisk-ce-merking-og)
+  - [10. Frivillig CE-merking og ytelseserklæring (rett til å CE-merke)](https://www.dibk.no/regelverk/dok/veiledning-til/10.-frivillig-ce-merking-og)
+  - [11. Tekniske bedømmelsesorgan](https://www.dibk.no/regelverk/dok/veiledning-til/11.-tekniske-bedommelsesorgan)
+  - [12. CE-merking](https://www.dibk.no/regelverk/dok/veiledning-til/12.-ce-merking)
+  - [13. Ytelseserklæringen](https://www.dibk.no/regelverk/dok/veiledning-til/13.-ytelseserklaringen)
+  - [14. Hvordan meddeles ytelseserklæringen?](https://www.dibk.no/regelverk/dok/veiledning-til/14.-hvordan-meddeles)
+  - [15. Byggevarer som er individuelt produsert eller etter mål i en prosess som ikke innebærer serieproduksjon](https://www.dibk.no/regelverk/dok/veiledning-til/15.-byggevarer-som-er)
+  - [16. Farlige stoffer](https://www.dibk.no/regelverk/dok/veiledning-til/16.-farlige-stoffer)
+  - [17. Forpliktelser til produsenter, importører og distributører](https://www.dibk.no/regelverk/dok/veiledning-til/17.-forpliktelser-til)
+  - [18. Importører og distributører som omsetter byggevarer under sitt eget navn eller varemerke eller som endrer byggevarer](https://www.dibk.no/regelverk/dok/veiledning-til/18.-importorer-og-distributorer)
+  - [19. Forenklede fremgangsmåter for svært små foretak](https://www.dibk.no/regelverk/dok/veiledning-til/19.-forenklede-fremgangsmater)
+  - [20. Overgangsbestemmelser](https://www.dibk.no/regelverk/dok/veiledning-til/20.-overgangsbestemmelser)
+  - [21. Produktkontaktpunker](https://www.dibk.no/regelverk/dok/veiledning-til/21.-produktkontaktpunker)
+- Forordninger
+  - [Forordning (EU) nr. 305/2011](https://www.dibk.no/regelverk/dok/i.vedlegg/2)
+  - [Forordning (EU) nr. 1062/2013 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/3)
+  - [Forordning (EU) nr. 157/2014 av 30. oktober 2013](https://www.dibk.no/regelverk/dok/i.vedlegg/4)
+  - [Forordning (EU) nr. 574/2014 av 21. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/5)
+  - [Forordning (EU) nr. 568/2014 av 18. februar 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/6)
+  - [Kommisjonsdelegert forordning (EU) nr. 1291/2014 av 16. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/7)
+  - [Kommisjonsdelegert forordning (EU) nr. 1292/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/8)
+  - [Kommisjonsdelegert forordning (EU) nr. 1293/2014 av 17. juli 2014](https://www.dibk.no/regelverk/dok/i.vedlegg/9)
+- Definisjoner
+  - [Begrepsliste](https://www.dibk.no/regelverk/dok/definisjoner/begrepsliste)
+
+Lenke kopiert til utklippstavlen
+
+Forrige
+
+Neste
+
+- [Skriv ut denne siden](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes/#autoprint)
+- [Skriv ut Byggevareforordningen](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes?subtype=chapter&print=true&/#autoprint)
+- [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes?subtype=root&print=true&/#autoprint)
+
+Vis all veiledningstekst Lukk all veiledningstekst
+
+Byggevareforordningen
 
 ### Artikkel 11 Produsentenes forpliktelser
 
-Produsentene skal utarbeide en ytelseserklæring i samsvar med artikkel 4 og 6 og påføre CE-merkingen i samsvar med artikkel 8 og 9.
-
-Som grunnlag for ytelseserklæringen skal produsentene utarbeide teknisk dokumentasjon som beskriver alle relevante elementer knyttet til det påkrevde systemet for vurdering og verifisering av ytelse.
-
-Produsentene skal oppbevare den tekniske dokumentasjonen og ytelseserklæringen i ti år etter at byggevaren er bragt i omsetning.
-
-Der dette er hensiktsmessig, kan Kommisjonen gjennom delegerte rettsakter i samsvar med artikkel 60 endre denne perioden for grupper av byggevarer på grunnlag av byggevarens forventede levetid eller betydning i byggverket.
-
-Produsentene skal sikre at framgangsmåter er på plass for å sikre at serieproduksjon opprettholder den angitte ytelsen. Det skal tas behørig hensyn til endringer i produkttype og i de relevante harmoniserte tekniske standarder.
-
-Når det anses som hensiktsmessig for å sikre nøyaktigheten, påliteligheten og konsistensen av en byggevares angitte ytelse, skal produsentene foreta stikkprøvekontroll av byggevarer som er bragt i omsetning eller gjort tilgjengelige på markedet, undersøke og om nødvendig føre register over klager, varer som ikke oppfyller kravene og tilbakekallinger av varer samt holde distributørene orientert om denne overvåkingen.
-
-Produsentene skal påse at deres byggevarer har et type‑, parti‑ eller serienummer eller et annet element som gjør det mulig å identifisere det, eller, dersom byggevarens størrelse eller art ikke tillater dette, at de nødvendige opplysninger gis på emballasjen eller i et dokument som følger med byggevaren.
-
-Produsentene skal angi navn, firma eller registrert varemerke og kontaktadresse på byggevaren eller, dersom dette ikke er mulig, på emballasjen eller i et dokument som følger med byggevaren. Adressen skal angi ett enkelt sted der produsenten kan kontaktes.
-
-Når produsentene gjør en byggevare tilgjengelig på markedet, skal de sikre at varen ledsages av anvisninger og sikkerhetsinformasjon på et språk fastsatt av vedkommende medlemsstat som brukerne lett kan forstå.
-
-Produsenter som anser eller har grunn til å tro at en byggevare som de har bragt i omsetning, ikke er i samsvar med ytelseserklæringen eller ikke overholder andre gjeldende krav i denne forordning, skal umiddelbart treffe de nødvendig korrigerende tiltak for å bringe den aktuelle byggevaren i samsvar med lovgivningen eller om nødvendig trekke den tilbake eller tilbakekalle den. Dersom varen utgjør en risiko, skal produsentene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de medlemsstater der de har gjort varen tilgjengelig, og gi nærmere opplysninger særlig om byggevarens manglende samsvar og eventuelle korrigerende tiltak som er truffet.
-
-Produsentene skal på begrunnet anmodning fra vedkommende nasjonale myndighet gi denne alle opplysninger og dokumentasjon som er nødvendig for å påvise at byggevaren er i samsvar med ytelseserklæringen og overholder andre gjeldende krav i denne forordning, på et språk som myndigheten lett kan forstå. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med byggevarer de har  bragt i omsetning.
-
+1. Produsentene skal utarbeide en ytelseserklæring i samsvar med artikkel 4 og 6 og påføre CE-merkingen i samsvar med artikkel 8 og 9. Som grunnlag for ytelseserklæringen skal produsentene utarbeide teknisk dokumentasjon som beskriver alle relevante elementer knyttet til det påkrevde systemet for vurdering og verifisering av ytelse.
+2. Produsentene skal oppbevare den tekniske dokumentasjonen og ytelseserklæringen i ti år etter at byggevaren er bragt i omsetning. Der dette er hensiktsmessig, kan Kommisjonen gjennom delegerte rettsakter i samsvar med artikkel 60 endre denne perioden for grupper av byggevarer på grunnlag av byggevarens forventede levetid eller betydning i byggverket.
+3. Produsentene skal sikre at framgangsmåter er på plass for å sikre at serieproduksjon opprettholder den angitte ytelsen. Det skal tas behørig hensyn til endringer i produkttype og i de relevante harmoniserte tekniske standarder. Når det anses som hensiktsmessig for å sikre nøyaktigheten, påliteligheten og konsistensen av en byggevares angitte ytelse, skal produsentene foreta stikkprøvekontroll av byggevarer som er bragt i omsetning eller gjort tilgjengelige på markedet, undersøke og om nødvendig føre register over klager, varer som ikke oppfyller kravene og tilbakekallinger av varer samt holde distributørene orientert om denne overvåkingen.
+4. Produsentene skal påse at deres byggevarer har et type‑, parti‑ eller serienummer eller et annet element som gjør det mulig å identifisere det, eller, dersom byggevarens størrelse eller art ikke tillater dette, at de nødvendige opplysninger gis på emballasjen eller i et dokument som følger med byggevaren.
+5. Produsentene skal angi navn, firma eller registrert varemerke og kontaktadresse på byggevaren eller, dersom dette ikke er mulig, på emballasjen eller i et dokument som følger med byggevaren. Adressen skal angi ett enkelt sted der produsenten kan kontaktes.
+6. Når produsentene gjør en byggevare tilgjengelig på markedet, skal de sikre at varen ledsages av anvisninger og sikkerhetsinformasjon på et språk fastsatt av vedkommende medlemsstat som brukerne lett kan forstå.
+7. Produsenter som anser eller har grunn til å tro at en byggevare som de har bragt i omsetning, ikke er i samsvar med ytelseserklæringen eller ikke overholder andre gjeldende krav i denne forordning, skal umiddelbart treffe de nødvendig korrigerende tiltak for å bringe den aktuelle byggevaren i samsvar med lovgivningen eller om nødvendig trekke den tilbake eller tilbakekalle den. Dersom varen utgjør en risiko, skal produsentene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de medlemsstater der de har gjort varen tilgjengelig, og gi nærmere opplysninger særlig om byggevarens manglende samsvar og eventuelle korrigerende tiltak som er truffet.
+8. Produsentene skal på begrunnet anmodning fra vedkommende nasjonale myndighet gi denne alle opplysninger og dokumentasjon som er nødvendig for å påvise at byggevaren er i samsvar med ytelseserklæringen og overholder andre gjeldende krav i denne forordning, på et språk som myndigheten lett kan forstå. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med byggevarer de har bragt i omsetning.
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/dok/byggevareforordningen/artikkel-11-produsentenes/) av norges-lover-bot.*
@@ -48,3 +206,4 @@ Produsentene skal på begrunnet anmodning fra vedkommende nasjonale myndighet gi
 ## Endringshistorikk
 
 - **2026-05-17** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

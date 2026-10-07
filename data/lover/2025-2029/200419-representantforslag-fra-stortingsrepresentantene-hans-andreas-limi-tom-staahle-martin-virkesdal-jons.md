@@ -1,4 +1,4 @@
-<!-- innholds-hash: 57a7d21080d756f4468c3b4a17ceb9ab3725a0ca06020707ae32ebe3e4c2257b -->
+<!-- innholds-hash: e362ed150639216fb8f187289868d13fb4036e71f10614bee5f19bb0eb84ca0f -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Tom Staahle, Martin Virkesdal Jonsterhaug, Hilde Grande, Bengt Rune Strifeldt og Sylvi Listhaug om permanent fritak for CO2-avgift for fiskeflåten
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200419
 - **Type:** 2
 - **Korttittel:** Representantforslag om permanent fritak for CO2-avgift for fiskeflåten
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:1 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200419
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -146,12 +146,15 @@
   "id": 200419,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om permanent fritak for CO2-avgift for fiskeflåten",
   "sak_fremmet_id": 200419,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Tom Staahle, Martin Virkesdal Jonsterhaug, Hilde Grande, Bengt Rune Strifeldt og Sylvi Listhaug om permanent fritak for CO2-avgift for fiskeflåten",
   "type": 2
 }
@@ -162,3 +165,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

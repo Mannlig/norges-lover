@@ -1,4 +1,4 @@
-<!-- innholds-hash: 21ac1cf500189fbd5b45944ab03fbb145fcd41559466360feea7d5888d9af970 -->
+<!-- innholds-hash: 66a91ed58cedd23ab8a635d1bbd62b6db0cf1e32584088ef8189559685a09dd9 -->
 
 # Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200384
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -133,7 +133,27 @@
   },
   "korttittel": "Representantforslag om likere strømpriser og et sterkere forbrukervern",
   "sak_fremmet_id": 200384,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Rafaelsen",
+      "foedselsdato": "/Date(503103600000+0100)/",
+      "fornavn": "Sigurd Kvammen",
+      "id": "SIGRAF",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Fi",
+        "navn": "Finnmark"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern",
@@ -146,4 +166,5 @@
 ## Endringshistorikk
 
 - **2026-06-19** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 45413dd39936b21b1eb17feeded94f51db5de3a96ed7e780b5441abf949b6828 -->
+<!-- innholds-hash: 4ee2bc1acda3548cab9f3fe754c20b2c7be2be187e61f49d7fc4aead65857605 -->
 
 # Grunnlovsforslag fra Peter Frølich og Audun Lysbakken om endring i § 90 (om dommerutnevnelser)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100038
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -76,7 +76,27 @@
   },
   "korttittel": "Grunnlovsforslag om endring i § 90 (om dommerutnevnelser)",
   "sak_fremmet_id": 100038,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Borgli",
+      "foedselsdato": "/Date(-65667600000+0100)/",
+      "fornavn": "Pål Morten",
+      "id": "PAMB",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsforslag fra Peter Frølich og Audun Lysbakken om endring i § 90 (om dommerutnevnelser)",
@@ -89,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

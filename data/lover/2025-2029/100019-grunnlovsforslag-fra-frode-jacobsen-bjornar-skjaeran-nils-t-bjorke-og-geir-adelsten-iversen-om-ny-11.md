@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0ce316107b342b4ed81bde02c05caea8e2a31d03c389d4ed40f6b444ed9b5a66 -->
+<!-- innholds-hash: 8aab9e5d719ed01cf2138b10e062752a43f2fada829bee9b28c4888636740457 -->
 
 # Grunnlovsforslag fra Frode Jacobsen, Bjørnar Skjæran, Nils T. Bjørke og Geir Adelsten Iversen om ny 112 a (om viltlevende marine ressurser)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100019
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Grunnlovsforslag om ny 112 a (om viltlevende marine ressurser)",
   "sak_fremmet_id": 100019,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sandnes",
+      "foedselsdato": "/Date(-19965600000+0200)/",
+      "fornavn": "Kari Baadstrand",
+      "id": "KARSAN",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "No",
+        "navn": "Nordland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsforslag fra Frode Jacobsen, Bjørnar Skjæran, Nils T. Bjørke og Geir Adelsten Iversen om ny 112 a (om viltlevende marine ressurser)",
@@ -127,3 +147,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)

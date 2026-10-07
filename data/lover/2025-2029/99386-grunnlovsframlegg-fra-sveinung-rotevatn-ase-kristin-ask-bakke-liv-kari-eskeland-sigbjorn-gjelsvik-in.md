@@ -1,4 +1,4 @@
-<!-- innholds-hash: 826c5e647e3700836d37ff7ae87891902812e9eb0862d91fc8419dc1c67e0e85 -->
+<!-- innholds-hash: e2b39cf74a52e70eec487ecada72a53736272c3d590542131bf6f33ab799afed -->
 
 # Grunnlovsframlegg frå Sveinung Rotevatn, Åse Kristin Ask Bakke, Liv Kari Eskeland, Sigbjørn Gjelsvik, Ingrid Fiskaa, Sofie Marhaug, Lan Marie Nguyen Berg og Kjell Ingolf Ropstad om ny § 120 b (om norsk som nasjonalt hovudspråk)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=99386
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -190,7 +190,27 @@
   },
   "korttittel": "Grunnlovsframlegg om ny § 120 b (om norsk som nasjonalt hovudspråk)",
   "sak_fremmet_id": 99386,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Trellevik",
+      "foedselsdato": "/Date(-138247200000+0200)/",
+      "fornavn": "Ove",
+      "id": "OBT",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1760997600000+0200)/",
   "status": 2,
   "tittel": "Grunnlovsframlegg frå Sveinung Rotevatn, Åse Kristin Ask Bakke, Liv Kari Eskeland, Sigbjørn Gjelsvik, Ingrid Fiskaa, Sofie Marhaug, Lan Marie Nguyen Berg og Kjell Ingolf Ropstad om ny § 120 b (om norsk som nasjonalt hovudspråk)",
@@ -203,3 +223,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-06** Innhold endret (se git-historikk for diff)
