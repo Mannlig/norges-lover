@@ -1,4 +1,4 @@
-<!-- innholds-hash: 500df3049e3010c4a0e78147613f6a1da00678637cff5e7bd279551db5472ae1 -->
+<!-- innholds-hash: 37eaebb86b73bfec630376903e7b78892ee0d094d87d316d12ff862e3aca6a43 -->
 
 # Bil - satser for firmabil (standardreglene)
 
@@ -6,39 +6,39 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/bilsatser---firmabil/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:36:10Z
+- **Sist oppdatert i arkivet:** 2026-10-08T00:44:42Z
 
 ## Innhold
 
+Sats for:
 
 ## Bil - satser for firmabil (standardreglene)
 
 Bruker du bil som eies eller leases av arbeidsgiver, skal fordelen normalt regnes som lønnsinntekt, og du skal betale skatt av fordelen.
 
+Velg år 20262025202420232022202120202019201820172016201520142013201220112010200920082007
+
 Trekkpliktig fordel ved privat bruk av firmabil fastsettes til:
 
-- 30 prosent av bilens listepris som ny inntil
+- 30 prosent av bilens listepris som ny inntil kr 370 300 og 20 prosent av overskytende listepris.
+
 Satsen for trekkpliktig fordel gjelder tilsvarende ved skattefastsettingen som skattepliktig fordel.
 
 Ved firmabilordning i deler av inntektsåret, gjennomføres fordelsbeskatningen forholdsmessig for det antall hele og påbegynte måneder bilen har stått til disposisjon.
 
-Grunnlaget ved beregningen over er i utgangspunktet
+Grunnlaget ved beregningen over er i utgangspunktet 100 prosent av bilens listepris som ny, men det er noen unntak.
 
-Hvis bilen er eldre enn 3 år per 1. januar i inntektsåret
+#### Unntak
 
-75 prosent
+| Unntak | Utregningen tar utgangspunkt i: |
+| --- | --- |
+| Hvis bilen er eldre enn 3 år per 1. januar i inntektsåret | 75 prosent av bilens listepris som ny |
+| Hvis du dokumenterer at yrkeskjøringen overstiger 40 000 km i inntektsåret | 75 prosent av bilens listepris som ny |
+| Ved kombinasjon av | 56,25 prosent av bilens listepris som ny |
 
-Hvis du dokumenterer at yrkeskjøringen overstiger 40 000 km i inntektsåret
+#### Eksempler
 
-75 prosent
-
-Ved kombinasjon av
-
-- bil eldre enn 3 år per 1. januar i inntektsåret og
-- yrkeskjøring som overstiger 40 000 km i inntektsåret
-56,25 prosent
-
-Arbeidstakeren har fri bil i januar 2026. Bilen har en listepris på kr 279 000.
+Arbeidstakeren har fri bil i januar 2026. Bilen har en listepris på kr 279 000. Beregnet fordel for januar 2026: (kr 279 000 x 30 %)/12 = kr 6 975
 
 Arbeidstakeren har fri bil fra 20. januar 2026 (del av måned). Bilen har en listepris på kr 660 000.
 
@@ -56,10 +56,10 @@ Redusert beregningsgrunnlag: kr 590 000 x 56,25 % = kr 331 875
 
 Beregnet fordel for januar 2026 (kr 331 875 x 30 %)/12 = kr 8 297
 
-
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/bilsatser---firmabil/) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

@@ -1,35 +1,29 @@
-<!-- innholds-hash: 9877f1f7bad0e1a9e6276cb7c867e6c1d9d82d67bd8a2688d56a8df4f04c04d2 -->
+<!-- innholds-hash: bb285cc59c788f42afee9eb5fa14db5eb795b907d505d835bcb8ddce13a50a48 -->
 
 # Avtaler med Storbritannia - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/avtaler-med-storbritannia
-- **Sist hentet:** 2026-06-10T12:48:49Z
+- **Sist oppdatert i arkivet:** 2026-10-08T04:02:27Z
 
 ## Innhold
-
 
 ## Avtaler med Storbritannia
 
 Om hvordan Brexit påvirker trygderettighetene dine, og hvilke regler som gjelder, avhengig av når og hvor du har reist.
 
+### Hvordan påvirker Brexit trygderettighetene dine?
 
-### Innhold på denne siden
+Selv om Storbritannia ikke lenger er med i EU, vil EUs regler for koordinering av trygd fremdeles gjelde i noen tilfeller, slik at du har de samme trygderettighetene som du ville hatt hvis Storbritannia fremdeles var medlem av EU.
 
-
-### Innhold på denne siden
-
-Selv om Storbritannia ikke lenger er med i EU, vil EUs regler for koordinering av trygd fremdeles gjelde i noen tilfeller, slik at du har de samme trygderettighetene som du ville hatt hvis Storbritannia fremdeles var medlem av EU.
-
-Hvis EUs regler for koordinering av trygd ikke gjelder, vil trygderettigheter bli koordinert av  trygdeavtalen mellom EØS/EFTA-landene og Storbritannia. Sammenliknet med EUs regler for koordinering av trygd, betyr det at enkelte av trygderettighetene dine kan være noe begrenset.
-
+Hvis EUs regler for koordinering av trygd ikke gjelder, vil trygderettigheter bli koordinert av trygdeavtalen mellom EØS/EFTA-landene og Storbritannia. Sammenliknet med EUs regler for koordinering av trygd, betyr det at enkelte av trygderettighetene dine kan være noe begrenset. [Les mer om avtalen på regjeringen.no](https://www.regjeringen.no/no/aktuelt/ny-trygdeavtale-mellom-island-liechtenstein-norge-og-storbritannia/id3019997/).
 
 #### Hva gjelder for deg?
 
 For å avgjøre om EUs regler om koordinering av trygd fremdeles gjelder, må det vurderes hvilken situasjon du var i før og ved årsskiftet 2020/2021, og hvilken situasjon du har vært i etter dette.
 
-Reglene baserer seg på en separasjonsavtale mellom EFTA-landene og Storbritannia. Reglene er relativt kompliserte, men under følger noen generelle hovedregler.
+Reglene baserer seg på en separasjonsavtale mellom EFTA-landene og Storbritannia. Reglene er relativt kompliserte, men under følger noen generelle hovedregler.
 
 Hvis du reiste til Storbritannia første gang etter årsskiftet 2020/2021, gjelder som regel ikke EUs regler for koordinering av trygd.
 
@@ -49,16 +43,17 @@ Hvis du reiser fra øyene Jersey eller Man, gjelder det egne regler, som på noe
 
 Hvis du reiste til Storbritannia før årsskiftet 2020/2021 og har vært i Storbritannia uten avbrudd siden dette, vil EUs regler om koordinering av trygd fremdeles gjelde fullt ut.
 
-Hvis du har opparbeidet deg trygdetid i Storbritannia før årsskiftet 2020/2021, vil du fremdeles få godskrevet denne trygdetiden ved for eksempel beregning av pensjon etter EUs regler om koordinering av trygd. Dette gjelder selv om du reiste tilbake til Norge før årsskiftet 2020/2021.
+Hvis du har opparbeidet deg trygdetid i Storbritannia før årsskiftet 2020/2021, vil du fremdeles få godskrevet denne trygdetiden ved for eksempel beregning av pensjon etter EUs regler om koordinering av trygd. Dette gjelder selv om du reiste tilbake til Norge før årsskiftet 2020/2021.
 
 Hvis du reiste til Norge eller et annet EØS-land før årsskiftet 2020/2021 og har vært i Norge eller andre EØS-land uten avbrudd siden dette, vil EUs regler om koordinering av trygd fremdeles gjelde fullt ut.
 
 Hvis du har opparbeidet deg trygdetid i Norge før årsskiftet 2020/2021 så vil du fremdeles kunne godskrives denne trygdetiden ved for eksempel beregning av pensjon etter EUs regler om koordinering av trygd. Dette gjelder selv om du reiste tilbake til Storbritannia før årsskiftet 2020/2021.
 
-For å være medlem av folketrygden må du ha lovlig opphold i Norge. Les mer på
+### Lovlig opphold i Norge
 
-Oppdatert 02.10.2025
+For å være medlem av folketrygden må du ha lovlig opphold i Norge. Les mer på [om oppholdstillatelse på udi.no](https://www.udi.no/skal-soke/opphold-etter-brexit-regelverket/).
 
+Oppdatert 10.09.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/avtaler-med-storbritannia) av norges-lover-bot.*
@@ -66,3 +61,4 @@ Oppdatert 02.10.2025
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

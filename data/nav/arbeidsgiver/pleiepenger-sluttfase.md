@@ -1,38 +1,31 @@
-<!-- innholds-hash: d885a61528a8e8d88e2b11f487c4422ccc50c241e69fb1498af3c1b61e913b8e -->
+<!-- innholds-hash: 01ee8ba539be7b975eda54a2a8b1195d0f1100062df998737443d0f67e1ad848 -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-sluttfase
-- **Sist hentet:** 2026-07-07T05:08:27Z
+- **Sist oppdatert i arkivet:** 2026-10-08T04:45:19Z
 
 ## Innhold
 
-Pengestøtte til ansatt og Refusjon  —  For arbeidsgivere
-
+Pengestøtte til ansatt og Refusjon — For arbeidsgivere
 
 ## Pleiepenger i livets sluttfase
 
 Når en ansatt må være borte fra jobb for å ta vare på en person som er i livets sluttfase.
 
+### Hvem kan få?
 
-### Innhold på denne siden
-
-Det finnes også informasjon om pleiepenger i livets sluttfase til
-
-
-### Innhold på denne siden
-
-Det finnes også informasjon om pleiepenger i livets sluttfase til
+For å få pleiepenger, gjelder alle disse punktene:
 
 - Den du skal pleie må være i livet sluttfase. Med dette menes at sannsynlig gjenværende levetid er begrenset, gjerne definert som måneder eller uker.
-- Den som er syk pleies i et privat hjem.
+- Den som er syk pleies i et privat hjem.
 - Du må være under 70 år
 - Du har vært i jobb i minst 4 uker umiddelbart før pleiepengeperioden starter.
 - De dagene du skal ha pleiepenger, må du ha minst 20 prosent fravær fra jobben din.
-- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
-- Du er medlem av folketrygden. Bor du i Norge er du vanligvis
+- Du har en årsinntekt som er minst 68 275 kroner (halvparten av folketrygdens grunnbeløp).
+- Du er medlem av folketrygden. Bor du i Norge er du vanligvis [medlem av folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden).
 
 #### Når flere pleier samtidig
 
@@ -40,34 +33,49 @@ Flere personer kan pleie den som er syk, men bare to kan motta fulle pleiepenger
 
 Selv om det er flere som pleier, kan det bare gis inntil 60 dager til sammen. Kvoten vil derfor brukes opp raskere i perioder der to pleier samtidig.
 
-Eksempel:
+Eksempel: Når to personer pleier samtidig i hele perioden, har hver av dem rett til 100 prosent pleiepenger. Men, det kan maksimalt utbetales pleiepenger i 30 dager til hver.
+
+### Hva kan den ansatte få?
+
+#### Hvor mye kan man få?
 
 Pleiepenger beregnes på samme måte som sykepenger og utgjør 100 prosent av sykepengegrunnlaget.
 
-Når Nav refunderer pleiepenger utbetaler vi 100 prosent av grunnlaget, som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år.
+Når Nav refunderer pleiepenger utbetaler vi 100 prosent av grunnlaget, som maksimalt kan være 6 ganger grunnbeløpet (6G). Dette tilsvarer 819 294 kroner. Grunnlaget regnes om til en dagsats ved å dele beregnet årsinntekt på 260 dager. Dette gjelder uavhengig av hvor mange arbeidsdager arbeidstakeren har i løpet av et år. Eksempel på beregning: Slik beregnes dagsatsen til en arbeidstaker med gjennomsnittlig månedsinntekt på brutto 17 000 kroner de tre siste månedene:
 
 - Dette tilsvarer en årsinntekt på 204 000 kroner
 - Beregnet årsinntekt deles på 260
 - Nav vil utbetale med en dagsats på 785 kroner
-Den ansatte kan få pleiepenger i opptil 60 dager totalt. Hvis det er flere som deler på pleien, har de altså 60 dager å dele på til sammen.
+
+#### Hvor lenge kan man få?
+
+Den ansatte kan få pleiepenger i opptil 60 dager totalt. Hvis det er flere som deler på pleien, har de altså 60 dager å dele på til sammen. Dagene trenger ikke å bli tatt ut sammenhengende.
+
+#### Andre tilbud
 
 Mer informasjon når
+
+- [Ansatt har sykdom i familien](https://www.nav.no/arbeidsgiver/sykdom-i-familien) Hva arbeidsgivere må vite
+
+### Arbeidsgivers rolle
+
+#### Inntektsmelding
 
 Inntektsmelding er skjemaet som arbeidsgiver må sende til Nav når en ansatt søker om pleiepenger. Meldingen gir Nav informasjon som vi trenger for å behandle søknaden om pleiepenger, blant annet opplysninger om inntekt og fravær.
 
 Inntektsmelding skal sendes så snart som mulig etter at den ansatte har sendt inn søknaden sin, men ikke tidligere enn 4 uker før første dag med pleiepenger.
 
-Når den ansatte har sendt søknad om pleiepenger, vil du få en oppgave om å sende inntektsmelding på
+Når den ansatte har sendt søknad om pleiepenger, vil du få en oppgave om å sende inntektsmelding på [Min side - arbeidsgiver.](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/) Dette er en ny løsning for inntektsmelding som ble lansert 30. januar 2025.
 
 Selv om Nav varsler om at vi har fått en søknad, må du som arbeidsgiver ha dialog med den ansatte om hvor lenge den ansatte skal ha permisjon. Det samme gjelder dialog hvis den ansatte vil kombinere pleiepengene med jobb.
 
 Les mer om hvordan du bruker den nye inntektsmeldingen:
 
-Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får
+Når vi får søknad fra den ansatte, vil du få varsel om å sende inntektsmelding fra Min side - arbeidsgiver. Varselet sendes på e-post/SMS til de som er registrert som varslingsmottaker i Altinn. Her kan du lese mer om hvem som får [tilgang til inntektsmeldingen](https://www.nav.no/arbeidsgiver/tilganger).
 
 Hvis den ansatte har søkt for en periode frem i tid, får du tidligst varsel om å sende inntektsmeldingen fire uker før første fraværsdag.
 
-Noen ganger kan du få varsel om å sende inntektsmelding, men senere står oppgaven som "utgått" på Min side - arbeidsgiver. Dette skjer som regel på grunn av endringer i saken, som gjør at vi ikke lenger trenger inntektsmelding. Du kan avklare med den ansatte hva som er status for søknaden.
+Noen ganger kan du få varsel om å sende inntektsmelding, men senere står oppgaven som "utgått" på Min side - arbeidsgiver. Dette skjer som regel på grunn av endringer i saken, som gjør at vi ikke lenger trenger inntektsmelding. Du kan avklare med den ansatte hva som er status for søknaden.
 
 Inntektsmeldingen foreslår en beregnet månedslønn ut fra registrerte inntekter i A-ordningen. Det er du som arbeidsgiver som må vurdere om dette er riktig inntekt, eller om du bør korrigere den.
 
@@ -76,6 +84,7 @@ Du må vanligvis endre den foreslåtte inntekten hvis:
 - den ansatte har hatt lovlig fravær uten lønn som har gitt trekk i lønnsutbetaling
 - den ansatte har endret stillingsprosent
 - den ansatte har hatt varig lønnsendring
+
 Hvis du endrer den foreslåtte månedslønnen, må du oppgi en årsak til hvorfor du endrer. Noen av endringsårsakene krever også at du oppgir periode for endringen, for eksempel hvis den ansatte har hatt ferie eller har vært permittert.
 
 Hvis dere utbetaler lønn som vanlig, og krever refusjon, så informerer du om dette i inntektsmeldingen. Nav vil da utbetale stønaden direkte til dere, basert på kontonummer dere har registrert for utbetalinger fra Nav.
@@ -88,20 +97,28 @@ Du kan finne den innsendte inntektsmeldingen i saksoversikten på Min side - arb
 
 Når du finner inntektsmeldingen, kan du trykke deg inn på denne oppgaven og velge "endre", for å korrigere opplysningene du la inn sist. Hvis du har sendt inn inntektsmelding via Altinn eller lønns- og personalsystem, vil du ikke se opplysningene du sendte inn. Men, du kan hente opp den forhåndsutfylte versjonen fra Nav, og tilpasse opplysningene i denne for å sende endring.
 
-
 #### Endre inntekt
 
 Hvis den ansatte har en endring i inntekten sin, skal du kun endre inntekten hvis den nye inntekten var aktuell ved første fraværsdag. Endringer i inntekt etter denne dagen påvirker ikke beregningen hos Nav. Du må likevel vurdere om du vil endre i refusjonen, hvis det har vært varig lønnsendring.
-
 
 #### Endre refusjon
 
 Merk at hvis du skal gjøre endringer i refusjon, må du beholde refusjonsperioder tilbake fra første fraværsdag. Hvis du skal starte eller stanse refusjon, må du derfor legge dette inn som en periode med 0,- i refusjon, fremfor å velge at det ikke er refusjon.
 
+Her finner du nyttig informasjon om inntektsmeldingen, og hvordan du går frem for å sende den.
+
+[Inntektsmelding](https://www.nav.no/arbeidsgiver/inntektsmelding)
+
+Slik gjør du det
+
+[Logg inn og send digitalt](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/)
+
 Hvis den ansatte jobber skift eller har timelønn, skal inntekten fastsettes etter de samme reglene som arbeidstakere med fastlønn. Det betyr at du som hovedregel skal bruke et gjennomsnitt av inntekten fra de siste tre kalendermånedene.
 
+Vi må alltid ha inntektsmelding når den ansatte
+
 - søker for første gang
-- søker på nytt etter et opphold i pleiepengene på 4 uker eller mer
+- søker på nytt etter et opphold i pleiepengene på 4 uker eller mer
 - søker på nytt etter et opphold på mindre enn 4 uker, og det er en varig endring i inntekten
 
 #### Gjelder inntektsmeldingen også for selvstendig næringsdrivende/frilansere?
@@ -110,20 +127,19 @@ Nei, denne inntektsmeldingen gjelder bare for arbeidstakere.
 
 Nav har informasjon om inntekten for selvstendig næringsdrivende og frilansere fra offentlige registre. Vi innhenter mer informasjon hvis det er nødvendig for å behandle søknaden.
 
-
 #### Hvor kan jeg sjekke inntektsmeldinger jeg har sendt tidligere?
 
 Du kan sjekke tidligere innsendte inntektsmeldinger der du sendte den.
 
 Det betyr at inntektsmeldinger som sendes fra Min side - Arbeidsgiver er synlige i saksoversikten. Har du sendt via Altinn, kan du finne innsendte inntekstmeldinger i innsynstjenesten til Altinn.
 
-
 #### Hvor mange fraværsdager skal jeg opplyse om i inntektsmeldingen?
 
 Du trenger kun å opplyse om første fraværsdag i inntektsmeldingen. De øvrige fraværsdagene opplyser den ansatte om selv.
 
-Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
+#### Hvordan søke om refusjon?
 
+Hvis du ønsker refusjon for utbetalt lønn, opplyser du om dette i inntektsmeldingen. Inntektsmeldingen fungerer som refusjonskrav, og du trenger ikke fylle ut andre skjemaer for å få refusjon.
 
 #### Må jeg utbetale lønn og få refusjon fra Nav?
 
@@ -133,21 +149,19 @@ Om du skal betale lønn til den ansatte avhenger av hva slags avtale som forelig
 
 Du oppgir det du har valgt i inntektsmeldingen du sender til Nav. Det er viktig at du gir beskjed til den ansatte hvis du stanser utbetaling av lønn.
 
-
 #### Må arbeidsgiver dekke lønn de første fraværsdagene?
 
 Nei, pleiepenger kan innvilges fra første fraværsdag. Det er altså ikke en arbeidsgiverperiode som arbeidsgiver må dekke først.
 
-
 #### Refusjon for en nyansatt som er i en periode med pleiepenger
 
-Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
+Hvis dere har en nyansatt som er i en periode med pleiepenger, trenger vi vanligvis ikke inntektsmelding. Hvis dere skal utbetale lønn til den nyansatte, må dere likevel sende en inntektsmelding fra Min side - arbeidsgiver på nav.no. Disse kan sendes via "Opprett manuell inntektsmelding" og man får ikke oppgave på disse.
 
 - Sjekk at den ansatte er registrert i Aa-registeret før dere sender inntektsmelding
 - Oppgi første fraværsdag dere søker refusjon fra
-- Kryss av for at dere utbetaler lønn og krever refusjon
-Merk at pleiepenger vil beholde beregningen fra tidligere arbeidsforhold, dette kan påvirke hvor mye Nav kan utbetale i refusjon.
+- Kryss av for at dere utbetaler lønn og krever refusjon
 
+Merk at pleiepenger vil beholde beregningen fra tidligere arbeidsforhold, dette kan påvirke hvor mye Nav kan utbetale i refusjon.
 
 #### Meld fra om endringer i refusjon
 
@@ -161,20 +175,23 @@ Du må endre inntektsmeldingen hvis
 
 Nav kan som hovedregel gi refusjon av pleiepenger opptil 3 måneder før den kalendermåneden refusjonskravet sendes til Nav. Den ansatte har som hovedregel samme frist for å sende søknad om pleiepenger til Nav.
 
+#### Pleiepenger og permisjon
+
 Pleiepenger gir rett til lovlig fravær fra arbeidet, og arbeidstaker skal ha permisjon etter arbeidsmiljøloven §12-10.
 
-Du kan lese mer om retten til permisjon på
+Du kan lese mer om retten til permisjon på [Arbeidstilsynet](https://www.arbeidstilsynet.no/lonn-og-ansettelse/permisjoner/pleie-av-naere-parorende-i-sluttfasen-av-livet/) sine sider.
 
-Her finner du
-
+Her finner du [regelverket for permisjon](https://lovdata.no/nav/lov/2005-06-17-62/kap12/%C2%A712-10).
 
 #### Hvordan registrerer jeg pleiepenger i A-meldingen?
 
 Pleiepenger skal registreres som lovfestet permisjon i A-meldingen dersom fraværet varer lenger enn 14 dager.
 
-Her kan du lese mer om
+Her kan du lese mer om [registrering av permisjoner i A-meldingen](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/arbeidsforholdet/opplysninger-om-arbeidsforholdet/permisjon/).
 
-Inntektsmeldingen sendes inn på Min side – arbeidsgiver.
+#### Slik sender du dokumentasjon til Nav
+
+Inntektsmeldingen sendes inn på Min side – arbeidsgiver.
 
 I noen få tilfeller trenger Nav mer dokumentasjon fra deg enn inntektsmeldingen. Du får brev fra vår saksbehandler med informasjon om hva vi trenger, hvis dette er nødvendig.
 
@@ -182,24 +199,34 @@ Noen arbeidsgivere ønsker også å sende annen dokumentasjon direkte til saksbe
 
 Dokumentasjonen kan sendes til oss på to måter:
 
-- Gi dokumentasjonen til den ansatte, som selv ettersender den digitalt ved å logge inn på nav.no.
-- Gå til
-Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
+- Gi dokumentasjonen til den ansatte, som selv ettersender den digitalt ved å logge inn på nav.no.
+- Gå til [siden for ettersendelse](https://www.nav.no/start/ettersend-soknad-pleiepenger), og velg ettersend i post. Husk å notere den ansatte sitt fødsels- og personnummer når du henter ut førsteside for innsendelse.
 
-Oppdatert 30.06.2026
+Hvis du sender dokumentasjon på vegne av arbeidsgiver, for eksempel fra en lønningsavdeling, må du også notere organisasjonsnummer for kontakt. Det er fordi vi sender brev digitalt, og må knytte dem til organisasjonsnummer for å sende svar i Altinn.
 
+### Hva sier loven?
 
-#### Chat
+[Folketrygdloven kap. 9](https://lovdata.no/nav/folketrygdloven/kap9)
 
-Chatbot Frida har døgnåpent.
+Oppdatert 30.06.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chatbot
+
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
+
+Chatbot:
 
 Alltid åpen
 
+Ring oss på 55 55 33 36
 
-#### Ring oss på 55 55 33 36
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/pleiepenger-sluttfase) av norges-lover-bot.*
@@ -210,3 +237,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-07-07** Innhold endret (se git-historikk for diff)
+- **2026-10-08** Innhold endret (se git-historikk for diff)

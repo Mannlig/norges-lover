@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7d9a58db352efd3cc5a8bc4be005516ef03d92fe6a3b2010777096a2e8576a6e -->
+<!-- innholds-hash: 4dc1f84bfcc6b7a5f2e2dd7240edb410981425a2382b40db19b3740440de424b -->
 
 # Kost og losji - forskuddssats for trekkfrie matpenger (utgått sats)
 
@@ -6,19 +6,21 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/forskuddssats-for-trekkfrie-matpenger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:48:03Z
+- **Sist oppdatert i arkivet:** 2026-10-08T01:01:43Z
 
 ## Innhold
 
+Sats for:
 
 ## Kost og losji - forskuddssats for trekkfrie matpenger (utgått sats)
 
 Fra og med 2019 gjelder ikke denne satsen. Siste år med sats for trekkfrie matpenger var 2018.
 
-Se
+Se [Kost og losji - satser for trekk- og skattefri godtgjørelse](https://www.skatteetaten.no/satser/kost-og-losji-satser-for-trekk-og-skattefri-godtgjorelse/)
+
+Velg år 20192018201720162015201420132012201120102009
 
 Fra og med inntektsåret 2019 er denne satsen ikke lenger benyttet.
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/forskuddssats-for-trekkfrie-matpenger/) av norges-lover-bot.*
@@ -26,3 +28,4 @@ Fra og med inntektsåret 2019 er denne satsen ikke lenger benyttet.
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

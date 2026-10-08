@@ -1,25 +1,30 @@
-<!-- innholds-hash: 47323596806a273a7e11db8288c5f1fa331d7f4d4ded5ee591378a8d1b17cef3 -->
+<!-- innholds-hash: dc0fc9af9819b7e0c375aa00659c2ca49354571921204f6095f1f669cae3c23a -->
 
 # Større rom for tilpasninger i arealplaner
 
 ## Kildeinformasjon
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/alt-om-tek/storre-rom-for-tilpasninger-i-arealplaner/
-- **Sist oppdatert (kilde):** Sist endret
+- **Sist oppdatert (kilde):** Publisert
         03.07.2017
-- **Sist hentet:** 2026-05-20T23:28:57Z
+- **Sist oppdatert i arkivet:** 2026-10-08T02:13:12Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Alt om TEK17](https://www.dibk.no/regelverk/alt-om-tek)
+- [Større rom for tilpasninger i arealplaner](https://www.dibk.no/regelverk/alt-om-tek/storre-rom-for-tilpasninger-i-arealplaner)
 
 ## Større rom for tilpasninger i arealplaner
 
 Forenklingene i ny byggteknisk forskrift (TEK17) gjør at noen tekniske krav fjernes. Dette gir kommunene større fleksibilitet i utforming og revidering av kommune- og reguleringsplaner.
 
+Publisert 03.07.2017
+
 Med TEK17, som trådte i kraft 1. juli i år, må kommunene vurdere om de skal regulere flere krav lokalt i sine arealplaner. Dette gjelder krav til parkering, kjøreatkomst, plassering av byggverk og tilstrekkelig uteoppholdsareal. Kommunene har gode forutsetninger for å håndtere slike krav og hensyn lokalt, når de lager nye eller reviderer kommune- og reguleringsplaner.
 
 Kravene og hensynene må også ivaretas av andre aktører som utarbeider forslag til arealplaner. Dette kan for eksempel være arkitekter som jobber med reguleringsplaner, og større utbyggere som skal utvikle egne områder.
-
 
 ### Plassering av byggverk
 
@@ -27,11 +32,9 @@ Bestemmelsen som regulerer plassering av byggverk vil bli tatt ut av TEK17 1. ju
 
 Bakgrunnen for at bestemmelsen tas ut 1. juli 2021 er at forskriftskravene om plassering av byggverk mangler konkrete ytelser. Hensynene blir dessuten ivaretatt i andre deler av byggteknisk forskrift, men også i plan- og bygningsloven og lokale reguleringsplaner. Kommunene har de beste forutsetninger for å håndtere endringene i eget planverk.
 
-
 ### Utendørs oppholdsareal
 
 Med TEK17 skal det enkelte byggverks behov for uteoppholdsareal vurderes og reguleres i lokale planbestemmelser. Dette gjør at oppholdsarealet kan tilpasses på en bedre måte til tomten, byggverket og behovene til de som skal bruke området. Med større lokalt handlingsrom og styring gjennom planverktøy vil utbyggere oppleve mindre usikkerhet til om kravet lar seg oppfylle i den enkelte byggesaken, og dermed større forutsigbarhet ved gjennomføringen av byggeprosjektet.
-
 
 ### Kjøreatkomst og parkering
 
@@ -41,9 +44,9 @@ Dersom kommunene ønsker å stille krav om parkering i nye prosjekter, er dette 
 
 Der hvor parkering ikke er regulert lokalt, skal bygninger som har krav om tilgjengelighet og byggverk som har krav om universell utforming ha kjøreatkomst for utrykningskjøretøy, persontransport og lignende.
 
-
 ### Veiledning til forskriften
 
+- [Byggteknisk forskrift (TEK17)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17)
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/alt-om-tek/storre-rom-for-tilpasninger-i-arealplaner/) av norges-lover-bot.*
@@ -51,3 +54,4 @@ Der hvor parkering ikke er regulert lokalt, skal bygninger som har krav om tilgj
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

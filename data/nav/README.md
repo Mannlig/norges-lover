@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 637
+**Antall dokumenter:** 654
 
 ## Innhold
 
@@ -377,6 +377,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 
 ### Arbeidsgiver
 
+- [Innsyn i Aa-registeret for arbeidsgiver](arbeidsgiver/aa-registeret/innsyn.md)
 - [Om Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) - nav.no](arbeidsgiver/aa-registeret.md)
 - [Arbeidsavklaringspenger (AAP) - nav.no](arbeidsgiver/aap.md)
 - [Ansatt blir pensjonist - nav.no](arbeidsgiver/ansatt-blir-pensjonist.md)
@@ -468,6 +469,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Ansatt er sykmeldt - nav.no](arbeidsgiver/sykmeldt-ansatt.md)
 - [Klage og tilbakemeldinger - nav.no](arbeidsgiver/tilbakemeldinger.md)
 - [Tilgang til Navs tjenester - nav.no](arbeidsgiver/tilganger.md)
+- [Tilrettelagt arbeid i ordinær virksomhet (TA-O) - nav.no](arbeidsgiver/tilrettelagt-arbeid.md)
 - [Tilrettelegging på arbeidsplassen - nav.no](arbeidsgiver/tilretteleggingsplikt.md)
 - [Tips Nav om mulig trygdesvindel - nav.no](arbeidsgiver/tips-om-trygdesvindel.md)
 - [Tolk for hørselshemmede på arbeidsplassen - nav.no](arbeidsgiver/tolk-pa-arbeidsplassen.md)
@@ -515,6 +517,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Nav hjelpemiddelsentral Vestfold og Telemark - nav.no](kontor/nav-hjelpemiddelsentral-vestfold-og-telemark.md)
 - [Nav hjelpemiddelsentral Vestland-Bergen - nav.no](kontor/nav-hjelpemiddelsentral-vestland-bergen.md)
 - [Nav hjelpemiddelsentral Vestland-Førde - nav.no](kontor/nav-hjelpemiddelsentral-vestland-forde.md)
+- [Nav registerforvaltning - nav.no](kontor/nav-registerforvaltning.md)
 
 ### Min Cv
 
@@ -650,6 +653,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Inntektsopplysninger for arbeidstaker som skal ha sykepenger - nav.no](start/arbeidsgiver/inntektsopplysninger-arbeidstaker.md)
 - [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som har sykefravær på grunn av svangerskap - nav.no](start/arbeidsgiver/soknad-unntak-arbeidsgiveransvar-langvarig-eller-kronisk-sykdom-copy.md)
 - [Søknad om unntak fra arbeidsgiveransvar for sykepenger til en arbeidstaker som lider av en langvarig eller kronisk sykdom - nav.no](start/arbeidsgiver/soknad-unntak-arbeidsgiveransvar-langvarig-eller-kronisk-sykdom.md)
+- [Bekreftelse på vedtak om uføretrygd for utstedelse av honnørkort - nav.no](start/bekreftelse-uforetrygd-honnorkort.md)
 - [Endring av alderspensjon - nav.no](start/endring-alderspensjon.md)
 - [Enslig mor eller far som er arbeidssøker - nav.no](start/enslig-mor-eller-far-arbeidssoker.md)
 - [Ettersend til søknad om ekstra omsorgsdager for barn som har kronisk/langvarig sykdom eller funksjonshemning - nav.no](start/ettersend-dokumentasjon-til-soknad-om-ekstra-omsorgsdager-for-et-barn-som-er-kronisk-sykt-funksjonshemmet-eller-langvarig-sykt.md)
@@ -675,6 +679,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Generell fullmakt - nav.no](start/generell-fullmakt.md)
 - [Meldekort for tiltakspenger - nav.no](start/meldekort-tiltakspenger.md)
 - [Søknad om økonomisk sosialhjelp - nav.no](start/okonomisk-sosialhjelp.md)
+- [Overføring av omsorgsopptjening for barn - nav.no](start/overforing-omsorgsopptjening-barn.md)
 - [Refusjon av utgifter til daglig reise med bruk av egen bil - nav.no](start/refusjon-av-utgifter-til-daglig-reise-med-bruk-av-egen-bil.md)
 - [Skadeforklaring ved arbeidsulykke - nav.no](start/skadeforklaring-arbeidsulykke.md)
 - [Søknad om tilleggsstønader - støtte til læremidler - nav.no](start/soknad/soknad-om-tilleggsstonader-stotte-til-laremidler.md)
@@ -684,13 +689,24 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Søknad om alderspensjon og AFP i privat sektor - nav.no](start/soknad-alderspensjon-afp-privat.md)
 - [Søknad om barnepensjon - nav.no](start/soknad-barnepensjon.md)
 - [Søknad om barnetillegg til uføretrygd - nav.no](start/soknad-barnetillegg-uforetrygd.md)
+- [Søknad om stønad til barnetilsyn til enslig mor eller far - nav.no](start/soknad-barnetilsyn-enslig.md)
 - [Søknad om dagpenger - nav.no](start/soknad-dagpenger.md)
 - [Søknad om ekstra omsorgsdager når den andre forelderen ikke kan ha tilsyn med barn - nav.no](start/soknad-ekstra-omsorgsdager-andre-forelder.md)
 - [Søknad om ekstra omsorgsdager for barn som har kronisk/langvarig sykdom eller funksjonshemning - nav.no](start/soknad-ekstra-omsorgsdager-kronisk-sykt-barn.md)
+- [Endre kontonummer – utenlandsk bank - nav.no](start/soknad-endring-bankkontonummer-utland.md)
 - [Endring av bankkontonummer - nav.no](start/soknad-endring-bankkontonummer.md)
+- [Søknad om engangsstønad - nav.no](start/soknad-engangsstonad.md)
+- [Søknad om godskriving av omsorgsopptjening - nav.no](start/soknad-godskriving-omsorgsopptjening.md)
+- [Søknad om grunnstønad - nav.no](start/soknad-grunnstonad.md)
+- [Søknad om hjelpestønad - nav.no](start/soknad-hjelpestonad.md)
+- [Søknad om pensjonsopptjening for omsorgsarbeid - nav.no](start/soknad-om-pensjonsopptjening-for-omsorgsarbeid.md)
 - [Søknad om utbetaling av omsorgspenger for selvstendig næringsdrivende og frilansere - nav.no](start/soknad-om-utbetaling-av-omsorgspenger-for-selvstendig-naeringsdrivende-og-frilansere.md)
 - [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)
+- [Søknad om opplæringspenger - nav.no](start/soknad-opplaeringspenger.md)
 - [Søknad om overgangsstønad til enslig mor eller far - nav.no](start/soknad-overgangsstonad-enslig.md)
+- [Søknad om pleiepenger i livets sluttfase - nav.no](start/soknad-pleiepenger-sluttfase.md)
+- [Søknad om pleiepenger for sykt barn - nav.no](start/soknad-pleiepenger.md)
+- [Søknad om stønad til skolepenger til enslig mor eller far - nav.no](start/soknad-skolepenger-enslig.md)
 - [Søknad om svangerskapspenger - nav.no](start/soknad-svangerskapspenger.md)
 - [Søknad om tilleggsstønader for pass av barn - nav.no](start/soknad-tilleggsstonader-for-pass-av-barn.md)
 - [Søknad om tilleggsstønader - støtte til bolig og overnatting - nav.no](start/soknad-tilleggstonader-bolig-overnatting.md)
@@ -698,6 +714,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Søknad om tiltakspenger - nav.no](start/soknad-tiltakspenger.md)
 - [Søknad om uføretrygd - nav.no](start/soknad-uforetrygd.md)
 - [Søknad om utbetaling av omsorgspenger når arbeidsgiver ikke utbetaler - nav.no](start/soknad-utbetaling-omsorgspenger-arbeidsgiver-ikke-utbetaler.md)
+- [Søknad om utvidet barnetrygd - nav.no](start/soknad-utvidet-barnetrygd.md)
 - [Tilleggsopplysninger ved yrkessykdom - nav.no](start/tilleggsopplysninger.md)
 
 ### Tilskudd Til Ombygging

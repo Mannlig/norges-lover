@@ -1,4 +1,4 @@
-<!-- innholds-hash: 716404d4a5cd5b1cb46c8a45734ba9471dc3a81402a69c310a400bb4a1335b2e -->
+<!-- innholds-hash: 271eba918b467d2abff7a52827961cf317ff26605de24c508aabd3ec69fe11f6 -->
 
 # Forsinkelsesrenter
 
@@ -6,17 +6,24 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/forsinkelsesrenter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:47:16Z
+- **Sist oppdatert i arkivet:** 2026-10-08T01:00:41Z
 
 ## Innhold
 
+Sats for:
 
 ## Forsinkelsesrenter
+
+Velg år 20262025202420232022202120202019201820172016201520142013201220112010200920082007
 
 Hvis du betaler skatter og avgifter for sent, må du i tillegg betale forsinkelsesrenter. Rentesatsen fastsettes av Finansdepartementet. Rentesatsen fastsettes hvert halvår, med virkning fra 1. januar og 1. juli.
 
 Utbetaler Skatteetaten skatter eller avgifter for sent, ytes det forsinkelsesrenter.
 
+| Rentetyper | Fra 1. januar 2026 | Fra 1. juli 2026 |
+| --- | --- | --- |
+| § 11-1 Renter ved forsinket betaling | 12 % | 12,25 % |
+| § 11-3 Renter ved forsinket utbetaling |  |  |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/forsinkelsesrenter/) av norges-lover-bot.*
@@ -24,3 +31,4 @@ Utbetaler Skatteetaten skatter eller avgifter for sent, ytes det forsinkelsesren
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

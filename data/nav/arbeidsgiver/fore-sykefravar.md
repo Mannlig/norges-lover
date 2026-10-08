@@ -1,31 +1,25 @@
-<!-- innholds-hash: a6b550df63d1416f5d251a5fe433a14b653a200ecb79677711e6806cc3750a4a -->
+<!-- innholds-hash: eb2b2e6f484fb96778ac2e2fb73ca15e9a3207da93c6733f268d6fe11a78252f -->
 
 # Veiledning til føring av statistikk over sykefravær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/fore-sykefravar
-- **Sist hentet:** 2026-06-28T05:16:42Z
+- **Sist oppdatert i arkivet:** 2026-10-08T04:40:22Z
 
 ## Innhold
 
-Slik gjør du det  —  For arbeidsgivere
-
+Slik gjør du det — For arbeidsgivere
 
 ## Veiledning til føring av statistikk over sykefravær
 
 Alle arbeidsgivere må føre statistikk over sykefravær og fravær ved barns sykdom.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem skal føre statistikk?
 
 Som arbeidsgiver er det lovpålagt å føre statistikk over sykefravær og fravær ved barns sykdom. Statistikken skal ikke sendes til Nav, men kan brukes til å måle og forbedre virksomhetens forebyggingsarbeid.
 
 Virksomheten kan bli spurt om å vise sykefraværsstatistikken til Arbeidstilsynet.
-
 
 #### Hvem omfattes?
 
@@ -35,17 +29,19 @@ Dette gjelder både faste og midlertidige ansatte. Vikarer og fravær i ferie sk
 
 Statistikken skal oppdateres hvert kvartal.
 
-
 #### Små virksomheter
 
-Hvis virksomheten din har færre enn 20 ansatte, er det opp til deg som arbeidsgiver å vurdere hvor detaljert statistikk du ønsker å føre. Du må minimum hvert kvartal telle opp avtalte dagsverk og fravær som skyldes ansattes sykdom.
+Hvis virksomheten din har færre enn 20 ansatte, er det opp til deg som arbeidsgiver å vurdere hvor detaljert statistikk du ønsker å føre. Du må minimum hvert kvartal telle opp avtalte dagsverk og fravær som skyldes ansattes sykdom.
 
-Mange arbeidsgivere bruker egne systemer for å føre sykefravær, men du velger selv hvordan du vil gjøre det.
+### Slik fører du fravær
+
+#### Sykefravær
+
+Mange arbeidsgivere bruker egne systemer for å føre sykefravær, men du velger selv hvordan du vil gjøre det. [Nav har laget en mal du kan bruke om du vil](https://www.nav.no/_/attachment/download/0613c7ae-b6be-483c-8f16-d3d96eae04e2:51772a222ceb0a44fd25a1c34ca667a746c0ce25/Veiledning%20for%20f%C3%B8ring%20av%20statistikk%20over%20sykefrav%C3%A6r%20og%20frav%C3%A6r%20ved%20barns%20sykdom.xlsx) (Excel-dokument).
 
 Når vi nå skal vise hvordan du kan føre sykefravær, tar vi utgangspunkt i kolonnene i sykefraværsmalen ovenfor.
 
 Sykefraværet i prosent regnes ut ved å dele antall sykefraværsdager med antall avtalte dagsverk og gange med 100.
-
 
 #### Eksempel
 
@@ -59,14 +55,14 @@ Du finner avtalte dagsverk ved å gange antall ansatte med antall driftsdager pe
 
 En driftsdag er en dag ansatte er på jobb i virksomheten.
 
-
 #### Eksempel
 
 Virksomheten har 50 heltidsansatte og 30 personer i 50 prosent stilling. Antall driftsdager i januar 2023 var 22.
 
 - 50 personer x 22 x 1,0 (stillingsandel) = 1 100 dagsverk
 - 30 personer x 22 x 0,5 (stillingsandel) = 330 dagsverk
-- Avtalte dagsverk i januar 2023 = 1 430 dagsverk
+- Avtalte dagsverk i januar 2023 = 1 430 dagsverk
+
 Hvis en ansatt er syk i ferien og får sykepenger fra arbeidsgiver eller Nav, skal sykefraværet med i statistikken.
 
 Når du beregner avtalte dagsverk, skal perioden den ansatte var syk ikke føres som ferie, men inkluderes i avtalte dagsverk.
@@ -77,23 +73,28 @@ Hvis en ansatt har gradert (delvis) sykefravær, må du bruke sykefraværsgraden
 
 Hvert fravær telles som ett tilfelle og registreres bare i det kvartalet fraværet starter i.
 
-- Hvis en ansatt har hatt sykefravær som uten opphold/retur til arbeidslivet følges av en ny sykmelding, regnes dette som ett tilfelle.
-- Hvis den ansatte har jobbet mellom sykefraværene, vil det regnes som separate tilfeller.
+- Hvis en ansatt har hatt sykefravær som uten opphold/retur til arbeidslivet følges av en ny sykmelding, regnes dette som ett tilfelle.
+- Hvis den ansatte har jobbet mellom sykefraværene, vil det regnes som separate tilfeller.
+
 En sykefraværsdag er et avtalt dagsverk der den ansatte ikke er på jobb. Hvis den ansatte jobber 100 prosent og er borte 2 dager, blir det 2 sykefraværsdager.
 
-
 #### Eksempel: Deltidsstilling
+
+#### Den ansatte jobber 50 prosent hver dag
 
 Du ganger antall sykefraværsdager med stillingsprosenten (stillingsbrøken) for driftsdager.
 
 5 fraværsdager x 0,5 = 2,5 sykefraværsdager.
 
+#### Den ansatte jobber 50 prosent, fordelt på 3 dager én uke, 2 dager neste uke
+
 Hvis den ansatte er borte en hel dag, regnes det som en hel sykefraværsdag, selv om den ansatte er i 50 prosent stilling.
+
+#### Slik regner du ut stillingsprosent
 
 En ansatt jobber 2 hele dager og 2 halve dager pr. uke og har en dag fri pr. uke. Full stilling er 5 hele dager per uke. Vedkommende har dermed en 3/5 stilling, og antall sykefraværsdager ganges derfor med 3/5.
 
 Hvis den ansattes stillingsbrøk varierer, bruker du stillingsprosenten som gjaldt i den lønningsperioden vedkommende ble syk.
-
 
 #### Eksempel: Gradert sykmelding
 
@@ -102,7 +103,6 @@ Er den ansatte gradert sykmeldt, skal du kun regne vedkommende som fraværende l
 Ved gradert fravær ganger du antall sykefraværsdager med hvor mange prosent gradert fravær den ansatte har.
 
 50 prosent gradert sykmelding og 10 dagers fravær gir 5 dagers fravær.
-
 
 #### Eksempel: Kombinert deltidsstilling og gradert sykmelding
 
@@ -120,7 +120,7 @@ Her registrerer du fravær med varighet fra 1 til og med 3 kalenderdager. Det er
 
 Her registrerer du fravær med varighet fra 4 til og med 16 kalenderdager. Også her skal du skille mellom fravær som er egenmeldt og fravær som er legemeldt. Du fører antall tilfeller og antall sykefraværsdager i de aktuelle kolonnene.
 
-Her fører du sykefravær som varer lenger enn
+Her fører du sykefravær som varer lenger enn [arbeidsgiverperioden](https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden). For sykefravær som har vart over 16 dager, skal du ta med alle tapte arbeidsdager i dette kvartalet.
 
 Går et fraværstilfelle over to kvartaler, skal du føre tilfellet i den første perioden med det antall sykefraværsdager som faller i denne perioden. I den neste perioden fører du bare de sykefraværsdagene som forekommer i denne perioden.
 
@@ -132,11 +132,15 @@ Eksempler på hvordan sykefraværet føres:
 
 - En ansatt er sykmeldt fra 19.3 til 24.5. 2023 (11 uker).
 - I 1. kvartal 2023 fører du tilfellet under "Mer enn 16 dager" med antall tapte arbeidsdager i dette kvartalet i kolonnen "antall sykefraværsdager".
-- Ved utløp av 2. kvartal fører du antall tapte arbeidsdager i 2. kvartal under "Mer enn 16 dager" både i kolonnen "I alt" og "Mer enn 8 uker". Samtidig skal du gjøre en etterregistrering: Du fører dette sykefraværstilfellet i første kvartal under "Mer enn 8 uker" som ett tilfelle og med det antall tapte arbeidsdager som falt i første kvartal.
-- En ansatt er sykmeldt i fire uker i et kvartal og har en 50 prosents stilling.
-- Du registrerer tilfellet i kolonnen "Over 16 dager i alt". Ved 5 dagers uke og sykmelding på 4 uker blir antall sykefraværsdager 20 dager x 0,5 = 10 dager. Disse dagene registrerer du under "antall sykefraværsdager" i kolonnen "Over 16 dager i alt".
+- Ved utløp av 2. kvartal fører du antall tapte arbeidsdager i 2. kvartal under "Mer enn 16 dager" både i kolonnen "I alt" og "Mer enn 8 uker". Samtidig skal du gjøre en etterregistrering: Du fører dette sykefraværstilfellet i første kvartal under "Mer enn 8 uker" som ett tilfelle og med det antall tapte arbeidsdager som falt i første kvartal.
+
+- En ansatt er sykmeldt i fire uker i et kvartal og har en 50 prosents stilling.
+- Du registrerer tilfellet i kolonnen "Over 16 dager i alt". Ved 5 dagers uke og sykmelding på 4 uker blir antall sykefraværsdager 20 dager x 0,5 = 10 dager. Disse dagene registrerer du under "antall sykefraværsdager" i kolonnen "Over 16 dager i alt".
 - Er vedkommende samtidig på gradert sykefravær på 50 prosent, vil antall registrerte dager bli 5 dager.
-- Eksemplet under avsnittet Antall sykefraværsdager (lenge opp på siden) sier at fraværsbrøken for gradert fravær må ganges med antall dager personen er borte fra arbeid.
+- Eksemplet under avsnittet Antall sykefraværsdager (lenge opp på siden) sier at fraværsbrøken for gradert fravær må ganges med antall dager personen er borte fra arbeid.
+
+#### Annet fravær
+
 Du skal ikke regne fravær på grunn av barns sykdom som sykefraværsdager, men føre fraværet i egen kolonneseksjon.
 
 Du registrerer fravær på grunn av barns sykdom med antall tilfeller og antall fraværsdager. Hvis et fravær går over to registreringsperioder, fører du tilfellet og antall dagsverk som beskrevet i eksempelet rett ovenfor. Registreringen av fravær ved barns sykdom skjer uavhengig av om det er arbeidsgiveren eller Nav som betaler for fraværet.
@@ -147,6 +151,8 @@ Fødselspermisjon regnes også som "annet fravær". Gravide har rett til permisj
 
 Dette er fravær som ikke er avtalt med arbeidsplassen. Dette fraværet fører du i egen kolonneseksjon, og det skal ikke regnes som sykefraværsdager.
 
+### Oppfølging
+
 Virksomheten kan ha glede av å føre statistikk over oppfølgingsarbeidet, for å kunne vurdere om oppfølgingsarbeidet fører til raskere tilbakeføring til arbeidslivet.
 
 Eksempler på oppfølgingsaktiviteter det kan være nyttig å registrere:
@@ -154,27 +160,37 @@ Eksempler på oppfølgingsaktiviteter det kan være nyttig å registrere:
 - Dialogmøter
 - Oppfølgingsplan
 - Oppfølgingssamtaler
+
 Det er valgfritt å føre statistikk over oppfølgingsarbeidet.
 
-Oppdatert 30.04.2026
+### Hva sier loven?
 
+- [Folketrygdloven, kapittel 25. Forskjellige bestemmelser (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap25)
+- [Rundskriv (lovdata.no)](https://lovdata.no/nav/rundskriv/r25-00#ref/lov/1997-02-28-19/%C2%A725-2)
 
-#### Ring oss på 55 55 33 36
+Oppdatert 30.04.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Ring oss på 55 55 33 36
+
+Åpent hverdager kl. 9–15.
 
 Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
-#### Kontaktskjema
+[Kontaktskjema](https://kontaktskjema.arbeidsgiver.nav.no/)
 
 Du kan skrive til oss hvis du ønsker hjelp til å rekruttere, inkludere arbeidstakere og forebygge sykefravær.
 
+Chatbot
 
-#### Chat
+Navs chatbot svarer deg på generelle spørsmål. Trenger du hjelp i en konkret sak, må du ringe oss på telefon.
 
-Chatbot Frida har døgnåpent.
+Chatbot:
 
 Alltid åpen
-
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/fore-sykefravar) av norges-lover-bot.*
@@ -184,3 +200,4 @@ Alltid åpen
 - **2026-06-10** Første gang hentet
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
+- **2026-10-08** Innhold endret (se git-historikk for diff)

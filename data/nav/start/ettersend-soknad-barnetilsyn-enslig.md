@@ -1,19 +1,20 @@
-<!-- innholds-hash: f348329ebc62e279fa2118d2977889f49d5429766e0ede667ac130e7653a1dd7 -->
+<!-- innholds-hash: 1c51de1fd9b90d717a6d8ee0b234d26ce7ac83301e8580caf4bbcdab0aff4b6b -->
 
 # Ettersend til søknad om stønad til barnetilsyn til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/start/ettersend-soknad-barnetilsyn-enslig
-- **Sist hentet:** 2026-06-10T23:24:44Z
+- **Sist oppdatert i arkivet:** 2026-10-08T04:56:46Z
 
 ## Innhold
-
 
 ## Ettersend til søknad om stønad til barnetilsyn til enslig mor eller far
 
 Du kan ettersende dokumentasjon til en søknad du tidligere har sendt inn.
 
+- [Ettersend digitalt](https://www.nav.no/familie/alene-med-barn/ettersending) Det er enklest og raskest å sende inn digitalt. Du blir bedt om å logge inn.
+- [Ettersend i posten](https://www.nav.no/fyllut-ettersending/nav150002) Du skriver ut en førsteside som du sender i posten sammen med dokumentasjonen. Du trenger ikke å logge inn. NAV 15-00.02
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/start/ettersend-soknad-barnetilsyn-enslig) av norges-lover-bot.*
@@ -21,3 +22,4 @@ Du kan ettersende dokumentasjon til en søknad du tidligere har sendt inn.
 ## Endringshistorikk
 
 - **2026-06-10** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

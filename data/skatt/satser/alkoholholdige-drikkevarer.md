@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2275cb6dfaf8e4e8c1d3ed3f414be363e628d96fd4e656f649fae36a7af5f8c3 -->
+<!-- innholds-hash: c3f5fcb76a857cf50a3a43367d6d2feff2c92e4575e73afe096407be2abcbe58 -->
 
 # Alkoholholdige drikkevarer
 
@@ -6,34 +6,28 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/alkoholholdige-drikkevarer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:26:30Z
+- **Sist oppdatert i arkivet:** 2026-10-08T00:30:50Z
 
 ## Innhold
 
+Sats for:
 
 ## Alkoholholdige drikkevarer
 
 Her finner du gjeldende og tidligere satser.
 
-Brennevinsbaserte drikkevarer
+[Les mer om avgift på alkoholholdige drikkevarer](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/alkohol/)
 
-9,23 kr per volumprosent per liter
+Velg år 2026202520242023202220212020201920182017
 
-Alkoholholdig drikk
+| Brennevinsbaserte drikkevarer over 0,7 volumprosent | 9,23 kr per volumprosent per liter |
+| --- | --- |
+| Alkoholholdig drikk over 0,7 t.o.m. 2,7 volumprosent | 3,72 kr per liter |
+| Alkoholholdig drikk over 2,7 t.o.m. 3,7 volumprosent | 13,98 kr per liter |
+| Alkoholholdig drikk over 3,7 t.o.m. 4,7 volumprosent | 24,20 kr per liter |
+| Alkoholholdig drikk over 4,7 t.o.m. 22 volumprosent | 5,41 kr per volumprosent per liter |
 
-3,72 kr per liter
-
-Alkoholholdig drikk
-
-13,98 kr per liter
-
-Alkoholholdig drikk
-
-24,20 kr per liter
-
-Alkoholholdig drikk
-
-5,41 kr per volumprosent per liter
+#### Redusert sats for små bryggerier
 
 Det skal betales redusert sats for gjæret alkoholholdig drikk produsert av små bryggerier.
 
@@ -45,8 +39,8 @@ Med små bryggerier menes virksomheter som er økonomisk og juridisk uavhengig a
 - 20,58 per liter for volum over 50 000 liter og t.o.m. 100 000 liter årlig
 - 21,79 per liter for volum over 100 000 liter t.o.m. 150 000 liter årlig
 - 23,00 per liter for volum over 150 000 t.o.m. 200 000 liter årlig
-Det er også
 
+Det er også [avgift på drikkevareemballasje](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/drikkevareemballasje/).
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/alkoholholdige-drikkevarer/) av norges-lover-bot.*
@@ -54,3 +48,4 @@ Det er også
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

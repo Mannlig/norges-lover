@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3e8470a6cbd5a204d6444364a2b84bb27918f08b457056d5a617ff85165c7f7a -->
+<!-- innholds-hash: c756fbc42897ec80daa18b99fef7e3ad919930d22f991e6b7d3ed94b0cad42ae -->
 
 # Gaver til frivillige organisasjoner
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/gaver-til-frivillige-organisasjoner/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:51:41Z
+- **Sist oppdatert i arkivet:** 2026-10-08T01:07:07Z
 
 ## Innhold
 
+Sats for:
 
 ## Gaver til frivillige organisasjoner
 
@@ -17,6 +18,10 @@ Du kan få fradrag i skattepliktig inntekt for pengegaver til visse forhåndsgod
 
 Gaven til den aktuelle organisasjonen må være på minst 500 kroner i løpet av inntektsåret.
 
+Velg år 20262025202420232022202120202019201820172016201520142013201220112010200920082007
+
+| Maksimalt fradrag | 25 000 kroner |
+| --- | --- |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/gaver-til-frivillige-organisasjoner/) av norges-lover-bot.*
@@ -24,3 +29,4 @@ Gaven til den aktuelle organisasjonen må være på minst 500 kroner i løpet av
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)
