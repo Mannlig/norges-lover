@@ -1,4 +1,4 @@
-<!-- innholds-hash: 25c25562d6e541a44f480ee11b583128ef241691016f2137c0df7b39a93e03a5 -->
+<!-- innholds-hash: d2123d4d7e3580f535c4666ceaa4ab9e73b9118a1e650efd6a014e7f3a5db431 -->
 
 # Særfradrag for enslige forsørgere
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/sarfradrag-for-enslige-forsorgere/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T14:26:44Z
+- **Sist oppdatert i arkivet:** 2026-10-08T18:54:35Z
 
 ## Innhold
 
+Sats for:
 
 ## Særfradrag for enslige forsørgere
 
@@ -21,16 +22,24 @@ Reglene under gjelder til og med februar inntektsåret 2023 og tidligere år:
 
 Fradraget gjelder deg som mottar utvidet barnetrygd for barn under 18 år som du forsørger. Du regnes som enslig forsørger hvis du er ugift, skilt, separert, enke/enkemann, eller ikke hatt samboer i minst ett år.
 
-Fradraget skal være forhåndsutfylt i skattemeldingen. Du skal
+Fradraget skal være forhåndsutfylt i skattemeldingen. Du skal ikke selv endre beløpet.
 
 Særfradraget regnes ut av Skatteetaten på bakgrunn av opplysninger fra NAV om hvor mange måneder i løpet av året du har fått utvidet barnetrygd. Ved deling av utvidet barnetrygd fra NAV på grunn av avtale om delt bosted for barnet/barna, får du særfradrag med halv månedssats.
 
 En intern avtale mellom foreldre om deling av særfradraget i tilfeller der utvidet barnetrygd utbetales kun til den ene, fører ikke til at vi deler særfradraget ved skatteberegningen. Særfradrag med halv sats forutsetter at utvidet barnetrygd er delt.
 
+### Hvis fradraget er feil eller ikke står i skattemeldingen
+
 Mangler særfradraget i skattemeldingen eller beløpet er feil, og vedtaket er fattet med tilbakevirkende kraft for tidligere år, behøver du ikke foreta deg noe da dette automatisk vil bli rettet. Skyldes mangelen eller feilen andre forhold, må du henvende deg til NAV og be dem rette og sende korrigerte opplysninger til Skatteetaten. Dersom du har en kombinasjon av delt og fullt utvidet barnetrygd for ett eller flere barn, registrerer NAV dette kun som delt særfradrag. Da må du kontakte NAV og be om få tilsendt vedtaket, som du deretter sender som vedlegg til skattemeldingen.
 
-Les mer om
+Les mer om [særfradraget for enslige forsørgere.](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/familie-og-helse/barn/sarfradrag-for-enslige-forsorgere/)
 
+Velg år 20232022202120202019201820172016201520142013
+
+| Fullt fradrag er på |  |
+| --- | --- |
+| Per år (kun januar og februar 2023) | 8 746 kroner |
+| Per måned | 4 373 kroner |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/sarfradrag-for-enslige-forsorgere/) av norges-lover-bot.*
@@ -38,3 +47,4 @@ Les mer om
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

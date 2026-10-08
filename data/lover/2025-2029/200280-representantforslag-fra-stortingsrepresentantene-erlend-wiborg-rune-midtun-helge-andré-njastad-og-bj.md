@@ -1,4 +1,4 @@
-<!-- innholds-hash: f5b4d316dee054cf36a97f8528b3766cb10c042c6ef0da22edd62ea36cf6cdfa -->
+<!-- innholds-hash: 0c2c41256293e18abcfc650e3d6ebd8202bd222db41f80f76699964149bd2d3c -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-08T17:23:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200280
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -117,15 +117,15 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Busch",
-      "foedselsdato": "/Date(574383600000+0100)/",
-      "fornavn": "Isak Veierud",
-      "id": "ISABUS",
+      "etternavn": "Nygård",
+      "foedselsdato": "/Date(94777200000+0100)/",
+      "fornavn": "Jon-Ivar",
+      "id": "JONN",
       "kjoenn": 2,
       "fylke": {
         "historisk_fylke": false,
-        "id": "ST",
-        "navn": "Sør-Trøndelag"
+        "id": "Øs",
+        "navn": "Østfold"
       },
       "parti": {
         "id": "A",
@@ -147,3 +147,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e63f2fc4d3bacab0df61b38598c17760e01cf4aca267ba6b0e6501c15faf9d9 -->
+<!-- innholds-hash: be87fbb018865f543536395be3b7fbaaf052fae59f98a7a5503e884760a9c2b0 -->
 
 # Tobakksavgift
 
@@ -6,47 +6,27 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/tobakk/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T14:37:09Z
+- **Sist oppdatert i arkivet:** 2026-10-08T19:09:35Z
 
 ## Innhold
 
+Sats for:
 
 ## Tobakksavgift
 
-Her finner du gjeldende og tidligere satser for
+Her finner du gjeldende og tidligere satser for [tobakksavgiften](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/tobakk/).
 
-Sigaretter
+Velg år 202620252024202320222021202020192018
 
-3,31 kr per stk
-
-Sigarer og røyketobakk
-
-3,31 kr per gram av pakningens nettovekt
-
-Tobakk til oppvarming
-
-3,31 kr per gram av pakningens nettovekt
-
-Snus
-
-1,02 kr per gram av pakningens nettovekt
-
-Skråtobakk
-
-1,35 kr per gram av pakningens nettovekt
-
-Sigarettpapir og sigaretthylser
-
-0,0507 kr per stk
-
-E-væske med nikotin
-
-5,38 kr per milliliter
-
-Andre nikotinvarer
-
-0,5079 kr per gram av pakningens nettovekt
-
+| Sigaretter | 3,31 kr per stk |
+| --- | --- |
+| Sigarer og røyketobakk | 3,31 kr per gram av pakningens nettovekt |
+| Tobakk til oppvarming | 3,31 kr per gram av pakningens nettovekt |
+| Snus | 1,02 kr per gram av pakningens nettovekt |
+| Skråtobakk | 1,35 kr per gram av pakningens nettovekt |
+| Sigarettpapir og sigaretthylser | 0,0507 kr per stk |
+| E-væske med nikotin | 5,38 kr per milliliter |
+| Andre nikotinvarer | 0,5079 kr per gram av pakningens nettovekt |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/tobakk/) av norges-lover-bot.*
@@ -54,3 +34,4 @@ Andre nikotinvarer
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

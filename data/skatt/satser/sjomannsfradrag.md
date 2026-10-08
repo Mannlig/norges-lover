@@ -1,4 +1,4 @@
-<!-- innholds-hash: 63118794527ebf37ae1f1260dc1464d47e9d138205db38d829415ec94cd7a9ab -->
+<!-- innholds-hash: cea6e6e36d45618860329a6c85f24a80b9d5a8c8f3ddebe2d8638b6a2e3af5f5 -->
 
 # Særskilt fradrag for sjøfolk
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/sjomannsfradrag/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T14:30:31Z
+- **Sist oppdatert i arkivet:** 2026-10-08T18:59:57Z
 
 ## Innhold
 
+Sats for:
 
 ## Særskilt fradrag for sjøfolk
 
@@ -19,6 +20,13 @@ Fradraget vil innrapporteres av arbeidsgiver dersom kravet på minimum 130 dager
 
 Du fører fradraget i skattemeldingen. Du må kunne dokumentere antall dager dersom vi ber om det.
 
+Velg år 20262025202420232022202120202019201820172016201520142013201220112010200920082007
+
+### Sjømannsfradraget
+
+| Sats | 30 prosent |
+| --- | --- |
+| Øvre grense | 86 300 kroner |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/sjomannsfradrag/) av norges-lover-bot.*
@@ -26,3 +34,4 @@ Du fører fradraget i skattemeldingen. Du må kunne dokumentere antall dager der
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)
