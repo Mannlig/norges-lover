@@ -1,4 +1,4 @@
-<!-- innholds-hash: 792ebed9abe2a3ff1e9b0f105724a0cdf4d94c1afb3c5853dec06713b7f650a4 -->
+<!-- innholds-hash: c7360ca6925d96cc39d89113df8364a32013bae7744cebe21b46b797b55ccf93 -->
 
 # Bilpriser - Historiske bruktbilpriser
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/historiske-bruktbilpriser/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:55:25Z
+- **Sist oppdatert i arkivet:** 2026-10-08T10:05:07Z
 
 ## Innhold
 
+Sats
 
 ## Bilpriser - Historiske bruktbilpriser
 
@@ -21,8 +22,36 @@ Ved bruktimport beregnes alternativt bruksfradrag ved å sammenholde historisk n
 
 Prisene under skal kun benyttes for å finne historisk bruktbilpris ved alternativ beregning av bruksfradrag for bruktimporterte kjøretøy i en søknad om refusjon av engangsavgift ved eksport.
 
-- Trykk på årstallet bilen er produsert
-- Finn bilen i listen
+### Finn bil
+
+1. Trykk på årstallet bilen er produsert
+2. Finn bilen i listen
+
+Tips: For raskere å finne bilmerke kan du trykke på CTRL og F for å søke etter din modell. Du kan ikke søke etter bilmerke. Eksempel: søker du etter en Toyota Aygo kan du søke Aygo for å finne bilen i listen. Vær oppmerksom på at søk kan ta noe tid, siden filene er store.
+
+[BOL 2025 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/502093-bol_2025_11_november.pdf) (PDF)
+
+[BOL 2024 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2024_november.pdf) (PDF)
+
+[BOL 2023 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2023_11_november.pdf) (PDF)
+
+[BOL 2022 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2022_11_november.pdf) (PDF)
+
+[BOL 2021 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2021_11_november.pdf) (PDF)
+
+[BOL 2020 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2020_11_november.pdf) (PDF)
+
+[BOL 2019 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2019_11_november.pdf) (PDF)
+
+[BOL 2018 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2018_11_november.pdf) (PDF)
+
+[BOL 2017 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2017_11_november.pdf) (PDF)
+
+[BOL 2016 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2016_11_november.pdf) (PDF)
+
+[BOL 2015 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2015_11_november.pdf) (PDF)
+
+[BOL 2014 november](https://www.skatteetaten.no/contentassets/66e7124922fc470c8addc2f2458da065/bol_2014_11_november.pdf) (PDF)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/historiske-bruktbilpriser/) av norges-lover-bot.*
@@ -30,3 +59,4 @@ Prisene under skal kun benyttes for å finne historisk bruktbilpris ved alternat
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

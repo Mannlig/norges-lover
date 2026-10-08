@@ -1,18 +1,19 @@
-<!-- innholds-hash: e49fa1dd4da7ffba8bddacef170be828960c7fa65cce347f79b6bbd298b651d9 -->
+<!-- innholds-hash: 393a66cc8bd81431ee975ba079512544cc7b5c03ce7236d31caf3a244677d7fb -->
 
 # Internrevisjonens rapport: Kartlegging av fakta i EØS-saken - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/internrevisjonens-rapport-kartlegging-av-fakta-i-eos-saken
-- **Sist hentet:** 2026-06-18T01:59:11Z
+- **Sist oppdatert i arkivet:** 2026-10-08T12:48:09Z
 
 ## Innhold
 
+Publisert 12.12.2019 | Oppdatert 14.03.2025
 
 ## Internrevisjonens rapport: Kartlegging av fakta i EØS-saken
 
-Internrevisjonen i Nav har kartlagt hva som skjedde i Nav i forbindelse med at EØS-forordningen ble vedtatt og trådte i kraft i Norge i 2012, hva som skjedde etter at Trygderetten avsa kjennelser som gikk imot Navs tolkning av regelverket høsten 2017, og frem til at praksis ble endret høsten 2019.
+Internrevisjonen i Nav har kartlagt hva som skjedde i Nav i forbindelse med at EØS-forordningen ble vedtatt og trådte i kraft i Norge i 2012, hva som skjedde etter at Trygderetten avsa kjennelser som gikk imot Navs tolkning av regelverket høsten 2017, og frem til at praksis ble endret høsten 2019.
 
 Torsdag 12. desember 2019 presenterte Navs internrevisjon sin rapport om Navs feiltolkning av EØS-regelverket.
 
@@ -22,8 +23,7 @@ a) Hva skjedde i Nav i forbindelse med at forordningen ble vedtatt, og trådte i
 
 b) Hva skjedde i Nav etter at Trygderetten avsa kjennelser som gikk imot Navs tolkning av regelverket høsten 2017, og frem til at praksis ble endret høsten 2019?
 
-Les rapporten her:
-
+Les rapporten her: [Kartlegging av fakta i EØS-saken (pdf)](https://www.nav.no/_/attachment/download/a2294ca2-348b-49f4-9e15-42544aef1541:809c3790c76e4da1d66fe60c82262dee952ba99c/E%C3%98S-Saken%20Internrevisjons%20rapport.pdf).
 
 #### Her følger en oppsummering av sentrale funn i internrevisjonens kartlegging:
 
@@ -53,7 +53,6 @@ Den 29. august konkluderer en tverrfaglig arbeidsgruppe i direktoratet med at de
 
 Aktuelle klage- og ankesaker blir stanset 18. desember 2018. Behandling av aktuelle feilutbetalingssaker blir stanset 14. mars 2019. Siste anmeldelse blir sendt 23. april 2019. 16. september dømmes siste person på bakgrunn av rettsanvendelsesfeilen.
 
-
 #### Sentrale observasjoner for perioden 2017–2019
 
 Direktoratet er avhengig av avstemming med departementet før Nav kan endre praksis. I tillegg tar den interne prosessen i direktoratet også lang tid. Årsaken kan være at det er lite kontinuitet i arbeidet da flere ulike personer er koblet på saken til ulike tidspunkter grunnet lite kapasitet i Ytelsesavdelingen. For mange aktiviteter «konkurrerer» om oppmerksomheten, og det arbeides ikke dyptgående og konsentrert med saken. De fleste involverte medarbeidere har hatt andre krevende arbeidsoppgaver som ble oppfattet som mer presserende våren 2019.
@@ -66,20 +65,19 @@ Om Ytelsesavdelingen på et tidligere tidspunkt hadde erkjent at det var rettanv
 
 Kommunikasjonen internt i Nav har vært dårlig i denne saken. Saken har også avdekket svakheter i risikostyringen i Ytelsesavdelingen.
 
-
 #### Kort om Terje Klepp
 
 Terje Klepp har vært revisjonsdirektør i Nav siden august 2016. Terje har mer enn 35 års erfaring fra revisjonsbransjen, og har vært ansvarlig partner på nasjonale og internasjonale revisjonsoppdrag – både i offentlig og privat sektor.
 
-
 #### Pressekontakt
 
-E-post:
+E-post: presse@nav.no.
 
 Navs pressevakt: 40 00 31 44 (mottar ikke sms).
 
-- Se
-- Se
+- Se [opptak av pressemøtet 12. desember](https://video.qbrick.com/play2/embed/qbrick-player?accountId=763558&mediaId=34d7f222-00015227-ee9d4242&configId=qbrick-player&pageStyling=adaptive&autoplay=false&repeat=false&sharing=false&download=true).
+- Se [pressemelding 12. desember](https://www.nav.no/no/person/innhold-til-person-forside/nyheter/internrevisjonen-i-nav-mangelfull-eos-kompetanse-og-darlig-kapasitet-bidro-til-feiltolkningen).
+- [Les mer om feiltolkning av EØS-reglene](https://www.nav.no/no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/internrevisjonens-rapport-kartlegging-av-fakta-i-eos-saken) av norges-lover-bot.*
@@ -87,3 +85,4 @@ Navs pressevakt: 40 00 31 44 (mottar ikke sms).
 ## Endringshistorikk
 
 - **2026-06-18** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

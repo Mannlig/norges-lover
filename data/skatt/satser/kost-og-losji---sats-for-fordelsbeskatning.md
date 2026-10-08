@@ -1,4 +1,4 @@
-<!-- innholds-hash: 996fbb5fc126c3f51f081fd5f371581026f0cfbf881da674d2af467f7513b938 -->
+<!-- innholds-hash: cf4ebaf44a80c3b1b573211aa0e7728089499cbbcf3af6f3169153de602d1794 -->
 
 # Kost og losji - satser for fordelsbeskatning av fri kost og/eller losji i arbeidsforhold
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/kost-og-losji---sats-for-fordelsbeskatning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:59:58Z
+- **Sist oppdatert i arkivet:** 2026-10-08T10:11:29Z
 
 ## Innhold
 
+Sats for:
 
 ## Kost og losji - satser for fordelsbeskatning av fri kost og/eller losji i arbeidsforhold
 
@@ -19,8 +20,17 @@ Satsen for fritt losji brukes der arbeidstaker bor i ett rom alene eller sammen 
 
 Det skal bare regnes med det antall dager som arbeidstakeren faktisk mottar slike ytelser.
 
+Velg år 20262025202420232022202120202019201820172016201520142013201220112010200920082007
+
 Satser for trekkpliktige naturalytelser med videre.
 
+| Fri kost og losji | Satser per døgn |
+| --- | --- |
+| Fritt opphold - kost og losji | 151 kroner |
+| Fri kost - alle måltid | 107 kroner |
+| Fri kost - to måltid | 83 kroner |
+| Fri kost - ett måltid | 55 kroner |
+| Fritt losji - ett eller delt rom | 44 kroner |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/kost-og-losji---sats-for-fordelsbeskatning/) av norges-lover-bot.*
@@ -28,3 +38,4 @@ Satser for trekkpliktige naturalytelser med videre.
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

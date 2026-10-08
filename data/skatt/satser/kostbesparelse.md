@@ -1,4 +1,4 @@
-<!-- innholds-hash: d0f1f95e8852c4284a3868a6dc7bf0ca0351e4c92feec9b706fec3b57277a843 -->
+<!-- innholds-hash: d6d1583bdcfe7accc7135d3e5466965cbb5e2fb91bfb6698fd25962bf3bde101 -->
 
 # Kost og losji – sats for kostbesparelse
 
@@ -6,10 +6,11 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/kostbesparelse/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T14:03:02Z
+- **Sist oppdatert i arkivet:** 2026-10-08T10:15:46Z
 
 ## Innhold
 
+Sats for:
 
 ## Kost og losji – sats for kostbesparelse
 
@@ -27,24 +28,33 @@ Skifter du kommune for både arbeidssted og pendlerbolig, kan fradrag gis i en n
 
 Kari jobber i Trondheim og bor i Oslo med sin familie. Hun begynte å jobbe i Trondheim 01.01.2019 og hun krevde fradrag for husleie (losji) for sin pendlerbolig i Trondheim i skattemeldingen for 2019 og 2020.
 
+#### 24-månedersperioden utløp 31.12.2020
+
 Kari kan ikke føre fradrag for sine utgifter til losji i skattemeldingen for 2021 eller senere, fordi 24-månedersperioden utløp 31.12.2020.
+
+#### Ny jobb
 
 Den 01.01.2023 fikk Kari jobb i Ålesund, hvor hun får seg en ny pendlerbolig. Fordi hun har byttet både arbeidssted og pendlerbolig til en ny kommune, kan hun i skattemeldingen for 2023 igjen kreve fradrag for husleie (losji).
 
-Har du
+Har du fri kost eller får kost dekket etter regning ved pendleropphold utenfor hjemmet skal det gjøres et tillegg i inntekt for kostbesparelse tilsvarende satsen nedenfor.
 
-Krever du
+Krever du fradrag for kost etter faktiske utgifter ved pendleropphold utenfor hjemmet, trekkes det fra et beløp per døgn (tilsvarende satsen nedenfor) for kostbesparelse fordi du har mindre utgifter til mat hjemme.
+
+Merk: Pendlere har som hovedregel ikke krav på fradrag for kostutgifter i pendlerbolig med kokemuligheter, eller utover 24 måneder for pendlerboliger uten kokemuligheter.
 
 Fra inntektsåret 2023 har du allikevel rett på fradrag for kost hvis du bor på pensjonat eller brakke, selv om det er mulig å tilberede mat på overnattingsstedet.
 
 Fra inntektsåret 2025 er det også unntak fra 24-månedersregelen for brakker. Det vil si at hvis pendlerboligen din er en brakke, kan du få fradrag for kost lenger enn 24 måneder.
 
-Er kost på yrkes-/tjenestereise dekket
+Er kost på yrkes-/tjenestereise dekket etter regning eller som fri kost, skal det ikke gjøres tillegg for kostbesparelsen. Det samme gjelder når kost er dekket etter Skattedirektoratets satser for skattefri kostgodtgjørelse da kostbesparelse er tatt hensyn til i satsene.
 
 Krever du fradrag for kost etter faktiske utgifter ved yrkes-/tjenestereiser med overnatting, skal fradraget ikke reduseres med en sats for kostbesparelse.
 
-Sats for kostbesparelse: 107 kroner per døgn.
+Merk: Satsen for kostbesparelse gjelder ikke ved yrkesreise, bare for pendlerreise.
 
+Velg år 2026202520242023202220212020201920182017
+
+Sats for kostbesparelse: 107 kroner per døgn.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/kostbesparelse/) av norges-lover-bot.*
@@ -52,3 +62,4 @@ Sats for kostbesparelse: 107 kroner per døgn.
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)

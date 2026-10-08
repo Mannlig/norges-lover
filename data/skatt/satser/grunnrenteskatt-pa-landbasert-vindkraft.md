@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce8f2df7276a7d54067315cd61b24db8343ee1b9c5424db8cbcec8708b8d8865 -->
+<!-- innholds-hash: 9c9ee79f73aae385a56bbc6f6511a166e34bfa6e3fb77642bbefc05287eb1d66 -->
 
 # Grunnrenteskatt på landbasert vindkraft
 
@@ -6,21 +6,18 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/grunnrenteskatt-pa-landbasert-vindkraft/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-11T13:53:59Z
+- **Sist oppdatert i arkivet:** 2026-10-08T10:03:02Z
 
 ## Innhold
 
+Sats for:
 
 ## Grunnrenteskatt på landbasert vindkraft
 
-Rente ved skattlegging av vindkraftanlegg.
+Velg år 2025
 
-Renten brukes til:
-
-- beregning av fradrag for skattemessige verdier av driftsmidler knyttet til vindkraftproduksjonen pr. 1. januar og 31. desember i inntektsåret (venterente)
-- fremføring av negativ grunnrenteinntekt i vindkraftforetak
-- tilbakeføring av negativ grunnrenteinntekt ved realisasjon av vindkraftanlegg
-- fremføring av overskytende avgift på landbasert vindkraft
+| Rente ved skattlegging av vindkraftanlegg. Renten brukes til: | 3,1 prosent |
+| --- | --- |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/grunnrenteskatt-pa-landbasert-vindkraft/) av norges-lover-bot.*
@@ -28,3 +25,4 @@ Renten brukes til:
 ## Endringshistorikk
 
 - **2026-05-11** Første gang hentet
+- **2026-10-08** Innhold endret (se git-historikk for diff)
