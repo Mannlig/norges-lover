@@ -28,7 +28,8 @@ class HusbankScraper(NettstedScraper):
         "https://www.husbanken.no/regelverk/",
     ]
     ekskluder = re.compile(
-        r"/(om-husbanken|presse|nyheter|aktuelt|kontakt|arrangementer|kurs|"
+        r"/(om-husbanken|presse|nyheter|aktuelt|aktuelt-presse|nyhetsbrev|kontakt|"
+        r"arrangement|arrangementer|kurs|"
         r"statistikk|ansatte|jobb|ledige-stillinger|personvern|cookies)(/|$)",
         re.IGNORECASE,
     )

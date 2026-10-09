@@ -119,6 +119,20 @@ class Nettsted(unittest.TestCase):
         h = HusbankScraper()
         self.assertTrue(h.er_relevant(h.normaliser("/person/bostotte/?redirect=/bostotte/")))
         self.assertFalse(h.er_relevant("https://www.husbanken.no/om-husbanken/ledelse/"))
+        self.assertFalse(h.er_relevant("https://www.husbanken.no/aktuelt-presse/nyhetsbrev/"))
+        self.assertFalse(h.er_relevant("https://www.husbanken.no/arrangement/"))
+
+    def test_nyeste_skatte_abc_foran_eldre(self):
+        s = SkatteetatenScraper()
+        år = datetime.now(timezone.utc).year
+        abc = "rettskilder/type/handboker/skatte-abc"
+        s._state = {"kø": {
+            f"{abc}/{år - 2}/a": {"url": "u", "hentet": False},
+            f"{abc}/{år - 1}/a": {"url": "u", "hentet": False},
+            "satser/trinnskatt": {"url": "u", "hentet": False},
+        }}
+        self.assertEqual([k for k, _ in s._velg_fra_ko(3)],
+                         ["satser/trinnskatt", f"{abc}/{år - 1}/a", f"{abc}/{år - 2}/a"])
 
     def test_skatte_abc_tidligere_aar_fryses(self):
         s = SkatteetatenScraper()

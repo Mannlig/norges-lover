@@ -82,6 +82,15 @@ class SkatteetatenScraper(NettstedScraper):
     def hub_urler(self) -> list[str]:
         return self.startpunkter + skatte_abc_kandidater()
 
+    def prioritet(self, nøkkel: str) -> int:
+        # Vanlige sider (satser, fradrag, veiledere) først, deretter Skatte-ABC
+        # med nyeste utgave først – den gjelder for neste skattemelding.
+        m = _SKATTE_ABC_ÅR.match(nøkkel)
+        if not m:
+            return 0
+        utgave = int(m.group(2) or m.group(1))
+        return 10 + max(0, datetime.now(timezone.utc).year - utgave)
+
     def gjenbesøk_dager(self, nøkkel: str) -> int | None:
         # Skatte-ABC for tidligere år endres ikke – hent én gang, aldri på nytt.
         # Den frosne 2023-utgaven brukte tidligere ~6 av 7 dagers kvote.

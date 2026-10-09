@@ -246,11 +246,17 @@ class NettstedScraper(BaseScraper):
         self._lagre_state()
         logger.info("Hub-crawl ferdig: %d nye URL-er i kø (totalt %d)", nye, len(kø))
 
+    def prioritet(self, nøkkel: str) -> int:
+        """Lavere hentes først blant nye sider. Overstyres per kilde."""
+        return 0
+
     def _velg_fra_ko(self, max_pages: int) -> list[tuple[str, dict]]:
-        """Aldri hentede sider først, deretter de som er sjekket for lengst siden."""
+        """Aldri hentede sider først (etter prioritet), deretter de som er sjekket for lengst siden."""
         kø = self._state.get("kø", {})
         venter = [(k, v) for k, v in kø.items() if not v.get("hentet")]
-        nye = [kv for kv in venter if not kv[1].get("sist_hentet")]
+        # sorted() er stabil, så oppdagelsesrekkefølgen gjelder innen samme prioritet
+        nye = sorted((kv for kv in venter if not kv[1].get("sist_hentet")),
+                     key=lambda kv: self.prioritet(kv[0]))
         gamle = sorted((kv for kv in venter if kv[1].get("sist_hentet")),
                        key=lambda kv: kv[1]["sist_hentet"])
         antall_nye = min(len(nye), max(int(max_pages * ANDEL_NYE), max_pages - len(gamle)))
