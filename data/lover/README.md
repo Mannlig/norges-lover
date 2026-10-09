@@ -1880,7 +1880,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Statsbudsjett 2027](2025-2029/200446-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200447-statsbudsjett-2027.md)
 - [Anmodnings- og utredningsvedtak  i stortingssesjonen 2025–2026](2025-2029/200448-anmodnings-og-utredningsvedtak-i-stortingssesjonen-20252026.md)
-- [Finansinnstillingen – nasjonalbudsjettet og statsbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
+- [Nasjonalbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
 - [Skatter og avgifter 2027](2025-2029/200450-skatter-og-avgifter-2027.md)
 - [Statsbudsjett 2027](2025-2029/200451-statsbudsjett-2027.md)
 - [Skatter og avgifter 2027 – lovsaker](2025-2029/200452-skatter-og-avgifter-2027-lovsaker.md)
