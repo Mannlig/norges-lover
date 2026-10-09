@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1884
+**Antall dokumenter:** 1887
 
 ## Innhold
 
@@ -1846,6 +1846,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Valg av nytt medlem til Stortingets ombudsnemnd for Forsvaret](2025-2029/200407-valg-av-nytt-medlem-til-stortingets-ombudsnemnd-for-forsvaret.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](2025-2029/200409-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
 - [Suppleringsvalg til internasjonale delegasjoner](2025-2029/200410-suppleringsvalg-til-internasjonale-delegasjoner.md)
+- [Saker som Stortinget ikke har behandlet i sesjonen 2025-2026](2025-2029/200413-saker-som-stortinget-ikke-har-behandlet-i-sesjonen-2025-2026.md)
 - [Hans Majestet Kongens tale til det 171. storting ved dets åpning og melding om Noregs rikes tilstand og styring (trontaledebatt)](2025-2029/200414-hans-majestet-kongens-tale-til-det-171-storting-ved-dets-apning-og-melding-om-noregs-rikes-tilstand-.md)
 - [Finansministerens redegjørelse om regjeringens forslag til statsbudsjett og om nasjonalbudsjettet for 2027](2025-2029/200415-finansministerens-redegjorelse-om-regjeringens-forslag-til-statsbudsjett-og-om-nasjonalbudsjettet-fo.md)
 - [Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning](2025-2029/200416-innberetning-fra-valgkomiteen-om-endringer-i-de-faste-komiteers-sammensetning.md)
@@ -1890,6 +1891,8 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Per-Willy Amundsen om stemmerett ved kommune- og fylkestingsvalg](2025-2029/200456-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-helge-andré-njastad-rune-midtun-bjorn.md)
 - [Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater](2025-2029/200457-redegjorelse-av-statsministeren-om-regjeringens-skolepolitikk-og-tiltak-for-a-snu-utviklingen-i-skol.md)
 - [Statsrådets protokoller for tidsrommet 1. januar-30. juni 2026](2025-2029/200458-statsradets-protokoller-for-tidsrommet-1-januar-30-juni-2026.md)
+- [Forelegg for Stortinget av overenskomster inngått med fremmede stater eller internasjonale organisasjoner i 2023](2025-2029/200459-forelegg-for-stortinget-av-overenskomster-inngatt-med-fremmede-stater-eller-internasjonale-organisas.md)
+- [Den Norske Nobelkomité meddeler at Nobels fredspris for 2026 er tildelt Navanethem «Navi» Pillay](2025-2029/200460-den-norske-nobelkomité-meddeler-at-nobels-fredspris-for-2026-er-tildelt-navanethem-navi-pillay.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
