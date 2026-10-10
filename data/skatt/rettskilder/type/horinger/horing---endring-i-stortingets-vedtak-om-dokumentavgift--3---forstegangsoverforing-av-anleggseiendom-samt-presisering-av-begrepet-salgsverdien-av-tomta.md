@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3b51db0c231ca56880928571a8315ba8f4cbd86cc5793593bfb7d511e11d9f0a -->
+<!-- innholds-hash: 0ce8f556ea8448f532b62a7659d7db6e4c3f498dbea22565a22137a61a687594 -->
 
 # Høring - endring i Stortingets vedtak om dokumentavgift § 3 - førstegangsoverføring av anleggseiendom
 
@@ -6,15 +6,17 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/horinger/horing---endring-i-stortingets-vedtak-om-dokumentavgift--3---forstegangsoverforing-av-anleggseiendom-samt-presisering-av-begrepet-salgsverdien-av-tomta/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:43:49Z
+- **Sist oppdatert i arkivet:** 2026-10-10T19:07:53Z
 
 ## Innhold
 
+Høring
 
 ## Høring - endring i Stortingets vedtak om dokumentavgift § 3 - førstegangsoverføring av anleggseiendom
 
-- Publisert:
-- Avgitt
+- Publisert: 08.05.2024
+- Avgitt 08.05.2024
+
 Høringen gjelder forslag om endring i Stortingets vedtak om dokumentavgift (stortingsvedtaket) § 3, samt forslag om at det i lov 12. desember 1975 nr. 59 om dokumentavgift (dokumentavgiftsloven) § 7 inntas en presisering av begrepet "salgsverdien av tomta".
 
 På vegne av Finansdepartementet sender Skattedirektoratet på høring forslag til endring i Stortingets vedtak om dokumentavgift og dokumentavgiftsloven.
@@ -33,8 +35,47 @@ Skattedirektoratet
 
 Juridisk avdeling - Særavgiftsgruppen
 
-Domstoladministrasjonen
+### Høringsdokumenter
 
+[Høringsbrev](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-5-horingsbrev-.pdf)
+
+[Høringsnotat](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-5-horingsnotat.pdf)
+
+[Høringsliste](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-5-horingsliste.pdf)
+
+### Høringssvar
+
+#### Med merknad
+
+[Advokatforeningen](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-advokatforeningen.pdf)
+
+[Boligprodusentene](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-boligprodusentene.pdf)
+
+[Brauten Eiendom](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-5-brauten-eiendom.pdf)
+
+[Eiendom Norge](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-eiendom-norge.pdf)
+
+[Eiendomsmegler1 Midt-Norge](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-eiendomsmegler1-midt-norge.pdf)
+
+[Norges Eiendomsmeglerforbund](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-norges-eiendomsmeglerforbund.pdf)
+
+[Norsk Eiendom](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-norsk-eiendom.pdf)
+
+[Norske Boligbyggelags Landsforbund](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-norske-boligbyggelags-landsforbund.pdf)
+
+[Næringslivets Hovedorganisasjon](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-naringslivets-hovedorganisasjon.pdf)
+
+[OBOS](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-obos.pdf)
+
+[Regelrådet](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-7-regelradet.pdf)
+
+[Skanska](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-skanska.pdf)
+
+[Statens kartverk](https://www.skatteetaten.no/contentassets/cf548252131a4412aecfef2339644816/2024-8-statens-kartverk.pdf)
+
+#### Uten merknad
+
+Domstoladministrasjonen Statistisk sentralbyrå Justis- og beredskapsdepartementet
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/horinger/horing---endring-i-stortingets-vedtak-om-dokumentavgift--3---forstegangsoverforing-av-anleggseiendom-samt-presisering-av-begrepet-salgsverdien-av-tomta/) av norges-lover-bot.*
@@ -42,3 +83,4 @@ Domstoladministrasjonen
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)
