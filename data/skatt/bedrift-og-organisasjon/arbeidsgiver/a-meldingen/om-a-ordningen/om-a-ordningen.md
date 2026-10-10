@@ -1,4 +1,4 @@
-<!-- innholds-hash: 226281e4f7c2067ed27f14bf093f722206accc4c97bb04a64a3ea0b2a90424fd -->
+<!-- innholds-hash: ebe554af6163f1d256d31d4ab4fbcce4b70f5338c16dd65a6977cbb2ec78b7b5 -->
 
 # Om a-ordningen
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/om-a-ordningen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:57:30Z
+- **Sist oppdatert i arkivet:** 2026-10-10T04:24:19Z
 
 ## Innhold
-
 
 ## Om a-ordningen
 
@@ -19,25 +18,42 @@ Ordningen er digital. Opplysningene blir sendt elektronisk, enten via arbeidsgiv
 
 A-ordningen trådte i kraft 1. januar 2015. Hensikten var å forenkle og samordne arbeidsgivers rapportering ved å gå fra fem skjemaer til én a-melding.
 
+[Her kan du lese siste nyheter fra a-ordningen](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/)
+
+### Hvilke opplysninger kommer i a-ordningen
+
 Arbeidsgiver oppgir inntekt, arbeidsforhold, forskuddstrekk og utleggstrekk til sine ansatte, samt arbeidsgiveravgift og finansskatt til virksomheten.
 
 Opplysningene rapporteres minst én gang i måneden.
+
+### Hva brukes opplysningene til
+
+NAV bruker opplysningene blant annet i saksbehandlingen av
 
 - sykepenger
 - foreldrepenger
 - uføretrygd
 - dagpenger
 - og til kontroll av de fleste andre ytelser som administreres av NAV
+
+Skatteetaten bruker opplysningene blant annet til
+
 - skattemeldingen (selvangivelsen)
 - skatteoppgjøret
 - skattekort
 - å kreve inn og kontrollere arbeidsgiveravgift, finansskatt, forskuddstrekk og utleggstrekk
+
+Statistisk sentralbyrå (SSB) bruker opplysningene blant annet til
+
 - lønnsstatistikken
 - sysselsettingsstatistikken
 - sykefraværsstatistikken
+
 Opplysninger om arbeidsforhold legges i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret).
 
-Dette registeret blir brukt av NAV og Skatteetaten, i tillegg til blant annet  Arbeidstilsynet, Politi- og lensmannsetaten, Finanstilsynet, Helsedirektoratet og Forsvaret.
+Dette registeret blir brukt av NAV og Skatteetaten, i tillegg til blant annet Arbeidstilsynet, Politi- og lensmannsetaten, Finanstilsynet, Helsedirektoratet og Forsvaret.
+
+### Opplysningene blir gjenbrukt av andre
 
 NAV, Statistisk sentralbyrå og Skatteetaten distribuerer bare opplysningene videre til private og offentlige aktører som etter samtykke eller hjemmel i lov kan motta dem.
 
@@ -52,6 +68,9 @@ Her er noen eksempler:
 - Garantikassen for fiskere
 - Pensjonsselskaper
 - Banker (ved søknad om lån)
+
+### Tall og fakta
+
 I a-ordningen gir hvert år 260 000 arbeidsgivere opplysninger om 4,6 millioner ansatte og pensjonister.
 
 Hver måned blir det rapportert:
@@ -60,8 +79,12 @@ Hver måned blir det rapportert:
 - 50 milliarder kroner forskuddstrekk
 - 16 milliarder kroner arbeidsgiveravgift
 - 150 millioner kroner finansskatt på lønn
+
 90 prosent av arbeidsgiverne har et lønns- og personalsystem og sender a-meldingen fra systemet. Disse står for over 99 prosent av opplysningene som kommer i a-ordningen.
 
+### Aktuelt regelverk
+
+- [A-opplysningsloven](https://lovdata.no/dokument/NL/lov/2012-06-22-43)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/om-a-ordningen/) av norges-lover-bot.*
@@ -69,3 +92,4 @@ Hver måned blir det rapportert:
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)

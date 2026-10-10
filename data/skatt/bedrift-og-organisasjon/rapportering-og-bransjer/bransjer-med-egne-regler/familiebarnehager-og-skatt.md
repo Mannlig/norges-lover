@@ -1,4 +1,4 @@
-<!-- innholds-hash: 40eecf591d5b1cf6499b1ea22cbf2d18acd56d7955b4e772480d01c6a243a911 -->
+<!-- innholds-hash: 007e21a7b6833eb11cfb652c0bf4b4379f9cbefa26d7dd7ab2bf7982c5ec6bcc -->
 
 # Familiebarnehager og skatt
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/familiebarnehager-og-skatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:44:55Z
+- **Sist oppdatert i arkivet:** 2026-10-10T05:31:45Z
 
 ## Innhold
-
 
 ## Familiebarnehager og skatt
 
@@ -17,15 +16,20 @@ Her finner du informasjon for deg som driver eller har tenkt å drive familiebar
 
 En familiebarnehage er en barnehage der driften foregår i små grupper i private hjem. Det daglige arbeidet med barna utføres av familiebarnehageassistenten. Assistenten får veiledning og oppfølging av en barnehagelærer (førskolelærer), som også er pedagogisk leder for barnehagen. En familiebarnehage består vanligvis av to eller flere hjem. Hver assistent kan ha ansvar for inntil fem barn, avhengig av barnas alder. Kommunen har ansvaret for godkjenning og tilsyn med familiebarnehagene. Kommunen kan gi nærmere opplysninger.
 
-Selv om det i begge tilfeller dreier seg om pass og stell av barn, er det store ulikheter. Familiebarnehageordningen og hjemmet må godkjennes av kommunen, familiebarnehagen får pedagogisk veiledning og den mottar offentlige tilskudd. Privat dagmammavirksomhet i barnepassers hjem er ikke underlagt kommunal kontroll og mottar ikke offentlig driftsstøtte.
+Familiebarnehagene får offentlig driftstilskudd på linje med andre barnehager. I tillegg utgjør foreldrebetalingen en vesentlig del av inntektsgrunnlaget. Betalingen ligger vanligvis på samme nivå som prisen i ordinære private og kommunale barnehager. Det er viktig at du ikke forveksler familiebarnehagevirksomhet og privat dagmammavirksomhet.
 
-Foreldrenes egenbetaling for å ha barna i barnehagen. Betaler du selv for å ha dine egne barn i den barnehagen du driver, er også dette skattepliktig inntekt for barnehagen.
+Selv om det i begge tilfeller dreier seg om pass og stell av barn, er det store ulikheter. Familiebarnehageordningen og hjemmet må godkjennes av kommunen, familiebarnehagen får pedagogisk veiledning og den mottar offentlige tilskudd. Privat dagmammavirksomhet i barnepassers hjem er ikke underlagt kommunal kontroll og mottar ikke offentlig driftsstøtte. Finn ut mer om skattereglene for privat dagmammavirksomhet for foreldre, dagmammaer og praktikanter/au pair på våre sider om [betalt barnepass i private hjem](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/familie-og-helse/barn/betalt-barnepass/).
 
-Offentlige driftstilskudd.
+- Foreldrenes egenbetaling for å ha barna i barnehagen. Betaler du selv for å ha dine egne barn i den barnehagen du driver, er også dette skattepliktig inntekt for barnehagen.
+- Offentlige driftstilskudd.
+
+#### Fradragsregler
 
 Driver du familiebarnehage i ditt eget hjem, kan du velge om du vil kreve fradrag for faktiske driftskostnader som du må dokumentere (regnskapsbasert fastsetting) eller få et standardfradrag per barn i tillegg til fradrag for eventuelle personalkostnader som lønnskostnader, feriepenger og arbeidsgiveravgift.
 
-Driver du familiebarnehage i ditt eget hjem og passer barna selv, kan du få et sjablongmessig fradrag per barn til dekning av vanlige kostnader knyttet til barnepass i hjemmet. Standardfradraget skal dekke alle kostnader til mat, leker, utflukter, renhold, lys, oppvarming, slitasje på inventar og innbo i hjemmet m.m. Standardfradraget skal utgjøre 50 prosent av vederlaget for barnepass (foreldrebetaling + offentlig tilskudd), men kan ikke settes høyere enn
+#### Standardfradrag for kostnader til barnehagedriften (utenom lønnskostnad med videre)
+
+Driver du familiebarnehage i ditt eget hjem og passer barna selv, kan du få et sjablongmessig fradrag per barn til dekning av vanlige kostnader knyttet til barnepass i hjemmet. Standardfradraget skal dekke alle kostnader til mat, leker, utflukter, renhold, lys, oppvarming, slitasje på inventar og innbo i hjemmet m.m. Standardfradraget skal utgjøre 50 prosent av vederlaget for barnepass (foreldrebetaling + offentlig tilskudd), men kan ikke settes høyere enn [gjeldende sats per måned per barn.](https://www.skatteetaten.no/satser/barnepass---dagmammaer-som-passer-barn-i-eget-hjem/) Maksimalsatsen for standardfradrag tilsvarer satsen for kompensasjon for kost, slitasje med videre i særavtale mellom Kommunenes Sentralforbund og fagforeningene. Du får standardfradrag for alle barna i barnehagen, og også for ditt eget barn hvis du betaler det samme som de andre foreldrene for å ha barnet i barnehagen. Betalingen for egne barn må også føres opp som næringsinntekt for barnehagen.
 
 Du kan få standardfradrag selv om arbeidet med barna utføres av andre (en ansatt assistent) dersom du står for administrasjon, arbeidsgiveransvar osv. Du får derimot ikke standardfradrag hvis du ikke står for driften av barnehagen selv, men bare stiller hjemmet ditt til rådighet som lokale for barnepass (vertshjem).
 
@@ -33,7 +37,9 @@ Velger du standardfradrag per barn i stedet for fradrag for faktiske kostnader, 
 
 I tillegg til standardfradraget får du fradrag for kostnader til lønn og feriepenger til ansatt barnehageassistent og/eller barnehagelærer/førskolelærer og for arbeidsgiveravgift.
 
-Velger du å kreve fradrag for faktiske kostnader (regnskapsbasert fastsetting), må du føre regnskap etter bokføringsloven og ta vare på bilag for de kostnadene du har hatt til barnehagedriften. Du må fylle ut og levere næringsspesifikasjon sammen med skattemeldingen for næringsdrivende. Du finner skattemeldingen på Min side. Alternativt leverer du skattemelding via ditt regnskapsprogram.
+#### Fradrag for faktiske driftskostnader (Regnskapsbasert fastsetting)
+
+Velger du å kreve fradrag for faktiske kostnader (regnskapsbasert fastsetting), må du føre regnskap etter bokføringsloven og ta vare på bilag for de kostnadene du har hatt til barnehagedriften. Du må fylle ut og levere næringsspesifikasjon sammen med skattemeldingen for næringsdrivende. Du finner skattemeldingen på Min side. Alternativt leverer du skattemelding via ditt regnskapsprogram.
 
 Elektronisk levering av skattemeldingen for formues- og inntektsskatt for personlig næringsdrivende mv. er obligatorisk for alle næringsdrivende, også personlig næringsrivende. Skattemeldingen kan ikke leveres på papir og er ikke tilgjengelig for nedlasting.
 
@@ -47,48 +53,67 @@ Driver du familiebarnehage i egen bolig som er fritaksbehandlet (dvs. hvor event
 
 Har du kostnader knyttet til arealer som du bruker delvis privat og delvis i barnehagedriften, er det ingen fradragsrett for disse kostnadene i virksomhetens driftsregnskap. Du får ikke direkte fradrag for sikringstiltak i hjemmet eller på uteområde, selv om de er pålagte, f. eks røykvarsler eller hagegjerde. Det samme gjelder ved opparbeidelse av og vedlikehold av utearealer fordi slike kostnader er knyttet til boligeiendommen. Disse kostnadene kan imidlertid legges til boligens kostpris (aktiveres) hvis du senere selger boligen.
 
-Du kan kreve fradrag etter reglene om ”hjemmekontor” hvis kostnadene er knyttet til rom som utelukkende benyttes i barnehagevirksomheten, f.eks. utgifter til lys, oppvarming og renhold. I stedet for fradrag for de faktiske kostnadene knyttet til barnehagerommene, kan du kreve sjablongmessig fradrag med fast sats pr. år (se
+Du kan kreve fradrag etter reglene om ”hjemmekontor” hvis kostnadene er knyttet til rom som utelukkende benyttes i barnehagevirksomheten, f.eks. utgifter til lys, oppvarming og renhold. I stedet for fradrag for de faktiske kostnadene knyttet til barnehagerommene, kan du kreve sjablongmessig fradrag med fast sats pr. år (se [gjeldende sats)](https://www.skatteetaten.no/satser/barnepass---dagmammaer-som-passer-barn-i-eget-hjem/). Reglene om hjemmekontor gjelder ikke dersom barna får bruke mesteparten av boligen og du bruker rommene også privat. Du kan kreve forholdsmessig fradrag for kostnader som ikke gjelder spesielle deler av eiendommen, for eksempel ytre vedlikehold, forsikring og kommunale avgifter. Det forholdsmessige fradraget beregnes på bakgrunn av leieverdien ved barnehagedelen og boligdelen.
 
 Ved innkjøp av diverse utstyr og møbler er fradragsretten avhengig av om gjenstandene er skaffet hovedsakelig av hensyn til barnehagevirksomheten, for eksempel barnestol og stellebord. Er utstyret i primært skaffet for privat bruk, kan en eventuell ekstra slitasje ved bruk i barnehagen gi rett til skjønnsmessig fradrag.
 
 Kostnader til fast inventar som kjøkkeninnredning, garderobe, tepper og gardiner er ikke fradragsberettiget fordi dette anses som kostnader knyttet til boligen og ikke til driften.
 
-Du finner skattemeldingen med forhåndsutfylte opplysninger på Min side på skatteetaten.no. Alternativt leverer du skattemeldingen via ditt regnskapsprogram. Fristen for levering av skattemeldingen er fristen 31. mai i året etter inntektsåret.
+Du finner skattemeldingen med forhåndsutfylte opplysninger på Min side på skatteetaten.no. Alternativt leverer du skattemeldingen via ditt regnskapsprogram. Fristen for levering av skattemeldingen er fristen 31. mai i året etter inntektsåret.
+
+#### Minstefradrag
 
 Vanligvis kan bare lønnstakere kreve minstefradrag i arbeidsinntekt, mens selvstendig næringsdrivende ikke får tilsvarende minstefradrag i sin næringsinntekt. En selvstendig næringsdrivende som passer barn under 12 år i sitt eget hjem har likevel krav på minstefradrag i næringsinntekten. Dette gjelder også for deg som driver familiebarnehagevirksomhet i eget hjem. Du får minstefradrag enten du velger standardfradrag for barnepass eller fradrag for faktiske kostnader (regnskapsbasert fastsetting).
 
 Grunnlaget for beregning av minstefradraget er netto driftsinntekt fra familiebarnehagen, dvs. familiebarnehagens samlede inntekt fratrukket faktiske kostnader (etter regnskap) eller samlet inntekt etter fradrag for standardsats per barn og lønnskostnader.
 
-Som næringsdrivende må du føre regnskap etter bokføringsloven. Du må fylle ut næringsspesifikasjon som gjelder næringsdrivende med begrenset regnskapsplikt. Det gjelder også når du velger standardfradrag per barn. Næringsspesifikasjonen er en del av skattemeldingen for formues- og inntektsskatt - personlig næringsdrivende. Det betyr at du logger inn på skattemeldingen skatteetaten.no, eventuelt via ditt regnskapsprogram.
+#### Regnskapsplikt
+
+Som næringsdrivende må du føre regnskap etter bokføringsloven. Du må fylle ut næringsspesifikasjon som gjelder næringsdrivende med begrenset regnskapsplikt. Det gjelder også når du velger standardfradrag per barn. Næringsspesifikasjonen er en del av skattemeldingen for formues- og inntektsskatt - personlig næringsdrivende. Det betyr at du logger inn på skattemeldingen skatteetaten.no, eventuelt via ditt regnskapsprogram.
+
+#### Utfylling av næringsspesifikasjonen
 
 Du behøver bare å fylle ut noen få kort i næringsspesifikasjonen. Foreldrebetalingen for passet av barna fører du i post 3200. Offentlig tilskudd fører du i post 3400. Summen av disse to beløpene fører du i post 9900. Lønn og feriepenger fører du i post 5000. Arbeidsgiveravgiften fører du i post 5400. Standardfradraget fører du i post 7700. Summen av disse kostnadene fører du i post 9910. Du må i eget vedlegg til næringsoppgaven forklare at det gjelder standardfradrag for barnepass i eget hjem, og du må også skrive hvor mange barn og måneder det gjelder. Næringsinntekt vil bli overført til skattemeldingen.
 
-Familiebarnehage som har erverv som formål er skattepliktig organisasjon. I spesielle tilfeller der organisasjonen/institusjonen som driver familiebarnehagen ikke har som formål å gå med overskudd, men driver på ideelt grunnlag, kan den etter en konkret vurdering anses som skattefri organisasjon. Slike barnehager blir ikke skattepliktige for de inntektene de måtte ha knyttet til barnehagedriften. Les mer om
+#### Skattefri eller skattepliktig organisasjon
 
-For familiebarnehage som eies av privat organisasjon, foreldrelag e.l. må regnskapstallene legges til grunn ved fastsettingen av inntektsgrunnlaget hvis vilkårene for å bli behandlet som skattefri organisasjon ikke er til stede. Dette medfører at det gis fradrag for faktisk dokumenterte kostnader og at det ikke kan velges standardfradrag. Familiebarnehagen må føre regnskap etter bokføringsloven og ta vare på bilag for de kostnadene den har hatt. Barnehagen må levere
+Familiebarnehage som har erverv som formål er skattepliktig organisasjon. I spesielle tilfeller der organisasjonen/institusjonen som driver familiebarnehagen ikke har som formål å gå med overskudd, men driver på ideelt grunnlag, kan den etter en konkret vurdering anses som skattefri organisasjon. Slike barnehager blir ikke skattepliktige for de inntektene de måtte ha knyttet til barnehagedriften. Les mer om [skatt for ideelle organisasjoner](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/frivillige-og-ideelle-organisasjoner/skattefrie-organisasjoner/).
 
-Fristen for levering av
+#### Regnskapsbasert fastsetting
+
+For familiebarnehage som eies av privat organisasjon, foreldrelag e.l. må regnskapstallene legges til grunn ved fastsettingen av inntektsgrunnlaget hvis vilkårene for å bli behandlet som skattefri organisasjon ikke er til stede. Dette medfører at det gis fradrag for faktisk dokumenterte kostnader og at det ikke kan velges standardfradrag. Familiebarnehagen må føre regnskap etter bokføringsloven og ta vare på bilag for de kostnadene den har hatt. Barnehagen må levere næringsspesifikasjonen sammen med skattemelding for formues- og inntektsskatt - personlig næringsdrivende. Alternativt kan du levere skattemeldingen via ditt regnskapsprogram.
+
+Fristen for levering av [skattemeldingen](https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/) er 31. mai året etter inntektsåret.
+
+#### Fradrag for kostnader
 
 Familiebarnehagen får fradrag for alle kostnader som har sammenheng med driften, f.eks. lønnskostnader, feriepenger, arbeidsgiveravgift, kompensasjon til vertshjemmet eller husleie, leker, mat, museumsbesøk, tegnepapir og lignende.
 
-Familiebarnehagen får ikke fradrag for slitasje på eiendeler, f.eks. møbler og leker som tilhører den familien barnehagen leier lokaler av. Eier familiebarnehagen selv gjenstander som hovedsakelig brukes i driften av barnehagen, får barnehagen fradrag etter alminnelige regler om fradrag. Koster gjenstanden 15 000 kroner (30 000 kroner for 2024) eller mer og har en brukstid på minst tre år, gis fradrag etter reglene om avskrivning. Koster gjenstanden mindre eller har en kortere brukstid, kan familiebarnehagen trekke fra kostprisen det året gjenstanden blir kjøpt.
+Familiebarnehagen får ikke fradrag for slitasje på eiendeler, f.eks. møbler og leker som tilhører den familien barnehagen leier lokaler av. Eier familiebarnehagen selv gjenstander som hovedsakelig brukes i driften av barnehagen, får barnehagen fradrag etter alminnelige regler om fradrag. Koster gjenstanden 15 000 kroner (30 000 kroner for 2024) eller mer og har en brukstid på minst tre år, gis fradrag etter reglene om avskrivning. Koster gjenstanden mindre eller har en kortere brukstid, kan familiebarnehagen trekke fra kostprisen det året gjenstanden blir kjøpt.
+
+#### Kompensasjon til vertshjemmet
 
 Deltar ingen fra vertshjemmet aktivt i driften av familiebarnehagen, dvs. ikke utfører arbeid i tilknytning til barnehagen som f.eks. administrasjon og arbeidsgiveransvar, behandles kompensasjonen til vertshjemmet som leieinntekt for huseieren.
 
 Personinntekt gir grunnlag for beregning av pensjonspoeng, trygdeavgift og trinnskatt. Det skal beregnes personinntekt for eieren i enkeltpersonforetak uansett om eieren er aktiv i driften eller ikke. Dette er særlig aktuelt for deg som driver familiebarnehage som selvstendig næringsvirksomhet i eget hjem. Personinntekten beregnes av alminnelig inntekt fra virksomheten.
 
-Kortet «Fordelt beregnet personinntekt» kommer automatisk på når du fyller ut opplysninger om inntekter og/eller kostnader i næringsspesifikasjonen. Hvis foretaket driver næring innen flere næringstyper, må du manuelt opprette flere kort og beregne personinntekt for hver av dem. Næringsspesifikasjonen leverer du sammen med Skattemelding for formues- og inntektsskatt – personlig næringsdrivende mv. innen 31. mai året etter inntektsåret.
+Kortet «Fordelt beregnet personinntekt» kommer automatisk på når du fyller ut opplysninger om inntekter og/eller kostnader i næringsspesifikasjonen. Hvis foretaket driver næring innen flere næringstyper, må du manuelt opprette flere kort og beregne personinntekt for hver av dem. Næringsspesifikasjonen leverer du sammen med Skattemelding for formues- og inntektsskatt – personlig næringsdrivende mv. innen 31. mai året etter inntektsåret.
 
-Driver du familiebarnehage i ditt eget hjem, skal den beregnede personinntekten føres i post kortet for personinntekt fra næring i skattemeldingen din. Dette er viktig for at du skal få
+Driver du familiebarnehage i ditt eget hjem, skal den beregnede personinntekten føres i post kortet for personinntekt fra næring i skattemeldingen din. Dette er viktig for at du skal få [trygdeavgiften](https://www.skatteetaten.no/satser/trygdeavgift/) beregnet etter mellomsatsen - og ikke høy sats som ellers gjelder for selvstendig næringsdrivende.
 
-Du vil vanligvis ha rett til sykepenger når du blir syk.
+#### Trygderettigheter
 
-Den inntekten du mottar som næringsdrivende i enkeltpersonforetak, er ikke trekkpliktig. Det offentlige og foreldre foretar dermed ikke forskuddstrekk i forbindelse med utbetaling av tilskudd eller egenbetaling. Du må derfor selv sørge for å betale forskuddsskatt for personlig skattyter. Det er skattekontoret som skriver ut forskuddsskatten. Den skal betales i fire terminer i inntektsåret: 15. mars, 15. mai, 15. september og 15. november.
+Du vil vanligvis ha rett til sykepenger når du blir syk. [NAV kontoret](https://www.nav.no/Forsiden) kan gi nærmere opplysninger om reglene for dette.
 
-Dersom familiebarnehagen har ansatt en barnehagelærer på deltid eller en eller flere assistenter til å utføre det daglige arbeidet med barna, følger det med visse plikter som familiebarnehagen har som arbeidsgiver. Les mer om dine
+Den inntekten du mottar som næringsdrivende i enkeltpersonforetak, er ikke trekkpliktig. Det offentlige og foreldre foretar dermed ikke forskuddstrekk i forbindelse med utbetaling av tilskudd eller egenbetaling. Du må derfor selv sørge for å betale forskuddsskatt for personlig skattyter. Det er skattekontoret som skriver ut forskuddsskatten. Den skal betales i fire terminer i inntektsåret: 15. mars, 15. mai, 15. september og 15. november. [Kontakt oss](https://www.skatteetaten.no/kontakt-gammel/) dersom du ikke har fått skrevet ut forskuddsskatt eller du mener at forskuddsskatten er feil. Familiebarnehage som drives av aksjeselskap, privat organisasjon, foreldrelag eller lignende og som er skattepliktig, må betale [forskuddsskatt](https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/forskuddsskatt/)for upersonlig skattyter. Det er skattekontoret som skriver ut forskuddsskatt. Den skal betales i året etter inntektsåret i to terminer: 15. februar og 15. april. Det skal ikke svares forskuddsskatt dersom familiebarnehagen er en skattefri organisasjon.
 
-Foreldrene har rett til fradrag i skattepliktig inntekt for kostnader til pass og stell av barn under 12 år (foreldrefradrag). Familiebarnehager har plikt til å levere opplysninger til Skatteetaten over de enkelte foreldrenes påløpte kostnader til barnehageplass i inntektsåret. Beløpet (egenbetalingen) som familiebarnehagen innrapporterer vil da bli forhåndsutfylt i posten for foreldrefradrag i foreldrenes skattemelding. For hjelp til å fylle ut og rapportere inn se
+Dersom familiebarnehagen har ansatt en barnehagelærer på deltid eller en eller flere assistenter til å utføre det daglige arbeidet med barna, følger det med visse plikter som familiebarnehagen har som arbeidsgiver. Les mer om dine [plikter som arbeidsgiver](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/rollen-som-arbeidsgiver/).
 
+#### Foreldrene
+
+Foreldre som har barn i familiebarnehage, skal ikke levere a-melding over betaling til familiebarnehagen for barnepasset.
+
+Foreldrene har rett til fradrag i skattepliktig inntekt for kostnader til pass og stell av barn under 12 år (foreldrefradrag). Familiebarnehager har plikt til å levere opplysninger til Skatteetaten over de enkelte foreldrenes påløpte kostnader til barnehageplass i inntektsåret. Beløpet (egenbetalingen) som familiebarnehagen innrapporterer vil da bli forhåndsutfylt i posten for foreldrefradrag i foreldrenes skattemelding. For hjelp til å fylle ut og rapportere inn se [tredjepartsopplysninger Pass og stell av barn.](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/pass-og-stell-av-barn/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/familiebarnehager-og-skatt/) av norges-lover-bot.*
@@ -96,3 +121,4 @@ Foreldrene har rett til fradrag i skattepliktig inntekt for kostnader til pass o
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)

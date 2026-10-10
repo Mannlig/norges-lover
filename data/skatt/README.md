@@ -2,7 +2,7 @@
 
 Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skatte-ABC under `rettskilder/type/handboker/skatte-abc/`.
 
-**Antall dokumenter:** 5138
+**Antall dokumenter:** 5153
 
 ## Innhold
 
@@ -15,13 +15,23 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 ### Bedrift Og Organisasjon
 
 - [Frister og betaling i a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/frister-og-betaling-i-a-meldingen.md)
+- [Avstemmingsinformasjon](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/hjelp/avstemming.md)
+- [Hvem må levere a-melding](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/hjelp/hvem-ma-levere-a-melding.md)
+- [Hvilke opplysninger skal arbeidsgiver gi inntektsmottaker?](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/hjelp/sammenstilling-til-arbeidstaker.md)
+- [Velg rett måte å levere a-melding på](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/hjelp/velg-rett-mate-a-levere-a-melding-pa.md)
 - [Hvem må levere a-melding](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/hvem-ma-levere-a-melding.md)
+- [Forenklet a-melding for lønnet arbeid i hjemmet](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/levere/for-privatpersoner.md)
+- [Forenklet a-melding for veldedig eller allmennyttig organisasjon](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/levere/for-veldedige-og-allmennyttige-organisasjoner.md)
+- [A-melding – levering som filvedlegg](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/levere/levering-fra-system.md)
+- [A-melding - Direkte levering](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/levere/uten-lonnssystem.md)
 - [Arbeidsgiver- og arbeidstakerregisteret     (Aa-registeret)](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/arbeidsgiver---og-arbeidstakerregisteret.md)
 - [Kontakt a-ordningen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/kontakt-a-ordningen.md)
 - [Om a-ordningen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/om-a-ordningen/om-a-ordningen.md)
+- [Viktig informasjon: Altinn II stenges 15. juni](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/altinn-ii-stenges-15.-juni.md)
+- [Hvordan oppgi feriepenger i a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/hvordan-oppgi-feriepenger-i-a-meldingen.md)
 - [Informasjon til virksomheter som leverer a-melding med opplysninger om lott eller part](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/informasjon-til-virksomheter-som-leverer-a-melding-med-opplysninger-om-lott-eller-part.md)
 - [Ingen tvangsmulkt for a-meldingen i mai, juni og juli](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/ingen-tvangsmulkt-for-a-meldingen-i-mai-juni-og-juli.md)
-- [Nye tilgangspakker for a-meldingen](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/nye-tilgangspakker-for-a-meldingen.md)
+- [Nye tilgangspakker for a-meldingen (oppdatert)](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/nye-tilgangspakker-for-a-meldingen.md)
 - [Oppdatert grunnbeløp i folketrygden fra 1. mai 2026](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/oppdatert-grunnbelop-i-folketrygden-fra-1.-mai-2026.md)
 - [Opptak og presentasjon fra digitalt informasjonsmøte om tilgangspakker](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/opptak-og-presentasjon-fra-digitalt-informasjonsmote-om-tilgangspakker.md)
 - [Rapportering av arbeidsforhold i a-meldingen ved streik og liknende fravær](bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/rapportering-av-arbeidsforhold-i-a-meldingen-ved-streik-og-liknende-fravar.md)
@@ -42,19 +52,22 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Betale forskuddstrekk, arbeidsgiveravgift, finansskatt og utleggstrekk](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/forskuddstrekk-og-arbeidsgiveravgift.md)
 - [Lag KID for arbeidsgiveravgift](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/lag-kid-for-arbeidsgiveravgift.md)
 - [Når skal jeg IKKE betale arbeidsgiveravgift?](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/nar-skal-jeg-ikke-betale-arbeidsgiveravgift.md)
-- [Plikter jeg å betale arbeidsgiveravgift?](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/plikter-jeg-a-betale-arbeidsgiveravgift.md)
+- [Hvem må betale arbeidsgiveravgift](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/plikter-jeg-a-betale-arbeidsgiveravgift.md)
 - [SKD-melding om arbeidsgiveravgift til folketrygden](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/skd-melding-om-arbeidsgiveravgift-til-folketrygden.md)
 - [Soner, beregningskoder og satser for arbeidsgiveravgift](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift/soner-beregningskoder-og-satser-for-arbeidsgiveravgift.md)
 - [Arbeidsgiveravgift](bedrift-og-organisasjon/arbeidsgiver/arbeidsgiveravgift.md)
 - [Barnehageplass finansiert av arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/arbeidsgivers-tilskudd-til-barnehage-som-ikke-er-bedriftsbarnehage.md)
 - [Filmer med tips for deg som er arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/film-om-skatt.md)
 - [Lag KID som bedrift med organisasjonsnummer](bedrift-og-organisasjon/arbeidsgiver/lag-kid-nar-du-er-arbeidsgiver/lag-kid-som-bedrift-med-organisasjonsnummer.md)
+- [Lag KID som privat arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/lag-kid-nar-du-er-arbeidsgiver/lag-kid-som-privat-arbeidsgiver.md)
 - [Lag KID når du er arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/lag-kid-nar-du-er-arbeidsgiver.md)
 - [Nettolønn ved variabel månedslønn](bedrift-og-organisasjon/arbeidsgiver/omregning-fra-nettolonn-til-bruttolonn/nettolonn-ved-variabel-manedslonn.md)
 - [Regn om fra nettolønn til bruttolønn](bedrift-og-organisasjon/arbeidsgiver/omregning-fra-nettolonn-til-bruttolonn.md)
 - [OTP - Obligatorisk tjenestepensjon](bedrift-og-organisasjon/arbeidsgiver/otp---obligatorisk-tjenestepensjon.md)
 - [Personalliste](bedrift-og-organisasjon/arbeidsgiver/personalliste.md)
 - [Rollen som arbeidsgiver](bedrift-og-organisasjon/arbeidsgiver/rollen-som-arbeidsgiver.md)
+- [Dokumentasjon og program for beregning av forskuddstrekk](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/dokumentasjon-og-program-for-beregning-av-forskuddstrekk.md)
+- [Forskuddssatser og bilsatser](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/forskuddssatser-og-bilsatser.md)
 - [Oversikt over tabelltrinnene for trekktabeller](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/forskuddstrekk/oversikt-over-tabelltrinnene-for-trekktabeller-fra-og-med-2025.md)
 - [Foreta forskuddstrekk](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/forskuddstrekk.md)
 - [Arbeidsgiver med arbeidstakere i kildeskatt på lønn-ordningen](bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/kildeskatt-pa-lonn.md)
@@ -333,6 +346,7 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Betaling av forskuddstrekk og arbeidsgiveravgift](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift.md)
 - [Privat arbeidsgiver](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/privat-arbeidsgiver.md)
 - [Feriepenger](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/utfylling-av-lonns--og-trekkoppgaven-rf-1015.md)
+- [Lønn betalt over 60 000](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000.md)
 - [Lønn for arbeid i hjemmet](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet.md)
 - [Mottar du lønn fra en frivillig eller veldedig organisasjon?](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/mottar-du-lonn-fra-en-frivillig-eller-veldedig-organisasjon.md)
 - [Småjobber og tjenester](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/smajobber-og-tjenester.md)
@@ -465,6 +479,7 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Rettskilder om dokumentavgift](rettskilder/emne/saravgifter/dokumentavgift.md)
 - [Rettskilder om drikkevareemballasje](rettskilder/emne/saravgifter/drikkevareemballasje.md)
 - [Rettskilder om særavgifter](rettskilder/emne/saravgifter.md)
+- [Rettskilder om lån](rettskilder/emne/skatt-for-bedrift-og-organisasjon/organisasjonsform/aksjeselskap/lan.md)
 - [Rettskilder om skatt for bedrift og organisasjon](rettskilder/emne/skatt-for-bedrift-og-organisasjon.md)
 - [Rettskilder sortert på emne](rettskilder/emne.md)
 - [Forskuddsmeldingen](rettskilder/type/forskuddsmeldingen.md)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2a0f61fbdacf60169e01713abd3a3840960cfde636bd8e231b3af0c313b3baa -->
+<!-- innholds-hash: ade262c56596d1238d088b73b78feeac5d8f95152a1d4a48aa3d8cf66546bd98 -->
 
 # Oljevirksomhet og petroleumsskatt
 
@@ -6,36 +6,20 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/oljeskatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:48:31Z
+- **Sist oppdatert i arkivet:** 2026-10-10T05:37:09Z
 
 ## Innhold
 
-
 ## Oljevirksomhet og petroleumsskatt
 
-Oljeskattekontoret er ansvarlig for skattlegging av norske og internasjonale selskaper som driver leting etter og utvinning av olje og gass på norsk sokkel.
-
-
-### Konto for betaling/utbetaling av petroleumsskatt
-
-
-### Skattemelding og skatteoppgjør for petroleumsselskaper
-
-
-### Pressemeldinger om petroleumsskatt
-
-
-### Renter og rater i forbindelse med petroleumsvirksomhet
-
-
-### Gassrapportering
-
-
-### Klagevedtak (klagekjennelser) etter petroleumsskatteloven
-
+Oljeskattekontoret er ansvarlig for skattlegging av norske og internasjonale selskaper som driver leting etter og utvinning av olje og gass på norsk sokkel.
 
 #### Nærmere om petroleumsskatt
 
+- [Petroleumsskattemyndighetene og fastsettingsprosessen](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/oljeskatt/om-oljeskattekontoret/organisering/)
+- [Petroleumsskatt](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/oljeskatt/om-oljeskattekontoret/petroleumsskattesystemet/)
+- [Faglige problemstillinger for Oljeskattekontoret](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/oljeskatt/om-oljeskattekontoret/faglige-problemstillinger/)
+- [Petroleumsskatteloven (Lovdata)](https://lovdata.no/dokument/NL/lov/1975-06-13-35)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/oljeskatt/) av norges-lover-bot.*
@@ -43,3 +27,4 @@ Oljeskattekontoret er ansvarlig for skattlegging av norske og internasjonale sel
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)

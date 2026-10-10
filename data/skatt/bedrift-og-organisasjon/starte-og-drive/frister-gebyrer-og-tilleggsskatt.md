@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24e61bfd796972406d90acd91ec68c90b576de07e538a8b2256dcdf582cd4ef5 -->
+<!-- innholds-hash: fc8a94113dd17e53293104ae439e1f5bc32cf167198470549ad048b7aaf4d948 -->
 
 # Frister, gebyrer og tilleggsskatt
 
@@ -6,30 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:26:27Z
+- **Sist oppdatert i arkivet:** 2026-10-10T04:59:33Z
 
 ## Innhold
-
 
 ## Frister, gebyrer og tilleggsskatt
 
 Du kan bli ilagt tilleggsskatt hvis du ikke leverer riktige og fullstendige opplysninger i skattemeldingen. Hvis du ikke overholder frister kan du risikere å få tvangsmulkt og dersom du likevel ikke leverer opplysningene, kan overtredelsesgebyr bli vurdert.
-
-
-### Frister og oppgaver
-
-
-### Tvangsmulkt ved manglende opplysninger
-
-
-### Tilleggsskatt
-
-
-### Overtredelsesgebyr ved manglende opplysninger
-
-
-### Betalingsvansker
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/) av norges-lover-bot.*
@@ -37,3 +20,4 @@ Du kan bli ilagt tilleggsskatt hvis du ikke leverer riktige og fullstendige oppl
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)

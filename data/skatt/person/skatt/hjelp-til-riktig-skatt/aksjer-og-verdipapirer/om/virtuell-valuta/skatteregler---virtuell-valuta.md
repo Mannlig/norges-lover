@@ -1,4 +1,4 @@
-<!-- innholds-hash: fbe10c7bd3057a318d4516fc77bf4340f86276260c90745b33801dd7bb1b3fe3 -->
+<!-- innholds-hash: a037b11daa219d18000888d5bd5759a3c9b776a59fa3e2247287a41b021d5f74 -->
 
 # Skatteregler - Virtuelle eiendeler
 
@@ -6,11 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/skatteregler---virtuell-valuta/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:53:05Z
+- **Sist oppdatert i arkivet:** 2026-10-10T04:09:14Z
 
 ## Innhold
-
-- Om aksjer og verdipapirer
 
 ## Skatteregler - Virtuelle eiendeler
 
@@ -18,31 +16,43 @@ Virtuelle eiendeler som kryptovaluta, digitale tokens og andre digitale verdier 
 
 Inntekt fra formuesobjekt regnes som kapitalinntekt og skattlegges med 22 prosent.
 
-Virtuelle eiendeler skal inngå i beregningen av formuesskatt med
+Virtuelle eiendeler skal inngå i beregningen av formuesskatt med [markedsverdi](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/formue/#regn-ut-markedsverdi) per 1. januar i året etter inntektsåret.
 
-Virtuelle eiendeler følger de alminnelige skatteregler for formuesobjekter. De er ikke omfattet av unntak og spesielle skatteregler som gjelder for vanlig valuta (FIAT), aksjer, obligasjoner, finansielle instrumenter eller andre typer formuesobjekter med spesielle unntaksregler. Dette betyr blant annet at fritaksmetoden ikke gjelder for virtuelle eiendeler og at oppjusteringsfaktoren for aksjeinntekter ikke kommer til anvendelse.
+Virtuelle eiendeler følger de alminnelige skatteregler for formuesobjekter. De er ikke omfattet av unntak og spesielle skatteregler som gjelder for vanlig valuta (FIAT), aksjer, obligasjoner, finansielle instrumenter eller andre typer formuesobjekter med spesielle unntaksregler. Dette betyr blant annet at fritaksmetoden ikke gjelder for virtuelle eiendeler og at oppjusteringsfaktoren for aksjeinntekter ikke kommer til anvendelse.
 
 Den skattemessige behandlingen av virtuelle eiendeler må vurderes for hvert enkelt produkt/tjeneste. Hva produktet eller ytelsen heter er ikke avgjørende for denne vurderingen.
 
-Med realisasjon menes overføring av eiendomsrett mot vederlag og opphør av eiendomsrett. Typisk eksempel på realisasjon er salg og bytte. For eksempel vil salg av en virtuell eiendel mot oppgjør i en annen virtuell eiendel, regnes som skattemessig realisasjon. Andre eksempler kan være at en eiendel går tapt eller blir ødelagt. En gaveoverføring er ikke realisasjon. Se nærmere informasjon om
+Eksempel En avkastning eller kostnad kan omtales som rente, uten at det dermed er en renteinntekt eller rentekostnad i skatterettslig forstand.
+
+### Realisasjon
+
+Med realisasjon menes overføring av eiendomsrett mot vederlag og opphør av eiendomsrett. Typisk eksempel på realisasjon er salg og bytte. For eksempel vil salg av en virtuell eiendel mot oppgjør i en annen virtuell eiendel, regnes som skattemessig realisasjon. Andre eksempler kan være at en eiendel går tapt eller blir ødelagt. En gaveoverføring er ikke realisasjon. Se nærmere informasjon om [begrepet realisasjon i Skatte-ABC](https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/).
 
 For noen overføringer av virtuelle eiendeler må det gjøres konkrete vurderinger om realisasjon. For eksempel vil burning av token som ofte er realisasjon med utgangsverdi null, og sacrifice av token som ofte er en gaveoverføring, måtte vurderes annerledes dersom overføringen faktisk gir en motytelse. Det gjelder også selv om motytelsen kan være ukjent eller vanskelig å sette verdi på.
 
-Ved salg eller annen realisasjon av virtuelle eiendeler blir det skattepliktig gevinst eller fradragsberettiget tap. For virtuelle eiendeler som kryptovaluta og andre tokens betyr det at alle transaksjoner mellom to eller flere parter, som hovedregel betyr en eller flere realisasjoner.
+### Inntekter ved realisasjon
+
+Ved salg eller annen realisasjon av virtuelle eiendeler blir det skattepliktig gevinst eller fradragsberettiget tap. For virtuelle eiendeler som kryptovaluta og andre tokens betyr det at alle transaksjoner mellom to eller flere parter, som hovedregel betyr en eller flere realisasjoner.
 
 Gevinst/tap ved realisasjon utgjør forskjellen mellom utgangsverdi og inngangsverdi for den gjeldende virtuelle eiendel, korrigert for eventuelle kostnader knyttet til transaksjonen.
 
 Om du driver handel i virtuelle eiendeler som virksomhet, så skal ikke gevinst/tap ved realisasjon med i beregningen av personinntekt.
 
+- [Mer informasjon om hvordan beregne gevinst/tap](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/salg/#beregn-gevinsttap).
+
+### Andre inntekter
+
 Alle inntekter fra virtuelle eiendeler er skattepliktig.
 
-Utvinning av virtuelle eiendeler ved verifikasjonsaktivitet er inntekt uavhengig av hvilken protokoll som blir brukt.
+Utvinning av virtuelle eiendeler ved verifikasjonsaktivitet er inntekt uavhengig av hvilken protokoll som blir brukt. Eksempler på dette er proof-of-work (mining) og proof-of-stake.
 
-Andre inntekter kan oppstå fra blant annet
+Andre inntekter kan oppstå fra blant annet [DeFi](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/defi/) og [non-fungible tokens (NFT)](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/nft/).
 
 Har du mottatt virtuelle eiendeler ved forks eller lignende vil markedsverdien på mottakstidspunktet anses som inntekt. Ofte kan markedsverdien på mottakstidspunktet være tilsvarende null og dette blir da din inngangsverdi for senere beregning av gevinst/tap ved realisasjon.
 
 Inntekter fra mining som utgjør virksomhet, vil for personlig næringsdrivende inngå i beregning av personinntekt.
+
+### Kostnader og fradrag
 
 Dersom du har kostnader knyttet til dine inntekter fra virtuelle eiendeler, kan du ha fradragsrett for disse. Kostnader for å skaffe inntekter fra virtuelle eiendeler, regnes som kapitalkostnad og er fradragsberettiget med 22 prosent. I praksis trekkes normalt kostnadene fra i gevinst-/tapsberegningen eller i inntektsberegningen for mining/utvinning og reduserer den skattepliktige inntekten eller øker det skattemessige tapet.
 
@@ -54,7 +64,7 @@ Med transaksjonskostnader mener vi kostnader du har for å gjennomføre hver enk
 
 I mange tilfeller vil transaksjonskostnadene legges til din inngangsverdi når du kjøper og trekkes fra din utgangsverdi når du selger eller overfører virtuelle eiendeler. Dersom transaksjonskostnadene ikke er tatt med, må du selv legge dem inn i din gevinst-/tapsberegning.
 
-Du kan fradragsføre kostnader du har hatt for å skaffe inntekt ved
+Du kan fradragsføre kostnader du har hatt for å skaffe inntekt ved [mining/utvinning](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/mining/).
 
 Kostnader i forbindelse med mining kan for eksempel være kjøp av maskiner, programvare og strøm.
 
@@ -72,6 +82,33 @@ For at vi skal kunne vurdere tapsfradraget, må du legge frem redegjørelse og d
 
 Eksempler på aktuell dokumentasjon kan være dine transaksjoner i forbindelse med svindelen, e-post eller annen korrespondanse med svindleren(e), politianmeldelse og omtale av svindelen i media eller lignende.
 
+[Informasjon om fradrag for investeringssvindel og hvor det skal føres i skattemeldingen.](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/investeringssvindel/)
+
+Dersom du har tap som skyldes konkurs hos en tjenestetilbyder for virtuelle eiendeler, for eksempel en kryptobørs, er det flere forhold du må være oppmerksom på og som må avklares før du kan kreve fradrag for tapet i skattemeldingen.
+
+Forutsetningen for å kreve fradrag for tap ved konkurs, er at kravet må være endelig konstatert tapt. Det vil si at begge punktene må være avklart:
+
+- tjenestetilbyderen er konkurs
+- du vil ikke få tilbake noen av verdiene dine
+
+#### Når tjenestetilbyderen har konkursbeskyttelse
+
+Hvis tjenestetilbyderen har bedt om konkursbeskyttelse, for eksempel etter såkalt «Chapter 11» i USA, er ikke dette det samme som en konkurs. Alle verdiene vil være låst, og det må regnes med at det blir et tap, men verdiene er ikke konstatert tapt. Siden det da vil være usikkerhet knyttet til om verdiene er endelig tapt eller ikke, kan du ikke fradragsføre tapet enda.
+
+Det er først når en tjenestetilbyder er konkurs og det er avklart at du ikke får noen av verdiene tilbake, at du kan fradragsføre tapet.
+
+#### Du kan ikke fradragsføre urealisert gevinst
+
+Tapet som kan fradragsføres er [inngangsverdien](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/salg/#beregn-gevinsttap) av investeringen. Du kan ikke fradragsføre gevinst som ikke er realisert. Det vil si at urealisert gevinst opptjent i perioden før konkursen, ikke kan fradragsføres. Det er fordi du heller ikke har blitt beskattet for denne gevinsten tidligere.
+
+#### Få tak i dokumentasjon
+
+For tap ved konkurs, er det ekstra viktig å få tak i dokumentasjon for tapet. Det er fordi du trenger dokumentasjonen dersom vi spør etter den, og den blir vanskelig å få tak i senere.
+
+- [kjøpt virtuelle eiendeler](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/kjop/#oppgi-i-skattemeldingen)
+- [solgt virtuelle eiendeler](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/salg/#oppgi-i-skattemeldingen)
+- [formue av virtuelle eiendeler](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/formue/#oppgi-i-skattemeldingen)
+- [minet virtuell valuta](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/mining/#oppgi-i-skattemeldingen)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/skatteregler---virtuell-valuta/) av norges-lover-bot.*
@@ -79,3 +116,4 @@ Eksempler på aktuell dokumentasjon kan være dine transaksjoner i forbindelse m
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)
