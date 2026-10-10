@@ -1,4 +1,4 @@
-<!-- innholds-hash: af7259b4185a5b3618a8ca4b893d1ae3e95c2e4ab517af666dd6cb391fd9aacb -->
+<!-- innholds-hash: b103d63c790dfe48783bb709660f7b33aa184424328801e4c82b5c798d47ab8c -->
 
 # Kodeveileder for særavgifter
 
@@ -6,11 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/kodeveileder/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-07-05T02:01:02Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:22:20Z
 
 ## Innhold
-
-- Rapportere og registrere
 
 ## Kodeveileder for særavgifter
 
@@ -20,9 +18,32 @@ Denne brukes av særavgiftspliktige virksomheter.
 
 Last ned PDF:
 
-Sist oppdatert 1. juli 2026.
+[Kodeveileder](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-september--2026.pdf)
+
+Sist oppdatert 1. september 2026.
+
+- [Juli 2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-juli-2026.pdf)
+- [Mai 2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-mai-2026-2.pdf)
+- [April 2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-april-2026.pdf)
+- [Mars 2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-mars-2026_v2.pdf)
+- [Januar 2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-januar-2026.pdf)
+
+- [August 2025](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-august-2025.pdf)
+- [Juli 2025](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-juli-2025.pdf)
+- [Mai 2025](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-mai-2025.pdf)
+- [Januar 2025](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-januar-2025.pdf)
+
+- [August 2024](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-saravgift-august-2024.pdf)
+- [Mai 2024](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-saravgifter-mai-2024.pdf)
+- [Januar 2024](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-januar-2024.pdf)
+
+- [Oktober 2023](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-oktober-2023.pdf)
+- [Juli 2023](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-fastsetting-saravgift-juli-2023.pdf)
+- [Januar 2023](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/kodeveileder/kodeveileder-saravgift-januar-2023.pdf)
 
 Riktig bruk av avgiftskoder er nødvendig for at fastsettelsen av avgifter skal bli riktig. I tillegg brukes kodene som grunnlag for å ta ut rapporter.
+
+### Tre typer koder
 
 Det er tre typer koder: avgiftstypekoder (to bokstaver), avgiftsgruppekoder (tre siffer) og tilleggskoder (to siffer).
 
@@ -40,10 +61,16 @@ Utenom dette har vi tilleggskode 99 for manko. Dette er en kode for at det skal 
 
 Tilleggskodene kan være knyttet til en eller flere avgiftsgrupper under samme avgiftstype.
 
+### Sats
+
 I kolonnen sats i kodeveilederen ligger den til hver tid gjeldende sats.
 
 Satsen er oppgitt i kroner, om annet ikke er nærmere beskrevet i tilknytning til den enkelte tabell. Ved søknad om refusjon må du bruke satsen for den perioden det søkes refusjon for.
 
+### Se også
+
+- [Rapportere: Skattemelding for særavgifter](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/)
+- [Brukerveiledning for rapportering av særavgifter](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/brukerveiledning/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/kodeveileder/) av norges-lover-bot.*
@@ -52,3 +79,4 @@ Satsen er oppgitt i kroner, om annet ikke er nærmere beskrevet i tilknytning ti
 
 - **2026-05-20** Første gang hentet
 - **2026-07-05** Innhold endret (se git-historikk for diff)
+- **2026-10-09** Innhold endret (se git-historikk for diff)

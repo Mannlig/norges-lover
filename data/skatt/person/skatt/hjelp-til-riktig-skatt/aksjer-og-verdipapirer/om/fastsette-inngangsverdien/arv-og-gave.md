@@ -1,4 +1,4 @@
-<!-- innholds-hash: f7febab701ffa38109e2305b423d5e6e06b2ad33063d737da659997f51c7b9f8 -->
+<!-- innholds-hash: 961712e599d7693343e72d96c6e66bb093121b6108994bb49742181742d47f94 -->
 
 # Arv og gave
 
@@ -6,17 +6,19 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/fastsette-inngangsverdien/arv-og-gave/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:34:38Z
+- **Sist oppdatert i arkivet:** 2026-10-09T23:28:09Z
 
 ## Innhold
-
-- Om aksjer og verdipapirer
 
 ## Arv og gave
 
 Arv og gave av børsnoterte og ikke-børsnoterte aksjer.
 
+### Hvor kan du finne ut om du har arvet børsnoterte aksjer?
+
 Du kan sjekke arvemeldingen dersom arvelater døde i 2013 eller tidligere. Hvis du har fått forskudd på arv i 2013 eller tidligere, skal dette fremgå av gavemelding sendt skattekontoret.
+
+### Hvordan fastsettes inngangsverdien for børsnoterte aksjer?
 
 For arv og gave skal arving eller gavemottaker overta arvelaters/givers inngangsverdi mv. (kontinuitetsprinsipp). Hvis dødsfallet skjedde eller gaven ble ytet i 2013 eller tidligere, kan inngangsverdien og skjermingsgrunnlaget ikke settes høyere enn den verdien som ble lagt til grunn ved beregning av arveavgiften, jfr. tidligere § 9-7 fjerde ledd i skatteloven.
 
@@ -26,7 +28,11 @@ Kontinuitet gjelder som utgangspunkt også ved gavesalg. Overdragelse av aksjer 
 
 Hvis vederlaget er lavere enn inngangsverdien, gis det fradrag for tap hvis også omsetningsverdien er lavere enn inngangsverdien. Tapet vil i så fall utgjøre differansen mellom omsetningsverdien og inngangsverdien. Det gis ikke fradrag for tap som skyldes gaveelementet.
 
+### Hvor kan du finne ut om du har arvet ikke-børsnoterte aksjer?
+
 Du kan sjekke arvemeldingen dersom arvelater døde i 2013 eller tidligere. Hvis du har fått forskudd på arv i 2013 eller tidligere skal dette fremgå av gavemelding sendt skattekontoret.
+
+### Hvordan fastsettes inngangsverdien for ikke børsnoterte aksjer?
 
 For arv og gave skal arving eller gavemottaker overta arvelaters/givers inngangsverdi mv. (kontinuitetsprinsipp). Hvis dødsfallet skjedde eller gaven ble ytet i 2013 eller tidligere, kan inngangsverdien og skjermingsgrunnlaget ikke settes høyere enn den verdien som ble lagt til grunn ved beregning av arveavgiften, jfr. tidligere § 9-7 fjerde ledd i skatteloven.
 
@@ -38,10 +44,10 @@ For ikke-børsnoterte aksjer skal aksjen verdsettes til 100 prosent av aksjens f
 
 For aksjer arvet/mottatt frem t.o.m. 2005 skulle omsetningsverdien på det tidspunkt du fikk rådighet over aksjen legges til grunn. Verdien skulle ikke settes høyere enn bruttoverdien som ble lagt til grunn ved arveavgiftsberegningen, jfr. tidligere § 9-7. Arving eller gavemottaker kunne velge om avgiftsgrunnlaget skal settes til 100 prosent eller 30 prosent av aksjens andel av selskapets skattemessige formuesverdi. Din inngangsverdi på aksjen skal fremgå av Min aksjeoppgave, som det er en lenke til i skattemeldingen.
 
-
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/fastsette-inngangsverdien/arv-og-gave/) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

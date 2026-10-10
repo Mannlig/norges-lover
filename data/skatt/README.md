@@ -2,7 +2,7 @@
 
 Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skatte-ABC under `rettskilder/type/handboker/skatte-abc/`.
 
-**Antall dokumenter:** 5136
+**Antall dokumenter:** 5138
 
 ## Innhold
 
@@ -323,6 +323,7 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Aksjer og verdipapirer](person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer.md)
 - [Fagforeningsfradrag](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/fagforeningsfradrag.md)
 - [Feriepenger](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/feriepenger.md)
+- [Finnmarksfradraget](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/finnmarksfradrag.md)
 - [Deling av bil og samkjøring](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/delingsokonomi/deling-av-bil-og-samkjoring.md)
 - [Merverdiavgift - salg av varer eller tjenester i forhold til delingsøkonomi](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/delingsokonomi/mva.md)
 - [Utleie av løsøre](person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/delingsokonomi/utleie-av-losore.md)
@@ -397,6 +398,7 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Filmer med tips om skattemelding, skatteoppgjør og skattekort](person/skatt/hjelp-til-riktig-skatt/skatt123/film-om-skatt.md)
 - [Skatt på 1-2-3](person/skatt/hjelp-til-riktig-skatt/skatt123.md)
 - [Spillegevinster](person/skatt/hjelp-til-riktig-skatt/spillegevinst.md)
+- [Svalbard](person/skatt/hjelp-til-riktig-skatt/svalbard.md)
 - [Arbeid, arbeidsforhold og arbeidsavtaler](person/skatt/hjelp-til-riktig-skatt/ungdom-arbeid-og-skatt/arbeid-arbeidsforhold-og-arbeidsavtaler.md)
 - [Jobb og skatt for deg som er ung](person/skatt/hjelp-til-riktig-skatt/ungdom-arbeid-og-skatt.md)
 - [Bekreftelse på skattemessig bosted for privatpersoner og enkeltpersonforetak (ENK)](person/skatt/hjelp-til-riktig-skatt/utland/bekreftelse-pa-skattemessig-bosted-for-privatpersoner-og-enkeltpersonforetak-enk.md)
@@ -406,7 +408,7 @@ Skatteregler, satser, fradrag, MVA og veiledere fra Skatteetaten, inkludert Skat
 - [Lån i utlandet](person/skatt/hjelp-til-riktig-skatt/utland/lan-i-utlandet.md)
 - [Skatt når du flytter til utlandet](person/skatt/hjelp-til-riktig-skatt/utland/skatt-flytte-til-utlandet.md)
 - [Skatt når du flytter til Norge](person/skatt/hjelp-til-riktig-skatt/utland/skatt-flytter-til-norge.md)
-- [Utflyttingsskatt - exitskatt](person/skatt/hjelp-til-riktig-skatt/utland/utflyttingsskatt-exitskatt.md)
+- [Utflyttingsskatt – exitskatt](person/skatt/hjelp-til-riktig-skatt/utland/utflyttingsskatt-exitskatt.md)
 - [Skatt når du har inntekter og eiendeler i utlandet. Skatt når du flytter til eller fra Norge](person/skatt/hjelp-til-riktig-skatt/utland.md)
 - [Verdsettingsrabatt ved fastsetting av formue](person/skatt/hjelp-til-riktig-skatt/verdsettingsrabatt-ved-fastsetting-av-formue.md)
 - [Hjelp til å få riktig skatt](person/skatt/hjelp-til-riktig-skatt.md)

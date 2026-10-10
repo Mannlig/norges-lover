@@ -1,4 +1,4 @@
-<!-- innholds-hash: b71df9f4b57c2f900273a21a96b44451c4076ffe15ee2de0726691ad063ee5b4 -->
+<!-- innholds-hash: 7992ed19b8cbf097f0f50a6233d4d7271cc23f57fb4f0d73cb96bd9987d68f4a -->
 
 # Registrering i VOEC-registeret
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/registrere/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:48:13Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:25:28Z
 
 ## Innhold
-
 
 ## Registrering i VOEC-registeret
 
@@ -19,16 +18,33 @@ VOEC er en forenklet ordning for registrering og rapportering av merverdiavgift 
 
 Logg inn:
 
+[Registrer virksomhet i VOEC-registeret](https://voec.skatteetaten.no/web/voec/)
+
+### Sånn logger du inn første gang (video)
+
+### Kan jeg registrere virksomheten?
+
 Du kan søke om å registrere virksomheten i VOEC-registeret dersom virksomheten:
 
 - ikke har en registrert forretningsadresse i Norge
-- selger varer av lav verdi (under 3000 kroner) og/eller
+- selger varer av lav verdi (under 3000 kroner) og/eller [fjernleverbare tjenester ordforklaring](https://www.skatteetaten.no/ordbok/merverdiavgift/fjernleverbare-tjenester/)
 - selger til norske forbrukere (B2C)
-Hvis virksomheten velger å etablere seg i Norge, må du
+
+Hvis virksomheten velger å etablere seg i Norge, må du [registrere virksomheten i det ordinære mva-registeret](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/registrere-endre-slette/).
+
+#### Ikke søk om ny registrering hvis virksomheten allerede er registrert
+
+[Usikker på om virksomheten er registrert? Sjekk VOEC-registeret](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/nettbutikker/)
+
+### Registrer senest når beløpsgrensen er nådd
 
 Du må registrere virksomheten senest når du har solgt mva.-pliktige varer og/eller tjenester til norske forbrukere for 50 000 kroner eller mer innenfor en periode på 12 måneder. Det kan for eksempel være fra februar i et år til januar i neste år, eller fra august et år til juli året etter.
 
-Når du søker om registrering, kan du velge å sette datoen for når salget til norske forbrukere starter som startdato. Da kan du få et VOEC-nummer før du starter salget, sånn at du kan
+#### Du kan søke om registrering ved første salg
+
+Når du søker om registrering, kan du velge å sette datoen for når salget til norske forbrukere starter som startdato. Da kan du få et VOEC-nummer før du starter salget, sånn at du kan [oppgi riktig informasjon hvis du skal skal sende varer.](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/sending-av-pakker-i-voec-ordningen/)
+
+### Krev inn og rapporter merverdiavgift etter registrering
 
 Du skal rapportere og betale merverdiavgiften du har oppkrevd hvert kvartal. Fristen er den 20. i måneden etter kvartalets utløp.
 
@@ -36,17 +52,37 @@ Du skal rapportere og betale merverdiavgiften du har oppkrevd hvert kvartal. Fri
 - 20. april
 - 20. juli
 - 20. oktober
+
 Hvis fristen faller på en lørdag eller søndag, er fristen første påfølgende hverdag.
 
+[Lever kvartalsrapport for VOEC](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/mva-melding/)
+
 Husk at du skal rapportere merverdiavgift fra den datoen du velger som startpunkt for registreringen.
+
+### Spesielt for deg som:
+
+[Sånn sender du varer som VOEC-registrert](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/sending-av-pakker-i-voec-ordningen/)
 
 Det er bare varer som har en verdi under 3000 NOK som kan faktureres og sendes som VOEC-varer. Beløpsgrensen gjelder per vare, og ikke per forsendelse.
 
 Finn ut om verdien på varen er under 3000 NOK og fakturer med merverdiavgift slik:
 
 - Omregne verdien av varen til NOK når kjøpet skjer. Tidspunktet for kjøpet er for eksempel når kunden betaler i kassen i nettbutikken, eller når kunden bestiller en vare.
+- Ikke inkluder frakt og andre tilleggskostnader når du fastslår verdien på varen.
+- Inkluder alle tilleggsutgifter når du beregner merverdiavgiften du skal fakturere når du selger varen.
 - Merk at du står fritt til å selge i den valutaen du ønsker.
+
+#### Næringsmidler
+
 Alle typer mat- og drikkevarer, inkludert kosttilskudd som ikke er medisiner. Det gjelder egne regler for import av medisiner.
+
+#### Varer som du må betale særavgifter for
+
+[Les mer om særavgifter.](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/)
+
+#### Ulovlige varer og varer som er begrenset etter norsk lov
+
+[Les mer om varer med restriksjoner hos Tolletaten](https://www.toll.no/no/bedrift/import/varer-med-restriksjoner/)
 
 Bruk en valutakurs som er publisert av tolletaten, Norges Bank, en utenlandsk sentralbank eller en aktør som offentlig publiserer spotkurser.
 
@@ -60,11 +96,11 @@ Fjernleverbare tjenester er alle tjenester som kan leveres over avstand. Eksempl
 
 Elektroniske tjenester er fjernleverbare tjenester hvor leveringen av tjenestene hovedsakelig er automatisert. Eksempler er levering av streaming- og nedlastningstjenester som musikk, film eller spill og levering eller oppdatering av programvare.
 
-Se også
+Se også [merverdiavgiftssatser for fjernleverbare tjenester kjøpt fra utlandet](https://www.skatteetaten.no/satser/merverdiavgiftssatser-for-fjernleverbare-tjenester-kjopt-fra-utlandet/)
 
 Noen tjenester er unntatt fra merverdiavgift, for eksempel helsetjenester og undervisningstjenester.
 
-Bruk
+Bruk [valutakursen som er publisert av tolletaten](https://www.toll.no/no/verktoy/valutakurser/)
 
 Kursen skal beregnes på leveringstidspunktet.
 
@@ -74,10 +110,10 @@ Du trenger ikke å bevise at kjøperen er næringsdrivende hvis de hevder å væ
 
 Hvis du oppkrever mva fra en næringsdrivende kunde, må du refundere denne avgiften til kunden. Du kan korrigere beløpet i kvartalsrapporten til Skatteetaten.
 
-
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/registrere/) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

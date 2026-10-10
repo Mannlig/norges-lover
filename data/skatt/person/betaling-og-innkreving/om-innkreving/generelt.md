@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08b17ed4309aa4a5813690a257969a7b21df198d92ef7c6eaa4d74e956c804a3 -->
+<!-- innholds-hash: d4bd215e05d465b5cf8862aedd810e06286fbdc8d8158c702197ff80e9864a9c -->
 
 # Generelt om betaling og innkreving
 
@@ -6,40 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:14:07Z
+- **Sist oppdatert i arkivet:** 2026-10-09T22:07:05Z
 
 ## Innhold
-
-- Om betaling og innkreving
 
 ## Generelt om betaling og innkreving
 
 Her finner du generell informasjon om prosesser og temaer knyttet til betaling og innkreving.
-
-
-### Se dine personlige krav og betalinger
-
-
-### Foreldelse av krav
-
-
-### Motregning
-
-
-### Hjelp til å kreve inn erstatning
-
-
-### Konkurs
-
-
-### Offentlig gjeldsordning
-
-
-### Solidarisk ansvar
-
-
-### Sletting av krav
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/) av norges-lover-bot.*
@@ -47,3 +20,4 @@ Her finner du generell informasjon om prosesser og temaer knyttet til betaling o
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

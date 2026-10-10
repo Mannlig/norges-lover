@@ -1,4 +1,4 @@
-<!-- innholds-hash: 88f939d108c9b6de6906d51bbf50aead96779e64e39c538302964447fde385b7 -->
+<!-- innholds-hash: ffa45c522e6405a807b001e91c38e86ca49ef6eebb25f924613c636e7eb60905 -->
 
 # Fradrag for kostnader til utdanning
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utdanning/fradrag-for-kostnader-til-utdanning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:52:14Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:31:57Z
 
 ## Innhold
-
 
 ## Fradrag for kostnader til utdanning
 
@@ -21,8 +20,9 @@ Er du arbeidstaker, er det i tillegg en forutsetning for fradragsrett at du er i
 
 Eksempel:
 
-Du har rett til
+- vedlikehold av et flysertifikat hvis du er yrkesaktiv som flyger
 
+Du har rett til fradrag for kostnader direkte knyttet til utdanningen, som for eksempel undervisningsavgift, semesteravgift, eksamensavgift og skolebøker. Disse kostnadene inngår i [minstefradraget](https://www.skatteetaten.no/satser/minstefradrag/) i skattemeldingen din, dersom du velger minstefradrag i stedet for fradrag for faktiske kostnader.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utdanning/fradrag-for-kostnader-til-utdanning/) av norges-lover-bot.*
@@ -30,3 +30,4 @@ Du har rett til
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b654f3f8f79312ae516fa3160a59514b58ca63742ecb06ccbed439d3dbfa5cb9 -->
+<!-- innholds-hash: fafb6e919483eb842f3cfff29319436730d1d75eccd7db917ac47d2cdd22e014 -->
 
 # Avgifter for person
 
@@ -6,27 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/avgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:10:26Z
+- **Sist oppdatert i arkivet:** 2026-10-09T22:01:44Z
 
 ## Innhold
-
 
 ## Avgifter for person
 
 Her finner du informasjon om avgifter som er relevante for deg som privatperson.
-
-
-### Bil og andre kjøretøy
-
-
-### Kjøp fra utenlandske nettbutikker
-
-
-### Dokumentavgift
-
-
-### Avgifter for bedrifter
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/avgifter/) av norges-lover-bot.*
@@ -34,3 +20,4 @@ Her finner du informasjon om avgifter som er relevante for deg som privatperson.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

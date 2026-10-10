@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23dd62de9cdade1c7ea7536bfd8c40aa27b55b4c45a0fb816072a98e8984ce6f -->
+<!-- innholds-hash: 5dbfac5e7a7efa2eabb426de85c014f7b3c2c15892af56db4d47fec0593343d5 -->
 
 # Avgift på viltlevende marine ressurser
 
@@ -6,11 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/marine-ressurser/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:07:28Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:57:28Z
 
 ## Innhold
-
-- Om avgiftene
 
 ## Avgift på viltlevende marine ressurser
 
@@ -20,23 +18,34 @@ Eksempler på andre viltlevende marine ressurser enn fisk, er sel, hval, krabbe,
 
 Med førstehåndsomsetning menes omsetning av viltlevende marine ressurser fra den som har høstet dem, og den første omsetningen etter ilandføring dersom fangsten ikke tidligere er omsatt gjennom eller med godkjenning av et fiskesalgslag. Salg fra et fiskesalgslag er uansett å regne som førstehåndsomsetning.
 
+### Om avgiften
+
+#### Sats for 2026
+
+Satsen er 0,42 prosent
+
 Avgiftsgrunnlaget er brutto salgsbeløp fratrukket lagsavgift. Det vil si den særskilte avgiften som betales til fiskesalgslaget etter fiskesalgslagsloven § 9.
 
 Med brutto salgsbeløp menes summen av mengde viltlevende marine ressurser (kvantum i kg) multiplisert med pris (pr. kg), eksklusiv merverdiavgift.
+
+[Se satser for tidligere år](https://www.skatteetaten.no/satser/viltlevende-marine-ressurser/).
 
 Avgiften omfatter viltlevende marine ressurser som
 
 - er høstet av norskregistrerte fartøy
 - førstehåndsomsettes i samsvar med fiskesalslagslova
+
 Dette inkluderer fangst som leveres i utlandet, og fangst som overtas av fiskeren selv.
 
 Avgiften skal betales når det skjer en førstehåndsomsetning av viltlevende marine ressurser i samsvar med fiskesalslagslova. Det er derfor omsetningsdatoen som er avgjørende for avgiftsplikt. I praksis vil dette være tidspunktet når sluttseddelen er ferdig utfylt og undertegnet.
 
 Avgiften omfatter ikke viltlevende marine ressurser som er inndratt etter forskrift om inndragning av fangst m.m. Dette gjelder for eksempel fangst utover tillat kvote eller andre tilfeller hvor fiskerilovgivningen ikke overholdes.
 
-Det gis avgiftsfritak for produksjon av fisk som leveres
+Det gis avgiftsfritak for produksjon av fisk som leveres a) til diplomater, b) til NATO og styrker fra land som deltar i Partnerskap for fred, c) til Den nordiske investeringsbanken, d) vederlagsfritt til mottaker for utdeling på veldedig grunnlag.
 
 Levering til disse formålene skal rapporteres i særavgiftsmeldingen med egne tilleggskoder.
+
+### Rapportere og betale
 
 Fiskesalgslag som er registrert som særavgiftspliktig skal rapportere og betale avgiften.
 
@@ -44,14 +53,23 @@ Fiskesalgslagene er ansvarlig for beregning og innkreving av avgiftene på vegne
 
 Registrerte særavgiftspliktige virksomheter skal rapportere særavgifter elektronisk. Dette gjør du i særavgiftsmeldingen.
 
+[Rapportere særavgifter](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/)
+
 Når du har sendt inn en særavgiftsmelding vil du få en tilbakemelding med betalingsinformasjon.
+
+### Registrering
 
 Det er fiskesalgslag som er godkjent etter fiskesalslagslova, som er særavgiftspliktig for avgift på viltlevende marine ressurser.
 
 Fiskesalgslagene må registrere seg som avgiftspliktig virksomhet.
 
+[Registrer virksomhet som avgiftspliktig](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/registrere/?376174=376236)
+
+### Årsrundskriv og andre rettskilder
+
 Skatteetaten gir ut årlige rundskriv om avgiften. Rundskrivene og andre rettskilder er rettet mot deg som er profesjonell aktør og som vil ha utdypende juridisk informasjon:
 
+[Se årsrundskriv og andre rettskilder](https://www.skatteetaten.no/rettskilder/emne/saravgifter/marine-ressurser/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/om/marine-ressurser/) av norges-lover-bot.*
@@ -59,3 +77,4 @@ Skatteetaten gir ut årlige rundskriv om avgiften. Rundskrivene og andre rettski
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

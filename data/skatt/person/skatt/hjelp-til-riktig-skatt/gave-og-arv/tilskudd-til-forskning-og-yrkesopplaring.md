@@ -1,4 +1,4 @@
-<!-- innholds-hash: af87ae6b0328909b895f797bc09ccd02dbbcfc4c775791c265cd613dad4313f3 -->
+<!-- innholds-hash: cee594579f2705d049c862f0953e8b084b166a1629ba5594d416b747a2c25b1d -->
 
 # Tilskudd til forskning og yrkesopplæring
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/gave-og-arv/tilskudd-til-forskning-og-yrkesopplaring/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T13:56:50Z
+- **Sist oppdatert i arkivet:** 2026-10-09T22:44:30Z
 
 ## Innhold
-
 
 ## Tilskudd til forskning og yrkesopplæring
 
@@ -21,12 +20,11 @@ Hvis alminnelig inntekt omfatter aksjeutbytte, utdeling fra selskap med deltaker
 
 Er du personlig skattyter er ditt tilskudd normalt ferdig utfylt i skattemeldingen din, hvis du har oppgitt ditt fødselsnummer eller organisasjonsnummer til instituttet.
 
-Hvis ikke tilskuddet er innrapportert av instituttet, må du føre opp beløpet selv. Ta også kontakt med instituttet og be dem rapportere beløpet på ditt fødselsnummer/organisasjonsnummer.
+Hvis ikke tilskuddet er innrapportert av instituttet, må du føre opp beløpet selv. Ta også kontakt med instituttet og be dem rapportere beløpet på ditt fødselsnummer/organisasjonsnummer.
 
 Forhåndsutfylling av innrapportert tilskuddsbeløp gjelder ikke skattemelding for selskaper.
 
-For å få
-
+For å få fradraget må instituttet være forhåndsgodkjent. [Se listen over godkjente organisasjoner](https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/fradrag/forskning-og-gave/tilskudd-til-vitenskapelig-forskning-og-yrkesopplaring/liste-over-godkjente-institutt/).
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/gave-og-arv/tilskudd-til-forskning-og-yrkesopplaring/) av norges-lover-bot.*
@@ -34,3 +32,4 @@ For å få
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

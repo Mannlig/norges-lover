@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2e95d6d7d657c54818bfd1411922315f78f6cc52a1a1d1a6af931bdb2e141dec -->
+<!-- innholds-hash: 78ca1a2daf75f7a54548646c955caf294dafbcc13f9c7a5ea883db43992e52d3 -->
 
 # Mine inntekter og arbeidsforhold
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hva-arbeidsgiveren-din-har-rapportert-inn/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:21:02Z
+- **Sist oppdatert i arkivet:** 2026-10-09T22:19:50Z
 
 ## Innhold
-
 
 ## Mine inntekter og arbeidsforhold
 
@@ -17,11 +16,17 @@ Her ser du hvilke opplysninger arbeidsgiveren din har sendt oss.
 
 Logg inn:
 
+[Se mine inntekter og arbeidsforhold](https://skatt.skatteetaten.no/web/aorinnsyn/)
+
 Arbeidsgivere, pensjonsutbetalere og andre sender hver måned opplysninger om dine inntekter og arbeidsforhold til NAV, Statistisk sentralbyrå og Skatteetaten.
 
-Opplysningene sendes i en a-melding. Hver gang de sender en ny a-melding blir informasjonen i denne tjenesten oppdatert.
+Opplysningene sendes i en a-melding. Hver gang de sender en ny a-melding blir informasjonen i denne tjenesten oppdatert.
+
+### Er opplysningene feil?
 
 Oppdager du feil, må du kontakte arbeidsgiveren din eller den som har sendt opplysningene. Det er bare de som har rapportert opplysningene som kan rette dem.
+
+### Mer om tjenesten
 
 Alle kan bruke denne tjenesten for å hente opplysninger om seg selv.
 
@@ -37,3 +42,4 @@ Tjenesten krever innlogging.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

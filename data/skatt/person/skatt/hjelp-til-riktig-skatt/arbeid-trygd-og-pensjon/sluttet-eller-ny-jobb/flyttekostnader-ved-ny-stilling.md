@@ -1,4 +1,4 @@
-<!-- innholds-hash: 40437524279c12977c0cfb1b16e6bc6b322b81ba92332415644722dd78d12d1e -->
+<!-- innholds-hash: d3754bf87ca329577709ba5bbba30f3c8c7b0279491b435a55cb64cdeeea0292 -->
 
 # Flyttekostnader ved ny stilling
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/sluttet-eller-ny-jobb/flyttekostnader-ved-ny-stilling/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:50:57Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:29:46Z
 
 ## Innhold
-
 
 ## Flyttekostnader ved ny stilling
 
@@ -17,10 +16,12 @@ Flyttekostnader som du hovedsakelig har hatt for å overta en ny stilling, kan d
 
 Fradragsretten gjelder også kostnader til flytting fra utlandet til Norge og fra Norge til utlandet, såfremt inntekten i den nye stillingen er skattepliktig til Norge.
 
+#### Fradragsretten omfatter blant annet:
+
 - reisekostnader,
 - kostnader til flytting av innbo og løsøre, herunder pakking, emballasje, forsikring og lignende.
-Fradrag for flyttekostnader som skyldes overtakelse av en ny stilling inngår i
 
+Fradrag for flyttekostnader som skyldes overtakelse av en ny stilling inngår i [minstefradraget](https://www.skatteetaten.no/satser/minstefradrag/) i skattemeldingen din. Dersom du ikke benytter minstefradraget, skal du fremdeles føre fradraget for flyttekostnader.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/sluttet-eller-ny-jobb/flyttekostnader-ved-ny-stilling/) av norges-lover-bot.*
@@ -28,3 +29,4 @@ Fradrag for flyttekostnader som skyldes overtakelse av en ny stilling inngår i
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

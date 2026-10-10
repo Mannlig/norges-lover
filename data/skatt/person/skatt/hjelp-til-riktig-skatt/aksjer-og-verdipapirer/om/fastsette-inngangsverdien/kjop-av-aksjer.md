@@ -1,4 +1,4 @@
-<!-- innholds-hash: c3e57ab3667ff7d69a59f2948d584a854fcfaaec3268cabaa07261c35319c917 -->
+<!-- innholds-hash: 5f1212c13542dff2aa9f3fe59c180d32f9f386dc5d17eade276555497905c9d7 -->
 
 # Kjøp av aksjer
 
@@ -6,11 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/fastsette-inngangsverdien/kjop-av-aksjer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:40:00Z
+- **Sist oppdatert i arkivet:** 2026-10-09T23:35:35Z
 
 ## Innhold
-
-- Om aksjer og verdipapirer
 
 ## Kjøp av aksjer
 
@@ -20,8 +18,9 @@ Dette er en avtale mellom aksjonærer der prisen som hovedregel fastsettes i avt
 
 Aksjeanskaffelser skal meldes til selskapet og innføres i aksjeeierboken. For børsnoterte selskaper skjer dette hos Verdipapirsentralen gjennom kontoførere.
 
-Inngangsverdi settes lik vederlaget ved kjøpet inklusive eventuelle megleromkostninger, verdien av gjeldsovertakelse, naturalytelser og tjenester mv.
+### Hvordan bestemmes inngangsverdien for aksjer som er kjøpt?
 
+Inngangsverdi settes lik vederlaget ved kjøpet inklusive eventuelle megleromkostninger, verdien av gjeldsovertakelse, naturalytelser og tjenester mv.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/fastsette-inngangsverdien/kjop-av-aksjer/) av norges-lover-bot.*
@@ -29,3 +28,4 @@ Inngangsverdi settes lik vederlaget ved kjøpet inklusive eventuelle megleromkos
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

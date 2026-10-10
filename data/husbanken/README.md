@@ -2,12 +2,10 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 627
+**Antall dokumenter:** 624
 
 ## Innhold
 
-- [Nyheter fra Husbanken](aktuelt-presse.md)
-- [Arrange­menter i Husbanken](arrangement.md)
 - [Boligprisen](boligprisen.md)
 - [Boligpulsen 2026](boligpulsen.md)
 - [Bustad­sosial monitor](boligsosial-monitor.md)
@@ -26,10 +24,6 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Renter](rente.md)
 - [Sámegiella](samegiella.md)
 - [Tilskudd fra kommunen](tilskudd.md)
-
-### Aktuelt Presse
-
-- [Abonner på nyhets­brev og invita­sjoner](aktuelt-presse/nyhetsbrev.md)
 
 ### Boligsosialt Arbeid
 

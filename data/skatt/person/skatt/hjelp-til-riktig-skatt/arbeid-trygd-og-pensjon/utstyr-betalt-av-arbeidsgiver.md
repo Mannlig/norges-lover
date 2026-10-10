@@ -1,4 +1,4 @@
-<!-- innholds-hash: 06deefd820188174e7ac19fe43a1777be5da45641b9c4eff6000f078836ce64f -->
+<!-- innholds-hash: b8161600038b187470efa5027809462bd2df955045c8de22d40b597a55ef4616 -->
 
 # Skatt når arbeidsgiver betaler
 
@@ -6,33 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utstyr-betalt-av-arbeidsgiver/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T06:25:11Z
+- **Sist oppdatert i arkivet:** 2026-10-09T22:26:23Z
 
 ## Innhold
-
 
 ## Skatt når arbeidsgiver betaler
 
 Reiser, diett, overtidsmat, mobil, bredbånd og gaver betalt av din arbeidsgiver.
-
-
-### Dagdiett på reiser
-
-
-### Overtidsmat
-
-
-### Telefon og bredbånd betalt av arbeidsgiver
-
-
-### Gaver og reiser betalt av arbeidsgiver
-
-
-### Hjemmekontor og skatt
-
-
-### Bruke privatbil i jobb (kilometergodtgjørelse)
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/utstyr-betalt-av-arbeidsgiver/) av norges-lover-bot.*
@@ -40,3 +20,4 @@ Reiser, diett, overtidsmat, mobil, bredbånd og gaver betalt av din arbeidsgiver
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

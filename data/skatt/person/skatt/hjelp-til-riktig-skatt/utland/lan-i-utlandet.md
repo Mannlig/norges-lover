@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0efdbda8d46fea18618fd2b4aaccba354dae3d64c3d262596a89b8f561c6bf9f -->
+<!-- innholds-hash: 9e0776a5b0b5caad830decff7f2c48fb2028908bb9c01766b2de513b2b16eec3 -->
 
 # Lån i utlandet
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/lan-i-utlandet/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:09:56Z
+- **Sist oppdatert i arkivet:** 2026-10-09T23:05:36Z
 
 ## Innhold
-
 
 ## Lån i utlandet
 
@@ -19,9 +18,10 @@ Er du skattemessig bosatt i Norge har du krav på fradrag for gjeldsrenter. Frad
 
 - du utøver/deltar i virksomhet i utlandet og inntekter av virksomheten er unntatt beskatning i Norge etter skatteavtale.
 - du har fast eiendom i utlandet og inntekter av eiendommen ikke er skattepliktig i Norge etter skatteavtale.
-Fradraget skal likevel ikke begrenses dersom du eier bolig eller fritidsbolig i en annen EØS-stat og skatteavtalen sier at inntekten ikke skal beskattes i Norge.
 
-Har du krevd fradrag for gjeldsrenter i det landet der boligen eller fritidsboligen ligger, kan du ikke
+Fradraget skal likevel ikke begrenses dersom du eier bolig eller fritidsbolig i en annen EØS-stat og skatteavtalen sier at inntekten ikke skal beskattes i Norge. Det samme gjelder når du er borger av et EØS-land og er bosatt i det landet etter skatteavtalen Norge har inngått med landet. Du må også ha hatt hele eller tilnærmet hele (minst 90%) av din samlede inntekt i Norge.
+
+Har du krevd fradrag for gjeldsrenter i det landet der boligen eller fritidsboligen ligger, kan du ikke samtidig kreve fradrag for dette beløpet i Norge.
 
 Er du ikke skattemessig bosatt i Norge, har du i utgangspunktet bare krav på fradrag for gjeldsrenter som er knyttet til fast eiendom i Norge eller næringsvirksomhet som er skattepliktig i Norge.
 
@@ -37,13 +37,17 @@ Dette legger du selv inn i skattemeldingen din. Skatteetaten regner automatisk o
 
 I noen tilfeller, for eksempel hvis du leverer vedleggsskjemaer som ikke automatisk omregner valutaen, må du regne om utenlandsk valuta selv.
 
+[Omregning av utenlandsk valuta til norske kroner](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/omregning-av-utenlandsk-valuta-til-norske-kroner/)
+
 Hvis vi spør må du kunne dokumentere:
 
 - gjeld og gjeldsrenter med bekreftelse fra låneinstitusjonen
 - hvis du har bolig/fritidsbolig i annen EØS-stat, må du kunne dokumentere at du ikke har krevd fradrag for gjeldsrentene i det landet boligen ligger
 - hvis du ikke er skattemessig bosatt i Norge og krever fradrag for gjeldsrenter, må du kunne dokumentere at hele eller tilnærmet hele din inntekt er skattepliktig i Norge. Sammenligningsgrunnlaget er din totale inntekt før fradrag i de ulike land.
-Du trenger ikke sende oss dokumentasjon på dette, men du må kunne legge fram dokumentasjon hvis vi spør.
 
+Viktig informasjon
+
+Du trenger ikke sende oss dokumentasjon på dette, men du må kunne legge fram dokumentasjon hvis vi spør.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/lan-i-utlandet/) av norges-lover-bot.*
@@ -51,3 +55,4 @@ Du trenger ikke sende oss dokumentasjon på dette, men du må kunne legge fram d
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)

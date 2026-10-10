@@ -1,4 +1,4 @@
-<!-- innholds-hash: 646c9930e6adab2b1b8b6fb4dc642c72fd5f2f7aecf827653f96d9d5b29d13ca -->
+<!-- innholds-hash: 0f62118b63527597fa108995bc7ff11b9046fd49b423f0018120171dc27cf9f0 -->
 
 # Merverdiavgift på tjenester virksomheten har kjøpt fra utlandet
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/tjenester/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T05:54:16Z
+- **Sist oppdatert i arkivet:** 2026-10-09T21:36:16Z
 
 ## Innhold
-
 
 ## Merverdiavgift på tjenester virksomheten har kjøpt fra utlandet
 
@@ -17,24 +16,23 @@ Her får du hjelp til å avgjøre om og hvordan du skal rapportere, og eventuelt
 
 For å vite hva som gjelder deg må du svare på inntil seks spørsmål.
 
-En fjernleverbar tjeneste er en tjeneste som kan leveres over avstand.
+Alle felt må fylles ut.
 
-Eksempler på tjenester som kan være fjernleverbare:
+1
 
-- Markedsføringsannonser fra for eksempel Google eller Facebook
-- Programvare eller programvarelisenser
-- Utvikling av nettsider og programvare
-- Leie av domener og nettsider
-- Juridisk rådgivning
-- Arkitekttjenester
-- Konsulent- og rådgivningstjenester
-- Regnskapstjenester
+Har du kjøpt eller planlegger du å kjøpe fjernleverbare tjenester fra utlandet?
+
+En fjernleverbar tjeneste er en tjeneste som kan leveres over avstand. Eksempler på tjenester som kan være fjernleverbare:
+
+Ja
+
+Nei
+
 Denne veilederen omhandler hvorvidt kjøp av fjernleverbare tjenester fra utlandet skal avgiftsberegnes eller ikke. Den gir generell veiledning ut fra spørsmålene du blir bedt om å svare på. Alle kjøp av tjenester må vurderes konkret. Fordi ikke alle de skatte- og avgiftsmessige forhold blir vurdert, er informasjonen ikke et bindende svar fra oss.
 
-For de aller fleste tjenester er det ordinær merverdiavgiftssats på 25 prosent som skal brukes. Vær likevel oppmerksom på at det for enkelte tjenester er redusert sats. Er du i tvil,
+For de aller fleste tjenester er det ordinær merverdiavgiftssats på 25 prosent som skal brukes. Vær likevel oppmerksom på at det for enkelte tjenester er redusert sats. Er du i tvil, [ta kontakt med oss.](https://www.skatteetaten.no/kontakt-gammel/)
 
-Denne veiviseren gir kun generell veiledning knyttet til mval. §§ 3-30 (1) – (2) og 11-3. For utfyllende informasjon knyttet til regelverket, kan du lese i
-
+Denne veiviseren gir kun generell veiledning knyttet til mval. §§ 3-30 (1) – (2) og 11-3. For utfyllende informasjon knyttet til regelverket, kan du lese i [Merverdiavgiftshåndboken.](https://www.skatteetaten.no/rettskilder/type/handboker/merverdiavgiftshandboken/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/tjenester/) av norges-lover-bot.*
@@ -42,3 +40,4 @@ Denne veiviseren gir kun generell veiledning knyttet til mval. §§ 3-30 (1) –
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-09** Innhold endret (se git-historikk for diff)
