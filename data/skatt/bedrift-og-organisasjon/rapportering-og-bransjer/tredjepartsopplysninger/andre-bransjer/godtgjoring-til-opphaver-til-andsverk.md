@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5334e71b79eb6ca0f947c5d9a6e92e49ee20fbfba37d982591404d27b2cbbf9c -->
+<!-- innholds-hash: 7228c212fd3f5c706eb6fb1adc4f7c2632127c8bca62b371ab322c7c174d759c -->
 
 # Godtgjoring til opphaver til åndsverk
 
@@ -6,23 +6,29 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T22:56:36Z
+- **Sist oppdatert i arkivet:** 2026-10-10T11:05:05Z
 
 ## Innhold
 
-- Andre bransjer
-
 ## Godtgjoring til opphaver til åndsverk
 
-Næringsdrivende, skattefrie selskaper, foreninger og institusjoner, offentlige og kommunale myndigheter som betaler godtgjøring eller honorar til opphaver til åndsverk for bruk av selve opphavsretten, skal rapportere til Skatteetaten
+Næringsdrivende, skattefrie selskaper, foreninger og institusjoner, offentlige og kommunale myndigheter som betaler godtgjøring eller honorar til opphaver til åndsverk for bruk av selve opphavsretten, skal rapportere til Skatteetaten. Tidligere RF-1357.
+
+### Hvem gjelder det?
 
 Næringsdrivende, skattefrie selskaper, foreninger og institusjoner, offentlige og kommunale myndigheter som betaler godtgjøring eller honorar til opphaver til åndsverk for bruk av selve opphavsretten.
 
-Med
+Med opphaver menes både den som har opphavsrett til verket som skaper av det, og den som har overtatt opphavsretten til verket ved kjøp, gave eller arv.
+
+### Send inn opplysninger
 
 Du kan velge mellom disse tre løsningene for å rapportere tredjepartsopplysninger:
 
+#### Fyll ut skjemaet selv
+
 Logg inn og fyll ut:
+
+[Godtgjoring til opphaver til åndsverk](https://skatt.skatteetaten.no/web/innrapportering-aandsverk/)
 
 For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
 
@@ -31,6 +37,9 @@ For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
 - Regnskapsfører uten signeringsrett
 - Revisormedarbeider
 - Skattegrunnlag
+
+For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
+
 Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember 2026:
 
 - Ansvarlig revisor
@@ -40,39 +49,64 @@ Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember
 - Regnskapsmedarbeider
 - Revisormedarbeider
 - Utfyller/innsender
+
+I januar 2027 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
+
+NB! Enkelttjenestedelegering må gjøres på nytt for de nye skjemaene.
+
 Hvis tilgangen til Altinn II-skjemaet var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt.
 
 Hvis du ikke har noen av disse rollene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn.
 
-Kontakt
+Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
 
-Er det noe du lurer på, kan du lese
+Er det noe du lurer på, kan du lese [rettledningen for utfylling og innlevering av tredjepartsopplysninger om godtgjøring til opphaver til åndsverk](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/rettledning/).
 
-Filen som lastes opp i skjemaet skal være i XML-format og følge Skatteetatens spesifikasjoner.
+#### Last opp opplysningene som filvedlegg
+
+[Tredjepartsopplysninger med vedlegg](https://www.skatteetaten.no/skjema/tredjepartsopplysninger-som-vedlegg/)
+
+Filen som lastes opp i skjemaet skal være i XML-format og følge Skatteetatens spesifikasjoner. [Formatbeskrivelser og veiledning for innsending finner du her](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/formater-og-tekniske-spesifikasjoner/).
+
+#### Send inn med datasystem
 
 Rapportering via datasystem (sluttbrukersystem) forutsetter at din dataleverandør har laget støtte for å sende tredjepartsopplysninger.
 
-Leverandører som ønsker å utvikle støtte for innsending av tredjepartsopplysninger finner informasjon om integrasjon mot skatteetatens API-løsninger på
+#### For sluttbrukersystemer:
 
-- Leveringsfrist for ordinære oppgaver er
-- Frist for å sende årsoppgave til den skattepliktige er
-- Siste frist for å få korreksjoner med på forhåndsutfylt skattemelding er
+Leverandører som ønsker å utvikle støtte for innsending av tredjepartsopplysninger finner informasjon om integrasjon mot skatteetatens API-løsninger på [informasjonssiden for sluttbrukersystemer](https://www.skatteetaten.no/samarbeidspartnere/sluttbrukersystemer/).
+
+### Hjelp til utfylling og levering
+
+[Rettledning for utfylling og innlevering av tredjepartsopplysninger om godtgjøring til opphaver til åndsverk](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/rettledning/)
+
+### Datoer og frister
+
+- Leveringsfrist for ordinære oppgaver er 15. februar.
+- Frist for å sende årsoppgave til den skattepliktige er 15. februar.
+- Siste frist for å få korreksjoner med på forhåndsutfylt skattemelding er 1. mars.
+
 Når fristen faller på en helg eller helligdag er det første virkedag etter fristen som gjelder.
+
+### Oppdater kontaktopplysninger
 
 Skatteetaten har et oppgavegiverregister over opplysningspliktige og andre som sender inn tredjepartsopplysninger.
 
-Du må
+Du må [sende inn skjema](https://www.skatteetaten.no/skjema/tredjepartsopplysninger---nye-opplysninger-til-oppgavegiverregisteret/) hvis du skal:
 
 - registrere en ny opplysningspliktig
-- melde en opplysningspliktig ut av oppgavegiverregisteret (benyttes bare når opplysningsplikt opphører)
+- melde en opplysningspliktig ut av oppgavegiverregisteret (benyttes bare når opplysningsplikt opphører)
+- endre navn eller telefonnummer til deres kontaktperson
+
 Vi henter automatisk organisasjonsnavn og adresse til opplysningspliktige fra Enhetsregisteret.
+
+### Kontakt oss
 
 For spørsmål om rapportering av tredjepartsopplysninger:
 
-E-post:
+E-post: grunnlagsdata@skatteetaten.no Telefon: 800 80 000
 
 Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/) av norges-lover-bot.*
@@ -80,3 +114,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-10** Innhold endret (se git-historikk for diff)
