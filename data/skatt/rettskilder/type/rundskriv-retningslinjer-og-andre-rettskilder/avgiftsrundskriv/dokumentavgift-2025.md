@@ -1,4 +1,4 @@
-<!-- innholds-hash: a5035d16549b9fd148b31a86f4062cfe970a2e6055b3e9e5c88aa901032e36af -->
+<!-- innholds-hash: 3a9317c7f9513700d6869bc6fbd92438ea881ce601054558edf2f96112f4b63a -->
 
 # Årsrundskriv for dokumentavgift 2025
 
@@ -6,22 +6,31 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2025/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:50:55Z
+- **Sist oppdatert i arkivet:** 2026-10-11T01:22:11Z
 
 ## Innhold
 
+Avgiftsrundskriv
 
 ## Årsrundskriv for dokumentavgift 2025
 
-- Gjelder fra
+- Gjelder fra 01.01.2025
+
 Her kan du laste ned årsrundskriv for dokumentavgiften for 2025.
 
 Last ned årsrundskriv (PDF):
+
+[Dokumentavgift 2025](https://www.skatteetaten.no/globalassets/rettskilder/avgiftsrundskriv/dokumentavgift-2025.pdf)
+
+### Kort om rundskrivet
 
 Årsrundskrivene for særavgiftene er utarbeidet av Skattedirektoratet med det formål å gi en omtale av regelverket knyttet til denne avgiften, med særlig vekt på skattemyndighetenes praksis.
 
 Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har interesse av, og behov for, informasjon om regelverket.
 
+### Andre år
+
+[Se oversikt over avgiftsrundskriv for andre år](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/?filter=4489)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2025/) av norges-lover-bot.*
@@ -29,3 +38,4 @@ Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-11** Innhold endret (se git-historikk for diff)

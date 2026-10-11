@@ -1,4 +1,4 @@
-<!-- innholds-hash: 530331e7c253d63869ca44e439eef2a75537d64e0762ca91456a7e526417bf89 -->
+<!-- innholds-hash: c3b318d6e2183b8d3ed0e86eeaaf16caa2c467937b75d70123a8f426a4626f4e -->
 
 # Årsrundskriv for dokumentavgift 2024
 
@@ -6,22 +6,31 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2024/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:50:13Z
+- **Sist oppdatert i arkivet:** 2026-10-11T01:21:07Z
 
 ## Innhold
 
+Avgiftsrundskriv
 
 ## Årsrundskriv for dokumentavgift 2024
 
-- Gjelder fra
+- Gjelder fra 01.01.2024
+
 Her kan du laste ned årsrundskriv for dokumentavgiften for 2024.
 
 Last ned årsrundskriv (PDF):
+
+[Dokumentavgift 2024](https://www.skatteetaten.no/globalassets/rettskilder/avgiftsrundskriv/dokumentavgift-2024.pdf)
+
+### Kort om rundskrivet
 
 Årsrundskrivene for særavgiftene er utarbeidet av Skattedirektoratet med det formål å gi en omtale av regelverket knyttet til denne avgiften, med særlig vekt på skattemyndighetenes praksis.
 
 Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har interesse av, og behov for, informasjon om regelverket.
 
+### Andre år
+
+[Se oversikt over avgiftsrundskriv for andre år](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/?filter=4489)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2024/) av norges-lover-bot.*
@@ -29,3 +38,4 @@ Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-11** Innhold endret (se git-historikk for diff)

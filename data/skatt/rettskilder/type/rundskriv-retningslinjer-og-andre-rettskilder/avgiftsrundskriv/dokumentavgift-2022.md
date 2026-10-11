@@ -1,4 +1,4 @@
-<!-- innholds-hash: e3c3c6899620afe4582d9bc17432aca9c580b9b3c6bf47e4370ce0835957921c -->
+<!-- innholds-hash: 9d5b2437f90c8bf166fab52d5eae1cb603ec1abe10a0a26f0e106130b501797f -->
 
 # Årsrundskriv for dokumentavgift 2022
 
@@ -6,22 +6,31 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2022/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:48:47Z
+- **Sist oppdatert i arkivet:** 2026-10-11T01:19:00Z
 
 ## Innhold
 
+Avgiftsrundskriv
 
 ## Årsrundskriv for dokumentavgift 2022
 
-- Gjelder fra
+- Gjelder fra 01.01.2022
+
 Her kan du laste ned årsrundskriv for dokumentavgiften for 2022.
 
 Last ned årsrundskriv (PDF):
+
+[Dokumentavgift 2022](https://www.skatteetaten.no/globalassets/rettskilder/avgiftsrundskriv/dokumentavgift-2022---01.01.2022.pdf)
+
+### Kort om rundskrivet
 
 Årsrundskrivene for særavgiftene er utarbeidet av Skattedirektoratet med det formål å gi en omtale av regelverket knyttet til denne avgiften, med særlig vekt på skattemyndighetenes praksis.
 
 Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har interesse av, og behov for, informasjon om regelverket.
 
+### Andre år
+
+[Se oversikt over avgiftsrundskriv for andre år](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/?filter=4489)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/dokumentavgift-2022/) av norges-lover-bot.*
@@ -29,3 +38,4 @@ Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-11** Innhold endret (se git-historikk for diff)
