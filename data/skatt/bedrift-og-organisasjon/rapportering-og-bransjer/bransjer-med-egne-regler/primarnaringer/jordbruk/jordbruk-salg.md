@@ -1,4 +1,4 @@
-<!-- innholds-hash: ea2638137f5cf5adf1250f121c2e43e1d3ebe4bd33c6c361e83cc29dd7c889bd -->
+<!-- innholds-hash: 19c06a5b2d137cec06f8a50c835538df8d0680594d9bc881da3c6bedc95193b6 -->
 
 # Skatt når du selger jordbruks- eller skogbrukseiendom
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/primarnaringer/jordbruk/jordbruk-salg/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:53:09Z
+- **Sist oppdatert i arkivet:** 2026-10-11T21:27:42Z
 
 ## Innhold
-
 
 ## Skatt når du selger jordbruks- eller skogbrukseiendom
 
@@ -17,6 +16,17 @@ Hvor mye skatt du skal betale når du selger eiendommen, avhenger blant annet av
 
 Svar på noen spørsmål, så hjelper vi deg:
 
+Alle felt må fylles ut.
+
+1
+
+Hva skal du selge?
+
+Hva skal du selge?
+
+Hele eiendommen Eiendommen med bolig og driftsbygninger
+
+Deler av eiendommen Bare areal, bolig, driftsbygning eller tomt
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/bransjer-med-egne-regler/primarnaringer/jordbruk/jordbruk-salg/) av norges-lover-bot.*
@@ -24,3 +34,4 @@ Svar på noen spørsmål, så hjelper vi deg:
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-11** Innhold endret (se git-historikk for diff)

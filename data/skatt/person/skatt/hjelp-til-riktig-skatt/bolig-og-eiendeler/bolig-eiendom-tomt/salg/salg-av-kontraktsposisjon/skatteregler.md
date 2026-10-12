@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8c9726cfdf42e5f9076ac4bd7c79dd76f599e8afb543d58c0e45a1bd3b64c18f -->
+<!-- innholds-hash: ce1ad229720aaaf0e0b4894f1a663d2c2a0132690df8a175861f0d3e9f0635d6 -->
 
 # Skatteregler - salg av kontraktsposisjon
 
@@ -6,10 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/salg/salg-av-kontraktsposisjon/skatteregler/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-21T06:56:29Z
+- **Sist oppdatert i arkivet:** 2026-10-11T21:33:11Z
 
 ## Innhold
-
 
 ## Skatteregler - salg av kontraktsposisjon
 
@@ -19,6 +18,7 @@ En eventuell gevinst ved et videresalg av kontraktsposisjon vil være skatteplik
 
 Om selger er forbruker (privatperson) eller profesjonell part vil i utgangspunktet ikke medføre noen forskjell for skatteplikten; I begge tilfeller er det snakk om salg av et formuesobjekt (kontraktsposisjon) og gevinsten er i utgangspunktet skattepliktig.
 
+[Se hvor mye skatt du skal betale](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/salg/salg-av-kontraktsposisjon/hvor-mye-skatt-skal-du-betale/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/salg/salg-av-kontraktsposisjon/skatteregler/) av norges-lover-bot.*
@@ -26,3 +26,4 @@ Om selger er forbruker (privatperson) eller profesjonell part vil i utgangspunkt
 ## Endringshistorikk
 
 - **2026-05-21** Første gang hentet
+- **2026-10-11** Innhold endret (se git-historikk for diff)
