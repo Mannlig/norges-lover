@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4d1691f5c1c0aaba45af7ff6ce7fa9d4f519e57ded41e83f91a6d3db3c6ba3f -->
+<!-- innholds-hash: aa7b57e9a664bfb0dfc2c93dd60cd282f4e7bacbbd9ab218602d52e0a6346502 -->
 
 # Motregning
 
@@ -6,11 +6,9 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/motregning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-20T14:27:01Z
+- **Sist oppdatert i arkivet:** 2026-10-12T03:22:29Z
 
 ## Innhold
-
-- Om betaling og innkreving
 
 ## Motregning
 
@@ -32,34 +30,42 @@ Du vil ikke få medhold i klagen din hvis for eksempel
 - du har bestilt ferie
 - du har et privat lån du hadde tenkt til å nedbetale
 - du hadde tenkt å sette av pengene til sparing
+
 Logg inn og fyll ut RF-1373:
 
-For å kunne sende inn skjemaet for andre, må du ha tilgang på vegne av personen eller virksomheten du representerer. Oversikt over dine roller og rettigheter finner du i
+[Send klage](https://skatt.skatteetaten.no/web/klage-pa-eller-henvendelse-om-motregning-bidrag-og-tilbakebetaling/)
+
+For å kunne sende inn skjemaet for andre, må du ha tilgang på vegne av personen eller virksomheten du representerer. Oversikt over dine roller og rettigheter finner du i [din profil i Altinn (altinn.no)](https://af.altinn.no/profile).
 
 For å fylle ut og sende inn skjemaet, må du ha enten
 
 - Altinn-rollen Begrenset signeringsrett
+
 eller
 
-- tilgangspakke Innkreving
-Kontakt
+- tilgangspakke Innkreving
 
-Du kan også sende klagen i posten. Klagen må være skriftlig og signert. Du må begrunne klagen din. Husk å legge ved relevant
+Kontakt [Altinn brukerservice (altinn.no)](https://www.altinn.no/hjelp/) hvis du har problemer med roller og rettigheter.
+
+Du kan også sende klagen i posten. Klagen må være skriftlig og signert. Du må begrunne klagen din. Husk å legge ved relevant [dokumentasjon](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/dokumentasjon/).
 
 Send klagen til:
 
-Skatteetaten
+Skatteetaten Postboks 455 8601 Mo i Rana
 
 Logg inn:
 
-Du kan også sende klagen i posten. Klagen må være skriftlig og signert. Du må begrunne klagen din. Husk å legge ved relevant
+[Send klage](https://skatt.skatteetaten.no/web/minside/person/kravoversikt)
+
+Du kan også sende klagen i posten. Klagen må være skriftlig og signert. Du må begrunne klagen din. Husk å legge ved relevant [dokumentasjon](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/dokumentasjon/).
 
 Send klagen til:
 
-Skatteetaten
+Skatteetaten Postboks 455 8601 Mo i Rana
+
+#### Klagefrist
 
 Fristen for å klage vil gå fram av brevet du har fått.
-
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/betaling-og-innkreving/om-innkreving/generelt/motregning/) av norges-lover-bot.*
@@ -67,3 +73,4 @@ Fristen for å klage vil gå fram av brevet du har fått.
 ## Endringshistorikk
 
 - **2026-05-20** Første gang hentet
+- **2026-10-12** Innhold endret (se git-historikk for diff)
