@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1888
+**Antall dokumenter:** 1889
 
 ## Innhold
 
@@ -1471,6 +1471,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Godtgjøring for stortingsrepresentanter og regjeringsmedlemmer](2025-2029/109130-godtgjoring-for-stortingsrepresentanter-og-regjeringsmedlemmer.md)
 - [Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/696 om opprettelse av EUs romprogram samt inngåelse av avtale mellom Norge og EU om regler for Norges deltakelse i GOVSATCOM-komponenten av EUs romprogram og i EUs program for sikker konnektivitet, samt for tilgang til GOVSATCOM-tjenester og til offentlige tjenester i EUs program for sikker konnektivitet, undertegnet i Brussel 26. mars 2026](2025-2029/110123-samtykke-til-godkjennelse-av-eos-komiteens-beslutning-nr-2282026-om-innlemmelse-i-eos-avtalen-av-for.md)
 - [Spørsmål til skriftlig besvarelse med svar](2025-2029/110288-sporsmal-til-skriftlig-besvarelse-med-svar.md)
+- [Fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2027](2025-2029/110536-fordeling-til-komiteene-av-rammeomrader-med-budsjettkapitler-og-utkast-til-romertallsvedtak-vedroren.md)
 - [Endringer i statsbudsjettet 2026 under Justis- og beredskapsdepartementet (operatør av redningshelikopterbasen i Tromsø mv.)](2025-2029/200002-endringer-i-statsbudsjettet-2026-under-justis-og-beredskapsdepartementet-operator-av-redningshelikop.md)
 - [Representantforslag fra stortingsrepresentantene Haagen Poppe og Anna Molberg om mer åpenhet og demokrati i kultursektoren](2025-2029/200003-representantforslag-fra-stortingsrepresentantene-haagen-poppe-og-anna-molberg-om-mer-apenhet-og-demo.md)
 - [Representantforslag fra stortingsrepresentantene Sofie Marhaug, Synne Høyforsslett og Mímir Kristjánsson om å avvikle Nysnø](2025-2029/200004-representantforslag-fra-stortingsrepresentantene-sofie-marhaug-synne-hoyforsslett-og-mímir-kristjáns.md)
