@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1887
+**Antall dokumenter:** 1888
 
 ## Innhold
 
@@ -1835,6 +1835,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Kari Sofie Bjørnsen, Amalie Gunnufsen, Haagen Poppe, Mahmoud Farahmand og Aleksander Stokkebø om likere strømpriser og et sterkere forbrukervern](2025-2029/200384-representantforslag-fra-stortingsrepresentantene-kari-sofie-bjornsen-amalie-gunnufsen-haagen-poppe-m.md)
 - [Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet](2025-2029/200385-riksrevisjonens-undersokelse-av-program-felles-ikt-tjenester-for-departementsfellesskapet.md)
 - [Riksrevisjonens undersøkelse av Bane NORs eiendomsvirksomhet](2025-2029/200386-riksrevisjonens-undersokelse-av-bane-nors-eiendomsvirksomhet.md)
+- [Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet](2025-2029/200387-redegjorelse-av-kultur-og-likestillingsministeren-om-mediepolitikk-og-ytringsfrihet.md)
 - [Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)](2025-2029/200388-endringer-i-statsbudsjettet-2026-under-helse-og-omsorgsdepartementet-utvidet-bestillingsfullmakt.md)
 - [Datatilsynets og Personvernnemndas årsrapportar for 2025](2025-2029/200389-datatilsynets-og-personvernnemndas-arsrapportar-for-2025.md)
 - [Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/696 om opprettelse av EUs romprogram samt inngåelse av avtale mellom Norge og EU om regler for Norges deltakelse i GOVSATCOM-komponenten av EUs romprogram og i EUs program for sikker konnektivitet, samt for tilgang til GOVSATCOM-tjenester og til offentlige tjenester i EUs program for sikker konnektivitet, undertegnet i Brussel 26. mars 2026](2025-2029/200390-samtykke-til-godkjennelse-av-eos-komiteens-beslutning-nr-2282026-om-innlemmelse-i-eos-avtalen-av-for.md)
