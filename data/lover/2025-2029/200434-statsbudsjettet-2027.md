@@ -1,4 +1,4 @@
-<!-- innholds-hash: b53d8594bba5863ed4e5b54eb834bf4598ac737c74770a15e231d40273df77f5 -->
+<!-- innholds-hash: 6bebb1bfcff056bc7e6745abce9ccbffae3adac7c58b22b539000a2cedc3d8b1 -->
 
 # Statsbudsjettet 2027 
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200434
 - **Type:** 1
 - **Korttittel:** Statsbudsjettet 2027 
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 1 S (2026–2027); Innst. 2 S (2026-2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-09T09:20:37Z
+- **Sist oppdatert i arkivet:** 2026-10-13T09:41:55Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200434
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200434,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Statsbudsjettet 2027 ",
   "sak_fremmet_id": 200434,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1791360000000+0200)/",
-  "status": 3,
+  "status": 2,
   "tittel": "Statsbudsjettet 2027 ",
   "type": 1
 }
@@ -48,3 +51,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)
