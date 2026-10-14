@@ -1,20 +1,20 @@
-<!-- innholds-hash: bc69374535b2d9866fb9c93ef7f680a96842ec4768ddd6250b4fbe21956cb35a -->
+<!-- innholds-hash: f4fa4f66769a2596bbf406f6427cf3555d60455373e6b07f3ac4418be5b62cec -->
 
-# Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle 
+# Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200420
 - **Type:** 2
-- **Korttittel:** Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle 
+- **Korttittel:** Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle
 - **Status:** 2
 - **Henvisning:** Dokument 8:2 S (2026–2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200420
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -93,12 +93,32 @@
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
   },
-  "korttittel": "Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle ",
+  "korttittel": "Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
   "sak_fremmet_id": 200420,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sande",
+      "foedselsdato": "/Date(279327600000+0100)/",
+      "fornavn": "Erling",
+      "id": "ESAN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "SF",
+        "navn": "Sogn og Fjordane"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle ",
+  "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
   "type": 2
 }
 ```
@@ -109,3 +129,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

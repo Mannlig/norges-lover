@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2e96e76ff52f75359b682e53f198f3e9b0f0c3d288c8f6e73f763126cfdcb1f -->
+<!-- innholds-hash: 9d16bdf491e04712ec31b882e28b8edf2d57e51392cb265368ff9cd33f265eb7 -->
 
 # Avvik og avvikshandtering
 
@@ -6,15 +6,21 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/avvik-og-avvikshandtering/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-07-11T09:54:09Z
+- **Sist oppdatert i arkivet:** 2026-10-13T22:15:36Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Avvik og avvikshandtering
 
 Alle verksemder skal ha rutinar for å avdekke, melde, rette opp og førebygge avvik frå helse-, miljø- og sikkerheitslovgivinga (HMS-lovgivinga).
-
 
 ### Brot på HMS-regelverket er avvik
 
@@ -22,12 +28,12 @@ Alle hendingar som inneber brot på lovverket, blir rekna som avvik. Avvik kan d
 
 Omgrepet avvik omfattar alt som avvik frå sikker drift i verksemda, utan omsyn til bransje eller arbeidsoppgåver. Normale variasjonar i den daglege drifta er ikkje rekna som avvik.
 
-
 ### Eksempel på avvik
 
 Årsaka til uønskte hendingar skal registrerast som avvik:
 
 - Årsaka til alvorlege hendingar eller ulykker som har ført til skadar på menneske, miljø eller utstyr. Eksempel er årsaker til arbeidsulykker og arbeidsrelatert sjukdom, skadar på materiell og miljø, brann og miljø- eller helseskadelege utslepp.
+
 Andre hendingar er kanskje ikkje like synlege, men bør likevel registrerast som avvik:
 
 - Årsaker til nestenulykker som under andre omstende kunne fått verre utfall. Det kan vere feil på sikkerheitskritisk utstyr som blir oppdaga i tide, ein open ventil som blir lukka, eller dårleg emballasje som må skiftast ut før det blir lekkasjar.
@@ -46,13 +52,13 @@ I den vesle historia vår er avviket at verksemda ikkje hadde følgt rutinane fo
 
 I all avvikshandtering må du stille spørsmålet «kvifor?». Det må til for å finne den eigentlege, bakanforliggande grunnen til hendinga, og ikkje berre kva som vart resultatet av avviket.
 
-
 ### Arbeidsgivaren har ansvaret
 
 Det er ikkje skaden som er avviket – det er årsaka til skaden som skal registrerast som avvik.
 
 Det er arbeidsgivaren som har ansvaret for at regelverket blir følgt, også når det gjeld helse, miljø og sikkerheit. Arbeidsgivaren har dermed òg ansvaret for at verksemda har, og brukar, eit system for å registrere og handtere avvik.
 
+[Les meir om systematisk internkontroll](https://www.arbeidstilsynet.no/hms/internkontroll/#Skriftligdokumentasjon)
 
 #### Registrer og handter avvik
 
@@ -70,11 +76,9 @@ Registrer òg årsaker til nestenulykker som avvik, sjølv om det gjekk bra denn
 
 Det kan koste meir å handtere skadane etter ei uønskt hending enn det kostar å førebygge årsakene til at hendinga oppstår.
 
-
 #### Bygg ein god kultur for avviksmelding
 
 Eit levande avvikssystem er ein del av internkontrollen. For at systemet skal fungere, må arbeidsgivaren legge til rette for ein HMS-kultur der det ikkje berre er godteke, men forventa, at tilsette på alle nivå melder frå om avvik. I tillegg må arbeidstakarane kunne vere trygge på at arbeidsgivaren faktisk følger opp avvika og handterer dei seriøst.
-
 
 #### Samanhengen mellom avvik og risikovurdering
 
@@ -83,18 +87,19 @@ Oversikta over avvik som er registrert, bør inngå som ein del av dokumentasjon
 - redusere talet på avvik
 - redusere moglege kostnader som følge av avvika
 
+[Les meir om risikovurdering](https://www.arbeidstilsynet.no/hms/risikovurdering/)
+
 ### Ansvaret til arbeidstakaren
 
 Alle medarbeidarane har plikt til straks å melde frå om avvik eller manglar på arbeidsplassen. Det bidrar til at verksemda kan lære av feila sine.
 
+[Les meir om arbeidstakaren si plikt til å medverke](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/arbeidstakers-plikter/)
 
 ### Regelverk
 
+[Krav til å registrere og følge opp avvik: internkontrollforskrifta § 5 punkt 7](https://www.arbeidstilsynet.no/regelverk/forskrifter/internkontrollforskriften//#85793)
 
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/hms/avvik-og-avvikshandtering/) av norges-lover-bot.*
@@ -103,3 +108,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 
 - **2026-05-22** Første gang hentet
 - **2026-07-11** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

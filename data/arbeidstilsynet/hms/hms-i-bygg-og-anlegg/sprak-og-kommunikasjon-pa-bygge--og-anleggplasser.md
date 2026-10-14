@@ -1,4 +1,4 @@
-<!-- innholds-hash: 91c70d8af11dd522e9d1c7029b2c34f23efc5d1b35bf2d2a352995ca937047a5 -->
+<!-- innholds-hash: c02cf0f1f5e229c796c7daa6196d57a9e05f597967e9e3ae4ddfcc186072d14b -->
 
 # Språk og kommunikasjon på bygge- og anleggsplasser
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/hms-i-bygg-og-anlegg/sprak-og-kommunikasjon-pa-bygge--og-anleggplasser/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-06T15:46:22Z
+- **Sist oppdatert i arkivet:** 2026-10-13T23:29:45Z
 
 ## Innhold
 
@@ -21,6 +21,8 @@ Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųP
 ## Språk og kommunikasjon på bygge- og anleggsplasser
 
 Dårlig kommunikasjon i bygge- og anleggsbransjen er en betydelig sikkerhetsrisiko. Spesielt når arbeidet involverer mange utenlandske arbeidstakere og virksomheter. Det må arbeidsgiver ta hensyn til i HMS-arbeidet.
+
+### Språk, kultur og kommunikasjon
 
 Det at arbeidstakere fra ulike land ikke forstår hverandres språk og kulturer, stiller ekstra store krav til at arbeidsgiverne arbeider systematisk med helse, miljø og sikkerhet (HMS).
 
@@ -55,17 +57,15 @@ Krav til språk og kommunikasjon på arbeidsplassen er regulert flere steder i l
 
 Arbeidsgiver må hele tiden spørre seg: Når blir kommunikasjon en sikkerhetsrisiko? Når virksomheten har ansatte eller innleide med forskjellige språk og kulturer, bør den ha retningslinjer på dette området.
 
-### Hvordan forventes de ulike aktørene på bygge- eller anleggsplassen å følge opp regelverket?
-
-#### Før arbeidet settes i gang
+### Oppfølging av regelverket før arbeidet settes i gang
 
 Denne fasen omfatter både prosjekteringsfasen, og de enkelte virksomhetenes planlegging i gjennomføringsfasen.
 
-#### Utførelsesfasen
+### Oppfølging av regelverket i utførelsesfasen
 
 Denne fasen omfatter selve bygge- eller anleggsarbeidet.
 
-#### Samordning mellom aktørene
+### Samordning mellom aktørene
 
 Hovedansvar knyttet til språkproblematikk ligger hos den enkelte arbeidsgiver, men på bygge- og anleggsplasser arbeider gjerne flere virksomheter sammen. Hovedbedriften har ansvaret for samordningen av de enkelte virksomhetenes helse-, miljø- og sikkerhetsarbeid. Når kommunikasjonen mellom virksomhetene ikke er god nok, må hovedbedriften påpeke dette overfor de aktuelle virksomhetene, som igjen skal sørge for at manglende kommunikasjon ikke utgjør en risiko.
 
@@ -82,3 +82,4 @@ Fann du det du leitte etter?
 
 - **2026-05-22** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ae4864e9ed2177322eb0feb5c6ac7985c13a5c6127b0c878429b8f11a91a730c -->
+<!-- innholds-hash: 8ebd126d66425d3cca7904e796ca1d984f40221d6362d1fe85ad33dd37b46b97 -->
 
 # Arbeidsmiljø
 
@@ -6,104 +6,77 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist hentet:** 2026-05-22T00:18:12Z
+- **Sist oppdatert i arkivet:** 2026-10-13T22:07:28Z
 
 ## Innhold
 
+### Chatbot
+
+Tegnteller: 0 av 140 tegn
+
+Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųPortuguêsRomânăРусскийEspañolУкраїнськаDeutschTürkçe
+
+- [Personvern](https://www.arbeidstilsynet.no/om-oss/personvern)
 
 ## Arbeidsmiljø
-
 
 ## Arbeidsmiljø
 
 Her kan du lese mer om forebygging av arbeidsrelaterte plager som følge av forhold i arbeidsmiljøet, og andre faktorer som har betydning for arbeidsmiljøet.
 
-Det lønner seg å investere i arbeidsmiljøet. I gode arbeidsmiljø øker produktiviteten, trivselen og motivasjonen for arbeidet. Sykefraværet går også ned. Prøv gjerne
+Det lønner seg å investere i arbeidsmiljøet. I gode arbeidsmiljø øker produktiviteten, trivselen og motivasjonen for arbeidet. Sykefraværet går også ned. Prøv gjerne [Arbeidsmiljøhjelpen,](https://arbeidsmiljohjelpen.arbeidstilsynet.no/) et gratis verktøy for å utvikle og forbedre arbeidsmiljøet.
 
+[Ambulansestasjoner – krav til arbeidslokaler og arbeidstøy](https://www.arbeidstilsynet.no/arbeidsmiljo/krav-til-arbeidslokaler-og-arbeidstoy-i-ambulansetjenesten/)
 
-#### Ambulansestasjoner – krav til arbeidslokaler og arbeidstøy
+[Arbeidsrelaterte muskel- og skjelettplager](https://www.arbeidstilsynet.no/arbeidsmiljo/arbeidsrelaterte-muskel--og-skjelettplager/)
 
+[Arbeidsrelaterte psykiske plager](https://www.arbeidstilsynet.no/arbeidsmiljo/arbeidsrelaterte-psykiske-plager/)
 
-#### Arbeidsrelaterte muskel- og skjelettplager
+[Ergonomisk arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/ergonomi/)
 
+[Forebygging av arbeidsrelaterte skader og sykdommer blant yrkessjåfører](https://www.arbeidstilsynet.no/arbeidsmiljo/forebygging-skader-sykdommer-yrkessjaforer/)
 
-#### Arbeidsrelaterte psykiske plager
+[Graviditet og arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/)
 
+[Helsefremmande arbeidsplassar](https://www.arbeidstilsynet.no/arbeidsmiljo/helsefremmande-arbeidsplassar/)
 
-#### Ergonomisk arbeidsmiljø
+[Inkluderande arbeidsliv](https://www.arbeidstilsynet.no/arbeidsmiljo/inkluderende-arbeidsliv/)
 
+[Inneklima og luftkvalitet på arbeidsplassen](https://www.arbeidstilsynet.no/arbeidsmiljo/inneklima/)
 
-#### Forebygging av arbeidsrelaterte skader og sykdommer blant yrkessjåfører
+[Innkvartering av arbeidstakere](https://www.arbeidstilsynet.no/arbeidsmiljo/innkvartering-av-arbeidstakere/)
 
+[Organisatorisk arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/organisatorisk-arbeidsmiljo/)
 
-#### Graviditet og arbeidsmiljø
+[Psykososialt arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/)
 
+[Røyking på arbeidsplassen](https://www.arbeidstilsynet.no/arbeidsmiljo/royking-pa-arbeidsplassen/)
 
-#### Helsefremmande arbeidsplassar
+[Stress](https://www.arbeidstilsynet.no/arbeidsmiljo/stress/)
 
+[Temperatur - varme og kulde på jobben](https://www.arbeidstilsynet.no/arbeidsmiljo/temperatur/)
 
-#### Inkluderande arbeidsliv
+[Trakassering](https://www.arbeidstilsynet.no/arbeidsmiljo/trakassering/)
 
+[Utforming av arbeidsplassen](https://www.arbeidstilsynet.no/arbeidsmiljo/utforming-av-arbeidsplassen/)
 
-#### Inneklima og luftkvalitet på arbeidsplassen
+[Varsling](https://www.arbeidstilsynet.no/arbeidsmiljo/varsling/)
 
+[Vold og trusler i arbeidslivet](https://www.arbeidstilsynet.no/arbeidsmiljo/vold-og-trusler/)
 
-#### Innkvartering av arbeidstakere
-
-
-#### Organisatorisk arbeidsmiljø
-
-
-#### Psykososialt arbeidsmiljø
-
-
-#### Røyking på arbeidsplassen
-
-
-#### Stress
-
-
-#### Temperatur - varme og kulde på jobben
-
-
-#### Trakassering
-
-
-#### Utforming av arbeidsplassen
-
-
-#### Varsling
-
-
-#### Vold og trusler på arbeidsplassen
-
-
-#### Ytringsklima på arbeidsplassen
-
+[Ytringsklima på arbeidsplassen](https://www.arbeidstilsynet.no/arbeidsmiljo/ytringsklima-pa-arbeidsplassen/)
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
 
+[Skap et bedre arbeidsmiljø Et godt arbeidsmiljø kan øke produktivitet, trivsel og motivasjon for arbeidet, og redusere sykefravær. Bruk Arbeidsmiljøhjelpen og snakk sammen om tema som har stor betydning for helse og sykefravær i din bransje. Prøv Arbeidsmiljøhjelpen](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-#### Skap et bedre arbeidsmiljø
+[Skap et bedre arbeidsmiljø](https://arbeidsmiljohjelpen.arbeidstilsynet.no/)
 
-Godt arbeidsmiljø kan øke produktivitet, trivsel og redusere sykefraværet. Bruk Arbeidsmiljøhjelpen og snakk sammen om det som har størst betydning for helse og sykefravær i din bransje.
+[Få kunnskap om arbeidsmiljø På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje. Besøk arbeidsmiljøportalen.no](https://www.arbeidsmiljoportalen.no/)
 
+[Få kunnskap om arbeidsmiljø](https://www.arbeidsmiljoportalen.no/)
 
-#### Skap et bedre arbeidsmiljø
-
-
-#### Få kunnskap om arbeidsmiljø
-
-På arbeidsmiljøportalen finner du kunnskap og fakta om arbeidsmiljø i din bransje.
-
-
-#### Få kunnskap om arbeidsmiljø
-
-
-### Fann du det du leitte etter?
-
-Denne sida er beskytta av reCaptcha, og Googles
-
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/arbeidsmiljo/) av norges-lover-bot.*
@@ -111,3 +84,4 @@ Denne sida er beskytta av reCaptcha, og Googles
 ## Endringshistorikk
 
 - **2026-05-22** Første gang hentet
+- **2026-10-13** Innhold endret (se git-historikk for diff)

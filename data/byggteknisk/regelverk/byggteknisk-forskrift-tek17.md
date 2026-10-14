@@ -1,53 +1,214 @@
-<!-- innholds-hash: 1e6847698197a68fe7917808bb96906b31cab2313fc1bf9eec01715a8674e7ec -->
+<!-- innholds-hash: f0e409564387de3f49bfecdbffd6582a6db80f58d327dc5ffd40dec16f8d0470 -->
 
 # Byggteknisk forskrift (TEK17) med veiledning
 
 ## Kildeinformasjon
 
-- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://dibk.no/regelverk/byggteknisk-forskrift-tek17/
+- **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-05-15T08:32:26Z
+- **Sist oppdatert i arkivet:** 2026-10-13T17:59:24Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Byggteknisk forskrift (TEK17)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17)
 
 ## Byggteknisk forskrift (TEK17) med veiledning
 
-
 ### INNHOLD TEK17
 
+Søk
 
-### Veiledning om tekniske krav til byggverk
+[Om veiledningen til TEK17](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17)
 
-Forskrift om tekniske krav til byggverk trekker opp grensen for det minimum av egenskaper et byggverk må ha for å kunne oppføres lovlig i Norge.
+- Kapittel 1 Felles bestemmelser
+  - [§ 1-1. Formål](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-1)
+  - [§ 1-2. Forskriftens anvendelse på særskilte tiltak](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-2)
+  - [§ 1-3. Definisjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-3)
+- Kapittel 2 Dokumentasjon for oppfyllelse av krav
+  - [Innledning til kapittel 2 Dokumentasjon for oppfyllelse av krav](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/2/innledning)
+  - [§ 2-1. Dokumentasjon for oppfyllelse av krav. Generelt](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/2/2-1)
+  - [§ 2-2. Dokumentasjon for oppfyllelse av funksjonskrav. Underlag for detaljprosjektering](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/2/2-2)
+  - [§ 2-3. Dokumentasjon for oppfyllelse av ytelser. Produksjonsunderlag](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/2/2-3)
+  - [§ 2-4. Dokumentasjon av utførelsen](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/2/2-4)
+- Kapittel 3 Dokumentasjon av byggevarer
+  - [§ 3-1. Dokumentasjon av byggevarer til byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/3/3-1)
+- Kapittel 4 Dokumentasjon for forvaltning, drift og vedlikehold (FDV)
+  - [Innledning til kapittel 4 Dokumentasjon for forvaltning, drift og vedlikehold (FDV)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/4/innledning)
+  - [§ 4-1. Dokumentasjon for driftsfasen](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/4/4-1)
+  - [§ 4-2. Oppbevaring av dokumentasjon for driftsfasen](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/4/4-2)
+- Kapittel 5 Grad av utnytting
+  - [Innledning til kapittel 5 Grad av utnytting](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/innledning)
+  - [§ 5-1. Fastsetting av grad av utnytting](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-1)
+  - [§ 5-2. Bebygd areal (BYA)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-2)
+  - [§ 5-3. Prosent bebygd areal (%-BYA)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-3)
+  - [§ 5-4. Bruksareal (BRA)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-4)
+  - [§ 5-5. Prosent bruksareal (%-BRA)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-5)
+  - [§ 5-6. Minste uteoppholdsareal (MUA)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-6)
+  - [§ 5-7. Parkeringsareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-7)
+  - [§ 5-8. Tomt](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-8)
+  - [§ 5-9. Bygningers høyde](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/5/5-9)
+- Kapittel 6 Beregnings- og måleregler
+  - [Innledning til kapittel 6 Beregnings- og måleregler](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/innledning)
+  - [§ 6-1. Etasjeantall](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/6-1)
+  - [§ 6-2. Høyde](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/6-2)
+  - [§ 6-3. Avstand](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/6-3)
+  - [§ 6-4. Areal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/6-4)
+  - [§ 6-5. Frittliggende bygning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/6/6-5)
+- Kapittel 7 Sikkerhet mot naturpåkjenninger
+  - [Innledning til kapittel 7 Sikkerhet mot naturpåkjenninger](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/innledning)
+  - [§ 7-1. Generelle krav om sikkerhet mot naturpåkjenninger](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-1)
+  - [§ 7-2. Sikkerhet mot flom og stormflo](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-2)
+  - [§ 7-3. Sikkerhet mot skred](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-3)
+  - [§ 7-4. Unntaksbestemmelse for utbygging i områder med fare for fjellskred og flodbølge som følge av fjellskred](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-4)
+- Kapittel 8 Opparbeidet uteareal
+  - [Innledning kapittel 8 Opparbeidet uteareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/innledning)
+  - [§ 8-1. Opparbeidet uteareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-1)
+  - [§ 8-2. Opparbeidet uteareal med krav om universell utforming](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-2)
+  - [§ 8-3. Uteoppholdsareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-3)
+  - [§ 8-4. Generelle krav til gangatkomst og ganglinjer](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-4)
+  - [§ 8-5. Gangatkomst til bygning med boenhet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-5)
+  - [§ 8-6. Gangatkomst til byggverk med krav om universell utforming](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-6)
+  - [§ 8-7. Gangatkomst til uteoppholdsareal med krav om universell utforming](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-7)
+  - [§ 8-8. Parkeringsplass, annet oppstillingsareal og kjøreatkomst](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-8)
+  - [§ 8-9. Trapp i uteareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-9)
+  - [§ 8-10. Opphevet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/8/8-10)
+- Kapittel 9 Ytre miljø
+  - [Innledning til kapittel 9 Ytre miljø](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/innledning-til-kapittel-9)
+  - [§ 9-1. Generelle krav til ytre miljø](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-1)
+  - [§ 9-2. Helse- og miljøfarlige stoffer](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-2)
+  - [§ 9-3. Forurensning i grunnen](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-3)
+  - [§ 9-4. Utvalgte naturtyper](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-4)
+  - [§ 9-5. Byggavfall og ombruk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-5)
+  - [§ 9-6. Avfallsplan](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-6)
+  - [§ 9-7. Kartlegging av farlig avfall, bygningsfraksjoner som må fjernes og materialer som er egnet for ombruk. Krav til rapportering](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-7)
+  - [§ 9-8. Avfallssortering](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-8)
+  - [§ 9-9. Sluttrapport for faktisk disponering av avfall](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-9)
+  - [§ 9-10. Utslippskrav til vedovner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/9/9-10)
+- Kapittel 10 Konstruksjonssikkerhet
+  - [Innledning til kapittel 10 Konstruksjonssikkerhet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/10/innledning)
+  - [§ 10-1. Personlig og materiell sikkerhet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/10/10-1)
+  - [§ 10-2. Konstruksjonssikkerhet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/10/10-2)
+  - [§ 10-3. Nedfall fra og sammenstøt med byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/10/10-3)
+- Kapittel 11 Sikkerhet ved brann
+  - [Innledning til kapittel 11 Sikkerhet ved brann](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/i/innledning)
+  - [§ 11-1. Sikkerhet ved brann](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/i/11-1)
+  - [§ 11-2. Risikoklasser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/i/11-2)
+  - [§ 11-3. Brannklasser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/i/11-3)
+  - [§ 11-4. Bæreevne og stabilitet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/ii/11-4)
+  - [§ 11-5. Sikkerhet ved eksplosjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/ii/11-5)
+  - [§ 11-6. Tiltak mot brannspredning mellom byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iii/11-6)
+  - [§ 11-7. Brannseksjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iii/11-7)
+  - [§ 11-8. Brannceller](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iii/11-8)
+  - [§ 11-9. Materialer og produkters egenskaper ved brann](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iii/11-9)
+  - [§ 11-10. Tekniske installasjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iii/11-10)
+  - [§ 11-11. Generelle krav om rømning og redning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iv/11-11)
+  - [§ 11-12. Tiltak for å påvirke rømnings- og redningstider](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iv/11-12)
+  - [§ 11-13. Utgang fra branncelle](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iv/11-13)
+  - [§ 11-14. Rømningsvei](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iv/11-14)
+  - [§ 11-15. Tilrettelegging for redning av husdyr](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/iv/11-15)
+  - [§ 11-16. Tilrettelegging for manuell slokking](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/v/11-16)
+  - [§ 11-17. Tilrettelegging for rednings- og slokkemannskap](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/11/v/11-17)
+- Kapittel 12 Planløsning og bygningsdeler i byggverk
+  - [Innledning til kapittel 12 Planløsning og bygningsdeler i byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/i/innledning2)
+  - [§ 12-1. Krav til planløsning og universell utforming av byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/i/12-1)
+  - [§ 12-2. Krav om tilgjengelig boenhet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/i/12-2)
+  - [§ 12-3. Krav om heis i byggverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/i/12-3)
+  - [§ 12-4. Inngangsparti](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-4)
+  - [§ 12-5. Sikkerhet i bruk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-5)
+  - [§ 12-6. Kommunikasjonsvei](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-6)
+  - [§ 12-7. Krav til utforming av rom og annet oppholdsareal](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-7)
+  - [§ 12-8. Entré og garderobe](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-8)
+  - [§ 12-9. Bad og toalett](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-9)
+  - [§ 12-10. Bod og oppbevaringsplass](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-10)
+  - [§ 12-11. Balkong, terrasse og lignende](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-11)
+  - [§ 12-12. Avfallssystem og kildesortering](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-12)
+  - [§ 12-13. Dør, port og lignende](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-13)
+  - [§ 12-14. Trapp](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-14)
+  - [§ 12-15. Utforming av rekkverk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-15)
+  - [§ 12-16. Rampe](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-16)
+  - [§ 12-17. Vindu og andre glassfelt](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-17)
+  - [§ 12-18. Skilt, styrings- og betjeningspanel, håndtak, armaturer og lignende](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/iii/12-18)
+- Kapittel 13 Inneklima og helse
+  - [Innledning til kapittel 13 Inneklima og helse](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/i/innledning)
+  - [§ 13-1. Generelle krav til ventilasjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/i/13-1)
+  - [§ 13-2. Ventilasjon i boligbygning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/i/13-2)
+  - [§ 13-3. Ventilasjon i byggverk for publikum og arbeidsbygning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/i/13-3)
+  - [§ 13-4. Termisk inneklima](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/ii/13-4)
+  - [§ 13-5. Radon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/iii/13-5)
+  - [§ 13-6. Lyd og vibrasjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/iv/13-6)
+  - [§ 13-7. Lys](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/v/13-7)
+  - [§ 13-8. Utsyn](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/v/13-8)
+  - [§ 13-9. Generelle krav om fukt](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-9)
+  - [§ 13-10. Fukt fra grunnen](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-10)
+  - [§ 13-11. Overvann](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-11)
+  - [§ 13-12. Nedbør](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-12)
+  - [§ 13-13. Fukt fra inneluft](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-13)
+  - [§ 13-14. Byggfukt](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-14)
+  - [§ 13-15. Våtrom og rom med vanninstallasjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vi/13-15)
+  - [§ 13-16. Rengjøring før bygningen tas i bruk](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/13/vii/13-16)
+- Kapittel 14 Energi
+  - [Innledning til kapittel 14 Energi](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/innledning-til-kapittel-14-energi)
+  - [§ 14-1. Generelle krav](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/14-1)
+  - [§ 14-2. Krav til energieffektivitet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/14-2)
+  - [§ 14-3. Minimumsnivå for energieffektivitet](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/14-3)
+  - [§ 14-4. Krav til løsninger for energiforsyning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/14-4)
+  - [§ 14-5. Unntak og krav til særskilte tiltak](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/14/14-5)
+- Kapittel 15 Installasjoner og anlegg
+  - [Innledning til kapittel 15 Installasjoner og anlegg](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/i/innledning)
+  - [§ 15-1. Generelle krav til varme- og kjøleinstallasjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/i/15-1)
+  - [§ 15-2. Sentralvarmeinstallasjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/i/15-2)
+  - [§ 15-3. Røykkanal og skorstein](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/i/15-3)
+  - [§ 15-4. Varmepumpe- og kuldeinstallasjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/i/15-4)
+  - [§ 15-5. Innvendig vanninstallasjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/ii/15-5)
+  - [§ 15-6. Innvendig avløpsinstallasjon](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/ii/15-6)
+  - [§ 15-7. Utvendig vannforsyningsanlegg med ledningsnett](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iii/15-7)
+  - [§ 15-8. Utvendig avløpsanlegg med ledningsnett. Overvann og drensvann](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iii/15-8)
+  - [§ 15-9. Heiser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-9)
+  - [§ 15-10. Rom og sjakt for heis](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-10)
+  - [§ 15-11. Fritt sikkerhetsrom for heis](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-11)
+  - [§ 15-12. Løfteplattformer](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-12)
+  - [§ 15-13. Rulletrapp og rullende fortau](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-13)
+  - [§ 15-14. Trappeheiser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-14)
+  - [§ 15-15. Sammenhengen mellom løfteinnretninger og harmoniserte standarder](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/15/iv/15-15)
+- Kapittel 16 Sikkerhetskontroll av heis
+  - [Innledning til kapittel 16 Sikkerhetskontroll av heis](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/innledning)
+  - [§ 16-1. Administrative bestemmelser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-1)
+  - [§ 16-2. Krav til sikkerhetskontrollør for utføring av periodisk sikkerhetskontroll](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-2)
+  - [§ 16-3. Vilkår for å få godkjenning som sikkerhetskontrollør for personer med yrkeskvalifikasjoner fra andre land](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-3)
+  - [§ 16-4. Midlertidig utøvelse av sikkerhetskontroll](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-4)
+  - [§ 16-5. Språkkrav](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-5)
+  - [§ 16-6. Nasjonalt installasjonsregister](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-6)
+  - [§ 16-7. (Opphevet)](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-7)
+  - [§ 16-8. Prisregulering](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/16-8)
+- Kapittel 17 Klima og livsløp
+  - [§ 17-1. Klimagassregnskap fra materialer](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/17/17-1)
+- Kapittel 18 Ikrafttredelse og overgangsbestemmelser
+  - [§ 18-1. Ikrafttredelse](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/18/18-1)
+  - [§ 18-2. Overgangsbestemmelser](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/18/18-2)
 
-Denne veiledningen forklarer forskriftens krav og gir preaksepterte ytelser som vil oppfylle kravene.
+Lenke kopiert til utklippstavlen
 
-Forskriften gir funksjonskrav, men i mange tilfeller er funksjonskravene også fortolket og gitt som ytelseskrav i forskriften. Dette gjelder for eksempel krav knyttet til tilgjengelig boenhet. Andre funksjonskrav er fortolket og gitt som preaksepterte ytelser i denne veiledningen. Dette gjelder for eksempel i stor grad for sikkerhet ved brann.
+Forrige
 
-Informasjon utgitt av Direktoratet for byggkvalitet kan fritt brukes og gjengis. Ved gjengivelse av tekst eller figurer, skal Direktoratet for byggkvalitet oppgis som kilde.
+Neste
 
-Norske standarder og anvisninger fra SINTEFs byggforskserie er nyttige verktøy for å lage gode byggverk. Vi har derfor lagt inn lenker til en del standarder og anvisninger under de enkelte paragrafer, til tross for at dette ikke er gratis hjelpemidler. Adgang til dem krever avtale med prisfastsetting som faller utenfor vårt virkeområde, på samme måte som annet verktøy for prosjektering og bygging.
+- [Skriv ut denne siden](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/#autoprint)
+- [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17?subtype=root&print=true&/#autoprint)
 
-Det finnes også andre standarder og anvisninger enn de vi har gitt lenker til som kan være nyttige ved planlegging, prosjektering og utførelse av byggverk. Standard Norge og SINTEF har sortert disse etter kapitlene i forskriften, jf. lenkene nedenfor.
+Veiledningstekst sist endret 15.09.17 Vis all veiledningstekst Lukk all veiledningstekst
 
+Veiledning om tekniske krav til byggverk Forskrift om tekniske krav til byggverk trekker opp grensen for det minimum av egenskaper et byggverk må ha for å kunne oppføres lovlig i Norge. Denne veiledningen forklarer forskriftens krav og gir preaksepterte ytelser som vil oppfylle kravene. Forskriften gir funksjonskrav, men i mange tilfeller er funksjonskravene også fortolket og gitt som ytelseskrav i forskriften. Dette gjelder for eksempel krav knyttet til tilgjengelig boenhet. Andre funksjonskrav er fortolket og gitt som preaksepterte ytelser i denne veiledningen. Dette gjelder for eksempel i stor grad for sikkerhet ved brann. Informasjon utgitt av Direktoratet for byggkvalitet kan fritt brukes og gjengis. Ved gjengivelse av tekst eller figurer, skal Direktoratet for byggkvalitet oppgis som kilde. Norske standarder og anvisninger fra SINTEFs byggforskserie er nyttige verktøy for å lage gode byggverk. Vi har derfor lagt inn lenker til en del standarder og anvisninger under de enkelte paragrafer, til tross for at dette ikke er gratis hjelpemidler. Adgang til dem krever avtale med prisfastsetting som faller utenfor vårt virkeområde, på samme måte som annet verktøy for prosjektering og bygging. Det finnes også andre standarder og anvisninger enn de vi har gitt lenker til som kan være nyttige ved planlegging, prosjektering og utførelse av byggverk. Standard Norge og SINTEF har sortert disse etter kapitlene i forskriften, jf. lenkene nedenfor. Vil du laste ned eller skrive ut veiledningen? Du kan laste ned eller skrive ut enkeltbestemmelser, kapitler eller hele forskriften med veiledning. Bruk ikonet for "skriv ut" som er plassert øverst ved hvert kapittel, og velg hva du vil laste ned eller skrive ut. llustrasjoner Henvisninger
 
-#### Vil du laste ned eller skrive ut veiledningen?
+### Endringshistorikk
 
-
-### llustrasjoner
-
-- Grafonaut og Creuna, med mindre annet er oppgitt. Flere av illustrasjonene er laget etter idé fra SINTEF Community
-- Kapittel 7: Norges vassdrags- og energidirektorat (NVE)
-- Kapittel 14: Standard Norge og Boligprodusentenes forening
-- § 13-15 Figur 1: SINTEF Community (kilde)
-
-### Henvisninger
-
+- 15.09.17 Veiledningen til byggteknisk forskrift endres ved regelendringer eller særskilt behov. Alle endringer loggføres fortløpende under hver enkelt bestemmelse. [Se også en samlet oversikt over endringer som er gjort i veiledningen til forskriften siden ikrafttredelsen.](https://www.dibk.no/regelverk/endringshistorikk-tek17)
 
 ---
-*Automatisk hentet fra [DiBK](https://dibk.no/regelverk/byggteknisk-forskrift-tek17/) av norges-lover-bot.*
+*Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/) av norges-lover-bot.*
 
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-10-13** Innhold endret (se git-historikk for diff)

@@ -1,31 +1,25 @@
-<!-- innholds-hash: 66e215e883dd7884de7e8f87541358c2b8abca2a666361c52806efb792b232fb -->
+<!-- innholds-hash: e724cbec3cb6435462e66aa5b71dcab34a991c8c4f7678428109e25de9e33b2e -->
 
 # Søk jobb i Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sok-jobb-i-nav
-- **Sist hentet:** 2026-05-15T15:15:56Z
+- **Sist oppdatert i arkivet:** 2026-10-13T21:51:25Z
 
 ## Innhold
 
 Om Nav
 
-
 ## Søk jobb i Nav
 
 Vil du jobbe et sted med et inspirerende samfunnsoppdrag? Da tror vi du vil trives hos oss!
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Finn ledige stillinger i Nav
 
 Nav søker ansatte med hjerte for mennesker og våre fagområder. Vår visjon er å gi mennesker muligheter, og dette gjør vi ved å utvikle Norges beste arbeids- og velferdstjenester.
 
-Se alle
-
+Se alle [ledige stillinger i Nav på arbeidsplassen.no](https://www.nav.no/nav.no-ressurser/lenker/selvbetjening/tjenester-pa-nav.no/ledige-stillinger-i-nav).
 
 #### Slik søker du jobb i Nav
 
@@ -33,12 +27,18 @@ Nav bruker Webcruiter som rekrutteringssystem.
 
 I Webcruiter kan du
 
+- [se og søke på ledige stillinger i Nav](https://candidate.webcruiter.com/nb-no/home/companyadverts?companylock=2106#search)
+- [registrere eller oppdatere CV-en din](https://candidate.webcruiter.com/nb-no/Account/SpaLogin?ReturnUrl=%2Fcv%3Flink_source_id%3D0%26tenantid%3D2106%26companyid%3D2106)
+
 Hvis du har registrert CV-en din, kan du knytte den opp når du søker på en stilling i Nav.
 
 Vil du vite mer om Nav og hva vi jobber med?
 
-Nav har omtrent 22 000 kompetente og engasjerte medarbeidere. Vi jobber tverrfaglig i sterke fagmiljøer, og løser oppgaver som har stor betydning for enkeltmennesker og for samfunnet vårt.
+[Kva er Nav?](https://www.nav.no/kva-er-nav)
 
+### Hvorfor velge Nav som arbeidsgiver?
+
+Nav har omtrent 22 000 kompetente og engasjerte medarbeidere. Vi jobber tverrfaglig i sterke fagmiljøer, og løser oppgaver som har stor betydning for enkeltmennesker og for samfunnet vårt.
 
 #### Bli med og løse et viktig samfunnsoppdrag
 
@@ -46,15 +46,13 @@ Blir du motivert av å jobbe med et viktig samfunnsoppdrag? Vårt samfunnsoppdra
 
 I strategien ser du hvordan vi skal jobbe for å løse dette samfunnsoppdraget, og hvilke ambisjoner vi har frem mot 2030:
 
+[Navs strategi](https://www.nav.no/strategi)
+
+Om Nav
 
 #### Hva tenker de ansatte i Nav om samfunnsoppdraget vårt?
 
-Vi har spurt et knippe ansatte om hva samfunnsoppdraget betyr for dem og deres jobbhverdag. Se filmen!
-
-Se video: Hva tenker de ansatte om samfunnsoppdraget?
-
-Varighet er 3 min
-
+Vi har spurt et knippe ansatte om hva samfunnsoppdraget betyr for dem og deres jobbhverdag. Se filmen!
 
 #### Store utviklingsmuligheter
 
@@ -76,6 +74,8 @@ Nav består av kompetente og engasjerte medarbeidere. Vi jobber tverrfaglig i st
 
 Mangfold, involvering, åpenhet og tillit preger arbeidsmiljøet i Nav. Et godt arbeidsmiljø er viktig for oss, fordi vi vet at det er krevende å stå i møte med brukere i vanskelige livssituasjoner.
 
+### Våre ansattgoder
+
 Vi vil at du skal trives på jobb! Hos oss skal du få muligheten til å utvikle deg faglig og ha en sunn balanse mellom jobb og fritid, uansett hvilken livsfase du er i.
 
 Vi tilbyr fleksibel arbeidstid med muligheter for avspasering.
@@ -94,17 +94,17 @@ Via medlemskapet i KLP eller tilsvarende selskap får kommunalt ansatte tilgang 
 
 Vi legger til rette for medarbeidere i ulike livsfaser, slik at det er mulig å kombinere karriere, familie og fritid, og for medarbeidere med redusert funksjonsevne. Vi har også gode seniortiltak.
 
-Nav trenger dyktige medarbeidere med forskjellig bakgrunn. Med Nav-kontor over hele landet, og over hundre spesialenheter er mulighetene mange. De fleste Nav rekrutterer har høyere utdannelse.
+### Hvilke muligheter finnes i Nav?
+
+Nav trenger dyktige medarbeidere med forskjellig bakgrunn. Med Nav-kontor over hele landet, og over hundre spesialenheter er mulighetene mange. De fleste Nav rekrutterer har høyere utdannelse.
 
 Den statlige delen av Nav rekrutterer omtrent 1 200 ansatte årlig, i tillegg blir det rekruttert i den enkelte kommune.
-
 
 #### Mangfold er viktig i Nav
 
 Mangfold bidrar til bedre problemløsing, økt kreativitet, større fleksibilitet og styrker kulturen og arbeidsmiljøet på arbeidsplassen.
 
 Vi oppfordrer derfor kandidater med ulik bakgrunn til å søke på stillinger hos oss. Det gjelder spesielt om du har hull i CV-en, innvandrerbakgrunn eller nedsatt funksjonsevne.
-
 
 #### Hva slags kompetanse er vi på jakt etter?
 
@@ -124,40 +124,54 @@ Noen arbeidsoppgaver:
 - Gi økonomisk rådgivning og utbetaling av økonomisk sosialhjelp m.m.
 - Være i kontakt med arbeidsgivere og samarbeidspartnere.
 - Koordinere komplekse saker og samarbeide med andre offentlige etater og private aktører.
+
 Som veileder jobber du med oppfølging og veiledning av brukere – både av enkeltmennesker og arbeidsgivere. Hver dag møter veiledere i Nav mennesker i krevende livssituasjoner. Vi trenger medmennesker som har empati og forståelse for situasjonen til brukerne våre, og som er positive og løsningsdyktige.
 
 Mange utdannelser fra universitet og høgskole er aktuelle. I Nav-kontorene jobber blant annet sosionomer, samfunnsvitere, jurister, humanister, økonomer og pedagoger.
 
+Nav Kontaktsenter informerer og veileder brukere per telefon eller digitale kommunikasjonskanaler om regelverk, saksbehandlingstider og utbetalingsdatoer.
+
+Nav hjelpemidler og tilrettelegging arbeider for at personer med ulike former for funksjonsnedsettelser kan mestre hverdag og jobb og ha et aktivt, selvstendig liv.
+
 I Nav hjelpemidler jobber fysioterapeuter, ergoterapeuter, døvetolker, teknikere, optikere, synspedagoger, audiografer og hørselspedagoger.
 
-Les mer om de ulike
+Nav Arbeidsrådgivning skal bidra til å lette tilpasningen til arbeidslivet for brukere med helsemessige, psykiske eller sosiale utfordringer.
+
+Nav Arbeidslivssenter bistår virksomheter for å gi de økt kunnskap og nye ferdigheter om sykefravær og arbeidsmiljø. Målet er å få ned sykefraværet, og at virksomheten jobber godt med sykefraværet og arbeidsmiljøet på egenhånd.
+
+Nav Intro er kompetansesenter for arbeidssøkende innvandrere. Brukere blir henvist fra de lokale Nav-kontorene (Oslo, Bergen, Trondheim, Kristiansand).
+
+Nav Eures er representert i alle fylker og jobber med mobilitet av arbeidskraft innen EØS-området, og samarbeider internasjonalt.
+
+Rådgivende leger bistår med medisinske vurderinger og har kontakt med behandlende leger i helsetjenesten.
+
+Les mer om de ulike [enhetene i arbeids- og tjenestelinjen](https://www.nav.no/hva-er-nav/nn#arbeids-og-tenestelinja), og hva de jobber med.
 
 Ytelsesenhetene jobber med saksbehandling og fatter vedtak om økonomiske ytelser. Eksempel på ytelser er dagpenger, uføretrygd, grunn- og hjelpestønad, pensjon, barnetrygd, kontantstøtte og barnebidrag.
 
 I ytelsesenhetene jobber jurister, samfunnsvitere, humanister og andre med universitets- eller høgskolebakgrunn.
 
-Les mer om
+Les mer om [de ulike enhetene i ytelseslinjen](https://www.nav.no/hva-er-nav/nn#ytingslinja) og hva de jobber med.
 
 I økonomienhetene jobber blant annet økonomer, personer med økonomiskadministrativ utdannelse, jurister og analytikere.
 
-Les mer om de ulike
+Les mer om de ulike [enhetene i økonomilinjen](https://www.nav.no/hva-er-nav/nn#okonomilinja) og hva de jobber med.
 
 Direktoratet er underlagt Arbeids- og inkluderingsdepartementet. Viktige oppgaver for direktoratet er å gi innspill i budsjett- og utviklingssaker, legge rammer og strategier for Navs tjenester og ytelser, utvikle arbeids- og velferdsetatens ordninger og tjenester, utarbeide arbeidsmarkedsanalyser og statistikk, og støtte etaten på områdene kommunikasjon, HR, administrasjon, økonomi og anskaffelser.
 
 I Arbeids- og velferdsdirektoratet jobber IT-ingeniører, jurister, samfunnsvitere, sosiologer, media- og kommunikasjons­medarbeidere, økonomer, prosjektledere og andre med universitets- eller høgskolebakgrunn.
 
-Les mer om
+Les mer om [Arbeids- og velferdsdirektoratet](https://www.nav.no/hva-er-nav/nn#arbeids-og-velferdsdirektoratet) og hva vi jobber med.
 
 IT-avdelingen i Arbeids- og velferdsdirektoratet har ansvaret for en av landets største og mest komplekse systemporteføljer. Avdelingens ansatte jobber med daglig drift av operative systemer, og nyutvikling av moderne løsninger for en lang rekke sentrale tjenester og tilbud i velferdssamfunnet vårt.
 
 For å styrke og akselerere utviklingsarbeidet i Nav har Nav IT valgt en ny organisasjonsmodell. Sentrale elementer i den nye modellen er større eierskap til egen utvikling, kontinuerlige leveranser og tettere dialog med brukerne våre. Målet er å utvikle neste generasjons velferdstjenester – i topp verdensklasse og med ledende IT-løsninger.
 
-
 #### Vil du utvikle det som betyr noe?
 
 Det å utvikle løsninger alle synes er enkle, er alt annet enn enkelt. I Nav er vi nesten 200 team som sammen bygger verdens beste digitale arbeids- og velferdsløsninger.
 
-Vi er på jakt etter samfunns­engasjerte utviklere som vil bidra til å bygge og forbedre det fremtidige velferdssystemet. Les mer og se ledige stillinger på
+Vi er på jakt etter samfunns­engasjerte utviklere som vil bidra til å bygge og forbedre det fremtidige velferdssystemet. Les mer og se ledige stillinger på [detsombetyrnoe.no](https://www.detsombetyrnoe.no/).
 
 I Nav IT jobber blant annet arkitekter, utviklere, designere, sikkerhetsrådgivere, testere, prosjektledere, prosessdrivere, systemansvarlige og andre med universitets- eller høgskolebakgrunn.
 
@@ -165,22 +179,26 @@ Nav trenger dyktige ledere som er tydelige, til stede og løsningsdyktige, og go
 
 Nav trenger dyktige jurister, både nyutdannede og erfarne. I Nav får du får jobbe i en stor organisasjon med et viktig samfunnsoppdrag. Vi jobber tverrfaglig i sterke fagmiljøer, ofte i tverrfaglige produktteam. Det er mange spennende stillinger for jurister i Nav.
 
+Hvorfor jobbe i Nav?
+
 - meningsfulle og varierte juridiske arbeidsoppgaver innen offentlig forvaltning
 - muligheter for å jobbe tverrfaglig, særlig i skjæringspunktet juss og digitalisering
 - mulighet til å hjelpe enkeltmennesker
 - få relevant erfaring innen offentlig forvaltning
 - vi legger til rette for at du skal utvikle deg faglig
 - vi har gunstige ordninger slik at du kan få en sunn balanse mellom jobb og fritid ut fra den livsfasen du er i
-Det er behov for jurister i alle deler av Nav.
 
-Spesielt i ytelsesenhetene er det mange juristoppgaver. Der jobber vi med saksbehandling og fatter vedtak om en rekke ulike økonomiske ytelser. Eksempel på ytelser er dagpenger, uføretrygd, grunn- og hjelpestønad, pensjon, barnetrygd, kontantstøtte og barnebidrag. Les mer om
+Hvor i Nav er det behov for jurister?
+
+Det er behov for jurister i alle deler av Nav. [Se hvordan Nav er organisert.](https://www.nav.no/hva-er-nav/nn#organisering)
+
+Spesielt i ytelsesenhetene er det mange juristoppgaver. Der jobber vi med saksbehandling og fatter vedtak om en rekke ulike økonomiske ytelser. Eksempel på ytelser er dagpenger, uføretrygd, grunn- og hjelpestønad, pensjon, barnetrygd, kontantstøtte og barnebidrag. Les mer om [de ulike enhetene i ytelseslinjen](https://www.nav.no/hva-er-nav/nn#ytingslinja) og hva de jobber med.
 
 Det jobber også jurister i enheter som har ansvaret for klage- og ankesaker, forberedelser for Trygderetten og forbedret kvalitet på saksbehandlingen i Nav. I tillegg har vi enheter som forebygger, avdekker, utreder og anmelder trygdesvindel.
 
-I Arbeids- og velferdsdirektoratet har vi en egen juridisk avdeling og juridiske seksjoner i andre avdelinger. Våre jurister jobber blant annet innen fagområdene utvikling av ytelser, tjenester og regelverk, personvern, forvaltningsrett, folketrygd og EØS-rett, arbeidsrett, anskaffelser og innkjøp, HR, sikkerhet og IT. Les mer om
+I Arbeids- og velferdsdirektoratet har vi en egen juridisk avdeling og juridiske seksjoner i andre avdelinger. Våre jurister jobber blant annet innen fagområdene utvikling av ytelser, tjenester og regelverk, personvern, forvaltningsrett, folketrygd og EØS-rett, arbeidsrett, anskaffelser og innkjøp, HR, sikkerhet og IT. Les mer om [Arbeids- og velferdsdirektoratet](https://www.nav.no/hva-er-nav/nn#arbeids-og-velferdsdirektoratet) og hva vi jobber med. Les mer og sjekk [ledige stillinger i Nav](https://www.nav.no/sok-jobb-i-nav)
 
-Oppdatert 18.02.2025
-
+Oppdatert 18.02.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/sok-jobb-i-nav) av norges-lover-bot.*
@@ -188,3 +206,4 @@ Oppdatert 18.02.2025
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-10-13** Innhold endret (se git-historikk for diff)

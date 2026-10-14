@@ -1,20 +1,20 @@
-<!-- innholds-hash: f8e76318960c0ff490336322bd27d06d5e2891ea001832ff9f88d0407a6d02c0 -->
+<!-- innholds-hash: 23751ab3b0f2a9c2a2b9d08cb178d9927f5953d970f3c42b8dfaba3800d48f6c -->
 
-# Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   
+# Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200425
 - **Type:** 2
-- **Korttittel:** Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   
+- **Korttittel:** Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll
 - **Status:** 2
 - **Henvisning:** Dokument 8:7 S (2026–2027)
 - **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200425
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -131,12 +131,32 @@
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
   },
-  "korttittel": "Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   ",
+  "korttittel": "Representantforslag om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll",
   "sak_fremmet_id": 200425,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Lønseth",
+      "foedselsdato": "/Date(683416800000+0200)/",
+      "fornavn": "Mari Holm",
+      "id": "MHL",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll   ",
+  "tittel": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen og Anette Carnarius Elseth om å forby koranskoler med overnatting og innføre nytt straffebud mot negativ sosial kontroll",
   "type": 2
 }
 ```
@@ -147,3 +167,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

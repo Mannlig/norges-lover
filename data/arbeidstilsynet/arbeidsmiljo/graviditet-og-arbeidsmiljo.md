@@ -1,4 +1,4 @@
-<!-- innholds-hash: 95631ee6d4ff5bd6d3b885d5f87d4d2dc372a11713750ee769d182df5a45a8b8 -->
+<!-- innholds-hash: 4d047ec690a864413df75d1a5c937e75d9283eb381294801cc977ffce5ab71c6 -->
 
 # Graviditet og arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-06T14:59:01Z
+- **Sist oppdatert i arkivet:** 2026-10-13T22:41:57Z
 
 ## Innhold
 
@@ -34,7 +34,7 @@ Det krev kunnskap om arbeidsmiljøforhold som kan ha ein uheldig verknad på bå
 
 [Les om plikta til generell tilrettelegging av arbeidet](https://www.arbeidstilsynet.no/arbeidstid-og-organisering/tilrettelegging/)
 
-[Skjema for å dokumentere behov for tilrettelegging og omplassering ved graviditet](https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
+[Skjema for å dokumentere behov viss arbeidet gir fare for forplantningsskadar](https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/)
 
 ### Råd til arbeidstakarar
 
@@ -50,7 +50,8 @@ I nokre arbeidsmiljø finst det likevel forhold som kan vere uheldige for barnet
 ### Råd til arbeidsgivar
 
 - Hugs at arbeidsmiljøet alltid skal vere forsvarleg, også for arbeidstakarar som planlegg å bli gravid.
-- Det er som regel best for både arbeidsgivar og arbeidstakar at den gravide er i jobb så lenge som mogleg. Vurder derfor om det er [mogleg å tilrettelegge arbeidet, eller nødvendig å omplassere arbeidstakaren](https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/).
+- Det er oftast best for både arbeidsgivar og arbeidstakar at den gravide er i jobb så lenge som mogleg. Snakk derfor med den gravide om kva som trengs for å stå i arbeidet.
+- Kan arbeidet gi skadeleg påverknad og risiko for forplantningsskadar? Vurder om det er [mogleg å tilrettelegge arbeidet eller omplassere arbeidstakaren](https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/).
 
 ### Påverknad frå arbeidsmiljøet før, under og etter graviditet
 
@@ -90,3 +91,4 @@ Fann du det du leitte etter?
 - **2026-05-22** Første gang hentet
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

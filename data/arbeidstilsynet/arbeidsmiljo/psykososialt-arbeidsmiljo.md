@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3b7b3508764ea60b319f119e4b64350feeeb9ade376a0bdbaa2e21de0fe3a927 -->
+<!-- innholds-hash: b9a8c2fb95e0c172855a5774f38d62ac1bbb2f316afa81f3efc9ad1e50838acb -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-06T15:07:02Z
+- **Sist oppdatert i arkivet:** 2026-10-13T22:50:05Z
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, 
 
 ### Aktuelt
 
-[Hvordan kan du gjøre jobben bedre? Ikke vent til det blir sykefravær, konflikt eller høy turnover. Finn ut hva som skaper belastninger og sett inn tiltak. Jobb forebyggende med psykososialt arbeidsmiljø.](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#jobb-forebyggende)
+[Hvordan kan du gjøre jobben bedre? Ikke vent til det blir sykefravær, konflikt eller høy turnover. Finn ut hva som skaper belastninger og sett inn tiltak. Jobb forebyggende med psykososialt arbeidsmiljø](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#jobb-forebyggende)
 
 [Hvordan kan du gjøre jobben bedre?](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#jobb-forebyggende)
 
@@ -116,11 +116,11 @@ Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelt
 
 ### Kommende kurs og webinar
 
-[Digital faglunsj: Psykososialt arbeidsmiljø og verdien av partssamarbeid Teams tir. 13. okt. 11.00 - 12.00 Digitale arrangement](https://www.arbeidstilsynet.no/kurs/digital-faglunsj-psykososialt-arbeidsmiljo-og-verdien-av-partssamarbeid/)
-
 [Frokostmøte Tønsberg: Tillit på arbeidsplassen – hvordan få det til i praksis? Statens Park, Anton Jenssens gate 5 tor. 15. okt. 08.00 - 10.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/forkostmote-tonsberg-tillit-pa-arbeidsplassen/)
 
 [Oslo: Bli med oss å knuse myter om psykososialt arbeidsmiljø Statens Arbeidsmiljøinstitutt, Gydas vei 8 tir. 20. okt. 09.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/myter-om-psykososialt-arbeidsmiljo/)
+
+[Streaming seminar: Bli med oss å knuse myter om psykososialt arbeidsmiljø Online tir. 20. okt. 09.30 - 15.00 Digitale arrangement](https://www.arbeidstilsynet.no/kurs/streaming-myter-om-psykososialt-arbeidsmiljo/)
 
 [Se alle våre kurs og webinar](https://www.arbeidstilsynet.no/kurs/)
 
@@ -157,3 +157,4 @@ Fann du det du leitte etter?
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

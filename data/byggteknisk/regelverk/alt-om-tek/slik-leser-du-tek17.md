@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8cb078769392c9394f2353b032118f030f617a8035e0922e3b2576e5fd4bff24 -->
+<!-- innholds-hash: b76e7ea60828d97df9c0736990873f55f907b7498241782b0fa95c777a6017c9 -->
 
 # Slik leser du byggteknisk forskrift
 
@@ -7,17 +7,22 @@
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/alt-om-tek/slik-leser-du-tek17/
 - **Sist oppdatert (kilde):** Sist endret
         01.07.2026
-- **Sist hentet:** 2026-07-03T07:32:42Z
+- **Sist oppdatert i arkivet:** 2026-10-13T17:58:43Z
 
 ## Innhold
 
+- [Forside](https://www.dibk.no)
+- [Regelverk](https://www.dibk.no/regelverk)
+- [Alt om TEK17](https://www.dibk.no/regelverk/alt-om-tek)
+- [Slik leser du TEK17](https://www.dibk.no/regelverk/alt-om-tek/slik-leser-du-tek17)
 
 ## Slik leser du byggteknisk forskrift
 
 Byggteknisk forskrift – TEK17 – er i hovedsak bygget opp rundt funksjonskrav og angir flere ytelser som preaksepterte. Hva betyr egentlig dette?
 
-For å forstå oppbyggingen av den funksjonsbaserte byggeforskriften og hvordan den skal benyttes i byggeprosjekter, får du her en forklaring på de mest sentrale begrepene.
+Sist endret 01.07.2026
 
+For å forstå oppbyggingen av den funksjonsbaserte byggeforskriften og hvordan den skal benyttes i byggeprosjekter, får du her en forklaring på de mest sentrale begrepene.
 
 ### Funksjonskrav - overordnede formål eller oppgaver
 
@@ -25,11 +30,9 @@ Funksjonskrav er overordnede formål eller oppgaver som skal oppfylles i det fer
 
 Et funksjonskrav vil vanligvis være beskrevet med ord (angitt kvalitativt), og kan gjelde byggverket som helhet eller bygningsdeler, rom, installasjoner og utearealer. For å gjøre det mulig å dokumentere og kontrollere at kravene er oppfylt, må funksjonskravene omsettes til og beskrives som mest mulig målbare ytelser.
 
-
 #### Et eksempel på et funksjonskrav er:
 
 Kommunikasjonsveier skal være sikre og brukbare for den ferdsel og transport som forventes.
-
 
 ### Ytelser – hva som minst skal til
 
@@ -37,16 +40,13 @@ Ytelser som er angitt i forskriften er myndighetenes tolkning og konkretisering 
 
 Ytelser kan være tekniske, bruks- eller miljømessige kvaliteter, kapasiteter eller egenskaper hos byggverk, bygningsdeler, installasjoner eller utearealer. Ytelser er tallfestet (angitt kvantitativt) der dette har vært mulig, men kan også være angitt kvalitativt.
 
-
 #### Et eksempel på et ytelseskrav er:
 
 Dør internt i byggverk med krav om universell utforming skal ha fri bredde på minimum 0,86 m.
 
-
 ### Preaksepterte ytelser vil oppfylle et krav
 
 Preaksepterte ytelser er gitt av Direktoratet for byggkvalitet, og er ytelser som vil oppfylle, eller bidra til å oppfylle, ett eller flere funksjonskrav i forskriften.
-
 
 #### Et eksempel på en preakseptert ytelse er:
 
@@ -54,13 +54,11 @@ Dør beregnet for manuell åpning må ha fri sideplass på minimum 0,3 meter ved
 
 I de fleste byggeprosjekter vil det som regel være hensiktsmessig å legge de preaksepterte ytelsene til grunn. Der det velges alternativer til disse ytelsene, må den ansvarlig prosjekterende dokumentere ved analyse at funksjonskravet er oppfylt.
 
-
 ### Tekniske løsninger kan være forhåndsdokumenterte
 
-Tekniske løsninger skal oppfylle de ytelsene som er spesifisert for byggeprosjektet. Tekniske løsninger bestemmes og dokumenteres av de ansvarlig prosjekterende foretakene i et byggeprosjekt.
+Tekniske løsninger skal oppfylle de ytelsene som er spesifisert for byggeprosjektet. Tekniske løsninger bestemmes og dokumenteres av de ansvarlig prosjekterende foretakene i et byggeprosjekt. Det enkleste er å velge forhåndsdokumenterte løsninger. Dette er løsninger med sertifikat eller godkjenning, eller dokumenterte løsninger gitt i Byggforskserien og annen anerkjent faglitteratur, håndbøker eller lignende.
 
 Løsninger som ikke er forhåndsdokumenterte, må dokumenteres ved prøvning og beregning, eventuelt i kombinasjon med fagkyndig vurdering, i hver enkelt byggesak.
-
 
 ### Bruk av Norsk Standard
 
@@ -68,9 +66,13 @@ Norsk Standard kan benyttes for å dokumentere at krav og preaksepterte ytelser 
 
 I en del tilfeller er standardene angitt i forskriften. I andre tilfeller er de angitt som preakseptert ytelse eller de er angitt i veiledningen. Der forskriften angir at en standard skal brukes, er det fordi kravet er konkretisert i en standard, eller fordi det kreves en standardisert metode for å dokumentere at kravene i forskriften er oppfylt. Der forskriften angir at standard kan brukes, er det mulig å fravike standarden gjennom å dokumentere at forskriften er oppfylt på en annen måte.
 
+[Byggteknisk forskrift (TEK17) med veiledning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17)
+
+Byggteknisk forskrift trådte i kraft 1. juli 2017. Et av målene for den nye forskriften har vært å gjøre den enklere og med tydeligere krav, slik at reglene ble lettere å forstå og etterleve. En enklere forskrift vil bidra til å forebygge prosjekterings- og byggfeil, redusere tidsbruken og bidra til lavere byggekostnader. Tydelige krav vil gjøre det enklere å etterprøve om kravene er oppfylt, for eksempel ved kvalitetssikring, uavhengig kontroll og tilsyn.
 
 ### Fra TEK10 til TEK17
 
+- [Da TEK17 trådte i kraft 1. juli 2017, erstattet den tidligere byggteknisk forskrift - TEK10. Her ser du de mest sentrale endringene fra TEK10 til TEK17](https://www.dibk.no/regelverk/tidligere-nyheter-om-endringer-i-regelverket/her-er-de-mest-sentrale-endringene-i-tek17)
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/alt-om-tek/slik-leser-du-tek17/) av norges-lover-bot.*
@@ -79,3 +81,4 @@ I en del tilfeller er standardene angitt i forskriften. I andre tilfeller er de 
 
 - **2026-05-16** Første gang hentet
 - **2026-07-03** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

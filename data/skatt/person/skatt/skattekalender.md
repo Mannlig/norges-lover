@@ -1,4 +1,4 @@
-<!-- innholds-hash: d20c0fbfea24665140352e0e9ebb16b9673a50917cbf08448a837ede794cf903 -->
+<!-- innholds-hash: 1b231c53ec34111c29ba686390ef64cc734081725a48975e2c3a5eb4440e3ad2 -->
 
 # Datoer og frister for person
 
@@ -6,30 +6,31 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekalender/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist hentet:** 2026-07-12T01:51:27Z
+- **Sist oppdatert i arkivet:** 2026-10-13T17:34:02Z
 
 ## Innhold
 
-
 ## Datoer og frister for person
-
 
 ### Abonner på dette innholdet
 
-Du kan få varsel fra en RSS-leser når det publiseres noe nytt her.
-
+Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvordan du abonnerer på oppdateringer fra skatteetaten.no](https://www.skatteetaten.no/rss/)
 
 ### Søk i kalenderen
 
-
-### August 2026
-
-
-### September 2026
-
+2 treff
 
 ### Desember 2026
 
+2 DES
+
+[Skattelistene for 2025 legges ut](https://www.skatteetaten.no/skjema/sok-i-skattelistene/)
+
+15 DES
+
+[Forskuddskatt for selvstendig næringsdrivende og privatpersoner – frist for betaling](https://www.skatteetaten.no/person/skatt/skattekort/forskuddsskatt/)
+
+Med selvstendig næringsdrivende menes her enkeltpersonforetak og deltaker i ansvarlig selskap.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/skattekalender/) av norges-lover-bot.*
@@ -41,3 +42,4 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her.
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

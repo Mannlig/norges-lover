@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8b770c965300acd3a1d78e1b7e45c4bdc5a801751622244e96e77910210e72b5 -->
+<!-- innholds-hash: 4ff0f0c00ff67525bc3c9202edfc73f2ca04cf3cb18c753517b493ee70963c71 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200422
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet",
   "sak_fremmet_id": 200422,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Henriksen",
+      "foedselsdato": "/Date(899330400000+0200)/",
+      "fornavn": "Mats",
+      "id": "MATHEN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet",
@@ -110,3 +130,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

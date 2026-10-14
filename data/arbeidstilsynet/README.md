@@ -2,7 +2,7 @@
 
 Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 
-**Antall dokumenter:** 167
+**Antall dokumenter:** 169
 
 ## Innhold
 
@@ -59,7 +59,7 @@ Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 - [Spørsmål og svar om varsling](arbeidsmiljo/varsling/sporsmal-og-svar-om-varsling.md)
 - [Virksomheten skal ha rutiner for intern varsling](arbeidsmiljo/varsling/virksomheten-skal-ha-rutiner-for-intern-varsling.md)
 - [Varsling](arbeidsmiljo/varsling.md)
-- [Vold og trusler på arbeidsplassen](arbeidsmiljo/vold-og-trusler.md)
+- [Vold og trusler i arbeidslivet](arbeidsmiljo/vold-og-trusler.md)
 - [Ytringsklima på arbeidsplassen](arbeidsmiljo/ytringsklima-pa-arbeidsplassen.md)
 
 ### Hms
@@ -169,6 +169,7 @@ Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 - [Maskinforskriften](regelverk/forskrifter/maskinforskriften.md)
 - [Produsentforskriften](regelverk/forskrifter/produsentforskriften.md)
 - [Storulykkeforskriften](regelverk/forskrifter/storulykkeforskriften.md)
+- [Forskrifter](regelverk/forskrifter.md)
 - [Høringsnotat – Høring om endringer i arbeidsmiljøloven og forskrift om utførelse av arbeid for å tydeliggjøre regelverket om psykososialt arbeidsmiljø](regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo/horingsnotat.md)
 - [Forslag til endringer i arbeidsmiljøloven og tilhørende forskrift for å tydeliggjøre reglene om psykososialt arbeidsmiljø](regelverk/horinger/forslag-til-endringer-i-arbeidsmiljoloven-og-tilhorende-forskrift-for-a-tydeliggjore-reglene-om-psykososialt-arbeidsmiljo.md)
 - [Høringsnotat – Forslag til endringer i forskrift om administrative ordninger på arbeidsmiljølovens område § 14-1 – Gebyrer for byggesaksbehandling etter arbeidsmiljøloven § 18-9](regelverk/horinger/horing-forslag-til-endringer-i-forskrift-om-administrative-ordninger--14-1-gebyrer-for-byggesaksbehandling/horingsnotat.md)
@@ -179,6 +180,7 @@ Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 - [Ferieloven – feriel](regelverk/lover/ferieloven--feriel.md)
 - [Straffeprosessloven – strpl](regelverk/lover/straffeprosessloven--strpl.md)
 - [Tobakksskadeloven – tobskl](regelverk/lover/tobakksskadeloven--tobskl.md)
+- [Lover](regelverk/lover.md)
 - [Om regelverket](regelverk/om-regelverket.md)
 
 ### Tema

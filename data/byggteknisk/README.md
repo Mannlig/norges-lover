@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.
 
-**Antall dokumenter:** 735
+**Antall dokumenter:** 736
 
 ## Innhold
 
@@ -138,7 +138,7 @@ Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byg
 - [§ 16-4. Midlertidig utøvelse av sikkerhetskontroll](regelverk/byggteknisk-forskrift-tek17/16/16-4.md)
 - [§ 16-5. Språkkrav](regelverk/byggteknisk-forskrift-tek17/16/16-5.md)
 - [§ 16-6. Nasjonalt installasjonsregister](regelverk/byggteknisk-forskrift-tek17/16/16-6.md)
-- [§ 16-7. Administrativt samarbeid](regelverk/byggteknisk-forskrift-tek17/16/16-7.md)
+- [§ 16-7. (Opphevet)](regelverk/byggteknisk-forskrift-tek17/16/16-7.md)
 - [§ 16-8. Prisregulering](regelverk/byggteknisk-forskrift-tek17/16/16-8.md)
 - [Innledning til kapittel 16 Sikkerhetskontroll av heis](regelverk/byggteknisk-forskrift-tek17/16/innledning.md)
 - [§ 17-1. Klimagassregnskap fra materialer](regelverk/byggteknisk-forskrift-tek17/17/17-1.md)
@@ -177,6 +177,7 @@ Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byg
 - [Innledning til kapittel 7 Sikkerhet mot naturpåkjenninger](regelverk/byggteknisk-forskrift-tek17/7/innledning.md)
 - [§ 8-1. Opparbeidet uteareal](regelverk/byggteknisk-forskrift-tek17/8/8-1/1.md)
 - [§ 8-1. Opparbeidet uteareal](regelverk/byggteknisk-forskrift-tek17/8/8-1.md)
+- [§ 8-10. Opphevet](regelverk/byggteknisk-forskrift-tek17/8/8-10.md)
 - [§ 8-2. Opparbeidet uteareal med krav om universell utforming](regelverk/byggteknisk-forskrift-tek17/8/8-2.md)
 - [§ 8-3. Uteoppholdsareal](regelverk/byggteknisk-forskrift-tek17/8/8-3/3/b.md)
 - [§ 8-3. Uteoppholdsareal](regelverk/byggteknisk-forskrift-tek17/8/8-3.md)

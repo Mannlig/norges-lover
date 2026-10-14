@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24565458de045f1a58623e73756c70f2f3f2e6625f5537b0c7018bd789aa76e1 -->
+<!-- innholds-hash: 3d676fc9697a6e3b48ae73a3fc3559d28091e965855796b4e1e16f6ef08b2928 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200427
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -209,7 +209,27 @@
   },
   "korttittel": "Representantforslag om konsesjonssystem for etablering av datasentre",
   "sak_fremmet_id": 200427,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Grøthe",
+      "foedselsdato": "/Date(995061600000+0200)/",
+      "fornavn": "Maren",
+      "id": "MARGRT",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre",
@@ -223,3 +243,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)

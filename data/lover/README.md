@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1889
+**Antall dokumenter:** 1891
 
 ## Innhold
 
@@ -1883,7 +1883,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Statsbudsjett 2027](2025-2029/200446-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200447-statsbudsjett-2027.md)
 - [Anmodnings- og utredningsvedtak  i stortingssesjonen 2025–2026](2025-2029/200448-anmodnings-og-utredningsvedtak-i-stortingssesjonen-20252026.md)
-- [Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
+- [Nasjonalbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
 - [Skatter og avgifter 2027](2025-2029/200450-skatter-og-avgifter-2027.md)
 - [Statsbudsjett 2027](2025-2029/200451-statsbudsjett-2027.md)
 - [Skatter og avgifter 2027 – lovsaker](2025-2029/200452-skatter-og-avgifter-2027-lovsaker.md)
@@ -1895,6 +1895,8 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Statsrådets protokoller for tidsrommet 1. januar-30. juni 2026](2025-2029/200458-statsradets-protokoller-for-tidsrommet-1-januar-30-juni-2026.md)
 - [Forelegg for Stortinget av overenskomster inngått med fremmede stater eller internasjonale organisasjoner i 2023](2025-2029/200459-forelegg-for-stortinget-av-overenskomster-inngatt-med-fremmede-stater-eller-internasjonale-organisas.md)
 - [Den Norske Nobelkomité meddeler at Nobels fredspris for 2026 er tildelt Navanethem «Navi» Pillay](2025-2029/200460-den-norske-nobelkomité-meddeler-at-nobels-fredspris-for-2026-er-tildelt-navanethem-navi-pillay.md)
+- [Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon](2025-2029/200461-representantforslag-fra-stortingsrepresentantene-hans-edvard-askjer-ida-lindtveit-rose-jonas-anderse.md)
+- [Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier](2025-2029/200462-representantforslag-fra-stortingsrepresentantene-froya-skjold-sjursaether-marius-langballe-dalin-sir.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

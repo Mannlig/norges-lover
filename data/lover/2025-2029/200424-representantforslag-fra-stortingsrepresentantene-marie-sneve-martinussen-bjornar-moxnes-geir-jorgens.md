@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8e2bed03155835311a8d40649939bb4613f446b79291af7e32beb093a9a056bc -->
+<!-- innholds-hash: ec789267675c3b913466156be5c5a02d1bb481c18796c2249d8c14cb4b9919b7 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen og Terje Kollbotn om stans i datasenterutbygging og kontroll over kraft- og industripolitikken
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200424
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
   "sak_fremmet_id": 200424,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Grøthe",
+      "foedselsdato": "/Date(995061600000+0200)/",
+      "fornavn": "Maren",
+      "id": "MARGRT",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen og Terje Kollbotn om stans i datasenterutbygging og kontroll over kraft- og industripolitikken",
@@ -128,3 +148,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-13** Innhold endret (se git-historikk for diff)
