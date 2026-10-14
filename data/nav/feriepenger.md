@@ -1,129 +1,152 @@
-<!-- innholds-hash: fe31dbc29cb09761aff682652090d961bd5705f1447e7b6db85df1e687f3720a -->
+<!-- innholds-hash: f37b698c2aa1be208fe5c82a20b967d7b72fe47d9f13ceef8dc63a9edaa1d867 -->
 
 # Ferie og feriepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/feriepenger
-- **Sist hentet:** 2026-07-04T12:05:33Z
+- **Sist oppdatert i arkivet:** 2026-10-14T08:16:48Z
 
 ## Innhold
 
 Utbetaling
 
-
 ## Ferie og feriepenger
 
 Noen pengestøtter fra Nav gir rett til ferie og/eller feriepenger. Se hva som gjelder deg og hva du må gjøre hvis du skal på ferie.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
-
+### Hvem har rett til feriepenger?
 
 #### Du har rett til feriepenger hvis du er
 
 - arbeidstaker
 - vernepliktig
 - sjømann
-- fisker som blir lignet som arbeidstaker
-Se video: Feriepenger fra Nav
-
-Varighet er 3 min
+- fisker som blir lignet som arbeidstaker
 
 Du har ikke rett til feriepenger hvis du
 
 - er selvstendig næringsdrivende
 - er frilanser
 - er pensjonist
-- får sykepenger etter
+- får sykepenger etter [§ 8-47](https://lovdata.no/nav/folketrygdloven/kap8), som betyr at du har vært midlertidig ute av inntektsgivende arbeid
 - er arbeidsledig
-- er fisker som blir lignet som næringsdrivende
+- er fisker som blir lignet som næringsdrivende
+
+### Når utbetales feriepengene fra Nav?
+
 Feriepenger fra Nav utbetales innen utgangen av mai året etter at feriepengene er opptjent.
 
 Ferietillegg av dagpenger utbetales innen utgangen av juni. Det samme gjelder ferietillegg av sykepenger av dagpengegrunnlag.
 
-
 #### Se utbetalingene dine
+
+[Dine utbetalinger](https://www.nav.no/no/ditt-nav/dine-saker/dine-utbetalinger)
 
 Se også
 
-Hvis du har rett til feriepenger eller ferietillegg på pengestøtten din, blir det ikke trukket skatt.
+[Utbetalingsdatoer](https://www.nav.no/utbetalingsdatoer)
+
+### Er det skatt på feriepenger fra Nav?
+
+Hvis du har rett til feriepenger eller ferietillegg på pengestøtten din, blir det ikke trukket skatt.
+
+[Skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
+
+Utbetaling
 
 Har du bedt om et tilleggstrekk/frivillig skattetrekk, blir det også trukket skatt av feriepengene eller ferietillegget.
 
-Se hva som gjelder når du får
+[Frivillig skattetrekk](https://www.nav.no/frivillig-skattetrekk)
 
-Ferie når du mottar AAP betyr at du
+Slik gjør du det
+
+### Ferie og feriepenger for ulike pengestøtter
+
+#### Arbeidsavklaringspenger (AAP)
+
+Se hva som gjelder når du får [arbeidsavklaringspenger](https://www.nav.no/aap).
+
+Ferie når du mottar AAP betyr at du
 
 - tar fri fra aktiviteter du har avtalt med oss
 - tar fri og ikke ønsker å være tilgjengelig for oss i en periode
-- reiser bort i Norge og/eller til utlandet og ikke ønsker å være tilgjengelig for Nav i en periode
-I utgangspunktet har du ikke rett til AAP når du har ferie. Det er fordi det i ferieperioder kan være aktuelt å delta i aktiviteter som sommerjobb, møter hos Nav eller annen form for oppfølging. Du må informere om ferie på spørsmål 4 på meldekortet. Fravær ved ferie fører til redusert utbetaling.
+- reiser bort i Norge og/eller til utlandet og ikke ønsker å være tilgjengelig for Nav i en periode
 
-I disse tilfellene kan du beholde AAP selv om du tar fri eller skal reise bort:
+I utgangspunktet har du ikke rett til AAP når du har ferie. Det er fordi det i ferieperioder kan være aktuelt å delta i aktiviteter som sommerjobb, møter hos Nav eller annen form for oppfølging. Du må informere om ferie på spørsmål 4 på meldekortet. Fravær ved ferie fører til redusert utbetaling.
+
+I disse tilfellene kan du beholde AAP selv om du tar fri eller skal reise bort:
 
 - Du har avklart med oss at aktiviteter eller annen oppfølging fra oss ikke er aktuelt for deg i perioden.
 - Friperioder hvor det ikke er aktuelt med tiltak – for eksempel jul og påske.
+
 I slike perioder skal du ikke føre fravær på meldekortet, og du vil få utbetalt AAP som normalt.
 
 Hvis du tar ut avspasering og mottar lønn på vanlig måte, får du ikke utbetalt AAP for de timene.
 
-Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
+Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
 
 Det er ikke feriepenger på denne pengestøtten.
 
 Hvis du får utbetalt feriepenger som du har opparbeidet deg, vil ikke dette føre til reduksjon i dine AAP.
 
-Når du mottar dagpenger kan du ha rett til ferietillegg. Se hva som gjelder for ferie og ferietillegg når du mottar
+#### Dagpenger
+
+Når du mottar dagpenger kan du ha rett til ferietillegg. Se hva som gjelder for ferie og ferietillegg når du mottar [dagpenger](https://www.nav.no/dagpenger).
 
 Du trenger ikke søke om ferietillegg, dette er noe Nav vurderer automatisk.
 
 Hvis du har rett til ferietillegg, beregner vi hvor mye du får, og vi sender deg et brev om dette.
 
+#### Får du ferietillegg?
+
 For å ha rett til ferietillegg i år, må du ha fått dagpenger i mer enn 8 uker for i fjor. Du kan ha fått etterbetalt dagpenger i fjor som egentlig skulle vært utbetalt året før eller tidligere. Perioden du fikk etterbetalt dagpenger for telles ikke med når vi vurderer om du har fått dagpenger i mer enn 8 uker.
+
+#### Når får du?
 
 Du får som hovedregel ferietillegget ditt utbetalt i juni.
 
 Når du har fått vedtak om ferietillegg, vil du motta pengene innen 1-2 dager.
 
+#### Hvor mye får du?
+
 Ferietillegget er 9,5 prosent av alle dagpengene du fikk utbetalt i fjor. Det trekkes ikke skatt av ferietillegget.
 
-Se
+Se [film om ferietillegg og dagpenger](https://www.nav.no/dagpenger#ferietillegg)
 
-Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
+Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
 
-Se hva som gjelder når du får
+#### Foreldrepenger
 
-Du har rett til å ta ut ferie når du er
+Se hva som gjelder når du får [foreldrepenger](https://www.nav.no/foreldrepenger).
 
-Du kan reise på ferie til utlandet.
+Du har rett til å ta ut ferie når du er arbeidstaker og har foreldrepenger.
+
+Du kan reise på ferie til utlandet. [Mer om ferie til utlandet](https://www.nav.no/foreldrepenger#utland).
 
 Du kan velge mellom
 
 - å ha opphold i foreldrepengeperioden din mens du har ferie.
 - å ha ferie samtidig som du får foreldrepenger. Da trenger du ikke informere Nav om dette.
-Bruk planen i søknaden for å se hvordan du kan forlenge foreldrepengeperioden når du tar ferie.
 
+Bruk planen i søknaden for å se hvordan du kan forlenge foreldrepengeperioden når du tar ferie.
 
 #### Slik søker du om ferie
 
 - Avtal med arbeidsgiveren din når du skal ta ut ferien.
-- I
+- I [foreldrepengesøknaden](https://foreldrepengesoknad.nav.no/) legger du kun inn periodene du skal ta ut foreldrepenger. Hvis du skal ha ferie midt i en periode som allerede ligger i planen, endrer du tidsrommet på perioden sånn at den slutter før ferien starter. Så kan du legge inn en ny periode med foreldrepenger etter ferien. Eksempel: Du skal ha ferie 1.juli - 14. juli. I søknaden legger du inn en periode med foreldrepenger til og med 30. juni, og så legger du inn en ny periode fra 15. juli. Perioden 1. juli - 14. juli skal det ikke legges inn noe for, men vil i søknaden vises som "periode uten uttak".
+
 Hvis du skal ha ferie for en periode du allerede er innvilget foreldrepenger for må du søke om endring av foreldrepengeperioden din.
 
-Hvis du ikke vet tidspunktet for ferien når du søker, kan du senere logge inn på
-
+Hvis du ikke vet tidspunktet for ferien når du søker, kan du senere logge inn på [Dine foreldrepenger](https://foreldrepenger.nav.no/) og sende en endringssøknad.
 
 #### Hvis du har fått barn før 1. oktober 2021
 
 Hvis du ønsker opphold i perioden din med foreldrepenger må du søke utsettelse på grunn av ferie.
 
-Du kan søke om å utsette foreldrepengeperioden din med ferie inntil 4 uker og 1 dag for hvert kalenderår. I tillegg kan du usette med ferie fra i fjor, og inntil 10 feriedager på forskudd for neste år. Det er den lovbestemte delen av ferien som gir rett til å utsette foreldrepengene.
+Du kan søke om å utsette foreldrepengeperioden din med ferie inntil 4 uker og 1 dag for hvert kalenderår. I tillegg kan du usette med ferie fra i fjor, og inntil 10 feriedager på forskudd for neste år. Det er den lovbestemte delen av ferien som gir rett til å utsette foreldrepengene. [Lovbestemt ferie betyr ferie etter ferieloven.](https://www.arbeidstilsynet.no/arbeidsforhold/ferie/)
 
-Helligdager
+Helligdager går ikke inn under lovbestemt ferie, og du får ikke utsatt foreldrepengene med ferie på helligdager. Er det helligdager i ferien din, vil du få utbetalt foreldrepenger for disse dagene.
 
 Feriepenger utbetales innen utgangen av mai året etter at feriepengene er opptjent.
 
@@ -131,23 +154,26 @@ Feriepengene er 10,2 prosent av det som er utbetalt før skatt for
 
 - de første 12 ukene av den totale foreldrepengeperioden, hvis dere har valgt 100 prosent foreldrepenger
 - de første 15 ukene av den totale foreldrepengeperioden, hvis dere har valgt 80 prosent foreldrepenger
-Hvis bare én av dere har fått utbetalt foreldrepenger de første 12 eller 15 ukene, vil ikke den andre forelderen få utbetalt feriepenger. Det betyr at hvis mor har tatt de første 12 eller 15 ukene av foreldrepengene, vil ikke far få utbetalt feriepenger.
 
-Hvis begge har fått utbetalt foreldrepenger de første ukene av foreldrepengeperioden, kan dere begge få utbetalt feriepenger. Det utbetales feriepenger fra totalt 12 eller 15 uker samlet til dere begge. For eksempel hvis far tar ut 2 uker av kvoten sin i forbindelse med fødsel, vil mor få feriepenger av 10 uker og far få feriepenger av 2 uker.
+Hvis bare én av dere har fått utbetalt foreldrepenger de første 12 eller 15 ukene, vil ikke den andre forelderen få utbetalt feriepenger. Det betyr at hvis mor har tatt de første 12 eller 15 ukene av foreldrepengene, vil ikke far få utbetalt feriepenger.
 
-Hvis de første 12 eller 15 ukene av foreldrepengeperioden går fra ett kalenderår og over i neste kalenderår, vil du i år kun få utbetalt feriepenger for de dagene med foreldrepenger du opptjente i forrige kalenderår. Feriepenger for foreldrepengedagene i inneværende år blir utbetalt i forbindelse med neste års feriepengeutbetaling.
+Hvis begge har fått utbetalt foreldrepenger de første ukene av foreldrepengeperioden, kan dere begge få utbetalt feriepenger. Det utbetales feriepenger fra totalt 12 eller 15 uker samlet til dere begge. For eksempel hvis far tar ut 2 uker av kvoten sin i forbindelse med fødsel, vil mor få feriepenger av 10 uker og far få feriepenger av 2 uker.
 
-Hvis du er arbeidstaker har du rett til feriepenger av foreldrepenger. Hvis arbeidsgiveren betaler deg lønn under permisjonen din, utbetaler Nav feriepengene til arbeidsgiveren din. Arbeidsgiver betaler deg feriepenger som normalt.
+Hvis de første 12 eller 15 ukene av foreldrepengeperioden går fra ett kalenderår og over i neste kalenderår, vil du i år kun få utbetalt feriepenger for de dagene med foreldrepenger du opptjente i forrige kalenderår. Feriepenger for foreldrepengedagene i inneværende år blir utbetalt i forbindelse med neste års feriepengeutbetaling.
+
+Hvem kan få feriepenger?
+
+Hvis du er arbeidstaker har du rett til feriepenger av foreldrepenger. Hvis arbeidsgiveren betaler deg lønn under permisjonen din, utbetaler Nav feriepengene til arbeidsgiveren din. Arbeidsgiver betaler deg feriepenger som normalt.
 
 Hvis bare én av dere er arbeidstaker, er det denne forelderen som får utbetalt feriepenger.
 
 Selvstendig næringsdrivende og frilansere har ikke rett til feriepenger av foreldrepengene. Det samme gjelder hvis foreldrepengene dine er beregnet på bakgrunn av arbeidsavklaringspenger eller dagpenger.
 
-Se video: Foreldrepenger og feriepenger
+[Her kan du lese om ferie og feriepenger.](https://www.nav.no/feriepenger#foreldrepenger)
 
-Varighet er 1,5 min
+#### Introduksjonsstønad
 
-Se hva som gjelder når du får
+Se hva som gjelder når du får [introduksjonsstønad](https://www.nav.no/introduksjonsstonad).
 
 Som deltaker i introduksjonsprogrammet har du rett til opptil 25 virkedager ferie for hvert kalenderår.
 
@@ -155,17 +181,21 @@ Det er den enkelte kommune som bestemmer når feriedagene skal avvikles.
 
 Det er ikke feriepenger på denne pengestøtten.
 
-Se hva som gjelder når du får
+#### Kvalifiseringsstønad
+
+Se hva som gjelder når du får [kvalifiseringsstønad](https://www.nav.no/kvalifiseringsprogrammet).
 
 Du har rett til opptil 25 feriedager for hvert kalenderår. Er du over 60 år, har du rett til fri 5 ekstra dager per år.
 
 Du har rett til kvalifiseringsstønad i ferien.
 
-Sammen med veilederen din og arbeidsplassen/tiltaksarrangøren blir dere enige om når du tar ut feriedagene dine.
+Sammen med veilederen din og arbeidsplassen/tiltaksarrangøren blir dere enige om når du tar ut feriedagene dine.
 
 Det er ikke feriepenger på denne pengestøtten.
 
-Se hva som gjelder når du får
+#### Omsorgspenger
+
+Se hva som gjelder når du får [omsorgspenger](https://www.nav.no/omsorgspenger).
 
 Du har ikke rett til omsorgsdager når du avvikler ferie.
 
@@ -179,11 +209,13 @@ Perioden som benyttes på utbetaling av feriepenger, og som vises på utbetaling
 
 Selvstendig næringsdrivende og frilansere får ikke feriepenger av omsorgspenger.
 
-Se hva som gjelder når du får
+#### Opplæringspenger
 
-Du har ikke rett til opplæringspenger for de dagene du avvikler ferie. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Du må derfor informere om ferie i søknaden.
+Se hva som gjelder når du får [opplæringspenger](https://www.nav.no/opplaringspenger).
 
-Du skal ikke gi beskjed til Nav hvis du har avtalt med arbeidsgiver at du får utsatt ferie. Spørsmål om ferieloven må rettes til Arbeidstilsynet.
+Du har ikke rett til opplæringspenger for de dagene du avvikler ferie. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Du må derfor informere om ferie i søknaden.
+
+Du skal ikke gi beskjed til Nav hvis du har avtalt med arbeidsgiver at du får utsatt ferie. Spørsmål om ferieloven må rettes til Arbeidstilsynet.
 
 Du får feriepenger for de første 12 ukene i opptjeningsåret. Feriepengene utgjør 10,2 prosent av de opplæringspengene som gir rett til feriepenger.
 
@@ -191,11 +223,15 @@ Hvis du har hatt både opplæringspenger og pleiepenger i samme kalenderår, kan
 
 Hvis stønadsperioden går fra ett kalenderår og over i neste kalenderår, vil du i år kun få utbetalt feriepenger av de dagene du har hatt med opplæringspenger forrige kalenderår. Feriepenger for inneværende kalenderår utbetales ved neste års feriepengeutbetaling.
 
-Det er ikke feriepenger på denne pengestøtten.
+#### Pensjon
 
-Se hva som gjelder når du får
+Det er ikke feriepenger på denne pengestøtten. [Mer om pensjon](https://www.nav.no/har-pensjon).
 
-Du har ikke rett til pleiepenger for de dagene du avvikler ferie. Utbetaling av pleiepenger opphører i ferieperioden og begynner igjen etter at ferien er avviklet. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Hvis du avvikler ferie når du mottar pleiepenger, må du
+#### Pleiepenger
+
+Se hva som gjelder når du får [pleiepenger](https://www.nav.no/pleiepenger-barn).
+
+Du har ikke rett til pleiepenger for de dagene du avvikler ferie. Utbetaling av pleiepenger opphører i ferieperioden og begynner igjen etter at ferien er avviklet. Feriepenger skal erstatte inntektstapet i perioden du har ferie. Hvis du avvikler ferie når du mottar pleiepenger, må du [gi beskjed til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endringer-pleiepenger-omsorgspenger-eller-opplaeringspenger). Du kan [kontakte oss](https://www.nav.no/kontaktoss), hvis du har spørsmål.
 
 Du skal ikke gi beskjed til Nav hvis du har avtalt med arbeidsgiver at du får utsatt ferie etter ferielovens bestemmelser. Spørsmål om ferieloven må rettes til Arbeidstilsynet.
 
@@ -211,18 +247,23 @@ Feriepenger for inneværende kalenderår utbetales ved neste års feriepengeutbe
 
 Perioden som benyttes på utbetaling av feriepenger og som vises på utbetalingsmeldingen er 1. til 31. mai i det året de utbetales.
 
-Se hva som gjelder når du får
+#### Stønad til enslig mor eller far
+
+Se hva som gjelder når du får [stønad til enslig mor eller far](https://www.nav.no/skolepenger-enslig).
 
 Du må melde fra til oss hvis
 
 - du skal oppholde deg i utlandet i mer enn 6 uker
 - du skal reise til utlandet og allerede har oppholdt deg i utlandet i 6 uker i løpet av de siste 12 månedene
 - du skal reise til utlandet og dette oppholdet fører til at du vil ha oppholdt deg i utlandet i mer enn 6 uker i løpet av de siste 12 månedene
+
 Det er ikke feriepenger på denne pengestøtten.
 
-Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
+Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
 
-Se hva som gjelder når du får
+#### Svangerskapspenger
+
+Se hva som gjelder når du får [svangerskapspenger](https://www.nav.no/svangerskapspenger).
 
 Feriepenger fra Nav utgjør 10,2 prosent av brutto svangerskapspenger for de første 64 dager av stønadsperioden, også der stønadsperioden går over et årsskifte.
 
@@ -230,39 +271,41 @@ Hvis du har tjent opp feriepenger over et årsskifte, vil du få utbetalt feriep
 
 Perioden som benyttes på utbetaling av feriepenger og som vises på utbetalingsmeldingen er 1. til 31. mai i det året de utbetales.
 
+Hvem kan få feriepenger?
+
 Hvis du er arbeidstaker har du rett til feriepenger av svangerskapspenger. Hvis arbeidsgiveren betaler deg lønn under permisjonen din, utbetaler Nav feriepengene til arbeidsgiveren din. Arbeidsgiver betaler deg feriepenger som normalt.
 
 Selvstendig næringsdrivende og frilansere har ikke rett til feriepenger av svangerskapspengene.
 
 Feriepengene blir utbetalt i mai året etter at feriepengene er opptjent.
 
-Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
+Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
 
-Se hva som gjelder når du får
+#### Sykepenger
+
+Se hva som gjelder når du får [sykepenger](https://www.nav.no/sykepenger).
 
 Du kan dra på ferie mens du er sykmeldt, men du får ikke sykepenger i ferien.
 
-Når du tar ut lovbestemt ferie, skal du derfor ikke søke om å beholde sykepengene selv om du skal reise ut av Norge. Da krysser du bare av for ferie i selve søknaden om sykepenger.
+Når du tar ut lovbestemt ferie, skal du derfor ikke søke om å beholde sykepengene selv om du skal reise ut av Norge. Da krysser du bare av for ferie i selve søknaden om sykepenger.
 
 Sykepengene stoppes når du har ferie, og samtidig forskyves tidspunktet for hvor lenge du har rett til sykepenger.
 
-Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
+Skal du til utlandet og mottar penger fra Nav, gjelder egne regler. Reglene varierer avhengig av hvor du skal reise eller oppholde deg.
 
 Hvis du har begynt ferien og blir syk, kan du ha rett til å få utsatt ferien. Dette må du avtale med arbeidsgiveren din. Hvis ferien blir utsatt, krysser du nei på spørsmålet om du har hatt ferie. Blir ikke ferien utsatt og du har ferie som avtalt, krysser du ja på spørsmålet om du har hatt ferie.
 
-Er du delvis sykmeldt? Du krysser ja på spørsmålet om ferie hvis du har avtalt ferie i perioden. Som delvis sykmeldt kan du ikke utsette avtalt ferie.
+Er du delvis sykmeldt? Du krysser ja på spørsmålet om ferie hvis du har avtalt ferie i perioden. Som delvis sykmeldt kan du ikke utsette avtalt ferie.
 
 Det er ikke mulig å ta ut ferie de dagene du skulle arbeidet og få utbetalt sykepenger for de andre.
-
 
 #### Er du lærer?
 
 Som lærer har du normalt ferie i hele juli. Fridager før og etter juli er avspasering. Fridager i forbindelse med påske, vinterferie og høstferie er avspasering. Hvis du blir syk i juli og ikke kan ta ferie som planlagt fordi du er syk, kan du utsette ferien. Det gjelder uansett om du er syk før ferien eller blir syk i ferien. Hvis du skal utsette ferien, må du avtale det med arbeidsgiveren din. Du har rett til sykepenger de dagene du avspaserer, og du skal ikke krysse av for at du har ferie på avspaseringsdagene.
 
-
 #### Er du selvstendig næringsdrivende eller frilanser?
 
-Selvstendig næringsdrivende og frilansere har ikke rett til lovbestemt ferie slik som arbeidstakere. Hvis du planlegger å
+Selvstendig næringsdrivende og frilansere har ikke rett til lovbestemt ferie slik som arbeidstakere. Hvis du planlegger å [reise til et land utenfor EU/EØS, kan du lese mer om det her](https://www.nav.no/sykepenger#utenfor-eos).
 
 Avspasering er ikke ferie. Avspasering er opptjent fritid. Hvis fridagene du har er avspasering, krysser du nei på spørsmålet om du har hatt ferie. Noen har både avspasering og feriedager i forbindelse med en ferieperiode. For dagene du avspaserer, krysser du nei på spørsmålet om ferie. For dagene du har ferie, krysser du ja på spørsmålet. Er du usikker på om fridagene er ferie eller ikke, bør du snakke med arbeidsgiveren din.
 
@@ -286,18 +329,23 @@ Feriepenger for inneværende kalenderår utbetales ved neste års feriepengeutbe
 
 Perioden som benyttes på utbetaling av feriepenger og som vises på utbetalingsmeldingen er 1. til 31. mai i det året de utbetales.
 
-Se hva som gjelder når du får
+#### Tilleggsstønader
+
+Se hva som gjelder når du får [tilleggsstønader](https://www.nav.no/tilleggsstonader).
 
 Hvis du avbryter et tiltak du deltar på for å ta ferie, vil Nav som hovedregel stoppe utbetalingen av tilleggsstønadene.
 
 Det er ikke feriepenger på denne pengestøtten.
 
-Se hva som gjelder når du får
+#### Tiltakspenger
+
+Se hva som gjelder når du får [tiltakspenger](https://www.nav.no/tiltakspenger).
 
 Hvis du deltar i et arbeidsmarkedstiltak og får et midlertidig avbrudd på grunn av fellesferie hos tiltaksarrangøren, kan du få utbetalt tiltakspenger.
 
 Fellesferie må dokumenteres og gjelde hele virksomheten. Her kan du ettersende dokumentasjon på fellesferie:
 
+[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav761345)
 
 #### Opplæringstiltak
 
@@ -305,29 +353,37 @@ Hvis du deltar i et opplæringstiltak, kan du som hovedregel ikke få utbetalt t
 
 Det gjelder selv om du faktisk er reell arbeidssøker i en pålagt ferie du selv ikke har valgt, for eksempel på grunn av at kursstedet eller skolen er stengt i sommerferien.
 
-Hvis du skal sende meldekort i ferien, les mer om
+Hvis du skal sende meldekort i ferien, les mer om [reglene for ferie og tiltakspenger](https://www.nav.no/send-meldekort-tiltakspenger).
 
 Hvis du av helsemessige årsaker ikke kan arbeide eller ikke har krav på feriepenger, kan du få tiltakspenger i sommerferien hvis opplæringstiltaket varer lenger enn ett skoleår.
 
 Du må sende oss dokumentasjon hvis du av helsemessige årsaker ikke kan arbeide i sommerferien. Her kan du ettersende dokumentasjonen:
 
+[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav761345)
+
 Det er ikke feriepenger på denne pengestøtten.
 
-Se hva som gjelder når du får
+#### Ventelønn
+
+Se hva som gjelder når du får [ventelønn](https://www.nav.no/ventelonn).
 
 Du kan ta ferie i inntil 3 uker per kalenderår mens du mottar ventelønn. I denne perioden er du fritatt fra å være arbeidssøker og kan oppholde deg i utlandet.
 
 Du har anledning til å ta ut mer enn 3 uker ferie, men du får bare utbetalt ventelønn for 3 uker.
 
-For å få utbetalt ventelønn i ferien, må du
+For å få utbetalt ventelønn i ferien, må du [ta kontakt med Nav](https://www.nav.no/person/kontakt-oss/nb) før du reiser på ferie.
 
 Ventelønn gir ikke opptjening av feriepenger.
 
 Det er ikke feriepenger på denne pengestøtten.
 
-Det er ikke feriepenger på denne pengestøtten.
+#### Uføretrygd
 
-Se hva som gjelder når du får
+Det er ikke feriepenger på denne pengestøtten.Mer om [uføretrygd](https://www.nav.no/arbeidsgiver/uforetrygd).
+
+#### Økonomisk sosialhjelp
+
+Se hva som gjelder når du får [økonomisk sosialhjelp](https://www.nav.no/okonomisk-sosialhjelp).
 
 Du må som hovedregel oppholde deg i Norge for å ha rett til økonomisk sosialhjelp.
 
@@ -335,10 +391,15 @@ Hvis du skal reise til utlandet, må du avklare dette med Nav-kontoret før du r
 
 Ta kontakt med oss hvis du skal ha ferie eller reise til utlandet.
 
+[Finn ditt Nav-kontor](https://www.nav.no/sok-nav-kontor)
+
 Det er ikke feriepenger på denne pengestøtten.
 
-Oppdatert 02.09.2025
+### Hva sier loven?
 
+[Ferieloven (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/lov-om-ferie)
+
+Oppdatert 02.09.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/feriepenger) av norges-lover-bot.*
@@ -348,3 +409,4 @@ Oppdatert 02.09.2025
 - **2026-05-15** Første gang hentet
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

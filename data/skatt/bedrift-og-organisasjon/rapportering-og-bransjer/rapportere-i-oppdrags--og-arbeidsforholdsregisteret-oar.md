@@ -1,4 +1,4 @@
-<!-- innholds-hash: f1180faf9c99363cd7f7791c961e670c20e1adac5ee6fa84ed478f5de8fa68d0 -->
+<!-- innholds-hash: 48a00e56b3937498714ddd17c2f4c1cf073c33a6fdcf4ed430742cbf48e0819f -->
 
 # Rapportere i Oppdrags- og arbeidsforholdsregisteret (OAR)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/rapportere-i-oppdrags--og-arbeidsforholdsregisteret-oar/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:32:09Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:47:11Z
 
 ## Innhold
 
@@ -15,6 +15,12 @@
 Alle oppdrag gitt til utenlandsk oppdragstaker på land eller kontinentalsokkelen skal rapporteres i Oppdrags- og arbeidsforholdsregisteret (OAR).
 
 Det er oppdragsgivers plikt å rapportere oppdraget. Den utenlandske oppdragstakeren har plikt til å rapportere arbeidstakerne som jobber på oppdraget.
+
+#### Husk å sjekke at du har riktig tilgang til denne tjenesten
+
+Fra 17. november 2026 er det ikke lenger mulig å rapportere oppdrag med de gamle Altinn-rollene. Det er derfor viktig at du kontrollerer at du har riktig tilgangspakke for denne tjenesten, eller at du har fått delegert tilgang til en enkelttjeneste.
+
+[Hjelp til tilgangsstyring (Altinn.no)](https://info.altinn.no/hjelp/ny-tilgangsstyring/).
 
 Logg inn:
 
@@ -29,30 +35,6 @@ For å logge på og rapportere i Oppdrags- og arbeidsforholdsregisteret må du h
 - Skatt Næring
 
 For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
-
-Du kan også logge på og rapportere i Oppdrags- og arbeidsforholdsregisteret med en av disse Altinn-rollene frem til desember 2026:
-
-- Ansvarlig revisor
-- Begrenset signeringsrettighet
-- Regnskapsfører med signeringsrettighet
-- Regnskapsfører uten signeringsrettighet
-- Regnskapsmedarbeider
-- Revisormedarbeider
-- Utfyller/Innsender
-
-31.desember 2026 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
-
-Etter 19. juni 2026 kan dere ikke lenger delegere Altinn-roller. Hvis dere må delegere tilgang til Oppdrags- og arbeidsforholdsregisteret, må dere delegere tilgangspakker som gir tilgang til Oppdrags- og arbeidsforholdsregisteret.
-
-Altinn-roller dere allerede har delegert gjelder frem til 31. desember 2026. Fra og med januar 2027 må dere ha riktig tilgangspakke for å få tilgang.
-
-NB! Enkelttjenestedelegering må gjøres på nytt innen 1.juni 2026.
-
-Hvis tilgangen til Oppdrags- og arbeidsforholdsregisteret var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt. Enkelttjenesten du kan delere heter «Innrapporting til oppdragsregisteret».
-
-Hvis du ikke har noen av disse tilgangene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn.
-
-Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
 
 ### Oppdrag
 
@@ -108,3 +90,4 @@ Dersom du ikke har norsk d-nummer/fødselsnummer, men skal rapportere i Oppdrags
 
 - **2026-05-11** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

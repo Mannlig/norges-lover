@@ -1,4 +1,4 @@
-<!-- innholds-hash: b7a4ee739f8242938c2f022d67d6bf1c6020ecba0ab1c177f3130508f9962a5b -->
+<!-- innholds-hash: 5a0e3e8a29280746370c2efdefcd9c1ec29e5d6361aa7c7456ab23c763ac4202 -->
 
 # Bedrift og organisasjon
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:05:40Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:22:51Z
 
 ## Innhold
 
@@ -20,12 +20,6 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 #### Kalender
 
-7
-
-SEP
-
-[A-melding for august – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
-
 15
 
 SEP
@@ -37,6 +31,12 @@ SEP
 OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
+
+12
+
+OKT
+
+[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
 
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
@@ -53,3 +53,4 @@ Vi flytter våre tjenester fra Altinn til Skatteetaten. Tjenestene kommer i ny u
 
 - **2026-05-11** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

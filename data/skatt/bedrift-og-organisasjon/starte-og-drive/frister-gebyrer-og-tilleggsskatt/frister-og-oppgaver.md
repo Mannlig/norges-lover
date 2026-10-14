@@ -1,4 +1,4 @@
-<!-- innholds-hash: f03101b8046d5c8ab4b70709e4e3246e9d316fe97a9d28b2e3efda763420eb60 -->
+<!-- innholds-hash: f49f411f968b4dd9654aa02ae07c12dd421e593e33b333303d929f8b01f80895 -->
 
 # Frister og oppgaver for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:12:08Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:29:13Z
 
 ## Innhold
 
@@ -24,11 +24,11 @@ Logg inn:
 
 Du kan også få oversikt over frister [via RSS-leser](https://www.skatteetaten.no/rss/).
 
-18 treff
+17 treff
 
 Aksjeselskap og andre selskapsformer (0)
 
-Arbeidsgiver (7)
+Arbeidsgiver (6)
 
 Enkeltpersonforetak (1)
 
@@ -43,12 +43,6 @@ Særavgift (4)
 Tredjepartsopplysninger (0)
 
 ### September 2026
-
-7
-
-SEP
-
-[A-melding for august – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
 15
 
@@ -66,13 +60,17 @@ OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
-12 OKT
+12
+
+OKT
 
 [Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
 
 Skattemelding for merverdiavgiftskompensasjon
 
-12 OKT
+12
+
+OKT
 
 [Mva-melding – frist for levering og betaling](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/)
 
@@ -157,3 +155,4 @@ Fristen for å rapportere og betale særavgift er i de fleste tilfeller den 18. 
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

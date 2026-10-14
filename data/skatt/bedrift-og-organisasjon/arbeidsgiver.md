@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1b3bf8e5b572fdf6994e01b2ceaa30b5c3d2a9dae6753e87cf4b1f7aab9974d4 -->
+<!-- innholds-hash: 5e7ef01601124eff17bfa0418d0b2f763591622411fb6a20f0d76dcbac43f621 -->
 
 # Arbeidsgiver
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:26:51Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:42:50Z
 
 ## Innhold
 
@@ -30,12 +30,6 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 #### Kalender
 
-7
-
-SEP
-
-[A-melding for august – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
-
 15
 
 SEP
@@ -48,6 +42,12 @@ OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
+12
+
+OKT
+
+[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
+
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
 ---
@@ -57,3 +57,4 @@ OKT
 
 - **2026-05-11** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

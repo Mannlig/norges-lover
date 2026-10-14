@@ -1,30 +1,25 @@
-<!-- innholds-hash: 039c811318ded13eedbf42c00d8ad2c3d917966f993f4c162eb394377de16a5d -->
+<!-- innholds-hash: 4287ece3a78786b08203b66d260cdef22747487283c4c9e3715319f429d0e0de -->
 
 # Egenmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/egenmelding
-- **Sist hentet:** 2026-05-15T15:25:27Z
+- **Sist oppdatert i arkivet:** 2026-10-14T08:15:23Z
 
 ## Innhold
 
 Når du er syk
 
-
 ## Egenmelding
 
 Du melder fra til arbeidsgiveren din om at du er syk uten å levere en sykmelding.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan bruke egenmelding?
 
 - Du må ha jobbet hos arbeidsgiveren i minst to måneder for å få rett til å bruke egenmelding.
 - Du kan bare bruke egenmelding i arbeidsgiverperioden, det vil si de første 16 kalenderdagene av sykefraværet.
-- Hvis du er borte mer enn tre kalenderdager, kan arbeidsgiveren din kreve at du leverer
+- Hvis du er borte mer enn tre kalenderdager, kan arbeidsgiveren din kreve at du leverer [sykmelding](https://www.nav.no/sykepenger#ulike-mater). Sykmelding får du hos en lege, tannlege, kiropraktor og manuellterapeut.
 - Hvis du har brukt egenmelding før sykmelding, telles det som brukte egenmeldingsdager.
 - Du kan ikke kombinere egenmelding med gradert sykmelding.
 
@@ -34,28 +29,47 @@ Hvis arbeidsforholdet ditt har vært avbrutt i mer enn to uker, kan du først br
 
 Ved gjenansettelse innen to uker blir tidligere arbeidsforhold medregnet når ansettelsestiden beregnes.
 
+### Hvordan bruker du egenmelding?
+
+#### Sjekk med arbeidsgiveren din
+
 Det er ikke noe felles skjema for egenmelding. Hver enkelt arbeidsgiver utformer rutiner og egenmeldingsskjema for sine ansatte. Du kan gi egenmelding skriftlig eller muntlig. Arbeidsgiveren kan kreve skriftlig bekreftelse etter at du har kommet tilbake på jobb. Hør med arbeidsgiveren din om hvilke rutiner som gjelder hos dere.
 
-Du kan bruke egenmelding opptil tre kalenderdager om gangen og opptil fire ganger i løpet av ett år. Dette er en minimumsordning, og alle virksomheter kan bruke en utvidet rett til egenmelding i inntil hele arbeidsgiverperioden.
+#### Hvor lenge kan egenmeldingen vare?
 
-I mange virksomheter har de ansatte rett til å bruke egenmelding i opptil åtte kalenderdager om gangen og opptil 24 kalenderdager i løpet av ett år. Det er ikke begrensning i antall ganger.
+Du kan bruke egenmelding opptil tre kalenderdager om gangen og opptil fire ganger i løpet av ett år. Dette er en minimumsordning, og alle virksomheter kan bruke en utvidet rett til egenmelding i inntil hele arbeidsgiverperioden.
+
+I mange virksomheter har de ansatte rett til å bruke egenmelding i opptil åtte kalenderdager om gangen og opptil 24 kalenderdager i løpet av ett år. Det er ikke begrensning i antall ganger.
 
 Undersøk hvordan reglene er der du jobber.
 
 Det er arbeidsgiveren din som godkjenner egenmeldingen.
 
+#### Hvis du bruker opp dagene med egenmelding
+
 Hvis du ikke har flere egenmeldingsdager, må du få sykmelding fra en lege eller en annen som har rett til å skrive sykmelding.
 
-Arbeidsgiveren kan bestemme at du ikke får bruke egenmelding hvis de har rimelig grunn til å anta at fraværet ditt ikke skyldes sykdom
+#### Du kan miste retten til egenmelding
+
+Arbeidsgiveren kan bestemme at du ikke får bruke egenmelding hvis de har rimelig grunn til å anta at fraværet ditt ikke skyldes sykdom
 
 Arbeidsgiveren skal gi deg varsel før de tar fra deg retten til å bruke egenmelding, slik at du kan uttale deg.
 
 Hvis du har mistet retten til å bruke egenmelding, skal arbeidsgiveren vurdere dette på nytt etter seks måneder.
 
-Hvis du må være borte fra arbeid på grunn av barns sykdom, kan du ha rett til omsorgsdager. Disse kommer i tillegg til egenmeldingsdagene du har når du selv er syk.
+### Hvis du må være hjemme med syke barn
 
-Oppdatert 16.09.2025
+Hvis du må være borte fra arbeid på grunn av barns sykdom, kan du ha rett til omsorgsdager. Disse kommer i tillegg til egenmeldingsdagene du har når du selv er syk.
 
+[Omsorgspenger (hjemme med sykt barn-dager)](https://www.nav.no/omsorgspenger)
+
+Pengestøtte
+
+### Hva sier loven?
+
+- [Folketrygdloven § 8-23 om egenmelding (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap8/%C2%A78-23)
+
+Oppdatert 16.09.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/egenmelding) av norges-lover-bot.*
@@ -63,3 +77,4 @@ Oppdatert 16.09.2025
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

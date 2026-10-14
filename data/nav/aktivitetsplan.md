@@ -1,26 +1,21 @@
-<!-- innholds-hash: 9fe473d73985a3d5e6aca8708ebfd151c8ce521b0e192db215b07d47e195508a -->
+<!-- innholds-hash: 3d6ff41e0e86322873082650e4f00689ecbb1795bb61100f56cc8d6d011204b8 -->
 
 # Aktivitetsplan - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/aktivitetsplan
-- **Sist hentet:** 2026-05-15T15:22:55Z
+- **Sist oppdatert i arkivet:** 2026-10-14T08:11:51Z
 
 ## Innhold
 
 Hjelp til å komme i jobb
 
-
 ## Aktivitetsplan
 
 Oversikt over aktivitetene dine for å komme i jobb eller annen aktivitet.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvordan bruker du aktivitetsplanen?
 
 Når du har registrert deg som arbeidssøker hos Nav, får du en aktivitetsplan.
 
@@ -32,19 +27,15 @@ Veilederen kan blant annet legge inn forslag til aktiviteter eller skrive refera
 
 Innholdet i aktivitetsplanen og annen informasjon du gir til veilederen din, bruker vi til å vurdere hvilket behov du har for oppfølging.
 
-Se video: Aktivitetsplan - introduksjon
+[Logg inn i aktivitetsplanen](https://aktivitetsplan.nav.no/)
 
-Varighet er 1,5 min
-
-Se video: Aktivitetsplan - aktivitetskort
-
-Varighet er 4 min
+### Dialog med veilederen din
 
 Du får også tilgang til en dialogtjeneste der du kan kommunisere med veilederen din om arbeid og oppfølging.
 
-Se video: Aktivitetsplan - dialog
+[Logg inn i dialogtjenesten](https://nav.no/arbeid/dialog)
 
-Varighet er 1,5 min
+### Aktivitetsplanen og personvern
 
 Vi henter informasjon om deg fra Folkeregisteret. Vi sjekker samtidig Kontakt- og reservasjonsregisteret for å se om du har reservert deg mot digital kommunikasjon med det offentlige.
 
@@ -54,10 +45,9 @@ Opplysningene i aktivitetsplanen blir ikke delt med andre offentlige etater, med
 
 Opplysningene i aktivitetsplanen din blir lagret og oppbevart etter arkivloven. Aktiviteter og meldinger i dialogen kan ikke slettes når de først er opprettet.
 
-Les mer om hvordan
+Les mer om hvordan [Nav behandler personopplysninger](https://www.nav.no/personvern).
 
-Oppdatert 20.08.2025
-
+Oppdatert 20.08.2025
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/aktivitetsplan) av norges-lover-bot.*
@@ -65,3 +55,4 @@ Oppdatert 20.08.2025
 ## Endringshistorikk
 
 - **2026-05-15** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

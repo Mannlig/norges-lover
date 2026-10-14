@@ -1,0 +1,47 @@
+<!-- innholds-hash: 089634bca19f2a97826431c543b7e828f42bd5b6d01c13a04682d8862124d591 -->
+
+# Arkiv - Utbetalinger til personer i Norge per fylke og kommune 2018 - nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/relatert-informasjon/arkiv-utbetalinger-til-personer-i-norge-per-fylke-og-kommune-2018
+- **Sist oppdatert i arkivet:** 2026-10-14T07:49:10Z
+
+## Innhold
+
+Publisert 20.04.2020 | Oppdatert 27.05.2021
+
+## Arkiv - Utbetalinger til personer i Norge per fylke og kommune 2018
+
+#### Tabeller
+
+- [Utbetalte stønader fra Nav. Geografi. 2018. Norge (pdf)](https://www.nav.no/_/attachment/download/b5f5ebca-5440-4278-afaf-fb0a0cbbca19:76924b723b204824425d19b629e06453401ad912/2018-utbetalte-stonader-fra-nav-til-bosatte-i-norge.pdf)[(xls)](https://www.nav.no/_/attachment/download/bc46b39c-afd1-4546-86ab-221d7f8a42a5:8becf0f04ec3895157d948f6b8c1afb250f2f216/2018-utbetalte-stonader-fra-nav-til-bosatte-i-norge.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Østfold (pdf)](https://www.nav.no/_/attachment/download/0fa3f36d-f706-4d9a-8f2e-0061393ab689:604b3a4fea8a5ec8b42a864f43f531ea1d7dccd6/2018-utbetalte-stonader-fra-nav-til-bosatte-i-01-ostfold.pdf)[(xls)](https://www.nav.no/_/attachment/download/d4db8724-d069-49ad-bf19-62d718189ba0:678ca679e6a3c33bf266c31e9118fe36b2422ac3/2018-utbetalte-stonader-fra-nav-til-bosatte-i-01-ostfold.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Akershus (pdf)](https://www.nav.no/_/attachment/download/7e679636-5676-435a-9f88-13c763b0d17e:ef008bb3cea52f34b00e97aa4776b2149328faf4/2018-utbetalte-stonader-fra-nav-til-bosatte-i-02-akershus.pdf)[(xls)](https://www.nav.no/_/attachment/download/591479e5-3c5a-40fa-be6b-477f77e72cf0:6c602cfde27ec1a3a4c6846c741c18f02b63efa4/2018-utbetalte-stonader-fra-nav-til-bosatte-i-02-akershus.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Oslo (pdf)](https://www.nav.no/_/attachment/download/8bcdf489-5989-4586-807c-84152b5f8399:4e69288e2d1d4a13369f60d61684d3ef8532137a/2018-utbetalte-stonader-fra-nav-til-bosatte-i-03-oslo.pdf)[(xls)](https://www.nav.no/_/attachment/download/0e64c157-0121-4f82-9db4-b44f932a2356:8fece91dd7796160c2ddb2588d6ee15d59671e94/2018-utbetalte-stonader-fra-nav-til-bosatte-i-03-oslo.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Hedmark (pdf)](https://www.nav.no/_/attachment/download/302b55e9-ba72-4a69-b3ef-e2e8ebb0f04b:af50e19a87b0c2325b477dcd4a326c949d3d6834/2018-utbetalte-stonader-fra-nav-til-bosatte-i-04-hedmark.pdf)[(xls)](https://www.nav.no/_/attachment/download/b898cab5-1a66-4c76-9aa4-de921a07a6f4:11dd715b98a8a2282482506583815574ad3fd47a/2018-utbetalte-stonader-fra-nav-til-bosatte-i-04-hedmark.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Oppland (pdf)](https://www.nav.no/_/attachment/download/dcf87506-ede3-438d-8bed-23e9f3484c5b:1559503d58bc07ba1453602a0b4405507b0b069d/2018-utbetalte-stonader-fra-nav-til-bosatte-i-05-oppland.pdf)[(xls)](https://www.nav.no/_/attachment/download/e3511cd1-1146-4cd5-bbc3-2bc4b2bfe520:c582c6cc0e198bdc159bec4d9219125d729ff624/2018-utbetalte-stonader-fra-nav-til-bosatte-i-05-oppland.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Buskerud (pdf)](https://www.nav.no/_/attachment/download/220424c2-bc3a-410e-93b4-be7f3a31ba84:02e257e21d9da9e3d9918c10148e0c863328a62a/2018-utbetalte-stonader-fra-nav-til-bosatte-i-06-buskerud.pdf)[(xls)](https://www.nav.no/_/attachment/download/bc45fd91-15ad-4620-abe6-e1b39c9df5e0:36a12635ac91c8fbed205ce1b72c64d507a6aba1/2018-utbetalte-stonader-fra-nav-til-bosatte-i-06-buskerud.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Vestfold (pdf)](https://www.nav.no/_/attachment/download/1ec0ca2a-7c80-4e9a-b8cf-257a82b77677:c52e59060714b4d024c9f6cf24ae071a23be4128/2018-utbetalte-stonader-fra-nav-til-bosatte-i-07-vestfold.pdf)[(xls)](https://www.nav.no/_/attachment/download/7a79b1eb-fd78-4782-99fe-f820faeb2c13:c49b01f0a96699ea678e92226b719f8e4cd787c1/2018-utbetalte-stonader-fra-nav-til-bosatte-i-07-vestfold.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Telemark (pdf)](https://www.nav.no/_/attachment/download/c785b561-9155-418e-abc0-c64b90d5a5f5:a0c783b25bc7da2236783550862da05559953423/2018-utbetalte-stonader-fra-nav-til-bosatte-i-08-telemark.pdf)[(xls)](https://www.nav.no/_/attachment/download/79dcf17b-e38b-46cb-a338-d950c6446d21:43f5ba4fcf35bfa4b116fe6b291792eb8f9b08fe/2018-utbetalte-stonader-fra-nav-til-bosatte-i-08-telemark.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Aust-Agder (pdf)](https://www.nav.no/_/attachment/download/17934154-a2e8-45d1-8063-eab3cba683aa:46cbbabbb4e90d8d1aa9cda7dcd4340dc7c82105/2018-utbetalte-stonader-fra-nav-til-bosatte-i-09-aust-agder.pdf)[(xls)](https://www.nav.no/_/attachment/download/5d8aef1e-eece-41a0-b025-de112bc5621c:df1472adaaa1cf1be02e734e72bedfee8579e9b4/2018-utbetalte-stonader-fra-nav-til-bosatte-i-09-aust-agder.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Vest-Agder (pdf)](https://www.nav.no/_/attachment/download/c3a77533-3bae-40d6-89f9-be94ecb6e93a:3cfc0bd09daa569d35a99d19f478dfc4c03be3af/2018-utbetalte-stonader-fra-nav-til-bosatte-i-10-vest-agder.pdf)[(xls)](https://www.nav.no/_/attachment/download/c3f7aa7d-6b1f-4d09-bd8e-cfff34f04cce:af6848d313cc78ffb6733459087729b28c495871/2018-utbetalte-stonader-fra-nav-til-bosatte-i-10-vest-agder.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Rogaland (pdf)](https://www.nav.no/_/attachment/download/c53b6a48-b1e9-4f79-bbb2-9a4d4024575b:c341ff9c78c406b53a6415f2e658eb8409161e1a/2018-utbetalte-stonader-fra-nav-til-bosatte-i-11-rogaland.pdf)[(xls)](https://www.nav.no/_/attachment/download/522382d4-85ad-4748-b721-3cb1db5ce2ab:7b9e57f8fc96fe573e93e5b4322fdca7fbb6d003/2018-utbetalte-stonader-fra-nav-til-bosatte-i-11-rogaland.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Hordaland (pdf)](https://www.nav.no/_/attachment/download/2135ca35-fd22-4852-a557-843cdfbb774a:c0b90f8071e03f8f47b6aeb5914cba44f9661fee/2018-utbetalte-stonader-fra-nav-til-bosatte-i-12-hordaland.pdf)[(xls)](https://www.nav.no/_/attachment/download/6435511d-f8f0-4e04-8fb9-df21a76d57aa:c604f0106378273bf750a8ef3eee4d45a8105b4d/2018-utbetalte-stonader-fra-nav-til-bosatte-i-12-hordaland.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Sogn og Fjordane (pdf)](https://www.nav.no/_/attachment/download/da0655e0-ca69-4389-9fce-7253a4bee3d7:ccb25b13338785ba98969d7b0dde63e3d725c60c/2018-utbetalte-stonader-fra-nav-til-bosatte-i-14-sogn-og-fjordane.pdf)[(xls)](https://www.nav.no/_/attachment/download/57b68595-9441-4a56-8e50-1281e3742603:58e1b34c14355a165e43cc99b05b89fa37964c92/2018-utbetalte-stonader-fra-nav-til-bosatte-i-14-sogn-og-fjordane.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Møre og Romsdal (pdf)](https://www.nav.no/_/attachment/download/3e3256fe-8d53-45c6-bbe2-8932f5b44f75:ad02de3b8f2d645d393b5212cde503763a8dbf6d/2018-utbetalte-stonader-fra-nav-til-bosatte-i-15-more-og-romsdal.pdf)[(xls)](https://www.nav.no/_/attachment/download/6dc4554e-a8af-4a64-90d3-c43b82fb709a:15103b0e90c786a986d5cc1dce7c533dc6854a24/2018-utbetalte-stonader-fra-nav-til-bosatte-i-15-more-og-romsdal.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Trøndelag (pdf)](https://www.nav.no/_/attachment/download/62508549-f470-4060-9daf-9ac3161d4b27:4b5c26731ad9cdce423f92aa204e22db56910cf2/2018-utbetalte-stonader-fra-nav-til-bosatte-i-50-trondelag.pdf)[(xls)](https://www.nav.no/_/attachment/download/40deb87b-88ab-44d1-bbbb-372e85399372:04e281da5022a6bd3e2bd7e249348e6c04567c9e/2018-utbetalte-stonader-fra-nav-til-bosatte-i-50-trondelag.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Nordland (pdf)](https://www.nav.no/_/attachment/download/acbfa5f1-2440-4e8b-acbc-b639616c2ebd:4dc433caf6989d321663cec665004b67fd5d3694/2018-utbetalte-stonader-fra-nav-til-bosatte-i-18-nordland.pdf)[(xls)](https://www.nav.no/_/attachment/download/7b3fb811-1e43-4c9d-abd7-bf0adc91cd05:bd4df4558425079f58633c9a037cf35ce92c1836/2018-utbetalte-stonader-fra-nav-til-bosatte-i-18-nordland.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Troms (pdf)](https://www.nav.no/_/attachment/download/71d88dfc-576e-4406-9ab6-ba2b56d6dce2:04d084a87b506174758435d857d6e1f56427c423/2018-utbetalte-stonader-fra-nav-til-bosatte-i-19-troms.pdf)[(xls)](https://www.nav.no/_/attachment/download/87ecbc47-caf5-46b0-8131-dbb216ff14cd:116c524863ab5406755f40a47ef06d3a6293c60f/2018-utbetalte-stonader-fra-nav-til-bosatte-i-19-troms.xlsx)
+- [Utbetalte stønader fra Nav. Geografi. 2018. Finnmark (pdf)](https://www.nav.no/_/attachment/download/0d49f14e-4d5f-4b71-8638-154e401e9de4:015d1fb5a61a23bb6c8049014b1201d8739a85c2/2018-utbetalte-stonader-fra-nav-til-bosatte-i-20-finnmark.pdf)[(xls)](https://www.nav.no/_/attachment/download/f34ce617-0743-46f3-8350-16a1e03584e8:0fc201a23ea8b1b30ba84b9d2def0868621f3fc4/2018-utbetalte-stonader-fra-nav-til-bosatte-i-20-finnmark.xlsx)
+
+#### Infografikk
+
+- [Last ned bilde i full størrelse (png)](https://www.nav.no/_/attachment/download/144c5a4d-61bc-4c60-b851-d7e94ba4af7a:a03322d22c40148a636944943f4fdf75845127ce/2018_utbetalinger%20fra%20nav%20til%20innbyggere%20i%20Norge.png)
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/relatert-informasjon/arkiv-utbetalinger-til-personer-i-norge-per-fylke-og-kommune-2018) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-14** Første gang hentet

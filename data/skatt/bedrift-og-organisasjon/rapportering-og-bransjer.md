@@ -1,4 +1,4 @@
-<!-- innholds-hash: bcf554fc8ef82356ff93b7920eb7fa7c88c09b9aced0dce3e23b50896ad3f2e5 -->
+<!-- innholds-hash: dfac991eebdc60978eb672a392563cce735184c19eb6c2fcd590b3696baa0741 -->
 
 # Rapportering og bransjer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:35:18Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:50:23Z
 
 ## Innhold
 
@@ -22,12 +22,6 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 #### Kalender
 
-7
-
-SEP
-
-[A-melding for august – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
-
 15
 
 SEP
@@ -40,6 +34,12 @@ OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
+12
+
+OKT
+
+[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
+
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
 ---
@@ -49,3 +49,4 @@ OKT
 
 - **2026-05-11** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

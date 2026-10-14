@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8593e4c993dea2935f6b9c42db9f9a8056379e3e4e44a651896492e8337e55f5 -->
+<!-- innholds-hash: 4818b8af7925d09a79e3a31e6c2435e8b6df6e955581a8b51a156be4ec4d8ebc -->
 
 # Starte, drive og avslutte bedrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T10:40:38Z
+- **Sist oppdatert i arkivet:** 2026-10-14T04:55:56Z
 
 ## Innhold
 
@@ -28,12 +28,6 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 #### Kalender
 
-7
-
-SEP
-
-[A-melding for august – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
-
 15
 
 SEP
@@ -46,6 +40,12 @@ OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
+12
+
+OKT
+
+[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
+
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
 ---
@@ -56,3 +56,4 @@ OKT
 - **2026-05-11** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)
