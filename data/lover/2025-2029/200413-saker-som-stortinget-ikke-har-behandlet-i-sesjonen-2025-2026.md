@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1e104dcc2f29d0474e190957bfb64662b40d141ec8f3b042b18b47fa5009b4cd -->
+<!-- innholds-hash: 7d90a306803a754ca18ac3c62156b5263a2b1db02641a63aba84ff9a49d709da -->
 
 # Saker som Stortinget ikke har behandlet i sesjonen 2025-2026
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200413
 - **Type:** 2
 - **Korttittel:** Saker som Stortinget ikke har behandlet i sesjonen 2025-2026
-- **Status:** 3
+- **Status:** 1
 - **Henvisning:** Dokument 11 (2025–2026)
 - **Komité:** 
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-09T15:20:21Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200413
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,8 +35,8 @@
   "korttittel": "Saker som Stortinget ikke har behandlet i sesjonen 2025-2026",
   "sak_fremmet_id": 200413,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791496800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 1,
   "tittel": "Saker som Stortinget ikke har behandlet i sesjonen 2025-2026",
   "type": 2
 }
@@ -47,3 +47,4 @@
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 017ba1d7949d465df4e2a047087cfaa6ffeb4d48dbace701785b303523daf9ac -->
+<!-- innholds-hash: 8527f41ef51c49dfc018398f63e4d715b9635438b0db7629e88120571853b350 -->
 
 # Statsbudsjett 2027
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200441
 - **Type:** 1
 - **Korttittel:** Statsbudsjettet 2027 (kapitler fordelt til kontroll- og konstitusjonskomiteen)
-- **Status:** 3
-- **Henvisning:** Prop. 1 S (2026–2027)
-- **Komité:** 
+- **Status:** 2
+- **Henvisning:** Prop. 1 S (2026–2027); Innst. 10 S (2026-2027)
+- **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200441
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,16 +27,39 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 1 S (2026–2027)",
+  "henvisning": "Prop. 1 S (2026–2027); Innst. 10 S (2026-2027)",
   "id": 200441,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KONTROLL",
+    "navn": "Kontroll- og konstitusjonskomiteen"
+  },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til kontroll- og konstitusjonskomiteen)",
   "sak_fremmet_id": 200441,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Amundsen",
+      "foedselsdato": "/Date(33260400000+0100)/",
+      "fornavn": "Per-Willy",
+      "id": "PTA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Tr",
+        "navn": "Troms"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Statsbudsjett 2027",
   "type": 1
 }
@@ -47,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

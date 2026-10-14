@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9022a62893d0dd920eb9cee9f71a78974ae8b91449e18f4aee71e1c951179bde -->
+<!-- innholds-hash: fdae105b6b4d4c501b1bde0ed21334c29daa74c1ec4039fc7c5c2e3a6cf933f3 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200423
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om Tolletatens fremtidige kontrolloppdrag og bevæpning",
   "sak_fremmet_id": 200423,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Aasen-Svensrud",
+      "foedselsdato": "/Date(320022000000+0100)/",
+      "fornavn": "Maria",
+      "id": "AASE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ve",
+        "navn": "Vestfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning",
@@ -109,3 +129,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

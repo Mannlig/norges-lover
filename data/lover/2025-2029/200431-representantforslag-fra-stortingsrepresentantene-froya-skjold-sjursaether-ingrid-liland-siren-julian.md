@@ -1,4 +1,4 @@
-<!-- innholds-hash: 525151c6310fe890e4c4ea2c68ea719d38bef46176dec3b844d044ef2b7dbea2 -->
+<!-- innholds-hash: f644ad98c92090eeb65d2151324745d47364ab7334539fd9a1d6c70574cd59a2 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen og Oda Indgaard om å forby reklame for fossil energi
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200431
 - **Type:** 2
 - **Korttittel:** Representantforslag om å forby reklame for fossil energi
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:12 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:52:53Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200431
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200431,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å forby reklame for fossil energi",
   "sak_fremmet_id": 200431,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen og Oda Indgaard om å forby reklame for fossil energi",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

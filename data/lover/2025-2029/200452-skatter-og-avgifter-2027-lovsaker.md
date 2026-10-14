@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c2210efa8557b55c515255e9759bde75ad171874f8ed6d37061d126449871df -->
+<!-- innholds-hash: 5fc3fa3111fa50585e874e85f95bcfdd9ed3c27b455e7f7875494178665ce1d1 -->
 
 # Skatter og avgifter 2027 – lovsaker
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200452
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,7 +35,7 @@
   "korttittel": "Skatter og avgifter 2027 – lovsaker (Innst. 4 L)",
   "sak_fremmet_id": 200452,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791360000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
   "status": 3,
   "tittel": "Skatter og avgifter 2027 – lovsaker",
   "type": 3
@@ -47,3 +47,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

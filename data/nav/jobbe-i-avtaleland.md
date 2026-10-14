@@ -1,11 +1,11 @@
-<!-- innholds-hash: ffd5406211c6a37bf1b073b013332cecb5a0826aa3b302e702214616e16e9061 -->
+<!-- innholds-hash: b4429f9cf8a57e2a49f9251e6c5467f4f4aa5ab34e17ac954de57873f6d76f02 -->
 
 # Jobbe i land Norge har trygdeavtale med - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-avtaleland
-- **Sist oppdatert i arkivet:** 2026-10-06T02:42:46Z
+- **Sist oppdatert i arkivet:** 2026-10-14T14:40:48Z
 
 ## Innhold
 
@@ -483,7 +483,7 @@ Hvis du ikke fyller disse vilkårene, men ønsker å være medlem i folketrygden
 
 Hvis du skal jobbe på britisk sokkel og er bosatt i Norge, beholder du medlemskapet selv om oppholdet skal vare i mer enn 2 år. Du må være lønnet av arbeidsgiveren din i Norge.
 
-#### Familiemedlemmer som skal være med til utlandet
+Familiemedlemmer som skal være med til utlandet
 
 For familiemedlemmer som skal være med til utlandet og ikke selv jobber, gjelder trygdereglene i landet de bor i. Vi vurderer hvor en person bor på bakgrunn av flere opplysninger, blant annet hvor lenge personen skal være i utlandet og hva som er formålet med oppholdet.
 
@@ -502,7 +502,7 @@ Du er statsansatt når du er ansatt og blir lønnet av den norske stat. Dette gj
 
 Disse reglene gjelder også hvis du jobber på hjemmekontor.
 
-#### Familiemedlemmer som skal være med til utlandet
+Familiemedlemmer som skal være med til utlandet
 
 For familiemedlemmer som skal være med til utlandet og ikke selv jobber, gjelder trygdereglene i landet de bor i. Vi vurderer hvor en person bor på bakgrunn av flere opplysninger, blant annet hvor lenge personen skal være i utlandet og hva som er formålet med oppholdet.
 
@@ -622,9 +622,7 @@ Hvis du ikke fyller disse vilkårene, men ønsker å være medlem i folketrygden
 
 Da kan vi vurdere situasjonen din, og eventuelt be trygdemyndigheten i arbeidslandet ditt om en avtale slik at du fortsetter å være medlem i folketrygden i hele perioden.
 
-#### Familiemedlemmer
-
-Familiemedlemmer som er med en utsendt arbeidstaker til utlandet, og ikke selv jobber, beholder medlemskapet i folketrygden. Dette gjelder bare så lenge arbeidstakeren er medlem i folketrygden.
+Familiemedlemmer Familiemedlemmer som er med en utsendt arbeidstaker til utlandet, og ikke selv jobber, beholder medlemskapet i folketrygden. Dette gjelder bare så lenge arbeidstakeren er medlem i folketrygden.
 
 Disse regnes som familiemedlemmer:
 
@@ -766,7 +764,7 @@ Du er statsansatt når du er ansatt og blir lønnet av den norske stat. Dette gj
 
 Disse reglene gjelder også hvis du jobber på hjemmekontor.
 
-#### Familiemedlemmer
+Familiemedlemmer
 
 Familiemedlemmer som følger med og forsørges av deg som er statsansatt, beholder som regel medlemskapet i folketrygden.
 
@@ -779,7 +777,7 @@ Ektefelle/partner/samboer må være statsborger i Norge, EØS eller Sveits for �
 
 For barn av ektefelle/partner/samboer (særkullsbarn), opphører medlemskapet ved utreise fra Norge. Barnets forelder kan søke om frivillig medlemskap for barnet.
 
-#### Hva betyr det å være forsørget?
+Hva betyr det å være forsørget?
 
 Familiemedlemmer regnes som forsørget så lenge de ikke har egen arbeidsinntekt som de kan leve for i utlandet. Som et utgangspunkt, regner vi et familiemedlem som forsørget hvis hen ikke har egen inntekt på mer enn en og en halv ganger folketrygdens grunnbeløp (G), det vil si 204 824 kroner.
 
@@ -830,7 +828,11 @@ Hvis du har behov for en avklaring av medlemskapet ditt eller trenger dokumentas
 
 Hvis du ikke beholder medlemskapet i folketrygden etter trygdeavtalen, kan du søke om frivillig medlemskap. Det kan føre til at trygdereglene i både arbeidslandet og i Norge vil gjelde for deg, og at du må betale trygdeavgift i begge landene.
 
-Les mer om vilkår og [hvordan du søker om frivillig medlemskap](https://www.nav.no/frivillig-medlemskap).
+Les mer om vilkår og hvordan du søker:
+
+[Søk om frivillig medlemskap under opphold i utlandet](https://www.nav.no/frivillig-medlemskap)
+
+Slik gjør du det
 
 ### Når du jobber i utlandet
 
@@ -848,7 +850,7 @@ Du finner informasjon om [helsetjenester når du er i utlandet](https://www.hels
 
 [Trygdeavtalene (lovdata.no)](https://lovdata.no/nav/andre-rettskilder/Trygdeavtaler)
 
-Oppdatert 02.10.2026
+Oppdatert 14.10.2026
 
 ### Noe du ikke finner svaret på her? Ta kontakt med oss
 
@@ -890,3 +892,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

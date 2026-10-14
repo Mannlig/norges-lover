@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6bebb1bfcff056bc7e6745abce9ccbffae3adac7c58b22b539000a2cedc3d8b1 -->
+<!-- innholds-hash: c8f4d145ea2665ac27b6ddd540496787fcceb3465aeb05071b4c7b10458f5612 -->
 
 # Statsbudsjettet 2027 
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T09:41:55Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200434
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,7 +38,7 @@
   "korttittel": "Statsbudsjettet 2027 ",
   "sak_fremmet_id": 200434,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791360000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjettet 2027 ",
   "type": 1
@@ -52,3 +52,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

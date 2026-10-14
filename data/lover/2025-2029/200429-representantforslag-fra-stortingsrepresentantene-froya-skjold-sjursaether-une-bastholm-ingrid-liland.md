@@ -1,4 +1,4 @@
-<!-- innholds-hash: e8b8085167e6fafbdd7edf3fd3b46a2f97539ba53688a3a3b5bf4c56e17b51d0 -->
+<!-- innholds-hash: 180779c9a3a133a4489f14d0b935afea355d06219e02911b648bfd2be6a04ef0 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200429
 - **Type:** 2
 - **Korttittel:** Representantforslag om å forby jakt på ekorn
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:10 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:52:53Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200429
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200429,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å forby jakt på ekorn",
   "sak_fremmet_id": 200429,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

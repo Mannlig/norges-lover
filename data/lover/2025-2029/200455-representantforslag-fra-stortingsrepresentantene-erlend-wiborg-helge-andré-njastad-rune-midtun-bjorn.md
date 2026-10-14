@@ -1,4 +1,4 @@
-<!-- innholds-hash: a3e9f4c2780e945d565890877fab39e04c3eafd467e69ffe6ce7ab818813138b -->
+<!-- innholds-hash: f785f7e314740f66ce941c293a530bd17e236567f8b18ae19d8c40d4e8dde9f8 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200455
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gi kommunene reell vetorett ved etablering av asylmottak
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:15 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200455
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200455,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om å gi kommunene reell vetorett ved etablering av asylmottak",
   "sak_fremmet_id": 200455,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

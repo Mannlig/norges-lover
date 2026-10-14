@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8d933e4adb478b30fd9820f48d6e0b6c0a044e839f164813ade044c8e3521e1d -->
+<!-- innholds-hash: 2d8a8ebb69f9eb68c3c47e921dc586e30b8e43f126252fe6daeb8d83038e96bb -->
 
 # Statsbudsjett 2027
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200442
 - **Type:** 1
 - **Korttittel:** Statsbudsjettet 2027 (kapitler fordelt til helse- og omsorgskomiteen)
-- **Status:** 3
-- **Henvisning:** Prop. 1 S (2026–2027)
-- **Komité:** 
+- **Status:** 2
+- **Henvisning:** Prop. 1 S (2026–2027); Innst. 11 S (2026-2027)
+- **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200442
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,16 +27,19 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 1 S (2026–2027)",
+  "henvisning": "Prop. 1 S (2026–2027); Innst. 11 S (2026-2027)",
   "id": 200442,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til helse- og omsorgskomiteen)",
   "sak_fremmet_id": 200442,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Statsbudsjett 2027",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

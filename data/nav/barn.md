@@ -1,124 +1,173 @@
-<!-- innholds-hash: eef4c308f3c06ffafb484843432b2a67e98dec63500d6711f3098de0ee41dc28 -->
+<!-- innholds-hash: 73adfdf34592e52e55da8d0f187f599b871c108d9e2e7602c4175636f40309e3 -->
 
 # Venter eller har nylig fått barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barn
-- **Sist hentet:** 2026-07-20T09:44:30Z
+- **Sist oppdatert i arkivet:** 2026-10-14T14:16:29Z
 
 ## Innhold
 
 Dette kan du ha rett til
 
-
 ## Venter eller har nylig fått barn
 
-Om pengestøtter du kan ha rett til under svangerskapet og etter at barnet er født.
+Om pengestøtter du kan ha rett til under graviditeten og etter at barnet er født.
 
+### Pengestøtte når du venter barn
 
-### Innhold på denne siden
+Det er flere pengestøtter som skal sikre deg inntekt når du venter barn.
 
-
-### Innhold på denne siden
-
-
-#### Hvis du ikke kan jobbe under svangerskapet
-
-Hvis du ikke kan fortsette å jobbe under svangerskapet fordi det kan medføre risiko for barnet, kan du få svangerskapspenger.
-
-Hvis det er din egen sykdom som gjør at du ikke kan jobbe, kan du ha rett til sykepenger.
-
-
-#### Har du rett til foreldrepenger eller engangsstønad?
+#### Foreldrepenger sikrer deg inntekt i permisjonstiden
 
 Foreldrepenger skal erstatte inntekten din når du skal være hjemme med barnet i forbindelse med fødsel eller adopsjon.
 
-Hvis du har rett på foreldrepenger, kan du velge om du vil ta dem ut sammenhengende, dele dem opp i flere perioder eller kombinere dem med arbeid. Du kan endre planene underveis.
+[Foreldrepenger](https://www.nav.no/foreldrepenger)
 
-Du må ta ut foreldrepengene før barnet fyller 3 år eller før du starter på foreldrepengeperiode for et nytt barn.
+Pengestøtte
 
-Engangsstønad kan du få hvis du venter barn og ikke har hatt inntekt som gir rett til foreldrepenger i 6 av de siste 10 månedene. Da får du en engangssum istedenfor foreldrepenger.
+Hvis du ikke har rett til foreldrepenger, kan du ha rett til engangsstønad når du venter barn. Da får du en engangssum i stedenfor foreldrepenger.
 
+[Engangsstønad](https://www.nav.no/engangsstonad)
 
-#### Blir du alene med barn?
+Pengestøtte
 
-Hvis du er alene om omsorgen for barnet og har rett til foreldrepenger, får du hele foreldrepengeperioden, inkludert kvoten til den andre forelderen.
+#### Hvis du ikke kan jobbe når du er gravid
 
-Du kan også ha rett til annen støtte når du er alene med barn.
+Hvis du er gravid og ikke kan jobbe fordi arbeidet kan være en risiko for barnet, kan du ha rett til svangerskapspenger.
 
+[Svangerskapspenger](https://www.nav.no/svangerskapspenger)
 
-#### Har du registrert farskap eller medmorskap?
+Pengestøtte
 
-Hvis barnets mor er gift med barnets far, registreres farskap automatisk. Hvis barnets foreldre ikke er gift med hverandre, må dere erklære farskapet.
+Hvis det er din egen sykdom som gjør at du ikke kan jobbe, kan du ha rett til sykepenger.
 
-Det er egne regler for fastsettelse av medmorskap i lesbiske forhold og for farskap for barn født av utenlandsk surrogatmor i utlandet.
+[Sykepenger](https://www.nav.no/sykepenger)
 
-Å erklære foreldreskap for et barn gir forelderen både rettigheter og plikter overfor barnet.
+Pengestøtte
 
+### Pengestøtte når du nylig har fått barn
 
-#### Være hjemme med barnet
+#### Barnetrygd fra måneden etter fødsel
 
-Hvis du får foreldrepenger, kan du velge om du vil ta dem ut sammenhengende, dele dem opp i flere perioder eller kombinere dem med arbeid. Du kan endre planene underveis.
+Barnetrygden går automatisk til mor når barnet er født i Norge. Du kan få barnetrygd fra måneden etter at barnet er født, og du trenger som hovedregel ikke å søke.
 
-Du må ta ut foreldrepengene før barnet fyller 3 år eller før du starter på foreldrepengeperiode for et nytt barn.
+[Barnetrygd](https://www.nav.no/barnetrygd)
 
+Pengestøtte
 
-#### Kontantstøtte
-
-Om kontantstøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
-
-
-#### Barnetrygd
-
-Hvis barnet ditt er født i Norge, får dere som regel innvilget barnetrygd automatisk, senest to måneder etter fødsel. I noen tilfeller må man søke selv.
-
-
-#### Omsorgsopptjening
-
-Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+#### Hvis barnet blir innlagt på sykehus
 
 Hvis du allerede har søkt om foreldrepenger, kan det hende du skal bytte til pleiepenger i perioden barnet er innlagt.
 
-Hva du må foreta deg, og hvordan du går frem, kommer an på hvilken situasjon du er i.
+[Pleiepenger for sykt barn](https://www.nav.no/pleiepenger-barn)
 
-Når du må være hjemme fra jobb fordi barnet ditt er sykt, har du rett til hjemme med sykt barn-dager (omsorgsdager). Hvis du er alene om omsorgen for barnet, har du rett til dobbelt så mange dager.
+Pengestøtte
 
-Hvis du pleier et sykt barn eller et annet familiemedlem, kan du ha rett til annen støtte.
+#### Barn som ikke har full barnehageplass
 
-Når barnet er født, kan du søke om foreldrestipend fra Lånekassen. Dette kan du få i tillegg til foreldrepenger fra Nav mens du har permisjon fra utdanningen din.
+Om kontantstøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
 
-Du kan også få mer lån og stipend fra Lånekassen når du er student og har barn.
+[Kontantstøtte](https://www.nav.no/kontantstotte)
 
-Du kan ha rett til redusert foreldrebetaling for barnehageplassen hvis inntekten din er under kommunens grense. Noen kommuner har lignende ordninger for foreldrebetaling av SFO-plass. Du kan kontakte kommunen din for å få mer informasjon.
+Pengestøtte
 
-Har du problemer med å betale nødvendige utgifter? Du kan søke om økonomisk sosialhjelp til å betale levekostnader. Det kan for eksempel være utgifter til mat, bolig, tannlege, briller, klær eller fritidsaktiviteter.
+Hvis barnet ditt er født i Norge, får dere som regel innvilget barnetrygd automatisk, senest to måneder etter fødsel. I noen tilfeller må man søke selv.
 
-Du kan også søke om støtte til spesielle utgifter, slik som konfirmasjon. Vi legger særlig vekt på barn og unges behov.
+#### Hjemme med sykt barn-dager
 
-Vi kan også gi råd og veiledning om økonomien din. Målet med rådgivningen er at du skal bli i stand til å styre økonomien din selv. Tjenesten er gratis.
+Hvis du er i jobb og må være hjemme for å ta deg av et sykt barn, kan du ha rett til å bruke omsorgsdager (hjemme-med-sykt-barn-dager).
 
-Oppdatert 09.02.2026
+[Omsorgspenger (hjemme med sykt barn-dager)](https://www.nav.no/omsorgspenger)
 
+Pengestøtte
 
-#### Chat med oss
+#### Omsorgsopptjening når du tar deg av barn
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+
+[Pensjonsopptjening ved omsorg for barn](https://www.nav.no/omsorgsopptjening-barn)
+
+Slik gjør du det
+
+### Registrere farskap eller medmorskap
+
+Når barnets foreldre er gift, blir farskapet automatisk registrert. Hvis foreldrene ikke er gift, må farskapet registreres.
+
+Det er egne regler for å registrere medmorskap.
+
+[Vil registrere farskap, morskap eller medmorskap](https://www.nav.no/registrere-far-eller-mor)
+
+Dette kan du ha rett til
+
+### Er du alene med barn?
+
+Du kan ha rett til flere pengestøtter når du er helt eller delvis alene med barn. Det er som hovedregel den forelderen barnet bor fast hos, som kan ha rett på pengestøttene.
+
+[Er helt eller delvis alene med barn](https://www.nav.no/alene-med-barn)
+
+Dette kan du ha rett til
+
+Hvis du er alene med barn fordi den andre forelderen er død, kan både du og barna ha rett til pengestøtte som gjenlevende.
+
+[Er alene med barn fordi den andre forelderen er død](https://www.nav.no/alene-med-barn-etter-dodsfall)
+
+Dette kan du ha rett til
+
+### Andre som kan hjelpe
+
+[Småbarnsliv](https://www.helsenorge.no/smabarnsliv)
+
+En tjeneste for foreldre med småbarn opp til 2 år. Du får informasjon tilpasset barnets alder og mulighet til å registrere barnets høyde og vekt.
+
+[Foreldresupport fra Mental helse](https://mentalhelse.no/fa-hjelp/foreldresupport)
+
+Døgnåpen telefon- og chattetjeneste for deg som har barn under 18 år, og som trenger hjelp, veiledning eller har behov for å lufte tankene dine med noen.
+
+Råd og veiledning fra mental helse
+
+[Home-Start Familiekontakten](https://homestartnorge.no/)
+
+Familiestøtteprogram for deg med barn under skolealder. Frivillige fra Home-start gir deg støtte og avlastning i hverdagen.
+
+Støtte og avlastning fra Home-Start
+
+[Lånekassen](https://lanekassen.no/)
+
+Når barnet er født, kan du søke om foreldrestipend fra Lånekassen. Du kan også få mer lån og stipend fra Lånekassen når du er student og har barn.
+
+[Arbeidstilsynet](https://www.arbeidstilsynet.no/)
+
+Hvis du har spørsmål om rettigheter i forhold til arbeidsgiveren din, kan Arbeidstilsynet hjelpe.
+
+Oppdatert 30.09.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Ring oss på 55 55 33 33
+Ring oss på 55 55 33 33
 
-Åpent nå
+Åpent hverdager kl. 9–15.
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
-Still oss et spørsmål og få skriftlig svar.
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/barn) av norges-lover-bot.*
@@ -133,3 +182,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

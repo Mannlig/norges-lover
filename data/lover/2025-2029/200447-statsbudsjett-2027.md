@@ -1,4 +1,4 @@
-<!-- innholds-hash: 43f179c83eff31f26416176c46249a11d1ea68f899f7f462cb83548c20e1d3d0 -->
+<!-- innholds-hash: 5f44d30a80e1b56e6014c42035eaa60560050da539d85b3c60358f0e9df53cfb -->
 
 # Statsbudsjett 2027
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200447
 - **Type:** 1
 - **Korttittel:** Statsbudsjettet 2027 (kapitler fordelt til kommunal- og forvaltningskomiteen)
-- **Status:** 3
-- **Henvisning:** Prop. 1 S (2026–2027)
-- **Komité:** 
+- **Status:** 2
+- **Henvisning:** Prop. 1 S (2026–2027); Innst. 16 S (2026-2027)
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200447
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,16 +27,19 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 1 S (2026–2027)",
+  "henvisning": "Prop. 1 S (2026–2027); Innst. 16 S (2026-2027)",
   "id": 200447,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til kommunal- og forvaltningskomiteen)",
   "sak_fremmet_id": 200447,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Statsbudsjett 2027",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

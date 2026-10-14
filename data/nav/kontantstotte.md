@@ -1,26 +1,21 @@
-<!-- innholds-hash: 668c61eb5954bc80c5b265ead054585d4801b21c04ec5dfd39d111e8115b7e4f -->
+<!-- innholds-hash: 8c508c63d5607c4658f527d2e020b72944a8883a0c0e36be1bb542985c8fb7f6 -->
 
 # Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
-- **Sist hentet:** 2026-07-20T10:03:56Z
+- **Sist oppdatert i arkivet:** 2026-10-14T14:35:53Z
 
 ## Innhold
 
 Pengestøtte
 
-
 ## Kontantstøtte
 
 Pengestøtte når du har barn mellom 13 og 19 måneder som ikke har fulltidsplass i barnehage.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
+### Hvem kan få?
 
 For å ha rett til kontantstøtte må barnet ditt være fylt ett år og ikke ha fulltidsplass i barnehage som får offentlig tilskudd.
 
@@ -28,7 +23,7 @@ Hvis barnet har deltidsplass, kan du ha rett til 20, 40, 60 eller 80 prosent kon
 
 Som hovedregel må både du og barnet bo i Norge. Hvis dere oppholder dere i Norge i minst 12 måneder sammenhengende, blir dere regnet som bosatt.
 
-Du må tillegg ha minst 5 års
+Du må tillegg ha minst 5 års [medlemskap i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden) eller fra trygdeordninger i andre EØS-land. Når barnet bor sammen med begge foreldrene, må begge foreldrene ha vært medlemmer i minst 5 år.
 
 Når Nav vurderer vilkåret om medlemskap, skal trygdeperioder i et annet EØS-land også regnes med.
 
@@ -38,51 +33,60 @@ Merk at det kun er statsborgere fra EØS-land eller tredjelandsborgere som er i 
 
 Hvis du har andre barn enn dine egne boende fast hos deg, kan du ha rett til kontantstøtte. Du kan ikke få kontantstøtte for barn som er i fosterhjem eller i en institusjon.
 
-
 #### Er du utenlandsk arbeidstaker i Norge?
 
 Forskjellige situasjoner gjør at du kan ha rett til kontantstøtte som utenlandsk arbeidstaker i Norge.
 
-Kravet om minst 5 års
+Kravet om minst 5 års [medlemskap i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden), eller fra trygdeordninger i andre EØS-land, gjelder også disse situasjonene.
 
 - Når hele familien bor i Norge og skal være bosatt her i minst 12 måneder, kan du ha rett til kontantstøtte. Dette gjelder alle utenlandske statsborgere som er bosatt i Norge, registrert i folkeregisteret og som har oppholdstillatelse eller lovlig opphold på annet grunnlag.
 - Er du statsborger i et EØS-land eller i familie med en statsborger fra et annet EØS-land* og arbeider i Norge, kan du ha rett til kontantstøtte selv om du skal være bosatt i Norge i mindre enn 12 måneder.
+
 * Hvis du er statsborger i et EØS-land eller i familie med en EØS-borger, er du omfattet av EØS-forordningen som gjelder denne pengestøtten.
 
 Nordisk konvensjon og enkelte trygdeavtaler kan medføre at også statsborgere fra ikke EØS-land som ikke er i familie med en EØS-borger er omfattet av EØS-forordningen.
 
 - Hvis forelderen som bor i det andre EØS-landet har arbeid eller mottar en ytelse som sidestilles med arbeid, og har rett på kontantstøtte i EØS-landet, vil Nav utbetale differansen mellom den norske stønaden og stønaden fra det andre EØS-landet.
-- Hvis forelderen som bor i det andre EØS-landet ikke er i arbeid og heller ikke mottar ytelser som sidestilles med arbeid, har dere rett på full utbetaling av kontantstøtte fra Norge.
+- Hvis forelderen som bor i det andre EØS-landet ikke er i arbeid og heller ikke mottar ytelser som sidestilles med arbeid, har dere rett på full utbetaling av kontantstøtte fra Norge.
+
 Du kan ha rett til kontantstøtte fra Norge, hvis den andre forelderen arbeider eller mottar trygdeytelser eller pensjon fra Norge. Det gjelder også om du og den andre forelderen er skilt, separert eller aldri har bodd sammen.
 
 Du kan søke i landet du bor i eller sende søknad direkte til Nav.
+
+[Send skjema](https://www.nav.no/fyllut/nav340015/pdf)
 
 Når Nav mottar søknaden din, undersøker vi den andre forelderens situasjon, og vurderer om dere har rett til å motta kontantstøtte fra Norge. Vi henter også alltid inn opplysninger om din situasjon fra landet du bor i.
 
 Hvis du bor alene med barnet, er det du som får utbetalt kontantstøtten.
 
+Endret praksis fra 1. august 1998 etter EØS-regelverket
+
 Endringene innebærer blant annet at foreldre som bor sammen med barnet i et annet EØS-land, kan ha selvstendig rett til å motta kontantstøtte hvis den andre forelderen er omfattet av norsk trygdeordning.
 
 Ta kontakt med Nav hvis du tror du kan være berørt av denne endringen, og ønsker en ny vurdering av din rett til kontantstøtte.
 
-Les mer om praksisendringen og hvordan du kan kontakte oss:
+Les mer om praksisendringen og hvordan du kan kontakte oss: [Praksisendringer på familieytelsene](https://www.nav.no/no/nav-og-samfunn/kontakt-nav/feiltolkning-av-eos-reglene/endret-praksis-i-saker-om-overgangsstonad-til-enslig-mor-eller-far)
 
 - Hvis arbeidsgiveren din i et annet EØS-land har sendt deg på oppdrag i Norge, har du ikke rett til kontantstøtte i Norge. Årsaken er at du fortsatt har arbeidsgiveren din i det andre landet, og du er fremdeles medlem av trygdeordningen i det landet.
 - Hvis ektefelle eller samboer også flytter til Norge, og anses som bosatt i Norge etter EØS-regelverket, kan hun eller han ha rett til kontantstøtte selv om oppholdet i Norge er på mindre enn 12 måneder. Nav vil konkret vurdere i hver sak om vi anser deg som bosatt i Norge etter EØS-regelverket. Da ser vi blant annet på varigheten på oppholdet, familiemessige bånd og boligsituasjonen.
-- Hvis ektefelle eller samboer og barnet er med til Norge og ektefelle eller samboer tar arbeid her, blir hun eller han
+- Hvis ektefelle eller samboer og barnet er med til Norge og ektefelle eller samboer tar arbeid her, blir hun eller han [medlem av folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden). Da kan hun eller han ha rett til kontantstøtte selv om oppholdet i Norge blir kortere enn 12 måneder.
+
 - Hvis arbeidsgiveren din i et annet land har sendt deg på oppdrag i Norge, har du ikke rett til kontantstøtte i Norge. Årsaken er at du fortsatt har arbeidsgiveren din i det andre landet, og du er fremdeles medlem av trygdeordningen der.
 - Hvis ektefelle/samboer og barnet er med til Norge og ektefelle/samboer tar arbeid her, blir hun/han medlem av folketrygden. Hvis dere begge på et tidligere tidspunkt har minst 5 års trygdedekning fra Norge eller et annet EØS-land, kan dere også søke om kontantstøtte.
+
+### Hva kan du få?
+
+#### Hvor mye kan du få?
+
 Hvis barnet ditt ikke har fått tildelt barnehageplass, kan du få 100 prosent kontantstøtte, som tilsvarer 7 500 kroner i måneden.
 
 Hvis barnet ditt har fått tildelt deltidsplass i barnehage, kan du få 20, 40, 60 eller 80 prosent kontantstøtte.
 
 Det er tiden du har fått tildelt plass i barnehagen som avgjør hvor mye du får i kontantstøtte, ikke hvor mye av den tildelte tiden dere benytter dere av.
 
-
 #### Eksempel
 
 Du har fulltidsplass i barnehagen, men dere bruker kun plassen i barnehagen én dag i uken. Da har du ikke rett til kontantstøtte, siden barnet i utgangspunktet har mulighet til å være i barnehagen hele uken.
-
 
 #### Satser
 
@@ -92,31 +96,87 @@ Kontantstøtten blir utbetalt en gang per måned.
 
 Satser for kontantstøtte fra og med 1. august 2018:
 
+| Tildelt oppholdstid i barnehage (timer per uke) | Beløp per barn |
+| --- | --- |
+| Ikke fått barnehageplass (100 prosent kontantstøtte) | 7 500 kroner |
+| Til og med 8 timer (80 prosent kontantstøtte) | 6 000 kroner |
+| Fra 9 til og med 16 timer (60 prosent kontantstøtte) | 4 500 kroner |
+| Fra 17 til og med 24 timer (40 prosent kontantstøtte) | 3 000 kroner |
+| Fra 25 til og med 32 timer (20 prosent kontantstøtte) | 1 500 kroner |
+| 33 timer eller mer (ikke rett til kontantstøtte) | 0 kroner |
+
+#### Kontantstøtten kan deles
+
 Foreldre med avtale om delt fast bosted kan søke om å dele kontantstøtten 50/50 seg imellom. Begge foreldrene må være enige om å dele kontantstøtten og sende hver sin søknad til Nav. Signert avtale om delt fast bosted må legges ved søknaden.
 
-Du kan få kontantstøtte for barn mellom 13 og 19 måneder, det vil si fra og med den måneden barnet fyller 13 måneder til og med den måneden barnet fyller 19 måneder. Du kan maksimalt få kontantstøtte i 7 måneder.
+#### Hvor lenge kan du få?
+
+Du kan få kontantstøtte for barn mellom 13 og 19 måneder, det vil si fra og med den måneden barnet fyller 13 måneder til og med den måneden barnet fyller 19 måneder. Du kan maksimalt få kontantstøtte i 7 måneder. Har du adopterte barn, kan du få kontantstøtte i inntil 7 måneder etter at foreldrepengeperioden med 100 prosent dekningsgrad er utløpt. Kontantstøtten kan utbetales fram til barnet begynner på skolen.
+
+[Foreldrepenger](https://www.nav.no/foreldrepenger)
+
+Pengestøtte
 
 Hvis du har fått engangsstønad ved adopsjon, kan du tidligst få kontantstøtte fra måneden etter at foreldrepengeperioden for adopsjon med 100 prosent dekningsgrad ville ha utløpt.
 
-Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+[Engangsstønad](https://www.nav.no/engangsstonad)
+
+Pengestøtte
+
+#### Omsorgsopptjening
+
+Du kan få omsorgsopptjening hvis du tar deg av små barn. Omsorgsopptjening er en ordning som bidrar til at du kan få høyere pensjon når du blir pensjonist.
+
+[Pensjonsopptjening ved omsorg for barn](https://www.nav.no/omsorgsopptjening-barn)
+
+Slik gjør du det
+
+#### Andre tilbud
 
 Mer informasjon til deg som
+
+- [Har barn som ikke har full barnehageplass](https://www.nav.no/ikke-barnehageplass) Dette kan du ha rett til
+- [Venter eller har nylig fått barn](https://www.nav.no/barn) Dette kan du ha rett til
+
+### Søke, ettersende eller klage
+
+#### Søknad og ettersendelse
 
 Du kan tidligst søke kontantstøtte fra den måneden barnet fyller ett år.
 
 - Bor dere foreldre sammen, skal bare én av dere søke
 - Bor dere ikke sammen og har delt fast bosted, må begge foreldrene sende hver sin søknad
+
+[Søk om kontantstøtte](https://www.nav.no/start/soknad-kontantstotte)[Ettersend dokumentasjon](https://www.nav.no/fyllut/nav340008/pdf?type=ettersending)
+
 Du kan ikke få etterbetalt kontantstøtte for mer enn 3 måneder før den kalendermåneden du søkte.
 
 Du vil få informasjon i søknaden om hva slags dokumentasjon og vedlegg du må legge ved søknaden.
 
 Du kan ta kontakt med Nav hvis du ønsker mer informasjon og veiledning, og/eller hjelp til å fylle ut søknaden.
 
+Hvis du og/eller barnet ditt er utenlandske statsborgere, må du dokumentere med dokumentasjon på oppholdstillatelse i Norge
+
+Hvis du søker om kontantstøtte etter EØS-reglene eller nordisk konvensjon, må du legge ved:
+
 - arbeidsavtalen din
 - kopi av førstesiden i passet ditt
 - barnets fødselsattest
 - tilleggsskjema Nav 34-00.15.
-- Hvis barnet ikke er folkeregistret i Norge:
+
+Hvis barnet ikke er folkeregistret i Norge, må du dokumentere ved barnets fødselsattest.
+
+Hvis barnet er adoptert, må dokumentasjon som viser når du overtok omsorgen legges ved.
+
+Hvis dere ønsker delt utbetaling fordi barnet har delt bosted, må dere dokumentere ved avtale om delt bosted. Begge foreldrene må søke, og underskrive og datere avtalen om delt bosted.
+
+- Hvis barnet ikke er folkeregistret i Norge: Attest fra hjemlandet som bekrefter at du er forelder til det barnet du søker om støtte for (fødselsattest). Det er folkeregisteret eller en annen kompetent myndighet i hjemlandet som fyller ut denne attesten.
+- ID-nummer og adresse fra hjemlandet for deg, barnet og den andre forelderen.
+- Dokumentasjon på arbeidsforholdet ditt (kopi av arbeidsavtale).
+- Bekreftelse fra et annet EØS-land på at du har vært dekket av en trygdeordning i minst 5 år. Hvis du har 5 års medlemskap i den norske folketrygden, trenger du ikke å legge ved bekreftelse. Perioder med dekning i henholdsvis norske og utenlandske trygdeordninger kan legges sammen for å oppnå minst 5 års trygdetid. Merk at det kun er statsborgere fra EØS-land eller tredjelandsborgere som er i familie med en EØS-borger som kan legge sammen trygdetid fra andre EØS-land med norsk trygdetid. Hvis trygdetiden er fra et annet nordisk land, har ikke statsborgerskap betydning.
+
+Hvis du er selvstendig næringsdrivende, må du legge ved
+
 - kopi av oppdragsbekreftelser og fakturaer for perioden før du ble merverdiavgiftspliktig
 - reskontrooversikt for perioden etter at du ble merverdiavgiftspliktig
 - registerutskrift fra Brønnøysundregisteret for firmaet du driver
@@ -125,7 +185,11 @@ Du kan ta kontakt med Nav hvis du ønsker mer informasjon og veiledning, og/elle
 
 Dette skjemaet bruker du hvis du jobber i Norge og barnet ditt bor i et annet EØS-land. Skjemaet er et vedlegg til søknaden.
 
-Når vi har fått søknaden din, vil vi vurdere opplysningene du har gitt oss opp mot offentlige registre og barnehagelistene fra kommunen.
+[Send skjema](https://www.nav.no/fyllut/nav340015/pdf)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav340015)
+
+#### Etter at du har søkt
+
+Når vi har fått søknaden din, kontrollerer vi opplysningene du har gitt. Vi sammenligner opplysningene med informasjon fra offentlige registre og med opplysninger vi får fra kommunen om barnehageplass. Kommunen sender oss hver måned opplysninger om hvilke barn som har fått barnehageplass, og hvor stor plassen er.
 
 Hvis du er EØS-borger, må vi som regel innhente opplysninger fra hjemlandet ditt, blant annet om du eller den andre forelderen får kontantstøtte eller en tilsvarende stønad.
 
@@ -135,55 +199,94 @@ Hvis vi lurer på noe, tar vi kontakt med deg.
 
 Du får skriftlig vedtak når søknaden er behandlet.
 
-
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak. Husk at vi trenger all nødvendig dokumentasjon for å behandle søknaden din.
 
 I noen saker trenger vi dokumentasjon fra EØS-land og andre land som Norge har trygdeavtale med. Behandlingstiden kan bli lenger i disse sakene fordi vi må hente inn dokumentasjon fra utenlandske myndigheter (SED-dokumenter).
 
-Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt.
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Søknad | 2 måneder |
+| EØS-søknad | 8 måneder |
 
+#### Klagerettigheter
+
+Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt.
 
 #### Klage på vedtak
 
-I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du
+I vedtaket står det hvordan du går fram hvis du skal klage, hvem du skal klage til og klagefrist. Hvis du har spørsmål om vedtaket, kan du [kontakte oss](https://www.nav.no/kontaktoss).
+
+[Send klage](https://klage.nav.no/nb/klage/KONTANTSTOTTE)[Ettersend dokumentasjon](https://klage.nav.no/nb/ettersendelse/klage/KONTANTSTOTTE)
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
 
+[Klagerettigheter](https://www.nav.no/klagerettigheter)
+
+Slik gjør du det
 
 #### Saksbehandlingstid for klage
 
 Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enheten som skrev vedtaket. De vil vurdere saken din på nytt. Hvis de ikke er enig i klagen din, sender de den videre til Nav klageinstans.
 
+| Saken gjelder | Forventet saksbehandlingstid |
+| --- | --- |
+| Klage til Nav-enhet | 10 uker |
+| Klage til Nav klageinstans | 3 måneder |
+
+### Når du har kontantstøtte
+
+#### Når utbetales pengene?
+
 Kontantstøtten blir utbetalt en gang per måned.
 
 Utbetalingsdato er dagen Nav garanterer at pengene skal være på kontoen din.
 
-I
+| Utbetalingsdatoer i 2026 |
+| --- |
+| 30. januar |
+| 27. februar |
+| 31. mars |
+| 30. april |
+| 29. mai |
+| 30. juni |
+| 31. juli |
+| 31. august |
+| 30. september |
+| 30. oktober |
+| 30. november |
+| 16. desember |
+
+I [utbetalingsoversikten din](https://tjenester.nav.no/utbetalingsoversikt/) kan du se den kommende utbetalingen din flere dager før utbetalingsdatoen.
 
 Når på dagen pengene er på konto, vil variere fordi det er banken din som overfører pengene til deg. Utbetalingen kan derfor komme på kontoen din først på ettermiddagen eller kvelden.
-
 
 #### Feriepenger
 
 Det er ikke feriepenger på denne pengestøtten.
 
-
 #### Skatt
 
 Det blir ikke trukket skatt.
 
+#### Meld fra om endringer
 
 #### Meld fra om tildelt barnehageplass
 
 Dette skjemaet bruker du for å melde fra om at barn du får kontantstøtte for skal begynne i barnehage.
+
+[Meld fra om barnehageplass](https://www.nav.no/fyllut/nav341601)
 
 Du må også melde fra til oss hvis:
 
 - familiesituasjonen din endrer seg
 - dere planlegger opphold i utlandet
 - det er endring i arbeidsforhold i utlandet
+
+[Meld fra om endring](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-kontantstotte)
+
+#### Reise eller flytte til utlandet
 
 #### Reise til et annet EØS-land
 
@@ -224,23 +327,26 @@ For opphold i EØS-land gjelder egne regler.
 - Tyskland
 - Ungarn
 - Østerrike
+
 *Sveits er ikke et EØS-land, men trygdereglene gjelder likevel der hvis du er statsborger i et EFTA-land (Norge, Island, Liechtenstein eller Sveits).
 
-Se fullstendig oversikt over områder der EØS-reglene gjelder i
+Se fullstendig oversikt over områder der EØS-reglene gjelder i [rundskriv til EØS-avtalens bestemmelser om trygd kapittel 1 nr. 3 (Lovdata)](https://lovdata.no/nav/rundskriv/r45-00/kap0#KAPITTEL_1-3).
 
 Du må gi Nav beskjed om hvilket land du skal reise til og hvor lenge oppholdet skal vare. Hvis oppholdet varer lenger enn planlagt, må du også gi beskjed om det. Vi vil vurdere om du kan beholde kontantstøtten.
 
-
 #### Opphold i eller flytting til et annet EØS-land
 
-Kontantstøtten opphører hvis barnet flytter til utlandet. Du kan likevel få kontantstøtte hvis barnet ditt oppholder seg i et annet EØS-land hvis
+Kontantstøtten opphører hvis barnet flytter til utlandet. Du kan likevel få kontantstøtte hvis barnet ditt oppholder seg i et annet EØS-land hvis
 
-- en av dere som er foreldre arbeider i Norge, på
-- begge foreldrene bor med barnet, og begge er pliktige eller frivillige
+- en av dere som er foreldre arbeider i Norge, på [norsk kontinentalsokkel](https://www.nav.no/jobb-i-norge#arbeidssituasjon) eller på [norsk skip](https://www.nav.no/jobbe-i-eos#arbeidssituasjon)
+- begge foreldrene bor med barnet, og begge er pliktige eller frivillige [medlemmer i folketrygden](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden)
 - en av dere som er foreldre får uføretrygd eller pensjon fra Norge på grunnlag av tidligere yrkesaktivitet
 - en av dere som er foreldre mottar sykepenger, arbeidsavklaringspenger eller annen aktivitetsbasert ytelse fra Norge
 - begge foreldrene bor i Norge og barnet skal oppholde seg i et annet EØS-land
+
 Du må søke spesielt om kontantstøtte etter EØS-reglene.
+
+[Send skjema](https://www.nav.no/fyllut/nav340015/pdf)
 
 Hvis en av dere er yrkesaktive i et annet EØS-land enn Norge, og barnet er bosatt i dette EØS-landet, vil kontantstøtten bli utbetalt fra arbeidslandet.
 
@@ -250,27 +356,37 @@ Når Nav har fått søknaden din, må vi som regel innhente opplysninger fra bos
 
 I noen land er det én sentral institusjon som svarer på slike henvendelser, mens det i andre land blir gjort på regionalt eller lokalt nivå. Derfor må du oppgi hvilken kommune og hvilken region, fylke, delstat eller lignende familien din bor i.
 
-Oppdatert 09.06.2026
+### Hva sier loven?
 
+[Kontantstøtteloven (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/kontantstotteloven.hovednr.34)
 
-#### Chat med oss
+Oppdatert 25.08.2026
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
+Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
+[Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/kontantstotte) av norges-lover-bot.*
@@ -286,3 +402,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

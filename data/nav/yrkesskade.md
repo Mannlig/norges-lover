@@ -1,32 +1,25 @@
-<!-- innholds-hash: 198607d8a4183e98e7d82528b832331ee2f5cfd60bd1d2528396a3f2ca1cc3ec -->
+<!-- innholds-hash: 5c453c1559da286c261bab4e10ff663d2515749b3fd55eed754f543c2b590e61 -->
 
 # Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/yrkesskade
-- **Sist hentet:** 2026-07-20T09:43:05Z
+- **Sist oppdatert i arkivet:** 2026-10-14T14:15:04Z
 
 ## Innhold
 
 Dette kan du ha rett til
 
-
 ## Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste
 
 Om rettigheter og økonomiske støtteordninger ved yrkesskade eller yrkessykdom.
 
-
-### Innhold på denne siden
-
-
-### Innhold på denne siden
-
+### Hva er yrkesskade og yrkessykdom?
 
 #### Hva er en yrkesskade?
 
 Yrkesskade er en personskade, sykdom eller dødsfall som følge av en arbeidsulykke.
-
 
 #### Hva er en arbeidsulykke?
 
@@ -34,10 +27,11 @@ Med arbeidsulykke mener vi at du har vært utsatt for en ytre, plutselig og uven
 
 Det kan også være en konkret ytre belastning eller påkjenning som avviker fra de vanlige arbeidsoppgavene dine. Dette avviket må være tidsbegrenset til en arbeidsdag eller en vakt, og må ikke være en av de definerte arbeidsoppgavene dine.
 
-
 #### Hva er en yrkessykdom?
 
-En sykdom kan godkjennes som en yrkessykdom hvis årsaken er skadelig påvirkning fra arbeidet. Sykdommen må i tillegg være nevnt i forskriften om yrkessykdommer, se kapitlet
+En sykdom kan godkjennes som en yrkessykdom hvis årsaken er skadelig påvirkning fra arbeidet. Sykdommen må i tillegg være nevnt i forskriften om yrkessykdommer, se kapitlet [Hvilken skade og sykdom kan godkjennes](https://www.nav.no/yrkesskade#hvilken).
+
+### Har du yrkesskadedekning?
 
 For å få godkjent en skade eller sykdom som yrkesskade eller yrkessykdom, må ulykken eller den skadelige påvirkningen ha skjedd da du var yrkesskadedekket.
 
@@ -49,7 +43,7 @@ Yrkesskadedekningen gjelder ikke bare arbeidstakere, andre grupper er også omfa
 
 Se hva som gjelder for de ulike gruppene:
 
-Arbeidstakere er yrkesskadedekket i arbeidet, på arbeidsstedet og i arbeidstiden. En lærling har samme yrkesskadedekning som en arbeidstaker. Folketrygden sier
+Arbeidstakere er yrkesskadedekket i arbeidet, på arbeidsstedet og i arbeidstiden. En lærling har samme yrkesskadedekning som en arbeidstaker. Folketrygden sier [hvem som regnes som en arbeidstaker (lovdata.no)](https://lovdata.no/lov/1997-02-28-19/%C2%A713-6).
 
 For at yrkesskadedekningen skal gjelde, er det som hovedregel krav til tid, sted og arbeidsoppgaver. På det faste arbeidsstedet ditt vil du ha yrkesskadedekning også i hvilepauser, lunsjpauser, trimaktiviteter og lignende i arbeidstiden.
 
@@ -57,7 +51,7 @@ Som hovedregel er du som arbeidstaker ikke yrkesskadedekket på veien til og fra
 
 Det kan gjøres unntak fra hovedregelen, for eksempel for arbeidstakere på skip, i oljevirksomhet, under transport som er organisert av arbeidsgiveren og ved tjenestereiser med overnatting.
 
-For norske arbeidstakere på Svalbard gjelder egne regler om yrkesskadedekning. Du kan være dekket også på fritiden, og på den første reisen til Svalbard og siste hjemreise. Loven om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard sier
+For norske arbeidstakere på Svalbard gjelder egne regler om yrkesskadedekning. Du kan være dekket også på fritiden, og på den første reisen til Svalbard og siste hjemreise. Loven om ulykkestrygd for arbeidere ved norske bedrifter på Svalbard sier [hvilke rettigheter som gjelder (lovdata.no).](https://lovdata.no/dokument/NL/lov/1947-06-27-10)
 
 Hvis du er arbeidstaker og jobber på et skip på minimum 100 bruttoregistertonn, regnes hele tidsrommet du er om bord som arbeidstid.
 
@@ -75,7 +69,11 @@ Selvstendig næringsdrivende i småskipsfart og lektertransport trenger ikke å 
 
 Redere som er knyttet til fiske og fangstfartøy, vil være yrkesskadedekket under arbeid om bord i fartøyet.
 
-Folketrygdloven sier
+Folketrygdloven sier [hvem som regnes som frilansere og selvstendig næringsdrivende](https://lovdata.no/lov/1997-02-28-19/%C2%A713-13).
+
+[Frivillig yrkesskadetrygd](https://www.nav.no/frivillig-yrkesskadetrygd)
+
+Forsikring
 
 Disse gruppene har utvidet yrkesskadedekning:
 
@@ -83,6 +81,7 @@ Disse gruppene har utvidet yrkesskadedekning:
 - Tjenestepliktig og frivillig tjenestegjørende i Sivilforsvaret
 - Tjenestepliktige sivilarbeidere
 - Tjenestepliktige og frivillig tjenestegjørende i Politiet
+
 Det betyr at du er yrkesskadedekket for alle kroppsskader eller sykdommer som skjer under tjenesten.
 
 Det er ikke noe krav til at skaden eller sykdommen skal være en følge av en arbeidsulykke. Skaden eller sykdommen må ha oppstått eller blitt påført i perioden fra du reiste til tjenesten til du dimitterte.
@@ -117,21 +116,17 @@ På vei til og fra skolen vil en elev som hovedregel ikke være yrkesskadedekket
 
 Studenter som har medlemskap i den norske folketrygden og studerer i utlandet med lån eller stipend fra Statens lånekasse, kan også være yrkesskadedekket.
 
-
 #### Internat
 
 Elever under 18 år på internatskoler er yrkesskadedekket hele tidsrommet de er under tilsyn fra skolen eller internatet, også utenfor vanlig undervisningstid så lenge skolen eller internatet har tilsynsplikt ovenfor elevene. Forlater elevene internatet, gjelder de samme reglene som for elever ved vanlige skoler.
-
 
 #### Frivillig forsikring for elever og studenter
 
 En elev eller student som ikke inngår i en av gruppene ovenfor, kan være yrkesskadedekket hvis skolen har tegnet frivillig yrkesskadetrygd for eleven.
 
-
 #### Lærling
 
 En lærling har samme yrkesskadedekning som en arbeidstaker.
-
 
 #### Barnehage
 
@@ -157,7 +152,6 @@ Hvis du gjør det som kalles en branntjeneste etter loven om brannvern, men ikke
 
 Hvis du er medlem av en organisasjon som driver med redningstjeneste, er du yrkesskadedekket mens redningsaksjonen pågår, under organisert opplæring og under øvelse og organisert transport og vakttjeneste. Norges Røde Korps hjelpekorps er eksempel på en slik organisasjon.
 
-
 #### Meldefrist for yrkesskade og yrkessykdom
 
 Det er et krav at skaden må meldes snarest innen ett år etter arbeidsulykken.
@@ -166,6 +160,7 @@ For yrkessykdom er kravet ett år etter at den som ble syk ble klar over årsake
 
 Hvis skademeldingen blir sendt til Nav senere enn etter ett år, kan Nav godkjenne den hvis det dokumenteres klart at det er en yrkesskade eller yrkessykdom. Likevel vil vi som hovedregel ikke kunne gi dispensasjon fra meldefristen hvis skaden er helbredet uten varige mén på det tidspunktet Nav mottar melding om skaden.
 
+### Hvilken skade og sykdom kan godkjennes?
 
 #### Godkjenning av skade
 
@@ -175,13 +170,11 @@ Med personskade mener vi skader som krever medisinsk behandling. Skade på en pr
 
 Belastningsskader som utvikles over tid, blir ikke godkjent som yrkesskade.
 
-
 #### Godkjenning av sykdom
 
-For å få godkjent en sykdom som yrkessykdom, må sykdommen eller smitten være nevnt som en mulig yrkessykdom i
+For å få godkjent en sykdom som yrkessykdom, må sykdommen eller smitten være nevnt som en mulig yrkessykdom i [forskriften om yrkessykdommer](https://lovdata.no/nav/forskrift/1997-03-11-220?q=yrkessykdom).
 
 Sykdommen må være en følge av skadelig påvirkning fra arbeidsstedet eller undervisningsstedet. Hvis sykdommen skyldes en enkelthendelse, kan vi likevel vurdere den etter reglene om arbeidsulykke.
-
 
 #### Følgeskader etter en godkjent skade eller sykdom
 
@@ -193,6 +186,8 @@ Vi går gjennom de medisinske opplysningene og vurderer hvor mye den godkjente y
 
 Et eksempel kan være en godkjent bruddskade som mest sannsynlig er hovedårsak til en artrose. Et annet eksempel kan være at du har nedsatt hørsel godkjent som yrkessykdom, og senere har fått øresus som mest sannsynlig skyldes nedsatt hørsel.
 
+### Hva kan du få støtte til?
+
 En godkjent yrkesskade eller yrkessykdom kan gi deg rettigheter og gunstigere beregning av pengestøtter fra Nav. Denne yrkesskadefordelen gjelder bare pengestøtter som er aktuelle ved sykdom, skade eller dødsfall.
 
 Hvis yrkesskaden eller yrkessykdommen din er varig, kan du søke om menerstatning.
@@ -203,11 +198,19 @@ Hvis du har fått en betydelig og varig fysisk eller psykisk skade eller sykdom 
 
 Menerstatning er en personlig erstatning for en konkret fysisk eller psykisk varig skade eller sykdom. Erstatningen blir beregnet etter hvor stor varig medisinsk invaliditet skaden eller sykdommen gir. Hvis den medisinske invaliditeten din er under 15 prosent, har du ikke rett til menerstatning.
 
+[Menerstatning ved yrkesskade eller yrkessykdom](https://www.nav.no/menerstatning)
+
+Pengestøtte
+
 Sykepenger erstatter arbeidsinntekt når du ikke kan jobbe på grunn av sykdom eller skade. Hvis du er sykmeldt for en godkjent yrkesskade eller yrkessykdom, kan du få yrkesskadefordel i sykepenger.
 
 Fordelen kan påvirke vilkårene for å få utbetalt sykepenger, hvor lenge sykepenger blir utbetalt og noen ganger også størrelsen på utbetalingen.
 
-Les mer om
+[Sykepenger](https://www.nav.no/sykepenger)
+
+Pengestøtte
+
+Les mer om [yrkesskadefordelen for sykepenger (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap8/%C2%A78-55).
 
 AAP skal sikre deg inntekt i perioder du har behov for hjelp fra Nav på grunn av sykdom eller skade.
 
@@ -215,13 +218,21 @@ Som hovedregel må arbeidsevnen din være minst 50 prosent nedsatt for å ha ret
 
 Når Nav beregner AAP for den delen som skyldes en godkjent yrkesskade eller yrkessykdom, skal grunnlaget ikke settes lavere enn den antatte årlige arbeidsinntekten din på skadetidspunktet.
 
-Les mer om
+[Arbeidsavklarings­penger (AAP)](https://www.nav.no/aap)
+
+Pengestøtte
+
+Les mer om [yrkesskadefordelen for AAP (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap11/%C2%A711-22)
 
 Uføretrygden erstatter den delen av inntektsevnen du har tapt på grunn av en varig sykdom eller skade. Hvis du har en godkjent yrkesskade eller yrkessykdom som helt eller delvis mest sannsynlig har gjort deg ufør, kan du ha rett til yrkesskadefordel i uføretrygden. Det betyr at det kan være nok at inntektsevnen din er varig nedsatt med minst 30 prosent for å få uføretrygd.
 
 Hvis du mangler trygdetid eller medlemskap i folketrygden, kan yrkesskadefordelen likevel gi rett til uføretrygd og barnetillegg. Inntekten din på skadetidspunktet kan noen ganger påvirke hvor høy utbetalingen blir.
 
-Du kan lese mer om
+[Uføretrygd](https://www.nav.no/uforetrygd)
+
+Pengestøtte
+
+Du kan lese mer om [yrkesskadefordeler for uføretrygd (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap12/%C2%A712-17)
 
 Ved dødsfall som skyldes en yrkesskade eller yrkessykdom, kan den gjenlevende ektefellen og barn ha rett til pengestøtte etter særbestemmelser. I disse tilfellene er det ikke et krav at avdøde har vært medlem i folketrygden de siste 5 årene før dødsfallet, eller at den gjenlevende er medlem i folketrygden.
 
@@ -229,82 +240,131 @@ Vilkårene om at den gjenlevende ektefellen enten var gift med avdøde i minst f
 
 Du kan også få pengestøtte hvis du ble forsørget av den avdøde og har omsorgen for den avdødes barn, selv om du ikke var gift med den avdøde.
 
-Du kan lese mer om
+[Har mistet noen i nær familie](https://www.nav.no/mistet-noen)
 
+Dette kan du ha rett til
+
+Du kan lese mer om [yrkesskadefordeler for pensjon til gjenlevende (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap17/%C2%A717-12)
 
 #### Barnepensjon
 
-Som hovedregel kan barnet få barnepensjon frem til det fyller 18 år. Hvis dødsfallet skyldes en godkjent yrkesskade eller yrkessykdom, kan barnet få barnepensjon frem til det fyller 21 år hvis hun eller han er under utdanning, eller er lærling eller praktikant.
+Som hovedregel kan barnet få barnepensjon frem til det fyller 18 år. Hvis dødsfallet skyldes en godkjent yrkesskade eller yrkessykdom, kan barnet få barnepensjon frem til det fyller 21 år hvis hun eller han er under utdanning, eller er lærling eller praktikant.
 
 Det er ikke et krav at barnet er medlem av folketrygden for å ha rett til barnepensjon ved yrkesskade.
 
-Du kan lese mer om
+[Barnepensjon](https://www.nav.no/barnepensjon)
+
+Pengestøtte
+
+Du kan lese mer om [yrkesskadefordeler for barnepensjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap18/%C2%A718-11)
 
 Alderspensjon fra folketrygden skal sikre deg inntekt når du blir pensjonist. Hvis du tidligere har fått en yrkesskadefordel i uføretrygd og/eller gjenlevendepensjon, kan denne yrkesskadefordelen virke inn på alderspensjonen din.
 
-Les mer om
+[Alderspensjon](https://www.nav.no/alderspensjon)
+
+Pengestøtte
+
+Les mer om [yrkesskadefordeler for alderspensjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap19/%C2%A719-20)
 
 Grunnstønad skal dekke nødvendige ekstrautgifter som andre ikke har på grunn av en medisinsk tilstand. Med medisinsk tilstand mener vi en varig skade, sykdom eller funksjonsnedsettelse.
 
 Hvis skaden eller sykdommen skyldes en godkjent yrkesskade/yrkessykdom, kan du ha rett til grunnstønad selv om du ikke lenger er medlem i folketrygden. Det er et vilkår at du var medlem i folketrygden på det tidspunktet du ble syk eller skadet.
 
-Du kan lese mer om
+[Grunnstønad](https://www.nav.no/grunnstonad)
+
+Pengestøtte
+
+Du kan lese mer om [yrkesskadefordeler for grunnstønad (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap6/%C2%A76-9)
 
 Hvis dødsfallet er en følge av en skade eller sykdom som er godkjent som yrkesskade eller yrkessykdom, kan utgiftene til båretransport bli delvis dekket. Dette gjelder også selv om dødsfallet skjedde i utlandet, eller bostedet ligger utenfor Norge.
 
-Du kan lese mer om
+[Stønad ved båretransport](https://www.nav.no/baretransport)
 
+Pengestøtte
+
+Du kan lese mer om [yrkesskadefordeler for gravferdsstønad (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap7/%C2%A77-5)
 
 #### Refusjon av helsetjenester
 
-Hvis du har utgifter til helsetjenester og tannlegebehandling, kan
+Hvis du har utgifter til helsetjenester og tannlegebehandling, kan [HELFO dekke visse utgifter](https://www.helsenorge.no/rettigheter/rett-til-helsehjelp-ved-yrkesskade/) når du har en godkjent yrkesskade eller yrkessykdom hos Nav.
 
-Ved pasientreiser kan også en godkjent yrkesskade eller yrkessykdom ha betydning for
+Ved pasientreiser kan også en godkjent yrkesskade eller yrkessykdom ha betydning for [hva du må betale for reisen (pasientreiser.no)](https://pasientreiser.no/).
+
+### Meld yrkesskade eller yrkessykdom
 
 Arbeidsgivere, Forsvaret, rektorer eller andre i lignende stillinger har plikt til å sende digital skademelding for deg ved arbeidsulykker og skadelig påvirkning av stoffer under arbeid. De har også meldeplikt ved dødsulykker som skjer under arbeid.
 
 Hvis den meldepliktige ikke sender inn skademelding til Nav, kan du gjøre det selv.
 
+[Meld yrkesskade eller yrkessykdom](https://www.nav.no/meldyrkesskade)
+
+### Hva skjer når Nav mottar skademeldingen?
+
 Vi vurderer så raskt som mulig om skaden eller sykdommen kan godkjennes som yrkesskade eller yrkessykdom.
 
 Du kan bli bedt om å sende inn
 
+- [skadeforklaring](https://www.nav.no/start/skadeforklaring-arbeidsulykke)
+- [egenerklæring om skadelig påvirkning av farlige stoffer](https://www.nav.no/start/tilleggsopplysninger)
 - medisinsk dokumentasjon
+- [tannlegeerklæring](https://www.nav.no/skjemadetaljer/samarbeidspartner/lege/tannlegeerklaering-ved-yrkesskade)
 - opplysninger fra tidligere arbeidsgivere, som kan være aktuelt hvis du har hatt flere arbeidsgivere
+
 Den meldepliktige virksomheten kan bli bedt om å sende inn flere detaljer om hendelsen, arbeidstid, sted og aktivitet.
 
-På nav.no/yrkesskadeoversikt kan du få oversikt over dine yrkesskade- og yrkessykdomsaker fra 1992 og frem til i dag​.
+På [https://yrkesskadeoversikt.nav.no](https://yrkesskadeoversikt.nav.no/) (Id-porten) kan du få oversikt over dine yrkesskade- og yrkessykdomsaker fra 1992 og frem til i dag​.
 
 Foresatte: For digitalt innmeldte skademeldinger vil du motta kopi skademeldingkvittering. Du vil også se barnas saker på dine påloggede sider.
 
 Når saken din er ferdigbehandlet, er det kun du som vil motta et vedtak fra Nav om dette. Arbeidsgiveren eller en annen meldepliktig virksomhet vil ikke få melding om resultatet av behandlingen.
 
-
 #### Du har rett til å klage
 
-Hvis du er uenig i vedtaket fra Nav, kan du
+Hvis du er uenig i vedtaket fra Nav, kan du [klage på vedtaket](https://www.nav.no/klage#yrkesskade-eller-yrkessykdom-skademelding-til-nav).
 
-Du kan lese mer
+Du kan lese mer [om yrkesskadedekning i folketrygden (lovdata.no](https://lovdata.no/dokument/NL/lov/1997-02-28-19/kap13#kap13))
 
-Oppdatert 22.06.2026
+### Andre som kan hjelpe
 
+[Refusjon fra Helfo](https://www.helsenorge.no/rettigheter/rett-til-helsehjelp-ved-yrkesskade/)
 
-#### Chat med oss
+Om refusjon av utgifter ved godkjent yrkesskade og yrkessykdom på helsenorge.no
 
-Du møter først chatbot Frida. Du kan be Frida om å få chatte med en veileder (hverdager 09.00–15.00).
+Pengestøtte fra Helfo
+
+[Refusjon fra Pasientreiser](https://pasientreiser.no/)
+
+Om refusjon av reiseutgifter ved godkjent yrkesskade eller yrkessykdom på pasientreiser.no
+
+Pengestøtte fra Pasientreiser
+
+[Voldsoffererstatning](https://www.voldsoffererstatning.no/)
+
+Har du blitt rammet av vold, har Staten en egen ordning for voldsoffererstatning
+
+Oppdatert 13.10.2026
+
+### Finner du ikke svaret her? Ta kontakt med oss
+
+Chat med oss
+
+Du møter først vår chatbot. På hverdager mellom 09.00 og 15.00 kan du be chatboten om å få chatte med en veileder.
+
+Chatbot:
 
 Alltid åpen
 
-Åpent nå
+Chat med veileder:
 
+Stengt nå, åpner kl. 9
 
-#### Skriv til oss
+[Skriv til oss](https://www.nav.no/still-sporsmal)
 
-Still oss et spørsmål og få skriftlig svar.
+Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
 
+Ring oss på 55 55 33 33
 
-#### Ring oss på 55 55 33 33
-
+Hverdager 9-15. Vi kan ringe deg tilbake hvis ventetiden er over 5 minutter.
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/yrkesskade) av norges-lover-bot.*
@@ -319,3 +379,4 @@ Still oss et spørsmål og få skriftlig svar.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

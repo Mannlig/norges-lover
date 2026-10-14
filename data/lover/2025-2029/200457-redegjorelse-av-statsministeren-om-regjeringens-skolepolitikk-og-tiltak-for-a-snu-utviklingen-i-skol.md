@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3006109775f6d5b82457842cbc2c3ec11fd7d91a395a1bdcde52d14f99e8cec4 -->
+<!-- innholds-hash: c0bafb0a037265f9141e74024a14fc1816ab46137b5c353f9cc25d9e1c29d888 -->
 
 # Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200457
 - **Type:** 2
 - **Korttittel:** Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater
-- **Status:** 3
-- **Henvisning:** 
+- **Status:** 2
+- **Henvisning:** None
 - **Komité:** 
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-08T08:42:06Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200457
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,7 +27,7 @@
   "dokumentgruppe": 3,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "",
+  "henvisning": null,
   "id": 200457,
   "innstilling_id": -1,
   "innstilling_kode": 0,
@@ -36,7 +36,7 @@
   "sak_fremmet_id": 200457,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1791410400000+0200)/",
-  "status": 3,
+  "status": 2,
   "tittel": "Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater",
   "type": 2
 }
@@ -47,3 +47,4 @@
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b63f7ca0adced002c76e484dbe304d0bbdc5932cdf9eb27accee8b199b1e924e -->
+<!-- innholds-hash: 99ca64949a7d0b45ea26b7df48dee53767cd46a7656b29f99dd7ed1bcb86c841 -->
 
 # Statsbudsjett 2027
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200444
 - **Type:** 1
 - **Korttittel:** Statsbudsjettet 2027 (kapitler fordelt til samferdelskomiteen)
-- **Status:** 3
-- **Henvisning:** Prop. 1 S (2026–2027)
-- **Komité:** 
+- **Status:** 2
+- **Henvisning:** Prop. 1 S (2026–2027); Innst. 13 S (2026-2027)
+- **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200444
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,16 +27,19 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 1 S (2026–2027)",
+  "henvisning": "Prop. 1 S (2026–2027); Innst. 13 S (2026-2027)",
   "id": 200444,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
+  },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til samferdelskomiteen)",
   "sak_fremmet_id": 200444,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Statsbudsjett 2027",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)

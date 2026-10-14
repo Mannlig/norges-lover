@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8318ec4cb38d4572f52ced5fc3764e2edfaf5ade9e7e32c31a08162854505efa -->
+<!-- innholds-hash: 063ecda82c1854f5e6d2450e547f942860c9a579d5279049d0c262889b14b219 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200454
 - **Type:** 2
 - **Korttittel:** Representantforslag om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:14 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:04:32Z
+- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200454
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200454,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
   "sak_fremmet_id": 200454,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-14** Innhold endret (se git-historikk for diff)
