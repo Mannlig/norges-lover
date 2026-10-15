@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5cbcf8567e50c6688896189eb6af172a834406a49939a894ff2f544d1921767c -->
+<!-- innholds-hash: 5b351ff10de1e6e5cf52753912b5b53522e6077bac20bb65389e4da092f9f32f -->
 
 # Skjema for tilrettelegging og omplassering ved graviditet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/graviditet-og-arbeidsmiljo/skjema-for-tilrettelegging-for-gravide/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-07T01:55:06Z
+- **Sist oppdatert i arkivet:** 2026-10-14T23:35:41Z
 
 ## Innhold
 
@@ -20,11 +20,25 @@ Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųP
 
 ## Skjema for tilrettelegging og omplassering ved graviditet
 
-Når ein arbeidstakar er gravid, har arbeidsgivar plikt til å sørge for at arbeidstakaren ikkje blir utsett for skadeleg påverknad som kan gi risiko for forplantningsskadar. Her finn du skjema for å dokumentere behovet og moglegheiten for å tilrettelegge arbeidet eller omplassere arbeidstakaren.
+Når ein arbeidstakar er gravid, skal arbeidsgivaren sørge for at arbeidstakaren ikkje blir utsett for skadeleg påverknad som kan gi risiko for forplantningsskadar.
+
+Her finn du skjema som legen/jordmora, arbeidsgivaren og den gravide kan bruke dersom arbeidet kan føre til forplantningsskadar.
+
+### Bruk skjemaet viss arbeidet gir fare for forplantningsskadar
+
+Skjemaet skal brukast berre dersom arbeidet inneber fare for forplantningsskadar. I alle andre tilfelle har arbeidsgivar ei generell [plikt til å tilrettelegge arbeidet](https://www.arbeidstilsynet.no/arbeidstid-og-organisering/tilrettelegging/).
+
+I skjemaet skal
+
+- legen eller jordmora dokumentere behovet for tilrettelegging
+- arbeidsgivaren dokumentere moglegheiten for å tilrettelegge arbeidet eller omplassere arbeidstakaren
+- arbeidstakaren bruke skjemaet som dokumentasjon for kravet til Nav om svangerskapspengar
 
 ### Arbeidsgivar skal sørge for tilrettelegging eller omplassering
 
-Arbeidsgivar skal sørge for at ein arbeidstakar som er gravid, ikkje blir utsett for skadeleg påverknad som kan føre til forplantningsskader. Dersom det er ein slik risiko, skal arbeidsgivar sørge for nødvendig tilrettelegging eller eventuelt omplassering av den gravide.
+Arbeidsgivar skal sørge for at ein arbeidstakar som er gravid, ikkje blir utsett for skadeleg påverknad som kan føre til forplantningsskadar.
+
+Dersom dei vanlege arbeidsoppgåvene kan utsette arbeidstakaren for ein slik risiko, skal arbeidsgivaren vurdere om det er mogleg å fjerne risikoen ved enten å tilrettelegge arbeidet, eller å sørge for at arbeidstakaren midlertidig får andre arbeidsoppgåver.
 
 ### Dersom det ikkje er mogleg med tilrettelegging eller omplassering
 
@@ -32,7 +46,7 @@ Dersom tilrettelegging eller omplassering ikkje er mogleg, må den gravide arbei
 
 I skjemaet skal legen eller jordmora til den gravide vise behovet for tilrettelegging eller omplassering på grunn av fare for forplantningsskade. Arbeidsgivar skal deretter oppgi om det heilt eller delvis er mogleg med tilrettelegging eller omplassering.
 
-### Last ned skjema
+### Last ned skjema for tilrettelegging og omplassering ved graviditet
 
 #### Nynorsk
 
@@ -46,7 +60,9 @@ Dersom du har problem med å laste ned skjemaa, kan du få hjelp frå dei som ha
 
 ### Utfylling av skjemaet
 
-Skjemaet har tre delar. Sjå rettleiinga bak i skjemaet for meir informasjon om utfylling av dei ulike delane.
+Skjemaet har tre delar. Den første delen skal fyllast ut av legen eller jordmora, og den andre av arbeidsgivaren. Den tredje delen kan den gravide arbeidstakaren bruke dersom det er aktuelt å søke om svangerskapspengar frå Nav.
+
+Last ned og sjå rettleiinga bak i skjemaet for meir informasjon om korleis og kven som skal fylle ut dei tre ulike delane.
 
 ### Kva er forplantningsskade?
 
@@ -107,3 +123,4 @@ Fann du det du leitte etter?
 
 - **2026-05-23** Første gang hentet
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

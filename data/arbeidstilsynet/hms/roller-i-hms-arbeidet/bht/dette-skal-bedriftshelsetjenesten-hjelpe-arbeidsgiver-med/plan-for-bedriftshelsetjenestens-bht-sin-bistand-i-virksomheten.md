@@ -1,4 +1,4 @@
-<!-- innholds-hash: 44e3ffafe38cfa2f4299abc10c072874837d0040ea7c4e07c0e2e13e9a59123a -->
+<!-- innholds-hash: 5efdeab467059aa5fb6301a67946e9af5810999bb806a6fe17aa728627890925 -->
 
 # Plan for bedriftshelsetjenestens (BHT) bistand i virksomheten
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/dette-skal-bedriftshelsetjenesten-hjelpe-arbeidsgiver-med/plan-for-bedriftshelsetjenestens-bht-sin-bistand-i-virksomheten/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-07T02:13:41Z
+- **Sist oppdatert i arkivet:** 2026-10-14T23:49:44Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ Alle virksomheter som har en pliktig tilknytning til en godkjent BHT, skal lage 
 
 Når dere skal lage plan for BHT sin bistand i virksomheten er det viktig å jobbe på en god og systematisk måte ved utforming av innhold.
 
-### Hva skal planen inneholde
+### Hva planen skal inneholde
 
 Arbeidstilsynet stiller ikke krav til bruk av en bestemt mal, det er innholdet i planen som er viktig. BHT har ofte maler som kan benyttes.
 
@@ -54,7 +54,7 @@ Når planen holdes oppdatert, vil virksomheten kunne dokumentere reell bistand B
 
 [Forskrift om organisering, ledelse og medvirkning kapittel 13](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85767)
 
-### Fann du det du leitte etter?
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/dette-skal-bedriftshelsetjenesten-hjelpe-arbeidsgiver-med/plan-for-bedriftshelsetjenestens-bht-sin-bistand-i-virksomheten/) av norges-lover-bot.*
@@ -63,3 +63,4 @@ Når planen holdes oppdatert, vil virksomheten kunne dokumentere reell bistand B
 
 - **2026-05-23** Første gang hentet
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

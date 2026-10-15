@@ -1,4 +1,4 @@
-<!-- innholds-hash: eb986870b5d3a687499e85d71bdba2fb7ae78ac241b3e25e4337a8c6f078f4c0 -->
+<!-- innholds-hash: 64634e22a2fa41b43ceba5bd68682cfa7f8f5de8529556134634b3a9bdb61c54 -->
 
 # Minstefradrag
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/minstefradrag/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T10:23:14Z
+- **Sist oppdatert i arkivet:** 2026-10-14T18:54:25Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Velg år 20262025202420232022202120202019201820172016201520142013201220112010200
 
 *Hvis du har både lønns- og pensjonsinntekt, er minstefradraget begrenset til den øvre grensen for lønnsinntekt.
 
-Hvis du har vært bosatt i Norge deler av året, blir den øvre grensen for minstefradraget avkortet tilsvarende hvor mange hele eller påbegynte måneder du har bodd i Norge. Det er viktig at vi har riktige opplysninger om ditt opphold i Norge, her kan du [gi opplysninger om arbeid og opphold i Norge](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/arbeid-opphold/). Det samme gjelder i særtilfellene etter [skatteloven § 2-3 første ledd bokstav d, h og skatteloven § 2-3 andre ledd](https://lovdata.no/dokument/NL/lov/1999-03-26-14/KAPITTEL_3-1#KAPITTEL_3-1).
+Hvis du har vært bosatt i Norge deler av året, blir den øvre grensen for minstefradraget avkortet tilsvarende hvor mange hele eller påbegynte måneder du har bodd i Norge. Det er viktig at vi har riktige opplysninger om ditt opphold i Norge, her kan du [gi opplysninger om arbeid og opphold i Norge](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/arbeid-opphold/). Det samme gjelder i særtilfellene etter [skatteloven § 2-3 første ledd bokstav d, h og skatteloven § 2-3 andre ledd](https://lovdata.no/dokument/NL/lov/1999-03-26-14/KAPITTEL_3-1#KAPITTEL_3-1).
 
 Minstefradraget er kroner 4 000 hvis du er bosatt i utlandet og skattepliktig for vederlag, pensjon, honorar osv. som direktør, styremedlem eller lignende i et norsk selskap. Er inntekten under 4 000, blir minstefradraget lik inntekten.
 
@@ -65,3 +65,4 @@ Minstefradraget er kroner 4 000 hvis du er bosatt i utlandet og skattepliktig fo
 
 - **2026-05-06** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

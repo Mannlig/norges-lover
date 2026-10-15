@@ -1,11 +1,11 @@
-<!-- innholds-hash: e0cccf42db8a26a4e0f547cb6bdfe6889a505638dfa1f4963e80f2ce2e557ae6 -->
+<!-- innholds-hash: 3e6538345b28f9ae397dfbe8253700eb076585fe9e84ce3a178555039d1ff0fe -->
 
 # Har pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-pensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T02:54:59Z
+- **Sist oppdatert i arkivet:** 2026-10-14T22:53:15Z
 
 ## Innhold
 
@@ -357,7 +357,7 @@ Her får du en samlet oversikt over dine opptjente pensjonsrettigheter og privat
 
 En tjeneste fra Forbrukerrådet. Her kan du sammenligne private pensjonstjenester og få nyttige råd om pensjon og pensjonssparing.
 
-Oppdatert 30.09.2026
+Oppdatert 06.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -400,3 +400,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

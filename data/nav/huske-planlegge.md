@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2787555c2deb8fad06114a1ec83ccbe12efb5694a82c03690110e20fe8fe3dcb -->
+<!-- innholds-hash: 1db1de5b076b6d1f43bf8216a940f293749b766c2c97270fe084e3a6445e390d -->
 
 # Har vansker med å huske, planlegge og forstå - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/huske-planlegge
-- **Sist oppdatert i arkivet:** 2026-10-06T03:24:43Z
+- **Sist oppdatert i arkivet:** 2026-10-14T23:01:52Z
 
 ## Innhold
 
@@ -130,15 +130,17 @@ Noen ganger kan små endringer gjøre hverdagen enklere for deg med kognitive va
 - ha en tavle på veggen med oversikt over det som skal huskes
 - bruke kalender på telefonen din
 
-I vanlig handel er det mye teknologi, for eksempel smarttelefoner og nettbrett, som kan fungere som hjelpemidler. For at et slikt hjelpemiddel skal fungere best mulig for deg, kan funksjonene tilpasses ditt behov. Nav hjelpemiddelsentral kan gi deg råd om dette. Du kan også finne [råd om tilrettelegging ved kognisjonsvansker på kunnskapsbanken.net](https://www.kunnskapsbanken.net/kognisjon/).
-
-Hvis tilrettelegging og bruk av teknologi ikke dekker behovet ditt, finnes også hjelpemidler spesielt tilpasset kognitive vansker som du kan søke på gjennom Nav.
+I vanlig handel er det mye teknologi, for eksempel smarttelefoner og nettbrett, som kan fungere som hjelpemidler. For at et slikt hjelpemiddel skal fungere best mulig for deg, kan funksjonene tilpasses ditt behov. Nav Hjelpemiddelsentral kan gi deg råd om dette. Du kan også finne [råd om tilrettelegging ved kognisjonsvansker på kunnskapsbanken.net](https://www.kunnskapsbanken.net/kognisjon/).
 
 Nav kan dekke utgifter til apper/programvare som installeres på privat nettbrett eller smarttelefon.
 
 [Tilskudd til apper og programvare](https://www.nav.no/apper-og-programvare)
 
 Pengestøtte
+
+#### Hjelpemidler fra Nav
+
+Hvis tilrettelegging og bruk av teknologi ikke dekker behovet ditt, finnes også hjelpemidler spesielt tilpasset kognitive vansker som du kan søke på gjennom Nav.
 
 Ved kognitive vansker kan det være behov for å tilrettelegge gjennom hele døgnet, ikke bare i enkelte situasjoner. På [kunnksapsbanken.net finner du nyttige tips](https://www.kunnskapsbanken.net/kognisjon/) for tilrettelegging.
 
@@ -176,7 +178,7 @@ Artikler, råd om tilrettelegging, opplæringsvideoer og sjekklister for deg som
 
 Informasjon fra kunnskapsbanken.no
 
-Oppdatert 04.06.2026
+Oppdatert 09.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -218,3 +220,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)

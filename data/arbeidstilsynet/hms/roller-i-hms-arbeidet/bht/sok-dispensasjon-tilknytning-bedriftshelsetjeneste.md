@@ -1,4 +1,4 @@
-<!-- innholds-hash: c566d5a892af41cb086f229ccb78c4ee6fb89c99ec51a8e7bcbd75fc7a81ef09 -->
+<!-- innholds-hash: 0bcde389b1cf27f6178646004b0ad7247d76509de2a9a30962ece8f9d0815242 -->
 
 # Slik søker dere om dispensasjon fra tilknytning til bedriftshelsetjeneste
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/sok-dispensasjon-tilknytning-bedriftshelsetjeneste/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-07T02:16:02Z
+- **Sist oppdatert i arkivet:** 2026-10-14T23:52:06Z
 
 ## Innhold
 
@@ -84,7 +84,7 @@ Vi vurderer hver søknad på bakgrunn av de faktiske forholdene i saken.
 
 [Bedriftshelsetjeneste, forskrift om organisering, ledelse og medvirkning kapittel 13](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88693)
 
-### Fann du det du leitte etter?
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/bht/sok-dispensasjon-tilknytning-bedriftshelsetjeneste/) av norges-lover-bot.*
@@ -93,3 +93,4 @@ Vi vurderer hver søknad på bakgrunn av de faktiske forholdene i saken.
 
 - **2026-05-23** Første gang hentet
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-14** Innhold endret (se git-historikk for diff)
