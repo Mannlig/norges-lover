@@ -1,4 +1,4 @@
-<!-- innholds-hash: f2f3851ae64f30615340303e6dadaf6cc9368f6b6c348526a30c94db704d9c47 -->
+<!-- innholds-hash: 13e84fa2d9d1b454bb5876f9adbdb36b3ba6d283f8f952faf26a1f23d7507797 -->
 
 # Nettmøte i Midt-Norge: Energitilskudd fra Husbanken
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/nettmote-i-midt-no,-d-,21-energitilskudd-fra-husbanken/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T10:45:42Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:29:16Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ Møtet er nr. 21 i møteserien for kommuner i Trøndelag og Møre og Romsdal. Hu
 
 Har du spørsmål? Kontakt oss på post@husbanken.no
 
-Sist oppdatert: 24.09.2026
+Sist oppdatert: 09.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/nettmote-i-midt-no,-d-,21-energitilskudd-fra-husbanken/) av norges-lover-bot.*
@@ -47,3 +47,4 @@ Sist oppdatert: 24.09.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

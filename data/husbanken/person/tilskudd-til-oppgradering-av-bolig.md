@@ -1,4 +1,4 @@
-<!-- innholds-hash: 48fb716663ea557efcebf9932c0303060b2aff7e7123cb1a68af5936b60a950a -->
+<!-- innholds-hash: 249ac503d1f4abf02d9518c0f2cb2aa413a46663f9def51e0851705c8cfb8875 -->
 
 # Tilskudd til aldersvennlig oppgradering av egen bolig
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:54:22Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:16:55Z
 
 ## Innhold
 
@@ -33,7 +33,7 @@ Eksempel 1
 
 Du oppgraderer badet for 100 000 kroner
 
-Du opppgraderer badet med terskelfri dusj, støttehåndtak og nytt gulv med sklisikring.
+Du oppgraderer badet med terskelfri dusj, støttehåndtak og nytt gulv med sklisikring.
 
 Av totalt 100 000 kroner kan du få 25 000 kroner i tilskudd, og må finansiere 75 000 kroner selv.
 
@@ -53,7 +53,7 @@ Du kan få tilskudd til tiltak som gjør boligen enklere og tryggere å bo i nå
 
 Klikk på overskriftene for å lese mer om tiltakene.
 
-[Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/informasjon)
+[Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/inngang)
 
 [Søk om tilskudd på papir (PDF)](https://nedlasting.husbanken.no/Filer/8s39.pdf)
 
@@ -77,7 +77,7 @@ Husk å legge ved pristilbudet i søknaden. Avhengig av situasjonen din, kan du 
 
 Søknadsfrist: 30. oktober 2026
 
-[Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/informasjon)
+[Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/inngang)
 
 [Søk om tilskudd på papir (PDF)](https://nedlasting.husbanken.no/Filer/8s39.pdf)
 
@@ -131,3 +131,4 @@ Sist oppdatert: 20.09.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

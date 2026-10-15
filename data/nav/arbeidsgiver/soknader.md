@@ -1,11 +1,11 @@
-<!-- innholds-hash: 79f78f249f806cde758f8dead3ce5072ac2bd2744d9b15560b3afcdaa591bf5a -->
+<!-- innholds-hash: 185af0a08b99b5b5b26940d874aa640e620a3bb95681ed79fe1a60a82f4d5d4f -->
 
 # Søknad og skjema for arbeidsgivere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/soknader
-- **Sist oppdatert i arkivet:** 2026-10-06T04:10:03Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:54:50Z
 
 ## Innhold
 
@@ -21,9 +21,8 @@ Se også [saksbehandlingstider for søknader](https://www.nav.no/arbeidsgiver/sa
 
 #### Velg område
 
-### Viser 45 av 45
+### Viser 44 av 44
 
-- Aa-registeret Aa-registeret er et register over arbeidsforhold i Norge som Nav eier og forvalter.
 - Aa-registeret – rapporter inn arbeidstakere Som arbeids- og oppdragsgiver må du rapportere arbeidstakere og frilansere til Aa-registeret via a-meldingen.
 - Arbeidsgiverlos Støtte for å hindre at ansatte med psykiske helseproblemer faller ut av arbeidslivet.
 - Arbeidstrening Ekstra hjelp til en som trenger relevant erfaring for etter hvert å kunne få en fast jobb.
@@ -77,3 +76,4 @@ Se også [saksbehandlingstider for søknader](https://www.nav.no/arbeidsgiver/sa
 - **2026-05-15** Første gang hentet
 - **2026-06-10** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

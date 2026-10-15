@@ -1,4 +1,4 @@
-<!-- innholds-hash: 04c07c22ec5b44413ffaa31847102138466f8ff377a5daea7acd27bba91d1c6d -->
+<!-- innholds-hash: 0547bff7218bc4a73625f7f5241d742bb440048d7e737be315ffed11ddb61b59 -->
 
 # Arendal: Husbankkonferansen i sør 2026
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/husbankkonferansen-arendal-021126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T10:44:42Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:28:14Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Målgruppe for konferansen er politisk og administrativ ledelse i kommunene og k
 
 På konferansen setter vi søkelys på mulighetene og utfordringene knyttet til boligbygging i årene som kommer. Hva skal til for å få fart på boligbyggingen? Hvilke rammevilkår trenger byggenæringen? Og hvordan kan kommunene legge til rette for utvikling og vekst?
 
-Vi vil også løfte andre aktuelle problemstillinger knyttet til boligmarkedet og kommunenes rolle i boligpolitikken, blant annet utviklingen i leiemarkedet og hvordan kommunene kan møte fremtidens boligbehov. Vi har også invitert Kommunal- og distriktsdepartementet for å fortelle om hvordan nå regjeringens mål om 130.000 boliger.
+Vi vil også løfte andre aktuelle problemstillinger knyttet til boligmarkedet og kommunenes rolle i boligpolitikken, blant annet utviklingen i leiemarkedet og hvordan kommunene kan møte fremtidens boligbehov.
 
 Konferansen vil by på innlegg fra sentrale fagpersoner og aktører, panelsamtaler og gode muligheter for erfaringsutveksling og dialog.
 
@@ -30,7 +30,8 @@ Konferansen vil by på innlegg fra sentrale fagpersoner og aktører, panelsamtal
 
 #### Dag 1
 
-- Administrerende direktør i Husbanken, Jan Hjelle, snakke om hva Husbanken kan bidra med for å nå regjeringens mål om 130.000 boliger
+- Stortingsrepresentant fra Arbeiderpartiet, Kai Steffen Østensen, snakke om hvordan nå regjeringens mål om 130.000 boliger
+- Administrerende direktør i Husbanken, Jan Hjelle, om hva Husbanken kan bidra med for å nå regjeringens mål
 - Regiondirektør NHO Agder, Høye Gerhard Høyesen, om hvordan næringen jobber med regjeringens mål
 - Gründer og administrerende direktør i Lindal Gruppen, Jan Lindal, om hvordan bransjen bidrar, utfordringer og hva som trengs
 - Kommunedirektør Ola Morten Teigen og prosjektleder Øivind Engvik fra Heim kommune fortelle om deres kraftfulle grep for å møte utfordringene i boligmarkedet
@@ -52,7 +53,7 @@ Programmet er under utarbeiding og vil bli oppdatert fortløpende.
 
 [Her melder du deg på Husbankkonferansen sør 2026](https://event.checkin.no/229804/husbankkonferansen-i-soer-2026)
 
-Påmeldingsfrist er 15. oktober.
+Påmeldingsfrist er 26. oktober.
 
 Lurer du på noe? Send spørsmål til post@husbanken.no
 
@@ -64,3 +65,4 @@ Sist oppdatert: 25.09.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

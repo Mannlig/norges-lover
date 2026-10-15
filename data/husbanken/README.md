@@ -374,7 +374,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Nettmøte vest: Tilvisningsavtaler – fra beslutning til flere utleieboliger](kommune/nettmote-vest-tilvisning-271026.md)
 - [Opplæring og kompetanse](kommune/opplaring.md)
 - [Oslofrokost: Når gjelden blir for tung - gjeld som boligproblem](kommune/oslofrokost-om-gjeld-og-gjeldstiltak.md)
-- [Rakkestad: Boligutvikling for framtidens boligbehov](kommune/rakkestad-boligutvikling-for-framtidens-behov-201126.md)
+- [Rakkestad: Boligtreff i Østfold](kommune/rakkestad-boligutvikling-for-framtidens-behov-201126.md)
 - [Sandnes: Bo trygt hjemme-konferanse](kommune/sandnes-eldre-151026.md)
 - [Webinar: Søkerkonferanse om masterstipend fra Husbanken](kommune/sokerkonferanse-masterstipend.md)
 - [Årsrapportering i Startskudd](kommune/startlaan/arsrapportering.md)

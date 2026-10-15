@@ -1,11 +1,11 @@
-<!-- innholds-hash: bb8c6c520880ff9141af42a1119742b4ee4ec71f3ead91e5d4aced94b23e903c -->
+<!-- innholds-hash: e665eab5759b5d7d9a889f85ad9cb594c2f6b7940d50005c61635e5315e74d07 -->
 
 # Vil rekruttere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rekruttere
-- **Sist oppdatert i arkivet:** 2026-10-06T04:08:38Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:53:26Z
 
 ## Innhold
 
@@ -108,15 +108,7 @@ Det norske arbeidsmarkedet er en del av det europeiske. Hvis du registrerer stil
 
 Hvis du ønsker at stillingen skal ha økt synlighet på EURES-portalen, får du hjelp til det ved å sende en e-post til eures@nav.no.
 
-### Rekruttere sjøfolk med sjøfartsbok
-
-Vi formidler sjøfolk til arbeid om bord på skip. Nav utsteder også sjøfartsbøker til sjøfolk.
-
-[Sjøfartskort erstatter sjøfartsboken](https://www.nav.no/arbeidsgiver/sjofartsoppgaver)
-
-Rekruttering
-
-Oppdatert 22.09.2026
+Oppdatert 06.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -124,7 +116,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -154,3 +146,4 @@ Alltid åpen
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

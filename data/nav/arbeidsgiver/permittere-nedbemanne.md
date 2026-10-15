@@ -1,11 +1,11 @@
-<!-- innholds-hash: a22c5ed5ec0cb24c0501f069ef88beb03daca2a3a591a35f1564146f734d0138 -->
+<!-- innholds-hash: 8aace09862d08d6fe009e1612530382f37d495c94fd841f35d68bf05586203e8 -->
 
 # Må permittere eller nedbemanne - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/permittere-nedbemanne
-- **Sist oppdatert i arkivet:** 2026-10-06T04:06:38Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:51:19Z
 
 ## Innhold
 
@@ -45,7 +45,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -71,3 +71,4 @@ Alltid åpen
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

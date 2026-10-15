@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5bddf0890e08fd85b25ac12458a7eeb009bf2111a7ffd527d2e01e9ff879e82e -->
+<!-- innholds-hash: 0060b12da227bcc175883357dac0e61f026143dd9cc9109551505ac601703428 -->
 
 # Om Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/aa-registeret
-- **Sist oppdatert i arkivet:** 2026-10-06T04:01:01Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:45:39Z
 
 ## Innhold
 
@@ -17,7 +17,7 @@ Aa-registeret er et register over arbeidsforhold i Norge som Nav eier og forvalt
 
 ### Hva er Aa-registeret?
 
-Aa-registeret inneholder alle arbeidsforhold i Norge, med [noen få unntak](https://lovdata.no/dokument/SF/forskrift/2008-08-18-942/KAPITTEL_2#%C2%A75) (lovdata.no). Det er Nav som eier og forvalter dataene i registeret.
+Aa-registeret inneholder alle arbeidsforhold i Norge, med [noen få unntak (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2008-08-18-942/KAPITTEL_2#%C2%A75). Det er Nav som eier og forvalter dataene i registeret.
 
 Registeret ble opprettet i 1978 da sykelønnsordningen ble innført:
 
@@ -68,7 +68,7 @@ Det er ikke rapporteringsplikt til Aa-registeret
 
 ### Meldeplikt til registeret
 
-Arbeidsgivere og oppdragsgiver har plikt til å rapportere sine arbeidstakere og frilansere til Aa-registeret [via a-meldingen](https://www.skatteetaten.no/Bedrift-og-organisasjon/Arbeidsgiver/a-meldingen/) (skatteetaten.no).
+Arbeidsgivere og oppdragsgiver har plikt til å rapportere sine arbeidstakere og frilansere til Aa-registeret [via a-meldingen (skatteetaten.no)](https://www.skatteetaten.no/Bedrift-og-organisasjon/Arbeidsgiver/a-meldingen/)
 
 Her kan du lese mer om meldeplikten og hvilke arbeidsforhold som skal rapporteres:
 
@@ -146,10 +146,10 @@ Ta [kontakt med Nav registerforvaltning](https://www.nav.no/kontor/nav-registerf
 
 ### Hva sier loven?
 
-- [Folketrygdloven §25-1, §25-3 og §25-10 (Lovdata)](https://lovdata.no/nav/folketrygdloven/kap25)
-- [Forskrift om Aa-registeret (Lovdata)](https://lovdata.no/dokument/SF/forskrift/2008-08-18-942)
+- [Folketrygdloven §25-1, §25-3 og §25-10 (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap25)
+- [Forskrift om Aa-registeret (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2008-08-18-942)
 
-Oppdatert 05.10.2026
+Oppdatert 06.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/aa-registeret) av norges-lover-bot.*
@@ -158,3 +158,4 @@ Oppdatert 05.10.2026
 
 - **2026-05-16** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

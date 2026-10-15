@@ -1,11 +1,11 @@
-<!-- innholds-hash: 983f190df7db43749e754787ff4bcd77e58ebd8b59066af30fc4452e13070430 -->
+<!-- innholds-hash: e1b1a610cf8276f1b1b4c9a81afef29a1c5bbfb57a4a8e60ed51bb64ee1782f9 -->
 
 # Stønad til barnetilsyn for gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetilsyn-gjenlevende
-- **Sist oppdatert i arkivet:** 2026-10-06T04:17:32Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:58:23Z
 
 ## Innhold
 
@@ -332,7 +332,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -342,7 +342,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -360,3 +360,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

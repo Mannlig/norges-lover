@@ -1,11 +1,11 @@
-<!-- innholds-hash: 972682dfbc89acf85f7dd8edac72d843a679975c9fb6e142ff461dc0e556bf7f -->
+<!-- innholds-hash: 5921b73edffe38d20312df2993fbf4df7138dbc8f2a066fbd3bf7ec3983b389b -->
 
 # Skal jobbe i utlandet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-utlandet
-- **Sist oppdatert i arkivet:** 2026-10-06T03:55:45Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:44:15Z
 
 ## Innhold
 
@@ -139,7 +139,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -149,7 +149,7 @@ Ring oss på +47 21 07 37 00
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -167,3 +167,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

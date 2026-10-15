@@ -1,4 +1,4 @@
-<!-- innholds-hash: 740631b8110572acb29b55d46e294a61a01ce472684cbc7a783d8982d619b93c -->
+<!-- innholds-hash: d83e77db8b8b8144a0dc6c4f066078ca0e5b10b4b8eaff923008878591c20d12 -->
 
 # Nettmøte i Nordland: Bruk av startlån for å rekruttere og beholde arbeidskraft
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/nettmote-nordland-151026/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T10:47:14Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:30:49Z
 
 ## Innhold
 
@@ -29,9 +29,9 @@ I dette nettmøtet får kommunene i Nordland kunnskap om hvordan startlån kan b
 - Startlån som virkemiddel for å rekruttere og beholde arbeidskraft ved Husbanken nord, Bodø
 - Erfaringer fra kommuner, blant annet Gjemnes kommune
 
-Har du spørsmål, ta kontakt på post@husbanken.no
+Har du spørsmål, ta kontakt på e-post
 
-Sist oppdatert: 02.10.2026
+Sist oppdatert: 12.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/nettmote-nordland-151026/) av norges-lover-bot.*
@@ -39,3 +39,4 @@ Sist oppdatert: 02.10.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

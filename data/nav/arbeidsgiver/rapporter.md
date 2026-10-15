@@ -1,11 +1,11 @@
-<!-- innholds-hash: 51a5e93763124cefb2dbfcc5adf6be396f843d1c985bcb44fca26729e1d06b6e -->
+<!-- innholds-hash: ad98848a3b3fd442676ab893d3e51e94651d6c6566daf8a08a2b11e1de0472f3 -->
 
 # Inntektsmelding, kontonummer, rapporter og register - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/rapporter
-- **Sist oppdatert i arkivet:** 2026-10-06T04:07:19Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:52:00Z
 
 ## Innhold
 
@@ -23,7 +23,7 @@ A-meldingen er en månedlig melding fra arbeidsgiver til Nav, SSB og Skatteetate
 
 Aa-registeret (Arbeidsgiver- og arbeidstakerregisteret) er et register som viser arbeidsforholdene som er registrert på virksomheten. Her kan du som arbeidsgiver kontrollere arbeidsforholdene i virksomheten din.
 
-- [Se hva som er registrert i Aa-registeret på virksomheten](https://arbeidsgiver.nav.no/arbeidsforhold/).
+- [Se hva som er registrert i Aa-registeret på virksomheten](https://www.nav.no/arbeidsgiver/aa-registeret/innsyn).
 
 Opplysningene i Aa-registeret kan endres via a-meldingen.
 
@@ -48,7 +48,7 @@ Hvis du som arbeidsgiver er pålagt å foreta trekk i lønn, og du ikke har løn
 
 [Se hvilke unntak som gjelder](https://www.nav.no/fyllut/nav083002/veiledning?sub=paper).
 
-Oppdatert 31.08.2026
+Oppdatert 06.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -56,7 +56,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -86,3 +86,4 @@ Alltid åpen
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

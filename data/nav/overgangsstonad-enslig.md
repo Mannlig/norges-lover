@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5620cbffd42d2863cb04b86f8e84ca06434969ee8ca81ff637d0c64d01a8cc47 -->
+<!-- innholds-hash: 5ce814b4ab5f8b49677bcd0fd0b3ae59041f886036632a2a16cfc8365a770815 -->
 
 # Overgangsstønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/overgangsstonad-enslig
-- **Sist oppdatert i arkivet:** 2026-10-06T03:37:05Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:32:25Z
 
 ## Innhold
 
@@ -455,7 +455,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 7 uker |
+| Søknad | 6 uker |
 
 #### Klagerettigheter
 
@@ -624,7 +624,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -634,7 +634,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -652,3 +652,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

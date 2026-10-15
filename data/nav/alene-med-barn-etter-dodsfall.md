@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6d5a3f40d37f3e08c76e54ef5523168748f36439a950ccb66d7e329ba203fe01 -->
+<!-- innholds-hash: fce3a1487208808fa292719514832ee51e81da6cd85b4535307ff766cb262b64 -->
 
 # Er alene med barn fordi den andre forelderen er død - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn-etter-dodsfall
-- **Sist oppdatert i arkivet:** 2026-10-06T03:37:46Z
+- **Sist oppdatert i arkivet:** 2026-10-15T07:33:09Z
 
 ## Innhold
 
@@ -189,7 +189,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -199,7 +199,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -217,3 +217,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c1d280a558e0242bf3fea7e36b2ae8be650754c142cea9ae8964f18df379606b -->
+<!-- innholds-hash: 936da7dd981d81ddb02e3fc4fde259f66f04ddb1e21eed82aa87bdb2a2417826 -->
 
 # Renter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/rente/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:55:21Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:17:58Z
 
 ## Innhold
 
@@ -18,13 +18,13 @@ Rentene her blir oppdatert cirka den 6. i hver måned.
 
 ### Rentene for november 2026
 
-Ønsker du å benytte deg av fastrentetilbudet for oktober må avtalen være mottatt i Husbanken innen 24. oktober.
+Ønsker du å benytte deg av fastrentetilbudet for november må avtalen være mottatt i Husbanken innen 24. oktober.
 
 | Termin­forfall | Fast 3 år | Fast 5 år | Fast 10 år | Fast 20 år | Flytende* |
 | --- | --- | --- | --- | --- | --- |
-| Månedlig | 4,774 % | 4,650 % | 4,535 % | 4,822 % | 4,131 % |
-| Kvartalsvis | 4,793 % | 4,668 % | 4,552 % | 4,841 % | 4,145 % |
-| Halvårlig | 4,822 % | 4,695 % | 4,578 % | 4,871 % | 4,167 % |
+| Månedlig | 4,774 % | 4,650 % | 4,535 % | 4,822 % | 4,025 % |
+| Kvartalsvis | 4,793 % | 4,668 % | 4,552 % | 4,841 % | 4,038 % |
+| Halvårlig | 4,822 % | 4,695 % | 4,578 % | 4,871 % | 4,059 % |
 
 * Flytende rente fram til 30. oktober. Nye flytende renter fra 01. november er 4,131, 4,145 og 4,167
 
@@ -67,3 +67,4 @@ Rentene på lån i Husbanken beregnes med utgangspunkt i endringer i markedsrent
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

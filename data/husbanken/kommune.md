@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9059f9b2e6caa9ef1228e199b43e6573fb94f38806f280e35c111265e60f6144 -->
+<!-- innholds-hash: df92673b36e8fcb422c845d9a4efb80658c942908e8a70b38de3ed203e5c7465 -->
 
 # Forside for kommuner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:47:24Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:09:34Z
 
 ## Innhold
 
@@ -22,9 +22,9 @@
 - [Renter](https://www.husbanken.no/rente/)
 - [Logg inn](https://www.husbanken.no/kommune/logg-inn/)
 
-### Søknad om tilskudd til energitiltak er nå åpen
+### Søk om tilskudd til energitiltak
 
-Tilskuddsordningen er oppdatert for 2026, og det er åpnet for at kommunene kan søke om tilskudd til energitiltak i kommunale utleieboliger, omsorgsboliger og sykehjem. Du finner alt om tilskuddet, inkludert veiledning til søknadsprosessen på vår nettside:
+Kommunene kan søke om tilskudd til energitiltak i kommunale utleieboliger, omsorgsboliger og sykehjem. Her finner du alt om tilskuddet, inkludert veiledning til søknadsprosessen:
 
 [Les mer om tilskuddet](https://www.husbanken.no/kommune/lan-og-tilskudd/tilskudd-energitiltak/)
 
@@ -70,9 +70,9 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 
 ### Aktuelt
 
+- 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
 - 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
 - 7. juli 2026 | Pressemelding [36 millioner kroner i tilskudd til boligtiltak](https://kommunikasjon.ntb.no/pressemelding/18984742/36-millioner-kroner-i-tilskudd-til-boligtiltak?publisherId=2823375&lang=no)
-- 7. juli 2026 | Pressemelding [Sju prosjekter om framtidens boliger og lokalsamfunn får Husbankens masterstipend](https://kommunikasjon.ntb.no/pressemelding/18984692/sju-prosjekter-om-framtidens-boliger-og-lokalsamfunn-far-husbankens-masterstipend?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
@@ -91,3 +91,4 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

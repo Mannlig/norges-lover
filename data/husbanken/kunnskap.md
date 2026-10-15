@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99ecff044314875613c78f5dc185c6478f9e3484e894344ed48b6245e5e78558 -->
+<!-- innholds-hash: 360ab17c7ecc6e11c08ff91ec710e8707fd1b46887feaae1c706c67c4071745d -->
 
 # Husbanken.no forside for tall og kunnskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunnskap/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:50:24Z
+- **Sist oppdatert i arkivet:** 2026-10-15T08:12:34Z
 
 ## Innhold
 
@@ -55,9 +55,9 @@ Lær mer om Husbankens samfunnsoppdrag og hva vi gjør for å løse det.
 
 ### Aktuelt
 
+- 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
 - 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
 - 7. juli 2026 | Pressemelding [36 millioner kroner i tilskudd til boligtiltak](https://kommunikasjon.ntb.no/pressemelding/18984742/36-millioner-kroner-i-tilskudd-til-boligtiltak?publisherId=2823375&lang=no)
-- 7. juli 2026 | Pressemelding [Sju prosjekter om framtidens boliger og lokalsamfunn får Husbankens masterstipend](https://kommunikasjon.ntb.no/pressemelding/18984692/sju-prosjekter-om-framtidens-boliger-og-lokalsamfunn-far-husbankens-masterstipend?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
@@ -67,3 +67,4 @@ Lær mer om Husbankens samfunnsoppdrag og hva vi gjør for å løse det.
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)
