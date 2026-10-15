@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9d97ca5f43e1b967d8098c834c4042f791c6d9310005e651f68d13c7294c69ff -->
+<!-- innholds-hash: f94c5b9674205ea316d7b3b57c96dc50cf02c75d390ab7babd8f597f9096c551 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist oppdatert i arkivet:** 2026-10-06T13:23:19Z
+- **Sist oppdatert i arkivet:** 2026-10-15T15:43:27Z
 
 ## Innhold
 
@@ -506,7 +506,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 10 uker |
+| Klage til Nav-enhet | 12 uker |
 | Klage til Nav klageinstans | 3 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -556,3 +556,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3e5ef4ad70ce82dd34ac7ad2724ba058c8cae1316fb3699989cbecf6c3c63d1e -->
+<!-- innholds-hash: c4f6ec164bdc03e97161af621290519adedfbb39383a71c505f5ac5bd91f32da -->
 
 # Tilleggsstønader til gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-gjenlevende
-- **Sist oppdatert i arkivet:** 2026-10-06T04:21:39Z
+- **Sist oppdatert i arkivet:** 2026-10-15T15:21:32Z
 
 ## Innhold
 
@@ -124,19 +124,15 @@ For at du skal kunne få dekket stønad til daglig reise, må reiseavstanden væ
 
 #### Satser for stønad til daglig reise
 
-Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm. I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
+Du får dekket billigste reisemåte. Nav kan godkjenne bruk av privat bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm.
 
-Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
-
-[Send kjøreliste](https://www.nav.no/kjoreliste)
-
-Slik gjør du det
+I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
 
 | Reisetype | Sats per km |
 | --- | --- |
-| Reise med egen bil | 2,94 kroner |
+| Reise med privat bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
@@ -146,19 +142,15 @@ Reiseveien mellom hjemmet ditt og samlingen må være minst 30 kilometer hver ve
 
 #### Satser for stønad til reise til samling
 
-Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm. I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
+Du får dekket billigste reisemåte. Nav kan godkjenne bruk av privat bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm.
 
-Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
-
-[Send kjøreliste](https://www.nav.no/kjoreliste)
-
-Slik gjør du det
+I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
 
 | Reisetype | Sats per km |
 | --- | --- |
-| Reise med egen bil | 2,94 kroner |
+| Reise med privat bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
@@ -170,19 +162,15 @@ Vi kan gi stønad til flere hjemreiser dersom det er særlige grunner, for eksem
 
 #### Satser for stønad på grunn av oppstart, avslutning eller hjemreise
 
-Du får dekket billigste reisemåte. Nav kan godkjenne bruk av egen bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm. I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
+Du får dekket billigste reisemåte. Nav kan godkjenne bruk av privat bil hvis det ikke er offentlig transport tilgjengelig eller det ikke er praktisk mulig for deg å benytte offentlig transport. Du kan da også få dekket nødvendige utgifter til bomavgift, parkering mm.
 
-Hvis du får innvilget stønad til daglig reise ved bruk av egen bil må du dokumentere utgiftene ved å sende inn en digital kjøreliste på nav.no.
-
-[Send kjøreliste](https://www.nav.no/kjoreliste)
-
-Slik gjør du det
+I særlige tilfeller kan du få dekket utgifter til drosje. Utgiftene må dokumenteres.
 
 Fra 1. januar 2026 er det disse satsene som gjelder:
 
 | Reisetype | Sats per km |
 | --- | --- |
-| Reise med egen bil | 2,94 kroner |
+| Reise med privat bil | 2,94 kroner |
 
 Dette kan du få når du er i utdanning.
 
@@ -264,9 +252,9 @@ Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om det
 
 #### Søknad om støtte ved reise til samling
 
-Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne eller får dagpenger, tiltakspenger eller kvalifiseringsstønad. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
-[Søk om støtte til samling](https://www.nav.no/fyllut/nav111217b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111217b/innsendingsvalg)
+[Søk om støtte til reise](https://www.nav.no/start/soknad-tilleggstonader-stotte-til-reise-til-samling)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111217b/innsendingsvalg)
 
 #### Søknad om støtte til reise ved oppstart, avslutning eller hjemreise
 
@@ -449,3 +437,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

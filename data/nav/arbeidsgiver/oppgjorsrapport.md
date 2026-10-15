@@ -1,11 +1,11 @@
-<!-- innholds-hash: f557a6c0808a609ff9689838a84a197540b0a87db930353fb35dac5e46092012 -->
+<!-- innholds-hash: fa085abad7bad2d5cfd700d73ba6d02abfe44e8e82f7335a40f260d5e5c47193 -->
 
 # Oppgjørsrapport arbeidsgiver – refusjoner fra Nav  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppgjorsrapport
-- **Sist oppdatert i arkivet:** 2026-10-06T04:30:47Z
+- **Sist oppdatert i arkivet:** 2026-10-15T15:28:34Z
 
 ## Innhold
 
@@ -23,7 +23,11 @@ Leverandører av lønns- og personalsystem må ta i bruk nytt API før 15. juni 
 
 ### Om oppgjørsrapporten
 
-Oppgjørsrapporten viser informasjon om refusjon av sykepenger, foreldrepenger, feriepenger, svangerskapspenger, pleie/opplæring- og omsorgspenger.
+Oppgjørsrapporten viser informasjon om refusjon av sykepenger, foreldrepenger og svangerskapspenger, pleie/opplæring- og omsorgspenger.
+
+For å se rapporten må du logge inn på nav.no.
+
+[Logg inn på nav.no](https://www.nav.no/oppgjorsrapporter/ref-arbg)
 
 Rapporten blir tilgjengelig i innboksen i Altinn 1-2 virkedager etter utbetaling. Hvis du ikke får varsel om ny rapport i Altinn 3 innboks, må du få delegert riktig tilgang.
 
@@ -121,7 +125,7 @@ Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn.
   - Eksempel: Hvis du skulle fått rapporten 1. april, kan du vente til 15. april før du eventuelt kontakter Nav.
   - [Sjekk her hva du må gjøre hvis du omorganiserer](https://www.nav.no/arbeidsgiver/refusjon-underenhet).
 
-Oppdatert 27.07.2026
+Oppdatert 09.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/oppgjorsrapport) av norges-lover-bot.*
@@ -133,3 +137,4 @@ Oppdatert 27.07.2026
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

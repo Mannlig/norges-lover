@@ -1,11 +1,11 @@
-<!-- innholds-hash: 82199d24aeb1d263077855c3457d319c5be8fc273078fb3d374b5ac5daa312c9 -->
+<!-- innholds-hash: 62263f60662831716866ae236571f3c77ec49c420bd275fd019ad25b8541cbf4 -->
 
 # Økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomisk-sosialhjelp
-- **Sist oppdatert i arkivet:** 2026-10-06T13:11:38Z
+- **Sist oppdatert i arkivet:** 2026-10-15T15:39:16Z
 
 ## Innhold
 
@@ -350,7 +350,7 @@ Hvis du er usikker på om endringen vil påvirke utbetalingen eller oppfølginge
 
 - [Lov om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven)](https://lovdata.no/dokument/NL/lov/2009-12-18-131?q=sosiale%20tjenester)
 
-Oppdatert 06.10.2026
+Oppdatert 12.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -381,3 +381,4 @@ Søk opp Nav-kontor med postnummer, sted eller by.
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

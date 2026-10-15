@@ -1,4 +1,4 @@
-<!-- innholds-hash: 753c140f95dd611ad6b48a404bbdc1e42bcc3a3be67e35b65fafe9c998fbd28b -->
+<!-- innholds-hash: 2bd00ae7668f3c4a1d53d89e1efc69bfb0316ba024310f74170efe67e2fd2f88 -->
 
 # Statsbudsjett 2027
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200436
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,8 +37,28 @@
   },
   "korttittel": "Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland",
   "sak_fremmet_id": 200436,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791362065223+0200)/",
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Moflag",
+      "foedselsdato": "/Date(290473200000+0100)/",
+      "fornavn": "Tuva",
+      "id": "TUMO",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
   "type": 1
@@ -51,3 +71,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

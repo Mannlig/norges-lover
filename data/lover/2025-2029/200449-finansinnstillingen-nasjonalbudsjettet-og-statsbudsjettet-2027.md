@@ -1,20 +1,20 @@
-<!-- innholds-hash: 0bb9ae5f5c384d93b8206a5dcdd90b28d58b9a567d78f0e4eda766af75b5e470 -->
+<!-- innholds-hash: 77211723b81cc338ba202ff89fe5f23aed85e806c3cfe155a2edfecf684eacce -->
 
-# Nasjonalbudsjettet 2027
+# Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200449
 - **Type:** 1
-- **Korttittel:** Nasjonalbudsjettet 2027
+- **Korttittel:** Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027
 - **Status:** 2
 - **Henvisning:** Meld. St. 1 (2026–2027); Innst. 2 S (2026-2027)
 - **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200449
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,7 +35,7 @@
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
-  "korttittel": "Nasjonalbudsjettet 2027",
+  "korttittel": "Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027",
   "sak_fremmet_id": 200449,
   "saksordfoerer_liste": [
     {
@@ -60,7 +60,7 @@
   ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
-  "tittel": "Nasjonalbudsjettet 2027",
+  "tittel": "Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027",
   "type": 1
 }
 ```
@@ -74,3 +74,4 @@
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

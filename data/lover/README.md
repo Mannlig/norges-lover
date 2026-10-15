@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1895
+**Antall dokumenter:** 1896
 
 ## Innhold
 
@@ -1883,7 +1883,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Statsbudsjett 2027](2025-2029/200446-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200447-statsbudsjett-2027.md)
 - [Anmodnings- og utredningsvedtak  i stortingssesjonen 2025–2026](2025-2029/200448-anmodnings-og-utredningsvedtak-i-stortingssesjonen-20252026.md)
-- [Nasjonalbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
+- [Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027](2025-2029/200449-finansinnstillingen-nasjonalbudsjettet-og-statsbudsjettet-2027.md)
 - [Skatter og avgifter 2027](2025-2029/200450-skatter-og-avgifter-2027.md)
 - [Statsbudsjett 2027](2025-2029/200451-statsbudsjett-2027.md)
 - [Skatter og avgifter 2027 – lovsaker](2025-2029/200452-skatter-og-avgifter-2027-lovsaker.md)
@@ -1901,6 +1901,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet](2025-2029/200464-redegjorelse-av-kultur-og-likestillingsministeren-om-mediepolitikk-og-ytringsfrihet.md)
 - [Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva](2025-2029/200465-representantforslag-fra-stortingsrepresentantene-tom-staahle-hilde-grande-martin-virkesdal-jonsterha.md)
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften](2025-2029/200466-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-maren-grothe-og-geir-inge-li.md)
+- [Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser](2025-2029/200468-representantforslag-fra-stortingsrepresentantene-hege-bae-nyholt-marie-sneve-martinussen-seher-aydar.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

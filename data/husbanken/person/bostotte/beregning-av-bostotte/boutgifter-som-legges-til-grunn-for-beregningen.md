@@ -1,4 +1,4 @@
-<!-- innholds-hash: b3cd9291adcc580ebf40d7f400ae7c66d7e655c6f6bd3839aaeb0ce5d53e1ddf -->
+<!-- innholds-hash: c5f195e71ca8c10a0be9e4af2ca6897d52995605d356d3470c13a0281c1d21f6 -->
 
 # Boutgifter i beregningen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/beregning-av-bostotte/boutgifter-som-legges-til-grunn-for-beregningen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:37:09Z
+- **Sist oppdatert i arkivet:** 2026-10-15T16:21:48Z
 
 ## Innhold
 
@@ -23,7 +23,7 @@ Hvilke boutgifter du får lagt til grunn for beregning av bostøtte, er avhengig
 
 - felleskostnader
 - renter og avdrag på boliglån - kun den delen av lånet som er knyttet til kjøp eller nødvendig utbedring av boligen
-- søkere som ikke har dekket utgifter til oppvarming helt eller delvis i fellesutgiftene, får i tillegg lagt til grunn 613 kroner per måned til dekning av utgifter til oppvarming
+- søkere som ikke har dekket utgifter til oppvarming helt eller delvis i fellesutgiftene, får i tillegg lagt til grunn 635 kroner per måned til dekning av utgifter til oppvarming
 
 ### Bolig uten felles­kostnader (enebolig)
 
@@ -35,7 +35,7 @@ Hvilke boutgifter du får lagt til grunn for beregning av bostøtte, er avhengig
 
 Det er fastsatt øvre grense for hvor høye boutgifter du får lagt til grunn. Med [bostøttekalkulatoren](https://tjenester.husbanken.no/bostotte-kalkulator/index.html) kan du se hvor mye av boutgiftene dine som blir tatt med i beregningen.
 
-Sist oppdatert: 29.05.2024
+Sist oppdatert: 14.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/person/bostotte/beregning-av-bostotte/boutgifter-som-legges-til-grunn-for-beregningen/) av norges-lover-bot.*
@@ -43,3 +43,4 @@ Sist oppdatert: 29.05.2024
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

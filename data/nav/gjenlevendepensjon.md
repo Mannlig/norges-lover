@@ -1,11 +1,11 @@
-<!-- innholds-hash: ecca62684422a9c28f30dcd0091057b8ae854406d4ca12b4735960d67dc7dafc -->
+<!-- innholds-hash: 22cb7c8419067d8e337e5f97c17f27fe9e6defcd64ccd84add13e24a752d74b0 -->
 
 # Gjenlevendepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gjenlevendepensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T04:18:13Z
+- **Sist oppdatert i arkivet:** 2026-10-15T15:20:05Z
 
 ## Innhold
 
@@ -43,7 +43,11 @@ En gjenlevende partner hadde samme rettigheter som en gjenlevende ektefelle.
 
 Undersøk om du [kan ha rett til høyere alderspensjon](https://www.nav.no/alderspensjon#gjenlevende) hvis du har mistet ektefellen, samboeren eller partneren din.
 
-### Hva kan du få?
+#### Skal du søke om alderspensjon?
+
+Som hovedregel har du rett til å ta ut alderspensjon fra måneden etter at du fyller 67 år. Mange kan ha rett til å ta ut alderspensjon tidligere. [Du må selv søke om alderspensjon](https://www.nav.no/alderspensjon#soke). Du kan søke 4 måneder før det tidspunktet du ønsker at utbetalingen skal starte.
+
+### Hva kan du få i gjenlevendepensjon?
 
 #### Hvor mye kan du få?
 
@@ -436,7 +440,7 @@ Får du gradert uføretrygd, kan du beholde gjenlevendepensjonen. Gjenlevendepen
 
 [Ytelser til gjenlevende ektefelle og tidligere familiepleier (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap17)[Om beregning av pensjon (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/beregning-av-pensjon.folketrygdloven-kap.3-gamle-opptjeningsregler)
 
-Oppdatert 11.08.2026
+Oppdatert 07.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -478,3 +482,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)
