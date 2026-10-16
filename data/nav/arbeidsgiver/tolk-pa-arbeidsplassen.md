@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3313c7b46f3ecb7fcfbcbc0126affdd6f877dfa4df6ea8189b6b1114b4f9aaad -->
+<!-- innholds-hash: e89e0ea0fee0f25560b34bf6d9f38e728e94d0b8ffd379d30b297e41419cf43c -->
 
 # Tolk for hørselshemmede på arbeidsplassen - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tolk-pa-arbeidsplassen
-- **Sist oppdatert i arkivet:** 2026-10-07T00:03:55Z
+- **Sist oppdatert i arkivet:** 2026-10-16T19:20:14Z
 
 ## Innhold
 
@@ -80,7 +80,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -107,3 +107,4 @@ Alltid åpen
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

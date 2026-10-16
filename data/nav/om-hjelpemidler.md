@@ -1,11 +1,11 @@
-<!-- innholds-hash: e1ef074b8540223d9ce3bb4c12f9b215f037c516a5cc09e4276292ef5f7642e5 -->
+<!-- innholds-hash: 8ff6f2e336e291d6aeb20fbc37764d00858752702937c40072f50a1bcbd6a39c -->
 
 # Informasjon om hjelpemidler og tilrettelegging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/om-hjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-07T00:18:28Z
+- **Sist oppdatert i arkivet:** 2026-10-16T19:34:18Z
 
 ## Innhold
 
@@ -347,7 +347,7 @@ Hvis oppfølgingsansvarlig jobber på skolen eller barnehagen, har vedkommende a
 
 Nav hjelpemidler og tilrettelegging samarbeider med brukerorganisasjonene i utviklingen av tjenestene våre. Her kan du lese om [brukerutvalget og hvordan vi jobber med brukerdrevet tjenesteutvikling](https://www.nav.no/samarbeidspartner/brukerutvalg-hjelpemiddelomradet)
 
-Oppdatert 05.10.2026
+Oppdatert 08.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -369,7 +369,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -388,3 +388,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

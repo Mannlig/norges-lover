@@ -1,11 +1,11 @@
-<!-- innholds-hash: 838a345f758d66e865b82ecfae7f60d64f1a14114177d33715fa02d65189ece5 -->
+<!-- innholds-hash: a294b0ffb24f257cf0ae64d7322f2ccfc915723d9a6b909e8d0381a18e0dcb28 -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist oppdatert i arkivet:** 2026-10-07T00:03:12Z
+- **Sist oppdatert i arkivet:** 2026-10-16T19:19:31Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Hvis du har frikort, er det en grense for hvor mye du kan tjene på et år før 
 
 Når du ser at du kommer til å tjene mer enn grensen, må du bestille deg et skattekort. Hvis du tjener mer enn grensen for frikort, og ikke har skattekort, blir du trukket 50 % skatt.
 
-Første utbetaling kommer måneden etter at du ble tatt inn i ungdomsprogrammet. Etter det får du pengene utbetalt én gang i måneden før den 12. hver måned
+Første utbetaling kommer måneden etter at du ble tatt inn i ungdomsprogrammet. Etter det får du pengene utbetalt én gang i måneden før den 12. hver måned.
 
 #### Alder, inntekt og barn avgjør hvor mye du kan få
 
@@ -156,7 +156,7 @@ Da kan du også få dekket nødvendige utgifter til bomavgift og parkering. I s�
 
 #### Søknad om støtte ved reise til samling
 
-[Søk om støtte til samling](https://www.nav.no/fyllut/nav760502/)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav760502/innsendingsvalg)
+[Søk om støtte til samling](https://www.nav.no/start/soknad-tilleggstonader-stotte-til-reise-til-samling)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav760502/innsendingsvalg)
 
 #### Reise med egen bil
 
@@ -249,7 +249,7 @@ Mer om [skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
 - [Rundskriv til forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse (lovdata.no)](https://lovdata.no/nav/rundskriv/r76-13-04-for?q=Ungdomsprogram)
 - [Tilleggsstønadsforskriften (lovdata.no)](https://lovdata.no/nav/forskrift/2015-07-02-867)
 
-Oppdatert 06.10.2026
+Oppdatert 14.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -263,7 +263,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -273,7 +273,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -290,3 +290,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)
