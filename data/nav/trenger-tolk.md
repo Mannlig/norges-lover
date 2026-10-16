@@ -1,11 +1,11 @@
-<!-- innholds-hash: c308d909f3ff968c2e2297ba0cd827ce48fee98bc09a74c581351443372a5a01 -->
+<!-- innholds-hash: fd883ba0fe934c31733de2ed846643b4147a0522a1adfa0be68819abd265cac1 -->
 
 # Trenger du tolk? - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trenger-tolk
-- **Sist oppdatert i arkivet:** 2026-10-06T14:51:27Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:34:53Z
 
 ## Innhold
 
@@ -71,7 +71,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -81,7 +81,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -96,3 +96,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

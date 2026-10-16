@@ -1,11 +1,11 @@
-<!-- innholds-hash: 175bd55c04ac0a3fa52da3503dda9ef95a6380580076ddd8317c71fdf8853a23 -->
+<!-- innholds-hash: 4d860f35415a04586bee39fead8e6a915b06ba533e0cd7c9f8f1af84ee07c4bd -->
 
 # Bor ikke sammen med barnet mitt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bor-ikke-med-barnet-mitt
-- **Sist oppdatert i arkivet:** 2026-10-06T23:42:59Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:36:21Z
 
 ## Innhold
 
@@ -65,7 +65,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -75,7 +75,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -90,3 +90,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

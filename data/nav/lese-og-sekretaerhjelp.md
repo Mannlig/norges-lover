@@ -1,11 +1,11 @@
-<!-- innholds-hash: 416dc9aefc82239b07548b992dd154b810c4bcad407840264a086fda35d7d01b -->
+<!-- innholds-hash: 6c70afa8982fa4144efbb294b393a38aa4697566d6bf1ae103e56252cae60916 -->
 
 # Lese- og sekretærhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lese-og-sekretaerhjelp
-- **Sist oppdatert i arkivet:** 2026-10-06T23:58:22Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:50:10Z
 
 ## Innhold
 
@@ -161,7 +161,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -178,3 +178,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 04a667f06e8b030e52b0ccf1095d72f88e1449361feab3490b702e7aacef9616 -->
+<!-- innholds-hash: 9403b222c906a7bf274be87ff0bbfd33ec150b3fecf9725c39d8753b07961a97 -->
 
 # Endringar i lov om medisinsk utstyr (gjennomføring av forordning (EU) 2024/568 om gebyrer og avgifter som skal betales til  Det europeiske legemiddelbyrå (EMA))  og samtykke til godkjenning av EØS-komiteen si avgjerd nr. 70/2026 om innlemming av forordninga i EØS-avtalen
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200404
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringar i lov om medisinsk utstyr (gjennomføring av forordning (EU) 2024/568 om gebyrer og avgifter som skal betales til  Det europeiske legemiddelbyrå (EMA))",
   "sak_fremmet_id": 200404,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bøe",
+      "foedselsdato": "/Date(725670000000+0100)/",
+      "fornavn": "Erlend Svardal",
+      "id": "ERLBE1",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Tr",
+        "navn": "Troms"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringar i lov om medisinsk utstyr (gjennomføring av forordning (EU) 2024/568 om gebyrer og avgifter som skal betales til  Det europeiske legemiddelbyrå (EMA))  og samtykke til godkjenning av EØS-komiteen si avgjerd nr. 70/2026 om innlemming av forordninga i EØS-avtalen",
@@ -50,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-16** Innhold endret (se git-historikk for diff)

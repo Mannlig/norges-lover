@@ -1,11 +1,11 @@
-<!-- innholds-hash: 183ac94cf2dfcf49b4de16ef5c85d11bf455e3a3b52996774af486889e9dc6de -->
+<!-- innholds-hash: f7ed1b16696ae0de48805007fb543840db6ec89df60213dcb2b9e4eb0dea19fd -->
 
 # Trenger pleie på grunn av sykdom eller skade - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trenger-pleie
-- **Sist oppdatert i arkivet:** 2026-10-06T23:43:40Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:37:03Z
 
 ## Innhold
 
@@ -75,7 +75,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -85,7 +85,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -100,3 +100,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

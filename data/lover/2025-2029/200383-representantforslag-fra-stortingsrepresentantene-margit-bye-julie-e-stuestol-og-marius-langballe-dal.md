@@ -1,4 +1,4 @@
-<!-- innholds-hash: 56813f3c37940d5d653c3e2f933ac16cb401a157cadeb986e5c4f172edc5af6f -->
+<!-- innholds-hash: f44cf5ab527fc2f32aea60e52d5ea79c2086e36fe707b94275abd020ccc80d21 -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200383
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om bedre oppfølging av overlevende og etterlatte etter katastrofer",
   "sak_fremmet_id": 200383,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Østensen",
+      "foedselsdato": "/Date(781221600000+0200)/",
+      "fornavn": "Kai Steffen",
+      "id": "KOS",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "VA",
+        "navn": "Vest-Agder"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer",
@@ -109,3 +129,4 @@
 
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

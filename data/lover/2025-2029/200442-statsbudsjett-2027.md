@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2d8a8ebb69f9eb68c3c47e921dc586e30b8e43f126252fe6daeb8d83038e96bb -->
+<!-- innholds-hash: 5f396c2dbb4a3fc40fef5715b76ce8cc60ef2a8a3bf65f504ee01b4e446e88de -->
 
 # Statsbudsjett 2027
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200442
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til helse- og omsorgskomiteen)",
   "sak_fremmet_id": 200442,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Toppe",
+      "foedselsdato": "/Date(-69472800000+0200)/",
+      "fornavn": "Kjersti",
+      "id": "KJT",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
@@ -51,3 +71,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

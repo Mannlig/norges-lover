@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1897
+**Antall dokumenter:** 1898
 
 ## Innhold
 
@@ -1903,6 +1903,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften](2025-2029/200466-representantforslag-fra-stortingsrepresentantene-trygve-slagsvold-vedum-maren-grothe-og-geir-inge-li.md)
 - [Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser](2025-2029/200468-representantforslag-fra-stortingsrepresentantene-hege-bae-nyholt-marie-sneve-martinussen-seher-aydar.md)
 - [Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern](2025-2029/200469-representantforslag-fra-stortingsrepresentantene-tone-wilhelmsen-troen-haagen-poppe-tage-pettersen-o.md)
+- [Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd](2025-2029/200471-innstilling-fra-valgkomiteen-om-valg-av-medlemmer-og-varamedlemmer-til-nordisk-rad.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

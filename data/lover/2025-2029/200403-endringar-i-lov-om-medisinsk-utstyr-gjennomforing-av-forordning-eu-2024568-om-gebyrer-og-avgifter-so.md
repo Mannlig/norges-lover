@@ -1,4 +1,4 @@
-<!-- innholds-hash: 95062357f8aba42ce67da97d8ce917e633c8f6145f4af9a9b463eb269c070df1 -->
+<!-- innholds-hash: aff2c8fd27abfe8a01db3a478562f7b9620e2b16303cfa827f0b570855edee82 -->
 
 # Endringar i lov om medisinsk utstyr (gjennomføring av forordning (EU) 2024/568 om gebyrer og avgifter som skal betales til  Det europeiske legemiddelbyrå (EMA))  og samtykke til godkjenning av EØS-komiteen si avgjerd nr. 70/2026 om innlemming av forordninga i EØS-avtalen
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200403
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Samtykke til godkjenning av EØS-komiteen si avgjerd nr. 70/2026 om innlemming av forordninga i EØS-avtalen (S-delen)",
   "sak_fremmet_id": 200403,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bøe",
+      "foedselsdato": "/Date(725670000000+0100)/",
+      "fornavn": "Erlend Svardal",
+      "id": "ERLBE1",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Tr",
+        "navn": "Troms"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringar i lov om medisinsk utstyr (gjennomføring av forordning (EU) 2024/568 om gebyrer og avgifter som skal betales til  Det europeiske legemiddelbyrå (EMA))  og samtykke til godkjenning av EØS-komiteen si avgjerd nr. 70/2026 om innlemming av forordninga i EØS-avtalen",
@@ -50,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-16** Innhold endret (se git-historikk for diff)

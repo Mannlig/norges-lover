@@ -1,18 +1,18 @@
 # Systemstatus – norges-lover-bot
 
-**Sist kjørt:** 2026-10-16 07:11 UTC
-**Kode:** `8499592f2`
-**Rundetid:** 3 t 53 min
+**Sist kjørt:** 2026-10-16 14:08 UTC
+**Kode:** `8487704bb`
+**Rundetid:** 4 t 56 min
 
 <!-- helse: stortinget=OK skatteetaten=OK dibk=OK nav=OK arbeidstilsynet=OK husbanken=OK -->
 
 | Kilde | Status | Nye | Endret | Uendret | Hentet OK | Feilet | Borte | I kø |
 |---|---|---|---|---|---|---|---|---|
-| stortinget | OK | 0 | 0 | 0 | 5 | 0 | 0 | 0 |
-| skatteetaten | OK | 148 | 0 | 0 | 150 | 0 | 0 | 27584 |
+| stortinget | OK | 1 | 7 | 0 | 5 | 0 | 0 | 0 |
+| skatteetaten | OK | 149 | 0 | 0 | 150 | 0 | 0 | 27434 |
 | dibk | OK | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| nav | OK | 112 | 9 | 29 | 150 | 0 | 0 | 7580 |
+| nav | OK | 112 | 23 | 15 | 150 | 0 | 0 | 7430 |
 | arbeidstilsynet | OK | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| husbanken | OK | 1 | 0 | 33 | 34 | 0 | 0 | 0 |
+| husbanken | OK | 0 | 0 | 141 | 144 | 0 | 4 | 0 |
 
 *«Uendret» betyr at siden ble hentet og sjekket uten at innholdet hadde endret seg.*

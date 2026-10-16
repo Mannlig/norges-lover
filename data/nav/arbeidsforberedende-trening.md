@@ -1,11 +1,11 @@
-<!-- innholds-hash: da987a2925e16d27e28cf15bffa18d4f5c7c0753ec4c9fe9d57e5e95b16d8279 -->
+<!-- innholds-hash: 6eaf415b122e9f138efb87ef6b6c39a7aff364c9e3d4b302ed610e1f3966973d -->
 
 # Arbeidsforberedende trening - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsforberedende-trening
-- **Sist oppdatert i arkivet:** 2026-10-06T23:48:32Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:41:19Z
 
 ## Innhold
 
@@ -101,7 +101,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -111,7 +111,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -126,3 +126,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

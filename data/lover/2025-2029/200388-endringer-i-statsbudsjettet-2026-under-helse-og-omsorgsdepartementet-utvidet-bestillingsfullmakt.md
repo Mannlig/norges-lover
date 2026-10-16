@@ -1,4 +1,4 @@
-<!-- innholds-hash: ee1df391b8c83d221de5f4f3f4591ce8840e63686a338dcaaf147c8dbd9fe39f -->
+<!-- innholds-hash: a2e193ff4d2f7f85236179e20c4756de5239063154fbb90b2e53a8a5076c0ea8 -->
 
 # Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200388
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)",
   "sak_fremmet_id": 200388,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Vasvik",
+      "foedselsdato": "/Date(267832800000+0200)/",
+      "fornavn": "Truls",
+      "id": "TRV",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ve",
+        "navn": "Vestfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
   "status": 2,
   "tittel": "Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)",
@@ -50,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-16** Innhold endret (se git-historikk for diff)

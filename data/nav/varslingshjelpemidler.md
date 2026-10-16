@@ -1,11 +1,11 @@
-<!-- innholds-hash: f8ad9ca727dbc7a1b4551ddb91d6895ec85838a68d35e42c37c7c3a1773542ef -->
+<!-- innholds-hash: 390f4525beb1d5e559b1fd12a6a797734e4b53b41385ad23d1458675f332fbd6 -->
 
 # Varslingshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varslingshjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T14:29:16Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:24:52Z
 
 ## Innhold
 
@@ -321,7 +321,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -337,3 +337,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

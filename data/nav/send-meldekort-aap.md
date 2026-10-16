@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3a3dc8b3e25fb12e15e0bcbd235229c893259054a0101f3617f6249803f89cf0 -->
+<!-- innholds-hash: 343c40c47ba9ff900c1a677bb11254204594ef0ce6f594fc52fab19d79942bf5 -->
 
 # Fyll ut meldekort – arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-aap
-- **Sist oppdatert i arkivet:** 2026-10-06T23:42:17Z
+- **Sist oppdatert i arkivet:** 2026-10-16T12:35:37Z
 
 ## Innhold
 
@@ -46,7 +46,7 @@ Meldekortet fyller du ut og sender inn digitalt.
 
 Husk å vente på kvittering på at vi har mottatt meldekortet før du lukker nettleseren.
 
-Hvis du ikke kan logge inn og sende meldekort digitalt, kan du skrive ut og sende [meldekort på papir](https://www.nav.no/soknader/nb/person/diverse/Meldekort/NAV%2000-10.01/brev) i posten.
+Hvis du ikke kan logge inn og sende meldekort digitalt, kan du skrive ut og sende [meldekort på papir](https://www.nav.no/fyllut/nav001001/pdf) i posten.
 
 Du skal sende inn papirmeldekortet mandagen etter perioden det gjelder for. Husk å skrive inn hvilke 14 dager det gjelder.
 
@@ -542,6 +542,9 @@ Du må sende inn meldekort hver 14. dag.
 
 Et meldekort gjelder for en periode på 14 dager, og du bør sende det inn så snart perioden er over. Da får du pengene dine raskere, og unngår trekk fordi du har sendt inn meldekortet for sent.
 
+- I den gamle ordningen – den som har fire spørsmål, kan du levere inn meldekortet fra og med siste lørdag i meldeperioden.
+- I den nye ordningen – den som har ett spørsmål, kan du levere inn meldekortet fra og med første mandag etter meldeperioden.
+
 #### Siste frist for å unngå trekk i pengestøtten
 
 Siste frist for å sende inn meldekortet er kl. 23.00 mandag én uke etter at meldeperioden er over.
@@ -617,7 +620,7 @@ Slik klager du:
 
 Her finner du mer informasjon om [klagerettighetene dine](https://www.nav.no/aap#klage).
 
-Oppdatert 02.10.2026
+Oppdatert 15.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -631,7 +634,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -641,7 +644,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -657,3 +660,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)
