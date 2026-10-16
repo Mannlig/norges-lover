@@ -1,11 +1,11 @@
-<!-- innholds-hash: 484fd8946581dcdd2c4571b0cccfc51ec5483dcd2e0457ea259ca952aeec7d3e -->
+<!-- innholds-hash: 0b41d525d65e54dd9be803cdbcca191d1b7b6d301a74859821e944cd529dfab7 -->
 
 # Ortoser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ortoser
-- **Sist oppdatert i arkivet:** 2026-10-06T13:35:47Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:30:20Z
 
 ## Innhold
 
@@ -37,7 +37,7 @@ Det er mange typer ortoser. Alle ortosene har som mål å erstatte, gjenopprette
 
 #### Hvor mye kan du få?
 
-Du må selv betale for en del av fotsengengene. Dette betaler du direkte til leverandøren.
+Du må selv betale for en del av fotsengene. Dette betaler du direkte til leverandøren.
 
 Egenbetalingen er 250 kroner per fotseng, altså 500 kroner per par.
 
@@ -161,7 +161,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om ortose | 39 uker |
+| Søknad om ortose | 37 uker |
 
 #### Levering og ventetid
 
@@ -195,7 +195,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 39 uker |
+| Klage til Nav-enhet | 37 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -204,7 +204,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 - [Lov om fottøy for ortosebruk (lovdata.no)](https://lovdata.no/nav/rundskriv/v2-10-07i)
 - [Forskrift om dekning av utgifter (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-18-336)
 
-Oppdatert 05.12.2025
+Oppdatert 09.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -245,3 +245,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

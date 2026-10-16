@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6be230c6ac1dca513beb7de3e19640b392a296dde8e6ba0103d12541d4122a99 -->
+<!-- innholds-hash: cfe3a4ab26cdbf904311564dba036274dabcf19bc871c1ee8e61c93583c1548b -->
 
 # Enkle talemaskiner - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/enkle-talemaskiner
-- **Sist oppdatert i arkivet:** 2026-10-06T13:53:13Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:46:53Z
 
 ## Innhold
 
@@ -126,7 +126,7 @@ Det viktigste er at dokumentasjonen viser at du har
 - vansker med tale eller språk
 - behov for alternativ og supplerende kommunikasjonshjelpemidler.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -301,3 +301,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

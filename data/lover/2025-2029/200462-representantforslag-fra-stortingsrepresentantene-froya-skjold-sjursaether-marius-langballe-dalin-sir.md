@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8983edb7e365ff7802607452c33ac2de14c007c064ee6d3681f03ec511fb785a -->
+<!-- innholds-hash: f9f225647e2290411f3cc116e1c05ab86a6f1693dc1dfba3d6250cfeb8975986 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200462
 - **Type:** 2
 - **Korttittel:** Representantforslag om å lovliggjøre og legge til rette for pluggbare solceller og batterier
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:17 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
+- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200462
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -146,12 +146,15 @@
   "id": 200462,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
   "sak_fremmet_id": 200462,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
   "type": 2
 }
@@ -162,3 +165,4 @@
 ## Endringshistorikk
 
 - **2026-10-13** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

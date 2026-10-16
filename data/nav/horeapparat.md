@@ -1,11 +1,11 @@
-<!-- innholds-hash: dbce2f9301b864b5e9410a8c104e6aae6369b26b332108100252dbb34ea2e733 -->
+<!-- innholds-hash: 7864c461eb37f1c53cc793c917ec8673853956c3d62318f84055c684f20c24cb -->
 
 # Høreapparat  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/horeapparat
-- **Sist oppdatert i arkivet:** 2026-10-06T13:31:40Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:26:05Z
 
 ## Innhold
 
@@ -152,7 +152,7 @@ Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 33 uker |
+| Søknad | 32 uker |
 
 #### Levering og ventetid
 
@@ -198,7 +198,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 33 uker |
+| Klage til Nav-enhet | 32 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -278,3 +278,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

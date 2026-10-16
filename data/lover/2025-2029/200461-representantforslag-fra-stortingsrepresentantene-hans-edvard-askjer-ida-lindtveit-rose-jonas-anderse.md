@@ -1,4 +1,4 @@
-<!-- innholds-hash: 280877e8a6d5259442ea3c23c1105ec8a483dfdaa0eecfb060ea576737b71d76 -->
+<!-- innholds-hash: 0bdc93732810b77faa21cbb6fea0162d0c5785c41d6ab420d46c13a3cc4e0251 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200461
 - **Type:** 2
 - **Korttittel:** Representantforslag om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:16 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
+- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200461
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200461,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
   "sak_fremmet_id": 200461,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-13** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

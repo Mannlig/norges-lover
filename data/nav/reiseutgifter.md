@@ -1,11 +1,11 @@
-<!-- innholds-hash: ff1ec4b9b7d0b2cfd22e7b6f6f3749cabbc302782ccc3a5e1c84432427d0aee7 -->
+<!-- innholds-hash: 0cc53db6e216f9b047e25da1c75c89b84ffebbcf3a02fef9661de8c8e832221a -->
 
 # Reiseutgifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reiseutgifter
-- **Sist oppdatert i arkivet:** 2026-10-06T13:39:15Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:33:55Z
 
 ## Innhold
 
@@ -164,7 +164,7 @@ Når du har mottatt rekvisisjonen må du bestille reisen. Merk at ikke alle reis
 
 Reiseselskapet eller transportøren sender faktura for reisen til Nav.
 
-Du får skriftlig svar når søknaden din er behandlet. Saksbehandlingstiden er på 14 uker.
+Du får skriftlig svar når søknaden din er behandlet. Saksbehandlingstiden er på 13 uker.
 
 #### Klagerettigheter
 
@@ -194,7 +194,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 14 uker |
+| Klage til Nav-enhet | 13 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -240,3 +240,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

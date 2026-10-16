@@ -1,11 +1,11 @@
-<!-- innholds-hash: 632831cc1dee1cff9d7b2607ab61ceb2b29969e247da9ad517e270a49d574718 -->
+<!-- innholds-hash: a9377ab9ee7119c9b42566ae65b58eef781559b588003a9cfbcd503d9ae9862c -->
 
 # Oppfostringsbidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oppfostringsbidrag
-- **Sist oppdatert i arkivet:** 2026-10-06T13:33:45Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:28:11Z
 
 ## Innhold
 
@@ -57,7 +57,6 @@ Du bruker dette skjemaet når du
 
 - skal gi opplysninger i forbindelse med at du har fått krav om å betale oppfostringsbidrag
 - er pålagt å betale oppfostringsbidrag og søker om endringer
-- søker om å få ettergitt gjeld i forbindelse med oppfostringsbidrag
 
 [Send skjema](https://www.nav.no/fyllut/nav570008)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav570008)
 
@@ -108,3 +107,4 @@ Oppdatert 20.08.2025
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

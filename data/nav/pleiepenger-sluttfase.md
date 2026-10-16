@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9cb6be6db515566f7c148d4bbd3f185aff0d2b0366e18d58ac08b14981711953 -->
+<!-- innholds-hash: c5282dfe3a10615492aa2328978dd94861eb6968483d0ed0c1d1723dac3b8bfd -->
 
 # Pleiepenger i livets sluttfase - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pleiepenger-sluttfase
-- **Sist oppdatert i arkivet:** 2026-10-06T13:38:32Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:33:10Z
 
 ## Innhold
 
@@ -258,7 +258,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 10 uker |
+| Klage til Nav-enhet | 12 uker |
 | Klage til Nav klageinstans | 3 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -369,3 +369,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

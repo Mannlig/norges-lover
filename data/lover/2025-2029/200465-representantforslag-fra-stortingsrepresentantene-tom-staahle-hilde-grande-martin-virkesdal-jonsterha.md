@@ -1,4 +1,4 @@
-<!-- innholds-hash: c94684d6134e072fd50e8298d3f42f5a2f7aacf2cc5f2ed93e442b8311eebd6f -->
+<!-- innholds-hash: 4e8816f8fdf0d7458f1a392c4566afea0cc8935fb64e6ad7e4adacd4988cdee6 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200465
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:18 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200465,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
   "sak_fremmet_id": 200465,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791928800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-14** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: c2bf23ef77a5c602173378b63fcb366f2b3b5afefb7aff509f5a3457ed263cdb -->
+<!-- innholds-hash: fe47897c57d3b1f4bbc3ea9c4533908b06e3cdf0d89d9605101456844a76f57f -->
 
 # Digitale kommunikasjonshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/digitale-kommunikasjonshjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T13:52:30Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:46:09Z
 
 ## Innhold
 
@@ -132,15 +132,13 @@ Når du gir en fagperson fullmakt til å fylle ut og sende inn søknaden på din
 
 Du kan også søke selv, på vegne av eget barn eller for noen du er verge for. Vær oppmerksom på at kravene til dokumentasjon, kartlegging og begrunnelse er omfattende for denne typen hjelpemiddel. Det kan derfor være en fordel å la en fagperson utforme søknaden på dine vegne.
 
-Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt.
-
-Hvis du søker på vegne av andre må du printe ut søknaden når den er ferdig utfylt, signere og sende i posten. Dette gjelder også ved søknad for eget barn.
+Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt. Du kan også søke digitalt når du søker på vegne av noen, og for egne barn. Du må logge inn via ID-porten og oppgi fødsels- og personnummer for den du søker på vegne av.
 
 - Bekreftelse fra fagperson på at du har en funksjonsvanske som hjelpemiddelet vil avhjelpe (sakkyndig vurdering, notat fra logoped eller epikrise).
 - Bekreftelse på at noen har påtatt seg ansvaret for opplæring og oppfølging av hjelpemidlet. Det er som oftest noen i kommunen på skolen eller i barnehagen din som har dette oppfølgingsansvaret.
 - Legg ved individuell opplæringsplan (IOP) dersom du har det.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -289,7 +287,7 @@ Hvis du ønsker å returnere hjelpemidler selv, må du fylle ut et skjema. Velg 
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv om stønadsformer og stønadssituasjoner (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd#ref/lov/1997-02-28-19/%C2%A710-7)
 
-Oppdatert 14.01.2026
+Oppdatert 14.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -328,3 +326,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

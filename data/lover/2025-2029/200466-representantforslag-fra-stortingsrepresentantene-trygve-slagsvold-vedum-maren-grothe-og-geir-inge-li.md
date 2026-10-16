@@ -1,4 +1,4 @@
-<!-- innholds-hash: b4d3a22036e30dc497a9ffde6754b2a8b36bdd24a91aebdff350eece5a8f5994 -->
+<!-- innholds-hash: 1ed7bbbcf75f9d900af72155749d800a862e8955bdae6c4351e3ba8fa32c9845 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200466
 - **Type:** 2
 - **Korttittel:** Representantforslag om å stanse opptrappingsplanen for CO2-avgiften
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:19 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200466,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å stanse opptrappingsplanen for CO2-avgiften",
   "sak_fremmet_id": 200466,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791928800000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-10-14** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

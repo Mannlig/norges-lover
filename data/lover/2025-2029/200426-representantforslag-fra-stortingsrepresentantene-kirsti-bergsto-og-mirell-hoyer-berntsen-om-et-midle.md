@@ -1,4 +1,4 @@
-<!-- innholds-hash: ddd88576c330a1e8f263be04d0a1c6a6645243741f0e4a153f9c359df0e8e3d4 -->
+<!-- innholds-hash: c0a74551c1f8d1ba38a363c6344e1ee313af247de8a741c51c5d5249b36aa2d6 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200426
 - **Type:** 2
 - **Korttittel:** Representantforslag om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:8 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200426
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -70,12 +70,15 @@
   "id": 200426,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
   "sak_fremmet_id": 200426,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1791151200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
   "type": 2
 }
@@ -86,3 +89,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-15** Innhold endret (se git-historikk for diff)

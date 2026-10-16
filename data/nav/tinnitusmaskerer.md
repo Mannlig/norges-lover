@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed1a60dac608e9b846b55eced62b23d50846185fc9a8e6421854ea7f9cc802c2 -->
+<!-- innholds-hash: 330798b16e7ce11e94110795ed3a8eca2efb74e8b97cc38b9d9bb3a113be5265 -->
 
 # Tinnitusmaskerer  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tinnitusmaskerer
-- **Sist oppdatert i arkivet:** 2026-10-06T13:44:50Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:38:20Z
 
 ## Innhold
 
@@ -114,7 +114,7 @@ Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 30 uker |
+| Søknad | 32 uker |
 
 #### Levering og ventetid
 
@@ -239,3 +239,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)

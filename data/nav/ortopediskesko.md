@@ -1,11 +1,11 @@
-<!-- innholds-hash: d04121abe8a551b33d07dbf055974285dee5ffac8411737d55a2478e317cb498 -->
+<!-- innholds-hash: 069790f4fb55718a89adc73dfe9ddb5c9736d0aeb90e47394a14959492ff91fe -->
 
 # Ortopediske sko - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ortopediskesko
-- **Sist oppdatert i arkivet:** 2026-10-06T13:35:05Z
+- **Sist oppdatert i arkivet:** 2026-10-15T23:29:36Z
 
 ## Innhold
 
@@ -183,7 +183,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 39 uker |
+| Søknad | 37 uker |
 
 #### Levering og ventetid
 
@@ -217,7 +217,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 39 uker |
+| Klage til Nav-enhet | 37 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -268,3 +268,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-15** Innhold endret (se git-historikk for diff)
