@@ -1,11 +1,11 @@
-<!-- innholds-hash: c9b3d9a67fb2818843cc1ab59023812d75471ed358143b152e33cc13ef73db14 -->
+<!-- innholds-hash: 0479bda58b8ba1a42ac1cd3b99162ef30cde630092670cb0409ec27db4569491 -->
 
 # Trykkede kommunikasjonshjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/trykkede-kommunikasjonshjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T14:27:16Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:52:21Z
 
 ## Innhold
 
@@ -134,7 +134,7 @@ Det viktigste er at dokumentasjonen viser at du har
 - vansker med tale eller språk
 - behov for alternativ og supplerende kommunikasjonshjelpemidler.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -294,3 +294,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

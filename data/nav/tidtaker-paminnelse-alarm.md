@@ -1,11 +1,11 @@
-<!-- innholds-hash: 76af623d3cfd28f108da637499e002c3b659f936af2634b28766aa6e119c3607 -->
+<!-- innholds-hash: 8eb281dd5d8061c2418efa1acfc807513ac5596ef0faa0228566a2c450497f79 -->
 
 # Tidsnedtellere, tidtakere, påminnelser og alarmer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tidtaker-paminnelse-alarm
-- **Sist oppdatert i arkivet:** 2026-10-06T14:23:00Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:48:51Z
 
 ## Innhold
 
@@ -114,7 +114,7 @@ Hvis du er usikker på hvilket hjelpemiddel som trengs, må du kontakte en fagpe
 - Bekreftelse fra fagperson på at du har en funksjonsvanske som hjelpemiddelet vil avhjelpe.
 - Bekreftelse på hvem som har påtatt seg ansvaret for opplæring og oppfølging av hjelpemidlet. Det er som oftest noen i kommunen din som har dette ansvaret.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -294,3 +294,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: bd056d8e620d9c2135f4b9b928ba217a50afb4e525e35fd64ff024d6ed18c045 -->
+<!-- innholds-hash: 89cb1f9c0bdbc0b734545fe16ccf72594b20cb58ccc36883bdfade9ee2ec1473 -->
 
 # Programvare for å lage trykt kommunikasjonsmateriell - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lage-trykt-kommunikasjonsmateriell
-- **Sist oppdatert i arkivet:** 2026-10-06T14:04:20Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:33:07Z
 
 ## Innhold
 
@@ -125,7 +125,7 @@ Hvis du er usikker på hvilket hjelpemiddel som trengs, må du kontakte en fagpe
 - Bekreftelse på at noen har påtatt seg ansvaret for opplæring og oppfølging av hjelpemidlet. Det er som oftest noen i kommunen på skolen eller i barnehagen din som har dette oppfølgingsansvaret.
 - Legg ved individuell opplæringsplan (IOP) dersom du har det.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -289,3 +289,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

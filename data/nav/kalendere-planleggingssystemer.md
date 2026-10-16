@@ -1,11 +1,11 @@
-<!-- innholds-hash: e70e13bc16e8eb0be3972aa1873414d34ff1c69cd881c7fb990abb8758f901ea -->
+<!-- innholds-hash: 8653c614464e29132ca70955a7372c7c53b8260d4ef76ac70c00b227eeb426a2 -->
 
 # Kalendere og planleggingssystemer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kalendere-planleggingssystemer
-- **Sist oppdatert i arkivet:** 2026-10-06T14:03:40Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:32:26Z
 
 ## Innhold
 
@@ -129,7 +129,7 @@ Hvis du er usikker på hvilket hjelpemiddel som trengs, må du kontakte en fagpe
 
 #### Søknad om hjelpemidler
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -310,3 +310,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

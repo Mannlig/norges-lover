@@ -1,11 +1,11 @@
-<!-- innholds-hash: 590269d6bbbd88506869c9c7f8f84557c17941435674178a0d07a00689e96b43 -->
+<!-- innholds-hash: b6df0fd6b74610c24d08beada6d35d48fff4498d8042a52896c23ac143250616 -->
 
 # Ganghjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ganghjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T13:56:40Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:27:32Z
 
 ## Innhold
 
@@ -284,7 +284,7 @@ Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta 
 
 [Rundskriv til Folketrygdlovens forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 05.10.2026
+Oppdatert 08.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -315,3 +315,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

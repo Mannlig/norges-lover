@@ -1,11 +1,11 @@
-<!-- innholds-hash: e2aea99cadb06098e69ac3984ff3726a1b6df6f0fddf1cef9a2b2b9f64a3ba9d -->
+<!-- innholds-hash: 1661000bc449e8a20f9c0cc1dd7af3bc17f46c5950bfad71cb84a941b4163f84 -->
 
 # Stemmeforsterkere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/stemmeforsterkere
-- **Sist oppdatert i arkivet:** 2026-10-06T14:19:33Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:45:59Z
 
 ## Innhold
 
@@ -124,7 +124,7 @@ Det viktigste er at dokumentasjonen viser at du har
 - vansker med tale eller språk
 - behov for alternativ og supplerende kommunikasjonshjelpemidler.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -292,3 +292,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f6b9b2095c068ccd3d19839b2098894db8b7684ce83d794ab45c3864e45f48c6 -->
+<!-- innholds-hash: 536782b1bcb2ccbf8526dedef53955f8cb2113b4cd796e531a24ec586e6fe833 -->
 
 # Programvare for lese- og skrivestøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lese-og-skrivestotte
-- **Sist oppdatert i arkivet:** 2026-10-06T14:05:00Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:33:52Z
 
 ## Innhold
 
@@ -83,13 +83,13 @@ Dokumentasjonen må vise at du har lese- og skrivevansker. En fagperson kan for 
 
 Du kan søke hjelpemidler på egen hånd, eller i samarbeid med skole eller pedagogisk-psykologisk tjeneste. Fyll ut søknadsskjema og legg ved dokumentasjon på lese- og skrivevansker.
 
-Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt. Hvis du søker for noen andre må du skrive ut skjema når det er ferdig utfylt, og sende det i posten. Dette gjelder også hvis du søker for eget barn.
+Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt. Du kan også søke digitalt når du søker på vegne av noen, og for egne barn. Du må logge inn via ID-porten og oppgi fødsels- og personnummer for den du søker på vegne av.
 
 Du må signere søknaden selv. Hvis du er under 18 år må en foresatt signere for deg.
 
 Dokumentasjon fra fagperson som viser at du har lese- og skrivevansker.
 
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -182,7 +182,7 @@ Hvis du overtar et dødsbo med hjelpemidler, skal du ta kontakt med kommunen som
 
 [Rundskriv til § 10-7 a, c og d samt annet og tredje ledd (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd#KAPITTEL_3-4)
 
-Oppdatert 05.12.2025
+Oppdatert 14.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -218,3 +218,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

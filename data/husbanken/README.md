@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 625
+**Antall dokumenter:** 626
 
 ## Innhold
 
@@ -655,6 +655,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 ### Samegiella
 
 - [Dutnje gii áiggut ohcat álggahanloana ja doarjaga](samegiella/alggahanloatna.md)
+- [Haddefálaldagas galget dát leat mielde](samegiella/doarjja-ahkeheivehuvvon/haddef%C3%A1laldagas.md)
 - [Doarjja iežas ásodaga ahkeheivehuvvon ođasmahttimii](samegiella/doarjja-ahkeheivehuvvon.md)
 - [Doarjja gielddas](samegiella/doarjja.md)
 - [Hukset birasustitlaš ásodaga dahje eallinagiásodaga](samegiella/hukset-asodaga.md)

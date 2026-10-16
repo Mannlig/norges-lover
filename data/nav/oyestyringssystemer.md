@@ -1,11 +1,11 @@
-<!-- innholds-hash: e5f1b074a6eb4f3779f407748939febda2d75080ccb86a6b74981004f4fa7ba5 -->
+<!-- innholds-hash: 0bbad65c5824d9472f8c06f4391a8f25ea3c3d33a7876080da1599689a7c3f88 -->
 
 # Øyestyringssystemer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oyestyringssystemer
-- **Sist oppdatert i arkivet:** 2026-10-06T14:12:30Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:41:04Z
 
 ## Innhold
 
@@ -125,11 +125,9 @@ Når du gir en fagperson fullmakt til å fylle ut og sende inn søknaden på din
 
 Du kan også søke selv, på vegne av eget barn eller for noen du er verge for. Vær oppmerksom på at kravene til dokumentasjon, kartlegging og begrunnelse er omfattende for denne typen hjelpemiddel. Det kan derfor være en fordel å la en fagperson utforme søknaden på dine vegne.
 
-Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt.
+Hvis du søker for deg selv, kan du logge inn og sende inn søknaden digitalt. Du kan også søke digitalt når du søker på vegne av noen, og for egne barn. Du må logge inn via ID-porten og oppgi fødsels- og personnummer for den du søker på vegne av.
 
-Hvis du søker på vegne av andre må du printe ut søknaden når den er ferdig utfylt, signere og sende i posten. Dette gjelder også ved søknad for eget barn.
-
-[Send søknad](https://www.nav.no/fyllut/nav100786)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
+[Send søknad](https://www.nav.no/start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100786/innsendingsvalg)
 
 #### Er du fagperson?
 
@@ -276,7 +274,7 @@ Hvis du ønsker å returnere hjelpemidler selv, må du fylle ut et skjema. Velg 
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv om stønadsformer og stønadssituasjoner (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd#ref/lov/1997-02-28-19/%C2%A710-7)
 
-Oppdatert 14.01.2026
+Oppdatert 14.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -312,3 +310,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

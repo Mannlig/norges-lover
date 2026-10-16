@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0bc167dc9cab025b1c84f05276fc1330070fde7cd181e4670c1bed66c3734e8e -->
+<!-- innholds-hash: 5e494694ef9e0a1bdff893042870850ef764b61e59cc80a76b73ab6e7a9661fc -->
 
 # Tilpasningskurs - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilpasningskurs
-- **Sist oppdatert i arkivet:** 2026-10-06T14:24:25Z
+- **Sist oppdatert i arkivet:** 2026-10-16T06:50:16Z
 
 ## Innhold
 
@@ -108,7 +108,7 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 12 uker |
+| Søknad | 9 uker |
 
 #### Klagerettigheter
 
@@ -132,7 +132,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 12 uker |
+| Klage til Nav-enhet | 10 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -179,3 +179,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)
