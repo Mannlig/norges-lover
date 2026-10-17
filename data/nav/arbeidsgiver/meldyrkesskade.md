@@ -1,11 +1,11 @@
-<!-- innholds-hash: 81a08c0599793d5470d72b735b0232261cf9917131c08cdc60dc34075a66dfb4 -->
+<!-- innholds-hash: 73430460ca5eb93e2d2d11e18073216db4e8ba8bd14cd8105af02405d45c2a7b -->
 
 # Meld yrkesskade eller yrkessykdom - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/meldyrkesskade
-- **Sist oppdatert i arkivet:** 2026-10-08T04:48:50Z
+- **Sist oppdatert i arkivet:** 2026-10-17T19:31:01Z
 
 ## Innhold
 
@@ -120,7 +120,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -139,3 +139,4 @@ Alltid åpen
 
 - **2026-06-05** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)
