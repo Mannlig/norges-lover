@@ -1,4 +1,4 @@
-<!-- innholds-hash: d6d1583bdcfe7accc7135d3e5466965cbb5e2fb91bfb6698fd25962bf3bde101 -->
+<!-- innholds-hash: 8385ece7e7bbc77129972fd1ad4546ac562336206b712b403c76fcca42fb70c6 -->
 
 # Kost og losji – sats for kostbesparelse
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/kostbesparelse/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T10:15:46Z
+- **Sist oppdatert i arkivet:** 2026-10-17T06:28:03Z
 
 ## Innhold
 
@@ -25,6 +25,8 @@ Reglene om maksimalt 24 måneder med fradrag hadde virkning fra og med inntekts�
 Begrensningen på 24 måneder for fradrag for merutgifter til kost og losji, vil fra 2025 ikke gjelde pendlere som bor på brakke.
 
 Skifter du kommune for både arbeidssted og pendlerbolig, kan fradrag gis i en ny 24-månedersperiode.
+
+24-månedersregelen medfører ikke at arbeidsgivers dekning av kost og losji under pendleropphold blir skattepliktig.
 
 Kari jobber i Trondheim og bor i Oslo med sin familie. Hun begynte å jobbe i Trondheim 01.01.2019 og hun krevde fradrag for husleie (losji) for sin pendlerbolig i Trondheim i skattemeldingen for 2019 og 2020.
 
@@ -63,3 +65,4 @@ Sats for kostbesparelse: 107 kroner per døgn.
 
 - **2026-05-11** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7b892103d2438223eff36f218ae7913e3fa932186fe84cf7dd391c78231b0344 -->
+<!-- innholds-hash: 2f4e52614f6189c93731ac100818f4cf81fe94a6158279a0d46eccc3cf32db4a -->
 
 # Tilskudd til ekspertbistand - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/ekspertbistand
-- **Sist oppdatert i arkivet:** 2026-10-07T01:17:45Z
+- **Sist oppdatert i arkivet:** 2026-10-17T08:12:58Z
 
 ## Innhold
 
@@ -160,7 +160,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -187,3 +187,4 @@ Alltid åpen
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

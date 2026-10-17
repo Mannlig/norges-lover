@@ -1,4 +1,4 @@
-<!-- innholds-hash: a8949cbed2bf40a9c931f1d7419e86511ed1d8b04f14372c4976d5e833df5fa3 -->
+<!-- innholds-hash: d390872d57fbfd81daa45b97623acca3d83d78f25f8450bd72b7ddb4c6753670 -->
 
 # Kost og losji - satser for trekk- og skattefri godtgjørelse
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/kost-og-losji-satser-for-trekk-og-skattefri-godtgjorelse/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T10:13:37Z
+- **Sist oppdatert i arkivet:** 2026-10-17T06:25:52Z
 
 ## Innhold
 
@@ -27,6 +27,8 @@ Reglene om maksimalt 24 måneder med fradrag hadde virkning fra og med inntekts�
 Begrensningen på 24 måneder for fradrag for merutgifter til kost og losji, vil fra 2025 ikke gjelde pendlere som bor på brakke.
 
 Skifter du kommune for både arbeidssted og pendlerbolig, kan fradrag gis i en ny 24-månedersperiode.
+
+24-månedersregelen medfører ikke at arbeidsgivers dekning av kost og losji under pendleropphold blir skattepliktig.
 
 Kari jobber i Trondheim og bor i Oslo med sin familie. Hun begynte å jobbe i Trondheim 01.01.2019 og hun krevde fradrag for husleie (losji) for sin pendlerbolig i Trondheim i skattemeldingen for 2019 og 2020.
 
@@ -127,3 +129,4 @@ Ulegitimert nattillegg for losji på innenlandsreiser kan dekkes trekkfritt og s
 
 - **2026-05-11** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3f793c8a607aea041adc1645c298b794c147a7b30eb96c9c094993d6496e0342 -->
+<!-- innholds-hash: 951189e94bc6f42e8635b690637222793963ff9f164b180f30a112ea23f49a1c -->
 
 # Dekking av sykepenger i arbeidsgiverperioden - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/kroniker-gravid
-- **Sist oppdatert i arkivet:** 2026-10-07T01:19:10Z
+- **Sist oppdatert i arkivet:** 2026-10-17T08:14:22Z
 
 ## Innhold
 
@@ -163,7 +163,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -190,3 +190,4 @@ Alltid åpen
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)
