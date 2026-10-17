@@ -1,11 +1,11 @@
-<!-- innholds-hash: eb2b2e6f484fb96778ac2e2fb73ca15e9a3207da93c6733f268d6fe11a78252f -->
+<!-- innholds-hash: 84019a34f03cc7a035f044d6765d5e0dbe85fa6c2a365750cd24fb59aef18ab6 -->
 
 # Veiledning til føring av statistikk over sykefravær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/fore-sykefravar
-- **Sist oppdatert i arkivet:** 2026-10-08T04:40:22Z
+- **Sist oppdatert i arkivet:** 2026-10-17T14:09:38Z
 
 ## Innhold
 
@@ -176,7 +176,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -201,3 +201,4 @@ Alltid åpen
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

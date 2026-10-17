@@ -1,11 +1,11 @@
-<!-- innholds-hash: 4ac1be809d51a4628a021b07b75f305308655f3141312d78894ab8d82ba4c503 -->
+<!-- innholds-hash: a672b9558564b588a8ba1a32459ad0bc59cf6cee732357b5129dfba5447078b4 -->
 
 # Permittere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/permittere
-- **Sist oppdatert i arkivet:** 2026-10-08T04:27:48Z
+- **Sist oppdatert i arkivet:** 2026-10-17T13:58:24Z
 
 ## Innhold
 
@@ -263,7 +263,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -288,3 +288,4 @@ Alltid åpen
 - **2026-06-13** Innhold endret (se git-historikk for diff)
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0202448576725dd46eaa7c74f8ffde67778f3be7b76c1448da8526054ef89269 -->
+<!-- innholds-hash: 22e622ff5ef2b64be576be119acff6f6936ed4b656f210b1d065d08b0a68e0cc -->
 
 # Opphold i land utenfor EØS - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opphold-utenfor-eos
-- **Sist oppdatert i arkivet:** 2026-10-08T04:23:32Z
+- **Sist oppdatert i arkivet:** 2026-10-17T13:54:10Z
 
 ## Innhold
 
@@ -346,7 +346,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -356,7 +356,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -369,3 +369,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

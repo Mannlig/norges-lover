@@ -1,11 +1,11 @@
-<!-- innholds-hash: e716610ecbe68fffa0d5c13a0addb5847852d779c2957277d3f018fe4e158269 -->
+<!-- innholds-hash: f770d031608af7eb84166edc9cf82177587c85837e32fbeb7552cca0924c95a7 -->
 
 # Arbeids- og utdanningsreiser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/arbeids-utdanningsreiser
-- **Sist oppdatert i arkivet:** 2026-10-08T04:29:50Z
+- **Sist oppdatert i arkivet:** 2026-10-17T13:59:07Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -114,3 +114,4 @@ Alltid åpen
 - **2026-06-20** Innhold endret (se git-historikk for diff)
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

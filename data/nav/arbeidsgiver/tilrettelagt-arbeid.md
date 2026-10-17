@@ -1,11 +1,11 @@
-<!-- innholds-hash: b5c939dce992dfab5d59f194302d226dc794ef8804f0de38d5de0b3e479d8e2b -->
+<!-- innholds-hash: 0cdb1478327aa59f4b53d875769b4d660e4adace25d31b167efbd260caec3372 -->
 
 # Tilrettelagt arbeid i ordinær virksomhet (TA-O) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/tilrettelagt-arbeid
-- **Sist oppdatert i arkivet:** 2026-10-08T04:35:31Z
+- **Sist oppdatert i arkivet:** 2026-10-17T14:04:45Z
 
 ## Innhold
 
@@ -54,7 +54,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -64,7 +64,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -74,3 +74,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-17** Innhold endret (se git-historikk for diff)

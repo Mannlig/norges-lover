@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1900
+**Antall dokumenter:** 1901
 
 ## Innhold
 
@@ -1906,6 +1906,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd](2025-2029/200471-innstilling-fra-valgkomiteen-om-valg-av-medlemmer-og-varamedlemmer-til-nordisk-rad.md)
 - [Petroleumsskattelovgivningen – teknisk revisjon](2025-2029/200472-petroleumsskattelovgivningen-teknisk-revisjon.md)
 - [Petroleumsskattelovgivningen – teknisk revisjon](2025-2029/200473-petroleumsskattelovgivningen-teknisk-revisjon.md)
+- [Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026](2025-2029/200475-redegjorelse-av-utenriksministeren-om-viktige-eu-og-eos-saker-i-2026.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
