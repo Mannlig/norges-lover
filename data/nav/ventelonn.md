@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3756fe3237d0ec8f94ddfc4a4abeb28f821efbb5fd2b7faa1c3defaefc58cca8 -->
+<!-- innholds-hash: 4b4b44078f8f40ddf15bc853bbf219aad3c9f0e72fd7a4118c3697b832baadc1 -->
 
 # Ventelønn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ventelonn
-- **Sist oppdatert i arkivet:** 2026-10-07T01:05:01Z
+- **Sist oppdatert i arkivet:** 2026-10-17T02:29:07Z
 
 ## Innhold
 
@@ -263,7 +263,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -273,7 +273,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -290,3 +290,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

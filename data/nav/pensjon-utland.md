@@ -1,11 +1,11 @@
-<!-- innholds-hash: ac91925af42288705a26ee6e426b39bf4c9441ce8f4f23c61a48808f27cdf25b -->
+<!-- innholds-hash: 821c1afd4c22c6e0676284fac38c7c32d752137de9b1ec0748c202e39ddff487 -->
 
 # Har bodd eller jobbet i flere land - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon-utland
-- **Sist oppdatert i arkivet:** 2026-10-07T00:29:31Z
+- **Sist oppdatert i arkivet:** 2026-10-17T02:03:21Z
 
 ## Innhold
 
@@ -130,7 +130,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/skriv-til-oss)
 
@@ -140,7 +140,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -155,3 +155,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 41a5d55883c7b01d3bbf25d16462ac556e517d891efc41a0e0e36d72fd60af39 -->
+<!-- innholds-hash: d31c82c8a47c0546d64b9913dfa67f5ed072f2e0d69a5b39d54753964b1fd337 -->
 
 # Brukerpass - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/brukerpass
-- **Sist oppdatert i arkivet:** 2026-10-07T00:41:47Z
+- **Sist oppdatert i arkivet:** 2026-10-17T02:10:20Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Dersom hjelpemiddelet ikke lenger dekker dine behov, ta kontakt med hjelpemiddel
 
 Dersom du ønsker å bytte fra en type hjelpemiddel til et annet, for eksempel fra manuell til elektrisk rullestol, må vi gjøre et nytt vedtak. Med brukerpass har du en enklere formidlingsløype ved at du for eksempel kan gå direkte til hjelpemiddelsentralen for informasjon, utprøving og valg av produkt.
 
-[Bytt hjelpemiddel](https://www.nav.no/fyllut/nav100731/pdf)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav100731)
+[Bytt hjelpemiddel](https://www.nav.no/fyllut/nav100731/pdf)[Ettersend dokumentasjon](https://www.nav.no/fyllut/nav100731/pdf?type=ettersending)
 
 Har du har kjørehansker eller mobilitetsstokk og disse er utslitte eller defekte kan du selv bytte disse ved å gå via din hjelpemiddeloversikt på nav.no.
 
@@ -105,7 +105,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/brukerpass) av norges-lover-bot.*
@@ -119,3 +119,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 78ed985ee30d31af56afbfac0f3f800495ce6a0ef30cea7456e56cee09a6f16e -->
+<!-- innholds-hash: bfe1c2cc5333c8fba7ed01b4382fbd3367750eebfd96ffa1dbdc4a9537322d27 -->
 
 # Skattekort – bestille, se eller endre
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekort/bestille-endre/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T21:17:13Z
+- **Sist oppdatert i arkivet:** 2026-10-16T23:53:40Z
 
 ## Innhold
 
@@ -108,7 +108,7 @@ Hvis du vil bestille eller endre skattekortet på papir, må du laste ned, print
 
 [er næringsdrivende](https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/forskuddsskatt/)
 
-[er utenlandsk arbeidstaker](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/)
+[er utenlandsk arbeidstaker](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/)
 
 [er grensegjenger](https://www.skatteetaten.no/person/skatt/skattekort/grensegjenger-skattekort/)
 
@@ -131,3 +131,4 @@ Hvis du vil bestille eller endre skattekortet på papir, må du laste ned, print
 
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

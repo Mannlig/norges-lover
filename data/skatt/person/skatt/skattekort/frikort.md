@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9bec702e855c16441c7e1319426539ac2e4a98407aa647793922c1f5f328b538 -->
+<!-- innholds-hash: d2f2a54c90bcb1bf247f1636ab46b39242e94203b1346e5b8d808d97910b5f0c -->
 
 # Frikort – se, bestille og fordele mellom arbeidsgivere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekort/frikort/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T21:18:19Z
+- **Sist oppdatert i arkivet:** 2026-10-16T23:54:44Z
 
 ## Innhold
 
@@ -75,7 +75,7 @@ Barn under 13 år kan tjene inntil 10 000 kroner skattefritt i løpet av et innt
 
 Arbeidsgiver må søke om forhåndssamtykke fra Arbeidstilsynet, og [det er foresatte som må bestille frikort eller skattekort.](https://www.skatteetaten.no/person/skatt/skattekort/arbeidsinntekt-til-barn-under-13-ar/)
 
-[Finn ut hvilke regler som gjelder for deg som er utenlandsk arbeidstaker](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/) og skal jobbe i Norge.
+[Finn ut hvilke regler som gjelder for deg som er utenlandsk arbeidstaker](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/) og skal jobbe i Norge.
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/skattekort/frikort/) av norges-lover-bot.*
@@ -84,3 +84,4 @@ Arbeidsgiver må søke om forhåndssamtykke fra Arbeidstilsynet, og [det er fore
 
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-10-16** Innhold endret (se git-historikk for diff)

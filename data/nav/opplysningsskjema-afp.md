@@ -1,11 +1,11 @@
-<!-- innholds-hash: 22fe618aac0abbe786fdb9234ae65239a97dab392c2057f78dc3e9dca32f0c71 -->
+<!-- innholds-hash: 8a5907d0ebf522ab9710b8d9b511d63ae389247dff115b16bdbfb21926320914 -->
 
 # Opplysningsskjema for avtalefestet pensjon (AFP) fra Statens pensjonskasse - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplysningsskjema-afp
-- **Sist oppdatert i arkivet:** 2026-10-07T00:48:07Z
+- **Sist oppdatert i arkivet:** 2026-10-17T02:14:38Z
 
 ## Innhold
 
@@ -247,13 +247,13 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -270,3 +270,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-17** Innhold endret (se git-historikk for diff)
