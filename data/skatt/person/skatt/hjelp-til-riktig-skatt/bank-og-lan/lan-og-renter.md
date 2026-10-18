@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9f6a383e39fe177d227c13b232a25d435965e9ef2085b79ff98dda8d54992d58 -->
+<!-- innholds-hash: 61fd536032c773f1cb984e50c946c984db288d44cb4fab35b96541eb937b619f -->
 
 # Lån og renter på lån
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bank-og-lan/lan-og-renter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T22:29:35Z
+- **Sist oppdatert i arkivet:** 2026-10-18T11:54:10Z
 
 ## Innhold
 
@@ -230,7 +230,7 @@ Hvis du har fastrente, er det ekstra viktig at du sjekker skattekortet. Hvis ska
 
 #### 2. Sjekk skattemeldingen som kommer i mars
 
-Du må selv legge til [lån og renter på lån i utlandet](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/lan-i-utlandet/) i skattemeldingen.
+Du må selv legge til [lån og renter på lån i utlandet](https://www.skatteetaten.no/person/til-fra-norge/verdier/lan/) i skattemeldingen.
 
 Du må kunne legge frem dokumentasjon hvis vi spør. Dokumentasjon kan for eksempel være en låneavtale eller bekreftelse fra de du har lånt penger av, og kontoutskrift som viser utbetaling av lånet til deg. Låneavtalen må inneholde informasjon om lånepartene, rentevilkår og tilbakebetalingsvilkår.
 
@@ -263,3 +263,4 @@ Hvis du mener at beløpene er feil, bør du ta kontakt med banken din.
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-10-18** Innhold endret (se git-historikk for diff)

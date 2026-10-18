@@ -1,4 +1,4 @@
-<!-- innholds-hash: 821132a4ef8adc4b91f04113d3fa24b8b879fda2accc04025df1aa10b0aec46b -->
+<!-- innholds-hash: 1aef4f0abe39fedde786658cb1b8868f8bedf0ed0c2243c1774f96cb8c70261f -->
 
 # Skattemeldingen – se, endre eller levere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattemelding/skattemelding-for-person/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T22:56:58Z
+- **Sist oppdatert i arkivet:** 2026-10-18T12:20:52Z
 
 ## Innhold
 
@@ -101,7 +101,6 @@ Få hjelp til å få riktig skatt.
 - [Gave og arv](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/gave-og-arv/)
 - [Næring](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/)
 - [Ungdom og arbeid](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/ungdom-arbeid-og-skatt/)
-- [Utland](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/)
 - [Verdsettingsrabatt ved fastsetting av formue](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/verdsettingsrabatt-ved-fastsetting-av-formue/)
 
 ### Kontonummer, restskatt og skatt til gode
@@ -154,7 +153,7 @@ Har du endringer?
 
 Du kan fortsatt [endre eldre skattemeldinger](https://www.skatteetaten.no/person/skatt/skattemelding/skattemelding-for-person/tidligere-ars-skattemelding/) 3 år tilbake i tid.
 
-Er du utenlandsk arbeidstaker som ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/), kan du be om tidlig innsending av skattemeldingen (forhåndsfastsetting) slik at behandlingen blir ferdig før arbeidsoppholdet ditt i Norge avsluttes.
+Er du utenlandsk arbeidstaker som ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/), kan du be om tidlig innsending av skattemeldingen (forhåndsfastsetting) slik at behandlingen blir ferdig før arbeidsoppholdet ditt i Norge avsluttes.
 
 [Les mer om hva du må gjøre](https://www.skatteetaten.no/person/skatt/skattemelding/skattemelding-for-person/skattemelding-for-tidlig-innsending---utenlandsk-arbeidstaker/)
 
@@ -181,3 +180,4 @@ Hvis du ikke har fått foreløpig skatteberegning på skattemeldingen din, kan d
 
 - **2026-05-11** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-10-18** Innhold endret (se git-historikk for diff)
