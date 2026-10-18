@@ -1,11 +1,11 @@
-<!-- innholds-hash: fee0373fb2894661e6f5005f515d513876065279983ccf6c108d54c0e9750930 -->
+<!-- innholds-hash: f0768831a1577646221872e7ade7702cec78ba3f74f12d13a10923d678196257 -->
 
 # Familie - statistikk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk
-- **Sist oppdatert i arkivet:** 2026-10-08T13:15:52Z
+- **Sist oppdatert i arkivet:** 2026-10-18T01:24:36Z
 
 ## Innhold
 
@@ -13,7 +13,7 @@
 
 ### [Kontantstøtte](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte)
 
-Statistikk per 30. juni 2026
+Statistikk per 30. september 2026
 
 ### [Foreldrepenger, engangsstønad og svangerskapspenger](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger)
 
@@ -65,3 +65,4 @@ Tematiske notiser
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-18** Innhold endret (se git-historikk for diff)

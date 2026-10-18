@@ -1,19 +1,23 @@
-<!-- innholds-hash: 4beb5387714b35104e4eb9ae991f1b7ec610a0e114f641f86c7fa72e8b6a6560 -->
+<!-- innholds-hash: 2a2b49837446be9bfe293e4bdac889845c8d179317c4b92490b193d8c04351e5 -->
 
 # Analyser - sosiale tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/analyser-sosiale-tjenester
-- **Sist oppdatert i arkivet:** 2026-10-08T12:57:03Z
+- **Sist oppdatert i arkivet:** 2026-10-18T01:05:50Z
 
 ## Innhold
 
-Publisert 12.12.2016 | Oppdatert 18.06.2025
+Publisert 12.12.2016 | Oppdatert 12.10.2026
 
 ## Analyser - sosiale tjenester
 
 Her finner du analyser om sosiale tjenester, fattigdom og levekår.
+
+#### 2026
+
+- [Utviklingen i sosialhjelp 2025 – veksten har stanset opp](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026/utviklingen-i-sosialhjelp-2025-veksten-har-stanset-opp) (Arbeid og velferd nr.2-2026)
 
 #### 2025
 
@@ -100,3 +104,4 @@ Her finner du analyser om sosiale tjenester, fattigdom og levekår.
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-18** Innhold endret (se git-historikk for diff)

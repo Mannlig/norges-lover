@@ -1,15 +1,15 @@
-<!-- innholds-hash: b58fa7227c62f8e33bdbb768697dee867eb95af72537be5452a1a39078699d93 -->
+<!-- innholds-hash: 0c7866bd895c7e01d65b396684f9489d7d063b42d0386d1fcb6458d44c346c5a -->
 
 # Arbeid og velferd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd
-- **Sist oppdatert i arkivet:** 2026-10-08T12:59:50Z
+- **Sist oppdatert i arkivet:** 2026-10-18T01:08:41Z
 
 ## Innhold
 
-Publisert 10.03.2021 | Oppdatert 10.06.2026
+Publisert 10.03.2021 | Oppdatert 12.10.2026
 
 ## Arbeid og velferd
 
@@ -33,6 +33,7 @@ Andre bolk publiseres i august og tredje bolk i oktober. Boken er åpen for alle
 
 #### Arbeid og velferd nr. 2 2026
 
+- [Utviklingen i sosialhjelp 2025 – veksten har stanset opp](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026/utviklingen-i-sosialhjelp-2025-veksten-har-stanset-opp)
 - [Utviklingen på arbeidsmarkedet. Navs arbeidsmarkedsprognose, 26-2](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026/utviklingen-pa-arbeidsmarkedet.navs-arbeidsmarkedsprognose-26-2)
 
 #### Meld deg på nyhetsbrevet
@@ -63,3 +64,4 @@ Nav-rapportserie inneholder analyser om ulike temaer, utredninger og undersøkel
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-18** Innhold endret (se git-historikk for diff)
