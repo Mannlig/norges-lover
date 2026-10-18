@@ -1,31 +1,36 @@
-<!-- innholds-hash: 4f2a1ef699d4e9c842fec988e184d4ed9be73dd54d279c8b86c6c1c43d18e05b -->
+<!-- innholds-hash: 9b646262c114481f645ed73eaf9ff36ff60e4f76387dd820c4cd77a8840de0f0 -->
 
 # Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte
-- **Sist oppdatert i arkivet:** 2026-10-08T13:24:16Z
+- **Sist oppdatert i arkivet:** 2026-10-18T07:52:15Z
 
 ## Innhold
 
-Publisert 23.01.2020 | Oppdatert 18.08.2026
+Publisert 23.01.2020 | Oppdatert 15.10.2026
 
 ## Kontantstøtte
 
-Statistikk per 30. juni 2026
+Statistikk per 30. september 2026
 
 #### Tabeller
 
-- [Mottakere. Kjønn og alder. 30. juni 2018-2026. Antall](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/kontantstotte.mottakere.kjonn-og-alder.juni-2017-2026)
-- [Mottakere. Fylke. 30. juni 2018-2026. Antall](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/kontantstotte.mottakere.fylke.juni-2018-2026)
-- [Barn. Fylke. 30. juni 2018-2026. Andel](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/andel-kontantstottebarn-av-barn-i-kontantstottealder.fylke.juni-2018-2026)
+- [Mottakere. Kjønn og alder. 30. september 2018-2026. Antall](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/kontantstotte.mottakere.kjonn-og-alder.september-2018-2026)
+- [Mottakere. Fylke. 30. september 2018-2026. Antall](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/kontantstotte.mottakere.fylke.september-2018-2026)
+- [Barn. Fylke. 30. september 2018-2026. Andel](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/tabeller/andel-kontantstottebarn-av-barn-i-kontantstottealder.fylke.september-2018-2026)
+- [Barn. Fylke og kommune. Antall og andel. 30. september 2026 (xls)](https://www.nav.no/_/attachment/download/95dbb60e-efa0-46f9-96cb-f96d5013362e:7d3b7a294026c82c18dbc44909e9dce128a279be/KON001x%20Kontantst%C3%B8tte.%20Barn%20med%20kontantst%C3%B8tte.%20Fylke%20og%20kommune.%20September%202026.xlsx)
 
-#### Nedgangen i antall mottakere av kontantstøtte flater ut
+#### Fortsatt nedgang i antall mottakere av kontantstøtte
 
-I juni 2026 var det 12 771 personer som mottok kontantstøtte. Det er 524 færre enn i samme periode i 2025. De siste årene har antallet som mottar kontantstøtte gått kraftig ned, men vi ser nå en utflating av denne trenden.
+I september 2026 var det 2 781 personer som mottok kontantstøtte. Det er en nedgang på 900 mottakere fra september 2026, noe som tilsvarer en reduksjon på 24,6 prosent. Andelen barn det ble utbetalt kontantstøtte for var 7,9 prosent, en nedgang fra 10,9 prosent i september 2025.
 
-Andelen barn det ble utbetalt kontantstøtte for var 40,1 prosent. Det er en nedgang fra 44,2 prosent i juni 2025.
+De siste årene har antallet mottakere av kontantstøtte gått kraftig ned. Sammenlignet med september 2018 har antallet falt med 8 381 mottakere, noe som tilsvarer en nedgang på 75 prosent. Vi kan også si at antall mottakere i september 2026 er på nivå med Oslo og Akershus sammenlagt i september 2018. Andelen barn det utbetales for nå (7,9) er en tredjedel av andelen på 21,3 prosent i september 2018.
+
+#### Fortsatt høyest bruk i Agder, lavest i Nordland
+
+Det er fortsatt store fylkesvise forskjeller i bruken av kontantstøtte. I september 2026 var andelen høyest i Agder, der 14,9 prosent av barna ble det utbetalt kontantstøtte for. Lavest var andelen i Nordland hvor 5,1 prosent mottok kontantstøtte.
 
 ### Fakta
 
@@ -49,3 +54,4 @@ Relevante artikler om kontantstøtte i Navs tidsskrift Arbeid og velferd:
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-18** Innhold endret (se git-historikk for diff)
