@@ -1,15 +1,15 @@
-<!-- innholds-hash: dbef1a06d93ade8d01aa1b14f732721e683236a0f494f6c904b4b8bd1ea836b2 -->
+<!-- innholds-hash: 011b078899f873538334b3beb6d139e07e88e9088101bfd4441ff5e80031c734 -->
 
 # Navs omverdensanalyse 2025–2035 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/nav-rapportserie/navs-omverdensanalyse-20252035
-- **Sist oppdatert i arkivet:** 2026-10-08T22:00:18Z
+- **Sist oppdatert i arkivet:** 2026-10-18T20:09:08Z
 
 ## Innhold
 
-Publisert 20.05.2025 | Oppdatert 27.07.2026
+Publisert 20.05.2025 | Oppdatert 12.10.2026
 
 ## Navs omverdensanalyse 2025–2035
 
@@ -17,12 +17,12 @@ Nav-rapport nr. 5 - 2025
 
 Samfunnet endrer seg raskt, og Nav må tilpasse seg nye utfordringer og muligheter. Navs omverdensanalyse 2025–2035 vurderer hvilke samfunnstrender som kan bli de viktigste for Nav mot 2035, hvilke som er mest usikre og hvilke konsekvenser trendene kan få for Nav.
 
-- [Les Navs omverdensanalyse 2025–2035](https://data.nav.no/fortelling/omverdensanalysen2025/) (nettversjon)
-- [Last ned Navs omverdensanalyse 2025–2035](https://www.nav.no/_/attachment/download/9038c524-64bf-4f6d-a247-dbaeaa590f2a:d16634f0935103862a48f4f63603f079c1eac484/Navs%20omverdensanalyse%202025-2035%20(1).pdf) (pdf)
+- [Les Navs omverdensanalyse 2025–2035](https://data.nav.no/fortelling/omverdensanalysen2025/) (rapport, nettversjon)
+- [Last ned Navs omverdensanalyse 2025–2035](https://www.nav.no/_/attachment/download/9038c524-64bf-4f6d-a247-dbaeaa590f2a:7580a25952ffb545a42deb10f58d98727d71fe21/Navs%20omverdensanalyse%202025-2035.pdf) (rapport, pdf)
 - [Read the English summary of Nav’s Horizon Scan 2025–2035](https://data.nav.no/fortelling/omverdensanalysen2025/kapitler/ferdig_versjon/english.html)
 - Prøv vårt nye [demografiverktøy](https://demografiverktoy.nav.no/) som gir innsikt i den lokale befolkningsutviklingen
-- [Last ned presentasjon av omverdensanalysen (ppt)](https://www.nav.no/_/attachment/download/7fe2e306-f083-45f2-8172-4d0fa156f774:f7759cdeb66cf5cfdb13b9a8d76eabc6b62dafb3/Navs%20omverdensanalyse%202025-2035%20(presentasjon).pptx)
-- [Last ned presentasjon av omverdensanalysen (pdf)](https://www.nav.no/_/attachment/download/e45e367e-cadc-4b84-849a-e007acf55b31:c4a7e5305278cc5cc2f48a82f32727d3c5ca1269/Navs%20omverdensanalyse%202025-2035%20(presentasjon).pdf)
+- [Last ned presentasjon av omverdensanalysen (ppt, oppdatert oktober 2026)](https://www.nav.no/_/attachment/download/7fe2e306-f083-45f2-8172-4d0fa156f774:01bfd65ffa0cabe23b6a2def0fc5ec4a3dace117/Navs%20omverdensanalyse%202026-2035.pptx)
+- [Last ned presentasjon av omverdensanalysen (pdf, oppdatert oktober 2026)](https://www.nav.no/_/attachment/download/e45e367e-cadc-4b84-849a-e007acf55b31:08934ebd343b457fe0000fb4e265248b1292c8ab/Navs%20omverdensanalyse%202026-2035%20(presentasjon).pdf)
 - [Download English version of the presentation (ppt)](https://www.nav.no/_/attachment/inline/6b850268-e0ee-4fea-b24a-861de9590baa:afb59b83d8374429c8dd70035bcbf968106807db/Nav's%20Horizon%20Scan%202025-2035.pptx)
 - [Download English version of the presentation (pdf)](https://www.nav.no/_/attachment/download/6c01080b-4006-46f6-8621-faa913364468:d7611843896bd2e9ab49d4ea11da214158a28b86/Nav's%20Horizon%20Scan%202025-2035.pdf)
 
@@ -51,3 +51,4 @@ Se også lokale omverdensanalyser:
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-10-18** Innhold endret (se git-historikk for diff)

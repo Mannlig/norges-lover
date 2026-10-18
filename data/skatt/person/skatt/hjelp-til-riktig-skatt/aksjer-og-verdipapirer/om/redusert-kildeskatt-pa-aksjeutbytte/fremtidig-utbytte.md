@@ -1,4 +1,4 @@
-<!-- innholds-hash: bee6a719bd3d4f11e864c9b239f719502da4c2bac5d7bc25816cb230d6e48474 -->
+<!-- innholds-hash: 1d70edf13f5c4a04585f899847293244d87afc00e4d821096d293799e7a5c312 -->
 
 # Redusert kildeskatt på fremtidig aksjeutbytte for utenlandske aksjonærer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/redusert-kildeskatt-pa-aksjeutbytte/fremtidig-utbytte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:00:37Z
+- **Sist oppdatert i arkivet:** 2026-10-18T18:23:12Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ For å ha krav på redusert kildeskatt, må du
 - være skattemessig bosatt i [et land som har skatteavtale med Norge](https://www.regjeringen.no/no/tema/okonomi-og-budsjett/skatter-og-avgifter/skatteavtaler/kildesatser/id414630/)
 - ikke være skattemessig bosatt i Norge
 
-Har du tidligere vært bosatt i Norge, må du være [skattemessig emigrert](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/skattemessig-emigrasjon/) før du kan kreve redusert kildeskattesats.
+Har du tidligere vært bosatt i Norge, må du være [skattemessig emigrert](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/skattemessig-emigrasjon/) før du kan kreve redusert kildeskattesats.
 
 For å ha krav på fritak, må selskapet:
 
@@ -214,9 +214,9 @@ Dokumentasjonskravene gjelder også for overnasjonale organisasjoner.
 
 Som alternativ til en forhåndsgodkjenning eller vedtak om refusjon av kildeskatt, kan overnasjonale organisasjoner legge frem en henvisning til en traktat som eksplisitt sier at organisasjonen er unntatt fra skatt i medlemslandene.
 
-Når du er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/), kan du ikke kreve redusert kildeskatt på aksjeutbytte.
+Når du er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/), kan du ikke kreve redusert kildeskatt på aksjeutbytte.
 
-Hvis selskapet som utbetaler utbyttet er usikre på om du er skattemessig bosatt i Norge eller i et annet land, kan du [be oss om en bostedsbekreftelse](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/bekreftelse-pa-skattemessig-bosted-for-privatpersoner-og-enkeltpersonforetak-enk/) for å få bekreftet din globalskatteplikt til Norge etter norsk internrett.
+Hvis selskapet som utbetaler utbyttet er usikre på om du er skattemessig bosatt i Norge eller i et annet land, kan du [be oss om en bostedsbekreftelse](https://www.skatteetaten.no/person/til-fra-norge/verdier/bekreftelse-skattemessig-bosted/) for å få bekreftet din globalskatteplikt til Norge etter norsk internrett.
 
 ### Kontakt oss
 
@@ -238,3 +238,4 @@ Husk at du ikke må dele sensitive opplysninger når du ikke er logget inn.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-18** Innhold endret (se git-historikk for diff)

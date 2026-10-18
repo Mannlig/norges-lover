@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2322c0ae43a5030523a9c57f4ebd56be04565d2422eb28e92ff95c62bf75681f -->
+<!-- innholds-hash: 4d6483b445450bf55b8d3840c25ed511ab618829c236ad78f32ee43887a7b134 -->
 
 # Refusjon av kildeskatt på aksjeutbytte for utenlandske aksjonærer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/redusert-kildeskatt-pa-aksjeutbytte/refusjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:01:42Z
+- **Sist oppdatert i arkivet:** 2026-10-18T18:24:14Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ For å ha krav på refusjon av kildeskatt, må du
 - være bosatt i et EØS-land eller i [et land som har skatteavtale med Norge](https://www.regjeringen.no/no/tema/okonomi-og-budsjett/skatter-og-avgifter/skatteavtaler/kildesatser/id414630/)
 - ikke være skattemessig bosatt i Norge
 
-Har du tidligere vært bosatt i Norge, må du være [skattemessig emigrert](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/skattemessig-emigrasjon/) før du kan kreve redusert kildeskattesats.
+Har du tidligere vært bosatt i Norge, må du være [skattemessig emigrert](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/skattemessig-emigrasjon/) før du kan kreve redusert kildeskattesats.
 
 Merk: Vi utbetaler ikke beløp på mindre enn 50 kroner (inklusive renter).
 
@@ -240,13 +240,13 @@ Dokumentasjonskravene gjelder også for internasjonale organisasjoner.
 
 Som alternativ til registreringsbevis eller bostedsbekreftelse, kan internasjonale organisasjoner legge frem en henvisning til en traktat som eksplisitt sier at organisasjonen er unntatt skatt fra medlemslandene.
 
-Hvis du er [globalskattepliktig til Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/), men bor i utlandet, kan det hende du feilaktig har blitt trukket kildeskatt på aksjeutbytte.
+Hvis du er [globalskattepliktig til Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/), men bor i utlandet, kan det hende du feilaktig har blitt trukket kildeskatt på aksjeutbytte.
 
 Er du globalskattepliktig til Norge og har blitt trukket kildeskatt, kan du søke om tilbakebetaling.
 
 [Søk om tilbakebetaling](https://www.skatteetaten.no/kontakt/skriv/?593293=607687__593293)
 
-Hvis selskapet som utbetaler utbyttet er usikre på om du er skattemessig bosatt i Norge eller i et annet land, kan du [be oss om en bostedsbekreftelse](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/bekreftelse-pa-skattemessig-bosted-for-privatpersoner-og-enkeltpersonforetak-enk/) for å få bekreftet bosted etter norsk internrett.
+Hvis selskapet som utbetaler utbyttet er usikre på om du er skattemessig bosatt i Norge eller i et annet land, kan du [be oss om en bostedsbekreftelse](https://www.skatteetaten.no/person/til-fra-norge/verdier/bekreftelse-skattemessig-bosted/) for å få bekreftet bosted etter norsk internrett.
 
 ### Kontakt oss
 
@@ -272,3 +272,4 @@ Søknader som blir sendt til e-postadressen, vil ikke bli behandlet.
 - **2026-05-20** Første gang hentet
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-18** Innhold endret (se git-historikk for diff)
