@@ -1,4 +1,4 @@
-<!-- innholds-hash: bddd1d218f5d85a8c36e57d960c456a865c41c0d9c22aa12413a77b2bd210bd4 -->
+<!-- innholds-hash: 8db7707a40159540632dde6fe9544869a8cbce593ccd19a74a99732adb6f1b4a -->
 
 # Slik trekker du riktig skatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/slik-trekker-du-riktig-skatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:22:22Z
+- **Sist oppdatert i arkivet:** 2026-10-19T06:31:29Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Informer om at det blir trukket 50 prosent i skatt av lønn. Av pensjon og andre
 
 6
 
-[Utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/veiviser-utland/) som skal oppholde seg og jobbe i Norge for en kortere periode, får tildelt D-nummer.
+[Utenlandske arbeidstakere](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/veiviser/) som skal oppholde seg og jobbe i Norge for en kortere periode, får tildelt D-nummer.
 
 Ettersom oppholdet er midlertidig vil man kun motta skattekort for inneværende år. [Du som arbeidsgiver kan søke om skattekort for en utenlandsk arbeidstaker.](https://www.skatteetaten.no/skjema/skattekort-pa-vegne-av-utenlandsk-arbeidstaker/)
 
@@ -112,7 +112,7 @@ Får du inn nyansatte i løpet av året, bør det å avklare om du er hoved- ell
 
 Dersom du ikke får avklart om du er hoved- eller biarbeidsgiver, skal du trekke etter prosent. [Se Skattebetalingsforskriften § 5-1-4 (3)](https://lovdata.no/dokument/SF/forskrift/2007-12-21-1766#KAPITTEL_2)
 
-Har den ansatte [skattekort for kildeskatt på lønn](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/kildeskatt-pa-lonn/), skal du trekke etter den faste prosentsatsen som fremgår av skattekortet alle måneder (også i feriepenger og i lønn før jul).
+Har den ansatte [skattekort for kildeskatt på lønn](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/kildeskatt-pa-lonn/), skal du trekke etter den faste prosentsatsen som fremgår av skattekortet alle måneder (også i feriepenger og i lønn før jul).
 
 #### Skattetrekk av alderspensjon
 
@@ -211,3 +211,4 @@ Dersom du har foretatt forskuddstrekk etter gammelt skattekort fordi du ikke had
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

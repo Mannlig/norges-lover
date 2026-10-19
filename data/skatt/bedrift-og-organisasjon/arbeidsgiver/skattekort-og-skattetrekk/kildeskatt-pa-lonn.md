@@ -1,4 +1,4 @@
-<!-- innholds-hash: 91414b3bd0053d2f2b498e678c94ad6ba97087ad76a4e4f942c97fc7abfa9552 -->
+<!-- innholds-hash: 207d126ca5948e6ec64f3d942e93d7733008a5c525631e2f71dd19285f706309 -->
 
 # Arbeidsgiver med arbeidstakere i kildeskatt på lønn-ordningen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/kildeskatt-pa-lonn/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:19:08Z
+- **Sist oppdatert i arkivet:** 2026-10-19T06:28:12Z
 
 ## Innhold
 
@@ -73,7 +73,7 @@ Du finner informasjon om hvilken sats du skal benytte i arbeidstakerens skatteko
 
 Har dere inngått avtale om [nettolønn](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/spesielle-grupper/nettolonn/), skal du betale skatten for arbeidstakeren. Det betyr at du skal omregne nettolønn til bruttolønn ved å bruke skattesatsen i skattekortet og legge inn tabellnummer "0000" i feltet for oppgrossingstabell når du rapporterer i a-meldingen.
 
-[Arbeidstakeren kan velge seg ut av kildeskatt på lønn-ordningen](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/kildeskatt-pa-lonn/#slik-velger-du-deg-ut-av-kildeskatt-pa-lonn-ordningen) og betale ordinær skatt. Hen må selv melde seg ut.
+[Arbeidstakeren kan velge seg ut av kildeskatt på lønn-ordningen](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/kildeskatt-pa-lonn/#slik-velger-du-deg-ut-av-kildeskatt-pa-lonn-ordningen) og betale ordinær skatt. Hen må selv melde seg ut.
 
 Hvis du som arbeidsgiver [søker om skattekort for arbeidstakeren](https://www.skatteetaten.no/skjema/skattekort-pa-vegne-av-utenlandsk-arbeidstaker/) elektronisk via RF-1355, kan du ikke velge hen ut av ordningen. Arbeidstakeren kan da først velge seg ut når hen har time hos Skatteetaten for ID-kontroll.
 
@@ -81,7 +81,7 @@ Hvis du som arbeidsgiver [søker om skattekort for arbeidstakeren](https://www.s
 
 [Veiledning til a-meldingen: Kildeskatt på lønn](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/spesielle-grupper/kildeskatt-pa-lonn/)
 
-[Kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattekort/kildeskatt-pa-lonn/)
+[Kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skattekort/kildeskatt-pa-lonn/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/kildeskatt-pa-lonn/) av norges-lover-bot.*
@@ -90,3 +90,4 @@ Hvis du som arbeidsgiver [søker om skattekort for arbeidstakeren](https://www.s
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)
