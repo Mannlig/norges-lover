@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3b8d3865af9fb4009dc90e755710c1f9f9d5ffdb8211f8e42cf113ad4016cdbb -->
+<!-- innholds-hash: d6937458d309cb0e6ce00eabddf587cc7268e4584ce908c5f92e88ffccdf4b9c -->
 
 # Regnskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/rutiner-regnskap-og-kassasystem/gode-rutiner-for-daglig-drift/regnskap/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:56:17Z
+- **Sist oppdatert i arkivet:** 2026-10-19T18:57:31Z
 
 ## Innhold
 
@@ -168,7 +168,7 @@ Utenlandske foretak uten norsk forretningssted kan søke om å oppbevare regnska
 
 Mer info i Altinn: [Altinn - Oppbevaring av regnskapsmateriale](https://info.altinn.no/starte-og-drive/regnskap-og-revisjon/regnskap/oppbevaring-av-regnskapsmateriale/)
 
-Foretak som har kontantsalg må ha et godkjent kassasystem.
+Foretak som har kontantsalg må ha et produkterklært kassasystem.
 
 Mer om kassasystem: [Rutiner, regnskap og kassasystem - Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/rutiner-regnskap-og-kassasystem/)
 
@@ -260,3 +260,4 @@ Mer om [regnskapsplikt, bokføringsplikt og revisjonsplikt for utenlandsk selvst
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 192137f3322655fd65fb8f8df385fcbe61a3ed2bbd20b9d837ca1508b281306c -->
+<!-- innholds-hash: 3672f5f6c4b90d7e42fdd0dd4660d08a590446b6141771460b38909d7e298f47 -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:20 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Stortingsrepresentanter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
+- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200468
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -124,3 +132,4 @@
 ## Endringshistorikk
 
 - **2026-10-15** Første gang hentet
+- **2026-10-19** Innhold endret (se git-historikk for diff)

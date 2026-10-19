@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3e28ace4b86a5e8f7bba836e84dfb7be66d3608900f7f64dc49983c4ab0e460d -->
+<!-- innholds-hash: 8debe83ce8c49cd645d8eaf50578369564debd665efbf382f4b4c1df21db4a85 -->
 
 # Testinnsending av tredjepartsopplysninger som skal rapporteres som filvedlegg
 
@@ -6,28 +6,13 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/testinnsending-xml/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:36:19Z
+- **Sist oppdatert i arkivet:** 2026-10-19T18:38:18Z
 
 ## Innhold
 
 ## Testinnsending av tredjepartsopplysninger som skal rapporteres som filvedlegg
 
-Skatteetaten tilbyr testinnsending for opplysningspliktige og innsendere som skal levere tredjepartsopplysninger som filvedlegg via nytt skjema på Skatteetaten for inntektsåret 2025.
-
-Viktig informasjon
-
-For de som bruker filopplastingstjenesten til rapportering av tredjepartsopplysninger vil det være flere endringer:
-
-- For tredjepartsopplysninger vil opplasting av vedlegg kun være tilgjengelig gjennom manuell løsning for rapportering av tredjepartsopplysninger med vedlegg på Skatteetaten.no (RF-1301) og ikke API.
-- Av sikkerhetsmessige årsaker godtas ikke zip-filer, kun XML-filer.
-- En fil kan være på opptil 2 GB.
-- En fil kan kun inneholde data for én oppgavegiver *, én ordning, og for ett inntektsår av gangen. Skal du sende inn for flere oppgavegivere, ordninger eller korrigeringer for tidligere inntektsår, må dataene legges i separate filer.
-- Du kan sende inn opptil 20 filer samtidig. Hver fil behandles som én leveranse med en tilhørende tilbakemelding (20 filer = 20 leveranser).
-- Mulighet for maskinell filopplasting via RF-1301 (på Altinn 2) videreføres midlertidig frem til Altinn 2 skrus av i juni.
-- Det vil kun være mulig å gjøre komplette innsendinger. Muligheten for "ikke komplette" innsendinger ble fjernet 2. januar 2026.
-- Vi bruker en skytjeneste for å kontrollere filen du laster opp. For å unngå problemer med brannmur, sørg for at det er åpning basert på FQDN til stincomingplattformskarp.blob.core.windows.net
-
-* Kravet om kun én opplysningspliktig i en leveranse pr innsending er ikke definert i xsd, men validering i tjenesten vil gi feil i tilbakemeldingen dersom man sender flere.
+Skatteetaten tilbyr testinnsending for opplysningspliktige og innsendere som skal levere tredjepartsopplysninger som filvedlegg via nytt skjema på Skatteetaten for inntektsåret 2026.
 
 ### Kort om testinnsending
 
@@ -37,9 +22,16 @@ Vi tar imot testfiler hele året.
 
 Før dere sender inn tredjepartsopplysninger på XML-format bør dere teste filformatet selv.
 
-[Formatene for inntektsåret 2025](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/formatbeskrivelser/)
+[Formatene for inntektsåret 2026](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/formatbeskrivelser/)
 
-For 2025 er format i internasjonal adresse for disponent og oppgaveeier endret for Verdipapirfondhistorikk.
+- For tredjepartsopplysninger vil opplasting av vedlegg kun være tilgjengelig gjennom manuell løsning for rapportering av tredjepartsopplysninger med vedlegg på Skatteetaten.no (RF-1301) og ikke API.
+- Av sikkerhetsmessige årsaker godtas ikke zip-filer, kun XML-filer.
+- En fil kan være på opptil 2 GB.
+- En fil kan kun inneholde data for én oppgavegiver *, én ordning, og for ett inntektsår av gangen. Skal du sende inn for flere oppgavegivere, ordninger eller korrigeringer for tidligere inntektsår, må dataene legges i separate filer.
+- Du kan sende inn opptil 20 filer samtidig. Hver fil behandles som én leveranse med en tilhørende tilbakemelding (20 filer = 20 leveranser).
+- Vi bruker en skytjeneste for å kontrollere filen du laster opp. For å unngå problemer med brannmur, sørg for at det er åpning basert på FQDN til stincomingplattformskarp.blob.core.windows.net
+
+* Kravet om kun én opplysningspliktig i en leveranse pr innsending er ikke definert i xsd, men validering i tjenesten vil gi feil i tilbakemeldingen dersom man sender flere.
 
 Via reetablert løsning for rapportering av tredjepartsopplysninger som vedlegg (RF-1301), kan du sende inn filer til Skatteetaten for følgende ordninger:
 
@@ -51,10 +43,12 @@ Via reetablert løsning for rapportering av tredjepartsopplysninger som vedlegg 
 | Boligsameie |
 | Boligselskap |
 | Boligsparing for ungdom |
+| Digital plattforminformasjon (DPI) |
 | Drosjesentraler |
 | Fagforeningskontingent |
 | Finansprodukter |
 | Fondskonto |
+| Kryptoeiendeler (CARF) |
 | Gaver til frivillige organisasjoner, tros- og livssynssamfunn |
 | Godtgjøring til opphaver til åndsverk |
 | Individuelle pensjonsordninger |
@@ -119,3 +113,4 @@ Dersom du har spørsmål om test av tredjepartsopplysninger, eller vil gi oss ti
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

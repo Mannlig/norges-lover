@@ -1,4 +1,4 @@
-<!-- innholds-hash: 47926c06abb652ce25aaa2f33e990df554d5345537ab4ca29305dec064ce6037 -->
+<!-- innholds-hash: ea30e809e6c2a9389ebac3d35b566c597b2bfc88f59bc4b02f67b43bead91658 -->
 
 # Kontroll av skatt og avgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/kontroll-av-skatt-og-avgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:47:51Z
+- **Sist oppdatert i arkivet:** 2026-10-19T18:49:57Z
 
 ## Innhold
 
@@ -16,7 +16,7 @@ Her får du som har fått varsel om kontroll informasjon om kontrollprosessen og
 
 ### Om kontrollen
 
-Skatte- og avgiftssystemet i Norge er basert på tillitt og egenrapportering. Skatteetaten gjennomfører kontroller for å bidra til at skattepliktige betaler og rapporterer riktig skatt.
+Skatte- og avgiftssystemet i Norge er basert på tillit og egenrapportering. Skatteetaten gjennomfører kontroller for å bidra til at skattepliktige betaler og rapporterer riktig skatt.
 
 En kontroll starter med at du får et varsel. Du kan få varselet tilsendt som brev i innboksen på "Min side” på skatteetaten.no, eller vi kan møte opp og gi deg dette personlig der du driver virksomhet.
 
@@ -42,11 +42,7 @@ Du har rett til
 - å få en oversikt over opplysninger, filer og dokumenter som vi ønsker utlevert
 - å klage på eventuelt vedtak om endring
 
-Du kan klage på gjennomføringen av kontrollen.
-
-Du kan klage muntlig eller skriftlig innen én uke etter at varselet er mottatt. Vil du klage skriftlig kan du gjøre dette i meldingstråden til kontrollsaken i innboksen på Min side med lenken “Kontakt oss i denne saken”.
-
-Dersom vi ikke kan gi medhold i klagen, sender vi den videre til Skattedirektoratet for videre behandling. Du må levere opplysningene selv om klagen ikke er ferdig behandlet, men opplysningene vil da oppbevares forseglet.
+Du kan klage muntlig eller skriftlig innen én uke etter at varselet er mottatt. Vil du klage skriftlig kan du gjøre dette i meldingstråden til kontrollsaken i innboksen på Min side.
 
 Du kan klage på vedtak en kontroll har ført til. Dette gjør du ved å gå inn i meldingstråden for kontrollsaken i innboksen på Min side. Her ligger det en lenke til skjemaet “Send inn klage” når du har mottatt et vedtak.
 
@@ -75,7 +71,7 @@ For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
 
 For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
 
-Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember 2026:
+20. oktober 2026 blir tilgangene for disse Altinn-rollene fjernet:
 
 - Ansvarlig revisor
 - Begrenset signeringsrett
@@ -86,13 +82,15 @@ Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember
 - Utfyller/innsender
 - Kontaktperson NUF (gjelder ikke for alle skjemaer)
 
+Fra og med 20. oktober 2026 kan du ikke sende inn skjemaet ved å bruke en av de ovennevnte Altinn-rollene:
+
 Er du fullmektig?
 
 Er du fullmektig må virksomheten gi deg tilgang til kontrollsaken. Det anbefales å gjøre dette gjennom enkelttjenestedelegering i Altinn.
 
 NB! Enkelttjenestedelegering må gjøres på nytt for de nye skjemaene. Hvis tilgangen til Altinn II-skjemaet var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt.
 
-I januar 2027 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
+20. oktober 2026 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
 
 Hvis du ikke har noen av disse rollene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn. Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
 
@@ -127,3 +125,4 @@ Skatteetaten tilbyr testinnsending for systemleverandører og andre som utvikler
 
 - **2026-06-11** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

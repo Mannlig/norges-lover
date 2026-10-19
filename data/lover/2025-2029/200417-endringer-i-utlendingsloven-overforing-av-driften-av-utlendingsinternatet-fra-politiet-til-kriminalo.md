@@ -1,4 +1,4 @@
-<!-- innholds-hash: a236f62c484e666ddbd6839745d20deac277f22c47ba19f7cb445339ada0f969 -->
+<!-- innholds-hash: d92e4bd6639c643a1150e6e27c7a571c81d8790f26a9fabf360c1d0a2a720681 -->
 
 # Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)
 
@@ -10,11 +10,11 @@
 - **Korttittel:** Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)
 - **Status:** 2
 - **Henvisning:** Prop. 2 L (2026–2027)
-- **Komité:** Kommunal- og forvaltningskomiteen
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -32,8 +32,8 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "id": "KOMMFORV",
-    "navn": "Kommunal- og forvaltningskomiteen"
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
   },
   "korttittel": "Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)",
   "sak_fremmet_id": 200417,
@@ -51,3 +51,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

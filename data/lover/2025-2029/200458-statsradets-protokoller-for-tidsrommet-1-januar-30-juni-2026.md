@@ -1,4 +1,4 @@
-<!-- innholds-hash: d53a0551029721d9dfa50e2aba9e0845c73b7a3d13e1e1e51d868a4473042ce7 -->
+<!-- innholds-hash: af6fc78997bcbcddfdb1b97acbf5b7ba65d622c2280f2005e31bdfe2fa135cb5 -->
 
 # Statsrådets protokoller for tidsrommet 1. januar-30. juni 2026
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** None
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** 
+- **Emner:** Regjeringen, Departementer
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200458
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 0,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 25,
+      "navn": "Regjeringen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 155,
+      "id": 51,
+      "navn": "Departementer",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200458,
@@ -318,3 +333,4 @@
 
 - **2026-10-08** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

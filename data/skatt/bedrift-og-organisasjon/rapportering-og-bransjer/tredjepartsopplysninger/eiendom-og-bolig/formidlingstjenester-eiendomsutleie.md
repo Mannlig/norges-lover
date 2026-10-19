@@ -1,4 +1,4 @@
-<!-- innholds-hash: 07546c09aad3e05270fd443591c834b873ad50cbdff29153fb9ca962541a788b -->
+<!-- innholds-hash: 9d742928f9b29f5157fe99482879a953e5d4eb0df64f2887fdd52e73c21904d0 -->
 
 # Utleie av fast eiendom fra formidlingsselskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/eiendom-og-bolig/formidlingstjenester-eiendomsutleie/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:26:44Z
+- **Sist oppdatert i arkivet:** 2026-10-19T18:28:31Z
 
 ## Innhold
 
@@ -22,11 +22,17 @@ Opplysningsplikten gjelder uavhengig av om formidlingen skjer gjennom en digital
 
 #### Digital Plattforminformasjon
 
-Fra 1. januar 2026 gjelder nytt regelverk for Digital plattforminformasjon (DPI). Denne ordningen omfatter blant annet utleie av fast eiendom og vil etter hvert erstatte dagens rapporteringsordning for formidlingstjenester på eiendom.
+Digital Plattforminformasjon Fra 1. januar 2026 gjelder nytt regelverk for Digital plattforminformasjon (DPI). Denne ordningen omfatter blant annet utleie av fast eiendom og vil etter hvert erstatte dagens rapporteringsordning for formidlingstjenester på eiendom.
 
-Den første rapporteringen etter de nye reglene skal skje i januar 2027 for inntektsåret 2026. Det er lagt opp til en overgangsordning, slik at aktører som rapporterer på formidlingstjeneste på eiendom kan velge å rapportere på dagens ordning også for inntektsåret 2026, men må bruke ny ordning fra og med inntektsåret 2027.
+Den første rapporteringen etter de nye reglene skal skje i januar 2027 for inntektsåret 2026. Det er lagt opp til en overgangsordning for aktører som rapporterer på dagens formidlingstjeneste på eiendom.
 
-Les mer om ordningen på Skatteetatens nettsider: [Digital plattforminformasjon (DPI)](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/digital-plattforminformasjon-dpi/)
+For plattformer som velger å gi opplysninger etter dagens ordning for 2026, men som i tillegg har utleiere hjemmehørende i utlandet eller eiendommer i utlandet, må rapportere opplysninger om disse etter DPI reglene for inntektsåret 2026.
+
+Fra og med inntektsåret 2027 skal all formidling av utleie av fast eiendom rapporteres etter DPI.
+
+Les mer om ordningen på Skatteetatens nettsider:
+
+[Digital plattforminformasjon (DPI)](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.skatteetaten.no%2Fbedrift-og-organisasjon%2Frapportering-og-bransjer%2Ftredjepartsopplysninger%2Fandre-bransjer%2Fdigital-plattforminformasjon-dpi%2F&data=05%7C02%7CSilje.Lovstad%40skatteetaten.no%7Cdd5822d68af040652d0a08df2b6fe715%7Cc9b0d3b5c0354c088136760ae8c28600%7C0%7C0%7C639277431760325449%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Iqw88tLLzOfZ4xeMRg8XHsUtiSRfOnPjejJ4%2FpSmnMc%3D&reserved=0)
 
 ### Send inn opplysninger
 
@@ -116,3 +122,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 - **2026-05-21** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

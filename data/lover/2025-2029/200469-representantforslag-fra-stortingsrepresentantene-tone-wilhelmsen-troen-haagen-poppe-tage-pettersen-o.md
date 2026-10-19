@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08e89d3cba71834cabf4be341fc6ec41f7b4eba7913d95561856e2e403224b56 -->
+<!-- innholds-hash: 829f57f820381afe69002c7d2ebe544535a484e22ebf054a9204bbd422cae556 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:21 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
+- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200469
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 43,
+      "navn": "Barnevern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -124,3 +132,4 @@
 ## Endringshistorikk
 
 - **2026-10-15** Første gang hentet
+- **2026-10-19** Innhold endret (se git-historikk for diff)
