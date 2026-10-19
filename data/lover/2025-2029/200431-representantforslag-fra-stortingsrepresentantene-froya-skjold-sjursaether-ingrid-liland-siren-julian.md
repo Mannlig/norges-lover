@@ -1,4 +1,4 @@
-<!-- innholds-hash: f644ad98c92090eeb65d2151324745d47364ab7334539fd9a1d6c70574cd59a2 -->
+<!-- innholds-hash: 1eaa09227e4e7ecb9c9e54d27ac28925240627b9f443e8ce3298df89a84dfa6a -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen og Oda Indgaard om å forby reklame for fossil energi
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:12 S (2026–2027)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Olje og gass, Forbrukersaker, Miljøvern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200431
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 74,
+      "navn": "Olje og gass",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 139,
+      "id": 139,
+      "navn": "Miljøvern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -128,3 +150,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

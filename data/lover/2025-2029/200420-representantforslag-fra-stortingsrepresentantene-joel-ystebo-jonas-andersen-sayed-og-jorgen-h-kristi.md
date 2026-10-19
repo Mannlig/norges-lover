@@ -1,4 +1,4 @@
-<!-- innholds-hash: f4fa4f66769a2596bbf406f6427cf3555d60455373e6b07f3ac4418be5b62cec -->
+<!-- innholds-hash: da0b810694b1eea2eefa596446d86cc3245a869e3fefb602b1b7620e0fc008fa -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:2 S (2026–2027)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** 
+- **Emner:** Videregående skoler, Grunnskole
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200420
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 158,
+      "navn": "Videregående skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 183,
+      "navn": "Grunnskole",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -130,3 +145,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

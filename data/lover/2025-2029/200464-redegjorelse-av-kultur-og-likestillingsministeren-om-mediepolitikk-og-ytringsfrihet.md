@@ -1,4 +1,4 @@
-<!-- innholds-hash: ffde4233b63401070e7502da84de1876883c7c2e25420aec768b7076e5dc9445 -->
+<!-- innholds-hash: 7865ba3a32fe3a48b908e1cb373cad185ba97fca87fe3dbc8bef0ae667242a9b -->
 
 # Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Massemedier, Menneskerettigheter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200464,
@@ -47,3 +62,4 @@
 ## Endringshistorikk
 
 - **2026-10-14** Første gang hentet
+- **2026-10-19** Innhold endret (se git-historikk for diff)

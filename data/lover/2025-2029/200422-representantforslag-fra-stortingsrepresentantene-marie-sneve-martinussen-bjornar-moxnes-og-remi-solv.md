@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4ff0f0c00ff67525bc3c9202edfc73f2ca04cf3cb18c753517b493ee70963c71 -->
+<!-- innholds-hash: 2f14f96e8eb0b4bdb06c28e7ba0c98f0a0716da59bed402ac3258eb2f3fe8983 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Remi Sølvberg om å få kriminelle aktører ut fra barnevernet
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:5 S (2026–2027)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** 
+- **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200422
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 43,
+      "navn": "Barnevern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -131,3 +139,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

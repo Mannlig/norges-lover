@@ -1,4 +1,4 @@
-<!-- innholds-hash: 496ad2e22e6c3652cb3cea582c550db7a2f6e389790c8807bc1b77c452cab762 -->
+<!-- innholds-hash: b7cb2a7b2d89b20f4a63942c869506ba1b630d1a4259478922fc38c63290a1fb -->
 
 # Betale inn trekk i lønn hos ansatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/trekk-i-lonn-hos-ansatte/betale/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:24:08Z
+- **Sist oppdatert i arkivet:** 2026-10-19T12:24:22Z
 
 ## Innhold
 
@@ -56,12 +56,6 @@ Du vil få informasjon fra oss om KID- og kontonummeret du skal bruke.
 
 [KID- og kontonummer for å betale skatter og avgifter](https://www.skatteetaten.no/kontonummer/)
 
-Du vil finner betalingsinformasjonen i brevet du har mottatt om trekket.
-
-Du skal alltid bruke det KID-nummeret som står på fakturaen. Skriv hele KID-nummeret. Dersom det er en bindestrek på slutten av KID-nummeret, må du taste inn den også.
-
-Dersom du ikke kan betale med KID, må du oppgi fødselsnummer, organisasjonsnummer eller saksnummer når du betaler til oss.
-
 Vi krever inn på vegne av blant annet:
 
 Arbeidstilsynet Barne- og familiedepartementet Barne,- ungdoms- og familiedirektoratet (Bufdir) Brønnøysundregistrene Datatilsynet Digitaliseringsdirektoratet Direktoratet for byggkvalitet Direktoratet for medisinske produkter Direktoratet for mineralforvaltning Direktoratet for samfunnssikkerhet og beredskap Diskrimineringsnemnda Enova Finanstilsynet Fiskeridirektoratet Forbrukertilsynet Forsvarsbygg Forsvarsdepartementet Helsedirektoratet Helseklage Husbanken Justervesenet Justis- og beredskapsdepartementet Kartverket Kontoret for voldsoffererstatning Kulturdirektoratet Kunnskapsdepartementet Lotteri- og stiftelsestilsynet Luftfartstilsynet Lånekassen Medietilsynet Mesterbrevnemnda Miljødirektoratet Norec Norges vassdrags- og energidirektorat Norsk filminstitutt Norsk pasientskadeerstatning Nærings- og fiskeridepartementet Oslo Børs og Finansdepartementet Pasientreiser HF Politiet Regjeringsadvokaten Sjøfartsdirektoratet Statens sivilrettsforvaltning Statens vegvesen Statistisk Sentralbyrå Sysselmesteren på Svalbard Advokattilsynet Tolletaten Utdanningsdirektoratet Utenriksdepartementet
@@ -97,3 +91,4 @@ Hvis du ikke kan trekke det pålagte beløpet, og årsaken til dette ikke vil fr
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b89735f1b17ff29bd3a79aca94bbe0e9e7cd26fcfab5bcaa67bb9653dbd2fd08 -->
+<!-- innholds-hash: 09078828390b8e9fdf8f36a74d79d6332a788334df9a0a1cca216390a1591885 -->
 
 # Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** None
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** 
+- **Emner:** Forsvar, Forsvarsmateriell
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 59,
+      "id": 59,
+      "navn": "Forsvar",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 59,
+      "id": 60,
+      "navn": "Forsvarsmateriell",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200328,
@@ -218,3 +233,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

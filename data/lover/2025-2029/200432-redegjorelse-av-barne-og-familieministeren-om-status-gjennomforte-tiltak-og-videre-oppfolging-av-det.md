@@ -1,4 +1,4 @@
-<!-- innholds-hash: d19c99b4edb49364adb088ac10dea551b6b00099d20e08e440c5259b25816c58 -->
+<!-- innholds-hash: 08ecdca8e04494c18938f7eed97a2f56823644096365356d1f65dff59c140b77 -->
 
 # Redegjørelse av barne- og familieministeren om status, gjennomførte tiltak og videre oppfølging av det som er avdekket om kriminelle aktører i barnevernet
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** None
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** 
+- **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T19:09:10Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200432
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 43,
+      "navn": "Barnevern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200432,
@@ -51,3 +59,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

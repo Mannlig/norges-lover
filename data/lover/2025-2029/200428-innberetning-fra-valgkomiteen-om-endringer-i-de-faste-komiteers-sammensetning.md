@@ -1,4 +1,4 @@
-<!-- innholds-hash: 80c92ec362689d52b3cf07e90f324cc55fa0e81d41f4c0bf7671131860f925ea -->
+<!-- innholds-hash: 6dff16b9b57b05023575ad0a30949d684be3152154e711daac0f4742701260e0 -->
 
 # Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Innberetning 2 (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Stortingsrepresentanter, Stortinget
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200428
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 8,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Innberetning 2 (2026–2027)",
   "id": 200428,
@@ -48,3 +63,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

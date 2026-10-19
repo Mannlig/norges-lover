@@ -1,4 +1,4 @@
-<!-- innholds-hash: b0d2c459efce5e76a5e56dec356ecd0fec6719a3e252c9018384e64fe6362082 -->
+<!-- innholds-hash: 5bd2a04023fc7e7c1f3d087028ec9b4214744250eaf669b12e56755e7af78c75 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Tom Staahle, Martin Virkesdal Jonsterhaug, Hilde Grande, Bengt Rune Strifeldt og Sylvi Listhaug om permanent fritak for CO2-avgift for fiskeflåten
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:1 S (2026–2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Fangst, Avgifter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200419
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 9,
+      "navn": "Fangst",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -187,3 +202,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d0c585c8c192f8d1b59542503086491a96d41a8aa0d0ae8de0c1a48d742bfffc -->
+<!-- innholds-hash: 5fa5fd9db959758a9e4617a259533fdb1cfc477007025c74d3aaa12b58b0ed04 -->
 
 # Statsbudsjett 2027
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200445
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til familie- og kulturkomiteen)",
   "sak_fremmet_id": 200445,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Estil",
+      "foedselsdato": "/Date(16840800000+0200)/",
+      "fornavn": "Bente",
+      "id": "BENEST",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
@@ -51,3 +71,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

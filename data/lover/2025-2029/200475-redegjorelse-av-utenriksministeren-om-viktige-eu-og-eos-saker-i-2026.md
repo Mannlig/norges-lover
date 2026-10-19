@@ -1,4 +1,4 @@
-<!-- innholds-hash: 35d4dbd68a106a5dcf0c620941416f66449728d2ff26b4ef06cdc250891e2f6a -->
+<!-- innholds-hash: dac1244128a6451c060476d17451e740762973a6d3a326977742d328adfc6bab -->
 
 # Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** 
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Eu/eøs
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-17T10:34:07Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200475
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "",
   "id": 200475,
@@ -47,3 +55,4 @@
 ## Endringshistorikk
 
 - **2026-10-17** Første gang hentet
+- **2026-10-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3a4e8553deb40a142974baaac2c1f1f9bf13c314f947cd5bc5db04453b61fdc3 -->
+<!-- innholds-hash: 89ae30a5dbf0771748b5183d95c00018226a5dbb2e98a5702aefaf858ea0976e -->
 
 # Om trekk i lønn hos ansatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/betaling-og-innkreving/tema/trekk-i-lonn-hos-ansatte/om/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:25:16Z
+- **Sist oppdatert i arkivet:** 2026-10-19T12:25:28Z
 
 ## Innhold
 
@@ -73,12 +73,6 @@ Utleggstrekk for å dekke avgiftskrav som merverdiavgift (mva), særavgifter, to
 Du vil få informasjon fra oss om KID- og kontonummeret du skal bruke.
 
 [KID- og kontonummer for å betale skatter og avgifter](https://www.skatteetaten.no/kontonummer/)
-
-Du vil finner betalingsinformasjonen i brevet du har mottatt om trekket.
-
-Du skal alltid bruke det KID-nummeret som står på fakturaen. Skriv hele KID-nummeret. Dersom det er en bindestrek på slutten av KID-nummeret, må du taste inn den også.
-
-Dersom du ikke kan betale med KID, må du oppgi fødselsnummer, organisasjonsnummer eller saksnummer når du betaler til oss.
 
 Vi krever inn på vegne av blant annet:
 
@@ -161,3 +155,4 @@ Den ansatte vil finne informasjon om utleggstrekkene sine i brevene i Altinn ell
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

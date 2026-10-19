@@ -1,4 +1,4 @@
-<!-- innholds-hash: fdae105b6b4d4c501b1bde0ed21334c29daa74c1ec4039fc7c5c2e3a6cf933f3 -->
+<!-- innholds-hash: 4c8b9f214353160705209de3eb2b253a6137a6656b8f0c98dde98cbebd6fe876 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse og Jørgen H. Kristiansen om Tolletatens fremtidige kontrolloppdrag og bevæpning
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:4 S (2026–2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Toll, Rusmidler
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200423
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 82,
+      "navn": "Toll",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 211,
+      "navn": "Rusmidler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -130,3 +145,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)

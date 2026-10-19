@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08b27c724f2d7eb072595e0e16c03ebf568b05fb44964c4820e91075f30b906b -->
+<!-- innholds-hash: 42a1c66ec35c75a3c435dde26c114590671755d7f6fde38aac121bb8ee48888d -->
 
 # Internasjonal rapportering (CRS/FATCA)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/internasjonal-rapportering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:15:49Z
+- **Sist oppdatert i arkivet:** 2026-10-19T13:03:33Z
 
 ## Innhold
 
@@ -16,9 +16,9 @@ Virksomheter omfattet av CRS/FATCA-reglene skal levere opplysninger til Skatteet
 
 ### Viktig melding
 
-Amerikanske skattemyndigheter har [oppdatert sine retningslinjer](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/om-crs-og-fatca/krav-om-identifikasjonsnummer/) vedrørende innhenting av amerikansk identifikasjonsnummer for kontoer hvor kontohaver eller reell rettighetshaver er skattemessig bosatt/hjemhørende i/til USA.
+Amerikanske skattemyndigheter har oppdatert sine retningslinjer vedrørende innhenting av amerikansk identifikasjonsnummer for kontoer hvor kontohaver eller reell rettighetshaver er skattemessig bosatt/hjemhørende i/til USA. [Les mer.](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/om-crs-og-fatca/rapportering/)
 
-Fra 1. januar 2026 er det foreslått endringer i skatteforvaltningsloven og tilhørende forskrift som følge av revidert Common Reporting Standard (CRS). Endringene utvider opplysningsplikten for opplysningspliktige, blant annet om digitale pengeprodukter, sentralbankpenger, finansielle instrumenter knyttet til kryptoeiendeler og innfører [nye krav til rapportering av kontoopplysninger om konto](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/om-crs-og-fatca/rapportering/). Første rapportering etter de nye reglene skal skje i 2027. Se Prop.91 L (2024-2025).
+Fra 1. januar 2026 gjelder nye regler som følge av revidert CRS. Opplysningsplikten utvides blant annet for digitale pengeprodukter og finansielle instrumenter knyttet til kryptoeiendeler. Første rapportering er i 2027. [Les mer.](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/om-crs-og-fatca/rapportering/)
 
 ### Hvem gjelder det?
 
@@ -122,3 +122,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 - **2026-05-20** Første gang hentet
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-19** Innhold endret (se git-historikk for diff)
