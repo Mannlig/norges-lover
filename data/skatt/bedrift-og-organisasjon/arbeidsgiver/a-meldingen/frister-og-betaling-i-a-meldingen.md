@@ -1,4 +1,4 @@
-<!-- innholds-hash: be4f6db1547ba3b32cd559551556bc48747371c572a5930a6401ce678453f9ba -->
+<!-- innholds-hash: c306b3632e2f2ba2615fd0644856e4f827c21f5b26bdd1e0f320a0dacf08ec38 -->
 
 # Frister og betaling i a-meldingen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/frister-og-betaling-i-a-meldingen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:12:26Z
+- **Sist oppdatert i arkivet:** 2026-10-18T23:44:40Z
 
 ## Innhold
 
@@ -28,12 +28,6 @@ Du kan lese mer om de kommende endringene her: [Arbeidsgiver - Fremtidens innkre
 
 ### Frister for å sende a-melding
 
-15
-
-SEP
-
-[A-meldingen (arbeidsgiveravgift og finansskatt) – frist for betaling](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift/)
-
 5
 
 OKT
@@ -45,6 +39,12 @@ OKT
 NOV
 
 [A-melding for oktober – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
+
+16
+
+NOV
+
+A-meldingen (arbeidsgiveravgift og finansskatt) – frist for betaling
 
 [Se alle frister](https://www.skatteetaten.no/link/a98e12ce6ecb4633ac410bbb6c0a0e26.aspx?filter=708)
 
@@ -192,3 +192,4 @@ Eksempel Sidra sender a-melding for et selskap. I mai har hun alle opplysningene
 
 - **2026-05-11** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-10-18** Innhold endret (se git-historikk for diff)
