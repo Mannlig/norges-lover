@@ -1,4 +1,4 @@
-<!-- innholds-hash: 694c8b4b92ae2d9d067c25b4a545427a7267f258e3b9b2a66db588246aea59de -->
+<!-- innholds-hash: 845bcb048b6c929bc58e2184ef3c1ff346fef3d7cc4c78c801156aec8fb430e1 -->
 
 # Rettskilder om kompensasjon av merverdiavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/merverdiavgift/kompensasjon-av-merverdiavgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T12:54:02Z
+- **Sist oppdatert i arkivet:** 2026-10-20T06:42:47Z
 
 ## Innhold
 
@@ -52,9 +52,9 @@
 36. [Kompensasjon for merverdiavgift – revisorattest](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjon-for-merverdiavgift--revisorattest/) Publisert 16.02.2016 | Avgitt: 14.12.2004 | Prinsipputtalelse
 37. [Kompensasjon for merverdiavgift - vederlag for sikkerhetstiltak og terrorberedskap i norske havner (ISPS-vederlag)](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjon-for-merverdiavgift---vederlag-for-sikkerhetstiltak-og-terrorberedskap-i-norske-havner-isps-vederlag/) Publisert 16.02.2016 | Avgitt: 07.02.2006 | Prinsipputtalelse
 38. [Kompensasjonsloven § 2 bokstav c - døgnovernatting](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-bokstav-c---dognovernatting/) Publisert 14.02.2016 | Avgitt: 17.10.2007 | Prinsipputtalelse
-39. [Kompensasjonsloven § 2 første ledd bokstav c - omsorgsbolig kombinert med hjemmebaserte tjenester](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---omsorgsbolig-kombinert-med-hjemmebaserte-tjenester/) Publisert 13.02.2016 | Avgitt: 27.10.2011 | Prinsipputtalelse
-40. [Kompensasjon for merverdiavgift - havneavgifter](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjon-for-merverdiavgift---havneavgifter/) Publisert 13.02.2016 | Avgitt: 07.10.2004 | Prinsipputtalelse
-41. [Kompensasjonsloven § 2 første ledd bokstav c - HMS-senter](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---hms-senter/) Publisert 13.02.2016 | Avgitt: 14.11.2006 | Prinsipputtalelse
+39. [Kompensasjon for merverdiavgift - havneavgifter](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjon-for-merverdiavgift---havneavgifter/) Publisert 13.02.2016 | Avgitt: 07.10.2004 | Prinsipputtalelse
+40. [Kompensasjonsloven § 2 første ledd bokstav c - HMS-senter](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---hms-senter/) Publisert 13.02.2016 | Avgitt: 14.11.2006 | Prinsipputtalelse
+41. [Kompensasjonsloven § 2 første ledd bokstav c - omsorgsbolig kombinert med hjemmebaserte tjenester](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---omsorgsbolig-kombinert-med-hjemmebaserte-tjenester/) Publisert 13.02.2016 | Avgitt: 27.10.2011 | Prinsipputtalelse
 42. [Kompensasjonsloven § 14 - klage over korreksjon av kompensasjonsoppgave](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--14---klage-over-korreksjon-av-kompensasjonsoppgave/) Publisert 09.02.2016 | Avgitt: 15.10.2012 | Prinsipputtalelse
 43. [Kompensasjonsloven § 2 første ledd bokstav c - kompensasjon for tjenester etter barnevernloven § 4-4 annet ledd – praksisendring](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---kompensasjon-for-tjenester-etter-barnevernloven--4-4-annet-ledd--praksisendring/) Publisert 27.01.2016 | Avgitt: 24.01.2016 | Prinsipputtalelse
 44. [Kompensasjonsloven §§ 10 og 6 fjerde ledd – foreldelse av krav om justering](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--10-og-6-fjerde-ledd--foreldelse-av-krav-om-justering/) Publisert 27.10.2015 | Avgitt: 27.10.2015 | Prinsipputtalelse
@@ -88,8 +88,8 @@
 72. [Kompensasjonsloven § 2 - spørsmål om rett til kompensasjon ved oppkreving av bompenger på fylkesveg](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2---sporsmal-om-rett-til-kompensasjon-ved-oppkreving-av-bompenger-pa-fylkesveg/) Publisert 18.10.2010 | Prinsipputtalelse
 73. [Kompensasjonsloven § 2 første ledd bokstav c – private virksomheter som utfører tjenester etter barnevernloven har ikke rett til kompensasjon](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c--private-virksomheter-som-utforer-tjenester-etter-barnevernloven-har-ikke-rett-til-kompensasjon/) Publisert 10.10.2010 | Prinsipputtalelse
 74. [Kompensasjonsloven § 2 første ledd bokstav c - Privat fagskole ble ikke ansett omfattet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---privat-fagskole-ble-ikke-ansett-omfattet/) Publisert 30.09.2010 | Prinsipputtalelse
-75. [Kompensasjonsloven § 2 første ledd bokstav c - Tjenester med å utføre hjelpetiltak etter barnevernloven § 4-4 annet ledd omfattes ikke](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---tjenester-med-a-utfore-hjelpetiltak-etter-barnevernloven--4-4-annet-ledd-omfattes-ikke/) Publisert 30.09.2010 | Prinsipputtalelse
-76. [Kompensasjonsloven § 2 første ledd bokstav c - Fosterhjem ble ikke omfattet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---fosterhjem-ble-ikke-omfattet/) Publisert 30.09.2010 | Prinsipputtalelse
+75. [Kompensasjonsloven § 2 første ledd bokstav c - Fosterhjem ble ikke omfattet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---fosterhjem-ble-ikke-omfattet/) Publisert 30.09.2010 | Prinsipputtalelse
+76. [Kompensasjonsloven § 2 første ledd bokstav c - Tjenester med å utføre hjelpetiltak etter barnevernloven § 4-4 annet ledd omfattes ikke](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---tjenester-med-a-utfore-hjelpetiltak-etter-barnevernloven--4-4-annet-ledd-omfattes-ikke/) Publisert 30.09.2010 | Prinsipputtalelse
 77. [Merverdiavgiftsloven § 2-3, jf. kompensasjonsloven § 4 annet ledd - NAV-kontor](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--2-3-jf.-kompensasjonsloven--4-annet-ledd---nav-kontor/) Publisert 09.06.2010 | Prinsipputtalelse
 78. [Kompensasjonsloven § 2 første ledd bokstav c - Private eller ideelle virksomheters oppføring av boliger med helseformål eller sosiale formål](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/kompensasjonsloven--2-forste-ledd-bokstav-c---private-eller-ideelle-virksomheters-oppforing-av-boliger-med-helseformal-eller-sosiale-formal/) Publisert 06.06.2010 | Prinsipputtalelse
 79. [Barnevern og rusomsorg - forståelsen av lov om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv § 2 bokstav c](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/barnevern-og-rusomsorg---forstaelsen-av-lov-om-kompensasjon-av-merverdiavgift-for-kommuner-fylkeskommuner-mv--2-bokstav-c/) Publisert 15.04.2010 | Prinsipputtalelse
@@ -113,7 +113,7 @@
 97. [Momskompensasjon til frivillige organisasjonar](https://www.skatteetaten.no/rettskilder/type/kunngjoringer/momskompensasjon-til-frivillige-organisasjonar/) Publisert 04.03.2003 | Kunngjøring
 98. [Innføring av generell kompensasjonsordning for merverdiavgift](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/rundskriv/innforing-av-generell-kompensasjonsordning-for-merverdiavgift2/) Publisert 16.02.2003 | Rundskriv
 99. [Endringer i lov 17. februar 1995 nr. 9 om kompensasjon for merverdiavgift til kommuner og fylkeskommuner mv. Endring av forskrift 19. april 1995 nr. 370 om kompensasjon for merverdi-avgift til kommuner og fylkeskommuner mv. (Forskrift nr. 105)](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endringer-i-lov-17.-februar-1995-nr.-9-om-kompensasjon-for-merverdiavgift-til-kommuner-og-fylkeskommuner-mv.-endring-av-forskrift-19.-april-1995-nr.-370-om-kompensasjon-for-merverdi-avgift-til-kommuner-og-fylkeskommuner-mv.-forskrift-nr.-105/) Publisert 14.01.2002 | Avgitt: 13.01.2002 | SKD-melding
-100. [Forskrift om kompensasjon for merverdiavgift til kommuner og fylkeskommuner ved kjøp av visse tjenester fra registrerte næringsdrivende (nr. 105) - Endringsforskrift](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskrift-om-kompensasjon-for-merverdiavgift-til-kommuner-og-fylkeskommuner-ved-kjop-av-visse-tjenester-fra-registrerte-naringsdrivende-nr.-105---endringsforskrift/) Publisert 06.11.2000 | Avgitt: 28.12.2000 | SKD-melding
+100. [Forskrift om kompensasjon for merverdiavgift til kommuner og fylkeskommuner ved kjøp av visse tjenester fra registrerte næringsdrivende (nr. 105) - Endringsforskrift](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskrift-om-kompensasjon-for-merverdiavgift-til-kommuner-og-fylkeskommuner-ved-kjop-av-visse-tjenester-fra-registrerte-naringsdrivende-nr.-105---endringsforskrift/) Publisert 29.12.2000 | Avgitt: 28.12.2000 | SKD-melding
 101. [Endring i lov om kompensasjon for merverdiavgift til kommuner og fylkeskommuner m.v.](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endring-i-lov-om-kompensasjon-for-merverdiavgift-til-kommuner-og-fylkeskommuner-m.v/) Publisert 15.12.1999 | Avgitt: 15.12.1999 | SKD-melding
 
 ---
@@ -122,3 +122,4 @@
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

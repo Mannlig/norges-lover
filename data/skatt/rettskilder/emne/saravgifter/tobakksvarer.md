@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4c1c91dbcf59910afa089ce8efffad08bcc7753c6de526785ae13440501ed93c -->
+<!-- innholds-hash: 1cec0c180933dc1bbfcc2fcf8c082e4c6f6428a47cb22f55eb5a0b21b04fe8ed -->
 
 # Rettskilder om tobakksvarer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/tobakksvarer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:19:58Z
+- **Sist oppdatert i arkivet:** 2026-10-20T07:08:30Z
 
 ## Innhold
 
@@ -24,8 +24,8 @@ Her finner du rettskilder om tobakk. Disse sidene er for deg som er profesjonell
 1. [Tobakk 2026](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2026/) Publisert 02.01.2026 | Gjelder fra : 31.12.2025 | Avgiftsrundskriv
 2. [Tobakk 2025](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2025/) Publisert 02.01.2025 | Gjelder fra : 31.12.2024 | Avgiftsrundskriv
 3. [Tobakk 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2022/) Publisert 17.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
-4. [Tobakk 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
-5. [Tobakk 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2021/) Publisert 17.01.2021 | Gjelder fra : 30.06.2021 | Avgiftsrundskriv
+4. [Tobakk 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2021/) Publisert 17.01.2021 | Gjelder fra : 30.06.2021 | Avgiftsrundskriv
+5. [Tobakk 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
 6. [Tobakk 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2024/) Publisert 16.01.2021 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
 7. [Tobakk 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2020/) Publisert 15.01.2020 | Gjelder fra : 31.12.2019 | Avgiftsrundskriv
 8. [Tobakk 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tobakk-2019-2/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
@@ -41,3 +41,4 @@ Her finner du rettskilder om tobakk. Disse sidene er for deg som er profesjonell
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

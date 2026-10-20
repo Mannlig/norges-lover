@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6f7edd348b89c0f8e549da90170e059a2407d530b493c0863e65aab2205058be -->
+<!-- innholds-hash: fd3100ab42cd1909f80e1b9433573dfe8cece702172cb48a942df0692db7bf80 -->
 
 # Rettskilder om NOx-avgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/nox-avgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:13:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T07:02:05Z
 
 ## Innhold
 
@@ -23,9 +23,9 @@ Her finner du rettskilder om NOx-avgift. Disse sidene er for deg som er profesjo
 
 1. [NOx 2026](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2026/) Publisert 10.01.2026 | Gjelder fra : 31.12.2025 | Avgiftsrundskriv
 2. [NOx 2025](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2025/) Publisert 10.02.2025 | Gjelder fra : 31.12.2024 | Avgiftsrundskriv
-3. [NOx 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+3. [NOx 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2022/) Publisert 17.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
 4. [NOx 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2024/) Publisert 17.01.2021 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
-5. [NOx 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2022/) Publisert 17.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
+5. [NOx 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
 6. [NOx 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2021/) Publisert 17.01.2021 | Gjelder fra : 31.12.2020 | Avgiftsrundskriv
 7. [NOx 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
 8. [NOx 2019](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/nox-2019/) Publisert 23.01.2019 | Gjelder fra : 31.12.2018 | Avgiftsrundskriv
@@ -40,3 +40,4 @@ Her finner du rettskilder om NOx-avgift. Disse sidene er for deg som er profesjo
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

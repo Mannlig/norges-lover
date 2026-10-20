@@ -1,4 +1,4 @@
-<!-- innholds-hash: edd37d87925ec8fa1badfca07f6f7c08e0c0ea5c0d4203c6341302a11d18ff31 -->
+<!-- innholds-hash: 6f9c4813c445cb810988fa98eb78a3a5aaee356cc4da2ae1aeb7ee728fb1d5c2 -->
 
 # Rettskilder om mineralske produkter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/mineralske-produkter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:12:28Z
+- **Sist oppdatert i arkivet:** 2026-10-20T07:00:59Z
 
 ## Innhold
 
@@ -32,9 +32,9 @@ Her finner du rettskilder om mineralske produkter. Disse sidene er for deg som e
 9. [Mineralske produkter 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2024/) Publisert 24.01.2024 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
 10. [Endring i særavgiftsforskriften § 2-9 - kodifisering av vilkår for å kunne motta offentlig støtte (statsstøtte) i samsvar med gruppeunntaksforordningen (GBER)](https://www.skatteetaten.no/rettskilder/type/horinger/endring-i-saravgiftsforskriften--2-9---kodifisering-av-vilkar-for-a-kunne-motta-offentlig-stotte-statsstotte-i-samsvar-med-gruppeunntaksforordningen-gber/) Publisert 16.12.2022 | Avgitt: 16.12.2022 | Høring
 11. [Forslag om innføring av fritak for CO2-avgift på mineralske produkter for karbonfangst og lagring (CCS), samt enkelte endringer i tilsvarende fritak for avgift på forbrenning av avfall](https://www.skatteetaten.no/rettskilder/type/horinger/forslag-om-innforing-av-fritak-for-co2-avgift-pa-mineralske-produkter-for-karbonfangst-og-lagring-ccs-samt-enkelte-endringer-i-tilsvarende-fritak-for-avgift-pa-forbrenning-av-avfall/) Publisert 03.06.2022 | Avgitt: 02.06.2022 | Høring
-12. [Mineralske produkter 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2023/) Publisert 27.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+12. [Mineralske produkter 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2021/) Publisert 27.01.2021 | Gjelder fra : 20.05.2021 | Avgiftsrundskriv
 13. [Mineralske produkter 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2022/) Publisert 27.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
-14. [Mineralske produkter 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2021/) Publisert 27.01.2021 | Gjelder fra : 20.05.2021 | Avgiftsrundskriv
+14. [Mineralske produkter 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2023/) Publisert 27.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
 15. [Mineralske produkter 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
 16. [Grunnavgift på mineralolje mv. – fritak for mineralolje mv. til gods- og passasjertransport i innenriks sjøfart – praksisendring](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/grunnavgift-pa-mineralolje-mv.--fritak-for-mineralolje-mv.-til-gods--og-passasjertransport-i-innenriks-sjofart--praksisendring/) Publisert 01.10.2019 | Avgitt: 26.09.2019 | Prinsipputtalelse
 17. [Mineralske produkter 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/mineralske-produkter-2019-2/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
@@ -53,3 +53,4 @@ Her finner du rettskilder om mineralske produkter. Disse sidene er for deg som e
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)
