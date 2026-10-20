@@ -1,4 +1,4 @@
-<!-- innholds-hash: 18cfb041edc8069e7397b17eb7abb9e217535b95bf548588da32853e90344edc -->
+<!-- innholds-hash: 192b25f25085eb79d2ebe3f769ab11bc60cacef137fcfc300de70ec0e087ab76 -->
 
 # Rettskilder om veibruksavgift på drivstoff
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/veibruksavgift-pa-drivstoff/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:23:14Z
+- **Sist oppdatert i arkivet:** 2026-10-20T13:02:26Z
 
 ## Innhold
 
@@ -29,8 +29,8 @@ Her finner du rettskilder om veibruksavgift på drivstoff. Disse sidene er for d
 6. [Konseptvalg for et nytt system for veibruksavgift og bompenger](https://www.skatteetaten.no/rettskilder/type/horinger/konseptvalg-for-et-nytt-system-for-veibruksavgift-og-bompenger/) Publisert 23.11.2022 | Avgitt: 23.11.2022 | Høring
 7. [Veibruksavgift på drivstoff 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2022/) Publisert 02.02.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
 8. [Veibruksavgift på drivstoff 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2021/) Publisert 02.02.2021 | Gjelder fra : 20.05.2021 | Avgiftsrundskriv
-9. [Veibruksavgift på drivstoff 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2023/) Publisert 02.02.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
-10. [Veibruksavgift på drivstoff 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2024/) Publisert 02.02.2021 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
+9. [Veibruksavgift på drivstoff 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2024/) Publisert 02.02.2021 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
+10. [Veibruksavgift på drivstoff 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2023/) Publisert 02.02.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
 11. [Høring – Veibruksavgift på flytende biodrivstoff – forslag til endringer i særavgiftsforskriften](https://www.skatteetaten.no/rettskilder/type/horinger/horing--veibruksavgift-pa-flytende-biodrivstoff--forslag-til-endringer-i-saravgiftsforskriften/) Publisert 31.03.2020 | Avgitt: 30.03.2020 | Høring
 12. [Veibruksavgift på drivstoff 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-pa-drivstoff-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
 13. [Veibruksavgift på drivstoff 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/veibruksavgift-2019-2/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
@@ -47,3 +47,4 @@ Her finner du rettskilder om veibruksavgift på drivstoff. Disse sidene er for d
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

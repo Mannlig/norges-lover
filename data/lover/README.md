@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1901
+**Antall dokumenter:** 1904
 
 ## Innhold
 
@@ -1906,7 +1906,10 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd](2025-2029/200471-innstilling-fra-valgkomiteen-om-valg-av-medlemmer-og-varamedlemmer-til-nordisk-rad.md)
 - [Petroleumsskattelovgivningen – teknisk revisjon](2025-2029/200472-petroleumsskattelovgivningen-teknisk-revisjon.md)
 - [Petroleumsskattelovgivningen – teknisk revisjon](2025-2029/200473-petroleumsskattelovgivningen-teknisk-revisjon.md)
+- [Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering](2025-2029/200474-riksrevisjonens-undersokelse-av-myndighetenes-arbeid-med-energieffektivisering.md)
 - [Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026](2025-2029/200475-redegjorelse-av-utenriksministeren-om-viktige-eu-og-eos-saker-i-2026.md)
+- [Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler](2025-2029/200476-representantforslag-fra-stortingsrepresentantene-hege-bae-nyholt-marie-sneve-martinussen-og-terje-ko.md)
+- [Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk](2025-2029/200477-representantforslag-fra-stortingsrepresentantene-erlend-svardal-boe-erlend-larsen-margret-hagerup-ov.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
