@@ -1,4 +1,4 @@
-<!-- innholds-hash: c8ebf7925db5a3120dc0a3fda89a84db8985eaa4627acb98eb08d857fc680928 -->
+<!-- innholds-hash: c766e33aa0b1cc44d19b4b1d52461fd7ff259994c86566e36b399d5b3a1fc4d1 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Per-Willy Amundsen om stemmerett ved kommune- og fylkestingsvalg
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200456
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -133,7 +133,27 @@
   },
   "korttittel": "Representantforslag om stemmerett ved kommune- og fylkestingsvalg",
   "sak_fremmet_id": 200456,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Myrli",
+      "foedselsdato": "/Date(52005600000+0200)/",
+      "fornavn": "Sverre",
+      "id": "SMY",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Per-Willy Amundsen om stemmerett ved kommune- og fylkestingsvalg",
@@ -147,3 +167,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

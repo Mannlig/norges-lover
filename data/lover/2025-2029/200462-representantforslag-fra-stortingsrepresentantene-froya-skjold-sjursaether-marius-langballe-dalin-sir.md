@@ -1,4 +1,4 @@
-<!-- innholds-hash: a1e31320a49a320bcdbc20a84faf06b3d3c2571def74d6ba2570d6ba011aa0fc -->
+<!-- innholds-hash: 322a0575d5cd88e835414ec933a3d2ea520204edca9e94799d0d7098cc11b153 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier
 
@@ -14,7 +14,7 @@
 - **Emner:** Elektrisitet, Bygningsvesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200462
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -167,7 +167,27 @@
   },
   "korttittel": "Representantforslag om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
   "sak_fremmet_id": 200462,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sjursæther",
+      "foedselsdato": "/Date(1149717600000+0200)/",
+      "fornavn": "Frøya Skjold",
+      "id": "FRYSJU",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
@@ -182,3 +202,4 @@
 - **2026-10-13** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

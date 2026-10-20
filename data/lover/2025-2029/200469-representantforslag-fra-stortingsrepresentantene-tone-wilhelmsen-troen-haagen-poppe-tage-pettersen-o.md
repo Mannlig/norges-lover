@@ -1,4 +1,4 @@
-<!-- innholds-hash: 829f57f820381afe69002c7d2ebe544535a484e22ebf054a9204bbd422cae556 -->
+<!-- innholds-hash: e2ba00642dfccbd65d97feaf9a857fa9004c2de57c69c5df380cd2290fb3e33b -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200469
 - **Type:** 2
 - **Korttittel:** Representantforslag om et trygt og sikkert institusjonsbarnevern
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:21 S (2026–2027)
-- **Komité:** 
+- **Komité:** Familie- og kulturkomiteen
 - **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200469
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -116,12 +116,35 @@
   "id": 200469,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FAMKULT",
+    "navn": "Familie- og kulturkomiteen"
+  },
   "korttittel": "Representantforslag om et trygt og sikkert institusjonsbarnevern",
   "sak_fremmet_id": 200469,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Henriksen",
+      "foedselsdato": "/Date(899330400000+0200)/",
+      "fornavn": "Mats",
+      "id": "MATHEN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern",
   "type": 2
 }
@@ -133,3 +156,4 @@
 
 - **2026-10-15** Første gang hentet
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

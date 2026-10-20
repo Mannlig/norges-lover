@@ -1,20 +1,20 @@
-<!-- innholds-hash: cc3838b6e5e19803cb4ed2dd6ae5c38071e7d3538be12e91c228cd4c350718ef -->
+<!-- innholds-hash: 183d8960335fd3a970d7f170c2ff763e1a0c676f59123e9b05713adddd5fbb9a -->
 
-# Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper 
+# Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200430
 - **Type:** 2
-- **Korttittel:** Representantforslag om å skattelegge ekstraordinære overskudd i olje- og gasselskaper 
+- **Korttittel:** Representantforslag om å skattelegge ekstraordinære overskudd i olje- og gasselskaper
 - **Status:** 2
 - **Henvisning:** Dokument 8:11 S (2026–2027)
 - **Komité:** Finanskomiteen
 - **Emner:** Skatter, Olje og gass
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200430
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,32 @@
     "id": "FINANS",
     "navn": "Finanskomiteen"
   },
-  "korttittel": "Representantforslag om å skattelegge ekstraordinære overskudd i olje- og gasselskaper ",
+  "korttittel": "Representantforslag om å skattelegge ekstraordinære overskudd i olje- og gasselskaper",
   "sak_fremmet_id": 200430,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Jonsterhaug",
+      "foedselsdato": "/Date(965772000000+0200)/",
+      "fornavn": "Martin Virkesdal",
+      "id": "MARJON",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper ",
+  "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper",
   "type": 2
 }
 ```
@@ -125,3 +145,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

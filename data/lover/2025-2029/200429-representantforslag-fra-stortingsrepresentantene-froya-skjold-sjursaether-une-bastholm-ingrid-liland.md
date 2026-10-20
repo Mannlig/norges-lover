@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4b7d845184a4680fc8302698785c05ba948b20d15efc6c3b2f230e3714d2a8f9 -->
+<!-- innholds-hash: 3809f3c7a23a9f7ef708dd0e718475390b94e1d14547b694516f7a8d7bfe89e0 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn
 
@@ -14,7 +14,7 @@
 - **Emner:** Naturvern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200429
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -122,7 +122,27 @@
   },
   "korttittel": "Representantforslag om å forby jakt på ekorn",
   "sak_fremmet_id": 200429,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Hagenborg",
+      "foedselsdato": "/Date(59094000000+0100)/",
+      "fornavn": "Anne",
+      "id": "ANNHAG",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn",
@@ -137,3 +157,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

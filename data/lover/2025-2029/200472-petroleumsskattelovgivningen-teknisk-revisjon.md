@@ -1,4 +1,4 @@
-<!-- innholds-hash: ff10a9fb2edb04cc219a9275742a645f1fd2dfb414b7733b1901f37ed56229b2 -->
+<!-- innholds-hash: b71803c200cae65c7c7abd4a5796ac43671b0d89e02ba246b01c270a1333e601 -->
 
 # Petroleumsskattelovgivningen – teknisk revisjon
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200472
 - **Type:** 2
 - **Korttittel:** Petroleumsskattelovgivningen – teknisk revisjon (S-delen)
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 3 LS (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** Skatter, Olje og gass
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200472
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -46,12 +46,35 @@
   "id": 200472,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Petroleumsskattelovgivningen – teknisk revisjon (S-delen)",
   "sak_fremmet_id": 200472,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792143900000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Staahle",
+      "foedselsdato": "/Date(94518000000+0100)/",
+      "fornavn": "Tom",
+      "id": "TSTA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
+  "status": 2,
   "tittel": "Petroleumsskattelovgivningen – teknisk revisjon",
   "type": 2
 }
@@ -63,3 +86,4 @@
 
 - **2026-10-16** Første gang hentet
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

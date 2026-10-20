@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8d4bbcc969d133f95f92d61161bf6967c366e454c8352859b414898e6386c854 -->
+<!-- innholds-hash: 53d780c92635ed4287eb1a185a9e3de9d1fb8916793771ab992b5cc3cf7db51e -->
 
 # Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200471
 - **Type:** 2
 - **Korttittel:** Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Innst. 19 S (2026-2027)
 - **Komité:** Valgkomiteen
 - **Emner:** Stortingsrepresentanter, Nordisk samarbeid
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200471
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 7,
   "emne_liste": [
     {
@@ -54,7 +54,7 @@
   "sak_fremmet_id": 200471,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1792101600000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
   "type": 2
 }
@@ -67,3 +67,4 @@
 - **2026-10-16** Første gang hentet
 - **2026-10-16** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

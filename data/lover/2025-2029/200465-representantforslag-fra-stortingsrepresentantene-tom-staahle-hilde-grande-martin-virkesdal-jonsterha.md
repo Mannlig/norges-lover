@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1d851416a81b4a7c849c079bfd2fce637a39c42c1c74974765ac9c859d495f4f -->
+<!-- innholds-hash: 4cace30ec0e94c46f6846dd56109963d6c0a103526b8d83e4769ee33bbb7f7b0 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva
 
@@ -14,7 +14,7 @@
 - **Emner:** Norges bank, Statens pensjonsfond
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -129,7 +129,27 @@
   },
   "korttittel": "Representantforslag om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
   "sak_fremmet_id": 200465,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Jacobsen",
+      "foedselsdato": "/Date(-44416800000+0200)/",
+      "fornavn": "Frode",
+      "id": "FROJAC",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
@@ -144,3 +164,4 @@
 - **2026-10-14** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

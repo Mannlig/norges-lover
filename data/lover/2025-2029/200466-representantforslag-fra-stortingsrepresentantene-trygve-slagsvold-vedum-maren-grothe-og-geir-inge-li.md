@@ -1,4 +1,4 @@
-<!-- innholds-hash: a3561b41c418ef82c820d9a847ece269d6e87a00d09468f2cd516b18e80efd12 -->
+<!-- innholds-hash: d58d792b98433b36ce8e8ec7b53058cff48a35937622e6e98e2c74756e43516f -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften
 
@@ -14,7 +14,7 @@
 - **Emner:** Avgifter, Miljøvern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -110,7 +110,27 @@
   },
   "korttittel": "Representantforslag om å stanse opptrappingsplanen for CO2-avgiften",
   "sak_fremmet_id": 200466,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Merkesdal",
+      "foedselsdato": "/Date(103413600000+0200)/",
+      "fornavn": "Linda Monsen",
+      "id": "LIM",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften",
@@ -125,3 +145,4 @@
 - **2026-10-14** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

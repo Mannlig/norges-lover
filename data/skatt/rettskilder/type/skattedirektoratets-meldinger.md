@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a7b34895d250f1a6e3539360edcf410bf61f330567465c63672c4fcce98624c -->
+<!-- innholds-hash: e733fdc97adb2735e65d4292ee5d03453dbf6b3660592ec90dff642483d85b24 -->
 
 # Skattedirektoratets meldinger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T18:27:10Z
+- **Sist oppdatert i arkivet:** 2026-10-20T19:33:50Z
 
 ## Innhold
 
@@ -233,9 +233,9 @@ Forskuddsmeldingen (26)
 | [Stortingets vedtak om merverdiavgift for budsjetterminen 2003](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/stortingets-vedtak-om-merverdiavgift-for-budsjetterminen-2003/) | 02.01.2003 | SKD | 1 | 2003 |
 | [Endringer i lov om merverdiavgift](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endringer-i-lov-om-merverdiavgift/) | 02.01.2003 | SKD | 2 | 2003 |
 | [Endring av forskrifter om gjennomføring av fritaket for elektrisk kraft til husholdningsbruk i fylkene Finnmark, Troms og Nordland](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endring-av-forskrifter-om-gjennomforing-av-fritaket-for-elektrisk-kraft-til-husholdningsbruk-i-fylkene-finnmark-troms-og-nordland/) | 02.01.2003 | SKD | 3 | 2003 |
-| [Forskrift om bokføring og inntektsdokumentasjon for serveringssteder (forskrift nr. 126)](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskrift-om-bokforing-og-inntektsdokumentasjon-for-serveringssteder-forskrift-nr.-126/) | 19.12.2002 | SKD | 23 | 2002 |
 | [Forskuddsutskrivingen for 2003](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskuddsutskrivingen-for-2003/) | 18.12.2002 | SKD | 22 | 2002 |
 | [Takseringsreglene for 2002](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/takseringsreglene-for-2002/) | 12.12.2002 | SKD | 21 | 2002 |
+| [Forskrift om bokføring og inntektsdokumentasjon for serveringssteder (forskrift nr. 126)](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskrift-om-bokforing-og-inntektsdokumentasjon-for-serveringssteder-forskrift-nr.-126/) | 12.12.2002 | SKD | 23 | 2002 |
 | [Endring av forskrift om frivillig registrering av utleier av bygg eller anlegg til bruk i virksomhet som er registrert etter merverdiavgiftsloven (nr. 117)](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endring-av-forskrift-om-frivillig-registrering-av-utleier-av-bygg-eller-anlegg-til-bruk-i-virksomhet-som-er-registrert-etter-merverdiavgiftsloven-nr.-117/) | 28.11.2002 | SKD | 20 | 2002 |
 | [Refusjon av merverdiavgift på varer og tjenester til fremmede lands ambassader og konsulater med diplomatisk personell](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/refusjon-av-merverdiavgift-pa-varer-og-tjenester-til-fremmede-lands-ambassader-og-konsulater-med-diplomatisk-personell/) | 04.11.2002 | SKD | 19 | 2002 |
 | [Endring av forskrift om frivillig registrering av skipsrederier Fritak for investeringsavgift for frivillig registrerte flyselskaper](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/endring-av-forskrift-om-frivillig-registrering-av-skipsrederier-fritak-for-investeringsavgift-for-frivillig-registrerte-flyselskaper/) | 19.09.2002 | SKD | 17 | 2002 |
@@ -472,3 +472,4 @@ Forskuddsmeldingen (26)
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

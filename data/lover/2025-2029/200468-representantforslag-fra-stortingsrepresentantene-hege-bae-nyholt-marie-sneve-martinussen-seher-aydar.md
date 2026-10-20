@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3672f5f6c4b90d7e42fdd0dd4660d08a590446b6141771460b38909d7e298f47 -->
+<!-- innholds-hash: 764e7c1ea2fbdd05646dc1028f3031300f0584b46a6e21c67e265313c2601a6a -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200468
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avskaffe urimelige representantytelser
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:20 S (2026–2027)
-- **Komité:** 
+- **Komité:** Stortingets presidentskap
 - **Emner:** Stortingsrepresentanter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200468
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -116,12 +116,15 @@
   "id": 200468,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "PRES",
+    "navn": "Stortingets presidentskap"
+  },
   "korttittel": "Representantforslag om å avskaffe urimelige representantytelser",
   "sak_fremmet_id": 200468,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser",
   "type": 2
 }
@@ -133,3 +136,4 @@
 
 - **2026-10-15** Første gang hentet
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)

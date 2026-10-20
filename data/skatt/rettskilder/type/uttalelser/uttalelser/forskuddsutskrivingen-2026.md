@@ -1,4 +1,4 @@
-<!-- innholds-hash: ab0344e279b113477d51e489a6cab103e4a91d39f816aa0d06e0c2f3fe971d99 -->
+<!-- innholds-hash: 1e9fdc89ecd038022103dc09c1dd5d95f82268fc6fd26af0e4f2a7f2c2c8d834 -->
 
 # Forskuddsutskrivingen 2026
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/forskuddsutskrivingen-2026/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T18:26:05Z
+- **Sist oppdatert i arkivet:** 2026-10-20T19:32:44Z
 
 ## Innhold
 
@@ -1071,7 +1071,7 @@ Det skal derfor ikke tas hensyn til det særskilte fradraget for sjøfolk ved fo
 
 #### Sjøfolk bosatt i utlandet
 
-Sjøfolk som er bosatt i utlandet, får ikke skattekort. For disse gjelder egne trekktabeller som har innarbeidet fradrag de har krav på, og er basert på 12 måneders jevnt trekk. Det er ulike tabeller avhengig av om personen skal betale trygdeavgift og om personen har rett på særskilt fradrag for sjøfolk. [Se nærmere informasjon](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/artister-og-idrettsutovere-sokkel-sjo/sjofolk/).
+Sjøfolk som er bosatt i utlandet, får ikke skattekort. For disse gjelder egne trekktabeller som har innarbeidet fradrag de har krav på, og er basert på 12 måneders jevnt trekk. Det er ulike tabeller avhengig av om personen skal betale trygdeavgift og om personen har rett på særskilt fradrag for sjøfolk. [Se nærmere informasjon](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/grupper/sjofolk/).
 
 #### Asylsøkere med midlertidig tillatelse til å arbeide
 
@@ -1171,3 +1171,4 @@ Det må også tas hensyn til om den aktuelle skatteavtalen inneholder særskilte
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)

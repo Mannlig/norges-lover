@@ -1,4 +1,4 @@
-<!-- innholds-hash: 08ecdca8e04494c18938f7eed97a2f56823644096365356d1f65dff59c140b77 -->
+<!-- innholds-hash: 078b1d58552cb3d182ea5451d0cb6d3c49b6441ba69458245a9c66d60dc633e4 -->
 
 # Redegjørelse av barne- og familieministeren om status, gjennomførte tiltak og videre oppfølging av det som er avdekket om kriminelle aktører i barnevernet
 
@@ -14,7 +14,7 @@
 - **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200432
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -45,7 +45,27 @@
   },
   "korttittel": "Redegjørelse av barne- og familieministeren om status, gjennomførte tiltak og videre oppfølging av det som er avdekket om kriminelle aktører i barnevernet",
   "sak_fremmet_id": 200432,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Henriksen",
+      "foedselsdato": "/Date(899330400000+0200)/",
+      "fornavn": "Mats",
+      "id": "MATHEN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Redegjørelse av barne- og familieministeren om status, gjennomførte tiltak og videre oppfølging av det som er avdekket om kriminelle aktører i barnevernet",
@@ -60,3 +80,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-20** Innhold endret (se git-historikk for diff)
