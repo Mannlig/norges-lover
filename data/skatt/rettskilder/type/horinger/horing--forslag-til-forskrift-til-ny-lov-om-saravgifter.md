@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1869cddf57ad3a0e3a85e0dd4bdf5b1a6c9697577e7f8b60b1b11ab19a80249e -->
+<!-- innholds-hash: 04b32f515d5e6925571e7f953f2ffbdd930ebba60ade8369ef0726e088bdf536 -->
 
 # Høring – forslag til forskrift til ny lov om særavgifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/horinger/horing--forslag-til-forskrift-til-ny-lov-om-saravgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T12:36:00Z
+- **Sist oppdatert i arkivet:** 2026-10-20T00:47:31Z
 
 ## Innhold
 
@@ -59,6 +59,8 @@ Innspill til høringen bes sendt på e-post til horingsinnspill@skatteetaten.no 
 
 [Tolletaten](https://www.skatteetaten.no/contentassets/cb5d79eb6c2b476284a7aad7738084de/2026-10-tolletaten.pdf)
 
+[Kystrederiene](https://www.skatteetaten.no/contentassets/cb5d79eb6c2b476284a7aad7738084de/2026-10-kystrederiene.pdf)
+
 #### Uten merknad
 
 Domstolsadministrasjonen
@@ -75,3 +77,4 @@ Brønnøysundregistrene
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-20** Innhold endret (se git-historikk for diff)
