@@ -1,4 +1,4 @@
-<!-- innholds-hash: d92e4bd6639c643a1150e6e27c7a571c81d8790f26a9fabf360c1d0a2a720681 -->
+<!-- innholds-hash: 5101114918ed660ef79b2549203ce299aee6a9e204d40bd6fe9a25e28bad0eba -->
 
 # Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T16:57:25Z
+- **Sist oppdatert i arkivet:** 2026-10-21T16:39:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)",
   "sak_fremmet_id": 200417,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Qureshi",
+      "foedselsdato": "/Date(505350000000+0100)/",
+      "fornavn": "Farukh",
+      "id": "FARQUR",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
   "status": 2,
   "tittel": "Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)",
@@ -52,3 +72,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)

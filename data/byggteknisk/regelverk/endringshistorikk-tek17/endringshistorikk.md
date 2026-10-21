@@ -1,4 +1,4 @@
-<!-- innholds-hash: 93deeed9c7b705d5b7827d538cd8b8afa340909b2cf32b6e2f16e1b2f0e0bf2b -->
+<!-- innholds-hash: ed9efe322c12e1750e186dd2451163664cac1066cd7952d474ebdb6da66c3411 -->
 
 # Endringshistorikk for byggesaksforskriften (SAK)
 
@@ -7,7 +7,7 @@
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/endringshistorikk-tek17/endringshistorikk/
 - **Sist oppdatert (kilde):** Sist endret
         01.01.2024
-- **Sist oppdatert i arkivet:** 2026-10-06T12:23:41Z
+- **Sist oppdatert i arkivet:** 2026-10-21T18:49:35Z
 
 ## Innhold
 
@@ -36,7 +36,7 @@ Endringer loggføres fortløpende under hver enkelt bestemmelse i byggesaksforsk
 | 12. mai 2023 | [§ 4-1. Tiltak som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/4-1) | Lagt inn hjemmelshenvisning i innledning til veiledning. |
 | [§ 6-8. Selvbygger](https://www.dibk.no/regelverk/sak/2/6/6-8) | Veiledning om sekundærleilighet i første ledd er fjernet. |  |
 | [§ 16-1. Forhold som kan medføre overtredelsesgebyr. Gebyrenes størrelse](https://www.dibk.no/regelverk/sak/4/16/16-1) | Presisering i veiledningen til første ledd bokstav b nr. 2 slik at den er mer i samsvar med forskriftsteksten. |  |
-| 5. september 2022 | [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](https://www.dibk.no/regelverk/sak/2/4/4-3) | Til tredje ledd: Veiledningen om utstedelser av midlertidig brukstillatelse og ferdigattest er endret. |
+| 5. september 2022 | [§ 4-3. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](https://www.dibk.no/regelverk/sak/2/4/4-6) | Til tredje ledd: Veiledningen om utstedelser av midlertidig brukstillatelse og ferdigattest er endret. |
 | 1. juli 2022 Endringer i veiledningen til byggesaksforskriften | [§ 5-5. Dokumentasjon som skal foreligge i tiltaket](https://www.dibk.no/regelverk/sak/2/5/5-5) | Veiledningen til bokstav h er endret som følge av endringer i byggteknisk forskrift (TEK17). |
 | [§ 8-1. Ferdigstillelse av tiltak](https://www.dibk.no/regelverk/sak/2/8/8-1) | Veiledning til fjerde er endret som følge av endringer i byggteknisk forskrift (TEK17). |  |
 | [§ 12-2. Ansvarlig søkers ansvar](https://www.dibk.no/regelverk/sak/3/12/12-2) | Veiledning til ny bokstav n er lagt inn. |  |
@@ -96,3 +96,4 @@ Endringer loggføres fortløpende under hver enkelt bestemmelse i byggesaksforsk
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)

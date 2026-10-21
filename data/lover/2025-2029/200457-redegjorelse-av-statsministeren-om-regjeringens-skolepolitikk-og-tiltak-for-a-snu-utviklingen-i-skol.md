@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8ef37d8792c409adc2dc2a6026b94f39ec3811d0c3b83537ca95a8afd25a1a21 -->
+<!-- innholds-hash: 3e5f678ddb61740aece36df89ec4a756a06e6d07dbc2cdadd75e69bb8654b499 -->
 
 # Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200457
 - **Type:** 2
 - **Korttittel:** Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater
-- **Status:** 1
+- **Status:** 2
 - **Henvisning:** None
 - **Komité:** 
 - **Emner:** Skoler, Barn, Ungdommer
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
+- **Sist oppdatert i arkivet:** 2026-10-21T16:39:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200457
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -58,7 +58,7 @@
   "sak_fremmet_id": 200457,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
-  "status": 1,
+  "status": 2,
   "tittel": "Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater",
   "type": 2
 }
@@ -72,3 +72,4 @@
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-20** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)

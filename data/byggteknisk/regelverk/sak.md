@@ -1,4 +1,4 @@
-<!-- innholds-hash: 47d53681699d0721873232115fe364eebd331b6ed2c7f84dce7d5477adaaebb4 -->
+<!-- innholds-hash: e6120fc8ea5401ba574ddc96bf96a1a7b4cc4f232d77aa9abd80ca7a4fc5970a -->
 
 # Byggesaksforskriften (SAK10) med veiledning
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/sak/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T12:20:15Z
+- **Sist oppdatert i arkivet:** 2026-10-21T18:47:31Z
 
 ## Innhold
 
@@ -46,7 +46,7 @@ Søk
   - [§ 4-3. Solenergianlegg som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/-4-3.solenergianlegg-som-ikke-krever-soknad-og-tillatelse)
   - [§ 4-4. Unntak for utvendig etterisolering av eksisterende småhusbebyggelse](https://www.dibk.no/regelverk/sak/2/4/-4-4.unntak-for-utvendig-etterisolering-av-eksisterende-smahusbebyggelse)
   - [§ 4-5. Etablering av ladestasjoner som ikke krever søknad og tillatelse](https://www.dibk.no/regelverk/sak/2/4/-4-5.etablering-av-ladestasjoner-som-ikke-krever-soknad-og-tillatelse)
-  - [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](https://www.dibk.no/regelverk/sak/2/4/4-3)
+  - [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](https://www.dibk.no/regelverk/sak/2/4/4-6)
   - [§ 4-7. Unntak for nødvendige sikringstiltak etter akutte hendelser](https://www.dibk.no/regelverk/sak/2/4/-4-4.-unntak-for-nodvendige-sikringstiltak-etter-akutte-hendelser)
 - Kapittel 5 Søknad og dokumentasjon
   - [Innledning](https://www.dibk.no/regelverk/sak/2/5/innledning)
@@ -192,3 +192,4 @@ Veiledning om byggesak Forskrift om byggesak utfyller plan- og bygningslovens re
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)
