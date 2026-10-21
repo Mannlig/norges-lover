@@ -1,4 +1,4 @@
-<!-- innholds-hash: b9a8c2fb95e0c172855a5774f38d62ac1bbb2f316afa81f3efc9ad1e50838acb -->
+<!-- innholds-hash: 6146908a3f5f2d8ae438d748545c945da583ab0c90aa631ba1c94d043e4f602e -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-13T22:50:05Z
+- **Sist oppdatert i arkivet:** 2026-10-21T12:41:22Z
 
 ## Innhold
 
@@ -116,11 +116,11 @@ Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelt
 
 ### Kommende kurs og webinar
 
-[Frokostmøte Tønsberg: Tillit på arbeidsplassen – hvordan få det til i praksis? Statens Park, Anton Jenssens gate 5 tor. 15. okt. 08.00 - 10.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/forkostmote-tonsberg-tillit-pa-arbeidsplassen/)
+[Trondheim: Jobb forebyggende med psykososialt arbeidsmiljø – fra krav til praksis Statens hus, Prinsens gate 1A, Trondheim man. 16. nov. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/trondheim16nov-jobb-forebyggende-med-psykososialt-arbeidsmiljo--fra-krav-til-praksis/)
 
-[Oslo: Bli med oss å knuse myter om psykososialt arbeidsmiljø Statens Arbeidsmiljøinstitutt, Gydas vei 8 tir. 20. okt. 09.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/myter-om-psykososialt-arbeidsmiljo/)
+[Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – fra krav til praksis Østensjøveien 32, Oslo tor. 26. nov. 09.00 - 11.30 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/oslo-tydeligere-regelverk-om-psykososialt-arbeidsmiljo--fra-krav-til-praksis-26nov/)
 
-[Streaming seminar: Bli med oss å knuse myter om psykososialt arbeidsmiljø Online tir. 20. okt. 09.30 - 15.00 Digitale arrangement](https://www.arbeidstilsynet.no/kurs/streaming-myter-om-psykososialt-arbeidsmiljo/)
+[Trondheim: Jobb forebyggende med psykososialt arbeidsmiljø – fra krav til praksis Statens hus, Prinsens gate 1A, Trondheim man. 30. nov. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/trondheim30nov-jobb-forebyggende-med-psykososialt-arbeidsmiljo-fra-krav-til-praksis/)
 
 [Se alle våre kurs og webinar](https://www.arbeidstilsynet.no/kurs/)
 
@@ -158,3 +158,4 @@ Fann du det du leitte etter?
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 32f176ba1e90921c128a23024f7f1e55cbd8452d8f10c9501353d0089a7825e7 -->
+<!-- innholds-hash: 444ff6901d00898ff1b03b59afd934cdeeeca75d2a9c1fad64762110b4ea8c3d -->
 
 # Verneombud
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/verneombud/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-06T15:34:52Z
+- **Sist oppdatert i arkivet:** 2026-10-21T13:09:06Z
 
 ## Innhold
 
@@ -44,13 +44,13 @@ Arbeidstilsynet veileder i regelverket om verneombudets oppgaver og rolle. I til
 
 ### Regelverk
 
-[Verneombud i arbeidsmiljøloven kapittel 6](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88633)
+[Verneombud i arbeidsmiljøloven kapittel 6](https://arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml//#88633)
 
-[Verneombudets oppgaver og medvirkning i forskrift om organisering, ledelse og medvirkning kapittel 2-2](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85683)
+[Verneombudets oppgaver og medvirkning i forskrift om organisering, ledelse og medvirkning kapittel 2-2](https://arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85683)
 
-[Valg, opplæring m.m. av verneombud og arbeidsmiljøutvalg i forskrift om organisering, ledelse og medvirkning kapittel 3](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85687)
+[Valg, opplæring m.m. av verneombud og arbeidsmiljøutvalg i forskrift om organisering, ledelse og medvirkning kapittel 3](https://arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-organisering-ledelse-og-medvirkning//#85687)
 
-### Fann du det du leitte etter?
+Fann du det du leitte etter?
 
 ---
 *Automatisk hentet fra [Arbeidstilsynet](https://www.arbeidstilsynet.no/hms/roller-i-hms-arbeidet/verneombud/) av norges-lover-bot.*
@@ -59,3 +59,4 @@ Arbeidstilsynet veileder i regelverket om verneombudets oppgaver og rolle. I til
 
 - **2026-05-22** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)

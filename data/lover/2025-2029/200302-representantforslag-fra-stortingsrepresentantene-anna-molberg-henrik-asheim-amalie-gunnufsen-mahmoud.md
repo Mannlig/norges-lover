@@ -1,4 +1,4 @@
-<!-- innholds-hash: c5409a403b13776bcf96fc75b34ad15a3e4a615b96c7414aa83d9834656b37ba -->
+<!-- innholds-hash: 1836957f425a45c801a95ef78a09daab23db4ef2bf2f9f84829d17e9c3b6d31f -->
 
 # Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen, Mahmoud Farahmand om forskuttering av sykepenger
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om forskuttering av sykepenger
 - **Status:** 2
-- **Henvisning:** Dokument 8:285 S (2025-2026)
+- **Henvisning:** Dokument 8:285 S (2025-2026), Innst. 20 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-21T05:20:01Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200302
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:285 S (2025-2026)",
+  "henvisning": "Dokument 8:285 S (2025-2026), Innst. 20 S (2026-2027)",
   "id": 200302,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17576,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
+  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen, Mahmoud Farahmand om forskuttering av sykepenger",
   "type": 2
@@ -169,3 +169,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-21** Innhold endret (se git-historikk for diff)
