@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.
 
-**Antall dokumenter:** 736
+**Antall dokumenter:** 737
 
 ## Innhold
 
@@ -456,6 +456,7 @@ Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byg
 - [§ 4-1. Tiltak som ikke krever søknad og tillatelse](regelverk/sak/2/4/4-1.md)
 - [§ 4-2. Unntak for plassering av særskilt bygning, konstruksjon eller anlegg](regelverk/sak/2/4/4-2.md)
 - [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](regelverk/sak/2/4/4-3.md)
+- [§ 4-6. Unntak fra krav i plan- og bygningslovgivningen for visse tiltak som behandles etter andre lover](regelverk/sak/2/4/4-6.md)
 - [Innledning](regelverk/sak/2/4/innledning.md)
 - [§ 5-1. Generelle krav til søknad, erklæring om ansvarsrett og dokumentasjon](regelverk/sak/2/5/5-1.md)
 - [§ 5-2. Varsel til naboer og gjenboere](regelverk/sak/2/5/5-2/5.md)
