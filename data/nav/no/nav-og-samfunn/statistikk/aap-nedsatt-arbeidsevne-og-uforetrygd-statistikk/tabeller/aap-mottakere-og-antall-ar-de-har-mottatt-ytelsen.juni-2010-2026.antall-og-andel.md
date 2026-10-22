@@ -1,11 +1,11 @@
-<!-- innholds-hash: dfb27b33493679051cb194f4a24e3629e8b97980275d02bf65e4c7b9aeb24dcf -->
+<!-- innholds-hash: f2012efb4c60f7230b7c1afc8e3d2b0cd3af12050e34ca194f32f6ce231253c4 -->
 
 # AAP mottakere og antall år de har mottatt ytelsen. juni 2010-2026. Antall og andel. - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/aap-mottakere-og-antall-ar-de-har-mottatt-ytelsen.juni-2010-2026.antall-og-andel
-- **Sist oppdatert i arkivet:** 2026-10-09T18:27:56Z
+- **Sist oppdatert i arkivet:** 2026-10-22T08:24:18Z
 
 ## Innhold
 
@@ -19,7 +19,7 @@
 | 2 til 3 år |  |  |  |  | 87550 | 51,8 | 26758 | 16,0 | 25143 | 15,8 | 23471 | 15,5 | 23475 | 15,9 | 24387 | 16,9 | 23729 | 17,7 | 21328 | 18,0 | 19916 | 16,9 | 21744 | 16,6 | 26680 | 19,6 | 27394 | 18,9 | 26091 | 16,8 | 29629 | 17,9 | 30227 | 17,9 |
 | 3 til 4 år |  |  |  |  |  |  | 63207 | 37,8 | 19599 | 12,3 | 17748 | 11,7 | 15927 | 10,8 | 16365 | 11,3 | 16168 | 12,1 | 14873 | 12,5 | 13186 | 11,2 | 13225 | 10,1 | 13932 | 10,2 | 17669 | 12,2 | 17372 | 11,2 | 16152 | 9,8 | 19301 | 11,4 |
 | 4 til 5 år |  |  |  |  |  |  |  |  | 36776 | 23,2 | 11404 | 7,5 | 10059 | 6,8 | 9242 | 6,4 | 7638 | 5,7 | 4689 | 4,0 | 4256 | 3,6 | 6592 | 5,0 | 7030 | 5,2 | 6871 | 4,7 | 10057 | 6,5 | 10465 | 6,3 | 10733 | 6,4 |
-| 6+ år |  |  |  |  |  |  |  |  |  |  | 18927 | 12,5 | 17919 | 12,1 | 16267 | 11,3 | 11765 | 8,8 | 5010 | 4,2 | 1848 | 1,6 | 2223 | 1,7 | 3891 | 2,9 | 5554 | 3,8 | 8253 | 5,3 | 12167 | 7,3 | 14913 | 8,8 |
+| 5+ år |  |  |  |  |  |  |  |  |  |  | 18927 | 12,5 | 17919 | 12,1 | 16267 | 11,3 | 11765 | 8,8 | 5010 | 4,2 | 1848 | 1,6 | 2223 | 1,7 | 3891 | 2,9 | 5554 | 3,8 | 8253 | 5,3 | 12167 | 7,3 | 14913 | 8,8 |
 
 * Statistikken tar utgangspunkt i antall måneder med utbetalt AAP, målt fra sist tilgang til AAP
 
@@ -29,3 +29,4 @@
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)
