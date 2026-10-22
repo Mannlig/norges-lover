@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6b63d86b519e7b995605ee792d784beda106b4c3900665eb9b06f0a41ae6a5ba -->
+<!-- innholds-hash: c727f0339643bb89742f37d140538d28eebdd9ea0531dc2a1ed4541caa4d79f3 -->
 
 # Redegjørelse av utviklingsministeren om nordisk samarbeid
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200463
 - **Type:** 2
 - **Korttittel:** Redegjørelse av utviklingsministeren om nordisk samarbeid
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
 - **Emner:** Nordisk samarbeid
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
+- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 3,
   "emne_liste": [
     {
@@ -44,7 +44,7 @@
   "sak_fremmet_id": 200463,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
   "type": 2
 }
@@ -57,3 +57,4 @@
 - **2026-10-14** Første gang hentet
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-20** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

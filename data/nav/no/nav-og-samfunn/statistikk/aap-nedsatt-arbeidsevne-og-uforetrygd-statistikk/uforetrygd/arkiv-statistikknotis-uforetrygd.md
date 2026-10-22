@@ -1,20 +1,21 @@
-<!-- innholds-hash: bd3def35f1ab50d04f43a4c71bffe85f46c9c9ede63de46a17ee009517305e3b -->
+<!-- innholds-hash: dbafb6768e4270843e0d2ca19999add9e59d95e0f1f595d098a535e0a55fa318 -->
 
 # Arkiv - Statistikknotis uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/arkiv-statistikknotis-uforetrygd
-- **Sist oppdatert i arkivet:** 2026-10-09T18:53:50Z
+- **Sist oppdatert i arkivet:** 2026-10-22T16:54:11Z
 
 ## Innhold
 
-Publisert 11.08.2023 | Oppdatert 10.08.2026
+Publisert 11.08.2023 | Oppdatert 20.10.2026
 
 ## Arkiv - Statistikknotis uføretrygd
 
 #### 2026
 
+- [Per juni 2026 med prognoser for 2026 og 2027](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-statistikknotis-uforetrygd-utviklingen-per-juni-2026-med-prognoser-2026-og-2027)
 - [Per mars 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-statistikknotis-uforetrygd-utviklingen-per-mars-2026)
 
 #### 2025
@@ -41,3 +42,4 @@ Publisert 11.08.2023 | Oppdatert 10.08.2026
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)

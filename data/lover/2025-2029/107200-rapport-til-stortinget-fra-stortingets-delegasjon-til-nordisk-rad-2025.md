@@ -1,4 +1,4 @@
-<!-- innholds-hash: f2384de20cea81bc2b4fd0aebfab24440b1b07d3e6b19d1fefa6443c2d1a08a3 -->
+<!-- innholds-hash: 5d1d6dcc48855550415fd5d872a36ee923bd380ca859f43c5f77144e567852c8 -->
 
 # Rapport til Stortinget fra Stortingets delegasjon til Nordisk råd 2025
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 107200
 - **Type:** 2
 - **Korttittel:** Rapport til Stortinget fra Stortingets delegasjon til Nordisk råd 2025
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 17 (2025-2026), Innst. 250 S (2025-2026)
 - **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107200
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Rapport til Stortinget fra Stortingets delegasjon til Nordisk råd 2025",
   "type": 2
 }
@@ -70,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)

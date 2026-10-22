@@ -1,4 +1,4 @@
-<!-- innholds-hash: 553d03520774c6ad34f8532529489532050fc39add2c414b5b0de6afa8a46ffd -->
+<!-- innholds-hash: c268321a8213dfa135c32abb894ff9f63b3200ea9b15e35ef037afc857edb353 -->
 
 # Initiativdebatt om industripolitikk (initiativ fra næringskomiteen)
 
@@ -9,23 +9,24 @@
 - **Type:** 2
 - **Korttittel:** Initiativdebatt om industripolitikk (initiativ fra næringskomiteen)
 - **Status:** 1
-- **Stortingsperiode:** 2025-2029
-- **Behandlet:** 
-- **Sist hentet:** 2026-05-20T05:20:09Z
+- **Henvisning:** None
+- **Komité:** 
+- **Emner:** Forurensning, Elektrisitet, Næringsutvikling, Bergverk, Eu/eøs, Industri
+- **Behandlet i sesjon:** 2025-2026
+- **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-10-22T10:37:12Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200272
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
 
 ## Rådata (JSON fra API)
 
 ```json
 {
-  "respons_dato_tid": "/Date(1779253274422+0200)/",
-  "versjon": "1.6",
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 0,
   "emne_liste": [
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
@@ -33,8 +34,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 4,
       "id": 71,
@@ -42,8 +41,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 114,
@@ -51,8 +48,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 115,
@@ -60,8 +55,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 163,
       "id": 173,
@@ -69,8 +62,6 @@
       "underemne_liste": []
     },
     {
-      "respons_dato_tid": "/Date(1779253274422+0200)/",
-      "versjon": "1.6",
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 223,
@@ -94,7 +85,7 @@
 }
 ```
 
-*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot. Se [mannlig/norges-lover](https://github.com/mannlig/norges-lover) for kildekode.*
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
 
 ## Endringshistorikk
 
@@ -110,3 +101,4 @@
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-19** Innhold endret (se git-historikk for diff)
 - **2026-05-20** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

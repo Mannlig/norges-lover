@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4bbbf30027d5cea5127c5233c79d4bc785057c68387867e29207dba08bebfcc5 -->
+<!-- innholds-hash: e744ef3f9ead8e087db2a1a9aa7196b1cb13809cdf9acb17add83c79a7cdc37d -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler 
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200476
 - **Type:** 2
 - **Korttittel:** Representantforslag om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler 
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:22 S (2026–2027)
-- **Komité:** 
+- **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T11:38:29Z
+- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200476,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "UFO",
+    "navn": "Utdannings- og forskningskomiteen"
+  },
   "korttittel": "Representantforslag om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler ",
   "sak_fremmet_id": 200476,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler ",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-10-20** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)

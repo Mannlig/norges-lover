@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3d9f16ca63edc904c1cb27f6d692197c7f1ae69463d683a89ca3b99a2bc677d8 -->
+<!-- innholds-hash: b65a4fcb54500b495fa489a1205c191a5d688b9581fc1d703d02193d245cd9a5 -->
 
 # Årsrundskriv for engangsavgift 2022
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2022/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T01:53:26Z
+- **Sist oppdatert i arkivet:** 2026-10-22T12:32:18Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@
 
 I forbindelse med krigssituasjonen i Ukraina er det gjort endringer i regelverket for midlertidig innførsel og bruk av utenlandsregistrerte kjøretøy. Avgiftsrundskrivet er ikke oppdatert med disse endringene. Det betyr at avgiftsrundskrivet kan inneholde informasjon som midlertidig ikke er riktig.
 
-For mer informasjon se Skatteetatens sider med [informasjon til deg som er asylsøker fra Ukraina](https://www.skatteetaten.no/person/utenlandsk/ukraina/?url=https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina/%23bruke-utenlandsregistrert-bil&data=05%7c01%7cSKDnettredaksjonen2@skatteetaten.no%7c675bcaeb04884019773308da2dd51551%7cc9b0d3b5c0354c088136760ae8c28600%7c0%7c0%7c637872690441357587%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3d%7c3000%7c%7c%7c&sdata=6Q0IIubo3dF3/yQXT%2byaBlDnIarEb3TyzlgQP04jf1U%3d&reserved=0).
+For mer informasjon se Skatteetatens sider med [informasjon til deg som er asylsøker fra Ukraina](https://www.skatteetaten.no/person/til-fra-norge/til/ukraina/?url=https://www.skatteetaten.no/person/utenlandsk/informasjon-til-deg-som-er-asylsoker-fra-ukraina/%23bruke-utenlandsregistrert-bil&data=05%7c01%7cSKDnettredaksjonen2@skatteetaten.no%7c675bcaeb04884019773308da2dd51551%7cc9b0d3b5c0354c088136760ae8c28600%7c0%7c0%7c637872690441357587%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3d%7c3000%7c%7c%7c&sdata=6Q0IIubo3dF3/yQXT%2byaBlDnIarEb3TyzlgQP04jf1U%3d&reserved=0).
 
 Avgiftsrundskriv
 
@@ -72,3 +72,4 @@ Målgruppen er Skatteetatens ansatte, advokater, skattepliktige og andre som har
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)

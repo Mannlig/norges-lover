@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2222433ee7512b81eb01f3d0f9d7e6dbf39600dac5a5045bb321676e357084ac -->
+<!-- innholds-hash: a233de1d938a53e36cdbc057de92fce1a0f4524914f895e7e637c938205acf76 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200477
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gjennomgå og modernisere norsk alkoholpolitikk
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:23 S (2026–2027)
-- **Komité:** 
+- **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T11:38:29Z
+- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -165,12 +165,15 @@
   "id": 200477,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om å gjennomgå og modernisere norsk alkoholpolitikk",
   "sak_fremmet_id": 200477,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk",
   "type": 2
 }
@@ -181,3 +184,4 @@
 ## Endringshistorikk
 
 - **2026-10-20** Første gang hentet
+- **2026-10-22** Innhold endret (se git-historikk for diff)

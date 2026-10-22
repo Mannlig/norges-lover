@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1906
+**Antall dokumenter:** 1913
 
 ## Innhold
 
@@ -1912,6 +1912,13 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk](2025-2029/200477-representantforslag-fra-stortingsrepresentantene-erlend-svardal-boe-erlend-larsen-margret-hagerup-ov.md)
 - [Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi](2025-2029/200478-representantforslag-fra-stortingsrepresentant-kathy-lie-om-a-fa-luftambulansen-tilbake-i-statlig-reg.md)
 - [Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning](2025-2029/200479-representantforslag-fra-stortingsrepresentantene-maren-grothe-geir-inge-lien-geir-pollestad-og-trygv.md)
+- [Initiativdebatt fra utdannings- og forskningskomiteen om situasjonen i grunnskolen](2025-2029/200480-initiativdebatt-fra-utdannings-og-forskningskomiteen-om-situasjonen-i-grunnskolen.md)
+- [Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)](2025-2029/200481-representantforslag-fra-stortingsrepresentantene-bjornar-moxnes-hege-bae-nyholt-og-remi-solvberg-om-.md)
+- [Representantforslag fra stortingsrepresentantene Remi Sølvberg, Geir Jørgensen og Bjørnar Moxnes om å gjenreise norsk jernbane](2025-2029/200482-representantforslag-fra-stortingsrepresentantene-remi-solvberg-geir-jorgensen-og-bjornar-moxnes-om-a.md)
+- [Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon](2025-2029/200483-representantforslag-fra-stortingsrepresentantene-tom-staahle-hans-andreas-limi-hilde-grande-og-marti.md)
+- [Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Nikolai Astrup og Henrik Asheim om forutsigbart fritak for merverdiavgift for elektroniske aviser](2025-2029/200484-representantforslag-fra-stortingsrepresentantene-tone-wilhelmsen-troen-haagen-poppe-nikolai-astrup-o.md)
+- [Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg](2025-2029/200485-representantforslag-fra-stortingsrepresentantane-terje-kollbotn-bjornar-moxnes-hege-bae-nyholt-og-re.md)
+- [Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning](2025-2029/200486-representantforslag-fra-stortingsrepresentantene-bard-ludvig-thorheim-mari-holm-lonseth-anne-kristin.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
