@@ -1,20 +1,21 @@
-<!-- innholds-hash: d365b43ec3e85691331c3f996d774ab53c1ff0dc94fdf108f2140578d3d9d08c -->
+<!-- innholds-hash: 4a6daca810b69d9cb9485289910f73c85bd3d5278eead8172de3e6617a23b170 -->
 
 # Arkiv - Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte/arkiv-kontantstotte_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:27:57Z
+- **Sist oppdatert i arkivet:** 2026-10-23T09:02:22Z
 
 ## Innhold
 
-Publisert 23.01.2020 | Oppdatert 13.08.2026
+Publisert 23.01.2020 | Oppdatert 13.10.2026
 
 ## Arkiv - Kontantstøtte
 
 #### 2017-2026
 
+- [Statistikk pr. juni 2018-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte/arkiv-kontantstotte/arkiv-kontantstotte-juni-2026)
 - [Statistikk pr. mars 2018-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/kontantstotte/arkiv-kontantstotte/arkiv-kontantstotte-mars-2026)
 
 #### 2016-2025
@@ -138,3 +139,4 @@ Utbetalingene per mars, juni, september og desember 2017 gjenspeiler derfor ikke
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)

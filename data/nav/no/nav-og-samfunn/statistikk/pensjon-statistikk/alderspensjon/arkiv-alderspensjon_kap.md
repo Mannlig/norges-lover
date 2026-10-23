@@ -1,20 +1,21 @@
-<!-- innholds-hash: ec406703135ba4da3a9f8395fb4a6ce280dd4b0c26312f30b7029b69fdd42b32 -->
+<!-- innholds-hash: 48f8f0adfb29a7636a7c2d796a8fc3ca12de3aaf5c791d0eecc67d8e6fad6d70 -->
 
 # Arkiv - Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon/arkiv-alderspensjon_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:40:33Z
+- **Sist oppdatert i arkivet:** 2026-10-23T09:15:13Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 24.08.2026
+Publisert 01.12.2019 | Oppdatert 16.10.2026
 
 ## Arkiv - Alderspensjon
 
 #### 2026
 
+- [Statistikk pr. juni 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/alderspensjon/arkiv-alderspensjon/arkiv-alderspensjon.juni-2016-2026)
 - [Statistikk pr. mars 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-alderspensjon.mars-2016-2026)
 
 #### 2025
@@ -166,3 +167,4 @@ Publisert 01.12.2019 | Oppdatert 24.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)
