@@ -1,4 +1,4 @@
-<!-- innholds-hash: b8f68567aff3a6a269b546997f8aea351b206d93a8baed1135f88dd58b8b3952 -->
+<!-- innholds-hash: 4d2739145e3a0306625b768bcf9fac021326a62f8dbe41b5f171244c8daaf2b9 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon
 
@@ -14,7 +14,7 @@
 - **Emner:** Strafferett, Politi og påtalemyndighet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200461
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -129,7 +129,27 @@
   },
   "korttittel": "Representantforslag om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
   "sak_fremmet_id": 200461,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Blikra",
+      "foedselsdato": "/Date(-228016800000+0200)/",
+      "fornavn": "Jone",
+      "id": "JONBLI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Te",
+        "navn": "Telemark"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
@@ -144,3 +164,4 @@
 - **2026-10-13** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

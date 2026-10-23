@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8ddcf3812a3f39a6dd247c8904ca251324941b298bace850e455cb21c74d144b -->
+<!-- innholds-hash: 7d59c710b2fbc4e4e64d8c151177b202389565f926ac566b99d5dc11798c7e94 -->
 
 # Statsbudsjett 2027
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200437
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til justiskomiteen)",
   "sak_fremmet_id": 200437,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Engen-Helgheim",
+      "foedselsdato": "/Date(367192800000+0200)/",
+      "fornavn": "Jon",
+      "id": "JOEH",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Bu",
+        "navn": "Buskerud"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
@@ -51,3 +71,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f1bf0984499bd049dd067d04e26e5f7e7dc247a42d52712d66cf6bb42d586a9b -->
+<!-- innholds-hash: 916b85716021222723aac3e41e612075ed56765acfd664e5d9d7c66c1e67c124 -->
 
 # Grunnleggende helse- og sikkerhetskrav
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/forskrift/vedlegg-i-xii/i2/grunnleggende-helse--og-sikkerhetskrav/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T07:29:55Z
+- **Sist oppdatert i arkivet:** 2026-10-22T22:42:27Z
 
 ## Innhold
 
@@ -100,9 +100,9 @@ Søk
 
 Lenke kopiert til utklippstavlen
 
-Forrige
+[Forrige](https://www.dibk.no/regelverk/forskrift/vedlegg-i-xii/i2/grunnleggende-helse--og-sikkerhetskrav/)
 
-Neste
+[Neste](https://www.dibk.no/regelverk/forskrift/vedlegg-i-xii/i2/grunnleggende-helse--og-sikkerhetskrav/)
 
 - [Skriv ut denne siden](https://www.dibk.no/regelverk/forskrift/vedlegg-i-xii/i2/grunnleggende-helse--og-sikkerhetskrav/#autoprint)
 - [Skriv ut Vedlegg I Grunnleggende helse- og sikkerhetskrav](https://www.dibk.no/regelverk/forskrift/vedlegg-i-xii/i2/grunnleggende-helse--og-sikkerhetskrav?subtype=chapter&print=true&/#autoprint)
@@ -249,3 +249,4 @@ Test
 
 - **2026-05-18** Første gang hentet
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c2b81d3a2abfc7c143fd40e190d303696801d903cc7026398779268eee50cd75 -->
+<!-- innholds-hash: c8cc642b705ace044e5eae13ddbdb5c5b18c15f08d0944f2b6de850536d208a0 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 3:3 (2026–2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** 
+- **Emner:** Energi, Riksrevisjonen, Næringsliv, Bygningsvesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
+- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200474
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 4,
+      "id": 4,
+      "navn": "Energi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 29,
+      "navn": "Riksrevisjonen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 136,
+      "navn": "Bygningsvesen",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 3:3 (2026–2027)",
   "id": 200474,
@@ -51,3 +80,4 @@
 
 - **2026-10-20** Første gang hentet
 - **2026-10-20** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: df92673b36e8fcb422c845d9a4efb80658c942908e8a70b38de3ed203e5c7465 -->
+<!-- innholds-hash: 681c2dac6d2626380dbead6dad68d1a8a38d9bd4dd328aef24a73bc3a55413bd -->
 
 # Forside for kommuner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:09:34Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:03:06Z
 
 ## Innhold
 
@@ -22,11 +22,11 @@
 - [Renter](https://www.husbanken.no/rente/)
 - [Logg inn](https://www.husbanken.no/kommune/logg-inn/)
 
-### Søk om tilskudd til energitiltak
+### Tilskudd til aldersvennlig oppgradering av bolig
 
-Kommunene kan søke om tilskudd til energitiltak i kommunale utleieboliger, omsorgsboliger og sykehjem. Her finner du alt om tilskuddet, inkludert veiledning til søknadsprosessen:
+Innbyggere kan søke om tilskudd fra Husbanken for å gjøre boligen sin egnet for alderdommen. Her finner du som ansatt i kommunen informasjon du kan bruke i veiledning:
 
-[Les mer om tilskuddet](https://www.husbanken.no/kommune/lan-og-tilskudd/tilskudd-energitiltak/)
+[Se informasjonsside for innbygger](https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/) [Last ned brosjyre (PDF)](https://nedlasting.husbanken.no/Filer/8e18.pdf)
 
 ### Våre tjenester for kommunene
 
@@ -70,9 +70,9 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 
 ### Aktuelt
 
+- 21. oktober 2026 | Pressemelding [Tromsø kommune får to millioner kroner til kontroll av korttidsutleie](https://kommunikasjon.ntb.no/pressemelding/19112228/tromso-kommune-far-to-millioner-kroner-til-kontroll-av-korttidsutleie?publisherId=2823375&lang=no)
 - 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
 - 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
-- 7. juli 2026 | Pressemelding [36 millioner kroner i tilskudd til boligtiltak](https://kommunikasjon.ntb.no/pressemelding/18984742/36-millioner-kroner-i-tilskudd-til-boligtiltak?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
@@ -92,3 +92,4 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-23** Innhold endret (se git-historikk for diff)

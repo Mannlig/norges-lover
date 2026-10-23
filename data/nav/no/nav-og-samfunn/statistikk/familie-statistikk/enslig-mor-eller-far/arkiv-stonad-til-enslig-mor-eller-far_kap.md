@@ -1,20 +1,21 @@
-<!-- innholds-hash: 645e2f5d92c5d87aca7b98e575729162b1f0f1d0a1a3692d77df334b8aa45325 -->
+<!-- innholds-hash: c3d9893218e42ac60fb14172c1f40748ba8e417bd8bce71ffaef6be3d67988cd -->
 
 # Arkiv - Stønad til enslig mor eller far - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/enslig-mor-eller-far/arkiv-stonad-til-enslig-mor-eller-far_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:06:52Z
+- **Sist oppdatert i arkivet:** 2026-10-23T01:42:45Z
 
 ## Innhold
 
-Publisert 07.11.2023 | Oppdatert 20.08.2026
+Publisert 07.11.2023 | Oppdatert 21.10.2026
 
 ## Arkiv - Stønad til enslig mor eller far
 
 #### 2017-2026
 
+- [Statistikk pr. juni 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/enslig-mor-eller-far/arkiv-stonad-til-enslig-mor-eller-far/arkiv-stonad-til-enslig-mor-eller-far-juni-2026)
 - [Statistikk pr. mars 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/enslig-mor-eller-far/arkiv-stonad-til-enslig-mor-eller-far/arkiv-stonad-til-enslig-mor-eller-far-mars-2026)
 
 #### 2016-2025
@@ -145,3 +146,4 @@ Publisert 07.11.2023 | Oppdatert 20.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)

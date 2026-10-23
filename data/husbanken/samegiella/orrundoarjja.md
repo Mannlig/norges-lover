@@ -1,4 +1,4 @@
-<!-- innholds-hash: de214e1471651219a541786da11977495203e1e904598df7986dfcbaf23874cd -->
+<!-- innholds-hash: b50339dec9a017f0b7d3b52d0d90dfd86cad3986798b50dd8cd0623db4a1a29c -->
 
 # Sáhtát go don oažžut orrundoarjaga?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/samegiella/orrundoarjja/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T03:01:08Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:17:03Z
 
 ## Innhold
 
@@ -24,11 +24,11 @@ Don sáhtát geavahit orrundoarjjakalkuláhtora gávnnahan dihtii lea go dus rie
 
 [Oza orrundoarjaga](https://kundeforhold-bostotte.husbanken.no/)
 
-Neste svar og utbetaling: 20. oktober
+Neste svar og utbetaling: 20. november
 
-Next response and payment: 20 October
+Next response and payment: 20 November
 
-Boahtte vástádus ja máksin: golggotmánus 20.b.
+Boahtte vástádus ja máksin: skábmamánus 20.b.
 
 Neste søknadsfrist: 25. oktober
 
@@ -48,3 +48,4 @@ Maŋimuš ođasmahttojuvvon: 28.08.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)

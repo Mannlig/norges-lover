@@ -1,4 +1,4 @@
-<!-- innholds-hash: b31c8a80fb1f7c84c77e953b4f2ca700648afe05b0a26daae3bab5d1a516d78b -->
+<!-- innholds-hash: d667c5ce4c3d52baf1c9ff637c9dcac80b67f2ac2106de1ef1575cf5d953b29f -->
 
 # Rapporter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/rapporter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:17:28Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:10:33Z
 
 ## Innhold
 
@@ -15,6 +15,15 @@
 Her finner du resultater av boligforskning og boligsosialt utviklingsarbeid, samt masteroppgaver knyttet til utvalgte boligspørsmål. Rapportene er bestilt og finansiert av Husbanken.
 
 [Søk i hele Koha-databasen](https://husbanken.bibkat.no/cgi-bin/koha/opac-search.pl)
+
+- Boligkvalitet
+- Boligplanlegging og -bygging
+- Innovasjon
+- Miljø og energi
+
+- Boligsosialt arbeid
+- Bostedsløs
+- Psykisk helse og rus
 
 - Boligsosialt arbeid
 - Lån og tilskudd
@@ -100,14 +109,6 @@ Her finner du resultater av boligforskning og boligsosialt utviklingsarbeid, sam
 - Bostedsløs
 - Eldre
 
-- Bolig i distriktene
-- Leie eller eie
-- Boligplanlegging og -bygging
-
-- Bolig i distriktene
-- Leie eller eie
-- Boligplanlegging og -bygging
-
 Forrige
 
 1. [1](https://www.husbanken.no/rapporter/?su=&ty=)
@@ -127,3 +128,4 @@ Forrige
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-23** Innhold endret (se git-historikk for diff)

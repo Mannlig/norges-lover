@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9da788b69c630debe96fe2796cfd7b36a03cf778ee149ad6a8e9e6dcba226348 -->
+<!-- innholds-hash: 4dd0ff83c841a95255b14fc0c7e6dc2850f4d82d6369029bcb4779e4d796f577 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser
 
@@ -14,7 +14,7 @@
 - **Emner:** Barn, Ungdommer, Menneskerettigheter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200454
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -155,7 +155,27 @@
   },
   "korttittel": "Representantforslag om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
   "sak_fremmet_id": 200454,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Solli",
+      "foedselsdato": "/Date(612050400000+0200)/",
+      "fornavn": "Kristine Løfshus",
+      "id": "KRISOL",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
@@ -170,3 +190,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

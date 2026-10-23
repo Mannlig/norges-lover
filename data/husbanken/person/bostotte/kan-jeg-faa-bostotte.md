@@ -1,4 +1,4 @@
-<!-- innholds-hash: a41293dada70e16e903076397070a038dfce6609e98d3b0c16b3db2d94acfc71 -->
+<!-- innholds-hash: 37ea9d5a458df4556bc31419e68eb01031939978daa70dadcf20bdb80eed7ab6 -->
 
 # Kan du få bostøtte?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/kan-jeg-faa-bostotte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:58:41Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:14:21Z
 
 ## Innhold
 
@@ -30,11 +30,11 @@ Du kan bruke bostøttekalkulatoren for å finne ut om du har rett til bostøtte 
 
 [Søk om bostøtte](https://kundeforhold-bostotte.husbanken.no/)
 
-Neste svar og utbetaling: 20. oktober
+Neste svar og utbetaling: 20. november
 
-Next response and payment: 20 October
+Next response and payment: 20 November
 
-Boahtte vástádus ja máksin: golggotmánus 20.b.
+Boahtte vástádus ja máksin: skábmamánus 20.b.
 
 Neste søknadsfrist: 25. oktober
 
@@ -68,3 +68,4 @@ Sist oppdatert: 19.06.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)

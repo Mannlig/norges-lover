@@ -1,4 +1,4 @@
-<!-- innholds-hash: 938d0547363058facab27d41e3917b35fc6cdc8605ea70cb6b4643da274dc1b8 -->
+<!-- innholds-hash: b9d903355c4181e28ce6ff026dde0d39ddb3a8052e2c6e38b09cf1429178f1e3 -->
 
 # Webinar: Søkerkonferanse om masterstipend fra Husbanken
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/sokerkonferanse-masterstipend/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:33:50Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:26:46Z
 
 ## Innhold
 
@@ -31,6 +31,8 @@ I webinaret får du vite mer om stipendordningen, hvilke kriterier du må tilfre
 
 Du får også høre fra studenter som har fått stipend tidligere.
 
+Sendingen starter 16.oktober kl.10:00. Her er lenke direkte til sendingen: [Søkerkonferanse masterstipend](https://events.teams.microsoft.com/event/a5d74d0e-e284-473f-809e-f02d0302d465@77e47158-9efd-44d2-a15a-59179d616e84)
+
 ### Program
 
 - Hva er masterstipend fra Husbanken, og hvem kan søke? v/ Gry Kongsli og Anne Camilla Vaalund, Husbanken
@@ -53,3 +55,4 @@ Sist oppdatert: 25.09.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-23** Innhold endret (se git-historikk for diff)

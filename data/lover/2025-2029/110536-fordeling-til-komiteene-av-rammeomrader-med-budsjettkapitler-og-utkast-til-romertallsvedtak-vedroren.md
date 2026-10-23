@@ -1,4 +1,4 @@
-<!-- innholds-hash: a5ddd3ae838963006e27066a50a04f0ff8295df25e190cbc2365ec600441447a -->
+<!-- innholds-hash: 26a24a72a117fb79bfa62b9f620fc6a6519acead0e3b3a2237c2db002d19ff5b -->
 
 # Fordeling til komiteene av rammeområder med budsjettkapitler og utkast til romertallsvedtak vedrørende forslaget til statsbudsjett for 2027
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Innst. 1 S (2026-2027)
 - **Komité:** Stortingets presidentskap
-- **Emner:** 
+- **Emner:** Statsbudsjettet, Stortinget
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-13T15:22:06Z
+- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=110536
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 7,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 185,
+      "navn": "Statsbudsjettet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Innst. 1 S (2026-2027)",
   "id": 110536,
@@ -51,3 +66,4 @@
 
 - **2026-10-12** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-22** Innhold endret (se git-historikk for diff)

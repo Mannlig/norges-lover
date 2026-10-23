@@ -1,4 +1,4 @@
-<!-- innholds-hash: ccfc2b056de56b1f82f0c4fdabb7560243b052002c76aa3625c5a16df718aa39 -->
+<!-- innholds-hash: 0f41ccf787d417ffcb5c1af7a1c2943fdf3e869da1ac34d8823ced3ea9915314 -->
 
 # Forside for bransjeaktører
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/bransje/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:06:57Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:00:32Z
 
 ## Innhold
 
@@ -75,9 +75,9 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 
 ### Aktuelt
 
+- 21. oktober 2026 | Pressemelding [Tromsø kommune får to millioner kroner til kontroll av korttidsutleie](https://kommunikasjon.ntb.no/pressemelding/19112228/tromso-kommune-far-to-millioner-kroner-til-kontroll-av-korttidsutleie?publisherId=2823375&lang=no)
 - 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
 - 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
-- 7. juli 2026 | Pressemelding [36 millioner kroner i tilskudd til boligtiltak](https://kommunikasjon.ntb.no/pressemelding/18984742/36-millioner-kroner-i-tilskudd-til-boligtiltak?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
@@ -97,3 +97,4 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-23** Innhold endret (se git-historikk for diff)

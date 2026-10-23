@@ -1,20 +1,21 @@
-<!-- innholds-hash: dad29e367d8ac39f50b5f1079a451352d4238fab2cf16c414d406695433f390a -->
+<!-- innholds-hash: f7f1a4059322e00a4f2a21dc3e6b863b05ed3389df21dc95b73cb66d3904f423 -->
 
 # Arkiv - Barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnetrygd/arkiv-barnetrygd_kap
-- **Sist oppdatert i arkivet:** 2026-10-09T23:59:59Z
+- **Sist oppdatert i arkivet:** 2026-10-23T01:35:32Z
 
 ## Innhold
 
-Publisert 30.04.2024 | Oppdatert 24.08.2026
+Publisert 30.04.2024 | Oppdatert 20.10.2026
 
 ## Arkiv - Barnetrygd
 
 #### 2017-2026
 
+- [Statistikk pr. juni 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnetrygd/arkiv-barnetrygd/arkiv-barnetrygd-juni-2026)
 - [Statistikk pr. mars 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnetrygd/arkiv-barnetrygd/arkiv-barnetrygd-mars-2026)
 
 #### 2016-2025
@@ -133,3 +134,4 @@ Publisert 30.04.2024 | Oppdatert 24.08.2026
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-10-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 12c4ac6a91d3876d46ec9eac46cacec771ffd0921ab55e4f68d53ddd795e667d -->
+<!-- innholds-hash: 51aad5ac59b216f396506af839c509b5d7595f7a711f8d961491034d377b359d -->
 
 # Rakkestad: Boligtreff i Østfold
 
@@ -6,14 +6,14 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:32:47Z
+- **Sist oppdatert i arkivet:** 2026-10-23T02:25:47Z
 
 ## Innhold
 
 ## Rakkestad: Boligtreff i Østfold
 
 - Tid Start 20. november kl. 10.00 | Slutt 20. november kl. 14.00
-- Sted Informasjon kommer
+- Sted Rakkestad kulturhus, Rådhusveien 8
 - Pris Gratis
 - [Påmelding](https://apps.husbanken.no/pameld.aspx?hbevt=F8D364FC-C5AB-4FF1-8C8A-F7E5767991BA) Påmeldingsfrist er 16. november kl. 14.00
 
@@ -29,7 +29,7 @@ Arrangementet er et samarbeid mellom Husbanken og Rakkestad kommune.
 
 ### Program
 
-- Demografi og regionale rammer, og om Ruralis-prosjektet ved Østfold fylkeskommune
+- Demografi og regionale rammer, og om Ruralise-prosjektet ved Østfold fylkeskommune
 - Fra kunnskap og forankring til gjennomføring - ulike aspekter ved boligkartlegging, analyse, organisering og planlegging for å bygge egnede boliger, ved kommunene Fredrikstad, Moss og Sarpsborg.
 - Husbankens virkemidler med gode eksempler
 - Lunsj
@@ -38,13 +38,13 @@ Arrangementet er et samarbeid mellom Husbanken og Rakkestad kommune.
 - Halden boligbyggelag og boligkjøpsmodellen «Leie før Eie» ved Richard Olsen
 - En «eierløsning» for unge funksjonshemmede, Hovskogen borettslag ved Kenneth Andre Johannessen i Indre Østfold kommune
 - En oppsummering av prosjektene som er presentert ved Erik Simensen
-- Oppgradering og tilpasning av boliger ved Husbanken og NAV Hjelpemiddelsentral
+- Oppgradering og tilpasning av boliger ved Husbanken
 - Ta vare på boligene vi har og bygge det vi trenger. Vi har invitert Solis arkitekter til å se på mulighetene for ombygg og transformasjon.
 - Vi runder av og vel hjem!
 
-Ved spørsmål, ta kontakt på e-post.
+Ved spørsmål, ta kontakt med Irene Lofthus i Husbanken Øst.
 
-Sist oppdatert: 13.10.2026
+Sist oppdatert: 19.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/) av norges-lover-bot.*
@@ -53,3 +53,4 @@ Sist oppdatert: 13.10.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-23** Innhold endret (se git-historikk for diff)
