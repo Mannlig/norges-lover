@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0f416a190b8995b7c36527b20b48a3a16c99376d23131e879ef15f8a2243c03d -->
+<!-- innholds-hash: 159f4f4a624588d05a7a748e770d854a5736ec257852b75e5be14463ffc2839e -->
 
 # Klagevedtak arveavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T15:20:54Z
+- **Sist oppdatert i arkivet:** 2026-10-24T05:27:57Z
 
 ## Innhold
 
@@ -29,8 +29,8 @@ Her finner du klagevedtak i arveavgift som er behandlet av Skattedirektoratet so
 | [Opphevelse av skattekontoret sitt arveavgiftsvedtak om fordelingen av arven, frafall av falt arv og saksbehandlingsfeil](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/opphevelse-av-skattekontoret-sitt-arveavgiftsvedtak-om-fordelingen-av-arven-frafall-av-falt-arv-og-saksbehandlingsfeil/) |  | 13.12.2012 |
 | [Opphevelse av skattekontoret sitt arveavgiftsvedtak om verdsettelse av pengekrav](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/opphevelse-av-skattekontoret-sitt-arveavgiftsvedtak-om-verdsettelse-av-pengekrav/) |  | 13.12.2012 |
 | [Opphevelse av arveavgiftsvedtak](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/opphevelse-av-arveavgiftsvedtak/) |  | 13.12.2012 |
-| [Fastholdelse av skattekontoret sitt arveavgiftsvedtak om betydningen av tidligere gaver](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/fastholdelse-av-skattekontoret-sitt-arveavgiftsvedtak-om-betydningen-av-tidligere-gaver/) |  | 13.12.2012 |
 | [Fastholdelse av skattekontoret sitt arveavgiftsvedtak](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/fastholdelse-av-skattekontoret-sitt-arveavgiftsvedtak/) |  | 13.12.2012 |
+| [Fastholdelse av skattekontoret sitt arveavgiftsvedtak om betydningen av tidligere gaver](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/fastholdelse-av-skattekontoret-sitt-arveavgiftsvedtak-om-betydningen-av-tidligere-gaver/) |  | 13.12.2012 |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/vedtak/klagevedtak-arveavgift/) av norges-lover-bot.*
@@ -38,3 +38,4 @@ Her finner du klagevedtak i arveavgift som er behandlet av Skattedirektoratet so
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-24** Innhold endret (se git-historikk for diff)

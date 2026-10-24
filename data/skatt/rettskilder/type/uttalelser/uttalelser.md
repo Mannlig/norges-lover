@@ -1,4 +1,4 @@
-<!-- innholds-hash: b341993adb857435f0b2e4bed9b4fcfe1375240aa98725294307612d168dfcff -->
+<!-- innholds-hash: d8744da9c9f80c270e5485b89d17d8ecdc5e2f08a99fe8979d808505dbafa307 -->
 
 # Uttalelser fra Skattedirektoratet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T15:17:28Z
+- **Sist oppdatert i arkivet:** 2026-10-24T05:24:25Z
 
 ## Innhold
 
@@ -16,12 +16,13 @@ Uttalelser gir uttrykk for Skatteetatens forvaltningspraksis og forståelse av r
 
 ### Søk
 
-33 treff
+34 treff
 
 **Liste over Uttalelser fra Skattedirektoratet**
 
-| [Dispensasjon fra enkelte bestemmelser i bokføringsloven og bokføringsforskriften](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/dispensasjon-fra-enkelte-bestemmelser-i-bokforingsloven-og-bokforingsforskriften/) | 02.10.2026 | 02.10.2026 |
+| [Krav til dokumentasjon ved utførsel av varer](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/krav-til-dokumentasjon-ved-utforsel-av-varer/) | 16.10.2026 | 16.10.2026 |
 | --- | --- | --- |
+| [Dispensasjon fra enkelte bestemmelser i bokføringsloven og bokføringsforskriften](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/dispensasjon-fra-enkelte-bestemmelser-i-bokforingsloven-og-bokforingsforskriften/) | 02.10.2026 | 02.10.2026 |
 | [Salg av fjernleverbare tjenester fra utenlandsk tilbyder til norsk juridisk person registrert i Merverdiavgiftsregisteret – mval. § 11-3](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/salg-av-fjernleverbare-tjenester-fra-utenlandsk-tilbyder-til-norsk-juridisk-person-registrert-i-merverdiavgiftsregisteret--mval.--11-3-/) | 01.10.2026 | 01.10.2026 |
 | [Forskrifter til lovendringer om digital bokføring og e-fakturering](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/forskrifter-til-lovendringer-om-digital-bokforing-og-e-fakturering/) | 30.09.2026 | 30.09.2026 |
 | [Rederibeskatning flaggkrav 2026](https://www.skatteetaten.no/rettskilder/type/uttalelser/uttalelser/rederibeskatning-flaggkrav-2026/) | 23.09.2026 | 28.09.2026 |
@@ -61,3 +62,4 @@ Uttalelser gir uttrykk for Skatteetatens forvaltningspraksis og forståelse av r
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-24** Innhold endret (se git-historikk for diff)

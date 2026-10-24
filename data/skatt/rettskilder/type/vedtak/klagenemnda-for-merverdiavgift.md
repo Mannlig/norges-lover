@@ -1,4 +1,4 @@
-<!-- innholds-hash: bda995855e56add39df6a277d99e9e5b7ef9792c1a028e247c278e3db1d44a2b -->
+<!-- innholds-hash: 792490b751d5182e16f38a7017a005b5e5a9d0da1899d17358f6db939d3516a9 -->
 
 # Klagenemnda for merverdiavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T15:19:45Z
+- **Sist oppdatert i arkivet:** 2026-10-24T05:26:51Z
 
 ## Innhold
 
@@ -136,8 +136,8 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvo
 | [KMVA 8759. Tilbakeføring av fradragsførte justeringsbeløp. Mval. §§ 9-1 (2) b og 9-7](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8759.-tilbakeforing-av-fradragsforte-justeringsbelop.-mval.--9-1-2-b-og-9-7/) | 15.02.2016 | KMVA | 8759 |
 | [KMVA 8720](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8720/) | 15.02.2016 | KMVA | 8720 |
 | [KMVA 8691A Forvaltning av investeringsselskap. Mval. § 3-6 og § 3-30](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8691a-forvaltning-av-investeringsselskap.-mval.--3-6-og--3-30/) | 15.02.2016 | KMVA | 8691A |
-| [KMVA 8625A. Tilbakeføring av inngående avgift. Mval. § 18-1 c](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8625a.-tilbakeforing-av-inngaende-avgift.-mval.--18-1-c/) | 15.02.2016 | KMVA | 8625A |
 | [KMVA 8625A. Tilbakeføring av inngående avgift. Mval. § 18-1 (1) c](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8625a.-tilbakeforing-av-inngaende-avgift.-mval.--18-1-1-c/) | 15.02.2016 | KMVA | 8625A |
+| [KMVA 8625A. Tilbakeføring av inngående avgift. Mval. § 18-1 c](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8625a.-tilbakeforing-av-inngaende-avgift.-mval.--18-1-c/) | 15.02.2016 | KMVA | 8625A |
 | [KMVA 7640A Klager AS. Tap på krav. Tilleggsavgift. Mval §§ 4-7 og 21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-7640a-klager-as.-tap-pa-krav.-tilleggsavgift.-mval--4-7-og-21-3/) | 15.02.2016 | KMVA | 7640A |
 | [KMVA 7134B Saksomkostninger. Mval. § 19-2](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-7134b-saksomkostninger.-mval.--19-2/) | 15.02.2016 | KMVA | 7134B |
 | [KMVA 8829](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8829/) | 12.02.2016 | KMVA | 8829 |
@@ -309,8 +309,8 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvo
 | [KMVA 8593- Fradrag for inngående merverdiavgift, jfr. Mval. §8-1](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8593--fradrag-for-inngaende-merverdiavgift-jfr.-mval.-8-1/) | 22.06.2015 | KMVA | 8593 |
 | [KMVA 8592 -Tilleggsavgift med 20 %/kr 90 000, jfr. Mval. §21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8592--tilleggsavgift-med-20-kr-90-000-jfr.-mval.-21-3/) | 22.06.2015 | KMVA | 8592 |
 | [KMVA 8591 - Skattekontorets etterberegning av utgående merverdiavgift med kr 19700, jfr. Mval. §§3-3, 6-22 og 21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8591---skattekontorets-etterberegning-av-utgaende-merverdiavgift-med-kr-19700-jfr.-mval.-3-3-6-22-og-21-3/) | 22.06.2015 | KMVA | 8591 |
-| [KMVA 8584 - Tilbakeføring av urett frådragsført inngåande meirverdiavgift med tilsaman kr 322 182 da verksemda ikkje er driven i næring, jfr. Mval. §§2-1,8-1,14-3,18-3,21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8584---tilbakeforing-av-urett-fradragsfort-inngaande-meirverdiavgift-med-tilsaman-kr-322-182-da-verksemda-ikkje-er-driven-i-naring-jfr.-mval.-2-18-114-318-321-3/) | 22.06.2015 | KMVA | 8584 |
 | [KMVA 8584 - Tilbakeføring av urett frådragsført inngåande meirverdiavgift med tilsaman kr 322 182 da verksemda ikkje er driven i næring, jfr. Mval. §§ 2-1, 8-1, 14-3, 18-3, 21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8584---tilbakeforing-av-urett-fradragsfort-inngaande-meirverdiavgift-med-tilsaman-kr-322-182-da-verksemda-ikkje-er-driven-i-naring-jfr.-mval.--2-1-8-1-14-3-18-3-21-3/) | 22.06.2015 | KMVA | 8584 |
+| [KMVA 8584 - Tilbakeføring av urett frådragsført inngåande meirverdiavgift med tilsaman kr 322 182 da verksemda ikkje er driven i næring, jfr. Mval. §§2-1,8-1,14-3,18-3,21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8584---tilbakeforing-av-urett-fradragsfort-inngaande-meirverdiavgift-med-tilsaman-kr-322-182-da-verksemda-ikkje-er-driven-i-naring-jfr.-mval.-2-18-114-318-321-3/) | 22.06.2015 | KMVA | 8584 |
 | [KMVA 8583 - Tilleggsavgift på kr 18 154 ilagt for urettmessig fradrag av inngående merverdiavgift, jfr. Mval. §21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8583---tilleggsavgift-pa-kr-18-154-ilagt-for-urettmessig-fradrag-av-inngaende-merverdiavgift-jfr.-mval.-21-3/) | 22.06.2015 | KMVA | 8583 |
 | [KMVA 8579: Tilleggsavgift. Mval. § 21-3](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8579-tilleggsavgift.-mval.--21-3/) | 22.06.2015 | KMVA | 8579 |
 | [KMVA 8578 Tilbakeføring av fradragsført inngående merverdiavgift grunnet manglende legitimasjon og feilaktig kreditering av husleieinntekt](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8578-tilbakeforing-av-fradragsfort-inngaende-merverdiavgift-grunnet-manglende-legitimasjon-og-feilaktig-kreditering-av-husleieinntekt/) | 22.06.2015 | KMVA | 8578 |
@@ -1616,3 +1616,4 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvo
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1b00da42126311943ef5e72d21c0589adb4ed48a856ff8a489c8e68d4e1c1d37 -->
+<!-- innholds-hash: 73880f5f608abb68238dc2bd8ebf8a6b02b711a07b1005645be6dc3eae8c68f5 -->
 
 # Prinsipputtalelser
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T15:16:22Z
+- **Sist oppdatert i arkivet:** 2026-10-24T05:23:21Z
 
 ## Innhold
 
@@ -503,8 +503,8 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 | [Fellesskriv stripping](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fellesskriv-stripping/) | 09.12.2020 | 28.02.2003 |
 | [FIN helsetjenste, skjønnhetspleie, epilasjon](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fin-helsetjenste-skjonnhetspleie-epilasjon/) | 09.12.2020 | 24.02.2003 |
 | [Merverdiavgiftsplikt for tjenester som tillitsmann, mval. (1969) § 5 B nr 4](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsplikt-for-tjenester-som-tillitsmann-mval.-1969--5-b-nr-4/) | 20.01.2022 | 16.12.2002 |
-| [Inkasso kemnerens tjenester omsetning](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/inkasso-kemnerens-tjenester-omsetning2/) | 04.12.2020 | 22.11.2002 |
 | [Inkasso kemnerens tjenester omsetning](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/inkasso-kemnerens-tjenester-omsetning/) | 04.12.2020 | 22.11.2002 |
+| [Inkasso kemnerens tjenester omsetning](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/inkasso-kemnerens-tjenester-omsetning2/) | 04.12.2020 | 22.11.2002 |
 | [Forholdet mellom utleie av fast eiendom og utleie av parkeringsplasser i parkeringsvirksomhet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/forholdet-mellom-utleie-av-fast-eiendom-og-utleie-av-parkeringsplasser-i-parkeringsvirksomhet/) | 08.02.2013 | 14.11.2002 |
 | [Fellesskriv merverdiavgift og konkurs](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fellesskriv-merverdiavgift-og-konkurs/) | 04.12.2020 | 14.11.2002 |
 | [Spørsmål om norske næringsdrivendes virksomhet i utlandet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/sporsmal-om-norske-naringsdrivendes-virksomhet-i-utlandet/) | 21.12.2023 | 13.11.2002 |
@@ -856,8 +856,8 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 | [Merverdiavgift - ungdomsbedrift](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---ungdomsbedrift/) | 24.11.2011 |  |
 | [Merverdiavgift - tjenester knyttet til forsikringsmegleroppdrag](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---tjenester-knyttet-til-forsikringsmegleroppdrag/) | 13.11.2001 |  |
 | [Merverdiavgift - Kjøp av tjenester fra utlandet mv.](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---kjop-av-tjenester-fra-utlandet-mv/) | 14.08.2002 |  |
-| [Merverdiavgift - Kjøp av tjenester fra utlandet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---kjop-av-tjenester-fra-utlandet2/) | 14.08.2002 |  |
 | [Merverdiavgift - Kjøp av tjenester fra utlandet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---kjop-av-tjenester-fra-utlandet/) | 14.08.2002 |  |
+| [Merverdiavgift - Kjøp av tjenester fra utlandet](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---kjop-av-tjenester-fra-utlandet2/) | 14.08.2002 |  |
 | [Merverdiavgift - Justeringsreglene ved kommunesammenslåinger](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift-justeringsreglene-ved-kommunesammenslainger/) | 15.11.2019 |  |
 | [Merverdiavgift - helseforetak](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---helseforetak/) | 26.06.2008 |  |
 | [Merverdiavgift - Godtgjørelse til fagkyndig meddommer](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgift---godtgjorelse-til-fagkyndig-meddommer/) | 13.04.2010 |  |
@@ -928,8 +928,8 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 | [Grensen mellom omsetning av jaktrettigheter og næringsmidler](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/grensen-mellom-omsetning-av-jaktrettigheter-og-naringsmidler/) | 13.09.2001 |  |
 | [Gaver og tilstelninger gjennom arbeidsgiver i juletiden – hva kan mottas skattefritt?](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/gaver-og-tilstelninger-gjennom-arbeidsgiver-i-juletiden--hva-kan-mottas-skattefritt/) | 11.12.2012 |  |
 | [Frivillig registrering - virkningstidspunktet ved avvikende terminlengde – Fellesskriv 9.2.12](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/frivillig-registrering---virkningstidspunktet-ved-avvikende-terminlengde--fellesskriv-9.2.12/) | 09.02.2012 |  |
-| [Fritaksmetoden og derivater](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-og-derivater2/) | 21.01.2011 |  |
 | [Fritaksmetoden og derivater](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-og-derivater/) | 21.01.2011 |  |
+| [Fritaksmetoden og derivater](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-og-derivater2/) | 21.01.2011 |  |
 | [Fritaksmetoden og dansk investeringsforening](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-og-dansk-investeringsforening/) | 13.04.2011 |  |
 | [Fritaksmetoden kom til anvendelse - forlik inngått med Sicav](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-kom-til-anvendelse---forlik-inngatt-med-sicav/) | 18.02.2010 |  |
 | [Fritaksmetoden i sktl. § 2-38 - bruk av tilleggsskatt ved uriktig fradragsføring av tap på aksjer i Crew Gold Corporation](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/fritaksmetoden-i-sktl.--2-38---bruk-av-tilleggsskatt-ved-uriktig-fradragsforing-av-tap-pa-aksjer-i-crew-gold-corporation/) | 23.12.2010 |  |
@@ -1025,3 +1025,4 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-24** Innhold endret (se git-historikk for diff)

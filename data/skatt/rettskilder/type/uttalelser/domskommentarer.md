@@ -1,4 +1,4 @@
-<!-- innholds-hash: ef6c671763ce50b184aeabf9cef04d4d64d11b5f7b2e7123f0b4e5a83f499b71 -->
+<!-- innholds-hash: a64baa37be7004f85ed92f77f08e0f878db8e4be8896d6bf05c834ff4a55aff3 -->
 
 # Domskommentarer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T15:15:10Z
+- **Sist oppdatert i arkivet:** 2026-10-24T05:22:08Z
 
 ## Innhold
 
@@ -45,8 +45,8 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 | [Skattedirektoratets kommentar til Høyesteretts dom av 12. februar 2019 – merverdiavgift av vederlag for å kjøre travløp (Åsbjørn Tengsareid, partshjelper Det Norske Travselskap)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-12.-februar-2019--merverdiavgift-av-vederlag-for-a-kjore-travlop-asbjorn-tengsareid-partshjelper-det-norske-travselskap/) | 20.05.2019 | 20.05.2019 |
 | [Skattedirektoratets kommentar til Høyesteretts dom av 20. desember 2018 – skatteplikt for mottatt termineringsgebyr etter forsøk på aksjekjøp (Yara International ASA)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-20.-desember-2018--skatteplikt-for-mottatt-termineringsgebyr-etter-forsok-pa-aksjekjop-yara-international-asa/) | 25.02.2019 | 22.02.2019 |
 | [Skattedirektoratets kommentar til Høyesteretts dom 10. desember 2018 – beregningsgrunnlag for tilleggsskatt ved skattemessig underskudd](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-10.-desember-2018--beregningsgrunnlag-for-tilleggsskatt-ved-skattemessig-underskudd/) | 28.12.2018 | 18.12.2018 |
-| [Skattedirektoratets kommentar til Høyesteretts dom av 23. mars 2018 – fradragsrett etter skatteloven § 6-1 første ledd for økonomiske bidrag til lag og foreninger i lokalsamfunn (Salmar ASA)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-23.-mars-2018--fradragsrett-etter-skatteloven--6-1-forste-ledd-for-okonomiske-bidrag-til-lag-og-foreninger-i-lokalsamfunn-salmar-asa/) | 15.05.2018 | 11.05.2018 |
 | [Skattedirektoratets kommentar til Høyesteretts dom av 22. mars 2018 – fradragsrett etter skatteloven § 6-1 første ledd og 6-24 første ledd for kostnader til rådgivningshonorar og termineringsgebyr i forbindelse med aksjesalg (Ericsson Television AS)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-22.-mars-2018--fradragsrett-etter-skatteloven--6-1-forste-ledd-og-6-24-forste-ledd-for-kostnader-til-radgivningshonorar-og-termineringsgebyr-i-forbindelse-med-aksjesalg-ericsson-television-as/) | 15.05.2018 | 11.05.2018 |
+| [Skattedirektoratets kommentar til Høyesteretts dom av 23. mars 2018 – fradragsrett etter skatteloven § 6-1 første ledd for økonomiske bidrag til lag og foreninger i lokalsamfunn (Salmar ASA)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-23.-mars-2018--fradragsrett-etter-skatteloven--6-1-forste-ledd-for-okonomiske-bidrag-til-lag-og-foreninger-i-lokalsamfunn-salmar-asa/) | 15.05.2018 | 11.05.2018 |
 | [Skattedirektoratets kommentar til Høyesteretts dom av 28. februar 2018 – fradragsrett for forvaltningshonorar i private-equity-bransjen etter skatteloven § 6-24 første og annet ledd (Argentum)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-28.-februar-2018--fradragsrett-for-forvaltningshonorar-i-private-equity-bransjen-etter-skatteloven--6-24-forste-og-annet-ledd-argentum/) | 20.03.2018 | 16.03.2018 |
 | [Skattedirektoratets kommentar til Høyesteretts dom av 20. desember 2017 – om fremføring av underskudd og bortfall av rett til skatteposisjon etter skatteloven § 14-90 (Armada Eiendom AS)](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-20.-desember-2017--om-fremforing-av-underskudd-og-bortfall-av-rett-til-skatteposisjon-etter-skatteloven---14-90-armada-eiendom-as/) | 14.03.2018 | 13.03.2018 |
 | [Skattedirektoratets kommentar til Høyesteretts dom av 29. nov. 2017. Skattemessige avskrivninger "ved slit eller elde på betydelige driftsmidler" i leasingforhold](https://www.skatteetaten.no/rettskilder/type/uttalelser/domskommentarer/skattedirektoratets-kommentar-til-hoyesteretts-dom-av-29.-nov.-2017.-skattemessige-avskrivninger-ved-slit-eller-elde-pa-betydelige-driftsmidler-i-leasingforhold/) | 08.03.2018 | 02.03.2018 |
@@ -132,3 +132,4 @@ Meldingene om arbeidsgiveravgift er samlet og flyttet til en egen side om [arbei
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-24** Innhold endret (se git-historikk for diff)
