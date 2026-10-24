@@ -1,0 +1,61 @@
+<!-- innholds-hash: 6ef8151cbd39e40a7a56ddeffffddf6095c5d7b29648fc95e28683050209b1e2 -->
+
+# Nye grunnstønadsmottakere, etter kjønn og sats *). 1. halvår 2014-2023. Antall. - nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/tabeller/nye-grunnstonadsmottakere-etter-kjonn-og-sats-.1.halvar-2014-2023.antall
+- **Sist oppdatert i arkivet:** 2026-10-24T19:59:41Z
+
+## Innhold
+
+### Nye grunnstønadsmottakere, etter kjønn og sats *). 1. halvår 2014-2023. Antall.
+
+|  | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I alt | 2 145 | 2 141 | 1 526 | 1 830 | 1 796 | 4 419 | 4 659 | 2 963 | 2 559 | 4 421 |
+| Sats 1 | 568 | 519 | 248 | 388 | 387 | 3 178 | 3 656 | 2 265 | 1 931 | 3 484 |
+| Sats 2 | 154 | 164 | 91 | 119 | 107 | 530 | 652 | 649 | 571 | 838 |
+| Sats 3 | 93 | 90 | 55 | 60 | 58 | 663 | 330 | 49 | 57 | 99 |
+| Sats 4-6 | 1 330 | 1 368 | 1 132 | 1 263 | 1 244 | 48 | 21 | - | - | - |
+| Kvinner i alt | 1 171 | 1 211 | 865 | 1 046 | 1 008 | 1 991 | 2 144 | 1 339 | 1 193 | 1 962 |
+| Sats 1 | 231 | 201 | 83 | 129 | 129 | 1 228 | 1 487 | 909 | 787 | 1 349 |
+| Sats 2 | 79 | 84 | 53 | 57 | 51 | 316 | 418 | 408 | 378 | 567 |
+| Sats 3 | 45 | 43 | 32 | 37 | 32 | 416 | 230 | 22 | 28 | 46 |
+| Sats 4-6 | 816 | 883 | 697 | 823 | 796 | 31 | 9 | - | - | - |
+| Menn i alt | 974 | 930 | 661 | 784 | 788 | 2 428 | 2 515 | 1 624 | 1 366 | 2 459 |
+| Sats 1 | 337 | 318 | 165 | 259 | 258 | 1 950 | 2 169 | 1 356 | 1 144 | 2 135 |
+| Sats 2 | 75 | 80 | 38 | 62 | 56 | 214 | 234 | 241 | 193 | 271 |
+| Sats 3 | 48 | 47 | 23 | 23 | 26 | 247 | 100 | 27 | 29 | 53 |
+| Sats 4-6 | 514 | 485 | 435 | 440 | 448 | 17 | 12 | - | - | - |
+
+*) Pga små tall for nye personer med sats 5 og sats 6 er disse inkludert i tallene for sats 4. Fra 2021 er tall for sats 4-sats 6 slått sammen med sats 3.
+
+### Nye grunnstønadsmottakere, etter kjønn og sats *). 1. halvår 2014-2023. Prosent.
+
+|  | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I alt | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 |
+| Sats 1 | 26,5 | 24,2 | 16,3 | 21,2 | 21,5 | 71,9 | 78,5 | 76,4 | 75,5 | 78,8 |
+| Sats 2 | 7,2 | 7,7 | 6,0 | 6,5 | 6,0 | 12,0 | 14,0 | 21,9 | 22,3 | 19,0 |
+| Sats 3 | 4,3 | 4,2 | 3,6 | 3,3 | 3,2 | 15,0 | 7,1 | 1,7 | 2,2 | 2,2 |
+| Sats 4-6 | 62,0 | 63,9 | 74,2 | 69,0 | 69,3 | 1,1 | 0,5 | - | - | - |
+| Kvinner i alt | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 |
+| Sats 1 | 19,7 | 16,6 | 9,6 | 12,3 | 12,8 | 61,7 | 69,4 | 67,9 | 66,0 | 68,8 |
+| Sats 2 | 6,7 | 6,9 | 6,1 | 5,4 | 5,1 | 15,9 | 19,5 | 30,5 | 31,7 | 28,9 |
+| Sats 3 | 3,8 | 3,6 | 3,7 | 3,5 | 3,2 | 20,9 | 10,7 | 1,6 | 2,3 | 2,3 |
+| Sats 4-6 | 69,7 | 72,9 | 80,6 | 78,7 | 79,0 | 1,6 | 0,4 | - | - | - |
+| Menn i alt | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 | 100,0 |
+| Sats 1 | 34,6 | 34,2 | 25,0 | 33,0 | 32,7 | 80,3 | 86,2 | 83,5 | 83,7 | 86,8 |
+| Sats 2 | 7,7 | 8,6 | 5,7 | 7,9 | 7,1 | 8,8 | 9,3 | 14,8 | 14,1 | 11,0 |
+| Sats 3 | 4,9 | 5,1 | 3,5 | 2,9 | 3,3 | 10,2 | 4,0 | 1,7 | 2,1 | 2,2 |
+| Sats 4-6 | 52,8 | 52,2 | 65,8 | 56,1 | 56,9 | 0,7 | 0,5 | - | - | - |
+
+*) Pga små tall for nye personer med sats 5 og sats 6 er disse inkludert i tallene for sats 4. Fra 2021 er tall for sats 4-sats 6 slått sammen med sats 3.
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/tabeller/nye-grunnstonadsmottakere-etter-kjonn-og-sats-.1.halvar-2014-2023.antall) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-24** Første gang hentet
