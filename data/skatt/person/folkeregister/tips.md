@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7e80806410bc8e6db6d8a0ef445a215a35ed3d1a6d1bafd053674d4ceec911d6 -->
+<!-- innholds-hash: 066989d5ff126219909481779fd31c62b4e6362f1f1e8e21b67f9667644f739c -->
 
 # Tips om feil i Folkeregisteret
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/folkeregister/tips/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T23:20:37Z
+- **Sist oppdatert i arkivet:** 2026-10-25T19:18:47Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Du kan tipse oss hvis du oppdager at noen står registrert med feil informasjon 
 
 Du kan tipse både som privatperson og på vegne av en offentlig virksomhet. Offentlige virksomheter og myndigheter er pålagt å melde fra når opplysningene deres ikke samsvarer med det som er registrert i Folkeregisteret.
 
-Du kan ikke tipse om deg selv. Hvis avviket gjelder opplysninger om deg selv, kan du melde fra om dette på [registrere og endre opplysninger i Folkeregisteret.](https://www.skatteetaten.no/person/folkeregister/)
+Du kan ikke tipse om deg selv. Hvis avviket gjelder opplysninger om deg selv, kan du melde fra om dette på [registrere og endre opplysninger i Folkeregisteret.](https://www.skatteetaten.no/person/folkeregister/endre/)
 
 [Tips oss](https://tips-folkeregisteret.skatteetaten.no/web/tips/)
 
@@ -34,3 +34,4 @@ På grunn av taushetsplikten kan vi ikke gi deg tilbakemelding om utfallet av ti
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-25** Innhold endret (se git-historikk for diff)

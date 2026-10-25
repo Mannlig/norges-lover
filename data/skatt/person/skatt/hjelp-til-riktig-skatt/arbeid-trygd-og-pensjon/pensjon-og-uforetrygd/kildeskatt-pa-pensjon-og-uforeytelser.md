@@ -1,4 +1,4 @@
-<!-- innholds-hash: da331355615215ca42308755d51c1b621c22328b17af3d3b21b8526782ab3d26 -->
+<!-- innholds-hash: 1c2c668edb949c80f8c62ee6b19b48759499e6f7cbbe5776529901e761dd071a -->
 
 # Kildeskatt på pensjon og uføreytelser
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/kildeskatt-pa-pensjon-og-uforeytelser/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T03:30:05Z
+- **Sist oppdatert i arkivet:** 2026-10-25T19:39:37Z
 
 ## Innhold
 
@@ -21,13 +21,13 @@ Her får du informasjon om hvem dette gjelder for, og hvilke unntak og begrensni
 Kildeskatt gjelder for deg som
 
 - får pensjon og uføreytelser fra Norge, og
-- er [skattemessig emigrert](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/skattemessig-emigrasjon/) fra Norge, eller aldri har vært skattemessig bosatt i Norge.
+- er [skattemessig emigrert](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/skattemessig-emigrasjon/) fra Norge, eller aldri har vært skattemessig bosatt i Norge.
 
 ### Kildeskatt
 
 Kildeskatt er skatt du betaler til det landet som inntekten kommer fra. Kildeskatten på pensjon og uføreytelser er 15 prosent av brutto inntekt. Dette gjelder uansett størrelsen på inntekten din. Det er ikke noe fribeløp.
 
-Kildeskatten består kun av skatt, ikke trygdeavgift. Hvis du skal betale [trygdeavgift til Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/trygdeavgift-nar-du-flytter-til-utlandet/), skal du betale den direkte til Nav.
+Kildeskatten består kun av skatt, ikke trygdeavgift. Hvis du skal betale [trygdeavgift til Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/trygdeavgift/), skal du betale den direkte til Nav.
 
 - pensjon fra folketrygden
 - offentlige tjenestepensjoner
@@ -50,7 +50,7 @@ Flyttet du til Norge innen 1. juli blir du normalt skattemessig bosatt fra flytt
 
 Du skal betale skatt etter de vanlige reglene som gjelder for personer som bor i Norge, fra det tidspunktet du blir skattemessig bosatt i Norge.
 
-Les mer om [reglene for skattemessig bosted ved flytting til Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/)
+Les mer om [reglene for skattemessig bosted ved flytting til Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/)
 
 - Du kan ha krav på skattefritak på en eller flere typer pensjon eller uføreytelse hvis landet du er bosatt i har en [skatteavtale](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/kildeskatt-pa-pensjon-og-uforeytelser/skatteavtaler/) med Norge som begrenser Norges rett til å beskatte slike inntekter.
 
@@ -121,3 +121,4 @@ Det samme gjelder hvis du endrer navnet ditt i utlandet. Huske å [melde fra til
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-25** Innhold endret (se git-historikk for diff)
