@@ -1,4 +1,4 @@
-<!-- innholds-hash: e769deb4c8e7382957d0d151c784c2f8b68f5023339655017bcd651bf6b0e05e -->
+<!-- innholds-hash: bcb90fc3e9206c2aeeecf0560a9447ab82902636a330034e6aa9f9c218fe7f06 -->
 
 # Tabell- eller prosenttrekk i skattekortet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattekort/om-skattekortet/tabelltrekk-og-prosenttrekk-for-skattekort/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-11T22:11:32Z
+- **Sist oppdatert i arkivet:** 2026-10-25T07:16:52Z
 
 ## Innhold
 
@@ -94,7 +94,7 @@ Det skrives ikke ut skattekort for sjøfolk bosatt i utlandet. For sjøfolk som 
 
 Tabellen er regnet ut etter jevnt trekk gjennom 12 måneder og gir av den grunn reduserte trekkbeløp. Det skal derfor ikke gis trekkfritak i ferietiden og før jul. Lønnsbeløpet (trekkgrunnlaget) avrundes nedover.
 
-Hvis du har [skattekort for kildeskatt på lønn](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/kildeskatt-pa-lonn/), betaler du en fast prosent skatt hver måned. Din arbeidsgiver trekker et faste beløpet av lønnen din uansett hvor mye eller lite du tjener. Ved det månedlige trekket, er skatten din betalt.
+Hvis du har [skattekort for kildeskatt på lønn](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/kildeskatt-pa-lonn/), betaler du en fast prosent skatt hver måned. Din arbeidsgiver trekker et faste beløpet av lønnen din uansett hvor mye eller lite du tjener. Ved det månedlige trekket, er skatten din betalt.
 
 Du får en skattekvittering i juni som viser hvor mye lønn og skatt arbeidsgiveren din har rapportert til Skatteetaten for jobben du gjorde i fjor.
 
@@ -106,3 +106,4 @@ Om du velger deg ut av kildeskatt på lønn på et senere tidspunkt, vil dette b
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-10-25** Innhold endret (se git-historikk for diff)
