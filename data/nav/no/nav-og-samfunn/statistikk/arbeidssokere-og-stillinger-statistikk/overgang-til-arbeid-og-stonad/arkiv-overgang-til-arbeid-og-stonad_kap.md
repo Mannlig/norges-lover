@@ -1,17 +1,21 @@
-<!-- innholds-hash: 582329e95a20253fb032e6ca7691fe294ec9b18f6839029a617aa45a5cbf2254 -->
+<!-- innholds-hash: 6e4c01d7a88f0c54d00557e2db22832428deb6c414423a33a98e7171f7edc743 -->
 
 # Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/overgang-til-arbeid-og-stonad/arkiv-overgang-til-arbeid-og-stonad_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T20:23:24Z
+- **Sist oppdatert i arkivet:** 2026-10-26T04:02:14Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 19.08.2026
+Publisert 01.12.2019 | Oppdatert 19.10.2026
 
 ## Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne
+
+#### 2026
+
+- [Status på arbeidsmarkedet 1. kvartal 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-1.kvartal-2026)
 
 #### 2025
 
@@ -127,3 +131,4 @@ Publisert 01.12.2019 | Oppdatert 19.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)

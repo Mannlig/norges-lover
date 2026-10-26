@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0580d09b08db9c7a2b0dfc4a6e4f0ede0b20310d3497085ecf174456923cb34e -->
+<!-- innholds-hash: 3a4e2c8e901292d76576285adc018be0b2f00a7e381bca4610e5efee4a8b1b8b -->
 
 # Næringsdrivende som dør
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/folkeregister/dodsfall/naringsdrivende-som-dor/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:15:35Z
+- **Sist oppdatert i arkivet:** 2026-10-26T02:15:07Z
 
 ## Innhold
 
@@ -122,7 +122,7 @@ Alle som driver næringsvirksomhet, skal betale forskuddsskatt av forventet over
 
 Hvis du mottar faktura på forskuddsskatt for den avdøde, må den betales.
 
-Hvis forskuddsskatten er feil, må du [endre skattekortet](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/endre/) for avdøde.
+Hvis forskuddsskatten er feil, må du [endre skattekortet](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/endre/) for avdøde.
 
 #### Restskatt, merverdiavgift og andre krav
 
@@ -183,3 +183,4 @@ Se [hvordan du avslutter en bedrift](https://www.skatteetaten.no/bedrift-og-orga
 
 - **2026-06-03** Første gang hentet
 - **2026-10-12** Innhold endret (se git-historikk for diff)
+- **2026-10-26** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 711c2554eb4430363f3863f6fbd53a3ff9118ef5fb4822f0d205ac4b704de6bf -->
+<!-- innholds-hash: 2019a6321854a719787f1454873ebfb0d3a14b5921c77662e432b9a548fce36f -->
 
 # Individuell sparing til pensjon
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/ny-ordning-for-skattefavorisert-individuell-sparing-til-pensjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T03:57:20Z
+- **Sist oppdatert i arkivet:** 2026-10-26T01:56:35Z
 
 ## Innhold
 
@@ -44,7 +44,7 @@ Du kan tidligst ta ut alderspensjon fra fylte 62 år. Alderspensjonen skal utbet
 
 Alderspensjonskapitalen faller ikke bort hvis du dør, men kan benyttes til barnepensjon eller etterlattepensjon til ektefelle, registrert partner eller samboer etter reglene i innskuddspensjonsloven. Pensjonskapital som ikke benyttes til barnepensjon eller etterlattepensjon, utbetales som et engangsbeløp til dødsboet. Utbetalinger av pensjonskapitalen i form av alderspensjon, barnepensjon, etterlattepensjon og engangsbeløp til dødsboet skattlegges som kapitalinntekt (alminnelig inntekt).
 
-[Les mer om reglene i Skatte-ABC i emnet Pensjon – individuell sparing til pensjon.](https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/)
+[Les mer om reglene i Skatte-ABC under emnet "Pensjon – individuell sparing til pensjon".](https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/pensjon-og-uforetrygd/ny-ordning-for-skattefavorisert-individuell-sparing-til-pensjon/) av norges-lover-bot.*
@@ -52,3 +52,4 @@ Alderspensjonskapitalen faller ikke bort hvis du dør, men kan benyttes til barn
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)
