@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99c4f16cab1bad171e73921cf7a330faa40267a7a244af6e9a3153e96c9c560f -->
+<!-- innholds-hash: 059ca52c78f0b1d83edcaefee0c76e55f0b3a405cb66ffc9a5cb9b2ee4261781 -->
 
 # Formuesverdi av eiendom i utlandet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/eiendom-i-utlandet/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:40:27Z
+- **Sist oppdatert i arkivet:** 2026-10-26T07:52:37Z
 
 ## Innhold
 
@@ -159,7 +159,7 @@ Les om [skatteavtalen mellom Norge og det enkelte land](https://www.skatteetaten
 
 Hvis du eier en eiendom i utlandet som du eide før du ble [skattemessig bosatt i Norge ordforklaring](https://www.skatteetaten.no/ordbok/skatt/skattemessig-bosatt/), er det egne regler for hvordan du skal oppgi markedsverdien på eiendommen i skattemeldingen.
 
-Er eiendommen kjøpt i utenlandsk valuta, må du oppgi verdien i norske kroner ved registering i skattemeldingen. I disse tilfellene skal du ikke benytte valutakursen på tidspunktet eiendommsretten ble overført til deg, altså det tidspunktet du ble eier av eiendommen, men du skal benytte valutakursen på det tidspunktet du ble skattemessig bosatt i Norge ([globalskattepliktig til Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/)). Du kan [bruke Norges Bank sine valutakurser](https://www.norges-bank.no/tema/Statistikk/Valutakurser/) for å regne om til norske kroner.
+Er eiendommen kjøpt i utenlandsk valuta, må du oppgi verdien i norske kroner ved registering i skattemeldingen. I disse tilfellene skal du ikke benytte valutakursen på tidspunktet eiendommsretten ble overført til deg, altså det tidspunktet du ble eier av eiendommen, men du skal benytte valutakursen på det tidspunktet du ble skattemessig bosatt i Norge ([globalskattepliktig til Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/)). Du kan [bruke Norges Bank sine valutakurser](https://www.norges-bank.no/tema/Statistikk/Valutakurser/) for å regne om til norske kroner.
 
 Eksempel: Du kjøper en eiendom i Spania den 13. september 2020 for 100 000 euro. Du flytter til Norge 2. mai 2023, og blir da skattemessig bosatt i Norge i 2023. Du skal oppgi eiendommen i skattemeldingen for 2023 og påfølgende år. Det er verdien du kjøpte eiendommen for den 13. september 2020, omgjort til norske kroner den 2. mai 2023, som viser markedsverdien. Valutakursen hentet fra Norges Bank den 2. mai 2023, var på 11,762. Omgjort til norske kroner blir markedsverdien 100 000 euro x 11,762 = 1 176 200 kroner.
 
@@ -190,9 +190,9 @@ En bolig i utlandet som brukes til fritidsbruk etter flytting til Norge, kan reg
 
 Hvis eiendommen din blir leid ut i et større omfang, eller inngår i annen virksomhet, skal fritidseiendommen likevel [formuesbeskattes etter reglene for næringseiendom](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/formuesverdi-av-naringseiendom/).
 
-Fra det tidspunktet du anses som [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/#slik-finner-du-ut-om-du-er-skattemessig-bosatt-i-norge) skal du oppgi all inntekt og formue i Norge og resten av verden. Dette innebærer blant annet alle eiendommer og eiendeler du har i Norge og i utlandet.
+Fra det tidspunktet du anses som [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/#slik-finner-du-ut-om-du-er-skattemessig-bosatt-i-norge) skal du oppgi all inntekt og formue i Norge og resten av verden. Dette innebærer blant annet alle eiendommer og eiendeler du har i Norge og i utlandet.
 
-[Du kan lese mer om din skatteplikt når du flytter til Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/skatt-flytter-til-norge/).
+[Du kan lese mer om din skatteplikt når du flytter til Norge](https://www.skatteetaten.no/person/til-fra-norge/til/flytte/skatt-til-norge/).
 
 Hvis eiendommen har steget i verdi som følge av nybygg eller påkostninger, skal formuesverdien økes.
 
@@ -232,3 +232,4 @@ Hvis du eier eiendom som ikke passer inn under begrepet bolig eller fritidseiend
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)

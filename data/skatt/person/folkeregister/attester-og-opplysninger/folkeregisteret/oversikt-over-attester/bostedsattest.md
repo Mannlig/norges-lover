@@ -1,4 +1,4 @@
-<!-- innholds-hash: 16c951516116f741ca15b10f027592815415e6394c99729d8e5dbe2eca2b52e5 -->
+<!-- innholds-hash: 0816d0e099b4f8475e80ee5f79701aa6fc35d2d4db46a9df05fb395817dbbbb3 -->
 
 # Bostedsattest
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/folkeregister/attester-og-opplysninger/folkeregisteret/oversikt-over-attester/bostedsattest/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T05:05:33Z
+- **Sist oppdatert i arkivet:** 2026-10-26T08:17:48Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Hvis du har d-nummer, eller ikke er bosatt i Norge, kan du ikke bestille bosteds
 
 Viktig informasjon
 
-Dersom du trenger en bekreftelse på skattemessig bosted for å unngå dobbeltbeskatning, må du bestille en [skattemessig bostedsbekreftelse](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/bekreftelse-pa-skattemessig-bosted-for-privatpersoner-og-enkeltpersonforetak-enk/) i stedet.
+Dersom du trenger en bekreftelse på skattemessig bosted for å unngå dobbeltbeskatning, må du bestille en [skattemessig bostedsbekreftelse](https://www.skatteetaten.no/person/til-fra-norge/verdier/bekreftelse-skattemessig-bosted/) i stedet.
 
 ### Se opplysningene dine
 
@@ -99,3 +99,4 @@ Hvis du skal bruke attesten i utlandet, må du selv sende den til Statsforvalter
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)

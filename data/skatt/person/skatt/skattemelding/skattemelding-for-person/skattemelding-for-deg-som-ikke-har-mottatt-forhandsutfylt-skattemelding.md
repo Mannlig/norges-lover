@@ -1,4 +1,4 @@
-<!-- innholds-hash: a0dc74992ba588e88c70265ebcba37312c1a297757fd8220ab89a611d01e7018 -->
+<!-- innholds-hash: 02b557ea9f96c2d245c6502adeec8bb97fd89ab0577017cc6862117ee421fbe6 -->
 
 # Skattemelding for deg som ikke har mottatt forhåndsutfylt skattemelding
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattemelding/skattemelding-for-person/skattemelding-for-deg-som-ikke-har-mottatt-forhandsutfylt-skattemelding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:27:28Z
+- **Sist oppdatert i arkivet:** 2026-10-26T07:39:29Z
 
 ## Innhold
 
@@ -34,7 +34,7 @@ Signer og send den til oss.
 
 Skatteetaten Postboks 9200, Grønland 0134 Oslo
 
-Er du med i [kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattekort/kildeskatt-pa-lonn/), og du velger å levere denne skattemeldingen, blir du meldt ut av kildeskatteordningen. Du betaler da skatt etter [ordinære skatteregler](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/kildeskatt-pa-lonn/#forskjellen-pa-kildeskatt-og-ordinaer-skatt).
+Er du med i [kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skattekort/kildeskatt-pa-lonn/), og du velger å levere denne skattemeldingen, blir du meldt ut av kildeskatteordningen. Du betaler da skatt etter [ordinære skatteregler](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/kildeskatt-pa-lonn/#forskjellen-pa-kildeskatt-og-ordinaer-skatt).
 
 Du kan ikke gå tilbake til kildeskatt på lønn for dette inntektsåret. Det gjelder uansett hva som er årsaken til at du velger å gå ut av ordningen - også om du har gjort en feil. Ved årsskiftet kan du igjen bli med i ordningen, om du ønsker det.
 
@@ -45,3 +45,4 @@ Du kan ikke gå tilbake til kildeskatt på lønn for dette inntektsåret. Det gj
 
 - **2026-05-20** Første gang hentet
 - **2026-10-12** Innhold endret (se git-historikk for diff)
+- **2026-10-26** Innhold endret (se git-historikk for diff)

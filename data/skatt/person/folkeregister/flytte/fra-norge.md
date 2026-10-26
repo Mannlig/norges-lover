@@ -1,4 +1,4 @@
-<!-- innholds-hash: a3183c643e97590b23924de0012ae834fd9e54d8be05cfe266d29584f4fb98d9 -->
+<!-- innholds-hash: 228bc97d0d27e663c6264d6e407caaa8b963cb706e294f58083b6f2e12d03fbe -->
 
 # Flytte fra Norge
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/folkeregister/flytte/fra-norge/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:30:46Z
+- **Sist oppdatert i arkivet:** 2026-10-26T07:42:45Z
 
 ## Innhold
 
@@ -26,9 +26,9 @@ Hvor skal du flytte?
 
 Hvor skal du flytte?
 
-Utenfor Norden
-
 Norden Sverige, Island, Finland, Danmark, Færøyene eller Grønland
+
+Utenfor Norden
 
 Viktig informasjon
 
@@ -45,3 +45,4 @@ Dersom du har fått ny adresse i utlandet, skal du i stedet melde om [endring av
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)

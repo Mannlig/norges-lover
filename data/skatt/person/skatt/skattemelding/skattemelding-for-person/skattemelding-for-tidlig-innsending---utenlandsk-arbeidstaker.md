@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1a41a869129e479a68dfc6a5b46de2a1b3945bdb84c096fda384f30f23fa510c -->
+<!-- innholds-hash: 9e761a30b553aece6fbce796b90db8cc1d16e4d20802ceb0d98a98865f84617c -->
 
 # Skattemelding for tidlig innsending - utenlandsk arbeidstaker
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattemelding/skattemelding-for-person/skattemelding-for-tidlig-innsending---utenlandsk-arbeidstaker/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:59:04Z
+- **Sist oppdatert i arkivet:** 2026-10-26T08:11:03Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@
 
 Her finner du informasjon om hva du som er utenlandsk arbeidstaker må gjøre hvis du ønsker tidlig innsending av skattemeldingen, forhåndsfastsetting.
 
-Er du utenlandsk arbeidstaker som ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/), kan du be om tidlig innsending av skattemeldingen (forhåndsfastsetting) slik at behandlingen blir ferdig i forbindelse med at arbeidsoppholdet ditt i Norge avsluttes. Les mer om [arbeid og opphold i Norge](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/arbeid-opphold/).
+Er du utenlandsk arbeidstaker som ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/), kan du be om tidlig innsending av skattemeldingen (forhåndsfastsetting) slik at behandlingen blir ferdig i forbindelse med at arbeidsoppholdet ditt i Norge avsluttes. Les mer om [arbeid og opphold i Norge](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/arbeid-opphold/).
 
 Du kan benytte denne skattemeldingen kun for lønnsinntekt. Hvis du har hatt en annen type inntekt, må du bruke den ordinære skattemeldingen.
 
@@ -45,13 +45,13 @@ Hvis du ønsker å levere skattemelding for tidlig innsending (forhåndsfastsett
 
 Når du har globalskatteplikt kan du i utgangspunktet ikke kreve forhåndsfastsetting, men hvis du oppfyller gitte vilkår, kan du kreve at skatteplikten som bosatt skal opphøre. Da må du først kreve skattemessig emigrasjon i skattemeldingen for det året du ønsker at skatteplikten skal opphøre fra. Etter at du har fått innvilget skattemessig emigrasjon og fått endret skatteplikt, kan du benytte muligheten for tidlig innsending (forhåndsfastsetting).
 
-[Skattemessig emigrasjon - opphør av skatteplikten](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/skattemessig-emigrasjon/)
+[Skattemessig emigrasjon - opphør av skatteplikten](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/skattemessig-emigrasjon/)
 
 [Last ned og fyll ut skattemelding for tidlig innsending (forhåndsfastsetting).](https://www.skatteetaten.no/globalassets/skjema/alltid/ikke-forhandsutfylt-skattemelding.pdf)
 
 I feltet "Skattemeldingen sendes inn for", må du huke av for “Utenlandsk arbeidstaker” og i feltet “Krever forhåndsfastsetting” må du huke av for "Ja" hvis du:
 
-- ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/globalskatteplikt/), og
+- ikke er [skattemessig bosatt i Norge](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/globalskatteplikt/), og
 - kun har inntekt fra lønn i Norge
 
 Før du eventuelt velger "Nei", se informasjon under “Privatpersoner som ikke har mottatt forhåndsutfylt skattemelding”.
@@ -60,7 +60,7 @@ Fyll ut resten av informasjonen, signer og send til:
 
 Skatteetaten Postboks 9200 Grønland 0134 Oslo
 
-Er du med i [kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattekort/kildeskatt-pa-lonn/), og du velger å levere denne skattemeldingen, blir du meldt ut av kildeskatteordningen. Du betaler da skatt etter [ordinære skatteregler](https://www.skatteetaten.no/person/skatt/skattekort/jeg-er-utenlandsk-arbeidstaker/kildeskatt-pa-lonn/#forskjellen-pa-kildeskatt-og-ordinaer-skatt).
+Er du med i [kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skattekort/kildeskatt-pa-lonn/), og du velger å levere denne skattemeldingen, blir du meldt ut av kildeskatteordningen. Du betaler da skatt etter [ordinære skatteregler](https://www.skatteetaten.no/person/til-fra-norge/til/jobbe/skattekort/kildeskatt-pa-lonn/#forskjellen-pa-kildeskatt-og-ordinaer-skatt).
 
 Du kan ikke gå tilbake til kildeskatt på lønn for dette inntektsåret. Det gjelder uansett hva som er årsaken til at du velger å gå ut av ordningen - også om du har gjort en feil. Ved årsskiftet kan du igjen bli med i ordningen, om du ønsker det.
 
@@ -81,3 +81,4 @@ Lønn som det kan leveres skattemelding for tidlig innsending
 
 - **2026-05-20** Første gang hentet
 - **2026-10-12** Innhold endret (se git-historikk for diff)
+- **2026-10-26** Innhold endret (se git-historikk for diff)

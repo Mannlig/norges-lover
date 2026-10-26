@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7ec6f4475f59a6dc1e8e19bb1f8eb93d0ca1c849617d15945b53b5a353d90ea0 -->
+<!-- innholds-hash: 9df1895e99358bf74f64ff2cd6490465523274cbc24c2e8a004e96379b838041 -->
 
 # Beregn formuesverdien på din bolig
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/boligverdikalkulator/boligkalkulator-2020/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T04:49:06Z
+- **Sist oppdatert i arkivet:** 2026-10-26T08:01:12Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@
 
 Her kan du regne ut boligens formuesverdi for 2020.
 
-For beregning av formuesverdi i skattemeldingen for 2021 må du se på [boligkalkulatoren for 2021](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/boligverdikalkulator/).
+For beregning av formuesverdi i skattemeldingen for 2021 må du se på [boligkalkulatoren for 2021](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/bolig-og-eiendeler/bolig-eiendom-tomt/formuesverdi/boligverdikalkulator/boligkalkulator-2021/).
 
 Det er de opplysningene du tidligere har sendt Skatteetaten som danner grunnlaget for formuesverdien som blir forhåndsutfylt i skattemeldingen.
 
@@ -32,3 +32,4 @@ Du skal benytte [kalkulatoren for utregning av formuesverdi på din næringseien
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)

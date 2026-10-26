@@ -1,4 +1,4 @@
-<!-- innholds-hash: 43bc0f846bc17ed928f2ff8c7d2272d0e452d35e793db79908c2ec012f9a7b71 -->
+<!-- innholds-hash: 9cb4b1b7b19a995585ad0d5545efd30bc5bcde183dde67d542b97a3888d885b6 -->
 
 # Bekreftelse på skattemessig bosted for selskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/bestill-attester-og-tilgang-pa-data/bostedsbekreftelse-etter-skatteavtale/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T05:03:21Z
+- **Sist oppdatert i arkivet:** 2026-10-26T08:15:29Z
 
 ## Innhold
 
@@ -40,7 +40,7 @@ Du får attesten tilsendt i posten.
 - Merk at vi har behandlingstid for bostedsbekreftelser og at postgangen kommer i tillegg. [Se oversikt over saksbehandlingstider](https://www.skatteetaten.no/kontakt/saksbehandlingstider/#dokumenter-utskrifter-og-attester).
 - Dersom du trenger apostille på bekreftelsen må du [kontakte Statsforvalteren](https://www.statsforvalteren.no/) for å ordne dette. [Les mer om apostille og legalisering.](https://www.skatteetaten.no/person/folkeregister/attester-og-opplysninger/folkeregisteret/apostille-og-legalisering/)
 
-Du kan også [søke om en skattemessig bostedsbekreftelse for person.](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/bekreftelse-pa-skattemessig-bosted-for-privatpersoner-og-enkeltpersonforetak-enk/)
+Du kan også [søke om en skattemessig bostedsbekreftelse for person.](https://www.skatteetaten.no/person/til-fra-norge/verdier/bekreftelse-skattemessig-bosted/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/bestill-attester-og-tilgang-pa-data/bostedsbekreftelse-etter-skatteavtale/) av norges-lover-bot.*
@@ -48,3 +48,4 @@ Du kan også [søke om en skattemessig bostedsbekreftelse for person.](https://w
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)
