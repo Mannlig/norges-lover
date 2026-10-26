@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5793f86644c7d8ba417694b2d121608ee3428d5419d5d6f0b4a8029c445ca6df -->
+<!-- innholds-hash: bc20f1dc70e0e0dd58a861f6a9067a53361dd83d3080028252229824fd997c43 -->
 
 # Bruke utenlandsregistrert bil i Norge
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/avgifter/bil/utenlandsregistrertbil/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-12T05:16:41Z
+- **Sist oppdatert i arkivet:** 2026-10-26T13:46:26Z
 
 ## Innhold
 
@@ -16,7 +16,7 @@ Finn ut om du har lov til å bruke utenlandsregistrert bil i Norge.
 
 Viktig informasjon
 
-For flyktninger som kommer til Norge fra Ukraina og som har med seg sin utenlandsregistrerte bil, er det gjort tilpasninger i regelverket for [innførsel og midlertidig bruk av utenlandsregistrert bil i Norge](https://www.skatteetaten.no/person/utenlandsk/ukraina/#bruke-utenlandsregistrert-bil).
+For flyktninger som kommer til Norge fra Ukraina og som har med seg sin utenlandsregistrerte bil, er det gjort tilpasninger i regelverket for [innførsel og midlertidig bruk av utenlandsregistrert bil i Norge](https://www.skatteetaten.no/person/til-fra-norge/til/ukraina/#bruke-utenlandsregistrert-bil).
 
 Hovedregelen er:
 
@@ -74,3 +74,4 @@ For utfyllende informasjon om regelverket for bruk av utenlandsregistrert bil i 
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-10-26** Innhold endret (se git-historikk for diff)
