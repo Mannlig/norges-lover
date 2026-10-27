@@ -1,0 +1,57 @@
+<!-- innholds-hash: 6a7a6548063eec98b0a8e9322e5a412132e83d275e04afa74bb38533e71d37fa -->
+
+# Ugyldig verdi
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-269/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-10-27T06:50:01Z
+
+## Innhold
+
+Veiledning til a-meldingen
+
+## Ugyldig verdi
+
+- Oppdatert: 07.12.2018
+
+F269 / MAGNET_EDAG-269
+
+### Hvorfor denne feilmeldingen
+
+Du har glemt å oppgi type arbeidsforhold på en inntektsmottaker.
+
+### Må du rette
+
+Ja, a-meldingen inneholder alvorlige feil eller mangler du må rette opp. A-meldingen har blitt avvist.
+
+Du må rette feilen innen fristen for levering av a-melding for kalendermåneden du har fått feilmeldingen.
+
+Alvorlighetsgrad: Avvisning
+
+[Se oversikt over ulike alvorlighetsgrader på feil](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/tilbakemelding-a03-pa-sendt-a-melding/)
+
+### Slik retter du
+
+1. Sjekk hvilket arbeidsforhold opplysningene mangler på og oppgi type arbeidsforhold. Hvis du er usikker på hvilken type du skal bruke, se [Velg rett type arbeidsforhold.](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/arbeidsforholdet/type-arbeidsforhold/velg-riktig-type-arbeidsforhold/)
+2. Når du har rettet feilen, send inn a-meldingen. Bruker du et lønnssystem, sjekk med systemleverandøren hvis du er usikker på hvordan du retter i ditt system.
+
+#### Eksempel – opplysninger om type arbeidsforhold mangler
+
+Et transportfirma sender inn a-melding for juni med opplysninger om Lises arbeidsforhold.
+
+Transportfirmaet får feilmelding MAGNET_EDAG-269 fordi det mangler opplysninger om type arbeidsforhold på Lise.
+
+| Transportfirmaet oppgir riktig type arbeidsforhold for Lise: |  |
+| --- | --- |
+| Type arbeidsforhold | ordinært |
+
+I tillegg oppgir de andre obligatoriske opplysninger.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-269/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-27** Første gang hentet
