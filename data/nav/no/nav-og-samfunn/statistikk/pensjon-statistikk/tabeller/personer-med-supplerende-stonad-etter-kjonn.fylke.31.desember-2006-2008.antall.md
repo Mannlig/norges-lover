@@ -1,0 +1,43 @@
+<!-- innholds-hash: 93cdedef1a211549f35bc5b626ecb6845737e98474ebd98ba70b5e60321ee416 -->
+
+# Personer med supplerende stønad etter kjønn. Fylke. 31. desember 2006-2008. Antall - nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/tabeller/personer-med-supplerende-stonad-etter-kjonn.fylke.31.desember-2006-2008.antall
+- **Sist oppdatert i arkivet:** 2026-10-27T23:10:43Z
+
+## Innhold
+
+### Personer med supplerende stønad etter kjønn. Fylke. 31. desember 2006-2008. Antall
+
+| Fylke | 2006 | 2007 | 2008 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Menn + kvinner | Menn | Kvinner | Menn + kvinner | Menn | Kvinner | Menn + kvinner | Menn | Kvinner |  |
+| I alt | 2 401 | 883 | 1 518 | 2 575 | 918 | 1 657 | 2 699 | 955 | 1 744 |
+| Østfold | 185 | 75 | 110 | 203 | 80 | 123 | 219 | 89 | 130 |
+| Akershus | 272 | 93 | 179 | 279 | 88 | 191 | 292 | 90 | 202 |
+| Oslo | 653 | 242 | 411 | 747 | 270 | 477 | 785 | 276 | 509 |
+| Hedmark | 55 | 21 | 34 | 55 | 18 | 37 | 62 | 22 | 40 |
+| Oppland | 80 | 25 | 55 | 84 | 30 | 54 | 84 | 30 | 54 |
+| Buskerud | 119 | 41 | 78 | 130 | 45 | 85 | 142 | 51 | 91 |
+| Vestfold | 132 | 66 | 66 | 142 | 62 | 80 | 140 | 61 | 79 |
+| Telemark | 77 | 25 | 52 | 86 | 29 | 57 | 85 | 29 | 56 |
+| Aust-Agder | 34 | 8 | 26 | 41 | 13 | 28 | 40 | 13 | 27 |
+| Vest-Agder | 140 | 52 | 88 | 144 | 50 | 94 | 146 | 51 | 95 |
+| Rogaland | 198 | 77 | 121 | 202 | 76 | 126 | 216 | 75 | 141 |
+| Hordaland | 171 | 66 | 105 | 185 | 66 | 119 | 201 | 74 | 127 |
+| Sogn og Fjordane | 20 | 6 | 14 | 19 | 5 | 14 | 21 | 4 | 17 |
+| Møre og Romsdal | 71 | 24 | 47 | 66 | 23 | 43 | 66 | 22 | 44 |
+| Sør-Trøndelag | 114 | 37 | 77 | 108 | 33 | 75 | 116 | 38 | 78 |
+| Nord-Trøndelag | 18 | 6 | 12 | 19 | 6 | 13 | 19 | 6 | 13 |
+| Nordland | 27 | 9 | 18 | 28 | 12 | 16 | 29 | 12 | 17 |
+| Troms | 14 | 5 | 9 | 16 | 6 | 10 | 13 | 5 | 8 |
+| Finnmark | 21 | 5 | 16 | 21 | 6 | 15 | 23 | 7 | 16 |
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/tabeller/personer-med-supplerende-stonad-etter-kjonn.fylke.31.desember-2006-2008.antall) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-27** Første gang hentet

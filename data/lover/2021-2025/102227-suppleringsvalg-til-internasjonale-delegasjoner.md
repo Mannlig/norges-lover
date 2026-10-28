@@ -1,4 +1,4 @@
-<!-- innholds-hash: ff3645ea7282aba118228af192a337466b5b91787fcb6a3f38bdd21b25ca2dfb -->
+<!-- innholds-hash: 95cf2a612ad4d245eaee257a8646040dc0bfc8d2a7c0ccd462dd439c1e1ea2ca -->
 
 # Suppleringsvalg til internasjonale delegasjoner
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Innst. 148 S (2024-2025)
 - **Komité:** Valgkomiteen
-- **Emner:** Stortingsrepresentanter, Eu/eøs
+- **Emner:** Internasjonalt samarbeid, Stortingsrepresentanter, Utenrikssaker, Nordisk samarbeid, Økonomisk samarbeid, Eu/eøs, Nato
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-27T19:20:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102227
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,9 +28,37 @@
   "emne_liste": [
     {
       "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
       "hovedemne_id": 151,
       "id": 26,
       "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 163,
+      "id": 163,
+      "navn": "Utenrikssaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 171,
+      "navn": "Nordisk samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
       "underemne_liste": []
     },
     {
@@ -38,6 +66,13 @@
       "hovedemne_id": 163,
       "id": 173,
       "navn": "Eu/eøs",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 177,
+      "navn": "Nato",
       "underemne_liste": []
     }
   ],
@@ -65,3 +100,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-27** Innhold endret (se git-historikk for diff)
