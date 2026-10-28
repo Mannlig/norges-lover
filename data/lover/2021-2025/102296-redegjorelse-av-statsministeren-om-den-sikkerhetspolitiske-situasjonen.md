@@ -1,4 +1,4 @@
-<!-- innholds-hash: f8f10d05422dc12b3922ee6b239aca2150fb6d474f80286a3cfcb12308d03751 -->
+<!-- innholds-hash: 20e7d139a1b45e13076744ad4b6b3d8b46e9729d212a9a4fe328efa7186cf06c -->
 
 # Redegjørelse av statsministeren om den sikkerhetspolitiske situasjonen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** Forsvar, Forsvarsmateriell, Utenrikshandel, Utenrikssaker
+- **Emner:** Forsvar, Forsvarsmateriell, Utenrikshandel, Utenrikssaker, Fredsarbeid
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T15:32:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102296
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -53,6 +53,13 @@
       "id": 163,
       "navn": "Utenrikssaker",
       "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 180,
+      "navn": "Fredsarbeid",
+      "underemne_liste": []
     }
   ],
   "forslagstiller_liste": [],
@@ -76,3 +83,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

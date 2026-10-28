@@ -1,4 +1,4 @@
-<!-- innholds-hash: 125282a2dc6b28c7f5bbd14c383285fb24e65052db0fe56e4c360fa42adc8999 -->
+<!-- innholds-hash: 88ebfa8bdb4fb841602631a1a65234447e8ee6df96c60fc46365fb4b451b5dec -->
 
 # Initiativdebatt om utviklingen av politiet (initiativ fra justiskomiteen)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** Politi og påtalemyndighet
+- **Emner:** Politi og påtalemyndighet, Samfunnssikkerhet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T15:32:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102073
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 11,
       "id": 141,
       "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
       "underemne_liste": []
     }
   ],
@@ -55,3 +62,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

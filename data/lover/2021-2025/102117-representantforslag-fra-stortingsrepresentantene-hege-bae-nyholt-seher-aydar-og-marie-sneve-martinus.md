@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4b8bfdb81036dfa69e594450dbea4f5456f3dbb9966f9325cdf786786064dfdf -->
+<!-- innholds-hash: 0563af743032241b0700f2c050c32cdcb6512304036336bafcb44a1c996c5a92 -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Seher Aydar og Marie Sneve Martinussen om bedre bemanning i SFO og AKS
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:99 S (2024-2025), Innst. 244 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Barn, Grunnskole
+- **Emner:** Barn, Arbeidsvilkår, Grunnskole
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T15:32:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102117
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 40,
       "id": 41,
       "navn": "Barn",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 94,
+      "navn": "Arbeidsvilkår",
       "underemne_liste": []
     },
     {
@@ -143,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

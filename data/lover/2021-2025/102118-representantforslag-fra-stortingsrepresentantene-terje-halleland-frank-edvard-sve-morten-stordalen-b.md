@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1c5b65c1d779152bb33de65009d9105cd5eb96cfe9786bd65c09e0ce185dc785 -->
+<!-- innholds-hash: fc1c2a632ad32bb19529e89a6357730ecd26e91a9ed94ef507c1c164336f9cb3 -->
 
 # Representantforslag fra stortingsrepresentantene Terje Halleland, Frank Edvard Sve, Morten Stordalen, Bård Hoksrud, Roy Steffensen og Morten Wold om prøveordning for kolonnekjøring for tunge kjøretøy over E134 Haukelifjell
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:100 S (2024-2025), Innst. 271 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Vegtrafikk, Vegvesen
+- **Emner:** Vegtrafikk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T15:32:10Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102118
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,13 +31,6 @@
       "hovedemne_id": 2,
       "id": 47,
       "navn": "Vegtrafikk",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 189,
-      "navn": "Vegvesen",
       "underemne_liste": []
     }
   ],
@@ -200,3 +193,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

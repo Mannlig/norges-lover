@@ -1,0 +1,66 @@
+<!-- innholds-hash: 90401c07a2033d19669eb73a257e0f87ebcc8c3638a652e7212510df67ae416f -->
+
+# 2 Forskudd på skatt til staten mv.
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskuddsutskrivingen-for-2002/2-forskudd-pa-skatt-til-staten-mv/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-10-28T17:29:30Z
+
+## Innhold
+
+## 2 Forskudd på skatt til staten mv.
+
+- Publisert: 14.10.2003
+
+### 2.1 Toppskatt
+
+Av personinntekt fastsatt etter skatteloven kapittel 12, er det vedtatt at toppskatt til staten i klasse 0 og 1 skal være 13,5 pst. av inntekt mellom kr 320 000 og kr 830 000 og 19,5 pst. av det overskytende.
+
+I klasse 2 er toppskatten satt til 13,5 pst. av inntekt mellom kr 342 200 og kr 830 000 og 19,5 pst. av det overskytende.
+
+For personlige skattepliktige i Finnmark og i kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke er satsen satt til 9,5 pst. av personinntekten mellom kr 320 000 og kr 830 000 og til 19,5 pst. av det overskytende i klasse 0 og 1. Satsen er satt til 9,5 pst. av personinntekten mellom kr 342 200 og 830 000 og til 19,5 pst. av det overskytende i klasse 2.
+
+For ektefeller som liknes særskilt etter skatteloven § 2-11 første ledd, innebærer dette et fribeløp på kr 320 000 for hver.
+
+Dersom skattyteren er bosatt i riket bare en del av året, skal beløpene reduseres forholdsmessig under hensyn til det antall hele eller påbegynte måneder av året skattyteren vil være bosatt her. For skattepliktige etter skatteloven § 2-3 første ledd bokstav d og annet ledd, gjelder tilsvarende for antall hele eller påbegynte måneder vedkommende har oppholdt seg i riket. Når det gjelder beregning av fribeløp for skattyter som i løpet av inntektsåret har flere arbeidsopphold i riket uten å være bosatt her, vises det til Lignings-ABC 2000 s 535 under stikkordet "-bosatt/opphold i Norge en del av året". For skattytere som ikke er bosatt her, men er skattepliktige etter skatteloven § 2-3 første ledd bokstavene a, b, e og f (klasse 0), skal fribeløpet beregnes i forhold til det antall hele og/eller påbegynte måneder inntekten er opptjent. Det særskilte inntektsfradrag i Finnmark og Nord-Troms skal ikke komme til fradrag i grunnlaget for toppskatten.
+
+Særfradrag etter skatteloven §§ 6-80 til 6-83 skal ikke redusere grunnlaget for beregning av toppskatt.
+
+Det vises for øvrig til § 3-1 i skattevedtaket.
+
+Nærmere om personinntekt som beregningsgrunnlag, se pkt. 4.2.
+
+### 2.2 Annen inntektsskatt til staten
+
+Skatt til staten for personer bosatt og selskaper hjemmehørende i utlandet er regulert i § 3-5 i skattevedtaket. Bestemmelsen omfatter bl.a. sjømenn bosatt i utlandet, jf. skatteloven § 2-3 første ledd bokstav h, personer som ikke har bopel i riket, men som mottar lønn av den norske stat, jf. skatteloven § 2-3 første ledd bokstav g, og aksjeutbytte som utdeles til aksjonærer som er hjemmehørende i utlandet, jf. skatteloven § 2-3 første ledd bokstav c.
+
+Skatt til staten etter petroleumsskatteloven er omhandlet i kapittel 4 i skattevedtaket.
+
+### 2.3 Formuesskatt til staten
+
+Formuesskatt til staten for skattytere som liknes i klasse 0 og 1 er beholdt uendret med 0,2 pst. av formue mellom kr 120 000 og kr 540 000, og 0,4 pst. av det overskytende. For skattytere i klasse 2 er beløpsgrensene hhv. kr 150 000 og kr 580 000.
+
+§ 2-1 i skattevedtaket bestemmer at skattepliktige i klasse 1 som får særfradrag etter skatteloven §§ 6-80 til 6-83, skal liknes i klasse 2 når det gjelder formuesskatten til staten. Det samme gjelder ektefeller som liknes særskilt etter skatteloven § 2-11.
+
+Selskaper og innretninger som nevnt i skatteloven § 2-36 annet ledd, og som ikke er fritatt for formuesskatteplikt etter skatteloven kapittel 2, svarer formuesskatt til staten med 0,3 pst. Formue under kr 10 000 er skattefri.
+
+### 2.4 Fellesskatt
+
+Fellesskatt er endret for personlige skattepliktige og dødsbo til 13,7 pst. For Finnmark og kommunene Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy og Storfjord i Troms fylke er satsen satt til 10,2 pst. for ovennevnte skattytergruppe. Grunnlaget for utlikning av fellesskatt for personer er det samme grunnlaget som for inntektsskatt til kommunene (alminnelig inntekt). Grunnlaget reduseres med særfradrag etter skatteloven §§ 6-80 til 6-83.
+
+### 2.5 Skatt til staten for selskaper og innretninger
+
+For selskaper og innretninger svares skatt til staten med 28 pst. av inntekten, se § 3-3 i skattevedtaket.
+
+### 2.6 Skatt på grunnrenteinntekt i kraftforetak
+
+Av grunnrenteinntekt i vannkraftverk fastsatt i medhold av skatteloven § 18-3 svares grunnrenteskatt med 27 pst., jf. § 3-4 i skattevedtaket.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/skattedirektoratets-meldinger/forskuddsutskrivingen-for-2002/2-forskudd-pa-skatt-til-staten-mv/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-28** Første gang hentet
