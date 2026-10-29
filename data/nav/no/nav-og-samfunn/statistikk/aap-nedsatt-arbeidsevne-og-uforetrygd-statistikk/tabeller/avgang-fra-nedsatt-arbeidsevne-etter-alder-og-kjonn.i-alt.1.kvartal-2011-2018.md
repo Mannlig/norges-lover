@@ -1,0 +1,46 @@
+<!-- innholds-hash: 38518bf22ed0a1b5b70c570434eace44eb967e0c0719cf1047ebf22be22edf00 -->
+
+# Avgang fra nedsatt arbeidsevne etter alder og kjønn. I alt. 1.kvartal 2011-2018 - nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/avgang-fra-nedsatt-arbeidsevne-etter-alder-og-kjonn.i-alt.1.kvartal-2011-2018
+- **Sist oppdatert i arkivet:** 2026-10-29T13:17:34Z
+
+## Innhold
+
+### Avgang fra nedsatt arbeidsevne etter alder og kjønn. I alt. 1.kvartal 2011-2018*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I alt | 14 514 | 15 153 | 14 844 | 17 308 | 14 920 | 17 083 | 15 236 | 16 599 |
+| Under 30 år | 2 103 | 1 969 | 2 177 | 2 222 | 2 256 | 2 432 | 2 315 | 2 402 |
+| 30-59 år | 10 256 | 11 102 | 10 409 | 12 510 | 10 021 | 11 248 | 10 168 | 11 072 |
+| 60 år og over | 2 155 | 2 082 | 2 258 | 2 576 | 2 643 | 3 403 | 2 753 | 3 125 |
+
+### Avgang fra nedsatt arbeidsevne etter alder og kjønn. Menn. 1.kvartal 2011-2018*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Menn i alt | 6 909 | 6 690 | 6 701 | 7 515 | 6 691 | 7 661 | 6 794 | 7 324 |
+| Under 30 år | 1 181 | 1 064 | 1 163 | 1 123 | 1 174 | 1 289 | 1 208 | 1 226 |
+| 30-59 år | 4 601 | 4 665 | 4 502 | 5 160 | 4 354 | 4 788 | 4 342 | 4 636 |
+| 60 år og over | 1 127 | 961 | 1 036 | 1 232 | 1 163 | 1 584 | 1 244 | 1 462 |
+
+### Avgang fra nedsatt arbeidsevne etter alder og kjønn. Kvinner. 1.kvartal 2011-2018*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kvinner i alt | 7 605 | 8 463 | 8 143 | 9 793 | 8 229 | 9 422 | 8 442 | 9 275 |
+| Under 30 år | 922 | 905 | 1 014 | 1 099 | 1 082 | 1 143 | 1 107 | 1 176 |
+| 30-59 år | 5 655 | 6 437 | 5 907 | 7 350 | 5 667 | 6 460 | 5 826 | 6 436 |
+| 60 år og over | 1 028 | 1 121 | 1 222 | 1 344 | 1 480 | 1 819 | 1 509 | 1 663 |
+
+* Tall under 4 vises ikke. Grunnlagsdataene er rekjørt tilbake til mars 2010. Dette medfører små avvik fra totaltallene i arkivet
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/avgang-fra-nedsatt-arbeidsevne-etter-alder-og-kjonn.i-alt.1.kvartal-2011-2018) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-29** Første gang hentet

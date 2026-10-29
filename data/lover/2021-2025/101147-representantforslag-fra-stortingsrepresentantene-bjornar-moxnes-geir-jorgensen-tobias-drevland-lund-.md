@@ -1,4 +1,4 @@
-<!-- innholds-hash: d5e3eeb781b325f5dee9f6b65a4ac31bbe8dc035c2342ded4b1c3ee8d208c1c5 -->
+<!-- innholds-hash: 689c0d8a709875b41a46675808cf24014a9c2e5d6c14d2bcf5eac34be55d9221 -->
 
 # Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Geir Jørgensen, Tobias Drevland Lund og Sofie Marhaug om å stanse bygging av nye danmarkskabler
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:34 S (2024-2025), Innst. 143 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Elektrisitet, Priser og konkurranseforhold
+- **Emner:** Elektrisitet, Priser og konkurranseforhold, Utenrikshandel, Stortinget
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T09:36:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101147
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,20 @@
       "hovedemne_id": 187,
       "id": 83,
       "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 99,
+      "navn": "Utenrikshandel",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
       "underemne_liste": []
     }
   ],
@@ -162,3 +176,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

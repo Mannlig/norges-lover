@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3d3a28d7de1a33d0bd45ef3ab0d10444d5b11cb144f062f41000eb873cb8be6d -->
+<!-- innholds-hash: 1aff689586e487e9bd84235c5f15dc01121afbe83d2990e01413812879244023 -->
 
 # Endringer i allmenngjøringsloven (anvendelse på Svalbard)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 38 L (2024-2025), Innst. 145 L (2024-2025), Lovvedtak 35 (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Arbeidsliv, Arbeidsvilkår, Svalbard
+- **Emner:** Arbeidsvilkår, Lønn og inntekt, Svalbard
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T09:36:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101165
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,17 +27,17 @@
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "er_hovedemne": true,
+      "er_hovedemne": false,
       "hovedemne_id": 5,
-      "id": 5,
-      "navn": "Arbeidsliv",
+      "id": 94,
+      "navn": "Arbeidsvilkår",
       "underemne_liste": []
     },
     {
       "er_hovedemne": false,
       "hovedemne_id": 5,
-      "id": 94,
-      "navn": "Arbeidsvilkår",
+      "id": 95,
+      "navn": "Lønn og inntekt",
       "underemne_liste": []
     },
     {
@@ -92,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 10a0e454f6c38d6d4106be7892f5d52aab64a5a13378964655390102f66cd2d2 -->
+<!-- innholds-hash: c0a2f43773738df66fd426111f7b2aa15013e653bf1e6b243c55cab65d5f969b -->
 
 # Endringshistorikk TEK17
 
@@ -6,8 +6,8 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/endringshistorikk-tek17/
 - **Sist oppdatert (kilde):** Sist endret
-        01.10.2026
-- **Sist oppdatert i arkivet:** 2026-10-06T12:17:24Z
+        27.10.2026
+- **Sist oppdatert i arkivet:** 2026-10-29T12:09:09Z
 
 ## Innhold
 
@@ -19,7 +19,7 @@
 
 Veiledningen til byggteknisk forskrift endres ved regelendringer eller særskilt behov. Listen viser endringer som er gjort i veiledningen til TEK17 som trådte i kraft 1. juli 2017.
 
-Sist endret 01.10.2026
+Sist endret 27.10.2026
 
 ### Endringshistorikk også i veiledningen
 
@@ -29,6 +29,7 @@ Alle endringer loggføres fortløpende under hver enkelt bestemmelse i byggtekni
 
 | Endret dato | Bestemmelse | Hva som er endret |
 | --- | --- | --- |
+| 27.10.26 | Hele veiledningen | Lenker og henvisninger er oppdatert. |
 | 01.10.26 | [§ 1-3. Definisjoner](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/1/1-3) | Veiledning til ny bokstav o) om organisatoriske sikringstiltak |
 | [§ 7-2. Sikkerhet mot flom og stormflo](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-2) | Veiledningsteksten endret som følge av forskriftsendringer |  |
 | [§ 7-3. Sikkerhet mot skred](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/7/7-3) | Veiledningsteksten endret som følge av forskriftsendringer. |  |
@@ -123,3 +124,4 @@ Alle endringer loggføres fortløpende under hver enkelt bestemmelse i byggtekni
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-10-29** Innhold endret (se git-historikk for diff)

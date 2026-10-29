@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2b1564562477cb64b451cae9fcdcb7735599f6c82d6d36b32660bcfcae2b87f4 -->
+<!-- innholds-hash: 1804ed31e596234a8609a540928bc6a77c26a5470191a677e90083b90e969519 -->
 
 # Endringar i folketrygdlova m.m. (medlemskap i folketrygda for personar tilsette i hotell- og restaurantverksemd på turistskip registrerte i norsk internasjonalt skipsregister)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 40 L (2024-2025), Innst. 146 L (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Reiselivsnæring, Trygder
+- **Emner:** Reiselivsnæring, Sjøfart, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T09:36:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101264
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 113,
       "id": 112,
       "navn": "Reiselivsnæring",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 143,
+      "navn": "Sjøfart",
       "underemne_liste": []
     },
     {
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)
