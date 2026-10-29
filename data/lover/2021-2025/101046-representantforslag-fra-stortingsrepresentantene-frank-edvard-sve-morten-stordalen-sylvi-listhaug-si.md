@@ -1,4 +1,4 @@
-<!-- innholds-hash: 84d9095df5780e871fa40d450158297c2cb5b500491ab295e9b76cb718e32e92 -->
+<!-- innholds-hash: 7709ee3e92286785186cc846829ed338ca3812f3c356329eb4f228a57b154c7e -->
 
 # Representantforslag fra stortingsrepresentantene Frank Edvard Sve, Morten Stordalen, Sylvi Listhaug, Silje Hjemdal, Dagfinn Henrik Olsen, Hans Andreas Limi og Marius Arion Nilsen om fritt valg av kjøretøy og kjøretøyberedskap
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:31 S (2024-2025), Innst. 138 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Forurensning, Vegtrafikk, Forbrukersaker, Samfunnssikkerhet
+- **Emner:** Forurensning, Fylker, Vegtrafikk, Forbrukersaker, Samfunnssikkerhet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T21:51:27Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101046
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 139,
       "id": 21,
       "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 37,
+      "navn": "Fylker",
       "underemne_liste": []
     },
     {
@@ -233,3 +240,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

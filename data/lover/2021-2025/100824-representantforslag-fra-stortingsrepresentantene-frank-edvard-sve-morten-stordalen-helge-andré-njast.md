@@ -1,4 +1,4 @@
-<!-- innholds-hash: 211c37ad0e380d3212e8d77a24fa8f47d6c33f6276956b809fb8afa5fb924825 -->
+<!-- innholds-hash: 904763b4cedd1ed3f4468ce9b85ec87804b5319d30184a4e9d0d85f9bd016c6e -->
 
 # Representantforslag fra stortingsrepresentantene Frank Edvard Sve, Morten Stordalen, Helge André Njåstad, Tor André Johnsen, Morten Wold, Bengt Rune Strifeldt, Sivert Bjørnstad og Sylvi Listhaug om å utsette slukking av 2G-nettet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:23 S (2024-2025), Innst. 147 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Kommunikasjonsteknologi
+- **Emner:** Kommunikasjonsteknologi, Samfunnssikkerhet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-28T21:51:27Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100824
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 2,
       "id": 179,
       "navn": "Kommunikasjonsteknologi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
       "underemne_liste": []
     }
   ],
@@ -231,3 +238,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-28** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: da7b1bd0601b27ab8d0b1a1802ac7a205d5458cb3b3bc4bf6af5017a9a0e4749 -->
+<!-- innholds-hash: 58d6519f8cd699956cadc72b88df8eebecd866a295b600eae61cb7f70c065805 -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/horinger/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-13T22:26:03Z
+- **Sist oppdatert i arkivet:** 2026-10-29T05:20:44Z
 
 ## Innhold
 
@@ -17,6 +17,10 @@ Høringer om endringer i regelverket vårt publiseres i sin helhet på denne sid
 Du finner høringsbrevet, oversikt over foreslåtte endringer, høringslister og eventuelle konsekvensutredninger for hver enkelt høring. I noen tilfeller publiserer vi her også våre egne høringsuttalelser.
 
 En liste over høringsinstanser ligger lagt ved alle høringene. Alle kan gi innspill på høringene som er åpne for innspill, også de som ikke er nevnt i høringslisten.
+
+### Pågående høringer
+
+- Høringsfrist 31. januar 2027 [Høring - Fjerne kravet til røntgenundersøkelse ved bergarbeid](https://www.arbeidstilsynet.no/regelverk/horinger/horing/?hearingId=3884)
 
 ### Avsluttede høringer
 
@@ -45,3 +49,4 @@ En liste over høringsinstanser ligger lagt ved alle høringene. Alle kan gi inn
 
 - **2026-05-22** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-10-29** Innhold endret (se git-historikk for diff)
