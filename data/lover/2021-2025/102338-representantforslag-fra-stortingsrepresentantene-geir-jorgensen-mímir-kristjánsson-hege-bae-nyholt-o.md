@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5dbe8fe061c0681a20fcf13ea978ef877dd9ba337b9972d0343318d998b5b577 -->
+<!-- innholds-hash: 202d175151fe857935c79492292197609fbad4af3363deca16e5cdb360c23549 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen, Mímir Kristjánsson, Hege Bae Nyholt og Sofie Marhaug om å få kontroll over datasenterindustrien
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:112 S (2024-2025), Innst. 280 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Elektrisitet, Næringsutvikling, Kommunikasjonsteknologi
+- **Emner:** Energi, Elektrisitet, Næringsutvikling, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102338
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 4,
+      "id": 4,
+      "navn": "Energi",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 4,
@@ -169,3 +176,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

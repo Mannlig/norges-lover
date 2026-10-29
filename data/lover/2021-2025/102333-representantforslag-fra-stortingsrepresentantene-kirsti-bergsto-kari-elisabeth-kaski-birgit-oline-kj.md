@@ -1,4 +1,4 @@
-<!-- innholds-hash: c022a4c03b96cf3a0f2c96976b5f871a396d324cd876ac862d3e1d5cd839bc0e -->
+<!-- innholds-hash: 1e0d843e4b223349b2af4478dde0a4ee9edf05d91ddb065c5881977835c42514 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Kari Elisabeth Kaski, Birgit Oline Kjerstad, Ingrid Fiskaa, Kathy Lie og Grete Wold om å ta kommersielle aktører ut av skolen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:107 S (2024-2025), Innst. 238 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Personvern, Barn, Forbrukersaker, Kommunikasjonsteknologi, Grunnskole
+- **Emner:** Personvern, Skoler, Barn, Massemedier, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102333
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,6 +35,13 @@
     },
     {
       "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 31,
+      "navn": "Skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
       "hovedemne_id": 40,
       "id": 41,
       "navn": "Barn",
@@ -42,9 +49,9 @@
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 113,
-      "id": 98,
-      "navn": "Forbrukersaker",
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
       "underemne_liste": []
     },
     {
@@ -52,13 +59,6 @@
       "hovedemne_id": 2,
       "id": 179,
       "navn": "Kommunikasjonsteknologi",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 32,
-      "id": 183,
-      "navn": "Grunnskole",
       "underemne_liste": []
     }
   ],
@@ -221,3 +221,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

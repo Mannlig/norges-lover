@@ -1,0 +1,73 @@
+<!-- innholds-hash: 70ca65e5f8825faa4107a2f48b67b4d7be3ca3ef017cff2ec0d30c8e06fd327f -->
+
+# Nye personer med nedsatt arbeidsevne etter fylke og kjønn. I alt. 1.kvartal 2011-2022* - nav.no
+
+## Kildeinformasjon
+
+- **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-personer-med-nedsatt-arbeidsevne-etter-fylke-og-kjonn.i-alt.1.kvartal-2011-2022
+- **Sist oppdatert i arkivet:** 2026-10-29T19:18:43Z
+
+## Innhold
+
+### Nye personer med nedsatt arbeidsevne etter fylke og kjønn. I alt. 1.kvartal 2011-2022*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I alt | 18 711 | 16 256 | 14 848 | 16 186 | 17 559 | 15 794 | 18 437 | 14 744 | 18 013 | 21 317 | 19 568 | 20 049 |
+| Oslo | 2 486 | 1 847 | 1 627 | 1 753 | 2 051 | 1 849 | 2 183 | 1 758 | 2 279 | 2 748 | 2 373 | 2 458 |
+| Rogaland | 1 294 | 1 233 | 988 | 1 173 | 1 288 | 1 346 | 1 642 | 1 297 | 1 665 | 1 915 | 1 584 | 1 706 |
+| Møre og Romsdal | 987 | 873 | 763 | 803 | 914 | 806 | 905 | 775 | 830 | 1 014 | 1 016 | 963 |
+| Nordland | 1 038 | 852 | 824 | 864 | 947 | 840 | 1 016 | 734 | 862 | 1 051 | 1 002 | 1 008 |
+| Viken | 4 067 | 3 409 | 3 291 | 3 598 | 3 764 | 3 415 | 3 853 | 3 370 | 3 806 | 4 429 | 4 330 | 4 382 |
+| Innlandet | 1 402 | 1 321 | 1 244 | 1 292 | 1 211 | 1 081 | 1 270 | 1 007 | 1 318 | 1 584 | 1 325 | 1 418 |
+| Vestfold og Telemark | 1 559 | 1 414 | 1 336 | 1 366 | 1 489 | 1 299 | 1 440 | 1 181 | 1 522 | 1 694 | 1 544 | 1 567 |
+| Agder | 1 142 | 1 081 | 804 | 1 043 | 1 275 | 1 019 | 1 353 | 1 009 | 1 076 | 1 312 | 1 296 | 1 302 |
+| Vestland | 2 055 | 1 788 | 1 646 | 1 871 | 1 975 | 1 837 | 2 056 | 1 645 | 1 955 | 2 325 | 2 087 | 2 243 |
+| Trøndelag - Trööndelage | 1 599 | 1 526 | 1 469 | 1 470 | 1 549 | 1 378 | 1 712 | 1 249 | 1 791 | 2 115 | 1 899 | 1 975 |
+| Troms og Finnmark - Romsa ja | 1 012 | 841 | 785 | 864 | 925 | 800 | 910 | 642 | 844 | 1 012 | 953 | 905 |
+| Øvrige områder og ukjent | 70 | 71 | 71 | 89 | 171 | 124 | 97 | 77 | 65 | 118 | 159 | 122 |
+
+### Nye personer med nedsatt arbeidsevne etter fylke og kjønn. Menn. 1.kvartal 2011-2022*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Menn i alt | 8 926 | 7 206 | 6 568 | 7 218 | 7 872 | 7 182 | 8 315 | 6 579 | 8 224 | 9 632 | 8 945 | 8 883 |
+| Oslo | 1 151 | 769 | 739 | 805 | 894 | 804 | 923 | 797 | 1 062 | 1 271 | 1 125 | 1 117 |
+| Rogaland | 630 | 573 | 427 | 520 | 589 | 622 | 766 | 590 | 778 | 890 | 725 | 761 |
+| Møre og Romsdal | 463 | 380 | 322 | 344 | 392 | 365 | 403 | 320 | 364 | 441 | 442 | 415 |
+| Nordland | 495 | 397 | 361 | 369 | 406 | 386 | 442 | 304 | 357 | 464 | 430 | 460 |
+| Viken | 1 872 | 1 485 | 1 411 | 1 568 | 1 645 | 1 497 | 1 720 | 1 493 | 1 716 | 1 931 | 1 962 | 1 893 |
+| Innlandet | 677 | 598 | 564 | 590 | 546 | 473 | 565 | 432 | 583 | 732 | 606 | 628 |
+| Vestfold og Telemark | 774 | 644 | 599 | 625 | 665 | 617 | 670 | 570 | 714 | 797 | 697 | 714 |
+| Agder | 571 | 469 | 360 | 476 | 646 | 490 | 617 | 445 | 519 | 584 | 560 | 589 |
+| Vestland | 955 | 794 | 726 | 815 | 908 | 857 | 917 | 741 | 893 | 1 014 | 955 | 961 |
+| Trøndelag - Trööndelage | 735 | 667 | 646 | 626 | 646 | 597 | 772 | 537 | 794 | 971 | 863 | 841 |
+| Troms og Finnmark - Romsa ja | 541 | 380 | 359 | 416 | 403 | 387 | 443 | 289 | 400 | 449 | 442 | 406 |
+| Øvrige områder og ukjent | 62 | 50 | 54 | 64 | 132 | 87 | 77 | 61 | 44 | 88 | 138 | 98 |
+
+### Nye personer med nedsatt arbeidsevne etter fylke og kjønn. Kvinner. 1.kvartal 2011-2022*
+
+|  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kvinner i alt | 9 785 | 9 050 | 8 280 | 8 968 | 9 687 | 8 612 | 10 122 | 8 165 | 9 789 | 11 685 | 10 623 | 11 166 |
+| Oslo | 1 335 | 1 078 | 888 | 948 | 1 157 | 1 045 | 1 260 | 961 | 1 217 | 1 477 | 1 248 | 1 341 |
+| Rogaland | 664 | 660 | 561 | 653 | 699 | 724 | 876 | 707 | 887 | 1 025 | 859 | 945 |
+| Møre og Romsdal | 524 | 493 | 441 | 459 | 522 | 441 | 502 | 455 | 466 | 573 | 574 | 548 |
+| Nordland | 543 | 455 | 463 | 495 | 541 | 454 | 574 | 430 | 505 | 587 | 572 | 548 |
+| Viken | 2 195 | 1 924 | 1 880 | 2 030 | 2 119 | 1 918 | 2 133 | 1 877 | 2 090 | 2 498 | 2 368 | 2 489 |
+| Innlandet | 725 | 723 | 680 | 702 | 665 | 608 | 705 | 575 | 735 | 852 | 719 | 790 |
+| Vestfold og Telemark | 785 | 770 | 737 | 741 | 824 | 682 | 770 | 611 | 808 | 897 | 847 | 853 |
+| Agder | 571 | 612 | 444 | 567 | 629 | 529 | 736 | 564 | 557 | 728 | 736 | 713 |
+| Vestland | 1 100 | 994 | 920 | 1 056 | 1 067 | 980 | 1 139 | 904 | 1 062 | 1 311 | 1 132 | 1 282 |
+| Trøndelag - Trööndelage | 864 | 859 | 823 | 844 | 903 | 781 | 940 | 712 | 997 | 1 144 | 1 036 | 1 134 |
+| Troms og Finnmark - Romsa ja | 471 | 461 | 426 | 448 | 522 | 413 | 467 | 353 | 444 | 563 | 511 | 499 |
+| Øvrige områder og ukjent | 8 | 21 | 17 | 25 | 39 | 37 | 20 | 16 | 21 | 30 | 21 | 24 |
+
+* Tall under 4 vises ikke. Grunnlagsdataene er rekjørt tilbake til mars 2010. Dette medfører små avvik fra totaltallene i arkivet
+
+---
+*Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/nye-personer-med-nedsatt-arbeidsevne-etter-fylke-og-kjonn.i-alt.1.kvartal-2011-2022) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-10-29** Første gang hentet

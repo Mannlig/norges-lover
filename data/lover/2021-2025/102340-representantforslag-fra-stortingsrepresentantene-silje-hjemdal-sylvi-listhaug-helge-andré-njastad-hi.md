@@ -1,4 +1,4 @@
-<!-- innholds-hash: 174018d44682a8bd37b03b820b557ccd742bc12a6d9ae16381b6654aca3d35ae -->
+<!-- innholds-hash: a005e09f14a56e8ececdfcdd0a459fc599a746482ada2a32fbce76b8fe7d6f1a -->
 
 # Representantforslag fra stortingsrepresentantene Silje Hjemdal, Sylvi Listhaug, Helge André Njåstad, Himanshu Gulati og Erlend Wiborg om æreskultur og æreskriminalitet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:114 S (2024-2025), Innst. 368 S (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** Innvandrere, Likestilling, Familie, Barn, Barnevern, Politi og påtalemyndighet
+- **Emner:** Strafferett, Innvandrere, Likestilling, Familie, Barn, Barnevern, Politi og påtalemyndighet, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102340
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 14,
+      "navn": "Strafferett",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": true,
       "hovedemne_id": 18,
@@ -66,6 +73,13 @@
       "hovedemne_id": 11,
       "id": 141,
       "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
       "underemne_liste": []
     }
   ],
@@ -209,3 +223,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b7d21b1facb062153f97971c539e49749542a9bde11d106567e9b6a357a05dc8 -->
+<!-- innholds-hash: 76f82f4716a4d4b5d20bd4339d05ccdb51680fb875f5023be29a9d5a53878e59 -->
 
 # Representantforslag fra stortingsrepresentantene Erna Solberg, Margret Hagerup, Erlend Svardal Bøe, Sandra Bruflot og Kari-Anne Jønnes om lovfestet rett til barnehageplass for barn født i desember, innen utgangen av måneden de fyller ett år
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:108 S (2024-2025), Innst. 239 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Familie, Barn, Barnehager
+- **Emner:** Likestilling, Familie, Barnehager
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102334
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,16 +28,16 @@
   "emne_liste": [
     {
       "er_hovedemne": true,
-      "hovedemne_id": 40,
-      "id": 40,
-      "navn": "Familie",
+      "hovedemne_id": 24,
+      "id": 24,
+      "navn": "Likestilling",
       "underemne_liste": []
     },
     {
-      "er_hovedemne": false,
+      "er_hovedemne": true,
       "hovedemne_id": 40,
-      "id": 41,
-      "navn": "Barn",
+      "id": 40,
+      "navn": "Familie",
       "underemne_liste": []
     },
     {
@@ -188,3 +188,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

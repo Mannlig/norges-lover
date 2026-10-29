@@ -1,4 +1,4 @@
-<!-- innholds-hash: 27797060e3a72acb589a2e237c5738dd32e1b86d4d78ce224b15a7b50aebb077 -->
+<!-- innholds-hash: 5953b1cda571a1989cf46e06536030a096d8d215f0b271d16bbc4610b120a141 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Hans Andreas Limi, Bård Hoksrud, Terje Halleland, Frank Edvard Sve, Silje Hjemdal, Erlend Wiborg, Himanshu Gulati og Marius Arion Nilsen om nordisk kjernekraftsamarbeid og realisering av kjernekraft som en del av energimiksen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:113 S (2024-2025), Innst. 274 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Energi, Elektrisitet, Bergverk, Nordisk samarbeid
+- **Emner:** Energi, Forskning, Elektrisitet, Bergverk, Nordisk samarbeid
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102339
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 4,
       "id": 4,
       "navn": "Energi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 45,
+      "id": 45,
+      "navn": "Forskning",
       "underemne_liste": []
     },
     {
@@ -271,3 +278,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

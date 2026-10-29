@@ -1,4 +1,4 @@
-<!-- innholds-hash: e87283b8f914a761ed4b742a1b523681e61f056b8d4557aed58c6e55f8bf3fe3 -->
+<!-- innholds-hash: 0e335b42f78b20dc84b0fc3a3e6b326934abc9d758036b368e2265e0b21e8c75 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Andreas Sjalg Unneland, Ingrid Fiskaa og Birgit Oline Kjerstad om å tøyle tek-oligarkene
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:102 S (2024-2025), Innst. 371 S (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** Personvern, Priser og konkurranseforhold, Forbrukersaker, Kommunikasjonsteknologi
+- **Emner:** Personvern, Skatter, Forbrukersaker, Massemedier, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102120
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -36,8 +36,8 @@
     {
       "er_hovedemne": false,
       "hovedemne_id": 187,
-      "id": 83,
-      "navn": "Priser og konkurranseforhold",
+      "id": 58,
+      "navn": "Skatter",
       "underemne_liste": []
     },
     {
@@ -45,6 +45,13 @@
       "hovedemne_id": 113,
       "id": 98,
       "navn": "Forbrukersaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
       "underemne_liste": []
     },
     {
@@ -176,3 +183,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

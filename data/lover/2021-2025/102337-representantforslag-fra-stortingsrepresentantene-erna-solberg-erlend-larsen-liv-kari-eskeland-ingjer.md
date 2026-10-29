@@ -1,4 +1,4 @@
-<!-- innholds-hash: 425ea5c709062a5202424e8853f8175e12ef25d4413f6c10bf94a953121ca754 -->
+<!-- innholds-hash: a605366e360ff28d66ec4625bd1d9b9aca5ce590a02029ea1b7833f56c3f469e -->
 
 # Representantforslag fra stortingsrepresentantene Erna Solberg, Erlend Larsen, Liv Kari Eskeland, Ingjerd Schie Schou, Anne Kristine Linnestad, Mahmoud Farahmand og Trond Helleland om å gjenreise tilliten til jernbanen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:111 S (2024-2025), Innst. 306 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Jernbaner
+- **Emner:** Forbrukersaker, Jernbaner
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102337
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 2,
@@ -212,3 +219,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

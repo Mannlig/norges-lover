@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d087aa6dd2f3fc45b1ce65071bb3fc4573ff9088e306efc64422da4b190f2c6 -->
+<!-- innholds-hash: 861dc27bc7d7c3419209da418aba05c7f18a891d9f1d31ec5513eab26e104e43 -->
 
 # Representantforslag fra stortingsrepresentantene Marit Arnstad, Emilie Mehl, Kjerstin Wøyen Funderud og Marit Knutsdatter Strand om en mer distriktsvennlig privatskolelov
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:109 S (2024-2025), Innst. 241 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Grunnskole, Distriktspolitikk
+- **Emner:** Privatskoler, Distriktspolitikk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102335
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -29,8 +29,8 @@
     {
       "er_hovedemne": false,
       "hovedemne_id": 32,
-      "id": 183,
-      "navn": "Grunnskole",
+      "id": 33,
+      "navn": "Privatskoler",
       "underemne_liste": []
     },
     {
@@ -162,3 +162,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)

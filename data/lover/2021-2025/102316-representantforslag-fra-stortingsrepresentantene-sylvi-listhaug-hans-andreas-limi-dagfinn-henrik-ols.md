@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5c84a5ff065108722a3e8f06e439fab6ae4d2306ec1a1db8d7b903fe4c786d5b -->
+<!-- innholds-hash: adf440895a79f574d4061de591910b97f3cac83c6ecd4162c6a0edfa190f5504 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Hans Andreas Limi, Dagfinn Henrik Olsen, Frank Edvard Sve, Silje Hjemdal, Morten Stordalen og Himanshu Gulati om teknomaritime studier og forsvarssamarbeid
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:105 S (2024-2025), Innst. 273 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Forsvar, Høyere utdanning
+- **Emner:** Universiteter, Forsvar, Høyere utdanning, Høgskoler
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-29T16:19:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102316
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,6 +27,13 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 35,
+      "navn": "Universiteter",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": true,
       "hovedemne_id": 59,
       "id": 59,
@@ -38,6 +45,13 @@
       "hovedemne_id": 32,
       "id": 159,
       "navn": "Høyere utdanning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 160,
+      "navn": "Høgskoler",
       "underemne_liste": []
     }
   ],
@@ -219,3 +233,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-29** Innhold endret (se git-historikk for diff)
