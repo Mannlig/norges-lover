@@ -1,4 +1,4 @@
-<!-- innholds-hash: d94f1d31308806127d1dd281e4103ef81ab1e034704e6c2b7cc3118dfafff515 -->
+<!-- innholds-hash: b83ceb9213075936171fb85b2e46e0075cab16771b1c04b2cc40cf358fa9ebcf -->
 
 # Oksenøya sjukeheim: Der generasjonar kan møtast!
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/eksempler/oksenoya-sykehjem/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:24:34Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:49:44Z
 
 ## Innhold
 
@@ -77,13 +77,13 @@ Prosjektet fekk:
 
 Bærum kommune vidarefører dette konseptet i eit anna område på Fornebu, Tårnkvartalet. Her er det planlagt eit nærmiljøsenter som mellom anna skal innehalde bibliotek og vidaregåande skule.
 
-### Lenker
+### Fleire omtaler av sjukeheimen
 
 [Oksenøya Senter Treklang (bygg.no)](https://byggeprosjekter.bygg.no/2023-akershus/oksenoya-senter-treklang/2311355)
 
 [Oksenøya bu- og behandlingssenter: Nye moglegheiter i tidlegare flyplassområde (arkitema.com)](https://www.arkitema.com/no/prosjekt/oksen%C3%B8ya-bo-og-behandlingscenter)
 
-[Oksenøya sjukeheim (norlandiacare.no)](https://norlandiacare.no/norlandia-eldreomsorg/oksenoya-sykehjem)
+[Oksenøya sjukeheim (norlandiacare.no)](https://norlandiacare.no/norlandia-care-as/oksenoya-sykehjem)
 
 [Oksenøya sjukeheim (Bærum kommune)](https://baerum.nkdb.no/steder/530462/Oksen%C3%B8ya+sykehjem)
 
@@ -97,3 +97,4 @@ Bærum kommune vidarefører dette konseptet i eit anna område på Fornebu, Tår
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 51aad5ac59b216f396506af839c509b5d7595f7a711f8d961491034d377b359d -->
+<!-- innholds-hash: bfc4b4c2d2f22816aecc7ff790dac2711f786101e43ddd0eef25e41ce613d189 -->
 
 # Rakkestad: Boligtreff i Østfold
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:25:47Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:13:20Z
 
 ## Innhold
 
@@ -39,12 +39,12 @@ Arrangementet er et samarbeid mellom Husbanken og Rakkestad kommune.
 - En «eierløsning» for unge funksjonshemmede, Hovskogen borettslag ved Kenneth Andre Johannessen i Indre Østfold kommune
 - En oppsummering av prosjektene som er presentert ved Erik Simensen
 - Oppgradering og tilpasning av boliger ved Husbanken
-- Ta vare på boligene vi har og bygge det vi trenger. Vi har invitert Solis arkitekter til å se på mulighetene for ombygg og transformasjon.
+- Ta vare på boligene vi har og bygge det vi trenger. Vi har invitert Sol-is arkitekter, Natural State og Riksantikvaren til å se på mulighetene for ombygg og transformasjon.
 - Vi runder av og vel hjem!
 
-Ved spørsmål, ta kontakt med Irene Lofthus i Husbanken Øst.
+Ved spørsmål, ta kontakt med Irene Lofthus i Husbanken øst.
 
-Sist oppdatert: 19.10.2026
+Sist oppdatert: 26.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/) av norges-lover-bot.*
@@ -54,3 +54,4 @@ Sist oppdatert: 19.10.2026
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

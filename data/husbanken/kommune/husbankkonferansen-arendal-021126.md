@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0547bff7218bc4a73625f7f5241d742bb440048d7e737be315ffed11ddb61b59 -->
+<!-- innholds-hash: f26cb120b88d31f102fa9f5136d1688d595ef9af9b1331010acec82b649e6f41 -->
 
 # Arendal: Husbankkonferansen i sør 2026
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/husbankkonferansen-arendal-021126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:28:14Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:08:46Z
 
 ## Innhold
 
@@ -26,34 +26,7 @@ Vi vil også løfte andre aktuelle problemstillinger knyttet til boligmarkedet o
 
 Konferansen vil by på innlegg fra sentrale fagpersoner og aktører, panelsamtaler og gode muligheter for erfaringsutveksling og dialog.
 
-### Vi får blant annet høre:
-
-#### Dag 1
-
-- Stortingsrepresentant fra Arbeiderpartiet, Kai Steffen Østensen, snakke om hvordan nå regjeringens mål om 130.000 boliger
-- Administrerende direktør i Husbanken, Jan Hjelle, om hva Husbanken kan bidra med for å nå regjeringens mål
-- Regiondirektør NHO Agder, Høye Gerhard Høyesen, om hvordan næringen jobber med regjeringens mål
-- Gründer og administrerende direktør i Lindal Gruppen, Jan Lindal, om hvordan bransjen bidrar, utfordringer og hva som trengs
-- Kommunedirektør Ola Morten Teigen og prosjektleder Øivind Engvik fra Heim kommune fortelle om deres kraftfulle grep for å møte utfordringene i boligmarkedet
-- Arkitekt og medgründer ved Sol-Is, Mari Isdahl om transformasjon kan være løsningen på boligmangelen i distriktene
-- Administrerende direktør i Bergene Holm, Erland Løkken, om fulle tømmerlagre og en byggebransje i krise - er tiden inne for oppgradering og transformasjon av eldre bygg?
-- Samfunnsforsker og førsteamanuensis ved NMBU, Erling Dokk Holm, med et skråblikk over temaene på agendaen for denne konferansen
-
-#### Dag 2
-
-- Leder av Kommunekommisjonen, Eivind Dale, om en bærekraftig kommunesektor
-- Kunnskapsdirektør i Husbanken, Hans Christian Sandlie, om status på leiemarkedet
-- Avdelingsdirektør i Husbanken vest, Lars Marius Ulfrstad, om korttidsleie og konsekvenser for kommunene
-- Ordfører i Grimstad kommune, Beate Skretting og ordfører i Bykle kommune, Hans Blattmann om kommunenes erfaringer med leiemarkedet og Airbnb
-- Avdelingsleder for Boligkontoret i Sarpsborg kommune, Robin Brynhildsen, om Sarpsborg som vinner av Boligprisen 2026
-
-Programmet er under utarbeiding og vil bli oppdatert fortløpende.
-
-### Påmelding til konferansen
-
-[Her melder du deg på Husbankkonferansen sør 2026](https://event.checkin.no/229804/husbankkonferansen-i-soer-2026)
-
-Påmeldingsfrist er 26. oktober.
+Vi tar forbehold om endringer i programmet.
 
 Lurer du på noe? Send spørsmål til post@husbanken.no
 
@@ -66,3 +39,4 @@ Sist oppdatert: 25.09.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

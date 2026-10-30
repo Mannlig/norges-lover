@@ -1,4 +1,4 @@
-<!-- innholds-hash: 249ac503d1f4abf02d9518c0f2cb2aa413a46663f9def51e0851705c8cfb8875 -->
+<!-- innholds-hash: 2cb5309b6675414ff56a9332f4d755d3f08fb03e51f422afb6dd2d39394d6e41 -->
 
 # Tilskudd til aldersvennlig oppgradering av egen bolig
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T08:16:55Z
+- **Sist oppdatert i arkivet:** 2026-10-30T14:57:35Z
 
 ## Innhold
 
@@ -20,6 +20,16 @@ Du kan få tilskudd fra Husbanken til å gjøre boligen din mer aldersvennlig. M
 - du bor i boligen selv og den er en eid eller leid helårsbolig. Hvis du leier må du ha samtykke fra utleier.
 - boligen er din folkeregistrerte adresse
 - du skal oppgradere for minst 40 000 kroner
+
+### Søknadsfrister i 2027
+
+I 2027 gjelder følgende søknadsfrister for tilskudd til aldersvennlig oppgradering av egen bolig:
+
+- 1. februar
+- 3. mai
+- 30. september
+
+Merk at fristene gjelder kun dersom det er satt av penger i statsbudsjettet for 2027 til ordningen.
 
 ### Hvor mye kan du få?
 
@@ -77,6 +87,8 @@ Husk å legge ved pristilbudet i søknaden. Avhengig av situasjonen din, kan du 
 
 Søknadsfrist: 30. oktober 2026
 
+Neste frist: 1. februar 2027
+
 [Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/inngang)
 
 [Søk om tilskudd på papir (PDF)](https://nedlasting.husbanken.no/Filer/8s39.pdf)
@@ -132,3 +144,4 @@ Sist oppdatert: 20.09.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

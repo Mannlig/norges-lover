@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6b4d07fb837e793b421c8f29d1ceffaba0672ce247864b85ba3e58372d689d6f -->
+<!-- innholds-hash: e9639439308f395664e442c2a960ba30f33b6ee5b244ad1269191971f8b68ab8 -->
 
 # Om bostøtteveilederen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T11:39:05Z
+- **Sist oppdatert i arkivet:** 2026-10-30T16:04:16Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Veilederen er et hjelpemiddel for deg som saksbehandler søknader om bostøtte. 
 
 De aktuelle paragrafene i bostøtteloven og/eller forskrift om bostøtte er gjengitt i egen boks i tilknytning til hvert tema.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -38,3 +38,4 @@ Satsene er oppdatert i juni 2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

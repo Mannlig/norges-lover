@@ -1,4 +1,4 @@
-<!-- innholds-hash: d87fb6cfb1257c71a0a9f94c1e04b8d021a1708d31f9808a4aefd623321d9613 -->
+<!-- innholds-hash: 86557cdef3c8caef80769b4c6e90ed9d450adc37043bcab94ff7bced7ab8e1f3 -->
 
 # Trygg busituasjon for unge rusavhengige i rehabilitering
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/eksempler/nedre-eik-rus-rehabilitering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:23:34Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:48:45Z
 
 ## Innhold
 
@@ -69,7 +69,7 @@ Oppussinga starta først i mars 2021, på grunn av at det gjekk ein del tid på 
 
 Gardsprosjektet er skissert for inntil 28 bebuarar. Våren 2022 starta omreguleringa for å kunne videreutvikle garden med opptil 23 nye bueiningar, fellesareal og næring. Det er forventa at omreguleringa blir behandla i slutten av 2023. Vidare finansiering vil deretter komme opp til politisk behandling i kommunen og med ein ny søknad til Husbanken.
 
-[Meir om gardsprosjektet på Nedre Eik i Drammen](https://www.drammen.kommune.no/tjenester/helse-omsorg/psykisk-helse-rus-og-avhengighet/nedre-eik-gard/)
+[Meir om Nedre Eik på drammen.kommune.no](https://www.drammen.kommune.no/tjenester/helse-velferd/psykisk-helse-rus-og-avhengighet/nedre-eik-gard/)
 
 [Informasjon om Jegersberg gård i Kristiansand](https://www.jegersberggaard.no/kompetansesenter/om-kompetansesenteret)
 
@@ -79,3 +79,4 @@ Gardsprosjektet er skissert for inntil 28 bebuarar. Våren 2022 starta omreguler
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

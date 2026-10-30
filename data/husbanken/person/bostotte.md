@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce1ce0cdaf5c49655872a1b3e4fe493731789d346bb6dca47592a2f357d61bac -->
+<!-- innholds-hash: 19bd73dd4750bcaf8210fc294a592c106e39b439098e5cab8a9aca35769f4eab -->
 
 # Bostøtte
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:07:58Z
+- **Sist oppdatert i arkivet:** 2026-10-30T14:55:29Z
 
 ## Innhold
 
@@ -20,11 +20,11 @@ Next response and payment: 20 November
 
 Boahtte vástádus ja máksin: skábmamánus 20.b.
 
-Neste søknadsfrist: 25. oktober
+Neste søknadsfrist: 25. november
 
-Next application deadline: 25. October
+Next application deadline: 25 November
 
-Boahtte ohcanáigemearri: golggotmánus 25.b.
+Boahtte ohcanáigemearri: skábmamánus 25.b.
 
 [Datoer for utbetaling](https://www.husbanken.no/person/bostotte/utbetalingsdatoer/)
 
@@ -59,3 +59,4 @@ Her finner du informasjon om hvordan du kan lese vedtak og brev, melde fra om en
 
 - **2026-10-07** Første gang hentet
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: b50339dec9a017f0b7d3b52d0d90dfd86cad3986798b50dd8cd0623db4a1a29c -->
+<!-- innholds-hash: a396962cc7116b7184735f662f99c2efec486a7296e1c034ae3a21e1def3e439 -->
 
 # Sáhtát go don oažžut orrundoarjaga?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/samegiella/orrundoarjja/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:17:03Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:04:35Z
 
 ## Innhold
 
@@ -30,11 +30,11 @@ Next response and payment: 20 November
 
 Boahtte vástádus ja máksin: skábmamánus 20.b.
 
-Neste søknadsfrist: 25. oktober
+Neste søknadsfrist: 25. november
 
-Next application deadline: 25. October
+Next application deadline: 25 November
 
-Boahtte ohcanáigemearri: golggotmánus 25.b.
+Boahtte ohcanáigemearri: skábmamánus 25.b.
 
 [Datoer for utbetaling](https://www.husbanken.no/person/bostotte/utbetalingsdatoer/)
 
@@ -49,3 +49,4 @@ Maŋimuš ođasmahttojuvvon: 28.08.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

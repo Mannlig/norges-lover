@@ -1,4 +1,4 @@
-<!-- innholds-hash: a433887c7a67562e482fe9385557a5ebf6837b6acfc2e602b191a05d01d40108 -->
+<!-- innholds-hash: 0c7218d4292296fb50a2a600413224adbbefd961336d6c7a258058f613627785 -->
 
 # Stjørdal: Bo trygt hjemme-konferanse
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bo-trygt-hjemme-trondelag-261126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T10:43:43Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:07:46Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Konferansen arrangeres i samarbeid mellom Trøndelag Fylkeskommune, KS Trøndela
 
 ### Program
 
-- Helsereformutvalget – hvordan bygge en helsetjeneste for framtida? Madli Indset, samhandlingsjef KS
+- Helsereformutvalget – hvordan bygge en helsetjeneste for framtida? Madli Indset, samhandlingssjef KS
 - Hvordan står det til med helsen i Trøndelag, og hva skaper god helse? Steinar Krokstad, professor ved HUNT forskningssenter, Institutt for samfunnsmedisin og sykepleie på NTNU
 - Gode lokalsamfunn for eldre - hva skal til for å bo hjemme? Anne Wally Falch Ryan, førsteamanuensis på fakultet for samfunnsvitenskap Nord Universitet
 - Helsedirektoratet - hva skjer nasjonalt? Ingrid Køhler Knutsen, spesialrådgiver og programansvarlig Bo trygt hjemme
@@ -44,7 +44,7 @@ Konferansen arrangeres i samarbeid mellom Trøndelag Fylkeskommune, KS Trøndela
 
 Har du spørsmål, ta kontakt på post@husbanken.no.
 
-Sist oppdatert: 02.10.2026
+Sist oppdatert: 27.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/bo-trygt-hjemme-trondelag-261126/) av norges-lover-bot.*
@@ -52,3 +52,4 @@ Sist oppdatert: 02.10.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

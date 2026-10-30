@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a67fb4cd2deb14c59a7ce55e4ba6e6ba6ac2a63834f07663fff9a56560cbff0 -->
+<!-- innholds-hash: 8ea5abf40b7a6e1666b999a559b0ca9ec190d7b4d6a48f7eb8e1982fe6443e81 -->
 
 # Husbanken.no forside for tall og kunnskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunnskap/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:05:59Z
+- **Sist oppdatert i arkivet:** 2026-10-30T14:53:33Z
 
 ## Innhold
 
@@ -55,9 +55,9 @@ Lær mer om Husbankens samfunnsoppdrag og hva vi gjør for å løse det.
 
 ### Aktuelt
 
+- 26. oktober 2026 | Pressemelding [Vanskeligere å bli boligeier med lav inntekt](https://kommunikasjon.ntb.no/pressemelding/19117369/vanskeligere-a-bli-boligeier-med-lav-inntekt?publisherId=2823375&lang=no)
 - 21. oktober 2026 | Pressemelding [Tromsø kommune får to millioner kroner til kontroll av korttidsutleie](https://kommunikasjon.ntb.no/pressemelding/19112228/tromso-kommune-far-to-millioner-kroner-til-kontroll-av-korttidsutleie?publisherId=2823375&lang=no)
 - 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
-- 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
@@ -69,3 +69,4 @@ Lær mer om Husbankens samfunnsoppdrag og hva vi gjør for å løse det.
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

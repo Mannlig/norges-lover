@@ -1,4 +1,4 @@
-<!-- innholds-hash: 37ea9d5a458df4556bc31419e68eb01031939978daa70dadcf20bdb80eed7ab6 -->
+<!-- innholds-hash: 9acacf9f66dc0507851aa656233dd7e23183669265b8bda9847655c4d998496b -->
 
 # Kan du få bostøtte?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/kan-jeg-faa-bostotte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:14:21Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:02:04Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Hvis den samlede inntekten til alle voksne i husstanden er høyere enn den øvre
 
 [Dette regnes som boutgifter](https://www.husbanken.no/person/bostotte/beregning-av-bostotte/boutgifter-som-legges-til-grunn-for-beregningen/)
 
-Finn inntektsgrensen til husstanden din for oktober Så mye kan husstanden ha i inntekt per måned før skatt:28 241 kr
+Finn inntektsgrensen til husstanden din for november Så mye kan husstanden ha i inntekt per måned før skatt:28 241 kr
 
 ### Finn ut hvor mye bostøtte du kan få
 
@@ -36,11 +36,11 @@ Next response and payment: 20 November
 
 Boahtte vástádus ja máksin: skábmamánus 20.b.
 
-Neste søknadsfrist: 25. oktober
+Neste søknadsfrist: 25. november
 
-Next application deadline: 25. October
+Next application deadline: 25 November
 
-Boahtte ohcanáigemearri: golggotmánus 25.b.
+Boahtte ohcanáigemearri: skábmamánus 25.b.
 
 [Datoer for utbetaling](https://www.husbanken.no/person/bostotte/utbetalingsdatoer/)
 
@@ -69,3 +69,4 @@ Sist oppdatert: 19.06.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

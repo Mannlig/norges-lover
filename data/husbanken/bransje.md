@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0f41ccf787d417ffcb5c1af7a1c2943fdf3e869da1ac34d8823ced3ea9915314 -->
+<!-- innholds-hash: e0f813d4dd422dbaf31acc645caa33842f99b31dab1482ffcdbcdf4c479cf2c2 -->
 
 # Forside for bransjeaktører
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/bransje/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-23T02:00:32Z
+- **Sist oppdatert i arkivet:** 2026-10-30T14:48:01Z
 
 ## Innhold
 
@@ -75,18 +75,17 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 
 ### Aktuelt
 
+- 26. oktober 2026 | Pressemelding [Vanskeligere å bli boligeier med lav inntekt](https://kommunikasjon.ntb.no/pressemelding/19117369/vanskeligere-a-bli-boligeier-med-lav-inntekt?publisherId=2823375&lang=no)
 - 21. oktober 2026 | Pressemelding [Tromsø kommune får to millioner kroner til kontroll av korttidsutleie](https://kommunikasjon.ntb.no/pressemelding/19112228/tromso-kommune-far-to-millioner-kroner-til-kontroll-av-korttidsutleie?publisherId=2823375&lang=no)
 - 8. oktober 2026 | Pressemelding [Forslaget til statsbudsjett for 2027 på ansvarsområdet til Husbanken – bolig- og bygningsdirektoratet](https://kommunikasjon.ntb.no/pressemelding/19096870/forslaget-til-statsbudsjett-for-2027-pa-ansvarsomradet-til-husbanken-bolig-og-bygningsdirektoratet?publisherId=2823375&lang=no)
-- 29. september 2026 | Pressemelding [Husbanken lyser ut 11 stipend til masterstudenter](https://kommunikasjon.ntb.no/pressemelding/19085389/husbanken-lyser-ut-11-stipend-til-masterstudenter?publisherId=2823375&lang=no)
 
 [Alle saker](https://kommunikasjon.ntb.no/presserom/2823375/husbanken)
 
 ### Arrangementer
 
-- 6. oktober Digitalt [Nettmøte: Nytt om Kobo](https://www.husbanken.no/kommune/nettmote-kobo-061026/)
-- 20. oktober Digitalt [Webinar: Tilpasning av boliger for eldre](https://www.husbanken.no/kommune/webinar-eldre-201026/)
-- 21. oktober Digitalt [Webinar: Hjelp med midlertidig bolig – hva fremmer god praksis i Nav-kontorene?](https://www.husbanken.no/kommune/webinar-bostedsloshet-211026/)
 - 13. november Digitalt [Webinar: DUE Bergen - en trygg bolig og bedre liv for utsatt ungdom](https://www.husbanken.no/kommune/webinar-bostedsloshet-131126/)
+- 19. november Digitalt på Teams [Webinar: Fra straff til hjelp for bostedsløse](https://www.husbanken.no/kommune/straff-til-hjelp---bostedsloeshet-foer-og-naa/)
+- 4. desember Digitalt [Webinar: Aldersvennlig boligutvikling i Irland og Norge](https://www.husbanken.no/kommune/webinar-eldre-041226/)
 
 [Alle arrangementer](https://www.husbanken.no/arrangement/)
 
@@ -98,3 +97,4 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
+- **2026-10-30** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: be1e5696142c15022b77ee93908de3ab6e24866efd57148acdc3227307c27fe9 -->
+<!-- innholds-hash: 79a69955df6faabb5bff275f1663ddaf5e3b64f7c36b85b9b3bde78d792271a1 -->
 
 # Eksempel og erfaringar
 
@@ -6,13 +6,19 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/eksempler/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:45:49Z
+- **Sist oppdatert i arkivet:** 2026-10-30T14:49:03Z
 
 ## Innhold
 
 ## Eksempel og erfaringar
 
 Her finn du døme på bustadprosjekt og bustadsosialt arbeid for ulike grupper og behov. Sjå korleis kommunar og andre aktørar har funne gode løysingar, og bruk erfaringane som inspirasjon i eige arbeid.
+
+### [Vallergrenda: Bustader for ulike målgrupper i same nabolag](https://www.husbanken.no/eksempler/vallergrenda-baerum/)
+
+I Vallergrenda på Gjettum i Bærum er 67 leilegheiter bygde med eit mål om å skape eit mangfaldig bumiljø. Her bur folk som har kjøpt bustad på den opne marknaden saman med førstegangskjøparar, økonomisk vanskelegstilte familiar og bebuarar i omsorgsbustader. Felles møteplassar skal gjere det lettare å møtast i kvardagen.
+
+#Sjukeheim og omsorgsbustader #Heilskapleg bustadplanlegging #Lån frå Husbanken #Startlån
 
 ### [Lund Torv - eit levande studentmiljø midt mellom sentrum og campus](https://www.husbanken.no/eksempler/lund-torv/)
 
@@ -428,3 +434,4 @@ Smibakken burettslag i Lindesnes kommune består av sju leilegheiter for unge pe
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

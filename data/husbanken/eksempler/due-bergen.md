@@ -1,4 +1,4 @@
-<!-- innholds-hash: ef66928d21d44fd05a3ceb472b3826724a93bbb927f180e471a1e17c2f67c2ca -->
+<!-- innholds-hash: 1e74d52f77778fc33c81ab40aa7bceef813cc1bdbc9da93eeeab916324809566 -->
 
 # DUE Bergen: Hjelper utsette ungdommar til å lukkast på bustadmarknaden
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/eksempler/due-bergen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:05:47Z
+- **Sist oppdatert i arkivet:** 2026-10-30T15:30:08Z
 
 ## Innhold
 
@@ -103,8 +103,6 @@ Andre viktige suksessfaktorar er:
 
 [DUE Metodehandbok (PDF) (bergen.kommune.no)](https://biblioteket.husbanken.no/arkiv/dok/Komp/DUE%20Metodehandbok_stor.pdf)
 
-[Der Ungdommen Er (statsforvaltaren.no)](https://www.statsforvalteren.no/vestland/folk-og-samfunn/bustadsosialt-arbeid/der-ungdommen-er---due/)
-
 ### Vidareføring av arbeidet
 
 Tiltaket har vore ein del av Utekontakten i Bergen si ordinære drift sidan 2008.
@@ -115,3 +113,4 @@ Tiltaket har vore ein del av Utekontakten i Bergen si ordinære drift sidan 2008
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)
