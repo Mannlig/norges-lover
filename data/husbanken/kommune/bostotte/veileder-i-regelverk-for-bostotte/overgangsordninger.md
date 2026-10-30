@@ -1,4 +1,4 @@
-<!-- innholds-hash: ce5b6b68be150b89b19a2e09e3f98a0068c3f94095e521d2bd59c5d4e9e7676f -->
+<!-- innholds-hash: ec9a79375f2a454f15fae1e49fdba909584dbfb3a0fcd818c12e3ca78198d626 -->
 
 # Overgangsordninger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/overgangsordninger/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:14:26Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:38:12Z
 
 ## Innhold
 
@@ -40,7 +40,7 @@ Personar som var del av ein husstand som fekk utbetalt bustøtte for desember 20
 
 Overgangsordningen gjelder kun for husstander som mottok bostøtte for desember 2014, og en eller flere er uføretrygdet. Tiltakene følger den uføre og gjelder selv om den uføre skulle flytte i løpet av perioden.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -52,3 +52,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 626
+**Antall dokumenter:** 629
 
 ## Innhold
 
@@ -163,6 +163,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Tilrettelagd bustad for personar med nedsett funksjonsevne](eksempler/torskar-tilrettelagte-boliger.md)
 - [Tyribo burettslag: Ungdommar blei bustadeigarar med startlån](eksempler/tyribo-borettslag.md)
 - [Vålandshagen: Bygger fellesskap med bustader for alle](eksempler/valandshagen.md)
+- [Vallergrenda: Bustader for ulike målgrupper i same nabolag](eksempler/vallergrenda-baerum.md)
 - [Energisparande leilegheiter rett ved nærbutikken i Stod](eksempler/vassinghaugen-borettslag-steinkjer.md)
 - [Verdal bu- og behandlingssenter: Pub, kafé og fleire kulturtilbod – for heile bygda!](eksempler/verdal-bo-og-behandlingssenter.md)
 
@@ -515,9 +516,11 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Om veilederen for startlån](kommune/startlaan/veileder.md)
 - [Gi verge eller medhjelper tilgang til å søke startlån og tilskudd](kommune/startlaan/verge-eller-en-person-uten-bankid-soke-startlan.md)
 - [Startlån og tilskudd for kommunen](kommune/startlaan.md)
+- [Webinar: Fra straff til hjelp for bostedsløse](kommune/straff-til-hjelp---bostedsloeshet-foer-og-naa.md)
 - [Webinar: Historien om boligblokken i Bekkefaret](kommune/webinar-bostedsloshet-101226.md)
 - [Webinar: DUE Bergen - en trygg bolig og bedre liv for utsatt ungdom](kommune/webinar-bostedsloshet-131126.md)
 - [Webinar: Hjelp med midlertidig bolig – hva fremmer god praksis i Nav-kontorene?](kommune/webinar-bostedsloshet-211026.md)
+- [Webinar: Aldersvennlig boligutvikling i Irland og Norge](kommune/webinar-eldre-041226.md)
 - [Webinar: Tilpasning av boliger for eldre](kommune/webinar-eldre-201026.md)
 
 ### Kunde I Husbanken

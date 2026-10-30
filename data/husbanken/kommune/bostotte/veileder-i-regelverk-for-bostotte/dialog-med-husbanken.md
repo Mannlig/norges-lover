@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2316702b0d2f0b656742987f3e84c6c95ef3f68a480b3f081352396cddbb633b -->
+<!-- innholds-hash: 37b765bb86240e2097dead47fd227ed44c7f7bc84694f1bb58b2941cfdaf2bf3 -->
 
 # Hvordan komme i dialog med Husbanken
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/dialog-med-husbanken/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:10:58Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:34:32Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Du finner kontaktinformasjon i bostøttesystemet for saksbehandlere.
 
 Har du glemt din brukeridentitet og/eller passord for innlogging til vårt Ekstranett? Du finner kontaktinformasjon på innloggingssiden for Ekstranettet.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -40,3 +40,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f43ad6ea2c3ef264cc60898fb36f4a86008839f3f441d787dbefab72c65f647a -->
+<!-- innholds-hash: e79a67102a3d48c5cbb9049e694fad9efd0267311278516247074956594489b6 -->
 
 # Regelverket
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/regelverket/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:15:25Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:39:13Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Bostøtteordningen reguleres av følgende bestemmelser (ikke uttømmende):
 - [Forvaltningsloven av 10. februar 1967](https://lovdata.no/dokument/NL/lov/1967-02-10?q=Forvaltningsloven)
 - [Offentlighetsloven av 19. mai 2006 nr. 16](https://lovdata.no/dokument/NL/lov/2006-05-19-16?q=Offentlighetsloven%20av%2019.%20mai%202006)
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -40,3 +40,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

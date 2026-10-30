@@ -1,4 +1,4 @@
-<!-- innholds-hash: 89f87628442762cc37c4913ed2ae86b5342952c55b5ced61b646620d5972ff59 -->
+<!-- innholds-hash: 2e44b8de959103543fddfc79f486d417bf606c08171c5236f9990975a65fc927 -->
 
 # Arkivering og kassasjon
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/arkivering-og-kassasjon/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:10:00Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:33:26Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ I slike saker ber vi om at du laster opp ettersendt dokumentasjon i bostøttesys
 
 Når det gjelder arkivmateriale som gjelder bostøtte skal kommunen forholde seg til de kommunale bevarings- og kassasjonsregler. Ta kontakt med arkivansvarlig i kommunen hvis du har spørsmål om arkivering eller kassasjon.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -42,3 +42,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

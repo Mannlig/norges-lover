@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1915
+**Antall dokumenter:** 1920
 
 ## Innhold
 
@@ -1921,6 +1921,11 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning](2025-2029/200486-representantforslag-fra-stortingsrepresentantene-bard-ludvig-thorheim-mari-holm-lonseth-anne-kristin.md)
 - [Representantforslag fra stortingsrepresentantene Ingrid Liland, Kirsti Bergstø og Bjørnar Moxnes om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter](2025-2029/200487-representantforslag-fra-stortingsrepresentantene-ingrid-liland-kirsti-bergsto-og-bjornar-moxnes-om-a.md)
 - [Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Anne Kristine Linnestad, Ove Trellevik og Erna Solberg om en mer fremtidsrettet havbruksnæring](2025-2029/200488-representantforslag-fra-stortingsrepresentantene-bard-ludvig-thorheim-anne-kristine-linnestad-ove-tr.md)
+- [Redegjørelse av justis- og beredskapsministeren og departementets styring av Politiets sikkerhetstjeneste (PST)](2025-2029/200489-redegjorelse-av-justis-og-beredskapsministeren-og-departementets-styring-av-politiets-sikkerhetstjen.md)
+- [Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)](2025-2029/200490-lov-om-rettidig-tilgjengelighet-og-forsyning-av-forsvarsprodukter-forsvarsforsyningsloven-og-samtykk.md)
+- [Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)](2025-2029/200491-lov-om-rettidig-tilgjengelighet-og-forsyning-av-forsvarsprodukter-forsvarsforsyningsloven-og-samtykk.md)
+- [Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)](2025-2029/200492-endringer-i-straffeprosessloven-mv-prosessuelle-regler-for-selvstendig-inndragning.md)
+- [Samtykke til inngåelse av avtale med Kommisjonen om tilknytning til EUs avtale om felles anskaffelse av den felles sentrale plattformen for CBAM](2025-2029/200493-samtykke-til-inngaelse-av-avtale-med-kommisjonen-om-tilknytning-til-eus-avtale-om-felles-anskaffelse.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9f8cee79aa9dc59ca44d759aaa1c5eb7b36db2456a666ba31f4d39ec0e88f2a8 -->
+<!-- innholds-hash: bf558fda8f1483c0e3452adb74a09b846df372f80894562847f723760e4adcf3 -->
 
 # Andre oppgaver i bostøttearbeidet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/andre-oppgaver-i-bostottearbeidet/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:04:31Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:27:56Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Veileder sist oppdatert 29.06.2026
 
 Veiledningen finner du i underkapitlene.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -32,3 +32,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

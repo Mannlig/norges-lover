@@ -1,4 +1,4 @@
-<!-- innholds-hash: fb0b10e9ae98ba44784c957f924f4814038f5f725c4e306ec6b0b45d2e01821f -->
+<!-- innholds-hash: 13e74e0be9d37243bd0964206e3bcf61795ee492ccadf1c8e744581dfb0caa3a -->
 
 # Formål, organisering, taushetsplikt og bostøttetilgang
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/formaal-organisering-taushetsplikt-og-bostottetilgang/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:11:28Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:35:00Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Veileder sist oppdatert 29.06.2026
 
 Veiledningen finner du i underkapitlene.
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -32,3 +32,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

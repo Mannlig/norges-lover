@@ -1,4 +1,4 @@
-<!-- innholds-hash: e1f4a42e7806342a9b655812e3f1ccf2801a7e0330ffdc96eb6c7312bca18d17 -->
+<!-- innholds-hash: 65909c3598f5e37808b8ab5ec92d1f2103d1bf8b69b98ab86675d133ca064a86 -->
 
 # Definisjoner og begreper
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bostotte/veileder-i-regelverk-for-bostotte/definisjoner-og-begreper/
 - **Sist oppdatert (kilde):** 2026-06-29
-- **Sist oppdatert i arkivet:** 2026-10-07T20:10:29Z
+- **Sist oppdatert i arkivet:** 2026-10-30T23:33:58Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Veileder sist oppdatert 29.06.2026
 
 ## Definisjoner og begreper
 
-#### Vil du hjelpe oss å forbedre veilederen?
+### Vil du hjelpe oss å forbedre veilederen?
 
 Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandler.
 
@@ -30,3 +30,4 @@ Vi ønsker å høre fra deg som bruker denne veilederen i jobben som saksbehandl
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

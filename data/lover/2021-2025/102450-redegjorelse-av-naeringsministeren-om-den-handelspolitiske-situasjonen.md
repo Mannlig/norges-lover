@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6eb28fd70734f2987b8554bde09961b242408c8323e30e1d9335c561dd143120 -->
+<!-- innholds-hash: 5ed7604323d2a20171680f225bc0ce77f0416069ae53dfa6b797b7c82088a9e5 -->
 
 # Redegjørelse av næringsministeren om den handelspolitiske situasjonen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** Handel, Næringsliv
+- **Emner:** Handel, Toll, Utenrikshandel, Næringsliv, Økonomisk samarbeid, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-10-30T18:11:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102450
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -34,10 +34,38 @@
       "underemne_liste": []
     },
     {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 82,
+      "navn": "Toll",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 99,
+      "navn": "Utenrikshandel",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": true,
       "hovedemne_id": 113,
       "id": 113,
       "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
       "underemne_liste": []
     }
   ],
@@ -62,3 +90,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)

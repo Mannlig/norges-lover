@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6e065af34ba3622d4545e1ca42690320959a4e5a63934c552ee61e916431782e -->
+<!-- innholds-hash: 11b9901ee4ee86a74c9b525c12e90e292d8b64b8b44f65c1ea8dc5f05883d682 -->
 
 # Husbankens rapportserie
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunnskap/husbankens-rapporter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:53:42Z
+- **Sist oppdatert i arkivet:** 2026-10-30T22:41:10Z
 
 ## Innhold
 
@@ -17,6 +17,10 @@ Husbanken har en nasjonal kunnskapsrolle på det boligsosiale feltet. Vi styrker
 I Husbankens rapportserie publiseres resultatet av undersøkelser, utredninger og analyser som er gjort internt i Husbanken eller i samarbeid med andre.
 
 ### Her er de nyeste rapportene:
+
+Boligsosialt arbeid
+
+[Hvem er startlåntakere?](https://www.husbanken.no/kunnskap/husbankens-rapporter/startlantakere/)
 
 sosial boligpolitikk
 
@@ -30,11 +34,9 @@ tilskudd til boligtiltak
 
 [Ideer og tiltak for flere egnede boliger](https://www.husbanken.no/kunnskap/husbankens-rapporter/tilskudd-til-boligtiltak/)
 
-leiemarkedet
-
-[Korttidsutleie som styringsutfordring](https://www.husbanken.no/kunnskap/husbankens-rapporter/korttidsutleie/)
-
 ### Flere rapporter
+
+[Korttidsutleie som styringsutfordring (2026)](https://www.husbanken.no/kunnskap/husbankens-rapporter/korttidsutleie/)
 
 [Veien fra finansieringsbevis til boligkjøp (2026)](https://www.husbanken.no/kunnskap/husbankens-rapporter/fra-finansieringsbevis-til-boligkjop/)
 
@@ -48,7 +50,7 @@ Utforsk rapportoversikten vår! Her finner du forskning, våre egne rapporter, m
 
 [Gå til rapportoversikten](https://www.husbanken.no/rapporter/)
 
-Sist oppdatert: 20.02.2026
+Sist oppdatert: 27.10.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kunnskap/husbankens-rapporter/) av norges-lover-bot.*
@@ -56,3 +58,4 @@ Sist oppdatert: 20.02.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-10-30** Innhold endret (se git-historikk for diff)
