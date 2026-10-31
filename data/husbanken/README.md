@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 629
+**Antall dokumenter:** 630
 
 ## Innhold
 
@@ -542,6 +542,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Hvor treffsikker er bostøtteordningen i 2025?](kunnskap/husbankens-rapporter/hvor-treffsikker-er-bostotteordningen-2025.md)
 - [Korttidsutleie som styringsutfordring](kunnskap/husbankens-rapporter/korttidsutleie.md)
 - [Kommunalt disponerte boliger - analyse av KOSTRA-data for 2024](kunnskap/husbankens-rapporter/kostra-2024.md)
+- [Hvem er startlåntakere  og hvem får avslag? Utvikling og kjennetegn i perioden 2020-2025](kunnskap/husbankens-rapporter/startlantakere.md)
 - [Statusvurdering om leiemarkedet 2025](kunnskap/husbankens-rapporter/statusvurdering-om-leiemarkedet.md)
 - [Ideer til boligtiltak, metoder og løsninger for flere egnede boliger](kunnskap/husbankens-rapporter/tilskudd-til-boligtiltak.md)
 - [Husbankens rapportserie](kunnskap/husbankens-rapporter.md)
