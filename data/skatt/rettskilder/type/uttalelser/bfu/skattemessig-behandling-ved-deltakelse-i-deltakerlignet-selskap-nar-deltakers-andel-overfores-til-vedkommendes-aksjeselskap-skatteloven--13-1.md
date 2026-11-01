@@ -1,0 +1,102 @@
+<!-- innholds-hash: 7df6e7551f784eca3d6565ecd668aea2d77797a5fa11ae463033f6168862483e -->
+
+# Skattemessig behandling ved deltakelse i deltakerlignet selskap når deltakers andel overføres til vedkommendes aksjeselskap (skatteloven § 13-1)
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/bfu/skattemessig-behandling-ved-deltakelse-i-deltakerlignet-selskap-nar-deltakers-andel-overfores-til-vedkommendes-aksjeselskap-skatteloven--13-1/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-01T00:18:53Z
+
+## Innhold
+
+Bindende forhåndsuttalelse
+
+## Skattemessig behandling ved deltakelse i deltakerlignet selskap når deltakers andel overføres til vedkommendes aksjeselskap (skatteloven § 13-1)
+
+- Publisert: 23.12.2005
+
+Bindende forhåndsuttalelse fra Skattedirektoratet, avgitt 22. desember 2005 (BFU 70/05)
+
+Saken dreide seg om beskatningen av en partners inntekt i et advokatfirma dersom hans andel i firmaet overføres og eies av hans aksjeselskap. Advokatfirmaet er organisert som et selskap med delt ansvar. Hans andel av overskuddet skal fortløpende overføres til aksjeselskapet. Skattedirektoratet la til grunn at vederlaget for hans arbeidsprestasjoner i advokatfirmaet, som han ikke lenger ville være eier av, skal skattlegges som lønnsinntekt. Skattedirektoratet kan ikke ta konkret stilling til nivået på inntekten, men uttalte at det som overføres fra advokatfirmaet til advokatens aksjeselskap i hovedsak fremstår som et resultat av partnerens arbeidsinnsats, og at dette i prinsippet bør gjenspeiles i verdsettelsen.
+
+#### Innsenders fremstilling av faktum og jus
+
+På bakgrunn av de opplysninger som er gitt i anmodningen, legges det til grunn at skattyter er partner og deltaker i Advokatfirmaet DA. Det er bedt om en bindende forhåndsuttalelse knyttet til organisering av skattyters eierandel i Advokatfirma DA. Skattyter ønsker å overføre sin eierandel i Advokatfirma DA til sitt 100 pst. eide aksjeselskap A AS, som blir deltaker i Advokatfirma DA, på samme vilkår som skattyter er deltaker i dag. Utdelingene fra Advokatfirma DA, vil være basert på den eksisterende selskapsavtalen, og vil gå inn i A AS. Inntektene som A AS mottar på sin andel vil i sin helhet bli reinvestert i annen type næringsvirksomhet, idet skattyter har andre inntektskilder på personlig hånd, og derfor ikke har behov for å ta ut midler til seg personlig fra A AS.
+
+Den enkelte deltakers samlede resultatandel i advokatfirmaet består av følgende hovedkomponenter: inntekter på eget arbeid, mer-/mindreinntekter på arbeid utført av andre advokater, herunder andre deltagere, andel av netto kildeinntekt, fradrag for grunnavståelse til selskapet, avtalte avgivelsesbeløp som deltagere må avgi i en oppbygningsfase.
+
+Når det gjelder mulighetene for å overføre andelen til andre, gir selskapsavtalen et forbud mot dette. Det forutsettes likevel at en overføring av partnerens andel til hans heleide aksjeselskap aksepteres av de øvrige deltakerne. Selskapsavtalen regulerer ikke prisen. Ved uttreden av selskapet har imidlertid den enkelte deltaker krav på å få utbetalt sin kapitalkonto i selskapet i henhold til regler fastsatt i særskilt avtale. Dette innebærer at deltagerne ikke har krav på goodwill ved uttreden, og at verdien av andelen til enhver tid vil tilsvare innestående på kapitalkonto.
+
+Anmodningen er dels begrunnet i risikomessige hensyn, og dels av hensyn til skattereformen. Den enkelte partner har etter selskapsavtalen et ubegrenset personlig ansvar for virksomheten, siden eierskapet til andelen er personlig. Dette innebærer at erstatningsbetingende feil som en advokat gjør, kan gå ut over de øvrige partnerne.
+
+Ved en organisering av eierskapet i Advokatfirma DA gjennom et aksjeselskap vil ansvaret til skattyter begrenses slik at han kun vil bli ansvarlig for egenkapitalen i A AS til enhver tid, med tillegg av det personlige profesjonsansvar som følger av domstolsloven § 232 første til fjerde ledd. I følge innsender kan Advokatfirmaet bli eksponert for ansvar som ikke dekkes av advokatforsikringer, slik som ansvar for eiendomsmekling, ansvar for lekkasjer av innsideinformasjon eller andre ansvarsbetingende brudd som ikke er å anse som advokatvirksomhet, men som kan påføre selskapet og dets deltagere omfattende ansvar som deltagerne vil bli ubegrenset ansvarlig for.
+
+Deltakerne vil hvert år foreta maksimale utdelinger fra Advokatfirma DA, og det er således uaktuelt å reinvestere overskuddet i dette selskapet. Ved å organisere eierskapet gjennom et aksjeselskap vil imidlertid ikke utdelingene bli tilleggsbeskattet hvert år, men først når midlene eventuelt utdeles til skattyter som utbytte fra A AS. Skattyter ønsker med andre ord at hans andel i Advokatfirma DA skal underlegges en selskapsmessig struktur som gjør at han selv kan bestemme når tilleggsbeskatningen skal skje.
+
+I følge innsender skal verdien på andelen fastsettes i henhold til den regnskapsmessige egenkapitalen i Advokatfirma DA. Balansen i finansregnskapet består av omløpsmidler og driftsløsøre hvor det kan legges til grunn at bokførte verdier er sammenfallende med markedsverdier. Det vil ikke bli beregnet noen goodwill ved overføringen av andelen, siden selskapsavtalen ikke gir noen muligheter for å bygge opp goodwill, samt at evt. goodwill må anses å være knyttet til skattyter personlig og advokattjenestene fortsatt vil bli forestått av ham.
+
+Det er opplyst at skattyter vil stille sin kompetanse, arbeidskapasitet, salgs- og markedsføringsaktivitet knyttet til hans advokatvirksomhet fullt ut til disposisjon for Advokatfirma DA. Advokatoppdragene utføres i Advokatfirma DA av skattyter, men A AS vil motta de midlene som utdeles på dets andel i Advokatfirma DA. Grunnlaget for A AS sine inntekter vil således være knyttet til skattyter sin utøvelse av advokattjenester i Advokatfirma DA og basert på de til enhver tid gjeldende resultatfordelingsregler i Advokatfirma DA.
+
+Innsender opplyser at planlagt eier- og organisasjonsstruktur er klarert med og akseptert av Tilsynsrådet for advokatvirksomhet i forhold til det advokatrettslige regelverk.
+
+Innsender har tre spørsmål som ønskes avklart skattemessig:
+
+1. Kan overdragelsen av andelen i Advokatfirma DA fra skattyter til A AS gjennomføres skattemessig som skissert ovenfor ? Forutsatt at Skattedirektoratet er enig i at andelen kan overføres som skissert:
+2. Vil midlene som utdeles fra Advokatfirma DA til A AS, i sin helhet kunne reinvesteres i annen næringsvirksomhet uten tilleggsbeskatning for A AS ved utdelingen?
+3. Skal det beregnes arbeidsgodtgjørelse for skattyter, og hvor stor skal denne skal være?
+
+Overdragelsen innebærer at A AS blir eier av andelen i Advokatfirma DA og dermed også vil motta inntektene knyttet til andelen. Spørsmålet er hvordan midlene som deles ut fra Advokatfirma DA skal beskattes i A AS. Deltakermodellen, som trer i kraft fra 2006, legger opp til en løpende beskatning av deltakerne i deltakerlignede selskaper for overskuddet knyttet til den enkelte andel, jf. skatteloven §§ 10-40 flg. Ved utdelinger fra deltakerlignede selskaper, vil deltakerne i utgangspunktet bli tilleggsbeskattet med en skattesats på 28 %, etter fradrag for skatt på løpende inntekt og et nærmere fastsatt skjermingsfradrag. Dette gjelder imidlertid ikke der deltakeren er et aksjeselskap. Slike selskaper vil være omfattet av fritaksmetoden, og inntekter fra deltakerlignede selskaper er en type inntekt som faller inn under fritaksmetoden, jf. skatteloven § 2-38. Dette innebærer at aksjeselskaper ikke tilleggsbeskattes for inntekter som de mottar ved utdelinger fra deltakerlignede selskaper. Tilleggsbeskatningen skjer i tilfelle først når inntektene deles ut til den personlige aksjonæren fra aksjeselskapet. Beholdes inntektene i aksjeselskapet, vil det ikke skje noen tilleggsbeskatning, og midlene kan i sin helhet brukes til reinvesteringer.
+
+I herværende sak innebærer disse nye reglene at A AS sin andel av overskuddet vil bli tilordnet og løpende beskattet i A AS, med en skattesats på 28 %. Derimot vil utdelingene fra Advokatfirma DA ikke bli beskattet i A AS i henhold til fritaksmetoden. De utdelte midlene vil, etter at løpende kostnader i A AS er dekket, deretter i sin helhet bli brukt til reinvesteringer i annen type næringsvirksomhet. Med andre ord vil ikke skattyter ta ut lønn i A AS. Etter innsenders oppfatning vil skattyter og A AS gjennom den skisserte måten å organisere eierskapet i Advokatfirma DA på, og beskatningen av de utdelte midlene, være en lojal oppfølging av de nye reglene i deltakermodellen og fritaksmetoden. Omorganiseringen er derfor ikke på noen måte illojal mot skattereglene, og er dels gjort av ansvarsmessige årsaker og dels for å kunne muliggjøre en reinvestering av midler uten tilleggsbeskatning før reinvesteringen. Hensynet bak de nye skattereglene er nettopp at inntekter skal kunne reinvesteres i annen type næringsvirksomhet innenfor selskapssektoren, og dermed øke kapitalmobiliteten og unngå kjedebeskatning.
+
+Ved å organisere sitt eierskap gjennom et aksjeselskap, oppfyller nettopp skattyter hensynet bak reglene. Kapitalen forblir innenfor selskapssektoren og blir brukt til å fremme og bygge næringsvirksomhet. Ved en eventuell fremtidig utbytteutdeling vil midlene bli ekstrabeskattet i henhold til aksjonærmodellen.
+
+Etter skatteloven § 13-1 kan inntekten fastsettes ved skjønn dersom skattyterens formue eller inntekt er redusert som følge av direkte eller indirekte interessefellesskap med en annen person, selskap eller innretning. Bestemmelsen stiller ikke krav til omgåelseshensikt hos de partene som er involvert, selv om slik hensikt ofte vil foreligge. I tilfelle hvor en personlig deltaker som yter betydelig arbeidsinnsats i det deltakerlignede selskapet antar innsender at det, basert på interessefellesskapet, skal beregnes en arbeidsgodtgjørelse. I motsatt fall vil det foreligge en skjønnsadgang.
+
+Skattyter vil yte arbeidsinnsats for Advokatfirma DA. Til tross for at han ikke er personlig deltaker, men deltar gjennom et aksjeselskap, legger innsender til grunn at det også i slike tilfelle skal beregnes en arbeidsgodtgjørelse for hans innsats. Arbeidsgodtgjørelsen fradragsføres i Advokatfirma DA, og beskattes som næringsinntekt for skattyter, og det skal beregnes personinntekt etter den nye “skjermingsmodellen” for selvstendig næringsdrivende, skatteloven §§ 12-11 flg.
+
+Spørsmålet som videre reiser seg i denne sammenheng er størrelsen på arbeidsgodtgjørelsen. Når den skal beregnes som om interessefellesskapet ikke hadde foreligget, må det sammenlignes med hva skattyter hadde tjent uten sitt eierskap i Advokatfirma DA. Det nærmeste å sammenligne med da er hva en erfaren ansatt advokat har som inntekt.
+
+#### Skattedirektoratets vurderinger
+
+Skattedirektorat skal i det følgende ta stilling til den skattemessige behandlingen av inntekter generert fra og med inntektsåret 2006 ved en partners faktiske deltakelse i et advokatkontor, som er organisert som et ansvarlig selskap, hvor andelen i selskapet blir overdratt til vedkommende partners heleide aksjeselskap.
+
+Vi forutsetter i det følgende at advokatvirksomheten kan organiseres lovlig slik innsender beskriver. Videre legger vi til grunn at det dreier seg om en etablert virksomhet som har eksistert over lang tid og at det er innsenders forutsetning at mest mulig av overskuddet i det ansvarlige selskap skal tas ut.
+
+Det følger av skatteloven § 2-2 annet ledd bokstav a at ansvarlig selskap ikke er et eget skattesubjekt. Reglene for beskatning av deltakere i ansvarlig selskap behandles i skatteloven §§ 10-40 til 10-48. Det følger av skatteloven § 10-41 første ledd at ved fastsettelse av alminnelig inntekt settes deltakers overskudd eller underskudd på deltakelsen til en andel av selskapets overskudd eller underskudd fastsatt etter reglene i skattelovgivningen som om selskapet var skattyter. I saken er det planlagt at et aksjeselskap skal bli eier av advokatens andel av det ansvarlige selskapet, og utgangspunktet er da at aksjeselskapet er skattesubjektet for den del av det ansvarlige selskapets inntekt som skal tilordnes andelen.
+
+Av skatteloven § 10-42 følger det at når personlig deltaker mottar utdeling fra selskapet, skal det beregnes et tillegg i alminnelig inntekt. Hvis personlig andelshaver mottar særskilt godtgjørelse for arbeidsinnsats etter selskapsloven § 2-26, skal inntekten skattlegges som næringsinntekt, som klassifiseres som personinntekt, jf. skatteloven § 12-2 bokstav f og det skal svares trygdeavgift med høy sats. Det følger av skatteloven § 2-38 annet ledd bokstav b at aksjeselskap er fritatt for beskatning ved utdeling fra et ansvarlig selskap.
+
+Det fremstår som en skattemessig gunstig løsning dersom det kan legges opp til at advokatens aksjeselskap skal tilordnes overskuddet som deltaker når det er advokatens deltakelse som har dannet grunnlaget for inntekten. Problemstillingen i det følgende er om den planlagte organisering også skal legges til grunn for de skattemessige løsninger. Innsenders rettslige oppfatning av dette er som følger:
+
+”Etter skatteloven § 13-1 kan inntekten fastsettes ved skjønn dersom skattyterens formue eller inntekt er redusert som følge av direkte eller indirekte interessefellesskap med en annen person, selskap eller innretning. Bestemmelsen stiller ikke krav om omgåelseshensikt hos de partene som er involvert, selv om slik hensikt ofte vil være tilfellet. I tilfelle hvor en personlig deltaker som yter betydelig arbeidsinnsats i det deltakerlignede selskapet antar vi at det, basert på interessefellesskapet, skal beregnes en arbeidsgodtgjørelse. I motsatt fall vil det foreligge en skjønnsadgang.
+
+Skattyter vil yte arbeidsinnsats for Advokatfirma DA. Til tross for at han ikke er personlig deltaker, men deltar gjennom et aksjeselskap, legger vi til grunn at det også i slike tilfelle skal beregnes en arbeidsgodtgjørelse for hans innsats. Arbeidsgodtgjørelsen fradragsføres i Advokatfirma DA, og beskattes som næringsinntekt for skattyter, og det skal beregnes personinntekt etter den nye “skjermingsmodellen” for selvstendig næringsdrivende, jf. skatteloven §§ 12-11 flg.”
+
+Skattedirektoratet finner i denne sammenheng grunn til å vise til NOU 2005:2 Uttaksutvalget. Under pkt. 8.2.3 om særskilt godtgjørelse på arbeid og gjennomskjæring på side 50, fremgår det at: ”I selskapsstrukturer med både aksjeselskaper og deltakerlignede selskaper oppstår særskilte tilordnings- og gjennomskjæringsspørsmål. Det kan eksempelvis være tilfelle hvor en person eier aksje i et aksjeselskap som igjen eier en andel i et ansvarlig selskap, og personen er aktiv i det ansvarlige selskapet. Dersom det er aktuelt med gjennomskjæring på grunn av aktiviteten i det ansvarlige selskapet, kan det være tvil om vedkommende skal tilordnes særskilt godtgjørelse direkte fra det ansvarlige selskapet, eller lønn via aksjeselskapet.” Utvalget tar ikke stilling til problemstillingen, men viser til at dette må avklares i det videre arbeidet.
+
+I Ot. prp. nr. 92 (2004-05) under pkt. 1.8.2.3 kommenterer ikke Finansdepartementet nærmere den beskrevne situasjon. Departementets kommentarer er av mer generell karakter og man sier seg enig med Uttaksutvalget i at gjennomskjæring generelt vil være et lite hensiktsmessig virkemiddel for å bøte på systemsvakheter i form av betydelige ulikheter i satsstrukturen for ulike inntektsarter. Man mener likevel at det fortsatt vil være anledning for ligningsmyndighetene til å foreta gjennomskjæring i tilfeller med illojale tilpasninger.
+
+Slik det fremgår må det også tas stilling til om eventuell tilordning av inntekt til advokaten skal skje fra det ansvarlige selskap eller fra aksjeselskapet. Etter direktoratets oppfatning vil løsningen bero på en konkret vurdering. Slik saken er fremstilt vil all aktivitet skje i det ansvarlige selskapet. Aksjeselskapets funksjon vil i hovedsak være å motta utdeling på andelen. Innsender har heller ikke pretendert at arbeidet skal utføres i regi av aksjeselskapet. Direktoratet legger derfor til grunn i det følgende at advokatens innsats utøves i det ansvarlige selskapet.
+
+Etter direktoratets oppfatning er inntektene som overføres til advokatens aksjeselskap i det vesentlige foranlediget av advokatens deltakelse i advokatfirmaet. Direktoratet er enig med innsender i at advokaten skal tilordnes en inntekt for arbeidsinnsatsen. Advokatens inntekt er redusert, det foreligger et interessefellesskap mellom advokaten og hans aksjeselskap og det er interessefellesskapet som er årsaken til reduksjonen. Den inntekt som er generert av advokatens arbeidsinnsats og som overføres hans aksjeselskap vil i hovedsak danne grunnlaget for å fastslå advokatens reduserte inntekt. På bakgrunn av det ovennevnte er Skattedirektoratet av den oppfatning at skatteloven § 13-1 legger opp til skattlegging av inntektsreduksjonen.
+
+Videre må det tas stilling til klassifiseringen av vederlaget. Innsender legger til grunn at det skal ytes arbeidsgodtgjørelse til advokaten etter selskapsloven § 2-26. Etter direktoratets oppfatning er det aksjeselskapet som er deltaker i selskapet og som kan tilordnes inntekt fra det ansvarlig selskapet i kraft av å være eier. Advokaten vil på sin side måtte tilordnes inntekt for den arbeidsinnsats han utøver for advokatfirmaet, som ”ikke-eier”. Slikt vederlag vil skattemessig klassifiseres som lønn, og hjemmel for beskatning er skatteloven § 5-1.
+
+Når det gjelder nivået på lønnen innebærer skatteloven § 13-1 at skattegrunnlaget skal tilsvare det skattyteren ville ha bli lignet for i et uavhengig forhold. Innsender mener at det må sammenlignes med hva skattyter hadde tjent uten sitt eierskap i Advokatfirma DA, og det nærmeste er å sammenligne med hva en erfaren ansatt advokat har som inntekt. Skattedirektoratet er ikke enig i at dette er vurderingstemaet etter § 13-1, men er av den oppfatning at det som overføres til aksjeselskapet i hovedsak fremstår som et resultat av advokatens/partnerens arbeidsinnsats, og at dette i prinsippet bør gjenspeiles i verdsettelsen. Skattedirektoratet har i brev av 15. juli vist til forskriften § 3 om at vi ikke kan avgi forhåndsuttalelse om et rent verdsettelsesspørsmål. Det fastholdes at vi ikke kan gå inn i selve beregningen og spørsmålet om den konkrete verdsettelsen av lønnen blir derfor avvist, jf. forskriften § 5.
+
+Det er opplyst av innsender at overføringen av andel til aksjeselskap skattemessig blir å behandle som realisasjon i henhold til de eksisterende realisasjonsreglene for andeler i deltakerlignede selskaper. Innsender har opplyst at utgangsverdien skal fastsettes til andel av regnskapsmessig egenkapital. Det vil altså ikke bli beregnet goodwill på andelen ved overføringen, hovedsakelig på grunn av at selskapsavtalen ikke gir en deltaker mulighet til å opparbeide goodwill knyttet til sin andel, og dels fordi en eventuell goodwill er knyttet til skattyter personlig og han fortsatt vil forestå utøvelsen av advokattjenestene gjennom Advokatfirma DA. Etter innsenders oppfatning kan overdragelsen av andelen i Advokatfirma DA fra skattyter til hans heleide aksjeselskap gjennomføres skattemessig som skissert. Skattedirektoratet har i brev av 15. juli vist til forskriften § 3 om at vi ikke kan avgi forhåndsuttalelse om et rent verdsettelsesspørsmål. Direktoratet fastholder at vi ikke kan gå inn i selve beregningen og spørsmålet blir derfor avvist, jf. forskriften § 5. Vi vil imidlertid bemerke at normalt vil en andels verdi avhenge av inntektsstrømmen som forventes å tilflyte denne.
+
+#### Konklusjon
+
+Dersom skattyter overførerer sin andel i Advokatfirmaet DA til sitt heleide aksjeselskap, skal vederlag for hans arbeidsprestasjoner i advokatfirmaet som overføres til hans aksjeselskap, skattlegges som lønnsinntekt, jf. skatteloven §§ 5-1 og 13-1.
+
+Når det gjelder spørsmål om konkret fastsettelse av nivået for skattepliktig inntekt og beregning av skattepliktig gevinst/tap ved overføring av andel til aksjeselskapet, har ikke direktoratet hjemmel til å fastsette disse størrelser, jf. forskriften § 3, og problemstillingene blir derfor avvist i medhold av forskriften § 5.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/uttalelser/bfu/skattemessig-behandling-ved-deltakelse-i-deltakerlignet-selskap-nar-deltakers-andel-overfores-til-vedkommendes-aksjeselskap-skatteloven--13-1/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-01** Første gang hentet

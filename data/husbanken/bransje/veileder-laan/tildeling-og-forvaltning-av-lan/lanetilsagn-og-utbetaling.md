@@ -1,4 +1,4 @@
-<!-- innholds-hash: c538a4846424a0ee66755107c7ef73b0e04a4274e8436d37e7c67f99cad9d4db -->
+<!-- innholds-hash: 13926b2e72bb78b5d1707f53633ccda1195166b5bc24d4ae1272c1c27813b605 -->
 
 # Lånetilsagn og utbetaling
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/bransje/veileder-laan/tildeling-og-forvaltning-av-lan/lanetilsagn-og-utbetaling/
 - **Sist oppdatert (kilde):** 2026-04-16
-- **Sist oppdatert i arkivet:** 2026-10-08T14:10:54Z
+- **Sist oppdatert i arkivet:** 2026-11-01T04:35:26Z
 
 ## Innhold
 
@@ -32,7 +32,7 @@ I utbyggerprosjekter har Husbanken allerede gitt en låneutmåling etter søknad
 
 Når søknaden er vurdert og godkjent, vil kjøper få tilsendt et godkjenningsbrev. Dersom signert kjøpekontrakt ikke lå ved søknaden om godkjenning som låntaker, må denne sendes til Husbanken senest tre måneder etter at godkjenningsbrevet er mottatt. Senest tre uker før overtakelse må kjøper gi beskjed til Husbanken for å få tilsendt lånedokumenter for signering. Utfyllende informasjon i HB 7.S.42 ligger på Husbankens nettsider.
 
-#### Søknad om godkjenning som låntaker:
+Søknad om godkjenning som låntaker:
 
 Husbanken kan ikke gi lån til kjøpere i boligprosjekt, hvor utbygger ikke har fått tilsagn om lånefinansiering på forhånd jamfør § 2-2, 2. ledd.
 
@@ -42,3 +42,4 @@ Husbanken kan ikke gi lån til kjøpere i boligprosjekt, hvor utbygger ikke har 
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-01** Innhold endret (se git-historikk for diff)
