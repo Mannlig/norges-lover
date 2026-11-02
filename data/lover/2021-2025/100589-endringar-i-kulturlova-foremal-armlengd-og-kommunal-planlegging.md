@@ -1,4 +1,4 @@
-<!-- innholds-hash: f8a30ad7ef183b98f605582e9cfd9fe8037a64a49d82b6812fd4a18caf41a94b -->
+<!-- innholds-hash: b6be233243de2674f0e8583d1c5bcc75e114a2cbe5b0c999475ed86b3add8d90 -->
 
 # Endringar i kulturlova (føremål, armlengd og kommunal planlegging)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 6 L (2024-2025), Innst. 156 L (2024-2025), Lovvedtak 37 (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Kultur, Kommuner, Kunst
+- **Emner:** Kultur, Kunst, Menneskerettigheter, Lokalforvaltning, Grunnloven
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100589
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,16 +35,30 @@
     },
     {
       "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 68,
+      "navn": "Kunst",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
       "hovedemne_id": 184,
-      "id": 52,
-      "navn": "Kommuner",
+      "id": 184,
+      "navn": "Lokalforvaltning",
       "underemne_liste": []
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 6,
-      "id": 68,
-      "navn": "Kunst",
+      "hovedemne_id": 151,
+      "id": 221,
+      "navn": "Grunnloven",
       "underemne_liste": []
     }
   ],
@@ -92,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)

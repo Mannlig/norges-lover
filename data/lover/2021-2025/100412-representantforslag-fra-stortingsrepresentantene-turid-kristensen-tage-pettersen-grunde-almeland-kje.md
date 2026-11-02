@@ -1,4 +1,4 @@
-<!-- innholds-hash: eb05be9f241097dc393e5787689aeb1dfda86ea0a043dca5457581efe231bb63 -->
+<!-- innholds-hash: e2acb2d6ce1ba5c741dbdb12c0d9431cc1bfa575eb487f4ee628e88a3f8b6042 -->
 
 # Representantforslag fra stortingsrepresentantene Turid Kristensen, Tage Pettersen, Grunde Almeland, Kjell Ingolf Ropstad, Une Bastholm, Irene Ojala og Hege Bae Nyholt om en forsterket politikk for å forhindre spilleavhengighet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:13 S (2024-2025), Innst. 152 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Helsevesen, Lotteri og spill, Psykisk helse
+- **Emner:** Forskning, Helsevesen, Massemedier, Lotteri og spill, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100412
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,9 +28,23 @@
   "emne_liste": [
     {
       "er_hovedemne": true,
+      "hovedemne_id": 45,
+      "id": 45,
+      "navn": "Forskning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
       "hovedemne_id": 61,
       "id": 61,
       "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
       "underemne_liste": []
     },
     {
@@ -226,3 +240,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)

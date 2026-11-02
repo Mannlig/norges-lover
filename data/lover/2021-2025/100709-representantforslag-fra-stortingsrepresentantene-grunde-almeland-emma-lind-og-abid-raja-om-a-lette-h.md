@@ -1,4 +1,4 @@
-<!-- innholds-hash: cb8f463e64c6db734110cd6f374c45582af92c0d84db0b0974cf482b4c6fc552 -->
+<!-- innholds-hash: 627f2339beb0f6aad1424d9b9521ca9ad3cc52a364a415459a7a0e7c47356bdd -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Emma Lind og Abid Raja om å lette hverdagen for enslige forsørgere
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:18 S (2024-2025), Innst. 157 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Samferdsel, Sosiale tjenester, Boligsaker, Familie, Barn, Skattefradrag, Priser og konkurranseforhold, Husbanken, Trygder
+- **Emner:** Samferdsel, Kultur, Sosiale tjenester, Rettsvesen, Boligsaker, Familie, Barn, Skattefradrag, Priser og konkurranseforhold, Husbanken, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100709
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -34,10 +34,24 @@
       "underemne_liste": []
     },
     {
+      "er_hovedemne": true,
+      "hovedemne_id": 6,
+      "id": 6,
+      "navn": "Kultur",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": false,
       "hovedemne_id": 186,
       "id": 10,
       "navn": "Sosiale tjenester",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
       "underemne_liste": []
     },
     {
@@ -192,3 +206,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)

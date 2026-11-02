@@ -1,4 +1,4 @@
-<!-- innholds-hash: 84bc8a21fe59bb72cce46b1a486823328594326b8f8785b6273270a5ef11cb25 -->
+<!-- innholds-hash: 1cca6e466ac8e892fc88dc708d7822930c4d34d7bb94f346d91c2e5b294d4f53 -->
 
 # Valg av nytt medlem til Stortingets parlamentarikerdelegasjonen til EFTA og EØS
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Innst. 165 S (2024-2025)
 - **Komité:** Valgkomiteen
-- **Emner:** Internasjonalt samarbeid, Stortingsrepresentanter, Eu/eøs
+- **Emner:** Stortingsrepresentanter, Økonomisk samarbeid, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102386
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,16 +28,16 @@
   "emne_liste": [
     {
       "er_hovedemne": false,
-      "hovedemne_id": 163,
-      "id": 22,
-      "navn": "Internasjonalt samarbeid",
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
       "underemne_liste": []
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 151,
-      "id": 26,
-      "navn": "Stortingsrepresentanter",
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
       "underemne_liste": []
     },
     {
@@ -72,3 +72,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)

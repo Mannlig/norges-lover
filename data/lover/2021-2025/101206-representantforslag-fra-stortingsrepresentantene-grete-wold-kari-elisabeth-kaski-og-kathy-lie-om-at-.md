@@ -1,4 +1,4 @@
-<!-- innholds-hash: 57c5e9310f26640dc11f1351740458613cc364c40807650d9e0533fc4990ef6e -->
+<!-- innholds-hash: 40888f76ae68379b3d6b7f1392b4d03cbecee19983ee20aee8aa9199b69673ec -->
 
 # Representantforslag fra stortingsrepresentantene Grete Wold, Kari Elisabeth Kaski og Kathy Lie om at penger til barna skal gå til barna
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:36 S (2024-2025), Innst. 159 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Barnehager, Lokalforvaltning
+- **Emner:** Barnehager, Kommuner
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101206
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -34,10 +34,10 @@
       "underemne_liste": []
     },
     {
-      "er_hovedemne": true,
+      "er_hovedemne": false,
       "hovedemne_id": 184,
-      "id": 184,
-      "navn": "Lokalforvaltning",
+      "id": 52,
+      "navn": "Kommuner",
       "underemne_liste": []
     }
   ],
@@ -143,3 +143,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)

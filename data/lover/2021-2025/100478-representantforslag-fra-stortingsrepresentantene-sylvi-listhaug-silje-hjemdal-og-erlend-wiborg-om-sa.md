@@ -1,4 +1,4 @@
-<!-- innholds-hash: 27a702398b3d1bef9ae7c0fc0097af925ee9ab4d0aa7d2e365ca6dc94f84a02c -->
+<!-- innholds-hash: fa14e5a8936943bac30200166e1b7422f36575685849e5c0ebbeed370336efb3 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Silje Hjemdal og Erlend Wiborg om samværsrett
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:15 S (2024-2025), Innst. 154 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Familie, Barn, Barnevern
+- **Emner:** Domstoler, Familie, Barn, Barnevern
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-02T17:56:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100478
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 12,
+      "navn": "Domstoler",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": true,
       "hovedemne_id": 40,
@@ -150,3 +157,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-02** Innhold endret (se git-historikk for diff)
