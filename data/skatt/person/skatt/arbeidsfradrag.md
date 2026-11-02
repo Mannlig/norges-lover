@@ -1,4 +1,4 @@
-<!-- innholds-hash: 580277844d07e84bb42f83e519f1f9c6b0169e119e8c5657900e996f98444e71 -->
+<!-- innholds-hash: 0c2a13c4a1fda7b0e2e875e4e4a856f168d77ffe6d533b5d901dc84cd65ebb8a -->
 
 # Arbeidsfradrag for unge
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/arbeidsfradrag/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-13T17:17:57Z
+- **Sist oppdatert i arkivet:** 2026-11-02T12:53:24Z
 
 ## Innhold
 
@@ -66,7 +66,7 @@ Et fradrag reduserer den delen av inntekten din du skal betale skatt av. Noen fr
 
 Når vi skal regne ut hvor mye skatt du skal betale, starter vi med inntekten din før skatt. Så trekker vi fra fradragene du har rett på, for eksempel renteutgifter på lån. Tallet vi sitter igjen med da, er beløpet vi bruker for å regne ut hva du skal betale i skatt. Det er dette beløpet vi trekker arbeidsfradraget fra, før vi beregner skatten.
 
-[Kildeskatt på lønn](https://www.skatteetaten.no/person/utenlandsk/skal-du-arbeide-i-norge/skattekort/kildeskatt-pa-lonn/) er en ordning for utenlandske arbeidstakere som enten er nye i Norge eller som har flere korte arbeidsopphold i Norge.
+[Kildeskatt på lønn](https://www.skatteetaten.no/Recycle-Bin/utenlandsk/skattekort/kildeskatt-pa-lonn/) er en ordning for utenlandske arbeidstakere som enten er nye i Norge eller som har flere korte arbeidsopphold i Norge.
 
 Du kan ikke kreve noen fradrag når du har kildeskatt på lønn. Hvis du har blitt trukket ut til å få rett på arbeidsfradraget, vil du ikke få noen effekt av fradraget.
 
@@ -95,3 +95,4 @@ Er du student med studielån fra Lånekassen, kan du få deler av lånet ditt om
 
 - **2026-05-11** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-02** Innhold endret (se git-historikk for diff)

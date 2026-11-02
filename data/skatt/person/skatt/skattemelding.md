@@ -1,4 +1,4 @@
-<!-- innholds-hash: edaa5b807b3861513e45740a361780aa3f99a2c988057536ac6253e55f880301 -->
+<!-- innholds-hash: ce81e3f49e32d012fec0a815bc3de333f1c546ac1484c5779f847e73c9886ff8 -->
 
 # Skattemelding
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/skattemelding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-13T17:38:09Z
+- **Sist oppdatert i arkivet:** 2026-11-02T13:13:45Z
 
 ## Innhold
 
@@ -29,7 +29,6 @@ Hjelp til å få fradragene du har krav på og til å få en riktig skattemeldin
 - [Gave og arv](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/gave-og-arv/)
 - [Næring](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/er-jeg-naringsdrivende/)
 - [Ungdom og arbeid](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/ungdom-arbeid-og-skatt/)
-- [Utland](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/)
 - [Verdsettingsrabatt ved fastsetting av formue](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/verdsettingsrabatt-ved-fastsetting-av-formue/)
 
 Viktig informasjon
@@ -67,3 +66,4 @@ DES
 
 - **2026-05-11** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-02** Innhold endret (se git-historikk for diff)

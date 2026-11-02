@@ -1,4 +1,4 @@
-<!-- innholds-hash: bb33187b9f2950347e9d8014aea8552392299fe6cb91c7af0911051b5834dc9b -->
+<!-- innholds-hash: 97fe818356f0a087e619453c08a341db689d446cd9f78864b8d4a4df4fd487ff -->
 
 # Aksjesparekonto (ASK)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/aksjesparekonto-ask/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-13T17:41:22Z
+- **Sist oppdatert i arkivet:** 2026-11-02T13:17:00Z
 
 ## Innhold
 
@@ -176,7 +176,7 @@ Dette utløser beskatning fra og med 2020. For årene 2017, 2018 og 2019 hadde m
 
 Skal det fastsettes utflyttingsskatt på aksjer som står på en aksjesparekonto?
 
-Aksjesparekonto er omfattet av utflyttingsskatt hvis du flyttet eller [overførte eiendeler til utlandet 20. mars 2024 eller senere](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/utflyttingsskatt-exitskatt/#flyttet-eller-overfort-eiendeler-20-mars-2024-eller-senere).
+Aksjesparekonto er omfattet av utflyttingsskatt hvis du flyttet eller [overførte eiendeler til utlandet 20. mars 2024 eller senere](https://www.skatteetaten.no/person/til-fra-norge/fra/skatt-ut-av-norge/exitskatt/#flyttet-eller-overfort-eiendeler-20-mars-2024-eller-senere).
 
 Kan man pantsette en aksjesparekonto?
 
@@ -229,3 +229,4 @@ Ja, FIFU-prinsippet (Først-Inn-Først-Ut-prinsippet) må alltid følges ved ove
 
 - **2026-05-11** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-02** Innhold endret (se git-historikk for diff)
