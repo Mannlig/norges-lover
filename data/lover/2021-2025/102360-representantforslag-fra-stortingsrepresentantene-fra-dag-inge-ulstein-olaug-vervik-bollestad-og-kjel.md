@@ -1,4 +1,4 @@
-<!-- innholds-hash: 870a68592784ad3d6bce9db7d91307e804422afa56707100f5318d40a3adc25a -->
+<!-- innholds-hash: e4261f7455e11c6abe9e70421de855df7fecc8c057b5310b2c4c5ead3002a04b -->
 
 # Representantforslag fra stortingsrepresentantene fra Dag-Inge Ulstein, Olaug Vervik Bollestad og Kjell Ingolf Ropstad om en 16-årsgrense for sosiale medier med krav om innlogging med BankID eller tilsvarende løsninger
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:121 S (2024-2025), Innst. 366 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Barn, Ungdommer, Kommunikasjonsteknologi, Psykisk helse
+- **Emner:** Barn, Massemedier, Ungdommer, Kommunikasjonsteknologi, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102360
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 40,
       "id": 41,
       "navn": "Barn",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
       "underemne_liste": []
     },
     {
@@ -157,3 +164,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 87bec506abf3aca564ba308e1bcee506a8cd9ec5385379e86fc196a92677bfa6 -->
+<!-- innholds-hash: c7e105d21b2f89eec24b53819a20c348f2cdfe39290b85bb5703f41d3eb90e31 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken og Andreas Sjalg Unneland om stans av dumping av gruveavfall i sjø
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:125 S (2024-2025), Innst. 278 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Forurensning, Bergverk
+- **Emner:** Forurensning, Naturvern, Bergverk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102364
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 139,
       "id": 21,
       "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
       "underemne_liste": []
     },
     {
@@ -124,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

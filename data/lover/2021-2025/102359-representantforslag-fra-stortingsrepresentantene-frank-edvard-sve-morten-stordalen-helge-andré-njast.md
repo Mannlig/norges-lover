@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5fe1a297c3239bdf5d294299985d4f1474c5b347e4ee5d8919a84fad5890f787 -->
+<!-- innholds-hash: 2d2a93142386beaf54d5424ac65336de4e61291b7c32835cbe7660e3af04e4a7 -->
 
 # Representantforslag fra stortingsrepresentantene Frank Edvard Sve, Morten Stordalen, Helge André Njåstad, Silje Hjemdal, Roy Steffensen, Dagfinn Henrik Olsen og Bengt Rune Strifeldt om statlig overtakelse av fylkeskommunale ferjesamband
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:120 S (2024-2025), Innst. 308 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Ferger, Fylkeskommunenes økonomi, Lokalforvaltning
+- **Emner:** Ferger, Fylkeskommunenes økonomi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102359
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,13 +38,6 @@
       "hovedemne_id": 184,
       "id": 134,
       "navn": "Fylkeskommunenes økonomi",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": true,
-      "hovedemne_id": 184,
-      "id": 184,
-      "navn": "Lokalforvaltning",
       "underemne_liste": []
     }
   ],
@@ -226,3 +219,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

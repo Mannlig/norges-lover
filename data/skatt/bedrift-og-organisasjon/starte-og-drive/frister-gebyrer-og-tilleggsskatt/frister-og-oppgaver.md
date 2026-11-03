@@ -1,4 +1,4 @@
-<!-- innholds-hash: f49f411f968b4dd9654aa02ae07c12dd421e593e33b333303d929f8b01f80895 -->
+<!-- innholds-hash: 426fd59a5825c2da1c60a26ab085eb3501b01597a40c6254472a628f89c7c52e -->
 
 # Frister og oppgaver for næringsdrivende
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-14T04:29:13Z
+- **Sist oppdatert i arkivet:** 2026-11-03T15:34:56Z
 
 ## Innhold
 
@@ -24,33 +24,23 @@ Logg inn:
 
 Du kan også få oversikt over frister [via RSS-leser](https://www.skatteetaten.no/rss/).
 
-17 treff
+13 treff
 
 Aksjeselskap og andre selskapsformer (0)
 
-Arbeidsgiver (6)
+Arbeidsgiver (5)
 
 Enkeltpersonforetak (1)
 
-Merverdiavgift (6)
+Merverdiavgift (4)
 
 Selskap med deltakerfastsetting (SDF) (0)
 
 Skatt næring (1)
 
-Særavgift (4)
+Særavgift (3)
 
 Tredjepartsopplysninger (0)
-
-### September 2026
-
-15
-
-SEP
-
-[A-meldingen (arbeidsgiveravgift og finansskatt) – frist for betaling](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift/)
-
-Frist for betaling av arbeidsgiveravgift.
 
 ### Oktober 2026
 
@@ -60,27 +50,9 @@ OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
-12
+20
 
 OKT
-
-[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
-
-Skattemelding for merverdiavgiftskompensasjon
-
-12
-
-OKT
-
-[Mva-melding – frist for levering og betaling](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/)
-
-19 OKT
-
-[Særavgiftsmelding – leveringsfrist](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/saravgifter/rapportere/saravgiftsmelding/)
-
-Fristen for å rapportere og betale særavgift er i de fleste tilfeller den 18. hver måned (eller påfølgende virkedag). Noen særavgifter rapporterer hvert kvartal.
-
-20 OKT
 
 [Mva-melding for VOEC – frist for levering og betaling 3. kvartal](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/mva-melding/)
 
@@ -156,3 +128,4 @@ Fristen for å rapportere og betale særavgift er i de fleste tilfeller den 18. 
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c45fe9b6068d09cece6922f9f2e2071e9a7791d565f3442a22d06aae5b42c8f9 -->
+<!-- innholds-hash: 64f22e055da889258a2032a943890b237aca1221d0d567e610c78022d035a59d -->
 
 # Representantforslag fra stortingsrepresentantene Trond Helleland og Mudassar Kapur om økt åpenhet rundt bidrag i form av direkte kandidatstøtte og i form av naturalytelser
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:118 L (2024-2025), Innst. 275 L (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Valg, Politiske partier
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102356
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 30,
+      "navn": "Valg",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 154,
+      "navn": "Politiske partier",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -109,3 +124,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

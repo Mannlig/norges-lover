@@ -1,4 +1,4 @@
-<!-- innholds-hash: 71b869f114fd45d6e3f54261ea0f94ad3eeaf19ceed4e30d707b21904359afec -->
+<!-- innholds-hash: 6dd03cfea319df861ed3ee91b6a29986726cecb93e8106a8c89cd5ece0592ef2 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Roy Steffensen og Hans Andreas Limi om å åpne opp for at Statens pensjonsfond utland (SPU) kan investere i våpenprodusenter som produserer komponenter til kjernevåpen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:116 S (2024-2025), Innst. 481 S (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Forsvarsmateriell, Statens pensjonsfond
+- **Emner:** Forsvarsmateriell, Atomvåpen, Statens pensjonsfond
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102353
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 59,
       "id": 60,
       "navn": "Forsvarsmateriell",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 93,
+      "navn": "Atomvåpen",
       "underemne_liste": []
     },
     {
@@ -143,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

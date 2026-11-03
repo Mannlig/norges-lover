@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1920
+**Antall dokumenter:** 1922
 
 ## Innhold
 
@@ -1926,6 +1926,8 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)](2025-2029/200491-lov-om-rettidig-tilgjengelighet-og-forsyning-av-forsvarsprodukter-forsvarsforsyningsloven-og-samtykk.md)
 - [Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)](2025-2029/200492-endringer-i-straffeprosessloven-mv-prosessuelle-regler-for-selvstendig-inndragning.md)
 - [Samtykke til inngåelse av avtale med Kommisjonen om tilknytning til EUs avtale om felles anskaffelse av den felles sentrale plattformen for CBAM](2025-2029/200493-samtykke-til-inngaelse-av-avtale-med-kommisjonen-om-tilknytning-til-eus-avtale-om-felles-anskaffelse.md)
+- [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre](2025-2029/200494-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-geir-pollestad-lars-haltbre.md)
+- [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre](2025-2029/200495-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-geir-pollestad-lars-haltbre.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

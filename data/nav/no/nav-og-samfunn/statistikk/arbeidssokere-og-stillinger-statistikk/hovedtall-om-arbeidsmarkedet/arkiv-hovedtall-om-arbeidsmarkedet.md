@@ -1,15 +1,15 @@
-<!-- innholds-hash: b710ba37890d5f0aac5e6b6bfdc8c27c1743770fa79eecdc3f63f8dbf90afca6 -->
+<!-- innholds-hash: 916e67a29cb3c6a215efa3b3b2d85ddf1dc4aaa075e61b5749d320fd3c8f437b -->
 
 # Arkiv - Hovedtall om arbeidsmarkedet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet/arkiv-hovedtall-om-arbeidsmarkedet
-- **Sist oppdatert i arkivet:** 2026-10-12T19:26:16Z
+- **Sist oppdatert i arkivet:** 2026-11-03T18:12:22Z
 
 ## Innhold
 
-Publisert 28.05.2021 | Oppdatert 02.10.2026
+Publisert 28.05.2021 | Oppdatert 30.10.2026
 
 ## Arkiv - Hovedtall om arbeidsmarkedet
 
@@ -17,6 +17,9 @@ Hovedtall om arbeidsmarkedet offentligjøres hver måned kl 08:00 på publiserin
 
 #### 2026
 
+- [Hovedtall arbeidsmarkedet - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/d6e6b124-acce-4119-8699-c4aaea139674:34cbab0e016e186e032c8772a4fcb8c9ffb1848d/Hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/131d66f4-7bcc-4f16-91ad-60d650fb962e:f9b417ec4d897e244c29a75984a6e44ae31716b2/Hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.pdf)
+- [Hovedtall arbeidsmarkedet delvis ledige - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/00a00cb3-5c3a-490b-8a2c-29dbae4ccdee:3ffeb943232505a7b1bfc54b8f559cdf92a1b1a2/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/65e6b2f9-7e14-4392-acf5-fc43f21d9c46:6b7966e553b803d36f6fc0f42330aa3f2324dc73/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20Oktober%202026.pdf)
+- [Hovedtall arbeidsmarkedet permitterte - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/7cdc7131-55aa-4bad-9ba5-629270e5f609:578cba05a50416d9a472a9cfcbd71b7d1bd0020b/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/611ea5ef-881d-42ce-be67-d3a75bf82f22:87cdd3f3c6001e285886b994e36c5d145d1a9f31/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20Oktober%202026.pdf)
 - [Hovedtall arbeidsmarkedet - september 2026 (xls)](https://www.nav.no/_/attachment/download/9b5e9385-5b7b-4379-b9e8-42e44ec45065:b8205339162a8a0ca683b884842b7dd04b687240/Hovedtall%20om%20arbeidsmarkedet.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/e6a3b2ad-b32e-493e-9673-836310cc7ea2:06f155295b2bac0c04b8f0b6888da75a18bd0f28/Hovedtall%20om%20arbeidsmarkedet.%20September%202026.pdf)
 - [Hovedtall arbeidsmarkedet delvis ledige - september 2026 (xls)](https://www.nav.no/_/attachment/download/daf805f0-8c7c-4864-9a4c-91fd50e9fd26:555f0dff75c9e84be593403f4347f147733a75c2/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/b97fe373-ce17-417c-b622-078f3e28ebef:0f53ed66af9e53312062a63d5f615c5ab121763a/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20September%202026.pdf)
 - [Hovedtall arbeidsmarkedet permitterte - september 2026 (xls)](https://www.nav.no/_/attachment/download/c18eebbb-53c1-4279-80bf-472c07799d46:6a334f1b865b7d0beab7ec2d4897b3f16ec3233a/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/d9986544-b144-425a-9ec7-0bfdcb271401:0735856f40d820aa188fe7dab16c2af07cc308cb/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20September%202026.pdf)
@@ -76,3 +79,4 @@ Publiseringen "Hovedtall arbeidsmarkedet permitterte" januar 2020 - august 2022 
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

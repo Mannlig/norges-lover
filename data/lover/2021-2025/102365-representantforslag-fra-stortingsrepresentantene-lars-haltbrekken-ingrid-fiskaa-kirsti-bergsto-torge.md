@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4ce3aa9f4672d6808a61b77647259ef4e84ffdd1c2afcac8531afbdfc58957ee -->
+<!-- innholds-hash: 9b1344934600604ef8336f68f96947867a425d3c3206d8e446ba5e1eb15561ee -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Ingrid Fiskaa, Kirsti Bergstø, Torgeir Knag Fylkesnes og Andreas Sjalg Unneland om et krafttak for kraft
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:126 S (2024-2025), Innst. 279 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Energi, Elektrisitet, Priser og konkurranseforhold
+- **Emner:** Energi, Elektrisitet, Priser og konkurranseforhold, Utenrikshandel, Næringsliv, Industri
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102365
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -45,6 +45,27 @@
       "hovedemne_id": 187,
       "id": 83,
       "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 99,
+      "navn": "Utenrikshandel",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 223,
+      "navn": "Industri",
       "underemne_liste": []
     }
   ],
@@ -188,3 +209,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

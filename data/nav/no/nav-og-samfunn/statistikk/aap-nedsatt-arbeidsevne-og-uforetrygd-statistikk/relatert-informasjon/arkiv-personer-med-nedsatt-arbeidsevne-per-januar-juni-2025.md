@@ -1,17 +1,17 @@
-<!-- innholds-hash: b964c22f7605c2e5f5f7cc61b442f22ae87d6026cdf00094a4be8d9064228b3e -->
+<!-- innholds-hash: eb3839303ec71360e350770afd3704e42d41ede87a92e009f8c704fd1cc9899a -->
 
-# Arkiv - Personer med nedsatt arbeidsevne per januar - juni 2025 - nav.no
+# Arkiv - Personer med nedsatt arbeidsevne per april - juni 2025 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2025
-- **Sist oppdatert i arkivet:** 2026-10-12T19:35:59Z
+- **Sist oppdatert i arkivet:** 2026-11-03T18:19:35Z
 
 ## Innhold
 
-Publisert 13.08.2025 | Oppdatert 04.09.2025
+Publisert 13.08.2025 | Oppdatert 02.11.2026
 
-## Arkiv - Personer med nedsatt arbeidsevne per januar - juni 2025
+## Arkiv - Personer med nedsatt arbeidsevne per april - juni 2025
 
 #### Antall personer med nedsatt arbeidsevne - Tidsserie måned
 
@@ -62,3 +62,4 @@ For mer informasjon om de ulike definisjonene i statistikkene se "Om Statistikke
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

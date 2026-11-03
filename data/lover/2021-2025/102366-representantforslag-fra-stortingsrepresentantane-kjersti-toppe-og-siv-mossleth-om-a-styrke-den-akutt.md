@@ -1,4 +1,4 @@
-<!-- innholds-hash: 638b85d84b5701bfd8b490e615ee130dd676f0c673c97526eb4fa8dd5f113271 -->
+<!-- innholds-hash: d8b59cf4871de4fa6676559676ac1b0a6f72f55c2faf9493be36694deddcbfba -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe og Siv Mossleth om å styrke den akuttmedisinske beredskapen utanfor sjukehus, inkludert legevakt og ambulanse
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:127 S (2024-2025), Innst. 460 S (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Helsevesen, Helseinstitusjoner, Sykehus
+- **Emner:** Helsevesen, Helseinstitusjoner, Sykehus, Svangerskap, Distriktspolitikk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102366
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -45,6 +45,20 @@
       "hovedemne_id": 61,
       "id": 63,
       "navn": "Sykehus",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 65,
+      "navn": "Svangerskap",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 220,
+      "navn": "Distriktspolitikk",
       "underemne_liste": []
     }
   ],
@@ -131,3 +145,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

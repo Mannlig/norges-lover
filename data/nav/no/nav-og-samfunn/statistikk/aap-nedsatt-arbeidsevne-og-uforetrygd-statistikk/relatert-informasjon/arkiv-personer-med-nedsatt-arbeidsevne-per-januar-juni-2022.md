@@ -1,17 +1,17 @@
-<!-- innholds-hash: 04d5770c1f0e266dd78fd10952f866e718b8a8239133f76e2ab1b5fc3ab79668 -->
+<!-- innholds-hash: a8f5d13e4a194f972852a5b0ef089c760a6254ae055babecaa4698c8222c809d -->
 
-# Arkiv - Personer med nedsatt arbeidsevne per januar - juni 2022 - nav.no
+# Arkiv - Personer med nedsatt arbeidsevne per april - juni 2022 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2022
-- **Sist oppdatert i arkivet:** 2026-10-12T19:33:54Z
+- **Sist oppdatert i arkivet:** 2026-11-03T18:17:24Z
 
 ## Innhold
 
-Publisert 17.08.2022 | Oppdatert 07.09.2022
+Publisert 17.08.2022 | Oppdatert 02.11.2026
 
-## Arkiv - Personer med nedsatt arbeidsevne per januar - juni 2022
+## Arkiv - Personer med nedsatt arbeidsevne per april - juni 2022
 
 Statistikk over nye personer med nedsatt arbeidsevne og personer med avgang fra nedsatt arbeidsevne publiseres kvartalsvis. Beholdningsstatistikk publiseres månedlig.
 
@@ -58,3 +58,4 @@ For mer informasjon om de ulike definisjonene i statistikkene se "Om Statistikke
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

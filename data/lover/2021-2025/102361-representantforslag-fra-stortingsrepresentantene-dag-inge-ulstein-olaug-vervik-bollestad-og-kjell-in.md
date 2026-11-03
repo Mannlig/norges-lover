@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2adc349f43a5265086f27c3cf49f535b47f8d0d67bbf260b750679c9e391a8ae -->
+<!-- innholds-hash: 72cf96c1e804474dbe847aa12d04386b86e7dc059651449c60290b23772afe23 -->
 
 # Representantforslag fra stortingsrepresentantene Dag-Inge Ulstein, Olaug Vervik Bollestad og Kjell Ingolf Ropstad om en uførereform som gir personer med gradert uføretrygd større muligheter på arbeidsmarkedet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:122 S (2024-2025), Innst. 276 S (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Sysselsetting, Trygder
+- **Emner:** Sysselsetting, Funksjonshemmede, Lønn og inntekt, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102361
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 5,
       "id": 7,
       "navn": "Sysselsetting",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 24,
+      "id": 49,
+      "navn": "Funksjonshemmede",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 95,
+      "navn": "Lønn og inntekt",
       "underemne_liste": []
     },
     {
@@ -143,3 +157,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

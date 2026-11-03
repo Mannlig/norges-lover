@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4818b8af7925d09a79e3a31e6c2435e8b6df6e955581a8b51a156be4ec4d8ebc -->
+<!-- innholds-hash: 1eed11192e7207d7d8bdd45dd5a3361e2cc571f6c844e48b770d4d6114ab1fdb -->
 
 # Starte, drive og avslutte bedrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-14T04:55:56Z
+- **Sist oppdatert i arkivet:** 2026-11-03T16:01:48Z
 
 ## Innhold
 
@@ -28,23 +28,23 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 #### Kalender
 
-15
-
-SEP
-
-[A-meldingen (arbeidsgiveravgift og finansskatt) – frist for betaling](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/arbeid-trygd-og-pensjon/hobby-ekstrainntekt-og-smajobber/lonnsarbeid-i-hjemmet/lonn-betalt-over-60-000/betaling-av-forskuddstrekk-og-arbeidsgiveravgift/)
-
 5
 
 OKT
 
 [A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
-12
+20
 
 OKT
 
-[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
+[Mva-melding for VOEC – frist for levering og betaling 3. kvartal](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/mva-melding/)
+
+5
+
+NOV
+
+[A-melding for oktober – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
@@ -57,3 +57,4 @@ OKT
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d19e64c55e3728e6174e68240315aa7fa4eede9dc91fca36c629c6cdb6cc0f37 -->
+<!-- innholds-hash: ed9efe0cdda74f604a3f207de05d539dc1b8c8a47e104cfde424ce7f1406a8b8 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Roy Steffensen og Hans Andreas Limi om å tillate Den nordiske investeringsbank å finansiere virksomheter som produserer våpen og ammunisjon
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:117 S (2024-2025), Innst. 480 S (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Forsvarsmateriell, Statlig eierskap
+- **Emner:** Forsvarsmateriell, Banker, Statlig eierskap, Økonomisk samarbeid
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-03T12:55:41Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102355
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,9 +35,23 @@
     },
     {
       "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 87,
+      "navn": "Banker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 119,
       "navn": "Statlig eierskap",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
       "underemne_liste": []
     }
   ],
@@ -143,3 +157,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)
