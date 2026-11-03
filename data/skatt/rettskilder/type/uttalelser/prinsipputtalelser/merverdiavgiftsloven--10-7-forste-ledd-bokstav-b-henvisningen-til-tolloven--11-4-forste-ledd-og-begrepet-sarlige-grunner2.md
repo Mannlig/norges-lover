@@ -1,0 +1,59 @@
+<!-- innholds-hash: 79cbfdcc4ac9b413835196807aab16bf817b0fd7221d28d9c46535100b222f16 -->
+
+# Merverdiavgiftsloven § 10-7 første ledd bokstav b, henvisningen til tolloven § 11-4 første ledd og begrepet "særlige grunner"
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--10-7-forste-ledd-bokstav-b-henvisningen-til-tolloven--11-4-forste-ledd-og-begrepet-sarlige-grunner2/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-03T08:04:58Z
+
+## Innhold
+
+Prinsipputtalelse
+
+## Merverdiavgiftsloven § 10-7 første ledd bokstav b, henvisningen til tolloven § 11-4 første ledd og begrepet "særlige grunner"
+
+- Publisert: 03.09.2018
+- Avgitt 28.02.2018
+
+Den som ikke er avgiftssubjekt har rett til refusjon av merverdiavgift betalt ved innførsel dersom varen gjenutføres i uforandret stand fordi varen er feilsendt, feilbestilt eller ikke levert som avtalt. Refusjon innvilges også dersom varen gjenutføres av andre årsaker og tollen er eller kunne blitt tilbakebetalt etter tolloven § 11-2 første og annet ledd og § 11-4 første ledd. Det vises til merverdiavgiftsloven § 10-7 første ledd bokstav a og b.
+
+Tolloven § 11-4 første ledd første punktum fastsetter at toll kan refunderes for vare som gjenutføres fordi den er feilsendt, feilbestilt, levert for sent eller ikke er i samsvar med bestillingen. Etter annet punktum kan toll også tilbakebetales i andre tilfeller dersom det foreligger "særlige grunner". Søknader om refusjon av betalt innførselsmerverdiavgift skal sendes skattekontoret som rett skattemyndighet. Skattedirektoratet har fått spørsmål om hvordan begrepet "særlige grunner" skal forstås og hvordan denne bestemmelsen tidligere har vært praktisert ift. merverdiavgiften av Tolletaten.
+
+#### Forarbeider mv.
+
+Tolloven § 11-4 er en videreføring av Tolltariffens innledende bestemmelser (tib) § 21. Tib § 21 hadde ved ikrafttredelsen av tolloven i 2009 følgende ordlyd: § 21 (gjenutførsel under spesielle omstendigheter) 1. Toll kan tilbakebetales for varer som utføres på grunn av at varene ikke er levert etter avtale, eller det foreligger andre uforutsette grunner til at varene ikke vil bli brukt eller omsatt her i landet. Tilbakebetaling kan ikke skje før det er lagt frem kreditnota for varene fra leverandøren, eller det er dokumentert at det er levert gratis erstatingsleveranse for varene og denne forsendelsen er fortollet. 2. Også eller, når særlige grunner foreligger, kan toll tilbakebetales for varer som er utført. Tib § 21 nr. 2 er omtalt av (den gang) Toll- og avgiftsdirektoratet i rundskriv 15. juni 1994 til Tolletaten. Her gis tolldistriktssjefen (nå regiondirektøren) myndighet til å tilbakebetale toll i følgende tilfeller: a) varer som etter å ha vært innført til Norge for salg, returneres til utlandet på grunn av manglende salgbarhet, selv om kreditnota ikke blir fremlagt
+
+b) varer som returneres til utlandet som gavesending i forbindelse med humanitær hjelp Bestemmelsen omtales også i Rundskriv fra Toll- og avgiftsdirektoratet i juli 2005: I tib. § 21 nr. 2 finnes en særskilt dispensasjonsbestemmelse, hvor man også "ellers, når særlige grunner, foreligger," kan innvilge tollrefusjon.
+
+Denne dispensasjonsregelen må bl.a. komme til anvendelse på tilfeller som ikke går inn under ordlyden i § 21 nr. 1 ("ikke levert etter avtale" eller "uforutsette grunner"), og i tilfeller hvor det uttrykkelige vilkåret om kreditnota, skulle medføre urimelige resultater.
+
+Tollrefusjon er blitt innvilget hvor varer er returnert til utlandet som gavesending i forbindelse med humanitær hjelp, eller hvor kommisjonsvarer blir dokumentert returnert til utenlandsk eier.
+
+Videre er refusjon blitt godtatt hvor uavhentede postpakker og gods, mv., som hele tiden har vært i Tollvesenet/Postverket/NSB - besittelse, er dokumentert returnert til utlandet, tilintetgjort etter reglene i tib. § 22 annet ledd, eller avstått til Tollvesenet.
+
+Refusjon er også gitt i et tilfelle hvor feilvarer ble returnert til den utenlandske leverandør, som hadde sagt seg villig til dette mot en redusert pris, og kreditnota ble derfor følgelig utferdiget kun for en del av salgssummen. Full tollrefusjon ble her innvilget med den begrunnelse at vedkommende ble antatt å ha gjort sitt beste for å oppnå en så gunstig avtale som mulig.
+
+Videre har tollrefusjon blitt innvilget i tilfeller hvor varene er feilaktig fortollet inn til Norge, til tross for at de skulle videresendes til utlandet. Kreditnota vil i disse tilfellene ikke være mulig å fremskaffe.
+
+Dersom varene hele tiden har ligget på et lager i Norge, bør det også kunne innvilges tollrefusjon, dersom varene blir returnert til utlandet p.g.a. manglende salgbarhet (eller tilintetgjøres under Tollvesenets kontroll), selv om kreditnota ikke er fremlagt. I disse tilfellene har den konkrete varen overhodet ikke vært frembudt for salg i Norge, jf. tidligere ordlyd i bestemmelsen. Nåværende tollov er i hovedsak en lovteknisk modernisering av tidligere tollregelverk. I Ot.prp. nr. 58 (2006 – 2007) Om lov om toll og vareførsel gis følgende merknad til § 11-4 første ledd annet punktum: I første ledd annet punktum videreføres tolltariffens innledende bestemmelser § 21 annet ledd, slik at toll også kan tilbakebetales ellers, når særlige grunner foreligger. Denne dispensasjonsregelen kommer til anvendelse på tilfeller som ikke dekkes av de øvrige tilbakebetalingsbestemmelsene. Tollrefusjon er etter denne bestemmelsen blitt innvilget hvor varer er returnert til utlandet som gavesending i forbindelse med humanitær hjelp, eller hvor kommisjonsvarer blir dokumentert returnert til utenlandsk eier. Videre er refusjon blitt godtatt hvor uavhentede postpakker og gods mv., som hele tiden har vært i tollmyndighetenes/Postverkets/NSBs besittelse, er dokumentert returnert til utlandet, tilintetgjort etter reglene i dagens tollov § 22 annet ledd eller avstått til tollmyndighetene. Videre har tollrefusjon blitt innvilget i tilfeller hvor varene er feilaktig fortollet inn til Norge, til tross for at de skulle videresendes til utlandet. Kreditnota vil i disse tilfellene ikke være mulig å fremskaffe. Dersom varene hele tiden har ligget på et lager i Norge, bør det også kunne innvilges tollrefusjon, dersom varene blir returnert til utlandet på grunn av manglende salgbarhet (eller tilintetgjøres under tollmyndighetenes kontroll), selv om kreditnota ikke er fremlagt. I disse tilfellene har den konkrete varen overhodet ikke vært frembudt for salg i Norge. Tolletatens TollABC har følgende kommentar til bestemmelsen: Denne delen av § 11-4 må sees på som en sikkerhetsventil. Eksempler på særlige tilfeller der tollmyndighetene tidligere har akseptert å refundere toll er: 1. varer som er returnert til utlandet som gave i forbindelse med humanitær hjelp 2. uavhentede postpakker mv. 3. varer i transitt som feilaktig er blitt fortollet I Norsk Lovkommentar er følgende note gitt til tolloven § 11-4 første ledd annet punktum: Toll også kan tilbakebetales ellers, når særlige grunner foreligger. Denne dispensasjonsregelen kommer til anvendelse på tilfeller som ikke dekkes av de øvrige tilbakebetalingsbestemmelsene i kap. 11, men synes å overlappe med § 9-5. Tollrefusjon er blitt innvilget hvor varer er returnert til utlandet som gavesending i forbindelse med humanitær hjelp, eller hvor kommisjonsvarer blir dokumentert returnert til utenlandsk eier. Videre er refusjon blitt godtatt hvor uavhentede postpakker og jernbanegods mv. som hele tiden har vært i tollmyndighetenes eller befrakters besittelse, er returnert til utlandet, tilintetgjort eller avstått til tollmyndighetene. Videre er tollrefusjon blitt innvilget når varene skulle vært videresendt til utlandet, men ved en feil var blitt fortollet inn til Norge. Dersom varene hele tiden har ligget på et lager i Norge, kan det også innvilges tollrefusjon selv om kreditnota ikke blir fremlagt, dersom varene blir returnert til utlandet på grunn av manglende salgbarhet, eller blir tilintetgjort under tollmyndighetenes kontroll.
+
+#### Skattedirektoratet skal bemerke
+
+Av forarbeider til tolloven, nevnte rundskriv, Tolletatens praksis mv. kan det legges til grunn at "særlige grunner" anses å foreligge i følgende tilfeller: 1. varene returneres til utlandet som gavesending i forbindelse med humanitær hjelp
+
+2. kommisjonsvarer blir dokumentert returnert til utenlandsk eier
+
+3. uavhentede postpakker og gods mv., som hele tiden har vært i tollmyndighetenes/Postverkets/NSBs besittelse og som er dokumentert returnert til utlandet, tilintetgjort etter reglene i tolloven § 11-4 eller avstått til tollmyndighetene
+
+4. varene er feilaktig fortollet inn til Norge, til tross for at den skulle videresendes til utlandet. Kreditnota vil i disse tilfellene ikke være mulig å fremskaffe
+
+5. varene har hele tiden ligget på et lager i Norge, og blir returnert til utlandet på grunn av manglende salgbarhet eller varene tilintetgjøres under tollmyndighetenes kontroll. I disse tilfellene har den konkrete varen overhodet ikke vært frembudt for salg i Norge Oppregningen må anses som veiledende og er ikke uttømmende slik at også andre "særlige grunner" vil kunne gi grunnlag for refusjon. Dette vil måtte bero på en konkret skjønnsmessig vurdering. Som "særlig grunn" etter tolloven § 11-4 har i praksis vært ansett at et innført kjøretøy ikke blir godkjent av Statens vegvesen, dvs. bilen nektes registrering på norske skilter. Skattedirektoratet er enig i at dette må kunne anses som en "særlig grunn" og at innførselsmerverdiavgift kan refunderes ved gjenutførsel av kjøretøyet dersom øvrige vilkår er oppfylt. Skattedirektoratet har ikke klart å bringe på det rene hvordan "særlige grunner" ellers har vært praktisert i tollregionene. På bakgrunn av denne uklarheten ber vi skattekontorene inntil videre i størst mulig grad praktisere bestemmelsen i tråd med forannevnte oppregning. Som nevnt mener vi at innførselsmerverdiavgift også må kunne refunderes når et kjøretøy gjenutføres pga. manglende godkjenning. Vi har forstått at i alle fall én region har refundert innførselsmerverdiavgift for de tilfeller en bilimportør i ettertid finner at fortollingen blir for kostbar og bilen gjenutføres innen fristen uten å bli registrert på norske skilter. Det skal også i enkelte tilfeller ha vært refundert innførselsmerverdiavgift ved gjenutførsel av varer som selgere fra utlandet har forsøkt solgt i Norge under kortere opphold her, for eksempel salg under konserter, fotballkamper, utstillinger og messer. Hvorvidt slik refusjon også har vært praktisert av andre regioner er ukjent. Vi ber skattekontorene inntil videre ikke videreføre denne praksisen. For å sikre lik praksis ber vi om at skattekontoret sender kopi av vedtakene til Skattedirektoratet, både når det gjelder avslag og refusjon. Etter merverdiavgiftsloven § 10-7 annet ledd er det et vilkår for refusjon av merverdiavgift at varen gjenutføres innen ett år etter innførselen. Fristen kan i særlige tilfeller forlenges. Etter tolloven § 11-4 annet ledd er det et vilkår for tilbakebetaling av toll, at varen gjenutføres eller legges inn på tollager innen to år etter innførselen. Tollmyndighetene opplyser at de før 1. januar 2017 hadde fast praksis for å behandle merverdiavgiften likt som tollen, dette skjedde uavhengig av om det var toll på varen eller ikke. Skattedirektoratet har ingen innvendinger mot at skattekontorene fortsetter denne praksisen. Vennligst oppgi vår referanse - 2017/1122642 - ved henvendelser i saken.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--10-7-forste-ledd-bokstav-b-henvisningen-til-tolloven--11-4-forste-ledd-og-begrepet-sarlige-grunner2/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-03** Første gang hentet
