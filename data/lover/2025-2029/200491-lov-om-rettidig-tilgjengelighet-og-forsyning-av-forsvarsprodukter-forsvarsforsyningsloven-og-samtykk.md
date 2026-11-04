@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9e9d778bebfb0e96e9474c68a0fb4bb5f7efb54c8a924901e6082e8357dc488d -->
+<!-- innholds-hash: ecd2e8eba7ca95c2689bb3988f23cf253b872771e3bc9cfd77cec4d1757b7227 -->
 
 # Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200491
 - **Type:** 3
 - **Korttittel:** Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) (L-delen)
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 6 LS (2026–2027)
-- **Komité:** 
+- **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-30T18:11:23Z
+- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200491
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200491,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "UFK",
+    "navn": "Utenriks- og forsvarskomiteen"
+  },
   "korttittel": "Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) (L-delen)",
   "sak_fremmet_id": 200491,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793357100000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)",
   "type": 3
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-30** Første gang hentet
+- **2026-11-04** Innhold endret (se git-historikk for diff)

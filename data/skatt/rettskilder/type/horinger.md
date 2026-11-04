@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7b8d433ff1b318fe3c5a8ed41538f4002b540d6a8004312b3c76fec84c1d054a -->
+<!-- innholds-hash: 569de0be474630e2630d4d40d305eb84f249cf5a4665cc19c7879c91656b33fc -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/horinger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-06T11:17:05Z
+- **Sist oppdatert i arkivet:** 2026-11-04T18:33:13Z
 
 ## Innhold
 
@@ -14,12 +14,14 @@
 
 ### Søk i listen
 
-116 treff
+118 treff
 
 **Liste over Høringer**
 
-| [Høring – Endringer i overgangsregler til innkrevingsloven mv.](https://www.skatteetaten.no/rettskilder/type/horinger/horing---endringer-i-overgangsregler-til-innkrevingsloven-mv/) | 30.09.2026 |
+| [Høring – endringer i CO2-avgiften for kvotepliktig sjøfart](https://www.skatteetaten.no/rettskilder/type/horinger/horing--endringer-i-co2-avgiften-for-kvotepliktig-sjofart/) | 22.10.2026 |
 | --- | --- |
+| [Høring - forslag om endringer i avgiftsfritaket for sukker som brukes i ervervsmessig produksjon av andre varer](https://www.skatteetaten.no/rettskilder/type/horinger/horing---forslag-om-endringer-i-avgiftsfritaket-for-sukker-som-brukes-i-ervervsmessig-produksjon-av-andre-varer/) | 20.10.2026 |
+| [Høring – Endringer i overgangsregler til innkrevingsloven mv.](https://www.skatteetaten.no/rettskilder/type/horinger/horing---endringer-i-overgangsregler-til-innkrevingsloven-mv/) | 30.09.2026 |
 | [Høring – Forslag til endringer på skatteregnskapsområdet](https://www.skatteetaten.no/rettskilder/type/horinger/horing--forslag-til-endringer-pa-skatteregnskapsomradet/) | 28.09.2026 |
 | [Høring – forslag til forskrift til ny lov om særavgifter](https://www.skatteetaten.no/rettskilder/type/horinger/horing--forslag-til-forskrift-til-ny-lov-om-saravgifter/) | 03.07.2026 |
 | [Endringer i særavgiftsloven og særavgiftsforskriften som følge av overføring av forvaltningsansvaret for CO2-avgiften i petroleumsvirksomheten på kontinentalsokkelen](https://www.skatteetaten.no/rettskilder/type/horinger/endringer-i-saravgiftsloven-og-saravgiftsforskriften-som-folge-av-overforing-av-forvaltningsansvaret-for-co2-avgiften-i-petroleumsvirksomheten-pa-kontinentalsokkelen/) | 23.06.2026 |
@@ -142,3 +144,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-04** Innhold endret (se git-historikk for diff)

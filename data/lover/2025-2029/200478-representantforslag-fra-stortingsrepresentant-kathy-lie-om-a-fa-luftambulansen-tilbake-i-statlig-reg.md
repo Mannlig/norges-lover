@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc6a9cd43c071fb93e3f990bd29b7436c6b0c07144886e9b1149729367eed472 -->
+<!-- innholds-hash: b1afdcd300891e220a1cee1c077fbb08464f88293e0d1f3d4570dbb002c988d7 -->
 
 # Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi 
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200478
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -57,7 +57,27 @@
   },
   "korttittel": "Representantforslag om å få Luftambulansen tilbake i statlig regi ",
   "sak_fremmet_id": 200478,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Vasvik",
+      "foedselsdato": "/Date(267832800000+0200)/",
+      "fornavn": "Truls",
+      "id": "TRV",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ve",
+        "navn": "Vestfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi ",
@@ -71,3 +91,4 @@
 
 - **2026-10-21** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-04** Innhold endret (se git-historikk for diff)
