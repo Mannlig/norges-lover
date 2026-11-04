@@ -1,0 +1,133 @@
+<!-- innholds-hash: 382c575e2bfb914b399b9714f9e93236efc4590e9b9615fabb448346d3b33c45 -->
+
+# Veileder til de nye reglene om rapportering og skattlegging av naturalytelser, 6. mai 2019
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/veileder-til-de-nye-reglene-om-rapportering-og-skattlegging-av-naturalytelser-6.-mai-2019/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-04T10:42:51Z
+
+## Innhold
+
+Prinsipputtalelse
+
+## Veileder til de nye reglene om rapportering og skattlegging av naturalytelser, 6. mai 2019
+
+- Publisert: 06.05.2019
+- Avgitt 06.05.2019
+
+Naturalytelser er lønn i annet enn penger som arbeidstaker får i arbeidsforhold og som gir en privatøkonomisk fordel. Slike ytelser kan for eksempel være private reiser, rabatter, gaver, medlemskap på treningssenter osv. De tidligere reglene for rapportering og skattlegging av naturalytelser var til dels uklare, skjønnsmessige og lite i tråd med samfunnsutviklingen. Svakhetene bidro til en lite effektiv og rettferdig beskatning av naturalytelser. Mange har kunnet motta store fordeler i form av rabatter osv. som har vært skattepliktige, uten at de har blitt skattlagt. Dette er bakgrunnen for at regelverket for naturalytelser ble endret fra 1. januar 2019.
+
+Endringene knytter seg hovedsakelig til fire forhold:
+
+- Klargjøring av skatteplikten og rapporteringsansvaret for ytelser som den ansatte mottar i arbeidsforholdet gjennom tredjeparter. Med tredjepartsytelser menes ytelser den ansatte mottar gjennom andre enn arbeidsgiver. Skatteplikt forutsetter at det er tilstrekkelig tilknytning mellom ytelsen og arbeidsforholdet.
+- Klargjøring av reglene for verdsettelse av naturalytelser. Utgangspunktet er at alle naturalytelser skal verdsettes til omsetningsverdien i sluttbrukermarkedet.
+- Klargjøring av reglene for skattefrie personalrabatter. Med personalrabatter menes ytelser fra arbeidsgiver eller arbeidsgivers kunder eller leverandører, når det som ytes gjelder varer eller tjenester som omsettes i arbeidsgivers virksomhet.
+- Opprydning i enkelte særbestemmelser, blant annet modernisering av reglene om gaver, forenklinger og lempninger i reglene om overtidsmat og fri avis og opphevelse av reglene om skattefrihet for bedriftsbarnehage, matkuponger og forbedringsforslag.
+
+I det følgende vil vi gå nærmere inn på de tre første punktene. Det fjerde punktet vil ikke bli ytterligere utdypet her, bortsett fra en kort omtale av sammenhengen mellom reglene om personalrabatt og den generelle gaveregelen i arbeidsforhold. Det er laget en spørsmål- og svarside som viser eksempler på bruk av de nye reglene.
+
+### 1. Skatteplikt og rapporteringsplikt for ytelser ansatte får i arbeidsforholdet gjennom tredjeparter (forretningsforbindelser mv.)
+
+#### Skatteplikt – vilkår om tilknytning til arbeidsforhold og privatøkonomisk fordel
+
+Ansatte kan motta ytelser i arbeidsforholdet gjennom andre enn arbeidsgiveren, såkalte tredjeparter. For at disse ytelsene skal være skattepliktige som fordel vunnet ved arbeid må det være tilstrekkelig tilknytning mellom fordelen og arbeidet. Denne vurderingen må bero på en konkret vurdering i hvert enkelt tilfelle. Rabatter, gaver, reiser mv. fra arbeidsgivers forretningsforbindelser vil normalt anses å ha tilstrekkelig tilknytning til arbeidsforholdet. Begrepet forretningsforbindelse skal forstås vidt og omfatter blant annet følgende:
+
+- Kunder
+- Leverandører
+- Andre som arbeidsgiver inngår avtale med om kjøp eller salg av varer eller tjenester
+- Virksomheter som ansatte kjøper varer eller tjenester fra på vegne av arbeidsgiver, når kostnadene blir refundert av arbeidsgiver (f.eks. ved tjenestereise eller andre tjenstlige innkjøp)
+- Andre virksomheter dersom det foreligger et element av bytteforhold ved at arbeidsgiver yter noe til denne for at arbeidstaker skal få rabatt
+
+I mange tilfeller tilbyr bedrifter rabatter til ansatte i bedrifter i sitt nærområde, ofte omtalt som nabolagsrabatter. Der slike rabatter tilbys ensidig, vil det normalt ikke være tilstrekkelig tilknytning til arbeidsforholdet, og rabatten vil derfor ikke utløse skatteplikt eller rapporteringsplikt for mottakers arbeidsgiver. Det kan være for eksempel markedsføringsrabatter til ansatte i bedrifter i nærområdet for å profilere egen bedrift, som tilbys uavhengig av hva slags bedrift de ansatte jobber i. For at slike rabatter ikke skal bli ansett å ha tilknytning til et arbeidsforhold, må mottakers arbeidsgiver ikke ha hatt noen rolle i etableringen av ordningen/rabatten, og eventuell medvirkning fra arbeidsgivers side må ikke gå utover ren videreformidling av rabattilbudet.
+
+Bonusytelser fra flyselskap mv. som er opptjent i jobbsammenheng er skattepliktig når poengene benyttes privat. Det forekommer at fordeler tildeles kun på grunn av en «status», uten bruk av poeng, Slike fordeler skattlegges ikke. Derimot er alle fordeler som oppnås ved bruk av bonuspoeng e.l. skattepliktig.
+
+Selv om det foreligger tilknytning til arbeidsforholdet, vil skatteplikt være avhengig av at arbeidstakeren har oppnådd en privatøkonomisk fordel. Dette betyr at man må ha mottatt en fordel som andre må betale for å oppnå. Dersom man har mottatt en rabatt og prisen man må betale anses som allment tilgjengelig, utgjør rabatten ingen skattepliktig fordel. For at en pris skal anses som allment tilgjengelig, må den være tilgjengelig for alle, uavhengig av tilknytning til spesielle bransjer eller arbeidsgivere.
+
+Spørsmålet om det foreligger en skattepliktig naturalytelse må imidlertid avgrenses mot varer og tjenester som bare er til tjenstlig bruk. Som eksempel kan nevnes en fotballklubb som dekker billett for sin trener til å se en fotballkamp for å vurdere rekruttering, eller et teater som dekker teaterbillett for en ansatt for å se et stykke som er relevant til forberedelse av en ny oppsetning. I slike tilfeller, der varen eller tjenesten er nødvendig for utførelsen av arbeidsoppgavene og ikke kan brukes for rent private formål, vil den ansatte normalt ikke bli ansett for å ha mottatt en naturalytelse.
+
+#### Rapporteringsplikt
+
+Når en arbeidstaker mottar skattepliktige naturalytelser direkte fra egen arbeidsgiver, har arbeidsgiveren på vanlig måte (som for kontant lønn) plikter knyttet til rapportering, skattetrekk og arbeidsgiveravgift. Regelendringene gjør det klart at arbeidsgiver har det samme ansvaret for skattepliktige naturalytelser den ansatte mottar gjennom tredjeparter når det foreligger tilstrekkelig sammenheng mellom ytelsen og arbeidsforholdet, jf. over. Arbeidsgivers plikter i slike tilfeller er:
+
+- å ha rutiner som sikrer at arbeidsgiver mottar nødvendige opplysninger om fordeler mottatt gjennom tredjeparter
+- å vurdere skatteplikten
+- å rapportere skattepliktige ytelser i a-meldingen, gjennomføre forskuddstrekk og betale arbeidsgiveravgift
+
+Arbeidsgiver må sørge for en tilstrekkelig aktiv oppfølging som sikrer at de ansatte etterlever de rutiner og regler som arbeidsgiver har oppstilt for ytelser gjennom tredjeparter, og at arbeidsgiver har etablert ordninger slik at han mottar tilstrekkelig informasjon om slike ytelser. Det antas i utgangspunktet ikke å være tilstrekkelig at arbeidsgiver kun inntar arbeidstakers informasjonsplikt i en arbeidsavtale, uten ytterligere oppfølgning.
+
+Arbeidsgiver og tredjeparten bør sikre en tilstrekkelig god informasjonsflyt, slik at arbeidsgiver kan oppfylle sine rapporteringsplikter mv. Dersom arbeidsgiver ikke kan sikre seg nødvendig informasjon, kan arbeidsgiver nekte de ansatte å ta imot slike fordeler. Det må foreligge tydelig informasjon til arbeidstakerne om et slik eventuelt forbud.
+
+Arbeidsinntekt skal som hovedregel rapporteres senest den 5. i måneden etter den kalendermåneden opplysningene gjelder for, dvs. når beløpet utbetales eller ytelsen gis.
+
+Det er gitt to måneders utsatt rapporteringsfrist for skattepliktige naturalytelser som mottas gjennom en tredjepart. Det er fordi arbeidsgiver her kan ha behov for noe ekstra tid til å innhente nødvendige opplysninger fra den som har gitt ytelsen, eller fra arbeidstakeren. Den utsatte rapporteringsfristen har også betydning for tidspunktet for beskatningen. Det innebærer at skattepliktige naturalytelser mottatt gjennom tredjeparter kommer til beskatning to måneder etter at de er mottatt.
+
+Særlig om rapportering av bonusytelser
+
+Av praktiske årsaker legger Skattedirektoratet til grunn at arbeidsgiver blir ansvarlig for innrapportering av privat uttak av bonuspoeng opptjent fra og med 1. januar 2019.
+
+I forbindelse med jobbskifte skal bonusytelser som er opptjent hos tidligere arbeidsgiver rapporteres av denne når poengene benyttes privat av den tidligere ansatte. Dette fordi det her dreier seg om en ytelse som kommer fra den tidligere arbeidsgiveren, og rapporteringsplikten mv. er knyttet til den som yter fordelen. Ny arbeidsgiver har bare ansvar for poeng som er opptjent hos denne. [Se spørsmål og svar (Q.&A).](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/sporsmal-og-svar---naturalytelser/)
+
+### 2. Verdsettelse av naturalytelser, herunder rabatter
+
+Varer og tjenester skal verdsettes til omsetningsverdien i sluttbrukermarkedet. Den skattepliktige fordelen av en naturalytelse er differansen mellom omsetningsverdien i sluttbrukermarkedet og det mottakeren har betalt for ytelsen. Når fordelen skal verdsettes, er det ikke adgang til å benytte gjennomsnittsrabatter, sjablongmessig omsetningsverdier eller lignende, med mindre annet følger av særlige bestemmelser[1].
+
+For å finne omsetningsverdien må det foretas en konkret vurdering av hva en vare/tjeneste ville vært solgt for til en enkeltstående privatkunde i det åpne markedet.
+
+Verdien skal beregnes på det tidspunktet fordelen blir mottatt. En fordel i form av en rabattert vare mottas når arbeidstakeren betaler det reduserte beløpet for varen/tjenesten.
+
+Med omsetningsverdi i sluttbrukermarkedet menes den prisen på samme vare eller tjeneste som er allment tilgjengelig for alminnelige forbrukere, uten tilknytning til spesielle bransjer eller arbeidsgivere på kjøps- og betalingstidspunktet. Det innebærer for eksempel at en flyreise skal verdsettes til hva det ville kostet å betale for tilsvarende flyreise, dvs. samme tidspunkt, strekning, standard, tilleggstjenester mv. uten bonuspoeng/rabatt. Tilsvarende skal hotellopphold verdsettes til prisen på et tilsvarende hotellrom på det samme reisetidspunktet uten bruk av bonuspoeng/rabatt e.l. Grunnlaget for beregning av fordelen skal altså være det samme, uavhengig av i hvilket omsetningsledd i verdikjeden den ansatte arbeider.
+
+Arbeidsgiver har rett, men ikke noen plikt, til å identifisere lavest mulig omsetningsverdi. Detaljister står altså fritt til å legge sin ordinære pris til grunn, uavhengig av om de selv opererer med tilbud eller at konkurrenter selger like produkter/tjenester til lavere pris. For ikke-detaljister kan tilgjengelige listepriser brukes. Dersom det er ønskelig, kan arbeidsgiver ta hensyn til rabatter og tilbudspriser som er allment tilgjengelige på kjøps-/ bestillingstidspunktet. Dette innebærer at slike rabatter kan redusere omsetningsverdien som legges til grunn ved beregningen av den skattepliktige fordelen. Dette gjelder også ved vurdering av om beløpsgrensen for skattefrie personalrabatter er nådd. For varer og tjenester som ikke har en kjent utsalgspris, må arbeidsgiver vurdere konkret hva varen ville vært solgt for i det åpne markedet basert på det mest sannsynlige faktum. Skjønnet må bygge på de holdepunkter som finnes og må fastsettes på en forsvarlig måte. Relevante momenter i vurderingen av hva omsetningsverdien er, kan for eksempel være prisen på sammenlignbare varer, hvilke kalkyler det er vanlig at benyttes i markedet osv.
+
+Varer som har feil og mangler (ukurans) eller varer som er litt brukt, slik som for eksempel demonstrasjonsbiler, må verdsettes skjønnsmessig.
+
+#### Dokumentasjon av omsetningsverdien
+
+For virksomheter som selger varer og tjenester i sluttbrukermarkedet, vil det normalt være enkelt å dokumentere gjeldende omsetningsverdi (salgspris). Det kreves ikke særskilt dokumentasjon dersom arbeidsgiver velger å legge til grunn sine ordinære priser (kasseprisen/ veiledende pris).
+
+Dersom det skal legges til grunn en lavere verdi enn prisen i egen virksomhet, kan denne prisen for eksempel dokumenteres med et bilde av en annonse, prisliste eller lignende som viser pris på samme produkt på tidspunktet varen ble kjøpt og betalt. Det er ikke tilstrekkelig som dokumentasjon at arbeidsgiver kun foretar en generell anførsel i lønnssystem/kassesystem om at omsetningsverdien alltid vil legges til grunn ved beregningen.
+
+Når varen eller tjenesten unntaksvis ikke omsettes i sluttbrukermarkedet, må prisen fastsettes på en forsvarlig måte, jf. over, og arbeidsgiver må kunne dokumentere hvordan prisen er fastsatt. [Se spørsmål og svar (Q.&A)](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/sporsmal-og-svar---naturalytelser/).
+
+### 3. Skattefritaket for personalrabatter
+
+Rabatter arbeidstaker mottar fra arbeidsgiver eller fra arbeidsgivers kunder eller leverandører, regnes som personalrabatter og er skattefrie forutsatt at begge vilkårene nedenfor er oppfylt:
+
+- Varen/tjenesten omsettes i arbeidsgivers virksomhet (inkludert konsernselskap)
+- Samlede rabatter til den enkelte ansatte ikke overstiger 8 000 kroner per år per arbeidsgiver
+
+Det er ingen øvre grense for rabattsatsen arbeidsgiver kan tilby sine ansatte. Det vil si at varen eller tjenesten kan gis gratis (100 % rabatt). Den delen av samlet personalrabatt som overstiger 8 000 kroner per år, er skattepliktig og rapporteringspliktig.
+
+Det er et vilkår for skattefri personalrabatt at varen eller tjenesten omsettes i arbeidsgivers virksomhet. Dette vilkåret må ses i sammenheng med begrunnelsen for å videreføre skattefritaket, der det særlig ble lagt vekt på profileringshensynet og arbeidsgivers behov for at arbeidstakerne har kunnskap om varene eller tjenestene de selger. Rabatten må gjelde samme vare eller tjeneste når det skal vurderes om den omsettes hos arbeidsgiver.
+
+Et eksempel er hvis en klesforretning kun selger klær fra merke A. Arbeidsgivers leverandør har også klær fra merke B og lar de ansatte i klesforretningen få kjøpe klær fra merke B med rabatt. Rabatt hos leverandøren for klær som ikke selges i klesforretningen, omfattes ikke av reglene om personalrabatt og er derfor skattepliktig i sin helhet.
+
+Av nøytralitetshensyn omfattes også varer og tjenester som omsettes i et annet selskap i samme konsern. Rabatter som gis ansatte innen samme konsern, kan derfor også behandles etter reglene for skattefrie personalrabatter. Det samme gjelder rabatter hos kunder eller leverandører til selskap i samme konsern, forutsatt at varen eller tjenesten omsettes i minst ett av disse konsernselskapenes virksomhet.
+
+#### Særlig om ansatte i transportselskap som får fribilletter til persontransporttjenester
+
+Ansatte i transportselskap har tidligere ikke blitt skattlagt for billige eller gratis privatreiser med arbeidsgivers egne transportmidler. Det var tidligere ingen øvre beløpsgrense for verdien den ansatte kunne motta uten å bli skattlagt. De nye reglene innebærer at samlede rabatter som kan mottas skattefritt er 8 000 kroner per år, når rabatten anses som en personalrabatt. De generelle reglene for verdsettelse gjelder også i transportsektoren, dvs. omsetningsverdi i sluttbrukermarkedet.
+
+Personalrabattreglene gjelder for varer og tjenester som omsettes i arbeidsgivers virksomhet. I transportnæringen vil dette gjelde de selskapene som omsetter persontransporttjenester som en del av sin virksomhet. Det vil derimot ikke gjelde eksempelvis underleverandører til selskaper som omsetter persontransporttjenester. Eksempelvis kan selskap som utfører vedlikehold av busser/tog, legging av togskinner, utleie av tog mv. ikke gi skattefrie personalrabatter på persontransporttjenester, med mindre selskapet inngår i samme konsern som det selskapet som omsetter den aktuelle reisetjenesten. Rabatter på fribilletter på persontransport som gis til ansatte i slike selskaper, skal behandles som fordel oppnådd gjennom tredjepart.
+
+For mange arbeidstakere i transportnæringen kan eksisterende fribilletter, som f.eks. årskort, ha en svært høy omsetningsverdi. I de tilfeller hvor denne omsetningsverdien er mye høyere enn den verdien som de ansatte antas å ta ut i gjennomførte privatreiser, kan arbeidsgiver og ansatte ønske å tilpasse billettordningene som gis de ansatte bedre til det private behovet.
+
+For å legge til rette for en slik omlegging er iverksettelsen av de nye reglene for fribilletter på persontransport utsatt til 1. juli 2019. Det betyr at rabatter på frikort/billetter som kan benyttes til persontransporttjenester til og med 30. juni 2019, ikke skal anses som en skattepliktig fordel. Rabatt på persontransporttjenester som kan benyttes fra og med 1. juli 2019 skal behandles i samsvar med de nye reglene for personalrabatter. Dette innebærer blant annet at billettene må verdsettes til omsetningsverdi, med utgangspunkt i ordinære billetter som tilbys til personlige kunder/reisende.
+
+#### Særlig om gaver
+
+Arbeidsgiver kan, når visse vilkår er oppfylt, gi skattefrie gaver med verdi inntil 2 000 kroner årlig til hver ansatt. Når reglene om personalrabatt og reglene om skattefri gave kombineres, innebærer dette at arbeidsgiver kan gi verdier for inntil kr 10 000 per ansatt. Forskjellen mellom reglene om personalrabatt og gaveregelen er at det for sistnevnte er et krav om at gaven ytes som en generell ordning i bedriften, men det er på den annen side ikke noe vilkår om at varen eller tjenesten som ytes må omsettes i arbeidsgivers virksomhet.
+
+Det er i denne sammenheng viktig å merke seg at 2 000 kroners-grensen gjelder for alle gaver som arbeidsgiver gir til sine ansatte, bortsett fra jubileumsgaver osv., som har egne skattefrie beløp. Dette innebærer at verdien av for eksempel en julegave eller andre gaver som arbeidsgiver gir som en generell ordning i bedriften inngår i 2 000 kroners-grensen. Mindre oppmerksomhetsgaver som for eksempel blomster, konfekt, (rimelig) vinflaske mv. som gis ved spesielle anledninger, som f.eks. når en ansatt får barn, ved sykdom osv. skattlegges dog ikke når gaven er av bagatellmessig verdi. [Se spørsmål og svar (Q.&A)](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/sporsmal-og-svar---naturalytelser/).
+
+[1] For rabatter er det p.t. kun fastsatt sjablong for rimelige lån i arbeidsforhold.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/veileder-til-de-nye-reglene-om-rapportering-og-skattlegging-av-naturalytelser-6.-mai-2019/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-04** Første gang hentet
