@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2713e62ddf67a1e23e27926bceba3c381b8f9a4f8dfe195492ab352f6ed501c1 -->
+<!-- innholds-hash: 6aeef7886686ab001601f1e2e8db7c535d6efde4956fad87fc647eff2c64f6a9 -->
 
 # Grunnlovsforslag fra Audun Lysbakken og Ingrid Fiskaa om endringer i §§ 25 og 26 (om krav om Stortingets samtykke for bruk av norske styrker i utlandet og om konsultasjoner mellom Stortinget og regjeringen i viktige utenriks- og forsvarssaker)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 100011
 - **Type:** 2
 - **Korttittel:** Grunnlovsforslag om endringer i §§ 25 og 26 (om krav om Stortingets samtykke for bruk av norske styrker i utlandet og om konsultasjoner mellom Stortinget og regjeringen i viktige utenriks- og forsvarssaker)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 12:12 (2023-2024), Innst. 468 S (2025-2026)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100011
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 5,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -98,7 +98,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Grunnlovsforslag fra Audun Lysbakken og Ingrid Fiskaa om endringer i §§ 25 og 26 (om krav om Stortingets samtykke for bruk av norske styrker i utlandet og om konsultasjoner mellom Stortinget og regjeringen i viktige utenriks- og forsvarssaker)",
   "type": 2
 }
@@ -109,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

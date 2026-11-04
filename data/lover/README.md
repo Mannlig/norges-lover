@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1922
+**Antall dokumenter:** 1923
 
 ## Innhold
 
@@ -1870,7 +1870,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Redegjørelse av barne- og familieministeren om status, gjennomførte tiltak og videre oppfølging av det som er avdekket om kriminelle aktører i barnevernet](2025-2029/200432-redegjorelse-av-barne-og-familieministeren-om-status-gjennomforte-tiltak-og-videre-oppfolging-av-det.md)
 - [Statsbudsjettet 2027](2025-2029/200434-statsbudsjettet-2027.md)
 - [Skatte- og avgiftsinntekter 2027](2025-2029/200435-skatte-og-avgiftsinntekter-2027.md)
-- [Statsbudsjett 2027](2025-2029/200436-statsbudsjett-2027.md)
+- [Statsbudsjett 2027 - Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland](2025-2029/200436-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200437-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200438-statsbudsjett-2027.md)
 - [Statsbudsjett 2027](2025-2029/200439-statsbudsjett-2027.md)
@@ -1928,6 +1928,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Samtykke til inngåelse av avtale med Kommisjonen om tilknytning til EUs avtale om felles anskaffelse av den felles sentrale plattformen for CBAM](2025-2029/200493-samtykke-til-inngaelse-av-avtale-med-kommisjonen-om-tilknytning-til-eus-avtale-om-felles-anskaffelse.md)
 - [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre](2025-2029/200494-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-geir-pollestad-lars-haltbre.md)
 - [Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre](2025-2029/200495-representantforslag-fra-stortingsrepresentantene-marie-sneve-martinussen-geir-pollestad-lars-haltbre.md)
+- [Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov](2025-2029/200496-representantforslag-fra-stortingsrepresentantene-bent-joacim-bentzen-erling-sande-og-bjorn-arild-gra.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

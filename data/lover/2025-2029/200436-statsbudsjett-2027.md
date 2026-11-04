@@ -1,6 +1,6 @@
-<!-- innholds-hash: 2bd00ae7668f3c4a1d53d89e1efc69bfb0316ba024310f74170efe67e2fd2f88 -->
+<!-- innholds-hash: 9505403b2591e5fcb351073cdfde494caa713745f94546194343202cded6411d -->
 
-# Statsbudsjett 2027
+# Statsbudsjett 2027 - Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland
 
 ## Metadata
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200436
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -60,7 +60,7 @@
   ],
   "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
   "status": 2,
-  "tittel": "Statsbudsjett 2027",
+  "tittel": "Statsbudsjett 2027 - Tilfeldige utgifter og inntekter, finansadministrasjon, utbytte, 90-poster, Statens pensjonsfond utland",
   "type": 1
 }
 ```
@@ -72,3 +72,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

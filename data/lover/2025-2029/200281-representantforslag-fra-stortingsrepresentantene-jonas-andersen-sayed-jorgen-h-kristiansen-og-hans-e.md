@@ -1,4 +1,4 @@
-<!-- innholds-hash: b9c278fda09923a831b68e07a03cc887059594c6cacef1d3c3beb95ac79650ad -->
+<!-- innholds-hash: 342974e32441984eca8aa992be1bea34895af83768b194b51052f073709d6087 -->
 
 # Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Jørgen H. Kristiansen og Hans Edvard Askjer om obligatorisk beredskapskurs for alle i vernepliktig alder som ikke gjennomfører førstegangstjenesten
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om obligatorisk beredskapskurs for alle i vernepliktig alder som ikke gjennomfører førstegangstjenesten
 - **Status:** 2
-- **Henvisning:** Dokument 8:277 S (2025-2026)
+- **Henvisning:** Dokument 8:277 S (2025-2026), Innst. 23 S (2026-2027)
 - **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200281
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:277 S (2025-2026)",
+  "henvisning": "Dokument 8:277 S (2025-2026), Innst. 23 S (2026-2027)",
   "id": 200281,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17581,
+  "innstilling_kode": 1,
   "komite": {
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1776204000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Jørgen H. Kristiansen og Hans Edvard Askjer om obligatorisk beredskapskurs for alle i vernepliktig alder som ikke gjennomfører førstegangstjenesten",
   "type": 2
@@ -128,3 +128,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

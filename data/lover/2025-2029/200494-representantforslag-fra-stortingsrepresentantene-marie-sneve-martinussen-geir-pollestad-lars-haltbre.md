@@ -1,4 +1,4 @@
-<!-- innholds-hash: ee495ee8f8814bcd87b8cc226621805b38d8cf300f333dcbb7bfec77bb600db5 -->
+<!-- innholds-hash: 25b48b4b8f2a2e3392b5b46ee24a7fa331ecda74771d347aa644f3786ee55e17 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200494
 - **Type:** 3
 - **Korttittel:** Representantforslag om midlertidig stans av økt strømforbruk til datasentre
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:34 LS (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T12:55:12Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200494
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,35 @@
   "id": 200494,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om midlertidig stans av økt strømforbruk til datasentre",
   "sak_fremmet_id": 200494,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Stokkebø",
+      "foedselsdato": "/Date(783730800000+0100)/",
+      "fornavn": "Aleksander",
+      "id": "ALES",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
-  "status": 3,
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
   "type": 3
 }
@@ -143,3 +166,4 @@
 ## Endringshistorikk
 
 - **2026-11-03** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

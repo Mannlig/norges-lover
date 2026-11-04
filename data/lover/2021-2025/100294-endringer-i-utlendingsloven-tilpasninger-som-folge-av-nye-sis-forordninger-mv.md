@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4f7b3a75e7da27db1f3f967cf5d636d6664f4f03ad4f3f4bddce6afd9601fd81 -->
+<!-- innholds-hash: dfc392d10b680eb7416b2d7c4ab601bf99285f8342797ee9a32b3bc3cbda2136 -->
 
 # Endringer i utlendingsloven (tilpasninger som følge av nye SIS-forordninger mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 32 L (2024-2025), Innst. 162 L (2024-2025), Lovvedtak 38 (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** Innvandrere, Eu/eøs
+- **Emner:** Innvandrere, Politi og påtalemyndighet, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:53Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100294
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 18,
       "id": 18,
       "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
       "underemne_liste": []
     },
     {
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

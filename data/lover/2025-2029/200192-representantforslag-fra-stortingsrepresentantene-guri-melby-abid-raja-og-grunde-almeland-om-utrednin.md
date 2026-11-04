@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8e34f5d6d01317344343c088711098088300b46817893c13e4f397ed7cc6f160 -->
+<!-- innholds-hash: 3db57b6ded9889ea79daa15585ae8cae9c8ad51c145378d7c18d80c4a44d6305 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om utredning av selvbestemt livsavslutning
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om utredning av selvbestemt livsavslutning
 - **Status:** 2
-- **Henvisning:** Dokument 8:264 S (2025-2026)
+- **Henvisning:** Dokument 8:264 S (2025-2026), Innst. 21 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200192
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -66,10 +66,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:264 S (2025-2026)",
+  "henvisning": "Dokument 8:264 S (2025-2026), Innst. 21 S (2026-2027)",
   "id": 200192,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17578,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -97,7 +97,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1775685600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om utredning av selvbestemt livsavslutning",
   "type": 2
@@ -109,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ec104e34e21e704217d80886a4d29b8201f9cc1346bcaf061e2fbd95ec0ded3c -->
+<!-- innholds-hash: 03367d57289a53fff6bb84ed599414ce2d97e0514a713d5b493339d9f7084e2a -->
 
 # Representantforslag fra stortingsrepresentantene Lars Haltbrekken, Kirsti Bergstø, Marthe Hammer, Anne Lise Gjerstad Fredlund, Sunniva Holmås Eidsvoll, Mirell Høyer-Berntsen, Ingrid Fiskaa, Audun Hammer Hovda og Marian Hussein om konsesjonssystem for etablering av datasentre
 
@@ -14,7 +14,7 @@
 - **Emner:** Næringsutvikling, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200427
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -227,19 +227,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Grøthe",
-      "foedselsdato": "/Date(995061600000+0200)/",
-      "fornavn": "Maren",
-      "id": "MARGRT",
-      "kjoenn": 1,
+      "etternavn": "Stokkebø",
+      "foedselsdato": "/Date(783730800000+0100)/",
+      "fornavn": "Aleksander",
+      "id": "ALES",
+      "kjoenn": 2,
       "fylke": {
         "historisk_fylke": false,
-        "id": "ST",
-        "navn": "Sør-Trøndelag"
+        "id": "Ro",
+        "navn": "Rogaland"
       },
       "parti": {
-        "id": "Sp",
-        "navn": "Senterpartiet",
+        "id": "H",
+        "navn": "Høyre",
         "representert_parti": true
       },
       "vara_representant": false
@@ -260,3 +260,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

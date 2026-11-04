@@ -1,4 +1,4 @@
-<!-- innholds-hash: 183d8960335fd3a970d7f170c2ff763e1a0c676f59123e9b05713adddd5fbb9a -->
+<!-- innholds-hash: 03edc58cfcfb4bb711063ed88ea0ce0fc10c251ba7eda9abf2ba3436bf2e8780 -->
 
 # Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper
 
@@ -14,7 +14,7 @@
 - **Emner:** Skatter, Olje og gass
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200430
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -113,19 +113,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Jonsterhaug",
-      "foedselsdato": "/Date(965772000000+0200)/",
-      "fornavn": "Martin Virkesdal",
-      "id": "MARJON",
-      "kjoenn": 2,
+      "etternavn": "Moflag",
+      "foedselsdato": "/Date(290473200000+0100)/",
+      "fornavn": "Tuva",
+      "id": "TUMO",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
-        "id": "Ho",
-        "navn": "Hordaland"
+        "id": "Ak",
+        "navn": "Akershus"
       },
       "parti": {
-        "id": "FrP",
-        "navn": "Fremskrittspartiet",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
         "representert_parti": true
       },
       "vara_representant": false
@@ -146,3 +146,4 @@
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-20** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

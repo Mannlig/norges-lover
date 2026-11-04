@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7925c08ea0abfc8942510f6bfb0443432d5a05f856b479444b2e31b2184bce11 -->
+<!-- innholds-hash: b31ff37cb2cd5e61a407a095572b38ca8a7480610dd8639f371de7dda87a3c38 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200486
 - **Type:** 2
 - **Korttittel:** Representantforslag om en nasjonal miljøfleksibilitetsordning
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:31 S (2026–2027)
-- **Komité:** 
+- **Komité:** Næringskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200486
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -146,12 +146,35 @@
   "id": 200486,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
   "korttittel": "Representantforslag om en nasjonal miljøfleksibilitetsordning",
   "sak_fremmet_id": 200486,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bastholm",
+      "foedselsdato": "/Date(506041200000+0100)/",
+      "fornavn": "Une",
+      "id": "UAB",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning",
   "type": 2
 }
@@ -162,3 +185,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

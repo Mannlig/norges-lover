@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0fd2745439b53e8671cc3c20dbdf6db6e90132d8cf0c8dda001360546577febc -->
+<!-- innholds-hash: e30f4d9bf3dd275e5bd6a2caa8a483690976b4e37eb289d5fbb2a8bb445b862c -->
 
 # Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare
 - **Status:** 2
-- **Henvisning:** Dokument 8:276 S (2025-2026)
+- **Henvisning:** Dokument 8:276 S (2025-2026), Innst. 24 S (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200282
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:276 S (2025-2026)",
+  "henvisning": "Dokument 8:276 S (2025-2026), Innst. 24 S (2026-2027)",
   "id": 200282,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17580,
+  "innstilling_kode": 1,
   "komite": {
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1776204000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
   "type": 2
@@ -128,3 +128,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

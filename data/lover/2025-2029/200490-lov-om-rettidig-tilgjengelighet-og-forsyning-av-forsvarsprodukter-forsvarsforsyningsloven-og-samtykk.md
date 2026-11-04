@@ -1,4 +1,4 @@
-<!-- innholds-hash: d67668618950ef4d832242485a542691b3a4d81ccdb06fa805562e72f795d633 -->
+<!-- innholds-hash: c06a9a128878155f2ee6558b1ff159052bad16f365d2cfadb7d0020bcbfe280d -->
 
 # Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200490
 - **Type:** 2
 - **Korttittel:** Samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyni
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 6 LS (2026–2027)
-- **Komité:** 
+- **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-30T18:11:23Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200490
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200490,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "UFK",
+    "navn": "Utenriks- og forsvarskomiteen"
+  },
   "korttittel": "Samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyni",
   "sak_fremmet_id": 200490,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793357100000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) og samtykke til godkjenning av EØS-komiteens beslutning nr. 229/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2025/2643 om opprettelse av programmet for europeisk forsvarsindustri og en tiltaksramme for å sikre rettidig tilgjengelighet og forsyning av forsvarsprodukter («EDIP-forordningen»)",
   "type": 2
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-30** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

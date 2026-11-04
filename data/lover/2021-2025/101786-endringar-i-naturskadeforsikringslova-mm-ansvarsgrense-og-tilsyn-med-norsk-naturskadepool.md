@@ -1,4 +1,4 @@
-<!-- innholds-hash: 56f8388f619dca9a3a8ce368986b1b23b37ae3392d2cf9049d46759363499534 -->
+<!-- innholds-hash: 1d9dbfd604193f49972ec54989e6b43425a09011a55873436a837e11bc882974 -->
 
 # Endringar i naturskadeforsikringslova m.m. (ansvarsgrense og tilsyn med Norsk naturskadepool)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 53 L (2024-2025), Innst. 323 L (2024-2025), Lovvedtak 70 (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** Forsikring, Naturskader
+- **Emner:** Rettsvesen, Forsikring, Naturskader
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:53Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101786
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
   "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

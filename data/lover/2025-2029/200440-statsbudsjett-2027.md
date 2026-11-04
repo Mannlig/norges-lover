@@ -1,4 +1,4 @@
-<!-- innholds-hash: ae1fb56cdf4244cbe0c3542ef65410d59dd974fc6b8ed1ecac0ddd7b1e207fa1 -->
+<!-- innholds-hash: 7ac662c7e4879bfcc0c45abcf8a4a05310862235068714033634f4ff969d0bfe -->
 
 # Statsbudsjett 2027
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200440
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Statsbudsjettet 2027 (kapitler fordelt til energi- og miljøkomiteen)",
   "sak_fremmet_id": 200440,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Hussaini",
+      "foedselsdato": "/Date(562111200000+0200)/",
+      "fornavn": "Mani",
+      "id": "MHU",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
@@ -51,3 +71,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

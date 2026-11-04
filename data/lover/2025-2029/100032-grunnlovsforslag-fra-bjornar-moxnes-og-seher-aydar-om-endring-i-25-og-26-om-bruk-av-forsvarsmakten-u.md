@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3168ce0c0c9a96d1b4992bb0bda9ce852f09095b16ff42850676ab7edb98f2af -->
+<!-- innholds-hash: de893ca047a761955edfcabcf65d0484258781e12f0deaa3fee2cf9b77b69643 -->
 
 # Grunnlovsforslag fra Bjørnar Moxnes og Seher Aydar om endring i §§ 25 og 26 (om bruk av forsvarsmakten utenfor rikets grenser og regjeringens plikt til å konsultere Stortinget)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 100032
 - **Type:** 2
 - **Korttittel:** Grunnlovsforslag om endring i §§ 25 og 26 (om bruk av forsvarsmakten utenfor rikets grenser og regjeringens plikt til å konsultere Stortinget)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 12:33 (2023-2024), Innst. 468 S (2025-2026)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100032
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 5,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -98,7 +98,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Grunnlovsforslag fra Bjørnar Moxnes og Seher Aydar om endring i §§ 25 og 26 (om bruk av forsvarsmakten utenfor rikets grenser og regjeringens plikt til å konsultere Stortinget)",
   "type": 2
 }
@@ -109,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

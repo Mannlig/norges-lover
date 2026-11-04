@@ -1,4 +1,4 @@
-<!-- innholds-hash: ec0007535f3051258d477148f3d32987d2a3e643de7207fd7cb2e1afe2a9f334 -->
+<!-- innholds-hash: 31eaad69dc3b4d60144a4d1eea9d129a37b15054710565aa7b96bebed92e14ee -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om at Norge må ta sin del av ansvaret for et fritt Palestina
 - **Status:** 2
-- **Henvisning:** Dokument 8:293 S (2025-2026)
+- **Henvisning:** Dokument 8:293 S (2025-2026), Innst. 27 S (2026-2027)
 - **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200322
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:293 S (2025-2026)",
+  "henvisning": "Dokument 8:293 S (2025-2026), Innst. 27 S (2026-2027)",
   "id": 200322,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17583,
+  "innstilling_kode": 1,
   "komite": {
     "id": "UFK",
     "navn": "Utenriks- og forsvarskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779314400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina",
   "type": 2
@@ -139,3 +139,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

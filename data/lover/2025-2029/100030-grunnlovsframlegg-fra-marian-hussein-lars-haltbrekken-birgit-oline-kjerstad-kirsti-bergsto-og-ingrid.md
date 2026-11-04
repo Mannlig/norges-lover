@@ -1,4 +1,4 @@
-<!-- innholds-hash: beeffe51f801bdcc9dc9e47398525edf8450f4266cee2958e7821c533a5ea2c1 -->
+<!-- innholds-hash: cfb6bc2bc62c8eb7c6d79c8fe2e53dc31c9c6843c1408e2b5fb869b29015c032 -->
 
 # Grunnlovsframlegg frå Marian Hussein, Lars Haltbrekken, Birgit Oline Kjerstad, Kirsti Bergstø og Ingrid Fiskaa om endring i § 25 (om forbod mot atomvåpen på norsk jord)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 100030
 - **Type:** 2
 - **Korttittel:** Grunnlovsframlegg om endring i § 25 (om forbod mot atomvåpen på norsk jord)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 12:31 (2023-2024), Innst. 466 S (2025-2026)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100030
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 5,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -155,7 +155,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Grunnlovsframlegg frå Marian Hussein, Lars Haltbrekken, Birgit Oline Kjerstad, Kirsti Bergstø og Ingrid Fiskaa om endring i § 25 (om forbod mot atomvåpen på norsk jord)",
   "type": 2
 }
@@ -166,3 +166,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

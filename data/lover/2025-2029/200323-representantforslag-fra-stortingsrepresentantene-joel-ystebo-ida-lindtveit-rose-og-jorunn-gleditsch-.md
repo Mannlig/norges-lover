@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0b86f9b7b271adc2450a2d6b7fe7ed8ddd881fe899e9931d43e4cfc26f456ae1 -->
+<!-- innholds-hash: 4625d187098ce9ae96fca54951ebe82a3e21c5c2b91305ae2db4ca10dfd3d58b -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om en handlingsplan for å redusere antall aborter
 - **Status:** 2
-- **Henvisning:** Dokument 8:294 S (2025-2026)
+- **Henvisning:** Dokument 8:294 S (2025-2026), Innst. 28 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200323
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:294 S (2025-2026)",
+  "henvisning": "Dokument 8:294 S (2025-2026), Innst. 28 S (2026-2027)",
   "id": 200323,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17584,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779314400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Ida Lindtveit Røse og Jorunn Gleditsch Lossius om en handlingsplan for å redusere antall aborter",
   "type": 2
@@ -138,3 +138,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c8cc642b705ace044e5eae13ddbdb5c5b18c15f08d0944f2b6de850536d208a0 -->
+<!-- innholds-hash: 8a9ee5defa1da00132cfe21894fc9732837ff5b3b2f45d796ab251286bfc03ff -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering
 
@@ -14,7 +14,7 @@
 - **Emner:** Energi, Riksrevisjonen, Næringsliv, Bygningsvesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200474
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -66,7 +66,27 @@
   },
   "korttittel": "Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering",
   "sak_fremmet_id": 200474,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Haltbrekken",
+      "foedselsdato": "/Date(37321200000+0100)/",
+      "fornavn": "Lars",
+      "id": "LAHA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "ST",
+        "navn": "Sør-Trøndelag"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering",
@@ -81,3 +101,4 @@
 - **2026-10-20** Første gang hentet
 - **2026-10-20** Innhold endret (se git-historikk for diff)
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

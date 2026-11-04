@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7ee1d6679ee60a9b1c6810f959a82e3c8ed67f515d3b403893a371608c10b0e0 -->
+<!-- innholds-hash: ad38be7acf9db68bb14a034972ff32b056aef5c12851a199b263babdfbc66ead -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe og Siv Mossleth om å greie ut alternativ til helseføretaksmodellen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:128 S (2024-2025), Innst. 311 S (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Helsevesen
+- **Emner:** Helsevesen, Sykehus
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:53Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102367
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 61,
       "id": 61,
       "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 63,
+      "navn": "Sykehus",
       "underemne_liste": []
     }
   ],
@@ -117,3 +124,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

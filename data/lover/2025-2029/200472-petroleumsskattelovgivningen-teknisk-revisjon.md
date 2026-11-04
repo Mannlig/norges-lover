@@ -1,4 +1,4 @@
-<!-- innholds-hash: b71803c200cae65c7c7abd4a5796ac43671b0d89e02ba246b01c270a1333e601 -->
+<!-- innholds-hash: 3cf6c05475790a7323fc25fd5770aae733ceac801c8f4dfe48c44e7043f6e479 -->
 
 # Petroleumsskattelovgivningen – teknisk revisjon
 
@@ -14,7 +14,7 @@
 - **Emner:** Skatter, Olje og gass
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-20T17:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200472
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -55,19 +55,19 @@
   "saksordfoerer_liste": [
     {
       "doedsdato": null,
-      "etternavn": "Staahle",
-      "foedselsdato": "/Date(94518000000+0100)/",
-      "fornavn": "Tom",
-      "id": "TSTA",
-      "kjoenn": 2,
+      "etternavn": "Moflag",
+      "foedselsdato": "/Date(290473200000+0100)/",
+      "fornavn": "Tuva",
+      "id": "TUMO",
+      "kjoenn": 1,
       "fylke": {
         "historisk_fylke": false,
         "id": "Ak",
         "navn": "Akershus"
       },
       "parti": {
-        "id": "FrP",
-        "navn": "Fremskrittspartiet",
+        "id": "A",
+        "navn": "Arbeiderpartiet",
         "representert_parti": true
       },
       "vara_representant": false
@@ -87,3 +87,4 @@
 - **2026-10-16** Første gang hentet
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-20** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

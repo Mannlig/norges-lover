@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1c5681ef174b1a9f2675e9b3700d6d007d583de29d76ff4980d69762d9d10f6f -->
+<!-- innholds-hash: df4c7509d625128ab45c9a10d71d6b76b27a5d620e253ee2f828590fb946b584 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak
 
@@ -14,7 +14,7 @@
 - **Emner:** Innvandrere, Kommunenes økonomi, Lokalforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200455
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -155,7 +155,27 @@
   },
   "korttittel": "Representantforslag om å gi kommunene reell vetorett ved etablering av asylmottak",
   "sak_fremmet_id": 200455,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Nielsen",
+      "foedselsdato": "/Date(143503200000+0200)/",
+      "fornavn": "Monica",
+      "id": "MONNIE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Fi",
+        "navn": "Finnmark"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak",
@@ -170,3 +190,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

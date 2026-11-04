@@ -1,4 +1,4 @@
-<!-- innholds-hash: b7d2a501011460ef6f245daff4172ce13560f9d03917c3e62975f8163e8a56ac -->
+<!-- innholds-hash: efdeb4ab2de8e54298b08c96655375ca9ae3c3c261be51b2ae72506f709e9875 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om egenbetaling for tolketjenester etter tre års opphold i Norge
 - **Status:** 2
-- **Henvisning:** Dokument 8:281 S (2025-2026)
+- **Henvisning:** Dokument 8:281 S (2025-2026), Innst. 25 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -123,10 +123,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:281 S (2025-2026)",
+  "henvisning": "Dokument 8:281 S (2025-2026), Innst. 25 S (2026-2027)",
   "id": 200293,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17582,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -154,7 +154,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777327200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge",
   "type": 2
@@ -184,3 +184,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

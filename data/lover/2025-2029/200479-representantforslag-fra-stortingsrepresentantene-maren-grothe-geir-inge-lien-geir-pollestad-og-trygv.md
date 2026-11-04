@@ -1,4 +1,4 @@
-<!-- innholds-hash: 478c5c32e7b84691550a9de1a9f874acf9e85a0ff2ddfe320003b99a48d4ac37 -->
+<!-- innholds-hash: a8c576d8313d4ff7c6b2e7b7264a97c54f9c7481adbaa455b576a705417c25f1 -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200479
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
   "sak_fremmet_id": 200479,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fiskaa",
+      "foedselsdato": "/Date(229989600000+0200)/",
+      "fornavn": "Ingrid",
+      "id": "INF",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
@@ -128,3 +148,4 @@
 
 - **2026-10-21** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

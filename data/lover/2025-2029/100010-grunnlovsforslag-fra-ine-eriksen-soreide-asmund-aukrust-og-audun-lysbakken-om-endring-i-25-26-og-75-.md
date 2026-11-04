@@ -1,4 +1,4 @@
-<!-- innholds-hash: c9204db85ca40d7eef502ecc5c7817ba63820a74d89a98094b4dbc1af67d094c -->
+<!-- innholds-hash: 73b0a61efd23d416678f3655b0b3111db62f50a555fc6b38e6ee699ce00f6ca5 -->
 
 # Grunnlovsforslag fra Ine Eriksen Søreide, Åsmund Aukrust og Audun Lysbakken om endring i §§ 25, 26 og 75 bokstav g (om forsvarsmakten og utenriksstyret)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 100010
 - **Type:** 2
 - **Korttittel:** Grunnlovsforslag om endring i §§ 25, 26 og 75 bokstav g (om forsvarsmakten og utenriksstyret)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 12:11 (2023-2024), Innst. 468 S (2025-2026)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100010
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 5,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -117,7 +117,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Grunnlovsforslag fra Ine Eriksen Søreide, Åsmund Aukrust og Audun Lysbakken om endring i §§ 25, 26 og 75 bokstav g (om forsvarsmakten og utenriksstyret)",
   "type": 2
 }
@@ -128,3 +128,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

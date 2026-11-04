@@ -1,4 +1,4 @@
-<!-- innholds-hash: 96b637c2f72779ec49a00442da4ce9a17699cad588b1839f3cf70c1ffd84967e -->
+<!-- innholds-hash: 7bf09bee3bb54197d220ef9de6114a101ff2730b1028a6d48e648d2e7aeb7322 -->
 
 # Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)
 
@@ -9,12 +9,12 @@
 - **Type:** 3
 - **Korttittel:** Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)
 - **Status:** 2
-- **Henvisning:** Prop. 97 L (2025-2026)
+- **Henvisning:** Prop. 97 L (2025-2026), Innst. 29 L (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 97 L (2025-2026)",
+  "henvisning": "Prop. 97 L (2025-2026), Innst. 29 L (2026-2027)",
   "id": 200327,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17585,
+  "innstilling_kode": 2,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)",
   "type": 3
@@ -78,3 +78,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

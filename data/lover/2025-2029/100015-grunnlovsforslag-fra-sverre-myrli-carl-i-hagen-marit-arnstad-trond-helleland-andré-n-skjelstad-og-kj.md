@@ -1,4 +1,4 @@
-<!-- innholds-hash: ea175c430cd6eedabd67c3412752f4bb969ab7fd0bb76295ec8084059450bd90 -->
+<!-- innholds-hash: c988beffc68c8e26be71ef025d946152d5a17e0753b13eae6844ca13e99fe730 -->
 
 # Grunnlovsforslag fra Sverre Myrli, Carl I. Hagen, Marit Arnstad, Trond Helleland, André N. Skjelstad og Kjell Ingolf Ropstad om endring i § 41 (om at tronfølgerens førstefødte kan fungere som regent etter oppnådd myndighetsalder)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 100015
 - **Type:** 2
 - **Korttittel:** Grunnlovsforslag om endring i § 41 (om at tronfølgerens førstefødte kan fungere som regent etter oppnådd myndighetsalder)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 12:16 (2023-2024), Innst. 465 S (2025-2026)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100015
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 5,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -174,7 +174,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Grunnlovsforslag fra Sverre Myrli, Carl I. Hagen, Marit Arnstad, Trond Helleland, André N. Skjelstad og Kjell Ingolf Ropstad om endring i § 41 (om at tronfølgerens førstefødte kan fungere som regent etter oppnådd myndighetsalder)",
   "type": 2
 }
@@ -185,3 +185,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

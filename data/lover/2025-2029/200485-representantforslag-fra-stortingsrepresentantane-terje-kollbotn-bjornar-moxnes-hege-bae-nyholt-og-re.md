@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e56bc02fc0a4fae05836edd71666f2c70b20994324fae8a45befb128976aed9 -->
+<!-- innholds-hash: 962c4047798446aff898f10d2bbeb7df20a63a2ac0bc7e295c4be7a0dc58bb4a -->
 
 # Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200485
 - **Type:** 2
 - **Korttittel:** Representantforslag om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:30 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200485
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200485,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
   "sak_fremmet_id": 200485,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: a95a4e8373d5db2edf77122398f64ded01ab2be0f82415ca066ee9f1ebc168c4 -->
+<!-- innholds-hash: 7eafe38ab0ab7db279a05ec0d1ac42fb7a247c1f8ff519dd67b68af86d390513 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Geir Jørgensen og Bjørnar Moxnes om å gjenreise norsk jernbane
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200482
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gjenreise norsk jernbane
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:27 S (2026–2027)
-- **Komité:** 
+- **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200482
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,35 @@
   "id": 200482,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
+  },
   "korttittel": "Representantforslag om å gjenreise norsk jernbane",
   "sak_fremmet_id": 200482,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bye",
+      "foedselsdato": "/Date(1011654000000+0100)/",
+      "fornavn": "Margit",
+      "id": "MARBYE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Remi Sølvberg, Geir Jørgensen og Bjørnar Moxnes om å gjenreise norsk jernbane",
   "type": 2
 }
@@ -105,3 +128,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

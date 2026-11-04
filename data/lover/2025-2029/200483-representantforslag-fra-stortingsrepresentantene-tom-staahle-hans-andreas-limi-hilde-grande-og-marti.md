@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6ff19689d44d67ba86a0d7eab94767702e32e6075cf9f72a5cf39d397a65d7ef -->
+<!-- innholds-hash: 515894652a5441e4d59ace576b5845a136195d3e55b5e4ce9df1f406d5f23f68 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200483
 - **Type:** 2
 - **Korttittel:** Representantforslag om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:28 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200483
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200483,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon",
   "sak_fremmet_id": 200483,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)

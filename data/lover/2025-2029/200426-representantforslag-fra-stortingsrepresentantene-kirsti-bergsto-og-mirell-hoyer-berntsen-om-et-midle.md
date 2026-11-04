@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4e7f0571677096b2b36db01e1d49164e29541dfafca6f93b8d82da276c3a9760 -->
+<!-- innholds-hash: 7d2b35a24acc6963128909eb304a5a8135f17772a3f95979488f7815b7b78fd2 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre
 
@@ -14,7 +14,7 @@
 - **Emner:** Personvern, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200426
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -91,7 +91,27 @@
   },
   "korttittel": "Representantforslag om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
   "sak_fremmet_id": 200426,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sørensen",
+      "foedselsdato": "/Date(491263200000+0200)/",
+      "fornavn": "Malin Bye",
+      "id": "MALSRE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1792015200000+0200)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
@@ -106,3 +126,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-03** Innhold endret (se git-historikk for diff)

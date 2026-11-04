@@ -1,4 +1,4 @@
-<!-- innholds-hash: 56c9c7d2fb5dbca5daa6d67a50f23b794dec3cca9b12ca092afe1c46fec9b105 -->
+<!-- innholds-hash: 233d10bfb4836bd15200a476b67f7a9f19228d6e8ca96e4d1f1688d33f383a1c -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Nikolai Astrup og Henrik Asheim om forutsigbart fritak for merverdiavgift for elektroniske aviser 
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200484
 - **Type:** 2
 - **Korttittel:** Representantforslag om forutsigbart fritak for merverdiavgift for elektroniske aviser 
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:29 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200484
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200484,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om forutsigbart fritak for merverdiavgift for elektroniske aviser ",
   "sak_fremmet_id": 200484,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Nikolai Astrup og Henrik Asheim om forutsigbart fritak for merverdiavgift for elektroniske aviser ",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-03** Innhold endret (se git-historikk for diff)
