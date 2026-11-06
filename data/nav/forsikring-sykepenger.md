@@ -1,11 +1,11 @@
-<!-- innholds-hash: 127a39d920e9532fd4762556237885b848c2d87feaef134eace6063b23ac99c9 -->
+<!-- innholds-hash: fa89375c74156cc725590031d2f3107f5ac39c2721d91000a6a86ed7cd112388 -->
 
 # Forsikring – sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forsikring-sykepenger
-- **Sist oppdatert i arkivet:** 2026-10-14T08:17:32Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:37:08Z
 
 ## Innhold
 
@@ -135,7 +135,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 #### Klagerettigheter
@@ -271,3 +271,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

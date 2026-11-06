@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3131f258e3b5effbf87be7f50cacaf4b211db5f39d41940eba71e77a26e2989d -->
+<!-- innholds-hash: 4d2abc91e5f51a3e9eae38b558133a23cd5dc318a3806984393b2d04182b5a5f -->
 
 # Uføretrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/uforetrygd
-- **Sist oppdatert i arkivet:** 2026-10-14T08:30:48Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:47:03Z
 
 ## Innhold
 
@@ -625,9 +625,9 @@ Viser skatteoppgjøret at du har hatt en annen inntekt enn den vi brukte da vi b
 
 Etteroppgjøret har mange likheter med skatteoppgjøret:
 
-- Har du fått utbetalt for lite, får du en etterbetaling fra oss.
+- Har du fått utbetalt for lite, får du penger tilbake fra oss.
 - Har du fått utbetalt for mye, må du betale tilbake.
-- Har du fått utbetalt riktig beløp av uføretrygd, får du ikke etteroppgjør.
+- Har du fått utbetalt riktig beløp hører du ikke fra oss, og du trenger ikke å gjøre noe.
 
 Etteroppgjøret gjelder uføretrygd, barnetillegg og gjenlevendetillegg.
 
@@ -645,27 +645,26 @@ Har du gjeld som Skatteetaten krever inn, kan [pengene fra etterbetalingen](http
 
 Har du fått for mye utbetalt, må du betale tilbake. Du vil få et brev fra oss med informasjon om dette.
 
-Etter 4 uker får du en giro fra Skatteetaten med informasjon om hvordan du kan betale tilbake.
-
-- Fordi brevet sendes som en giro, vil mange få det rett i nettbanken sin. Da må du åpne giroen i nettbanken for å lese informasjon om innbetalingen.
-- Har du ikke takket ja til eFaktura i nettbanken din, får du brevet med betalingsinformasjon i Altinn.
-- Kan du ikke få digital post, får du brevet i posten.
+Etter ca. 4 uker får du et brev fra Skatteetaten med faktura og informasjon om hvordan du kan betale tilbake. Brevet sendes til din digitale postkasse eller i posten.
 
 Du kan ikke betale tilbake før du har fått dette brevet. Skatteetaten kan ikke svare deg på spørsmål om saken din før du har fått brevet fra dem.
 
-#### 1) Betal tilbake hele beløpet med en gang
+#### 1) Betal tilbake hele eller deler av beløpet med en gang
 
-Skatteetaten sender deg en faktura, slik at du kan betale tilbake hele beløpet med en gang.
+Når du får brevet fra Skatteetaten kan du betale tilbake hele eller deler av beløpet med en gang.
 
 #### 2) Trekk i støtte fra Nav
 
-Du kan la være å betale hele eller deler av beløpet, altså se bort fra giroen. Hvis du fortsatt får uføretrygd eller annen pengestøtte fra Nav, kan Skatteetaten automatisk trekke det du skylder fra denne støtten. Normalt trekker Skatteetaten 10 prosent av innvilget uføretrygd frem til hele beløpet er betalt tilbake. Har du allerede trekk fra forrige etteroppgjør, kan du nå få to trekk på 10 prosent.
+Hvis du ikke betaler hele eller deler av beløpet innen fristen, vil Skatteetaten sette opp et automatisk trekk i uføretrygden eller eventuell annen pengestøtte du får fra Nav. Trekket vil vare til du har betalt tilbake det du skylder. Skatteetaten kaller dette avregning.
 
-#### 3) Trekke mer eller mindre enn 10 prosent
+- Normalt trekker Skatteetaten 10 prosent av innvilget uføretrygd frem til hele beløpet er betalt tilbake.
+- Har du allerede trekk fra forrige etteroppgjør, kan du nå få to trekk på 10 prosent.
+- Hvis du synes trekket i stønad er for høyt eller lavt kan du kontakte Skatteetaten og be om at de endrer trekket.
+- Velger du å betale tilbake det du skylder ved avregning, vil det ikke føre til at du får betalingsanmerkning.
 
-Vil du betale ned raskere, kan du be Skatteetaten om å trekke mer enn 10 prosent. [Hos Skatteetaten finner du informasjon om tilbakebetaling og trekk av uføretrygden](https://www.skatteetaten.no/person/betaling-og-innkreving/tema/krav-fra-helfo-garantikassen-nav/uforetrygd/)
+[Hos Skatteetaten finner du informasjon om tilbakebetaling og trekk av uføretrygden](https://www.skatteetaten.no/person/betaling-og-innkreving/tema/krav-fra-helfo-garantikassen-nav/uforetrygd/)
 
-Du vil få et varselsbrev om tilbakekreving. Du har en frist på 3 uker fra du får varselet til å komme med tilbakemeldinger eller nye opplysninger. Hører vi ikke fra deg, blir varselet automatisk omgjort til et vedtak etter 4 uker. Fra vedtaket er gyldig, er fristen for å klage på vedtaket 6 uker. Du må som hovedregel begynne å betale tilbake, selv om du har klaget på et vedtak om tilbakebetaling.
+Du vil få et varselsbrev om tilbakekreving fra Nav. Du har en frist på 3 uker fra du får varselet til å komme med tilbakemeldinger eller nye opplysninger. Hører vi ikke fra deg, blir varselet automatisk omgjort til et vedtak etter 4 uker. Fra vedtaket er gyldig, er fristen for å klage på vedtaket 6 uker. Du må som hovedregel begynne å betale tilbake, selv om du har klaget på et vedtak om tilbakebetaling.
 
 #### Inntekter som er med når vi beregner etteroppgjøret
 
@@ -788,7 +787,7 @@ For flyktninger er retten til å beholde uføretrygden i utlandet begrenset.
 
 Har du uføretrygd etter særregler for flyktninger, kan du beholde uføretrygden hvis du flytter til et EU/EØS-land. Særreglene gjelder bare flyktninger som søkte om uføretrygd før 01.01.21. Flytter du til et annet land som Norge har trygdeavtale med, kan uføretrygden bli redusert, eller stanse helt.
 
-Har du uføretrygd etter [unntaksregler om medlemstid](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-ufore-flyktninger) før uføretidspunktet, er det egne regler hvis du flytter fra Norge. Flytter du til et annet EU/EØS-land, har du rett til å beholde uføretrygden. Flytter du til et annet land som Norge har trygdeavtale med, bestemmer den aktuelle trygdeavtalen hva som gjelder.
+Har du uføretrygd etter [unntaksregler om medlemstid](https://www.nav.no/supplerende-stonad-flyktninger) før uføretidspunktet, er det egne regler hvis du flytter fra Norge. Flytter du til et annet EU/EØS-land, har du rett til å beholde uføretrygden. Flytter du til et annet land som Norge har trygdeavtale med, bestemmer den aktuelle trygdeavtalen hva som gjelder.
 
 #### Hvilke land har Norge trygdeavtaler med?
 
@@ -856,7 +855,7 @@ Når disse sakene er ferdig behandlet vil vi fortsette med å rette de sakene me
 
 - [Folketrygdloven kap. 12 Uføretrygd (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven-kap.12.uforetrygd)
 
-Oppdatert 06.10.2026
+Oppdatert 28.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -898,3 +897,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

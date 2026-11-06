@@ -1,11 +1,11 @@
-<!-- innholds-hash: f6fb5e26ad32a0713dd92b9c8151f228c42075acbafc0ba91528b3229a01a5ac -->
+<!-- innholds-hash: 8f4c3831d37f6fbdf84a3191a9ae24c549c33e7f5d55d0f4e90125de2c1b0e11 -->
 
 # Dekking av sykepenger i arbeidsgiverperioden - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kronisk-syk-eller-gravid
-- **Sist oppdatert i arkivet:** 2026-10-14T08:20:27Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:40:00Z
 
 ## Innhold
 
@@ -95,7 +95,7 @@ Noen saker kan ha lengre saksbehandlingstid, ofte fordi saksbehandler må innhen
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Søknad om refusjon for arbeidsgiverperioden | 4 måneder |
-| Refusjon arbeidsgiver fra dag 17 | 15 uker |
+| Refusjon arbeidsgiver fra dag 17 | 14 uker |
 | Søknad om unntak i arbeidsgiverperioden | 10 uker |
 | Bestridelse | 4 måneder |
 
@@ -106,7 +106,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 [Klagerettigheter](https://www.nav.no/klagerettigheter)
@@ -174,3 +174,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

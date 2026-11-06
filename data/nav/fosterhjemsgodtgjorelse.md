@@ -1,11 +1,11 @@
-<!-- innholds-hash: bd3d0010bcbc630c00e926ef1945ba8f4340cbddedb86f965aae28b129321113 -->
+<!-- innholds-hash: 7db8bb7b69076f6a8f5932ea8471163f034d1c6835136c6d56ecd5477b99e8ab -->
 
 # Fosterhjemsgodtgjørelse og utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fosterhjemsgodtgjorelse
-- **Sist oppdatert i arkivet:** 2026-10-14T08:18:13Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:37:48Z
 
 ## Innhold
 
@@ -27,8 +27,8 @@ Fosterhjemsgodtgjørelse er en økonomisk kompensasjon for oppdraget fosterforel
 
 Fosterhjemsgodtgjørelse består av arbeidsgodtgjørelse og dekning av utgifter. Delen for arbeidsgodtgjørelse er pensjonsgivende og skattepliktig inntekt og vil ofte påvirke beregning av utbetalingene du får fra Nav. Se mer om hver enkelt pengestøtte under.
 
-- [Avtalefestet pensjon (AFP)](https://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor/kombinere-afp-og-andre-inntekter)
-- [Alderspensjon](https://www.nav.no/no/person/pensjon/alderspensjon)
+- [Avtalefestet pensjon (AFP)](https://www.nav.no/afp-offentlig#inntekt-afp)
+- [Alderspensjon](https://www.nav.no/alderspensjon)
 - [Arbeidsavklaringspenger](https://www.nav.no/aap)
 - [Barnebidrag](https://www.nav.no/barnebidrag#hvor-mye)
 - [Bidragsforskudd](https://www.nav.no/bidragsforskudd#hvor-mye)
@@ -40,7 +40,7 @@ Fosterhjemsgodtgjørelse består av arbeidsgodtgjørelse og dekning av utgifter.
 - [Sykepenger](https://www.nav.no/sykepenger)
 - [Uføretrygd](https://www.nav.no/uforetrygd)
 
-Oppdatert 29.08.2025
+Oppdatert 03.11.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/fosterhjemsgodtgjorelse) av norges-lover-bot.*
@@ -49,3 +49,4 @@ Oppdatert 29.08.2025
 
 - **2026-05-15** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

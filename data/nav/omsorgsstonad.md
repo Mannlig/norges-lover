@@ -1,11 +1,11 @@
-<!-- innholds-hash: f47547b8a7558bfa3a209d37c14da315ce97620cf6222424e261bafb018d10c2 -->
+<!-- innholds-hash: f10cdcdb90b0e48b852ebd12b6085805aac4e9281e3ff91e5b409cf1fd78ce2d -->
 
 # Omsorgsstønad og utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgsstonad
-- **Sist oppdatert i arkivet:** 2026-10-14T08:23:24Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:40:41Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Omsorgsstønad er en kommunal, økonomisk kompensasjon til personer som utfører
 
 Omsorgsstønad er pensjonsgivende og skattepliktig inntekt og vil ofte påvirke beregning av pengestøtter du får utbetalt fra Nav. Se mer om hver enkelt pengestøtte under.
 
-- [Avtalefestet pensjon (AFP)](https://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor/kombinere-afp-og-andre-inntekter)
+- [Avtalefestet pensjon (AFP)](https://www.nav.no/afp-offentlig#inntekt-afp)
 - [Alderspensjon](https://www.nav.no/alderspensjon)
 - [Arbeidsavklaringspenger](https://www.nav.no/aap#aktuelt)
 - [Barnebidrag](https://www.nav.no/barnebidrag#hvor-mye)
@@ -43,7 +43,7 @@ Omsorgsstønad er pensjonsgivende og skattepliktig inntekt og vil ofte påvirke 
 - [Sykepenger](https://www.nav.no/sykepenger)
 - [Uføretrygd](https://www.nav.no/uforetrygd)
 
-Oppdatert 29.08.2025
+Oppdatert 03.11.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/omsorgsstonad) av norges-lover-bot.*
@@ -52,3 +52,4 @@ Oppdatert 29.08.2025
 
 - **2026-05-15** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

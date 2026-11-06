@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1eba7b03216d21f7525c4bb2de129bdbb0af9212623df5a5d8b1328e89a650b3 -->
+<!-- innholds-hash: aa0dcebb65a82f00b144bd4cdec37a984c46b9fa2c0fd542c8861be04e383515 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist oppdatert i arkivet:** 2026-10-14T08:09:43Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:29:18Z
 
 ## Innhold
 
@@ -21,9 +21,10 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 
 #### Velg område
 
-### Viser 226 av 226
+### Viser 228 av 228
 
 - [Aktivitetshjelpemidler for personer over 26 år](https://www.nav.no/aktivitetshjelpemidler-over-26) For å kunne være i fysisk aktivitet.
+- [Aktivitetspenger](https://www.nav.no/aktivitetspenger) For deg som er mellom 18 og 30 år, trenger oppfølging fra Nav for å komme i jobb eller utdanning og har behov for pengestøtte underveis. Dette er et forsøk bare for deg som er bosatt i Trondheim kommune.
 - [Aktivitetsplan](https://www.nav.no/aktivitetsplan) Oversikt over aktivitetene dine for å komme i jobb eller annen aktivitet.
 - [Alderspensjon](https://www.nav.no/alderspensjon) Alderspensjon fra folketrygden (Nav) sikrer at du har en inntekt når du er pensjonist.
 - [Ansiktsprotese](https://www.nav.no/ansiktsprotese) Etterligner den delen av ansiktet som mangler eller er skadet.
@@ -172,6 +173,7 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 - [Rullestol og scooter](https://www.nav.no/rullestol-scooter) Manuelle og elektriske rullestoler for deg med nedsatt gangfunksjon
 - [Samtale – hjelpemidler](https://www.nav.no/hjelpemidler-for-samtale) Gjør det lettere å delta i samtaler når du har nedsatt hørsel.
 - [Samtykke fra foresatte](https://www.nav.no/samtykke-foresatte) Hvis du er under 18 år og vil registrere deg for å få oppfølging fra Nav, må du ha samtykke fra dine foresatte.
+- [Selvstendig næringsdrivende, frilansere eller arbeidstakere](https://www.nav.no/inntektstype) Her får du hjelp til å finne ut hvordan Nav og Skatteetaten vurderer inntekten din, og hva det betyr for rettighetene dine.
 - [Senger, madrasser, tilbehør og forflytning](https://www.nav.no/senger-og-madrasser) Senger, madrasser, hjertebrett, sengebord og hjelpemidler for overflytting og vending i seng.
 - [Senter for jobbmestring](https://www.nav.no/senter-for-jobbmestring) Et tilbud når du har angst eller depresjon og trenger hjelp til å komme eller bli i jobb.
 - [Servicehund](https://www.nav.no/servicehund) Hjelper deg i hverdagen når du har fysiske funksjonsnedsettelser.
@@ -262,3 +264,4 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

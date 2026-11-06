@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7340cdd0b3942b39a8862029bc60505ddb272cc9e31782e88245553b8d48cd7a -->
+<!-- innholds-hash: ba9dd060d39a8a1ddb3ecbdb5f2e3abbe4f010c42db4acee820b9e2d4836e3b1 -->
 
 # Tilleggsstønader - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader
-- **Sist oppdatert i arkivet:** 2026-10-14T08:09:01Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:28:36Z
 
 ## Innhold
 
@@ -25,16 +25,20 @@ Hvis du har rett til overgangsstønad etter de nye reglene som gjelder fra 1. ju
 
 ### Hvem kan få?
 
-Hvis du er i en arbeidsrettet aktivitet for å komme i eller å beholde arbeidet ditt, eller dersom du er under arbeidsrettet utredning, kan du ha rett til tilleggsstønader. Det gjelder også dersom du er registrert hos Nav som reell arbeidssøker.
+Hvis du er i en arbeidsrettet aktivitet for å komme i eller å beholde arbeidet ditt, eller dersom du er under arbeidsrettet utredning, kan du ha rett til tilleggsstønader.
 
 For å ha rett til stønader må du også oppfylle vilkårene ved minst ett av punktene under:
 
-- Du har nedsatt arbeidsevne på grunn av sykdom og gjennomfører et arbeidsrettet tiltak.
-- Du er enslig mor eller far og gjennomfører en godkjent utdanning eller du er registrert hos Nav som reell arbeidssøker, og fyller vilkårene for overgangsstønad.
-- Du er tidligere familiepleier og gjennomfører en godkjent utdanning.
-- Du er gjenlevende ektefelle og gjennomfører en godkjent utdanning eller er registrert hos Nav som reell arbeidssøker som yrkesrettet aktivitet.
-- Du er tiltaksdeltaker som deltar på arbeidsmarkedstiltak.
-- Du er arbeidssøker og er uforskyldt uten arbeid på hjemstedet ditt.
+- Du har nedsatt arbeidsevne på grunn av sykdom og gjennomfører et arbeidsrettet tiltak
+- Du er enslig mor eller far og gjennomfører en godkjent utdanning eller du er registrert hos Nav som reell arbeidssøker, og fyller vilkårene for overgangsstønad etter overgangsreglene
+- Du er gjenlevende ektefelle og gjennomfører en godkjent utdanning eller er registrert hos Nav som reell arbeidssøker som yrkesrettet aktivitet
+- Du mottar tiltakspenger, dagpenger eller kvalifiseringsstønad og deltar på arbeidsmarkedstiltak
+- Du deltar i ungdomsprogrammet og på arbeidsmarkedstiltak
+- Du mottar aktivitetspenger og deltar på arbeidsmarkedstiltak
+- Du er arbeidssøker og er uforskyldt uten arbeid på hjemstedet ditt
+- Du er tidligere familiepleier og gjennomfører en godkjent utdanning
+
+Hvilke tilleggsstønader du kan få, og hvilke vilkår som gjelder, varierer fra stønad til stønad. Du finner mer informasjon under hver enkelt stønad.
 
 [Tilleggsstønader til enslig mor eller far](https://www.nav.no/tilleggsstonader-enslig)
 
@@ -50,7 +54,7 @@ Pengestøtte
 
 Du kan få støtte til ulike utgifter du har i forbindelse med at du tar utdanning eller er arbeidssøker. Hva du kan få stønad til avhenger av situasjonen din.
 
-Dette kan du få når du har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne, mottar aktivitetspenger, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du må dokumentere utgiftene til barnepass med faktura som står i ditt navn.
 
@@ -86,7 +90,7 @@ Du kan ha rett til redusert foreldrebetaling for barnehageplassen hvis inntekten
 
 Hvis du får innvilget redusert foreldrebetaling av kommunen, må du gi beskjed til oss fordi det kan ha betydning for din stønad til pass av barn. Får du for mye stønad utbetalt, kan vi kreve at du betaler dette tilbake.
 
-Dette kan du få når du har nedsatt arbeidsevne. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne eller mottar aktivitetspenger. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Stønad til læremidler skal dekke utgifter til lærebøker, kladdebøker, kopiering, internett, programvare til datamaskin og annet undervisningsmateriell. Beløpet skal også dekke arbeidsmateriell når du gjennomfører praktisk opplæring eller fagprøve, som blomster, metaller, verktøy, verneutstyr, arbeidsklær og lignende.
 
@@ -109,7 +113,7 @@ Fra 1. januar 2026 er det disse satsene som gjelder for vår- og høstsemesteret
 | Videregående skole | 461 kroner | 231 kroner |
 | Høgskole, universitet eller fagskole | 921 kroner | 461 kroner |
 
-Dette kan du få når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne, mottar dagpenger, tiltakspenger, kvalifiseringsstønad, aktivitetspenger eller deltar i ungdomsprogrammet. Du kan også få denne stønaden hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du kan få dekket reiseutgifter når du reiser til for eksempel skole, kurs eller annet arbeidsrettet tiltak.
 
@@ -127,7 +131,7 @@ Fra 1. januar 2026 er det disse satsene som gjelder:
 | --- | --- |
 | Reise med privat bil | 2,94 kroner |
 
-Dette kan du få når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne, mottar dagpenger, tiltakspenger, kvalifiseringsstønad, aktivitetspenger eller deltar i ungdomsprogrammet. Du kan også få denne stønaden hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du kan få dekket reiseutgifter til samlinger som er en del av utdanningen din. Utdanningen må være godkjent av Nav. Vi trenger dokumentasjon for dine utgifter og en bekreftelse fra undervisningsstedet ditt som viser at samlingen er obligatorisk.
 
@@ -145,7 +149,7 @@ Fra 1. januar 2026 er det disse satsene som gjelder:
 | --- | --- |
 | Reise med privat bil | 2,94 kroner |
 
-Dette kan du få når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne, mottar dagpenger, tiltakspenger, kvalifiseringsstønad, aktivitetspenger eller deltar i ungdomsprogrammet. Du kan også få denne stønaden hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du kan få dekket reiseutgifter når du må flytte fordi du skal utdanne deg. Det vil si reiseutgifter når utdanningen starter og slutter og til hjemreiser.
 
@@ -189,7 +193,7 @@ Fra 1. januar 2026 er det disse satsene som gjelder:
 | --- | --- |
 | Reise med privat bil | 2,94 kroner |
 
-Dette kan du få når du har nedsatt arbeidsevne. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du har nedsatt arbeidsevne eller mottar aktivitetspenger. Du kan også få dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du kan få dekket nødvendige ekstrautgifter til bolig og overnatting hvis du må bo hjemmefra mens du utdanner deg.
 
@@ -209,7 +213,7 @@ Fra 1. januar 2026 er det disse satsene som gjelder:
 | --- | --- |
 | Stønad til boutgifter | 5 062 kroner |
 
-Dette kan du få når du er arbeidssøker, har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du få når du er arbeidssøker, har nedsatt arbeidsevne eller mottar aktivitetspenger, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 Du kan få støtte til flytteutgifter hvis du må flytte til et annet sted i Norge for å begynne i ny jobb.
 
@@ -289,7 +293,7 @@ Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om det
 
 #### Søknad om støtte ved reise til samling
 
-Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
+Dette kan du søke om når du har nedsatt arbeidsevne eller får dagpenger, tiltakspenger eller kvalifiseringsstønad. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
 [Søk om støtte til reise](https://www.nav.no/start/soknad-tilleggstonader-stotte-til-reise-til-samling)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111217b/innsendingsvalg)
 
@@ -297,7 +301,7 @@ Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får
 
 Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
-[Søk om støtte til reise](https://www.nav.no/fyllut/nav111218b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111218b/innsendingsvalg)
+[Søk om støtte til reise](https://www.nav.no/start/soknad-om-tilleggsstonader-stotte-til-reise-ved-oppstart-avslutning-eller-hjemreise)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111218b/innsendingsvalg)
 
 #### Søknad om støtte til reise for å komme i arbeid
 
@@ -315,7 +319,7 @@ Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om det
 
 Dette kan du søke om når du er arbeidssøker, har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
-[Søk om støtte til flytting](https://www.nav.no/fyllut/nav111223b%20%20%20)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111223b/innsendingsvalg)
+[Søk om støtte til flytting](https://www.nav.no/start/soknad-om-tilleggsstonader-stotte-til-flytting)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111223b/innsendingsvalg)
 
 #### Refusjon av utgifter til daglig reise med bruk av egen bil
 
@@ -365,7 +369,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 3 uker |
-| Klage til Nav klageinstans | 5 måneder |
+| Klage til Nav klageinstans | 9 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 ### Når du har tilleggsstønader
@@ -414,7 +418,7 @@ Dette kan ha betydning for beløpet du får utbetalt fra oss.
 
 [Tilleggsstønadsforskriften (lovdata.no)](https://lovdata.no/nav/forskrift/2015-07-02-867)
 
-Oppdatert 12.10.2026
+Oppdatert 04.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -456,3 +460,4 @@ Ring oss på 55 55 33 33
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

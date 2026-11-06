@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 11947
+**Antall dokumenter:** 11948
 
 ## Innhold
 
@@ -79,6 +79,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Enkle talemaskiner - nav.no](enkle-talemaskiner.md)
 - [Send inn opplysninger når du er enslig mor eller far som er arbeidssøker - nav.no](enslig-arbeidssoker.md)
 - [Erklære farskap - nav.no](erklaer-farskap.md)
+- [Nå kommer etteroppgjøret for uføretrygd - nav.no](etteroppgjoret.md)
 - [Ettersende - nav.no](ettersende.md)
 - [Familie og barn - nav.no](familie.md)
 - [Søk om godkjennelse av farskap eller medmorskap fastsatt i utlandet - nav.no](farskap-medmorskap-utland.md)

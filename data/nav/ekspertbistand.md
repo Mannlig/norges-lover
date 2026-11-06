@@ -1,11 +1,11 @@
-<!-- innholds-hash: d298541a9906fc72f675f4fd85a962c930211d01ad8fc52d72b48ff0e72bd484 -->
+<!-- innholds-hash: b0351efd57928bc8baac8bc77b4cd7734c1b329d0e91dad03559c0e64401eb85 -->
 
 # Tilskudd til ekspertbistand - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ekspertbistand
-- **Sist oppdatert i arkivet:** 2026-10-14T08:16:06Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:35:38Z
 
 ## Innhold
 
@@ -51,7 +51,7 @@ Eksperten dere trenger kan for eksempel være en
 - sykepleier
 - psykolog
 
-Arbeidsgiveren har ansvaret for å bestille eksperten. Eksperten skal ha en offentlig godkjent utdanning eller autorisasjon i faget sitt, og kan ikke være ansatt i virksomheten. Ekspertbistanden skal resultere i en rapport som du og arbeidsgiveren din får. Rapporten skal beskrive årsaken til sykefraværet, og skal foreslå tiltak for tilbakeføring til arbeid. Rapporten skal og vil også bli delt med Nav.
+Arbeidsgiveren har ansvaret for å bestille eksperten. Valg av ekspert bør gjøres i samråd med den sykemeldte. Eksperten skal ha en offentlig godkjent utdanning eller autorisasjon i faget sitt, kan ikke være ansatt i virksomheten, og skal være en ekstern og nøytral part. Ekspertbistanden skal resultere i en rapport som du og arbeidsgiveren din får. Rapporten skal beskrive årsaken til sykefraværet og foreslå tiltak for tilbakeføring til arbeid. Rapporten vil også bli delt med Nav.
 
 #### Personvernet ditt som arbeidstaker
 
@@ -91,7 +91,7 @@ Arbeidsgiveren din må søke om tilskudd før tiltaket blir satt i gang.
 - [Forskrift om tilskudd til ekspertbistand (lovdata.no)](https://lovdata.no/nav/forskrift/2019-08-29-1105?q=Forskrift%20om%20tilskudd%20til%20ekspertbistand)
 - [Rundskriv om tilskudd til ekspertbistand (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/rundskriv-til-ftrl-8-7a-utfyllende-regler-forskrift-om-tilskudd-til-ekspertbistand)
 
-Oppdatert 20.02.2026
+Oppdatert 30.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -133,3 +133,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

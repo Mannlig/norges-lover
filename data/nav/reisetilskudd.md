@@ -1,11 +1,11 @@
-<!-- innholds-hash: ddbc5ed0638cdcd5653bc32306b49ffcda9f20c7c80393e004f1a94ff562a000 -->
+<!-- innholds-hash: a4faeaaa5ea32b5da9a743f6d760317f0c4e784bf28f7a72a50efeba6355a5fb -->
 
 # Reisetilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reisetilskudd
-- **Sist oppdatert i arkivet:** 2026-10-14T08:24:49Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:42:07Z
 
 ## Innhold
 
@@ -136,7 +136,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 5 måneder |
+| Klage til Nav klageinstans | 9 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 Du kan også bruke advokat eller gi fullmakt til en person som klager på dine vegne.
@@ -206,3 +206,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

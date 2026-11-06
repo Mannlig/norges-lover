@@ -1,11 +1,11 @@
-<!-- innholds-hash: 89ae182960c2052e467325879a96a64bc51bef705b5668926232cd2b9ac696be -->
+<!-- innholds-hash: 4904b4bf672830f14ed25a2b854c85e89824afc19675a05ac2f1bb5be7f2dc4b -->
 
 # Sykepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger
-- **Sist oppdatert i arkivet:** 2026-10-14T08:06:52Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:26:28Z
 
 ## Innhold
 
@@ -627,11 +627,12 @@ Dette skjemaet bruker du hvis det er under en måned siden forrige arbeidsforhol
 
 #### Søknad om å beholde sykepenger under opphold i utlandet
 
-Denne søknaden bruker du hvis du ønsker å reise ut av EU/EØS mens du er sykmeldt og du samtidig ønsker å beholde sykepengene. Du bør sende søknaden før du reiser, for å være sikker på at du beholder sykepengene dine under reisen.
+Bruk denne søknaden hvis du skal reise utenfor EU/EØS og Storbritannia mens du er sykmeldt. Send søknaden før du reiser for å få avklart om du beholder sykepengene under oppholdet. Du trenger ikke å søke hvis du:
 
-Du har kun rett til sykepenger under opphold utenfor EU/EØS i 4 uker i løpet av en tolvmånedersperiode.
+- skal ha lovbestemt ferie. Da krysser du av for ferie i søknaden om sykepenger som du sender etter sykmeldingsperioden.
+- skal reise til Storbritannia
 
-Hvis du skal avvikle lovbestemt ferie, skal du ikke søke. I stedet krysser du av for ferie i søknaden om sykepenger som sendes etter at sykmeldingsperioden er over.
+Du kan beholde sykepengene i opptil fire uker i løpet av 12 måneder når du oppholder deg utenfor EU/EØS og Storbritannia.
 
 [Send søknad](https://www.nav.no/start/soknad-sykepenger-utlandet)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav080907)
 
@@ -722,7 +723,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 ### Når du har sykepenger
@@ -812,7 +813,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 Hvis vi innvilger søknaden din før den 20. i den samme måneden som sykmeldingen din gjelder for, får du pengene innen den 25. denne måneden. Ellers får du vanligvis utbetalt sykepengene innen 5 dager etter at Nav har innvilget søknaden din.
@@ -1133,3 +1134,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

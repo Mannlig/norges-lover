@@ -1,11 +1,11 @@
-<!-- innholds-hash: dc78ef909581f643a66ff7139b4174111854969c2b1a4f34bdb3347322fdd41c -->
+<!-- innholds-hash: f3c9feabe2cfe0f611b7579ed34557ee099ce66e41e56a04e19efbfcd020d0ce -->
 
 # Inntektsmelding - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inntektsmelding
-- **Sist oppdatert i arkivet:** 2026-10-14T08:12:37Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:32:04Z
 
 ## Innhold
 
@@ -110,7 +110,9 @@ Inntektsmeldingen sendes så snart arbeidsgiveren er kjent med fraværet.
 
 Arbeidsgivere skal ikke lenger oppgi ferie i inntektsmeldingen. Nav tar utgangspunkt i opplysninger fra arbeidstakeren.
 
-Denne inntektsmeldingen gjelder bare for arbeidstakere. Selvstendig næringsdrivende og frilansere må [sende inntektsopplysninger selv, digitalt eller i posten](https://www.nav.no/soknader/nb/bedrift/inntekt-og-trekk/inntektsopplysninger-sykepenger#NAV083501#NAV083501).
+Denne inntektsmeldingen gjelder bare for arbeidstakere. Selvstendig næringsdrivende og frilansere må sende inntektsopplysninger selv, digitalt eller i posten.
+
+[Send inntektsopplysninger](https://www.nav.no/fyllut/nav083501)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav083501)
 
 Hvert enkelt arbeidsforhold har en egen arbeidsforholdsID som gjør det mulig å skille mellom arbeidsforholdene.
 
@@ -124,7 +126,7 @@ For å gi nye opplysninger eller endre på opplysningene i en inntektsmelding so
 
 Hvis arbeidsgiveren har brukt Min side - arbeidsgiver for å sende inntektsmelding, kan du se og endre tidligere innsendte inntektsmeldinger der.
 
-Sjekk hva som er [spesielt for omsorgspenger.](https://www.nav.no/utkast/arbeidsgiver/inntektsmelding#omsorgspenger)
+Sjekk hva som er [spesielt for omsorgspenger.](https://www.nav.no/arbeidsgiver/inntektsmelding#omsorgspenger)
 
 Nav kan ikke starte saksbehandlingen før vi har fått inntektsmeldingen. Hvis arbeidsgiveren venter for lenge med å sende inntektsmeldingen, stopper saksbehandlingen opp. Det er da risiko for at den ansatte og arbeidsgiveren ikke får utbetalinger fra Nav når de skal.
 
@@ -280,21 +282,15 @@ Overtidsgodtgjørelse skal som hovedregel ikke regnes med som en del av beregnin
 
 Godtgjørelse for fast overtid skal rapporteres til a-ordningen som fast tillegg. Det skal regnes med i beregningsgrunnlaget.
 
-#### Feriepenger
-
 Feriepenger skal ikke tas med i beregning av den aktuelle månedsinntekten.
 
 Hvis det i beregningsperioden er utbetalt feriepenger i stedet for lønn, eller det er avviklet ferie uten lønn, skal beregningsgrunnlaget settes lik den ordinære lønnen personen ville hatt hvis det ikke hadde blitt avviklet ferie.
 
-#### Naturalytelser
-
-Faller naturalytelsen bort fra første fraværsdag, skal beløpet inngå i beregningsgrunnlaget. Beløpet skal også regnes med når det vurderes om det foreligger 25 prosent avvik.
-
-Hvis naturalytelsene faller bort i perioden med fravær, skal de tas med i beregningsgrunnlaget fra det tidspunktet de faller bort. Naturalytelsene beregnes med den verdien som benyttes ved forskuddstrekk av skatt. For at naturalytelser skal tas med i beregningsgrunnlaget, må Nav få informasjon om at de har falt bort.
-
 Hvis en ansatt får endret lønn som følge av et tariffoppgjør, må du endre inntektsmeldingen som allerede er sendt til Nav. Den nye lønnen må gjelde fra og med en dato som ligger før beregningstidspunktet. Fristen for å sende inn endret inntektsmelding med opplysninger om etterbetaling etter et tariffoppgjør er 3 måneder etter at tariffavtalen er signert.
 
 I inntektsmeldingen justerer du beløpet for månedsinntekt til ny beregnet inntekt og velger begrunnelsen "tariffendring". Husk å justere refusjonsbeløpet hvis du forskutterer lønn.
+
+Faller naturalytelsen bort fra første fraværsdag, skal beløpet inngå i beregningsgrunnlaget. Beløpet skal også regnes med når det vurderes om det foreligger 25 prosent avvik. Hvis naturalytelsene faller bort i perioden med fravær, skal de tas med i beregningsgrunnlaget fra det tidspunktet de faller bort. Naturalytelsene beregnes med den verdien som benyttes ved forskuddstrekk av skatt. For at naturalytelser skal tas med i beregningsgrunnlaget, må Nav få informasjon om at de har falt bort. Det er et eget punkt i inntektsmeldingen for naturalytelser.
 
 #### Beregningsregler for sykepenger
 
@@ -544,7 +540,7 @@ Virksomhet B må opprette manuell inntektsmelding
 
 [Om sykepengegrunnlaget i arbeidsgiverperioden (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-8-28-sykepengegrunnlaget-i-arbeidsgiverperioden)
 
-Oppdatert 14.08.2026
+Oppdatert 02.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -578,3 +574,4 @@ Alltid åpen
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 31fefe3db9195e2828a6b16c0623cad8d29582b503452b3a2fbfcdd62eb36e62 -->
+<!-- innholds-hash: 837af7ca3425ae146bfcf82b3071d6ddaf9797a10e366febced96e8520e26976 -->
 
 # Arbeidsavklarings­penger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/aap
-- **Sist oppdatert i arkivet:** 2026-10-14T08:11:10Z
+- **Sist oppdatert i arkivet:** 2026-11-06T09:30:40Z
 
 ## Innhold
 
@@ -347,35 +347,28 @@ Vurderingen må gjøres av fylkeskommunen eller kommunen, eventuell en annen kom
 
 Hvis du logger inn på nav.no, kan du se om vi har mottatt søknaden.
 
-Hvis vi mangler noe, vil vi be deg, fastlegen din eller andre om å sende inn informasjon. Hvis vi har bedt om nødvendig dokumentasjon, men ikke mottatt det, kan du risikere å få avslag. Vi vil ikke avslå søknaden din uten å først gi deg beskjed om at det mangler noe.
+Hvis vi trenger flere helseopplysninger, spør vi legen din om å sende en legeerklæring. Vi bruker da informasjonen du ga oss i søknaden om lege eller behandler.
+
+Hvis vi mangler annen relevant informasjon eller dokumentasjon, vil vi ta kontakt med deg.
+
+Det er til hjelp for oss om du selv
+
+- kan ettersende dokumenter som mangler
+- gir beskjed hvis situasjonen din endrer seg
+
+Dersom vi ikke har nødvendig dokumentasjon om situasjonen din, kan du risikere å få avslag. Vi vil ikke avslå søknaden din uten å først gi deg beskjed om at det mangler noe.
+
+Du har krav på en [vurdering av hvilken oppfølging du trenger fra Nav](https://www.nav.no/behov-for-oppfolging) for å komme i eller beholde arbeid (Nav-loven §14a). Vi tar utgangspunkt i de opplysningene du har gitt oss. Hvis vi trenger det, tar vi kontakt med deg.
+
+Du vil få et brev med vedtaket om denne vurderingen fra oss.
+
+Selve svaret på søknaden din om AAP, vil du få som eget brev.
 
 Når vi behandler søknaden din, trenger vi å vite hvilken utdanning og arbeidserfaring du har. Du bør derfor [registrere og oppdatere CV-en din](https://www.nav.no/arbeidsplassen/cv) samtidig som du søker. Dette gjelder også deg som skal tilbake til arbeidsgiveren din.
 
-Brev om arbeidsevnevurdering
+Til sist vurderer vi om du har rett til AAP etter folketrygdloven kapittel 11. Vi bruker opplysningene vi har fått i forbindelse med søknaden.
 
-Veilederen vurderer jobbmuligheter sammen med deg. Les mer om hvordan vi gjør en [vurdering av behov for oppfølging](https://www.nav.no/behov-for-oppfolging).
-
-Hvis du har kommentarer til vurderingen vi har gjort, kan du gi tilbakemelding til oss, for eksempel gjennom [dialogtjenesten i aktivitetsplanen](https://www.nav.no/aktivitetsplan#dialog).
-
-Vedtak om oppfølging fra Nav (14a-vedtak)
-
-Et oppfølgingsvedtak er en vurdering fra oss om hvilken hjelp du trenger for å komme i eller tilbake i jobb. Dette vedtaket handler ikke om penger.
-
-Oppfølgingsvedtaket sier noe om
-
-- mulighetene og hindringene dine for å komme i inntektsgivende arbeid
-- behovet ditt for arbeidsrettede aktiviteter
-- målet med disse aktivitetene
-- hva vi skal bidra med
-
-Oppfølgingsvedtaket inneholder en av disse konklusjonene:
-
-- At du kan komme i arbeid uten hjelp fra oss
-- At du kan komme i arbeid med noe hjelp fra oss
-- At du kan komme i arbeid med mye hjelp fra oss
-- At mulighetene dine for inntektsgivende arbeid er små
-
-Du får skriftlig svar når søknaden er behandlet. Dette kaller vi for et vedtak.
+Når søknaden er behandlet, sender vi deg et vedtaksbrev med vurderingen vår av om du har rett til AAP eller ikke og hvor mye du vil få utbetalt. Hvis du har spørsmål til vurderingen, kan du ta kontakt med oss.
 
 #### Saksbehandlingstid for søknader
 
@@ -510,6 +503,8 @@ Du får ikke feriepenger av AAP.
 #### Skatt
 
 AAP skattes som arbeidsinntekt og er pensjonsgivende.
+
+Vi anbefaler at du [sjekker skattekortet ditt med Skatteetaten](https://www.skatteetaten.no/person/skatt/skattekort/bestille-endre/), siden endringer i inntekt også kan føre til endring i hvor mye skatt du vil få. Nav henter skattekortet ditt automatisk fra Skatteetaten og trekker skatt ut fra opplysningene i kortet.
 
 Hvilke perioder som er trekkfrie, avhenger av meldesyklusen din.
 
@@ -763,7 +758,7 @@ Her kan du lese mer om [hvordan jobbing i utlandet kan påvirke ditt medlemskap 
 - [Rundskriv til EØS-avtalens bestemmelse om trygd (lovdata.no)](https://lovdata.no/nav/rundskriv/r45-00/kap5#kap5)
 - [Fullmakt](https://www.nav.no/fullmakt)
 
-Oppdatert 06.10.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -805,3 +800,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)
