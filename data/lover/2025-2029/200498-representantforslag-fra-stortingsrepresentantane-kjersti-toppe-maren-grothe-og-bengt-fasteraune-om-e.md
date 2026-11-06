@@ -1,4 +1,4 @@
-<!-- innholds-hash: 44f8b21132b03610f9400f3544ebc7cda0a56667e1b16bb1b3f7536fb5ffc0ae -->
+<!-- innholds-hash: fdf5b87d7dc9ae25603747e0a0bb0a0cb935a4770c1c607b7f7521cab39e062d -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod 
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:37 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 43,
+      "navn": "Barnevern",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -105,3 +113,4 @@
 ## Endringshistorikk
 
 - **2026-11-04** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)

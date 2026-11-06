@@ -1,11 +1,11 @@
-<!-- innholds-hash: a8db6fb5d001551876ef7a9916bb88ee64b5701678e9a379a81ba4a066dea439 -->
+<!-- innholds-hash: 64f919dc96b5c4b4315e067780dc00fde334f962c7b3ffad2087bc1073390c57 -->
 
 # Jobbe i Norge  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobb-i-norge
-- **Sist oppdatert i arkivet:** 2026-10-14T14:29:22Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:04:56Z
 
 ## Innhold
 
@@ -307,7 +307,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -317,7 +317,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -331,3 +331,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-18** Innhold endret (se git-historikk for diff)
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

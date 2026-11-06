@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5ea4b81838dd4f9d6b6af5a48bd4009c4f2fdd219faa6d6582a5efb08032be94 -->
+<!-- innholds-hash: 472f7cb4b3431f134b5dacda58bdd49107bfcf60d0f4e84432ec4c8236a957c0 -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/foreldrepenger
-- **Sist oppdatert i arkivet:** 2026-10-14T14:15:46Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:51:20Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Erstatter inntekten når en ansatt er hjemme med barn.
 Den ansatte må vanligvis fylle 3 krav for å få foreldrepenger.
 
 - Den ansatte har hatt inntekt minst 6 av de 10 siste månedene. Som inntekt regnes også enkelte [utbetalinger fra Nav, arbeidsgiver eller førstegangstjenesten i forsvaret.](https://www.nav.no/foreldrepenger#hvor-lenge-inntekt)
-- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
+- Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 275 kroner (0,5 G).
 - Den ansatte er medlem av norsk folketrygd. Ansatte som bor i Norge er vanligvis [medlem av folketrygden.](https://www.nav.no/foreldrepenger#utland)
 
 ### Hva kan den ansatte få?
@@ -187,7 +187,7 @@ Ved ferieavvikling kan det velges mellom:
 - [Lov om folketrygd (lovdata.no)](https://lovdata.no/dokument/NL/lov/1997-02-28-19/KAPITTEL_5-1#KAPITTEL_5-1)
 - [Rundskriv om ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-Oppdatert 21.05.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -195,7 +195,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -225,3 +225,4 @@ Alltid åpen
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

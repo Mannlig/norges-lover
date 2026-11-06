@@ -1,11 +1,11 @@
-<!-- innholds-hash: a129139ef0f847bb2c9402561b38034cb0617daa908936a43df006a00f6e9ab7 -->
+<!-- innholds-hash: 675bf4f8eff6037a6ef1f6739dae9ff1351fc20e0f745873b93edc0b467964cc -->
 
 # Trenger hjelp til å fullføre utdanning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/fullfore-utdanning
-- **Sist oppdatert i arkivet:** 2026-10-14T14:21:35Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:57:02Z
 
 ## Innhold
 
@@ -363,7 +363,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -373,7 +373,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -391,3 +391,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

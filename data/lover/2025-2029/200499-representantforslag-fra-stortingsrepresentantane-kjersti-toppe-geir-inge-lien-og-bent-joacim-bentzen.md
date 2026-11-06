@@ -1,4 +1,4 @@
-<!-- innholds-hash: 24377cfa3abe369bb5a237ac6626cb63643de35626b8bb45e0a9bb41d53c5260 -->
+<!-- innholds-hash: 46faad478c02a9d68bf868f55059f94c1210f36930d7623fdd007c9498c8dd4f -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:38 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Helsevesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200499
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -105,3 +113,4 @@
 ## Endringshistorikk
 
 - **2026-11-04** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)

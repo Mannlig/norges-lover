@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3a21225cdd930287ca4ec5865f3b26484006e57988721b99f92961789f809dbd -->
+<!-- innholds-hash: 15f197c8d09d852bf68f2ce5687b0fd925c5a9f1aef3a38af0797477a00e1084 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:34 LS (2026–2027)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Elektrisitet, Næringsliv
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200495
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -167,3 +182,4 @@
 
 - **2026-11-03** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

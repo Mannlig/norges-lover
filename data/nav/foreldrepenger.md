@@ -1,11 +1,11 @@
-<!-- innholds-hash: fceefe3e7aa7ffdf63fbe8c196feb55c903ab1fbd41d3d96b0f61dcfcc599511 -->
+<!-- innholds-hash: b479304af8cf4e9e98979c55cb5daf0b99fdcb9c09b74b8d0c9fea7eaefa8549 -->
 
 # Foreldrepenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/foreldrepenger
-- **Sist oppdatert i arkivet:** 2026-10-14T14:18:34Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:54:11Z
 
 ## Innhold
 
@@ -147,6 +147,7 @@ Disse utbetalingene fra Nav teller med som inntekt når vi vurderer om du har re
 - foreldrepenger
 - svangerskapspenger
 - arbeidsavklaringspenger
+- aktivitetspenger
 - dagpenger
 - dagpenger ved permittering
 - pleie- og omsorgspenger
@@ -155,7 +156,6 @@ Disse inntektene teller med som inntekt når vi vurderer om du har rett til fore
 
 - førstegangstjenesten i forsvaret eller sivilforsvaret
 - jobb i et annet EØS-land
-- ventelønn
 - sluttpakke
 - lønn fra arbeidsgiver under videre- eller etterutdanning
 
@@ -1699,7 +1699,7 @@ Dette kan du ha rett til
 
 [Folketrygdloven, Kapittel 14, Ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-Oppdatert 08.07.2026
+Oppdatert 06.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -1713,7 +1713,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -1723,7 +1723,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -1742,3 +1742,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

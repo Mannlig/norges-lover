@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8c508c63d5607c4658f527d2e020b72944a8883a0c0e36be1bb542985c8fb7f6 -->
+<!-- innholds-hash: 85a8a43c55a89aeb116faf14249cfee2857064ca13198b1ef0fca931c5b1b04d -->
 
 # Kontantstøtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontantstotte
-- **Sist oppdatert i arkivet:** 2026-10-14T14:35:53Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:10:30Z
 
 ## Innhold
 
@@ -374,7 +374,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -384,7 +384,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -403,3 +403,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

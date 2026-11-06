@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6e5e64b24196b763db24b58f344cf41374ef60b7469669c44ee53edf3957f5e0 -->
+<!-- innholds-hash: 978700d3b3cc6243fc5595290db90188240cec43c59e54a16346e2d17be06f7f -->
 
 # Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:26 S (2026–2027)
 - **Komité:** Justiskomiteen
-- **Emner:** 
+- **Emner:** Politi og påtalemyndighet, Stortinget
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200481
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -109,3 +124,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

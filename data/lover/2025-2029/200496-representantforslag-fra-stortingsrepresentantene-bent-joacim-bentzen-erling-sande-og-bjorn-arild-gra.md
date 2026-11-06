@@ -1,4 +1,4 @@
-<!-- innholds-hash: 84b413175f101ef5fcf38cbccfe4ca40fa629391e8f9b833fdfd7c4b2929736d -->
+<!-- innholds-hash: ac1190ec439066fc019744e2b3f3843066f2ed648bedddfbfc6fcf7f269fcbd0 -->
 
 # Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:35 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Politi og påtalemyndighet, Statsforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -105,3 +120,4 @@
 ## Endringshistorikk
 
 - **2026-11-03** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)

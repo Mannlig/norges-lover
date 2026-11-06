@@ -1,4 +1,4 @@
-<!-- innholds-hash: b1afdcd300891e220a1cee1c077fbb08464f88293e0d1f3d4570dbb002c988d7 -->
+<!-- innholds-hash: f413f5543d65f06058e9da69eeb9de9a10cb07dd6f3f0d6ba9d567cbbc3dbaf2 -->
 
 # Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi 
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:24 S (2026–2027)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Helsevesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200478
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -92,3 +100,4 @@
 - **2026-10-21** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
 - **2026-11-04** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

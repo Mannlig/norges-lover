@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4333109e213a46b13575e4f8ebe2c5d16f8a812f9ba4259932372f33b3403350 -->
+<!-- innholds-hash: b9757be121f4111b62332561de6c38b13f179760065890f5536f139888ff3787 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Anne Kristine Linnestad, Ove Trellevik og Erna Solberg om en mer fremtidsrettet havbruksnæring
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:32 S (2026–2027)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Havbruk, Statsforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200488
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 92,
+      "navn": "Havbruk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -148,3 +163,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

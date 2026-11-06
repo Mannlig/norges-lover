@@ -1,11 +1,11 @@
-<!-- innholds-hash: bd4da777f04b76737fe9b6f52ffece41c0968e28d3f48192f50556e922eb5a20 -->
+<!-- innholds-hash: c8c0151388a9614b34e6c89d20f00127f571ec18995bd2d3708cda5f8cee9ce4 -->
 
 # Har barn som ikke har full barnehageplass - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ikke-barnehageplass
-- **Sist oppdatert i arkivet:** 2026-10-14T14:33:41Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:09:04Z
 
 ## Innhold
 
@@ -61,7 +61,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -71,7 +71,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -89,3 +89,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

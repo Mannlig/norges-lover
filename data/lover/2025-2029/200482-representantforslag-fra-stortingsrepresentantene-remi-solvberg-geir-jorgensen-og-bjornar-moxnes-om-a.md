@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7eafe38ab0ab7db279a05ec0d1ac42fb7a247c1f8ff519dd67b68af86d390513 -->
+<!-- innholds-hash: 0f697e18df22985f49cf4835d28e9612a99201168f33bc7991f16b9a066b90a7 -->
 
 # Representantforslag fra stortingsrepresentantene Remi Sølvberg, Geir Jørgensen og Bjørnar Moxnes om å gjenreise norsk jernbane
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:27 S (2026–2027)
 - **Komité:** Samferdselskomiteen
-- **Emner:** 
+- **Emner:** Jernbaner, Statlig eierskap
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200482
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 107,
+      "navn": "Jernbaner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 119,
+      "navn": "Statlig eierskap",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -129,3 +144,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

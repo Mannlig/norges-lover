@@ -1,4 +1,4 @@
-<!-- innholds-hash: a8c576d8313d4ff7c6b2e7b7264a97c54f9c7481adbaa455b576a705417c25f1 -->
+<!-- innholds-hash: f7bcfa8737b72222cb5f1413df2a324c1bea6b64a05ef83e362512cbf43e414a -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:25 S (2026–2027)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Elektrisitet, Statlig eierskap
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200479
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 119,
+      "navn": "Statlig eierskap",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -149,3 +164,4 @@
 - **2026-10-21** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

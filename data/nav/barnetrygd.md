@@ -1,11 +1,11 @@
-<!-- innholds-hash: 321b199f5a071c24e43acd26d85ab403cb7fb1a6c7111ecde75069aad0de094b -->
+<!-- innholds-hash: 8377e9f175db44d5231837886f6da1cf32d9bae28936644f0a00fd62aebd5066 -->
 
 # Barnetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnetrygd
-- **Sist oppdatert i arkivet:** 2026-10-14T14:32:58Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:08:21Z
 
 ## Innhold
 
@@ -516,7 +516,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -526,7 +526,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -544,3 +544,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

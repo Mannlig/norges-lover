@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7251f7a367234163ee31770350535308d31ff13f427c80cf2b1dbdb9a1097bfb -->
+<!-- innholds-hash: ba0c31e2665b4b86ed13da8ab1c5316e94cc584d93af28728863f60fc72ddc0b -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:22 S (2026–2027)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** 
+- **Emner:** Arbeidsliv, Grunnskole
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 5,
+      "id": 5,
+      "navn": "Arbeidsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 183,
+      "navn": "Grunnskole",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -130,3 +145,4 @@
 - **2026-10-20** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

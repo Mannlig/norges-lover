@@ -1,11 +1,11 @@
-<!-- innholds-hash: 73adfdf34592e52e55da8d0f187f599b871c108d9e2e7602c4175636f40309e3 -->
+<!-- innholds-hash: 6c9ab7f991df2ff76b23c359bd3ad7577169a03975a0d3448a3ef2f4b71f1ace -->
 
 # Venter eller har nylig fått barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barn
-- **Sist oppdatert i arkivet:** 2026-10-14T14:16:29Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:52:01Z
 
 ## Innhold
 
@@ -73,11 +73,9 @@ Om kontantstøtte når du har barn mellom 13 og 19 måneder som ikke har fulltid
 
 Pengestøtte
 
-Hvis barnet ditt er født i Norge, får dere som regel innvilget barnetrygd automatisk, senest to måneder etter fødsel. I noen tilfeller må man søke selv.
-
 #### Hjemme med sykt barn-dager
 
-Hvis du er i jobb og må være hjemme for å ta deg av et sykt barn, kan du ha rett til å bruke omsorgsdager (hjemme-med-sykt-barn-dager).
+Hvis du er i jobb og må være hjemme for å ta deg av et sykt barn, kan du ha rett til å bruke omsorgsdager. Omsorgsdager er ofte kjent som hjemme-med-sykt-barn-dager, og kan for eksempel brukes når barnet er forkjølet eller har omgangssyke.
 
 [Omsorgspenger (hjemme med sykt barn-dager)](https://www.nav.no/omsorgspenger)
 
@@ -141,7 +139,7 @@ Når barnet er født, kan du søke om foreldrestipend fra Lånekassen. Du kan og
 
 Hvis du har spørsmål om rettigheter i forhold til arbeidsgiveren din, kan Arbeidstilsynet hjelpe.
 
-Oppdatert 30.09.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -155,13 +153,13 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -183,3 +181,4 @@ Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis d
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

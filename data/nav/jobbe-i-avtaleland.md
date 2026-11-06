@@ -1,11 +1,11 @@
-<!-- innholds-hash: b4429f9cf8a57e2a49f9251e6c5467f4f4aa5ab34e17ac954de57873f6d76f02 -->
+<!-- innholds-hash: 22bc94db7c3de62167204118061db29de3e3a689f46104b25b69ca88d5c9fc10 -->
 
 # Jobbe i land Norge har trygdeavtale med - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbe-i-avtaleland
-- **Sist oppdatert i arkivet:** 2026-10-14T14:40:48Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:15:33Z
 
 ## Innhold
 
@@ -864,7 +864,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -874,7 +874,7 @@ Ring oss på +47 21 07 37 00
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -893,3 +893,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2505dbf01365b9a76feee29a357a69066f7dd5aca85fbe92e4dde0a6c1876c1c -->
+<!-- innholds-hash: f360133e93e138aa5b83c38072202645d23e4a279f794dae0d12877c12aa924b -->
 
 # Engangsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/engangsstonad
-- **Sist oppdatert i arkivet:** 2026-10-14T14:17:52Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:53:30Z
 
 ## Innhold
 
@@ -104,11 +104,11 @@ Du får utbetalt engangsstønad for hvert av barna ved tvillinger eller flerling
 
 Har du som mor søkt foreldrepenger, men saken din er ikke behandlet ennå? Da kan du trekke søknaden og i stedet søke engangsstønad. Hvis søknaden din om foreldrepenger er behandlet og du har fått et vedtak, kan du ikke endre til engangsstønad, selv om barnet ditt dør.
 
-Du kan trekke søknaden om foreldrepenger ved å skrive til oss.
+Du kan [trekke søknaden om foreldrepenger ved å skrive til oss](https://www.nav.no/person/kontakt-oss/trekke-en-soknad-innbokser/trekke-en-soknad-familie-og-barn).
 
-[Skriv til oss](https://www.nav.no/person/kontakt-oss/trekke-en-soknad-innbokser/trekke-en-soknad-familie-og-barn)
+Vær oppmerksom på at å velge engangsstønad i stedet for foreldrepenger, kan gi konsekvenser for retten din til andre pengestøtter fra Nav senere, slik som for eksempel sykepenger. Har du foreldrepenger er det likestilt med å være i arbeid, og det kan gi opptjening til andre pengestøtter. Engangsstønad er en engangsutbetaling og gir ikke opptjening til andre pengestøtter fra Nav.
 
-Her kan du finne aktuell informasjon hvis du har mistet noen i nær familie
+Her kan du finne mer informasjon hvis du har mistet noen i nær familie
 
 [Har mistet noen i nær familie](https://www.nav.no/mistet-noen)
 
@@ -302,7 +302,7 @@ Du må ikke gi beskjed til Nav ved vanlige ferieopphold utenfor Norge.
 
 [Folketrygdloven, Kapittel 14, Ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-Oppdatert 28.05.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -316,7 +316,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -326,7 +326,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -344,3 +344,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

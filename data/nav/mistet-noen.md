@@ -1,11 +1,11 @@
-<!-- innholds-hash: e7e79ca6c7bb6232ef0a554bd9257c635a8a102310ac01ff7c0e37ed400aa090 -->
+<!-- innholds-hash: 0187755270f0a884a5bc9f153f795e2d9816ecbcc14128f81541feaef31f1383 -->
 
 # Har mistet noen i nær familie - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/mistet-noen
-- **Sist oppdatert i arkivet:** 2026-10-14T14:22:57Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:58:26Z
 
 ## Innhold
 
@@ -178,7 +178,9 @@ Hvis det er dødfødte tvillinger, får du som mor utbetalt engangsstønad for h
 
 Alle levendefødsler før 22. svangerskapsuke gir rett til engangsstønad, også hvis barnet ditt dør kort tid eller rett etter fødselen. Er barnet dødfødt før 22. svangerskapsuke, gir det ikke rett til engangsstønad.
 
-Har du som mor søkt foreldrepenger, men saken din er ikke behandlet ennå? Da kan du trekke søknaden og i stedet [søke engangsstønad](https://www.nav.no/soknader/nb/person/familie/foreldrepenger-og-engangsstonad#NAV140507). Hvis søknaden din om foreldrepenger er behandlet og du har fått et vedtak, kan du ikke endre til engangsstønad, selv om barnet ditt dør.
+Har du som mor søkt foreldrepenger, men saken din er ikke behandlet ennå? Da kan du trekke søknaden og i stedet [søke engangsstønad](https://www.nav.no/engangsstonad#soknad). Hvis søknaden din om foreldrepenger er behandlet og du har fått et vedtak, kan du ikke endre til engangsstønad, selv om barnet ditt dør.
+
+Vær oppmerksom på at å velge engangsstønad i stedet for foreldrepenger, kan gi konsekvenser for retten din til andre pengestøtter fra Nav senere, slik som for eksempel sykepenger. Har du foreldrepenger er det likestilt med å være i arbeid, og det kan gi opptjening til andre pengestøtter. Engangsstønad er en engangsutbetaling og gir ikke opptjening til andre pengestøtter fra Nav.
 
 Du kan [trekke søknaden om foreldrepenger ved å skrive til oss](https://www.nav.no/person/kontakt-oss/trekke-en-soknad-innbokser/trekke-en-soknad-familie-og-barn).
 
@@ -200,7 +202,7 @@ Hvis en tvilling dør, beholder du 6 uker av flerbarnsukene. Deretter får du en
 
 Hvis en trilling dør, beholder du 6 uker av flerlingeukene. Deretter får du en stønadsperiode som for tvillinger.
 
-Har du valgt 80 prosent foreldrepenger, og barnet dør innen 6 uker etter fødselen eller adopsjonen, endres satsen til 100 prosent. Det er fordi hensikten med den satsen som er valgt, altså en lengre stønadsperiode, ikke lenger er til stede.Mister du ektefellen/samboeren/partneren din mens dere mottar foreldrepenger, kan du som blir alene om omsorgen ta ut den delen av den stønadsperioden som er igjen. Du kan [søke om endring av uttak](https://www.nav.no/foreldrepenger#soknad).
+Har du valgt 80 prosent foreldrepenger, og barnet dør innen 6 uker etter fødselen eller adopsjonen, endres satsen til 100 prosent. Det er fordi hensikten med den satsen som er valgt, altså en lengre stønadsperiode, ikke lenger er til stede. Mister du ektefellen/samboeren/partneren din mens dere har foreldrepenger, kan du som blir alene om omsorgen ta ut den delen av stønadsperioden som er igjen. Du kan [søke om endring av uttak](https://www.nav.no/foreldrepenger#soknad).
 
 [Foreldrepenger](https://www.nav.no/foreldrepenger)
 
@@ -348,7 +350,7 @@ Hvis den avdøde var medlem i Statens pensjonskasse, kan de etterlatte ha rett t
 
 Informasjon fra Statens pensjonskasse
 
-Oppdatert 20.01.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -362,7 +364,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -372,7 +374,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -390,3 +392,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

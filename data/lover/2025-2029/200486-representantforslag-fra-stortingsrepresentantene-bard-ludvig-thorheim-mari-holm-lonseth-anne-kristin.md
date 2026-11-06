@@ -1,4 +1,4 @@
-<!-- innholds-hash: b31ff37cb2cd5e61a407a095572b38ca8a7480610dd8639f371de7dda87a3c38 -->
+<!-- innholds-hash: d766afeb5e90a48fbf34e2ec3fb15010be88e6fc0261fe42a9928f9e2e68e748 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:31 S (2026–2027)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Naturvern, Havbruk
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200486
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 92,
+      "navn": "Havbruk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -186,3 +201,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

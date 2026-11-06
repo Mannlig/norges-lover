@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 11948
+**Antall dokumenter:** 11952
 
 ## Innhold
 
@@ -11,6 +11,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Livsvarig avtalefestet pensjon (AFP) i offentlig sektor, født i 1963 eller senere - nav.no](afp-offentlig-livsvarig.md)
 - [Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no](afp-offentlig.md)
 - [Aktivitetshjelpemidler for personer over 26 år - nav.no](aktivitetshjelpemidler-over-26.md)
+- [Aktivitetspenger - nav.no](aktivitetspenger.md)
 - [Aktivitetsplan - nav.no](aktivitetsplan.md)
 - [Alderspensjon - nav.no](alderspensjon.md)
 - [Er alene med barn fordi den andre forelderen er død - nav.no](alene-med-barn-etter-dodsfall.md)
@@ -141,6 +142,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Betaling og innkreving for personer](innkreving-innbetaling.md)
 - [Innsyn i offentlige dokumenter og opplysninger - nav.no](innsyn.md)
 - [Innsyn i dokumenter Nav har om deg - nav.no](innsynskrav.md)
+- [Er du selvstendig næringsdrivende, frilanser eller arbeidstaker? - nav.no](inntektstype.md)
 - [Behandling av opplysninger om institusjonsopphold - nav.no](institusjonsopphold-og-personopplysninger.md)
 - [Intervjuet - nav.no](intervjuet.md)
 - [Introduksjonsprogram | Ny i Norge](introduksjonsstonad.md)
@@ -11992,6 +11994,8 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Søknad om kontantstøtte - nav.no](start/soknad-kontantstotte.md)
 - [Søknad om hjelpemiddel til kognisjon, kommunikasjon og lese- og skrivevansker - nav.no](start/soknad-om-hjelpemiddel-til-kognisjon-kommunikasjon-og-lese-og-skrivevansker.md)
 - [Søknad om pensjonsopptjening for omsorgsarbeid - nav.no](start/soknad-om-pensjonsopptjening-for-omsorgsarbeid.md)
+- [Søknad om tilleggsstønader – støtte til flytting - nav.no](start/soknad-om-tilleggsstonader-stotte-til-flytting.md)
+- [Søknad om tilleggsstønader – støtte til reise ved oppstart, avslutning eller heimreise - nav.no](start/soknad-om-tilleggsstonader-stotte-til-reise-ved-oppstart-avslutning-eller-hjemreise.md)
 - [Søknad om tilskudd til rimelige hjelpemidler - nav.no](start/soknad-om-tilskudd-til-rimelige-hjelpemidler.md)
 - [Søknad om utbetaling av omsorgspenger for selvstendig næringsdrivende og frilansere - nav.no](start/soknad-om-utbetaling-av-omsorgspenger-for-selvstendig-naeringsdrivende-og-frilansere.md)
 - [Søknad om omstillingsstønad - nav.no](start/soknad-omstillingsstonad.md)

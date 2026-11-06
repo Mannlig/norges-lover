@@ -1,4 +1,4 @@
-<!-- innholds-hash: bcec2d5490aa394fa5b13b1e3b74f46add58810fa4e92f606c9ef028212147ed -->
+<!-- innholds-hash: d57cea5195975fda9595723c11b8e6bad877768b5eb8ec5d123a369b58a2de49 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:23 S (2026–2027), Dokument 8:24 S (2026-2027), Dokument 8:23 S (2026-2027), Dokument 8:23 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Landbruksprodukter, Forbrukersaker, Reiselivsnæring, Næringsliv, Rusmidler
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 69,
+      "navn": "Landbruksprodukter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 112,
+      "navn": "Reiselivsnæring",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 211,
+      "navn": "Rusmidler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -206,3 +242,4 @@
 - **2026-10-20** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
 - **2026-11-04** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 962c4047798446aff898f10d2bbeb7df20a63a2ac0bc7e295c4be7a0dc58bb4a -->
+<!-- innholds-hash: 23b132d4233d1cde3cc9463d4714cdc703dc8d486e9609159277bbec60059e3a -->
 
 # Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:30 S (2026–2027)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Elektrisitet, Priser og konkurranseforhold
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200485
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -128,3 +143,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

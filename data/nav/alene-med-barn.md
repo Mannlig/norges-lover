@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8dee1404d756fd6151ec22fb5dab16f39808582d0f762d8fd5717dab4c72b87f -->
+<!-- innholds-hash: d582b91772b203e5ed548c86885c1ed68ffa7532c28f994727978a50b3e87df2 -->
 
 # Er helt eller delvis alene med barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alene-med-barn
-- **Sist oppdatert i arkivet:** 2026-10-14T14:37:22Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:11:59Z
 
 ## Innhold
 
@@ -199,7 +199,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -209,7 +209,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -227,3 +227,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

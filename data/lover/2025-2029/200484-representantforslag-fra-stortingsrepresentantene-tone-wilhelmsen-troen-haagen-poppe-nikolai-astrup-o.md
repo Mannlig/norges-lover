@@ -1,4 +1,4 @@
-<!-- innholds-hash: 233d10bfb4836bd15200a476b67f7a9f19228d6e8ca96e4d1f1688d33f383a1c -->
+<!-- innholds-hash: 2770703e15f31092a9f84d8331870fb0cb8bfc0f59100bd01ca5dd1e65a95185 -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Nikolai Astrup og Henrik Asheim om forutsigbart fritak for merverdiavgift for elektroniske aviser 
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:29 S (2026–2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Merverdiavgift, Massemedier
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200484
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 81,
+      "navn": "Merverdiavgift",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 122,
+      "navn": "Massemedier",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -128,3 +143,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

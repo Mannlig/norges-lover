@@ -1,4 +1,4 @@
-<!-- innholds-hash: 515894652a5441e4d59ace576b5845a136195d3e55b5e4ce9df1f406d5f23f68 -->
+<!-- innholds-hash: f1007f94f6338f61d7ced4c0e9f7e51b0afa16d8de2ed59220b3361a3a388f84 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om å gjøre Norge til en ledende nordisk fonds- og kapitalforvaltningsnasjon
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Dokument 8:28 S (2026–2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Næringsutvikling, Finanser, Aksjer
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200483
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 114,
+      "navn": "Næringsutvikling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 187,
+      "id": 187,
+      "navn": "Finanser",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 192,
+      "navn": "Aksjer",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -128,3 +150,4 @@
 
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

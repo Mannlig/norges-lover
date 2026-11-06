@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5c453c1559da286c261bab4e10ff663d2515749b3fd55eed754f543c2b590e61 -->
+<!-- innholds-hash: 2938249dbf1439f3f6b60c86e1e92a9aee3ab59d6955505624503094d3a3eaa8 -->
 
 # Har blitt skadet under arbeid, undervisning, rednings- eller militærtjeneste - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/yrkesskade
-- **Sist oppdatert i arkivet:** 2026-10-14T14:15:04Z
+- **Sist oppdatert i arkivet:** 2026-11-06T15:50:36Z
 
 ## Innhold
 
@@ -356,7 +356,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -380,3 +380,4 @@ Hverdager 9-15. Vi kan ringe deg tilbake hvis ventetiden er over 5 minutter.
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

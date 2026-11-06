@@ -1,11 +1,11 @@
-<!-- innholds-hash: d5271e27aee3c4bd0c428569589c4acf4d7e499b549f10ad5eedbf5b168d4ea0 -->
+<!-- innholds-hash: b183fdc3fa1230d52d990fef6f86250c330464955f697ae39dc39d9bd100f7c9 -->
 
 # Har ikke penger til mat, bolig eller andre utgifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ikke-penger
-- **Sist oppdatert i arkivet:** 2026-10-06T02:40:45Z
+- **Sist oppdatert i arkivet:** 2026-11-06T16:14:49Z
 
 ## Innhold
 
@@ -199,7 +199,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner mandag kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -217,3 +217,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

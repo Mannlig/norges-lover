@@ -1,4 +1,4 @@
-<!-- innholds-hash: 20443056564f9aa2889267e7d7b5a0e8f28ef4ae774290b0d9eb815dcf4d209e -->
+<!-- innholds-hash: 32c095c97a49daaa25731b098e3a764e8c24cf66fae306df5cb11ca16f2430ea -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister
 
@@ -13,10 +13,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 8:36 S (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Vegtrafikk
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,7 +27,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 47,
+      "navn": "Vegtrafikk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -164,3 +172,4 @@
 ## Endringshistorikk
 
 - **2026-11-04** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)
