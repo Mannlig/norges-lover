@@ -1,11 +1,11 @@
-<!-- innholds-hash: 18e260b54a76d9aaf79bd61bbef1f4a46616e886f396500784739b0eca9f761b -->
+<!-- innholds-hash: 7bcf8cf4a19da4d556fc07ab8ddcbd5062dc2f23a0a3b3c4dc01e84cf186d883 -->
 
 # Lønnsgaranti - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lonnsgaranti
-- **Sist oppdatert i arkivet:** 2026-10-13T21:41:05Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:14:34Z
 
 ## Innhold
 
@@ -240,7 +240,7 @@ Hvis det mangler opplysninger eller dokumenter i saken, kan saksbehandlingstiden
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknader | Innen 12 måneder |
+| Søknader | Innen 11 måneder |
 
 Feriepengekrav som er opptjent året før konkursåpningen, behandles vanligvis innen 2 måneder. Dette gjelder hvis bostyrer har sendt inn feriepengekravet ditt i et eget brev.
 
@@ -251,6 +251,8 @@ Hvis du har konkrete spørsmål om søknaden din, beregning av kravet ditt eller
 Har du generelle spørsmål om lønnsgarantiordningen eller saksbehandlingen til Nav, kan du kontakte oss på telefon 22 82 20 00.
 
 Hvis du trenger hjelp i kontakten din med Nav, kan du gi fullmakt til en person som kan hjelpe deg.
+
+Du kan for tiden ikke sende inn kjøreliste digitalt på grunn av oppdateringer vi gjør i våre systemer. Vi beklager ulempene dette medfører.
 
 [Lag fullmakt](https://www.nav.no/start/generell-fullmakt)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav951536?sub=paper)
 
@@ -331,3 +333,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

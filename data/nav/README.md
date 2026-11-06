@@ -135,7 +135,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Har ikke et sted å bo - nav.no](ikke-bolig.md)
 - [Har ikke penger til mat, bolig eller andre utgifter - nav.no](ikke-penger.md)
 - [Individuell plan - nav.no](individuell-plan.md)
-- [Informasjonskapsler og tilsvarende teknologi på nav.no - nav.no](informasjonskapsler.md)
+- [Om informasjonskapsler, hva vi lagrer og hvorfor - nav.no](informasjonskapsler.md)
 - [Inkluderingstilskudd - nav.no](inkluderingstilskudd.md)
 - [Betaling og innkreving for personer](innkreving-innbetaling.md)
 - [Innsyn i offentlige dokumenter og opplysninger - nav.no](innsyn.md)

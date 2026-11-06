@@ -1,11 +1,11 @@
-<!-- innholds-hash: a24d6dd7d39aef16f9d8f77e8b176df6e75e8a4d84445731ec345b7f286cce24 -->
+<!-- innholds-hash: d0e046c88d90a823935b955a460e5894e7067b56d4ccb04343c59ca0bb05edb7 -->
 
 # Bekreft at du vil være registrert som arbeidssøker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bekreft-arbeidssoker
-- **Sist oppdatert i arkivet:** 2026-10-13T21:30:57Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:04:32Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ Bekreftelse på at du ønsker å være registrert som arbeidssøker sender du in
 
 Husk å vente på kvittering på at vi har mottatt bekreftelsen før du lukker nettleseren.
 
-Hvis du ikke kan logge inn og sende bekreftelsen digitalt, kan du skrive ut og [sende meldekort på papir](https://www.nav.no/soknader/nb/person/arbeid/Meldekort/NAV%2000-10.01/brev) i posten. Du vil da måtte svare på flere spørsmål enn om du logger deg inn på nav.no, tilsvarende det gamle papirmeldekortet.
+Hvis du ikke kan logge inn og sende bekreftelsen digitalt, kan du skrive ut og [sende meldekort på papir](https://www.nav.no/fyllut/nav001001/pdf) i posten. Du vil da måtte svare på flere spørsmål enn om du logger deg inn på nav.no, tilsvarende det gamle papirmeldekortet.
 
 Hvis du sender bekreftelsen på papir, må du selv følge med på når den skal sendes inn og skrive hvilke 14 dager den gjelder for på meldekortet. Du kan også kontakte veilederen din for å få hjelp til å levere bekreftelsen.
 
@@ -44,7 +44,7 @@ Hvis du er usikker på hvordan du skal gå fram i din situasjon, bør du [kontak
 ### Hva må du svare på for å bekrefte at du vil være arbeidssøker?
 
 - Har vært i jobb de siste 14. dagene?
-- Ønsker å være registrert som arbeidssøker de neste 14. dagene?
+- Vil du fortsatt være registrert som arbeidssøker?
 
 Hvis du svarer nei på om du ønsker å være registrert, vil du ikke lenger stå registrert som arbeidssøker. Har du søkt eller mottar du pengestøtte som krever at du er registrert som arbeidssøker, stopper pengestøtten.
 
@@ -74,7 +74,7 @@ Du vil ikke lenger stå registrert som arbeidssøker hvis du
 
 Du kan når som helst [registrere deg](https://www.nav.no/registrer-arbeidssoker) på nytt hvis du ikke er registrert som arbeidssøker men ønsker å være det.
 
-Oppdatert 02.09.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -113,3 +113,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

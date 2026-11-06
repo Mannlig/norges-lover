@@ -1,11 +1,11 @@
-<!-- innholds-hash: eda1e0e08c115878564366e67c1b98eb9b005b9de4f14d50da38c20a6ec77390 -->
+<!-- innholds-hash: 9a8d43303f5b2047959f9869b253f1b8a39dcce1a2696b5536ba8e65421066e9 -->
 
 # Kontakt oss - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontaktoss
-- **Sist oppdatert i arkivet:** 2026-10-13T21:40:24Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:13:52Z
 
 ## Innhold
 
@@ -13,6 +13,7 @@
 
 ### Aktuelt
 
+- [Nå kommer etteroppgjøret for uføretrygd](https://www.nav.no/etteroppgjoret)
 - [Unge med uføretrygd vil få SMS fra Nav](https://www.nav.no/sms-unge-ufore)
 - [Stortinget har vedtatt delvis utfasing av stønadene til enslig mor eller far](https://www.nav.no/delvis-utfasing-enslig-mor-far)
 - [Regulering av grunnbeløpet og pengestøtter fra 1. mai 2026](https://www.nav.no/regulering-2026)
@@ -213,7 +214,7 @@ Her finner du adressen til Nav hjelpemiddelsentral i regionen din, og informasjo
 
 Har du spørsmål om et vedtak fra Nav, kan du ringe eller [skrive til oss](https://www.nav.no/kontaktoss#skriv-til-oss).
 
-Oppdatert 25.09.2026
+Oppdatert 15.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/kontaktoss) av norges-lover-bot.*
@@ -224,3 +225,4 @@ Oppdatert 25.09.2026
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

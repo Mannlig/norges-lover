@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6146908a3f5f2d8ae438d748545c945da583ab0c90aa631ba1c94d043e4f602e -->
+<!-- innholds-hash: 505df3818eadbd425b475d7d6a7f33e9a69b867e2d18595bcb19d5b3bb470d8c -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-21T12:41:22Z
+- **Sist oppdatert i arkivet:** 2026-11-06T01:59:15Z
 
 ## Innhold
 
@@ -126,11 +126,11 @@ Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelt
 
 ### Artikler om psykososialt arbeidsmiljø
 
+Nyhet [Fra krav til praksis: Jobb forebyggende med psykososialt arbeidsmiljø Hva kjennetegner et godt psykososialt arbeidsmiljø og hvordan kan dere finne tiltak som funker på arbeidsplassen deres? I november, desember og januar inviterer Arbeidstilsynet til gratis seminarer i Oslo, Trondheim, Bodø og Tromsø. Publisert 21.10.2026 Lesetid: 2 min](https://www.arbeidstilsynet.no/nyheter/fra-krav-til-praksis-jobb-forebyggende-med-psykososialt-arbeidsmiljo/)
+
+Nyhet [Er det de ansatte som må tåle mer eller jobben som må endres? Tre misforståelser om psykososialt arbeidsmiljø Psykososialt arbeidsmiljø har fått mye oppmerksomhet etter at reglene ble tydeligere ved årsskiftet. Men noen misforståelser går fortsatt igjen. Her rydder Arbeidstilsynet opp i tre av dem. Publisert 19.10.2026 Lesetid: 5 min](https://www.arbeidstilsynet.no/nyheter/er-det-de-ansatte-som-ma-tale-mer-eller-jobben-som-ma-endres-tre-misforstaelser-om-psykososialt-arbeidsmiljo/)
+
 [Innlegg: Ingen skal tåle vold og trusler på jobb – heller ikke i skolen En lærer blir slått. En assistent blir sparket. En miljøarbeider går hjem med en klump i magen etter nok en trusselsituasjon. Dette skjer i norsk skole. Publisert 28.09.2026](https://www.arbeidstilsynet.no/nyheter/innlegg-ingen-skal-tale-vold-og-trusler-pa-jobb--heller-ikke-i-skolen/)
-
-Meninger [Innlegg: Når alt haster på jobb, må du slippe å stå alene NRK-serien LIS viser en sykehushverdag der mye haster og ansvaret er stort. Med høyt press må legene ha støtte og rammer som gjør det mulig å gjøre en god jobb. Publisert 16.09.2026 Lesetid: 3 min](https://www.arbeidstilsynet.no/nyheter/nar-alt-haster-pa-jobb-ma-du-slippe-a-sta-alene/)
-
-Nyhet [Skolene må bli bedre på å forebygge vold og trusler – Lærere og andre ansatte i skolen skal kunne gå på jobb uten å risikere å bli utsatt for vold og trusler, sier direktør Ingvill Kvernmo. En ny rapport fra Arbeidstilsynet viser at mange skoler fortsatt har et stykke igjen før dette er godt nok ivaretatt. Ved nær ni av ti skoler fant vi mangler i arbeidet med å kartlegge risiko, vurdere farer og sette inn tiltak for å beskytte arbeidstakerne. Publisert 17.09.2026 Lesetid: 5 min](https://www.arbeidstilsynet.no/nyheter/nar-9-av-10-skoler-forebygger-ikke-vold-og-trusler-godt-nok/)
 
 [Flere aktuelle saker](https://www.arbeidstilsynet.no/nyheter/)
 
@@ -159,3 +159,4 @@ Fann du det du leitte etter?
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-21** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

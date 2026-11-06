@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3ea409527898600cfc3ca634315acea4c77b888ef6e3bfc5f8f33c176c12b14c -->
+<!-- innholds-hash: 0876a3b70fe780ad29aa791d095c96c9a2cad836727243f38ac40f26d442e948 -->
 
 # Krav til bygningsmessige løsninger i arbeidsbygg og arbeidslokaler
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-06T16:03:37Z
+- **Sist oppdatert i arkivet:** 2026-11-06T02:56:23Z
 
 ## Innhold
 
@@ -28,19 +28,17 @@ Kravene gjelder for både eksisterende, [midlertidige](https://www.arbeidstilsyn
 
 Bygge nytt eller bygge om? [Søk om Arbeidstilsynets samtykke.](https://www.arbeidstilsynet.no/regelverk/byggesak/)
 
-Slik kan dere oppfylle kravene til bygningsmessige løsninger til arbeidslokaler og arbeidsbygg:
+[Skader og ulykker](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/forebygge-skader-og-ulykker/)
 
-[Forebygging av skader og ulykker](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/forebygge-skader-og-ulykker/)
+[Handikaptoalett, trinnfri atkomst og heis](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-heis-og-handicaptoalett/)
 
-[Krav til handikaptoalett, trinnfri atkomst og heis](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-heis-og-handicaptoalett/)
+[Ventilasjon og inneklima](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-ventilasjon/)
 
-[Krav til ventilasjon og inneklima](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-ventilasjon/)
+[Sykdom og skader fra stråling, biologisk materiale og kjemisk helsefare](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/straling-biologisk-materiale-og-kjemi/)
 
-[Forebygging av sykdom og skader fra stråling, biologisk materiale og kjemisk helsefare](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/straling-biologisk-materiale-og-kjemi/)
+[Støy](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/beskyttelse-mot-stoy/)
 
-[Beskyttelse mot støy](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/beskyttelse-mot-stoy/)
-
-[Forebygging av ergonomisk helsefare](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/ergonomi/)
+[Ergonomisk helsefare](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/ergonomi/)
 
 [Gulvareal og romhøyde](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/gulvareal-og-romhoyde/)
 
@@ -72,11 +70,11 @@ Slik kan dere oppfylle kravene til bygningsmessige løsninger til arbeidslokaler
 
 Se også veiledningene om krav til arbeidsbygg og arbeidslokaler i utvalgte bransjer:
 
-[Krav til fysisk arbeidsmiljø i brannstasjoner](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-fysisk-arbeidsmiljo-i-brannstasjonar/)
+[Fysisk arbeidsmiljø på brannstasjoner](https://www.arbeidstilsynet.no/regelverk/byggesak/krav-til-bygningsmessige-losninger/krav-til-fysisk-arbeidsmiljo-i-brannstasjonar/)
 
-[Krav til arbeidslokaler og arbeidstøy i ambulansetjenesten](https://www.arbeidstilsynet.no/arbeidsmiljo/krav-til-arbeidslokaler-og-arbeidstoy-i-ambulansetjenesten/)
+[Fysisk arbeidsmiljø i helseinstitusjoner](https://www.arbeidstilsynet.no/arbeidsmiljo/utforming-av-arbeidsplassen/arbeidsmiljo-i-helseinstitusjoner/)
 
-[Krav til fysisk arbeidsmiljø i helseinstitusjoner](https://www.arbeidstilsynet.no/arbeidsmiljo/utforming-av-arbeidsplassen/arbeidsmiljo-i-helseinstitusjoner/)
+[Arbeidslokaler og arbeidstøy i ambulansetjenesten](https://www.arbeidstilsynet.no/arbeidsmiljo/krav-til-arbeidslokaler-og-arbeidstoy-i-ambulansetjenesten/)
 
 ### Følg gjerne Arbeidstilsynets preaksepterte løsninger
 
@@ -95,3 +93,4 @@ Fann du det du leitte etter?
 
 - **2026-05-22** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

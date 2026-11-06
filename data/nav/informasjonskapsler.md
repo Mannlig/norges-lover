@@ -1,25 +1,25 @@
-<!-- innholds-hash: 7980284796a83717f4e04edcfdd8f88001ee487bb697afa9de42f4dcd3bbfac2 -->
+<!-- innholds-hash: c7c27dee6a85afdc2fab245218872ee033a2755b2f1a88a39da94597a8d73884 -->
 
-# Informasjonskapsler og tilsvarende teknologi på nav.no - nav.no
+# Om informasjonskapsler, hva vi lagrer og hvorfor - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/informasjonskapsler
-- **Sist oppdatert i arkivet:** 2026-10-13T21:36:47Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:10:20Z
 
 ## Innhold
 
 Om Nav
 
-## Informasjonskapsler og tilsvarende teknologi på nav.no
+## Om informasjonskapsler, hva vi lagrer og hvorfor
 
-Om hvilke informasjonskapsler (cookies) og tilsvarende teknologier vi bruker, hva de brukes til og hvordan du selv kan tilpasse hvilke informasjonskapsler vi får bruke.
+Se hvilke informasjonskapsler (cookies) og lignende teknologier som brukes på nav.no, hva de brukes til, og hvilke du kan velge å si ja eller nei til.
 
 ### Hva er informasjonskapsler?
 
-Nav bruker informasjonskapsler og tilsvarende teknologi på både åpne og innloggede sider på nav.no. Dette er teknologi som lagrer små biter med informasjon i nettleseren din, eller som henter ut enkelte opplysninger om datamaskinen, nettbrettet eller mobilen din. For enkelhets skyld bruker vi begrepet «informasjonskapsel» når vi beskriver denne typen teknologi.
+Nav bruker informasjonskapsler og lignende teknologi på både åpne og innloggede sider på nav.no. Dette er teknologier som lagrer små mengder informasjon i nettleseren din, eller som henter inn enkelte opplysninger om datamaskinen, nettbrettet eller mobilen din. Selv om teknologiene varierer, bruker vi her samlebegrepet «informasjonskapsler» om denne typen teknologi.
 
-Vi trenger informasjonskapsler for å gjøre nav.no bedre, sikrere og enklere å bruke.
+Vi bruker informasjonskapsler for å gjøre nav.no bedre, sikrere og enklere å bruke. Vi skiller mellom nødvendige og valgfrie informasjonskapsler. De nødvendige sørger for at nav.no fungerer som det skal og er sikkert, og kan ikke velges bort. De valgfrie brukes bare hvis du har sagt ja til dem.
 
 ### Hvilke informasjonskapsler bruker vi?
 
@@ -315,15 +315,15 @@ Brukes for å skille de forskjellige enhetene som besøker siden fra hverandre.
 
 Brukes for å være sikker på at en innlogging (sesjon) er gyldig, og at den ikke har blitt manipulert eller forfalsket.
 
-### Godkjenn eller avvis informasjonskapsler
+### Si ja eller nei til valgfrie informasjonskapsler
 
-Første gang du besøker nettsidene våre, spør vi deg om vi får bruke valgfrie informasjonskapsler. Hvis du svarer ja, bruker vi valgfrie informasjonskapsler i tillegg til de nødvendige. Etter 90 dager sletter vi de valgfrie informasjonskapslene og spør deg på nytt.
+Første gang du besøker nettsidene våre, spør vi deg om vi får samle informasjon om hvordan nav.no brukes ved hjelp av valgfrie informasjonskapsler. Hvis du svarer ja, bruker vi valgfrie informasjonskapsler i tillegg til de nødvendige. Etter 90 dager sletter vi de valgfrie informasjonskapslene og spør deg på nytt.
 
-Du kan når som helst endre samtykket du har gitt.
+Du kan når som helst endre valget ditt.
 
 [Endre samtykke for informasjonskapsler](https://www.nav.no/)
 
-Det ligger også en lenke i menyen i bunnen av nav.no, som du kan klikke på for å endre samtykke for informasjonskapsler.
+Det ligger også en lenke i bunnen av nav.no, som du kan klikke på for å endre valget ditt.
 
 Du kan bruke innstillingene i nettleseren din for å avvise bruk av informasjonskapsler. Hvis du slår av all bruk av informasjonskapsler, kan det påvirke hvordan nav.no og tjenestene våre fungerer, og gi deg en dårligere opplevelse.
 
@@ -343,7 +343,7 @@ Du har rett til å klage til Datatilsynet hvis du mener måten vi behandler pers
 
 [Klage til Datatilsynet](https://www.datatilsynet.no/om-datatilsynet/kontakt-oss/klage-til-datatilsynet/)
 
-Oppdatert 24.09.2026
+Oppdatert 21.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/informasjonskapsler) av norges-lover-bot.*
@@ -354,3 +354,4 @@ Oppdatert 24.09.2026
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

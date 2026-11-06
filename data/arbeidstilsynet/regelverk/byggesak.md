@@ -1,4 +1,4 @@
-<!-- innholds-hash: e8aa1f2fdc207f23e9fb05a7dbd2a02770bce4f57a11cb2120f750d0b5c44328 -->
+<!-- innholds-hash: 67bc4bcbb8b7ac9d80a564b847201fbee78d80209dc1071148654c6d3148b803 -->
 
 # Byggesak – søk om Arbeidstilsynets samtykke
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/byggesak/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-13T22:24:53Z
+- **Sist oppdatert i arkivet:** 2026-11-06T01:40:34Z
 
 ## Innhold
 
@@ -107,7 +107,7 @@ Søknaden om Arbeidstilsynets samtykke etter arbeidsmiljøloven § 18-9 erstatte
 Både søknaden og meldingen skal sendes til Arbeidstilsynet, men de har to ulike formål og skal sendes til ulik tid. Dette er forskjellen:
 
 - Søknaden om Arbeidstilsynets samtykke gjelder planene for selve tiltaket eller arbeidsbygget. Dere må få samtykke før dere får igangsettingstillatelse fra kommunen.
-- Forhåndsmelding etter byggherreforskriften gjelder helse- miljø- og sikkerhetsarbeidet som foregår under bygge- og anleggsarbeidet, det vil si når tiltaket oppføres. Dette handler altså om selve byggearbeidet og er ikke en del av Arbeidstilsynets samtykke.
+- Forhåndsmelding etter byggherreforskriften gjelder helse-, miljø- og sikkerhetsarbeidet som foregår under bygge- og anleggsarbeidet, det vil si når tiltaket oppføres. Dette handler altså om selve byggearbeidet og er ikke en del av Arbeidstilsynets samtykke.
 
 [Send forhåndsmelding om bygge- og anleggsarbeid](https://www.arbeidstilsynet.no/hms/hms-i-bygg-og-anlegg/forhandsmelding-i-bygg-og-anlegg/)
 
@@ -146,3 +146,4 @@ Fann du det du leitte etter?
 
 - **2026-05-22** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

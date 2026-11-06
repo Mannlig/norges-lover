@@ -1,4 +1,4 @@
-<!-- innholds-hash: b76e7ea60828d97df9c0736990873f55f907b7498241782b0fa95c777a6017c9 -->
+<!-- innholds-hash: ecb7600ecb0d09ad1970ab758d476632f5e933a5ffbf548326c92b44effeb5e2 -->
 
 # Slik leser du byggteknisk forskrift
 
@@ -6,8 +6,8 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/alt-om-tek/slik-leser-du-tek17/
 - **Sist oppdatert (kilde):** Sist endret
-        01.07.2026
-- **Sist oppdatert i arkivet:** 2026-10-13T17:58:43Z
+        01.07.202626
+- **Sist oppdatert i arkivet:** 2026-11-05T21:16:35Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@
 
 Byggteknisk forskrift – TEK17 – er i hovedsak bygget opp rundt funksjonskrav og angir flere ytelser som preaksepterte. Hva betyr egentlig dette?
 
-Sist endret 01.07.2026
+Sist endret 01.07.202626
 
 For å forstå oppbyggingen av den funksjonsbaserte byggeforskriften og hvordan den skal benyttes i byggeprosjekter, får du her en forklaring på de mest sentrale begrepene.
 
@@ -82,3 +82,4 @@ Byggteknisk forskrift trådte i kraft 1. juli 2017. Et av målene for den nye fo
 - **2026-05-16** Første gang hentet
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-05** Innhold endret (se git-historikk for diff)

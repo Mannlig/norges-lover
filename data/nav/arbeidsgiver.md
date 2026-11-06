@@ -1,11 +1,11 @@
-<!-- innholds-hash: f1c8e016018c3b22f113095cfeecc51ac5cbe3aec118a07fabadd6b8fd144b70 -->
+<!-- innholds-hash: bfe8d8ddcf252aa37b59699554be8cf729d8204162fdbd36279d3c9a5ab1052e -->
 
 # Forside arbeidsgiver - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver
-- **Sist oppdatert i arkivet:** 2026-10-13T21:28:41Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:03:11Z
 
 ## Innhold
 
@@ -32,8 +32,8 @@
 
 ### Aktuelt
 
+- [Altinn 2-rollene avvikles](https://www.nav.no/arbeidsgiver/altinn2rollene) 26. oktober 2026
 - [Sende inntektsmelding på nav.no](https://www.nav.no/arbeidsgiver/sende-inntektsmelding) 8. juni 2026
-- [Ungdomsløftet – samarbeid om å få flere unge i arbeid](https://www.nav.no/arbeidsgiver/ungdomsloftet) 22. april 2026
 
 [Flere saker](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -43,3 +43,4 @@
 ## Endringshistorikk
 
 - **2026-10-13** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)

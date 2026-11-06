@@ -1,11 +1,11 @@
-<!-- innholds-hash: b7da3f8c7a3136df7d4aa92c9048c29599a00be1cc3bd451d1b48944f14db2ba -->
+<!-- innholds-hash: 1eab8a27dd0619c955b58ae6ebea590153139bf0d4f3af28dd7da590da69211a -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist oppdatert i arkivet:** 2026-10-13T21:31:41Z
+- **Sist oppdatert i arkivet:** 2026-11-06T00:05:17Z
 
 ## Innhold
 
@@ -185,7 +185,7 @@ Når du søker om arbeidsledighetstrygd i hjemlandet ditt, skal hjemlandet ditt 
 
 Hvis hjemlandet ditt ikke ber Nav om denne bekreftelsen, kan du søke om en PD U1-attest selv. En PD U1-attest bekrefter at du har jobbet i Norge og kan gi deg rett til arbeidsledighetstrygd i hjemlandet ditt. Ta kontakt med det lokale arbeidskontoret ditt for å finne ut om du bør søke om PD U1 selv.
 
-Saksbehandlingstiden for PD U1 er for tiden 8 uker.
+Saksbehandlingstiden for PD U1 er for tiden 5 uker.
 
 #### Søk om PD U1-attest
 
@@ -217,7 +217,7 @@ Når du søker om arbeidsledighetstrygd i hjemlandet ditt, skal hjemlandet ditt 
 
 Hvis hjemlandet ditt ikke ber Nav om denne bekreftelsen, kan du søke om en PD U1-attest. En PD U1-attest bekrefter at du har jobbet i Norge og kan gi deg rett til arbeidsledighetstrygd i hjemlandet ditt. Ta kontakt med det lokale arbeidskontoret ditt for å finne ut om du bør søke om PD U1 selv.
 
-Saksbehandlingstiden for PD U1 er for tiden 8 uker.
+Saksbehandlingstiden for PD U1 er for tiden 5 uker.
 
 #### Søk om PD U1-attest
 
@@ -257,7 +257,7 @@ Når du søker om arbeidsledighetstrygd i hjemlandet ditt, skal hjemlandet ditt 
 
 Hvis hjemlandet ditt ikke ber Nav om denne bekreftelsen, kan du søke om en PD U1-attest. En PD U1-attest bekrefter at du har jobbet i Norge og kan gi deg rett til arbeidsledighetstrygd i hjemlandet ditt. Ta kontakt med det lokale arbeidskontoret ditt for å finne ut om du bør søke om PD U1 selv.
 
-Saksbehandlingstiden for PD U1 er for tiden 8 uker.
+Saksbehandlingstiden for PD U1 er for tiden 5 uker.
 
 #### Søk om PD U1-attest
 
@@ -649,7 +649,7 @@ Hvis du venter med å sende inn dokumentasjon, kan det ta lengre tid før du få
 | --- | --- |
 | Søknad | 6 uker |
 | Internasjonal søknad ved permittering | 7 uker |
-| Internasjonalt – utstedelse av attest PD U1 | 8 uker |
+| Internasjonalt – utstedelse av attest PD U1 | 5 uker |
 | Internasjonalt – utstedelse av attest PD U2 | 4 uker |
 
 #### Saksbehandlingstid for klage og anke
@@ -1232,3 +1232,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)
