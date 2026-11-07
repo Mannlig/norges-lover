@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2d381827d9c3d36df5759c3f6ddd477e2c697703bbcfdd4f87a856b7cd489aa9 -->
+<!-- innholds-hash: 2c0f91b64f2fb0f45173ca7f9ac7521316ba875a22412f71151cd6c3bfb45ff6 -->
 
 # Forhøyet hjelpestønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forhoyet-hjelpestonad
-- **Sist oppdatert i arkivet:** 2026-10-06T04:41:14Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:11:11Z
 
 ## Innhold
 
@@ -150,7 +150,7 @@ Forhøyet hjelpestønad blir utbetalt en gang per måned.
 
 Stønaden til barn blir utbetalt til den bankkontoen som foreldrene eller vergen bestemmer. Kontoen kan være i navnet til en av foreldrene, vergen eller barnet.
 
-For å registrere kontonummer til barn, må du fylle ut [skjemaet melding om nytt bankkontonummer](https://www.nav.no/start/soknad-endring-bankkontonummer) og sende det i posten til Nav.
+For å registrere kontonummer til barn, må du fylle ut skjemaet melding om nytt bankkontonummer og [sende det i posten til Nav.](https://www.nav.no/kontonummer#melde)
 
 Utbetalingsdato er dagen Nav garanterer at pengene skal være på kontoen din.
 
@@ -205,7 +205,7 @@ Du må også melde fra hvis du eller barnet ditt får endringer i helsetilstande
 - [Rundskriv om forhøyet hjelpestønad (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-forhoyet-hjelpestonad)
 - [Retningslinjer om forhøyet hjelpestønad for visse type lidelser (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/retningslinjer-om-hjelpestonad-forhoyet-hjelpestonad-for-visse-typer-lidelser)
 
-Oppdatert 12.02.2026
+Oppdatert 16.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -219,7 +219,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -229,7 +229,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -245,3 +245,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

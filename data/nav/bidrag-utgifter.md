@@ -1,11 +1,11 @@
-<!-- innholds-hash: e04aa83fe8babdf28b3c5a81d150b0779eed1654474a06bf626d1b752bafbed3 -->
+<!-- innholds-hash: 08bca45c976a673f0b468bb447b034dd3e3072ac80e3de7c17862fcda99b07c9 -->
 
 # Særbidrag (tidligere bidrag til særlige utgifter) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidrag-utgifter
-- **Sist oppdatert i arkivet:** 2026-10-06T04:36:25Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:06:06Z
 
 ## Innhold
 
@@ -143,8 +143,8 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 15 uker |
-| Klage til Nav klageinstans | 4 måneder |
+| Klage til Nav-enhet | 6 måneder |
+| Klage til Nav klageinstans | 6 måneder |
 
 [Klagerettigheter](https://www.nav.no/klagerettigheter)
 
@@ -168,7 +168,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -178,7 +178,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -196,3 +196,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

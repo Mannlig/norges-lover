@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed886bb095b582156dfb38fef5067aa59d508d5a532a2ae56bcd28df13cbf12f -->
+<!-- innholds-hash: f53badac2313e48b084ad168c7ee5091dcd643a1451b6fb84513c7bd87597498 -->
 
 # Briller til forebygging eller behandling av amblyopi - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/amblyopi
-- **Sist oppdatert i arkivet:** 2026-10-06T04:32:14Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:03:15Z
 
 ## Innhold
 
@@ -139,6 +139,8 @@ Mer informasjon til deg som
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -204,7 +206,7 @@ Behovet skal som hovedregel ha grunnlag i en ny synsundersøkelse som er utført
 
 [Regler for særskilte hjelpemiddelgrupper](https://lovdata.no/nav/rundskriv/v7-10-07acd?q=amblyopi#KAPITTEL_4-13)
 
-Oppdatert 06.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -218,7 +220,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/amblyopi) av norges-lover-bot.*
@@ -233,3 +235,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

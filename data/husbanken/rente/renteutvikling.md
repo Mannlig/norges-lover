@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6e53e177b95a1a840d6b1731296700a827746704edcb87171a7b255d1120a5f4 -->
+<!-- innholds-hash: 3d7f80c7cd1f5f132e4be2af4c86a426ce04a85f4482c6be34020d8ad705cc24 -->
 
 # Historisk renteutvikling
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/rente/renteutvikling/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:33:59Z
+- **Sist oppdatert i arkivet:** 2026-11-07T19:34:14Z
 
 ## Innhold
 
@@ -37,7 +37,7 @@ Diagram over historisk renteutvikling for fast og flytende rente
 | September | 4,659 | 4.525 | 4,371 | 4,659 | 4,025 |
 | Oktober | 4,726 | 4,602 | 4,487 | 4,774 | 4,025 |
 | November | 4,774 | 4,650 | 4,535 | 4,822 | 4,131 |
-| Desember |  |  |  |  |  |
+| Desember | 4,975 | 4,841 | 4,659 | 4,946 | 4,131 |
 
 **Terminlengde kvartal 2026**
 
@@ -54,7 +54,7 @@ Diagram over historisk renteutvikling for fast og flytende rente
 | September | 4,677 | 4,542 | 4,387 | 4,677 | 4,038 |
 | Oktober | 4,745 | 4,619 | 4,503 | 4,793 | 4,038 |
 | November | 4,793 | 4,668 | 4,552 | 4,841 | 4,145 |
-| Desember |  |  |  |  |  |
+| Desember | 4,996 | 4,861 | 4,677 | 4,967 | 4,145 |
 
 **Terminlengde halvår 2026**
 
@@ -71,7 +71,7 @@ Diagram over historisk renteutvikling for fast og flytende rente
 | September | 4,705 | 4,568 | 4,411 | 4,705 | 4,059 |
 | Oktober | 4,773 | 4,646 | 4,529 | 4,822 | 4,059 |
 | November | 4,822 | 4,695 | 4,578 | 4,871 | 4,167 |
-| Desember |  |  |  |  |  |
+| Desember | 5,027 | 4,890 | 4,705 | 4,998 | 4,167 |
 
 ### Rentesatser i 2025
 
@@ -136,3 +136,4 @@ Sist oppdatert: 07.09.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: d02aff78272a110a70d0204a41434706443859944b4bcc2cceed7f0398779511 -->
+<!-- innholds-hash: 4674f0ac5fd258a509964b62eeca8190480059fb3e7a3b4f7a2a1b5a0feeec52 -->
 
 # Er berørt av krigen i Ukraina  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ukraina
-- **Sist oppdatert i arkivet:** 2026-10-06T13:24:00Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:18:18Z
 
 ## Innhold
 
@@ -91,7 +91,7 @@ Trenger du hjelp til å ta valg om utdanning, opplæring eller arbeid, kan du f�
 
 Karriereveiledning er gratis for alle over 19 år. Du får hjelp til å bli bedre kjent med mulighetene dine og støtte til å ta valg som passer for deg og din situasjon.
 
-Du finner [oversikt over offentlige karrieresentre](https://karriereveiledning.no/offentlige-karrieresentre) på fylkeskommunens nettsider.
+Du finner [oversikt over offentlige karrieresentre](https://karriereveiledning.no/karrierevalg/karrieresenter-i-norge) på fylkeskommunens nettsider.
 
 #### Veiledning for arbeidssøkere (Ukrainsk)
 
@@ -360,7 +360,7 @@ Om rettigheter og plikter i arbeidslivet.
 
 Informasjon fra Arbeidstilsynet
 
-Oppdatert 26.08.2026
+Oppdatert 16.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -374,13 +374,13 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -399,3 +399,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

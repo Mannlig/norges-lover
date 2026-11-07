@@ -1,11 +1,11 @@
-<!-- innholds-hash: f1e1fa8b14b8261ba53f58fb1e5416ad8fd6b9c499a0b85a24c8bb030b2bd7e7 -->
+<!-- innholds-hash: 84355bfa2dd5a2cd49b82bc14ed3ecbe874e3b899832668ba558b184f9fe1e19 -->
 
 # Brystprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/brystprotese
-- **Sist oppdatert i arkivet:** 2026-10-06T04:39:48Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:09:45Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om brystprotese | 16 uker |
+| Søknad om brystprotese | 17 uker |
 
 #### Levering og ventetid
 
@@ -116,7 +116,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 16 uker |
+| Klage til Nav-enhet | 17 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -137,7 +137,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -151,7 +151,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/brystprotese) av norges-lover-bot.*
@@ -165,3 +165,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

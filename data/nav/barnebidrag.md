@@ -1,11 +1,11 @@
-<!-- innholds-hash: a45a5c6d40190d57ff14514c9a4774ba1b875972d81a0cd1e266440c5241695c -->
+<!-- innholds-hash: 6387a8c3427e605899d919f34f9de9f4f43a6aea705c4aaf45df41d8ac6a323a -->
 
 # Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnebidrag
-- **Sist oppdatert i arkivet:** 2026-10-06T13:28:09Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:20:28Z
 
 ## Innhold
 
@@ -47,7 +47,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 9 måneder |
+| Søknad | 10 måneder |
 | Internasjonal søknad | 8 måneder |
 
 #### Få forslag til barnebidrag med bidragskalkulatoren
@@ -241,7 +241,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 9 måneder |
+| Søknad | 10 måneder |
 | Internasjonal søknad | 8 måneder |
 
 #### Du kan sende en beskjed til oss
@@ -645,7 +645,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -655,7 +655,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -673,3 +673,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

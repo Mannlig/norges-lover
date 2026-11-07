@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa085abad7bad2d5cfd700d73ba6d02abfe44e8e82f7335a40f260d5e5c47193 -->
+<!-- innholds-hash: 90a50f32734cc26b2132050e62a76d872ad830eb421afcc324a956decf6d9327 -->
 
 # Oppgjørsrapport arbeidsgiver – refusjoner fra Nav  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/oppgjorsrapport
-- **Sist oppdatert i arkivet:** 2026-10-15T15:28:34Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:02:35Z
 
 ## Innhold
 
@@ -13,33 +13,25 @@ For arbeidsgivere
 
 ## Oppgjørsrapport arbeidsgiver – refusjoner fra Nav
 
-Oppgjørsrapporten (tidligere kalt K27) gir oversikt over utbetalte refusjoner fra Nav. Du kan sjekke om utbetalingen stemmer med det virksomheten forventer.
-
-Nytt: Nav sender oppgjørsrapport via Altinn 3
-
-15. juni 2026 avvikles Altinn 2, og vi sender kun rapporter via Altinn 3.
-
-Leverandører av lønns- og personalsystem må ta i bruk nytt API før 15. juni 2026. Her er [teknisk info om API for oppgjørsrapport](https://github.com/navikt/sokos-oppgjorsrapporter/wiki/Forel%C3%B8pig-fremdriftsplan).
+Oppgjørsrapporten gir oversikt over utbetalte refusjoner fra Nav. Du kan sjekke om utbetalingen stemmer med det virksomheten forventer.
 
 ### Om oppgjørsrapporten
 
 Oppgjørsrapporten viser informasjon om refusjon av sykepenger, foreldrepenger og svangerskapspenger, pleie/opplæring- og omsorgspenger.
 
-For å se rapporten må du logge inn på nav.no.
+Rapporten blir tilgjengelig 1–2 virkedager etter utbetaling. Du kan se den ved å logge inn på nav.no eller følge lenken i varselet i Altinn.
 
 [Logg inn på nav.no](https://www.nav.no/oppgjorsrapporter/ref-arbg)
 
-Rapporten blir tilgjengelig i innboksen i Altinn 1-2 virkedager etter utbetaling. Hvis du ikke får varsel om ny rapport i Altinn 3 innboks, må du få delegert riktig tilgang.
-
 Hvis rapporten viser et minusbeløp knyttet til organisasjonsnummeret ditt, bør du undersøke om virksomheten har fått et brev fra Nav som forklarer trekket.
 
-Hvis du mangler refusjon for en ansatt, [sjekk saksbehandlingstidene til Nav her](https://www.nav.no/arbeidsgiver/saksbehandlingstider). Ved avvik bør du kontakte Nav.
+Hvis du mangler refusjon for en ansatt, [sjekk saksbehandlingstidene til Nav](https://www.nav.no/arbeidsgiver/saksbehandlingstider). Ved avvik bør du kontakte Nav.
 
 Nav utbetaler refusjoner slik at de er på konto første virkedag i en ny måned. Hvis du får refusjon utenom dette, vil du få en egen oppgjørsrapport i etterkant.
 
 Pengene utbetales til det kontonummeret virksomheten har registrert hos Nav.
 
-Her kan du lese om hvem som kan registrere kontonummer og hvordan det gjøres: [Registrere kontonummer for utbetalinger fra Nav](https://www.nav.no/arbeidsgiver/endre-kontonummer)
+Her kan du lese om hvem som kan registrere kontonummer og hvordan det gjøres: [Registrere kontonummer for utbetalinger fra Nav](https://www.nav.no/arbeidsgiver/endre-kontonummer).
 
 ### Oppgjørsrapport med feriepenger
 
@@ -47,7 +39,7 @@ Rapporten i juni inneholder både feriepenger fra i fjor og ordinære refusjoner
 
 Hvis en stønadsperiode fra i fjor beregnes på nytt etter juni, blir også feriepengene regnet om, og endringen vises på neste måneds oppgjørsrapport.
 
-Her kan du lese mer om [ferie og feriepenger](https://www.nav.no/feriepenger#stotter) for ulike pengestøtter og [refusjon av feriepenger til arbeidsgiver](https://www.nav.no/arbeidsgiver/feriepenger#refusjon-feriepenger)
+Les mer om [ferie og feriepenger](https://www.nav.no/feriepenger#stotter) for ulike pengestøtter og [refusjon av feriepenger til arbeidsgiver](https://www.nav.no/arbeidsgiver/feriepenger#refusjon-feriepenger).
 
 ### Tilgang til rapporten
 
@@ -69,7 +61,7 @@ Tjenesten inneholder noe sensitiv informasjon og krever derfor minimum innloggin
 
 #### Hvordan lese eller laste ned rapporten?
 
-Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn. Rapporten er tilgjengelig i tre format:
+Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn eller ved å logge deg inn via nav.no. Rapporten er tilgjengelig i tre format:
 
 1. PDF-format som kan åpnes for lesing eller utskrift
 2. CSV-fil som kan lastes ned og overføres til virksomhetens lønns- og økonomisystem. Du må åpne/laste ned filene for videre bruk i egen virksomhet. Når meldingen med vedlegget er åpnet, vil det bli registrert som om rapporten er lest eller lastet ned.
@@ -113,19 +105,21 @@ Du finner rapporten ved å klikke på lenken i meldingen i innboksen på Altinn.
 
 1. Gjennom API der din lønns – og personalleverandør må koble seg opp slik at rapporten leses direkte inn i ditt system.
 
-#### Finner du ikke oppgjørsrapporten i innboksen i Altinn?
+Leverandører av lønns- og personalsystem som skal ta i bruk nytt API, finner mer informasjon på Github: [Teknisk informasjon om API for oppgjørsrapport](https://github.com/navikt/sokos-oppgjorsrapporter/wiki/Forel%C3%B8pig-fremdriftsplan).
 
-- Sjekk at riktig hovedenhet eller underenhet er valgt i «Rapporterer for»-feltet øverst på siden i Altinn.
+#### Finner du ikke oppgjørsrapporten?
+
+- Sjekk at riktig hovedenhet eller underenhet er valgt.
 - Sjekk at du har riktige tilganger i Altinn.
   - Den vanligste tilgangspakken for Oppgjørsrapport Arbeidsgiver - refusjoner fra Nav heter: Lønn med personopplysninger av særlig kategori.
   - [Mer informasjon om tilgangsstyring i Altinn](https://info.altinn.no/nyheter/enklere-tilgangsstyring-i-nye-altinn/).
 - Hvis andre i virksomheten har sett på rapporten, kan den ligge som arkivert. Da finner du rapporten i arkivmappen i Altinn.
 - Hvis andre i virksomheten har slettet rapporten, ligger den i Slettede elementer i Altinn.
-- Hvis du har avsluttet en virksomhet og har fått refusjon, men ikke har fått oppgjørsrapport, så avvent og følg med i Altinn. Ta kontakt med Nav hvis rapporten ikke har dukket opp i Altinn innen midten av måneden.
+- Hvis du har avsluttet en virksomhet og har fått refusjon, men ikke har fått oppgjørsrapport, avvent og følg med i Altinn eller på nav.no. Ta kontakt med Nav hvis rapporten ikke har dukket opp innen midten av måneden.
   - Eksempel: Hvis du skulle fått rapporten 1. april, kan du vente til 15. april før du eventuelt kontakter Nav.
   - [Sjekk her hva du må gjøre hvis du omorganiserer](https://www.nav.no/arbeidsgiver/refusjon-underenhet).
 
-Oppdatert 09.10.2026
+Oppdatert 16.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsgiver/oppgjorsrapport) av norges-lover-bot.*
@@ -138,3 +132,4 @@ Oppdatert 09.10.2026
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2870e6dac0c476f3d67787e4f6e9b4c59508788db1b9216ad2072730cfdba3d1 -->
+<!-- innholds-hash: f617fb63b13e9479788446c135187920d0706c25cef63ee71ba95fda4fdcba55 -->
 
 # Barnepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/barnepensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T04:22:21Z
+- **Sist oppdatert i arkivet:** 2026-11-07T17:56:07Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Hvis du har mistet moren din og farskapet ikke er fastslått, behandles du på s
 
 Hvis faren din dør før fødselen, kan du ha rett til barnepensjon fra måneden etter fødselen. Det er viktig at du søker innen tre år etter at barnet ble født. Farskapet må være registrert i folkeregisteret før søknaden kan behandles.
 
-#### Du som er mellom 18 og 20 år 1. januar 2024
+#### Er du mellom 18 og 20 år 1. januar 2024?
 
 Hvis du mistet en eller begge foreldrene dine før 1. januar 2024, kan du ha rett til barnepensjon etter nye regler. Du kan få barnepensjon fra tidligst 1. januar 2024 til og med måneden du fyller 20 år.
 
@@ -43,7 +43,7 @@ Du kan ha rett til barnepensjon etter gamle regler dersom du var
 - under 20 år, foreldreløs og var under utdanning, eller var lærling eller praktikant
 - under 21 år, har mistet en eller begge foreldrene, var under utdanning eller var lærling eller praktikant, og dødsfallet til en av foreldrene skyldes yrkesskade eller yrkessykdom
 
-#### For deg som kommer til Norge
+#### Flytte til Norge
 
 Du kan bare få barnepensjon hvis den avdøde forelderen din var medlem av folketrygden de siste 5 årene før dødsfallet. Du må også selv oppfylle kravene til å motta stønaden.
 
@@ -251,19 +251,17 @@ Foreldre til barn under 18 år, kan logge inn og [sende oss en melding](https://
 
 Hvis du ikke kan logge inn, kan du sende skjema for melding om nytt kontonummer per post. Du må legge ved kopi av gyldig legitimasjon.
 
-#### Fyll ut på skjerm eller for hånd?
+Du kan velge om du vil
 
-Det er enkelt å fylle ut [skjema digitalt på skjerm](https://www.nav.no/fyllut/nav952000?sub=paper) før du skriver det ut og sender i posten. Dette gjelder også om du skal endre kontonummer i utlandet.
-
-Du kan også [skrive ut papirskjema](https://www.nav.no/start/soknad-endring-bankkontonummer?stegvalg=2) som du fyller ut for hånd og sender i posten. Her må du velge riktig skjema før du skriver det ut.
+- fylle ut [skjema digitalt på skjerm](https://www.nav.no/fyllut/nav952000?sub=paper) før du skriver det ut og sender i posten
+- [skrive ut papirskjema](https://www.nav.no/start/soknad-endring-bankkontonummer?stegvalg=2) som du fyller ut for hånd og sender i posten
 
 Verge må sende skjema for melding om nytt kontonummer per post. Du må legge ved kopi av gyldig legitimasjon og vergefullmakt.
 
-#### Fyll ut på skjerm eller for hånd?
+Du kan velge om du vil
 
-Det er enkelt å fylle ut [skjema digitalt på skjerm](https://www.nav.no/fyllut/nav952000?sub=paper) før du skriver det ut og sender i posten. Dette gjelder også om du skal endre kontonummer i utlandet.
-
-Du kan også [skrive ut papirskjema](https://www.nav.no/start/soknad-endring-bankkontonummer?stegvalg=2) som du fyller ut for hånd og sender i posten. Her må du velge riktig skjema før du skriver det ut.
+- fylle ut [skjema digitalt på skjerm](https://www.nav.no/fyllut/nav952000?sub=paper) før du skriver det ut og sender i posten
+- [skrive ut papirskjema](https://www.nav.no/start/soknad-endring-bankkontonummer?stegvalg=2) som du fyller ut for hånd og sender i posten
 
 #### Skattetrekk på barnepensjon
 
@@ -445,7 +443,7 @@ Vergen må kontakte Skatteetaten om skattepliktreglene til Norge.
 
 [Kapittel 18. Barnepensjon (lovdata.no)](https://lovdata.no/lov/1997-02-28-19/%C2%A718-1)
 
-Oppdatert 31.08.2026
+Oppdatert 27.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -459,7 +457,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -469,7 +467,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -486,3 +484,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

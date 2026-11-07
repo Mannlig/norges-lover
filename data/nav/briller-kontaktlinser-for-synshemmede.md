@@ -1,11 +1,11 @@
-<!-- innholds-hash: e8b0e33713c6d5a62122e23bdb1237061e43ccf2ec11823b365cbec2684e4b48 -->
+<!-- innholds-hash: a20bca8e1222f68d6064dd07ebf6af254a2c3776d8e965cf7295e945318826f2 -->
 
 # Briller og kontaktlinser for synshemmede - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/briller-kontaktlinser-for-synshemmede
-- **Sist oppdatert i arkivet:** 2026-10-06T04:38:25Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:08:17Z
 
 ## Innhold
 
@@ -146,6 +146,8 @@ Hvis du velger å søke selv, må du legge ved nødvendig dokumentasjon fra opti
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -210,7 +212,7 @@ Du trenger ikke forsikre hjelpemidler som er utlånt fra Nav hjelpemiddelsentral
 - [Folketrygdloven, Kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10)
 - [Regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/vedlegg-7-til-10-7-saerskilte-hjelpemiddelgrupper)
 
-Oppdatert 05.12.2025
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -230,7 +232,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -249,3 +251,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

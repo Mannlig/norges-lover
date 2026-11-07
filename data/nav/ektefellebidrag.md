@@ -1,11 +1,11 @@
-<!-- innholds-hash: e7fac19eedc297e71a22138fbd01d8062216b50559f1e40bbdfa6b6d7c4c9839 -->
+<!-- innholds-hash: 577c449a89d9bbee6a1e3eca6f3db80c6b1b6a288a22fa32372097f57b4dd6bf -->
 
 # Ektefellebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ektefellebidrag
-- **Sist oppdatert i arkivet:** 2026-10-06T04:40:30Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:10:30Z
 
 ## Innhold
 
@@ -118,7 +118,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 10 uker |
-| Klage til Nav klageinstans | 4 måneder |
+| Klage til Nav klageinstans | 6 måneder |
 
 ### Når du har ektefellebidrag
 
@@ -156,7 +156,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -166,7 +166,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -182,3 +182,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

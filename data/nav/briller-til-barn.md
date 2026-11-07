@@ -1,11 +1,11 @@
-<!-- innholds-hash: ed6a7ac1bf919853148b0258d6ea34c7209e139b23f39e0a1b18f2c79ca3e5ec -->
+<!-- innholds-hash: 816445e358b3a29ffe2f54080ec902e47aa3e3e1a8a124686e1bcdd323b2bb0f -->
 
 # Briller til barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/briller-til-barn
-- **Sist oppdatert i arkivet:** 2026-10-06T04:39:05Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:09:01Z
 
 ## Innhold
 
@@ -168,6 +168,8 @@ Nav kan ikke innvilge søknader hvor kostnaden blir oppgitt som et løpende elle
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -254,7 +256,7 @@ Du vil ikke få nye briller samme år, selv om brillene du har fått støtte til
 
 [Forskrift om stønad til briller til barn (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/forskrift-om-stonad-til-briller-til-barn)
 
-Oppdatert 16.03.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -268,7 +270,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/briller-til-barn) av norges-lover-bot.*
@@ -283,3 +285,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: d6bbf5339e262172bc738dba4e2fdf589117929ebd7a3da2196075ffc4906b8b -->
+<!-- innholds-hash: 50ef1628eeab80c64773c94bd40075f793161e66ef7cef64a146a6dd8339e2bc -->
 
 # Rente­observa­sjoner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/rente/renteobservasjoner/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:33:28Z
+- **Sist oppdatert i arkivet:** 2026-11-07T19:33:46Z
 
 ## Innhold
 
@@ -16,7 +16,7 @@ Her finner du observasjonene som danner grunnlaget for fastsettelse av gjeldende
 
 Renteobservasjonene som danner grunnlag for fastsetting av flytende rente i
 
-- [september og oktober](https://www.husbanken.no/-/media/rente/basisrente-flytende-renter-september-oktober-2026.pdf)
+- [januar og februar](https://www.husbanken.no/-/media/rente/basisrente-flytende-renter-januar-februar-2027.pdf)
 - [november og desember](https://www.husbanken.no/-/media/rente/basisrente-flytende-renter-november-desember-2026.pdf)
 
 [Renteobservasjonene og basisrentene for fastrente](https://www.finanstilsynet.no/analyser-og-statistikk/basisrenter/) er publisert på Finanstilsynets sider.
@@ -56,3 +56,4 @@ Sist oppdatert: 06.05.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-07** Innhold endret (se git-historikk for diff)

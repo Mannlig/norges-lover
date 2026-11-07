@@ -1,11 +1,11 @@
-<!-- innholds-hash: 10e0d6e6e3fb21af9c5b1919387c89ab40fd61dcc4a0234f7041d09340d3419d -->
+<!-- innholds-hash: a3df4880cff6d71dabb86f2244b1bf3b6f3543afdf444f7b3ba23cdc56a1dd96 -->
 
 # Bidragsforskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bidragsforskudd
-- **Sist oppdatert i arkivet:** 2026-10-06T04:37:04Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:06:51Z
 
 ## Innhold
 
@@ -236,7 +236,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 4 måneder |
-| Klage til Nav klageinstans | 4 måneder |
+| Klage til Nav klageinstans | 6 måneder |
 
 ### Når du har bidragsforskudd
 
@@ -328,7 +328,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -338,7 +338,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -356,3 +356,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 22cb7c8419067d8e337e5f97c17f27fe9e6defcd64ccd84add13e24a752d74b0 -->
+<!-- innholds-hash: c4432fc1f3319b0b44071e7d45cd45b1c22bb74bf2aadbfd3e0fe2b2b480483f -->
 
 # Gjenlevendepensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gjenlevendepensjon
-- **Sist oppdatert i arkivet:** 2026-10-15T15:20:05Z
+- **Sist oppdatert i arkivet:** 2026-11-07T17:53:58Z
 
 ## Innhold
 
@@ -19,7 +19,7 @@ Sikrer deg inntekt hvis du har mistet ektefelle, partner eller samboer med felle
 
 Gjenlevendepensjon fases ut, og ingen nye personer får gjenlevendepensjon.
 
-Hvis du mister ektefelle, partner eller samboer med felles barn, kan du få omstillingsstønad.
+Hvis du er under 67 år og mister ektefelle, partner eller samboer med felles barn, kan du søke om omstillingsstønad.
 
 [Omstillingsstønad](https://www.nav.no/omstillingsstonad)
 
@@ -49,7 +49,7 @@ Som hovedregel har du rett til å ta ut alderspensjon fra måneden etter at du f
 
 ### Hva kan du få i gjenlevendepensjon?
 
-#### Hvor mye kan du få?
+Gjenlevendepensjonen er beregnet ut fra den avdødes pensjonsopptjening og din egen inntekt.
 
 Gjenlevendepensjonen blir beregnet ut fra den avdødes pensjonsopptjening, og avkortes etter inntektene dine. Pensjonen består av grunnpensjon, tilleggspensjon og/eller særtillegg.
 
@@ -73,28 +73,6 @@ Tilleggspensjonen utgjør 55 prosent av den tilleggspensjonen den avdøde ville 
 
 Du kan få særtillegg hvis din avdøde ektefelles/samboers har liten eller ingen opptjening til tilleggspensjon.
 
-#### Tjenestepensjon
-
-Mange arbeidstakere har en tjenestepensjonsordning. Noen av disse ordningene gir pensjon til etterlatte, ofte med litt andre krav enn det som gjelder for stønader fra folketrygden.
-
-Ta eventuelt kontakt med den siste arbeidsgiveren til den avdøde, hvis den avdøde var i jobb fram til dødsfallet.
-
-#### Opptjening fra utlandet
-
-Hvis avdøde har hatt opptjening i et land Norge har [trygdeavtale](https://www.nav.no/no/person/flere-tema/arbeid-og-opphold-i-norge/relatert-informasjon/medlemskap-i-folketrygden) med, kan du ha rett til pensjon også fra dette landet.
-
-#### Hva betyr arbeidsinntekt for gjenlevendepensjonen?
-
-Gjenlevendepensjonen blir redusert hvis du har eller kan forventes å ha egen arbeidsinntekt.
-
-Er arbeidsinntekten din høyere enn halvparten av grunnbeløpet i folketrygden, som tilsvarer 68 275 kroner, vil 40 prosent av det overskytende bli trukket fra stønaden. Hva du vil få utbetalt, vil dermed avhenge av både din og den avdødes inntekt.
-
-Som hovedregel forventer Nav at du beholder tidligere inntektsnivå, og at du tjener minimum 2 ganger grunnbeløpet i folketrygden, som tilsvarer 273 098 kroner.
-
-Du kan få unntak fra kravet om arbeidsinntekt hvis du har vært uten arbeid i lenger tid før dødsfallet, og du hadde fylt 55 år da dødsfallet skjedde. Også utfordringer med egen helse, omsorg for barn under 3 år, eller for barn med spesielle omsorgsbehov, eller andre omsorgsforhold, kan gi unntak fra kravet.
-
-Hvis du bodde sammen med den avdøde på tidspunktet for dødsfallet, blir det første året regnet som en omstillingstid, uten krav om at du har arbeidsinntekt.
-
 Eksempler på beregning av gjenlevendepensjon og overgangsstønad til gjenlevende.
 
 | Eksempel 1 |  |
@@ -117,21 +95,31 @@ Eksempler på beregning av gjenlevendepensjon og overgangsstønad til gjenlevend
 | Din månedlige inntekt som går til fradrag | - 9 893 |
 | Månedlig gjenlevendepensjon / overgangsstønad til gjenlevende | =10 107 |
 
+Mange arbeidstakere har en tjenestepensjonsordning. Noen av disse ordningene gir pensjon til etterlatte, ofte med litt andre krav enn det som gjelder for stønader fra folketrygden.
+
+Ta eventuelt kontakt med den siste arbeidsgiveren til den avdøde, hvis den avdøde var i jobb fram til dødsfallet.
+
+Hvis avdøde har hatt opptjening i et land Norge har trygdeavtale med, kan du ha rett til pensjon også fra dette landet.
+
+[Bor i Norge – søker pensjon fra utlandet](https://www.nav.no/soke-pensjon-fra-utlandet)
+
+Pensjon
+
+Gjenlevendepensjonen blir redusert hvis du har egen arbeidsinntekt.
+
+Er arbeidsinntekten din høyere enn 0,5 G, 68 275 kroner? Da vil 40 prosent av det du tjener over dette beløpet bli trukket fra stønaden.
+
 #### Hvor lenge kan du få?
 
-#### Gjenlevendepensjonen er tidsbegrenset
-
-Hovedregelen for deg som har gjenlevendepensjon, er at du får den i bare tre år fra 1. januar 2024. Det betyr at siste utbetaling blir i desember 2026.
+Du kan få gjenlevendepensjon i tre år fra 1. januar 2024. Det betyr at siste utbetaling blir i desember 2026.
 
 Hvis du tar utdanning godkjent av Nav, eller hvis du har arbeidsrettet tiltak via Nav, kan pensjonen forlenges i inntil 2 år.
 
-Nav tilbyr ulike tjenester og støtteordninger for deg som trenger hjelp til å få jobb:
+For å søke om forlengelse av gjenlevendepensjon, må du legge en plan for gjennomføring av utdanning eller arbeidsrettet tiltak som godkjennes av Nav-kontoret innen utgangen av 2026. Har du ikke allerede en plan, bør du kontakte Nav så snart som mulig. Du må sende inn dokumentasjon på utdanning eller tiltak.
 
-[Søker jobb](https://www.nav.no/soker-jobb)
+Hvis du tar nødvendig og hensiktsmessig utdanning som er godkjent av Nav, eller du har arbeidsrettet tiltak via Nav, kan du søke om forlengelse. Du søker ved å gi beskjed til oss i tjenesten [Meld fra om endringer i saken din](https://www.nav.no/melde). Du sender inn dokumentasjon på utdanning eller tiltak i tjenesten [Send dokumenter til Nav](https://www.nav.no/fyllut-ettersending/nav170105/innsendingsvalg).
 
-Dette kan du ha rett til
-
-Hvis du tar en utdanning som Nav har vurdert som nødvendig for at du skal kunne få jobb og forsørge deg selv, kan du få tilleggsstønader. Det samme gjelder hvis du er reell arbeidssøker hos Nav:
+Har du ikke mulighet til å bruke nav.no for innsending, kan du sende opplysninger og dokumentasjon til adressen Nav familie- og pensjonsytelser, Postboks 6600 Etterstad, 0607 OSLO.
 
 [Tilleggsstønader til gjenlevende ektefelle](https://www.nav.no/tilleggsstonader-gjenlevende)
 
@@ -164,12 +152,27 @@ I tillegg måtte arbeidsinntekten din i 2019-2023 være under 2 ganger grunnbel�
 | 2022 | 219 568 kroner |
 | 2023 | 232 478 kroner |
 
+#### Hvor lenge kan du få?
+
+Du kan vanligvis få omstillingsstønad i inntil 3 år fra måneden etter dødsfallet. Derfor er det viktig at du søker så fort som mulig etter dødsfallet.
+
+Stønaden kan forlenges med inntil 2 år hvis du [tar utdanning](https://www.nav.no/omstillingsstonad#utdanning) som er nødvendig og hensiktsmessig, eller har behov for tiltak for å komme i arbeid. For å få forlenget stønaden, må periodene være sammenhengende.
+
+Du kan ikke få omstillingsstønad etter fylte 67 år.
+
+Egne regler for deg født i 1963 eller før
+
+Hvis du har hatt lav eller ingen inntekt de siste 5 årene før dødsfallet, kan du beholde utbetaling til du blir 67 år.
+
+Det er arbeidsinntekten din de siste 5 årene før dødsfallet som avgjør om du kan beholde utbetaling.
+
 #### Andre tilbud
 
-Mer informasjon til deg som
+Undersøk hva som skjer og hvilke rettigheter du har hvis du har mistet noen i nær familie.
 
 - [Har mistet noen i nær familie](https://www.nav.no/mistet-noen) Dette kan du ha rett til
 - [Er alene med barn fordi den andre forelderen er død](https://www.nav.no/alene-med-barn-etter-dodsfall) Dette kan du ha rett til
+- [Har ikke penger til mat, bolig eller andre utgifter](https://www.nav.no/ikke-penger) Dette kan du ha rett til
 
 ### Har du allerede søkt?
 
@@ -235,6 +238,12 @@ Gjenlevendepensjonen stopper hvis du
 - får barn med en samboer
 - blir samboer med en person som du tidligere har vært gift med
 - blir samboer med en person du har eller har hatt felles barn med
+
+#### Gjenlevendepensjonen er tidsbegrenset
+
+Nye regler gjør at mange har fått beskjed om at de mister retten til gjenlevendepensjon.
+
+Se informasjon om at [mange har siste utbetaling av gjenlevendepensjon i desember 2026.](https://www.nav.no/gjenlevendepensjon#hvor-lenge)
 
 #### Meld fra om endringer
 
@@ -404,30 +413,6 @@ Du kan også få støtte til utgifter når du gjennomfører arbeidsrettet tiltak
 
 Pengestøtte
 
-#### Hva skjer når du blir pensjonist?
-
-#### Du er født før 1963, eller er medlem i apotekerforeningen, og har rett til AFP i offentlig sektor
-
-Du kan ikke kombinere gjenlevendepensjon og AFP i offentlig sektor.
-
-Hvis du mottar gjenlevendepensjon fra Nav, men ønsker å motta AFP i offentlig sektor, må du si fra deg din gjenlevendepensjon.
-
-Du må gi beskjed om dette via [send-beskjed](https://www.nav.no/send-beskjed) eller pr. post til adressen Nav familie- og pensjonsytelser, Postboks 6600 Etterstad, 0607 Oslo.
-
-Dersom du blir gjenlevende etter at du har startet uttak av AFP i offentlig sektor, og gjenlevendepensjonen vil bli høyere enn AFP, kan du velge om du vil si fra deg AFP til fordel for gjenlevendepensjon. Du må da kontakte din tjenestepensjonsordning for å undersøke om dette kan få konsekvenser for fremtidige rettigheter.
-
-#### Du er født i 1963 eller senere og har rett til livsvarig AFP i offentlig sektor:
-
-Dersom du har gjenlevendepensjon og får livsvarig AFP i offentlig sektor skal gjenlevendepensjonen reduseres. Livsvarig AFP regnes som inntekt. Gjenlevendepensjonen blir redusert når samlet inntekt, som for eksempel arbeidsinntekt og livsvarig AFP, overstiger 0,5 G.
-
-Du må melde fra til oss dersom du tar ut livsvarig AFP i offentlig sektor.
-
-#### Gjelder alle
-
-Gjenlevendepensjon kan i noen tilfeller kombineres med [AFP i privat sektor med uttak etter 2011](https://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-afp-i-privat-sektor-fra-2011).
-
-Gjenlevendepensjonen blir stoppet senest når du fyller 67 år, eller hvis du tar ut alderspensjon før du fyller 67 år. På grunn av regelendringer fra 2024 om ytelser til gjenlevende, vil gjenlevendepensjonen opphøre fra 1.1.2027. Enkelte kan ha rett til gjenlevendepensjon i to år til, altså til 1.1.2029. Les mer nedenfor om hvor lenge du kan få gjenlevendepensjon. [Gjenlevendepensjon - nav.no](https://www.nav.no/gjenlevendepensjon#hvor-lenge)
-
 #### Skal du søke om uføretrygd?
 
 Gjenlevendepensjonen faller bort hvis du får innvilget 100 prosent uføretrygd. Når du har fått innvilget uføretrygd, er det bindende. Da kan du ikke lenger velge gjenlevendepensjon.
@@ -436,11 +421,43 @@ Det er ikke lenger gjenlevendetillegg i uføretrygden.
 
 Får du gradert uføretrygd, kan du beholde gjenlevendepensjonen. Gjenlevendepensjonen vil da bli redusert ut fra din inntekt og uføretrygd.
 
+#### Hva skjer når du blir pensjonist?
+
+Gjenlevendepensjonen blir stoppet senest når du fyller 67 år, eller hvis du tar ut alderspensjon før du fyller 67 år. For mange stopper gjenlevendepensjonen 1.1.2027 på grunn av regelendringer. Da har du fått brev om dette. Som hovedregel har du rett til å ta ut [alderspensjon](https://www.nav.no/alderspensjon) fra måneden etter at du fyller 67 år. Du kan ha rett til å ta ut alderspensjon tidligere. Nav vil vurdere om du har rettigheter som gjenlevende som kan gi deg høyere alderspensjon.
+
+#### Du må selv søke om alderspensjon
+
+Du kan [søke om alderspensjon](https://www.nav.no/alderspensjon#soke) 4 måneder før det tidspunktet du ønsker at utbetalingen skal starte.
+
+Vi kan tidligst innvilge søknaden din fra og med måneden etter at du søkte.
+
+Du kan velge å ta ut hele eller deler av alderspensjonen din (20, 40, 50, 60, 80 eller 100 prosent). Du kan også vente med å ta ut alderspensjon.
+
+#### AFP og gjenlevendepensjon
+
+Det er viktig at du undersøker hva som gjelder hvis du har rett til avtalefestet pensjon (AFP).
+
+Du kan ikke kombinere gjenlevendepensjon og AFP i offentlig sektor.
+
+#### Hvis du har rett til AFP i offentlig sektor
+
+Hvis du har gjenlevendepensjon fra Nav, men ønsker å motta AFP i offentlig sektor, må du si fra deg gjenlevendepensjonen.
+
+Du må [kontakte oss](https://www.nav.no/still-sporsmal) om dette. Hvis du ikke kan logge inn, kan du sende brev i posten: Nav familie- og pensjonsytelser, Postboks 6600 Etterstad, 0607 Oslo.
+
+Hvis du blir gjenlevende etter at du har startet uttak av AFP i offentlig sektor, og gjenlevendepensjonen vil bli høyere enn AFP, kan du velge om du vil si fra deg AFP til fordel for gjenlevendepensjon. Du må da kontakte din tjenestepensjonsordning for å undersøke om dette kan få konsekvenser for fremtidige rettigheter.
+
+Hvis du har gjenlevendepensjon og får livsvarig AFP i offentlig sektor, skal gjenlevendepensjonen reduseres. Livsvarig AFP regnes som inntekt. Gjenlevendepensjonen blir redusert når samlet inntekt, som for eksempel arbeidsinntekt og livsvarig AFP, er høyere enn 68 275
+
+Du må [melde fra til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-pensjon) hvis du tar ut livsvarig AFP i offentlig sektor.
+
+Gjenlevendepensjon kan i noen tilfeller kombineres med [AFP i privat sektor med uttak etter 2011](https://www.nav.no/afp-i-privat-sektor).
+
 ### Hva sier loven?
 
 [Ytelser til gjenlevende ektefelle og tidligere familiepleier (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap17)[Om beregning av pensjon (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/beregning-av-pensjon.folketrygdloven-kap.3-gamle-opptjeningsregler)
 
-Oppdatert 07.10.2026
+Oppdatert 06.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -454,7 +471,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -464,7 +481,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -483,3 +500,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

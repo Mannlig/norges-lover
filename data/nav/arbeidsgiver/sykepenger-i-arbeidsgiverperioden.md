@@ -1,11 +1,11 @@
-<!-- innholds-hash: dd387990a73ca09de287c48fbbc39756b368193b01cc42c08db2cd4af8451ab6 -->
+<!-- innholds-hash: f77d67f912c1b302cafa9396f1302dd71746e9e7493e318b0cb1a8ac6ccd0320 -->
 
 # Sykepenger i arbeidsgiverperioden  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykepenger-i-arbeidsgiverperioden
-- **Sist oppdatert i arkivet:** 2026-10-06T04:28:42Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:01:10Z
 
 ## Innhold
 
@@ -265,7 +265,7 @@ Slik gjør du det
 - [Folketrygdloven § 8-19 – Beregning av arbeidsgiverperioden (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/folketrygdloven--8-19--beregning-av-arbeidsgiverperioden)
 - [Folketrygdloven § 8-28 - Sykepengegrunnlaget i arbeidsgiverperioden (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-8-28-sykepengegrunnlaget-i-arbeidsgiverperioden)
 
-Oppdatert 30.04.2026
+Oppdatert 02.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -281,7 +281,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -298,3 +298,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 62263f60662831716866ae236571f3c77ec49c420bd275fd019ad25b8541cbf4 -->
+<!-- innholds-hash: 712d889e5951cd07767d600826ea5048d2a70099e1f0ca1d520873cb076b073c -->
 
 # Økonomisk sosialhjelp - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomisk-sosialhjelp
-- **Sist oppdatert i arkivet:** 2026-10-15T15:39:16Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:13:14Z
 
 ## Innhold
 
@@ -358,7 +358,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -382,3 +382,4 @@ Søk opp Nav-kontor med postnummer, sted eller by.
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

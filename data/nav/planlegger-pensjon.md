@@ -1,11 +1,11 @@
-<!-- innholds-hash: fa89dfb8a493c85de383831d976b4015868ddc79731a7671dec36b862213363c -->
+<!-- innholds-hash: b807be534b6bca20060864fd9d98ca935775c59bdcefdff0015e53e09fda4f12 -->
 
 # Planlegger pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/planlegger-pensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T13:15:47Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:13:59Z
 
 ## Innhold
 
@@ -270,7 +270,7 @@ Skattekortet ditt finner du på [skatteetaten.no](https://www.skatteetaten.no/pe
 
 Dette gjelder bare deg som er født før 1963.
 
-Hvis du jobber i offentlig sektor og har arbeidsinntekt, kan du få redusert AFP og/eller tjenestepensjon. Les mer om å [kombinere AFP og arbeidsinntekt](https://www.nav.no/no/person/pensjon/avtalefestet-pensjon-afp/avtalefestet-pensjon-i-offentlig-sektor/kombinere-afp-og-andre-inntekter). Er du under 65 år og har AFP i offentlig sektor? Da er viktig at du [melder fra til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-afp-i-offentlig-sektor) hvis inntekten din endrer seg mer enn vanlig lønnsvekst.
+Hvis du jobber i offentlig sektor og har arbeidsinntekt, kan du få redusert AFP og/eller tjenestepensjon. Les mer om å [kombinere AFP og arbeidsinntekt](https://www.nav.no/afp-offentlig#inntekt-afp). Er du under 65 år og har AFP i offentlig sektor? Da er viktig at du [melder fra til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-afp-i-offentlig-sektor) hvis inntekten din endrer seg mer enn vanlig lønnsvekst.
 
 Hvis du er over 65 og har [AFP fra Statens pensjonskasse (SPK)](https://www.spk.no/avtalefestet-pensjon-afp/), melder du fra om endringer til SPK.
 
@@ -441,9 +441,15 @@ For eksempel hvis du bor i Sverige, eller annet avtaleland, men jobber i Norge, 
 
 #### USA
 
-Hvis du bor i USA og skal søke om norsk pensjon (alderspensjon eller gjenlevendepensjon), må du sende et spesielt søknadsskjema til Nav i vanlig post. Dette skjemaet er ikke tilgjengelig på våre nettsider. Du må kontakte oss slik at vi kan sende deg riktig skjema.
+Alderspensjon
 
-Bruk returadressen: Nav Pensjon, Postboks 6600 Etterstad, 0607 OSLO, Norway.
+Hvis du bor i USA og skal søke om norsk alderspensjon, må du sende inn [søknad om alderspensjon fra Nav](https://www.nav.no/soknader#alderspensjon). Du kan søke elektronisk hvis du har norsk BankID.
+
+Hvis du ikke kan logge inn med norsk BankID, velg "Last ned papirsøknad" og send søknaden til Nav i vanlig post.
+
+Hvis du bare skal søke om norsk alderspensjon, må du også fylle ut [fullmakt til å innhente opplysninger](https://www.nav.no/_/attachment/download/12505bb7-8c3f-4f78-843f-a82eb2c9bb24:6aacc85316ea0b964ad74b8f4e2bddecf121735d/USA%20Fullmakt.pdf).
+
+Hvis du sender søknad i posten, bruker du denne returadressen: Nav Pensjon, Postboks 6600 Etterstad, 0607 OSLO, Norway.
 
 #### Tyrkia
 
@@ -455,7 +461,7 @@ Hvis du bor i et av landene Australia, Bosnia-Hercegovina, Canada/ Quebec, Chile
 
 Unntak: Hvis Norge er siste landet du har arbeidet i, skal du søke pensjon direkte fra Norge. Du må da sende søknad i posten. [Du kan lese mer om det på siden om alderspensjon](https://www.nav.no/alderspensjon#soke).
 
-Hvis du har pensjonsopptjening i Norge, men deretter har jobbet i et land Norge ikke har trygdeavtale med, skal du sende [søknaden om alderspensjon direkte til Nav](https://www.nav.no/no/person/pensjon/alderspensjon/relatert-informasjon/slik-soker-du-om-alderspensjon). Det gjelder også dersom du bor i utlandet, og ditt siste arbeidsforhold var hos en norsk arbeidsgiver. Du kan søke ca. seks måneder før utbetaling av pensjon skal starte, og søknaden må være mottatt hos Nav senest måneden før du ønsker å få pensjonen fra.
+Hvis du har pensjonsopptjening i Norge, men deretter har jobbet i et land Norge ikke har trygdeavtale med, skal du sende [søknaden om alderspensjon direkte til Nav](https://www.nav.no/alderspensjon#soke). Det gjelder også dersom du bor i utlandet, og ditt siste arbeidsforhold var hos en norsk arbeidsgiver. Du kan søke ca. seks måneder før utbetaling av pensjon skal starte, og søknaden må være mottatt hos Nav senest måneden før du ønsker å få pensjonen fra.
 
 #### AFP
 
@@ -534,7 +540,7 @@ Her får du en samlet oversikt over de opptjente pensjonsrettighetene dine.
 
 En tjeneste fra Forbrukerrådet. Her kan du sammenligne private pensjonstjenester og få nyttige råd om pensjon og pensjonssparing.
 
-Oppdatert 20.04.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -548,7 +554,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -558,7 +564,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -577,3 +583,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

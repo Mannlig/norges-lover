@@ -1,11 +1,11 @@
-<!-- innholds-hash: f51a790b4d999b2c420def9c6ee0a9310610fd8d2fef12b76d288116c53426c1 -->
+<!-- innholds-hash: 72064a1430a851736d9d6beb32f5ec4713248f5f7e6a2ab982d57aad85c248ca -->
 
 # Alderspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/alderspensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T13:10:04Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:12:34Z
 
 ## Innhold
 
@@ -294,7 +294,7 @@ Den pensjonsgivende inntekten beregnes av Skatteetaten.
 - arbeidsavklaringspenger
 - omstillingsstønad
 - omsorgsstønad
-- fosterhjemsgodtgjørelse (den delen som utgjør arbeidsgodtgjørelse)
+- godtgjørelsesom kompensasjon for manglende opptjening av tjenestepensjon
 
 Uføretrygd gir opptjening til alderspensjon, men regnes ikke som pensjonsgivende inntekt.
 
@@ -310,7 +310,7 @@ Har du lav eller ingen opptjening til alderspensjon? Da kan du ha rett til en mi
 - Du har minst 5 års trygdetid.
 - Du må ha minst 40 års trygdetid for å få fullt minste pensjonsnivå.
 
-Hvis trygdetiden er kortere enn 40 år, blir minstepensjonen redusert. Hvis du bor i Norge og har for kort botid til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Hvis trygdetiden er kortere enn 40 år, blir minstepensjonen redusert. Hvis du bor i Norge og har for kort botid til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 For å ta ut alderspensjon før du er 67 år, må du ha tjent opp en pensjon som minst tilsvarer minste pensjonsnivå. I praksis vil du derfor først ha rett til minste pensjonsnivå fra du fyller 67 år.
 
@@ -374,7 +374,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -438,7 +438,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -502,7 +502,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -566,7 +566,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -630,7 +630,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -694,7 +694,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -758,7 +758,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -822,7 +822,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -886,7 +886,7 @@ Minstepensjonen beregnes etter når du er født. Minstepensjonen regnes ut etter
 
 Har du fylt 67 år, har full trygdetid og har tatt ut 100 prosent alderspensjon, er du garantert disse satsene.
 
-Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge).
+Trygdetid er vanligvis tiden fra du fyller 16 til og med det året du fyller 66 og jobber eller bor i Norge. Hvis trygdetiden er kortere enn 40 år, kan minstepensjonen bli redusert. Hvis du bor i Norge og har bodd her for kort til å få full minstepensjon når du fyller 67 år, kan du ha rett til [supplerende stønad](https://www.nav.no/supplerende-stonad-over-67).
 
 Er du yngre enn 67 år, vil du ikke kunne ta ut alderspensjon hvis pensjonen din er lavere enn satsene for minstepensjon.
 
@@ -1599,7 +1599,7 @@ Hvis du skal sende inn leveattest, vil du få et skjema og informasjonsbrev fra 
 
 [Folketrygdloven kapittel 20 – nye regler (lovdata.no)](https://lovdata.no/lov/1997-02-28-19/%C2%A720-1)
 
-Oppdatert 06.10.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -1613,7 +1613,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -1623,7 +1623,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -1642,3 +1642,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

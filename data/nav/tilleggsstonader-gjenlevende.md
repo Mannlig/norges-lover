@@ -1,11 +1,11 @@
-<!-- innholds-hash: c4f6ec164bdc03e97161af621290519adedfbb39383a71c505f5ac5bd91f32da -->
+<!-- innholds-hash: f4a251fedda76940e72ed9194996252ae1dc82a6ba9f1a4e9ba478bd61419016 -->
 
 # Tilleggsstønader til gjenlevende ektefelle - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader-gjenlevende
-- **Sist oppdatert i arkivet:** 2026-10-15T15:21:32Z
+- **Sist oppdatert i arkivet:** 2026-11-07T17:55:23Z
 
 ## Innhold
 
@@ -260,7 +260,7 @@ Dette kan du søke om når du har nedsatt arbeidsevne eller får dagpenger, tilt
 
 Dette kan du søke om når du har nedsatt arbeidsevne, får dagpenger eller får tiltakspenger. Du kan også søke om dette hvis du tar utdanning og er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
-[Søk om støtte til reise](https://www.nav.no/fyllut/nav111218b)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111218b/innsendingsvalg)
+[Søk om støtte til reise](https://www.nav.no/start/soknad-om-tilleggsstonader-stotte-til-reise-ved-oppstart-avslutning-eller-hjemreise)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111218b/innsendingsvalg)
 
 #### Søknad om støtte til reise for å komme i arbeid
 
@@ -278,7 +278,7 @@ Dette kan du søke om når du har nedsatt arbeidsevne. Du kan også søke om det
 
 Dette kan du søke om når du er arbeidssøker, har nedsatt arbeidsevne, er enslig mor eller far, gjenlevende ektefelle eller tidligere familiepleier.
 
-[Søk om støtte til flytting](https://www.nav.no/fyllut/nav111223b%20%20%20)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111223b/innsendingsvalg)
+[Søk om støtte til flytting](https://www.nav.no/start/soknad-om-tilleggsstonader-stotte-til-flytting)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav111223b/innsendingsvalg)
 
 #### Refusjon av utgifter til daglig reise med bruk av egen bil
 
@@ -328,7 +328,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 3 uker |
-| Klage til Nav klageinstans | 5 måneder |
+| Klage til Nav klageinstans | 9 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 ### Når du har tilleggsstønader
@@ -410,7 +410,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -420,7 +420,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -438,3 +438,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: f4e01095cf0a57b31417113391ff154be9b743800ce8767064113e2a40acb4b7 -->
+<!-- innholds-hash: 92a87f5dd5eb720d2de37e6f6e507af2619d7bb001e10174302ba6bdb00b1c6f -->
 
 # Если вас коснулась война в Украине - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ukraina/ru
-- **Sist oppdatert i arkivet:** 2026-10-06T13:24:41Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:19:03Z
 
 ## Innhold
 
@@ -76,7 +76,7 @@ Your rights
 
 Вам нужна помощь, чтобы сделать правильный и осознанный выбор относительно образования, профессиональной подготовки и работы? Тогда вы можете получить консультацию по профориентации (karriereveiledning) в вашем округе. Консультация по профориентации – бесплатное предложение для всех желающих старше 19 лет. Консультация по профориентации поможет вам легче увидеть свои возможности относительно образования, профессиональной подготовки и работы.
 
-[Изучите список государственных карьерных центров (норвежский язык)](https://karriereveiledning.no/offentlige-karrieresentre)
+[Изучите список государственных карьерных центров (норвежский язык)](https://karriereveiledning.no/karrierevalg/karrieresenter-i-norge)
 
 #### Рекомендации для лиц, ищущих работу (на украинском языке)
 
@@ -343,7 +343,7 @@ Nav обязан соблюдать конфиденциальность в от
 
 Информация от Arbeidstilsynet
 
-Updated 08/26/2026
+Updated 10/16/2026
 
 ### Не можете найти ответ на ваш вопрос? Свяжитесь с нами
 
@@ -351,7 +351,7 @@ Ring oss på 55 55 33 33
 
 График работы: будни 09:00–15:00
 
-Closed now, opens at 9
+Closed now, opens tomorrow at 9
 
 [See more phone numbers and calling options](https://www.nav.no/kontaktoss/en#call-us)
 
@@ -370,3 +370,4 @@ Closed now, opens at 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

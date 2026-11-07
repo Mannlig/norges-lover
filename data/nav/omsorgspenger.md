@@ -1,11 +1,11 @@
-<!-- innholds-hash: f94c5b9674205ea316d7b3b57c96dc50cf02c75d390ab7babd8f597f9096c551 -->
+<!-- innholds-hash: bcf770fede7aa0e924b8c10185e9bb982d2827bcdd92e620eb866e765627d601 -->
 
 # Omsorgspenger (hjemme med sykt barn-dager) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omsorgspenger
-- **Sist oppdatert i arkivet:** 2026-10-15T15:43:27Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:17:36Z
 
 ## Innhold
 
@@ -528,7 +528,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -538,7 +538,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -557,3 +557,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

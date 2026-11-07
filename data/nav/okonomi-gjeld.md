@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0914afe517fa0132917bf7907bb0c1cb075897f113480abe47d2c15eca8cddbf -->
+<!-- innholds-hash: c82f2bda98eb279e992c09a1414d8f5178d9d529abb25a2b948d7901a0b59ff9 -->
 
 # Trenger rådgivning om økonomi og gjeld - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/okonomi-gjeld
-- **Sist oppdatert i arkivet:** 2026-10-06T13:17:13Z
+- **Sist oppdatert i arkivet:** 2026-11-07T18:15:28Z
 
 ## Innhold
 
@@ -42,7 +42,7 @@ Rådgiveren kan for eksempel hjelpe deg med å
 - finne ut hvordan du kan redusere utgiftene dine
 - gjøre avtaler med dem du skylder penger til
 - finne opplysninger om dine rettigheter og plikter
-- kontakte namsmannen
+- kontakte namsfogden
 - søke om gjeldsordning
 
 #### Ta med dokumentasjon
@@ -73,7 +73,7 @@ Gjeld
 - utskrift fra inkassoregisteret
 - andre brev og krav om innbetaling av gjeld
 
-Hvis det har gått lang tid uten at du har betalt det du skylder, kan namsmannen sende brev om at de vil kreve inn pengene. Dette kalles begjæring om utlegg eller krav om tvangsinndrivelse. Hvis du har fått et slikt brev, bør du ta det med til møtet. Hvis du har fått innkalling til forliksrådet, tar du med det brevet også.
+Hvis det har gått lang tid uten at du har betalt det du skylder, kan namsfogden sende brev om at de vil kreve inn pengene. Dette kalles begjæring om utlegg eller krav om tvangsinndrivelse. Hvis du har fått et slikt brev, bør du ta det med til møtet. Hvis du har fått innkalling til forliksrådet, tar du med det brevet også.
 
 Les mer om [tvangsfullbyrdelse, utlegg og forliksrådet på politiet.no](https://www.politiet.no/tjenester/namsmann-og-forliksrad/).
 
@@ -168,7 +168,7 @@ Du kan lese mer om [klagerettighetene dine hos Forbrukerrådet](https://www.forb
 
 #### Rettslig inndrivelse
 
-Hvis du ikke har betalt etter at du fikk betalingsoppfordring, kan inkassoselskapet starte en rettslig inndrivelse. Det betyr at de sender saken din til namsmannen. Namsmannen kan trekke deg i lønn eller ta pant i eiendelene dine. Dette kalles rettslig inndrivelse.
+Hvis du ikke har betalt etter at du fikk betalingsoppfordring, kan inkassoselskapet starte en rettslig inndrivelse. Det betyr at de sender saken din til namsfogden. Namsfogden kan trekke deg i lønn eller ta pant i eiendelene dine. Dette kalles rettslig inndrivelse.
 
 Hvis du er uenig i pengekravet, kan du sende en skriftlig beskjed til inkassoselskapet om at du ønsker at [saken din skal behandles i forliksrådet (politiet.no)](https://www.politiet.no/tjenester/namsmann-og-forliksrad/forliksradet/). Hvis du får en innkalling fra forliksrådet, må du møte opp og begrunne hvorfor du er uenig i pengekravet. Hvis du ikke møter opp, kan inkassoselskapet fortsette den rettslige inndrivelsen.
 
@@ -176,7 +176,7 @@ Hvis du er uenig i pengekravet, kan du sende en skriftlig beskjed til inkassosel
 
 Hvis inkassosaken din er sendt til rettslig inndrivelse, eller du ikke har betalt avdragene i avtalen om avdragsordning du har inngått med for eksempel et inkassobyrå, kan du få en betalingsanmerkning. En betalingsanmerkning er et varsel om at du ikke har betalt en forfalt faktura, til tross for at den du skylder penger forsøker å få inn pengene.
 
-Anmerkningen blir registrert av kredittopplysningsbyråene etter at den er meldt inn fra inkassobyråer, namsmannen, forliksrådet, Statens Kartverk, Løsøreregistret eller Statens innkrevingssentral.
+Anmerkningen blir registrert av kredittopplysningsbyråene etter at den er meldt inn fra inkassobyråer, namsfogden, forliksrådet, Statens Kartverk, Løsøreregistret eller Statens innkrevingssentral.
 
 Det er vanlig at det blir gjort en kredittvurdering når du søker om lån, kredittkort, forsikring, eller abonnementer. Hvis du har en betalingsanmerkning, kan det føre til at du får avslag på søknaden din.
 
@@ -250,7 +250,7 @@ Identitetstyveri kan være når noen har misbrukt din identitet til å kjøpe va
 
 ### Hva er gjeldsordning?
 
-Hvis du har store problemer med gjeld, kan en gjeldsordning gi deg mulighet til å få kontroll over økonomien igjen. Du kan søke namsmannen om gjeldsordning, det vil si lensmannen eller byfogden.
+Hvis du har store problemer med gjeld, kan en gjeldsordning gi deg mulighet til å få kontroll over økonomien igjen. Du kan søke namsfogden om gjeldsordning, det vil si lensmannen eller byfogden.
 
 Med gjeldsordning kan du betale så mye som mulig av det du skylder til kreditorene i en tidsbegrenset periode. Som regel har gjeldsordning en varighet på 5 år, men i noen tilfeller blir det lettere å få gjeldsordning for en kortere periode.
 
@@ -260,9 +260,9 @@ Gjeldsordning kan være aktuelt uansett hva som er årsaken til gjeldsproblemene
 
 Loven åpner opp for at man kan søke om gjeldsordning mer enn en gang.
 
-#### Følg budsjettet fra namsmannen
+#### Følg budsjettet fra namsfogden
 
-Namsmannen vil lage et budsjett du skal følge i tiden du har gjeldsordning. Budsjettet er basert på opplysninger du gir om økonomien din og inneholder rimelige levekostnader for deg og husstanden din. Hvis inntekten din er høyere enn utgiftene i budsjettet, skal overskuddet betales til kreditorene.
+Namsfogden vil lage et budsjett du skal følge i tiden du har gjeldsordning. Budsjettet er basert på opplysninger du gir om økonomien din og inneholder rimelige levekostnader for deg og husstanden din. Hvis inntekten din er høyere enn utgiftene i budsjettet, skal overskuddet betales til kreditorene.
 
 I perioden du har offentlig gjeldsordning har du også automatisk en betalingsanmerkning. Det kan føre til at du vil få avslag på søknad om boliglån, kreditt, og tegning av forsikring eller abonnement.​
 
@@ -296,9 +296,9 @@ Veiledning til personer i vanskelig livssituasjon som ikke klarer å betale det 
 
 Informasjon fra Skatteetaten
 
-[Namsmannen og forliksråd](https://www.politiet.no/tjenester/namsmann-og-forliksrad/)
+[Namsfogden og forliksråd](https://www.politiet.no/tjenester/namsmann-og-forliksrad/)
 
-Om namsmannen, tvangsinndriving av krav og forliksrådets rolle
+Om namsfogden, tvangsinndriving av krav og forliksrådets rolle
 
 Informasjon fra politiet.no
 
@@ -364,7 +364,7 @@ Hjelper deg å håndtere problematisk bruk av alkohol, narkotika, legemidler og 
 
 Hjelp fra Akan
 
-Oppdatert 26.08.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -376,7 +376,7 @@ Ring oss på 55 55 33 39
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -395,3 +395,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)
