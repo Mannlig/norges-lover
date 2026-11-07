@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2cb5309b6675414ff56a9332f4d755d3f08fb03e51f422afb6dd2d39394d6e41 -->
+<!-- innholds-hash: 4612c63b2dfa3691d39426232e4f99f677b252ee0245f8c128c940d5e2ace978 -->
 
 # Tilskudd til aldersvennlig oppgradering av egen bolig
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T14:57:35Z
+- **Sist oppdatert i arkivet:** 2026-11-07T11:35:20Z
 
 ## Innhold
 
@@ -57,7 +57,7 @@ Du kan oppgradere for så mye du ønsker, men kan få maksimalt 75 000 kroner i 
 
 ### Hva kan du bruke tilskuddet til?
 
-Du kan få tilskudd til tiltak som gjør boligen enklere og tryggere å bo i når du blir eldre. Tiltakene må være varige. Du kan ikke få tilskudd til generell oppussing eller modernisering, og prosjektet kan ikke være igangsatt når du søker.
+Du kan få tilskudd til tiltak som gjør boligen enklere og tryggere å bo i når du blir eldre. Tiltakene må være varige. Du kan ikke få tilskudd til generell oppussing eller modernisering. Prosjektet kan ikke påbegynnes før du har fått tilsagn om tilskudd.
 
 #### Du må velge tiltak fra minst én av disse kategoriene:
 
@@ -85,9 +85,7 @@ Logg inn og søk i Husbankens digitale søknad. Hvis du ikke har mulighet til å
 
 Husk å legge ved pristilbudet i søknaden. Avhengig av situasjonen din, kan du måtte legge ved andre vedlegg. Dette vil fremkomme i søknaden.
 
-Søknadsfrist: 30. oktober 2026
-
-Neste frist: 1. februar 2027
+Neste søknadsfrist: 1. februar 2027
 
 [Søk om tilskudd digitalt](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/inngang)
 
@@ -135,7 +133,7 @@ Dersom du leier boligen, må utleieren samtykke til at boligen oppgraderes.
 
 Klikk på overskriftene for å lese svarene.
 
-Sist oppdatert: 20.09.2026
+Sist oppdatert: 01.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/) av norges-lover-bot.*
@@ -145,3 +143,4 @@ Sist oppdatert: 20.09.2026
 - **2026-10-07** Første gang hentet
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

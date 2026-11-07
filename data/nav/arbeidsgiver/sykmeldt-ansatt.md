@@ -1,11 +1,11 @@
-<!-- innholds-hash: 356a5126113155ff16b208e9a598e69ea12f613e20b5fbcef3f91a9b8973865a -->
+<!-- innholds-hash: 2ef0669232a693e55ae2b07ff576c531682ff6fc85f1168cecb04bb5b6b6b7a9 -->
 
 # Ansatt er sykmeldt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykmeldt-ansatt
-- **Sist oppdatert i arkivet:** 2026-10-15T07:56:17Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:35:29Z
 
 ## Innhold
 
@@ -199,7 +199,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -231,3 +231,4 @@ Alltid åpen
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

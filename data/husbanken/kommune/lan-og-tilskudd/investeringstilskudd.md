@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2f599ee91c5e699ac16b4a706f68771c6102b268da378707e5ce6ecd8acadf9 -->
+<!-- innholds-hash: 55b418dc2a0a731c32013cda835a9d461dac15a550a5aed82abfc242cd9052e6 -->
 
 # Investerings­­tilskudd til omsorgsboliger og sykehjem
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/lan-og-tilskudd/investeringstilskudd/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:40:01Z
+- **Sist oppdatert i arkivet:** 2026-11-07T12:41:45Z
 
 ## Innhold
 
@@ -44,6 +44,8 @@ Plankravet skal stimulere til mer helhetlige og langsiktige behovsvurderinger f�
 
 [Eksempler og erfaringer fra kommuner](https://www.husbanken.no/eksempler/)
 
+[Utredning om handlingsrommet for bruk av investeringstilskudd](https://biblioteket.husbanken.no/arkiv/dok/Komp/HANDLINGSROMMET%20FOR%20BRUK%20AV%20INVESTERINGSTILSKUDD%20FRA%20HUSBANKEN%20.pdf)
+
 [Notat om bruk av tilskuddet fra KS-advokatene](https://www.husbanken.no/-/media/tilskudd/ks-advokatene-om-investeringstilskudd.pdf)
 
 #### Oversikt over byggekostnader
@@ -58,3 +60,4 @@ Sist oppdatert: 26.06.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-07** Innhold endret (se git-historikk for diff)

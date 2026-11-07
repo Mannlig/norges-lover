@@ -1,11 +1,11 @@
-<!-- innholds-hash: b95c05821f413fa5bd80828d9271f06103502234438c0c09f11cadf1a27d29b3 -->
+<!-- innholds-hash: 4e7bc457399fc16990da63b06ed9e087543f2a882b3e536c491894ac70945fe9 -->
 
 # Ansette med støtte fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/inkludere
-- **Sist oppdatert i arkivet:** 2026-10-15T07:48:31Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:27:43Z
 
 ## Innhold
 
@@ -131,7 +131,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -162,3 +162,4 @@ Alltid åpen
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

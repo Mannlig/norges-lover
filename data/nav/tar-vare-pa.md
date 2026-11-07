@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5ceea1dddf92a37690e4f34f11a7c82b603f4c55e80f75351910b394b708bbbe -->
+<!-- innholds-hash: 24fc1e880e6396315868b2ec9b8139eb3bacfe7f8df40fabb95d66e1d8d99584 -->
 
 # Tar vare på noen som er syk,  skadet eller har en funksjonsnedsettelse - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tar-vare-pa
-- **Sist oppdatert i arkivet:** 2026-10-15T07:40:05Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:19:11Z
 
 ## Innhold
 
@@ -255,7 +255,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -265,7 +265,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -284,3 +284,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

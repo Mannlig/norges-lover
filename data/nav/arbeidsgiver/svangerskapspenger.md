@@ -1,11 +1,11 @@
-<!-- innholds-hash: f5e00e7b3eeae27edd82537117a8028cfa4837cf91548bd60974f7b312723948 -->
+<!-- innholds-hash: 4adb887019af73d518a91ef83abdbd23962d3ecaf777579ad59ebbcf3872ca9c -->
 
 # Svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/svangerskapspenger
-- **Sist oppdatert i arkivet:** 2026-10-15T07:40:46Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:19:56Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ For å få svangerskapspenger skal den ansatte ha en jobb der arbeidssituasjoner
 Vanligvis er det 3 krav den ansatte må fylle for å få svangerskapspenger.
 
 1. Jobben kan skade det ufødte barnet
-2. Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 274,5 kroner (0,5 G).
+2. Omregnet til årsinntekt må inntekten til den ansatte tilsvare 68 275 kroner (0,5 G).
 3. Den ansatte må ha vært i jobb i minst 4 uker
 
 #### Tilrettelegging
@@ -140,7 +140,7 @@ Som arbeidsgiver får du ikke automatisk beskjed hvis den ansatte endrer søknad
 - [Lov om folketrygd (lovdata.no)](https://lovdata.no/dokument/NL/lov/1997-02-28-19/KAPITTEL_5-1#KAPITTEL_5-1)
 - [Rundskriv om ytelser ved svangerskap, fødsel og adopsjon (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap14)
 
-Oppdatert 21.05.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -148,7 +148,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -175,3 +175,4 @@ Alltid åpen
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

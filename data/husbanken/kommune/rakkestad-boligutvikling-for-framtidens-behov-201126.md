@@ -1,4 +1,4 @@
-<!-- innholds-hash: bfc4b4c2d2f22816aecc7ff790dac2711f786101e43ddd0eef25e41ce613d189 -->
+<!-- innholds-hash: ce0d15fd4df6053456c9afa374e780497db6ea06bf9a99955ad1cd9fff3cbb95 -->
 
 # Rakkestad: Boligtreff i Østfold
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T15:13:20Z
+- **Sist oppdatert i arkivet:** 2026-11-07T11:50:49Z
 
 ## Innhold
 
@@ -29,22 +29,28 @@ Arrangementet er et samarbeid mellom Husbanken og Rakkestad kommune.
 
 ### Program
 
+- Vi ønsker velkommen!
 - Demografi og regionale rammer, og om Ruralise-prosjektet ved Østfold fylkeskommune
-- Fra kunnskap og forankring til gjennomføring - ulike aspekter ved boligkartlegging, analyse, organisering og planlegging for å bygge egnede boliger, ved kommunene Fredrikstad, Moss og Sarpsborg.
-- Husbankens virkemidler med gode eksempler
+- Fra kunnskap og forankring til gjennomføring – ulike aspekter ved boligkartlegging, analyse, organisering og planlegging for å bygge egnede boliger, ved kommunene Fredrikstad, Moss og Sarpsborg.
+- En oppsummering av presentasjonene ved konferansier Erik Simensen.
+- Husbankens virkemidler med gode eksempler.
 - Lunsj
 - Presentasjon av ulike boligløsninger i samarbeid med private aktører:
-- Utleieboliger med tilvisning, en utbyggers erfaring ved Marcus Kilebu
-- Halden boligbyggelag og boligkjøpsmodellen «Leie før Eie» ved Richard Olsen
-- En «eierløsning» for unge funksjonshemmede, Hovskogen borettslag ved Kenneth Andre Johannessen i Indre Østfold kommune
-- En oppsummering av prosjektene som er presentert ved Erik Simensen
-- Oppgradering og tilpasning av boliger ved Husbanken
-- Ta vare på boligene vi har og bygge det vi trenger. Vi har invitert Sol-is arkitekter, Natural State og Riksantikvaren til å se på mulighetene for ombygg og transformasjon.
+  - Utleieboliger med tilvisning, en utbyggers erfaring ved Marcus Kilebu.
+  - Halden boligbyggelag og boligkjøpsmodellen «Leie før Eie» ved Richard Olsen.
+  - En «eierløsning» for unge funksjonshemmede, Hovskogen borettslag ved Kenneth Andre Johannessen i Indre Østfold kommune.
+- En oppsummering av prosjektene som er presentert ved Erik Simensen.
+- Pause
+- Aldersvennlig oppgradering av egen bolig ved Husbanken og Indre Østfold om tidlig og treffsikker innsats for å stimulere til et godt seniorliv for eldre innbyggere.
+- Ta vare på boligene vi har og bygge det vi trenger:
+  - Solis arkitekter viser mulighetene for ombygg og transformasjon til boliger.
+  - Riksantikvaren informerer om funksjonsendring, ombruk og oppgradering.
+  - Østfoldarv, et kompetansesenter for å styrke lokalt bygningsvern.
 - Vi runder av og vel hjem!
 
 Ved spørsmål, ta kontakt med Irene Lofthus i Husbanken øst.
 
-Sist oppdatert: 26.10.2026
+Sist oppdatert: 03.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/rakkestad-boligutvikling-for-framtidens-behov-201126/) av norges-lover-bot.*
@@ -55,3 +61,4 @@ Sist oppdatert: 26.10.2026
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

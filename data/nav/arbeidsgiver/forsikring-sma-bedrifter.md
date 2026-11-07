@@ -1,11 +1,11 @@
-<!-- innholds-hash: d03fb393c190fae56d7fa5afd85d2cc4ae1a55860dfde550b3641d9a168e6236 -->
+<!-- innholds-hash: d6b8540a8666ca73c5bc8d07d6aebaa81934a20c00fae2c8933fd8ad67a2b620 -->
 
 # Forsikring for små bedrifter - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/forsikring-sma-bedrifter
-- **Sist oppdatert i arkivet:** 2026-10-15T07:47:46Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:27:02Z
 
 ## Innhold
 
@@ -81,7 +81,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 #### Søke om refusjon for sykepenger
@@ -161,7 +161,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -180,3 +180,4 @@ Ring oss på 55 55 33 36
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0cc390b7a82e0915d3e48ef037783efc6f3be3fc01509ce56b16efe65d02eed6 -->
+<!-- innholds-hash: c1ddca39e16171ec206aa8daf2e52e988c092f8fe104414af016f1fd8fff75ec -->
 
 # Skal jobbe eller oppholde deg i Norge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobb-eller-opphold-i-norge
-- **Sist oppdatert i arkivet:** 2026-10-15T07:43:32Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:22:50Z
 
 ## Innhold
 
@@ -67,7 +67,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -77,7 +77,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -92,3 +92,4 @@ Ring oss på 55 55 33 33
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

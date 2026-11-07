@@ -1,11 +1,11 @@
-<!-- innholds-hash: 06fa81cadf69ed7da8d93b82c642938f6f2c5eb6e338b06629fe70ab98e146a2 -->
+<!-- innholds-hash: acc042394bdbf8cf4ca2eb10804274d1d27a503a37e14992e7db4e30404c7c08 -->
 
 # Skal oppholde deg i utlandet uten å jobbe - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opphold-i-utlandet
-- **Sist oppdatert i arkivet:** 2026-10-15T07:44:57Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:24:13Z
 
 ## Innhold
 
@@ -87,7 +87,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -97,7 +97,7 @@ Ring oss på +47 21 07 37 00
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -116,3 +116,4 @@ Ring oss på +47 21 07 37 00
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

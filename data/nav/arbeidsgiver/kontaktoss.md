@@ -1,11 +1,11 @@
-<!-- innholds-hash: 09bed5f1e357fc890190b7a18aee033bd47f74d4f4a7c94eeb42e7407c9f8df4 -->
+<!-- innholds-hash: c482fc9e28bd9ffc2a44acdcdac6a7a6f7624448926b9e525e8b201583d06f39 -->
 
 # Kontakt oss - arbeidsgiver - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/kontaktoss
-- **Sist oppdatert i arkivet:** 2026-10-06T04:05:13Z
+- **Sist oppdatert i arkivet:** 2026-11-07T10:29:10Z
 
 ## Innhold
 
@@ -15,9 +15,9 @@ For arbeidsgivere
 
 ### Aktuelt
 
+- [Altinn 2-rollene avvikles](https://www.nav.no/arbeidsgiver/altinn2rollene)
 - [Sende inntektsmelding på nav.no](https://www.nav.no/arbeidsgiver/sende-inntektsmelding)
 - [Ungdomsløftet – samarbeid om å få flere unge i arbeid](https://www.nav.no/arbeidsgiver/ungdomsloftet)
-- [Nav utvikler nye inntektsmeldinger på familiestønadene](https://www.nav.no/arbeidsgiver/nye-inntektsmeldinger)
 - [Varig tilrettelagt arbeid i ordinær virksomhet](https://www.nav.no/arbeidsgiver/varig-tilrettelagt-arbeid)
 - [Avtale om varig tilrettelagt arbeid er nå digitalisert](https://www.nav.no/arbeidsgiver/varig-tilrettelagt-arbeid)
 - [Refusjon av feriepenger til arbeidsgiver](https://www.nav.no/arbeidsgiver/feriepenger)
@@ -117,3 +117,4 @@ Oppdatert 07.09.2026
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)
