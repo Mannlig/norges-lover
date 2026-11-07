@@ -1,7 +1,6 @@
-<!-- innholds-hash: 32c095c97a49daaa25731b098e3a764e8c24cf66fae306df5cb11ca16f2430ea -->
+<!-- innholds-hash: 13dc0affce796157d63bdcbd4e536dacedcde12ad90284b14a3c676499870f5e -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister
-
 
 ## Metadata
 
@@ -16,7 +15,7 @@
 - **Emner:** Vegtrafikk
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
+- **Sist oppdatert i arkivet:** 2026-11-06T19:02:50Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -162,7 +161,7 @@
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1793746800000+0100)/",
   "status": 3,
-  "tittel": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister\n",
+  "tittel": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister",
   "type": 2
 }
 ```
@@ -172,4 +171,5 @@
 ## Endringshistorikk
 
 - **2026-11-04** Første gang hentet
+- **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)

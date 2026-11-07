@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1c4ac2d1414d32d18ac868318733d8656187bd605bc8214ce1f07b77f6244adb -->
+<!-- innholds-hash: bd1a566dad7f9222ea5c0c3f183e085b99d608ccf3c228422c491b87d7bec605 -->
 
 # Skjermingsrente for ekstra skatt på lån
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/skjermingsrente-for-ekstra-skatt-pa-lan/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T19:06:25Z
+- **Sist oppdatert i arkivet:** 2026-11-06T21:46:02Z
 
 ## Innhold
 
@@ -27,7 +27,7 @@ Skjermingsrenten for ekstra skatt på renter på lån fra personlige skattytere 
 | Mai og juni 2026 | 3,4 % |
 | Juli og august 2026 | 3,8 % |
 | September og oktober 2026 | 3,8 % |
-| November og desember 2026 |  |
+| November og desember 2026 | 3,8 % |
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/satser/skjermingsrente-for-ekstra-skatt-pa-lan/) av norges-lover-bot.*
@@ -36,3 +36,4 @@ Skjermingsrenten for ekstra skatt på renter på lån fra personlige skattytere 
 
 - **2026-05-11** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-11-06** Innhold endret (se git-historikk for diff)

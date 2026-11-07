@@ -1,0 +1,733 @@
+<!-- innholds-hash: dc75fbce6a38e87e614e106d73a56cdac59ff6c6de7c6fd61b7280870deff0e4 -->
+
+# KMVA 8089A Fastsettelse av utgående merverdiavgift. Mval. § 18-1 og § 18-4
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8089a-fastsettelse-av-utgaende-merverdiavgift.-mval.--18-1-og--18-4/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-06T20:33:14Z
+
+## Innhold
+
+Klagenemnda for merverdiavgift
+
+## KMVA 8089A Fastsettelse av utgående merverdiavgift. Mval. § 18-1 og § 18-4
+
+- Publisert: 22.12.2015
+- Avgitt 22.06.2015
+
+Saksnummer KMVA 8089A
+
+Klagenemndas avgjørelse av 22. juni 2015 Klager AS
+
+Klagedato: 3. mars 2015
+
+Klagenemnda stadfestet enstemmig innstillingen.
+
+Saken gjelder:
+
+Om Klagenemndas vedtak om fastsettelse av utgående merverdiavgift som følge av skjønnsmessig tillegg i omsetning skal omgjøres som følge av at Skatteklagenemnda har redusert skjønnet
+
+Samlet påklaget beløp inkl. renter og tilleggsavgift utgjør kr 737 021
+
+Stikkord: Utgående avgift -uteholdt omsetning -omgjøring
+
+Bransje: 56.101 – Drift av restauranter og kafeer
+
+Mval. § 18-1 § 18-4
+
+### KLAGENEMNDA FOR MERVERDIAVGIFT
+
+Avgjørelse i møte 22. juni 2015 i sak KMVA 8089A – Klager AS.
+
+Skatt x har avgitt slik:
+
+#### I n n n s t i l l i n g:
+
+Klager AS, org.nr xxx xxx xxx, ble registrert i Enhetsregisteret 04.07.2009. Selskapet ble registrert i Merverdiavgiftsregisteret 12.08.2009 med oppgaveplikt fra 3.termin 2009.
+
+Selskapet driver restaurantdrift fra leide lokaler i sentrum av A i B kommune. Det er plass til i overkant av 50 gjester, i tillegg til at de har et eget selskapslokale som leies ut til ulike arrangement.
+
+Restauranten tilbyr hovedsakelig kinesiske retter, men har også malaysisk, norske og europeiske retter på sin meny. I tillegg lager restauranten selskapsmat, koldtbord, gryterett og snitter mot bestilling, i tillegg til en egen pizzameny. Alle rettene som tilbys kan tas med som take away. Ved take away trekkes det fra en rabatt på 10 % i forhold til restaurantprisene.
+
+Selskapet er organisert som et aksjeselskap og er registrert med en aksjekapital på kr 100 000 fordelt på 100 aksjer, fullt innbetalt. Selskapet er i sin helhet eid av C, f.nr XX. Selskapet er registrert med C som daglig leder og styrets leder. Styret har ingen øvrige medlemmer. Selskapet er hjemmehørende i A kommune
+
+På bakgrunn av bokettersyn for årene 2009 til 2011, jf. bokettersynsrapport av 29.06.2012, fattet skattekontoret vedtak i saken den 17.09.2013 om avgiftsmessig etterberegning av utgående avgift med kr 429 684, fordelt med kr 286 000 25 % og kr 143 684 14 %.
+
+Videre ble det fattet vedtak om tilbakeføring av inngående merverdiavgift (25 %) med kr 12 000.
+
+Totalt ble det fattet vedtak om etterberegning av merverdiavgift med kr 441 684.
+
+Det ble ilagt 60 % tilleggsavgift, kr 257 809, samt renter for forholdet med kr 37 528.
+
+Klagenemnda for merverdiavgift fastholdt dette vedtaket i sitt vedtak av 10.10.2013.
+
+Påklaget beløp utgjør:
+
+Termin/år Utgående/inngående Beløp Tilleggsavgift (60 %) 2009/4 Utg. (25 %) 99 000 59 400 2009/4 Utg. (14 %) 49 737 29 842 2010/4 Utg. (25 %) 121 000 72 600 2010/4 Utg. (14 %) 60 789 36 473 2011/4 Utg. (25 %) 66 000 39 600 2011/4 Inng. (14 %) 12 000 2011/4 Utg. (14 %) 33 158 19 895 Sum 441 684 257 809
+
+På bakgrunn av at Skatteklagenemnda reduserte skattekontorets skjønnsmessige etterberegning har virksomheten gjennom sin advokat, fremsatt krav om at Klagenemnda for merverdiavgift behandler saken på ny.
+
+Saken som gjelder Klager AS er ikke anmeldt til politiet eller innbrakt for domstolene.
+
+Skattekontorets innstilling har vært forelagt klagers fullmektig.
+
+Kopi av følgende dokumenter følger innstillingen:
+
+Dok.nr Dokument Dato 1 Bokettersynsrapport m/ vedlegg 2 (Dok.nr 2; rapportens vedlegg 1-8) 3 (Dok.nr 3; rapportens vedlegg 9-12) 29.06.2012 4 Varsel om endring av avgift og ligning 29.01.2013 5 Tilsvar til varsel om etterberegning av merverdiavgift og endring av ligning 10.06.2013 6 Tilsvar til varsel om etterberegning av merverdiavgift og endring av ligning 27.06.2013 7 Oversendelse vedtak endring u/klage 17.09.2013 8 Klage 10.10.2013 9 Bekreftelse av mottatt klage 30.10.2013 10 Oversendelse av innstilling til uttalelse 22.01.2014 11 Kommentarer til innstilling 14.02.2014 12 KMVA 7633 13 KMVA 8089 - Vedtak fra Merverdiavgiftsnemnda 10.04.2014 14 Oversendelse vedtak skatteklagenemnd - Vedtak fra Skatteklagenemnda 16.02.2015 15 0819 Krav om dekning av sakskostnader skattekontor 03.03.2015
+
+Klagen gjelder
+
+Klagen omfatter følgende forhold: 1. Spørsmål om omgjøring av Klagenemnda for merverdiavgifts vedtak om skjønnsmessig økning av utgående avgift med kr 441 684 vedrørende uteholdt omsetning.
+
+### 1. Uteholdt omsetning
+
+#### 1.1 Sakens faktum
+
+Etter krav fra virksomheten sendes innstillingen til Klagenemnda for merverdiavgift for ny behandling. Bakgrunnen er at Skatteklagenemnda, som behandlet saken etter Klagenemnda for merverdiavgift, reduserte skattekontorets skjønnsmessig fastsatt uteholdte omsetning med 20 % for inntektsårene 2009, 2010 og 2011.
+
+Skatteklagenenda uttalte følgende:
+
+"Skatteklagenemnda er enig i at det er grunnlag for å fastsette inntekten ved skjønn på grunn av at det er sannsynliggjort at det er uteholdt omsetning, men syns at skjønnet er satt for høyt med bakgrunn i at dette gjelder en Kina-restaurant som ligger på A. Det anses ikke sannsynlig at resultatgrad her skal ligge i øvre sjikt i forhold til sammenligningstall, og det opereres med lav sikkerhetsmargin fra skatteetatens side for å ta høyde for feil og usikkerhet under skjønnsutøvelsen. Skjønnsmessig fastsatt uteholdt omsetning skal reduseres med 20% for alle årene, med konsekvens lavere arbeidsgiveravgiftsgrunnlag for selskapet og lønnsøkning for de ansatte."
+
+Skattekontoret har ingen endringer i sitt syn på saken for Klagenemnda for merverdiavgift, slik at innstillingen i det følgende er likelydende den opprinnelige innstillingen. Skattekontoret innstiller derfor på at Klagenemnda for merverdiavgift sitt vedtak av 10.10.2013 er riktig.
+
+Skatt x har gjennomført kontroll av Klager AS. Varsel om kontroll ble sendt 01.02.2012. Det ble avholdt bokettersyn for årene 2009 til 2011.
+
+Bokettersynet avdekket
+
+-salg betalt via bankterminal som ikke er registrert på kassen -differanse i kassen på kontrolldagen 01.12.2012 på kr 1 754 -lav andel av omsetning som er betalt med kontanter
+
+Ifølge rapport ble det ved gjennomgang av kassaavstemming, observasjoner i restauranten, kontroll av virksomhetens rutiner ved registrering, avdekket betydelige beløp som ikke er innrapportert til skatte- og avgiftsmyndighetene. Av rapport etter bokettersyn fremkommer at virksomheten hadde avgiftspliktig omsetning med forslag om etterberegning av merverdiavgift for 2009, 2010 og 2011.
+
+Selskapet ble varslet i brev av 29.01.2013 om etterberegning av merverdiavgift knyttet til omsetning ved drift av restaurant og kafeer.
+
+I samsvar med bokettersynsrapporten foreslo skattekontoret å legge følgende omsetning til grunn for etterberegning av merverdiavgift:
+
+År Omsetning ekskl. mva. Utgående merverdiavgift 2009 751 263 148 737 2010 918 211 181 789 2011 500 842 99 158 Sum 2 170 316 429 684
+
+År Inngående merverdiavgift 2011 12 000 Sum 12 000
+
+Totalt ble det varslet i brev av 29.01.2013 om at skattekontoret vurderte å etterberegne merverdiavgift med kr 441 684 for perioden 2009-2011. Klager AS ble også varslet om bruk av tilleggsavgift for forholdet. Det ble gitt tilsvar til de varslede endringene i brev mottatt 10.06.2013 og 27.06.2013. Vedtaket ble fattet i samsvar med rapport og varsel. Det ble ilagt tilleggsavgift med 60 % tilsvarende kr 257 810.
+
+#### 1.2 Skattekontorets vedtak og begrunnelse
+
+Fra skattekontorets vedtak siteres avsnittet om etterberegning av merverdiavgift for årene 2009-2011, samt punkt om tilleggsavgift under punktet "skattekontorets vurderinger":
+
+### "Skattekontorets vurdering:
+
+1. Uteholdt omsetning Skattekontoret la i sitt varsel til grunn at virksomheten har hatt omsetning ved kontantsalg som ikke er slått på kassaapparatet og ikke er tatt med i regnskapet i den kontrollerte perioden. Bakgrunnen for dette var følgende forhold:
+
+• Mangelfulle rutiner for registrering av kontantsalg betalt med kort og mangler ved avstemming. Kortsalg blir ikke registrert fortløpende på kassa. Den dagen skattekontoret kom på uvarslet kontroll var 12 kortsalg ikke registrert på kassa i det hele tatt. • Kasseavstemming 1. februar 2012, da skattekontoret kom på uvarslet kontrollbesøk, viste betydelige differanser mellom hva som var registrert som omsetning betalt via bankterminal og hva dette skulle vært i følge fremlagt dokumentasjon denne dagen. Det var registrert for lite på kassaapparatet. I tillegg var det en liten differanse på kontantene i kassa, da det ble opptalt mer enn hva den teoretiske kassa skulle vært. • Lite samsvar mellom enkeltsalg registrert betalt med kort på kassaapparatet og hva som fremkommer av rapport fra kortterminalen (kun 22 % samsvar i ukene skattekontoret har sjekket dette). • Unormalt lav andel av omsetning som er betalt med kontanter.
+
+Etter skattekontorets oppfatning viste dette at regnskapet ikke var ført i samsvar med gjeldende regnskapslovgivning.
+
+I tilsvaret til varselet anfører advokat D på vegne av selskapet at all kontantbetaling er slått inn på kassa fortløpende. Betaling via kortterminal har ikke blitt slått inn løpende, men dette er gjort ved stengetid. Det erkjennes at dette er svikt i rutinene, men dette har skjedd under arbeidspress og fordi man ikke har vært klar over hvor viktig det var med fortløpende registrering av all omsetning. Registreringen av kortbetaling ved stengetid gjør imidlertid at all omsetning har kommet med i regnskapet, og det anføres at det er grunn til å anta at tallene i regnskapet er reelle.
+
+Skattekontoret bemerker at selskapets rutiner gir mulighet for å registrere kontantsalg som om det er betalt med kort. Ved daglig kassaoppgjør har virksomheten avstemt registrert kortsalg på kasse mot bankterminal angående antall innslag og beløp. Dette har ført til at all kontantomsetning ikke registreres på kassaapparatet og at omsetning dermed holdes utenfor regnskapet. I tillegg var to av skattekontorets kontrollkjøp som ble betalt med kort, registrert som kontantsalg (ikke kort). Når en ser denne muligheten i sammenheng med det faktum at selskapet ikke har registrert skattekontorets ulegitimerte kontrollkjøp med kort på kassaapparatet 24. april 2012, anser skattekontoret det som overveiende sannsynlig at ikke all omsetning er tatt med i regnskapet.
+
+Skattekontoret legger til grunn at disse forholdene sett i sammenheng hjemler skjønnsadgang i henhold til merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55).
+
+#### 1.2. Skjønnsberegningen
+
+Skattekontoret har i rapporten beregnet uteholdt omsetning. Beregningen bygger på følgende:
+
+• Gjennomgang av kassaapparatets registreringer (sladrerull) 1. februar 2012 viste at ingen av de 12 kvitteringene fra bankterminalen var registrert tidligere på dagen. Videre fremkom det at to av skattekontorets kjøp betalt via bankterminal, var registrert som kontantsalg. • Skattekontoret konstaterte ved 5 ulike obeservasjonsbesøk i perioden januar – april 2012 at selskapet hadde rutine for at kontantsalg betalt med kort ikke ble registrert fortløpende på kassa. • Selskapet har under de fire møtene som har vært avholdt under kontrollen gitt fire ulike forklaringer på hvordan rutinene for kontantsalg betalt via bankterminal er. • Avstemming av enkeltsalg betalt med kort mot hva som var registrert på kassaapparatet viste at det kun i 397 av 1 799 tilfeller var samsvar. Likevel stemmer sum bankterminal og kasse samt antall salg nesten alle dager. • Ifølge regnskapet er andelen av omsetningen som betales med kontanter 21 % i 2009, 15,4 % i 2010 og 18,3 % i 2011. Sammenholdt med observasjonene og forholdet mellom antall registreringer kontant og kort de ukene skattekontoret har avstemt, er omsetning registrert som betalt med kontanter unormalt lav.
+
+I tilsvaret er det anført at fordelingen mellom kontantbetaling og kortbetaling ifølge regnskapet er innenfor det normale. Dette er ikke begrunnet eller dokumentert ut over at det anføres at det er innenfor normtall i forhold til bransje, sted og kundegruppe.
+
+For å skjønnsmessig fastsette størrelsen på den uteholdte omsetningen har skattekontoret tatt utgangspunkt i ukene vi har avstemt registrert beløp som kortsalg på kassaapparatet og rapport fra kortterminalen. Vi har lagt til grunn at beløpene som ikke samsvarer er kontantkjøp som er blitt registrert som kortkjøp på kassaapparatet. Dette gir følgende fordeling mellom hva som er betalt med kort og hva som er betalt med kontanter:
+
+År Andel salg betalt kontant Andel salg betalt med kort 2009 46,7 % 53,3 % 2010 47,6 % 52,4 % 2011 38,7 % 61,3 %
+
+Uteholdt omsetning kunne vært beregnet ut fra disse forholdstallene, slik at salg betalt kontant samsvarer med tabellen. For å ta høyde for eventuelle forhold som tilsier lavere uteholdt omsetning, settes skjønnet omlag 7 % lavere. Skattekontoret finner på denne bakgrunn å øke omsetningen inklusive merverdiavgift med kr 900 000 for 2009, kr 1 100 000 for 2010 og kr 600 000 for 2011.
+
+Dette gir følgende forhold mellom andel salg betalt kontant og med kort:
+
+År Andel salg betalt kontant Andel salg betalt med kort 2009 39,2 % 60,8 % 2010 39,0 % 61,0 % 2011 31,5 % 68,5 %
+
+I tilsvaret er det anført at bruttofortjenesten til selskapet synes å være helt normal, og at dette må tillegges stor vekt. Skattekontoret er imidlertid ikke enig i dette. Lav bruttofortjeneste er generelt en indikasjon på uteholdt omsetning, men ikke noen betingelse for at det er uteholdt omsetning. I denne saken er det en rekke andre momenter som sammen viser at det er overveiende sannsynlig at omsetning er uteholdt.
+
+Videre er det anført at endrede rutiner, etter at Skatt x tidligere påpekte avvik, ikke har medført at omsetningen har gått opp. Til dette bemerkes at vi ikke har analysert tallene etter kontrollperiodens slutt. Eventuell uendret omsetning kan skyldes en rekke andre forhold.
+
+Skattekontoret er enig med advokat D i at svikt i rutinene ikke nødvendigvis betyr at det har foregått skatteunndragelse. Saken bygger imidlertid på en rekke andre forhold i tillegg.
+
+### 2. Merverdiavgift
+
+Fra og med 1. januar 2010 gjelder ny merverdiavgiftslov (lov nr. 58 av 19. juni 2009). Forhold som gjelder tiden før 1. januar 2010 skal behandles etter tidligere gjeldende lov av 1969. Da kontrollen i dette tilfellet gjelder 2009 til og med 2011, vil vi henvise til bestemmelsene i merverdiavgiftsloven av 2009, med henvisning til loven av 1969 i parentes.
+
+Det følger av merverdiavgiftsloven § 3-1 første ledd (§ 13) at det skal beregnes merverdiavgift ved omsetning av varer og tjenester. Den som er registrert i Merverdiavgiftsregisteret har rett til fradrag for inngående merverdiavgift på anskaffelse av varer og tjenester til bruk i den registrerte virksomheten, jf. merverdiavgiftsloven § 8-1 (§ 21). Etter merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55 første ledd nr. 2) kan avgiftsmyndighetene fastsette beregningsgrunnlaget for utgående merverdiavgift og beløpet for inngående merverdiavgift ved skjønn når mottatt omsetningsoppgave er uriktig eller ufullstendig eller bygger på regnskap som ikke er ført i samsvar med gjeldende regnskapslovgivning.
+
+Ved bevisvurderingen skal skattekontoret legge til grunn det faktum som fremstår som overveiende sannsynlig etter en prøving av de opplysninger som foreligger, jf. dom inntatt i Rt. 2002 side 402.
+
+#### 2.1. Fordeling av omsetning mellom alminnelig og redusert sats for merverdiavgift
+
+Det følger av merverdiavgiftsloven § 5-2 (merverdiavgiftsvedtaket §§ 2 og 4) at det skal beregnes merverdiavgift med redusert sats ved omsetning, uttak og innførsel av næringsmidler. I 2009-2011 var denne satsen 14 %. Det skal likevel beregnes merverdiavgift med alminnelig sats (25 %) for næringsmidler som omsettes som del av serveringstjeneste. Med serveringstjeneste menes servering av mat- eller drikkevarer dersom forholdene ligger til rette for fortæring på stedet, jf. merverdiavgiftsforskriften § 5-2-5 (forskrift nr 120 § 7).
+
+Merverdiavgift av uteholdt omsetning må dermed fordeles mellom servering og take away. Virksomhetens regnskap viser at take away omsetningen utgjør mellom 45-47 % i perioden 2009- 2011. Ut fra dette fordeles skjønnsmessig tillegg med 55 % som spist på stedet og 45 % på take away.
+
+Tekst 2009 2010 2011 Sum Utgående omsetning inklusive merverdiavgift 900 000 1 100 000 600 000 2 600 000
+
+Utgående merverdiavgift på uteholdt omsetning
+
+Spise på stedet 25 % (55 % av uteholdt omsetning) 99 000 121 000 66 000 286 000 Take away 14 % (45 % av uteholdt omsetning) 49 737 60 789 33 158 143 684 Sum utgående avgift på uteholdt omsetning 148 737 181 789 99 158 429 684
+
+Uteholdt omsetning ekslusive merverdiavgift 751 263 918 211 500 842 2 170 316 Uteholdt omsetning eksklusive merverdiavgift avrundet ned til nærmeste tusen 751 000 918 000 500 000 2 169 000 Dette gir følgende beregning av utgående merverdiavgift og inntekt:
+
+Skjønnsmessige endringer av merverdiavgift for hele perioden blir dermed følgende:
+
+Utgående avgift 25 % 4. termin 2009 99 000 Utgående avgift 14 % 4. termin 2009 49 737 Utgående avgift 25 % 4. termin 2010 121 000 Utgående avgift 14 % 4. termin 2010 60 789 Utgående avgift 25 % 4. termin 2011 66 000 Utgående avgift 14 % 4. termin 2011 33 158 Totalt 429 684
+
+#### 2.2. Fradrag for varekjøp betalt med kontanter
+
+Virksomheten har krevd fradrag for varekjøp over kr 10 000 betalt med kontanter. Til sammen er det fradragsført inngående avgift med kr 12 000 ved slike kontantkjøp.
+
+Fra 1. januar 2011 gis det bare fradrag for inngående merverdiavgift på varer og tjenester og skattemessig fradrag for kostnader, når betaling skjer via bank eller foretak med rett til å drive betalingsformidling, med mindre betalingen samlet utgjør mindre enn kr 10 000, jf. merverdiavgiftsloven § 8-8 og skatteloven § 6-51. Ved løpende ytelser skal det være den samlende summen gjennom et kalenderår som skal vurderes i forhold til beløpsgrensen. Reglene om tap av fradrag for inngående merverdiavgift og skattemessig fradrag ved kontant betaling på minst kr 10 000 gjelder alle kostnader som er pådratt fra 1. januar 2011. Fradragsnekten gjelder selv om mottaker får kvittering for kjøpet.
+
+Skattekontoret tilbakefører fradragsført merverdiavgift med kr 12 000. Beløpet fremkommer slik:
+
+Inngående avgift 14 % 4. termin 2011 - 12 000
+
+#### 2.3. Tilleggsavgift
+
+Etter merverdiavgiftsloven § 21-3 ( § 73) kan den som forsettlig eller uaktsomt overtrer loven eller forskrifter gitt i medhold av loven, og ved dette har eller kunne ha påført staten tap, ilegges tilleggsavgift med inntil 100 %.
+
+Skattedirektoratet har den 10. januar 2012 gitt retningslinjer for ileggelse av tilleggsavgift. Retningslinjene innebærer at tilleggsavgift i utgangspunktet ilegges med faste satser på 20, 40 og 60 %.
+
+Tilleggsavgift ilegges med 20 % når avgiftssubjektet har vist uaktsomhet ved overtredelsen. Det anses som uaktsomt dersom avgiftssubjektet burde forstått at handlingen kunne medføre overtredelse av lov eller forskrift. Dersom avgiftssubjektet har vist grov uaktsomhet eller forsett, ilegges vanligvis 40 eller 60 % tilleggsavgift. Satsen avgjøres ut fra en totalvurdering av avgiftssubjektets forhold, herunder om det foreligger skjerpende omstendigheter.
+
+Med grov uaktsomhet menes tilfeller hvor overtredelsen er kvalifisert klanderverdig og avgiftsubjektet er sterkt å bebreide for den manglende aktsomheten. Overtredelsen anses utført med forsett dersom avgiftsubjektet var klar over at han overtrådte loven eller forskriften.
+
+For at det skal ilegges tilleggsavgift med alminnelig sats (20 %) må det være klar sannsynlighetsovervekt både for at loven eller forskriften er overtrådt, for at staten på grunn av overtredelsen er eller kunne ha vært påført tap, og at overtredelsen er utført i det minste ved uaktsomhet.
+
+For at det skal ilegges tilleggsavgift med 40 % eller 60 %, må det være bevist utover enhver rimelig tvil at loven eller forskriften er overtrådt, for at staten på grunn av overtredelsen er eller kunne ha vært påført tap, og at overtredelsen er utført i det minste ved grov uaktsomhet.
+
+Valg av sats på 40 eller 60 % avgjøres ut fra en totalvurdering av avgiftssubjektets forhold, herunder om det foreligger skjerpende omstendigheter.
+
+Eksempler på skjerpende omstendigheter er - bruk av falske dokumenter, dokumenter med uriktig innhold - at avgiftsunndragelsen er utført på en planmessig måte - at regnskapsmangler har vanskeliggjort kontrollen - gjennomgående feil og mangelfulle rutiner - at det unndratte avgiftsbeløp er betydelig ut fra virksomhetens art og omfang
+
+Skattekontoret anser det bevist utover enhver rimelig tvil at merverdiavgiftsloven er overtrådt, og at staten som følge av dette har vært påført et merverdiavgiftstap ved at omsetningen ikke er bokført og innberettet. Endelig mener skattekontoret at det er bevist utover enhver rimelig tvil at selskapet har uteholdt deler av kontantomsetningen med forsett, det vil si at selskapets ledelse har forstått at merverdiavgiftsloven er overtrådt.
+
+Når det gjelder satsen på 40 % og 60 % mener skattekontoret, etter en totalvurdering av avgiftspliktiges forhold, at det skal ilegges tilleggsavgift med 60 %. Det vises til at selskapets rutiner har gjort det enkelt å ta ut kontante midler fra omsetningen på daglig basis, og at avgiftsunndragelse dermed synes planmessig utført. Det vises til selskapets rutiner med å slå kontantsalg inn som kortsalg, at kortsalg har blitt etter registrert/ikke registrert på kassa og at man ved arbeidstidens slutt har etterregistrert kortsalg for å avstemme kasse og bankterminal. Skattekontoret bemerker også at dette har skjedd over flere år og at unndratt merverdiavgift utgjør en betydelig del av selskapets omsetning.
+
+Det ilegges tilleggsavgift med 60 % hva gjelder uteholdt omsetning, dvs kr 257 810 (429 684 * 0,6)."
+
+#### 1.3 Klagers innsigelser
+
+Vedtak av 17.9.2013 er påklaget av advokatfullmektig E, heretter E, på vegne av Klager AS. Klagen er bygget opp med tre hovedoverskrifter;
+
+1. Sakens faktum 2. Rettslig vurdering 3. Påstand
+
+Ad punkt 1.1 "Skattekontorets undersøkelser" og punkt 1.2 "Observasjoner under kontrollkjøpene" Observasjoner ved kontrollkjøpene var at det ble observert 20 kjøp, herunder 8 kontantkjøp som alle ble registrert på kassaapparatet og 12 kortbetalinger som ble registrert inn på kassaapparatet. Av de 12 kortbetalingene ble 2 fortløpende dobbeltregistrert inn på kassaapparatet.
+
+På bakgrunn av disse observasjonene ved kontrollbesøkene, er E enig i at virksomheten ikke har hatt rutine for at kjøp registrert på terminal samtidig blir dobbeltregistrert på kassa.
+
+Ad punkt 1.3 "Kassasystemets funksjon" E hevder det følger av selskapet sine rutiner at kortbetalinger som ikke samtidig blir manuelt dobbeltregistrert på kassa, blir ajourført etter stengetid, slik at dagsrapportene (Z rapportene) fra kassa skal vise et korrekt bilde av omsetningen. E mener at det følger av denne rutinen at det ved kontroll i åpningstiden ikke vil være samsvar mellom de to registreringsenhetene.
+
+E mener skattekontorets oppfatning om at uten løpende dobbeltregistrering av kortbetalinger på kassa, så vil det kunne oppstå en mulighet for å holde omsetningen utenfor regnskapet. E har foretatt en gjennomgang av det han mener er de viktigste hendelsene som medfører at kortbetalinger i terminal ikke kan avstemmes en-til-en mot dagsrapporten. Det siteres fra klagen de 5 punktene som sier noe om denne sitasjonen:
+
+"1) Feilregistrering av kontantbetalinger på kassa: Dersom kontantomsetning (seddel/mynt) blir feilaktig registrert på kassa som kortbetalt, vil det oppstå en avstemmingsfeil mot terminalen ved senere manuell dobbeltregistrering av kortbetalingene på kassa. Dersom det da bare etterregistreres den kortomsetning som er nødvendig for å få samsvar mellom de to registreringsenhetene, vil det oppstå et kontantoverskudd i kassa. For en betjening med et forbrytersk forsett vil det i så fall være mulig å holde kontantomsetning utenfor regnskapet.
+
+Gjennom skattekontorets fem anonyme kontrollbesøk er det ikke observert noen tilfeller av slike feil.
+
+2) Feilregistrering av kortbetaling er på kassa: Dersom kortbetalinger blir feilaktig registrert på kassa som kontantbetaling (seddel/mynt), vil det oppstå en avstemmingsfeil mot terminalen ved senere manuell dobbeltregistrering av kortbetalingene på kassa. Dette har motsatt effekt på kontantbeholdningen i kassa, sammenlignet med det som følger av feilkilde 1) ovenfor. Det vil da bli et kontantunderskudd i kassa ved dagens slutt.
+
+Under skattekontorets kontrollbesøk den 1. februar 2012 ble det registrert to tilfeller av slike feil. Skattekontoret har feilaktig lagt til grunn at dette er en type feil som gir mulighet for å holde kontantomsetning utenfor regnskapet.
+
+3) Flere kasseinnslag betalt med ett kort: En servering kan bestå av flere salgstransaksjoner (flere personer, supplering med dessert kaffe mv) som betales med en korttransaksjon. Det vil da ikke være mulig og avstemme transaksjonene en-til-en.
+
+Skattekontoret har ikke vurdert denne problemstillingen.
+
+4) Ett kasseinnslag betalt med flere kort eller en kombinasjon av kort og kontant: En servering for flere personer føres på transaksjon i kassen, men fordeles på flere personer ved betaling, hvorav noen kan betale kontant og noen betaler med kort. Det vil da ikke være mulig å avstemme transaksjonene en-til-en. Skattekontoret har ikke vurdert denne problemstillingen.
+
+5) Andre avvik. 1 et system basert på manuelle inntastinger kan det heller ikke utelukkes andre hendelige feil som uteglemt innslag og innslag av feilaktige beløp. Denne type feil vil bli korrigert ved dagsoppgjøret av kassa.
+
+Under skattekontorets kontrollbesøk er det ikke observert noen tilfeller av slike feil. Skattekontoret har heller ikke vurdert denne problemstillingen."
+
+Ad punkt 1.4 " Diskusjonstema under møtene" Det hevdes i klagen at ved daglig kasseoppgjør har det vært rutine for at de kortbetalinger som ikke er dobbeltregistrert på kassa løpende gjennom dagen, blir dobbeltregistrert på kassa etter stengetid. E mener det som er forklart tidligere i forhold til rutinene rundt kassasystemet er i tråd med overnevnte.
+
+E hevder at forklaringene som er gitt under de fire møtene mellom skattekontoret og selskapet, ikke er endret og at kontrollrapportens gjengivelse av disse møtene heller ikke viser at forklaringene endres. E mener skattekontoret leter etter nyanseforskjeller i de muntlige forklaringene for å underbygge sin hypotese om at omsetning er holdt utenfor regnskapet. E legger til at kontrollørene er kjent med at de aktuelle privatpersonene er av kinesisk opprinnelse og har begrensede norskkunnskaper.
+
+Ad punkt 1.5 "Skattyters syn på skattekontorets slutninger fra faktum" E referer til skattekontorets resonnement der det legges til grunn som premiss at all kortomsetning som er løpende dobbeltregistrert på kassa og ikke kan avstemmes en-til-en mot terminaltransaksjonene, gir et kontantoverskudd i kassa. Han mener dette er prinsipielt uriktig og fører til feilaktige slutninger.
+
+E har foretatt en stikkprøve av skattekontorets kontrollmateriale, vedlegg 9 til kontrollrapporten. Han mener de funn han har gjort her og de feilkilder han mener er avdekket påvirker skattekontorets resonnement.
+
+Skattekontoret inntar i sin helhet vurderingen av vedlegg 9, sitert i det følgende:
+
+"Vurdering av vedlegg 9 til kontrollrapporten transaksjonsoversikt for 11. november 2011:
+
+• For det første beregnes differansen med utgangspunkt i den kortomsetningen som er slått på kassa, kr 14.175,- mens terminalutskriften viser kortomsetning på kr 13.811,-. Den korrekte kortomsetningen bør derfor legges til grunn ved beregningen av differansen. De avstembare og de etterregistrerte korttransaksjoner på kassa er av skattekontoret feilsummert til kr 11.018,- mens den korrekte summering av tallene slik undertegnede har erfart er kr 11.785,-. Allerede etter dette er beregningen av den påstått uteholdte omsetning redusert fra kr 3.157,- til kr 2.026,-. • For det andre har skattekontoret ved sin manuelle avstemming ikke hatt forståelse for hvordan betalingene i restauranten foregår, jf. hendelse nr 4) ovenfor. Det kan også være krevende å se slike kombinasjoner selv om en er kjent med at de eksisterer. En kasseregistrering av kortomsetning på kr 614,- er betalt med fire forskjellige korttransaksjoner om lag kl. 18.50, uten at beløpene har blitt avstemt. Etter dette er beregningen av den påstått uteholdte omsetning ytterligere redusert til kr 1.412,-. • For det tredje har skattekontoret ved sin avstemming ikke registrert at en kortbetaling på kr 170,00 kl. 19:19:00 er registrert på kassa noen minutter senere med kr 171. Den tilsynelatende differansen kan skyldes øreavrunding som følge av at det ikke belastes desimaler på bankterminalen. Etter dette er beregningen av den påstått uteholdte omsetning ytterligere redusert til kr 1.241,-. • For det fjerde har skattekontoret ved sin avstemming ikke registrert at en kortbetaling på kr 107,00 kl. 20:40:38 er registrert på kassa som kontantbetaling noen minutter senere, jf. hendelse 3) ovenfor. Dersom det korrigeres for denne brukerfeilen, reduseres estimatet for uteholdt omsetning videre til kr 1.134,-. • For det femte ble det ved kassaoppgjøret denne dagen dobbeltregistrert kortomsetning inn på kassaapparatet med et høyere beløp enn det som følger av terminalutskriften. Dette viser at nettoeffekten av hendelse 1) og hendelse 2) ovenfor har medført at det har blitt dobbeltregistrert for høy kortomsetning på kassa. Dette har gitt en teoretisk mulighet til å holde kr 364,- utenfor registrert omsetning denne dagen. I strid med skattekontorets hypotese om at feilslag på kassa blir underslått, er det ved kassaoppgjøret rapportert en høyere kortomsetning enn det som vitterlig kan leses av terminalutskriften. Etter dette er beregningen av påstått uteholdt omsetning ytterligere redusert til kr 770,-."
+
+E mener at ved å studere et fåtall hendelser denne dagen forklares mesteparten av det faktum som skattekontoret legger til grunn som uteholdt omsetning. En nærmere analyse av materialet, sammenholdt med innsikt i den praktiske hverdagen i virksomheten, mener han ville kunne redusere avviket ytterligere.
+
+Det hevdes i klagen at det ikke finnes noen faktisk grunnlag for påstanden om at et eventuelt kontantoverskudd i kassa også er underslått selskapet, jf. kontrollrapporten pkt. 6.7 første avsnitt siste setning. E mener det er flere argumenter som taler mot dette. Det nevnes at det er avdekket at en rekke kortsalg er registrert som kontantbetalinger på kassa. Videre har selskapet rapportert høyere kortomsetning i kassaoppgjøret en det som fremkommer av terminalutskriften. E mener dette neppe ville forekommet dersom det var dekning for skattekontoret sin påstand om at omsetningen skal planmessig ha vært holdt utenfor.
+
+Skattyter mener det ikke er logisk sammenheng mellom skattekontorets observasjoner og de slutninger som gjøres i skattekontorets rapport. E trekker frem som eksempel rapportens punkt 6.5 annet avsnitt. Her vises det til observasjoner under kontrollbesøk som begrunnelse for hvorfor andel kontantomsetning i virksomheten skal være unormalt lav, til tross for at det ifølge E ikke er vist til hendelser under observasjonsbesøkene som kan underbygge en slik påstand. E sier videre at det er ved observasjonsbesøkene er oppdaget feilregistreringer som har motsatt effekt.
+
+E mener videre det ikke er riktig av skattekontoret å anta at kontantsalg er lavere enn normalt, uten å vise til objektive kilder for hva som skal være normalt. Det hevdes videre at det ikke er vurdert om andelene av antall betalinger som er gjort med kort er høy eller lav. E mener dette ville gitt et annet bilde da han mener det er opplagt at tilbøyeligheten til kontantbetaling er omvendt proporsjonal med transaksjonens størrelse.
+
+Ad punkt 2 " Rettslig vurdering" ( Pkt. 2.1 "Skjønnsgrunnlaget" og pkt. 2.1.1" De forhold som er lagt til grunn for skjønnsligning")
+
+Ad "kontantsalg ikke registrert fortløpende" E mener påstanden om at kontantsalg ikke er registrert fortløpende, er løsrevet fra faktum i saken og viser til sin redegjørelse for dette tidligere i klagen og kontrollrapporten.
+
+Ad "Virksomheten har mangelfulle rutiner for registrering av kontantsalg betalt med kort og mangler ved avstemming". E er på vegne av klager ikke er enig i at når kortbetalinger ikke konsekvent blir løpende dobbeltregistrert på kasseapparatet, utgjør en "mangelfull rutine". E påpeker at det i vedtaket ikke drøftes hva rutinen er mangelfull i forhold til. E forutsetter at det vises til bokføringspålegg som fremgår av rapportens pkt. 5.1.1.
+
+E mener skattekontoret ikke har tolket bokføringsforskriften § 5-3-2 riktig når rapporten i pkt. 5.1.1 legger til grunn at omsetningen skal registreres fortløpende på kassaapparatet. E sier videre at det følger av bokføringsforskriften § 5-3-2 at salget skal fortløpende registreres på kassaapparat, terminal eller likeverdig system. Det hevdes at klager kan dokumentere beløp og klokkeslett for hvert enkelt salg med utskrifter fra de to registreringsenhetene. Videre mener klager de har utskrift av dagsrapporter fra kassaapparatet etter at de resterende kortbetalinger dobbeltregistreres inn på kassaapparatet ved dagens slutt.
+
+E mener det følger direkte av bokføringsforskriften § 5-3-3 at det ikke er krav til at slike dagsrapporter skal kunne skrives ut til enhver tid. Klager mener at så lenge rutinen sikrer at dette gjøres ved daglige kassaoppgjør, er bokføringsforskriften ivaretatt. E innrømmer at det på bakgrunn av at det kassasystem selskapet bruker, vil være mulig at det skjer feilslag på kassa. Det sies videre at evt. feilinntastinger vil oppdages ved dagsoppgjøret, men at dette ikke gir grunnlag for å hevde at det er mangler ved selve avstemmingen.
+
+Ad " Kassaavstemmingen 1.februar 2012 viser betydelige differanser som er registrert som omsetning betalt på bankterminal og hva dette skulle vært i følge fremlagt dokumentasjon denne dagen. Det er registrert for lite på kasseapparatet. I tillegg er det en liten differanse på kontantene i kassa, da det er opptalt mer enn hva den teoretiske kassa skulle vært" E mener at de to registreringsenhetene ikke kan avstemmes mot hverandre i åpningstiden, jf. rutinen selskapet har for registrering av salg på kassen. Klager mener observasjoner fra kontroll 1.februar 2012 kl. 21.52, før stengetid, og slutninger på dette grunnlaget ikke har noen informasjonsverdi i saken.
+
+Ad "Lite samsvar mellom enkeltsalg registrert med kort på kassaapparatet og hva som fremkommer av rapport fra kortterminalen" E viser her til klagens punkt 1.3, der det er forklart hvilke hendelser som kan forklare manglende avstemming en-til-en. Videre vises det til punkt 1.5 der han har beskrevet at skattekontoret har oversett slike hendelser.
+
+Ad "Unormal lav andel av omsetningen som er betalt med kontanter" E stiller spørsmål ved hvilke objektive normer for andel kontantsalg som er lagt til grunn for en slik påstand som referert til over. Det hevdes at det uansett ikke er gjort observasjoner hos klager som gir dekning for en slik påstand.
+
+Klager viser til vedtakets side 5, der skattekontoret peker på skattyters tilbakevisning av påstanden om at kontanthandelen skulle være unormalt lav, og hevder at dette ikke er begrunnet eller dokumentert. Videre mener klager det synes rart av skattekontoret å legge sin egen hypotese til grunn inntil det motsatte er bevist og mener dette er i strid med bevisvurderingsreglene i norsk rettstradisjon.
+
+#### Punkt 2.1.2 "Lovens vilkår for skjønnsligning"
+
+Klager mener skattekontoret ikke har drøftet de overnevnte forhold (i klagen) opp mot lovens vilkår for skjønnsligning slik det følger av ligningsloven § 8-2. Klager antar at skattekontoret har lagt til grunn at skjønnshjemmelen i lignl. § 8-2 (1) bokstav a er oppfylt.
+
+E mener på vegne av klager at ingen av de to kumulative vilkårene i lignl. § 8-2 er oppfylt. Det påstås at selv om det skulle ha foreligget skjønnsgrunnlag skulle en eventuell endring blitt vurdert opp mot spørsmålets betydning, skattyterens forhold, sakens opplysning og den tid som har gått, jf. lignl. § 9-5 nr 7. E presiserer at opplistingen ikke er uttømmende og at det skal foretas en bred vurdering. E mener i denne sammenheng at også andre forhold som språkproblemer og plausibilitet i fortjenestemarginer burde vært drøftet før saken ble tatt opp til endring.
+
+#### Pkt. 2.2 "Skjønnsutøvelsen"
+
+E mener skjønnsutøvelsen har vært åpenbar ubalansert og har gitt et helt feilaktig inntrykk av de økonomiske realiteter i virksomheten. Dette begrunnes med påstanden om at skattekontoret har lagt til grunn som bevist at skattyter har etablert et system for å unndra midler fra beskatning (beregnet og betalt merverdiavgift, skattekontorets bemerkning i klagebehandlingen). Dette til tross for det klager mener kontrollbesøk og en kritisk gjennomgang av materialet peker i en annen retning.
+
+E mener det er lagt til grunn at all løpende registrert kortomsetning på kassa er uteholdt, dersom disse ikke kan avstemmes en-til-en med terminaltransaksjonene. E mener denne modellen ikke tar hensyn til de hendelser han har vist til tidligere i klagen, jf. klagen punkt 1.3 og punkt 1.5. Dette er bakgrunnen for at det påstås at det er utøvet et ubalansert skjønn som ikke stemmer med de økonomiske realiteter i virksomheten.
+
+#### Pkt. 2.3 "Skjønnsresultatet"
+
+E hevder i klagen at skattekontoret har regnet seg frem til uteholdt omsetning med kr 2 170 000 som vil utgjøre en bruttofortjeneste på 83,1 % og resultat før skatt på 24 % for en kinarestaurant på et tettsted som A. Dette tallet er endret i E-post av 20.11.2013, der E skriver at han feilaktig har oppgitt bruttofortjeneste på 83,1 % som var ment å skulle være 65,3 %. Han mener forøvrig at dette ikke har betydning for klagepåstanden.
+
+E mener skattekontoret ikke kan ha forståelse for konkurransesituasjonen og lønnsomheten i bransjen. Klager stiller seg ifølge E tvilende til om det i Norges land kan finnes ett eneste eksempel på at en serveringsbedrift i et tilsvarende marked kan vise til slike tall. Det hevdes at det åpenbart urimelige skjønnsresultatet underbygger anførslene mot skjønnsutøvelsen.
+
+### Ad pkt. 3 "Påstand"
+
+#### Pkt. 3.1 "Skattyters bidrag til sakens opplysning"
+
+Klager opplyser om at de er mer enn villig til å bidra til å kaste ytterligere lys over sakens faktum med sikte på å gi et best mulig grunnlag for ny realitetsbehandling av saken.
+
+#### Pkt. 3.2 "Skatteetatens organisering"
+
+E fremmer at det har vært en rekke personer involvert i en langvarig prosess mot skattyter, og underveis i prosessen har det vært fremmet sterke synspunkter på den saksbehandling som er gjennomført. E mener både klager og Skatteetaten er tjent med at det ikke kan stilles spørsmål ved saksbehandlernes uavhengighet på de ulike trinnene i saksbehandlingen.
+
+E har i klagen bedt om en redegjørelse for den organisatoriske plasseringen av de saksbehandlere som har vært involvert i saken så langt og for den saksbehandleren som skal forberede saken i klagebehandlingen.
+
+#### Ad punkt 3.3 " Påstand"
+
+E påstår at skjønnsligningen (les; endring av grunnlaget for beregning av merverdiavgift) oppheves for så vidt gjelder alle forhold knyttet til påstanden om uteholdt omsetning.
+
+Manglende fradragsrett for inngående merverdiavgift, jf. vedtakets punkt 2.2 bestrides ikke. Det er underveis i saksbehandling mottatt tilleggsopplysninger fra advokat E. Disse er mottatt per e-post 20.11.2013 og innholdet følgende;
+
+Ad skjønnshjemmelen: E sendte oversikt over dagsoppgjør fra november 2011 og z-rapport for 11. november 2011, jf. punkt 1.5 i klagen.
+
+Ad skjønnsresultatet: E sendte en grafisk fremstilling av virksomhetens rapporterte omsetningsutvikling i perioden 2009-2012, sammenlignet med skattekontorets skjønnsvedtak for årene 2009-2011. For året 2012 mente E at det er sammenfallende syn, jf. vedlagte brev fra Skatteetaten av 4. oktober 2012 om etterkommet bokføringspålegg.
+
+E mener det av oversikten fremkommer at rapportert omsetning har vært jevnt stigende, mens den skjønnsfastsatte omsetningen for 2009-2011 skulle innebære et bratt fall mot 2012. Dette er etter klagers oppfatning en klar indikasjon på at skjønnet er feil.
+
+Ad tilleggsavgift mva: E mener konklusjon vedrørende tilleggsavgift, at det utvilsomt forsettlig er uteholdt omsetning, fremstår av flere årsaker som ubegrunnet, spesielt når skattekontoret var kjent med at virksomheten var bistått av autorisert regnskapsfører som har tilrettelagt rutinene.
+
+Ad befaring og samtale med skattyterne: Skattyterne er tilgjengelige for en gjennomgang av tidligere rutine. E la også ved resultatregnskap 2012 og kopi av lønns- og trekkoppgaver for 5 ansatte.
+
+### 1.4 Skattekontorets vurdering av klagen
+
+#### 1.4.1 Klageadgang
+
+Vedtak i saken er fattet 17.09.2013. Fristen for å klage er 3 uker fra vedtaket ble mottatt, jf. fvl. § 29, jf. merverdiavgiftsloven § 13-1 (forskrift nr. 17 § 10 til merverdiavgiftsloven av 1969). Klagen i brev av 10.10.2013, ble mottatt på skattekontoret 11.10.2013. Klagen er med det rettidig og tas opp til realitetsbehandling.
+
+#### 1.4.2 Klagegjenstand
+
+I klagen anføres påstander knyttet opp mot hjemler for endring av ligningen. Ved telefonsamtale av 01.11.2013 mellom E og saksbehandler F, var det enighet om at klagen også gjelder spørsmål om endring av merverdiavgift og at anførslene da gjelder for gyldigheten/skjønnsadgangen hva gjelder merverdiavgiften og det skjønn som er utøvd i forhold til merverdiavgiften.
+
+Etter dette legger skattekontoret til grunn at klagen knytter seg til etterberegnet utgående merverdiavgift jf. tabell nedenfor.
+
+År Omsetning ekskl. mva. Utgående merverdiavgift
+
+2009 751 263 148 737 2010 918 211 181 789 2011 500 842 99 158 Sum 2 170 316 429 684
+
+2009-2011 Tilleggavgift 257 810 Sum 687 494
+
+År Inngående merverdiavgift 2011 12 000 Sum 12 000
+
+Skattekontoret vil først vurdere hvorvidt det foreligger skjønnsadgang for så å se på hvorvidt skjønnet som er utøvd er innenfor de rammer som er gitt av lovverket og om det fremstår som et rimelig skjønn.
+
+#### 1.4.3 Skjønnsadgang
+
+E hevder vedtaket skal oppheves hva gjelder påstand om uteholdt omsetning. Det anføres på vegne av selskapet at det ikke foreligger adgang til å fastsette merverdiavgiften ved skjønn. Dernest mener han skjønnet som er fastsatt uansett er ubalansert og gir et helt feilaktig inntrykk av de økonomiske realiteter i virksomheten.
+
+#### 1.4.3.1 Rettslig grunnlag
+
+Hjemmel Klagen gjelder etterberegninger på bakgrunn av forhold avdekket i perioden 2009 – 2011. Merverdiavgiftsloven regulerer området som saken gjelder. Merverdiavgiftsloven fikk en teknisk omgjøring i 2009 som trådte i kraft 01.01.2010 og avløste merverdiavgiftsloven av 1969. Dette medførte ingen endring i det materielle innhold. Siden saken berører år både før og etter 2009, henvises det til gammel lov av 1969 i parentes ved lovangivelse.
+
+Etter merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55 første ledd nr. 2) kan grunnlaget for avgift fastsettes ved skjønn når det er gitt uriktige eller ufullstendige opplysninger eller regnskapet som oppgavene bygger på ikke er ført i samsvar med gjeldende regnskapslovgivning.
+
+For endring av merverdiavgiftsgrunnlaget oppstilles objektive vilkår for å fastsette beregningsgrunnlaget for utgående merverdiavgift og beløpet for inngående merverdiavgift ved skjønn.
+
+Forvaltningsloven legger føringer for saksbehandlingen generelt når det gjelder endringsvedtak for merverdiavgiften, særlig da fvl. § 24 "Når enkeltvedtak skal grunngis". Som nevnt innledningsvis har E i klagen referert til skjønnsbestemmelsene i ligningsloven. I dette saksfremlegg skal spørsmål knyttet til endring av merverdiavgift vurderes. Skattekontoret vil likevel kort knytte noen merknader til Es anførsler.
+
+Det medfører riktighet i forhold til ligningsloven § 8-2 at man skal foreta en vurdering etter ligningsloven § 9-5 nr 7, før spørsmål om endring av ligning tas opp.
+
+Skjønnsadgangen når det gjelder endring av merverdiavgiftsloven, hjemles i mval. § 18-1, bokstav b. Det foreligger ingen tilsvarende bestemmelser som ligningsloven § 9-5 nr 7 i mval. Skattekontoret går følgelig ikke inn i noen vurdering av ligningsloven § 8-2 og lignl. § 9-5 nr 7.
+
+Rettspraksis Selv om ligningsloven bestemmelser ikke direkte er anvendelig ved avgjørelsen av spørsmål knyttet til merverdiavgift, er det i rettspraksis slått fast at det kan søkes veiledning i ligningslovens bestemmelser. Rt. 2000 side 402 (Vest Kontorutvikling AS) gjelder gyldigheten av et vedtak truffet av Klagenemnda for merverdiavgift etter merverdiavgiftsloven § 55 første ledd nr. 2. I forbindelse med prinsippet om at det skal foretas en objektiv vurdering av alle opplysninger som foreligger i saken, viste Høyesterett til blant annet ligningsloven § 8-1 nr. 1 når det gjelder formues- og inntektsligning, og tvistemålsloven § 183 når det gjelder sivile rettssaker.
+
+Når det gjelder anvendelsen av merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55 første ledd nr. 2) og ligningslovens bestemmelser, er dette også omtalt i Borgarting Lagmannsretts dom av 29. mai 2006 inntatt i Utvalg 2006 side 1003. Her sier lagmannsretten at ligningsloven § 8-2, nr. 1 gir veiledning også når det gjelder adgangen til skjønnsfastsettelse etter merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55 første ledd nr. 2).
+
+Etter ligningsloven § 8-2 nr. 1 kan grunnlaget fastsettes ved skjønn når: a) oppgavene lider av feil eller regnskapet som oppgavene bygger på, ikke er ført i samsvar med lov og forskrifter, og disse forhold svekker tilliten til oppgavene eller regnskapet i sin alminnelighet, b) oppgavene viser en dårligere bruttofortjeneste enn hva andre skattytere under sammenlignbare forhold har oppnådd, eller som det var grunn til å vente at skattyteren kunne oppnå, og skattyteren ikke kan forklare det unormale resultatet eller, c) det ikke er rimelig sammenheng mellom skattyterens oppgitte inntekt, sannsynlige privatforbruk og eventuell formuesbevegelse.
+
+#### 1.4.3.2 Vurdering
+
+a) Utgangspunkt
+
+Rapport og vedtak legger til grunn at det under bokettersynet er avdekket både formelle og materielle feil. Videre at dette er feil som gjør at det ikke kan føres kontroll med hvorvidt all omsetning og inntekter er bokført og innrapportert, og dette svekker tilliten til regnskapet i sin alminnelighet, jf. ligningsloven § 8-2, nr. 1, og merverdiavgiftsloven § 18-1 første ledd bokstav b (§ 55 første ledd nr. 2).
+
+Begrunnelsen for skjønnsadgangen i vedtaket er manglende rutiner for dagsoppgjør, salg via bankterminal som ikke er registrert på kassen, -lite samsvar mellom enkeltsalg betalt med kort på kasseapparatet og hva som fremkommer av rapport fra kortterminalen, samt lav andel av omsetningen som var betalt med kontanter. Skattekontoret slo fast at disse ulike forhold, i sammenheng med hverandre, hjemler skjønnsadgangen.
+
+Klager bestrider at skattekontoret har hatt skjønnsadgang i denne saken. Klager ser det slik at selskapets oppgaver ikke er uriktige på bakgrunn av feil ført regnskap. Klager tilbakeviser at rapportens punkt 6.6, "Skjønn", begrunner skattekontorets adgang til å fastsette merverdiavgiften ved skjønn.
+
+b) Skattekontoret syn på saken i klageomgangen
+
+Skattekontoret vil vurdere følgende punkter i rapporten og vedtak for å se om de bidrar til at man får et forsvarlig grunnlag (oppgavene) å bygge fastsettingene på og dermed begrunner adgangen til å fastsette merverdiavgiften ved skjønn.
+
+b) 1 Formelle merknader, jf. rapportens punkt 5 b) 2 Salg betalt via bankterminal er ikke slått inn på kasse, jf. rapportens punkt 6.4 b) 3 Lav kontantandel, jf. rapportens punkt 6.5 b) 4 Lav bruttofortjeneste
+
+b) 1 Formelle merknader, jf. rapportens punkt 5 Det er avdekket at kontantsalg ikke er registrert fortløpende, at virksomheten hadde mangelfulle rutiner for registrering av kontantomsetning betalt med kort. Vurdering Gjennom forklaringer gitt ved den uvarslede kontrollen 01.12.12, opplyser virksomheten at kun deler av kontantsalg betalt med kort registreres fortløpende på kassaapparatet. E gir også i klagen uttrykk for at det er et ubestridt faktum at virksomheten ikke har hatt rutine for at kjøp registrert på terminal samtidig blir "dobbeltregistrert" på kassa, se klagen side 2.
+
+E mener at påstanden om at kontantsalg ikke er registrert fortløpende, er løsrevet fra faktum i saken. E stiller videre spørsmål ved om denne manglende registreringen er i strid med bokføringsforskriften.
+
+Ved kontrollbesøkene og observasjonene hos virksomheten, holdt opp mot sladrerullene på kassa og regnskapet for øvrig, er det avdekket at all kontantsalg ikke blir registrert fortløpende. Skattekontoret mener denne påstanden ikke er løsrevet fra faktum. Videre mener skattekontoret virksomhetens måte å håndtere registrering av omsetningen, er i strid med bokføringsforskriften og begrunner dette i det følgende.
+
+Ordlyden i bokføringsforskriften § 5-3-2 beskriver registrering av kontantsalg på kasseapparat, terminal eller likeverdig system". Skattekontoret legger til grunn at det følger av denne at registrering skal skje fortløpende på kassaapparatet.
+
+Skattekontoret vil bemerke at vi ikke er enig i E sin begrepsbruk hva gjelder "dobbeltregistrering". Skattekontoret legger til grunn at hver transaksjon kun skal registreres én gang og da fortløpende. Skjer det et salg ved bruk av terminal, skal denne samtidig (fortløpende) registreres på kassaapparatet. Bokføringsforskriften sier at registrering skal skje på kassa. Det blir altså ingen dobbeltregistrering, men riktig registrering på hver av de to enhetene; kasse og bankterminal.
+
+Videre, dersom et kontantsalg betalt med kort bare registreres på bankterminal, vil heller ikke bokføringsforskriften § 5-3-2 (2) kunne oppfylles. Det følger av denne bestemmelsen at kasseapparatet skal kunne skrive salgsdokumentasjon for hvert salg. Utstedelse av salgsdokumentasjon der man har betalt med kort vil ikke være mulig å gjøre dersom registreringen av dette salget skjer etter stengetid, jf. forklaring gitt av G 01.02.2012.
+
+Skattekontoret er enig med E i at bestemmelsene om dagsoppgjør som fremgår av § 5-3-3, oppstiller som krav at det skal gjøres daglig kasseoppgjør, ikke at dagsoppgjør skal kunne gjøres til enhver tid. Likevel er det i et dagsoppgjørs "natur" at dette skal foretas etter endt omsetningsdag. Men grunnlaget for dagsoppgjøret må likevel være riktig til enhver tid, gjennom dagen dagsoppgjøret gjelder for. I tillegg gjør § 5-3-2 (2) at registrering på kasseapparatet er nødvendig så sant det foretas et salg – kunden skal ha mulighet til å motta salgsdokumentasjon.
+
+E mener bokføringsforskriften er oppfylt ved at de kan dokumentere beløp og klokkeslett for hvert enkelt salg med utskrifter fra de to registreringsenhetene.
+
+Skattekontoret mener en slik registreringsmåte ("rutine") ikke sikrer og ivaretar formålet med bokføringsforskriften og dens krav til etterrettelighet og fullstendighet, jf. også bokføringsloven § 4. Rutinen virksomheten har for registering av salg, er mangelfull. Den sikrer ikke at kontantsalg betalt med kort, eller kontantsalg betalt med sedler/mynt som registreres som betalt med kort, registreres på riktig måte og vil da ikke gi et fullstendig bilde av omsetningen.
+
+Virksomhetens fremgangsmåte åpner opp for muligheter til å unndra omsetning. Det vil være vanskelig med virksomhetens rutiner å sikre at all omsetning blir registrert, jf. virksomhetens forklaring gjengitt i rapportens side 7 og 8 om at "etterregistreringen" skjer på bakgrunn av løse lapper, om kunden tar med kvittering fra bankterminal eller ikke. Samtidighet i registrering vil sikre at registreringen er skjedd utfra hva som var den reelle situasjonen ved transaksjonen.
+
+Det er av stor betydning at selskapet ikke har registrert all kontantsalg betalt med kort fortløpende på kassaapparatet, fordi dette vanskeliggjør en normal kontroll av omsetningen. Konsekvensen er at det er vanskelig å kontrollere fullstendigheten av inntektene, og tilliten til regnskapet er svært svekket. Oppgavene bygger på et regnskap der det er avdekket mangler, og regnskapet har vært uriktig. Skattekontoret fastholder at der det er avdekket formelle mangler, er dette et viktig moment som er med på å gi skjønnsadgang.
+
+Konklusjon
+
+Skattekontoret mener disse formelle manglene gir anledning til å fastsette beregningsgrunnlaget for utgående merverdiavgift ved skjønn.
+
+b) 2 Salg betalt via bankterminal er ikke slått inn på kasse, jf. rapportens punkt 6.4 Det er slått fast i rapport og vedtak at det er lite samsvar mellom enkeltsalg registrert betalt med kort på kasseapparatet og hva som fremkommer av rapport fra kortterminalen. I følge bokettersynsrapporten er det kun 22 % samsvar for de utvalgte uker skattekontorets kontrollører har lagt til grunn.
+
+I forbindelse med kontrollen er det innhentet utskrift over transaksjonene fra bankterminalen for kontrollperiodene, transaksjonsliste bax nr 211679. Denne listen viser dato, klokkeslett og beløp på alle betalinger foretatt med kort til Klager AS. Skattekontoret har under kontrollen tilfeldig valgt ut 10 uker fra kontrollperioden 2009-2011, og sammenholdt disse med kassaapparatets sladrerull for de aktuelle dagene. Sladrerullene viser blant annet klokkeslett og beløp på alle registrerte salg.
+
+E hevder at skattekontoret har lagt til grunn som premiss at all kortomsetning som er løpende "dobbeltregistrert" på kassa og ikke kan avstemmes "en-til-en" mot terminaltransaksjonene, gir et kontantoverskudd i kassa. E viser til rapportens punkt 6.7, første avsnitt. Det siteres fra rapportens første avsnitt: "I perioden 2009-2011 har virksomheten unormalt høyt antall salg betalt med kort hvor beløpet ikke samsvarer med et som fremkommer med kortterminal. Dette tyder på at en vesentlig andel av kontantomsetning betalt kontant er registrert med kort på kasseapparatet, noe som fører til at all kontantomsetning dermed holdes utenfor regnskapet".
+
+E har gjennomgått det han mener er viktige hendelser som gjør at terminal ikke kan avstemmes en-til-en mot dagsrapporten som skrives ut fra kassa og mulige konsekvenser av dette. Disse fremgår av klagens punkt 1.3, sitert i sin helhet under punkt 1.3" Klagers innsigelser" og gjennomgås i det følgende.
+
+1.3 – 1) Feilregistrering av kontantbetalinger på kassa E vedgår at det ved feilregistrering av kontantbetalinger på kassa vil være mulig å holde kontantomsetning utenfor regnskapet. Likevel hevder han at det ved de fem anonyme kontrollbesøkene ikke er observert noen tilfeller av at kontantomsetning er feilaktig registrert på kassa som betalt med kort.
+
+Skattekontoret tilbakeviser E sin antydning om dersom det ikke er observert slike feilregistreringer, så utelukker dette at det faktisk har skjedd. Bakgrunnen for skattekontorets tilbakevisning er at slike feil vanskelig kan observeres, med mindre man ser hvilke knapper som brukes ved registrering av salget eller studerer kassarull i ettertid. Skattekontoret mener i klageomgangen at de faktiske forhold ved gjennomgang av kassarull og bankterminal tilsier at kontantbetalinger har blitt registrert som betalt med kort.
+
+E hevder også at avstemmingen og "dobbeltregistreringen" virksomheten gjør på slutten av hver dag, sørger for at all omsetning tas med i regnskapet.
+
+Skattekontoret mener at en slik etterregistrering virksomheten gjør på slutten av dagen ikke gir noen garanti for at all omsetning som er registrert på bankterminal, også blir registrert på kassa. Skattekontoret mener det er sannsynlighetsovervekt for at det "dobbeltregistreres" det som er nødvendig for å fylle opp til det som er registrert på kassa for så å unndra de kontanter som "forsvinner" da disse allerede er betalt med kort.
+
+1.3 – 2) Feilregistrering av kortbetalinger på kassa E illustrerer hvordan feilregistreringer også kan gi kontantoverskudd i kassa. Dette kan skje dersom kortbetalinger feilaktig blir registrert på kassa som kontantutbetaling. Det vil ifølge E oppstå avstemmingsfeil mot terminal ved senere manuell "dobbeltregistrering" av kortbetalingene på kassa. Videre hevdes det at skattekontoret feilaktig har lagt til grunn at dette er en type feil som gir mulighet for å holde kontantomsetning utenfor regnskapet, og at skattekontoret har registrert to tilfeller av slike feil under kontrollbesøk 01.12.12.
+
+Skattekontoret er delvis enig i dette. Vi er enig i at det vil skape et kontantunderskudd der kortbetalinger registreres på kassa som betalt med kontant. Men denne saken baserer seg blant annet på avdekkede kontantoverskudd.
+
+1.3 – 3) Flere kassainnslag med ett kort og 4) Ett kasseinnslag betalt med flere kort eller en kombinasjon av kort og kontant 5) Andre avvik
+
+E mener skattekontoret skulle vurdert muligheten for at en servering kan bestå av flere salgstransaksjoner som betales med en korttransaksjon, jf. punkt 3). E mener dette er en faktor som gjør at kortbetalingene i terminal ikke kan avstemmes en-til-en mot dagsrapporten som skrives ut fra kassa.
+
+Videre mener E skattekontoret skulle vurdert muligheten for at en servering for flere personer føres på transaksjon i kassen, men fordeles på flere personer ved betaling, der noen betaler kontant og andre med kort, jf. punkt 4). E mener dette gjør at det ikke vil være mulig med en-til-en avstemming.
+
+E mener også det faktum at det foretas manuelle registreringer gjør at det ikke kan utelukkes feil som uteglemt innslag og innslag av feilaktige beløp, jf. punkt 5) Videre at disse vil bli korrigert ved dagsoppgjøret av kassa. E sier at det ikke er avdekket slike feil og at det heller ikke er tatt stilling til problemstillingen.
+
+Vurdering
+
+Skattekontoret er ikke enig i at det i rapport og vedtak er lagt til grunn premiss om "en-til-en" avstemming slik E fremstiller det.
+
+Det er riktig at en såkalt "en-til-en" avstemming har vært et utgangpunkt, og skattekontoret har forsøkt å finne igjen salgene på transaksjonsutskriften fra bankterminalen på virksomhetens kassarull for de aktuelle dagene. Som det fremgår av vedleggene, er skjønnet ikke beregnet ene og alene av de beløp der transaksjonen/salget er registrert samtidig/likt på bankterminal og sladrerull, både hva gjelder beløp og tidspunkt. De salg der vi ser samsvar både hva gjelder beløp og tidspunkt, er markert med grønt i vedlegg til rapporten. Videre har kontrollørene avstemt transaksjonene som samsvarer med tanke på beløp, men ikke hva gjelder tidspunkt. Her er det kontrollert om de stemmer en-til-en, hvilket registreringene ikke gjør. Likevel er disse hensyntatt ved beregning av skjønnet. Disse er markert med gult i vedleggene.
+
+Når det gjelder manuelle etterregistreringer er det naturlig at disse ikke er oppdaget ved besøkene fra skattekontoret. For det første har ikke kontrollørene stått bak kassa og sett hvilke knapper disse registreres på. Etter skattekontorets vurdering vil det alltid foreligge en viss mulighet for at det kan skje feilregistreringer hos enhver som håndterer kontanter og manuelle innslag. Skattekontoret mener likevel at slik selskapet har drevet med etterregistreringer og rutinene de har hatt for å håndtere kassasystemet, gjør at dagsoppgjøret ikke vil fange opp evt. feilslag og mulighetene for at transaksjoner er blitt håndtert riktig vil være vanskeligere å avdekke, selv om det er foretatt dagsoppgjør. Denne usikkerheten muliggjør også at det kan foreligge tvil om alt er riktig når det avstemmes.
+
+Tilliten til regnskapene er svekket og gir med det adgang til å fastsette omsetningen og beregne merverdiavgiften ved skjønn.
+
+Nærmere om selve avstemmingen (rapportens punkt 6.1) Avstemmingen er altså foretatt ved at kontrollørene har sett på
+
+• hvor mange banksalg det er foretatt totalt i kroner • hvor mange banksalg i antall • antall beløp som er lik før virksomheten etterregistrerer/avstemmer • antall beløp som etterregistreres • antall beløp som er lik som etterregistreres • tilfeller hvor det er registrert banksalg før det er registrert noen betalinger på terminalen
+
+Resultatet av denne avstemmingen viser at det kun ved 397 (123+274) av 1 799 tilfeller, er samsvar mellom hva som er registrert på kassaapparatet og hva som er betalt på bankterminal. Virksomheten har, i våre utvalgte uker, ved 22 % av salgene betalt med kort, registrert samme beløp på kassaapparatet og det som er betalt på bankterminalen. Videre er det i 40 tilfeller registrert salg som kortsalg på kassaapparatet før første betaling på bankterminal. Som eksempel nevnes at den 11. september 2011 viser sladrerull for kassa-apparatet salg betalt med kort kl. 13:11 og 14:04 (etter korrigering for feil klokke) til sammen kr 387, mens første betaling på bankterminal er kl. 14:31. Til tross for disse feilregistreringene viser avstemming den 11. september 2011 at kortsalg ifølge Z-rapport kassaapparat og hva som er betalt på bankterminal, samme beløp og antall.
+
+Selv om kun 22 % av salgene samsvar mellom kassaapparatet og bankterminalen og 40 tilfeller av salg registrert som kortsalg på kassaapparatet før første betaling på bankterminal, viser Z-rapportene og avstemmingsrapportene fra bankterminal (med noen få unntak) samme beløp og antall. Skattekontoret mener dette viser at føringene ikke har vært riktig og med det at det foreligger omsetning som ikke er innrapportert.
+
+Klager har også tatt utgangspunkt i/foretatt en stikkprøvekontroll av skattekontorets kontrollmateriale. Dette er gjort for å vise hvordan det han har anført i klagens punkt 1.3 og 1.4 i sin klage, påvirker skattekontorets resonnement. Klager har brukt vedlegg 9 til bokettersynsrapporten, som er en transaksjonsoversikt for 11. november 2011.
+
+E mener den korrekte kortomsetningen bør legges til grunn ved beregningen av differansen, ikke den som vises på kasseapparatet. Skattekontoret er enig i E sin observasjon.
+
+E hevder de avstembare og de etterregistrerte korttransaksjoner på kassa er av skattekontoret feilsummert til kr 11 018, mens E mener riktig sum er kr 11 785. Skattekontoret er enig i disse summeringene. Likevel, sett på bakgrunn av at utvalget tar utgangspunkt i 10 uker, vil ikke evt. enkeltfeil som dette gjøre resultatet vilkårlig.
+
+E mener videre at skattekontoret ved sin manuelle avstemming ikke hatt forståelse for hvordan betalingene i restauranten foregår. E mener det kan være sannsynlig at en kasseregistrering av kortomsetning på kr 614 er betalt med fire forskjellige korttransaksjoner om lag kl. 18.50, uten at beløpene har blitt avstemt. Skattekontoret kan ikke legge denne observasjonen til grunn. Klokken på kasseapparatet er påvist å gå 18 min for fort. Dersom vi legger til grunn faktisk tid, ser vi at "samletransaksjon", slik den fremstår på sladrerull fra kasse, faktisk skjer når kun to av bankkorttransaksjonene er slått på bankterminal. I tillegg, dersom vi summerer beløpene på banktransaksjonene utgjør dette kr 613 mot kr 614 på kassens sladrerull. Skattekontoret mener det er rom for å tolke denne observasjonen på begge måter, og i så måte svekkes E sin påstand.
+
+Kortterminal Kasseapparat
+
+Dato Tidspunkt Beløp Justering Tidspkt sladrerull Tidspunkt Beløp Type 11.01.2011 18:47:15 114,00 11.01.2011 18:56:56 229,00 11.01.2011 18:58:23 232,00 11.01.2011 19:02:10 38,00 19:13 18:55 614 Bankkort (Sum 613) 00:18
+
+E mener skattekontoret ved sin avstemming ikke har registrert at en kortbetaling på kr 170,00 kl. 19:19:00 er registrert på kassa noen minutter senere med kr 171. E sier videre at den tilsynelatende differansen kan skyldes øreavrunding som følge av at det ikke belastes desimaler på bankterminalen.
+
+Skattekontoret mener dette er et argument som kan være sannsynlig, men at det også kan være to transaksjoner.
+
+E trekker også fram som eksempel at skattekontoret ved sin avstemming ikke har registrert at en kortbetaling på kr 107,00 kl. 20:40:38 er registrert på kassa som kontantbetaling noen minutter senere.
+
+Skattekontoret ser av transaksjonen at det har gått 25 min fra salget ble registrert på bank til det angivelig ble registrert på kassa. Skattekontoret mener det ikke nødvendigvis er samme transaksjon som kl. 20:55 er registrert inn på kontant, egentlig da er korttransaksjonen 25 min tidligere. Skattekontoret mener det også kan være sannsynlig at dette er en ny kunde som etterregistreres. Dette også sett opp mot forklaringene at "dobbeltregistreringen" for det meste først skjedde ved/etter stengetid.
+
+E mener at det i strid med skattekontorets hypotese om at feilslag på kassa blir underslått, er det ved kassaoppgjøret rapportert en høyere kortomsetning enn det som vitterlig kan leses av terminalutskriften. Skattekontoret er enig i at det skal tas utgangspunkt i korrekt kortomsetning. Likevel, sett på bakgrunn av at utvalget tar utgangspunkt i 10 uker, vil ikke evt. enkeltfeil som dette gjøre resultatet vilkårlig. Skattekontoret mener i tillegg at siden kassa viser en høyere omsetning på kassa enn ved utskrift fra bankterminalen, tilsier at registreringene ikke har vært riktige og med det skapt en mulighet for at kontantsalg betalt med sedler og mynt har blitt registrert som betalt med kort og da skapt et kontantoverskudd i kassa.
+
+E mener at ved å studere et fåtall hendelser denne dagen forklares mesteparten av det faktum som skattekontoret legger til grunn som uteholdt omsetning. Skattekontoret er ikke enig i E sitt resonnement i at det forklarer det meste, jf. drøftelsen over der mange av punktene kan forklares eller tilbakevises.
+
+Konklusjon
+
+Skattekontoret fastholder etter dette at gjennomgangen viser at ikke alle salg betalt med kort blir fortløpende registrert, og at det er sannsynlighetsovervekt for at salg ikke er tatt med i bokført omsetning. Dette gir skattekontoret skjønnsadgang.
+
+b) 3 Lav kontantandel, jf. rapportens punkt 6.5 Rapport og vedtak har lagt til grunn at det er avdekket unormal lav andel av omsetningen som er betalt med kontanter.
+
+En gjennomgang av virksomhetens regnskap viser en andel av omsetningen som er betalt med kontanter på 21,0 % for 2009, 15,4 % for 2010 og 18,3 % for 1.- 3. termin 2011. På bakgrunn av observasjonsbesøk og forholdet antall registreringer mellom kontant og kort de ukene skattekontoret har foretatt avstemming, synes virksomhetens registrerte omsetning, som er betalt kontant, lav.
+
+E stiller spørsmål ved hvorfor skattekontoret anser kontantomsetningen betalt med sedler og mynt for å være lav, og etterlyser hvilke objektive normer som er lagt til grunn. E mener videre det ikke er riktig av skattekontoret å anta at kontantsalg er lavere enn normalt, uten å vise til objektive kilder for hva som skal være normalt. Det hevdes videre at det ikke er vurdert om andelene av antall betalinger som er gjort med kort er høy eller lav. E mener dette ville gitt et annet bilde da han mener det er opplagt at tilbøyeligheten til kontantbetaling er omvendt proporsjonal med transaksjonens størrelse.
+
+Vurdering
+
+Skattekontoret er av den oppfatning at de tilfeldig valgte 10 ukene som er kontrollert, og analyse av registreringen hva gjelder kontant- og kortbetalinger gir et representativt bilde av virksomhetens omsetning og fordeling kontant/kort. I det følgende går skattekontoret nærmere inn på vurderingen av om denne fordelingen er høy eller lav og hva som anses "normalt" Det er tatt utgangspunkt i tidligere praksis og erfaring hos skatteetaten generelt og praksis fra Klagenemnda for merverdiavgift. (Se også KMVA-2013-7633)
+
+Selv om man ikke ene og alene kan ta utgangspunkt i lav andel av omsetning som er betalt kontant for å foreta en skjønnsfastsettelse, vil det være et moment som sammen med andre vil gi grunnlag for skjønn. Videre vil andelen av omsetningen som er betalt med kontanter, være et godt utgangspunkt for å kontrollere om all omsetning er oppgitt til beskatning og beregnet merverdiavgift av. Ved tilsvarende saker har skatteetaten samlet inne tall fra to av landets største restaurantkjeder som sammen med erfaringer fra kontrollarbeid gir en god indikator på hva som er fornuftig å forvente at det reelle forholdet mellom bruken av kort og kontanter for restaurantbransjen bør ligge på.
+
+Skatteetaten har gjennom et stort antall bokettersyn i sammenlignbare restaurantvirksomheter i årene 2009 til 2011 fått erfaringer i hva som kan være en sannsynlig fordeling mellom kort- og kontantsalg. De viktigste erfaringene kommer fra bokettersyn der det i forbindelse med kontrollen er funnet « svarte » regnskap eller noteringer/elektroniske data som viser uteholdt omsetning. Når uteholdt omsetning har blitt lagt til bokført omsetning, har virksomhetenes reelle kontantandel vist seg å ligge mellom 25 % og 56 %.
+
+I mai 2011 gjennomførte skatteetaten kontroll ved 250 spisesteder i en by i Norge. Anonyme observasjoner var utgangspunktet for kontrollene. I oppfølgingsarbeidet ble 69 av virksomhetene klarert i forhold til om all omsetning i observasjonsperioden ble registrert. Ved disse virksomhetene er den registrerte andelen som er betalt med kontanter, i gjennomsnitt 35 % i den aktuelle uka i mai 2011. Skatteetaten har videre innhentet opplysninger om kortbruken fra to restaurantkjeder som har restauranter og spisesteder i hele landet. Dette er restauranter og spisesteder hvor eierne ofte ikke er direkte involvert i den daglige driften, og som gjerne har et internt kontrollsystem som gjør at Skatteetaten vurderer det som lite sannsynlig at betydelige deler av omsetningen er holdt utenfor regnskapet. Dette til forskjell fra spisesteder der eieren er direkte tilknyttet driften og hvor skattekontoret har erfart at mange av disse virksomhetene holder betydelige omsetningsbeløp utenfor regnskapet. Dette vil da si at tallene i tabellen under angir et minimum av hva man kan forvente at andelen som er betalte med kontanter skal ligge på. Andelen av omsetningen som er betalt med kontanter ved de to restaurantkjedene er oppsummert i tabellen som følger:
+
+Andel av salg betalt med kontanter 2009 2010 2011 2012
+
+Kjede 1: « familierestaurant » 34 % 27 % 26 % 23 % Kjede 2: (kun utvalgte steder) « Burgersteder » 44 % 40 % 35 % 32 % « Pizzasteder » 38 % 31 % 26 % 23 % « Baguettsteder » 54 % 48 % 44 % 40 % « Cafèsteder » 57 % 51 % 46 % 41 % Bakeri og konditori 56 % 50 % 46 % 57 % Snitt (av de utvalgte), kjede 2: 41 % 35 % 30 % 27 % Snitt (for alle steder), kjede 2: 44 % 38 % 34 % 30 %
+
+Selv om Klager AS hovedsakelig serverer kinesiske retter og pizza, mener skattekontoret at opplysninger om kortbruken fra nevnte restaurantkjeder (som har restauranter og spisesteder i hele landet) vil si noe fornuftig om hva som kan forventes av andel omsetning betalt med kort også hos Klager AS.
+
+I følge « Årsrapport om betalingssystemer 2011 » fra Norges Bank har mengden kontanter i omløp de siste fire årene ligget på omtrent samme nivå. Samtidig har den totale omsetningen økt med ca. 6 % og antall varekjøp med kort har økt med ca. 10 %. Den moderate økningen i omsetningen i forhold til kortbruken skyldes at gjennomsnittsbeløpet for korttransaksjoner gikk ned fra kr 478 i 2010 til kr 466 i 2011. Selv om bruken av kort er økende, har kontanter enda en viktig rolle som betalingsmiddel, og da særlig ved mindre summer. Ut fra dette kan man konkludere med at andelen av omsetningen betalt med kontanter ved en restaurant med et lavt prisnivå, vil være høyere enn ved en restaurant med et høyere prisnivå. Det fremgår også av rapporten at betalingskort blir brukt i stadig større grad kun til varekjøp, uten at det blir gjort kontantuttak i tillegg.
+
+Oppsummert kan man konkludere med følgende: - - bruken av kort er økende - - bruken av kontanter avhenger av prisnivået, der en restaurant med lavt prisnivå vil ha en høyere andel av omsetningen som er betalt med kontanter enn en restaurant med et høyt prisnivå - - Andelen av omsetningen som er betalt med kontanter kan minimum forventes å ligge mellom:
+
+2009 2010 2011 2012 34 % - 44 % 27 % - 38 % 23 % - 35 % 23 % - 30 %
+
+Ut fra de objektive tallene som vist til over, har skattekontoret i klageomgangen laget en tabell som viser andel av omsetning betalt med kontanter man kan forvente å ligge mellom ("kontrolltall"), samt virksomheten egne tall om det samme forholdet.
+
+2009 2010 2011 2012 Kontrolltall1 34 % - 44 % 27 % - 38 % 23 % - 35 % 23 % - 30 % Virksomhetens egne tall 21 % 15,4 % 18,3 % - 1 Følger av bakgrunnsdata som nevnt over
+
+Skattekontoret mener tallene omtalt over, viser at andel omsetning som er betalt med kontanter, er vesentlig lavere enn kontrolltallene. Jf. klagers påstand i klagens punkt 2.1.1, kulepunkt 5. "Unormalt lav andel av omsetning betalt med kontanter". Klager påstår at skattekontorets vurdering om at virksomheten har unormal lav kontantandel, ikke er begrunnet eller dokumentert og mener dette strider mot bevisreglene i norsk rettstradisjon. Skattekontoret mener det er grunn for å anvende tallene i undersøkelsen som "normaltall" og viser til disse som objektive normer, jf. gjennomgangen over. Skattekontoret mener det på bakgrunn av dette er tilstrekkelig begrunnet og dokumentert hvorfor virksomhetens tall over andel betalt kontant, ligger under de objektive normer.
+
+Skattekontoret mener det er grunn til å anse kontantomsetningen som lavere enn det som er vurdert til å være normalt i bransjen. På bakgrunn av dette er det grunn til å tro at oppgavene ikke bygger på et regnskap som har vært ført riktig.
+
+Konklusjon
+
+En lav andel av salg betalt med kontanter gir grunn til å fastsette omsetningen og beregne merverdiavgiften ved skjønn.
+
+Delkonklusjon vedrørende skjønnsgrunnlag behandlet i rapport og vedtak Skattekontorets vurdering i klageomgangen er at de nevnte faktorene over, formelle feil, salg betalt via bankterminal ikke slått på kasse, samt lav kontantandel, alle er faktorer som til sammen gir grunnlag for å fastsette omsetningen ved skjønn.
+
+Skattekontoret vil i tillegg, både på eget initiativ og på bakgrunn av anførsler i klagen vurdere bruttofortjenesten til virksomheten.
+
+b) 4 Lav bruttofortjeneste
+
+E hevder i klagen at skattekontoret har regnet seg frem til uteholdt omsetning med kr 2 170 000 som vil utgjøre en bruttofortjeneste på 83,1 % og et resultat før skatt på 24 % for en kinarestaurant på et tettsted som A. Dette tallet er endret i E-post av 20.11.2013, der E skriver at han feilaktig har oppgitt bruttofortjeneste på 83,1 % som var ment å skulle være 65,3 %. Han mener forøvrig at dette ikke har betydning for klagepåstanden.
+
+Det påstås at skattekontoret ikke kan ha forståelse for konkurransesituasjonen og lønnsomheten i bransjen. Klager stiller seg tvilende til om det i Norges land kan finnes ett eneste eksempel på at en serveringsbedrift i et tilsvarende marked kan vise til slike tall. Det hevdes at det åpenbart urimelige skjønnsresultatet underbygger anførslene mot skjønnsutøvelsen.
+
+Vurdering Skattekontoret har sett på, og vurdert, virksomhetens bruttofortjenester for kontrollårene, jf. regnskapene.
+
+Virksomhetens bruttofortjeneste er oppgitt å være på henholdsvis 56,37 % for 2009 og 56,25 % for 2010, 59,50 % for 2011, se tabell under. Alle tall er eksklusiv merverdiavgift.
+
+Virksomheten har under klageomgangen sendt inn dokumentasjon på hva den beregnede bruttofortjenesten er beregnet å være for 2012. (2012 er utenfor kontrollperioden.) Her ser vi en økning fra tidligere år (virksomhetens egne tall), da den ligger på 63,49 %.
+
+2009 2010 2011 2012
+
+Omsetning regnskap 3 100 712 3 170 417 3 146 805 3 501 026 Tillegg ilagt av skattekontoret 751 000 918 000 501 000 SUM 3 851 712 4 088 417 3 647 805 Varekostnad 1 352 798 1 386 898 1 274 406 1 276 694 SUM 2 498 914 2 701 519 2 373 399 Bruttofortjeneste i % uten tillegg 56,37 % 56,25 % 59,50 % 63,49 % Bruttofortjeneste i % med tillegg 64,87 % 66,67 % 63,53 % 63,49 % Som tabellen viser utgjør bruttofortjenesten for kontrollårene 2009-2011, etter at tilleggene er hensyntatt, tilnærmet den bruttofortjenestene virksomheten selv oppgir for 2012 (63,49 %).
+
+Bruttofortjenesten beregnet ut fra virksomhetens egne tall viser at det skjer et hopp i omsetningen for 2012, mens det for øvrige år har ligget jevnt lavere. Lavere bruttofortjeneste i tidligere år, sammenlignet med et år (2012) som antas å være riktig ført, er med på å svekke tillitten til om all omsetning er bokført for tidligere år.
+
+Vi er for øvrig enig i skattekontorets vurdering slik det sies i vedtaket side 6, at lav bruttofortjeneste ikke er en betingelse for at det er uteholdt omsetning, men det gir grunn til å vurdere sannsynligheten av om omsetningen er holdt utenfor.
+
+Konklusjon
+
+Observasjoner og vurderinger knyttet til virksomhetens bruttofortjeneste gir etter skattekontorets vurdering grunnlag for å fastsette virksomhetens omsetning ved skjønn.
+
+Dette, holdt opp mot vurderingene i punktene b) 1, b)2, og b) 3, begrunner sammen adgangen til å fastsette omsetningen ved skjønn.
+
+Oppsummering Skattekontoret fastholder på bakgrunn av drøftelsen under punkt 1.4.3, "Skjønnsadgang" over, at det foreligger adgang til å beregne merverdiavgiften ved skjønn etter mval. § 18-1 første ledd bokstav b.
+
+Spørsmålet blir videre om det foreligger mangler ved skattekontorets skjønnsutøvelse, altså om skjønnet fremstår som uriktig og vilkårlig.
+
+#### 1.4.4 Skjønnsutøvelsen
+
+Beregning av uteholdt omsetning og etterberegning av merverdiavgift Skattekontoret har i den skjønnsmessige beregningen tatt utgangspunkt i undersøkelser, erfaringer og utvalg (10 uker) fra virksomhetens egne tall. Andel av omsetningen betalt med kontant viste en vesentlig lavere andel enn hva skatteetatens erfaringstall viste.
+
+For de ukene det er foretatt avstemming mellom registrert beløp som kortsalg på kassaapparatet og rapport fra kortterminalen, er det laget en beregning hvor skattekontoret i første instans har lagt til grunn at beløpene som ikke samsvarer er kontantkjøp som er blitt registrert som kortkjøp på kassaapparatet. Dette er skattekontorets egne konstruerte tall basert på avstemminger av til sammen 10 uker. Denne beregningen viser følgende angående fordeling mellom hva som er betalt kontant og med kort, jf. rapportens vedlegg nr 11:
+
+År Andel salg betalt kontant Andel salg betalt med kort
+
+2009 46,7 % 53,3 % 2010 47,6 % 52,4 % 2011 38,7 % 61,3 %
+
+Kontrolltall2 34 % - 44 % 27 % - 38 % 23 % - 35 % 23 % - 30 % 2 Følger av bakgrunnsdata som nevnt i punkt b) 3 " Lav kontantandel".
+
+Når vi ser disse tallene opp mot erfarings/kontrolltallene ser vi at andel salg betalt med kontant for virksomheten ligger høyere. Skattekontoret i første instans la inn en sikkerhetsmargin der skjønnet ble redusert med 7 %. Etter dette ble forholdet mellom andel salg betalt kontant og med kort, jf. vedlegg nr 10:
+
+År Andel salg betalt kontant Andel salg betalt med kort
+
+2009 39,2 % 60,8 % 2010 39,0 % 61,0 % 2011 31,5 % 68,5 %
+
+Skattekontoret mener beregningene og skjønnet skattekontoret vedtok i første instans synes rimelig. Dette gjelder særlig når man ser skattekontorets skjønn opp mot kontrolltallene. For årene 2009 og 2011 ligger andel salg betalt kontant, godt innenfor marginene i kontrolltallene. For året 2010 ligger riktignok den prosentvise andel fastsatt av skattekontoret ett prosentpoeng høyere enn kontrolltallene. Skattekontoret er av den oppfatning at denne forskjellen ikke er vesentlig og vil ikke utgjøre en urimelig forskjell. Et skjønn vil etter sin natur aldri være helt eksakt, men skal tilstrebe å være rimelig og ikke vilkårlig resultat.
+
+I forhold til fortjenestemarginene er disse tatt opp som eget tema i klagesaken, jf. punkt b) 4. Resultatet her viser at det skjønn som er foretatt ligger nært opp til hva virksomheten selv har levert av tall for 2012. Uten skjønnstillegget vil bruttofortjenesten ligge på tilnærmet 55 %, med tillegget ligger det på 65 %. I denne sammenheng hevder E at tilleggene vil medføre en omsetningskurve med et bratt fall mot 2012. Dersom virksomhetens egne tall før tilleggene legges til grunn, vil kurven vise en svak vekst. Skattekontoret er ikke enig i E sine vurderinger knyttet til dette punktet. Skattekontoret mener bruttofortjenesten for 2012, gir en indikasjon på om tilleggene for øvrige år gir en bruttofortjeneste som tilsier at man ligger innenfor et rimelig og fornuftig skjønn. Skattekontoret mener det ikke er grunn til å tro at det er registrert vesentlig for mye for 2012, hvilket gjør det sannsynlig at denne bruttofortjeneste viser det mest sannsynlige faktum.
+
+Klager mener avslutningsvis at beslutningen om å gjennomføre etterberegning av merverdiavgift, ikke er tilstrekkelig begrunnet.
+
+Vedtaket i første instans har lagt til grunn rapport og faktum som fremkommer der. I vedtaket er det inntatt forklaring på hvorfor skattekontoret mener regnskapet ikke har vært riktig og hvorfor det legges til grunn at rutinene rundt registrering på kassen har ført til at all omsetning ikke er innrapportert. Vedtaket i første instans er begrunnet, jf. fvl § 24. Skattekontoret har forøvrig i klageomgangen kommentert påstandene som fremsettes i klagen, se punkt 1.4.3 der disse drøftes. Skattekontoret er av den oppfatning at vedtaket er grunngitt i tråd med fvl.§ 24.
+
+Konklusjon Skattekontoret er enig i de vurderingene som er gjort i vedtaket. Ut ifra de erfaringstall som foreligger, er det gjort et forsvarlig og rimelig skjønn, der det er tatt hensyn til de foreliggende opplysninger.
+
+Det overordnede prinsipp er å komme så nær det faktisk riktige som mulig, og skattekontoret mener at dette prinsippet er fulgt i denne saken. Det foreligger, etter skattekontorets mening, skjønnsadgang, og funnene i saken tilsier at det er uteholdt omsetning. Skattekontoret kan ikke se at klager har kommet med nye opplysninger som skulle tilsi at det er grunn til redusere skjønnet. Skattekontoret mener det her er brukt en beregning av skjønn som verken er urimelig eller vilkårlig.
+
+### 2. Tilleggsavgift
+
+Klagen anses også å gjelde ilagt tilleggsavgift. Denne blir vurdert i det følgende.
+
+Det vises til punkt 1.1 " Sakens faktum" og punkt 1.2 "Skattekontorets vedtak og begrunnelse" sitert over når det gjelder gjennomgang av sakens faktum og hva som ble fastsatt ved det påklagede vedtak.
+
+#### 2.1 Regelverk
+
+Det følger av § 21-3 (§ 73) at den som forsettelig eller uaktsomt overtrer merverdiavgiftsloven eller forskrifter gitt i medhold av den, og statskassen derved er eller kunne vært unndratt avgift, kan ilegges tilleggsavgift med inntil 100 %.
+
+For at tilleggsavgift skal ilegges, må både de objektive vilkårene (at merverdiavgiftsloven er overtrådt og at dette har medført/kunne ha medført unndratt avgift), og de subjektive vilkårene (forsett eller uaktsomhet) være bevist med klar sannsynlighetsovervekt, jf. rettspraksis.
+
+Ved ileggelse av tilleggsavgift med en høyere sats enn 20 %, er det lagt til grunn i en avgjørelse fra Sivilombudsmannen 24.01.2012 at det er det straffeprosessuelle beviskravet som gjelder: ”bevist ut over enhver rimelig tvil”.
+
+#### 2.2 Klagers innsigelser
+
+E mener skattekontoret påstand om at det utvilsomt forsettlig er uteholdt omsetning, av flere grunner fremstår som ubegrunnet, spesielt når skattekontoret var kjent med at virksomheten var bistått av autorisert regnskapsfører som har tilrettelagt rutinene. Se for øvrig pkt. 1.3.
+
+#### 2.3 Vurdering
+
+Det er ilagt tilleggsavgift med 60 %, kr 257 810. Skattekontoret i første instans fant det bevist utover enhver rimelig tvil at merverdiavgiftsloven var overtrådt, og at det var bevist utover enhver rimelig tvil at unndratt merverdiavgift knyttet til disse forholdene utgjorde kr 429 684. Videre konkluderte skattekontoret med at de var av den oppfatning av at det var bevist ut over enhver rimelig tvil at virksomheten hadde handlet med forsett.
+
+Det stilles som krav til de som ønsker å drive næringsvirksomhet i Norge, at man setter seg inn i de rettigheter og plikter som foreligger. Kontrollen har avdekket at klager i 2009, 2010 og 2011 hadde avgiftspliktig omsetning som ikke ble medtatt på omsetningsoppgavene. Skattekontoret har påvist flere forhold som gir skjønnsadgang, og mener at den skjønnsmessige etterberegningen er gjort forsvarlig. Etter skattekontorets vurdering er staten påført et tap som følge av unndratt merverdiavgift.
+
+Skattekontoret har i klageomgangen funnet det bevist utover enhver rimelig tvil, at virksomheten har overtrådt merverdiavgiftsloven ved at all omsetning ikke er innrapportert, jf. drøftelsen i punkt 1 "Uteholdt omsetning". Skattekontoret anser det for godtgjort, for 2009, 2010 og 2011, at ikke all utgående merverdiavgift ble tatt med på omsetningsoppgavene. På bakgrunn av den lave andel bokførte salg betalt med kontanter, og at det er avdekket at salg betalt med kort som ikke er registrert på kassaapparatet, så mener skattekontoret at det er bevist utover enhver timelig tvil for at det ved føringen av regnskapet / levering av omsetningsoppgavene har vært en forsettelig handling mht. riktigheten av oppgavene. Dette begrunnes med følgende:
+
+Virksomheten har regnskapsmangler som har vanskeliggjort kontrollen. Det har vært påkrevet med en stor analyse av virksomhetens dokumenter for å vurdere hva som er det mest sannsynlige faktum og tall for virksomheten.
+
+Virksomheten har gjennomgående feil og mangelfulle rutiner/måter å håndtere kassen på. Skattekontoret legger til grunn tolkningen av bokføringsforskriften som gjennomgått under punkt 1.4.3. Det bør være samtidighet, noe som vil lette kontrollarbeidet i ettertid, samt sikre at all omsetning blir registrert. Virksomhetens håndtering av kassa gjør at det oppstår store mangler i forhold til hvordan f.eks. kassen og de dokumenter regnskapene bygger på, kan kontrolleres i ettertid-, notoritetshensyn. Denne måten å håndtere kassa på har ført til at avgiftsunndragelsen er gjort konsekvent og over tid. Dette er avdekket skjedd over hele kontrollperioden 2009-2011, i tillegg til at det er avdekket store beløp som er holdt utenfor omsetningen.
+
+Disse forholdene anses som skjerpende og overtredelsene kvalifiserer til tilleggsavgift. Det legges ikke vekt på at virksomheten var bistått av autorisert regnskapsfører som har tilrettelagt rutinene.
+
+Det kreves også at størrelsen på det beløp som legges til grunn som unndratt, er bevist utover enhver rimelig tvil. Den etterberegnede avgiften utgjør tilsammen kr 429 684. Etter skattekontorets mening er det foretatt en forsvarlig skjønnsmessig beregning av hvor stor avgiftspliktig omsetning skattyter har hatt i kontrollperioden. Det er ved den skjønnsmessige beregningen av inntektstillegg tatt utgangspunkt i et minimum av hva som kan forventes når det gjelder andel av omsetningen betalt med kontanter. I tillegg til at skatteetatens revisorer har brukt virksomhetens egne terminalutskrifter og sladrerull, er den skjønnsmessige andel av kontantsalg satt ned med 7 %.
+
+Skattekontoret anser hele det etterberegnede beløpet for å være bevist utover enhver rimelig tvil.
+
+Skattekontoret legger etter dette til grunn at vilkårene for å ilegge tilleggsavgift er oppfylt.
+
+Skattekontoret har i klageomgangen vurdert om det foreligger unnskyldelige grunner for unnlatelsen av innbetaling av merverdiavgift, men kan ikke se at det foreligger slike grunner.
+
+#### 2.3 Konklusjon
+
+Skattekontoret fastholder ileggelse av tilleggsavgift med 60 %.
+
+3. Klagers kommentarer til forslag til innstilling etter innsyn Skattekontoret har mottatt kommentarer til forslag til innstilling den 14.02.2014. De er mottatt innen tilsvarsfristen. Skattekontorets vurdering av tilsvar etter innsyn kommer fortløpende.
+
+Advokatfullmektig E har følgende kommentarer på vegne av klager;
+
+Ad punkt 1 "Skjønnsutøvelsen" Klagers kommentar etter innsyn Det anføres som påklaget tidligere, at skjønnet fremstår som ubalansert. Klager viser til forslag til innstilling side 33 og side 30 og mener skattekontoret med sine formuleringer i innstillingen avvises på en måte at skjønnet blir ubalansert. Klager siteres fra brev av 14.02.2014, "Kommentarer til innstilling", der det står at skattyters syn kan være sannsynlig, men at det også kan være "slik skattekontoret hevder."
+
+Klager mener at dersom enhver påpekt feil gjennomgående avvises på denne måten, blir skjønnet utvilsomt ubalansert.
+
+Videre henvises det til side 30 i innstillingen. E hevder det her drøftes innsigelse om at feilene (ved registrering på kassa) går begge veier, slik at det oppstår kontantunderskudd i kassa. Videre at skattekontoret i klageomgangen avfeier innsigelsen fordi det ikke er denne type feil det letes etter. E mener videre at når faktum viser seg å peke i en annen retning enn de fremsatte anklagene, plikter forvaltningen og hensynta dette.
+
+Skattekontorets vurdering etter innsyn Skattekontoret er ikke enig i at enhver feil blir avvist. Skattekontoret har i klageomgangen sett på de feil som er påpekt av klager, og skattekontoret har for noen av tilfellene vært enig i de observasjoner vist til av klager. Ved andre tilfeller mener skattekontoret påpekte feil ikke er av en slik betydning at det får innvirkning i den grad at skjønnet settes til side. Terminologien som det henvises til over, er for å vise at den feilen som er påpekt ikke er en åpenbar feil som gjør at det skjønn som er utøvd er basert på feil faktum eller observasjoner.
+
+Skattekontoret mener det ikke er grunn til å sette til side det vedtak som er gjort i første instans.
+
+Skattekontoret er ikke enig i at innsigelsen avfeies fordi man "ikke leter etter denne type feil". Det siteres fra skattekontorets innstilling;
+
+"Skattekontoret er delvis enig i dette. Vi er enig i at det vil skape et kontantunderskudd der kortbetalinger registreres på kassa som betalt med kontant. Men denne saken baserer seg blant annet på avdekkede kontantoverskudd."
+
+Skattekontoret har her ment å gi uttrykk for at denne saken blant annet baserer seg på at det er en hel rekke registreringer som vil gi et kontantoverskudd i kassa. Med et kontantoverskudd gis det mulighet til å holde omsetning utenfor. Det er under bokettersynet avdekket registreringer som vil gi et kontantunderskudd i kassa ved at kortbetalinger registreres på kassa som betalt med kontant. Innsigelsen er altså ikke avvist fordi man ikke leter etter denne type feil. Skattekontoret har ment å tilbakevise at dette er et avgjørende element som gjør at det ikke er utøvd et rimelig skjønn.
+
+I forhold til anførsel om hva forvaltningen plikter å ta hensyn til, presiserer skattekontoret at et skjønn etter sin natur aldri vil være helt eksakt, men man skal tilstrebe og utøve et rimelig og ikke vilkårlig skjønn. Selv om noen anførsler er moment for et annet resultat, er det helheten og vurderingen av samtlige momenter som sammen skal gi et rimelig resultat.
+
+Ad skjønnsutøvelsen holdt opp mot skatteetatens erfaringstall Klagers kommentar etter innsyn Klager mener at det ikke hensyntas de konkrete feil det er vist til. Klager mener det skjønnsfastsettes en kontantandel av omsetningen som ligger høyere enn øverste grense i intervallene for normtallene for de tre aktuelle årene. Klager viser at andel kontantandel, før sikkerhetsmargin på 7 % ligger hhv;
+
+2,7 prosentpoeng høyere i 2009 9,6 prosentpoeng høyere i 2010 3,7 prosentpoeng høyere i 2011
+
+Klager mener dette indikerer at skjønnet er for høyt, og at dette underbygger påstand om ubalanse.
+
+Videre hevder klager at selv om man tar i betraktning en sikkerhetsmargin på 7 %, ligger skjønnet betydelig høyere enn høyeste grense for normtallet for 2010. Klager mener dette indikerer at skattekontoret har innstilt på at dette utgjør et balansert skjønn.
+
+Klager mener innstillingen ikke fremstår som en uavhengig skjønnsutøvelse, men heller som et forsvar av det utøvde skjønn i første instans.
+
+Skattekontorets vurdering etter innsyn
+
+Skattekontoret viser her til vurderingen som er gjort under punkt 1.4.4 "Skjønnsutøvelsen", samt innstillingens punkt 1.4.3.2, b)3, der normtallene gjennomgås. Skattekontoret mener det gis en vurdering av virksomhetens avdekkede kontantandel opp mot normtallene, som tilsier at det skjønn vedrørende kontantandel synes rimelig. Skattekontoret mener selv om det for 2010 gir en kontantandel som ligger 1 prosentpoeng over normtallet, er disse tallene ment å gi en indikasjon på hva som anses å være det gjennomsnittlige, et uhildet utgangspunkt man kan vurdere en virksomhet sine tall opp mot. Skattekontoret mener det ikke utgjør et ubalansert skjønn der det for det ene av de tre årene ligger ett prosentpoeng over normtallene, når de øvrige viser at skattekontorets skjønn vedørende kontantandel, ligger innenfor.
+
+Ad omsetningsutvikling og marginutvikling
+
+Klagers kommentar etter innsyn Det er i kommentar til innsyn illustrert to grafer. Klager mener disse viser en omsetningsutvikling og en marginutvikling som tilsier et ubalansert skjønn som gjør at skjønnet må settes ned betydelig. Se brev av 14.02.2014 side 2 og 3.
+
+Klager mener serveringsstedet har vært under oppbygging, og at det ikke har vært skjønnsomt å hevde at omsetningen har vært stadig fallende i denne perioden. Videre at denne virksomheten er den første som har klart å skape lønnsom serveringsvirksomhet i dette lokalet. Klager mener videre at skjønnet tilsier en "eventyrlig lønnsomhet, selv etter belastning av ordinære lønnskostnader".
+
+Videre sier klager at skjønnet som er ilagt tilsier en resultatgrad på 35 % i 2010. Klager anfører at slike resultater ikke finnes hos noen restaurantbedrifter i Norge, videre at dette ikke er noe skattekontoret har imøtegått. Videre at det er et paradoks at en rekke tidligere drivere i disse lokalene har måttet gi opp, grunnet manglende lønnsomhet.
+
+Avslutningsvis mener klager deres argumenter ikke er hensyntatt, og med det foreligger et ubalansert skjønn som må nedsettes.
+
+Skattekontorets vurdering etter innsyn
+
+Når det gjelder grafen for omsetningsutviklingen, er skattekontoret enig i at en virksomhet under oppbygging kan vise en stigende omsetning som illustrert. Skattekontoret er videre enig i at grafen for virksomhetens marginutvikling viser en resultatgrad på 35 % og at dette er et høyere tall en hva enkelte normtall/bransjetall viser. Likevel vil skattekontoret legge til at det er mange faktorer som kan spille inn når man skal vurdere både omsetningsutvikling og marginutvikling. Skattekontoret har derfor tatt utgangspunkt i virksomhetens bruttofortjeneste per år, da dette er en beregning av fortjenesten sett ut fra hva virksomheten har solgt og hvor stor kostnad de har hatt. Det vil ikke være andre faktorer som spiller inn enn disse som nevnt. I tillegg kan man vurdere bruttofortjenesteberegningen opp mot virksomhetens egne innrapporterte tall for 2012.
+
+Skattekontoret viser til innstillingens punkt 1.4.3.2, b)4, der det gjøres en vurdering av virksomhetens bruttofortjeneste. Skattekontoret fastholder at denne vurderingen viser at det skjønn som er utøvd ikke er vilkårlig fastsatt. Virksomhetens bruttofortjenestene viser, med de tillegg som er fastsatt i første instans, tilsvarende tall som virksomheten selv har oppgitt for 2012 (utenfor kontrollperioden). Skattekontoret mener det er av betydning at 2012 er det samme året bokettersynet ble foretatt, og av den grunn legges det til grunn en høy grad av etterlevelse og antar at det heller ikke er oppgitt for mye omsetning for dette år.
+
+Når det gjelder påstand om at andre virksomheter som har måttet gi seg på bakgrunn av manglende lønnsomhet, mener skattekontoret her det kan være mange årsaker til dette, og legger ikke avgjørende vekt på denne anførselen.
+
+Ad punkt 2 "Tilleggsavgiften" Klagers kommentar etter innsyn Klager mener det ikke er ført bevis for at det i denne saken er bevist utover enhver rimelig tvil at det foreligger forsett. Videre at tilleggsavgift under enhver omstendighet ikke bør settes høyere enn 20 %. Klager peker på at skjønnet, før sikkerhetsmargin, er satt langt høyere enn de anførte normtallene.
+
+Videre mener klager det er av betydning at klager har søkt profesjonell bistand for å få etablert korrekte rutiner. Klager mener dette er et uttrykk for å opptre lovlydig og bør være relevant ved vurderingen av forsett.
+
+Klager mener videre det er ført bevis for at avgiftsunndragelsen ikke har vært konsekvent, og viser til tidligere innsendte klage der dette eksemplifiseres på side 4. Der fremgår det at virksomheten har rapportert inn høyere kortomsetning enn det som kunne leses av kortterminalen. Klager mener dette viser motsatt effekt av skattekontorets hypotese, som videre ikke er forenelig med forsett. Klager viser til at dette ikke er drøftet av skattekontoret.
+
+Klager mener det ikke er tatt tilbørlig hensyn ved forsettvurderingen og at det i innstillingen ikke er ført bevis for at feilen har vært konsekvente
+
+Skattekontorets vurdering etter innsyn Skattekontoret legger til grunn registreringene på kassen og unnlatelsen av å registrere på kassen taler for at dette har vært en bevisst handling. I tillegg til at dette har skjedd over hele kontrollperioden, samt den mulighet registreringen gir for å holde omsetningen utenfor, viser ut over enhver rimelig tvil at det foreligger en forsettelig handling som kvalifiserer til tilleggsavgift med 60 %. Skattekontoret viser for øvrig til drøftelsen under innstillingens punkt 2.
+
+Skattekontoret mener at det ikke fritar for ansvar at man har søkt profesjonell bistand for å få etablert korrekte rutiner. Skattekontoret anerkjenner at klager har søkt bistand. Men i dette tilfellet er det uten betydning, da virksomheten likevel har opptrådt på en måte som har ført til unnlatelse av å innrapportere omsetningen, og innberetning av merverdiavgift.
+
+Klager viser til at det er ført bevis for at avgiftsunndragelsen ikke har vært konsekvent og viser til tidligere innsendte klage der dette eksemplifiseres på side 4. Der fremgår det at virksomheten har rapportert inn høyere kortomsetning enn det som kunne leses av kortterminalen. Skattekontoret har kommentert at så er tilfelle. Likevel mener skattekontoret omfanget av slik rapportering ikke av ubetydelig grad, sett i forhold til de tilfellene der man ser en lavere kortregistrering. Skattekontoret mener dette ikke er av betydning for vurderingen av skyldgraden.
+
+### Skattekontorets innstilling til vedtak
+
+Skattekontoret foreslår etter dette at det fattes slikt
+
+#### V e d t a k:
+
+Klagenemndas vedtak av 10.10.2013 fastholdes.
+
+### KLAGENEMNDAS AVGJØRELSE:
+
+Nemndas medlemmer Rivedal, Ongre, Frøystad, Hines Grape og Stenhamar sluttet seg til skattekontorets innstilling.
+
+#### V e d t a k:
+
+Som innstilt.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8089a-fastsettelse-av-utgaende-merverdiavgift.-mval.--18-1-og--18-4/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-06** Første gang hentet

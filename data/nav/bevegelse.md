@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5580bf1bce333d170cb1a61370ac32a26ecc3f32476e3405ec2c3547d1a9b6ee -->
+<!-- innholds-hash: 69e1ea860904ff394465d2b2bfece0e574bc444b8a97a15abf65c63695341e83 -->
 
 # Har vansker med bevegelse og forflytning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bevegelse
-- **Sist oppdatert i arkivet:** 2026-10-06T03:21:23Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:16:51Z
 
 ## Innhold
 
@@ -216,7 +216,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -236,3 +236,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

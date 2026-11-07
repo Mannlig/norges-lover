@@ -1,11 +1,11 @@
-<!-- innholds-hash: c3575313757df60242a9a86a1e0e8a0bac608744503d1d15af77f9e936a70f8a -->
+<!-- innholds-hash: 54f8a3b8317f46cf1a7ef3bb4b93b09fad86d80a6360312000cb8e877791488d -->
 
 # Har nedsatt syn eller trenger briller - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syn
-- **Sist oppdatert i arkivet:** 2026-10-06T03:26:48Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:20:19Z
 
 ## Innhold
 
@@ -216,7 +216,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -236,3 +236,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

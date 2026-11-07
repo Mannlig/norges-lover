@@ -4,8 +4,8 @@ Hver mappe har sin egen README.md med full innholdsliste.
 
 | Mappe | Innhold | Dokumenter |
 |---|---|---|
-| [`lover/`](lover/) | Stortinget | 1927 |
-| [`skatt/`](skatt/) | Skatteetaten | 16051 |
+| [`lover/`](lover/) | Stortinget | 1930 |
+| [`skatt/`](skatt/) | Skatteetaten | 16163 |
 | [`byggteknisk/`](byggteknisk/) | DiBK (byggteknisk) | 737 |
 | [`nav/`](nav/) | NAV | 11952 |
 | [`arbeidstilsynet/`](arbeidstilsynet/) | Arbeidstilsynet | 169 |

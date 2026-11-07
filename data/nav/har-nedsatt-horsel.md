@@ -1,11 +1,11 @@
-<!-- innholds-hash: 298766735e653d462cff6659cf0ce5c726999a40a5c02f1de4347cbb30d0f8ba -->
+<!-- innholds-hash: f499e1c309980f70e4503ee86383b7491c38680157c1e6c1d09f427ee8c8bcdc -->
 
 # Har nedsatt hørsel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-nedsatt-horsel
-- **Sist oppdatert i arkivet:** 2026-10-06T03:22:03Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:17:33Z
 
 ## Innhold
 
@@ -214,7 +214,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -234,3 +234,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

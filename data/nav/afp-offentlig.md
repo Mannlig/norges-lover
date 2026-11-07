@@ -1,11 +1,11 @@
-<!-- innholds-hash: 253370e9aa0d68a301a8a684b9d3fb3b57eb8d1efb5c60abe637ffab1c30439e -->
+<!-- innholds-hash: 3a38abc54cc85690f819a01e850da4a1066f8cd42f5f33891612ad896848ef6f -->
 
 # Avtalefestet pensjon (AFP) i offentlig sektor, født før 1963 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/afp-offentlig
-- **Sist oppdatert i arkivet:** 2026-10-06T02:52:16Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:08:22Z
 
 ## Innhold
 
@@ -269,7 +269,7 @@ Som pensjonsgivende inntekt regnes blant annet:
 
 Du kan ha fått feriepenger fra arbeid med fordrevne fra Ukraina uten at AFP blir redusert.
 
-Det gjelder feriepenger fra lønn etter særskilt sats for pensjonistavlønning fra arbeid med fordrevne fra Ukraina. Det er bare feriepenger fra slikt arbeid til og med 31. desember 2024 som kan holdes utenfor etteroppgjøret.
+Det gjelder feriepenger fra lønn etter særskilt sats for pensjonistavlønning. Det er bare feriepenger fra slikt arbeid til og med 31. desember 2024 som kan holdes utenfor etteroppgjøret.
 
 Dokumentasjon til etteroppgjøret
 
@@ -516,9 +516,9 @@ Nav vet ikke når feriepengene du har fått, er tjent opp. Du må derfor [sende 
 
 #### Eksempler på feriepenger
 
-Marte sluttet i jobb og tok ut AFP 1. juli 2024. Hun får utbetalt feriepengene hun har til gode i juli, både de feriepengene hun opptjente året før og feriepengene hun har opptjent i 2024 for perioden 1. januar til 30. juni. Ingen av disse feriepengene regnes med i inntekten som skal redusere AFP, fordi de er tjent opp før hun tok ut AFP
+Marte sluttet i jobb og tok ut AFP 1. juli 2025. Hun får utbetalt feriepengene hun har til gode i juli, både de feriepengene hun opptjente året før og feriepengene hun har opptjent i 2025 for perioden 1. januar til 30. juni. Ingen av disse feriepengene regnes med i inntekten som skal redusere AFP, fordi de er tjent opp før hun tok ut AFP
 
-Kari gikk ned til 60 prosent stilling og tok ut AFP 1. juli 2024. Hun fikk utbetalt feriepenger i juli. Feriepengene som ble utbetalt i juli er opptjent året før og skal ikke redusere AFP, fordi de er opptjent før uttak av AFP. Feriepengene som er opptjent fra 1. juli til 31. desember blir utbetalt året etter, og skal være med i inntekten som skal redusere AFP for neste år, fordi de er opptjent i en periode med AFP.
+Kari gikk ned til 60 prosent stilling og tok ut AFP 1. juli 2025. Hun fikk utbetalt feriepenger i juli. Feriepengene som ble utbetalt i juli er opptjent året før og skal ikke redusere AFP, fordi de er opptjent før uttak av AFP. Feriepengene som er opptjent fra 1. juli til 31. desember blir utbetalt året etter, og skal være med i inntekten som skal redusere AFP for neste år, fordi de er opptjent i en periode med AFP.
 
 Om Kari slutter helt i stillingen i løpet av høsten, vil gjerne feriepengene som hun har tjent opp samme året bli utbetalt samme året. Feriepengene som er tjent opp fra 1. januar til 1. juli, skal ikke regnes med i inntekten som skal redusere AFP, fordi de er tjent opp i en periode uten AFP. Feriepengene som er tjent opp fra 1. juli til 31. desember, skal være med i inntekten som reduserer AFP, fordi de er tjent opp i en periode med AFP.
 
@@ -670,7 +670,7 @@ AFP-pensjonister kan også søke om [frivillig medlemskap](https://www.nav.no/fr
 
 [Lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse (lovdata.no)](https://lovdata.no/dokument/NL/lov/2010-06-25-28)
 
-Oppdatert 24.08.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -684,7 +684,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -694,7 +694,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -714,3 +714,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-07-28** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

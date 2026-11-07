@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2735596bbee655acc36ecd8b1d17648cd3d6eff82fb254bb336fb27ccdc18b46 -->
+<!-- innholds-hash: 7fd33aa09d32d417972d5122a8a8e05d7d1e1d0bc439853a68a00f6308de98f9 -->
 
 # Varig tilrettelagt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varig-tilrettelagt-arbeid
-- **Sist oppdatert i arkivet:** 2026-10-06T02:51:34Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:07:40Z
 
 ## Innhold
 
@@ -14,6 +14,10 @@ Tiltak
 ## Varig tilrettelagt arbeid
 
 Et tilbud for deg som har uføretrygd når du jobber i en skjermet eller ordinær bedrift med tilpassede arbeidsoppgaver.
+
+Dette tiltaket er erstattet av [Tilrettelagt arbeid i ordinær virksomhet (TA-O)](https://www.nav.no/arbeidsgiver/tilrettelagt-arbeid) fra og med 1. september 2026.
+
+Det er ikke lenger mulig å inngå nye avtaler om varig tilrettelagt arbeid i ordinær virksomhet. Deltakere som allerede er i et slikt tiltak, vil ikke bli berørt av endringene.
 
 ### Hvem kan få?
 
@@ -45,7 +49,7 @@ Mer informasjon til deg som
 
 Hvis du ønsker å bli vurdert for varig tilrettelagt arbeidsplass, trenger vi å vurdere mulighetene dine og behovet ditt for tiltaket.
 
-Du kan oppsøke [Nav-kontor](https://www.nav.no/sok-nav-kontor)[et](https://www.nav.no/no/nav-og-samfunn/kontakt-nav/relatert-informasjon/finn-ditt-nav-kontor) ditt fysisk, eller ringe oss på 55 55 33 33 for å bli satt i kontakt med Nav-kontoret der du bor.
+Du kan oppsøke Nav-kontoret ditt fysisk, eller ringe oss på 55 55 33 33 for å bli satt i kontakt med Nav-kontoret der du bor.
 
 #### Klagerettigheter
 
@@ -97,7 +101,7 @@ Hvis du over en lengre periode har vist positiv utvikling i helse og mestring, k
 - [Tiltaksforskriften (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/lovdata/forskrift-om-arbeidsmarkedstiltak-tiltaksforskriften)
 - [Rundskriv – Utfyllende regler om arbeidsmarkedstiltak (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/utfyllende-regler-til-forskrift-om-arbeidsmarkedstiltak-kap.14-varig-tilrettelagt-arbeid)
 
-Oppdatert 26.08.2026
+Oppdatert 28.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -111,7 +115,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -121,7 +125,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -140,3 +144,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

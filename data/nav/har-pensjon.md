@@ -1,11 +1,11 @@
-<!-- innholds-hash: 3e6538345b28f9ae397dfbe8253700eb076585fe9e84ce3a178555039d1ff0fe -->
+<!-- innholds-hash: c8279fbcf55653f2bcad29567aa11d02c1d2f4d4f0a9ab0dff9154757556a3f3 -->
 
 # Har pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/har-pensjon
-- **Sist oppdatert i arkivet:** 2026-10-14T22:53:15Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:09:50Z
 
 ## Innhold
 
@@ -371,7 +371,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -381,7 +381,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -401,3 +401,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

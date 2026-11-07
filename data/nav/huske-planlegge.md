@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1db1de5b076b6d1f43bf8216a940f293749b766c2c97270fe084e3a6445e390d -->
+<!-- innholds-hash: cf9e2310787d7bea82ecabf6b307840dbe661511525abbf044d8e3275fc2b131 -->
 
 # Har vansker med å huske, planlegge og forstå - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/huske-planlegge
-- **Sist oppdatert i arkivet:** 2026-10-14T23:01:52Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:18:14Z
 
 ## Innhold
 
@@ -200,7 +200,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -221,3 +221,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

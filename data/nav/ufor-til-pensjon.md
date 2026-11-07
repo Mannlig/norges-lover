@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1977ddd4db7d4342dada4002cef35e0efbb9e07605bea33c370288a32141f068 -->
+<!-- innholds-hash: 8d65ef79b94c28078b77854e9632b9c5f2f5c41ce85a9e8b1388fad2793139eb -->
 
 # Har uføretrygd og skal ta ut pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ufor-til-pensjon
-- **Sist oppdatert i arkivet:** 2026-10-06T02:48:54Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:06:17Z
 
 ## Innhold
 
@@ -337,7 +337,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -347,7 +347,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -366,3 +366,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

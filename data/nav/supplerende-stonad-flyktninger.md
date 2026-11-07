@@ -1,11 +1,11 @@
-<!-- innholds-hash: 397074af7521ef31dd12da7f7df2924a993e7e5c01b212920fb9e922431992be -->
+<!-- innholds-hash: c9ed39d80677fb589d8ac2cd36f69691de35c6536e12f6bf6272132affcdaa7f -->
 
 # Supplerende stønad for uføre flyktninger under 67 år - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/supplerende-stonad-flyktninger
-- **Sist oppdatert i arkivet:** 2026-10-06T02:48:14Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:05:36Z
 
 ## Innhold
 
@@ -270,7 +270,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -280,7 +280,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -299,3 +299,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

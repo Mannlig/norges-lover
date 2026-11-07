@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7c1d12d93b205cbd2e327dbd9c6f748b47e582e6c59b1457497dc491ea7c4d45 -->
+<!-- innholds-hash: 0292f93d2de8742efd23f26f15e54a2a8fa2414233e11c933ff0f41e076a5e7c -->
 
 # Omstillingsstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/omstillingsstonad
-- **Sist oppdatert i arkivet:** 2026-10-06T02:45:26Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:02:44Z
 
 ## Innhold
 
@@ -96,7 +96,7 @@ Stønaden reguleres 1. mai hvert år.
 
 Du kan vanligvis få omstillingsstønad i inntil 3 år fra måneden etter dødsfallet. Derfor er det viktig at du søker så fort som mulig etter dødsfallet.
 
-Stønaden kan forlenges med inntil 2 år hvis du [tar utdanning](https://www.nav.no/omstillingsstonad#utdanning) som er nødvendig og hensiktsmessig, eller har behov for tiltak for å komme i arbeid. For å få forlenget stønaden, må periodene være sammenhengende.
+Stønaden kan forlenges med inntil 2 år hvis du [tar utdanning](https://www.nav.no/omstillingsstonad#utdanning) som er nødvendig og hensiktsmessig, eller har behov for tiltak for å komme i arbeid. For å få forlenget stønaden, må periodene være sammenhengende. Tiltak eller utdanning må være i minst 50 prosent av full tid.
 
 Du kan ikke få omstillingsstønad etter fylte 67 år.
 
@@ -852,7 +852,7 @@ Du må som hovedregel være [medlem i folketrygden](https://www.nav.no/no/person
 
 [Kapittel 17. Ytelser til gjenlevende ektefelle og tidligere familiepleier (lovdata.no)](https://lovdata.no/lov/1997-02-28-19/%C2%A717-1)
 
-Oppdatert 25.08.2026
+Oppdatert 30.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -866,7 +866,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -876,7 +876,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -895,3 +895,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7423b62c216a475f2fe6b955b5d84c3be7d254487a3002d073ffb740e28a3ea1 -->
+<!-- innholds-hash: 8c7ee8d9a0723377846a6435d4bbe0f4a95803705e2c392edd0104140b1f02da -->
 
 # AAP mottakere og antall år de har mottatt ytelsen. desember 2010-2025. Antall og andel. - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/tabeller/aap-mottakere-og-antall-ar-de-har-mottatt-ytelsen.desember-2010-2025.antall-og-andel
-- **Sist oppdatert i arkivet:** 2026-10-15T06:27:38Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:45:18Z
 
 ## Innhold
 
@@ -19,7 +19,7 @@
 | 2 til 3 år |  |  |  |  | 88822 | 53,1 | 25124 | 15,4 | 24076 | 15,9 | 23027 | 15,5 | 23957 | 16,4 | 24165 | 17,2 | 22614 | 18,2 | 20619 | 18,0 | 19888 | 16,0 | 23920 | 18,0 | 26781 | 19,2 | 26666 | 17,9 | 27744 | 17,5 | 29586 | 17,5 |
 | 3 til 4 år |  |  |  |  |  |  | 62572 | 38,3 | 18226 | 12,0 | 16637 | 11,2 | 15899 | 10,9 | 16397 | 11,7 | 15568 | 12,6 | 13455 | 11,7 | 13763 | 11,1 | 12153 | 9,2 | 15248 | 10,9 | 17683 | 11,9 | 15850 | 10,0 | 18006 | 10,7 |
 | 4 til 5 år |  |  |  |  |  |  |  |  | 30804 | 20,3 | 10577 | 7,1 | 9609 | 6,6 | 8522 | 6,1 | 6026 | 4,9 | 3953 | 3,4 | 5977 | 4,8 | 7761 | 5,9 | 6145 | 4,4 | 8517 | 5,7 | 9947 | 6,3 | 10594 | 6,3 |
-| 6+ år |  |  |  |  |  |  |  |  |  |  | 18491 | 12,4 | 17309 | 11,8 | 14609 | 10,4 | 7733 | 6,2 | 3708 | 3,2 | 1991 | 1,6 | 2958 | 2,2 | 5264 | 3,8 | 6615 | 4,4 | 10079 | 6,4 | 13620 | 8,1 |
+| 5+ år |  |  |  |  |  |  |  |  |  |  | 18491 | 12,4 | 17309 | 11,8 | 14609 | 10,4 | 7733 | 6,2 | 3708 | 3,2 | 1991 | 1,6 | 2958 | 2,2 | 5264 | 3,8 | 6615 | 4,4 | 10079 | 6,4 | 13620 | 8,1 |
 
 * Statistikken tar utgangspunkt i antall måneder med utbetalt AAP, målt fra sist tilgang til AAP
 
@@ -29,3 +29,4 @@
 ## Endringshistorikk
 
 - **2026-10-15** Første gang hentet
+- **2026-11-07** Innhold endret (se git-historikk for diff)

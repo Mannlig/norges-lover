@@ -1,11 +1,11 @@
-<!-- innholds-hash: 01c92544641f857aeb469a3d7f001f355cdaef030ad41aae28535c37c2d9be6b -->
+<!-- innholds-hash: cd1e644be5b084d3d57e0a195fb7751429f9660a8f968c1bb8de0a42c474ffc4 -->
 
 # Har lese- og skrivevansker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lese-skrive-vansker
-- **Sist oppdatert i arkivet:** 2026-10-06T03:25:24Z
+- **Sist oppdatert i arkivet:** 2026-11-07T01:18:58Z
 
 ## Innhold
 
@@ -177,7 +177,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/lese-skrive-vansker) av norges-lover-bot.*
@@ -193,3 +193,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-07** Innhold endret (se git-historikk for diff)
