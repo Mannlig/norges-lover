@@ -1,11 +1,11 @@
-<!-- innholds-hash: 00651acf6bcc09f7b4054932e56f04b0b9bf18f82c617af5ffa2ac825c54d4fa -->
+<!-- innholds-hash: c85f26ab83900ef3c564a1d5fffb521d74c11eb04c87f5d2cee8b3a65b29285c -->
 
 # Servicehund - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/servicehund
-- **Sist oppdatert i arkivet:** 2026-10-16T12:51:39Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:38:19Z
 
 ## Innhold
 
@@ -153,7 +153,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -171,3 +171,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

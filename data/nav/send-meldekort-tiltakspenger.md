@@ -1,11 +1,11 @@
-<!-- innholds-hash: e851d80c286a6f456c93812540161016e4bebd1d480d744b5366016e07be235c -->
+<!-- innholds-hash: aa17e2faa2e5e51b0675172e3b161b43d1c4fd845061184ef7dcb397cc1cfaf9 -->
 
 # Fyll ut meldekort – tiltakspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-tiltakspenger
-- **Sist oppdatert i arkivet:** 2026-10-16T12:31:22Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:18:27Z
 
 ## Innhold
 
@@ -244,7 +244,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -254,7 +254,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -270,3 +270,4 @@ Ring oss på 55 55 33 33
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

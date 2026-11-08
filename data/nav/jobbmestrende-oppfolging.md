@@ -1,11 +1,11 @@
-<!-- innholds-hash: b6a9e4118588a22411a5cd5d54e939d9bee829b7745e72d146a85ca27ffe6879 -->
+<!-- innholds-hash: 1ed7fff42fa4bb5aafa70dfba92795461419204232180ef65301dacf7e924200 -->
 
 # Jobbmestrende oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbmestrende-oppfolging
-- **Sist oppdatert i arkivet:** 2026-10-16T12:48:44Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:35:29Z
 
 ## Innhold
 
@@ -85,7 +85,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -95,7 +95,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -111,3 +111,4 @@ Ring oss på 55 55 33 33
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

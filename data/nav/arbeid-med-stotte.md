@@ -1,11 +1,11 @@
-<!-- innholds-hash: 5f8e3269cb9684a49d23d52b34e881acafcb44398a0c3c19f7e0903b87862cbc -->
+<!-- innholds-hash: 22feba30c78176fa3f506920b64945ced903230ddede56468d1058276a750903 -->
 
 # Arbeid med støtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeid-med-stotte
-- **Sist oppdatert i arkivet:** 2026-10-16T12:40:36Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:27:33Z
 
 ## Innhold
 
@@ -47,7 +47,7 @@ Mer informasjon til deg som
 
 - [Trenger hjelp til å komme i jobb](https://www.nav.no/komme-i-jobb) Dette kan du ha rett til
 
-[Rekrutteringsprogrammet](https://www.nav.no/rekrutteringsprogrammet)
+[Rekrutteringsprogrammet](https://www.nav.no/samarbeidspartner/rekrutteringsprogrammet)
 
 ### Hvordan kan du få?
 
@@ -89,7 +89,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -99,7 +99,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -115,3 +115,4 @@ Ring oss på 55 55 33 33
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

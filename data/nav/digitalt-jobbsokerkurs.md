@@ -1,11 +1,11 @@
-<!-- innholds-hash: 03501bde027a4d187f7d261ec26749b6bb76874ab50d3757ffc19c387f7f2914 -->
+<!-- innholds-hash: 37addc37cb0936c17fac53760e3f15044c1b0300fc933ce8894dce538bc2a710 -->
 
 # Digitalt jobbsøkerkurs - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/digitalt-jobbsokerkurs
-- **Sist oppdatert i arkivet:** 2026-10-16T12:43:23Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:30:23Z
 
 ## Innhold
 
@@ -94,7 +94,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -104,7 +104,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -120,3 +120,4 @@ Ring oss på 55 55 33 33
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

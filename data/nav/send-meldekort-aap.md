@@ -1,11 +1,11 @@
-<!-- innholds-hash: 343c40c47ba9ff900c1a677bb11254204594ef0ce6f594fc52fab19d79942bf5 -->
+<!-- innholds-hash: f11939e1b826ca41666e9706825258ab8bf9ef0956f017b2c1fcf4ba894ac6a3 -->
 
 # Fyll ut meldekort – arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-aap
-- **Sist oppdatert i arkivet:** 2026-10-16T12:35:37Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:22:39Z
 
 ## Innhold
 
@@ -634,7 +634,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -644,7 +644,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -661,3 +661,4 @@ Ring oss på 55 55 33 33
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

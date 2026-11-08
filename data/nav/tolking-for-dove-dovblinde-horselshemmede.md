@@ -1,11 +1,11 @@
-<!-- innholds-hash: 061378cd47d539143c2904478799409806e3acf3311646a37f68ca1b18f31463 -->
+<!-- innholds-hash: cc54e337831e97392e625e6226e35283592f640390ce27b5483919e0ce49e340 -->
 
 # Tolking for døve, døvblinde og hørselshemmede - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tolking-for-dove-dovblinde-horselshemmede
-- **Sist oppdatert i arkivet:** 2026-10-16T12:34:12Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:21:15Z
 
 ## Innhold
 
@@ -140,7 +140,7 @@ Psykisk helse:
 - Unngå å la tolken være alene med pasienten.
 - Ivareta tolkens sikkerhet ved fare for utagering.
 - Testapparat er ikke tilpasset tegnspråk. Tolkene bør få forberede seg på testene.
-- Nasjonal behandlingstjeneste for hørsel og psykisk helse kan ha relevant informasjon: [www.nbhp.no](http://www.nbhp.no/)
+- [Nasjonal behandlingstjeneste for sansetap og psykisk helse](https://www.oslo-universitetssykehus.no/avdelinger/klinikk-psykisk-helse-og-avhengighet/avdeling-for-spesialpsykiatri/nasjonalt-senter-for-horsel-og-psykisk-helse/)kan ha relevant informasjon
 
 Dersom du er under 18 år eller har behov for å reise i forbindelse med arbeid eller kortvarig undervisning i utlandet, får du dekket tolken(e)s reise- og oppholdsutgifter. Utdanningsreisen må være en del av skolens obligatoriske undervisning og behovet må være bekreftet av skolen eller opplæringsstedet.
 
@@ -296,7 +296,7 @@ Det er ikke anledning til å gjøre opptak av tolking. Det ble i 2026 gjort en j
 - [Forskrift om stønad til tolke- og ledsagerhjelp for døvblinde (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-321?q=Forskrift%20om%20st%C3%B8nad%20til%20tolke-%20og%20ledsagerhjelp%20for%20d%C3%B8vblinde)
 - [Rundskriv til § 10-7 Bokstav g - Tolke- og ledsagerhjelp for døvblinde (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07g?q=Tolke-%20og%20ledsagerhjelp%20for%20d%C3%B8vblinde)
 
-Oppdatert 23.09.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -316,7 +316,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/tolking-for-dove-dovblinde-horselshemmede) av norges-lover-bot.*
@@ -330,3 +330,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

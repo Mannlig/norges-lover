@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8c81f49dccf9d7c11988b1cc82110be75e6552b88c01601d9031e3581d6494a3 -->
+<!-- innholds-hash: 8f48df7cf9c77c0f44d643eeebe0f0215ea94d38e36e31e24dbe3cdfd752753f -->
 
 # Jobbklubb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/jobbklubb
-- **Sist oppdatert i arkivet:** 2026-10-16T12:47:59Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:34:45Z
 
 ## Innhold
 
@@ -110,7 +110,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -120,7 +120,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -136,3 +136,4 @@ Ring oss på 55 55 33 33
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: fb790b15638eb37096edd10be02042b8665cdcd4aed9a0b3fd396d32433716f0 -->
+<!-- innholds-hash: be23164b1c80db90df5639edc16aa572c30a9a139291a0e25c627874ff4eeb33 -->
 
 # Be om arbeidsrettet oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsrettet-oppfolging
-- **Sist oppdatert i arkivet:** 2026-10-06T14:48:39Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:19:51Z
 
 ## Innhold
 
@@ -110,7 +110,7 @@ Hvis det skjer endringer som gjør at opplysningene du har gitt oss ikke er rikt
 
 - [Nav-loven § 14 a (lovdata.no)](https://lovdata.no/dokument/NL/lov/2006-06-16-20/KAPITTEL_3#%C2%A714a)
 
-Oppdatert 26.08.2026
+Oppdatert 19.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/arbeidsrettet-oppfolging) av norges-lover-bot.*
@@ -119,3 +119,4 @@ Oppdatert 26.08.2026
 
 - **2026-05-16** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

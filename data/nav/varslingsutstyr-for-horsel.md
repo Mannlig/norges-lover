@@ -1,11 +1,11 @@
-<!-- innholds-hash: ba159cc0e320e929c9041c87fe9d93e54f712cf10e9a3644cc1a515c91e08f62 -->
+<!-- innholds-hash: 34584ce6dbae753cd90f4afa9ab65c36cbcf6ab0ab12340b8eeb14efda10c578 -->
 
 # Varslingsutstyr for hørsel  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varslingsutstyr-for-horsel
-- **Sist oppdatert i arkivet:** 2026-10-16T12:25:37Z
+- **Sist oppdatert i arkivet:** 2026-11-08T16:12:49Z
 
 ## Innhold
 
@@ -179,7 +179,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -292,7 +292,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 
 [Folketrygdloven, kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10)
 
-Oppdatert 06.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Kontakt oss
 
@@ -312,7 +312,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Åpent nå
+Stengt nå, åpner kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -329,3 +329,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)
