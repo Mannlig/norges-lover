@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9f4a8213af24485298b237224b4e7871b2032874c916687d7d85c04b6fefddf0 -->
+<!-- innholds-hash: 2080ebfaeb61837135553b73a0d73298b3313ebdbaea0b720b73bb8bcf9d23fe -->
 
 # Arm- og benproteser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/armogbenproteser
-- **Sist oppdatert i arkivet:** 2026-10-15T23:43:18Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:24:41Z
 
 ## Innhold
 
@@ -140,7 +140,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om protese | 37 uker |
+| Søknad om protese | 38 uker |
 
 #### Levering og ventetid
 
@@ -168,7 +168,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 37 uker |
+| Klage til Nav-enhet | 38 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -219,3 +219,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

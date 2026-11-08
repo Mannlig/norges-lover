@@ -1,11 +1,11 @@
-<!-- innholds-hash: 597b6d055424251314ee5aa9bf4ccf62d6dd51a34637e610a766da9335c56bb3 -->
+<!-- innholds-hash: e9281c36a18f6e4c5eaf1863c4b68134ad8055eba5cdde265582041c93cb19a4 -->
 
 # Parykk og annen hårerstatning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/parykk
-- **Sist oppdatert i arkivet:** 2026-10-06T13:37:06Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:13:29Z
 
 ## Innhold
 
@@ -91,7 +91,7 @@ Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om parykk | 16 uker |
+| Søknad om parykk | 17 uker |
 
 #### Levering og ventetid
 
@@ -119,7 +119,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 16 uker |
+| Klage til Nav-enhet | 17 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -170,3 +170,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

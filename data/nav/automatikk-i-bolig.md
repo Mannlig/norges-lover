@@ -1,11 +1,11 @@
-<!-- innholds-hash: 33b885f86a94a2df9431b76b6133815e668343b8285ed9bae8cad5c01d4fc0fb -->
+<!-- innholds-hash: a0069c9a567b541128295b8cb3f33f5aacdf7c8027e0b6b7142b6c6a2992a9cf -->
 
 # Automatikk og styring i bolig - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/automatikk-i-bolig
-- **Sist oppdatert i arkivet:** 2026-10-06T13:50:26Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:25:24Z
 
 ## Innhold
 
@@ -55,7 +55,7 @@ Betjening av gardiner på soverom med bryter eller fjernkontroll, for deg som ik
 
 Du får låne hjelpemidlene av Nav hjelpemiddelsentral.
 
-Oversikt over [de vanligste automatikk- og styringshjelpemidlene, finner du i FinnHjelpemiddel](https://finnhjelpemiddel.nav.no/rammeavtale/e3c8e7ca-8118-4c24-b2fd-13b765de99e3)
+Oversikt over [de vanligste automatikk- og styringshjelpemidlene, finner du i FinnHjelpemiddel](https://finnhjelpemiddel.nav.no/rammeavtale/hjelpemidler/f5cb315b-76f1-4c9a-aa83-6b0c60fda8b0)
 
 Du kan lese mer [om dører og dørautomatikk på kunnskapsbanken.net](https://www.kunnskapsbanken.net/bolig/dorer-og-dorautomatikk/)
 
@@ -269,7 +269,7 @@ Fastmonterte hjelpemidler kan ikke byttes som andre hjelpemidler, men krever ny 
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv til § 10-7 a, c og d samt annet og tredje ledd (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 08.09.2026
+Oppdatert 21.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -300,3 +300,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

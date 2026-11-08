@@ -1,11 +1,11 @@
-<!-- innholds-hash: effa637a60564225951719dac074f552f18f6ec8501a3d635e6915c274291516 -->
+<!-- innholds-hash: fa771ca350caa67c1344dcb23bebf1556d948d96cf96def9fbdff16101aac870 -->
 
 # Frivillig yrkesskadetrygd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/frivillig-yrkesskadetrygd
-- **Sist oppdatert i arkivet:** 2026-10-06T13:55:59Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:31:00Z
 
 ## Innhold
 
@@ -17,21 +17,14 @@ En frivillig forsikring for selvstendig næringsdrivende og frilansere.
 
 ### Hvem kan få?
 
-Yrkesskadedekningen gjelder for yrkesskader, yrkessykdom og dødsfall som oppstår når du utfører næringsvirksomheten din.
-
-For å kunne få forsikringen, må du
+For å kunne få innvilget forsikringen, må du
 
 - være selvstendig næringsdrivende i ENK, ANS/DA, eller
 - frilanser
 - være under 67 år
-- ha en forventet årsinntekt høyere enn grunnbeløpet i folketrygden, som er 136 549 kroner
-- betale inn premie for yrkesskadedekning for minst ett kalenderår
+- ha en forventet årsinntekt høyere enn grunnbeløpet i folketrygden, som per i dag er 136 549 kroner
 
-#### Yrkesskadetrygd for elever
-
-Frivillig yrkesskadetrygd er også en [ordning for elever som ikke automatisk er dekket](https://www.nav.no/yrkesskade#elever) av skolen eller studiestedet.
-
-### Hva kan du få?
+### Hvilke fordeler innebærer denne forsikringen?
 
 #### Når er forsikringen aktuell?
 
@@ -45,7 +38,9 @@ Dette kan du ha rett til
 
 #### Hvordan beregner Nav premien din?
 
-Den årlige premien (det forsikringen koster) er 0,4 prosent av den forventede årsinntekten din. Nav vil i samråd med deg bestemme den forventede årsinntekten din. Utgangspunktet er de pensjonsgivende inntektene dine fra næringsvirksomheten din tidligere år. Inntekt du eventuelt har som arbeidstaker, vil ikke regnes med.
+For å fastsette premiegrunnlaget beregner vi et gjennomsnitt av den pensjonsgivende inntekten din fra næringsvirksomheten din de tre siste ferdig lignede årene. Opplysninger om inntekten din henter vi fra Skatteetaten. Hvis du har startet næringsvirksomhet i løpet av de siste tre årene, kan vi mangle de nødvendige opplysningene. Da kan vi be deg sende inn dokumentasjon.
+
+Premien er 0,4 prosent av premiegrunnlaget per år.
 
 For det første året betaler du premie for de månedene som gjenstår av året, fra og med den måneden forsikringen skal gjelde fra.
 
@@ -57,15 +52,21 @@ Du er forsikret fra det tidspunktet Nav fikk søknaden din. Hvis du har søkt om
 
 #### Når skal du betale premien?
 
-For at forsikringen skal være gyldig, må du betale premien innen 4 uker etter at du fikk melding fra Nav om at søknaden er godkjent.
+For at ny forsikringen skal være gyldig, må du betale premien innen fire uker etter at du har mottatt faktura fra Nav.
 
-Du betaler forskuddsvis for hvert enkelt kalenderår.
+Du får vedtak om at søknaden er godkjent før fakturaen sendes ut.
 
-#### Andre tilbud
+Deretter får du vedtak og faktura hvert enkelt kalenderår, med fire ukers betalingsfrist. Vi anbefaler at du bruker eFaktura.
 
-Mer informasjon til deg som
+### Har du blitt skadet i næringsvirksomhet etter at du tegnet forsikring?
 
-- [Har blitt sykmeldt](https://www.nav.no/sykmeldt) Dette kan du ha rett til
+Informasjon om å melde yrkesskade/yrkessykdom til Nav.
+
+[Skademelding ved yrkesskade eller yrkessykdom](https://www.nav.no/meldyrkesskade)
+
+Slik gjør du det
+
+Sjekk Helfos nettsider og de enkelte ytelsene fra Nav for mer informasjon om dekning av utgifter eller ytelser etter en godkjent yrkesskade/yrkessykdom Du kan lese mer om [yrkesskade/yrkessykdom](https://www.helfo.no/regelverk/yrkesskade)på helfo.no.
 
 ### Søke, ettersende eller klage
 
@@ -73,11 +74,11 @@ Mer informasjon til deg som
 
 Det er viktig at du fyller ut alle aktuelle punkter i søknaden. Sammen med eventuell dokumentasjon har vi da det vi trenger for å behandle søknaden din.
 
-Nav vil kontakte deg hvis vi trenger flere opplysninger om virksomheten din, eller dokumentasjon som viser forventet inntekt for virksomheten.
+Hvis vi trenger flere opplysninger om virksomheten din eller dokumentasjon på forventet inntekt, tar vi kontakt med deg.
 
 [Søk om yrkesskadetrygd](https://www.nav.no/fyllut/nav131305)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav131305)
 
-Du får et skriftlig vedtak når vi har behandlet søknaden. Vi sender fakturaen til den folkeregistrerte adressen din.
+Du får et skriftlig vedtak når vi har behandlet søknaden. Vi ønsker å sende fakturaen som eFaktura.
 
 #### Saksbehandlingstid for søknader
 
@@ -123,17 +124,21 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 #### Meld fra om endringer
 
-Hvis inntektene fra den selvstendige næringsvirksomheten din, eller inntektene dine som frilanser, er vesentlig endret siden du betalte premie forrige gang, skal du [melde fra til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-frivillig-yrkesskadetrygd). Vi beregner da premien på nytt.
+Hvis inntektene fra næringsvirksomheten din eller frilansarbeid har endret seg vesentlig siden sist du betalte premie, skal du [melde fra til Nav](https://www.nav.no/person/kontakt-oss/meld-fra-om-endringer-innbokser/meld-fra-om-endring-frivillig-yrkesskadetrygd). Nav vurderer da om endringen får betydning for premien og fakturaen for neste periode.
 
 #### Hvor lenge varer forsikringen?
 
-Den frivillige forsikringen gjelder fra søknadsdatoen og ut kalenderåret som innbetalingen din dekker.
+Den frivillige forsikringen gjelder fra søknadsdatoen og ut kalenderåret som du har betalt forsikring for.
 
-Hvis du betaler premie for nytt kalenderår innen 4 uker etter at Nav sendte deg en ny faktura, har du fornyet forsikringen til neste årsskifte.
+For å beholde forsikringen må du betale den årlige fakturaen innen fire uker.
+
+Forsikringen opphører når du fyller 67 år, når virksomheten opphører, eller du ikke lenger har forventet næringsinntekt på minst 136 549 kroner (ett grunnbeløp).
 
 Forsikringen opphører når du fyller 67 år eller fra det tidspunktet virksomheten opphører, eller du ikke lenger har forventet næringsinntekt.
 
-For elever og studenter vil forsikringen følge skoleåret hvis skolen eller studiestedet har betalt forsikringspremie. Det er ikke eleven selv som betaler premie.
+#### Frivillig yrkesskadedekning for elever og studenter
+
+Frivillig yrkesskadetrygd for elever og studenter er også en [ordning for elever som ikke automatisk er dekket](https://www.nav.no/yrkesskade#elever) av skolen eller studiestedet. Det er skolen eller studiestedet som må søke om forsikringen. Forsikringen følger skoleåret når skolen eller studiestedet har betalt forsikringspremie.
 
 ### Hva sier loven?
 
@@ -141,7 +146,7 @@ For elever og studenter vil forsikringen følge skoleåret hvis skolen eller stu
 - [Forskriften om frivillig yrkesskadetrygd (lovdata.no)](https://lovdata.no/nav/forskrift/1997-03-11-210)
 - [Helseutgifter du kan få refundert (helsenorge.no)](https://www.helsenorge.no/rettigheter/rett-til-helsehjelp-ved-yrkesskade/)
 
-Oppdatert 04.11.2025
+Oppdatert 02.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -182,3 +187,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

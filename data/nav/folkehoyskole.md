@@ -1,11 +1,11 @@
-<!-- innholds-hash: ef8d80e409632894b77b346cb8a3e9711728e31fe84013b0d44f4129cee8d096 -->
+<!-- innholds-hash: b5513b959e74509c274f6ab7e6a72e0cd3679b9b2f0b62ee7af840b1b45aff78 -->
 
 # Støtte til folkehøyskole - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/folkehoyskole
-- **Sist oppdatert i arkivet:** 2026-10-15T23:48:17Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:29:34Z
 
 ## Innhold
 
@@ -65,7 +65,7 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 10 uker |
+| Søknad | 5 uker |
 
 #### Klagerettigheter
 
@@ -89,7 +89,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 10 uker |
+| Klage til Nav-enhet | 5 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -141,3 +141,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

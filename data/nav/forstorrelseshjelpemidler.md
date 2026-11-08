@@ -1,11 +1,11 @@
-<!-- innholds-hash: be60e734aa6a31ed36ce39bc7d3d932743657cad96e7038bbeb4336c48453d33 -->
+<!-- innholds-hash: ebbf9925796dc903ae1dae0e16aeadf7c15da4de9a83bb8cbb8c6a285bb3588a -->
 
 # Forstørrelses­hjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/forstorrelseshjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T13:55:16Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:30:17Z
 
 ## Innhold
 
@@ -137,6 +137,8 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -256,7 +258,7 @@ Legg spesielt merke til at luper kan utgjøre en stor brannfare. Alle optiske lu
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd)
 - [Rundskriv om forskrift (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd)
 
-Oppdatert 14.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -295,3 +297,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

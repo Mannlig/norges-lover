@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0b41d525d65e54dd9be803cdbcca191d1b7b6d301a74859821e944cd529dfab7 -->
+<!-- innholds-hash: 06d322f9fca280f18640a2272c3f4f26784cc4d2c2ad74aa9378ccd5e07407c2 -->
 
 # Ortoser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ortoser
-- **Sist oppdatert i arkivet:** 2026-10-15T23:30:20Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:12:02Z
 
 ## Innhold
 
@@ -161,7 +161,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om ortose | 37 uker |
+| Søknad om ortose | 38 uker |
 
 #### Levering og ventetid
 
@@ -195,7 +195,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 37 uker |
+| Klage til Nav-enhet | 38 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -246,3 +246,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

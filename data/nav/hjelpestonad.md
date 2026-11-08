@@ -1,11 +1,11 @@
-<!-- innholds-hash: f2283eecc70b77cdc264ef1892c636ca9e0524988a934122870448586101c712 -->
+<!-- innholds-hash: 81bbb26fbdd3101e20ee68d0da9d0ed9f240e94666bd04da295e115d1ffeaa4c -->
 
 # Hjelpestønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpestonad
-- **Sist oppdatert i arkivet:** 2026-10-06T13:30:58Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:07:06Z
 
 ## Innhold
 
@@ -169,7 +169,7 @@ Hjelpestønaden blir utbetalt en gang per måned.
 
 Stønaden til barn blir utbetalt til den bankkontoen som foreldrene eller vergen bestemmer. Kontoen kan være i navnet til en av foreldrene, vergen eller barnet.
 
-For å registrere kontonummer til barn, må du fylle ut [skjemaet melding om nytt bankkontonummer](https://www.nav.no/start/soknad-endring-bankkontonummer) og sende det i posten til Nav.
+For å registrere kontonummer til barn, må du fylle ut skjemaet melding om nytt bankkontonummer og [sende det i posten til Nav.](https://www.nav.no/kontonummer#melde)
 
 Er du over 18 år, kan du [endre kontonummeret på nav.no](https://www.nav.no/kontonummer).
 
@@ -232,7 +232,7 @@ Barnet beholder hjelpestønaden under sykehusopphold.
 - [Rundskriv om hjelpestønad (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/rundskriv-hjelpestonad)
 - [Retningslinjer om hjelpestønad for visse typer lidelser (lovdata.no)](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/retningslinjer-om-hjelpestonad-forhoyet-hjelpestonad-for-visse-typer-lidelser)
 
-Oppdatert 12.02.2026
+Oppdatert 16.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -272,3 +272,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

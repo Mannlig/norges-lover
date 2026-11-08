@@ -1,11 +1,11 @@
-<!-- innholds-hash: bc739eb4d5c311a75779360582ee48c2ca554287aa1afe0f10e7f3c329430567 -->
+<!-- innholds-hash: 034132ba640ef68152694c499bf8415c05a4881f3d43568354538ccb9b4ddd5d -->
 
 # Grunnstønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnstonad
-- **Sist oppdatert i arkivet:** 2026-10-06T13:30:16Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:06:21Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ Du eller barnet kan få stønad til disse ekstrautgiftene:
 
 Du eller barnet kan få stønad til strømutgifter til elektriske hjelpemidler, som for eksempel seng og rullestol, batterier til høreapparat, utgifter til cochlea implantat og trygghetsalarm.
 
-Du eller barnet kan få stønad til nødvendige ekstrautgifter til transport eller [drift av bil](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/bil-og-spesialutstyr) som skyldes den medisinske tilstanden.
+Du eller barnet kan få stønad til nødvendige ekstrautgifter til transport eller [drift av bil](https://www.nav.no/bilstonad) som skyldes den medisinske tilstanden.
 
 Du kan få stønad når du har [godkjent førerhund](https://www.nav.no/samarbeidspartner/forerhund).
 
@@ -193,7 +193,7 @@ Grunnstønaden blir utbetalt en gang per måned.
 
 Stønaden til barn blir utbetalt til den bankkontoen som foreldrene eller vergen bestemmer. Kontoen kan være i navnet til en av foreldrene, vergen eller barnet.
 
-For å registrere kontonummer til barn, må du fylle ut [skjemaet melding om nytt bankkontonummer](https://www.nav.no/start/soknad-endring-bankkontonummer) og sende det i posten til Nav.
+For å registrere kontonummer til barn, må du fylle ut skjemaet melding om nytt bankkontonummer og [sende det i posten til Nav.](https://www.nav.no/kontonummer#melde)
 
 Er du over 18 år, kan du [endre kontonummeret på nav.no](https://www.nav.no/kontonummer).
 
@@ -248,7 +248,7 @@ Du må også melde fra hvis du eller barnet ditt får endringer i helsetilstande
 
 [Folketrygdloven § 6-3 Grunnstønad](https://www.nav.no/nav.no-ressurser/lenker/regelverk/rettskildene/folketrygdloven-6-3-grunnstonad)
 
-Oppdatert 12.02.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -288,3 +288,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

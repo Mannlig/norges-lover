@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9cafb558eea742262cdfdd7bf1192907ed0cce8e8433f4d5bff6fce1a14161d6 -->
+<!-- innholds-hash: c48bdba31130c5661121c50376ee5d837043d312a13bfb6fad0a51933ba38644 -->
 
 # Vurdering av behov for oppfølging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/behov-for-oppfolging
-- **Sist oppdatert i arkivet:** 2026-10-06T13:51:48Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:26:49Z
 
 ## Innhold
 
@@ -80,7 +80,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 8 uker |
-| Klage til Nav klageinstans | 5 måneder |
+| Klage til Nav klageinstans | 9 måneder |
 
 ### Meld fra om endringer
 
@@ -105,3 +105,4 @@ Oppdatert 11.12.2025
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

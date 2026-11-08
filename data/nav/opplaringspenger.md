@@ -1,11 +1,11 @@
-<!-- innholds-hash: b909d54ebbbd08b51932b63aab45397d8f299f629b38e9b2095a4890a8ff3307 -->
+<!-- innholds-hash: 908f4ed17d0255a68e72a9588ba152d6e9335cf2b304319e6638a372dc75744c -->
 
 # Opplæringspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/opplaringspenger
-- **Sist oppdatert i arkivet:** 2026-10-15T23:28:53Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:10:36Z
 
 ## Innhold
 
@@ -124,7 +124,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 11 uker |
+| Søknad | 6 uker |
 | Internasjonal søknad | 6 måneder |
 
 #### Klagerettigheter
@@ -261,3 +261,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

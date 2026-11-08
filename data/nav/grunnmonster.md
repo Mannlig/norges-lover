@@ -1,11 +1,11 @@
-<!-- innholds-hash: b4d436b34e20e650b06861e2ced503323a8ba3cb6577e0955c594c4988bf5216 -->
+<!-- innholds-hash: 1bed967b979517380c893006d3ef808dc49c4a017c54815645fc7c5aea5cce53 -->
 
 # Grunnmønster og søm av klær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/grunnmonster
-- **Sist oppdatert i arkivet:** 2026-10-15T23:23:57Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:05:37Z
 
 ## Innhold
 
@@ -104,7 +104,7 @@ I spesielt krevende saker, eller saker der vi ikke har fått fullstendige og rik
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad | 10 uker |
+| Søknad | 5 uker |
 
 #### Levering og ventetid
 
@@ -132,7 +132,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 10 uker |
+| Klage til Nav-enhet | 5 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -182,3 +182,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

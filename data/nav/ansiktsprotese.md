@@ -1,11 +1,11 @@
-<!-- innholds-hash: a9a9da248c6d200d97cd0f722d61755ad3da854ff418929da1a8bd03da476c2d -->
+<!-- innholds-hash: ccf2301e574c3d64eb5aaa384400e017c2cf03397a003381c25950eb4239e2e6 -->
 
 # Ansiktsprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ansiktsprotese
-- **Sist oppdatert i arkivet:** 2026-10-06T13:46:53Z
+- **Sist oppdatert i arkivet:** 2026-11-08T03:21:56Z
 
 ## Innhold
 
@@ -62,7 +62,7 @@ Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et v
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om ansiktsprotese | 16 uker |
+| Søknad om ansiktsprotese | 17 uker |
 
 #### Levering og ventetid
 
@@ -90,7 +90,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 16 uker |
+| Klage til Nav-enhet | 17 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -140,3 +140,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)
