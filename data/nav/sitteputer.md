@@ -1,11 +1,11 @@
-<!-- innholds-hash: f41fffd6d809b7a16c319782acd1bc2ff004595ca075d10f1d524dee7f7cfdcf -->
+<!-- innholds-hash: 787afff90c0b8fa0dd865b39bf24794b6487f7a3b1a0572621a4783026d88f8c -->
 
 # Trykksårforebyggende sitteputer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sitteputer
-- **Sist oppdatert i arkivet:** 2026-10-06T14:17:25Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:07:37Z
 
 ## Innhold
 
@@ -168,7 +168,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når Nav hjelpemiddelsentral har behandlet søknaden din.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -271,7 +271,7 @@ Hvis du skal ha med deg et hjelpemiddel på utenlandsreise, bør du kontakte Nav
 - [Rundskriv om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 - [Regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd#KAPITTEL_5-2)
 
-Oppdatert 01.09.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -299,3 +299,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

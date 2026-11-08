@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8a6b90b1a7b8515b1d641edc21e792f2427a5f9d03d4b45aef8b78102e0889e0 -->
+<!-- innholds-hash: 0a9bbd2613334c2a2a5d31416051f374e917b049dcb8b449937323ff0a363483 -->
 
 # Lyttehjelpemidler for telefon  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lyttehjelpemidler-for-telefon
-- **Sist oppdatert i arkivet:** 2026-10-06T14:07:06Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:58:23Z
 
 ## Innhold
 
@@ -181,7 +181,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -294,7 +294,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 
 [Folketrygdloven, kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10)
 
-Oppdatert 26.06.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Kontakt oss
 
@@ -330,3 +330,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2350f980d466461fef170f8cc9055aa6f84994abbbac0600e5624d86b7111cf5 -->
+<!-- innholds-hash: d5c28c34e8aa02c8d397c0980e6cbdfd377b34d44cc67cd7d331d7a5ee5f6248 -->
 
 # Lydoverføringsanlegg  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lydoverforingsanlegg
-- **Sist oppdatert i arkivet:** 2026-10-06T14:06:24Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:57:42Z
 
 ## Innhold
 
@@ -157,7 +157,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -274,7 +274,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 
 [Folketrygdloven, kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10)
 
-Oppdatert 10.09.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Kontakt oss
 
@@ -306,3 +306,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-08** Innhold endret (se git-historikk for diff)

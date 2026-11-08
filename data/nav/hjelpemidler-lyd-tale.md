@@ -1,11 +1,11 @@
-<!-- innholds-hash: a8d9bfc5c995b6cb01b28a9cb488a8871b57a7b10b0bfbf359caf67b5d2c2508 -->
+<!-- innholds-hash: 4db9aebe591f1d52678b0cf5d682b967cfb7a1702704a0ba7ddbd6f3d31acd8d -->
 
 # Hjelpemidler med lyd og tale - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-lyd-tale
-- **Sist oppdatert i arkivet:** 2026-10-06T14:00:14Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:51:56Z
 
 ## Innhold
 
@@ -151,6 +151,8 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -244,7 +246,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 - [Forskrift om stønad til hjelpemidler (Lovdata)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv til forskrift (Lovdata)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 14.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -285,3 +287,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

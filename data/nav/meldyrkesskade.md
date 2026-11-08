@@ -1,11 +1,11 @@
-<!-- innholds-hash: 6412325d7bbe74726980dbe421f1299a05e4be28ff9a885d511296419985f6c3 -->
+<!-- innholds-hash: 4a52262cff0503a7f34f13e07eb7a2f3fe5df851e2ba65bbb8f51389d75ed62e -->
 
 # Skademelding ved yrkesskade eller yrkessykdom - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/meldyrkesskade
-- **Sist oppdatert i arkivet:** 2026-10-06T14:08:24Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:59:48Z
 
 ## Innhold
 
@@ -96,7 +96,8 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 14 uker |
+| Klage til Nav-enhet yrkesskade | 14 uker |
+| Klage til Nav-enhet yrkessykdom | 6 måneder |
 | Klage til Nav klageinstans | 4 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -109,3 +110,4 @@ Oppdatert 18.02.2026
 
 - **2026-05-17** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2086dae2a401bdc9c3dd8a9689a38c87d8457d4422f37aa24460025b105b99ea -->
+<!-- innholds-hash: 846440633acc5a7355d019ee34a4aed7e8354c8ab8bb2c9ddfb0420666858308 -->
 
 # Senger, madrasser, tilbehør og forflytning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/senger-og-madrasser
-- **Sist oppdatert i arkivet:** 2026-10-06T14:16:41Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:06:53Z
 
 ## Innhold
 
@@ -39,7 +39,7 @@ På denne siden finner du informasjon om:
 - utstyr for overflytting og vending i seng
 - tilbehør som hjertebrett, sengebord og sengegrind.
 
-Det finnes ulike senger med elektriske funksjoner som gjør at stillingen i sengen kan endres. Vanlig madrass følger med, men om du trenger ny madrass må du kjøpe den selv.
+Det finnes ulike senger med elektriske funksjoner som gjør at stillingen i sengen kan endres. Vanlig madrass er ikke et hjelpemiddel, men følger likevel med første gangs utlevering av seng. Om du trenger å erstatte madrassen må du kjøpe den selv.
 
 Om du har trykksår eller står i fare for å utvikle trykksår, kan du søke om madrass, overmadrass eller pute med trykksårforebyggende egenskaper.
 
@@ -157,7 +157,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -295,7 +295,7 @@ Omsorgsbolig regnes som vanlig bolig og ikke som institusjon. Du kan derfor ta m
 - [Rundskriv til Folketrygdlovens forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 - [Rundskriv om regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd#KAPITTEL_5-2)
 
-Oppdatert 14.01.2026
+Oppdatert 02.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -325,3 +325,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

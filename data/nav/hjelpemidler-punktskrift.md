@@ -1,11 +1,11 @@
-<!-- innholds-hash: 67946ca4e00f53e2703be6696a751178e77e3fa0e63e544f8f29d539c2c6b055 -->
+<!-- innholds-hash: 58169b1964f94caeca4eb890b6280463d3b77550eea7f8a1d1ba5e9653036eee -->
 
 # Hjelpemidler for punktskrift - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-punktskrift
-- **Sist oppdatert i arkivet:** 2026-10-06T14:01:41Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:53:19Z
 
 ## Innhold
 
@@ -145,6 +145,8 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -257,7 +259,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv til forskrift (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 24.03.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -296,3 +298,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

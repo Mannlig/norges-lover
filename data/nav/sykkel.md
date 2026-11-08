@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7c020e15efb824da0421c46a353f5b9d1b2f61d3817258127130c5d45f6bedef -->
+<!-- innholds-hash: bce0e4cab8d1849e0daad9841316b109621875e4e4a480f66ad7c204562ce6b6 -->
 
 # Sykkel - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykkel
-- **Sist oppdatert i arkivet:** 2026-10-06T14:21:36Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:10:33Z
 
 ## Innhold
 
@@ -166,7 +166,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -319,7 +319,7 @@ Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta 
 
 [Forskrift til stønad om hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318/%C2%A72#%C2%A72)
 
-Oppdatert 13.04.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -357,3 +357,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

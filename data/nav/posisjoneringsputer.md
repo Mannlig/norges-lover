@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2a079ff6e493dd2db29faa8a135fe66db0f61b926c593f9be082908ecc821db7 -->
+<!-- innholds-hash: 5505e1ee46bcb70fbd03b5288611ac78d34702f2a779a904a867d5402aa7ff50 -->
 
 # Posisjoneringsputer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/posisjoneringsputer
-- **Sist oppdatert i arkivet:** 2026-10-06T14:13:54Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:05:29Z
 
 ## Innhold
 
@@ -173,7 +173,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -295,7 +295,7 @@ Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta 
 - [Regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd?q=amblyopi#KAPITTEL_5-3)
 - [Vedlegg til Folketrygdloven om regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 05.12.2025
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -325,3 +325,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

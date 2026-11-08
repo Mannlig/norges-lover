@@ -1,11 +1,11 @@
-<!-- innholds-hash: c231a06d2e6e279f0bd16be306bf73b7af06abae1dd5f76ae92975b294b384d2 -->
+<!-- innholds-hash: 98eeb8285171958b5444c94ea0173b4ac9a4689a0255f60421b7c368c2975c37 -->
 
 # Øyeprotese - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/oyeprotese
-- **Sist oppdatert i arkivet:** 2026-10-06T14:11:46Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:03:21Z
 
 ## Innhold
 
@@ -69,7 +69,7 @@ Leveringstid for hjelpemiddelet kommer i tillegg til saksbehandlingstiden.
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Søknad om øyeprotese | 16 uker |
+| Søknad om øyeprotese | 17 uker |
 
 #### Levering og ventetid
 
@@ -97,7 +97,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
-| Klage til Nav-enhet | 16 uker |
+| Klage til Nav-enhet | 17 uker |
 | Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
@@ -144,3 +144,4 @@ Stengt nå, åpner kl. 9
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

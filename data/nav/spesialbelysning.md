@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2c20d2908f56b49a83d5303153f86d09e38626c10ce866ffc8163e9c39b42550 -->
+<!-- innholds-hash: 31dc59e2f4d8b39648b682a26b7be4d42e14a6f8bc670293409fd957ec50a4ac -->
 
 # Spesialbelysning - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/spesialbelysning
-- **Sist oppdatert i arkivet:** 2026-10-06T14:18:08Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:08:21Z
 
 ## Innhold
 
@@ -145,6 +145,8 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -250,7 +252,7 @@ Har du fått belysning som tilskudd ansees disse som dine. Det er da din private
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv til forskrift (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 14.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -286,3 +288,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 48b0d293815f4e28ebeb4787eca676778513fe25d7b9b468f356ea275acba675 -->
+<!-- innholds-hash: ba83627c787f7eff2059968127ea4b3b23fb68cba56bc2020c1ba24b10f167ee -->
 
 # Lyttehjelpemidler til TV og radio  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lyttehjelpemidler-til-radio-og-tv
-- **Sist oppdatert i arkivet:** 2026-10-06T14:07:45Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:59:06Z
 
 ## Innhold
 
@@ -179,7 +179,7 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når søknaden er behandlet.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -302,7 +302,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 
 [Folketrygdloven, kapittel 10 hjelpemidler (lovdata.no)](https://lovdata.no/nav/folketrygdloven/kap10)
 
-Oppdatert 05.12.2025
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Kontakt oss
 
@@ -340,3 +340,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

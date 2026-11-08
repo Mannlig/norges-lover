@@ -1,11 +1,11 @@
-<!-- innholds-hash: b488efa809a5f30a3d072092ec304f184849a76bb0fec735483dea9513029f9c -->
+<!-- innholds-hash: 0065e1bd0ce82abdd9113e0e1dc34acc12dde6d749df2e80abb3ef7413654960 -->
 
 # Hjelpemidler for mobilitet og orientering - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler-mobilitet-orientering
-- **Sist oppdatert i arkivet:** 2026-10-06T14:00:58Z
+- **Sist oppdatert i arkivet:** 2026-11-08T09:52:37Z
 
 ## Innhold
 
@@ -155,6 +155,8 @@ Ordningen med brukerpass er for innbyggere med erfaring og god innsikt i egne hj
 
 #### Etter at du har søkt
 
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
+
 #### Saksbehandlingstid for søknader
 
 Saksbehandlingstiden er tiden fra vi får søknaden din og til vi har gjort et vedtak.
@@ -252,7 +254,7 @@ Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden 
 - [Forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/forskrift/1997-04-15-318)
 - [Rundskriv til forskrift (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 
-Oppdatert 14.01.2026
+Oppdatert 20.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -291,3 +293,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

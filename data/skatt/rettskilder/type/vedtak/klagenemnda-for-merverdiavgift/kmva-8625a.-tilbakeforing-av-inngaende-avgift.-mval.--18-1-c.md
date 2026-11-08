@@ -1,0 +1,500 @@
+<!-- innholds-hash: 516efb088fa642193db68297ae975db9a570e79654d1ad856a292f87995eba3e -->
+
+# KMVA 8625A. Tilbakeføring av inngående avgift. Mval. § 18-1 c
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8625a.-tilbakeforing-av-inngaende-avgift.-mval.--18-1-c/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-08T08:16:06Z
+
+## Innhold
+
+Klagenemnda for merverdiavgift
+
+## KMVA 8625A. Tilbakeføring av inngående avgift. Mval. § 18-1 c
+
+- Publisert: 03.07.2016
+- Avgitt 15.02.2016
+
+Saksnummer KMVA 8625A
+
+KMVA 8625A. Klagenemndas avgjørelse av 15. februar 2016 Klager AS
+
+Klagedato: 29. april 2015
+
+Klagenemnda stadfestet innstillingen.
+
+Saken gjelder: Spørsmål om gjenopptakelse og omgjøring av klagenemndas vedtak av 7.9.2015, KMVA 2015 8625, som gjelder tilbakeføring av inngående avgift som følge av at virksomheten ikke kom i gang med ordinær avgiftspliktig omsetning
+
+Påklaget beløp utgjør kr 1 782 080
+
+Stikkord: Anmodning omgjenopptakelse og omgjøring av klagenemndas vedtak
+
+- Tilbakeføring
+- Forhåndsregistrering
+
+Bransje: Skipsfart og rederivirksomhet
+
+Mval: § 18-1 (1) bokstav c
+
+### KLAGENEMNDA FOR MERVERDIAVGIFT
+
+Avgjørelse i møte 15. februar 2016 i sak KMVA 8625A – Klager AS.
+
+Skatt x har avgitt slik
+
+I n n s t i l l i n g :
+
+Saken gjelder anmodning om fornyet behandling og omgjøring av klagesak 8625 som ble avgjort av Klagenemnda for merverdiavgift ved vedtak av 7.9.2015, vedrørende Klager AS, org nr xxx xxx xxx.
+
+Vedtaket i Klagenemnda for merverdiavgift stadfestet med tre mot to stemmer skattekontorets vedtak av 18.3.2015 om etterberegning av inngående merverdiavgift (kr 1 782 080) som følge av at det forhåndsregistrerte selskapet ikke kom i gang med ordinær avgiftspliktig omsetning.
+
+Ved e-post av 6.10.2015 fra Selskap 1 AS er det anmodet om fornyet behandling og omgjøring av klagenemndas vedtak. Dette begrunnes med uttalelser fra Finansdepartementet i brev av 25.3.2013 til Næringslivets Hovedorganisasjon (NHO), og i brev av 4.6.2013 til Skattedirektoratet, omtalt av de dissenterende medlemmene i klagenemndssaken. Det anføres at Finansdepartementet gir uttrykk for at det skal foretas en konkret vurdering av hvorvidt det skal etterberegnes i den enkelte sak. Videre at dette skal vise at klagenemndas vedtak bygger på feil rettsanvendelse, da dette ikke skal ha vært gjort i den aktuelle saken. Det anføres også at uttalelsene tilsier at klagenemndas vedtak utgjør en usaklig forskjellsbehandling. Vi kommer tilbake til dette nedenfor under klagers anmodning om gjenopptakelse og skattekontorets vurdering av hvorvidt saken bør gjenopptas.
+
+Ved anmodning om omgjøring av vedtak i Klagenemnda for merverdiavgift skal en innstilling i følge retningslinjene for nemndsbehandling av 7.1.2011 munne ut i en anbefaling fra skattekontoret om at saken tas til behandling på nytt eller at begjæringen avvises. Fra retningslinjene heter det at dette kan være pga nye opplysninger eller fordi klager mener saken ikke har vært tilstrekkelig opplyst. Det heter videre at det bare er klagenemnda som kan avgjøre hvorvidt den vil gjenoppta behandlingen av sitt eget vedtak.
+
+Skattekontorets innstilling har vært forelagt klagers fullmektig som har kommentert denne i e-post av 12.1.2016. Merknadene er innarbeidet i innstillingen.
+
+Kopi av følgende dokumenter er vedlagt innstillingen:
+
+| Dok.nr. | Dokument | Dato |
+| --- | --- | --- |
+| 1 | Brev fra Skattedirektoratet til Finansdepartementet | 19.10.2012 |
+| 2 | Brev fra Finansdepartementet til NHO | 25.03.2013 |
+| 3 | E-post fra Skattedirektoratet til Finansdepartementet | 05.04.2013 |
+| 4 | Brev fra Finansdepartementet til Skattedirektoratet | 04.06.2013 |
+| 5 | Klagenemndas avgjørelse i klagesak | 07.09.2015 |
+| 6 | Anmodning om fornyet behandling | 06.10.2015 |
+| 7 | Merknader til innstilling | 12.01.2016 |
+| A 1 | Rt. 2015 side 24 (Bremangerlandet Vindpark) | Rt-2015-24 |
+
+Saken gjelder
+
+Saken gjelder anmodning om gjenopptakelse og omgjøring av klagenemndas vedtak av 7.9.2015.
+
+### Klagenemndas vedtak og begrunnelse
+
+Vi gjør oppmerksom på at vi i det følgende siterer hele klagenemndas vedtak av 7.9.2015, herunder med sitat av skattekontorets underliggende vedtak, som var en del av innstillingen og dermed også klagenemndas vedtak.
+
+" KLAGENEMNDA FOR MERVERDIAVGIFT
+
+Avgjørelse i møte 7. september 2015 i sak KMVA 8625 – Klager AS.
+
+Skatt x har avgitt slik
+
+I n n s t i l l i n g :
+
+Klager AS, org nr xxx xxx xxx, var forhåndsregistrert i Merverdiavgiftsregisteret fra og med 2. termin 2012 til og med 1. termin 2015. Virksomhetens formål var utenriks sjøfart med gods, og denne virksomheten var planlagt basert på et skip som var under bygging.
+
+Ved vedtak av 18. mars 2015 fattet skattekontoret vedtak om etterberegning av inngående merverdiavgift for perioden 2. termin 2012 til 4. termin 2014.
+
+Vedtaket ble påklaget i brev av 29. april 2015, etter at virksomheten hadde fått innvilget utsatt klagefrist etter søknad. Klagefristen er overholdt.
+
+Påklaget beløp utgjør:
+
+| Termin | Inngående avgift |
+| --- | --- |
+| 2/2012 |  |
+| 3/2012 | - 500 |
+| 4/2012 |  |
+| 1/2013 |  |
+| 2/2013 |  |
+| 3/2013 |  |
+| 4/2013 |  |
+| 5/2013 |  |
+| 1/2014 |  |
+| 2/2014 |  |
+| 3/2014 |  |
+| 4/2014 |  |
+| SUM |  |
+
+Det er beregnet renter i samsvar med skattebetalingslovens regler. Det vises til vedtaket.
+
+Det er ikke inngitt anmeldelse til påtalemyndigheten i saken.
+
+Skattekontorets innstilling har vært forelagt klager som har kommet med kommentarer i
+
+brev av 22. juni 2015. Merknadene er innarbeidet i innstillingen.
+
+Kopi av følgende dokumenter er vedlagt innstillingen:
+
+| Dok.nr. | Dokument | Dato |
+| --- | --- | --- |
+| 1 | Forespørsel om tilbakeføring av merverdiavgift | 27.11.14 |
+| 2 | Skattekontorets uttalelse | 23.02.15 |
+| 3 | Skattekontorets vedtak om etterberegning | 18.03.15 |
+| 4 | Klage | 29.04.15 |
+| 5 | Merknader til innstillingen | 22.06.15 |
+
+Klagen gjelder
+
+Klagen gjelder tilbakeføring av all fradragsført inngående merverdiavgift med kr 1 782 080, som følge av at virksomheten ikke kom i gang med ordinær avgiftspliktig omsetning i løpet av forhåndsregistreringsperioden.
+
+Sakens faktum
+
+Søknad om forhåndsregistrering i Merverdiavgiftsregisteret ble mottatt den 27. april 2012. Bakgrunnen for søknaden var at klager hadde et supplyskip under bygging som var planlagt levert fra verftet i slutten av desember 2013 eller i begynnelsen av 2014. Det er videre opplyst i søknaden at etter levering vil det foreligge omsetning i form av at skipet vil frakte gods.
+
+Skattekontoret fattet 14. mai 2012, i tråd med søknaden, vedtak om å innvilge forhåndsregistreringen for perioden 2. termin 2012 til 1. termin 2014.
+
+I brev av 4. mars 2014 ble det søkt om forlengelse av forhåndsregistreringsperioden. I nevnte brev ble følgende opplyst:
+
+"Opprinnelig estimert levering var desember 2013/januar 2014. Det har imidlertid oppstått betydelige forsinkelser under byggingen av skipet ved verftet. Selskapets byggelederteam estimerer nå levering til desember 2014. Videre vil tid løpe i forbindelse med mobilisering/seiling vedrørende eventuell slutning på kontrakt utenfor A. Vi ser derfor for oss at Selskapet tidligst vil generere inntekter før januar/februar 2015."
+
+Vedtak om forlengelse av forhåndsregistreringsperioden til og med 1. termin 2015 ble fattet 15. april 2014.
+
+I nevnte vedtak blir følgende opplyst:
+
+"Hvis dere ikke har hatt avgiftspliktig omsetning på mer enn kr 50 000 i løpet av den perioden dere er forhåndsregistrert for, kan dere søke om forlengelse av forhåndsregistreringen. En slik søknad må i så fall sendes hit før den innvilgede forhåndsregistreringsperioden utløper. Hvis dere ikke søker om forlengelse, eller søknaden ikke blir innvilget, vil dere bli slettet fra Merverdiavgiftsregisteret. Den inngående avgiften som dere har fått utbetalt, vil skattekontoret i så fall kreve tilbakebetalt."
+
+I skattekontorets brev av 15. april 2014 bekreftes forhåndsregistreringen, og det tas forbehold om at utbetalte avgiftsbeløp skal tilbakebetales etter bestemmelsene i merverdiavgiftsloven §18-1 første ledd bokstav c dersom omsetningen ikke overstiger beløpsgrensen på kr 50 000 i løpet av det tidsrom det er gitt forhåndsregistrering for.
+
+I brev av 27. november 2014 informerte klagers regnskapsfører om at virksomheten som følge av problemer med leverandør av skipet har besluttet å kansellere byggekontrakten med virkning fra 19. november 2014 og avvikle klager. Det ble fra klagers side også anmodet om en vurdering av om fradragsført inngående merverdiavgift kunne unnlates tilbakebetalt.
+
+Skattekontoret besvarte brevet i form av en veiledende uttalelse den 23. februar 2015. Her ble det antatt at det ikke forelå hjemmel til å unnlate å tilbakeføre den fradragsførte inngående merverdiavgiften.
+
+Klagers regnskapsfører tok telefonisk kontakt med skattekontoret den 25. februar 2015, hvor man dels hadde spørsmål om hvordan skattekontorets uttalelse skulle oppfattes, dels med spørsmål om hvordan avgiften kunne betales. Klager sendte deretter inn korrigerte omsetningsoppgaver, hvor all fradragsført inngående merverdiavgift ble tilbakeført for samtlige terminer.
+
+Klagers fullmektig tok telefonisk kontakt med skattekontoret den 3. mars 2015. Samme dag mottok skattekontoret en forespørsel fra klager, hvor det bl a ble bedt om en vurdering av om skattekontorets godkjennelse av klagers korrigerte omsetningsoppgaver ville være å anse som et enkeltvedtak.
+
+Klagers fullmektig tok på nytt telefonisk kontakt med skattekontoret den 16. mars 2015, og under den telefonsamtalen opplyste skattekontorets saksbehandler at skattekontoret ville fatte et vedtak i tråd med den konklusjon som det var gitt utrykk for i skattekontorets brev av 23. februar 2015.
+
+Med bakgrunn i den kontakt det hadde vært mellom skattekontoret og klager, fattet skattekontoret med hjemmel i mval § 18-1 første ledd bokstav c vedtak den 18. mars 2015 om etterberegning av inngående merverdiavgift fra 2. termin 2012 til 4. termin 2014.
+
+Virksomheten påklaget vedtaket i klage av 29. april 2015.
+
+Skattekontorets vedtak og begrunnelse
+
+Det siteres fra skattekontorets vedtak av 18. mars 2015:
+
+"Vi viser til tidligere korrespondanse vedrørende Klager AS (heretter selskapet), samt telefonsamtale med B den 16. mars 2015. Skattekontoret er av den oppfatning at det ikke ble fattet noe enkeltvedtak i saken ved vårt brev av 23. februar 2015. Vi er imidlertid nå av den oppfatning at det ikke skulle vært gitt en veiledende uttalelse, men snarere vært varslet om sletting og tilbakeføring. Sett hen til tidligere saksgang og nevnte telefonsamtale finner skattekontoret å kunne fatte vedtak i saken uten skriftlig varsling i henhold til forvaltningsloven (fvl.) § 16.
+
+#### Vedtak
+
+Skattekontoret har med hjemmel i merverdiavgiftsloven (mval.) § 14-3, annet ledd, slettet selskapet fra Merverdiavgiftsregisteret.
+
+Skattekontoret har videre, med hjemmel i mval. § 18-1, første ledd, bokstav c tilbakeført inngående merverdiavgift med kr 1 782 080. Se nærmere om begrunnelsen nedenfor. I tillegg er det ilagt fastsettelsesrenter med kr 106 061, jf. skattebetalingsloven (sktbtl.) § 11-2.
+
+Det fremgår av mval. § 14-3, annet ledd, at en registrert virksomhet skal slettes i Merverdiavgiftsregisteret dersom virksomheten er opphørt eller skattekontoret av andre grunner finner å kunne slette registreringen.
+
+Selskapet er forhåndsregistrert. Ved beslutningen om å kansellere byggekontrakten med verftet er det på det rene at selskapets planlagte virksomhet ikke vil komme i gang. Dette innebærer at vilkårene for å kunne være forhåndsregistrert faller bort, se mval. § 2-4, første ledd bokstav a, med forskrift. Skattekontoret finner av denne grunn å kunne slette selskapet, jf. mval. § 14-3, annet ledd.
+
+Begrunnelse for vedtaket om tilbakeføring av inngående merverdiavgift
+
+Faktum/anførsler
+
+Vi viser til dette punktet under begrunnelsen for sletting av selskapet fra Merverdiavgiftsregisteret.
+
+Skattekontorets vurdering
+
+Selskapet viser til ikke å ha gitt uriktige eller ufullstendige opplysninger til skattekontoret, og at virksomheten heller ikke er planlagt for dårlig. Det anføres derfor at selskapet har vært i god tro ved gjennomføring av forhåndsregistreringen. Under henvisning til at mval. § 18-1, første ledd, bokstav c, er en "kan"-bestemmelse, og under henvisning til forvaltningspraksis, er det anmodet om unnlatt tilbakeføring av fradragsført inngående merverdiavgift.
+
+Det fremgår av mval. § 18-1, første ledd, bokstav c, at skattekontoret kan fastsette beregningsgrunnlaget for utgående merverdiavgift og beløpet for inngående merverdiavgift ved skjønn, herunder rette feil i et avgiftsoppgjør, når noen er blitt registrert eller blitt stående registrert uten å fylle vilkårene for registrering, og staten på grunn av dette er påført et avgiftstap.
+
+Mval. § 18-1, første ledd, bokstav c, innebærer en videreføring av lov 19. juni 1969 nr 66 om merverdiavgift (mval. 1969) § 55, første ledd, nr. 3, se Ot.prp. nr. 76 (2008-2009), kapittel 18, merknader til § 18-1. Mval. 1969 § 55, første ledd, nr. 3, omtales av Høyesterett i avsnittene 61 til 63, og avsnitt 66, i dom av 14. januar 2015, inntatt i Rt. 2015 s. 24. I henhold til dette synes det å være på det rene at mval. § 18-1, første ledd, bokstav c, gir hjemmel til etterberegning av fradragsført inngående merverdiavgift i et tilfelle hvor det etter en tid viser seg at et forhåndsregistrert subjekt ikke vil komme i gang med virksomhet som planlagt, og av den grunn må slettes. Situasjonen innebærer at det forhåndsregistrerte subjektet ikke fyller vilkårene for registrering, og at staten av denne grunn er påført et avgiftstap. Videre fremgår det av omtalen i dommen og forarbeidene til bestemmelsen, at den må anses objektiv.
+
+Det foreligger ingen forhold som tilsier at selskapet ikke har opptrådt i god tro. Som følge av ovennevnte er imidlertid skattekontoret av den oppfatning at dette ikke kan være avgjørende i denne saken. Vilkårene for å tilbakeføre den fradragsførte inngående avgiften etter mval. § 18-1, første ledd, bokstav c, er oppfylt.
+
+Vi vil her også vise til at skattekontoret normalt vil være forpliktet til å gjennomføre en endring dersom det avdekkes en feil, til tross for at mval. § 18-1 er en "kan"-bestemmelse. I Høyesteretts dom av 20. april 1999, inntatt i Rt. 1999 s. 608, uttales det at uttrykket "kan" i første rekke omhandler avgiftsmyndighetenes adgang til å fastsette beløp på et bevismessig grunnlag som er usikkert, og hvor avgiftsbeløpet da kan fastsettes skjønnsmessig.
+
+Skattekontoret vil kort knytte følgende merknader til henvisningen til forvaltningspraksis:
+
+Det er inntatt en omtale av mval. § 18-1, første ledd, bokstav c, og praksis rundt denne i Merverdiavgiftshåndboken, 10. utg. 2014, s. 868 følgende. På s. 872 omtales et tilfelle hvor Klagenemnda for merverdiavgift omgjorde fylkesskattekontorets tilbakeføring, se KMVA-2000-4290. Det fremgår av fremstillingen at Skattedirektoratet anmodet Finansdepartementet om å omgjøre nemndas vedtak. Finansdepartementet gjennomførte ikke noen slik omgjøring. I departementets brev ble det uttalt at det ville være urimelig om klager skulle bære tapet når ansvaret for feilregistreringen fullt og helt hvilte på fylkesskattekontoret.
+
+I denne saken dreier det seg ikke om noen feilregistrering som følge av feil på skattekontorets hånd, men at forutsetningene for registreringen i form av ytelser fra en av selskapets kontraktspartnere ikke ble levert som planlagt. Dette er en risiko som naturlig synes å burde hvile på selskapet. Skattekontoret kan således ikke se at KMVA-2000-4290 kunne tilsi noen annen løsning i denne saken. Dette støttes for så vidt av behandlingen i Skattedirektoratets fellesskriv av 19. desember 2011.
+
+Skattekontoret er av den oppfatning at de nevnte rettskilder tilsier at det i mval. § 18-1, første ledd, bokstav c, foreligger hjemmel til tilbakeføring av fradragsført inngående avgift, og at skattekontoret ikke har rom for å unnlate å benytte denne hjemmelen. All fradragsført inngående merverdiavgift må således tilbakeføres.
+
+All tidligere fradragsført inngående merverdiavgift er faktisk tilbakeført av selskapet, og det er fastsatt renter på denne bakgrunn for samtlige terminer bortsett fra 4. termin 2013, ihht sktbtl. § 11-2. Som følge av ovennevnte foreligger en plikt til renteberegning også for 4. termin 2013. Rentene for denne terminen utgjør kr 3 408."
+
+Klagers anførsler
+
+Skattekontorets vedtak er ved brev av 29. april 2015 påklaget av Selskap 1 v/advokatfullmektig B på vegne av klager.
+
+I klagen anføres det at klager er kjent med at det klare utgangspunktet etter både lovforarbeider og forvaltningspraksis er at forhåndsregistrerte virksomheter må tilbakebetale fradragsført merverdiavgift dersom virksomheten likevel ikke kommer i gang som forutsatt.
+
+Klager er av den oppfatning at denne saken er av en så vidt spesiell karakter at skattekontorets kompetanse til å avstå fra tilbakeføring, bør benyttes. Klager viser i den forbindelse til at merverdiavgiftslovens § 18-1 første ledd bokstav c er en "kan"-bestemmelse. Fra klagers side blir det i den forbindelse vist til begrunnelsen for at virksomheten som klager var forhåndsregistrert for, i denne saken ikke vil komme i gang, er gjentatte kontraktsbrudd fra verftet som bygger skipet. Fra klager blir det opplyst at opprinnelig avtale med hensyn til leveringstidspunkt av skipet var 30. november 2013, og at avtalen ble kansellert 19. november 2014, etter gjentatte forsinkelser. Forsinkelsene fra verftet medførte store budsjettunderskudd/ tap. Det var allerede inngått en rekke avtaler hvor kostnader påløp fortløpende. Aktiverte utgifter direkte relatert til skipene beløp seg til NOK 8 178 000.
+
+Klager opplyser i klagen at de løpende forpliktelsene ble dekket gjennom innbetaling av kapital fra investorene. Til slutt anså man risikoen for høy og kostnadene for store til at det var forsvarlig å opprettholde aktiviteten, og styret besluttet derfor avvikling.
+
+Videre viser klager til Klagenemndas avgjørelse i KMVA 8471, som gikk i klagers disfavør, dog med dissens. I den saken hadde klager ikke lykkes å komme i gang med avgiftspliktig virksomhet etter en forlenget forhåndsregistreringsperiode. Skattekontoret kom til at vilkårene for å være forhåndsregistrert ikke lenger var oppfylt - dette fordi det ikke forelå klar sannsynlighetsovervekt for at klager ville komme i gang med sin planlagte vannkraftproduksjon. Det ble lagt avgjørende vekt på at de nødvendige tillatelser (godkjent planverk fra NVE, finansieringsavtale med bankforbindelse) ikke var på plass, til tross for den tid som har gått og det arbeid som var utført.
+
+Klager viser også til Klagenemndas avgjørelse i KMVA 8356, som også endte 3-2 i favør av skattekontoret. Her hadde klager ikke kommet i gang med virksomhet - dette på grunn av endrede markedsutsikter da tilsvarende løsninger viste seg å kunne tilbys fra andre aktører til en billigere penge enn det systemet klager hadde utviklet.
+
+Også i klagesak KMVA 8141 ble fradragsført merverdiavgift tilbakeført av skattekontoret, under henvisning til at den eneste "omsetningen" som hadde funnet sted i realiteten var et rent tilskudd. Etter klagers opplysninger var årsaken til at ikke ytterligere omsetning hadde funnet sted at selskapet hadde sendt en patentsøknad til Patentstyret, og at det ikke ville foreligge omsetning før søknaden er innvilget og produktet patentert.
+
+Til slutt nevner klager klagesak KMVA 8071, hvor en virksomhet som var forhåndsregistrert for produksjon av elektrisitet fra biobrensel, avfallsforbrenning og deponigass ikke kom i gang med omsetning av denne art innen fristen for forhåndsregistreringen. Selskapet ble slettet fra Merverdiavgiftsregisteret, og fradragsført mva ble tilbakeført, med tilslutning fra tre av Klagenemndas medlemmer. Årsaken til at virksomheten ikke kom i gang som forutsatt, var manglende finansiering.
+
+Fra klagers side blir det anført at i alle de ovennevnte sakene var årsaken til at den planlagte virksomheten "strandet" – og således til at skattekontoret vedtok sletting og tilbakeføring av merverdiavgift, problemer i leddet mellom klager og henholdsvis kjøper (ved at markedet ikke svarte til forventningene), myndighetene (i form av manglende tillatelser), eller bankforbindelse/investor. Dette i motsetning til i klager sin sak, hvor svikten oppsto i leddet mellom klager og leverandør av skipene.
+
+Etter klagers oppfatning skiller dermed hans sak seg fra forvaltningspraksis på en slik måte, at unnlatt tilbakeføring ikke vil stride mot kravet til likebehandling.
+
+På et mer overordnet plan påpekes følgende, og fra klagen gjengis:
+
+"
+
+- Selskapet har vanskelig for å se at staten her er påført et avgiftstap. Fradragsført merverdiavgift skriver seg fra kostnader til megler, advokat, disponent, regnskapsfører og revisor. Dersom virksomheten ikke hadde blitt forsøkt igangsatt, ville heller ikke disse anskaffelsene vært foretatt, og mva ville ikke vært beregnet i utgangspunktet. Det er altså ikke et alternativ at selskapet ville anskaffet tjenestene i egenskap av ikke-pliktig næringsvirksomhet eller forbruker.
+- Næringsdrivende som allerede driver avgiftspliktig virksomhet på tidspunktet for oppstart av en ny virksomhetsgren har løpende fradragsrett også for den nye virksomheten så fremt denne isolert sett oppfyller næringsvilkåret, jf Skattedirektoratets uttalelse av 15. september 201 l. Forutsatt at næringsvurderingen i ettertid fremstår som velfundert, har de allerede registrerte næringsdrivende ikke plikt til tilbakebetaling av den fradragsførte merverdiavgiften dersom den nye virksomheten likevel ikke kommer i gang som planlagt.
+
+Det kan ikke være meningen at rettstilstanden skal være annerledes for forhåndsregistrerte subjekter enn for allerede (ordinært) registrerte subjekter. Dersom skattekontoret velger å tilbakeføre merverdiavgift i nærværende sak, representerer dette en forskjellsbehandling og konkurransevridning som umulig kan være forutsatt."
+
+#### Skattekontorets vurdering av klagen
+
+Skattekontoret har vurdert klagers anførsler, men kan allikevel ikke se grunnlag for å omgjøre skattekontorets vedtak.
+
+Klager ble forhåndsregistrert i Merverdiavgiftsregisteret den 14. mai 2012 med oppgaveplikt fra 2. termin 2012 til og med 1. termin 2015, jf merverdiavgiftsloven (mval) § 2-4.
+
+Bestemmelsen i mval § 2-4 gir på visse vilkår adgang til forhåndsregistrering i Merverdiavgiftsregisteret. Vilkårene for forhåndsregistrering er nærmere utdypet i forskrift til merverdiavgiftsloven (FMVA) § 2-4-1.
+
+Forhåndsregistrering skal alltid gis for et gitt tidsrom, og det fremgår av retningslinjene for forhåndsregistrering at det er en forutsetning for forhåndsregistrering at vilkårene for ordinær registrering blir oppfylt innen den fastsatte forhåndsregistreringsperioden. Dersom vilkårene for registrering ikke blir oppfylt, skal virksomheten slettes fra Merverdiavgiftsregisteret, med mindre skattekontoret finner at forhåndsregistreringsperioden skal forlenges.
+
+Klager har blitt slettet som følge av at kontrakten om levering av et skip er kansellert. Klager har således ikke oppnådd en omsetning på kr 50 000 i løpet av forhåndsregistreringsperioden, som strekker seg fra 2. termin 2012 til 1. termin 2015, og minstegrensen for ordinær registrering etter mval § 2-1 er således ikke nådd. På bakgrunn av ovennevnte, så legger skattekontoret til grunn at forhåndsregistreringsperioden har utløpt uten at virksomheten kom i gang som forutsatt. Som ovenfor nevnt, skal virksomheten slettes i Merverdiavgiftsregisteret dersom vilkårene for forhåndsregistrering ikke blir oppfylt.
+
+I foreliggende sak er problemstillingen hvorvidt fradragsført inngående merverdiavgift skal tilbakeføres.
+
+Det følger av mval § 18-1 første ledd bokstav c at:
+
+"(1) Avgiftsmyndighetene kan fastsette beregningsgrunnlaget for utgående merverdiavgift og beløpet for inngående merverdiavgift ved skjønn, herunder rette feil i et avgiftsoppgjør, når
+
+c) noen har blitt registrert i Merverdiavgiftsregisteret eller blitt stående registrert uten å fylle vilkårene for registrering, og staten på grunn av dette er påført et avgiftstap".
+
+Da virksomheten har blitt stående registrert i Merverdiavgiftsregisteret og har krevd fradrag for anskaffelser knyttet til den registrerte virksomheten, innebærer dette at staten er påført et avgiftstap. Vilkårene for å kreve tidligere fradragsført inngående avgift tilbakebetalt er således oppfylt, jf mval § 18-1 første ledd bokstav c.
+
+Videre må det foretas en vurdering i forhold til hvorvidt tilbakebetaling skal kreves, jf ordlyden "kan" i mval § 18-1 første ledd.
+
+Ordlyden "kan" i mval § 18-1 første ledd synes å legge opp til at skattekontoret skal foreta en konkret vurdering i hvert enkelt tilfelle. Det følger imidlertid av forarbeidene til mval 1969 § 55 første ledd nr 3 (nåværende mval § 18-1 først ledd bokstav c), samt forvaltningspraksis at fradragsført inngående merverdiavgift skal tilbakebetales dersom forhåndsregistrerings-perioden utløper uten at virksomheten har kommet i gang som forutsatt. Det vises særlig til Finansdepartementets uttalelser i Ot prp nr 84 (1988-1989), hvor det blant annet fremgår følgende:
+
+"Men også i de tilfeller hvor det mer eller mindre uforskyldt er gitt ufullstendige opplysninger eller gitte forutsetninger for registrering senere ikke oppfylles av vedkommende, anser en det riktig at den uriktig registrerte ikke skal ha en økonomisk fordel som betales av staten. Det bør ikke være avgiftsmyndighetenes risiko at de opplysninger de bygger en registrering på, er korrekte eller de forutsetninger som ligger til grunn for dette, slår til."
+
+Videre følger det av Merverdiavgiftshåndboken 10. utgave (2014) side 116 at:
+
+"I utgangspunktet skal fradragsført inngående avgift tilbakebetales dersom forhåndsregistreringsperioden utløper uten at virksomheten er kommet i gang som forutsatt. Av forarbeidene til tidligere lov § 55 første ledd nr. 3 (Ot.prp.nr.84 (1988-1989) og Innst.O.nr.105 (1988-1989)) følger at etterberegning skal skje uavhengig av om en registrert har vært i mer eller mindre god tro. Departementet så det ikke som urimelig at den som søker seg registrert selv har risikoen for at vilkårene for registreringen oppfylles, og at tilbakebetaling bør skje på objektivt grunnlag i de tilfeller hvor staten er påført et avgiftstap. Forhåndsregistrerte virksomheter som ikke når opp i omsetningsgrensen ble av departementet angitt som et av hovedtilfellene som var omfattet av bestemmelsen".
+
+Klager har anført at en skjønnsmessig vurdering må legges til grunn i klagers favør hva gjelder spørsmålet om tilbakeføring av fradragsført inngående avgift, og viser i den forbindelse til bakgrunnen for at prosjektet ikke har kommet i gang som forutsatt.
+
+I forhåndsregistreringssaker er det imidlertid lagt til grunn i forarbeidene at en tilbakebetaling av fradragsført inngående merverdiavgift bør skje på objektivt grunnlag, da det er den forhåndsregistrerte virksomheten som er nærmest til å bære risikoen for at vilkårene for registrering ikke oppfylles innen et gitt tidsrom, jf. over. Dette gjelder uavhengig av hva bakgrunnen er for at forutsetningene ikke slår til som planlagt.
+
+Dette er bekreftet av Høyesterett i RT 2015 side 24 (Bremangerlandet Vindpark AS). Saken gjaldt spørsmål om forhåndsregistrering samt om tilbakeføring av inngående merverdiavgift. Dommen innebar at skattekontorets vedtak om tilbakeføring av inngående merverdiavgift på grunnlag av mval § 18-1 første ledd bokstav c enstemmig ble opprettholdt. I premiss 63 uttalte Høyesterett følgende, med henvisning til den siterte uttalelsen i Ot prp nr 84 (1988-1989) og til Ot prp nr 21 (2001-2002) side 11:
+
+"Ved tolkningen av § 18-1 første ledd bokstav c legger jeg etter dette til grunn at den næringsdrivende har risikoen for at forutsetningene for registreringen inntreffer."
+
+Avgiftsmyndighetene har forståelse for at en tilbakebetaling av tidligere fradragsført inngående merverdiavgift vil gi virksomheten en betydelig økonomisk utfordring, men samtidig er dette noe virksomheten har blitt gjort kjent med ved flere anledninger og således en kjent risiko virksomheten har tatt ved å bli forhåndsregistrert.
+
+Skattekontoret kan ikke se at det foreligger særlige forhold i foreliggende sak som skulle tilsi at tilbakebetaling ikke skulle skje.
+
+På bakgrunn av en konkret helhetsvurdering finner skattekontoret at vilkårene for tilbakeføring av tidligere fradragsført inngående merverdiavgift er oppfylt, jf mval § 18-1 første ledd bokstav c.
+
+Skattekontorets vedtak av 18. mars 2015 om tilbakeføring av fradragsført inngående merverdiavgift blir således å opprettholde.
+
+#### Klagers merknader til innstillingen
+
+Klagers merknader i brev av 22. juni kan sammenfattes slik:
+
+"Klager AS vil bemerke at Høyesterettsdommen skattekontoret anfører (Rt 2015 side 24, Bremangerlandet Vindpark AS) i likhet med klagenemndssakene det er vist til i klagen gjaldt et tilfelle hvor den planlagte virksomheten "strandet" på grunn av manglende konsesjon. Klager er fortsatt av den oppfatning at foreliggende sak er aven noe annen karakter. Her lå alt til rette for at virksomheten skulle komme i gang som planlagt, og det var utelukkende de gjentatte kontraktsbruddene fra verftet og de store økonomiske utfordringene disse førte med seg som gjorde at prosjektet til slutt måtte avvikles.
+
+Klager fastholder etter dette at nærværende sak er aven så vidt spesiell karakter at tidligere fradragsført merverdiavgift ikke bør tilbakeføres."
+
+Skattekontorets vurdering av klagers merknader til innstillingen
+
+Skattekontoret kan ikke se at det har kommet nye argumenter i saken som gir grunnlag for å endre vårt vedtak.
+
+Skattekontorets innstilling til vedtak
+
+Skattekontoret foreslår at det fattes slikt
+
+V e d t a k:
+
+Den påklagede etterberegningen av merverdiavgift stadfestes.
+
+### KLAGENEMNDAS AVGJØRELSE:
+
+Nemndas medlem Frøystad har avgitt slikt votum:
+
+"Uenig. Jeg er av den oppfatning at tilbakeføring av merverdiavgift vil være i strid med merverdiavgiftssystemets prinsipp om konkurransenøytralitet og Norges EØS-forpliktelser. Etter mitt syn er vedtaket også tilbakevirkende og problematisk i forhold til Grunnloven § 97. Jeg registrerer at det vises til Høyesteretts dom av 14. januar 2015 vedrørende forhåndsregistrering av Bremangerlandet vindpark.
+
+Etter mitt syn har Høyesteretts dom svakheter med hensyn til prinsipiell bruk, fordi den ikke berører de sentrale spørsmål rundt konkurransenøytralitet, EU/EØS-forpliktelser og tilbakevirkning. Ordene "konkurranse", "EU", "EØS", "tilbakevirkende/tilbakevirkning" er ikke nevnt i avgjørelsen - det er mulig slikt ikke var anført av partene.
+
+Ordinært mva-registrerte næringsdrivende som driver næringsutvikling av nye produkter vil ha full fradragsrett for sine utviklingskostnader selv om bare ett av ti utviklingsprosjekter lykkes.
+
+Hvis ikke nystartende næringsutviklere gis samme rett til fradrag for sine forsøk, virker merverdiavgiftssystemet ikke bare konkurransevridende, men direkte konkurransefiendtlig i disfavør av små og nystartede virksomheter med presset økonomi.
+
+En praksis som avskjærer fradragsrett for næringsutviklingskostnader for forhåndsregistrerte med seriøse prosjekter vil være hemmende for forutberegnelighet og økonomistyring utviklingsprosjekter. Seriøse næringsutviklere skal etter mitt syn ikke måtte budsjettere med tanke på et potensielt scenario om tilbakeføring av fradragsført mva dersom prosjektet ikke lykkes.
+
+Finansdepartementet har i brev av 25. mars 2013 til NHO skrevet:
+
+"Det skal allikevel bemerkes at det fremgår av merverdiavgiftsloven § 18-1 første ledd at avgiftsmyndighetene "kan" fastsette beregningsgrunnlaget ved skjønn. I dette ligger at avgiftsmyndighetene ikke har noen plikt til å etterberegne. I tilfeller hvor en forhåndsregistrert har tilkjennegitt alle kjente opplysninger og forutsetninger på en lojal måte på forhåndsregistreringstidspunktet, og det er senere inntrådte begivenheter som medfører at omsetningsgrensen ikke nås, vil det skjønnet som etter bestemmelsen skal utøves kunne lede til at det ikke skal foretas en etterberegning. Dette beror på en konkret vurdering fra avgiftsmyndighetene."
+
+Jeg kan ikke se at skattekontoret har foretatt en slik vurdering som omtales i Finansdepartementets brev til NHO. Tvert imot fremstår det som om skattekontoret har en klar oppfatning av at tilbakeføring skal skje i alle tilfeller.
+
+Skatteetaten argumenterer i denne type saker med at staten lider avgiftstap. Jeg er ikke enig i terminologien "avgiftstap", når formålet med klager sine investeringer er seriøs næringsutvikling. Alternativet ville vært at klager ikke hadde forsøkt å starte næringsdrift. Da ville ikke klager ha foretatt anskaffelser og staten ville følgelig ikke hatt mva-inntekter av anskaffelsene. Jeg kan derfor ikke se at det foreligger noe reelt avgiftstap for staten, jfr mval § 18-1 (1) bokstav c.
+
+Konkurransenøytralitet har også en side mot de fire friheter EØS avtalen. EØS-avtalen omfatter ikke det norske merverdiavgiftsregelverket direkte. Norsk merverdiavgiftsregelverk vil imidlertid kunne komme i stride med EØS-avtalen dersom regelverket hindrer eller gjør etablering ugunstig. Dette ligger helt i kjernen av prinsippet om konkurransenøytralitet.
+
+Jeg mener de norske reglene rundt tilbakeføring av merverdiavgift i forbindelse med forhåndsregistrering gjør Norge til et svært ugunstig land for næringsutvikling og derved i strid med etableringsretten/konkurransenøytralitetsprinsippet.
+
+I EU-retten har spørsmålet om fradragsrett i denne type situasjoner vært tydelig avklart i over 20 år, etter EU-domstolens avgjørelse C-110/94, Inzo mot Belgia (Eur-Lex no 61994J0110). Jeg siterer fra den danskspråklige versjonen av avgjørelsen, premiss 25:
+
+"Det præjudicielle spørgsmål skal derfor besvares med, at direktivets artikel 4 skal fortolkes således, at
+
+— når afgiftsmyndighederne har anset et selskab, som har erklæret at ville påbegynde økonomisk virksomhed forbundet med afgiftspligtige transaktioner, for afgiftspligtigt, er bestilling af en rentabilitetsundersøgelse med henblik på den påtænkte virksomhed en økonomisk virksomhed i artiklens betydning, selv om undersøgelsen har til formål at klarlægge, i hvilket omfang den påtænkte virksomhed er rentabel,
+
+og at
+
+— myndighederne ikke — bortset fra tilfælde af svig eller misbrug — med tilbagevirkende kraft kan nægte at anse selskabet for afgiftspligtigt, når det henset tilundersøgelsens resultater besluttes ikke at gå videre til den operationelle fase og at lade selskabet træde i likvidation, således at den påtænkte økonomiske virksomhed ikke var forbundet med afgiftspligtige transaktioner."
+
+Etter mitt syn har EU den eneste korrekte tilnærming til problemstillingen ved å opprettholde fradragsrett bortsett fra i svik- og misbrukstilfeller. Dette skyldes konkurransehensynet som er et grunnprinsipp i alle merverdiavgiftssystemer og – i alle fall på papiret – skal være styrende også i norsk internrett."
+
+Nemndas medlem Hines Grape har avgitt slikt votum:
+
+"Uenig. Jeg mener det er mest nærliggende at staten bærer tapet som følge av fradragsført IMVA når forsøk på oppstart av seriøs næringsvirksomhet strander, ref "kan" i mval. § 18-1 første ledd. Avgiftsmyndighetene har ikke plikt til å kreve tilbakeført fradragsført merverdiavgift i disse tilfellene. Praksis ved de ulike skattekontorene synes imidlertid å være tilbakeføring på objektivt grunnlag.
+
+Det gir også bedre sammenheng i regelverket og samme avgiftsbelastning (nøytralitet) uavhengig av om ny virksomhet startes som ny eller som del av en igangværende virksomhet, at det som hovedregel ikke kreves tilbakeføring av fradragsført merverdiavgift av relevante kostnader ved oppstart av seriøs næringsdrift. Ref. også brev fra Fin til NHO av 25. mars 2013, der det påpekes at det skal gjøres en konkret vurdering i hvert enkelt tilfelle, og at det følgelig ikke er et "krav" om tilbakeføring på objektivt grunnlag i disse sakene.
+
+Slutning: Etterberegningen oppheves."
+
+Nemndas medlemmer Rivedal, Ongre Stenhamar sluttet seg til skattekontorets innstilling.
+
+Det ble etter dette fattet slikt
+
+V e d t a k:
+
+Som innstilt."
+
+(Sitat av klagenemdas vedtak slutt)
+
+### Klagers anmodning om gjenopptagelse
+
+I brev av 6.10.2015 fra klagers fullmektig, Selskap 1 AS, anmodes det om gjenopptakelse og omgjøring av klagenemdas vedtak.
+
+Det anføres at uttalelser fra Finansdepartementet som klager i etterkant har fått innsyn i, tilsier at skattekontorets saksbehandling har vært mangelfull.
+
+Klager viser til at klagenemndas vedtak er basert på feil lovforståelse og at det videre ikke kan utelukkes at en tilbakeføring av inngående merverdiavgift vil representere en usaklig forskjellsbehandling i forhold til saken som er omtalt i uttalelsene fra Finansdepartementet.
+
+Klager siterer fra Finansdepartementets brev 25.3.2013 til NHO om hvordan merverdiavgiftsloven (mval.) § 18-1 første ledd skal forstås:
+
+"Det skal allikevel bemerkes at det fremgår av merverdiavgiftsloven § 18-1 første ledd at avgiftsmyndighetene "kan" fastsette beregningsgrunnlaget ved skjønn. I dette ligger det at avgiftsmyndighetene ikke har noen plikt til å etterberegne. I tilfeller hvor en forhåndsregistrert har tilkjennegitt alle kjente opplysninger og forutsetninger på en lojal måte på forhåndsregistreringstidspunktet, og det senere inntrådte begivenheter som medfører at omsetningsgrensen ikke nås, vil det skjønnet som etter bestemmelsen skal utøves kunne lede til at det ikke skal foretas en etterberegning. Dette beror på en konkret vurdering fra avgiftsmyndighetene."
+
+Klager viser videre til at departementet i et senere brev av 4.6.2013 til Skattedirektoratet, fastholdt denne lovforståelsen. Videre at departementet understreker at man ikke ønsker å legge konkrete føringer på den konkrete vurderingen skattekontoret skal foreta, men trekker blant annet fram at unnlatt tilbakeføring kan være aktuelt når det er "force-majeure lignende hendelser" som har medført at registreringsvilkårene ikke oppfylles, og den avgiftspliktige ellers har opptrådt lojalt og overholdt opplysningsplikten.
+
+Det anføres videre at skattekontoret både i vedtaket og innstillingen til klagenemnda har lagt til grunn at det ikke er anledning til å unnlate tilbakeføring av merverdiavgift i tilfeller hvor et forhåndsregistrert subjekt ikke kommer i gang med virksomheten som planlagt. Klager siterer her fra klagenemnds vedtak side 7 (klagers understrekninger):
+
+"Skattekontoret er av den oppfatning at de nevnte rettskilder tilsier at det i mval. § 18-1, første ledd, bokstav c, foreligger hjemmel til tilbakeføring av fradragsført inngående avgift, og at skattekontoret ikke har rom for å unnlate å benytte denne hjemmelen. All fradragsført inngående merverdiavgift må således tilbakeføres."
+
+Videre siterer klager fra klagenemndas vedtak side 10 og 11 (klagers understrekninger):
+
+"Ordlyden "kan" i mval § 18-1 første ledd synes å legge opp til at skattekontoret skal foreta en konkret vurdering i hvert enkelt tilfelle. Det følger imidlertid av forarbeidene til mval 1969 § 55 første ledd nr 3 (nåværende § 18-1 første ledd bokstav c), samt forvaltningspraksis at fradragsført inngående merverdiavgift skal tilbakebetales dersom forhåndsregistreringsperioden utløper uten at virksomheten har kommet i gang som forutsatt.
+
+(...)
+
+I forhåndsregistreringssaker er det imidlertid lagt til grunn i forarbeidene at en tilbakebetaling av fradragsført inngående merverdiavgift bør skje på objektivt grunnlag, da det er den forhåndsregistrerte virksomheten som er nærmest til å bære risikoen for at vilkårene for registrering ikke oppfylles innen et gitt tidsrom (...)"
+
+Klager anfører at skattekontorets og klagenemndas vedtak er basert på feil lovforståelse, idet vedtakene er fattet i den forståelse at det ikke er anledning til å unnlate tilbakeføring. Det anføres at dette stemmer dårlig overens med Finansdepartementets uttalelser i brev av 25.3.2013 til NHO og 4.6.2013 til Skattedirektoratet, hvor det tvert imot legges til grunn at avgiftsmyndighetene skal gjøre en konkret vurdering i hvert enkelt tilfelle.
+
+For det tilfellet at man på tross av overnevnte sitater skulle være av den oppfatning at det er gjort en konkret vurdering, bes det vurdert om tilbakeføringen av inngående avgift i denne saken vil representere en usaklig forskjellsbehandling i forhold til andre saker. Klager anfører at Finansdepartementets uttalelser må anses som en oppfordring til underordnet forvaltning om å utvise et konkret skjønn i saker som den foreliggende. Klager skriver at det anses som usannsynlig dersom underordnet forvaltning ikke har akseptert unnlatt tilbakeføring i tidligere saker, eksempelvis saken vedrørende legemiddelbransjen, som det refereres til i Finansdepartementets uttalelse. Klager ber klagenemnda om å vurdere saken på nytt. I vurderingen ber klager at det legges til grunn at det foreligger adgang til unnlatt tilbakeføring. Videre bes det tatt i betraktning det som angis som svært spesielle forhold i saken, hvor bakgrunnen for at virksomheten ikke kom i gang som planlagt var gjentatt kontraktsbrudd fra verftet som bygget skipet.
+
+I e-post av 12.1.2016 kommer klager med følgende merknader til skattekontorets utkast til innstilling:
+
+"Klager fastholder at skattekontoret ikke har gjort noen reell vurdering av hvorvidt etterberegning skal unnlates i denne saken. Det vises til skattekontorets premisser for vedtaket, hvor det er lagt til grunn at "(…) skattekontoret ikke har rom for å unnlate å benytte denne [tilbakeførings]hjemmelen" og at "[d]et følger imidlertid av forarbeidene (…) samt forvaltningspraksis at fradragsført inngående merverdiavgift skal tilbakebetales dersom forhåndsregistreringsperioden utløper uten at virksomheten har kommet i gang som forutsatt…".
+
+Bakgrunnen for klagen er således ikke at skattekontoret etter et fritt skjønn har funnet å skulle benytte etterberegningsadgangen, men at skattekontoret i vurderingen av hvorvidt etterberegning skal foretas har lagt til grunn at det ikke er anledning til å avstå fra dette. Dette innebærer at skattekontorets vedtak er basert på feil lovforståelse, i strid med Finansdepartementets uttalelser om at det skal gjøres en konkret vurdering i hvert enkelt tilfelle. Når det gjelder hensynet til likebehandling er klager, som nevnt i brev av 22. juni 2015, av den oppfatning at Bremangerlandet-saken ikke er direkte sammenlignbar med nærværende sak. I Bremangerlandet-saken var begrunnelsen for tilbakebetaling at virksomheten ikke hadde oppnådd den konsesjon som var nødvendig for å kunne drive vindparken. Allerede på planleggingsstadiet var det klart for selskapet at virksomheten ikke kunne igangsettes uten slik konsesjon. Det foreligger dessuten offentlig tilgjengelig informasjon som viser sannsynligheten for å oppnå konsesjon, se eksempelvis Norges vassdrags- og energidirektorats hjemmesider [https://www.nve.no/konsesjonssaker-og-hoeringer/#](https://www.nve.no/konsesjonssaker-og-hoeringer/). Her fremgår at av 232 ferdig behandlede saker vedrørende vindkraft, ble det kun gitt konsesjon i 100 av sakene. Det var således påregnelig for Bremangerlandet AS at virksomheten muligens ikke ville kunne igangsettes som planlagt.
+
+For Klager AS var det på den annen side helt uforutsette hendelser som medførte at prosjektet til slutt måtte skrinlegges. Det fremstår langt mindre rimelig at den næringsdrivende selv må bære risikoen for slike uforutsette hendelser enn for at nødvendig konsesjon ikke innvilges.
+
+At dette er en relevant distinksjon understrekes for øvrig av at Finansdepartementet i brevet av 4. juni 2013 til Skattedirektoratet i Legemiddel-saken direkte anførte "force majeure-lignende tilfeller", som eksempler på tilfeller hvor det kan være grunnlag for unnlatt tilbakeføring.
+
+Siden Bremangerlandet-saken ikke er direkte sammenlignbar med nærværende sak, bes Klagenemnda ta stilling til om etterberegning vil representere en usaklig forskjellsbehandling i forhold til andre sammenlignbare saker."
+
+### Skattekontorets vurdering av hvorvidt saken bør gjenopptas
+
+Verken merverdiavgiftsloven eller forvaltningsloven inneholder bestemmelser om adgang til å kreve ny behandling av en klagenemndsavgjørelse. Det finnes således ikke noe gjennopptakelsesinstitutt på merverdiavgiftsrettens område. Det følger imidlertid av forvaltningsloven § 35, som gir et forvaltningsorgan adgang til på nærmere vilkår etter eget tiltak å endre et tidligere vedtak, at organet også vil være berettiget til å foreta slik endring etter henstilling fra den avgiftspliktige.
+
+Spørsmålet i foreliggende sak blir da om det foreligger grunnlag for å ta opp klagenemndas vedtak til ny vurdering etter forvaltningsloven § 35 bokstav a eller c:
+
+"Et forvaltningsorgan kan omgjøre sitt eget vedtak uten at det er påklaget dersom
+
+a) endringen ikke er til skade for noen vedtaket retter seg mot eller direkte tilgodeser eller [...]
+
+c) vedtaket må anses ugyldig."
+
+Skattekontoret kan ikke se at de nevnte brev fra Finansdepartementet fra 2013 på noen måte skal tilsi at klagenemndas vedtak (herunder det underliggende skattekontorvedtaket om tilbakeføring) bygger på feil rettsanvendelse med den konsekvens at det anses som ugyldig, eller at saken av andre grunner bør gjenopptas.
+
+Skattekontoret vil vise til at Finansdepartementets to brev er del av en lengre korrespondanse med Skattedirektoratet og NHO, initiert av NHO på vegne av legemiddelbransjen. I brev av 19.10.2012, dokument 1 til innstillingen, foretar Skattedirektoratet en grundig gjennomgang av regelverket omkring flere av de spørsmål NHO har reist i forhold til forhåndsregistrering, og som departementet har bedt om en særlig redegjørelse for, hvor tilbakeføring er et av flere spørsmål (se innledning og punkt 1 i Skattedirektoratets brev). Her vises det blant annet til de klare uttalelsene i forarbeidene om tilbakeføringsadgang uavhengig av om den forhåndsregistrerte har vært i god tro (objektiv regel).
+
+Etter dette sender Finansdepartementet sitt brev av 25.3.2013 til NHO. Herfra siteres det:
+
+"På bakgrunn av møtet i Finansdepartementet 12. desember 2012 henvendte som kjent Departementet seg til Skattedirektoratet med visse presiserende spørsmål, se vedlagte brev 27.september 2012.
+
+Direktoratet har i vedlagte brev 19.oktober 2012 gitt syn på saken.
+
+Finansdepartementet slutter seg til direktoratets rettslige vurdering. Det skal allikevel bemerkes at det framgår av merverdiavgiftsloven§ 18-1 første ledd at avgiftsmyndighetene "kan" fastsette beregningsgrunnlaget ved skjønn. I dette ligger det at avgiftsmyndighetene ikke har noen plikt til å etterberegne. I tilfeller hvor en forhåndsregistrert har tilkjennegitt alle kjente opplysninger og forutsetninger på en lojal måte på forhåndsregistreringstidspunktet, og det er senere inntrådte begivenheter som medfører at omsetningsgrensen ikke nås, vil det skjønnet som etter bestemmelsen skal utøves kunne lede til at det ikke skal foretas en etterberegning. Dette beror på en konkret vurdering fra avgiftsmyndighetene."
+
+Etter denne uttalelsen tar Skattedirektoratet særskilt opp om departementet har ment å flytte noe av risikoen for manglende oppfyllelse av vilkårene ved forhåndsregistrering fra den næringsdrivende til staten. Vi viser her til dokument 3 til innstillingen, e-post av 5.4.2013 fra Skattedirektoratet til Finansdepartementet:
+
+"Vi viser til departementets brev 25. mars 2013 til NHO vedørende " Merverdiavgiftsloven § 2-4 – Forhåndsregistrering – Legemiddelbransjen". Før vi orienterer skattekontorene om brevet, har vi et par forhold vi ønsker departementets avklaring på:
+
+1) Vi antar at departementets bemerkning knyttet til mval. § 18-1 første ledd, til tross for at det i overskriften vises til "Legemiddelbransjen", gjelder generelt for alle bransjer og virksomheter.
+
+2) Så er vårt spørsmål om departementet med denne merknaden også har ønsket å flytte noe av risikoen for at den forhåndsregistrerte etter hvert oppfyller vilkårene for ordinær registrering fra den forhåndsregistrerte til staten (avgiftsmyndighetene). Departementets uttalelse kan etter vårt syn fort bli oppfattet på denne måten.
+
+Vi viser i den sammenheng til følgende uttalelse i Ot.prp. nr. 84 (1988-89) s. 3 hvor risikoen for at den forhåndsregistrerte senere oppfyller vilkårene for registrering ligger hos den forhåndsregistrerte:
+
+"I de tilfeller hvor registreringen har skjedd som følge av bevisst feilinformasjon, anser departementet det klart at en avgiftsberikelse må tilbakebetales. Men også i de tilfeller hvor det mer eller mindre uforskyldt er gitt ufullstendige opplysninger eller gitte forutsetninger for registrering senere ikke oppfylles av vedkommende [vår understrekning], anser en det riktig at den uriktig registrerte ikke skal ha en fordel som betales av staten. Det bør ikke være avgiftsmyndighetenes risiko at de opplysninger de bygger en registrering på, er korrekte eller de forutsetninger som ligger til grunn for denne, slår til [vår understrekning]."
+
+Videre viser vi til Ot.prp. nr. 84 (1988-89) punkt 2.1.2:
+
+"En anser det viktig at en får en bestemmelse som gir hjemmel til å få tilbakebetalt uberettiget utbetalt avgift uavhengig av om vedkommende har vært i mer eller mindre god tro. Det kan heller ikke anses urimelig at den som søker seg registrert selv har risikoen for at vilkårene for registreringen oppfylles. Tilbakebetaling bør derfor kunne kreves på objektivt grunnlag i de tilfeller hvor staten er påført et avgiftstap."
+
+Fint om vi kan få tilbakemelding om dette før vi går ut med informasjon."
+
+Finansdepartementet svarer Skattedirektoratet i brev av 4.6.2013. Herfra siteres det:
+
+"På det første spørsmålet kan vi bekrefte at standpunktet i vårt brev 25. mars 2013 generelt gjelder forhåndsregistrerte som slettes uten å ha oppfylt registreringsvilkårene. Standpunktet gjelder ikke kun ved anvendelse av mval. § 18 -1 første ledd bokstav c overfor legemiddelindustrien.
+
+På det andre spørsmålet vil vi vise til vårt brev 25. mars 2013. Her slutter departementet seg til direktoratets vurdering om at det foreligger en rett for avgiftsmyndighetene til å etterberegne på objektivt grunnlag i tilfellene som nevnt i mval. § 18-1 første ledd bokstav c, samtidig som det presiseres at det ikke foreligger en plikt, jf. "kan". Som det framgår av brevet beror dette på en konkret vurdering fra avgiftsmyndighetene. Departementet ønsker ikke å legge konkrete føringer på denne vurderingen, ettersom vi antar at dette best skjer ved den praktiske skjønnsutøvelsen. Departementet nøyer seg med å bemerke at verdier, herunder eventuelle kapitalvarer, som er i behold ved slettingen, isolert sett taler for at kravet om tilbakeføring av fradragene følges opp. På den annen side synes det lite hensiktsmessig om skattekontorene skal prioritere å bruke sine ressurser på tilfeller hvor det ikke er utsikt til dekning av avgiftskravene, og hvor det er force-majeure lignende hendelser som har medført at registreringsvilkårene ikke oppfylles. Forutsetningen er her at avgiftsreglene også ellers er fulgt lojalt, ikke minst opplysningsplikten."
+
+Skattekontoret viser til at Finansdepartementet slutter seg til Skattedirektoratets rettslige vurdering, og at avgiftsmyndighetene har en rett til å etterberegne på objektivt grunnlag. Samtidig presiseres det at avgiftsmyndighetene, generelt etter mval. § 18-1 (1), har et fritt skjønn i forhold til om man vil etterberegne (ikke plikt). Departementet velger å ikke gi konkrete føringer på dette skjønnet, men viser blant annet til at det kan synes lite hensiktsmessig om skattekontoret skal prioritere å bruke sine ressurser på tilfeller hvor det ikke er dekningsutsikt for kravene, sammenholdt med flere andre forhold.
+
+Skattekontoret mener at også Finansdepartementets uttalelser med dette bekrefter at skattekontoret, når man først har valgt å benytte etterberegningsadgangen etter § 18-1 (1) bokstav c, i saker som den foreliggende, med svikt i forutsetningene for forhåndsregistreringen, også skal etterberegne på objektivt grunnlag.
+
+Skattekontoret kan etter dette ikke se at det foreligger noen motstrid mellom Finansdepartementets uttalelser og klagenemndas vedtak. Det er selve etterberegningen og grunnlaget for denne som skal begrunnes, ikke hvorfor man etter et fritt skjønn finner å benytte etterberegningsadgangen.
+
+I forhold til klagers anførsel om forskjellsbehandling, vil vi vise til at det tvert i mot vil innebære en klar forskjellsbehandling i forhold til andre saker, som vurdert i klagenemndsvedtaket, dersom foreliggende sak ikke skal etterberegnes på objektivt grunnlag. Som det også er redegjort for i klagenemndas vedtak, vil det være i strid både med de klare uttalelsene i forarbeidene, sanksjonert av lovgiver, og Høyesteretts dom i Rt. 2015 side 24, dersom man i saker som den foreliggende, ikke skal opprettholde en etterberegning på objektivt grunnlag. Etter skattekontorets vurdering må en eventuell endring av det objektive etterberegningsgrunnlaget på dette området skje ved lovendring.
+
+I forhold til merknader til utkast til innstiling kan skattekontoret ikke se at det fremkommer noe vesentlig nytt som ikke allerede er vurdert. Vi opprettholder at et fritt skjønn i forhold til om skattekontoret vil benytte seg av en etterberegningsadgang ikke må begrunnes, i motsetning til selve etterberegningen. Uten at det kan sees å ha noen betydning for saken, kan vi for øvrig ikke se at svikt hos ens underleverandører, som medfølger at kjøper velger å kansellere sine byggekontrakter, verken kan sees på som "force-majeure lignende hendelser" eller på annen måte kunne sette foreliggende sak i noen særstilling i forhold til den omfattende praksis som foreligger for etterberegning på objektivt grunnlag.
+
+#### Skattekontorets innstilling til vedtak
+
+Skattekontoret foreslår etter dette at det treffes slikt
+
+#### V e d t a k:
+
+Anmodning om ny vurdering av klagenemndssak 8625 avvises.
+
+### KLAGENEMNDAS AVGJØRELSE:
+
+Nemndas medlem Frøystad har avgitt slikt votum:
+
+"Uenig. Etter mitt syn må det fattes et vedtak med korrekt vurderingstema. Man kommer etter mitt syn ikke utenom at det korrekte vurderingstemaet ikke er behandlet i skattekontorets vedtak. Jeg kan ikke se at vedtaket er ratihabert eller på annen måte reparert ved at flertallet av klagenemndas medlemmer erklærer seg enig i de mangelfulle vurderingene uten at det gis en ny begrunnelse."
+
+Nemndas medlem Hines Grape har avgitt slikt votum:
+
+"Uenig
+
+Begrunnelse: Saken gjelder spørsmålet om tidligere fradragsført inngående merverdiavgift skal tilbakeføres på objektivt grunnlag når en virksomhet, som har vært forhåndsregistrert i Merverdiavgiftsregisteret, senere blir slettet fordi virksomheten likevel ikke kommer i gang som forutsatt. Skattekontoret anfører at det i slike tilfeller skal foretas tilbakeføring på objektivt grunnlag, og at skattekontoret ikke kan unnlate tilbakeføring etter en konkret vurdering, der årsaken til at virksomheten ikke kommer i gang kan ha betydning. Jeg deler ikke denne oppfatningen og viser i den forbindelse til brev fra Finansdepartementet til NHO av 15. mars 2013 og brev til Skattedirektoratet av 4. juni 2013 der det vises til at merverdiavgiftsloven § 18-1 første ledd gir hjemmel for at avgiftsmyndighetene "kan" fastsette beregningsgrunnlaget ved skjønn. Det fremgår videre: "I dette ligger at avgiftsmyndighetene ikke har noen plikt til å etterberegne."
+
+Ettersom det i vedtaket ikke er gjort en konkret vurdering av om tilbakeføring "kan" unnlates, mener jeg saken bør undergis ny behandling som følge av feil lovanvendelse."
+
+Nemndas medlemmer Rivedal, Ongre og Stenhamar sluttet seg til skattekontorets innstilling.
+
+Det ble etter dette fattet slikt
+
+#### V e d t a k:
+
+Som innstilt.
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/type/vedtak/klagenemnda-for-merverdiavgift/kmva-8625a.-tilbakeforing-av-inngaende-avgift.-mval.--18-1-c/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-08** Første gang hentet

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 758b5cf69c6072e34ddd36a3920e83754ae2be30272eb12873d2cfd8a365db34 -->
+<!-- innholds-hash: b7768f000a1de422683991d2128d5ed99c2104ecccf33bfb899737a7d7e0df2b -->
 
 # Varmehjelpemidler - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/varmehjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-06T14:28:35Z
+- **Sist oppdatert i arkivet:** 2026-11-08T10:16:58Z
 
 ## Innhold
 
@@ -151,7 +151,7 @@ Annen informasjon om hjelpemidler og tilrettelegging spesielt beregnet på fagpe
 
 #### Etter at du har søkt
 
-Du får skriftlig vedtak når Nav hjelpemiddelsentral har behandlet søknaden din.
+Du kan få innvilget hjelpemiddelet skriftlig eller muntlig. Avslag gis alltid skriftlig.
 
 #### Saksbehandlingstid for søknader
 
@@ -273,7 +273,7 @@ Dersom du ikke lenger bruker hjelpemiddelet ditt skal du levere det tilbake. Ta 
 - [Rundskriv til Folketrygdlovens forskrift om stønad til hjelpemidler (lovdata.no)](https://lovdata.no/nav/rundskriv/r10-07acd)
 - [Regler for særskilte hjelpemiddelgrupper (lovdata.no)](https://lovdata.no/nav/rundskriv/v7-10-07acd)
 
-Oppdatert 30.06.2026
+Oppdatert 19.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -311,3 +311,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)
