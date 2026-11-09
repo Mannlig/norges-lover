@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1e546d0c66f1cd797a7d2e8ae61de976755f1aab63f556f65ebd10a1b0851c19 -->
+<!-- innholds-hash: c78605b496fa5a9738bd6a6cf507cf88d1abdf0cad4ec4bc34d6dec524c2d7f3 -->
 
 # Sykepenger etter arbeidsgiverperioden - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/sykepenger-etter-arbeidsgiverperioden
-- **Sist oppdatert i arkivet:** 2026-10-08T04:36:55Z
+- **Sist oppdatert i arkivet:** 2026-11-09T21:48:21Z
 
 ## Innhold
 
@@ -89,7 +89,7 @@ Noen saker kan ha lengre saksbehandlingstid, ofte fordi saksbehandler må innhen
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Søknad om refusjon for arbeidsgiverperioden | 4 måneder |
-| Refusjon arbeidsgiver fra dag 17 | 15 uker |
+| Refusjon arbeidsgiver fra dag 17 | 14 uker |
 | Søknad om unntak i arbeidsgiverperioden | 10 uker |
 | Bestridelse | 4 måneder |
 
@@ -100,7 +100,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 #### Oversikt over refusjoner
@@ -169,3 +169,4 @@ Oppdatert 10.03.2026
 
 - **2026-06-05** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

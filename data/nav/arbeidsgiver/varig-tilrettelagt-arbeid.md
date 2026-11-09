@@ -1,11 +1,11 @@
-<!-- innholds-hash: f304012fb3d1519f031ddfa6dbb8caabb47ac44826f815b8b89bf90f6b0a6f3d -->
+<!-- innholds-hash: 23d10ae2610b97c2700baa1542b2b4871e9d2751c85ae26c2aa68bc054096080 -->
 
 # Varig tilrettelagt arbeid i ordinær virksomhet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/varig-tilrettelagt-arbeid
-- **Sist oppdatert i arkivet:** 2026-10-17T13:50:34Z
+- **Sist oppdatert i arkivet:** 2026-11-09T21:32:53Z
 
 ## Innhold
 
@@ -14,6 +14,10 @@ Tiltak og Refusjon — For arbeidsgivere
 ## Varig tilrettelagt arbeid i ordinær virksomhet
 
 Hvis en person får uføretrygd, men har mulighet til å gjøre tilpassede oppgaver, kan det være aktuelt med varig tilrettelagt arbeid i ordinær virksomhet.
+
+Dette tiltaket er erstattet av [Tilrettelagt arbeid i ordinær virksomhet (TA-O)](https://www.nav.no/arbeidsgiver/tilrettelagt-arbeid) fra og med 1. september 2026.
+
+Det er ikke lenger mulig å inngå nye avtaler om varig tilrettelagt arbeid i ordinær virksomhet. Deltakere som allerede er i et slikt tiltak, vil ikke bli berørt av endringene.
 
 ### Hvem er det aktuelt for?
 
@@ -46,19 +50,6 @@ En avtale om varig tilrettelagt arbeid i ordinær virksomhet har to steg:
 1. Arbeidsgiveren eller Nav-veilederen oppretter avtalen, som blir inngått når alle parter har godkjent den.
 
 1. Arbeidsgiveren får utbetalt refusjon automatisk.
-
-#### Inngå avtale
-
-Deltakeren må være tilknyttet et Nav-kontor.
-
-- Deltakeren, arbeidsgiveren og Nav må godkjenne avtalen før tiltaket begynner.
-- Nav godkjenner avtalen til slutt.
-
-Avtalen må være registrert på rett virksomhetsnummer og personnummer til deltakeren for at alle parter skal kunne godkjenne avtalen.
-
-Hvis Nav oppretter avtalen, deles den automatisk med deltakeren og arbeidsgiveren via en lenke. Du kan også logge deg på [Min side – arbeidsgiver](https://arbeidsgiver.nav.no/min-side-arbeidsgiver/) for å se avtalen. Hvis du som arbeidsgiver oppretter avtalen, vil Nav-kontoret som kandidaten tilhører få beskjed.
-
-[Inngå avtale](https://arbeidsgiver.nav.no/tiltaksgjennomforing)
 
 Tiltaksdeltakeren regnes som ansatt slik det er definert i arbeidsmiljøloven. Arbeidsgiveren må lage en arbeidskontrakt for ansettelsesforholdet.
 
@@ -114,7 +105,7 @@ Nav skal alltid ha beskjed på forhånd hvis det er aktuelt å endre eller avslu
 - [Forskrift om arbeidsmarkedstiltak (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2015-12-11-1598#KAPITTEL_14)
 - [Rundskriv om varig tilrettelagt arbeid (lovdata.no)](https://lovdata.no/nav/rundskriv/r76-12-01#KAPITTEL_15)
 
-Oppdatert 30.04.2026
+Oppdatert 28.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -122,7 +113,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -148,3 +139,4 @@ Alltid åpen
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

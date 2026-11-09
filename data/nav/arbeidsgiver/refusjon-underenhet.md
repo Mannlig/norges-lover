@@ -1,11 +1,11 @@
-<!-- innholds-hash: 93347de8ca415e9d65ac58ad68224b63cf523b87d8952208b8cc2a4cc8cbb52b -->
+<!-- innholds-hash: 35c63453b4fb36e9e2ae80128320832ea2c9c05533add69e71242fa978376c13 -->
 
 # Refusjoner når en underenhet flyttes eller ansatte bytter underenhet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/refusjon-underenhet
-- **Sist oppdatert i arkivet:** 2026-10-17T14:08:58Z
+- **Sist oppdatert i arkivet:** 2026-11-09T21:51:14Z
 
 ## Innhold
 
@@ -91,7 +91,7 @@ Begge inntektsmeldingene må sendes inn for at det skal kunne utføres en korrek
 #### 2. Sykefraværsoppfølging
 
 - Du må [tildele tilganger til tjenesten i Altinn](https://www.nav.no/arbeidsgiver/tilganger#tilgang) på nytt.
-- [Nærmeste leder må meldes inn på nytt](https://info.altinn.no/skjemaoversikt/arbeids--og-velferdsetaten-nav/sykmelding--oppgi-narmeste-leder-med-personalansvar/) (altinn.no) selv om det eventuelt er den samme personen som er leder.
+- [Nærmeste leder må meldes inn på nytt](https://www.nav.no/arbeidsgiver/soknader#sykmelding) selv om det eventuelt er den samme personen som er leder.
   - Den ansatte må passe på å sende sykmeldingen til ny underenhet. Nav viser tidligere arbeidsforhold 4 måneder tilbake i tid når en ansatt skal sende sykmeldingen.
   - Sykmeldinger mottatt etter endringen av arbeidsforholdet vil sendes til nytt organisasjonsnummer, og den tekniske meldingen (xml) vil reflektere hovedenhetens nye organisasjonsnummer.
 
@@ -103,10 +103,6 @@ Du kan ikke benytte den nye inntektsmeldingen på Min side – arbeidsgiver for 
 
 Noen lønns- og personalsystem håndterer dette automatisk. Hvis ikke, må virksomheten bruke Altinn-portalen.
 
-### Hvis organisasjonsnummeret til underenheten avsluttes før inntektsmelding er sendt
-
-Hvis det gamle organisasjonsnummeret til underenheten er avsluttet i Enhetsregisteret før du har rukket å sende inn en inntektsmelding med opphør av refusjon, kan den som tidligere hadde tilgang, benytte "Vis slettede enheter" i Altinn for å få endret inntektsmeldingen.
-
 ### Etablering og endring av kontonummer
 
 Du melder selv inn nye kontonummer hvis det er aktuelt. [Slik endrer du kontonummer.](https://www.nav.no/arbeidsgiver/endre-kontonummer)
@@ -117,7 +113,7 @@ Flytter du underenheten med alle ansatte, kommer [Oppgjørsrapport arbeidsgiver 
 
 Har du ansatte på en slettet underenhet, vil rapporten feile når Nav overfører den til Altinn.
 
-Oppdatert 31.08.2026
+Oppdatert 09.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -125,7 +121,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -151,3 +147,4 @@ Alltid åpen
 - **2026-06-28** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

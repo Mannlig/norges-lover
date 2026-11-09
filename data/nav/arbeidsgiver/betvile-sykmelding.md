@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9918e993b37575b3c9efac1502f882cb1d6a6f4e065c46df059794e53fe4d869 -->
+<!-- innholds-hash: 200a833ee0e74b50a624db7b0df4950f4dd11e8dd811af9dc0b5419297fabf18 -->
 
 # Arbeidsgiveren godtar ikke sykmeldingen - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/betvile-sykmelding
-- **Sist oppdatert i arkivet:** 2026-10-08T04:43:15Z
+- **Sist oppdatert i arkivet:** 2026-11-09T21:54:09Z
 
 ## Innhold
 
@@ -75,7 +75,7 @@ Noen saker kan ha lengre saksbehandlingstid, ofte fordi saksbehandler må innhen
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Søknad om refusjon for arbeidsgiverperioden | 4 måneder |
-| Refusjon arbeidsgiver fra dag 17 | 15 uker |
+| Refusjon arbeidsgiver fra dag 17 | 14 uker |
 | Søknad om unntak i arbeidsgiverperioden | 10 uker |
 | Bestridelse | 4 måneder |
 
@@ -86,7 +86,7 @@ Har du fått et vedtak fra oss som du mener er feil? Da kan du klage til Nav-enh
 | Saken gjelder | Forventet saksbehandlingstid |
 | --- | --- |
 | Klage til Nav-enhet | 12 uker |
-| Klage til Nav klageinstans | 3 måneder |
+| Klage til Nav klageinstans | 5 måneder |
 | Anke til Nav klageinstans | 2 måneder |
 
 ### Hvis du er uenig i Navs avgjørelse
@@ -116,3 +116,4 @@ Oppdatert 07.01.2026
 
 - **2026-06-05** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)
