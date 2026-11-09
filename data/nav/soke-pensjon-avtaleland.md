@@ -1,11 +1,11 @@
-<!-- innholds-hash: 52eac85dc927d6905711e6d519eb71fad21133c687a3b0d874dea4571b434793 -->
+<!-- innholds-hash: 24c1543c0b25206c1a1d21410657ab5ff199dc6ee9442cef3243f4b7c6ed6bd6 -->
 
 # Søke pensjon fra land med trygdeavtale utenfor EU/EØS - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soke-pensjon-avtaleland
-- **Sist oppdatert i arkivet:** 2026-10-17T02:27:40Z
+- **Sist oppdatert i arkivet:** 2026-11-09T08:49:16Z
 
 ## Innhold
 
@@ -525,9 +525,21 @@ Slik gjør du det
 
 Norge og Sør-Korea (Republikken Korea) har inngått en trygdeavtale som gjelder fra 1. juni 2024.
 
-[Ta kontakt med Nav](https://www.nav.no/kontaktoss) hvis du ønsker informasjon om å søke alderspensjon fra Sør-Korea.
+#### Hvis du bare skal søke om alderspensjon fra Sør-Korea
 
-Avtalen har blant annet regler for alderspensjon, uføretrygd, ytelser til etterlatte og gravferdshjelp.
+- Du kan bruke [søknad om alderspensjon fra Nav](https://www.nav.no/soknader#alderspensjon). Du kan søke elektronisk hvis du har norsk BankID. Hvis du ikke kan logge inn med norsk BankID, velg "Last ned papirsøknad" og send søknaden til Nav i vanlig post.
+- Du må krysse av for “søker pensjon kun fra utlandet”. Du skal ikke søke om AFP-privat.
+
+#### Hvis du skal søke alderspensjon fra Norge og Korea
+
+- Du kan bruke [søknad om alderspensjon fra Nav](https://www.nav.no/soknader#alderspensjon). Du kan søke elektronisk hvis du har norsk BankID. Hvis du ikke kan logge inn med norsk BankID, velg "Last ned papirsøknad" og send søknaden til Nav i vanlig post.
+- Hvis du ønsker annet uttakstidspunkt og/eller uttaksgrad av koreansk pensjon, må du presisere det.
+
+[Ta kontakt med Nav](https://www.nav.no/kontaktoss) hvis du trenger hjelp til å søke alderspensjon fra Sør-Korea.
+
+#### Hva trygdeavtalen omfatter
+
+Trygdeavtalen har blant annet regler for alderspensjon, uføretrygd, ytelser til etterlatte og gravferdshjelp.
 
 Avtalen er ment å gi trygghet og forutsigbarhet for både folk og næringsliv. Utsendte fra Norge og deres familiemedlemmer beholder sin trygdetilknytning til Norge.
 
@@ -677,7 +689,7 @@ Unntaket er trygdeavtalen med Bosnia-Hercegovina, Montenegro, Serbia og Tyrkia, 
 
 [Trygdeavtalene (lovdata.no)](https://lovdata.no/nav/andre-rettskilder/Trygdeavtaler)
 
-Oppdatert 19.06.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -691,7 +703,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -701,7 +713,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -719,3 +731,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

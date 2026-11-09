@@ -1,11 +1,11 @@
-<!-- innholds-hash: 74470586f3971fb2b3a0d35f72b060bd072eb497b15947f290188ccdfbf22ad1 -->
+<!-- innholds-hash: 51660070ffb751e325024db8920ffc59353c87f3b1d19be1e3888ab70e864eeb -->
 
 # Midlertidig opphold i Norge  - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/midlertidig-opphold-norge
-- **Sist oppdatert i arkivet:** 2026-10-17T02:25:30Z
+- **Sist oppdatert i arkivet:** 2026-11-09T08:47:08Z
 
 ## Innhold
 
@@ -213,7 +213,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -223,7 +223,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -238,3 +238,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-07-26** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

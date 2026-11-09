@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9070c697ee8d602cdea779cc4009521a02aaf41d1a93fa6b7824279bb151ef6d -->
+<!-- innholds-hash: dd9d9abcba3e49b485e5770c7a4c0af9a3a936d2e3900503f8af1896bc536cb4 -->
 
 # Personvernerklæring for Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personvernerklaering
-- **Sist oppdatert i arkivet:** 2026-10-07T00:30:53Z
+- **Sist oppdatert i arkivet:** 2026-11-09T08:26:31Z
 
 ## Innhold
 
@@ -17,7 +17,7 @@ Personvernerklæringen gjelder for de statlige tjenestene fra Nav. Kontakt kommu
 
 ### Hvem gjelder denne personvernerklæringen for?
 
-Denne personvernerklæringen gjelder for personer som søker eller mottar ytelser eller tjenester fra Nav, samt for behandlere som leverer tjenester til Nav.
+Denne personvernerklæringen gjelder for personer som ber om veiledning, søker eller mottar ytelser eller tjenester fra Nav, samt for behandlere som leverer tjenester til Nav.
 
 ### Om behandling av personopplysninger
 
@@ -32,6 +32,8 @@ Les mer om forskjellen mellom statens og kommunens ansvar: [Partnerskapet i Nav]
 #### Hvilke personopplysninger behandler vi?
 
 Nav behandler flere typer personopplysninger. Eksempler på opplysninger er navn, fødselsnummer, adresse og annen kontaktinformasjon, familierelasjoner, arbeidsforhold, økonomiske forhold som inntekt, tidligere ytelser fra Nav og helseopplysninger.
+
+I noen tilfeller vil vi også ha behov for å behandle personopplysninger om andre personer tilknyttet deg, slik som barn, ektefelle, partner eller samboer. Dette blant annet for å beregne riktig ytelse.
 
 Når du søker Nav om en ytelse eller tjeneste, bruker vi de opplysningene du oppgir i søknaden. I tillegg henter vi opplysninger fra offentlige og private instanser for å kunne behandle søknaden din.
 
@@ -57,11 +59,11 @@ Velg temaområde og klikk på oversikten (pdf). Opplysninger vi henter inn eller
 
 #### Hvorfor trenger vi personopplysninger?
 
-I Nav behandler vi søknader og administrerer en rekke velferdsordninger for arbeidsledige, syke, pensjonister og familier. For å utføre disse lovpålagte oppgavene vi har fått av Stortinget, trenger vi personopplysninger.
+I Nav behandler vi søknader, veileder om og administrerer en rekke velferdsordninger for arbeidsledige, syke, pensjonister og familier. For å utføre disse lovpålagte oppgavene vi har fått av Stortinget, trenger vi personopplysninger.
 
 Vi trenger personopplysninger av flere ulike årsaker:
 
-Vi trenger personopplysninger om deg for å kunne behandle søknaden din og gi deg tjenester og ytelser som du har rett til.
+Vi trenger personopplysninger om deg for å kunne behandle søknaden din, veilede deg og gi deg tjenester og ytelser som du har rett til.
 
 Vi skal bare bruke personopplysninger om deg som er nødvendige for å kunne ta riktige beslutninger i saken din. Hvilke typer personopplysninger som er nødvendige, avhenger av hva saken gjelder.
 
@@ -237,7 +239,7 @@ Dersom du har lidd skade som følge av at dine personopplysninger er blitt misbr
 
 Du kan la en ideell organisasjon representere deg. Organisasjonen kan representere deg for eksempel ved å klage på dine vegne. Det står mer om kravene til organisasjonen og hvordan den kan representere deg i [personvernforordningen artikkel 80 første avsnitt (lovdata.no)](https://lovdata.no/lov/2018-06-15-38/gdpr/a80).
 
-Oppdatert 03.07.2026
+Oppdatert 30.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/personvernerklaering) av norges-lover-bot.*
@@ -247,3 +249,4 @@ Oppdatert 03.07.2026
 - **2026-05-17** Første gang hentet
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

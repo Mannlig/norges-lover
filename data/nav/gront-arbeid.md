@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9f15e4c9e84e3c73dc9bafb9151dff7ab388e21c7af8f556a1940ba52b956f9b -->
+<!-- innholds-hash: 1dc7a7ecff4a1f5edd93e9650a429fb1e0faf7136eeb08edcb2f72f74fa3d21e -->
 
 # Grønt arbeid - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/gront-arbeid
-- **Sist oppdatert i arkivet:** 2026-10-17T02:11:45Z
+- **Sist oppdatert i arkivet:** 2026-11-09T08:33:38Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -78,7 +78,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Åpent nå
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -95,3 +95,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

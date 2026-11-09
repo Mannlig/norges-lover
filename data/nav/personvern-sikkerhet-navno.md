@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8cd76c8819028b8007cd1ac58a4416c0ef38a56c917fe7a7ec85dbba9b87190a -->
+<!-- innholds-hash: 33ebec2cc97b43000db458a0085a0030297c2d75aa188ae4a137f1243a292015 -->
 
 # Personvern og sikkerhet på nav.no - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/personvern-sikkerhet-navno
-- **Sist oppdatert i arkivet:** 2026-10-07T00:30:12Z
+- **Sist oppdatert i arkivet:** 2026-11-09T08:25:51Z
 
 ## Innhold
 
@@ -46,9 +46,9 @@ Om du ønsker innsyn i opplysningene Nav har om deg kan du ta [kontakt med oss.]
 
 ### Informasjonskapsler
 
-Vi bruker informasjonskapsler (cookies) og tilsvarende teknologi på både åpne og innloggede sider på nav.no. Se hvilke informasjonskapsler vi bruker, hva de brukes til og hvordan du selv kan tilpasse hvilke informasjonskapsler vi får bruke:
+Vi bruker informasjonskapsler (cookies) og tilsvarende teknologi på både åpne og innloggede sider på nav.no. Se hvilke informasjonskapsler vi bruker, hva de brukes til, og hvilke du kan velge å si ja eller nei til:
 
-[Informasjonskapsler og tilsvarende teknologi på nav.no](https://www.nav.no/informasjonskapsler)
+[Om informasjonskapsler, hva vi lagrer og hvorfor](https://www.nav.no/informasjonskapsler)
 
 Om Nav
 
@@ -204,7 +204,7 @@ I [personvernerklæringen](https://www.nav.no/personvernerklaering) kan du lese 
 - hvordan Nav behandler personopplysninger
 - hvordan du går frem for å be om innsyn, retting eller sletting
 
-Oppdatert 07.08.2026
+Oppdatert 21.10.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/personvern-sikkerhet-navno) av norges-lover-bot.*
@@ -213,3 +213,4 @@ Oppdatert 07.08.2026
 
 - **2026-05-17** Første gang hentet
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)
