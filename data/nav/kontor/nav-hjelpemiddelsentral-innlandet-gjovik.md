@@ -1,11 +1,11 @@
-<!-- innholds-hash: 658a0d696f73cf815ed455b1b026d52a900066957abf1982692e85ee590d830d -->
+<!-- innholds-hash: 020313a8687a6c9427118acd451858f813335290a5e25846070da57b20467374 -->
 
 # Nav hjelpemiddelsentral Innlandet-Gjøvik - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-innlandet-gjovik
-- **Sist oppdatert i arkivet:** 2026-10-07T00:10:09Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:00:17Z
 
 ## Innhold
 
@@ -258,9 +258,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 Avhengig av om du bor nord eller sør i fylket, skal du kontakte enten Nav bilsenter Østlandet eller Nav bilsenter Midt-Norge. Nedenfor finner du oversikter over hvilket bilsenter din kommune tilhører.
 
@@ -290,3 +290,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

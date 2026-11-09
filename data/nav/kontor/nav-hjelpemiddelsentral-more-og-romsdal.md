@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0dc5a9d1fc55c16a8fac640386ad08b6a52fcfadd31e82731df808b1735ee0c7 -->
+<!-- innholds-hash: 694aa6a3d75c468e47edef5ff6c4ecd3531051b1f0d6b01191d43239a6e2c46f -->
 
 # Nav hjelpemiddelsentral Møre og Romsdal - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-more-og-romsdal
-- **Sist oppdatert i arkivet:** 2026-10-07T00:10:50Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:00:59Z
 
 ## Innhold
 
@@ -257,9 +257,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 Utprøving og veiledning i enkeltsaker foregår ved Nav bilsenter Midt-Norge hvis du bor i Møre og Romsdal.
 
@@ -280,3 +280,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8ff6f2e336e291d6aeb20fbc37764d00858752702937c40072f50a1bcbd6a39c -->
+<!-- innholds-hash: 0468e7c1f7a74c402544f1d6dc5b179d6862553fe821ae68f827262a78a98f98 -->
 
 # Informasjon om hjelpemidler og tilrettelegging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/om-hjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-16T19:34:18Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:08:46Z
 
 ## Innhold
 
@@ -62,7 +62,7 @@ Hvis du har en funksjonsnedsettelse kan du få hjelp av Nav hjelpemiddelsentral.
 - [førerhund](https://www.nav.no/forerhund)
 - [lese- og sekretærhjelp](https://www.nav.no/samarbeidspartner/optiker/lese-og-sekretarhjelp) for blinde og svaksynte
 - [tolking for døve, døvblinde og hørselshemmede](https://www.nav.no/redirects/tolk)
-- stønad til [bil, spesialutstyr til bil og tilpasning av bil](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/bil-og-spesialutstyr)
+- stønad til [bil, spesialutstyr til bil og tilpasning av bil](https://www.nav.no/bilstonad)
 
 På [kunnskapsbanken.net](https://www.kunnskapsbanken.net) kan du lese mer om tilrettelegging i ulike situasjoner.
 
@@ -272,7 +272,7 @@ Du kan som regel få nytt hjelpemiddel hvis det blir stjålet, eller om du miste
 
 Du trenger ikke forsikre hjelpemidler utlånt av Nav hjelpemiddelsentral, siden Nav selv håndterer tap og skader.
 
-Du kan bli erstatningspliktig hvis du påfører personer eller eiendom skade med rullestol eller scooter. For elektrisk rullestol og scooter bør du derfor tegne ansvarsforsikring som dekker ansvar ved erstatningskrav, i tilfelle det skjer et uhell. Du må selv finne informasjon om egnet forsikring.
+Dersom du skader noen eller noe med rullestolen eller scooteren din, kan du bli ansvarlig for skaden. Har du elektrisk rullestol, rullestol med drivaggregat eller scooter, bør du ha ansvarsforsikring. Forsikringen kan dekke utgifter dersom et uhell fører til skade på personer eller eiendom. Du må selv finne en passande forsikring.
 
 #### Uhell med hjelpemidler
 
@@ -347,7 +347,7 @@ Hvis oppfølgingsansvarlig jobber på skolen eller barnehagen, har vedkommende a
 
 Nav hjelpemidler og tilrettelegging samarbeider med brukerorganisasjonene i utviklingen av tjenestene våre. Her kan du lese om [brukerutvalget og hvordan vi jobber med brukerdrevet tjenesteutvikling](https://www.nav.no/samarbeidspartner/brukerutvalg-hjelpemiddelomradet)
 
-Oppdatert 08.10.2026
+Oppdatert 28.10.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -369,7 +369,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -389,3 +389,4 @@ Finn kontaktinformasjon og les om inn- og utlevering av hjelpemidler.
 - **2026-07-21** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

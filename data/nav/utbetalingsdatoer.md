@@ -1,11 +1,11 @@
-<!-- innholds-hash: 727680c4610410af934940f343942f9254a790895852fa4fd67a51e00fdad5ec -->
+<!-- innholds-hash: c2176af074911f9651aca9e63d8f8eaaa347d17fa6b178b42af2e54446a94fcb -->
 
 # Utbetalingsdatoer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/utbetalingsdatoer
-- **Sist oppdatert i arkivet:** 2026-10-07T00:21:58Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:12:20Z
 
 ## Innhold
 
@@ -37,8 +37,9 @@ Hvis en teknisk feil fører til at mange vil få forsinket utbetaling, informere
 
 #### Velg område
 
-### Viser 50 av 50
+### Viser 51 av 51
 
+- Aktivitetspenger For deg som er mellom 18 og 30 år, trenger oppfølging fra Nav for å komme i jobb eller utdanning og har behov for pengestøtte underveis. Dette er et forsøk bare for deg som er bosatt i Trondheim kommune.
 - Alderspensjon Alderspensjon fra folketrygden (Nav) sikrer at du har en inntekt når du er pensjonist.
 - Arbeidsavklarings­penger (AAP) Sikrer deg inntekt i perioder du har behov for hjelp fra Nav på grunn av sykdom eller skade.
 - Avtalefestet pensjon (AFP) for medlemmer av Statens pensjonskasse En tidligpensjonsordning for deg som jobber i offentlig sektor og er født før 1963.
@@ -99,3 +100,4 @@ Hvis en teknisk feil fører til at mange vil få forsinket utbetaling, informere
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

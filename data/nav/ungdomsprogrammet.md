@@ -1,11 +1,11 @@
-<!-- innholds-hash: a294b0ffb24f257cf0ae64d7322f2ccfc915723d9a6b909e8d0381a18e0dcb28 -->
+<!-- innholds-hash: 3c1b75e856e2ed31fd3f2c9a1cd5bac8d8e729765384d6d232d806b3bdb06366 -->
 
 # Ungdomsprogrammet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/ungdomsprogrammet
-- **Sist oppdatert i arkivet:** 2026-10-16T19:19:31Z
+- **Sist oppdatert i arkivet:** 2026-11-08T23:53:43Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Ungdomsprogrammet kan være aktuelt for deg som
 - har fått en vurdering fra Nav om at du [trenger veiledning](https://www.nav.no/komme-i-jobb#veiledning) og støtte for å komme i jobb (i henhold til [ungdomsgarantien](https://www.nav.no/ungdomsgarantien))
 - trenger et arbeidsrettet fulltidsprogram for å komme i jobb eller utdanning
 - har lovlig opphold i Norge
-- får oppfølging fra et av disse Nav-kontorene: Nav Arendal, Nav Kristiansand, Nav Bergen Sør, Nav Bergen Vest, Nav Skien, Nav Porsgrunn eller Nav Sandefjord
+- får oppfølging fra et av disse Nav-kontorene: Nav Arendal, Nav Kristiansand, Nav Bergen Sør, Nav Bergen Vest, Bergen Sentrum, Bergen Nord, Nav Skien, Nav Porsgrunn eller Nav Sandefjord
 
 ### Hva går programmet ut på?
 
@@ -220,7 +220,7 @@ Hvis det er forskjell mellom inntekten som Siri selv meldte inn, og inntekten vi
 - Hvis Siri svarer med å gi en tilbakemelding, vil en saksbehandler i Nav vurdere hvilken inntekt som det er riktig å bruke.
 - Hvis Siri ikke svarer i det hele tatt, bruker Nav inntekten fra arbeidsgiveren.
 
-Det er viktig at hun svarer så fort som mulig slik at pengene ikke blir forsinket. Fristen for å svare er 14 dager etter at hun får meldingen fra Nav. Siri får et eget vedtaksbrev der det står hvilken inntekt Nav har brukt, og hvor mye hun får utbetalt for januar.
+Det er viktig at hun svarer så fort som mulig slik at pengene ikke blir forsinket. Fristen for å svare er 14 dager etter at hun får meldingen fra Nav. Siri får et eget brev med melding om vedtak der det står hvilken inntekt Nav har brukt, og hvor mye hun får utbetalt for januar.
 
 #### Utbetalinger
 
@@ -249,7 +249,7 @@ Mer om [skattetrekk på utbetalinger fra Nav](https://www.nav.no/skattetrekk)
 - [Rundskriv til forskrift om forsøk med ungdomsprogram og ungdomsprogramytelse (lovdata.no)](https://lovdata.no/nav/rundskriv/r76-13-04-for?q=Ungdomsprogram)
 - [Tilleggsstønadsforskriften (lovdata.no)](https://lovdata.no/nav/forskrift/2015-07-02-867)
 
-Oppdatert 14.10.2026
+Oppdatert 02.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -263,7 +263,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -273,7 +273,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -291,3 +291,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-07-29** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

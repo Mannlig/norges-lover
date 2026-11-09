@@ -1,11 +1,11 @@
-<!-- innholds-hash: ab65834d94230c02022e01a7e97ed40b202a38c28b2a2cabe17eb8d55bd391ed -->
+<!-- innholds-hash: fa085cfe4027faa8c229a97e5b4a637362868a3179e95a3e17c9f204650dd3fb -->
 
 # Nav hjelpemiddelsentral Trøndelag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-trondelag
-- **Sist oppdatert i arkivet:** 2026-10-07T00:14:50Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:05:11Z
 
 ## Innhold
 
@@ -285,9 +285,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 #### Adresse Nav bilsenter Midt-Norge
 
@@ -341,3 +341,4 @@ Anonymiser eventuelle brukerdata. Vi vil innhente supplerende informasjon ved be
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

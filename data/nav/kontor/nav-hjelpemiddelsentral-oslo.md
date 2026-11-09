@@ -1,11 +1,11 @@
-<!-- innholds-hash: 890ca51456baa9f078e7b80e65239fab1a050c55632e174dfb7636e0ff821331 -->
+<!-- innholds-hash: 5e2182006858293e7c86d4f150a09d0a19eacc0eeace1d8055a6e960c241387c -->
 
 # Nav hjelpemiddelsentral Oslo - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-oslo
-- **Sist oppdatert i arkivet:** 2026-10-07T00:12:10Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:02:19Z
 
 ## Innhold
 
@@ -277,9 +277,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 #### Adresse Nav bilsenter Østlandet
 
@@ -349,3 +349,4 @@ Du kan lese [mer om brukerpassordningen](https://www.nav.no/brukerpass).
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

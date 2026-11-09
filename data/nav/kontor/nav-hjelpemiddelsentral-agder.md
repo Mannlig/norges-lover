@@ -1,11 +1,11 @@
-<!-- innholds-hash: f62cc6c009b5ea4230cb26815f528862e9661038e06d981b26d1452db913a0df -->
+<!-- innholds-hash: de0a9bffa41f9fbbf8bc3a2808b020a0160c372d1491e73c680d313283ae87a1 -->
 
 # Nav hjelpemiddelsentral Agder - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-agder
-- **Sist oppdatert i arkivet:** 2026-10-07T00:08:43Z
+- **Sist oppdatert i arkivet:** 2026-11-08T23:58:47Z
 
 ## Innhold
 
@@ -239,9 +239,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 #### Adresse Nav bilsenter i Sørvest-Norge
 
@@ -262,3 +262,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

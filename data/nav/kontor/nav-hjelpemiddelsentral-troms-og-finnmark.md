@@ -1,11 +1,11 @@
-<!-- innholds-hash: c498dd9168e2d0e77d1accda83f1ab16c6addcadcbb76b36ffc5677f68a3e4bc -->
+<!-- innholds-hash: d473c6cbea48756f18379fb0b1e96497d5c6cda9bc8dd7070ab3db93cec7393c -->
 
 # Nav hjelpemiddelsentral Troms og Finnmark - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-troms-og-finnmark
-- **Sist oppdatert i arkivet:** 2026-10-07T00:14:10Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:04:28Z
 
 ## Innhold
 
@@ -257,9 +257,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 #### Adresse Nav bilsenter Nord-Norge
 
@@ -280,3 +280,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

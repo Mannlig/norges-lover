@@ -1,11 +1,11 @@
-<!-- innholds-hash: ec7a25de9ca791ed7b3ab6d3010deed49002b27e901fc178d1dfbf2aa7e27b60 -->
+<!-- innholds-hash: ce5178bd200b58dd8726da4413da35877a0bd9776f627ac712a35ae325d7dcba -->
 
 # Nav hjelpemiddelsentral Øst-Viken - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-ost-viken
-- **Sist oppdatert i arkivet:** 2026-10-07T00:12:50Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:03:02Z
 
 ## Innhold
 
@@ -291,9 +291,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 Utprøving og veiledning i enkeltsaker foregår ved Nav bilsenter Østlandet hvis du bor i Øst-Viken.
 
@@ -318,3 +318,4 @@ Brukerutvalget skal være en arena for samhandling med fast representasjon fra N
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

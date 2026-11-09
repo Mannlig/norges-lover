@@ -1,11 +1,11 @@
-<!-- innholds-hash: cfcd34b3e930fd95d4c993f3df1eedb9e349ecc8c3c3369ed0411778f0a3cb42 -->
+<!-- innholds-hash: 0bebc1d28e4790fa39f7fb0f7bf4dbd2ffaf76c70126664054b25a276f093f5b -->
 
 # Nav hjelpemiddelsentral Rogaland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-rogaland
-- **Sist oppdatert i arkivet:** 2026-10-07T00:13:30Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:03:45Z
 
 ## Innhold
 
@@ -234,9 +234,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 #### Adresse Nav bilsenter Sørvest-Norge
 
@@ -257,3 +257,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

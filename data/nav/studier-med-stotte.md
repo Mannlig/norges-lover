@@ -1,11 +1,11 @@
-<!-- innholds-hash: 2209d9f3352cd4a147035ab4a62c82c7b7016a7e5a92828d4e446f3eebd49e4c -->
+<!-- innholds-hash: d9cc4ca3dfed9b30da713afc46e9b746f97b1de20767d10fbd8506ff17f40b82 -->
 
 # Studier med støtte - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/studier-med-stotte
-- **Sist oppdatert i arkivet:** 2026-10-16T19:18:04Z
+- **Sist oppdatert i arkivet:** 2026-11-08T23:52:20Z
 
 ## Innhold
 
@@ -100,7 +100,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -110,7 +110,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner mandag kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -126,3 +126,4 @@ Stengt nå, åpner mandag kl. 9
 - **2026-07-13** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-08** Innhold endret (se git-historikk for diff)

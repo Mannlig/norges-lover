@@ -1,11 +1,11 @@
-<!-- innholds-hash: e68b202daa965d9924170e816ac03703bc8e0c8fba2cb430542516d214adb102 -->
+<!-- innholds-hash: eb60c5854d1a5cdd1207b76f2efa03256644e57cf89b47cfee4bbeafd259288c -->
 
 # Nav hjelpemiddelsentral Nordland - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontor/nav-hjelpemiddelsentral-nordland
-- **Sist oppdatert i arkivet:** 2026-10-07T00:11:29Z
+- **Sist oppdatert i arkivet:** 2026-11-09T00:01:39Z
 
 ## Innhold
 
@@ -204,9 +204,9 @@ Telefon:
 - 55 55 11 11 (felles nummer fra 1. september 2026)
 - Åpningstid telefon: hverdager fra 09.00 til 11.15 og fra 12.15 til 14.30.
 
-Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no
+Du kan stille oss et spørsmål eller gi oss en beskjed gjennom tjenesten [Skriv til oss](https://www.nav.no/person/kontakt-oss/skriv-til-oss-innbokser/skriv-til-oss-hjelpemidler) på nav.no.
 
-Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende)
+Skal du sende oss dokumentasjon kan du gjøre det via [nav.no/ettersende](https://www.nav.no/ettersende).
 
 Avhengig av om du bor nord eller sør i fylket, vil utprøving og veiledning i enkeltsaker foregå enten på Nav bilsenter Nord-Norge eller Nav bilsenter Midt-Norge. Nedenfor finner du oversikter over hvilket bilsenter din kommune tilhører.
 
@@ -275,3 +275,4 @@ Pengestøtte og Hjelpemiddel
 - **2026-05-17** Første gang hentet
 - **2026-06-12** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)
