@@ -1,4 +1,4 @@
-<!-- innholds-hash: f6bd452cc3e576a8bf4babe42090bbb93f4ff71ff6342533b886ab654e8acd7b -->
+<!-- innholds-hash: 7675175a19bb0c3380839c9c9e1d1f4808da33a97b3f89943acbc3904e4c6d95 -->
 
 # Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Prop. 7 LS (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Eu/eøs, Kommunikasjonsteknologi, Arbeidsmiljø
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T19:02:50Z
+- **Sist oppdatert i arkivet:** 2026-11-09T11:59:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200503
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 179,
+      "navn": "Kommunikasjonsteknologi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 205,
+      "navn": "Arbeidsmiljø",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 7 LS (2026–2027)",
   "id": 200503,
@@ -47,3 +69,4 @@
 ## Endringshistorikk
 
 - **2026-11-06** Første gang hentet
+- **2026-11-09** Innhold endret (se git-historikk for diff)

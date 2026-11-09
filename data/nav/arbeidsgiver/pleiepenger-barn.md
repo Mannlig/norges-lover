@@ -1,11 +1,11 @@
-<!-- innholds-hash: e602341f9b8d01b94157afa74b015877a5149a12ebe00007be9d02fcd51a04f0 -->
+<!-- innholds-hash: 4ee8065552aab7b80ae4133ab57a77eb1a110e7f24e114a63ba5e85b81e93a0e -->
 
 # Pleiepenger for sykt barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/pleiepenger-barn
-- **Sist oppdatert i arkivet:** 2026-10-17T08:10:54Z
+- **Sist oppdatert i arkivet:** 2026-11-09T15:12:26Z
 
 ## Innhold
 
@@ -311,7 +311,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -328,3 +328,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-07-05** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)

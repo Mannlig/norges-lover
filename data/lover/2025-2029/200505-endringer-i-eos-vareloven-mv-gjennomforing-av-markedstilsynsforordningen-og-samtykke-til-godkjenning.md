@@ -1,4 +1,4 @@
-<!-- innholds-hash: c79f7e2b583ce0036106d46b4d7a6e75da612ffaf58473d854795da391158aa8 -->
+<!-- innholds-hash: 53afa6d4f83cfedcc87745a57fbc5037bbc2dbcc9f736a30a72920792cfb93e0 -->
 
 # Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Prop. 8 LS (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Toll, Forbrukersaker, Eu/eøs
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T19:02:50Z
+- **Sist oppdatert i arkivet:** 2026-11-09T11:59:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 82,
+      "navn": "Toll",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 8 LS (2026–2027)",
   "id": 200505,
@@ -47,3 +69,4 @@
 ## Endringshistorikk
 
 - **2026-11-06** Første gang hentet
+- **2026-11-09** Innhold endret (se git-historikk for diff)

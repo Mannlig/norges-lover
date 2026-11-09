@@ -1,4 +1,4 @@
-<!-- innholds-hash: a191ac0e6e42ba17b44c16cce5d3ab41dca3a17ec6803d2de64f620d44bf4115 -->
+<!-- innholds-hash: 816af0f31ff089b90aab3177d759e3239eab6d274d6d0bd87140b84bdd9776f6 -->
 
 # Redegjørelse av justis- og beredskapsministeren om PST og Justis- og beredskapsdepartementets styring av PST
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Politi og påtalemyndighet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-04T15:35:40Z
+- **Sist oppdatert i arkivet:** 2026-11-09T11:59:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200489
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 3,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": null,
   "id": 200489,
@@ -48,3 +56,4 @@
 
 - **2026-10-30** Første gang hentet
 - **2026-11-04** Innhold endret (se git-historikk for diff)
+- **2026-11-09** Innhold endret (se git-historikk for diff)
