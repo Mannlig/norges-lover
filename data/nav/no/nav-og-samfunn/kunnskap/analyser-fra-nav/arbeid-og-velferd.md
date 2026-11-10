@@ -1,23 +1,32 @@
-<!-- innholds-hash: 0c7866bd895c7e01d65b396684f9489d7d063b42d0386d1fcb6458d44c346c5a -->
+<!-- innholds-hash: 02b3e5ea58f332fe8d2f82528fe32e527a459a3d4d55336ba46d6a40b28f93bd -->
 
 # Arbeid og velferd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd
-- **Sist oppdatert i arkivet:** 2026-10-18T01:08:41Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:06:42Z
 
 ## Innhold
 
-Publisert 10.03.2021 | Oppdatert 12.10.2026
+Publisert 10.03.2021 | Oppdatert 09.11.2026
 
 ## Arbeid og velferd
 
 Arbeid og velferd er et fagtidsskrift som utgis tre ganger i året av Kunnskapsavdelingen i Nav
 
+#### Arbeid og velferd nr. 3 2026
+
+- [Sykefravær og dødelighet](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2026/sykefravaer-og-dodelighet)
+- [Egenetablering med dagpenger – en støtte til gründerskap blant arbeidsledige](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2026/egenetablering-med-dagpenger)
+
+De resterende artiklene i Arbeid og velferd nr. 3 2026 kommer i november og desember
+
 #### Velferdsstaten og 20 år med Nav - Ny fagbok
 
-I 2026 er det 20 år siden Nav-reformen. For å markere dette, gir vi ut boken «Velferdsstaten og 20 år med Nav». Dette innebærer at Arbeid og velferd nr. 2 2026 blir noe kortere enn vanlig. Boken blir utgitt på Scandinavian University Press, men det er vi i Nav som har hatt redaktøransvaret. Boken gis ut i tre bolker, og første bolk publiseres 9. juni.
+I 2026 er det 20 år siden Nav-reformen. For å markere dette, gir vi ut boken «Velferdsstaten og 20 år med Nav». Dette innebærer at Arbeid og velferd nr. 2 2026 blir noe kortere enn vanlig. Boken blir utgitt på Scandinavian University Press, men det er vi i Nav som har hatt redaktøransvaret.
+
+Boken er åpen for alle på nett. [Du kan lese boken her](https://www.scup.com/doi/book/10.18261/9788294167272-26)
 
 Med Nav-reformen som utgangspunkt, tar boken for seg utviklingen innenfor mange av områdene som Nav forvalter. Nav er en bærebjelke i velferdsstaten og skal gi borgerne trygghet i usikre livssituasjoner. Ambisjonen med boken er å gi et kortfattet og overordnet bilde av utviklingen de siste 20 årene. Vi tar utgangspunkt i tall, forskning og aktuelle debatter.
 
@@ -26,15 +35,6 @@ Tema er blant annet mottak av trygdeytelser og sosialhjelp, arbeidsmarked, Nav-k
 Skribentene representerer samfunnsfag, juss og teknologi. Noen bidrag er skrevet av ledende forskere ved universiteter og forskningsinstitusjoner. Andre bidrag er skrevet av forskere og analytikere i Arbeids- og velferdsdirektoratet.
 
 Boken bør være relevant for alle som er interessert i velferdsstaten og i Nav. Både forskere, studenter, medier og beslutningstakere vil finne nyttige fakta og refleksjoner her.
-
-Andre bolk publiseres i august og tredje bolk i oktober. Boken er åpen for alle på nett. Fra oktober blir også boken tilgjengelig for salg.
-
-[Du kan lese boken her](https://www.scup.com/doi/book/10.18261/9788294167272-26)
-
-#### Arbeid og velferd nr. 2 2026
-
-- [Utviklingen i sosialhjelp 2025 – veksten har stanset opp](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026/utviklingen-i-sosialhjelp-2025-veksten-har-stanset-opp)
-- [Utviklingen på arbeidsmarkedet. Navs arbeidsmarkedsprognose, 26-2](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026/utviklingen-pa-arbeidsmarkedet.navs-arbeidsmarkedsprognose-26-2)
 
 #### Meld deg på nyhetsbrevet
 
@@ -65,3 +65,4 @@ Nav-rapportserie inneholder analyser om ulike temaer, utredninger og undersøkel
 
 - **2026-10-08** Første gang hentet
 - **2026-10-18** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

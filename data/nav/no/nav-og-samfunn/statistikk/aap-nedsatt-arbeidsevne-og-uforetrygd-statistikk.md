@@ -1,11 +1,11 @@
-<!-- innholds-hash: cf46d1c1a87fff504206b492fc2049afc4c31a42dc227b81e5a1875b85ead0a4 -->
+<!-- innholds-hash: d2877aafd258fee445e97e1ed19c120c1f5256441698ed3fc7a75655f02b34c6 -->
 
 # AAP, nedsatt arbeidsevne og uføretrygd - statistikk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk
-- **Sist oppdatert i arkivet:** 2026-10-08T13:14:26Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:20:44Z
 
 ## Innhold
 
@@ -13,15 +13,15 @@
 
 ### [Mottakere av arbeidsavklaringspenger (AAP)](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger)
 
-Statistikk per august 2026
+Statistikk per september 2026
 
 ### [Personer med nedsatt arbeidsevne](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne)
 
-Statistikk per august 2026
+Statistikk per september 2026
 
 ### [Uføretrygd - Kvartalsstatistikk](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd)
 
-Statistikk per 30. juni 2026
+Statistikk per 30. september 2026
 
 ### [Uføretrygd - Statistikknotater](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-statistikknotater)
 
@@ -29,7 +29,7 @@ Kvartalsvise statistikknotater
 
 ### [Uføretrygd - Månedsstatistikk](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/uforetrygd-manedsstatistikk)
 
-Statistikk per august 2026
+Statistikk per september 2026
 
 ### [Diagnoser uføretrygd](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/uforetrygd/diagnoser-uforetrygd)
 
@@ -41,7 +41,7 @@ Statistikk pr. 31. desember 2025
 
 ### [Avgang som arbeidssøker og nedsatt arbeidsevne](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/overgang-til-arbeid-og-stonad)
 
-Status på arbeidsmarkedet 1. kvartal 2026
+Status på arbeidsmarkedet 2. kvartal 2026
 
 ### [Jobb og helse - historisk statistikk](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/jobb-og-helse-historisk-statistikk)
 
@@ -49,7 +49,7 @@ Historisk statistikk - rehabiliteringspenger, tidsbegrenset uførestønad og uf�
 
 ### [Sosialhjelp](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/sosialhjelp)
 
-Statistikk per 1. tertial 2026
+Statistikk per 2. tertial 2026
 
 ### Analyser
 
@@ -57,17 +57,17 @@ Statistikk per 1. tertial 2026
 
 ### Nyheter
 
+[Svak vekst i antall uføretrygdede det siste året](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/svak-vekst-i-antall-uforetrygdede-det-siste-aret)
+
+10. november 2026
+
+[Svak vekst i antall AAP-mottakere](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/svak-vekst-i-antall-aap-mottakere)
+
+20. oktober 2026
+
 [Veksten i AAP-mottakere flater ut](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/veksten-i-aap-mottakere-flater-ut)
 
 20. august 2026
-
-[Færre unge uføre det siste året](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/faerre-unge-ufore-det-siste-aret)
-
-13. august 2026
-
-[Andelen uføre i befolkningen økte i 1. kvartal](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/andelen-ufore-i-befolkningen-okte-i-1kvartal)
-
-7. mai 2026
 
 [Flere nyheter](https://www.nav.no/sok?ord=&page=0&f=statistikk&uf=nyheter&s=1&preferredLanguage=nb)
 
@@ -81,3 +81,4 @@ Statistikk per 1. tertial 2026
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

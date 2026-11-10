@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 11952
+**Antall dokumenter:** 11953
 
 ## Innhold
 
@@ -848,6 +848,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Stadig flere blir sykemeldt med en psykisk lidelse. Hvem er de? - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2025/stadig-flere-blir-sykemeldt-med-en-psykisk-lidelse.hvem-er-de.md)
 - [Utviklingen på arbeidsmarkedet. Navs arbeidsmarkedsprognose, 25-3 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2025/utviklingen-pa-arbeidsmarkedet.navs-arbeidsmarkedsprognose-25-3.md)
 - [Arbeid og velferd nr.3-2025 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2025.md)
+- [Egenetablering med dagpenger - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2026/egenetablering-med-dagpenger.md)
 - [Arbeid og velferd nr. 4-2007 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.4-2007.md)
 - [Arbeid og velferd nr. 4-2008 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.4-2008.md)
 - [Arbeid og velferd nr. 4-2009 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.4-2009.md)

@@ -1,15 +1,15 @@
-<!-- innholds-hash: e61fe94fe235de49b7bd01c5b80b0d0d9de15fbc09bdb3f1b53bc822f7446602 -->
+<!-- innholds-hash: 58ff476d87d7c15ddc477f4f148b8ef8beb5c36ababf98f33ed3b070cca779f3 -->
 
 # Analyser - sykefravær - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/analyser-sykefravaer
-- **Sist oppdatert i arkivet:** 2026-10-08T12:57:45Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:04:32Z
 
 ## Innhold
 
-Publisert 04.04.2013 | Oppdatert 12.03.2026
+Publisert 04.04.2013 | Oppdatert 09.11.2026
 
 ## Analyser - sykefravær
 
@@ -17,6 +17,7 @@ Her finner du analyser om sykefravær, sykepenger og sykefraværsoppfølging.
 
 #### 2026
 
+- [Sykefravær og dødelighet](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2026/sykefravaer-og-dodelighet) (Arbeid og velferd nr. 3-2026)
 - [Friskmeldt til arbeidsformidling: Hvordan benyttes ordningen og hvor mange kommer raskt i jobb?](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.1-2026/friskmeldt-til-arbeidsformidling-hvordan-benyttes-ordningen-og-hvor-mange-kommer-raskt-i-jobb) (Arbeid og velferd nr. 1-2026)
 - [Flere mottar helserelaterte ytelser etter pandemien](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/notatserie/flere-mottar-helserelaterte-ytelser-etter-pandemien) (Nav-notat nr.1-2026)
 
@@ -154,3 +155,4 @@ Her finner du analyser om sykefravær, sykepenger og sykefraværsoppfølging.
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

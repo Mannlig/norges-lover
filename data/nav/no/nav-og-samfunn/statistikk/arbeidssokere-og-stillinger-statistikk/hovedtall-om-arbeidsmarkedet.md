@@ -1,19 +1,19 @@
-<!-- innholds-hash: 6b52bdbae84dd46c3aebd2caed1d03fd36b37c5e3229514b731329c415c01db4 -->
+<!-- innholds-hash: 7c51b01834a93a9df513798e52dc8c74110b1a12e25b6914bb3435fe7ece2b7c -->
 
 # Hovedtall om arbeidsmarkedet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet
-- **Sist oppdatert i arkivet:** 2026-10-08T13:20:47Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:27:07Z
 
 ## Innhold
 
-Publisert 28.05.2021 | Oppdatert 02.10.2026
+Publisert 28.05.2021 | Oppdatert 30.10.2026
 
 ## Hovedtall om arbeidsmarkedet
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -38,30 +38,30 @@ Hovedtall om arbeidsmarkedet delvis ledige og permitterte er fordelt etter et mi
 
 Tabeller
 
-- [Hovedtall arbeidsmarkedet - september 2026 (xls)](https://www.nav.no/_/attachment/download/9b5e9385-5b7b-4379-b9e8-42e44ec45065:b8205339162a8a0ca683b884842b7dd04b687240/Hovedtall%20om%20arbeidsmarkedet.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/e6a3b2ad-b32e-493e-9673-836310cc7ea2:06f155295b2bac0c04b8f0b6888da75a18bd0f28/Hovedtall%20om%20arbeidsmarkedet.%20September%202026.pdf)
-- [Hovedtall arbeidsmarkedet delvis ledige - september 2026 (xls)](https://www.nav.no/_/attachment/download/daf805f0-8c7c-4864-9a4c-91fd50e9fd26:555f0dff75c9e84be593403f4347f147733a75c2/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/b97fe373-ce17-417c-b622-078f3e28ebef:0f53ed66af9e53312062a63d5f615c5ab121763a/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20September%202026.pdf)
-- [Hovedtall arbeidsmarkedet permitterte - september 2026 (xls)](https://www.nav.no/_/attachment/download/c18eebbb-53c1-4279-80bf-472c07799d46:6a334f1b865b7d0beab7ec2d4897b3f16ec3233a/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/d9986544-b144-425a-9ec7-0bfdcb271401:0735856f40d820aa188fe7dab16c2af07cc308cb/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20September%202026.pdf)
-- [Sesongjusterte hovedtall om arbeidsmarkedet - september 2026 (xls)](https://www.nav.no/_/attachment/download/2777df6f-3930-4a36-9981-9abcc51e43eb:fbbe02f59df281b122f4abe22b73aee0862cba1f/HARB100%20Sesongjusterte%20hovedtall%20om%20arbeidsmarkedet.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/bfd68bac-cc51-47ae-82d8-7e1501bb41a1:a05ae3db5c6f4dc851e95caf8f671c25aa39c0d3/HARB100%20Sesongjusterte%20hovedtall%20om%20arbeidsmarkedet.%20September%202026.pdf)
-- [Helt ledige - januar 1991 - september 2026 (xls)](https://www.nav.no/_/attachment/download/7936da6b-2447-43e8-a61c-25f970b6f0f4:dd91dbc6681fdf5cca633f2f6f0130bc74ffa180/HL100%20Antall%20helt%20ledige%20historisk.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/0c3993bf-ef95-4806-aa35-4080c54a7d0c:bfb393631a362df2292c8bb181a6ef61741cc6fb/HL100%20Antall%20helt%20ledige%20historisk.%20September%202026.pdf)
-- [Helt ledige etter fylke og kommune - september 2026 (xls)](https://www.nav.no/_/attachment/download/29565b98-2aa0-4379-82f2-426b94af45b8:503a007214c5da32d7037e85ec4ca1484bf07062/HARB011%20Hovedtall%20om%20arbeidsmarkedet.%20Fylke%20og%20kommune.%20September%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/1b096601-f310-48cf-85d1-79a0b324f789:ef7e57e4967c9853538d1ad3175019beb2cd2fa4/HARB011%20Hovedtall%20om%20arbeidsmarkedet.%20Fylke%20og%20kommune.%20September%202026.pdf)
+- [Hovedtall arbeidsmarkedet - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/d6e6b124-acce-4119-8699-c4aaea139674:34cbab0e016e186e032c8772a4fcb8c9ffb1848d/Hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/131d66f4-7bcc-4f16-91ad-60d650fb962e:f9b417ec4d897e244c29a75984a6e44ae31716b2/Hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.pdf)
+- [Hovedtall arbeidsmarkedet delvis ledige - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/00a00cb3-5c3a-490b-8a2c-29dbae4ccdee:3ffeb943232505a7b1bfc54b8f559cdf92a1b1a2/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/65e6b2f9-7e14-4392-acf5-fc43f21d9c46:6b7966e553b803d36f6fc0f42330aa3f2324dc73/HARB050%20Hovedtall%20om%20arbeidsmarkedet%20delvis%20ledige.%20Oktober%202026.pdf)
+- [Hovedtall arbeidsmarkedet permitterte - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/7cdc7131-55aa-4bad-9ba5-629270e5f609:578cba05a50416d9a472a9cfcbd71b7d1bd0020b/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/611ea5ef-881d-42ce-be67-d3a75bf82f22:87cdd3f3c6001e285886b994e36c5d145d1a9f31/HARB013%20Hovedtall%20om%20arbeidsmarkedet%20permitterte.%20Oktober%202026.pdf)
+- [Sesongjusterte hovedtall om arbeidsmarkedet - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/0f2ed94f-6a22-4f09-8cbe-577d72303a39:bf9a9785f1f257ae71176ccb49ac26146d92cee6/HARB100%20Sesongjusterte%20hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/5419d744-343d-4be3-a7fe-0edf17c237e1:99ada070a6cd930dc4afacf10a2d7efad7304fe3/HARB100%20Sesongjusterte%20hovedtall%20om%20arbeidsmarkedet.%20Oktober%202026.pdf)
+- [Helt ledige - januar 1991 - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/a1e721ee-9c77-4be8-8c60-04cf2c981ff3:73ab747b9980877d3d86bcfd914fa09ee1f05655/HL100%20Antall%20helt%20ledige%20historisk.%20Oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/2d6afe12-3fc3-477d-be27-92a8b45de846:42049bbe682cf25a50548b3ae64255fa30a91a05/HL100%20Antall%20helt%20ledige%20historisk.%20Oktober%202026.pdf)
+- [Helt ledige etter fylke og kommune - oktober 2026 (xls)](https://www.nav.no/_/attachment/download/e0221e99-a007-4fb4-bd02-eabfa9922c5a:6350366c5c7c377289df3d1c85a2f2fdb7970107/HL301%20Helt%20ledige.%20Fylke%20kommune.%20Oktober%202026.%20CSV.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/98fdad09-48e3-4847-ba74-62b088a00b51:11a58192bf5c5187c57c8bc7014bf241475bd870/HL301%20Helt%20ledige.%20Fylke%20kommune.%20Oktober%202026.%20CSV.pdf)
 
 Maskinlesbare filer
 
-- [Helt ledige etter fylke og kommune - september 2026 (csv)](https://www.nav.no/_/attachment/download/e82e262f-21e8-438d-9b57-c8dcc79fb628:fafba1621f36e553a68195a099ad329e133a5a12/HL301%20Helt%20ledige.%20Fylke%20kommune.%20September%202026.%20CSV.csv)
-- [Sesongjusterte tall landet. september 2026 (csv)](https://www.nav.no/_/attachment/download/2c255698-5d4c-4ac7-90a2-3f8705d4ecb9:257285a7050e46cdf46fa8b1271ad896a2a37756/NAV_Sesongjusterte_landet_September_2026.csv)
-- [Sesongjusterte tall fylket. september 2026 (csv)](https://www.nav.no/_/attachment/download/1bddd156-15af-4f3a-913f-71d4cdbb5840:72e596dc3184985fddc972a7baf85b97ad2b5fe7/NAV_Sesongjusterte_fylke_September_2026.csv)
-- [Sesongjusterte tall yrke. september 2026 (csv)](https://www.nav.no/_/attachment/download/2de415c0-a379-4526-abb9-390b82ea40d2:0b7d5a5ffac3bf55cfeab6e5a2851fa52aad7244/NAV_Sesongjusterte_yrke_September_2026.csv)
-- [Sesongjusterte tall alder. september 2026 (csv)](https://www.nav.no/_/attachment/download/23beb817-e028-4676-a6a7-818334ec405a:1da7d2b4be8829f2486357f44027b8edb49736b6/NAV_Sesongjusterte_alder_September_2026.csv)
+- [Helt ledige etter fylke og kommune - oktober 2026 (csv)](https://www.nav.no/_/attachment/download/f1c54c7d-2b03-42aa-b8ad-20741770c9f0:b5e572d672e211bdd66e05204d14fd89d29182cd/HL301%20Helt%20ledige%20fylke%20og%20kommune.%20Oktober%202026.csv)
+- [Sesongjusterte tall landet. oktober 2026 (csv)](https://www.nav.no/_/attachment/download/4cc7bee8-66f4-4939-8a5b-504ad0a85814:1c7ecd0feb060fd24e5aaae6ec9de9702bb16f70/NAV_Sesongjusterte_landet_oktober_2026.csv)
+- [Sesongjusterte tall fylket. oktober 2026 (csv)](https://www.nav.no/_/attachment/download/2449ad12-f67d-40f9-8f35-4097be15849a:5c7d86098d86274b4b82eeec14b7812a9f2de16b/NAV_Sesongjusterte_fylke_oktober_2026.csv)
+- [Sesongjusterte tall yrke. oktober 2026 (csv)](https://www.nav.no/_/attachment/download/dafff633-1775-47ab-a0cf-c67e9f40ebe4:e33414348f49c1ca6d8b926f4394b3658f3603a9/NAV_Sesongjusterte_yrke_oktober_2026.csv)
+- [Sesongjusterte tall alder. oktober 2026 (csv)](https://www.nav.no/_/attachment/download/ad8d8d35-9972-4ef6-9f2f-65bd86ba2237:c19e6d4781087483ddcdaf258615eec5c4a1879c/NAV_Sesongjusterte_alder_oktober_2026.csv)
 
 Pressemelding
 
-- [Pressemelding september 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/stabil-arbeidsledighet-september)
-- [Tabell. Antall personer og andel av arbeidsstyrken registrert som helt ledige og summen av helt ledige og arbeidssøkere på tiltak (tidligere inngikk i pressemeldingen)](https://www.nav.no/nav.no-ressurser/filer/statistikk-og-analyse/arbeidsmarked/hovedtall/tabell-1.antall-personer-og-andel-av-arbeidsstyrken-registrert-som-helt-ledige-og-summen-av-helt-ledige-og-arbeidssokere-pa-tiltak.september-2026)
+- [Pressemelding oktober 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/liten-okning-i-arbeidsledigheten-i-oktober)
+- [Tabell. Antall personer og andel av arbeidsstyrken registrert som helt ledige og summen av helt ledige og arbeidssøkere på tiltak (inngikk tidligere i pressemeldingen)](https://www.nav.no/nav.no-ressurser/filer/statistikk-og-analyse/arbeidsmarked/hovedtall/tabell-1.antall-personer-og-andel-av-arbeidsstyrken-registrert-som-helt-ledige-og-summen-av-helt-ledige-og-arbeidssokere-pa-tiltak.oktober-2026)
 
 Arbeidsmarkedet nå
 
-- [Arbeidsmarkedet nå - september 2026](https://www.nav.no/_/attachment/download/5011812a-5d75-4143-9b55-cf3a9107a475:a099bf4293de907b8b8952e983771de604514e23/Arbeidsmarkedet%20n%C3%A5%20-%20september%202026.pdf)
-- [Tallgrunnlag - september 2026](https://www.nav.no/_/attachment/download/4b224035-9acb-4e1b-b1b6-16c5573ead72:00133cb8975070710e8b4837bd9d7861fc16cce8/Tallgrunnlag%20Arbeidsmarkedet%20n%C3%A5%20-%20september%202026.xlsx)
+- [Arbeidsmarkedet nå - oktober 2026](https://www.nav.no/_/attachment/download/dc780bdb-9dc3-44d7-bb20-6e07bd22637c:6b64bf170d2214f7a1df87068275665eb70d369f/Arbeidsmarkedet%20n%C3%A5%20-%20oktober%202026.pdf)
+- [Tallgrunnlag - oktober 2026](https://www.nav.no/_/attachment/download/10de1453-8622-4222-81b4-b42fb4859c37:c4a9384ff8f49c213497a4625ae3ee491b121767/Tallgrunnlag%20Arbeidsmarkedet%20n%C3%A5%20-%20oktober%202026.xlsx)
 
 Rapporter med effektberegninger av brudd og endringer i 2025:
 
@@ -99,3 +99,4 @@ Arbeidsstyrken er oppdatert for statistikken fra og med januar 2026 med tall fra
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

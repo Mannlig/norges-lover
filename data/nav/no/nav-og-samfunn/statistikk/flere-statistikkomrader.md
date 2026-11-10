@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9458405b9371e0c7e70c5a7da1f30e4d9267e8566ff1fc8e206ac72297a80bb0 -->
+<!-- innholds-hash: 277f69d9efc058ed86d49da7acbcfd371ca1f8c264ba1e80fa7ac9c9ebe273ac -->
 
 # Flere statistikkområder - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader
-- **Sist oppdatert i arkivet:** 2026-10-08T13:16:37Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:22:54Z
 
 ## Innhold
 
@@ -25,11 +25,11 @@ Statistikk for året 2025
 
 ### [Grunnstønad](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/grunnstonad)
 
-Statistikk pr. 30. juni 2026
+Statistikk pr. 30. september 2026
 
 ### [Hjelpestønad](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/hjelpestonad)
 
-Statistikk pr. 30. juni 2026
+Statistikk pr. 30. september 2026
 
 ### [Trygdemisbruk](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/trygdemisbruk)
 
@@ -49,7 +49,7 @@ Statistikk fra Nav under koronapandemien 2020-2022.
 
 ### [Sosialhjelp](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/sosialhjelp)
 
-Statistikk per 1. tertial 2026
+Statistikk per 2. tertial 2026
 
 ### Snarveier
 
@@ -61,3 +61,4 @@ Statistikk per 1. tertial 2026
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

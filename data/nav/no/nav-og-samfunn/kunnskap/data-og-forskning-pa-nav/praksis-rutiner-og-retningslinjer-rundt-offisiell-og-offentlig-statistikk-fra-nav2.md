@@ -1,15 +1,15 @@
-<!-- innholds-hash: f2b2b6a15f336a67a395765abafd07983cd22c745885fee50a5a5f7000034d2d -->
+<!-- innholds-hash: d22dc371e5ee7669a2b8313257da2e21cae423c9d6686392b0d5566d93b71d00 -->
 
 # Praksis, rutiner og retningslinjer rundt offisiell og offentlig statistikk fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/data-og-forskning-pa-nav/praksis-rutiner-og-retningslinjer-rundt-offisiell-og-offentlig-statistikk-fra-nav2
-- **Sist oppdatert i arkivet:** 2026-10-08T13:04:03Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:10:53Z
 
 ## Innhold
 
-Publisert 10.11.2021 | Oppdatert 08.06.2026
+Publisert 10.11.2021 | Oppdatert 30.10.2026
 
 ## Praksis, rutiner og retningslinjer rundt offisiell og offentlig statistikk fra Nav
 
@@ -38,7 +38,8 @@ Statistikk fra Nav som under det nasjonale programmet er identifisert som offisi
 - Mottakere av uføretrygd
 - Mottakere av grunn- og hjelpestønad
 - Mottakere av barnetrygd
-- Kontantstøtte, foreldrepenger og engangsstønad
+- Kontantstøtte
+- Foreldrepenger og engangsstønad
 - Stønad til enslig mor eller far
 - Barnebidrag
 - Mottakere av alderspensjon
@@ -170,3 +171,4 @@ Spørsmål om statistikk fra Nav rettes til epost adresse nav.statistikk@nav.no
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

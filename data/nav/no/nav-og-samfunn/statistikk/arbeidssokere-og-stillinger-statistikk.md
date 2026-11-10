@@ -1,11 +1,11 @@
-<!-- innholds-hash: d7d291aeaed31cfcb0cdfe67f701b963955f56a0f97401d2eca6160a046f9477 -->
+<!-- innholds-hash: e437f1835f9d75e74b99b5109e74b9a4a80d60e6e0f1addf6deb0eccd11cdad6 -->
 
 # Arbeidssøkere og stillinger - statistikk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk
-- **Sist oppdatert i arkivet:** 2026-10-08T13:15:10Z
+- **Sist oppdatert i arkivet:** 2026-11-10T11:21:26Z
 
 ## Innhold
 
@@ -13,23 +13,23 @@
 
 ### [Hovedtall om arbeidsmarkedet](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Helt ledige](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Tiltaksdeltakere](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Ledige stillinger](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Avgang som arbeidssøker og nedsatt arbeidsevne](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/overgang-til-arbeid-og-stonad)
 
-Status på arbeidsmarkedet 1. kvartal 2026
+Status på arbeidsmarkedet 2. kvartal 2026
 
 ### [Avgang fra arbeidsrettede tiltak til arbeid og stønad](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/overgang-fra-arbeidsrettede-tiltak-til-arbeid-og-stonad)
 
@@ -37,15 +37,15 @@ Avgang i løpet av 2024. Status 6 måneder etter
 
 ### [Arbeidssøkere](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/Annen%20Statistikk%20om%20arbeidsmarkedet)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Permitterte og melding om permittering og masseoppsigelser](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/permitteringsvarsel%20og%20permitterte)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Stønader til arbeidssøkere](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere)
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 ### [Historisk statistikk om arbeidsmarkedet](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/historisk-statistikk)
 
@@ -65,6 +65,10 @@ Statistikk per mars 2026
 
 ### Nyheter
 
+[Liten økning i arbeidsledigheten i oktober](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/liten-okning-i-arbeidsledigheten-i-oktober)
+
+30. oktober 2026
+
 [Stabil arbeidsledighet i september](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/stabil-arbeidsledighet-september)
 
 2. oktober 2026
@@ -72,10 +76,6 @@ Statistikk per mars 2026
 [Stabil arbeidsledighet i august](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/stabil-arbeidsledighet-i-august)
 
 28. august 2026
-
-[Økt arbeidsledighet i juli](https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/nyheter/okt-arbeidsledighet-i-juli)
-
-31. juli 2026
 
 [Flere nyheter](https://www.nav.no/sok?ord=&page=0&f=statistikk&uf=nyheter&s=1&preferredLanguage=nb)
 
@@ -89,3 +89,4 @@ Statistikk per mars 2026
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)
