@@ -1,4 +1,4 @@
-<!-- innholds-hash: 47b16fc85e5e35dd44191379486ae70b42ab0caa7fbc0b2ce8ded13434441377 -->
+<!-- innholds-hash: 0c4e34bfd5a11c73ac221207382252a08359fc0e1c340ae0ad6120709bfc64c5 -->
 
 # Endringer i havressurslova (hjemmel for Fiskeridirektoratet til å beslaglegge og destruere eller avhende umerket fiskeredskap)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 45 L (2024-2025), Innst. 173 L (2024-2025), Lovvedtak 39 (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Fiskerier
+- **Emner:** Fiskerier, Forurensning
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-10T14:25:03Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101838
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 8,
       "id": 8,
       "navn": "Fiskerier",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
       "underemne_liste": []
     }
   ],
@@ -78,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

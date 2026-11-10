@@ -1,4 +1,4 @@
-<!-- innholds-hash: 59aaf2ab9c03454fc94fe0ce06d1686a5dd4439c888a38e4b2ae0a4dc881dddc -->
+<!-- innholds-hash: 8c3936590200bfbf19e3106a83b53487f592214caeff9ef00be46a3b8ee75f4f -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen og Marie Sneve Martinussen om bedre regulering av turistfisket
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:49 S (2024-2025), Innst. 170 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Fiskerier, Fangst, Reiselivsnæring
+- **Emner:** Fiskerier, Kommuner, Reiselivsnæring
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-10T14:25:03Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101554
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,9 +35,9 @@
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 8,
-      "id": 9,
-      "navn": "Fangst",
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
       "underemne_liste": []
     },
     {
@@ -131,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

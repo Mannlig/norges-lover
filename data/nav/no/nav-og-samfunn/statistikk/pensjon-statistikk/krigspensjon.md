@@ -1,37 +1,35 @@
-<!-- innholds-hash: d7f13452f759e04224f37e8e3c6fac2ca2caf159497c0a9f2b09db7283bb00da -->
+<!-- innholds-hash: 5f6ec277478d08e83a61b2aa1cfaae84a54e32265a125f9686c3fb45516b1f26 -->
 
 # Krigspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon
-- **Sist oppdatert i arkivet:** 2026-10-08T13:27:46Z
+- **Sist oppdatert i arkivet:** 2026-11-10T18:12:52Z
 
 ## Innhold
 
-Publisert 24.04.2023 | Oppdatert 06.08.2026
+Publisert 24.04.2023 | Oppdatert 05.11.2026
 
 ## Krigspensjon
 
-Statistikk pr. 30. juni 2026
+Statistikk pr. 30. september 2026
 
-Tabeller
+#### Tabeller
 
-- [Antall mottakere. Kjønn, alder, fylke og pensjonsgruppe. Juni 2016-2026 (Excel)](https://www.nav.no/_/attachment/download/f746ef95-a34e-4035-bdd4-ec0a97f52897:affcb2521a67a5c342be528e16a4b22ca3605936/2kv_2026_PST410%20Antall%20mottakere%20av%20krigspensjon.%20Kj%C3%B8nn,%20alder,%20fylke%20og%20pensjonsgruppe.%20Tidsserie.xlsx) - [(PDF)](https://www.nav.no/_/attachment/download/8b386197-6f7a-4308-9462-b2771f34997e:d24987d4598ba02745ca04bbaa13ff29f4e36857/2kv_2026_PST410%20Antall%20mottakere%20av%20krigspensjon.%20Kj%C3%B8nn,%20alder,%20fylke%20og%20pensjonsgruppe.%20Tidsserie.pdf)
+- [Antall mottakere. Kjønn, alder, fylke og pensjonsgruppe. September 2016-2026 (Excel)](https://www.nav.no/_/attachment/download/5231fcf4-8b03-47ad-a569-83b8e6ba4812:f71ca063cfc4cc30e4bf3d74bedb21ec3e2f8be7/3kv_2026_PST410%20Antall%20mottakere%20av%20krigspensjon.%20Kjonn,%20alder,%20fylke%20og%20pensjonsgruppe.%20Tidsserie.xlsx) - [(PDF)](https://www.nav.no/_/attachment/download/50e52163-b994-4154-8c86-4e40b86fd2b6:fc0ff7bc4cf7d084eb1b999b4a08c3ec128cfb3b/3kv_2026_PST410%20Antall%20mottakere%20av%20krigspensjon.%20Kjonn,%20alder,%20fylke%20og%20pensjonsgruppe.%20Tidsserie.pdf)
 
-Færre enn 600 mottakere av krigspensjon
+#### Videre nedgang i antall krigspensjonister
 
-Ved utgangen av 2. kvartal 2026 var antall mottakere av krigspensjon falt til 597 personer. Antallet mottakere er stadig fallende. Sammenlignet med samme periode i fjor har antall mottakere gått ned med 17 prosent. I løpet av de siste ti årene har antallet mottakere sunket med 82 prosent.
+Ved utgangen av 3. kvartal 2026 var det 576 mottakere av krigspensjon. Det er en nedgang på 16 prosent sammenlignet med september 2025 og en nedgang på 82 prosent sammenlignet med september 2016.
 
-Av de som mottok krigspensjon i juni 2026 fikk 27 prosent utbetalt krigspensjon som følge av skade etter andre verdenskrig - også kalt invalidepensjon. 73 prosent mottok ytelsen som etterlatt etter en krigspensjonist.
+Blant mottakere av krigspensjon i september 2026 fikk 27 prosent utbetalt krigspensjon som følge av skade etter andre verdenskrig – også kalt invalidepensjon. 73 prosent mottok ytelsen som etterlatte etter en krigspensjonist. Andelen som mottok krigspensjon etter sivilloven var 83 prosent, mens 17 prosent mottok krigspensjon etter militærloven.
 
-Andelen som mottar krigspensjon etter sivilloven, har vært stigende over tid. Ved utgangen av juni 2016 mottok 73 prosent sivil krigspensjon. Ved utgangen av juni 2026 var denne andelen steget til 83 prosent.
+Det har lenge vært flere kvinner enn menn blant mottakerne av krigspensjon. I september 2026 var 89 prosent av mottakerne kvinner og 11 prosent menn.
 
-89 prosent av mottakerne i juni 2026 var kvinner, og 11 prosent menn. Andelen kvinner har økt over tid, men har ligget stabilt på dette nivået de siste fire årene.
+Mottakere av krigspensjon har høy alder. I september 2026 var 93 prosent av mottakerne over 80 år.
 
-Mottakere av krigspensjon har høy alder. I juni 2026 var 93 prosent av mottakerne 80 år eller eldre, og 54 prosent var 90 år eller eldre.
-
-67 mottakere av krigspensjon var bosatt i utlandet i mars 2026. Det tilsvarer 11 prosent av alle mottakere.
+I september 2026 mottok 65 personer bosatt i utlandet krigspensjon. Det tilsvarer 11 prosent av alle mottakere.
 
 ### Fakta
 
@@ -43,3 +41,4 @@ Krigspensjon gis som kompensasjon til personer med mén eller nedsatt arbeidsevn
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

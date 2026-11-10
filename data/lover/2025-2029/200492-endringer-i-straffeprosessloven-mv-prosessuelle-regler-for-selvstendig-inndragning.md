@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2ca2e4ad420631cbf9771d56b777240f6252ec60f0682ab0421e59198822e6c -->
+<!-- innholds-hash: 25ebe479943273773bf3a6a44240435947f8e75a444bec0a5986c6caefd96def -->
 
 # Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-10T14:24:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200492
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)",
   "sak_fremmet_id": 200492,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Krokeide",
+      "foedselsdato": "/Date(521762400000+0200)/",
+      "fornavn": "Finn",
+      "id": "FINKRO",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)",
@@ -51,3 +71,4 @@
 
 - **2026-10-30** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

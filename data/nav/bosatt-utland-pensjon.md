@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9b587aa14bcaf977398c4846a517de765da82f8cfe6186e325b0e45022413def -->
+<!-- innholds-hash: 96be01d136b39122d39b69edbe85bedd2d1b5833c895f77582e1598a1e53f0a9 -->
 
 # Søke pensjon fra Nav når du bor i et annet land enn Norge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bosatt-utland-pensjon
-- **Sist oppdatert i arkivet:** 2026-10-08T13:31:16Z
+- **Sist oppdatert i arkivet:** 2026-11-10T18:16:25Z
 
 ## Innhold
 
@@ -223,9 +223,13 @@ Hvis du bor i Tyrkia og skal søke om norsk alderspensjon, er fremgangsmåten va
 
 Du kan enten [søke om alderspensjon](https://www.nav.no/start/soknad-alderspensjon-afp-privat) direkte hos Nav, eller selv kontakte tyrkiske pensjonsmyndigheter for oversendelse av søknad til Norge.
 
-Hvis du bor i USA og skal søke om norsk pensjon, må du sende et spesielt søknadsskjema til Nav i vanlig post. Dette skjemaet er ikke tilgjengelig på våre nettsider. Du må [kontakte oss](https://www.nav.no/kontaktoss) slik at vi kan sende deg riktig skjema.
+Hvis du bor i USA og skal søke om norsk alderspensjon, må du sende inn [søknad om alderspensjon fra Nav](https://www.nav.no/soknader#alderspensjon). Du kan søke elektronisk hvis du har norsk BankID.
 
-Når du har fylt ut skjemaet, sender du det i retur til: Nav Pensjon, Postboks 6600 Etterstad, 0607 OSLO, Norway.
+Hvis du ikke kan logge inn med norsk BankID, velg "Last ned papirsøknad" og send søknaden til Nav i vanlig post.
+
+Hvis du bare skal søke om norsk alderspensjon, må du også fylle ut [fullmakt til å innhente opplysninger](https://www.nav.no/_/attachment/download/12505bb7-8c3f-4f78-843f-a82eb2c9bb24:6aacc85316ea0b964ad74b8f4e2bddecf121735d/USA%20Fullmakt.pdf).
+
+Hvis du sender søknad i posten, bruker du denne returadressen: Nav Pensjon, Postboks 6600 Etterstad, 0607 OSLO, Norway.
 
 Sjekk nettsidene til pensjonsmyndighetene i USA, [https://www.ssa.gov/retirement](https://www.ssa.gov/retirement), eller kontakt dem hvis du har spørsmål om pensjon fra USA.
 
@@ -353,7 +357,7 @@ Har du spørsmål om pensjon, saksbehandling eller utbetaling fra andre land enn
 
 Hvis du har spørsmål om norsk pensjon fra Nav, finner du kontaktinformasjon nedenfor.
 
-Oppdatert 11.09.2026
+Oppdatert 03.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -387,3 +391,4 @@ Stengt nå, åpner kl. 9
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

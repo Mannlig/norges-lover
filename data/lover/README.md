@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1930
+**Antall dokumenter:** 1934
 
 ## Innhold
 
@@ -1933,9 +1933,13 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod](2025-2029/200498-representantforslag-fra-stortingsrepresentantane-kjersti-toppe-maren-grothe-og-bengt-fasteraune-om-e.md)
 - [Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg](2025-2029/200499-representantforslag-fra-stortingsrepresentantane-kjersti-toppe-geir-inge-lien-og-bent-joacim-bentzen.md)
 - [Vedrørende Luftfartstilsynet](2025-2029/200500-vedrorende-luftfartstilsynet.md)
+- [Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget](2025-2029/200501-riksrevisjonens-oppfolging-av-forvaltningsrevisjoner-som-er-behandlet-av-stortinget.md)
+- [Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon](2025-2029/200502-riksrevisjonens-arlige-rapportering-til-stortinget-om-regnskapsrevisjon.md)
 - [Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner](2025-2029/200503-endringer-i-arbeidsmiljoloven-forskriftshjemmel-om-maskiner-og-annet-arbeidsutstyr-og-samtykke-til-g.md)
 - [Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)](2025-2029/200504-endringar-i-folketrygdlova-og-enkelte-andre-lover-oppfolging-av-tiltak-i-forslaget-til-statsbudsjett.md)
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar](2025-2029/200505-endringer-i-eos-vareloven-mv-gjennomforing-av-markedstilsynsforordningen-og-samtykke-til-godkjenning.md)
+- [Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann](2025-2029/200506-representantforslag-fra-stortingsrepresentantene-tage-pettersen-mudassar-kapur-anne-kristine-linnest.md)
+- [Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg](2025-2029/200507-representantforslag-fra-stortingsrepresentantene-erlend-wiborg-hans-andreas-limi-jon-engen-helgheim-.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

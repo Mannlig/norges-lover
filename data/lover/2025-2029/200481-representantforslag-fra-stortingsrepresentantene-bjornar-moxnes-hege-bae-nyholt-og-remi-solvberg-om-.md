@@ -1,4 +1,4 @@
-<!-- innholds-hash: 978700d3b3cc6243fc5595290db90188240cec43c59e54a16346e2d17be06f7f -->
+<!-- innholds-hash: d09abb12597cfbbbb1e322c275ffc0787b4fcde8b03842c5c220a8067c15a96e -->
 
 # Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)
 
@@ -14,7 +14,7 @@
 - **Emner:** Politi og påtalemyndighet, Stortinget
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
+- **Sist oppdatert i arkivet:** 2026-11-10T14:24:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200481
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -110,7 +110,27 @@
   },
   "korttittel": "Representantforslag om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)",
   "sak_fremmet_id": 200481,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bentzen",
+      "foedselsdato": "/Date(670629600000+0200)/",
+      "fornavn": "Bent-Joacim",
+      "id": "BENBEN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "No",
+        "navn": "Nordland"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om årlig framleggelse for Stortinget av vurdering av operativ evne (VOE) for Politiets sikkerhetstjeneste (PST)",
@@ -125,3 +145,4 @@
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)
