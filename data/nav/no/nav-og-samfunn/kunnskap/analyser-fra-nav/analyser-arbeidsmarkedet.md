@@ -1,15 +1,15 @@
-<!-- innholds-hash: dc2b665ad8213eecf643369bb08850bc9d2e9aefc120dd4062f6edcf95b0b5c2 -->
+<!-- innholds-hash: 3686b0be742b530a3d75c2cae04a8e549238b36ce92d6e5647c24626fe87f155 -->
 
 # Analyser - arbeidsmarkedet - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/analyser-arbeidsmarkedet
-- **Sist oppdatert i arkivet:** 2026-10-08T12:53:37Z
+- **Sist oppdatert i arkivet:** 2026-11-10T04:13:48Z
 
 ## Innhold
 
-Publisert 19.08.2013 | Oppdatert 12.05.2026
+Publisert 19.08.2013 | Oppdatert 09.11.2026
 
 ## Analyser - arbeidsmarkedet
 
@@ -22,6 +22,10 @@ Her finner du analyser om utviklingen på arbeidsmarkedet, Navs bedriftsundersø
 - [Navs bedriftsundersøkelse](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/bedriftsundersokelsen)
 
 #### Andre analyser
+
+#### 2026
+
+- [Egenetablering med dagpenger – en støtte til gründerskap blant arbeidsledige](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.3-2026/egenetablering-med-dagpenger) (Arbeid og velferd nr.3-2026)
 
 #### 2025
 
@@ -218,3 +222,4 @@ Her finner du analyser om utviklingen på arbeidsmarkedet, Navs bedriftsundersø
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

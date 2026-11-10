@@ -1,11 +1,11 @@
-<!-- innholds-hash: f4e1abc2ec987c9fed912232ee3c190be92098c2afa691a28e6e8c0bf87b19e9 -->
+<!-- innholds-hash: 4002a86ecf515578a37e7bbb200af05baa9b9f7bb807888bf2ea44e99a77699a -->
 
 # Analyser - andre temaer - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/analyser-andre-temaer
-- **Sist oppdatert i arkivet:** 2026-10-17T19:51:34Z
+- **Sist oppdatert i arkivet:** 2026-11-10T04:13:04Z
 
 ## Innhold
 
@@ -63,7 +63,7 @@ Her finner du analyser om overordnede utviklingstrekk på arbeids- og velferdsom
 - [Nav personbrukerundersøkelse 2025 (pdf)](https://www.nav.no/_/attachment/download/55af0b22-5fea-46a9-b7db-dd43fc2d2b98:532fac825599b23699c046510502bde37c676eca/Navs%20personbrukerunders%C3%B8kelsen%202025%20korr.pdf)[(nettversjon)](https://data.nav.no/fortelling/personbrukerundersokelsen2025/)
 - [Navs arbeidsgiverundersøkelse 2025](https://www.nav.no/_/attachment/download/9b02cdd1-a398-4b40-a83f-bedb82bf62b9:c1c6ad5050570b84159d6bcf9e88d97d45b7c8c0/Arbeidsgiverunders%C3%B8kelsen%202025.pdf)
 - [Navs personbrukerundersøkelse 2024](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/relatert-informasjon/personbrukerundersokelsen-2024)
-- [Navs arbeidsgiverundersøkelse 2024](https://www.nav.no/_/error/404?message=Not+Found.+1888kda7nn9nabh7ucet4ptbg0)
+- [Navs arbeidsgiverundersøkelse 2024](https://www.nav.no/_/error/404?message=Not+Found.+1q2rohiksk983qrkkl39j6vtdd)
 - [NAVs personbrukerundersøkelse 2023 (pptx)](https://www.nav.no/_/attachment/download/b209f15d-8f67-42e5-b028-73591649cbdb:7e2876e8c26728cb053ab028b920068e46c66435/NAVs%20personbrukerunders%C3%B8kelse%202023.pptx)
 - [Navs arbeidsgiverundersøkelse 2023 (pdf)](https://www.nav.no/_/attachment/download/e345588e-dde6-4284-9f36-353cb9fc3a0d:e39ae7598c674bdec120bf8c4a9884107c4ddf78/arbeidsgiverunders%C3%B8kelsen_2023.pdf)
 - [NAVs personbrukerundersøkelse 2022 (pdf)](https://www.nav.no/_/attachment/download/29802e58-8fb2-46f1-a59c-d3a782cb9595:6f49cf5877b6c45ed70a8ea88c1e3a57271fd1cf/NAV%20Personbrukerunders%C3%B8kelsen%202022.pdf)
@@ -143,3 +143,4 @@ Her finner du analyser om overordnede utviklingstrekk på arbeids- og velferdsom
 - **2026-06-18** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

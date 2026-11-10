@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7dfb8bd20de3c9474400acb06c87db03c04f47be884a53317c99445bf59b3b3f -->
+<!-- innholds-hash: b50ea012c1d9d30476eb8da1f20f7ce91efa399ee17e1015b3538944c97d61b2 -->
 
 # Arbeidsgiverlos - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsgiver/arbeidsgiverlos
-- **Sist oppdatert i arkivet:** 2026-10-17T19:29:34Z
+- **Sist oppdatert i arkivet:** 2026-11-10T03:51:16Z
 
 ## Innhold
 
@@ -71,7 +71,7 @@ Ring oss på 55 55 33 36
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner i morgen kl. 9
+Stengt nå, åpner kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/arbeidsgiver/kontaktoss)
 
@@ -85,3 +85,4 @@ Stengt nå, åpner i morgen kl. 9
 - **2026-06-21** Innhold endret (se git-historikk for diff)
 - **2026-10-08** Innhold endret (se git-historikk for diff)
 - **2026-10-17** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)
