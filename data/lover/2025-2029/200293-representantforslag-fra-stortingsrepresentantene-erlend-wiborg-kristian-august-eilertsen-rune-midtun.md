@@ -1,4 +1,4 @@
-<!-- innholds-hash: efdeb4ab2de8e54298b08c96655375ca9ae3c3c261be51b2ae72506f709e9875 -->
+<!-- innholds-hash: 786f94b16be763c48070e757f3833d35e593e6584d8b07c85305bcf2ee639c72 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200293
 - **Type:** 2
 - **Korttittel:** Representantforslag om egenbetaling for tolketjenester etter tre års opphold i Norge
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:281 S (2025-2026), Innst. 25 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -155,7 +155,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge",
   "type": 2
 }
@@ -185,3 +185,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

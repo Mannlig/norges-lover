@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6b7ae19ac674ae67ae600a8ad99165574e432e69948a40b17f1f4a5ef3dc34b5 -->
+<!-- innholds-hash: a6be8d95864d4a95f5efd5cfbfb9ded12effee4bdf4ee518ab68633889512d67 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200280
 - **Type:** 2
 - **Korttittel:** Representantforslag om en tydelig og forpliktende integreringskontrakt
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:275 S (2025-2026), Innst. 22 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200280
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt",
   "type": 2
 }
@@ -149,3 +149,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4505eaeb290fbe144f5cc26cd7e38697335dec1e54aa0bafbf8acd05025a971f -->
+<!-- innholds-hash: c70e5fca393d06361b41577bbb6977d9154221fac6ef8637cfc785eda4fe7ccc -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 - **Status:** 2
-- **Henvisning:** Dokument 8:308 S (2025–2026)
+- **Henvisning:** Dokument 8:308 S (2025–2026), Innst. 34 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:308 S (2025–2026)",
+  "henvisning": "Dokument 8:308 S (2025–2026), Innst. 34 S (2026-2027)",
   "id": 200359,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17588,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
   "type": 2
@@ -290,3 +290,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

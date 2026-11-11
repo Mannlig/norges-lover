@@ -1,4 +1,4 @@
-<!-- innholds-hash: 53afa6d4f83cfedcc87745a57fbc5037bbc2dbcc9f736a30a72920792cfb93e0 -->
+<!-- innholds-hash: 41b3c8e4d7caa651065add090ec4114445aaf6db4d15967aab40aa93dad5ff03 -->
 
 # Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar
 
@@ -7,14 +7,14 @@
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200505
 - **Type:** 2
-- **Korttittel:** Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar
-- **Status:** 3
+- **Korttittel:** Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)
+- **Status:** 2
 - **Henvisning:** Prop. 8 LS (2026–2027)
-- **Komité:** 
+- **Komité:** Næringskomiteen
 - **Emner:** Toll, Forbrukersaker, Eu/eøs
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-09T11:59:35Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -53,12 +53,15 @@
   "id": 200505,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
-  "korttittel": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+  "komite": {
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
+  "korttittel": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (S-delen)",
   "sak_fremmet_id": 200505,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793919600000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
+  "status": 2,
   "tittel": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
   "type": 2
 }
@@ -70,3 +73,4 @@
 
 - **2026-11-06** Første gang hentet
 - **2026-11-09** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

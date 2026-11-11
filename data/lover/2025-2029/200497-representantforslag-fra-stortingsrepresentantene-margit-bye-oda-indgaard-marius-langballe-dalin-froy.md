@@ -1,4 +1,4 @@
-<!-- innholds-hash: fe1f4e21846f99867987a6cc9e26ee486924f2ab5207dbf2d33ae7e46a511758 -->
+<!-- innholds-hash: 09b5efff481363dc4f3a7b88b34127a601e170c165bfea9973edd6184125a5f2 -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister
 
@@ -9,13 +9,13 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om en tryggere hverdag for syklister
 
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:36 S (2026–2027)
-- **Komité:** 
+- **Komité:** Samferdselskomiteen
 - **Emner:** Vegtrafikk
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T14:24:34Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -155,7 +155,10 @@
   "id": 200497,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
+  },
   "korttittel": "Representantforslag om en tryggere hverdag for syklister\n",
   "sak_fremmet_id": 200497,
   "saksordfoerer_liste": [
@@ -179,8 +182,8 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1793746800000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister",
   "type": 2
 }
@@ -193,4 +196,5 @@
 - **2026-11-04** Første gang hentet
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)

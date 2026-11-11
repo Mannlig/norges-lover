@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2035850c4379301a444e2080e53a9a724c6bc85a8597deb6011570d3dd2a1366 -->
+<!-- innholds-hash: 29afeadb26bc9616a082f952117589a2ac0c7b1b9667a970e1712e6a9ab93c55 -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
 - **Status:** 2
-- **Henvisning:** Dokument 8:310 S (2025–2026)
+- **Henvisning:** Dokument 8:310 S (2025–2026), Innst. 35 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200361
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:310 S (2025–2026)",
+  "henvisning": "Dokument 8:310 S (2025–2026), Innst. 35 S (2026-2027)",
   "id": 200361,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17587,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
   "type": 2
@@ -309,3 +309,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

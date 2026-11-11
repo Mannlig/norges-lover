@@ -1,4 +1,4 @@
-<!-- innholds-hash: ac9997adf24dc93216bda720baa5010934b9820b4e234764c1bab7e35e721104 -->
+<!-- innholds-hash: d9dabe0a65cd2149047add0315df91d0ed32e89c670592b3ef6fd6f2c3e81a85 -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 - **Status:** 2
-- **Henvisning:** Dokument 8:307 S (2025–2026)
+- **Henvisning:** Dokument 8:307 S (2025–2026), Innst. 33 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:307 S (2025–2026)",
+  "henvisning": "Dokument 8:307 S (2025–2026), Innst. 33 S (2026-2027)",
   "id": 200358,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17589,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ARBSOS",
     "navn": "Arbeids- og sosialkomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
   "type": 2
@@ -308,3 +308,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

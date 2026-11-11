@@ -1,4 +1,4 @@
-<!-- innholds-hash: fdf5b87d7dc9ae25603747e0a0bb0a0cb935a4770c1c607b7f7521cab39e062d -->
+<!-- innholds-hash: 8256d7a702697d424e67b7a5dada87fc9592e744d6a9e0febb7a2b0e33421d78 -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod 
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200498
 - **Type:** 2
 - **Korttittel:** Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod 
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:37 S (2026–2027)
-- **Komité:** 
+- **Komité:** Familie- og kulturkomiteen
 - **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -97,12 +97,15 @@
   "id": 200498,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FAMKULT",
+    "navn": "Familie- og kulturkomiteen"
+  },
   "korttittel": "Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod ",
   "sak_fremmet_id": 200498,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793746800000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod ",
   "type": 2
 }
@@ -114,3 +117,4 @@
 
 - **2026-11-04** Første gang hentet
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)

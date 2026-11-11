@@ -1,4 +1,4 @@
-<!-- innholds-hash: c8e8c5bc8b15b3d838d247454ea3b6257a91419a8bdc2395adef506c780aae8a -->
+<!-- innholds-hash: de3d2c8f3c2f1875722b290213ca428ff6cbe2b58bdfd5fe98f0c7c6c328e65a -->
 
 # Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200504
 - **Type:** 3
 - **Korttittel:** Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 9 L (2026–2027)
-- **Komité:** 
+- **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T19:02:50Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200504,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ARBSOS",
+    "navn": "Arbeids- og sosialkomiteen"
+  },
   "korttittel": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
   "sak_fremmet_id": 200504,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793961900000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
+  "status": 2,
   "tittel": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
   "type": 3
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-11-06** Første gang hentet
+- **2026-11-10** Innhold endret (se git-historikk for diff)

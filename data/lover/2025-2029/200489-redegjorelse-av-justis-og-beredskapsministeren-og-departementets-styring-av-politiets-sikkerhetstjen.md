@@ -1,4 +1,4 @@
-<!-- innholds-hash: ef3c4cf9de79365176abcf7aaeecdaada26dd6612ec9c1ccda82458cbb2e1318 -->
+<!-- innholds-hash: 6b79c6ca0297772a0dd1c1897f43cf3997b48b11daeb5ceec1b4faac5bfc0231 -->
 
 # Redegjørelse av justis- og beredskapsministeren om PST og Justis- og beredskapsdepartementets styring av PST
 
@@ -14,7 +14,7 @@
 - **Emner:** Politi og påtalemyndighet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T14:24:35Z
+- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200489
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -46,7 +46,7 @@
   "korttittel": "Redegjørelse av justis- og beredskapsministeren om PST og Justis- og beredskapsdepartementets styring av PST",
   "sak_fremmet_id": 200489,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793142000000+0100)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Redegjørelse av justis- og beredskapsministeren om PST og Justis- og beredskapsdepartementets styring av PST",
   "type": 2
@@ -60,4 +60,5 @@
 - **2026-10-30** Første gang hentet
 - **2026-11-04** Innhold endret (se git-historikk for diff)
 - **2026-11-09** Innhold endret (se git-historikk for diff)
+- **2026-11-10** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
