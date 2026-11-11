@@ -1,4 +1,4 @@
-<!-- innholds-hash: 59063d32567d9b5fbcf19b1dd82586a248ddae8263ea1364998e8412f88c031c -->
+<!-- innholds-hash: 89b3637a0e7678d24312e12fb2f88be33304430c3f5a351e4178bfb664b570f8 -->
 
 # Endringer i folkeregisterloven og skatteloven (særlige bostedsregler og pendlerregler for stortingsrepresentanter mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 62 L (2024-2025), Innst. 522 L (2024-2025), Lovvedtak 124 (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Regjeringen, Stortingsrepresentanter, Skattefradrag, Skatter, Statsforvaltning
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102634
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 25,
+      "navn": "Regjeringen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 57,
+      "navn": "Skattefradrag",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 58,
+      "navn": "Skatter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 62 L (2024-2025), Innst. 522 L (2024-2025), Lovvedtak 124 (2024-2025)",
   "id": 102634,
@@ -70,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: bb9d1ffec47ed6cc92039cff54f87e72a4b7a4157467a0d8998dc7de8ceb1e07 -->
+<!-- innholds-hash: fbc463137abe9ec59efc73d0e61ce6165849b0090d7843d2c0877f0888519ad8 -->
 
 # Representantforslag fra stortingsrepresentantene Marit Knutsdatter Strand, Geir Inge Lien, Per Olav Tyldum, Gro-Anita Mykjåland og Heidi Greni om ekstraordinære og effektive uttak av jerv for å sikre beitesesongen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:137 S (2024-2025), Innst. 316 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Husdyr, Veterinærvesen
+- **Emner:** Naturvern, Husdyr
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102691
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,16 +28,16 @@
   "emne_liste": [
     {
       "er_hovedemne": false,
-      "hovedemne_id": 46,
-      "id": 129,
-      "navn": "Husdyr",
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
       "underemne_liste": []
     },
     {
       "er_hovedemne": false,
       "hovedemne_id": 46,
-      "id": 133,
-      "navn": "Veterinærvesen",
+      "id": 129,
+      "navn": "Husdyr",
       "underemne_liste": []
     }
   ],
@@ -181,3 +181,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

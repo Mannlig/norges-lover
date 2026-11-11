@@ -1,4 +1,4 @@
-<!-- innholds-hash: 520d2839951e38abd08b90110129d6ac25f35d440a1d55a1802c329c14127d66 -->
+<!-- innholds-hash: 53e68106bb632cdddca98251524b44d95a06e9f786314e8fa2de2c783a199627 -->
 
 # Representantforslag fra stortingsrepresentantene Kjell Ingolf Ropstad, Dag-Inge Ulstein og Olaug Vervik Bollestad om flere tiltak og en ny handlingsplan for fortsatt reduksjon i antall svangerskapsavbrudd
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:133 S (2024-2025), Innst. 362 S (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Familie, Helsevesen, Svangerskap, Trygder
+- **Emner:** Innvandrere, Skoler, Familie, Forskning, Helsevesen, Svangerskap, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102568
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,9 +28,30 @@
   "emne_liste": [
     {
       "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 31,
+      "navn": "Skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
       "hovedemne_id": 40,
       "id": 40,
       "navn": "Familie",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 45,
+      "id": 45,
+      "navn": "Forskning",
       "underemne_liste": []
     },
     {
@@ -157,3 +178,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

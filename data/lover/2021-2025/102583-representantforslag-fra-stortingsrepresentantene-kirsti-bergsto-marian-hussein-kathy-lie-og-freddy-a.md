@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7b19f5328dd4f3891f875aebcde02ebd7a1fd04a6527a71de7b791937a49cd10 -->
+<!-- innholds-hash: 8c597a86080680f4147e19904c0d4fd2d7db3ed5b552bc7d5895bd5e591f1189 -->
 
 # Representantforslag fra stortingsrepresentantene Kirsti Bergstø, Marian Hussein, Kathy Lie og Freddy André Øvstegård om et rettferdig yrkesskaderegelverk
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:134 S (2024-2025), Innst. 361 S (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Sykdommer, Trygder, Arbeidsmiljø
+- **Emner:** Sykdommer, Trygder, Arbeidsmiljø, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102583
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -45,6 +45,13 @@
       "hovedemne_id": 5,
       "id": 205,
       "navn": "Arbeidsmiljø",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 224,
+      "navn": "Psykisk helse",
       "underemne_liste": []
     }
   ],
@@ -169,3 +176,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

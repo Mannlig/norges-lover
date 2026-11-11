@@ -1,4 +1,4 @@
-<!-- innholds-hash: d09030db929c69d3bd73a7908dfc9d56b7c78c48ce81942694323859cc82e443 -->
+<!-- innholds-hash: 55c2b49ef3d33c61d7ef5f211eee1bca93ad406dc0a3662c0affdc35987252a8 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Emilie Mehl og Heidi Greni om å gjeninnføre lønnstak for ledere i staten på 2 mill. kroner
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:135 S (2024-2025), Innst. 252 S (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** Statens personalpolitikk, Lønn og inntekt
+- **Emner:** Statens personalpolitikk, Lønn og inntekt, Statsforvaltning
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102584
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 5,
       "id": 95,
       "navn": "Lønn og inntekt",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
       "underemne_liste": []
     }
   ],
@@ -143,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

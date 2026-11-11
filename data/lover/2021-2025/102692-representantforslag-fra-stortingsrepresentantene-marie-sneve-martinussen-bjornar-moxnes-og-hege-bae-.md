@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9727da3fcf3c7e66483970e82b9e50610fa74239fba179032d8342e0b712cbf1 -->
+<!-- innholds-hash: ccd76bc8b162c5955db1ebf13f6388df699aef8ab9588d6f2d5cc93ccad24681 -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes og Hege Bae Nyholt om vern av internasjonal rett og rettferdig fred for Palestina
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:138 S (2024-2025), Innst. 302 S (2024-2025)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** Forsvarsmateriell, Utenrikssaker, Internasjonal rett
+- **Emner:** Forsvarsmateriell, Utenrikssaker, Internasjonal rett, Frivillighet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102692
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -45,6 +45,13 @@
       "hovedemne_id": 163,
       "id": 200,
       "navn": "Internasjonal rett",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 225,
+      "navn": "Frivillighet",
       "underemne_liste": []
     }
   ],
@@ -150,3 +157,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

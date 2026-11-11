@@ -1,4 +1,4 @@
-<!-- innholds-hash: e15c35a5be2172478c61994e28775b030b79ae7cdb259376b99dacdb0e41433d -->
+<!-- innholds-hash: ecdddb99cef3f0e0f7cdd8822a4b0dc8efa9420bddd09cf45bf3829cc81c0c34 -->
 
 # Representantforslag fra stortingsrepresentantene Sigrid Zurbuchen Heiberg, Une Bastholm og Rasmus Hansson om rettferdig strømstøtte som stimulerer til strømsparing
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:136 S (2024-2025), Innst. 535 L (2024-2025), Lovvedtak 135 (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Elektrisitet, Priser og konkurranseforhold
+- **Emner:** Elektrisitet, Priser og konkurranseforhold, Forbrukersaker
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102585
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 187,
       "id": 83,
       "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 98,
+      "navn": "Forbrukersaker",
       "underemne_liste": []
     }
   ],
@@ -143,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

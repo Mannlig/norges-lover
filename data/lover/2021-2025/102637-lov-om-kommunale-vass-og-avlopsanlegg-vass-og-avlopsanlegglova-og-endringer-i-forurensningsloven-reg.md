@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0d6c3a4d89c1e43ed1f870ac4ce974ff636e4ea0de5af4e7659e8693563e3509 -->
+<!-- innholds-hash: c7842f424cadb70570a8fb0b4a04601ae6578a6ffee0b84974848fc88689fb18 -->
 
 # Lov om kommunale vass- og avløpsanlegg (vass- og avløpsanlegglova) og endringer i forurensningsloven (regulering av forholdet mellom abonnent og kommune og frakobling av overvann fra kommunale avløpsanlegg)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 64 L (2024-2025), Innst. 315 L (2024-2025), Lovvedtak 62 (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Forurensning, Boligsaker, Kommuner
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102637
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 38,
+      "navn": "Boligsaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 64 L (2024-2025), Innst. 315 L (2024-2025), Lovvedtak 62 (2024-2025)",
   "id": 102637,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

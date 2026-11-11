@@ -1,4 +1,4 @@
-<!-- innholds-hash: ddebc6b7d889b4dd1fc3d7f3e9e78bfb23339023c633d02611a42e856dc8082a -->
+<!-- innholds-hash: f29819095f876fb2a5399daf17797980c6b94dc5747942844e9ffb279a4f6f25 -->
 
 # Forebygging av ekstremisme - Trygghet, tillit, samarbeid og demokratisk motstandskraft
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 13 (2024-2025), Innst. 490 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Likestilling, Ungdommer, Politi og påtalemyndighet, Menneskerettigheter, Samfunnssikkerhet
+- **Emner:** Likestilling, Trossamfunn, Massemedier, Politi og påtalemyndighet, Menneskerettigheter, Samfunnssikkerhet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102638
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -34,10 +34,17 @@
       "underemne_liste": []
     },
     {
+      "er_hovedemne": true,
+      "hovedemne_id": 105,
+      "id": 105,
+      "navn": "Trossamfunn",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": false,
       "hovedemne_id": 6,
-      "id": 125,
-      "navn": "Ungdommer",
+      "id": 122,
+      "navn": "Massemedier",
       "underemne_liste": []
     },
     {
@@ -106,3 +113,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

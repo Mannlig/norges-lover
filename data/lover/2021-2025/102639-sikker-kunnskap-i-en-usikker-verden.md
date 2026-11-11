@@ -1,4 +1,4 @@
-<!-- innholds-hash: df733feb456f5cd9880861002aa31a2fc3b99b3640196ac2c32a939f2833b642 -->
+<!-- innholds-hash: 4d1ee45f10acf1c6119b1c02ba43f9bc8ba5641ec1a911b43009508a2b8b407d -->
 
 # Sikker kunnskap i en usikker verden
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 14 (2024-2025), Innst. 290 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** 
+- **Emner:** Forskning
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102639
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 45,
+      "id": 45,
+      "navn": "Forskning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 14 (2024-2025), Innst. 290 S (2024-2025)",
   "id": 102639,
@@ -70,3 +78,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

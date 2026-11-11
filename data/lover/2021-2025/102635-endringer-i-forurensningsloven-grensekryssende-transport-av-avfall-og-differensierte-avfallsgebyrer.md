@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3367dc762f0d0065ab463ffb73b28ce7b725c397d59556f8f365b5fff731375b -->
+<!-- innholds-hash: 5f4fb0eae34bea21919810c32a8e4a0dade2ad5a80c5a58d921f74e284e560b8 -->
 
 # Endringer i forurensningsloven (grensekryssende transport av avfall og differensierte avfallsgebyrer)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 58 L (2024-2025), Innst. 281 L (2024-2025), Lovvedtak 51 (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Forurensning, Kommuner, Grensespørsmål, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102635
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 165,
+      "navn": "Grensespørsmål",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 58 L (2024-2025), Innst. 281 L (2024-2025), Lovvedtak 51 (2024-2025)",
   "id": 102635,
@@ -70,3 +99,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)
