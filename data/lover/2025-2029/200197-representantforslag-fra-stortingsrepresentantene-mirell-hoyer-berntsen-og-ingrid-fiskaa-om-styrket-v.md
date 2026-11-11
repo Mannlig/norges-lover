@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8a1c798c951fb67161a5648e30c5f42bc2e3e4c1d16e02cad252eabea2d7179f -->
+<!-- innholds-hash: 2cdd9f1489e34489fd02462ee6706dcc8451afa56fceb959d0c229b10fe35cde -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen og Ingrid Fiskaa om styrket vern av opphavsrett i møte med kunstig intelligens
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om styrket vern av opphavsrett i møte med kunstig intelligens
 - **Status:** 2
-- **Henvisning:** Dokument 8:249 S (2025-2026)
+- **Henvisning:** Dokument 8:249 S (2025-2026), Innst. 31 L (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200197
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -66,10 +66,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:249 S (2025-2026)",
+  "henvisning": "Dokument 8:249 S (2025-2026), Innst. 31 L (2026-2027)",
   "id": 200197,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17591,
+  "innstilling_kode": 2,
   "komite": {
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -97,7 +97,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1775685600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen og Ingrid Fiskaa om styrket vern av opphavsrett i møte med kunstig intelligens",
   "type": 2
@@ -109,3 +109,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

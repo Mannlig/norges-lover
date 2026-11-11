@@ -1,4 +1,4 @@
-<!-- innholds-hash: e076b7806a579348bf9f83851f56e6e67f40bedce896cd102158bbfd95b69c34 -->
+<!-- innholds-hash: b81551c485e66517372f3adfff008d58358478f7889fc281d5307bf3af92ff2e -->
 
 # Lov om statsføretak (statsføretakslova)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 44 L (2024-2025), Innst. 167 L (2024-2025), Lovvedtak 40 (2024-2025), Lovanmerkning 1 (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Energi, Jernbaner, Statlig eierskap, Aksjer, Industri
+- **Emner:** Statlig eierskap
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100287
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,38 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "er_hovedemne": true,
-      "hovedemne_id": 4,
-      "id": 4,
-      "navn": "Energi",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 107,
-      "navn": "Jernbaner",
-      "underemne_liste": []
-    },
-    {
       "er_hovedemne": false,
       "hovedemne_id": 113,
       "id": 119,
       "navn": "Statlig eierskap",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 187,
-      "id": 192,
-      "navn": "Aksjer",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 113,
-      "id": 223,
-      "navn": "Industri",
       "underemne_liste": []
     }
   ],
@@ -106,3 +78,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

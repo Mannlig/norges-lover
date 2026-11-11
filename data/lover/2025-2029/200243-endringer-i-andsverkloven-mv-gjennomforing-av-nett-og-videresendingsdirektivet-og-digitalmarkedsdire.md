@@ -1,4 +1,4 @@
-<!-- innholds-hash: e96ecc397943a900d5164eaf272571e73d71bb5bd1ee0edbcc62c5b233e48b6d -->
+<!-- innholds-hash: 52285c0002287d236e04fed001d2b4c5535a463a91cc3f2faefa6ebfac331c98 -->
 
 # Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til tiltredelse til WIPO-traktatene av 20. desember 1996 om opphavsrett (WCT) og om fremføringer og fonogrammer (WPPT)
 
@@ -9,12 +9,12 @@
 - **Type:** 3
 - **Korttittel:** Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet)
 - **Status:** 2
-- **Henvisning:** Prop. 41 LS (2025-2026)
+- **Henvisning:** Prop. 41 LS (2025-2026), Innst. 31 L (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200243
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 41 LS (2025-2026)",
+  "henvisning": "Prop. 41 LS (2025-2026), Innst. 31 L (2026-2027)",
   "id": 200243,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17591,
+  "innstilling_kode": 2,
   "komite": {
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1775685600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til tiltredelse til WIPO-traktatene av 20. desember 1996 om opphavsrett (WCT) og om fremføringer og fonogrammer (WPPT)",
   "type": 3
@@ -70,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

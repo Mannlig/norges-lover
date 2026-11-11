@@ -1,4 +1,4 @@
-<!-- innholds-hash: de3d2c8f3c2f1875722b290213ca428ff6cbe2b58bdfd5fe98f0c7c6c328e65a -->
+<!-- innholds-hash: 62dfe08e01219c64175ac95bf9c6dee42fb97f2b8c8786c3d4d069315ef76958 -->
 
 # Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
   "sak_fremmet_id": 200504,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Waagen",
+      "foedselsdato": "/Date(635382000000+0100)/",
+      "fornavn": "Elise",
+      "id": "ELW",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
@@ -51,3 +71,4 @@
 
 - **2026-11-06** Første gang hentet
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-11** Innhold endret (se git-historikk for diff)

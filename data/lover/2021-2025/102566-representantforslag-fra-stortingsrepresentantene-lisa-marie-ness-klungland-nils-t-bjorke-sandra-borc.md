@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1075c058842bb156d0d0d662c0b2c0c69e5581367b61b176ee626b6749a454f9 -->
+<!-- innholds-hash: c630dbe30ed5039ffdbb09a4fa1d2048cc998ee726d6bd90e7da50b2d637fe2e -->
 
 # Representantforslag fra stortingsrepresentantene Lisa Marie Ness Klungland, Nils T. Bjørke, Sandra Borch, Marit Knutsdatter Strand og Eivind Drivenes om en større satsing på norsk produksjon av biogass
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:131 S (2024-2025), Innst. 250 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Energi, Havbruk, Utenrikshandel, Næringsutvikling
+- **Emner:** Energi, Forurensning, Olje og gass, Havbruk, Utenrikshandel, Næringsutvikling, Industri
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102566
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 4,
       "id": 4,
       "navn": "Energi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 74,
+      "navn": "Olje og gass",
       "underemne_liste": []
     },
     {
@@ -52,6 +66,13 @@
       "hovedemne_id": 113,
       "id": 114,
       "navn": "Næringsutvikling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 223,
+      "navn": "Industri",
       "underemne_liste": []
     }
   ],
@@ -195,3 +216,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4febe8c51f06b8b1b25820176569bc99405606c740cb202b65969d589dad07e3 -->
+<!-- innholds-hash: bcc12fab8e221c3576ecf464fbda4824048a87f912da0a78de56ee640f2ca55c -->
 
 # Representantforslag fra stortingsrepresentantene Erna Solberg, Ine Eriksen Søreide, Tina Bru, Hårek Elvenes, Trond Helleland og Kari-Anne Jønnes om å kraftig styrke norsk og ukrainsk forsvarsindustri
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:132 S (2024-2025), Innst. 251 S (2024-2025)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** Forsvarsmateriell, Elektrisitet
+- **Emner:** Internasjonalt samarbeid, Forsvarsmateriell, Elektrisitet, Industri
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-11T09:22:44Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102567
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,6 +28,13 @@
   "emne_liste": [
     {
       "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
       "hovedemne_id": 59,
       "id": 60,
       "navn": "Forsvarsmateriell",
@@ -38,6 +45,13 @@
       "hovedemne_id": 4,
       "id": 71,
       "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 223,
+      "navn": "Industri",
       "underemne_liste": []
     }
   ],
@@ -83,7 +97,7 @@
     {
       "doedsdato": null,
       "etternavn": "Søreide",
-      "foedselsdato": "/Date(199843200000+0200)/",
+      "foedselsdato": "/Date(199836000000+0200)/",
       "fornavn": "Ine Eriksen",
       "id": "IME",
       "kjoenn": 1,
@@ -140,7 +154,7 @@
     {
       "doedsdato": null,
       "etternavn": "Helleland",
-      "foedselsdato": "/Date(-236048400000+0200)/",
+      "foedselsdato": "/Date(-236052000000+0200)/",
       "fornavn": "Trond",
       "id": "TROH",
       "kjoenn": 2,
@@ -200,3 +214,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-11** Innhold endret (se git-historikk for diff)
