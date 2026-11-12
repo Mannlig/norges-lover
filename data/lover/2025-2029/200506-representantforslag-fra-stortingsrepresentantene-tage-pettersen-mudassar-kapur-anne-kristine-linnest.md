@@ -1,4 +1,4 @@
-<!-- innholds-hash: fdebcc79d29f667e463029263845f60046cc84b33762ea2855945a3f48cb33eb -->
+<!-- innholds-hash: faeb466ca504cd86906f0d8491cb6760c780c0cd40ddc0cb3655d063f9a734ec -->
 
 # Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200506
 - **Type:** 2
 - **Korttittel:** Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:39 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T14:24:34Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -146,12 +146,15 @@
   "id": 200506,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
   "sak_fremmet_id": 200506,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
   "type": 2
 }
@@ -162,3 +165,4 @@
 ## Endringshistorikk
 
 - **2026-11-10** Første gang hentet
+- **2026-11-12** Innhold endret (se git-historikk for diff)

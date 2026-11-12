@@ -1,4 +1,4 @@
-<!-- innholds-hash: e30f4d9bf3dd275e5bd6a2caa8a483690976b4e37eb289d5fbb2a8bb445b862c -->
+<!-- innholds-hash: c49101a144943c30ac8d42aec04c8fffc8c74dde552862e1d8af3e4375c4ae23 -->
 
 # Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200282
 - **Type:** 2
 - **Korttittel:** Representantforslag om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:276 S (2025-2026), Innst. 24 S (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200282
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -117,7 +117,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
   "type": 2
 }
@@ -129,3 +129,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-12** Innhold endret (se git-historikk for diff)

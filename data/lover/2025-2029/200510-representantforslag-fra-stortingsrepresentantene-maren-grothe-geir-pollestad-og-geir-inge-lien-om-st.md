@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6579d0b292a8779b10484587d7df3a07941db4c7f37251b112dd2942527725c5 -->
+<!-- innholds-hash: 585b4fd234073284913dcbb73e08ca5f39f97bc5cf3274205b939d3ce9ddef91 -->
 
 # Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200510
 - **Type:** 2
 - **Korttittel:** Representantforslag om strømstøtte til næringslivet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:41 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-11T16:47:49Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200510,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om strømstøtte til næringslivet",
   "sak_fremmet_id": 200510,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794351600000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-11** Første gang hentet
+- **2026-11-12** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6f08a578f0d9073bacb3f0a350ae179a9b7ed526ec66db1da9b1dd7e0881d47c -->
+<!-- innholds-hash: 440f424750c0436e0118fca7212a9223cdb4cb907235ec2d8d1caa1bc50a6e27 -->
 
 # Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200511
 - **Type:** 2
 - **Korttittel:** Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:45 S (2026–2027)
-- **Komité:** 
+- **Komité:** Næringskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T10:24:56Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200511
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -70,12 +70,15 @@
   "id": 200511,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
   "korttittel": "Representantforslag om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
   "sak_fremmet_id": 200511,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
-  "status": 3,
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
   "type": 2
 }
@@ -86,3 +89,4 @@
 ## Endringshistorikk
 
 - **2026-11-12** Første gang hentet
+- **2026-11-12** Innhold endret (se git-historikk for diff)

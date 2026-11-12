@@ -1,4 +1,4 @@
-<!-- innholds-hash: 23f7a3887f19f7c6023a03b9de0a0e1f7d9a9707dee980d6f39ce726cceb7d4d -->
+<!-- innholds-hash: 32581f998c70ad21084c64fde2ea1a9a63edd73c4388a34ce8d76b79cbbcde05 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200507
 - **Type:** 2
 - **Korttittel:** Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:40 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T14:24:34Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -165,12 +165,15 @@
   "id": 200507,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
   "sak_fremmet_id": 200507,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
   "type": 2
 }
@@ -181,3 +184,4 @@
 ## Endringshistorikk
 
 - **2026-11-10** Første gang hentet
+- **2026-11-12** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f44cf5ab527fc2f32aea60e52d5ea79c2086e36fe707b94275abd020ccc80d21 -->
+<!-- innholds-hash: ca77b85305a3c0888debe6416d313072abd72af2a60d3900ab09ba1270c7b17b -->
 
 # Representantforslag fra stortingsrepresentantene Margit Bye, Julie E. Stuestøl og Marius Langballe Dalin om bedre oppfølging av overlevende og etterlatte etter katastrofer
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om bedre oppfølging av overlevende og etterlatte etter katastrofer
 - **Status:** 2
-- **Henvisning:** Dokument 8:323 S (2025–2026)
+- **Henvisning:** Dokument 8:323 S (2025–2026), Dokument 8:323 S (2025-2026)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
+- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200383
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,7 +85,7 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:323 S (2025–2026)",
+  "henvisning": "Dokument 8:323 S (2025–2026), Dokument 8:323 S (2025-2026)",
   "id": 200383,
   "innstilling_id": -1,
   "innstilling_kode": 0,
@@ -130,3 +130,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-12** Innhold endret (se git-historikk for diff)
