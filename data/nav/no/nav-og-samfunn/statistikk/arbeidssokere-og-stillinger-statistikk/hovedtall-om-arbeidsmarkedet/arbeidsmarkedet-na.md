@@ -1,15 +1,15 @@
-<!-- innholds-hash: 2df22a99936559dc1b03289196524d9a693802584cdd179a5990bf8aaeec337a -->
+<!-- innholds-hash: ac2f61c5faed4d584e9f42b9301123d8e6cfb83db0a9c20ea031d2b83f13ea43 -->
 
 # Arbeidsmarkedet nå - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/hovedtall-om-arbeidsmarkedet/arbeidsmarkedet-na
-- **Sist oppdatert i arkivet:** 2026-10-09T05:59:40Z
+- **Sist oppdatert i arkivet:** 2026-11-12T08:07:21Z
 
 ## Innhold
 
-Publisert 28.05.2021 | Oppdatert 02.10.2026
+Publisert 28.05.2021 | Oppdatert 30.10.2026
 
 ## Arbeidsmarkedet nå
 
@@ -17,6 +17,8 @@ I Arbeidsmarkedet nå retter vi beskrivelsen mot mer analytiske miljøer enn det
 
 #### 2026
 
+- [Arbeidsmarkedet nå - oktober 2026](https://www.nav.no/_/attachment/download/dc780bdb-9dc3-44d7-bb20-6e07bd22637c:6b64bf170d2214f7a1df87068275665eb70d369f/Arbeidsmarkedet%20n%C3%A5%20-%20oktober%202026.pdf)
+- [Tallgrunnlag - oktober 2026](https://www.nav.no/_/attachment/download/10de1453-8622-4222-81b4-b42fb4859c37:c4a9384ff8f49c213497a4625ae3ee491b121767/Tallgrunnlag%20Arbeidsmarkedet%20n%C3%A5%20-%20oktober%202026.xlsx)
 - [Arbeidsmarkedet nå - september 2026](https://www.nav.no/_/attachment/download/5011812a-5d75-4143-9b55-cf3a9107a475:a099bf4293de907b8b8952e983771de604514e23/Arbeidsmarkedet%20n%C3%A5%20-%20september%202026.pdf)
 - [Tallgrunnlag - september 2026](https://www.nav.no/_/attachment/download/4b224035-9acb-4e1b-b1b6-16c5573ead72:00133cb8975070710e8b4837bd9d7861fc16cce8/Tallgrunnlag%20Arbeidsmarkedet%20n%C3%A5%20-%20september%202026.xlsx)
 - [Arbeidsmarkedet nå - august 2026](https://www.nav.no/_/attachment/download/1cdca88d-86a5-48b8-9f11-ab650913a258:913fd4364b199e7ee7dc19734e2523f45d01191e/Arbeidsmarkedet%20n%C3%A5%20-%20august%202026.pdf)
@@ -65,3 +67,4 @@ I Arbeidsmarkedet nå retter vi beskrivelsen mot mer analytiske miljøer enn det
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-12** Innhold endret (se git-historikk for diff)
