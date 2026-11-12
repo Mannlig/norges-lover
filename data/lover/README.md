@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1937
+**Antall dokumenter:** 1940
 
 ## Innhold
 
@@ -1943,6 +1943,9 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner](2025-2029/200508-endringer-i-arbeidsmiljoloven-forskriftshjemmel-om-maskiner-og-annet-arbeidsutstyr-og-samtykke-til-g.md)
 - [Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar](2025-2029/200509-endringer-i-eos-vareloven-mv-gjennomforing-av-markedstilsynsforordningen-og-samtykke-til-godkjenning.md)
 - [Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet](2025-2029/200510-representantforslag-fra-stortingsrepresentantene-maren-grothe-geir-pollestad-og-geir-inge-lien-om-st.md)
+- [Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund](2025-2029/200511-representantforslag-fra-stortingsrepresentantene-siren-julianne-jensen-og-une-bastholm-om-a-midlerti.md)
+- [Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat](2025-2029/200512-representantforslag-fra-stortingsrepresentantene-tom-staahle-hans-andreas-limi-hilde-grande-og-marti.md)
+- [Representantforslag fra stortingsrepresentantene Lars Lønberg Henriksen, Ingrid Liland, Une Bastholm, Marius Langballe Dalin og Frøya Skjold Sjursæther om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering](2025-2029/200513-representantforslag-fra-stortingsrepresentantene-lars-lonberg-henriksen-ingrid-liland-une-bastholm-m.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
