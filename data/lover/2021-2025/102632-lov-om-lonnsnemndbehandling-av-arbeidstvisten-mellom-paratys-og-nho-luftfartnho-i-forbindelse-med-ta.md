@@ -1,4 +1,4 @@
-<!-- innholds-hash: e367a0b5c82362bc7a7c282e332b080318325a1a039fc3ef3c133e6b0bd91d06 -->
+<!-- innholds-hash: ace2f00a3608f48d8cc07049b6de5d62aeffe8d0fbe9086e92367b57f2e135ad -->
 
 # Lov om lønnsnemndbehandling av arbeidstvisten mellom Parat/YS og NHO Luftfart/NHO i forbindelse med tariffrevisjonen 2025 av Overenskomst for redningsmenn i Bristow Norway
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 65 L (2024-2025), Innst. 233 L (2024-2025), Lovvedtak 47 (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** 
+- **Emner:** Redningstjeneste, Olje og gass, Arbeidsvilkår, Lønn og inntekt, Luftfart, Sikkerhet til sjøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-13T10:03:37Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102632
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,50 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 181,
+      "id": 15,
+      "navn": "Redningstjeneste",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 74,
+      "navn": "Olje og gass",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 94,
+      "navn": "Arbeidsvilkår",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 95,
+      "navn": "Lønn og inntekt",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 109,
+      "navn": "Luftfart",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 181,
+      "id": 146,
+      "navn": "Sikkerhet til sjøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 65 L (2024-2025), Innst. 233 L (2024-2025), Lovvedtak 47 (2024-2025)",
   "id": 102632,
@@ -70,3 +113,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

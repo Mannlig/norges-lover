@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4a2dcd53fb38f77ea0f7f8df4b8be769b6bfc07b723f83a2a8bb7c031719339 -->
+<!-- innholds-hash: 08601f4ee67854be9fe5e8ca6e85806ff06f53abb29637a737969dd5c1e846bc -->
 
 # Avgifter for bedrifter og organisasjoner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-16T23:34:41Z
+- **Sist oppdatert i arkivet:** 2026-11-13T11:39:08Z
 
 ## Innhold
 
@@ -22,21 +22,21 @@ Du kan også [logge inn for å se en kalender som er tilpasset din virksomhet](h
 
 5
 
-OKT
+NOV
 
-[A-melding for september – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
+[A-melding for oktober – frist for levering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/)
 
-12
+10
 
-OKT
+NOV
 
-[Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/)
+[Mva-melding for omvendt avgiftsplikt – frist for levering 3. kvartal](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/)
 
-12
+16
 
-OKT
+NOV
 
-[Mva-melding – frist for levering og betaling](https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/)
+[A-meldingen (arbeidsgiveravgift og finansskatt) – frist for betaling](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/frister-og-betaling-i-a-meldingen/)
 
 [Se hele kalenderen](https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/frister-gebyrer-og-tilleggsskatt/frister-og-oppgaver/)
 
@@ -48,3 +48,4 @@ OKT
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-13** Innhold endret (se git-historikk for diff)
