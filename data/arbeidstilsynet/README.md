@@ -2,7 +2,7 @@
 
 Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 
-**Antall dokumenter:** 169
+**Antall dokumenter:** 171
 
 ## Innhold
 
@@ -143,10 +143,12 @@ Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 - [Forskrift om arbeidsreglement i hotellbransjen](regelverk/forskrifter/forskrift-om-arbeidsreglement-i-hotellbransjen.md)
 - [Forskrift om arbeidstid innenfor vegtransport](regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport.md)
 - [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien.md)
+- [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien2.md)
 - [Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene.md)
 - [Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge.md)
 - [Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-fiskeindustribedrifter.md)
 - [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter.md)
+- [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter2.md)
 - [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter.md)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei.md)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md)

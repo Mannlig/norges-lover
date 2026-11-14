@@ -1,4 +1,4 @@
-<!-- innholds-hash: cca20ca26879828cadf44da580dd6ff68ec5ae4cf886ae39345aba0376ae1a8a -->
+<!-- innholds-hash: c2c355f5de011215159450f42d8814e4452858e056d16a5af231f5fb5578a544 -->
 
 # Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Sofie Marhaug og Geir Jørgensen om ei norsk utlånsordning for undervisningsmateriell
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:55 S (2024-2025), Innst. 172 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Skoler
+- **Emner:** Skoler, Kommunenes økonomi, Grunnskole
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-14T02:59:24Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101595
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 32,
       "id": 31,
       "navn": "Skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 135,
+      "navn": "Kommunenes økonomi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 183,
+      "navn": "Grunnskole",
       "underemne_liste": []
     }
   ],
@@ -136,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

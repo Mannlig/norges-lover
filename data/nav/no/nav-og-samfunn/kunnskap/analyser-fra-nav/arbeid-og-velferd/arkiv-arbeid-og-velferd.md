@@ -1,15 +1,15 @@
-<!-- innholds-hash: 292801f34ad93d7e719adbc7341bbb2592af4c8cec8535d3adaefce8eb73f49d -->
+<!-- innholds-hash: 571932f40011e6683121c2117b0f8925024d4d5a55a57035a5d051321c88cae5 -->
 
 # Arkiv - Arbeid og velferd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arkiv-arbeid-og-velferd
-- **Sist oppdatert i arkivet:** 2026-10-09T17:21:33Z
+- **Sist oppdatert i arkivet:** 2026-11-14T06:31:22Z
 
 ## Innhold
 
-Publisert 10.03.2021 | Oppdatert 08.06.2026
+Publisert 10.03.2021 | Oppdatert 29.10.2026
 
 ## Arkiv - Arbeid og velferd
 
@@ -17,6 +17,8 @@ Tidligere utgaver.
 
 #### 2026
 
+- [Boken Velferdsstaten og 20 år med Nav](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/velferdsstaten-og-20-ar-med-nav)
+- [Arbeid og velferd nr. 2 2026](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.2-2026)
 - [Arbeid og velferd nr. 1 2026](https://www.nav.no/no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/arbeid-og-velferd-nr.1-2026)
 
 #### 2025
@@ -146,3 +148,4 @@ Tidligere utgaver.
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)
