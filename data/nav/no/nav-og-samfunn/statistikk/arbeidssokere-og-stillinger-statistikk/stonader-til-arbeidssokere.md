@@ -1,19 +1,19 @@
-<!-- innholds-hash: c36543e2dd4126f2e1b5407eba02b29f1698a555ef390991560dd54d48d91b2b -->
+<!-- innholds-hash: 57250852ff68e386021db7529fca6d1b394ccb74dec4b9112aab258a92c98d02 -->
 
 # Stønader til arbeidssøkere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/stonader-til-arbeidssokere
-- **Sist oppdatert i arkivet:** 2026-10-09T18:10:24Z
+- **Sist oppdatert i arkivet:** 2026-11-14T17:59:23Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.10.2026
+Publisert 01.12.2019 | Oppdatert 05.11.2026
 
 ## Stønader til arbeidssøkere
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -25,7 +25,8 @@ På SSB sine hjemmesider finner du informasjon om [hvorfor Nav og SSB har ulike 
 
 Søknad om dagpenger – Måned
 
-- [Søknader om dagpenger måned tidsserie (xls)](https://www.nav.no/_/attachment/download/97033875-e611-4061-b13b-1838bde0cf15:d94ff0cb2762bd9bf4e5e1a7ba381f8e5cdb5921/202609_Soknader%20om%20dagpenger%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/1fae0018-841a-4777-8ad4-d0fa40777b24:7e1839da3f54a6b4ff7188b69028fff2dc51cb01/202609_Soknader%20om%20dagpenger%20Maaned.pdf) (september 2026)
+- [Søknader om dagpenger måned tidsserie (xls)](https://www.nav.no/_/attachment/download/2130a628-282d-41ac-be2c-87e3e0f2f143:ffcf4b50a1cd1cd0bd45a8daefd1910c1f96821a/202610_Soknader%20om%20dagpenger%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/67ab11d1-7f44-4e83-9700-7c64e25593a9:935f117e09abc2a75a0dd65dae45a101b446af6b/202610_Soknader%20om%20dagpenger%20Maaned.pdf) (Oktober 2026)
+- [Søknader om dagpenger - næring. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/09b3eb08-88f0-4984-88c4-179884d9855f:b5a2c24e733ac494ddef70f8c45220389a6129dd/202610_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/ff92da8d-739e-4a56-b351-71e5c8b1da7d:79c40b29de6050683375f66a7ebdb77d49bf3dab/202610_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.pdf)
 - [Søknader om dagpenger - næring. September 2026 (xls)](https://www.nav.no/_/attachment/download/f6b16518-b6f1-42b8-b8c5-e1091500164d:61c10c6f6a09378619aeab8e11ba626aa7581e20/202609_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/10098a18-6014-4fe9-be4e-e24f402fc66c:46e3a451e7489e444b7946d60210d740b5c6f92c/202609_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.pdf)
 - [Søknader om dagpenger - næring. August 2026 (xls)](https://www.nav.no/_/attachment/download/d8c6bb16-24ad-4393-a7cb-9cf7a43ef23f:e286c556e5d95862c71a310c8d2265cf48ae388d/202608_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/04aede4a-3983-4d2a-b989-c96a65f3ad76:63ef3fae972a049f999c830077cb2647602705d2/202608_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.pdf)
 - [Søknader om dagpenger - næring. Juli 2026 (xls)](https://www.nav.no/_/attachment/download/bbbf9158-9b7a-4508-bb1b-8294fc02afce:3c2a9ba5b1301b95c36a2ae1a800583ac1cc143c/202607_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/58ce2e04-29a7-4cf7-ae19-0c75431dc837:27f91d37f2d37a80a5d4a894c6b83065b1548c36/202607_Soknader%20om%20dagpenger.%20Naering.%20En%20maaned.pdf)
@@ -38,13 +39,13 @@ Søknad om dagpenger – Måned
 
 Mottakere av dagpenger og tiltakspenger - Måned
 
-- [Mottakere av dagpenger og tiltakspenger. September 2026 (xls)](https://www.nav.no/_/attachment/download/f45edd77-fafe-43ef-86fd-1ca23199ee5a:af8201128fe48688a38cee3bd143d75a78321b3d/202609_ARBS050%20Mottakere%20av%20dagpenger,%20tiltakspenger.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/49bd93a1-0392-417b-aa0a-9d77fb7767ae:0ac059fa2c36e50dfb749bd9a5d9ce39e301794e/202609_ARBS050%20Mottakere%20av%20dagpenger,%20tiltakspenger.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av dagpenger. Kjønn og alder. September 2026 (xls)](https://www.nav.no/_/attachment/download/8b454a80-84d6-4993-b712-10e1d7081639:14fa4f1caaec4916789da1ca283f1c0695e6c222/202609_ARBS051%20Mottakere%20av%20dagpenger.%20Kjonn%20og%20alder.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/6d8265d6-519c-46eb-98b5-0f4ceeaa0207:062df2557672191711ca5a2286aaf1914f7e5645/202609_ARBS051%20Mottakere%20av%20dagpenger.%20Kjonn%20og%20alder.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av dagpenger. Fylke og kommune. September 2026 (xls)](https://www.nav.no/_/attachment/download/f3aabf1c-55bf-432d-9647-3603825a629f:788a1352f51ef6c1efa857461da9c1fb23051d2b/202609_ARBS052%20Mottakere%20av%20dagpenger.%20Fylke%20og%20kommune.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/550016de-bbfd-4c7e-a961-fa14891ff856:354391dc3ba06b7c5b8365b4ca86438d7102dd72/202609_ARBS052%20Mottakere%20av%20dagpenger.%20Fylke%20og%20kommune.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av dagpenger. Yrke. September 2026 (xls)](https://www.nav.no/_/attachment/download/95ef2128-b7d5-4237-9469-600cae234ac8:712a4252f5e3b36b5f14b68091469d85df47ff2d/202609_ARBS053%20Mottakere%20av%20dagpenger.%20Yrke.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/5aae1283-3b6d-4d58-a6f8-b3912316c34b:4e60b7ba428a4399cc38a61aa282c9d6de879158/202609_ARBS053%20Mottakere%20av%20dagpenger.%20Yrke.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av tilleggsstønader for arbeidssøkere. September 2026 (xls)](https://www.nav.no/_/attachment/download/9c2ef669-6c7f-4fd3-969a-3908c60725f8:9a0f32715a58386c00d2e245be75aa90e6cded2a/202609_ARBS057%20Mottakere%20av%20tilleggsstonader%20for%20arbeidssokere.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/28113302-495f-41eb-8683-fc71b811bd09:5e19e5963c13ef63eb0a50ba3364f10b906a6561/202609_ARBS057%20Mottakere%20av%20tilleggsstonader%20for%20arbeidssokere.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av dagpenger. Varighet. September 2026 (xls)](https://www.nav.no/_/attachment/download/9850450f-93db-4ae7-aaac-51235ab84e61:12657ad031789c2638cad5fbf6307b3a6827b2af/202609_ARBS058%20Mottakere%20av%20dagpenger.%20Varighet.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/29896e3b-e889-432e-97a1-d7c37306aad9:2dd73055fe8926f9140ee0cec82b2a4572815bac/202609_ARBS058%20Mottakere%20av%20dagpenger.%20Varighet.%20Tidsserie,%20maaned.pdf)
-- [Mottakere av dagpenger med godkjent utdanning. September 2026 (xls)](https://www.nav.no/_/attachment/download/644e3312-76a7-4b09-92c5-a25aa499883a:3bd5d87dd5c20f1b27c33d5b1af22f9e636d2210/202609_A365%20Dagpengemottakere%20med%20godkjent%20utdanning.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/2b244b7f-5d46-4f1d-95ae-151239a4f480:f3f13d40d3398fa3501a073a71090b3e12bc80ef/202609_A365%20Dagpengemottakere%20med%20godkjent%20utdanning.%20Maaned.pdf)
+- [Mottakere av dagpenger og tiltakspenger. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/5f0339c9-e05c-42d6-9250-869bd84616e0:3b6928dd66edf8e3e385c6e9b977887ee5959490/202610_ARBS050%20Mottakere%20av%20dagpenger,%20tiltakspenger.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/bc9af82b-cf73-45c4-ba14-177ae5dad35b:0ca38a9651efc88b32cbbf8539938afa853610dd/202610_ARBS050%20Mottakere%20av%20dagpenger,%20tiltakspenger.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av dagpenger. Kjønn og alder. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/0bc05426-5174-4328-9090-1108cb25f1ee:c4cb6ef3b31b537975b5911228d34bf869915ba8/202610_ARBS051%20Mottakere%20av%20dagpenger.%20Kjonn%20og%20alder.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/21ed030a-c570-4db8-a941-354e4651a1c0:3cb4100ee665a82679720c6741bb0fe43f368b43/202610_ARBS051%20Mottakere%20av%20dagpenger.%20Kjonn%20og%20alder.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av dagpenger. Fylke og kommune. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/9c0d40a7-02ec-4ecd-8fa7-ece1ecbd994f:37f4599170aa44e0ad47f1b066bd7847605a5f79/202610_ARBS052%20Mottakere%20av%20dagpenger.%20Fylke%20og%20kommune.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/7d3e8bfa-3bec-47ba-a0b0-395bf333faa4:cfd4f54eb711186c02df508ea15458ee97e43809/202610_ARBS052%20Mottakere%20av%20dagpenger.%20Fylke%20og%20kommune.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av dagpenger. Yrke. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/373179a9-4e0c-4b9a-bf0f-82ac53f82739:518e096151cfc6809f812b4c8e8cf062ea2b8d7f/202610_ARBS053%20Mottakere%20av%20dagpenger.%20Yrke.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/a2b43e64-5ae3-4032-955e-e4e00d3b9ab7:d25d77393bb12d597f4e84c339c19542f73038ac/202610_ARBS053%20Mottakere%20av%20dagpenger.%20Yrke.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av tilleggsstønader for arbeidssøkere. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/92b5b936-7c83-4822-bc89-5a4bd995d73c:137ff7c8f81aebb22b0f344d7ffc91603b9655e1/202610_ARBS057%20Mottakere%20av%20tilleggsstonader%20for%20arbeidssokere.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/d63c1ee4-8242-42c6-b19a-4a4f618ea443:74a7ad3f574d47fb1c8b2aac7260f23c389ab434/202610_ARBS057%20Mottakere%20av%20tilleggsstonader%20for%20arbeidssokere.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av dagpenger. Varighet. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/4a0d38a5-11f4-4fb3-9487-f5dd019ae971:884bbdc9bff959d248d8f34434090a18c95be23a/202610_ARBS058%20Mottakere%20av%20dagpenger.%20Varighet.%20Tidsserie,%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/b95d7d98-a6a9-42d7-b6f0-11ba6d528926:d8bb3e86c6e856ee08ab34727c6c8c561d9c7eb9/202610_ARBS058%20Mottakere%20av%20dagpenger.%20Varighet.%20Tidsserie,%20maaned.pdf)
+- [Mottakere av dagpenger med godkjent utdanning. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/6f80d09d-59f4-4300-9b9e-f130b3d60ba6:2a29ac3e28cd6880ce89815b92da1345ba9fb530/202610_A365%20Dagpengemottakere%20med%20godkjent%20utdanning.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/40d858d6-cb5c-4d7a-aec5-b2f951481eef:1194e788a25e46deb868c6b07acac8fe64d1c68a/202610_A365%20Dagpengemottakere%20med%20godkjent%20utdanning.%20Maaned.pdf)
 
 Mottakere av dagpenger - År
 
@@ -65,3 +66,4 @@ Mottakere av dagpenger - År
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

@@ -1,15 +1,15 @@
-<!-- innholds-hash: f0702d8e1661b99f991609023ac1d841dbcef6e7996bef8693cc7e74c1133b65 -->
+<!-- innholds-hash: 718127011f047e1afa0c241307f36f3af581d3695f739501bb7693e91ed139f4 -->
 
 # Arkiv - Mottakere av arbeidsavklaringspenger (AAP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/arbeidsavklaringspenger/arkiv-mottakere-av-arbeidsavklaringspenger-aap_kap
-- **Sist oppdatert i arkivet:** 2026-10-09T18:24:26Z
+- **Sist oppdatert i arkivet:** 2026-11-14T19:33:29Z
 
 ## Innhold
 
-Publisert 17.08.2022 | Oppdatert 08.09.2026
+Publisert 17.08.2022 | Oppdatert 02.11.2026
 
 ## Arkiv - Mottakere av arbeidsavklaringspenger (AAP)
 
@@ -17,6 +17,7 @@ Her finner du statistikk over mottakere av arbeidsavklaringspenger (AAP). Dette 
 
 #### 2026
 
+- [Juli - september 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-juli-september-2026)
 - [April - juni 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-januar-juni-2026)
 - [Januar - mars 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-januar-mars-2026)
 
@@ -105,3 +106,4 @@ Her finner du statistikk over mottakere av arbeidsavklaringspenger (AAP). Dette 
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

@@ -1,19 +1,19 @@
-<!-- innholds-hash: 3c14b5fa14064807fee749a81bb33573905b7616af242e4113e36d56104d6f04 -->
+<!-- innholds-hash: fd09cdf45cf602658b22125e93f275a2367868c151a3c49f69cb36d1449330aa -->
 
 # Tiltaksdeltakere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere
-- **Sist oppdatert i arkivet:** 2026-10-09T18:11:05Z
+- **Sist oppdatert i arkivet:** 2026-11-14T18:00:04Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.10.2026
+Publisert 01.12.2019 | Oppdatert 05.11.2026
 
 ## Tiltaksdeltakere
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -35,15 +35,15 @@ Tabeller
 
 Månedsserier, tiltaksdeltakere. Antall
 
-- [Tiltaksdeltakere. Hovedgruppe og demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/b1163da0-b18a-4ed8-829f-3c1ee6a39d17:fded3bf32a919cb2d7a73488a0b0ab13bce058ff/202609_TILT100%20Tiltaksdeltakere.%20Hovedgruppe%20og%20demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/d2e8fa14-66e3-4382-a547-838e46b1affa:0a27c6912e006d55cdcefcb1344954f3d4a25515/202609_TILT100%20Tiltaksdeltakere.%20Hovedgruppe%20og%20demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på lønnstilskudd. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/ea2223db-9e39-47f2-ad95-4ccb84cdeacb:e5de71dca27b1b7c4c2751fe910388f782cf2b64/202609_TILT110%20Tiltaksdeltakere%20paa%20lonnstilskudd.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/738f2dde-cb26-401f-b8b8-38ac1b68707d:cd961e392372fea38a0a7a6eae75c516d05d7a91/202609_TILT110%20Tiltaksdeltakere%20paa%20lonnstilskudd.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på arbeidspraksis. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/732f36cc-f6b7-46a2-91d1-1a08dbba8edf:b9d06aaeaf5ec80fc900db151df871d83f9e962a/202609_TILT120%20Tiltaksdeltakere%20paa%20arbeidspraksis.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/a5b4c74a-c12a-443a-bdd9-3f2b97dcbcc8:aa335ebf4316b8423455380fd3a726d8f74dd257/202609_TILT120%20Tiltaksdeltakere%20paa%20arbeidspraksis.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på opplæring. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/f05856e9-4baa-42d2-854c-385e15aa0066:f77057f979548704f8076136426c7806f6117be1/202609_TILT130%20Tiltaksdeltakere%20paa%20opplaering.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/bcab39bf-5ec1-464f-ad72-b79e3d6f0f22:3d1586aecc8f5741c661b2211795c5022a0a0751/202609_TILT130%20Tiltaksdeltakere%20paa%20opplaering.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på oppfølging. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/0e01fee5-a821-4905-ad4a-8c8ce189ba46:6352e7af87149af96ef5ea374a9a57258ae57ee6/202609_TILT140%20Tiltaksdeltakere%20paa%20oppfolging.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/e66658d4-a67d-4d0d-a03b-9d1201f3e5e0:6669b4a6436edb1d06578bb3256a6df9ea3b2d07/202609_TILT140%20Tiltaksdeltakere%20paa%20oppfolging.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på avklaring. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/2562f5ab-03f8-4fac-97d9-0d4815b5c0b5:c580ed944c26edb92100fc5d1cd8c610ca93a1da/202609_TILT150%20Tiltaksdeltakere%20paa%20avklaring.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/c1916d5c-0046-4926-b45b-118852719aae:b0c083dc43fd60dda80782b9ca3f99c4cc74bf88/202609_TILT150%20Tiltaksdeltakere%20paa%20avklaring.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på arbeidsrettet rehabilitering. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/56e5b465-b9ce-4800-a583-f19d7dcc8db5:a97eb49bcbc9fef2a7ffdedb9b8bfc40ba9150a3/202609_TILT160%20Tiltaksdeltakere%20paa%20arbeidsrettet%20rehabilitering.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/8990e123-2328-4d5a-a6c8-3194ac4562d3:2862a4b1c87cf69be77576788385fe7e2e155ef6/202609_TILT160%20Tiltaksdeltakere%20paa%20arbeidsrettet%20rehabilitering.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på tilrettelagt arbeid. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/6dcad7b0-ce7c-4f2e-a5db-1363118d43ea:ee08f45f73466994988fb486f17e15317565581b/202609_TILT170%20Tiltaksdeltakere%20paa%20tilrettelagt%20arbeid.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/fb3c6c1c-4f2e-4818-89d8-66d96f442fe7:9cafc46a5d382912cb0c93e09046a31b24b7d860/202609_TILT170%20Tiltaksdeltakere%20paa%20tilrettelagt%20arbeid.%20Demografi.%20Tidsserie%20maaned.pdf)
-- [Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging. Demografi. September 2026 (xls)](https://www.nav.no/_/attachment/download/6b098855-5705-4861-89f1-abad7fb124ee:b8926aa591bd94ec9f18b437b5edcbb36a231689/202609_TILT180%20Tiltaksdeltakere%20paa%20jobbskaping%20og%20egenetablering%20og%20tilrettelegging.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/f0d772d2-0c5e-4278-85a2-15e8255e2f8a:c03a0795134374ed7e0e356b4729853bae1056f3/202609_TILT180%20Tiltaksdeltakere%20paa%20jobbskaping%20og%20egenetablering%20og%20tilrettelegging.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere. Hovedgruppe og demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/275b67b7-708f-461e-aead-cbf375bf14c1:0f735147b2cafd0f201cdb196e67004b2b17e013/202610_TILT100%20Tiltaksdeltakere.%20Hovedgruppe%20og%20demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/81bf90a7-bd56-43ab-a646-25d16de8d377:9f019e66f626f85bad5aca213068623aeed1b9b7/202610_TILT100%20Tiltaksdeltakere.%20Hovedgruppe%20og%20demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på lønnstilskudd. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/fb7eadb7-6a38-426c-807e-40af951ef72a:e88237685d2f5ccee65808d44f7be95d0af205f8/202610_TILT110%20Tiltaksdeltakere%20paa%20lonnstilskudd.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/c45c1662-f301-4457-97e4-b98be0fe562a:6663aed5e48eee9296baa27346b06fc751cf1956/202610_TILT110%20Tiltaksdeltakere%20paa%20lonnstilskudd.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på arbeidspraksis. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/e8086c27-8468-4701-98bc-0249adb9c366:e0cf4ec524534cf6be295e06eb7b4040ebe7c529/202610_TILT120%20Tiltaksdeltakere%20paa%20arbeidspraksis.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/9c85f830-f073-4d9f-a475-859abdda507d:d4a07a8cd9fb395b9499190be314f32bd37730ea/202610_TILT120%20Tiltaksdeltakere%20paa%20arbeidspraksis.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på opplæring. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/a0a6ad5d-0362-41a8-a9b7-666e62bab3a4:6f5ae792d35c3477c77961e642d051130dea14b6/202610_TILT130%20Tiltaksdeltakere%20paa%20opplaering.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/4d810fe6-6d92-4e8d-b205-40dd3d9b702b:21db6062c2708297aa7a54aff314937e26e4ea18/202610_TILT130%20Tiltaksdeltakere%20paa%20opplaering.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på oppfølging. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/e72f8088-835e-4289-978d-f1edacad3918:fc0f74061cede76d5d748f504c014c4ff5369b27/202610_TILT140%20Tiltaksdeltakere%20paa%20oppfolging.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/fb26f6ac-9216-43f5-8a5c-07b3ccba68fa:c44d39dedf72b8890d7421d64005de186a93c20c/202610_TILT140%20Tiltaksdeltakere%20paa%20oppfolging.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på avklaring. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/5f841100-c361-48f1-8ec2-20c4a497ea46:d1c69e95b9ffb8bfb9c54dc65150106f3d61ac91/202610_TILT150%20Tiltaksdeltakere%20paa%20avklaring.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/5f23df6d-8ffb-411d-bdf8-587a87524fe5:c37d5dafb5ab9adf8e8a1c2879e8dcbccb8d6ffb/202610_TILT150%20Tiltaksdeltakere%20paa%20avklaring.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på arbeidsrettet rehabilitering. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/b83e4921-5a06-4dc6-a689-859235d2ca0e:1036d0974466d3855bc459ad428c2bb98d1bbc86/202610_TILT160%20Tiltaksdeltakere%20paa%20arbeidsrettet%20rehabilitering.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/223f951f-64c4-43e5-a024-c6f7f374cb90:e75eccf51abb38869a20d548216fbdfbf6effd46/202610_TILT160%20Tiltaksdeltakere%20paa%20arbeidsrettet%20rehabilitering.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på tilrettelagt arbeid. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/456a72b0-5e4c-4a54-b26d-53c672b5b67c:0f5a556492b49858de52c334b9445aaae889f319/202610_TILT170%20Tiltaksdeltakere%20paa%20tilrettelagt%20arbeid.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/d47c5664-347d-4f33-8e40-3802c818b765:9a312c6aa9174219dfc26f1f130ef2f4fa2fcddc/202610_TILT170%20Tiltaksdeltakere%20paa%20tilrettelagt%20arbeid.%20Demografi.%20Tidsserie%20maaned.pdf)
+- [Tiltaksdeltakere på jobbskaping, egenetablering og tilrettelegging. Demografi. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/31b3406e-dc4b-4869-a5a2-bd4e80700215:3616fc511ac22f3c611079a123751da73d604a1d/202610_TILT180%20Tiltaksdeltakere%20paa%20jobbskaping%20og%20egenetablering%20og%20tilrettelegging.%20Demografi.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/2d335d86-1771-49ed-930a-c65dfdf8fae8:6d72d3c340c02c5946c8193f2cf901deb319a2ca/202610_TILT180%20Tiltaksdeltakere%20paa%20jobbskaping%20og%20egenetablering%20og%20tilrettelegging.%20Demografi.%20Tidsserie%20maaned.pdf)
 
 Årsgjennomsnitt, arbeidssøkere på tiltak. Antall
 
@@ -83,3 +83,4 @@ Mer informasjon om tidligere justeringer i arbeidsmarkedsstatistikken finnes und
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

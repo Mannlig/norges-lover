@@ -1,19 +1,19 @@
-<!-- innholds-hash: 269d48efd0388572642f6f41db024610a12fbcdbf8067913eb8988b29c52b18b -->
+<!-- innholds-hash: 2f6a2acef91d7bdd9a3787f054bfd749e51297b6e569bb54fcc9e5df722bad47 -->
 
 # Permitterte og melding om permittering og masseoppsigelser - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/permitteringsvarsel%20og%20permitterte
-- **Sist oppdatert i arkivet:** 2026-10-09T18:09:42Z
+- **Sist oppdatert i arkivet:** 2026-11-14T17:58:40Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.10.2026
+Publisert 01.12.2019 | Oppdatert 05.11.2026
 
 ## Permitterte og melding om permittering og masseoppsigelser
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -27,7 +27,7 @@ Permitterte
 
 Tidsserie måned
 
-- [Permitterte. September 2026 (xls)](https://www.nav.no/_/attachment/download/272cea18-0d91-462c-9b09-0df28a37652c:628836fc1e59c4629edf37c61ebb9fc8fecfc380/202609_A800%20Permitterte%20arbeidssoker.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/fbff8bca-4aa0-45ab-b626-33d138312600:a09d92c5d92ae2821487f608f2ab03c8b421261c/202609_A800%20Permitterte%20arbeidssoker.%20Tidsserie%20maaned.pdf)
+- [Permitterte. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/ae5016de-f848-4113-894b-369ee5ecd003:7f77a4ffbb3e02b4f9c7b54a163a7457c8ccdf95/202610_A800%20Permitterte%20arbeidssoker.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/4cc59d38-342c-43ea-92b8-7328964726fb:c059a767d3150b8efc940873329cfd1d16fbb5c2/202610_A800%20Permitterte%20arbeidssoker.%20Tidsserie%20maaned.pdf)
 
 Årsgjennomsnitt. Antall
 
@@ -38,6 +38,7 @@ Tidsserie måned
 
 Måned
 
+- [Melding om permittering og masseoppsigelser. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/ae0bf9d2-5689-4a5d-be47-df155498598b:932c024360519a3ee91ed7458540c1b8344e0c72/202610_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/5582db20-b4c8-4501-a11d-1db0c52772aa:904d7245240dd0f72af2c321f551f49047dc7de6/202610_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.pdf)
 - [Melding om permittering og masseoppsigelser. September 2026 (xls)](https://www.nav.no/_/attachment/download/b8953038-f094-4683-ac93-f4b2564679a7:37518dbcd02762911384c519d93614caf6d2f14c/202609_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/a64ad865-4e54-4469-a250-c76e8a444687:aabd25ab317c7f3c5bba2b37fe97eca52e971b03/202609_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.pdf)
 - [Melding om permittering og masseoppsigelser. August 2026 (xls)](https://www.nav.no/_/attachment/download/2ea9540d-45a7-43ed-a4cd-194667fe1f1e:2ad9d04a0ea04ca184ce7bee430b16d679ba07d6/202608_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/33d85cd1-e969-4a2b-97a3-74abeb6acffe:8f34bb896233508c4cb0080edbef249125f16c15/202608_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.pdf)
 - [Melding om permittering og masseoppsigelser. Juli 2026 (xls)](https://www.nav.no/_/attachment/download/0cd69ca8-1f64-44f9-b4c8-2875ac1f2deb:b71940455506fd68aaf9d42ef70ecc0db34a9b10/202607_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/ea02b23e-9e87-4bde-be1f-9386ce647d02:399cd104dabeadfe80cc7bd6170c4f81e994cfb2/202607_AG200%20Melding%20om%20permittering%20og%20masseoppsigelse.%20Maaned.pdf)
@@ -67,3 +68,4 @@ Fakta om meldeplikten
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12018
+**Antall dokumenter:** 12019
 
 ## Innhold
 
@@ -5066,6 +5066,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger desember 2025 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-desember-2025.md)
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger juni 2023 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-juni-2023.md)
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger juni 2025 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-juni-2025.md)
+- [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger juni 2026 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-juni-2026.md)
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger september 2022 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-september-2022.md)
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger september 2023 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-september-2023.md)
 - [Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger september 2024 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-september-2024.md)
