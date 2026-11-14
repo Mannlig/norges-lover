@@ -1,4 +1,4 @@
-<!-- innholds-hash: bf66922889d06af8f2aac2f0a7216394b254464b0dbf7e3833fa246b96893ddf -->
+<!-- innholds-hash: cbcb0badea2809868b0b9fa0025cb9c712185e7c81ed9d6d9f2f0f8ed06d81bf -->
 
 # Representantforslag fra stortingsrepresentantene Tobias Drevland Lund, Seher Aydar og Mímir Kristjánsson om et kriminalomsorgsløft til det beste for både innsatte og ansatte
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:43 S (2024-2025), Innst. 149 S (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** Kriminalomsorg, Fengsler, Psykisk helse
+- **Emner:** Kriminalomsorg, Fengsler, Helsevesen, Arbeidsmiljø, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101343
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,20 @@
       "hovedemne_id": 11,
       "id": 19,
       "navn": "Fengsler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 205,
+      "navn": "Arbeidsmiljø",
       "underemne_liste": []
     },
     {
@@ -150,3 +164,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

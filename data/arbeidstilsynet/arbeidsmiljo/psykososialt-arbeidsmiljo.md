@@ -1,4 +1,4 @@
-<!-- innholds-hash: 505df3818eadbd425b475d7d6a7f33e9a69b867e2d18595bcb19d5b3bb470d8c -->
+<!-- innholds-hash: fc1e39cf67f10dadb10daef578f2698e4c8726a80c0afe0a61a4191fbf005b53 -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-11-06T01:59:15Z
+- **Sist oppdatert i arkivet:** 2026-11-13T22:59:40Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųP
 
 Et godt psykososialt arbeidsmiljø er viktig for helse, trivsel og arbeidsevne, og bidrar til produktive og bærekraftige virksomheter. Arbeidsgiver har ansvaret for at arbeidsmiljøet er trygt og forsvarlig, og påvirker dette gjennom blant annet organisering, ledelse og HMS-arbeid. Her får dere en oversikt over hva psykososialt arbeidsmiljø er, hvilke krav som gjelder, og hvordan dere kan jobbe forebyggende.
 
-[Tydeligere regelverk fra 1. januar 2026](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#Tydeligere-regelverk)
+[Tydeligere regelverk fra 1. januar 2026](https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/#tydeligere-regelverk)
 
 ### Aktuelt
 
@@ -66,21 +66,7 @@ Eksempler på et godt psykososialt arbeidsmiljø er når
 - arbeidstakerne har innflytelse over arbeidshverdagen sin
 - kollegaer og ledere støtter og hjelper hverandre når det trengs
 
-### Tydeligere regelverk fra 1. januar 2026
-
-1. januar 2026 ble regelverket om psykososialt arbeidsmiljø endret. Endringene innebærer ingen nye krav til arbeidsgivere, men presiserer og tydeliggjør allerede gjeldende krav. Hensikten er at det skal bli lettere å forstå hva psykososialt arbeidsmiljø er, og å jobbe med det.
-
-#### Krav til fullt forsvarlig psykososialt arbeidsmiljø
-
-[Arbeidsmiljøloven § 4-3](https://www.arbeidstilsynet.no/regelverk/lover/arbeidsmiljoloven--aml/#88622) presiserer at kravet om et fullt forsvarlig arbeidsmiljø også gjelder det psykososiale. Samtidig er det gitt flere eksempler på psykososiale arbeidsmiljøfaktorer. De angitte eksemplene innebærer ikke et forbud mot disse faktorene. De innebærer heller ikke et minimumskrav til hva enhver virksomhet skal kartlegge og risikovurdere. For svært mange virksomheter vil de nevnte faktorene likevel være nødvendige eller relevante å ta hensyn til for å sikre et fullt forsvarlig arbeidsmiljø.
-
-En ny del i forskrift om utførelse av arbeid presiserer og utdyper hvordan arbeidsgivere skal jobbe systematisk og forebyggende med det psykososiale arbeidsmiljøet. Den nye delen består av tre kapitler:
-
-- [krav til det psykososiale arbeidsmiljøet, andre del, kapittel 1 A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94755)
-- [bestemmelser om trakassering og annen utilbørlig opptreden, andre del, kapittel 2A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94761)
-- [bestemmelser om vold og trusler, andre del, kapittel 3A](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-utforelse-av-arbeid/#94766)
-
-Kapitlet om vold og trusler er hovedsakelig en videreføring av kapittel 23A som er opphevet.
+[Tydeligere regelverk fra 1. januar 2026 1. januar ble arbeidsmiljølovens krav til et fullt forsvarlig psykososialt arbeidsmiljø presisert. Endringene skal gjøre det enklere for arbeidsgivere å forstå hva psykososialt arbeidsmiljø kan handle om, og hvordan de kan sikre et godt og trygt arbeidsmiljø for sine ansatte.](https://www.arbeidstilsynet.no/nyheter/snart-blir-reglene-for-psykososialt-arbeidsmiljo-tydeligere/)
 
 ### Det psykososiale arbeidsmiljøet skal være fullt forsvarlig
 
@@ -160,3 +146,4 @@ Fann du det du leitte etter?
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-21** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-13** Innhold endret (se git-historikk for diff)

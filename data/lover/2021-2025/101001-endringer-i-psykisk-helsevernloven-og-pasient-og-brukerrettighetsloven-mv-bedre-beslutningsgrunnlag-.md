@@ -1,4 +1,4 @@
-<!-- innholds-hash: caae5605dc5c8fd793d90fbe1c7913dfbb68a0e1e7c4e722073102739145feab -->
+<!-- innholds-hash: 2e4bd1afdd8cadc2993de91e699d539fbd85eceb4ab59009ee21b1337c8d52a3 -->
 
 # Endringer i psykisk helsevernloven og pasient- og brukerrettighetsloven mv. (bedre beslutningsgrunnlag og behandling)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 31 L (2024-2025), Innst. 168 L (2024-2025), Lovvedtak 41 (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Omsorgstjenester, Helsevesen, Psykisk helse
+- **Emner:** Omsorgstjenester, Helsevesen, Sykdommer, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101001
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 61,
       "id": 61,
       "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 66,
+      "navn": "Sykdommer",
       "underemne_liste": []
     },
     {
@@ -92,3 +99,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

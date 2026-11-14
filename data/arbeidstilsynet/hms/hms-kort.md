@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc39f76b733e3a3cd7ae84f70951d1392792373cf75e11cdc35ec7bd5b19331c -->
+<!-- innholds-hash: 3bf9cc23efffa69f920ad6bf881dd1121e72d19970cabe6c0cbda13a18af4ff0 -->
 
 # HMS-kort
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/hms/hms-kort/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-13T22:17:56Z
+- **Sist oppdatert i arkivet:** 2026-11-13T22:33:46Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Velg SpråkNorskEnglishPolskiБългарскиEestiFrançaisLatviešuLietuviųP
 
 ## HMS-kort
 
-Alle virksomheter som tilbyr renholdstjenester, som utfører arbeid innen bilpleie, hjulskift og hjullagring eller på bygge- og anleggsplasser, skal sørge for at arbeidstakerne har gyldig HMS-kort. Kravet gjelder for både norske og utenlandske arbeidstakere.
+Alle virksomheter som tilbyr renholdstjenester, som utfører transport av andres varer med bil eller varebil, som utfører arbeid innen bilpleie, hjulskift og hjullagring eller på bygge- og anleggsplasser, skal sørge for at arbeidstakerne har gyldig HMS-kort. Kravet gjelder for både norske og utenlandske arbeidstakere.
 
 ### Bestill HMS-kort
 
@@ -187,3 +187,4 @@ Fann du det du leitte etter?
 
 - **2026-05-22** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-13** Innhold endret (se git-historikk for diff)

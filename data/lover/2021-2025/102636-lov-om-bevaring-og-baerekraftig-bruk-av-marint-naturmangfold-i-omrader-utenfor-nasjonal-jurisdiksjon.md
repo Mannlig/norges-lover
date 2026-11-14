@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1e512a45f55b0bce90d72611a806d7f93d50ddfaa2d246491bd356c4236de2c1 -->
+<!-- innholds-hash: 238dc6695547634071996feb5ebb4462a27500b7d18603254123855a28278c7a -->
 
 # Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 59 L (2024-2025), Innst. 253 L (2024-2025), Lovvedtak 50 (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Naturvern, Miljøvern, Fn, Internasjonal rett
+- **Emner:** Forurensning, Naturvern, Miljøvern, Fn, Internasjonal rett
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-11-11T16:48:16Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102636
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -100,3 +107,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-11-11** Innhold endret (se git-historikk for diff)
+- **2026-11-13** Innhold endret (se git-historikk for diff)

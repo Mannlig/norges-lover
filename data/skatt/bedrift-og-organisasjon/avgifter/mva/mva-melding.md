@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3d8ffc7294bbe101f2bfd9fb6a6c3d72b5b5db86dbb799060e58c9420c99504b -->
+<!-- innholds-hash: 14ccdb7d9940900413c0009d8c9dcbc98ee88c9731dffe5ee5ef2e0ad74c015c -->
 
 # Mva-melding: Se, endre og levere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/mva-melding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T21:35:11Z
+- **Sist oppdatert i arkivet:** 2026-11-13T17:53:19Z
 
 ## Innhold
 
@@ -32,6 +32,10 @@ Hvis du har en av disse tilgangspakkene kan du fylle ut mva-melding, men ikke se
 - Ansvarlig revisor
 - Revisormedarbeider
 - Regnskapsfører uten signeringsrettighet
+
+Har du ikke tilgang?
+
+[Slik ber du om fullmakt til tilgangspakke i Altinn](https://info.altinn.no/hjelp/ny-tilgangsstyring/be-om-fullmakt/hvordan-be-om-fullmakt/)
 
 Frem til 31 desember 2026 kan du:
 
@@ -90,3 +94,4 @@ Hvis du ønsker å endre noe, kan du be om en endring ved å kontakte oss.
 - **2026-05-11** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-11-13** Innhold endret (se git-historikk for diff)

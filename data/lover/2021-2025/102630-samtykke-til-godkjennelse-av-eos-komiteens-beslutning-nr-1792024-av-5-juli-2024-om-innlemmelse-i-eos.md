@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c828a21b32803928f56faa51c80d1bc98ebf2c21b4f0115fb7b29108095187e -->
+<!-- innholds-hash: 7ea2fd5601090e144f3c346f0a2a664b98b999ba95550ac17ac1d5a6d28ec1f3 -->
 
 # Samtykke til godkjennelse av EØS-komiteens beslutning nr. 179/2024 av 5. juli 2024 om innlemmelse i EØS-avtalen av forordning (EU) 2019/127 om opprettelsen av Den europeiske stiftelsen for bedring av leve- og arbeidsvilkårene (Eurofound)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 57 S (2024-2025), Innst. 245 S (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Arbeidsliv, Forskning, Arbeidsvilkår, Eu/eøs
+- **Emner:** Arbeidsliv, Sysselsetting, Forskning, Arbeidsvilkår, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-11-13T10:03:37Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102630
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 5,
       "id": 5,
       "navn": "Arbeidsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 7,
+      "navn": "Sysselsetting",
       "underemne_liste": []
     },
     {
@@ -99,4 +106,5 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)
 - **2026-11-13** Innhold endret (se git-historikk for diff)

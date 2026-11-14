@@ -1,4 +1,4 @@
-<!-- innholds-hash: 126f58ac77e50af697cf899ac61b649cc8e5635045c868327e283bbfb3a27c34 -->
+<!-- innholds-hash: 4149ea701617aa12b39878e9bcb587d569a1db3168ccc6bbac981b034a0ec04f -->
 
 # Forskrifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-10-13T22:27:12Z
+- **Sist oppdatert i arkivet:** 2026-11-13T22:43:03Z
 
 ## Innhold
 
@@ -28,14 +28,15 @@
 - [Forskrift om arbeidstid for avlastere](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeidstid-for-avlastere/)
 - [Forskrift om arbeidstid innenfor vegtransport](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeidstid-innenfor-vegtransport/)
 - [Forskrift om arbeidstid mv. i jernbanetrafikk](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-arbeidstid-mv.-i-jernbanetrafikk)
-- [Forskrift om delvis allmenngjøring av biloverenskomsten](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-biloverenskomsten/)
-- [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien/)
-- [Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene/)
-- [Forskrift om delvis allmenngjøring av tariffavtale for byggeplasser i Norge](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-byggeplasser-i-norge/)
-- [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter/)
-- [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter/)
-- [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei/)
-- [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil/)
+- [Forskrift om delvis allmenngjøring av biloverenskomsten](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-biloverenskomsten2/)
+- [Forskrift om delvis allmenngjøring av Fellesoverenskomsten for byggfag](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-fellesoverenskomsten-for-byggfag/)
+- [Forskrift om delvis allmenngjøring av Industrioverenskomsten/VO-delen for skips- og verftsindustrien](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-industrioverenskomstenvo-delen-for-skips--og-verftsindustrien2/)
+- [Forskrift om delvis allmenngjøring av Landsoverenskomsten for elektrofagene](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-landsoverenskomsten-for-elektrofagene2/)
+- [Forskrift om delvis allmenngjøring av tariffavtale for fiskeindustribedrifter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-fiskeindustribedrifter/)
+- [Forskrift om delvis allmenngjøring av tariffavtale for overnattings-, serverings- og cateringvirksomheter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-overnattings--serverings--og-cateringvirksomheter2/)
+- [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter2/)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei2/)
+- [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil2/)
 - [Forskrift om godkjenning av renholdsvirksomheter m.m.](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-godkjenning-av-renholdsvirksomheter-m.m)
 - [Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfarer/)
 - [Forskrift om helse og sikkerhet ved landboring](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring/)
@@ -71,3 +72,4 @@
 ## Endringshistorikk
 
 - **2026-10-13** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

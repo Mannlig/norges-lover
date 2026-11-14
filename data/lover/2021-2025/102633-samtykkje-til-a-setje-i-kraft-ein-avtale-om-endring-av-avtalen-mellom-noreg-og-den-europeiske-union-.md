@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9d32ae38401bab212c286c1dc3de4b55efcb7d034529c33e3b85c8132028adc8 -->
+<!-- innholds-hash: edd6fc2899c7fd00ec176434dd74a5dea751f692fbf07c19699e8c30149d422c -->
 
 # Samtykkje til å setje i kraft ein avtale om endring av avtalen mellom Noreg og Den europeiske union om administrativt samarbeid på meirverdiavgiftsområdet, underteikna i Brussel 2. oktober 2024.
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 61 S (2024-2025), Innst. 376 S (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Merverdiavgift, Eu/eøs
+- **Emner:** Merverdiavgift, Næringsliv, Traktater, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102633
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 187,
       "id": 81,
       "navn": "Merverdiavgift",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 166,
+      "navn": "Traktater",
       "underemne_liste": []
     },
     {
@@ -85,3 +99,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

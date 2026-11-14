@@ -1,4 +1,4 @@
-<!-- innholds-hash: 74f940d72d10e66fdd56c09511349adaf5f2d648af26140f23cb05f172a16f29 -->
+<!-- innholds-hash: 43bc6c5415e640e3d5a5877f32d7e38c9a8cad3dab72c6f252d23ca94417db31 -->
 
 # Samtykke til ratifikasjon av avtale under FNs havrettskonvensjon om bevaring og bærekraftig bruk av marint biologisk mangfold i områder utenfor nasjonal jurisdiksjon av 19. juni 2023
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 60 S (2024-2025), Innst. 314 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Fiskerier, Fangst, Traktater, Fn, Internasjonal rett
+- **Emner:** Forurensning, Naturvern, Miljøvern, Traktater, Fn, Internasjonal rett
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-13T15:47:56Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102631
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,17 +27,24 @@
   "dokumentgruppe": 1,
   "emne_liste": [
     {
-      "er_hovedemne": true,
-      "hovedemne_id": 8,
-      "id": 8,
-      "navn": "Fiskerier",
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
       "underemne_liste": []
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 8,
-      "id": 9,
-      "navn": "Fangst",
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 139,
+      "id": 139,
+      "navn": "Miljøvern",
       "underemne_liste": []
     },
     {
@@ -106,3 +113,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-13** Innhold endret (se git-historikk for diff)

@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1943
+**Antall dokumenter:** 1946
 
 ## Innhold
 
@@ -1949,6 +1949,9 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer](2025-2029/200514-representantforslag-fra-stortingsrepresentantene-jon-engen-helgheim-stian-storbukas-finn-krokeide-an.md)
 - [Valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)](2025-2029/200515-valg-av-nytt-medlem-til-stortingets-kontrollutvalg-for-etterretnings-overvakings-og-sikkerhetstjenes.md)
 - [Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring](2025-2029/200516-rapport-til-stortingets-presidentskap-fra-utvalget-om-dommernes-lonnsordninger-og-lonns-og-godtgjori.md)
+- [Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)](2025-2029/200517-endringer-i-folketrygdloven-refusjon-av-forskutterte-sykepenger-mv.md)
+- [Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)](2025-2029/200518-endringer-i-rettsgebyrloven-nedjustering-av-gebyret-for-behandling-av-begjaeringer-om-tvangssalg-ett.md)
+- [Lov om lønnsnemndbehandling av arbeidstvisten mellom Fagforbundet/LO og NHO Geneo/NHO i forbindelse med tariffrevisjonen 2026 av Overenskomst 453 – Blindeforbundet, barnevern, asylmottak, kino, m.fl.](2025-2029/200519-lov-om-lonnsnemndbehandling-av-arbeidstvisten-mellom-fagforbundetlo-og-nho-geneonho-i-forbindelse-me.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
