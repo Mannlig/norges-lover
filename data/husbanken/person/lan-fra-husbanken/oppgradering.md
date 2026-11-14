@@ -1,4 +1,4 @@
-<!-- innholds-hash: f061c6a4ed181fdde72186b41e247fa6055ac4d0a59deadeec04c5783de5e0cc -->
+<!-- innholds-hash: 8de02dd742ac921c017174797dcacacdb761c0d3655ee4f82130109ab1b81072 -->
 
 # Lån til å oppgradere bolig
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/lan-fra-husbanken/oppgradering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-11-07T11:42:45Z
+- **Sist oppdatert i arkivet:** 2026-11-14T13:00:59Z
 
 ## Innhold
 
@@ -35,6 +35,12 @@ Logg deg inn for å søke om lån:
 
 ### Etter at du har søkt
 
+### Søk om tilskudd til aldersvennlig oppgradering av egen bolig
+
+Nå kan du søke om tilskudd for å gjøre boligen din mer aldersvennlig. Søknadsfristen er 1. februar 2027.
+
+[Les mer om tilskuddet](https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/)
+
 ### Informasjon og veiledning
 
 [Veileder for oppgradering av bolig](https://www.husbanken.no/bransje/veileder-laan/lan-til-boligkvalitet/oppgradering-av-eksisterende-bolig/)
@@ -52,3 +58,4 @@ Sist oppdatert: 02.02.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-11-07** Innhold endret (se git-historikk for diff)
+- **2026-11-14** Innhold endret (se git-historikk for diff)

@@ -1,19 +1,19 @@
-<!-- innholds-hash: eb8a098379da66f94d0b5eda2949f69be5e59874ef13bd496f86bf0f8682f2e1 -->
+<!-- innholds-hash: 532001fa7268492dc740708d31e03665194a853fb05e3ae73d97437fdc83e008 -->
 
 # Ledige stillinger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/ledige-stillinger
-- **Sist oppdatert i arkivet:** 2026-10-09T18:08:16Z
+- **Sist oppdatert i arkivet:** 2026-11-14T12:38:58Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.10.2026
+Publisert 01.12.2019 | Oppdatert 05.11.2026
 
 ## Ledige stillinger
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -25,9 +25,9 @@ Tabeller
 
 Månedsserier. Tilgang ledige stillinger. Antall, per virkedag og endring per virkedag fra i fjor.
 
-- [Tilgang ledige stillinger. Kilde. September 2026 (xls)](https://www.nav.no/_/attachment/download/174b840b-e2f9-4c0a-8b45-498df6dac5f6:32d0893faafb3b48175b1a369979db68fc0ebd2c/202609_STIL020%20Tilgang%20ledige%20stillinger.%20Kilde.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/8adca87e-1b87-4c83-854f-dece5f845cd0:00f3a4c9ce4b5e3cdd69b2c61f851f5f63ffe8fb/202609_STIL020%20Tilgang%20ledige%20stillinger.%20Kilde.%20Tidsserie%20maaned.pdf)
-- [Tilgang ledige stillinger. Fylke. September 2026 (xls)](https://www.nav.no/_/attachment/download/e3f49d7d-05b6-43c6-ad05-3ef3e448004f:f6970282fab8e93372b1a3b167886e17e1647a71/202609_STIL030%20Tilgang%20ledige%20stillinger.%20Fylke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/a0ba0158-8f19-4570-b08a-f3c754c24eb4:803c9640947d983d72aef32f1bfce7a0c1445d37/202609_STIL030%20Tilgang%20ledige%20stillinger.%20Fylke.%20Tidsserie%20maaned.pdf)
-- [Tilgang ledige stillinger. Yrke. September 2026 (xls)](https://www.nav.no/_/attachment/download/23b10044-e05e-4e69-98b3-77e5a10d2ea6:c899c9b76f79545881bc8db9967b083c19959a10/202609_STIL040%20Tilgang%20ledige%20stillinger.%20Yrke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/ca05ed6d-da20-468a-a644-08a4a3909e80:b5fc7162049596192d8dc391e1e5e68dbb67a61a/202609_STIL040%20Tilgang%20ledige%20stillinger.%20Yrke.%20Tidsserie%20maaned.pdf)
+- [Tilgang ledige stillinger. Kilde. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/3876c6f4-30be-4bd3-aec1-0dcb3c8c5285:74d0eb0512f5647f7e85d8f08ea0fe417a06b9b5/202610_STIL020%20Tilgang%20ledige%20stillinger.%20Kilde.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/973c05d2-01a8-4472-8f0e-4faec4868619:6c9cdc26e4abf728bfbec625337637ad40a91d97/202610_STIL020%20Tilgang%20ledige%20stillinger.%20Kilde.%20Tidsserie%20maaned.pdf)
+- [Tilgang ledige stillinger. Fylke. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/2fc4e004-d3dc-4998-b262-6cd926c61906:2d36aab39ef2b9a6cae0b1738e7354d178809561/202610_STIL030%20Tilgang%20ledige%20stillinger.%20Fylke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/0106888f-f576-48c2-9c49-045ea96356b4:abbe1080b5b29f987e25725c64ea980e69e9dde6/202610_STIL030%20Tilgang%20ledige%20stillinger.%20Fylke.%20Tidsserie%20maaned.pdf)
+- [Tilgang ledige stillinger. Yrke. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/d5925da6-3861-4831-9db1-fae9aa4d202b:d48784efe0eb5254a4fb5dedc7a2d4b9c448c69d/202610_STIL040%20Tilgang%20ledige%20stillinger.%20Yrke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/2fed449f-3645-42f1-9c75-13004c66430e:3c4142a6608fa3c262d008dce86f287bc65d27e3/202610_STIL040%20Tilgang%20ledige%20stillinger.%20Yrke.%20Tidsserie%20maaned.pdf)
 
 Årsgjennomsnitt og sum i løpet av året.
 
@@ -42,3 +42,4 @@ Månedsserier. Tilgang ledige stillinger. Antall, per virkedag og endring per vi
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

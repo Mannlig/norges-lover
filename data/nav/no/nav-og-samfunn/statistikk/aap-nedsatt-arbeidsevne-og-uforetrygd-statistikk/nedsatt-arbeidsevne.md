@@ -1,26 +1,26 @@
-<!-- innholds-hash: c09bf8f08652e028e13ae8f0a53584f8372e8943f95d019c3d5cae0279f97371 -->
+<!-- innholds-hash: fb897128da69fe972a8b5f442f988e2fb12cadf4821ec6b60fa67f644b9b274d -->
 
 # Personer med nedsatt arbeidsevne - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne
-- **Sist oppdatert i arkivet:** 2026-10-22T02:32:52Z
+- **Sist oppdatert i arkivet:** 2026-11-14T12:31:10Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 20.10.2026
+Publisert 01.12.2019 | Oppdatert 13.11.2026
 
 ## Personer med nedsatt arbeidsevne
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Antall personer med nedsatt arbeidsevne - Tidsserie måned
 
-- [Alder og kjønn. September 2026 (xlsx)](https://www.nav.no/_/attachment/download/5b5eb18b-dc6e-41d0-b870-ab5571c82539:ec170533ff71af45dad3db22da5187c180394a6a/NED120%20Personer%20med%20nedsatt%20arbeidsevne.%20Alder%20og%20kjonn.%20Januar%20til%20september%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/0448964b-254b-4a7e-abf9-865bc60222b5:b0060c66e0391767d27306556fe55544006a29f2/NED120%20Personer%20med%20nedsatt%20arbeidsevne.%20Alder%20og%20kjonn.%20Januar%20til%20september%202026.pdf)
-- [Fylke og alder. September 2026 (xlsx)](https://www.nav.no/_/attachment/download/8df723f7-54fc-4d8c-8626-9813e3688d50:ea5b025adc45ea5f3613df9f74abb46088bd8b32/NED150%20Personer%20med%20nedsatt%20arbeidsevne.%20Fylke%20og%20alder.%20Januar%20til%20september%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/91851998-ceb5-490e-8e58-c108ac1023f8:fab96898b8944c503f3147e6c9781dc51367f224/NED150%20Personer%20med%20nedsatt%20arbeidsevne.%20Fylke%20og%20alder.%20Januar%20til%20september%202026.pdf)
-- [Kommune. September 2026 (xlsx)](https://www.nav.no/_/attachment/download/33fc22f3-175f-482d-99d6-2120593610cc:3a019146ad0462c9ac4a3eaee3ae2b624d67167b/NED155%20Personer%20med%20nedsatt%20arbeidsevne.%20Kommune.%20Januar%20til%20september%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/349793e7-b651-4eed-abf0-f04cb43bd526:5f74d725893c774a02c71ab015834d112d82e039/NED155%20Personer%20med%20nedsatt%20arbeidsevne.%20Kommune.%20Januar%20til%20september%202026.pdf)
-- [Innvandrerbakgrunn. September 2026 (xlsx)](https://www.nav.no/_/attachment/download/61bcc7b3-ed54-4dd3-9190-1b61c580e8ec:649d31bd6a0840380568abab22600bbe0497a7e1/NED190%20Personer%20med%20nedsatt%20arbeidsevne.%20Innvandrerbakgrunn.%20Januar%20til%20september%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/792599b9-7138-4901-8bf6-a9831bbabb9b:f6440e4175db7b46b44ccda484aa7025d1501687/NED190%20Personer%20med%20nedsatt%20arbeidsevne.%20Innvandrerbakgrunn.%20Januar%20til%20september%202026.pdf)
+- [Alder og kjønn. Oktober 2026 (xlsx)](https://www.nav.no/_/attachment/download/e0b4f364-8d2e-43e5-96e3-292e5c672691:41d7462d2c48f961c7cd7f2c99fa483ac822e9b0/NED120%20Personer%20med%20nedsatt%20arbeidsevne.%20Alder%20og%20kjonn.%20Januar%20til%20oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/c6645aff-50b1-4fff-a549-5e44cee3dc00:c9e5a581206f7baf10c74d12e24fb5fa315f6431/NED120%20Personer%20med%20nedsatt%20arbeidsevne.%20Alder%20og%20kjonn.%20Januar%20til%20oktober%202026.pdf)
+- [Fylke og alder. Oktober 2026 (xlsx)](https://www.nav.no/_/attachment/download/3999e85b-0e4f-44c0-994f-1016ca38873b:ef093d73625f90259bf9e7ba5c7928c29b93c70f/NED150%20Personer%20med%20nedsatt%20arbeidsevne.%20Fylke%20og%20alder.%20Januar%20til%20oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/bc3076b6-68d9-48a4-9083-3670f76f204a:d3ecac0242c67bb9b3f1c22e9e64f48d6c222021/NED150%20Personer%20med%20nedsatt%20arbeidsevne.%20Fylke%20og%20alder.%20Januar%20til%20oktober%202026.pdf)
+- [Kommune. Oktober 2026 (xlsx)](https://www.nav.no/_/attachment/download/5d26c351-3963-4a29-a0a0-430b6dcd149e:56564615aa89cd20040e711a019f81e7788ed665/NED155%20Personer%20med%20nedsatt%20arbeidsevne.%20Kommune.%20Januar%20til%20oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/f3526d06-07c2-4fea-b635-404b29be6924:fcf86370667c09cbb2294e8ca4204784eb23b515/NED155%20Personer%20med%20nedsatt%20arbeidsevne.%20Kommune.%20Januar%20til%20oktober%202026.pdf)
+- [Innvandrerbakgrunn. Oktober 2026 (xlsx)](https://www.nav.no/_/attachment/download/97d89b38-db1f-4481-b49f-33bdcfd67df6:ae95703f9a348385e057d41c5dba8b42afc82c52/NED190%20Personer%20med%20nedsatt%20arbeidsevne.%20Innvandrerbakgrunn.%20Januar%20til%20oktober%202026.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/8dafe9f2-c831-456f-b4e1-6c77bd75876a:3f338b47574e0489bf3c358d2e73a17a6001ca30/NED190%20Personer%20med%20nedsatt%20arbeidsevne.%20Innvandrerbakgrunn.%20Januar%20til%20oktober%202026.pdf)
 
 #### Antall personer med nedsatt arbeidsevne - Tidsserier kvartal
 
@@ -69,3 +69,4 @@ Beholdningsstatistikk publiseres månedlig. Statistikk over nye personer med ned
 
 - **2026-10-09** Første gang hentet
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-14** Innhold endret (se git-historikk for diff)

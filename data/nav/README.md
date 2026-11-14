@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12017
+**Antall dokumenter:** 12018
 
 ## Innhold
 
@@ -1108,6 +1108,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Varslede nedbemanninger - hvem ender hos Nav? - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/varslede-nedbemanninger-hvem-ender-hos-nav.md)
 - [Veier ut av arbeidslivet etter fylte 50 år - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/veier-ut-av-arbeidslivet-etter-fylte-50-ar.md)
 - [Vekst i uføretrygding blant unge - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/vekst-i-uforetrygding-blant-unge.md)
+- [Velferdsstaten og 20 år med Nav - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/velferdsstaten-og-20-ar-med-nav.md)
 - [Vilkår om aktivitet for sosialhjelp i 2015: Gjør kommunene det som virker? - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/vilkar-om-aktivitet-for-sosialhjelp-i-2015-gjor-kommunene-det-som-virker.md)
 - [Yrkesaktive 66-åringer ønsker å fortsette i arbeid - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/yrkesaktive-66-aringer-onsker-a-fortsette-i-arbeid.md)
 - [Yrkesdeltakelsen lavere enn i 1998 - nav.no](no/nav-og-samfunn/kunnskap/analyser-fra-nav/arbeid-og-velferd/arbeid-og-velferd/yrkesdeltakelsen-lavere-enn-i-1998.md)

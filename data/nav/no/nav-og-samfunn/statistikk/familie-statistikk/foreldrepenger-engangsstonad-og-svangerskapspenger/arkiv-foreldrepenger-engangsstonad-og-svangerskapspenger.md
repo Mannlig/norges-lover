@@ -1,17 +1,21 @@
-<!-- innholds-hash: e983bca021256aa52fd50dee40d43c9ff74baf9d95a1f26694e826c9afbcacfb -->
+<!-- innholds-hash: fcf19fa591db4b625d29066cfc34f1ba66ede0f26436fc51659b273cd50dfbb0 -->
 
 # Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger
-- **Sist oppdatert i arkivet:** 2026-10-22T01:48:02Z
+- **Sist oppdatert i arkivet:** 2026-11-14T11:46:28Z
 
 ## Innhold
 
-Publisert 26.02.2020 | Oppdatert 08.09.2026
+Publisert 26.02.2020 | Oppdatert 13.11.2026
 
 ## Arkiv - Foreldrepenger, engangsstønad og svangerskapspenger
+
+#### 2017-2026
+
+- [Statistikk pr. juni 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger/arkiv-foreldrepenger-engangsstonad-og-svangerskapspenger-juni-2026)
 
 #### 2016-2025
 
@@ -77,3 +81,4 @@ Publisert 26.02.2020 | Oppdatert 08.09.2026
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

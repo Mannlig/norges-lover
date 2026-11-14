@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0c7218d4292296fb50a2a600413224adbbefd961336d6c7a258058f613627785 -->
+<!-- innholds-hash: dfdffffad83ab565e5947aae5725ea380d2bbcfce54af06f1a724ea168d50d97 -->
 
 # Stjørdal: Bo trygt hjemme-konferanse
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/bo-trygt-hjemme-trondelag-261126/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T15:07:46Z
+- **Sist oppdatert i arkivet:** 2026-11-14T13:03:36Z
 
 ## Innhold
 
@@ -18,11 +18,11 @@
 
 Fra ord til handling - hvordan omsetter vi Bo trygt hjemme- reformen til bærekraftige og helhetlige løsninger for fremtiden?
 
-Ledere, planleggere og beslutningstakere i kommuner
+Konferansen er særlig relevant for kommunedirektører, kommunalsjefer, samfunnsplanleggere, ledere innen helse og omsorg, bolig- og eiendomsutvikling, digitalisering og innovasjon, samt politikere og andre aktører som bidrar til å realisere målene i Bo trygt hjemme-reformen.
 
-Konferansen er særlig relevant for kommunedirektører, kommunalsjefer, samfunnsplanleggere, ledere innen helse og omsorg, bolig- og eiendomsutvikling, digitalisering og innovasjon, samt politikere og andre aktører som bidrar til å realisere målene i Bo trygt hjemme-reformen. Gratis deltakelse.
+Det er gratis å delta på konferansen.
 
-[Meld deg på her.](https://forms.cloud.microsoft/pages/responsepage.aspx?id=jqVvilNR-kuai1c9mFpBhveafiwEmTVGhKAkH0Xms9NUNDFJQUdSTlMzQkdJM0VHRjY5MEdLOTBJUi4u&route=shorturl)
+[Meld deg på her](https://forms.cloud.microsoft/pages/responsepage.aspx?id=jqVvilNR-kuai1c9mFpBhveafiwEmTVGhKAkH0Xms9NUNDFJQUdSTlMzQkdJM0VHRjY5MEdLOTBJUi4u&route=shorturl)
 
 Konferansen arrangeres i samarbeid mellom Trøndelag Fylkeskommune, KS Trøndelag, Husbanken Midt-Norge og Statsforvalteren i Trøndelag.
 
@@ -44,7 +44,7 @@ Konferansen arrangeres i samarbeid mellom Trøndelag Fylkeskommune, KS Trøndela
 
 Har du spørsmål, ta kontakt på post@husbanken.no.
 
-Sist oppdatert: 27.10.2026
+Sist oppdatert: 11.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/bo-trygt-hjemme-trondelag-261126/) av norges-lover-bot.*
@@ -53,3 +53,4 @@ Sist oppdatert: 27.10.2026
 
 - **2026-10-07** Første gang hentet
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-14** Innhold endret (se git-historikk for diff)

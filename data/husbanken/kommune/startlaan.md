@@ -1,4 +1,4 @@
-<!-- innholds-hash: 90036133adde1243104ee6319910078ffea1f1583660c4c7f3a8376be8c7b344 -->
+<!-- innholds-hash: 2f31c9d03c76a5ddb283e3550a97a30796c38a0edc83f307712a0d3d4c817aaa -->
 
 # Startlån og tilskudd for kommunen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/startlaan/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T02:49:21Z
+- **Sist oppdatert i arkivet:** 2026-11-14T12:48:37Z
 
 ## Innhold
 
@@ -29,8 +29,8 @@ Startlån til førstegangsetablerere er en forsøksordning som hovedsakelig rett
 
 ### Søknadsfrister i 2026
 
-- Søknad om midler til førstegangsetablerere er åpen fram til 1. juni
-- Søknad om midler til ordinært startlån er åpen hele året
+- Søknad om midler til førstegangsetablerere er åpen til og med 1. juni
+- Søknad om midler til ordinært startlån er åpen til og med 15. november
 
 [Logg inn i ekstranett/Startskudd](http://ekstranett.husbanken.no/)
 
@@ -68,3 +68,4 @@ Startlån til førstegangsetablerere er en forsøksordning som hovedsakelig rett
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

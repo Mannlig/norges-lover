@@ -1,19 +1,27 @@
-<!-- innholds-hash: 19c7cca89df5afad8dc67af0d7d6375c048cf0b5a3a89a3ea9a4eb49d68ecd67 -->
+<!-- innholds-hash: 44030eae891387634201477b74c272dabe55e03719776481c909d8a77ad1bdcf -->
 
 # Samhandling med brukere - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/kunnskap/fou-midler/pagaende-fou-prosjekter2/navs-tiltak-og-virkemidler
-- **Sist oppdatert i arkivet:** 2026-10-09T17:52:12Z
+- **Sist oppdatert i arkivet:** 2026-11-14T12:22:44Z
 
 ## Innhold
 
-Publisert 12.11.2014 | Oppdatert 25.09.2026
+Publisert 12.11.2014 | Oppdatert 27.10.2026
 
 ## Samhandling med brukere
 
 Her finner du oversikt over pågående prosjekter som handler om Navs samhandling med brukere.
+
+#### Evaluering av forsøket Et enklere Nav, Oslo Economics og Frischsenteret (2026-2031)
+
+Nav gjennomfører et forsøk med aktivitetspenger for unge, også kjent som "Et enklere Nav". Ordningen som prøves ut, består av en ny folketrygdytelse, kombinert med en omlegging av hvordan Nav jobber med unge utenfor arbeid og utdanning. Det fireårige forsøket er initiert i Trondheim, og prøves ut ved Nav Falkenborg og Nav Lerkendal. Målgruppen er unge mellom 18 og 29 år som har fått fastslått et behov for bistand fra Nav for å komme i arbeid. Ytelsen som prøves ut, aktivitetspenger, har ikke medisinske inngangsvilkår, men krever at den unge deltar aktivt i prosessen med å komme i arbeid eller utdanning. Formålet med forsøket er å undersøke om kombinasjonen av aktivitetspenger, individuelt tilpasset oppfølging og et tydelig fokus på den unges styrker og muligheter kan bidra til at flere unge kommer i arbeid eller utdanning. Bak dette ligger en hypotese om at en ytelse med enkle, ikke-medisinske inngangsvilkår kan redusere tiden som brukes på avklaring og dokumentasjon, og legge til rette for raskere oppstart av arbeidsrettet aktivitet og gi Nav-veilederne mer tid til oppfølging. Det er også en hypotese at fravær av medisinske vilkår kan hindre unødvendig medikalisering, som tilrettelegger for fokus på mottakernes styrker og muligheter. Oslo Economics og Frischsenteret evaluerer forsøket på oppdrag for Arbeids- og velferdsdirektoratet. Evalueringen består av følgeevaluering og en ikke-eksperimentell effektevaluering. Underveis i forsøket skal evaluator støtte implementeringen, dokumentere gjennomføringen, foreslå justeringer og gi tilbakemeldinger, samt vurdere resultater og måloppnåelse.
+
+Evalueringen tar utgangspunkt i forsøkets endringsteori og OECDs evalueringskriterier. Det innebærer vurderinger etter kriteriene relevans, sammenheng, formålseffektivitet, kostnadseffektivitet, samfunnsnytte og bærekraft.
+
+Forsøket sees også i sammenheng med evalueringen av forsøket med Ungdomsprogrammet. Evalueringen pågår fra høsten 2026 til våren 2031. Den vil resultere i en skriftlig sluttrapport som blir offentlig tilgjengelig.
 
 #### Kunnskapsoppsummering om personbrukeres opplevelser med Nav, OsloMet (2026-2027)
 
@@ -50,3 +58,4 @@ Prosjektet vil undersøke hvordan forbedring av klarspråk i Nav påvirkes av or
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)

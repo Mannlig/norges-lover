@@ -1,19 +1,19 @@
-<!-- innholds-hash: 3467dbdd62d5bd3f9076d0f151a2830f67a4efeb4779930e7583f3f26f32bfa3 -->
+<!-- innholds-hash: f25f6390baf5ad99a6c79ca560b8d5823be2cf593e20414cda873e4af24d6e96 -->
 
 # Helt ledige - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/helt-ledige
-- **Sist oppdatert i arkivet:** 2026-10-09T18:06:50Z
+- **Sist oppdatert i arkivet:** 2026-11-14T12:37:34Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.10.2026
+Publisert 01.12.2019 | Oppdatert 05.11.2026
 
 ## Helt ledige
 
-Statistikk per september 2026
+Statistikk per oktober 2026
 
 #### Om publiseringen
 
@@ -27,12 +27,12 @@ Tabeller
 
 Månedsserier. Antall og prosent av arbeidsstyrken
 
-- [Helt ledige. Kjønn og alder. September 2026 (xls)](https://www.nav.no/_/attachment/download/c368645b-bd93-4d83-b967-a40489b0f55c:92c11ecaaee9cb2ab641a9f77517e0fd486dea21/202609_HL050%20Helt%20ledige.%20Kjonn%20og%20alder.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/f581fe1c-22c8-4809-bb93-1be4843d0837:0e9f042cdce3a5145973ee61797261b655698289/202609_HL050%20Helt%20ledige.%20Kjonn%20og%20alder.%20Tidsserie%20maaned.pdf)
-- [Helt ledige. Fylke og kommune. September 2026 (xls)](https://www.nav.no/_/attachment/download/6d7c479c-0e7e-4414-98fd-29b341c55278:a812c79ae9a0146552adbdc223b2c51ecca68358/202609_HL060%20Helt%20ledige.%20Fylke%20og%20kommune.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/0b5e035e-faff-46ae-aa34-5036d16cd6c5:be7569b2b73dcb9f31cb1eb733ad8c54922a6ee1/202609_HL060%20Helt%20ledige.%20Fylke%20og%20kommune.%20Tidsserie%20maaned.pdf)
-- [Helt ledige. Utdanning. September 2026 (xls)](https://www.nav.no/_/attachment/download/d211c209-30f2-41e4-bb06-054aa46d5080:20e5de30499341391792a52d5f41834c6870cf22/202609_HL070%20Helt%20ledige.%20Utdanning.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/7c4e8bb5-0b7e-4e3c-8aba-871a5ff88007:d1ff65b2e9894e87d5e54ef50b06cbbd7d99a5ed/202609_HL070%20Helt%20ledige.%20Utdanning.%20Tidsserie%20maaned.pdf)
-- [Helt ledige. Yrke. September 2026 (xls)](https://www.nav.no/_/attachment/download/a67b522f-a1f4-45fe-a993-2fd1dedb1bcf:123d5bb62828f6ed576e4cd86f8b97459012d3be/202609_HL075%20Helt%20ledige.%20Yrke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/ac2b9899-c205-49dc-8731-76f5a502b853:af13c07f3420cdbdecaed8d2528258ae56032cec/202609_HL075%20Helt%20ledige.%20Yrke.%20Tidsserie%20maaned.pdf)
-- [Helt ledige. Varighet og langtidsledige. September 2026 (xls)](https://www.nav.no/_/attachment/download/3c60a64a-96bf-4435-987c-1df149a6ddc9:8d43a07a175175b17f66a3e449ba68575693bf4f/202609_HL080%20Helt%20ledige.%20Varighet%20og%20langtidsledige.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/30ce9b6a-55e2-4810-b861-4fe26059c0ea:b9abdc143d1ddabb298a3fe54e56da33a88a3b1a/202609_HL080%20Helt%20ledige.%20Varighet%20og%20langtidsledige.%20Tidsserie%20maaned.pdf)
-- [Helt ledige. Innvandrerbakgrunn. September 2026 (xls)](https://www.nav.no/_/attachment/download/b77816a5-03ab-42a6-96b4-d5336c4472d7:51ae78acdb048673f0dd931d2597f5c2a45ad938/202609_HL085%20Helt%20ledige.%20Innvandrerbakgrunn.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/inline/49101071-4954-4bc4-9353-9a61f7a61c2a:9fc19e9f82d9910a4d64800127e0119272c1a6b4/202609_HL085%20Helt%20ledige.%20Innvandrerbakgrunn.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Kjønn og alder. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/9356f88f-2984-4d17-88e3-fbe8835c1f50:9736da8642b2e2f0dbc2b81830e408a98fc59975/202610_HL050%20Helt%20ledige.%20Kjonn%20og%20alder.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/08ba7192-c74a-4591-9558-43ae5b122d31:5392978cf2ceb00703caa3f1e66683a29849e1c4/202610_HL050%20Helt%20ledige.%20Kjonn%20og%20alder.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Fylke og kommune. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/a3aa970e-76b9-4ee3-ba9d-b35b57d02544:cc7623a6710d94946e7ce1df55eb9f1e2413ed7a/202610_HL060%20Helt%20ledige.%20Fylke%20og%20kommune.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/4056cc85-0171-4155-abfd-38787c1f8836:0314dc0dc568e3fe0e4bf661992842ef76876fe3/202610_HL060%20Helt%20ledige.%20Fylke%20og%20kommune.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Utdanning. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/8dcaa907-c9a4-4c79-868c-aac78e4c42d9:ac0fb9cb453e1c0d9dd66740f736288be78b7ec9/202610_HL070%20Helt%20ledige.%20Utdanning.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/2e2d563f-1305-41ef-a491-a44188d2a38f:7e0e9d6c2fc918b2ecce1bde3364ef82b173c7da/202610_HL070%20Helt%20ledige.%20Utdanning.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Yrke. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/88a9b738-76d5-4462-9192-a827bef1f4f5:196bd157c20b71b9cb398e1c88ad210fb7ee2b3b/202610_HL075%20Helt%20ledige.%20Yrke.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/67e957d9-8c57-4d36-bbeb-314712111f29:518b9b423b0f7562880f90760c0bcc4a970b54a4/202610_HL075%20Helt%20ledige.%20Yrke.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Varighet og langtidsledige. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/56e8f83a-037c-488e-a242-26853c61e65c:a25bf1a4a5247d50f2bb0ff869acf41d706fdf85/202610_HL080%20Helt%20ledige.%20Varighet%20og%20langtidsledige.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/22fdf50a-8087-4ece-8757-f2249c17c5b1:be518d9cc57f2e30b83c5040d66e5daf98497583/202610_HL080%20Helt%20ledige.%20Varighet%20og%20langtidsledige.%20Tidsserie%20maaned.pdf)
+- [Helt ledige. Innvandrerbakgrunn. Oktober 2026 (xls)](https://www.nav.no/_/attachment/download/72168b75-78e0-495d-b05e-9ff0eebfc57a:fa92f17c06152624548c126c9e59da4750fc2037/202610_HL085%20Helt%20ledige.%20Innvandrerbakgrunn.%20Tidsserie%20maaned.xlsx)[(pdf)](https://www.nav.no/_/attachment/download/b0cc5675-7f34-4f88-9834-ac8da349047a:323227b5efe46667af70610376ed586f4336b12f/202610_HL085%20Helt%20ledige.%20Innvandrerbakgrunn.%20Tidsserie%20maaned.pdf)
 
 Årsgjennomsnitt. Antall og prosent av arbeidsstyrken
 
@@ -64,3 +64,4 @@ Mer informasjon om tidligere justeringer i arbeidsmarkedsstatistikken finnes und
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-14** Innhold endret (se git-historikk for diff)
