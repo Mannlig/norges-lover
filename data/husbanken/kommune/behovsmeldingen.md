@@ -1,4 +1,4 @@
-<!-- innholds-hash: 60b388efa69d4c75f34c0f9f8e2e33c5d933d952bfaf15b09abb84695be3647d -->
+<!-- innholds-hash: 585a62a03ffa576816ebb60f956580fb3cf39929f5601b0089056d19bebeda21 -->
 
 # Behovsmeldingen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/behovsmeldingen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:39:33Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:16:34Z
 
 ## Innhold
 
@@ -14,12 +14,13 @@
 
 I behovsmeldingen melder kommunene inn sine planer og behov for kommunale utleieboliger, utleieboliger i samarbeid med private utleiere og investeringstilskudd til omsorgsboliger og sykehjem. I tillegg søker kommunene om startlånmidler.
 
-Behovsmeldingen for 2026 er stengt, men kommunene kan søke om startlånsmidler:
+### Behovsmeldingen er stengt
 
-- Søknad om midler til ordinært startlån er åpen hele året
-- Søknad om midler til førstegangsetablerere er åpen til 1. juni
+Kommunene kan søke om midler til ordinært startlån til og med 15. november 2026.
 
-[Logg inn og søk startlånsmidler](https://startlanmidler.husbanken.no/)
+Behovsmeldingen og nye muligheter for å søke om startlån kommer tidlig i 2027.
+
+[Logg inn og søk om startlånsmidler](https://startlanmidler.husbanken.no/)
 
 ### Hva er behovsmeldingen?
 
@@ -39,3 +40,4 @@ Sist oppdatert: 29.05.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

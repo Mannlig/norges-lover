@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5963de16420dcaf42efa4f20839fe8a9288e03d39313957091cfc457d1e55909 -->
+<!-- innholds-hash: 29ba4cb34484a4529d2a6aafdd560d1ebb985218980c57036b48fb1c4aaddaed -->
 
 # Doarjja iežas ásodaga ahkeheivehuvvon ođasmahttimii
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/samegiella/doarjja-ahkeheivehuvvon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-15T15:51:04Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:23:40Z
 
 ## Innhold
 
@@ -73,7 +73,7 @@ Logge sisa ja oza Viessobáŋkku digitála ohcamuša. Jus it sáhte ohcat digit�
 
 Muitte bidjat haddefálaldaga mielddusin ohcamuššii. Sáhtát šaddat bidjat eará mildosiid mielddusin, dan duohken makkár dilli dus lea. Dát boahtá ovdan ohcamušas.
 
-Ohcanáigemearri: Golggotmánu 30.b. 2026
+Ohcanáigemearri: Guovvamánus 1.b. 2027
 
 [Oza doarjaga digitálalaččat (dárogillii)](https://soknad-lan.husbanken.no/privat/hva-vil-du-soke-om/aldersvennlig-oppgradering/inngang)
 
@@ -119,7 +119,7 @@ Jus don láigohat ásodaga, de láigoheaddji ferte miehtat ođasmahttit ásodaga
 
 ### Gažaldagat ja vástádusat
 
-Maŋimuš ođasmahttojuvvon: 12.10.2026
+Maŋimuš ođasmahttojuvvon: 10.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/samegiella/doarjja-ahkeheivehuvvon/) av norges-lover-bot.*
@@ -127,3 +127,4 @@ Maŋimuš ođasmahttojuvvon: 12.10.2026
 ## Endringshistorikk
 
 - **2026-10-15** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

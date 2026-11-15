@@ -1,4 +1,4 @@
-<!-- innholds-hash: a8bd172b418e20310ac9f0e5f90d68486ab1535575d0cb7f8d0aa632490d44de -->
+<!-- innholds-hash: b14f39ce660039151b6a4718e7e360710cd866aee9d348392d315737acdf965a -->
 
 # Startlån til førstegangsetablerere
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/startlaan/forstegangsetablerere/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:43:31Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:20:36Z
 
 ## Innhold
 
@@ -30,8 +30,6 @@ Som for ordinært startlån er det et krav at søkeren ikke har fått boliglån 
 
 Alle kommuner kan søke om midler til forsøksordningen. Husbanken har 2 milliarder kroner til ordningen i 2026. Midlene blir fordelt til kommuner fortløpende. Søknaden stenger når rammen er brukt opp, og senest 1. juni.
 
-[Søk om midler til forsøk](http://startlaan.husbanken.no/)
-
 Sammen med søknaden skal kommunen levere en beskrivelse på maks én side. Beskrivelsen skal redegjøre for
 
 - hvordan kommunen vil innlemme forsøksordningen i boligpolitikken sin. Dette omfatter bruk av ordinære startlån, kommunens kapasitet til å behandle søknader om startlån og hvordan kommunen legger til rette for økt boligtilbud gjennom nybygging
@@ -50,7 +48,7 @@ Har du spørsmål om forsøksordningen, kan du [ta kontakt med regionkontoret di
 
 ### Disse kommunene har fått forsøksmidler
 
-Sist oppdatert: 03.03.2026
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/startlaan/forstegangsetablerere/) av norges-lover-bot.*
@@ -58,3 +56,4 @@ Sist oppdatert: 03.03.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

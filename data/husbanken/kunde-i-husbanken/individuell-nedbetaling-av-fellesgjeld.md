@@ -1,4 +1,4 @@
-<!-- innholds-hash: 997e9cf6502536447d6abd825aac7c3bf3634492deb949ad1e5c1f48d7e612b0 -->
+<!-- innholds-hash: 3b38dd65b08dbc60b6104fd789e3d69190589be84c2c29728d9693a20c3bd9fe -->
 
 # Individuell nedbetaling (IN) av fellesgjeld i borettslag
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunde-i-husbanken/individuell-nedbetaling-av-fellesgjeld/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:51:39Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:30:59Z
 
 ## Innhold
 
@@ -48,7 +48,7 @@ Kommunal- og distriktsdepartementet har utarbeidet brosjyrer som er spesielt vik
 
 [For deg som er i styret i borettslag med høy fellesgjeld (PDF)](https://www.regjeringen.no/globalassets/upload/krd/vedlegg/boby/veiledninger_og_brosjyrer/styret_web.pdf)
 
-Sist oppdatert: 29.11.2023
+Sist oppdatert: 15.05.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kunde-i-husbanken/individuell-nedbetaling-av-fellesgjeld/) av norges-lover-bot.*
@@ -56,3 +56,4 @@ Sist oppdatert: 29.11.2023
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2fe5827229bff54bba2775bc51d073da5874561c5255387a402cd73013f83a63 -->
+<!-- innholds-hash: 62da7a2a672f3bfe4cde4f1f7701a35f54d538049073b150107697c70882ce4a -->
 
 # Startlån - ny finansavtalelov styrker forbrukervernet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/startlaan/finansavtalelov/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:42:59Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:20:04Z
 
 ## Innhold
 
@@ -70,7 +70,7 @@ Fra 2023 er alternativene for kommunen å gi lån der kredittvurderingen tilsier
 
 ### Se opptak av Husbankens webinar om finansavtaleloven:
 
-Sist oppdatert: 26.03.2026
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/startlaan/finansavtalelov/) av norges-lover-bot.*
@@ -78,3 +78,4 @@ Sist oppdatert: 26.03.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

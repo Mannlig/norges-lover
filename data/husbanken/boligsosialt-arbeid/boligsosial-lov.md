@@ -1,4 +1,4 @@
-<!-- innholds-hash: 55bfd8c9d799c14259604ecf68eb357f5245f46be47e9be6a667cb6f3e79e68d -->
+<!-- innholds-hash: a5e05f027d3271f97f797930e1388a00378a5be908dc51c48d7224d45aa8c39a -->
 
 # Lov om kommunenes ansvar på det bolig­sosiale feltet
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/boligsosialt-arbeid/boligsosial-lov/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:58:24Z
+- **Sist oppdatert i arkivet:** 2026-11-15T19:13:21Z
 
 ## Innhold
 
@@ -28,7 +28,7 @@ Når det gjelder saksbehandlingen, presiserer loven at kommunen må fatte enkelt
 
 [Lov om kommunenes ansvar på det boligsosiale feltet (lovdata.no)](https://lovdata.no/dokument/NL/lov/2022-12-20-121)
 
-Sist oppdatert: 25.04.2024
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/boligsosialt-arbeid/boligsosial-lov/) av norges-lover-bot.*
@@ -36,3 +36,4 @@ Sist oppdatert: 25.04.2024
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

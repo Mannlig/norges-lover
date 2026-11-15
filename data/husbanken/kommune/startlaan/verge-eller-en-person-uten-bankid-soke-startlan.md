@@ -1,4 +1,4 @@
-<!-- innholds-hash: 60f3c33d3b38f3b29349096c29fd8deed75150cccab8a2414fd9bafeab6f3754 -->
+<!-- innholds-hash: 94a6dfdcb38d53c896ceb9c21f8ffcab807d9dcd99cc5f3ddb191e3f687adc9b -->
 
 # Gi verge eller medhjelper tilgang til å søke startlån og tilskudd
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/startlaan/verge-eller-en-person-uten-bankid-soke-startlan/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:47:37Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:26:50Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Se også [informasjon til privatpersoner om å søke med verge eller medhjelper]
 
 Av sikkerhetsmessige årsaker, er denne prosessen noe omfattende og krevende for alle parter.
 
-Sist oppdatert: 07.11.2023
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/startlaan/verge-eller-en-person-uten-bankid-soke-startlan/) av norges-lover-bot.*
@@ -28,3 +28,4 @@ Sist oppdatert: 07.11.2023
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

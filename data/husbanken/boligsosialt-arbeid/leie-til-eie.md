@@ -1,4 +1,4 @@
-<!-- innholds-hash: b54d7952e07376e84fafd577263e7d67c082a0d9131aeb87da16e8453d5c91e9 -->
+<!-- innholds-hash: 6ca8b9fafc83a5a82bdf02f6dcca6958e91d77a4373aeb86bdb49680ba5192f0 -->
 
 # Leie til eie
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/boligsosialt-arbeid/leie-til-eie/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T20:01:32Z
+- **Sist oppdatert i arkivet:** 2026-11-15T19:16:35Z
 
 ## Innhold
 
@@ -66,7 +66,7 @@ Husbanken oppfordrer kommunene til å sette seg godt inn Husbankens virkemidler 
 
 [Eie først](https://www.husbanken.no/boligsosialt-arbeid/eie-forst/)
 
-Sist oppdatert: 02.12.2025
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/boligsosialt-arbeid/leie-til-eie/) av norges-lover-bot.*
@@ -74,3 +74,4 @@ Sist oppdatert: 02.12.2025
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

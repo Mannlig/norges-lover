@@ -1,4 +1,4 @@
-<!-- innholds-hash: c4aeb12490da5f2cb7965c9a92ae272072229717fe32e5f33730e4393f4b769f -->
+<!-- innholds-hash: 2b90f502b0736cc81d0695062228915bc71a2eb08c3e9964e057a2a7344b5c77 -->
 
 # Overføre lån i Husbanken til ny låntaker
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunde-i-husbanken/overfoering-av-laan/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:52:09Z
+- **Sist oppdatert i arkivet:** 2026-11-15T18:31:27Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Det er ikke mulig å refinansiere et lån i en privat bank med lån fra Husbanke
 
 Lån som allerede er tatt opp i Husbanken kan i enkelte tilfeller overføres fra en låntaker til en annen, enten til en privatperson eller en juridisk kunde. Med juridisk kunde mener vi for eksempel selskaper, stiftelser eller foreninger.
 
-Sist oppdatert: 07.04.2025
+Sist oppdatert: 12.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kunde-i-husbanken/overfoering-av-laan/) av norges-lover-bot.*
@@ -26,3 +26,4 @@ Sist oppdatert: 07.04.2025
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)

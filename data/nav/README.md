@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12029
+**Antall dokumenter:** 12030
 
 ## Innhold
 
@@ -5015,6 +5015,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Tiltaksdeltakere - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/tiltaksdeltakere.md)
 - [Arbeidssøkere og stillinger - statistikk - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk.md)
 - [Arkiv - Barnebidrag desember 2025 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-barnebidrag-desember-2025.md)
+- [Arkiv - Barnebidrag juni 2026 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-barnebidrag-juni-2026.md)
 - [Arkiv -barnebidrag mars 2026 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-barnebidrag-mars-2026.md)
 - [Arkiv - Bidragsforskudd september 2025 - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-bidragsforskudd-september-2025.md)
 - [Arkiv - Barnebidrag - nav.no](no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag.md)
