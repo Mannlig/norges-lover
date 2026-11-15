@@ -1,20 +1,21 @@
-<!-- innholds-hash: 1247f59afe2e727babb5e86ff7218c71988a68f532b5c06c428842f2f4205f14 -->
+<!-- innholds-hash: df90e5d99904e5bc276e90ddccae82c29931ed6083180f44754cc7da77d8008b -->
 
 # Arkiv - Barnebidrag - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag_kap
-- **Sist oppdatert i arkivet:** 2026-10-09T23:50:52Z
+- **Sist oppdatert i arkivet:** 2026-11-15T12:18:56Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 25.08.2026
+Publisert 01.12.2019 | Oppdatert 27.10.2026
 
 ## Arkiv - Barnebidrag
 
 #### 2017-2026
 
+- [Statistikk pr. 30. juni 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-barnebidrag-juni-2026)
 - [Statistikk pr. 31. mars 2017-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/familie-statistikk/barnebidrag/arkiv-barnebidrag/arkiv-barnebidrag-mars-2026)
 
 #### 2016-2025
@@ -114,3 +115,4 @@ Publisert 01.12.2019 | Oppdatert 25.08.2026
 ## Endringshistorikk
 
 - **2026-10-09** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)
