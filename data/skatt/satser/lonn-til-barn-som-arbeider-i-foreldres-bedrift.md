@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1ceea00353ce8fac29451a4711d122d3b82997db4ec8eca67b794568bf6efca8 -->
+<!-- innholds-hash: 51c86bce17ec57adfbbf77b63591befba697654c557737d8c66d38e54f9e0b37 -->
 
 # Lønn til barn som arbeider i foreldres bedrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/satser/lonn-til-barn-som-arbeider-i-foreldres-bedrift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T10:16:49Z
+- **Sist oppdatert i arkivet:** 2026-11-14T23:33:54Z
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Velg år 20252024202320222021202020192018201720162015201420132012201120102009
 
 | Alder | Timesats 01.01.–20.04.2025 | Alder | Timesats 21.04.–31.12.2025 |
 | --- | --- | --- | --- |
-| 17 år | 150 kroner | 17 år | 168 kroner |
+| 17 år | 160 kroner | 17 år | 168 kroner |
 | 16 år | 155 kroner | 16 år | 162 kroner |
 | 15 år | 135 kroner | 15 år | 141 kroner |
 | 14 år | 110 kroner | 14 år | 124 kroner |
@@ -43,3 +43,4 @@ For barn mellom 13 og 15 år er timesatsene redusert skjønnsmessig i forhold ti
 
 - **2026-05-11** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-11-14** Innhold endret (se git-historikk for diff)
