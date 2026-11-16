@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12030
+**Antall dokumenter:** 12036
 
 ## Innhold
 
@@ -8953,6 +8953,8 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Krigspensjon - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon/arkiv-krigspensjon_kap.md)
 - [Om statistikken - Krigspensjon - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon/om-statistikken-krigspensjon.md)
 - [Krigspensjon - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon.md)
+- [Arkiv. Ytelser til gjenlevende. Juni 2016 - 2026. - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/0-arkiv-gjenlevendeytelser/arkiv.ytelser-til-gjenlevende.juni-2016-2026.md)
+- [Arkiv. Supplerende stønad. Juni 2016 - 2026. - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/0-arkiv-supplerende-stonad/arkiv.supplerende-stonad.juni-2016-2026.md)
 - [Alderspensjon - Statistikknotater - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/alderspensjon-statistikknotater.md)
 - [Arkiv - Alderspensjon pr. 30. september 2006-2015 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/alderspensjon1.md)
 - [Arkiv - Alderspensjon. Juni 2017 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/alderspensjon10.md)
@@ -9095,6 +9097,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Avtalefestet pensjon. September 2020 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-avtalefestet-pensjon.september-2020.md)
 - [Arkiv - Avtalefestet pensjon. September 2022 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-avtalefestet-pensjon.september-2022.md)
 - [Arkiv - Krigspensjon. Desember 2025 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon/arkiv-krigspensjon.desember-2025.md)
+- [Arkiv. Krigspensjon pr. 30. juni 2016 - 2026. - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon/arkiv.krigspensjon-pr.30.juni-2016-2026.md)
 - [Arkiv - Krigspensjon bestand pr. 31. desember 1997-2006 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon-bestand-pr.31.desember-1997-2006.md)
 - [Arkiv - Krigspensjon  pr. 30. juni 2014 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon-pr.30.juni-2014.md)
 - [Arkiv - Krigspensjon pr. 30. juni 2015 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon-pr.30.juni-2015.md)
@@ -9238,6 +9241,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv. Alderspensjon. Desember 2025. - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.alderspensjon.desember-2025.md)
 - [Arkiv. Alderspensjon. Mars 2021 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.alderspensjon.mars-2021.md)
 - [Arkiv - Alderspensjon. Per 31. mars 2015 - 2025 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.alderspensjon.mars-2025.md)
+- [Arkiv. Avtalefestet pensjon (AFP) pr. 30. juni 2016 - 2026 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp-pr.30.juni-2016-2026.md)
 - [Arkiv. Avtalefestet pensjon (AFP) pr. 31. mars 2016 - 2026 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp-pr.31.mars-2016-2026.md)
 - [Arkiv. Avtalefestet pensjon (AFP). Desember 2025 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp.desember-2025.md)
 - [Arkiv. Avtalefestet pensjon (AFP). Juni 2025 - nav.no](no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp.juni-2025.md)
@@ -10523,6 +10527,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Sykefraværsstatistikk per 1.kvartal 2022 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-1.kvartal-2022.md)
 - [Arkiv - Sykefraværsstatistikk per 1. kvartal 2023 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-1.kvartal-2023.md)
 - [Arkiv - Sykefraværsstatistikk per 2. kvartal 2010 - 2025 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2010-2025.md)
+- [Arkiv - Sykefraværsstatistikk per 2. kvartal 2010 - 2026 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2010-2026.md)
 - [Arkiv - Sykefraværsstatistikk per 2. kvartal 2011 - 2020 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2011-2020.md)
 - [Arkiv - Sykefraværsstatistikk per 2. kvartal 2012-2021 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2012-2021.md)
 - [Arkiv - Sykefraværsstatistikk per 2. kvartal 2013-2022 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2013-2022.md)
@@ -10573,6 +10578,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Sykepengestatistikk per 1.kvartal 2020 - 2026 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-1.kvartal-2020-2026.md)
 - [Arkiv - Sykepengestatistikk per 1.kvartal 2023 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-1.kvartal-2023.md)
 - [Arkiv - Sykepengestatistikk per 2.kvartal 2020 - 2025 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-2.kvartal-2020-2025.md)
+- [Arkiv - Sykepengestatistikk per 2.kvartal 2020 - 2026 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-2.kvartal-2020-2026.md)
 - [Arkiv - Sykepengestatistikk per 2.kvartal 2023 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-2.kvartal-2023.md)
 - [Arkiv - Sykepengestatistikk per 2.kvartal 2024 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-2.kvartal-2024.md)
 - [Arkiv - Sykepengestatistikk per 3.kvartal 2020-2025 - nav.no](no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-3.kvartal-2020-2025.md)
