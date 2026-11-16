@@ -1,4 +1,4 @@
-<!-- innholds-hash: bf260012cd93c8f3cdfd6fc390aeed6e6a9487272a1edd7b3123655da666b107 -->
+<!-- innholds-hash: 781ef2fd9a7cccb9b6446533fb47216cd33b6ca591e0b79225b6f6713c3efc6f -->
 
 # Representantforslag fra stortingsrepresentantene Mímir Kristjánsson og Seher Aydar om å styrke sykelønnsordningen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:47 S (2024-2025), Innst. 190 S (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Arbeidsliv, Arbeidsvilkår, Trygder
+- **Emner:** Sykdommer, Arbeidsvilkår, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-16T17:10:08Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101552
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "er_hovedemne": true,
-      "hovedemne_id": 5,
-      "id": 5,
-      "navn": "Arbeidsliv",
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 66,
+      "navn": "Sykdommer",
       "underemne_liste": []
     },
     {
@@ -131,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 627f24208ebbeed24507a74712b2c38caaa0083966859fa05d3fa993e4ec42bb -->
+<!-- innholds-hash: 87500ca959271cd810f0ab7e8a825b48276158a8d4bc63dfabc73c34932986fb -->
 
 # Lov om den europeiske arbeidsmarknadsstyresmakta (ELA-lova) og samtykke til godkjenning av EØS-komiteen si avgjerd nr. 319/2023 om innlemming i EØS-avtala av forordning (EU) 2019/1149
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 8 LS (2024-2025), Innst. 182 S (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** Arbeidsliv, Innvandrere, Eu/eøs, Trygder
+- **Emner:** Arbeidsliv, Sysselsetting, Arbeidsvilkår, Eu/eøs, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-16T17:10:08Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100676
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -34,10 +34,17 @@
       "underemne_liste": []
     },
     {
-      "er_hovedemne": true,
-      "hovedemne_id": 18,
-      "id": 18,
-      "navn": "Innvandrere",
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 7,
+      "navn": "Sysselsetting",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 94,
+      "navn": "Arbeidsvilkår",
       "underemne_liste": []
     },
     {
@@ -99,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

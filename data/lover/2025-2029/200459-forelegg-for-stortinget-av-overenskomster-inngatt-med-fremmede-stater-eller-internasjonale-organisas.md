@@ -1,4 +1,4 @@
-<!-- innholds-hash: 816a284181acee4ff2b1c51d8f463e44794ba207123d4ab2dfcdd4c5737010dc -->
+<!-- innholds-hash: 5b742d537a533bd501789769d3a27352abbb733692f7fcfe576dc347893f4b13 -->
 
 # Forelegg for Stortinget av overenskomster inngått med fremmede stater eller internasjonale organisasjoner i 2023
 
@@ -14,7 +14,7 @@
 - **Emner:** Internasjonalt samarbeid, Traktater
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-11T16:47:49Z
+- **Sist oppdatert i arkivet:** 2026-11-16T17:09:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200459
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -52,7 +52,27 @@
   },
   "korttittel": "Forelegg for Stortinget av overenskomster inngått med fremmede stater eller internasjonale organisasjoner i 2023",
   "sak_fremmet_id": 200459,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Sayed",
+      "foedselsdato": "/Date(877125600000+0200)/",
+      "fornavn": "Jonas Andersen",
+      "id": "JONSAY",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Forelegg for Stortinget av overenskomster inngått med fremmede stater eller internasjonale organisasjoner i 2023",
@@ -66,3 +86,4 @@
 
 - **2026-10-09** Første gang hentet
 - **2026-11-11** Innhold endret (se git-historikk for diff)
+- **2026-11-16** Innhold endret (se git-historikk for diff)

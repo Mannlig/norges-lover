@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 630
+**Antall dokumenter:** 636
 
 ## Innhold
 
@@ -14,6 +14,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Forside for bransjeaktører](bransje.md)
 - [Regelverk og skjemaer](brosjyrer.md)
 - [Eksempel og erfaringar](eksempler.md)
+- [Husleie](husleie.md)
 - [Hjelp til å sikre ryddige leieforhold](husleietvist.md)
 - [Kobo](kobo.md)
 - [Forside for kommuner](kommune.md)
@@ -166,6 +167,14 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Vallergrenda: Bustader for ulike målgrupper i same nabolag](eksempler/vallergrenda-baerum.md)
 - [Energisparande leilegheiter rett ved nærbutikken i Stod](eksempler/vassinghaugen-borettslag-steinkjer.md)
 - [Verdal bu- og behandlingssenter: Pub, kafé og fleire kulturtilbod – for heile bygda!](eksempler/verdal-bo-og-behandlingssenter.md)
+
+### Husleie
+
+- [Klage, tilsvar og tilleggsinformasjon](husleie/klage-og-tilsvar.md)
+- [Få hjelp til å løse en konflikt](husleie/konfliktlosing.md)
+- [Ofte stilte spørsmål](husleie/ofte-stilte-sporsmal.md)
+- [Om Husleietvistutvalget](husleie/om-husleietvistutvalget.md)
+- [Rettigheter og plikter](husleie/rettigheter-og-plikter.md)
 
 ### Kobo
 

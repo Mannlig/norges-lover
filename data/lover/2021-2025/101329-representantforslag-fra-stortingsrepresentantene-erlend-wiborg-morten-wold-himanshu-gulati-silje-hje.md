@@ -1,4 +1,4 @@
-<!-- innholds-hash: b5fb2c0bf2f7c8a891ae596c20aadf355f85af2a28c93dd9d13a3c5067eee741 -->
+<!-- innholds-hash: a8b33502215be7c0efc1609bddb87c46fffd97dbf9f547b74d3b6c270c06da6f -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Morten Wold, Himanshu Gulati, Silje Hjemdal, Terje Halleland, Sylvi Listhaug, Bård Hoksrud, Hans Andreas Limi og Marius Arion Nilsen om mer vannkraft - grunnsteinen i Norges energiforsyning
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:40 S (2024-2025), Innst. 191 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Energi, Skatter, Elektrisitet, Vassdragsregulering
+- **Emner:** Naturvern, Skatter, Elektrisitet, Vassdragsregulering
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-16T17:10:08Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101329
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "er_hovedemne": true,
-      "hovedemne_id": 4,
-      "id": 4,
-      "navn": "Energi",
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
       "underemne_liste": []
     },
     {
@@ -271,3 +271,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)
