@@ -1,15 +1,15 @@
-<!-- innholds-hash: 04f23e868ae32d9316e9acb6258bb8a09ac7bcc92b4b131d9ae5fc2b06c8383b -->
+<!-- innholds-hash: 03dca94c4d45c57c34223a46d9d52e249741a31c9d55b4a73c5ff70dd04eadeb -->
 
 # Om statistikken - Supplerende stønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad/om-statistikken-supplerende-stonad
-- **Sist oppdatert i arkivet:** 2026-10-10T00:45:23Z
+- **Sist oppdatert i arkivet:** 2026-11-16T00:55:51Z
 
 ## Innhold
 
-Publisert 31.07.2026
+Publisert 31.07.2026 | Oppdatert 03.11.2026
 
 ## Om statistikken - Supplerende stønad
 
@@ -51,11 +51,11 @@ Supplerende stønad gis til personer som mottar liten eller ingen alderspensjon.
 
 Mottakeren må være bosatt i Norge for å få utbetalt stønaden.
 
-[Mer om supplerende stønad.](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-personer-med-kort-botid-i-norge)
+[Mer om supplerende stønad.](https://www.nav.no/supplerende-stonad-over-67)
 
 Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninger. Mottakere av denne ytelsen vil etter planen inngå i annen statistikk, og er ikke med i statistikken som presenteres her. Statistikk er foreløpig ikke ferdig utviklet.
 
-[Mer om ordningen for uføre flyktninger](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-ufore-flyktninger)
+[Mer om ordningen for uføre flyktninger](https://www.nav.no/supplerende-stonad-flyktninger)
 
 #### 3. Om produksjonen av statistikken
 
@@ -97,3 +97,4 @@ Overgang til ny datakilde medfører et mindre brudd fra 2024 til 2025 og skaper 
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

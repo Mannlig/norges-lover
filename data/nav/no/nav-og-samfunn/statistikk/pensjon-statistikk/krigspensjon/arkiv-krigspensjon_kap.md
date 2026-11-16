@@ -1,20 +1,21 @@
-<!-- innholds-hash: c2dcd02fb3f4c8cd619110473fb3ce33df7b057a32f38764efe76dfcb934e024 -->
+<!-- innholds-hash: 86eaf2bc6edb2ee11595d3ee5242bc05ef05d0dbfa23687af48144e55d7c8591 -->
 
 # Arkiv - Krigspensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/krigspensjon/arkiv-krigspensjon_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:43:19Z
+- **Sist oppdatert i arkivet:** 2026-11-16T00:53:43Z
 
 ## Innhold
 
-Publisert 24.04.2023 | Oppdatert 04.08.2026
+Publisert 24.04.2023 | Oppdatert 04.11.2026
 
 ## Arkiv - Krigspensjon
 
 #### 2026
 
+- [Statistikk. Juni 2016-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-krigspensjon/arkiv.krigspensjon-pr.30.juni-2016-2026)
 - [Statistikk. Mars 2016-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.krigspensjon-pr.31-mars-2016-2026)
 
 #### 2025
@@ -118,3 +119,4 @@ Publisert 24.04.2023 | Oppdatert 04.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

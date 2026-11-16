@@ -1,20 +1,21 @@
-<!-- innholds-hash: 01acdc96de86b77050156eac48f1ab5c8c67efe5b62b823db279a52d88ac654e -->
+<!-- innholds-hash: 9b2f66970ef61728e7db9bfd473b853bb9315f93580ac011f37364eca985b6ee -->
 
 # Arkiv - Supplerende stønad - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/supplerende-stonad/arkiv-supplerende-stonad_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:44:43Z
+- **Sist oppdatert i arkivet:** 2026-11-16T00:55:10Z
 
 ## Innhold
 
-Publisert 03.09.2020 | Oppdatert 18.08.2026
+Publisert 03.09.2020 | Oppdatert 12.11.2026
 
 ## Arkiv - Supplerende stønad
 
 #### 2026
 
+- [Statistikk pr. 30. juni 2016-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/0-arkiv-supplerende-stonad/arkiv.supplerende-stonad.juni-2016-2026)
 - [Statistikk pr. 31. mars 2016-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.supplerende-stonad.mars-2016-2026)
 
 #### 2025
@@ -118,3 +119,4 @@ Publisert 03.09.2020 | Oppdatert 18.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

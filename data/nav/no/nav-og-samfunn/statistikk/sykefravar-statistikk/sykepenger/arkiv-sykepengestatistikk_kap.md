@@ -1,20 +1,21 @@
-<!-- innholds-hash: ec62cc97d30494c98136c578ebe088c81bad6e98cb5453190a997b32519f84ac -->
+<!-- innholds-hash: 8cadcf9e2bb645d7498bf9176402fa174a9ba18d2d6bd13d06755031b4df1291 -->
 
 # Arkiv - Sykepengestatistikk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykepenger/arkiv-sykepengestatistikk_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:52:16Z
+- **Sist oppdatert i arkivet:** 2026-11-16T01:02:54Z
 
 ## Innhold
 
-Publisert 02.06.2023 | Oppdatert 07.08.2026
+Publisert 02.06.2023 | Oppdatert 13.11.2026
 
 ## Arkiv - Sykepengestatistikk
 
 #### 2020-2026
 
+- [Statistikk per 2. kvartal 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-2.kvartal-2020-2026)
 - [Statistikk per 1. kvartal 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykepengestatistikk-per-1.kvartal-2020-2026)
 
 #### 2020-2025
@@ -96,3 +97,4 @@ Publisert 02.06.2023 | Oppdatert 07.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

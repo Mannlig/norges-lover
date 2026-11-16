@@ -1,20 +1,21 @@
-<!-- innholds-hash: edd6fa7989ffcdb9ff2746c71060196748fc6584751e715672284bee911fc8ba -->
+<!-- innholds-hash: 899d236cb405f18d227112cd6ddb9e891a970d5235c4b9bf15e7d2007e54a520 -->
 
 # Arkiv - Sykefraværsstatistikk - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/sykefravar/arkiv-sykefravarsstatistikk_kap
-- **Sist oppdatert i arkivet:** 2026-10-10T00:48:11Z
+- **Sist oppdatert i arkivet:** 2026-11-16T00:58:42Z
 
 ## Innhold
 
-Publisert 02.03.2022 | Oppdatert 07.08.2026
+Publisert 02.03.2022 | Oppdatert 13.11.2026
 
 ## Arkiv - Sykefraværsstatistikk
 
-#### 2017-2025
+#### 2017-2026
 
+- [Statistikk per 2. kvartal 2010-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-2.kvartal-2010-2026)
 - [Statistikk per 1. kvartal 2010-2026](https://www.nav.no/no/nav-og-samfunn/statistikk/sykefravar-statistikk/relatert-informasjon/arkiv-sykefravaersstatistikk-per-1.kvartal-2010-2026)
 
 #### 2016-2025
@@ -129,3 +130,4 @@ Publisert 02.03.2022 | Oppdatert 07.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-16** Innhold endret (se git-historikk for diff)

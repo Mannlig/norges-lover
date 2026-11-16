@@ -1,20 +1,21 @@
-<!-- innholds-hash: 57354971b9a55aee8bb83d6affe176875988f2b66115ea0677eff60c2ebb83b9 -->
+<!-- innholds-hash: ec543984e299504db0fdf26e4b4013bde95e676fd1bb4f0ddd058c94e27ac7ca -->
 
 # Arkiv - Avtalefestet pensjon (AFP) - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/avtalefestet-pensjon-afp/arkiv-avtalefestet-pensjon-afp_
-- **Sist oppdatert i arkivet:** 2026-10-10T00:41:56Z
+- **Sist oppdatert i arkivet:** 2026-11-15T23:33:07Z
 
 ## Innhold
 
-Publisert 25.04.2024 | Oppdatert 04.08.2026
+Publisert 25.04.2024 | Oppdatert 04.11.2026
 
 ## Arkiv - Avtalefestet pensjon (AFP)
 
 #### 2026
 
+- [Statistikk pr. juni 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp-pr.30.juni-2016-2026)
 - [Statistikk pr. mars 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.avtalefestet-pensjon-afp-pr.31.mars-2016-2026)
 
 #### 2025
@@ -167,3 +168,4 @@ Publisert 25.04.2024 | Oppdatert 04.08.2026
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-15** Innhold endret (se git-historikk for diff)
