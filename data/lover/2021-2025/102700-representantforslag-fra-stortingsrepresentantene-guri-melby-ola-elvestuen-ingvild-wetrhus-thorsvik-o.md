@@ -1,4 +1,4 @@
-<!-- innholds-hash: dd31eab62f6ab50cf0570a3234cab16de769317e2eea8e988dba501a84e7d90f -->
+<!-- innholds-hash: 379261081da557c21bca7770415237188fac7147169357767a7bfad9ae8f9a41 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Ola Elvestuen, Ingvild Wetrhus Thorsvik og Alfreds Jens Bjørlo om å innføre et moratorium på nedbygging av myr til utbyggingsformål
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:142 S (2024-2025), Innst. 520 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Naturvern, Bygningsvesen
+- **Emner:** Forurensning, Naturvern, Bygningsvesen
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102700
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 139,
@@ -162,3 +169,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

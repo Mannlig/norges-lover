@@ -1,4 +1,4 @@
-<!-- innholds-hash: 842613cc750791317cdcadfd38f8f6054ac8f085ba460429ed95a7f60d594954 -->
+<!-- innholds-hash: c6b97a8148438961c0d53e9afc01c323004931747fcad877ad3d75c24651bfaf -->
 
 # Melding for året 2024 fra Sivilombudet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 4 (2024-2025), Innst. 370 S (2024-2025)
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** Rettsvesen, Kriminalomsorg, Barn, Forsvar, Sivilombudet, Statsforvaltning, Kommunikasjonsteknologi, Lokalforvaltning
+- **Emner:** Sivilombudet, Statsforvaltning, Menneskerettigheter, Lokalforvaltning, Stortinget
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102293
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,34 +26,6 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 6,
   "emne_liste": [
-    {
-      "er_hovedemne": true,
-      "hovedemne_id": 11,
-      "id": 11,
-      "navn": "Rettsvesen",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 11,
-      "id": 16,
-      "navn": "Kriminalomsorg",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 40,
-      "id": 41,
-      "navn": "Barn",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": true,
-      "hovedemne_id": 59,
-      "id": 59,
-      "navn": "Forsvar",
-      "underemne_liste": []
-    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 151,
@@ -69,10 +41,10 @@
       "underemne_liste": []
     },
     {
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 179,
-      "navn": "Kommunikasjonsteknologi",
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
       "underemne_liste": []
     },
     {
@@ -80,6 +52,13 @@
       "hovedemne_id": 184,
       "id": 184,
       "navn": "Lokalforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
       "underemne_liste": []
     }
   ],
@@ -127,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

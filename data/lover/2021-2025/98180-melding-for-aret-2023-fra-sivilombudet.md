@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4fae43d6047c04986bc125e3e87ccff0a71a25984c758846aaa45d41f95c4c93 -->
+<!-- innholds-hash: 0248832c43101304307744ea697659055e1685fa30c4cdaaefb0de6199a8bbaa -->
 
 # Melding for året 2023 fra Sivilombudet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 4 (2023-2024), Innst. 342 S (2023-2024)
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** Sivilombudet, Stortinget
+- **Emner:** Sivilombudet, Statsforvaltning, Menneskerettigheter, Lokalforvaltning, Stortinget
 - **Behandlet i sesjon:** 2023-2024
 - **Hentet fra sesjon:** 2023-2024 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:05:14Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:34Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=98180
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,27 @@
       "hovedemne_id": 151,
       "id": 153,
       "navn": "Sivilombudet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 155,
+      "id": 155,
+      "navn": "Statsforvaltning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 184,
+      "id": 184,
+      "navn": "Lokalforvaltning",
       "underemne_liste": []
     },
     {
@@ -85,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

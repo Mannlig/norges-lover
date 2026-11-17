@@ -1,4 +1,4 @@
-<!-- innholds-hash: b5a50ceeaa5dc9054bc0c131dfc8ae315448bde3a32771229fa1782830c8e396 -->
+<!-- innholds-hash: ca9f3a07f99a17407c80323b936d728979446e665acc4b49ef9793959e68c322 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Silje Hjemdal, Frank Edvard Sve og Morten Stordalen om å oppheve klimasymbolske reguleringer og standardkrav for anleggsbransjen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:141 S (2024-2025), Innst. 379 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Forurensning, Næringsliv, Bygningsvesen
+- **Emner:** Samferdsel, Forurensning, Avgifter, Næringsliv, Bygningsvesen
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102699
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,24 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
+      "er_hovedemne": true,
+      "hovedemne_id": 2,
+      "id": 2,
+      "navn": "Samferdsel",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": false,
       "hovedemne_id": 139,
       "id": 21,
       "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
       "underemne_liste": []
     },
     {
@@ -169,3 +183,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

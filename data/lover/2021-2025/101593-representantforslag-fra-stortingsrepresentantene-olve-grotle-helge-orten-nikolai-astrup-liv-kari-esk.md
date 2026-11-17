@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2945b9b524ead548ea85c3ee77ba463bf2a441b0966f8be8ae191a8843a8cbf4 -->
+<!-- innholds-hash: 2d6f5bac2de1d04ca45d19cb0ba2acc32a888009d1fdeb7a8a735b2d069f5a52 -->
 
 # Representantforslag fra stortingsrepresentantene Olve Grotle, Helge Orten, Nikolai Astrup, Liv Kari Eskeland, Mari Holm Lønseth, Erlend Svardal Bøe og Sveinung Stensland om å avvikle normprisordninga ved fastsetting av grunnrenteskatt i havbruket
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:53 S (2024-2025), Innst. 179 S (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Skatteadministrasjon, Skatter, Havbruk
+- **Emner:** Skatteadministrasjon, Skatter, Priser og konkurranseforhold, Havbruk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101593
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 187,
       "id": 58,
       "navn": "Skatter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
       "underemne_liste": []
     },
     {
@@ -226,3 +233,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

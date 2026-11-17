@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1946
+**Antall dokumenter:** 1950
 
 ## Innhold
 
@@ -1952,6 +1952,10 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)](2025-2029/200517-endringer-i-folketrygdloven-refusjon-av-forskutterte-sykepenger-mv.md)
 - [Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)](2025-2029/200518-endringer-i-rettsgebyrloven-nedjustering-av-gebyret-for-behandling-av-begjaeringer-om-tvangssalg-ett.md)
 - [Lov om lønnsnemndbehandling av arbeidstvisten mellom Fagforbundet/LO og NHO Geneo/NHO i forbindelse med tariffrevisjonen 2026 av Overenskomst 453 – Blindeforbundet, barnevern, asylmottak, kino, m.fl.](2025-2029/200519-lov-om-lonnsnemndbehandling-av-arbeidstvisten-mellom-fagforbundetlo-og-nho-geneonho-i-forbindelse-me.md)
+- [Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige](2025-2029/200520-representantforslag-fra-stortingsrepresentantene-nikolai-astrup-mudassar-kapur-mahmoud-farahmand-tag.md)
+- [Representantforslag fra stortingsrepresentantene Trond Helleland, Mudassar Kapur, Erlend Larsen, Mahmoud Farahmand og Anne Kristine Linnestad om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet](2025-2029/200521-representantforslag-fra-stortingsrepresentantene-trond-helleland-mudassar-kapur-erlend-larsen-mahmou.md)
+- [Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag](2025-2029/200522-representantforslag-fra-stortingsrepresentantene-erlend-larsen-anita-sollie-og-nikolai-astrup-om-bed.md)
+- [Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Ida Lindtveit Røse, Joel Ystebø og Jorunn Gleditsch Lossius om å stenge kinesiske biler ute fra Forsvarets områder](2025-2029/200523-representantforslag-fra-stortingsrepresentantene-jonas-andersen-sayed-ida-lindtveit-rose-joel-ystebo.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

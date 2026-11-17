@@ -1,4 +1,4 @@
-<!-- innholds-hash: baf29ce46426c221d479c45ed2210ea38f957f443522678af9bf9aa99fc4b61b -->
+<!-- innholds-hash: 9873bcaa079870bde000659f31723e0b2d908e1d41f5d111d6d3b0f1c7959a3e -->
 
 # Representantforslag fra stortingsrepresentantene Helge André Njåstad og Johan Aas om bekjempelse av økonomisk kriminalitet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:140 S (2024-2025), Innst. 364 S (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** Strafferett, Politi og påtalemyndighet
+- **Emner:** Arbeidsliv, Strafferett, Politi og påtalemyndighet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T13:38:22Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102698
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 5,
+      "id": 5,
+      "navn": "Arbeidsliv",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 11,
@@ -124,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)
