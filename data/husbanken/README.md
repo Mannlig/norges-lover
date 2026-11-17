@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 658
+**Antall dokumenter:** 662
 
 ## Innhold
 
@@ -188,6 +188,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Send inn tilleggsinformasjon](husleie/konfliktlosing/tilleggsinformasjon.md)
 - [Få hjelp til å løse en konflikt](husleie/konfliktlosing.md)
 - [Fremleie av bolig](husleie/leiekontrakt/fremleie.md)
+- [Leiekontrakt i kollektiv](husleie/leiekontrakt/kollektiv.md)
 - [Leiekontrakt](husleie/leiekontrakt.md)
 - [Ofte stilte spørsmål](husleie/ofte-stilte-sporsmal.md)
 - [Om Husleietvistutvalget](husleie/om-husleietvistutvalget.md)
@@ -195,6 +196,9 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Ro, orden og ordensregler](husleie/ro-og-orden.md)
 - [Samboer og kjæledyr](husleie/samboer-og-kjaledyr.md)
 - [Veahkki dutnje gii láigohat dahje láigohat olggos ásodaga](husleie/samegiella.md)
+- [Hvilke forandringer kan man gjøre i leieboligen?](husleie/skader-og-vedlikehold/forandringer-i-leieboligen.md)
+- [Fukt og mugg i leiebolig](husleie/skader-og-vedlikehold/fukt-mugg.md)
+- [Skadedyr i leiebolig](husleie/skader-og-vedlikehold/skadedyr.md)
 - [Skader, slitasje og vedlikehold](husleie/skader-og-vedlikehold.md)
 - [Når kan utleier gå inn i boligen?](husleie/utleiers-tilgang-til-boligen.md)
 
