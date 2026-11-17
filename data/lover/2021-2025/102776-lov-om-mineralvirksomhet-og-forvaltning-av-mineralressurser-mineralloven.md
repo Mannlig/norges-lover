@@ -1,4 +1,4 @@
-<!-- innholds-hash: 51d49dec140a58cd6d7e1afd71c1b67b95ede3151cdfa53b4ffd9e2a0f723d4a -->
+<!-- innholds-hash: cff928c0f33ac9e0d68f5a800287c0f6fd6aead2d20115a9d8dbc17b65cc68c8 -->
 
 # Lov om mineralvirksomhet og forvaltning av mineralressurser (mineralloven)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 71 L (2024-2025), Innst. 521 L (2024-2025), Lovvedtak 130 (2024-2025), Lovanmerkning 3 (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Samer, Bergverk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102776
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 39,
+      "id": 39,
+      "navn": "Samer",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 115,
+      "navn": "Bergverk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 71 L (2024-2025), Innst. 521 L (2024-2025), Lovvedtak 130 (2024-2025), Lovanmerkning 3 (2024-2025)",
   "id": 102776,
@@ -70,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

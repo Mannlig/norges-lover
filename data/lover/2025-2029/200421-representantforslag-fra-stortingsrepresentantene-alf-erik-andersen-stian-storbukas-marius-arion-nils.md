@@ -1,4 +1,4 @@
-<!-- innholds-hash: 04f93675d1d4d82bca4604c41ade3655059b49db1da3e9c9f34bac758e443b46 -->
+<!-- innholds-hash: c603706b4f477f8002637747877c26c3ce31fb842bb925933eb5a84064e34296 -->
 
 # Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å redusere bompengebelastningen på E39 Mandal-Kristiansand
 - **Status:** 2
-- **Henvisning:** Dokument 8:3 S (2026–2027)
+- **Henvisning:** Dokument 8:3 S (2026–2027), Innst. 38 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** Vegtrafikk, Avgifter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200421
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -233,10 +233,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:3 S (2026–2027)",
+  "henvisning": "Dokument 8:3 S (2026–2027), Innst. 38 S (2026-2027)",
   "id": 200421,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17606,
+  "innstilling_kode": 1,
   "komite": {
     "id": "SAM",
     "navn": "Samferdselskomiteen"
@@ -264,7 +264,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand",
   "type": 2
@@ -280,3 +280,4 @@
 - **2026-10-07** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

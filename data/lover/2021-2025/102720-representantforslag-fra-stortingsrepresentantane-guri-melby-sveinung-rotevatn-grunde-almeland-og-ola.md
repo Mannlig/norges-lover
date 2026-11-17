@@ -1,4 +1,4 @@
-<!-- innholds-hash: a244d5bff4e32d3add3f8b1d9e0e81f49d3c5510ec863a33773c761d8433fb3c -->
+<!-- innholds-hash: 562c55ef5b1167f9ff1a1bf5b100a0c869a0779c9a64b01afb00cdd26a835319 -->
 
 # Representantforslag frå stortingsrepresentantane Guri Melby, Sveinung Rotevatn, Grunde Almeland og Ola Elvestuen om å suspendere norsk bistand til Rwanda som følgje av deira rolle i konflikten i Den demokratiske republikken Kongo
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:146 S (2024-2025), Innst. 391 S (2024-2025)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** Utenrikssaker, Utviklingssamarbeid, Fredsarbeid
+- **Emner:** Utenrikssaker, Menneskerettigheter, Utviklingssamarbeid, Fredsarbeid
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102720
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 163,
       "id": 163,
       "navn": "Utenrikssaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
       "underemne_liste": []
     },
     {
@@ -140,7 +147,7 @@
     {
       "doedsdato": null,
       "etternavn": "Søreide",
-      "foedselsdato": "/Date(199843200000+0200)/",
+      "foedselsdato": "/Date(199836000000+0200)/",
       "fornavn": "Ine Eriksen",
       "id": "IME",
       "kjoenn": 1,
@@ -169,3 +176,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

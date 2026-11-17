@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8244450c4951195bd51d0a4610f0e36befb1c4108d39dac2e61133e9b631446e -->
+<!-- innholds-hash: 1f93f23ba35a6ab1151034a5bbca4b358221f802771070b6fe0bc3a2a7d845e0 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften
 - **Status:** 2
-- **Henvisning:** Dokument 8:318 S (2025–2026)
+- **Henvisning:** Dokument 8:318 S (2025–2026), Innst. 44 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200369
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:318 S (2025–2026)",
+  "henvisning": "Dokument 8:318 S (2025–2026), Innst. 44 S (2026-2027)",
   "id": 200369,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17609,
+  "innstilling_kode": 1,
   "komite": {
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
   "type": 2
@@ -149,3 +149,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ffe367859a7fdb48f651f45e21facdb3bf3480ab8e7ab1e5d4f3eacea3060003 -->
+<!-- innholds-hash: 18590ff94300e370b326a8ebe77b8aaeb7f8d2cb10b15a988abbdb723c297360 -->
 
 # Endringar i bioteknologiloven (vilkår for preimplantasjonsdiagnostikk og forbod mot genetisk testing av barn utanfor helsetenesta)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 67 L (2024-2025), Innst. 388 L (2024-2025), Lovvedtak 80 (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Personvern, Familie, Barn, Svangerskap, Sykdommer
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102767
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 17,
+      "navn": "Personvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 40,
+      "id": 40,
+      "navn": "Familie",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 41,
+      "navn": "Barn",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 65,
+      "navn": "Svangerskap",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 66,
+      "navn": "Sykdommer",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 67 L (2024-2025), Innst. 388 L (2024-2025), Lovvedtak 80 (2024-2025)",
   "id": 102767,
@@ -70,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

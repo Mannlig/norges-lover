@@ -1,4 +1,4 @@
-<!-- innholds-hash: 58059f01619e06e9c31c53c6713bf11be646b2d6f7b6c88a30a0a2b5c0952938 -->
+<!-- innholds-hash: 9fb07d3aa3e5eb28299c23e6d95751c36ab4bf8f1b9e50bbc8ba0b0c0c5af92d -->
 
 # Endringar i rekonstruksjonslova (forlenging av tida lova skal gjelde)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 68 L (2024-2025), Innst. 343 L (2024-2025), Lovvedtak 71 (2024-2025)
 - **Komité:** Justiskomiteen
-- **Emner:** 
+- **Emner:** Rettsvesen, Næringsliv
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102768
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 68 L (2024-2025), Innst. 343 L (2024-2025), Lovvedtak 71 (2024-2025)",
   "id": 102768,
@@ -70,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

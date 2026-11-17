@@ -1,4 +1,4 @@
-<!-- innholds-hash: f32aadafa5ce53ea858b1e80fb611b6effad835764041eea88c90cd2206dfca5 -->
+<!-- innholds-hash: 870f885fc376acd2f034c66033faf6d37b46cbd030c74911b96cd8a47dc415a3 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren
 - **Status:** 2
-- **Henvisning:** Dokument 8:302 S (2025–2026)
+- **Henvisning:** Dokument 8:302 S (2025–2026), Innst. 58 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200347
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -66,10 +66,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:302 S (2025–2026)",
+  "henvisning": "Dokument 8:302 S (2025–2026), Innst. 58 S (2026-2027)",
   "id": 200347,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17613,
+  "innstilling_kode": 1,
   "komite": {
     "id": "SAM",
     "navn": "Samferdselskomiteen"
@@ -97,7 +97,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Geir Inge Lien og Bengt Fasteraune om forenkling og avbyråkratisering i jernbanesektoren",
   "type": 2
@@ -285,3 +285,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

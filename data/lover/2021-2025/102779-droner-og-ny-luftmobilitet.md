@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a2cd990966f24e872b1c2504116e60465cdccfdb219c291fa9dd2fa298b3a6f -->
+<!-- innholds-hash: 054f023013cffe882bbb90d1e453324128b97c53dfed842b83ed5c500561e83f -->
 
 # Droner og ny luftmobilitet
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 15 (2024-2025), Innst. 386 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** 
+- **Emner:** Luftfart, Næringsutvikling, Samfunnssikkerhet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102779
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 109,
+      "navn": "Luftfart",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 114,
+      "navn": "Næringsutvikling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 15 (2024-2025), Innst. 386 S (2024-2025)",
   "id": 102779,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

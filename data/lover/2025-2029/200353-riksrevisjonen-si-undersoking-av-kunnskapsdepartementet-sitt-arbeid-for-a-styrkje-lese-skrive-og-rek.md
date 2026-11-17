@@ -1,4 +1,4 @@
-<!-- innholds-hash: a83a9eaa54ddc58b5aea8d70f08be878aef56b4c4a2865e1e444674a27071ab4 -->
+<!-- innholds-hash: df2ad31877108f20f53ab09dad42d9c90906dccf02f1530ffac74eff2503dd50 -->
 
 # Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane
 - **Status:** 2
-- **Henvisning:** Dokument 3:17 (2025–2026)
+- **Henvisning:** Dokument 3:17 (2025–2026), Innst. 46 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200353
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 3:17 (2025–2026)",
+  "henvisning": "Dokument 3:17 (2025–2026), Innst. 46 S (2026-2027)",
   "id": 200353,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17604,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781560800000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Riksrevisjonen si undersøking av Kunnskapsdepartementet sitt arbeid for å styrkje lese-, skrive- og rekneferdigheitene hos elevane",
   "type": 2
@@ -242,3 +242,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

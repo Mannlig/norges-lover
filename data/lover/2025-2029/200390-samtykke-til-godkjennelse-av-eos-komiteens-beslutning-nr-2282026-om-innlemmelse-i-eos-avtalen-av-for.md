@@ -1,4 +1,4 @@
-<!-- innholds-hash: 482aabe35834d8bab150c01557560bd85caeba662dd6cc6026049df058a4182d -->
+<!-- innholds-hash: 01f615e105e7638cd8ab37ebad486940fa849f60146778d36bf5a78b8ff1cbd8 -->
 
 # Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/696 om opprettelse av EUs romprogram samt inngåelse av avtale mellom Norge og EU om regler for Norges deltakelse i GOVSATCOM-komponenten av EUs romprogram og i EUs program for sikker konnektivitet, samt for tilgang til GOVSATCOM-tjenester og til offentlige tjenester i EUs program for sikker konnektivitet, undertegnet i Brussel 26. mars 2026
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/
 - **Status:** 2
-- **Henvisning:** Prop. 109 S (2025–2026)
+- **Henvisning:** Prop. 109 S (2025–2026), Innst. 40 S (2026-2027)
 - **Komité:** Næringskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200390
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 109 S (2025–2026)",
+  "henvisning": "Prop. 109 S (2025–2026), Innst. 40 S (2026-2027)",
   "id": 200390,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17605,
+  "innstilling_kode": 1,
   "komite": {
     "id": "NÆRING",
     "navn": "Næringskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Samtykke til godkjennelse av EØS-komiteens beslutning nr. 228/2026 om innlemmelse i EØS-avtalen av forordning (EU) 2023/588 om opprettelse av EUs program for sikker konnektivitet for perioden 2023–2027 og GOVSATCOM-komponenten i forordning (EU) 2021/696 om opprettelse av EUs romprogram samt inngåelse av avtale mellom Norge og EU om regler for Norges deltakelse i GOVSATCOM-komponenten av EUs romprogram og i EUs program for sikker konnektivitet, samt for tilgang til GOVSATCOM-tjenester og til offentlige tjenester i EUs program for sikker konnektivitet, undertegnet i Brussel 26. mars 2026",
   "type": 2
@@ -71,3 +71,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 504bfe390a793eee4e5d8d5349953f4887f686063f146699f1c5568b609369b4 -->
+<!-- innholds-hash: 363577eb881c24c1da8a811aa7129a7d27fc12e1f0bb8ff81490e2d16a0c65da -->
 
 # Representantforslag fra stortingsrepresentantene Olaug Vervik Bollestad, Kjell Ingolf Ropstad og Dag-Inge Ulstein om en redningspakke og forutsigbar finansiering for Frelsesarmeens gatehospital i Bergen
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:151 S (2024-2025), Innst. 385 S (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Helseinstitusjoner, Rusmidler, Frivillighet
+- **Emner:** Omsorgstjenester, Helseinstitusjoner, Rusmidler, Frivillighet
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102813
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 48,
+      "navn": "Omsorgstjenester",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 61,
@@ -121,7 +128,7 @@
     {
       "doedsdato": null,
       "etternavn": "Hoksrud",
-      "foedselsdato": "/Date(101948400000+0200)/",
+      "foedselsdato": "/Date(101944800000+0200)/",
       "fornavn": "Bård",
       "id": "BÅH",
       "kjoenn": 2,
@@ -150,3 +157,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

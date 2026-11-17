@@ -1,4 +1,4 @@
-<!-- innholds-hash: 319015c09adad3693af2700ef9fb284b81925216f00dd14d2b79d3decdc43c03 -->
+<!-- innholds-hash: 9dd1af3fe301c88a0dd5c7981eaec558002884f82a1821714744c0141c1f5704 -->
 
 # Endringer i reindriftsloven og jordskiftelova (distriktsstyring, reintallsreduksjon, erstatning og tilgjengeliggjøring av jordskiftelova på interne forhold i reindriften)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 63 L (2024-2025), Innst. 256 L (2024-2025), Lovvedtak 57 (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Reindrift
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102774
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 132,
+      "navn": "Reindrift",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 63 L (2024-2025), Innst. 256 L (2024-2025), Lovvedtak 57 (2024-2025)",
   "id": 102774,
@@ -70,3 +78,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

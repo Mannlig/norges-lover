@@ -1,4 +1,4 @@
-<!-- innholds-hash: 445c1067d6d061ef66318a67ff843f6346f13ac8901f30b195ef7bb28a7bb9b5 -->
+<!-- innholds-hash: f48b256677c5f6db09df478b7cc0062b40636c303f4a49d549422ddddb01afc7 -->
 
 # Representantforslag fra stortingsrepresentantene Lars Lønberg Henriksen, Ingrid Liland, Une Bastholm, Marius Langballe Dalin og Frøya Skjold Sjursæther om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200513
 - **Type:** 2
 - **Korttittel:** Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:43 S (2026–2027)
-- **Komité:** 
+- **Komité:** Næringskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T10:24:56Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200513
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,35 @@
   "id": 200513,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
   "korttittel": "Representantforslag om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
   "sak_fremmet_id": 200513,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Valderhaug",
+      "foedselsdato": "/Date(-136519200000+0200)/",
+      "fornavn": "Harry",
+      "id": "HARVAL",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "MR",
+        "navn": "Møre og Romsdal"
+      },
+      "parti": {
+        "id": "KrF",
+        "navn": "Kristelig Folkeparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Lars Lønberg Henriksen, Ingrid Liland, Une Bastholm, Marius Langballe Dalin og Frøya Skjold Sjursæther om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
   "type": 2
 }
@@ -143,3 +166,4 @@
 ## Endringshistorikk
 
 - **2026-11-12** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

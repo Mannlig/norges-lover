@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9de80258508e96f8e70d6aae9ce58d438a33d974490fc26a8c6465faaa9b6dae -->
+<!-- innholds-hash: 61b810dda4dcdfac3a63be8c3a0abad91daf5e4d7008ad620d090f05cc7f36e6 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200512
 - **Type:** 2
 - **Korttittel:** Representantforslag om en slankere og mer effektiv stat
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:42 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T10:24:56Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200512
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200512,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om en slankere og mer effektiv stat",
   "sak_fremmet_id": 200512,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-11-12** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

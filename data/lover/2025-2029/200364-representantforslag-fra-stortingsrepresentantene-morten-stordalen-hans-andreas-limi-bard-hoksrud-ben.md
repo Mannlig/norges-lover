@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6936b3b443a3cccd87f9db43a14e06b055fcfc8e6068680a1862f081d08fe6d0 -->
+<!-- innholds-hash: 8c7e186e38f612694ae4faeebe0acf1882f6a50f312d3a185580b5957f4342f8 -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om rammebetingelser for entusiastkjøretøy
 - **Status:** 2
-- **Henvisning:** Dokument 8:313 S (2025–2026)
+- **Henvisning:** Dokument 8:313 S (2025–2026), Innst. 59 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200364
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -218,10 +218,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:313 S (2025–2026)",
+  "henvisning": "Dokument 8:313 S (2025–2026), Innst. 59 S (2026-2027)",
   "id": 200364,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17596,
+  "innstilling_kode": 1,
   "komite": {
     "id": "SAM",
     "navn": "Samferdselskomiteen"
@@ -249,7 +249,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy",
   "type": 2
@@ -264,3 +264,4 @@
 - **2026-07-22** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

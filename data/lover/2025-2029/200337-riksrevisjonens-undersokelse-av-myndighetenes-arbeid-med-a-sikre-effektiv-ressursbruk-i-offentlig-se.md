@@ -1,4 +1,4 @@
-<!-- innholds-hash: 99196e08908f3651139287c8e551e6d641a0e41fc600863517830c1f555d6f7e -->
+<!-- innholds-hash: ca9d9a8feb34aa1bd11ef1bc96b5aab797041da3e1970d60c162d0ea18de2b93 -->
 
 # Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor
 - **Status:** 2
-- **Henvisning:** Dokument 3:15 (2025-2026)
+- **Henvisning:** Dokument 3:15 (2025-2026), Innst. 53 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200337
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 3:15 (2025-2026)",
+  "henvisning": "Dokument 3:15 (2025-2026), Innst. 53 S (2026-2027)",
   "id": 200337,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17600,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av myndighetenes arbeid med å sikre effektiv ressursbruk i offentlig sektor",
   "type": 2
@@ -257,3 +257,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 538e79197ed8a08156402ca704d16c9d2c8fa8fcaa1a1d92d2c139c951693ac5 -->
+<!-- innholds-hash: 8fabae0ea3c1f34b1a731c4922fa8616407510fb081e363a8b00b8ac5b360692 -->
 
 # Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200518
 - **Type:** 3
 - **Korttittel:** Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 10 L (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-13T15:47:29Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200518
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200518,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
   "sak_fremmet_id": 200518,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794566700000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
+  "status": 2,
   "tittel": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
   "type": 3
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-11-13** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

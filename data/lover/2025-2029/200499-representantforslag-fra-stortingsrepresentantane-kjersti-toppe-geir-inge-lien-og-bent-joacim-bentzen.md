@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8d561ebdb69a2767f3714066a80af6cb1177a3d1352ef7ce0b6ed14f4a1bbf45 -->
+<!-- innholds-hash: 52e4c851051d3e1451126664aca4d3c008eed8f656893d84f99d53eb7e601dac -->
 
 # Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg
 
@@ -14,7 +14,7 @@
 - **Emner:** Helsevesen
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200499
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -103,7 +103,27 @@
   },
   "korttittel": "Representantforslag om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
   "sak_fremmet_id": 200499,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Aydar",
+      "foedselsdato": "/Date(621381600000+0200)/",
+      "fornavn": "Seher",
+      "id": "SEA",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "R",
+        "navn": "Rødt",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
@@ -118,3 +138,4 @@
 - **2026-11-04** Første gang hentet
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

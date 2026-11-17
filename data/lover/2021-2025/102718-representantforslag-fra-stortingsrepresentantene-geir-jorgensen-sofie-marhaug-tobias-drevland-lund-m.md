@@ -1,4 +1,4 @@
-<!-- innholds-hash: c24f2c77f7aee7aab40c39ef6075f2e318068a6660c27be958fdab8caa1b407c -->
+<!-- innholds-hash: 5aaded766bfbe0871a45a9c899692e5a4cbc9a7d53ecbf5e81de1cdf26d7e409 -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen, Sofie Marhaug, Tobias Drevland Lund, Marie Sneve Martinussen og Mímir Kristjánsson om å forhindre rutekutt og prisøkning i kollektivtransporten
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:144 S (2024-2025), Innst. 392 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Samferdsel, Fylkeskommunenes økonomi
+- **Emner:** Samferdsel, Vegtrafikk, Priser og konkurranseforhold, Fylkeskommunenes økonomi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102718
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 2,
       "id": 2,
       "navn": "Samferdsel",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 47,
+      "navn": "Vegtrafikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
       "underemne_liste": []
     },
     {
@@ -181,3 +195,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

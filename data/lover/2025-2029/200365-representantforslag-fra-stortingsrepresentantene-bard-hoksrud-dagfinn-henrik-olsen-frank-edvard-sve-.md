@@ -1,4 +1,4 @@
-<!-- innholds-hash: e1f6a09c29a7a7353f2026b2b62fcf77178e2e62eea41a13811e23a710c51ffe -->
+<!-- innholds-hash: ebc248e22bf6ae464b44b7763d6245b806e5cc5b670be41019756665a14246e0 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å øke vektgrensen for førerkortklasse B
 - **Status:** 2
-- **Henvisning:** Dokument 8:314 S (2025–2026)
+- **Henvisning:** Dokument 8:314 S (2025–2026), Innst. 56 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200365
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -161,10 +161,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:314 S (2025–2026)",
+  "henvisning": "Dokument 8:314 S (2025–2026), Innst. 56 S (2026-2027)",
   "id": 200365,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17598,
+  "innstilling_kode": 1,
   "komite": {
     "id": "SAM",
     "navn": "Samferdselskomiteen"
@@ -192,7 +192,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B",
   "type": 2
@@ -206,3 +206,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 310da6c4ec346f5758b837ee006a0d23ac8b906bb1633b5ca8b70d99ba688760 -->
+<!-- innholds-hash: f893ec7f693aa088d774dcfa4cf07e855e3544f90ddc8321ebd3e4a5a4696f1c -->
 
 # Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet
 - **Status:** 2
-- **Henvisning:** Dokument 8:303 S (2025–2026)
+- **Henvisning:** Dokument 8:303 S (2025–2026), Innst. 58 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200348
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:303 S (2025–2026)",
+  "henvisning": "Dokument 8:303 S (2025–2026), Innst. 58 S (2026-2027)",
   "id": 200348,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17613,
+  "innstilling_kode": 1,
   "komite": {
     "id": "SAM",
     "navn": "Samferdselskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781474400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Geir Inge Lien, Ole Herman Sveian og Bengt Fasteraune om å legge ned Jernbanedirektoratet",
   "type": 2
@@ -304,3 +304,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

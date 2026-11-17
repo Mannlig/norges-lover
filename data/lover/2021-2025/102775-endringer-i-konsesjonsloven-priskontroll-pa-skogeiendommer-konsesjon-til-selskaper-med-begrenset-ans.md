@@ -1,4 +1,4 @@
-<!-- innholds-hash: 474b0c12db8dab2d0cda5f87f4fa7dd9edfd0b4a9547c7b59b4a4a2d7198bbfb -->
+<!-- innholds-hash: a0638609f4524af669efec25e89ce099fc6160214b3cf6fd55ade545f09c311e -->
 
 # Endringer i konsesjonsloven (priskontroll på skogeiendommer, konsesjon til selskaper med begrenset ansvar og stiftelser m.m.)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 66 L (2024-2025), Innst. 257 L (2024-2025), Lovvedtak 58 (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Landbruk, Priser og konkurranseforhold, Skogbruk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102775
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 46,
+      "id": 46,
+      "navn": "Landbruk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 196,
+      "navn": "Skogbruk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 66 L (2024-2025), Innst. 257 L (2024-2025), Lovvedtak 58 (2024-2025)",
   "id": 102775,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

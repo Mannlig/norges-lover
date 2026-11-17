@@ -1,4 +1,4 @@
-<!-- innholds-hash: 93d28dd5898d2895de034aad389e8c5da0df229e36838c50599ca343b950f4af -->
+<!-- innholds-hash: eb03290d9237e0fc64d4022f388fa24aea7524a06f40948f41aec9f55dbea0e8 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om fleksibel skolestart
 - **Status:** 2
-- **Henvisning:** Dokument 8:306 S (2025–2026)
+- **Henvisning:** Dokument 8:306 S (2025–2026), Innst. 45 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:306 S (2025–2026)",
+  "henvisning": "Dokument 8:306 S (2025–2026), Innst. 45 S (2026-2027)",
   "id": 200357,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17612,
+  "innstilling_kode": 1,
   "komite": {
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart",
   "type": 2
@@ -309,3 +309,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f779b5264b74a34b61bd8a285a7ceb0fa17311f04991f5c7a3235958d43623ac -->
+<!-- innholds-hash: 82560f50c4abba40514980cc7d814670e47100f8e4af8ab6de2c897fe91fde23 -->
 
 # Representantforslag fra stortingsrepresentantene Une Bastholm, Sigrid Zurbuchen Heiberg og Irene Ojala om å gjeninnføre heistilskudd for å sikre at flere eldre og personer med funksjonsnedsettelser kan bo i egen bolig lenger
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:145 S (2024-2025), Innst. 255 S (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** Boligsaker, Omsorgstjenester, Husbanken
+- **Emner:** Boligsaker, Funksjonshemmede, Husbanken
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102719
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,9 +35,9 @@
     },
     {
       "er_hovedemne": false,
-      "hovedemne_id": 61,
-      "id": 48,
-      "navn": "Omsorgstjenester",
+      "hovedemne_id": 24,
+      "id": 49,
+      "navn": "Funksjonshemmede",
       "underemne_liste": []
     },
     {
@@ -150,3 +150,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

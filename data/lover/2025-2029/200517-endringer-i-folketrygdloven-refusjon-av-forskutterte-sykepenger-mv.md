@@ -1,4 +1,4 @@
-<!-- innholds-hash: 56a9a3fdcb6d9e8bb3eb223728c9626bfd15e8d2e1b3ff7cf87180a02f04342b -->
+<!-- innholds-hash: 2b690b099fe212fd9a60aa21c9542fdb2ebc0af2b07628fe64df7921e64761c7 -->
 
 # Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200517
 - **Type:** 3
 - **Korttittel:** Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 11 L (2026–2027)
-- **Komité:** 
+- **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-13T15:47:29Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200517
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,35 @@
   "id": 200517,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ARBSOS",
+    "navn": "Arbeids- og sosialkomiteen"
+  },
   "korttittel": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
   "sak_fremmet_id": 200517,
-  "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794566700000+0100)/",
-  "status": 3,
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Viljugrein",
+      "foedselsdato": "/Date(853542000000+0100)/",
+      "fornavn": "Agnes Nærland",
+      "id": "AGNVIL",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
+  "status": 2,
   "tittel": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
   "type": 3
 }
@@ -47,3 +70,4 @@
 ## Endringshistorikk
 
 - **2026-11-13** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

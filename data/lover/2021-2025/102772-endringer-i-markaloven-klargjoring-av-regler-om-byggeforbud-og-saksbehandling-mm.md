@@ -1,4 +1,4 @@
-<!-- innholds-hash: 26dced6f252a607cdac21cbede2e7601bc02b66588e76021fae80489787cd7f1 -->
+<!-- innholds-hash: ef3f3aa6542f3367c725ca00341b9c9b9a28948a0ff255d118ea933932b09492 -->
 
 # Endringer i markaloven (klargjøring av regler om byggeforbud og saksbehandling m.m.)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 70 L (2024-2025), Innst. 289 L (2024-2025), Lovvedtak 64 (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Naturvern, Landbruk, Kommuner, Bygningsvesen, Skogbruk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102772
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 46,
+      "id": 46,
+      "navn": "Landbruk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 136,
+      "navn": "Bygningsvesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 196,
+      "navn": "Skogbruk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 70 L (2024-2025), Innst. 289 L (2024-2025), Lovvedtak 64 (2024-2025)",
   "id": 102772,
@@ -70,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

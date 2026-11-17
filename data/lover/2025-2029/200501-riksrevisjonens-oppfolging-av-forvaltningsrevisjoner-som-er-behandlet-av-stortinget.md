@@ -1,4 +1,4 @@
-<!-- innholds-hash: ea21a72c1d0def7e58304abe773295f3e21d59215566f70ad101cfbea61ec3bd -->
+<!-- innholds-hash: dd0ba5376b6f076a28a47429910043ac5224924494eca3be181d7e99f2f151d0 -->
 
 # Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200501
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -37,7 +37,27 @@
   },
   "korttittel": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
   "sak_fremmet_id": 200501,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Amundsen",
+      "foedselsdato": "/Date(33260400000+0100)/",
+      "fornavn": "Per-Willy",
+      "id": "PTA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Tr",
+        "navn": "Troms"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
@@ -51,3 +71,4 @@
 
 - **2026-11-10** Første gang hentet
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

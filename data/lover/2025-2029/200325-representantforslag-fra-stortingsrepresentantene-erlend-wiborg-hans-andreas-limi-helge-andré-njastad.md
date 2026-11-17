@@ -1,4 +1,4 @@
-<!-- innholds-hash: fb01949c3f7aa0c7246be27313252fe4a44be530052690a8b2787baa107969aa -->
+<!-- innholds-hash: 6911a7227b6a8af5cc0bbdc39ff1925f5ce556de7df3bf2b8ae2dce2d51ebe12 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang
 - **Status:** 2
-- **Henvisning:** Dokument 8:295 S (2025-2026)
+- **Henvisning:** Dokument 8:295 S (2025-2026), Innst. 55 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200325
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -123,10 +123,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:295 S (2025-2026)",
+  "henvisning": "Dokument 8:295 S (2025-2026), Innst. 55 S (2026-2027)",
   "id": 200325,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17595,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -154,7 +154,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779314400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang",
   "type": 2
@@ -177,3 +177,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

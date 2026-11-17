@@ -1,4 +1,4 @@
-<!-- innholds-hash: 685e4675c191517066bdf01f71d969c1c1693a7193d5737f0c63b0c8e0b5b002 -->
+<!-- innholds-hash: d46bcd3175e4363e82b59fb1fd22ac29aaaa28f318013a4d1c4f66c75a8a733a -->
 
 # Endringer i regnskapsloven mv. (forenkling)
 
@@ -9,12 +9,12 @@
 - **Type:** 3
 - **Korttittel:** Endringer i regnskapsloven mv. (forenkling)
 - **Status:** 2
-- **Henvisning:** Prop. 106 L (2025–2026)
+- **Henvisning:** Prop. 106 L (2025–2026), Innst. 47 L (2026-2027)
 - **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200373
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 106 L (2025–2026)",
+  "henvisning": "Prop. 106 L (2025–2026), Innst. 47 L (2026-2027)",
   "id": 200373,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17603,
+  "innstilling_kode": 2,
   "komite": {
     "id": "FINANS",
     "navn": "Finanskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Endringer i regnskapsloven mv. (forenkling)",
   "type": 3
@@ -72,3 +72,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: da0b810694b1eea2eefa596446d86cc3245a869e3fefb602b1b7620e0fc008fa -->
+<!-- innholds-hash: 9f7cd4a5908b3455bb65b4ae906d053a4dc74373e10d1d4b486740dbe09c893b -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om en mer kunnskapsorientert læreplan med en styrket lærerrolle
 - **Status:** 2
-- **Henvisning:** Dokument 8:2 S (2026–2027)
+- **Henvisning:** Dokument 8:2 S (2026–2027), Innst. 39 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** Videregående skoler, Grunnskole
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200420
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -100,10 +100,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:2 S (2026–2027)",
+  "henvisning": "Dokument 8:2 S (2026–2027), Innst. 39 S (2026-2027)",
   "id": 200420,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17614,
+  "innstilling_kode": 1,
   "komite": {
     "id": "UFO",
     "navn": "Utdannings- og forskningskomiteen"
@@ -131,7 +131,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1791237600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jonas Andersen Sayed og Jørgen H. Kristiansen om en mer kunnskapsorientert læreplan med en styrket lærerrolle",
   "type": 2
@@ -146,3 +146,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

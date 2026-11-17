@@ -1,4 +1,4 @@
-<!-- innholds-hash: 95e5aeccb0d09d900ac11cb962076b37caab0860a26c86fbe10f1a12bbd33f03 -->
+<!-- innholds-hash: 42408776c87cb924b53f3d9694880fff2ede7c5b677142f7e8180d5d7ceef55e -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Guri Melby, Sveinung Rotevatn, Abid Raja, Ola Elvestuen, André N. Skjelstad, Ingvild Wetrhus Thorsvik og Alfred Jens Bjørlo om «inkluderende skolehverdag», et forpliktende samarbeid for å bekjempe mobbing og et utrygt skolemiljø
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:147 S (2024-2025), Innst. 307 S (2024-2025)
 - **Komité:** Utdannings- og forskningskomiteen
-- **Emner:** Barn, Ungdommer, Grunnskole, Psykisk helse
+- **Emner:** Skoler, Grunnskole, Psykisk helse
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102721
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -28,16 +28,9 @@
   "emne_liste": [
     {
       "er_hovedemne": false,
-      "hovedemne_id": 40,
-      "id": 41,
-      "navn": "Barn",
-      "underemne_liste": []
-    },
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 6,
-      "id": 125,
-      "navn": "Ungdommer",
+      "hovedemne_id": 32,
+      "id": 31,
+      "navn": "Skoler",
       "underemne_liste": []
     },
     {
@@ -252,3 +245,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

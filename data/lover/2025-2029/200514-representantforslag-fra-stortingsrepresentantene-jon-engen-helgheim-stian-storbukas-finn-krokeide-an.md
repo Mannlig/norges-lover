@@ -1,4 +1,4 @@
-<!-- innholds-hash: d60211fcb977d4de5bef16468cd0c84697b8fdd29fb5cbd4060ccbd696a456d0 -->
+<!-- innholds-hash: fd30f9627e6ae543c8385151c2751c6b823f1d60433054d82ec7a993b86f689b -->
 
 # Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200514
 - **Type:** 2
 - **Korttittel:** Representantforslag om å senke terskelen for fengsling av farlige ungdommer
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:44 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200514
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200514,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om å senke terskelen for fengsling av farlige ungdommer",
   "sak_fremmet_id": 200514,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-11-12** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)

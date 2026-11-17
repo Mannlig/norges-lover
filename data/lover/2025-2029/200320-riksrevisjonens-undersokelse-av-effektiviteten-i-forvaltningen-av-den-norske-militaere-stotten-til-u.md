@@ -1,4 +1,4 @@
-<!-- innholds-hash: 993d15bc456a6cb72ccfbe23f86923e00359df9e2796dfa4e31772a8fab96a54 -->
+<!-- innholds-hash: c2d881dd87f91fcb1b08c166cfb4b1f14c97da9bed9aafa7d4f5ec0239c45b68 -->
 
 # Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina
 - **Status:** 2
-- **Henvisning:** Dokument 3:14 (2025-2026)
+- **Henvisning:** Dokument 3:14 (2025-2026), Innst. 51 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200320
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 3:14 (2025-2026)",
+  "henvisning": "Dokument 3:14 (2025-2026), Innst. 51 S (2026-2027)",
   "id": 200320,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17610,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av effektiviteten i forvaltningen av den norske militære støtten til Ukraina",
   "type": 2
@@ -85,3 +85,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

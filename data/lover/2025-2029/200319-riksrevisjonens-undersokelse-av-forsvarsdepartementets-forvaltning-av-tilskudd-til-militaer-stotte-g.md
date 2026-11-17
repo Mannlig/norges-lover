@@ -1,4 +1,4 @@
-<!-- innholds-hash: 132aa7e2237675f003fb772a18f481e6f9a828db975ed2a49930f743cfee02a1 -->
+<!-- innholds-hash: 1491d468a3316e619edd69810546cb78176771d500873d151a670a77c5673552 -->
 
 # Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet
 - **Status:** 2
-- **Henvisning:** Dokument 3:13 (2025-2026)
+- **Henvisning:** Dokument 3:13 (2025-2026), Innst. 51 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200319
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Dokument 3:13 (2025-2026)",
+  "henvisning": "Dokument 3:13 (2025-2026), Innst. 51 S (2026-2027)",
   "id": 200319,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17610,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KONTROLL",
     "navn": "Kontroll- og konstitusjonskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779141600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Riksrevisjonens undersøkelse av Forsvarsdepartementets forvaltning av tilskudd til militær støtte gjennom Nansen-programmet",
   "type": 2
@@ -85,3 +85,4 @@
 - **2026-06-02** Innhold endret (se git-historikk for diff)
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

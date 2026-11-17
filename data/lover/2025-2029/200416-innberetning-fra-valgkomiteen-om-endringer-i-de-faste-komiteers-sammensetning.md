@@ -1,4 +1,4 @@
-<!-- innholds-hash: 624726ca1af0d0715c337579d5fbefb4ca595619b2a02fde836a724a7f627f17 -->
+<!-- innholds-hash: 662fce1af318cd4d30229411ca787bdda66f23afef6becc70bde6fa1c5b30551 -->
 
 # Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -10,11 +10,11 @@
 - **Korttittel:** Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 - **Status:** 1
 - **Henvisning:** Innberetning 1 (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** Stortingsrepresentanter, Stortinget
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200416
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -46,7 +46,10 @@
   "id": 200416,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning",
   "sak_fremmet_id": 200416,
   "saksordfoerer_liste": [],
@@ -64,3 +67,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-17** Innhold endret (se git-historikk for diff)

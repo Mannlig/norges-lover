@@ -1,4 +1,4 @@
-<!-- innholds-hash: ac0477b49d6a8713fa98f6855b2e1e451ee019a1a3a3ca2316e9ca55f407f43b -->
+<!-- innholds-hash: 94e868b35b937d55005ff3f2421eb3e6c815e56f9cf13d94a75bdd65f3454f84 -->
 
 # Endringer i eiendomsmeglingsloven (budgivning, egnethetskrav og sanksjoner mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 41 L (2024-2025), Innst. 178 L (2024-2025), Lovvedtak 44 (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Boligsaker, Forbrukersaker
+- **Emner:** Handel, Boligsaker, Forbrukersaker
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-17T19:16:38Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101516
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 20,
+      "navn": "Handel",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 184,
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-17** Innhold endret (se git-historikk for diff)
