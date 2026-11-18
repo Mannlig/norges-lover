@@ -1,15 +1,15 @@
-<!-- innholds-hash: 847a3a90f8e57b21f042037f8410001590cfe43eb29c2656039cf2b9fd9c9ba3 -->
+<!-- innholds-hash: 56bc1da2dcd818ce35b85d391f2a531332775cdd4777349896a1c829e0a298d7 -->
 
 # Arkiv - Personer med nedsatt arbeidsevne - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nedsatt-arbeidsevne/arkiv-personer-med-nedsatt-arbeidsevne
-- **Sist oppdatert i arkivet:** 2026-10-10T15:18:34Z
+- **Sist oppdatert i arkivet:** 2026-11-18T08:41:45Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 08.09.2026
+Publisert 01.12.2019 | Oppdatert 02.11.2026
 
 ## Arkiv - Personer med nedsatt arbeidsevne
 
@@ -17,6 +17,7 @@ Her finner du statistikk over personer med nedsatt arbeidsevne fordelt på ulike
 
 #### 2026
 
+- [Juli - September 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-april-juni-2026)
 - [April - juni 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2026)
 - [Januar - mars 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-mars-2026)
 
@@ -174,3 +175,4 @@ Nedsatt arbeidsevne omfatter arbeidssøkere som på grunn av fysisk, psykisk ell
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)
