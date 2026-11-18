@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12037
+**Antall dokumenter:** 12038
 
 ## Innhold
 
@@ -4204,6 +4204,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 2. kvartal 2023 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-2.kvartal-2023.md)
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 2. kvartal 2024 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-2.kvartal-2024.md)
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 2. kvartal 2025 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-2.kvartal-2025.md)
+- [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 2. kvartal 2026 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-2.kvartal-2026.md)
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 3. kvartal 2018 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-3.kvartal-2018.md)
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 3. kvartal 2019 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-3.kvartal-2019.md)
 - [Arkiv - Avgang som arbeidssøker og nedsatt arbeidsevne - Status på arbeidsmarkedet 3. kvartal 2020 - nav.no](no/nav-og-samfunn/statistikk/arbeidssokere-og-stillinger-statistikk/relatert-informasjon/arkiv-avgang-som-arbeidssoker-og-nedsatt-arbeidsevne-status-pa-arbeidsmarkedet-3.kvartal-2020.md)

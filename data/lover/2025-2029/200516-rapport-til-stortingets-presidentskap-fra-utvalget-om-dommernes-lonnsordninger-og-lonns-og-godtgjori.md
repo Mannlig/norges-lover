@@ -1,4 +1,4 @@
-<!-- innholds-hash: b41c587d8241bdf62b8811602ba3dc98e76ea465823e4cbf6c44265c927d6379 -->
+<!-- innholds-hash: e5dc822ada6e3503effe5958958dc1d5739d93b4bc49b6475059aa84b042a0f1 -->
 
 # Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 18 (2026–2027)
 - **Komité:** 
-- **Emner:** Domstoler, Lønn og inntekt
+- **Emner:** Domstoler, Regjeringen, Stortingsrepresentanter, Riksrevisjonen, Forsvar, Norges bank, Lønn og inntekt, Sivilombudet, Stortinget
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sist oppdatert i arkivet:** 2026-11-18T19:01:15Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200516
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -35,9 +35,58 @@
     },
     {
       "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 25,
+      "navn": "Regjeringen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 26,
+      "navn": "Stortingsrepresentanter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 29,
+      "navn": "Riksrevisjonen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 59,
+      "id": 59,
+      "navn": "Forsvar",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 88,
+      "navn": "Norges bank",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
       "hovedemne_id": 5,
       "id": 95,
       "navn": "Lønn og inntekt",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 153,
+      "navn": "Sivilombudet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
       "underemne_liste": []
     }
   ],
@@ -62,4 +111,5 @@
 ## Endringshistorikk
 
 - **2026-11-13** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)
 - **2026-11-18** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3934a208f7b7e0f168dfc9989af1ae4de9e3dbd741dac8ebbfe6e8669d402a4c -->
+<!-- innholds-hash: 0449f559cd5d161ef5a0ca27238e3212a7f7a079ee438fe49ac6a4a9d559895d -->
 
 # Perspektivmeldingen 2024
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 31 (2023-2024), Innst. 180 S (2024-2025)
 - **Komité:** Finanskomiteen
-- **Emner:** Energi, Sysselsetting, Forurensning, Naturvern, Olje og gass, Lønn og inntekt, Utenrikshandel, Næringsliv, Miljøvern, Finanser
+- **Emner:** Energi, Sysselsetting, Forurensning, Naturvern, Skatter, Olje og gass, Lønn og inntekt, Utenrikshandel, Næringsliv, Miljøvern, Finanser
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-18T19:01:43Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=97363
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -52,6 +52,13 @@
       "hovedemne_id": 139,
       "id": 23,
       "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 58,
+      "navn": "Skatter",
       "underemne_liste": []
     },
     {
@@ -141,3 +148,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)

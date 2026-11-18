@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1955
+**Antall dokumenter:** 1957
 
 ## Innhold
 
@@ -1961,6 +1961,8 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Erlend Wiborg og Himanshu Gulati om at Norge skal bli det sjette landet i Europas nye retursamarbeid](2025-2029/200526-representantforslag-fra-stortingsrepresentantene-sylvi-listhaug-erlend-wiborg-og-himanshu-gulati-om-.md)
 - [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere](2025-2029/200527-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-marit-vea-om-a-bygge-30-000.md)
 - [Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Simen Velle, Joakim Myklebost Tangen, Lill Harriet Sandaune, Line Marlene Haugen, Erlend Wiborg og Kristian August Eilertsen om å bekjempe vold og trusler i norsk skole](2025-2029/200528-representantforslag-fra-stortingsrepresentantene-sylvi-listhaug-simen-velle-joakim-myklebost-tangen-.md)
+- [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål](2025-2029/200529-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-marit-vea-om-a-na-og-forsta.md)
+- [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om  å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper](2025-2029/200530-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-marit-vea-om-a-styrke-og-ut.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
