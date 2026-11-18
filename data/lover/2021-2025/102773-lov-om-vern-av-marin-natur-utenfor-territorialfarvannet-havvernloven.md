@@ -1,4 +1,4 @@
-<!-- innholds-hash: 666a855d1e3ce79c52bfc1b6086fbf008b739c9e068bd0ea00ac9a30d8518099 -->
+<!-- innholds-hash: a8b84e7e03235e6422e64d4129d0c4658da24b2505a39eff791e559c78a4c389 -->
 
 # Lov om vern av marin natur utenfor territorialfarvannet (havvernloven)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 72 L (2024-2025), Innst. 283 L (2024-2025), Lovvedtak 65 (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** 
+- **Emner:** Naturvern, Internasjonal rett
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-18T12:17:30Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102773
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 23,
+      "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 200,
+      "navn": "Internasjonal rett",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 72 L (2024-2025), Innst. 283 L (2024-2025), Lovvedtak 65 (2024-2025)",
   "id": 102773,
@@ -70,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)

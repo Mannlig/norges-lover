@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12036
+**Antall dokumenter:** 12037
 
 ## Innhold
 
@@ -1572,6 +1572,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Arkiv - Personer med nedsatt arbeidsevne april - juni 2019 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-april-juni-2019.md)
 - [Arkiv - Personer med nedsatt arbeidsevne per april - juni 2020 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-april-juni-2020.md)
 - [Arkiv - Personer med nedsatt arbeidsevne per april - juni 2021 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-april-juni-2021.md)
+- [Arkiv - Personer med nedsatt arbeidsevne per juli- september 2026 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-april-juni-2026.md)
 - [Arkiv - Personer med nedsatt arbeidsevne per april - juni 2022 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2022.md)
 - [Arkiv - Personer med nedsatt arbeidsevne per april - juni 2023 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2023.md)
 - [Arkiv - Personer med nedsatt arbeidsevne per april - juni 2024 - nav.no](no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-personer-med-nedsatt-arbeidsevne-per-januar-juni-2024.md)

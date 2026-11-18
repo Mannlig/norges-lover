@@ -1,4 +1,4 @@
-<!-- innholds-hash: 68021ef80b507c5e849033c7b90a56f215c1d7293108e159ff6b0652caf2ee08 -->
+<!-- innholds-hash: d271b4aa57200b99b96638f17f262af555f71e6a3dba632d2942416357a5ec7e -->
 
 # Endringer i arbeidsmiljøloven, lov om aldersgrenser for statsansatte m.fl. og lov om Statens pensjonskasse (avvikling av bedriftsinterne aldersgrenser og økning av den alminnelige aldersgrensen i staten)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 73 L (2024-2025), Innst. 262 L (2024-2025), Lovvedtak 53 (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** 
+- **Emner:** Statens personalpolitikk, Arbeidsvilkår, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-18T12:17:30Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102764
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 155,
+      "id": 44,
+      "navn": "Statens personalpolitikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 94,
+      "navn": "Arbeidsvilkår",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 73 L (2024-2025), Innst. 262 L (2024-2025), Lovvedtak 53 (2024-2025)",
   "id": 102764,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)

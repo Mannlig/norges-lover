@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1950
+**Antall dokumenter:** 1955
 
 ## Innhold
 
@@ -1956,6 +1956,11 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Trond Helleland, Mudassar Kapur, Erlend Larsen, Mahmoud Farahmand og Anne Kristine Linnestad om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet](2025-2029/200521-representantforslag-fra-stortingsrepresentantene-trond-helleland-mudassar-kapur-erlend-larsen-mahmou.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag](2025-2029/200522-representantforslag-fra-stortingsrepresentantene-erlend-larsen-anita-sollie-og-nikolai-astrup-om-bed.md)
 - [Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Ida Lindtveit Røse, Joel Ystebø og Jorunn Gleditsch Lossius om å stenge kinesiske biler ute fra Forsvarets områder](2025-2029/200523-representantforslag-fra-stortingsrepresentantene-jonas-andersen-sayed-ida-lindtveit-rose-joel-ystebo.md)
+- [Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler](2025-2029/200524-representantforslag-fra-stortingsrepresentantene-henrik-asheim-mudassar-kapur-og-monica-molvaer-om-a.md)
+- [Representantforslag fra stortingsrepresentantene Henrik Asheim, Anna Molberg, Amalie Gunnufsen og Nikolai Astrup om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder](2025-2029/200525-representantforslag-fra-stortingsrepresentantene-henrik-asheim-anna-molberg-amalie-gunnufsen-og-niko.md)
+- [Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Erlend Wiborg og Himanshu Gulati om at Norge skal bli det sjette landet i Europas nye retursamarbeid](2025-2029/200526-representantforslag-fra-stortingsrepresentantene-sylvi-listhaug-erlend-wiborg-og-himanshu-gulati-om-.md)
+- [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere](2025-2029/200527-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-marit-vea-om-a-bygge-30-000.md)
+- [Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Simen Velle, Joakim Myklebost Tangen, Lill Harriet Sandaune, Line Marlene Haugen, Erlend Wiborg og Kristian August Eilertsen om å bekjempe vold og trusler i norsk skole](2025-2029/200528-representantforslag-fra-stortingsrepresentantene-sylvi-listhaug-simen-velle-joakim-myklebost-tangen-.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

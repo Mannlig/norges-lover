@@ -1,0 +1,107 @@
+<!-- innholds-hash: af87c7f581b8ad6f28a983621e9a065d3b5270eda39e4e5e9fdfdb5dc92fc5c3 -->
+
+# Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere
+
+## Metadata
+
+- **Kilde:** Stortingets åpne API – https://data.stortinget.no
+- **Sak-ID:** 200527
+- **Type:** 2
+- **Korttittel:** Representantforslag om å bygge 30 000 boliger for førstegangsetablerere
+- **Status:** 3
+- **Henvisning:** Dokument 8:53 S (2026–2027)
+- **Komité:** 
+- **Emner:** 
+- **Behandlet i sesjon:** 
+- **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
+- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200527
+
+> Dette er saksmetadata fra Stortinget, ikke lovtekst.
+
+## Rådata (JSON fra API)
+
+```json
+{
+  "behandlet_sesjon_id": null,
+  "dokumentgruppe": 4,
+  "emne_liste": [],
+  "forslagstiller_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Raja",
+      "foedselsdato": "/Date(184374000000+0100)/",
+      "fornavn": "Abid",
+      "id": "ABIR",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "doedsdato": null,
+      "etternavn": "Melby",
+      "foedselsdato": "/Date(350002800000+0100)/",
+      "fornavn": "Guri",
+      "id": "GME",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "doedsdato": null,
+      "etternavn": "Vea",
+      "foedselsdato": "/Date(499039200000+0200)/",
+      "fornavn": "Marit",
+      "id": "MARVEA",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "V",
+        "navn": "Venstre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
+  "henvisning": "Dokument 8:53 S (2026–2027)",
+  "id": 200527,
+  "innstilling_id": -1,
+  "innstilling_kode": 0,
+  "komite": null,
+  "korttittel": "Representantforslag om å bygge 30 000 boliger for førstegangsetablerere",
+  "sak_fremmet_id": 200527,
+  "saksordfoerer_liste": [],
+  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
+  "status": 3,
+  "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere",
+  "type": 2
+}
+```
+
+*Automatisk hentet fra https://data.stortinget.no av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-18** Første gang hentet

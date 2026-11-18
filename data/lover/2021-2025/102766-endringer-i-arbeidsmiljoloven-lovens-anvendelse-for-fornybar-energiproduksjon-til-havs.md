@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6bf33376801a9beb1abf539b88e58c23282d49118475c08bd02a661d2ea5b3db -->
+<!-- innholds-hash: 3c16142348938e0f617f7452576c475bd7dca88d68e4867f664452fdc4449b3b -->
 
 # Endringer i arbeidsmiljøloven (lovens anvendelse for fornybar energiproduksjon til havs)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 75 L (2024-2025), Innst. 389 L (2024-2025), Lovvedtak 72 (2024-2025)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** 
+- **Emner:** Energi, Elektrisitet, Sikkerhet til sjøs, Arbeidsmiljø
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-18T12:17:30Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102766
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 4,
+      "id": 4,
+      "navn": "Energi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 181,
+      "id": 146,
+      "navn": "Sikkerhet til sjøs",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 205,
+      "navn": "Arbeidsmiljø",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 75 L (2024-2025), Innst. 389 L (2024-2025), Lovvedtak 72 (2024-2025)",
   "id": 102766,
@@ -70,3 +99,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)

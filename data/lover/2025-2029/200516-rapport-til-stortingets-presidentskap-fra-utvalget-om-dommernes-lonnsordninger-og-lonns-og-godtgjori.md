@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8bf6cf1331e2e9acbb554b157607ef027312866d9f284ef045da34554291685f -->
+<!-- innholds-hash: b41c587d8241bdf62b8811602ba3dc98e76ea465823e4cbf6c44265c927d6379 -->
 
 # Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Dokument 18 (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Domstoler, Lønn og inntekt
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-13T10:03:01Z
+- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200516
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 6,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 12,
+      "navn": "Domstoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 95,
+      "navn": "Lønn og inntekt",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Dokument 18 (2026–2027)",
   "id": 200516,
@@ -47,3 +62,4 @@
 ## Endringshistorikk
 
 - **2026-11-13** Første gang hentet
+- **2026-11-18** Innhold endret (se git-historikk for diff)
