@@ -1,11 +1,11 @@
-<!-- innholds-hash: a6ab22cffd648bf96045106beb5dff018280e4b6ab07bd0d264b95e023f756cb -->
+<!-- innholds-hash: 2d81657b37ca89c4eae9b8c8af69f0deefaf6d545b9cc0a7deb6e5ff4b64e0d7 -->
 
 # Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per juli - september 2025 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-juli-september-2025
-- **Sist oppdatert i arkivet:** 2026-10-26T22:56:17Z
+- **Sist oppdatert i arkivet:** 2026-11-19T08:40:09Z
 
 ## Innhold
 
@@ -15,7 +15,7 @@ Publisert 14.10.2025 | Oppdatert 04.11.2025
 
 #### Pressemelding
 
-- [Nesten 11 000 flere AAP-mottakere det siste året](https://www.nav.no/_/error/404?message=Not+Found.+153jsknlvj8g687236424mefji)
+- [Nesten 11 000 flere AAP-mottakere det siste året](https://www.nav.no/_/error/404?message=Not+Found.+23im0stnd8839ati1l1afh8tct)
 
 #### Statistikknotater
 
@@ -80,3 +80,4 @@ For mer informasjon om de ulike definisjonene i statistikkene se "Om Statistikke
 
 - **2026-10-10** Første gang hentet
 - **2026-10-26** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

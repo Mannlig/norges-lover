@@ -1,17 +1,17 @@
-<!-- innholds-hash: 4805abb3f73f8207f9785c54329e0d38a90dcdd59a04f90aa54ae018e589b586 -->
+<!-- innholds-hash: 4c535dd659a4257e9a013f61d5a6ede39f24e190676f7f047164dc5acb5f4b59 -->
 
-# Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per januar - juni 2020 - nav.no
+# Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per april - juni 2020 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-januar-juni-2020
-- **Sist oppdatert i arkivet:** 2026-10-10T21:38:48Z
+- **Sist oppdatert i arkivet:** 2026-11-19T08:27:38Z
 
 ## Innhold
 
-Publisert 13.08.2020 | Oppdatert 05.06.2023
+Publisert 13.08.2020 | Oppdatert 02.11.2026
 
-## Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per januar - juni 2020
+## Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per april - juni 2020
 
 Her finner du statistikk over personer som får utbetalt arbeidsavklaringspenger (AAP) fra Nav i løpet av måneden. Beholdningsstatistikk publiseres månedlig. Statistikken over nye mottakere av AAP og personer som ikke lenger mottar AAP publiseres kvartalsvis.
 
@@ -84,3 +84,4 @@ For mer informasjon om de ulike definisjonene i statistikkene se "Om Statistikke
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

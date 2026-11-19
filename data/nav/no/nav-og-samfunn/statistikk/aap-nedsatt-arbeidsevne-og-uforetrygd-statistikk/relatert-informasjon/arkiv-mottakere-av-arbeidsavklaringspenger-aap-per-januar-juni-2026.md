@@ -1,17 +1,17 @@
-<!-- innholds-hash: a3c4d73955b114244305b1a101867cf9bb35b1fb5cf5abc78a56099d98763c39 -->
+<!-- innholds-hash: 3244719987d81a8c77a7021cb8e3de7cb4bc15f9467134f2e9e91f6ee25c3a6e -->
 
-# Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per januar - juni 2026 - nav.no
+# Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per april - juni 2026 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-mottakere-av-arbeidsavklaringspenger-aap-per-januar-juni-2026
-- **Sist oppdatert i arkivet:** 2026-10-26T22:47:03Z
+- **Sist oppdatert i arkivet:** 2026-11-19T08:31:05Z
 
 ## Innhold
 
-Publisert 20.08.2026 | Oppdatert 14.10.2026
+Publisert 20.08.2026 | Oppdatert 02.11.2026
 
-## Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per januar - juni 2026
+## Arkiv - Mottakere av arbeidsavklaringspenger (AAP) per april - juni 2026
 
 #### Pressemelding
 
@@ -80,3 +80,4 @@ For mer informasjon om de ulike definisjonene i statistikkene se "Om Statistikke
 
 - **2026-10-10** Første gang hentet
 - **2026-10-26** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)
