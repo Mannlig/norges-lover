@@ -1,4 +1,4 @@
-<!-- innholds-hash: 52285c0002287d236e04fed001d2b4c5535a463a91cc3f2faefa6ebfac331c98 -->
+<!-- innholds-hash: eb0ca87741139631e8d79e45fb0a74709a906542c6e227aa5129766b583bfe62 -->
 
 # Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til tiltredelse til WIPO-traktatene av 20. desember 1996 om opphavsrett (WCT) og om fremføringer og fonogrammer (WPPT)
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200243
 - **Type:** 3
 - **Korttittel:** Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet)
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Prop. 41 LS (2025-2026), Innst. 31 L (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200243
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Endringer i åndsverkloven mv. (gjennomføring av nett- og videresendingsdirektivet og digitalmarkedsdirektivet) og samtykke til godkjenning av EØS-komiteens beslutning nr. 332/2023 og 333/2023 om innlemmelse i EØS-avtalen av direktiv (EU) 2019/789 og (EU) 2019/790, og samtykke til tiltredelse til WIPO-traktatene av 20. desember 1996 om opphavsrett (WCT) og om fremføringer og fonogrammer (WPPT)",
   "type": 3
 }
@@ -71,3 +71,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-11-11** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 27162ac8fa771418aa5ba325d74561d022a69c0c98241722370874891395be0b -->
+<!-- innholds-hash: a30b5f147cc139acffe32ca1b6137d7c10c085a66a0e4ef5b9fc7514d6f35ff7 -->
 
 # Valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)
 
@@ -9,13 +9,13 @@
 - **Sak-ID:** 200515
 - **Type:** 2
 - **Korttittel:** Valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Innst. 36 S (2026-2027)
 - **Komité:** Stortingets presidentskap
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200515
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -24,7 +24,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 7,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -40,7 +40,7 @@
   "sak_fremmet_id": 200515,
   "saksordfoerer_liste": [],
   "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)\n",
   "type": 2
 }
@@ -51,3 +51,4 @@
 ## Endringshistorikk
 
 - **2026-11-12** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

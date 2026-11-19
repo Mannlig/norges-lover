@@ -1,4 +1,4 @@
-<!-- innholds-hash: 685542555f92876e6f63f11d163c3f1ae685ad521f0823569e5d7b99e25ae830 -->
+<!-- innholds-hash: 6d5d25403a268b65ca61bee0656abd00ed837d31b3e6c012e059660bdccce2c7 -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200524
 - **Type:** 2
 - **Korttittel:** Representantforslag om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:50 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200524
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200524,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
   "sak_fremmet_id": 200524,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-18** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

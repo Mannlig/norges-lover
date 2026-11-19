@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5855a258f8fa93d5b3e850d7998497ebd010bd1a32d22d83d9ab77c1cadf5601 -->
+<!-- innholds-hash: 4966bfdd8474a39fe2d4b2aba28e06399aab8255256c1c4054769b7e3915357e -->
 
 # Representantforslag fra stortingsrepresentantene Trond Helleland, Mudassar Kapur, Erlend Larsen, Mahmoud Farahmand og Anne Kristine Linnestad om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200521
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:47 S (2026–2027)
-- **Komité:** 
+- **Komité:** Samferdselskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T13:37:55Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200521
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200521,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "SAM",
+    "navn": "Samferdselskomiteen"
+  },
   "korttittel": "Representantforslag om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet",
   "sak_fremmet_id": 200521,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Trond Helleland, Mudassar Kapur, Erlend Larsen, Mahmoud Farahmand og Anne Kristine Linnestad om å styrke nasjonal kapasitet til å oppdage og stanse uautorisert droneaktivitet",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-11-17** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

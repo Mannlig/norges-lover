@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1836957f425a45c801a95ef78a09daab23db4ef2bf2f9f84829d17e9c3b6d31f -->
+<!-- innholds-hash: 4ca20dfaa8a953b7b9c58db6f02c93b85defb4a70ecdf4fe9bca321560ba631e -->
 
 # Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen, Mahmoud Farahmand om forskuttering av sykepenger
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200302
 - **Type:** 2
 - **Korttittel:** Representantforslag om forskuttering av sykepenger
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:285 S (2025-2026), Innst. 20 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-21T05:20:01Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200302
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1792447200000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Anna Molberg, Henrik Asheim, Amalie Gunnufsen, Mahmoud Farahmand om forskuttering av sykepenger",
   "type": 2
 }
@@ -170,3 +170,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-21** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

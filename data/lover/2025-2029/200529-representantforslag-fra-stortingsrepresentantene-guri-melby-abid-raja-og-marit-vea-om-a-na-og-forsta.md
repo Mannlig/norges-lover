@@ -1,4 +1,4 @@
-<!-- innholds-hash: 769ced455bd475f0edefe82b6c7ac72b0d516cde6c85cf2d9ca732cec3c99a47 -->
+<!-- innholds-hash: c294ea04d8628465c8c446ec6063ed6eafa29166f4b9b2327e4a970eb12a6630 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200529
 - **Type:** 2
 - **Korttittel:** Representantforslag om å nå og forstå Norges klimamål
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:55 S (2026–2027)
-- **Komité:** 
+- **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T19:01:15Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200529
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200529,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "ENERGI",
+    "navn": "Energi- og miljøkomiteen"
+  },
   "korttittel": "Representantforslag om å nå og forstå Norges klimamål",
   "sak_fremmet_id": 200529,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-18** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

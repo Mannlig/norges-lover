@@ -1,4 +1,4 @@
-<!-- innholds-hash: af87c7f581b8ad6f28a983621e9a065d3b5270eda39e4e5e9fdfdb5dc92fc5c3 -->
+<!-- innholds-hash: 688103aafa416155b703b620243e41a5b4b1e758ad5773173ec6de74bde7df59 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200527
 - **Type:** 2
 - **Korttittel:** Representantforslag om å bygge 30 000 boliger for førstegangsetablerere
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:53 S (2026–2027)
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200527
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200527,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Representantforslag om å bygge 30 000 boliger for førstegangsetablerere",
   "sak_fremmet_id": 200527,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-18** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

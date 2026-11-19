@@ -1,4 +1,4 @@
-<!-- innholds-hash: c55fc6c73b79ee076cbe76acecfaf924845f750b4a9bf77737f3e8f601d034ba -->
+<!-- innholds-hash: f8cc223cee1e88ffce440c8a75915adcf1faa76f234595800b4cfe87f88720f7 -->
 
 # Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Ida Lindtveit Røse, Joel Ystebø og Jorunn Gleditsch Lossius om å stenge kinesiske biler ute fra Forsvarets områder
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200523
 - **Type:** 2
 - **Korttittel:** Representantforslag om å stenge kinesiske biler ute fra Forsvarets områder
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:49 S (2026–2027)
-- **Komité:** 
+- **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T13:37:55Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200523
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200523,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "UFK",
+    "navn": "Utenriks- og forsvarskomiteen"
+  },
   "korttittel": "Representantforslag om å stenge kinesiske biler ute fra Forsvarets områder",
   "sak_fremmet_id": 200523,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Jonas Andersen Sayed, Ida Lindtveit Røse, Joel Ystebø og Jorunn Gleditsch Lossius om å stenge kinesiske biler ute fra Forsvarets områder",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-11-17** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: f8e9309b5abac8465012d0fce05c0cd0fddf43a9eb165f0f8b5b53bb7a8fc14b -->
+<!-- innholds-hash: 3da31a8a118d141d047044bb198e509783603f9169c01f7c10d087e26b511367 -->
 
 # Skatter og avgifter 2026
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 1 LS (2025-2026), Innst. 5 S (2025-2026)
 - **Komité:** Finanskomiteen
-- **Emner:** Statsbudsjettet
+- **Emner:** Havbruk, Kommunikasjonsteknologi, Statsbudsjettet
 - **Behandlet i sesjon:** 2025-2026
 - **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:53:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=104896
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,20 @@
   "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 1,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 92,
+      "navn": "Havbruk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 179,
+      "navn": "Kommunikasjonsteknologi",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 187,
@@ -78,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

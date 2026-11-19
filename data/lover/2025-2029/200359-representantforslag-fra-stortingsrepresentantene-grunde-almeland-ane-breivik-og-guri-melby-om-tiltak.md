@@ -1,4 +1,4 @@
-<!-- innholds-hash: c70e5fca393d06361b41577bbb6977d9154221fac6ef8637cfc785eda4fe7ccc -->
+<!-- innholds-hash: a13973fb3b42d4c099bc32e10fd5a0fa3f5341d26cd4d9fb18227d0888b6a7c7 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200359
 - **Type:** 2
 - **Korttittel:** Representantforslag om tiltak mot ungdomsledighet og ledighet blant nyutdannede
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:308 S (2025–2026), Innst. 34 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -117,7 +117,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Grunde Almeland, Ane Breivik og Guri Melby om tiltak mot ungdomsledighet og ledighet blant nyutdannede",
   "type": 2
 }
@@ -291,3 +291,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

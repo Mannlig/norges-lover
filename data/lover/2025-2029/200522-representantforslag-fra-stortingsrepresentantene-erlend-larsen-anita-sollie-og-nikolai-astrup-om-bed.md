@@ -1,4 +1,4 @@
-<!-- innholds-hash: 478e6409ec2c2ea4aef8b30290618af4a331060c8b6f695afbb96b734958b86f -->
+<!-- innholds-hash: ff656882df70d1ebe95c76e66cdcc0c003efc15a16bf6a6f369c0fe01327471c -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200522
 - **Type:** 2
 - **Korttittel:** Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:48 S (2026–2027)
-- **Komité:** 
+- **Komité:** Næringskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T13:37:55Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200522
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200522,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "NÆRING",
+    "navn": "Næringskomiteen"
+  },
   "korttittel": "Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
   "sak_fremmet_id": 200522,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-17** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

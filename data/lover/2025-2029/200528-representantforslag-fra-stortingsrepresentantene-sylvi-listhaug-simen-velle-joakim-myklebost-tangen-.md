@@ -1,4 +1,4 @@
-<!-- innholds-hash: cb7fc98574f227863b1118c0ef2884ffef077f23b1fe6f2e01bd41f0ea1204fc -->
+<!-- innholds-hash: dc08bcfca7dc6c418c5ace49415edaf9bd2e05294a58c207a790902fe561a015 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Simen Velle, Joakim Myklebost Tangen, Lill Harriet Sandaune, Line Marlene Haugen, Erlend Wiborg og Kristian August Eilertsen om å bekjempe vold og trusler i norsk skole
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200528
 - **Type:** 2
 - **Korttittel:** Representantforslag om å bekjempe vold og trusler i norsk skole
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:56 S (2026–2027)
-- **Komité:** 
+- **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200528
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -165,12 +165,15 @@
   "id": 200528,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "UFO",
+    "navn": "Utdannings- og forskningskomiteen"
+  },
   "korttittel": "Representantforslag om å bekjempe vold og trusler i norsk skole",
   "sak_fremmet_id": 200528,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Simen Velle, Joakim Myklebost Tangen, Lill Harriet Sandaune, Line Marlene Haugen, Erlend Wiborg og Kristian August Eilertsen om å bekjempe vold og trusler i norsk skole",
   "type": 2
 }
@@ -181,3 +184,4 @@
 ## Endringshistorikk
 
 - **2026-11-18** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

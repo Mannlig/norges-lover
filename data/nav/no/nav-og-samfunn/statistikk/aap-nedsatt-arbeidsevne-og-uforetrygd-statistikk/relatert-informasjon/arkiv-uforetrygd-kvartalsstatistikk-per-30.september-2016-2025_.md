@@ -1,11 +1,11 @@
-<!-- innholds-hash: 184ae804a17a273b310f5c062ec83fc1282aeb6ac15093b9c8d1ba529baaa647 -->
+<!-- innholds-hash: 08d1a1d7d03841920865a1efa7babbc8060586c3c5b2ca5f300e213d72bf5aad -->
 
 # Arkiv - Uføretrygd - Kvartalsstatistikk per 30. september 2016-2025 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/relatert-informasjon/arkiv-uforetrygd-kvartalsstatistikk-per-30.september-2016-2025_
-- **Sist oppdatert i arkivet:** 2026-10-11T03:20:40Z
+- **Sist oppdatert i arkivet:** 2026-11-19T20:44:48Z
 
 ## Innhold
 
@@ -15,7 +15,7 @@ Publisert 29.10.2025 | Oppdatert 12.01.2026
 
 #### Pressemelding
 
-- [Stabil andel uføretrygdede i befolkningen](https://www.nav.no/no/nav-og-samfunn/statistikk/aap-nedsatt-arbeidsevne-og-uforetrygd-statistikk/nyheter/stabil-andel-uforetrygdede-i-befolkningen)
+- [Stabil andel uføretrygdede i befolkningen](https://www.nav.no/_/error/404?message=Not+Found.+1n3co8hgsa8shrl7vst1p3f145)
 
 #### Statistikknotis
 
@@ -121,3 +121,4 @@ Totalt har om lag 90 prosent av alle personer som tidligere har mottatt tidsbegr
 ## Endringshistorikk
 
 - **2026-10-11** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

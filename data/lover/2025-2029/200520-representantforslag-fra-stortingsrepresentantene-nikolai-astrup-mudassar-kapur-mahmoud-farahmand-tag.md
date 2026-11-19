@@ -1,4 +1,4 @@
-<!-- innholds-hash: 814e2de1b671213c2ce47321158ac60996c8f46fd14f62de8e8ecc62c8cce8d3 -->
+<!-- innholds-hash: d5fbdcdb5ae218d9c2f6a339afa817d2e04c2eec9df9f93e239d93f202dbbaa6 -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200520
 - **Type:** 2
 - **Korttittel:** Representantforslag om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:46 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T13:37:55Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200520
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -127,12 +127,15 @@
   "id": 200520,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
   "sak_fremmet_id": 200520,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
   "type": 2
 }
@@ -143,3 +146,4 @@
 ## Endringshistorikk
 
 - **2026-11-17** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2cdd9f1489e34489fd02462ee6706dcc8451afa56fceb959d0c229b10fe35cde -->
+<!-- innholds-hash: 5268c2753103ee53b3f6331fc8cb5ffa579a817f41562114e8e8140c77a08024 -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen og Ingrid Fiskaa om styrket vern av opphavsrett i møte med kunstig intelligens
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200197
 - **Type:** 2
 - **Korttittel:** Representantforslag om styrket vern av opphavsrett i møte med kunstig intelligens
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:249 S (2025-2026), Innst. 31 L (2026-2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200197
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -98,7 +98,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen og Ingrid Fiskaa om styrket vern av opphavsrett i møte med kunstig intelligens",
   "type": 2
 }
@@ -110,3 +110,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-11-11** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 29afeadb26bc9616a082f952117589a2ac0c7b1b9667a970e1712e6a9ab93c55 -->
+<!-- innholds-hash: 38e37ae52e4bcfb63673e388526601b4533ef635d9266a3964882bdfebd4355d -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200361
 - **Type:** 2
 - **Korttittel:** Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:310 S (2025–2026), Innst. 35 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200361
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Marian Hussein, Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund og Sunniva Holmås Eidsvoll om styrket bruk av varig lønnstilskudd for å forebygge utstøting fra arbeidslivet",
   "type": 2
 }
@@ -310,3 +310,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

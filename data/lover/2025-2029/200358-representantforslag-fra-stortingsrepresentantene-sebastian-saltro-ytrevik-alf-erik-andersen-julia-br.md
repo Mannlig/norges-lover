@@ -1,4 +1,4 @@
-<!-- innholds-hash: d9dabe0a65cd2149047add0315df91d0ed32e89c670592b3ef6fd6f2c3e81a85 -->
+<!-- innholds-hash: 2553625e9d74d87611fd9fac0fdda67fcf7c89060070dba033e0536b8bd556e4 -->
 
 # Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200358
 - **Type:** 2
 - **Korttittel:** Representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:307 S (2025–2026), Innst. 33 S (2026-2027)
 - **Komité:** Arbeids- og sosialkomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
   "type": 2
 }
@@ -309,3 +309,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

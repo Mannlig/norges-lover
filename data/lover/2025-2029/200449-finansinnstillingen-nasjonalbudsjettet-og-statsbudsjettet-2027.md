@@ -1,4 +1,4 @@
-<!-- innholds-hash: 77211723b81cc338ba202ff89fe5f23aed85e806c3cfe155a2edfecf684eacce -->
+<!-- innholds-hash: af62a711fa5ed68595b8204d443c4572e00f9e2e0b154082d7c120dc398dec5b -->
 
 # Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Meld. St. 1 (2026–2027); Innst. 2 S (2026-2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Statsbudsjettet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200449
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 185,
+      "navn": "Statsbudsjettet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 1 (2026–2027); Innst. 2 S (2026-2027)",
   "id": 200449,
@@ -75,3 +83,4 @@
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)

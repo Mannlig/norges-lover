@@ -1,4 +1,4 @@
-<!-- innholds-hash: cf709c48941aa1cb107338a1f7c2f38d3258ae0342757aa3b30ccca999113f84 -->
+<!-- innholds-hash: d480f79cecf0b3c10f8f63021fa2c99cc14ae26a00be632baa5060f9ee22931b -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Anna Molberg, Amalie Gunnufsen og Nikolai Astrup om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200525
 - **Type:** 2
 - **Korttittel:** Representantforslag om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:51 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T12:17:03Z
+- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200525
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200525,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Representantforslag om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder",
   "sak_fremmet_id": 200525,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1794956400000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Henrik Asheim, Anna Molberg, Amalie Gunnufsen og Nikolai Astrup om å la pensjonister bestemme over egne sparepenger, med fritt uttak fra individuell pensjonssparing (IPS) ved normert pensjoneringsalder",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-11-18** Første gang hentet
+- **2026-11-19** Innhold endret (se git-historikk for diff)
