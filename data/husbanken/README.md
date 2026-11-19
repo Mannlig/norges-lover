@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 662
+**Antall dokumenter:** 664
 
 ## Innhold
 
@@ -265,6 +265,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Saksbehandle ny søknad](kommune/bostotte/veileder-i-regelverk-for-bostotte/saksbehandle-ny-soknad.md)
 - [Om bostøtteveilederen](kommune/bostotte/veileder-i-regelverk-for-bostotte.md)
 - [Bostøtte - informasjon for kommunene](kommune/bostotte.md)
+- [Oslo: Bransjeseminar om bolig 2026](kommune/bransjeseminar-04122026.md)
 - [Førde: Fagdag om framtidsretta bustadutvikling og busetjing](kommune/forde-fagsamling-251126.md)
 - [Arendal: Husbankkonferansen i sør 2026](kommune/husbankkonferansen-arendal-021126.md)
 - [Kobolt høstsamling 2026](kommune/kobolt-301026.md)
@@ -555,6 +556,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Webinar: Historien om boligblokken i Bekkefaret](kommune/webinar-bostedsloshet-101226.md)
 - [Webinar: DUE Bergen - en trygg bolig og bedre liv for utsatt ungdom](kommune/webinar-bostedsloshet-131126.md)
 - [Webinar: Hjelp med midlertidig bolig – hva fremmer god praksis i Nav-kontorene?](kommune/webinar-bostedsloshet-211026.md)
+- [Webinar: Gode boligløsninger i distriktskommuner](kommune/webinar-distrikt-031226.md)
 - [Webinar: Aldersvennlig boligutvikling i Irland og Norge](kommune/webinar-eldre-041226.md)
 - [Webinar: Tilpasning av boliger for eldre](kommune/webinar-eldre-201026.md)
 

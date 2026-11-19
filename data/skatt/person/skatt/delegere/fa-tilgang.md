@@ -1,4 +1,4 @@
-<!-- innholds-hash: 9cc8b27dadcc0323a6b9989d92140b17120497f6650013cfb54b807d56197716 -->
+<!-- innholds-hash: e54bade849b050cff064277b91f327b12315900cdfd14c497554a24c26b1c1e0 -->
 
 # Få tilgang til andres skatteforhold
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/delegere/fa-tilgang/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T22:10:13Z
+- **Sist oppdatert i arkivet:** 2026-11-19T02:28:33Z
 
 ## Innhold
 
@@ -14,13 +14,27 @@
 
 Du kan få tilgang til andres skatteforhold, slik at du kan hjelpe med blant annet skattekort, skattemelding og skatteoppgjør.
 
+#### Har du mistet en tilgang?
+
+Hvis noen ga deg tilgang til sine skatteforhold før 1. mars 2021, må de gi deg tilgang på nytt.
+
+Hvis de ga deg tilgang etter 1. mars 2021, trenger du ikke å gjøre noe.
+
+Det er overgangen fra Altinn 2 til Altinn 3 som har ført til at noen må søke om tilgang på nytt.
+
 ### Når personen kan gi tilgang selv
 
 Personene du skal hjelpe med skatten, kan selv gi deg tilgang. Dette gjelder både når du som privatperson skal ha tilgang, eller når du som er regnskapsfører, revisor eller rådgiver trenger tilgang til dine klienters skatteforhold.
 
-Du kan be de om å følge denne oppskriften:
+Du kan be dem om å følge denne oppskriften:
 
 [Slik gir du andre tilgang til dine skatteforhold](https://www.skatteetaten.no/person/skatt/delegere/tilgang/)
+
+#### Når personen ikke kan gi tilgang digitalt
+
+Hvis personen ikke kan gi deg tilgang digitalt, kan du søke om tilgang. Da må personen signere et fullmaktsskjema på papir. Du må sende inn skjemaet digitalt sammen med kopi av personen sin legitimasjon.
+
+[Søk om tilgang med fullmaktsskjema](https://www.skatteetaten.no/person/skatt/delegere/fa-tilgang/fullmakt/)
 
 ### Når personen ikke kan gi tilgang selv
 
@@ -73,3 +87,4 @@ Lurer du på hvem du har tilgang til og når du fikk tilgangen?
 
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)
