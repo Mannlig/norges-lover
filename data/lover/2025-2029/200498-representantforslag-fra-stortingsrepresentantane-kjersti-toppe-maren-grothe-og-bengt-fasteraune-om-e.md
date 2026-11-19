@@ -1,20 +1,20 @@
-<!-- innholds-hash: 8256d7a702697d424e67b7a5dada87fc9592e744d6a9e0febb7a2b0e33421d78 -->
+<!-- innholds-hash: 84356ed0c88d7965ec6c5ffb5facb9a2d04af34b2e68e70cf94f5f557e3667a1 -->
 
-# Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod 
+# Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod
 
 ## Metadata
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200498
 - **Type:** 2
-- **Korttittel:** Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod 
+- **Korttittel:** Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod
 - **Status:** 2
 - **Henvisning:** Dokument 8:37 S (2026–2027)
 - **Komité:** Familie- og kulturkomiteen
 - **Emner:** Barnevern
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-19T12:14:06Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -101,12 +101,32 @@
     "id": "FAMKULT",
     "navn": "Familie- og kulturkomiteen"
   },
-  "korttittel": "Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod ",
+  "korttittel": "Representantforslag om ei ny retning for barnevernet sitt institusjonstilbod",
   "sak_fremmet_id": 200498,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Henriksen",
+      "foedselsdato": "/Date(899330400000+0200)/",
+      "fornavn": "Mats",
+      "id": "MATHEN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "NT",
+        "navn": "Nord-Trøndelag"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
-  "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod ",
+  "tittel": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod",
   "type": 2
 }
 ```
@@ -118,3 +138,4 @@
 - **2026-11-04** Første gang hentet
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-19** Innhold endret (se git-historikk for diff)
