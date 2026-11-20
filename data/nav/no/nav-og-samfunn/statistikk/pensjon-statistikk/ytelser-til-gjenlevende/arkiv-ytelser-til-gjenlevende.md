@@ -1,20 +1,21 @@
-<!-- innholds-hash: 571257cf2dd83af98038e258fb0f73e373606adfb59497e55ea75707ee4287de -->
+<!-- innholds-hash: b24db0a6962960a4474039da133ba780af75ec9ae3473e24af3a7eb225a7d0e7 -->
 
 # Arkiv - Ytelser til gjenlevende - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/ytelser-til-gjenlevende/arkiv-ytelser-til-gjenlevende
-- **Sist oppdatert i arkivet:** 2026-10-28T05:39:16Z
+- **Sist oppdatert i arkivet:** 2026-11-20T08:58:41Z
 
 ## Innhold
 
-Publisert 01.12.2019 | Oppdatert 18.08.2026
+Publisert 01.12.2019 | Oppdatert 12.11.2026
 
 ## Arkiv - Ytelser til gjenlevende
 
 #### 2026
 
+- [Statistikk pr. juni 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/0-arkiv-gjenlevendeytelser/arkiv.ytelser-til-gjenlevende.juni-2016-2026)
 - [Statistikk pr. mars 2016 - 2026](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv.ytelser-til-gjenlevende.mars-2016-2026)
 
 #### 2025
@@ -165,3 +166,4 @@ Publisert 01.12.2019 | Oppdatert 18.08.2026
 ## Endringshistorikk
 
 - **2026-10-28** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)
