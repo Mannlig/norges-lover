@@ -1,4 +1,4 @@
-<!-- innholds-hash: a93d50a9399a0c7d3f15733e2baef2208e0b0c20a20154375878eae24e7f79eb -->
+<!-- innholds-hash: d4551b3036800b5906157cf2b99d9c0c50db132a8dec55fb7614debcace27043 -->
 
 # Statsbudsjett 2027
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200451
-- **Type:** 3
+- **Type:** 1
 - **Korttittel:** Skatter og avgifter 2027
 - **Status:** 2
 - **Henvisning:** Prop. 1 LS (2026–2027); Innst. 5 S (2026-2027)
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200451
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -61,7 +61,7 @@
   "sist_oppdatert_dato": "/Date(1791324000000+0200)/",
   "status": 2,
   "tittel": "Statsbudsjett 2027",
-  "type": 3
+  "type": 1
 }
 ```
 
@@ -72,3 +72,4 @@
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

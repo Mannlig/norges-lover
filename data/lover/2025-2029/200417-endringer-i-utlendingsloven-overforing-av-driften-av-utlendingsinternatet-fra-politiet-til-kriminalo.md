@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5101114918ed660ef79b2549203ce299aee6a9e204d40bd6fe9a25e28bad0eba -->
+<!-- innholds-hash: 2c49269af64bf5ff984ef137eebab6962e9d5f4a7db4592a21df4ce1a59f39cc -->
 
 # Endringer i utlendingsloven (overføring av driften av utlendingsinternatet fra politiet til kriminalomsorgen, restriksjoner under oppholdet mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 2 L (2026–2027)
 - **Komité:** Justiskomiteen
-- **Emner:** 
+- **Emner:** Kriminalomsorg, Innvandrere, Politi og påtalemyndighet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-21T16:39:34Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200417
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 16,
+      "navn": "Kriminalomsorg",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 141,
+      "navn": "Politi og påtalemyndighet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 2 L (2026–2027)",
   "id": 200417,
@@ -73,3 +95,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-21** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

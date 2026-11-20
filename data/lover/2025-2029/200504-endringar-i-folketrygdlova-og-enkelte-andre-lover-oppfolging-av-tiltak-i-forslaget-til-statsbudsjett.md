@@ -1,4 +1,4 @@
-<!-- innholds-hash: 62dfe08e01219c64175ac95bf9c6dee42fb97f2b8c8786c3d4d069315ef76958 -->
+<!-- innholds-hash: 3505742dfbd28a1aaf2f3f5efa6a5783e3239abd0e15e35bf522096852bc3afd -->
 
 # Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 9 L (2026–2027)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** 
+- **Emner:** Trygder
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-11T09:22:16Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 9 L (2026–2027)",
   "id": 200504,
@@ -72,3 +80,4 @@
 - **2026-11-06** Første gang hentet
 - **2026-11-10** Innhold endret (se git-historikk for diff)
 - **2026-11-11** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

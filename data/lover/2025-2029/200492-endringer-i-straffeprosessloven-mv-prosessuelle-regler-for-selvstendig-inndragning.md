@@ -1,4 +1,4 @@
-<!-- innholds-hash: 25ebe479943273773bf3a6a44240435947f8e75a444bec0a5986c6caefd96def -->
+<!-- innholds-hash: b3476e42b5ebc566d0d19f1eef294df85c75de6737c551ee6779d18ace2a005b -->
 
 # Endringer i straffeprosessloven mv. (prosessuelle regler for selvstendig inndragning)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 4 L (2026–2027)
 - **Komité:** Justiskomiteen
-- **Emner:** 
+- **Emner:** Rettsvesen, Domstoler
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T14:24:35Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200492
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 11,
+      "id": 11,
+      "navn": "Rettsvesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 12,
+      "navn": "Domstoler",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 4 L (2026–2027)",
   "id": 200492,
@@ -72,3 +87,4 @@
 - **2026-10-30** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

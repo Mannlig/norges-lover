@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8fabae0ea3c1f34b1a731c4922fa8616407510fb081e363a8b00b8ac5b360692 -->
+<!-- innholds-hash: 4668204bbd187cf996cd8c5f1a40cd949cddc0fcc46d07b6ae5dac89da0472df -->
 
 # Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 10 L (2026–2027)
 - **Komité:** Justiskomiteen
-- **Emner:** 
+- **Emner:** Domstoler, Avgifter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200518
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 12,
+      "navn": "Domstoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 10 L (2026–2027)",
   "id": 200518,
@@ -51,3 +66,4 @@
 
 - **2026-11-13** Første gang hentet
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

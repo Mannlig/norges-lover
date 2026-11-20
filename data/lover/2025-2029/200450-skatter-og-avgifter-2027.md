@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4659087743765de1c25cf4a37d261cb3c59fe78eeea94344977faea37a66e0dc -->
+<!-- innholds-hash: 15cdfeb7b018333d817e26c4f45f2642af154e0e632ff425a84182a53d67d5eb -->
 
 # Skatter og avgifter 2027
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Stortingets åpne API – https://data.stortinget.no
 - **Sak-ID:** 200450
-- **Type:** 3
+- **Type:** 1
 - **Korttittel:** Skatter og avgifter 2027
 - **Status:** 2
 - **Henvisning:** Prop. 1 LS (2026–2027); Innst. 3 S (2026-2027)
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-15T11:30:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200450
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -61,7 +61,7 @@
   "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
   "status": 2,
   "tittel": "Skatter og avgifter 2027",
-  "type": 3
+  "type": 1
 }
 ```
 
@@ -73,3 +73,4 @@
 - **2026-10-09** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-15** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

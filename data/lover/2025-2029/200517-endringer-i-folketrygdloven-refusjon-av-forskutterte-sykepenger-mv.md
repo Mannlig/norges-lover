@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2b690b099fe212fd9a60aa21c9542fdb2ebc0af2b07628fe64df7921e64761c7 -->
+<!-- innholds-hash: 1cce149a18a7ac0f8714a59c279dc8bd7e87f4c5d466758cd788b7f1fe8ffa11 -->
 
 # Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 11 L (2026–2027)
 - **Komité:** Arbeids- og sosialkomiteen
-- **Emner:** 
+- **Emner:** Trygder
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200517
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 11 L (2026–2027)",
   "id": 200517,
@@ -71,3 +79,4 @@
 
 - **2026-11-13** Første gang hentet
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

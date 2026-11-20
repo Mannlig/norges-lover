@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1959
+**Antall dokumenter:** 1976
 
 ## Innhold
 
@@ -1965,6 +1965,23 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om  å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper](2025-2029/200530-representantforslag-fra-stortingsrepresentantene-guri-melby-abid-raja-og-marit-vea-om-a-styrke-og-ut.md)
 - [Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Haagen Poppe og Anna Molberg om å la kommunene selv regulere konsum av alkohol på offentlig sted](2025-2029/200531-representantforslag-fra-stortingsrepresentantene-erlend-svardal-boe-haagen-poppe-og-anna-molberg-om-.md)
 - [Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Erlend Svardal Bøe, Margret Hagerup, Anita Sollie, Mari Holm Lønseth og Anne Kristine Linnestad om strengere regulering av kosmetiske inngrep og injeksjoner](2025-2029/200532-representantforslag-fra-stortingsrepresentantene-tone-wilhelmsen-troen-haagen-poppe-erlend-svardal-b.md)
+- [Endringar i statsbudsjettet 2026 under Barne- og familiedepartementet](2025-2029/200533-endringar-i-statsbudsjettet-2026-under-barne-og-familiedepartementet.md)
+- [Endringar i statsbudsjettet 2026 under  Justis- og beredskapsdepartementet](2025-2029/200534-endringar-i-statsbudsjettet-2026-under-justis-og-beredskapsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet](2025-2029/200535-endringar-i-statsbudsjettet-2026-under-helse-og-omsorgsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under Forsvarsdepartementet](2025-2029/200536-endringar-i-statsbudsjettet-2026-under-forsvarsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under  Kommunal- og distriktsdepartementet](2025-2029/200537-endringar-i-statsbudsjettet-2026-under-kommunal-og-distriktsdepartementet.md)
+- [Ein likestillingspolitikk i takt med tida. Likestilling for gutar og menn](2025-2029/200538-ein-likestillingspolitikk-i-takt-med-tida-likestilling-for-gutar-og-menn.md)
+- [Endringar i statsbudsjettet 2026 under Arbeids- og inkluderingsdepartementet](2025-2029/200539-endringar-i-statsbudsjettet-2026-under-arbeids-og-inkluderingsdepartementet.md)
+- [Endringer i statsbudsjettet 2026 under  Landbruks- og matdepartementet](2025-2029/200540-endringer-i-statsbudsjettet-2026-under-landbruks-og-matdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under  Nærings- og fiskeridepartementet](2025-2029/200541-endringar-i-statsbudsjettet-2026-under-naerings-og-fiskeridepartementet.md)
+- [Endringer i utlendingsloven (utvidet adgang til frihetsberøvelse mv. i saker som berører grunnleggende nasjonale interesser)](2025-2029/200542-endringer-i-utlendingsloven-utvidet-adgang-til-frihetsberovelse-mv-i-saker-som-berorer-grunnleggende.md)
+- [Endringar i statsbudsjettet 2026 under Digitaliserings- og forvaltningsdepartementet](2025-2029/200543-endringar-i-statsbudsjettet-2026-under-digitaliserings-og-forvaltningsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under Samferdselsdepartementet](2025-2029/200544-endringar-i-statsbudsjettet-2026-under-samferdselsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under  Energidepartementet](2025-2029/200545-endringar-i-statsbudsjettet-2026-under-energidepartementet.md)
+- [Endringer i statsbudsjettet 2026 under Kultur- og likestillingsdepartementet](2025-2029/200546-endringer-i-statsbudsjettet-2026-under-kultur-og-likestillingsdepartementet.md)
+- [Endringar i statsbudsjettet 2026 under Kunnskapsdepartementet](2025-2029/200547-endringar-i-statsbudsjettet-2026-under-kunnskapsdepartementet.md)
+- [Endringer i statsbudsjettet 2026 under  Klima- og miljødepartementet](2025-2029/200548-endringer-i-statsbudsjettet-2026-under-klima-og-miljodepartementet.md)
+- [Endringar i statsbudsjettet 2026 under Utanriksdepartementet](2025-2029/200549-endringar-i-statsbudsjettet-2026-under-utanriksdepartementet.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)
