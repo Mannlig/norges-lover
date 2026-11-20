@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3f2092b3cf1b2a386cfa97a75541785febc7f25f591aac932c675502e4cc3f86 -->
+<!-- innholds-hash: b0d35c59712359ba1dd3c6bcfa7942cd4ef6485efa3898fe7e00969627ab1f08 -->
 
 # Eksport av forsvarsmateriell fra Norge og eksportkontroll i 2025
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Meld. St. 12 (2025–2026)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** 
+- **Emner:** Internasjonalt samarbeid, Forsvar, Forsvarsmateriell, Atomvåpen, Utenrikshandel
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200374
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 59,
+      "id": 59,
+      "navn": "Forsvar",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 59,
+      "id": 60,
+      "navn": "Forsvarsmateriell",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 93,
+      "navn": "Atomvåpen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 99,
+      "navn": "Utenrikshandel",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 12 (2025–2026)",
   "id": 200374,
@@ -72,3 +108,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

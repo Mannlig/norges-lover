@@ -1,4 +1,4 @@
-<!-- innholds-hash: 579ac59063296e4c15953e8ccad14bed6f243ae6a5e8a92d156db64c434ef23e -->
+<!-- innholds-hash: 5d4d32c3d33ea11b129c24c16cf580ce2749d3aa006e4164836ec2d08259674b -->
 
 # Endringer i utlendingsloven (familiegjenforening med barn m.m.)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 108 L (2025–2026)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Innvandrere, Familie, Barn
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 40,
+      "id": 40,
+      "navn": "Familie",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 40,
+      "id": 41,
+      "navn": "Barn",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 108 L (2025–2026)",
   "id": 200370,
@@ -72,3 +94,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

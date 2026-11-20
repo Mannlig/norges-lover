@@ -1,4 +1,4 @@
-<!-- innholds-hash: 918a2088c8ecc4117e99c96408826273815aa5847faebf6d06d620b27c74062a -->
+<!-- innholds-hash: f627ee3ab3f86bf710f80a795d38322fa4bacc1a908b236396cfc2a45ae75448 -->
 
 # Utenriksministerens utenrikspolitiske redegjørelse
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** None
 - **Komité:** 
-- **Emner:** Utenrikssaker
+- **Emner:** Internasjonalt samarbeid, Forsvar, Toll, Utenrikssaker, Fn, Økonomisk samarbeid, Eu/eøs, Polarområder, Nato, Internasjonal rett
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:55:14Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102071
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,73 @@
   "dokumentgruppe": 3,
   "emne_liste": [
     {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 59,
+      "id": 59,
+      "navn": "Forsvar",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 82,
+      "navn": "Toll",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": true,
       "hovedemne_id": 163,
       "id": 163,
       "navn": "Utenrikssaker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 168,
+      "navn": "Fn",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 175,
+      "id": 175,
+      "navn": "Polarområder",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 177,
+      "navn": "Nato",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 200,
+      "navn": "Internasjonal rett",
       "underemne_liste": []
     }
   ],
@@ -55,3 +118,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)

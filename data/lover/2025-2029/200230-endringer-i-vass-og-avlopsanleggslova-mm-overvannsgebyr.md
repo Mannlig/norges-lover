@@ -1,4 +1,4 @@
-<!-- innholds-hash: bcb86e4e988090307962e62a3953fa7a1a5ac49e9f1da7ea3d8c01a0175c1ba7 -->
+<!-- innholds-hash: f09503eeace4ccdc1ff31f1b3c3291652c3a9173ea9cb7047fc3b920e949a07c -->
 
 # Endringer i vass- og avløpsanleggslova m.m. (overvannsgebyr)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 83 L (2025-2026)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Kommuner, Avgifter, Miljøvern, Lokalforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200230
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 139,
+      "id": 139,
+      "navn": "Miljøvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 184,
+      "id": 184,
+      "navn": "Lokalforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 83 L (2025-2026)",
   "id": 200230,
@@ -70,3 +99,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)

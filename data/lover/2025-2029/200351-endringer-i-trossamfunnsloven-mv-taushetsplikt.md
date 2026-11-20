@@ -1,4 +1,4 @@
-<!-- innholds-hash: d861789d5b72df46793ef687c91ec61b0506fc35b8ab7aec5c5e8d93ff93064c -->
+<!-- innholds-hash: d9dcf60b5bde6cd77997ca9269fb79be282f2e1678303a73c619396a1fd65093 -->
 
 # Endringer i trossamfunnsloven mv. (taushetsplikt)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 102 L (2025–2026)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** 
+- **Emner:** Den norske kirke, Trossamfunn
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200351
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 105,
+      "id": 1,
+      "navn": "Den norske kirke",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 105,
+      "id": 105,
+      "navn": "Trossamfunn",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 102 L (2025–2026)",
   "id": 200351,
@@ -245,3 +260,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

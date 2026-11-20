@@ -1,4 +1,4 @@
-<!-- innholds-hash: 407f4a1ea78db24ef21a520a9616940b496fb73c3a77633cbea74b4da4f36205 -->
+<!-- innholds-hash: f7d3da37882a6283f7b100955d10b892eec5fe49c8bb12dfbe0218b26df3ba2e -->
 
 # Datatilsynets og Personvernnemndas årsrapportar for 2025
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Meld. St. 13 (2025–2026), Innst. 41 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Personvern, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200389
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 11,
+      "id": 17,
+      "navn": "Personvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 179,
+      "navn": "Kommunikasjonsteknologi",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 13 (2025–2026), Innst. 41 S (2026-2027)",
   "id": 200389,
@@ -41,7 +56,7 @@
     {
       "doedsdato": null,
       "etternavn": "Larsen",
-      "foedselsdato": "/Date(-73879200000+0200)/",
+      "foedselsdato": "/Date(-73875600000+0200)/",
       "fornavn": "Bjørn",
       "id": "BLA",
       "kjoenn": 2,
@@ -72,3 +87,4 @@
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

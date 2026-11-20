@@ -1,4 +1,4 @@
-<!-- innholds-hash: d46bcd3175e4363e82b59fb1fd22ac29aaaa28f318013a4d1c4f66c75a8a733a -->
+<!-- innholds-hash: 13caadaa322f879965104ddeb7fedd62fbe986601ae61626cd290c1467ec9035 -->
 
 # Endringer i regnskapsloven mv. (forenkling)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 106 L (2025–2026), Innst. 47 L (2026-2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Næringsliv, Eu/eøs
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200373
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 113,
+      "id": 113,
+      "navn": "Næringsliv",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 106 L (2025–2026), Innst. 47 L (2026-2027)",
   "id": 200373,
@@ -41,7 +56,7 @@
     {
       "doedsdato": null,
       "etternavn": "Grande",
-      "foedselsdato": "/Date(162514800000+0100)/",
+      "foedselsdato": "/Date(162518400000+0100)/",
       "fornavn": "Hilde",
       "id": "HILGRA",
       "kjoenn": 1,
@@ -73,3 +88,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

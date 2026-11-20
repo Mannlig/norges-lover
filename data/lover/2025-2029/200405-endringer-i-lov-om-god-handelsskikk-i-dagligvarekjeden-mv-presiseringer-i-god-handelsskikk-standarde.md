@@ -1,4 +1,4 @@
-<!-- innholds-hash: 51eece6b37ae7b51af10cf6ce8777dec45ebdab41c38d26429a62b9db8e6a9e6 -->
+<!-- innholds-hash: c7d065677bd71557d39d924a895bc386e5e4214a6c1c163fed0d8b406f155b60 -->
 
 # Endringer i lov om god handelsskikk i dagligvarekjeden mv. (presiseringer i god handelsskikk-standarden mv.)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 112 L (2025–2026)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Priser og konkurranseforhold, Varehandel
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200405
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 113,
+      "id": 97,
+      "navn": "Varehandel",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 112 L (2025–2026)",
   "id": 200405,
@@ -71,3 +86,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

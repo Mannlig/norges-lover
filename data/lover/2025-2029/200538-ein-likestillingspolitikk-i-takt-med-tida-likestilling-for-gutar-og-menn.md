@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5729f5219ecbeb3267752bf0a67296af886b876d2b78650ffce998ccebfa48bf -->
+<!-- innholds-hash: ea836651c3be151aed8a3b0ed58ab989161430e906ba75f8e95516b685f956c0 -->
 
 # Ein likestillingspolitikk i takt med tida. Likestilling for gutar og menn
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Meld. St. 5 (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Likestilling
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200538
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,15 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 24,
+      "id": 24,
+      "navn": "Likestilling",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 5 (2026–2027)",
   "id": 200538,
@@ -47,3 +55,4 @@
 ## Endringshistorikk
 
 - **2026-11-20** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)

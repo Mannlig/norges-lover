@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3c363c5529833fc69af35bbcebca8c18008e7a3d06dcc8b69072595c6e28926c -->
+<!-- innholds-hash: 1e48c3cf958456b634e5659314c5811310ea4676abe4d362123c9ee9a25bb9c2 -->
 
 # Helsepersonellplan 2040
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Meld. St. 11 (2025–2026)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Sysselsetting, Omsorgstjenester, Helsevesen, Helsepersonell, Høyere utdanning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200350
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,43 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 7,
+      "navn": "Sysselsetting",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 48,
+      "navn": "Omsorgstjenester",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 64,
+      "navn": "Helsepersonell",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 159,
+      "navn": "Høyere utdanning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 11 (2025–2026)",
   "id": 200350,
@@ -245,3 +281,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

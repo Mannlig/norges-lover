@@ -1,4 +1,4 @@
-<!-- innholds-hash: afb5d267822a3c4c5c5d4e29901ef9731cf912193cec6711dc80612f68cb4455 -->
+<!-- innholds-hash: eff793dba3c00dc97938ed2335337aeb9118b20d3e5353d8bd8c1322c9e437d9 -->
 
 # Anmodnings- og utredningsvedtak  i stortingssesjonen 2025–2026
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Meld. St. 4 (2026–2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
-- **Emner:** 
+- **Emner:** Regjeringen, Stortinget
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-14T10:32:48Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200448
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 2,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 25,
+      "navn": "Regjeringen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 151,
+      "id": 203,
+      "navn": "Stortinget",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Meld. St. 4 (2026–2027)",
   "id": 200448,
@@ -71,3 +86,4 @@
 
 - **2026-10-07** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

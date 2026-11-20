@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3a376c8d1d1864b8d83e26fd4f68ff4d4a87c36c0bb14b1b308f302871bc0ca6 -->
+<!-- innholds-hash: 86dd602e05bd3e111414f9e23c9d3531ad92053898fa8c6d93fed8db71350ee5 -->
 
 # Endringer i tobakksskadeloven (endringer i gebyr- og avgiftssystemet og høyere strafferammer)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 97 L (2025-2026), Innst. 29 L (2026-2027), Lovvedtak 1 (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Helsevesen, Avgifter, Eu/eøs, Folkehelse
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200327
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 61,
+      "id": 188,
+      "navn": "Folkehelse",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 97 L (2025-2026), Innst. 29 L (2026-2027), Lovvedtak 1 (2026-2027)",
   "id": 200327,
@@ -80,3 +109,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 28c23565c3db4def5dc2c95be6d346f0db8252f45e52a2e553a6cba1a464e321 -->
+<!-- innholds-hash: 264df3531abbe429df7ef4b21669d78c5bd9c532052a8e1e8ede692d5b9b664a -->
 
 # Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Bjørnar Moxnes, Hege Bae Nyholt, Geir Jørgensen og Mímir Kristjánsson om å si opp baseavtalen med USA
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:51 S (2024-2025), Innst. 204 S (2024-2025)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** Forsvar, Utenrikssaker, Traktater, Polarområder, Nato
+- **Emner:** Internasjonalt samarbeid, Forsvar, Utenrikssaker, Traktater, Polarområder, Nato
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:55:14Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101556
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": true,
       "hovedemne_id": 59,
@@ -202,3 +209,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)

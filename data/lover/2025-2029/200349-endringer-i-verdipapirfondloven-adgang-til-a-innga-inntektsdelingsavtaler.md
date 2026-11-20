@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0cea55058efc9d2be4ac31787a4654be7cc0b3785304f47a252abd49becccd67 -->
+<!-- innholds-hash: 4916895a3e0a8ae61415e382983dec7a38f24308b7900ae85ecabfce158f1c5e -->
 
 # Endringer i verdipapirfondloven (adgang til å inngå inntektsdelingsavtaler)
 
@@ -11,10 +11,10 @@
 - **Status:** 2
 - **Henvisning:** Prop. 103 L (2025–2026), Innst. 50 L (2026-2027)
 - **Komité:** Finanskomiteen
-- **Emner:** 
+- **Emner:** Finanser, Aksjer
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200349
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 187,
+      "id": 187,
+      "navn": "Finanser",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 192,
+      "navn": "Aksjer",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 103 L (2025–2026), Innst. 50 L (2026-2027)",
   "id": 200349,
@@ -248,3 +263,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

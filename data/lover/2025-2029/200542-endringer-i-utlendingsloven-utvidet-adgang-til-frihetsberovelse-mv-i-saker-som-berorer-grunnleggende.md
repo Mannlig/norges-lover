@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4d5b8f107d4603b5bb057900f6ff64c2b9f4f1207438a7f10aea226770a40081 -->
+<!-- innholds-hash: 71c6eb01ddde2e7b53c8e16d4a942d47fd897583ed355e78928eac597cacf48e -->
 
 # Endringer i utlendingsloven (utvidet adgang til frihetsberøvelse mv. i saker som berører grunnleggende nasjonale interesser)
 
@@ -11,10 +11,10 @@
 - **Status:** 3
 - **Henvisning:** Prop. 29 L (2026–2027)
 - **Komité:** 
-- **Emner:** 
+- **Emner:** Innvandrere, Menneskerettigheter, Samfunnssikkerhet
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200542
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": null,
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 181,
+      "id": 181,
+      "navn": "Samfunnssikkerhet",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 29 L (2026–2027)",
   "id": 200542,
@@ -47,3 +69,4 @@
 ## Endringshistorikk
 
 - **2026-11-20** Første gang hentet
+- **2026-11-20** Innhold endret (se git-historikk for diff)
