@@ -1,4 +1,4 @@
-<!-- innholds-hash: be67588bdaa63d42b518955d474fe6bb116174975d70b296edfb1b157d6b5802 -->
+<!-- innholds-hash: 0d0f3b18cc54e4f5a34887b5fb18fad2a50e4b333a98cca1875e259f32eadeef -->
 
 # Filmer med tips om skattemelding, skatteoppgjør og skattekort
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/skatt123/film-om-skatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T22:56:04Z
+- **Sist oppdatert i arkivet:** 2026-11-20T02:32:13Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ Filmen viser hva du må gjøre og hvordan du legger til opplysninger som mangler
 
 #### Hvordan du oppgir verdier i skattemeldingen
 
-For deg med inntekt, gjeld, eiendeler eller formue i utlandet: [se hva du må gjøre og hvordan du oppgir det i skattemeldingen.](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/utland/)
+For deg med inntekt, gjeld, eiendeler eller formue i utlandet: [se hva du må gjøre og hvordan du oppgir det i skattemeldingen.](https://www.skatteetaten.no/Recycle-Bin/utland/)
 
 For deg som eier eller har handlet i virtuell valuta (kryptovaluta): [se hvordan vi skattelegger virtuell valuta (kryptovaluta) og hvordan du skal fastsette verdien, rapportere og dokumentere gevinst, tap, utbytte og formue.](https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/virtuell-valuta/)
 
@@ -57,3 +57,4 @@ Filmen viser hvordan du oppgir verdier knyttet til virtuelle eiendeler, som for 
 
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)

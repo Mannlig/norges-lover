@@ -1,4 +1,4 @@
-<!-- innholds-hash: d150eb05ac005befe2ca3d3154fc99341a67e562314b4ee70ff20731277278a1 -->
+<!-- innholds-hash: 0f9520b221e5daf2ceedfcc7eb593c3b3f574bc3ca8bd31a422a0e465e318f8a -->
 
 # Avslutte bedrift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/avslutte-bedrift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-09T22:46:41Z
+- **Sist oppdatert i arkivet:** 2026-11-20T02:23:42Z
 
 ## Innhold
 
@@ -22,9 +22,9 @@ Hva slags bedrift skal du avslutte?
 
 Velg selskapsform
 
-Enkeltpersonforetak (ENK)
-
 Aksjeselskap (AS)
+
+Enkeltpersonforetak (ENK)
 
 Norsk filial av utenlandsk foretak (NUF)
 
@@ -37,3 +37,4 @@ Ansvarlig selskap (ANS/DA)
 
 - **2026-05-20** Første gang hentet
 - **2026-10-09** Innhold endret (se git-historikk for diff)
+- **2026-11-20** Innhold endret (se git-historikk for diff)
