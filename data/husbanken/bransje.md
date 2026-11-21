@@ -1,4 +1,4 @@
-<!-- innholds-hash: e0f813d4dd422dbaf31acc645caa33842f99b31dab1482ffcdbcdf4c479cf2c2 -->
+<!-- innholds-hash: 3fb108c20539c67b82337a4e3541de2d6ba898622648c010533d7fce15bc2a6c -->
 
 # Forside for bransjeaktører
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/bransje/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T14:48:01Z
+- **Sist oppdatert i arkivet:** 2026-11-21T14:24:49Z
 
 ## Innhold
 
@@ -83,8 +83,8 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 
 ### Arrangementer
 
-- 13. november Digitalt [Webinar: DUE Bergen - en trygg bolig og bedre liv for utsatt ungdom](https://www.husbanken.no/kommune/webinar-bostedsloshet-131126/)
-- 19. november Digitalt på Teams [Webinar: Fra straff til hjelp for bostedsløse](https://www.husbanken.no/kommune/straff-til-hjelp---bostedsloeshet-foer-og-naa/)
+- 3. desember Digitalt [Webinar: Gode boligløsninger i distriktskommuner](https://www.husbanken.no/kommune/webinar-distrikt-031226/)
+- 4. desember KS Agenda Konferansesenter, Haakon VIIs gate 9 (rett ved Nationaltheatret stasjon), Oslo [Oslo: Bransjeseminar om bolig 2026](https://www.husbanken.no/kommune/bransjeseminar-04122026/)
 - 4. desember Digitalt [Webinar: Aldersvennlig boligutvikling i Irland og Norge](https://www.husbanken.no/kommune/webinar-eldre-041226/)
 
 [Alle arrangementer](https://www.husbanken.no/arrangement/)
@@ -98,3 +98,4 @@ Husbanken tilbyr finansiering av boliger i distriktskommuner, der det ellers kan
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

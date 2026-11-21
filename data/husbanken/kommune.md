@@ -1,4 +1,4 @@
-<!-- innholds-hash: 43d8ef074690b7cf9760b0e7dcab960f517b5100e51b0786771fb10ccb4a3f8d -->
+<!-- innholds-hash: b17345a58c7ebc052d85980c0914608d930ed27a83f70517724b05b10f06b824 -->
 
 # Forside for kommuner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T14:50:35Z
+- **Sist oppdatert i arkivet:** 2026-11-21T14:27:19Z
 
 ## Innhold
 
@@ -78,8 +78,8 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 
 ### Arrangementer
 
-- 13. november Digitalt [Webinar: DUE Bergen - en trygg bolig og bedre liv for utsatt ungdom](https://www.husbanken.no/kommune/webinar-bostedsloshet-131126/)
-- 19. november Digitalt på Teams [Webinar: Fra straff til hjelp for bostedsløse](https://www.husbanken.no/kommune/straff-til-hjelp---bostedsloeshet-foer-og-naa/)
+- 3. desember Digitalt [Webinar: Gode boligløsninger i distriktskommuner](https://www.husbanken.no/kommune/webinar-distrikt-031226/)
+- 4. desember KS Agenda Konferansesenter, Haakon VIIs gate 9 (rett ved Nationaltheatret stasjon), Oslo [Oslo: Bransjeseminar om bolig 2026](https://www.husbanken.no/kommune/bransjeseminar-04122026/)
 - 4. desember Digitalt [Webinar: Aldersvennlig boligutvikling i Irland og Norge](https://www.husbanken.no/kommune/webinar-eldre-041226/)
 
 [Alle arrangementer](https://www.husbanken.no/arrangement/)
@@ -93,3 +93,4 @@ Lær og la deg bli inspirert av boligsosialt arbeid og boligprosjekter i andre k
 - **2026-10-15** Innhold endret (se git-historikk for diff)
 - **2026-10-23** Innhold endret (se git-historikk for diff)
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 19bd73dd4750bcaf8210fc294a592c106e39b439098e5cab8a9aca35769f4eab -->
+<!-- innholds-hash: 244392ed165d9793eae011d499a647b6fba848c5a0ceaa771604637ba1843795 -->
 
 # Bostøtte
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-30T14:55:29Z
+- **Sist oppdatert i arkivet:** 2026-11-21T14:32:17Z
 
 ## Innhold
 
@@ -14,15 +14,15 @@
 
 Bostøtte er en støtteordning for deg som har lave inntekter og høye boutgifter. Her kan du lære mer om ordningen, enten du er nysgjerrig og ny søker, eller om du allerede har søkt om bostøtte.
 
-Neste svar og utbetaling: 20. november
+Neste svar og utbetaling: 18. desember
 
-Next response and payment: 20 November
+Next response and payment: 18 December
 
-Boahtte vástádus ja máksin: skábmamánus 20.b.
+Boahtte vástádus ja máksin: juovlamánus 18.b.
 
 Neste søknadsfrist: 25. november
 
-Next application deadline: 25 November
+Next application deadline: 25. November
 
 Boahtte ohcanáigemearri: skábmamánus 25.b.
 
@@ -60,3 +60,4 @@ Her finner du informasjon om hvordan du kan lese vedtak og brev, melde fra om en
 - **2026-10-07** Første gang hentet
 - **2026-10-23** Innhold endret (se git-historikk for diff)
 - **2026-10-30** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 30edde12ef2e72977a12ed9c8106908799da56d3092bbad249263b4c015d96fb -->
+<!-- innholds-hash: b668a4da6050f740075d174d90a592e513a5067c0020af5de9af878b44ef7e16 -->
 
 # Forside for privatpersoner
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-11-07T11:31:44Z
+- **Sist oppdatert i arkivet:** 2026-11-21T14:30:48Z
 
 ## Innhold
 
@@ -41,11 +41,11 @@ Fra kommunen - til å kjøpe bolig eller å kunne bli boende i boligen din.
 
 Til å bygge eller oppgradere miljøvennlige og livsløpsboliger.
 
-### Søk om tilskudd til aldersvennlig oppgradering av egen bolig
+### Hjelp til deg som er utleier eller leietaker
 
-Nå kan du søke om tilskudd for å gjøre boligen din mer aldersvennlig. Søknadsfristen er 1. februar 2027.
+Her kan du finne informasjon om lover og regler som gjelder når du leier eller leier ut bolig. Oppstår det en konflikt i leieforholdet, kan Husleietvistutvalget hjelpe med å løse saken.
 
-[Les mer om tilskuddet](https://www.husbanken.no/person/tilskudd-til-oppgradering-av-bolig/)
+[Gå til Husleietvistutvalget](https://www.husbanken.no/husleie/)
 
 ### For deg som har søkt
 
@@ -88,3 +88,4 @@ Når Norges Bank endrer styringsrenten, påvirker det også rentene i Husbanken.
 
 - **2026-10-07** Første gang hentet
 - **2026-11-07** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c5554ebf09c683f67aa57d27c3faad241561691df518c038765b5c22fa3a0daf -->
+<!-- innholds-hash: 73c7533bdf1b8f18424b8cce9fdfe668fde0107656fb971c790d26c98e51f8cc -->
 
 # Bolig­sosialt arbeid
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/boligsosialt-arbeid/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:36:31Z
+- **Sist oppdatert i arkivet:** 2026-11-21T15:32:16Z
 
 ## Innhold
 
@@ -17,10 +17,6 @@ Målet for norsk boligpolitikk, og en av bærebjelkene i velferdspolitikken, er 
 Husbanken skal bidra til å forebygge at folk blir vanskeligstilte på boligmarkedet, og til at vanskeligstilte kan skaffe og beholde en egnet bolig. [Les mer om vårt samfunnsoppdrag](https://www.husbanken.no/om-husbanken/mal-og-strategier/).
 
 Husbanken skal være en faglig støttespiller for kommunene og sette den sosiale boligpolitikken ut i livet. Gjennom kommunestrategien får alle landets kommuner et helhetlig tilbud fra Husbanken, bestående av økonomiske virkemidler, veiledning, digitale plattformer, arrangementer, informasjon og opplæring, og nettverk.
-
-[Husbankens kommunestrategi](https://www.husbanken.no/boligsosialt-arbeid/kommunestrategi/)
-
-Et helhetlig tilbud av økonomiske virkemidler, aktiviteter, og verktøy til alle kommuner.
 
 [Eksempler og erfaringer](https://www.husbanken.no/eksempler/)
 
@@ -76,3 +72,4 @@ Boligprisen er en anerkjennelse til en aktør eller organisasjon for fremragende
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-21** Innhold endret (se git-historikk for diff)

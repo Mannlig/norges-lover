@@ -1,4 +1,4 @@
-<!-- innholds-hash: b641c6c7cfb0d2ca097556c6c636d06bb5de09646fc2340bf5c17c4a9e08d663 -->
+<!-- innholds-hash: 5243c2d085beae480d6b3f8b1bc42b6a9dd65e9c0dc8aa66f41d8502516b21ed -->
 
 # Lån og tilskudd til studentboliger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/bransje/studentboliger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T10:54:26Z
+- **Sist oppdatert i arkivet:** 2026-11-21T14:50:12Z
 
 ## Innhold
 
@@ -14,7 +14,7 @@
 
 Lån og tilskudd til studentboliger skal bidra til å gi studenter ved høyere utdanningsinstitusjoner og fagskoler i Norge et rimelig og forutsigbart boligtilbud, som et supplement til det private boligmarkedet.
 
-Søknadsfristen for tilskudd til studentboliger 2027 vil være den 16. desember 2026. Invitasjonsbrev vil sendes ut og publiseres på denne siden medio november
+Søknadsfristen for tilskudd til studentboliger 2027 er 16. desember 2026. Invitasjonsbrev vil sendes ut og finnes også under "Slik søker dere" på denne siden.
 
 Husbanken kan gi lån og tilskudd til
 
@@ -40,3 +40,4 @@ Sist oppdatert: 24.02.2026
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-21** Innhold endret (se git-historikk for diff)
