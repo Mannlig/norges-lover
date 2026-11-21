@@ -2,7 +2,7 @@
 
 Bostøtte, startlån og tilskudd fra Husbanken.
 
-**Antall dokumenter:** 664
+**Antall dokumenter:** 665
 
 ## Innhold
 
@@ -673,6 +673,7 @@ Bostøtte, startlån og tilskudd fra Husbanken.
 - [Kjøpe, bygge eller oppgradere bolig i en distriktskommune](person/situasjon/distrikt.md)
 - [Du trenger finansiering og støtte til å beholde boligen din](person/situasjon/finansiering.md)
 - [Du skal kjøpe, bygge eller oppgradere bolig](person/situasjon/kjope.md)
+- [Du leier eller leier ut en bolig](person/situasjon/leie.md)
 - [Har du behov for å endre boligen din fordi du er eldre eller har nedsatt funksjonsevne?](person/situasjon/tilpasning-oppgradering.md)
 - [Hva er din boligsituasjon?](person/situasjon.md)
 - [For deg som har søkt eller mottatt startlån](person/startlaan/har-sokt-startlaan.md)
