@@ -1,4 +1,4 @@
-<!-- innholds-hash: e2ddd4cdc11dba1ad2b9ce631bedcb45c293aa1200b35d4bf4b70d7cbe660708 -->
+<!-- innholds-hash: 75942c316dd0093764e3dd86c06710981f9766958ccb51bd9291a99f4cccc6c1 -->
 
 # Innledning til kapittel 16 Sikkerhetskontroll av heis
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/innledning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-13T19:04:00Z
+- **Sist oppdatert i arkivet:** 2026-11-21T03:18:09Z
 
 ## Innhold
 
@@ -199,13 +199,19 @@ Neste
 - [Skriv ut Kapittel 16 Sikkerhetskontroll av heis](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/innledning?subtype=chapter&print=true&/#autoprint)
 - [Skriv ut hele forskriften med veiledning](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/innledning?subtype=root&print=true&/#autoprint)
 
-Vis all veiledningstekst Lukk all veiledningstekst
+Veiledningstekst sist endret 18.11.26 Vis all veiledningstekst Lukk all veiledningstekst
 
 Kapittel 16 Sikkerhetskontroll av heis
 
 ### Innledning til kapittel 16 Sikkerhetskontroll av heis
 
-Reglene i dette kapitlet omfatter administrative bestemmelser om heis og løfteinnretninger. Det beskriver krav, ansvar, plikter og tiltak for å ivareta sikkerheten ved anlegg i driftsperioden.
+Reglene i dette kapitlet beskriver krav, ansvar, plikter og tiltak for å ivareta sikkerheten ved heis og løfteinnretninger i driftsperioden. Det gis også enkelte administrative bestemmelser. Bestemmelsene er gitt med hjemmel i pbl. § 29-9. Hvilke løfteinnretninger som omfattes av reglene er presisert i § 16-1.
+
+Heiser og løfteinnretninger er både produkter og byggtekniske installasjoner og reguleres i tillegg blant annet av byggteknisk forskrift §§ 15-9 til 15-15, forskrift om omsetning og dokumentasjon av heiser mv. og maskinforskriften.
+
+### Endringshistorikk
+
+- 18.11.26 Veiledningen er oppdatert som følge av forskriftsendring som trådte i kraft 1. juli 2026.
 
 ---
 *Automatisk hentet fra [DiBK](https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/16/innledning/) av norges-lover-bot.*
@@ -214,3 +220,4 @@ Reglene i dette kapitlet omfatter administrative bestemmelser om heis og løftei
 
 - **2026-05-16** Første gang hentet
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

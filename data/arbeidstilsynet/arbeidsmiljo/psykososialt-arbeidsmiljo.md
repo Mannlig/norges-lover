@@ -1,4 +1,4 @@
-<!-- innholds-hash: fc1e39cf67f10dadb10daef578f2698e4c8726a80c0afe0a61a4191fbf005b53 -->
+<!-- innholds-hash: 840717c5cd3dd19898edcda6fdc7c0aaefff98f2fbf9c117ee363124218a807b -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-11-13T22:59:40Z
+- **Sist oppdatert i arkivet:** 2026-11-21T06:54:33Z
 
 ## Innhold
 
@@ -68,6 +68,8 @@ Eksempler på et godt psykososialt arbeidsmiljø er når
 
 [Tydeligere regelverk fra 1. januar 2026 1. januar ble arbeidsmiljølovens krav til et fullt forsvarlig psykososialt arbeidsmiljø presisert. Endringene skal gjøre det enklere for arbeidsgivere å forstå hva psykososialt arbeidsmiljø kan handle om, og hvordan de kan sikre et godt og trygt arbeidsmiljø for sine ansatte.](https://www.arbeidstilsynet.no/nyheter/snart-blir-reglene-for-psykososialt-arbeidsmiljo-tydeligere/)
 
+[Flere aktuelle nyhetssaker](https://www.arbeidstilsynet.no/nyheter/)
+
 ### Det psykososiale arbeidsmiljøet skal være fullt forsvarlig
 
 Arbeidsmiljøloven krever at det psykososiale arbeidsmiljøet i virksomheten skal være fullt forsvarlig. Dette er arbeidsgiverens ansvar. Det betyr at arbeidstakerne ikke skal bli syke eller skadet av forhold i det psykososiale arbeidsmiljøet, og at virksomheten må arbeide systematisk for å håndtere risiko og forebygge uheldige belastninger.
@@ -102,23 +104,13 @@ Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelt
 
 ### Kommende kurs og webinar
 
-[Trondheim: Jobb forebyggende med psykososialt arbeidsmiljø – fra krav til praksis Statens hus, Prinsens gate 1A, Trondheim man. 16. nov. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/trondheim16nov-jobb-forebyggende-med-psykososialt-arbeidsmiljo--fra-krav-til-praksis/)
-
 [Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – fra krav til praksis Østensjøveien 32, Oslo tor. 26. nov. 09.00 - 11.30 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/oslo-tydeligere-regelverk-om-psykososialt-arbeidsmiljo--fra-krav-til-praksis-26nov/)
 
 [Trondheim: Jobb forebyggende med psykososialt arbeidsmiljø – fra krav til praksis Statens hus, Prinsens gate 1A, Trondheim man. 30. nov. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/trondheim30nov-jobb-forebyggende-med-psykososialt-arbeidsmiljo-fra-krav-til-praksis/)
 
+[Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – fra krav til praksis Østensjøveien 32, Oslo tir. 1. des. 09.00 - 11.30 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/oslo-tydeligere-regelverk-om-psykososialt-arbeidsmiljo--fra-krav-til-praksis-1des/)
+
 [Se alle våre kurs og webinar](https://www.arbeidstilsynet.no/kurs/)
-
-### Artikler om psykososialt arbeidsmiljø
-
-Nyhet [Fra krav til praksis: Jobb forebyggende med psykososialt arbeidsmiljø Hva kjennetegner et godt psykososialt arbeidsmiljø og hvordan kan dere finne tiltak som funker på arbeidsplassen deres? I november, desember og januar inviterer Arbeidstilsynet til gratis seminarer i Oslo, Trondheim, Bodø og Tromsø. Publisert 21.10.2026 Lesetid: 2 min](https://www.arbeidstilsynet.no/nyheter/fra-krav-til-praksis-jobb-forebyggende-med-psykososialt-arbeidsmiljo/)
-
-Nyhet [Er det de ansatte som må tåle mer eller jobben som må endres? Tre misforståelser om psykososialt arbeidsmiljø Psykososialt arbeidsmiljø har fått mye oppmerksomhet etter at reglene ble tydeligere ved årsskiftet. Men noen misforståelser går fortsatt igjen. Her rydder Arbeidstilsynet opp i tre av dem. Publisert 19.10.2026 Lesetid: 5 min](https://www.arbeidstilsynet.no/nyheter/er-det-de-ansatte-som-ma-tale-mer-eller-jobben-som-ma-endres-tre-misforstaelser-om-psykososialt-arbeidsmiljo/)
-
-[Innlegg: Ingen skal tåle vold og trusler på jobb – heller ikke i skolen En lærer blir slått. En assistent blir sparket. En miljøarbeider går hjem med en klump i magen etter nok en trusselsituasjon. Dette skjer i norsk skole. Publisert 28.09.2026](https://www.arbeidstilsynet.no/nyheter/innlegg-ingen-skal-tale-vold-og-trusler-pa-jobb--heller-ikke-i-skolen/)
-
-[Flere aktuelle saker](https://www.arbeidstilsynet.no/nyheter/)
 
 ### Det lønner seg å jobbe med arbeidsmiljøet
 
@@ -147,3 +139,4 @@ Fann du det du leitte etter?
 - **2026-10-21** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-13** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)

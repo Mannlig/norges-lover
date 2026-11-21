@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4d6483b445450bf55b8d3840c25ed511ab618829c236ad78f32ee43887a7b134 -->
+<!-- innholds-hash: f4922a670fb26d48484bb33047c07e04fc0d74dd762173371c0e05e1a9648a29 -->
 
 # Refusjon av kildeskatt på aksjeutbytte for utenlandske aksjonærer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/person/skatt/hjelp-til-riktig-skatt/aksjer-og-verdipapirer/om/redusert-kildeskatt-pa-aksjeutbytte/refusjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-18T18:24:14Z
+- **Sist oppdatert i arkivet:** 2026-11-21T01:58:32Z
 
 ## Innhold
 
@@ -222,7 +222,9 @@ Når du søker på vegne av en aksjonær, skal du fremlegge dokumentasjonen som 
 
 Det er mulig å sende inn søknader for flere aksjonærer samtidig (bulk). Filen skal være i XML-format i henhold til de tekniske spesifikasjonene.
 
-[Last ned XSD-filer](https://www.skatteetaten.no/globalassets/person/skatt/tema/aksjer/kildeskatt-pa-aksjeutbytte/portal-doc-v5.zip)
+[Last ned XSD-filer (gyldig til 05.01.2027)](https://www.skatteetaten.no/globalassets/person/skatt/tema/aksjer/kildeskatt-pa-aksjeutbytte/portal-doc-v5.zip)
+
+[Last ned XSD-filer (gyldig fra 06.01.2027)](https://www.skatteetaten.no/globalassets/person/skatt/tema/aksjer/kildeskatt-pa-aksjeutbytte/portal-doc-v6.zip)
 
 [Veiledning til bruk og opplastning av XSD](https://www.skatteetaten.no/globalassets/person/skatt/tema/aksjer/kildeskatt-pa-aksjeutbytte/rdt-portal-user-manual-version-28.08.2026.pdf)
 
@@ -273,3 +275,4 @@ Søknader som blir sendt til e-postadressen, vil ikke bli behandlet.
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
 - **2026-10-18** Innhold endret (se git-historikk for diff)
+- **2026-11-21** Innhold endret (se git-historikk for diff)
