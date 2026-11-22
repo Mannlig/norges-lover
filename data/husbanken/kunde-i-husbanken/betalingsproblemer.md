@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8e640bd806a77875c92f066b0152fd8f4eeeedae06b76da93a1779e9276b4e0b -->
+<!-- innholds-hash: e3e42794e3133dcda9f38e279a62c8d305abb9f01b0bda9064d4ea0c56e44ba6 -->
 
 # Har du fått betalings­­problemer?
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kunde-i-husbanken/betalingsproblemer/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T11:48:37Z
+- **Sist oppdatert i arkivet:** 2026-11-22T18:56:42Z
 
 ## Innhold
 
@@ -16,7 +16,7 @@ Hvis du har fått problemer med å betjene lånet ditt i Husbanken, så ta konta
 
 Har du fått 2. gangs varsel og ikke betalt innen fristen? Da har vi overført lånet ditt til Innkrevingsmyndigheten i Skatteetaten som du kan kontakt på telefon 75 14 90 00.
 
-Alle andre henvendelser skal til Husbanken. [Kontaktinformasjon til Husbanken](https://www.husbanken.no/om-husbanken/kontakt/).
+Alle andre henvendelser skal til Husbanken. [Kontaktinformasjon til Husbanken.](https://www.husbanken.no/om-husbanken/kontakt/)
 
 Hvis du har startlån, har du lånet i kommunen og ikke i Husbanken. Ta kontakt med kommunen eller bydelen din for hjelp.
 
@@ -45,3 +45,4 @@ Sist oppdatert: 15.03.2024
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-22** Innhold endret (se git-historikk for diff)

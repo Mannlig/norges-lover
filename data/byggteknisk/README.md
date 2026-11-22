@@ -2,7 +2,7 @@
 
 Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byggteknisk-forskrift-tek17/` er gjeldende TEK17; `regelverk/tek/` er den opphevede TEK10.
 
-**Antall dokumenter:** 737
+**Antall dokumenter:** 738
 
 ## Innhold
 
@@ -423,6 +423,7 @@ Byggtekniske krav og veiledere fra Direktoratet for byggkvalitet. `regelverk/byg
 - [Forslag til ny bestemmelse om solenergi i byggteknisk forskrift (TEK17) kapittel 14 Energi](regelverk/horinger/hoyringar/horing.solenergi.md)
 - [Høring. Tryggere bolighandel](regelverk/horinger/hoyringar/horing.tryggere-bolighandel.md)
 - [Høringer](regelverk/horinger/hoyringar/horinger.md)
+- [Høringsnotat   endringer i TEK17 § 7-4 Unntaksbestemmelse for utbygging i områder med skredfare fra overvåkede fjellpartier](regelverk/horinger/hoyringar/horingsnotat-endringer-i-tek17-7-4-unntaksbestemmelse-for-utbygging-i-omrader-med-skredfare-fra-overvakede-fjellpartier.md)
 - [Forslag til endringer i energikrav i byggteknisk forskrift](regelverk/horinger/hoyringar/horingsnotat-om-endringer-i-energikrav-i-byggteknisk-forskrift.md)
 - [Forslag til endringer i klimakrav i byggteknisk forskrift](regelverk/horinger/hoyringar/horingsnotat-om-klimakrav-i-byggteknisk-forskrift.md)
 - [Klimabaserte energikrav til bygg](regelverk/horinger/hoyringar/klimabaserte-energikrav-til-bygg.md)
