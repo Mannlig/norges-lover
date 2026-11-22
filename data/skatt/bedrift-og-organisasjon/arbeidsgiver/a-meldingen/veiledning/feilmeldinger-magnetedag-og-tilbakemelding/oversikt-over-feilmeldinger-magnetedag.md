@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1c2ef7fd51f780c29df40e04ee3a243653ce03baf6589956bed2cdf572f36a6d -->
+<!-- innholds-hash: 7cf97aba90b6d6221eea3604b8faa1d8fdbabd24f7f2c27186f596303751c61a -->
 
 # Oversikt over feilmeldinger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:32:01Z
+- **Sist oppdatert i arkivet:** 2026-11-22T07:05:09Z
 
 ## Innhold
 
@@ -43,8 +43,8 @@ Innsending og tekniske feil (13)
 - MAGNET_EDAG_107B [Ugyldig identifikator for underenheten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-identifikator-for-virksomheten-107b/)
 - MAGNET_EDAG-108 [Opplysninger om arbeidsforhold mangler](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/opplysninger-om-arbeidsforhold-mangler-108/)
 - MAGNET_EDAG-109A [Informasjon i meldingen stemmer ikke med informasjonen i Enhetsregisteret](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/informasjon-i-meldingen-stemmer-ikke-med-informasjonen-i-enhetsregisteret-109a/)
-- MAGNET_EDAG-114B [Ugyldig verdi for denne kalendermåneden](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-for-denne-kalendermaneden-114b/)
 - MAGNET_EDAG-110 [Startdato for arbeidsforholdet er endret fra forrige rapportering](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/startdato-for-arbeidsforholdet-er-endret-fra-forrige-rapportering-110/)
+- MAGNET_EDAG-114B [Ugyldig verdi for denne kalendermåneden](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-for-denne-kalendermaneden-114b/)
 - MAGNET_EDAG-114 [Ugyldig verdi](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-114/)
 - MAGNET_EDAG-115 [Ugyldig yrkeskode](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-yrkeskode-115/)
 - MAGNET_EDAG-115B [Ugyldig 7-siffret yrkeskode](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-7-siffret-yrkeskode-115b/)
@@ -158,8 +158,8 @@ Innsending og tekniske feil (13)
 - MAGNET_EDAG-510 [Ugyldig landkode for internasjonal identifikator](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-landkode-for-internasjonal-identifikator-510/)
 - MAGNET_EDAG-511 [Endring av arbeidsgiveravgift for periode lenger enn 3 år tilbake i tid](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/endring-av-aga-mer-enn-tre-aar/)
 - MAGNET_EDAG-512 [Endring av arbeidsgiveravgift eller finansskatt mer enn 5 år etter utgangen av skattleggingsperioden](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/endring-av-arbeidsgiveravgift-eller-finansskatt-mer-enn-5-ar-etter-utgangen-av-skattleggingsperioden-512/)
-- MAGNET_EDAG-513 [Ugyldig kombinasjon av inntekt og forskuddstrekk på Svalbard](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-kombinasjon-av-inntekt-og-forskuddstrekk-pa-svalbard-513/)
 - MAGNET_EDAG-514 [Ugyldig kombinasjon av inntekt og forskuddstrekk på Jan Mayen og bilandene](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-kombinasjon-av-inntekt-og-forskuddstrekk-pa-jan-mayen-og-bilandene-514/)
+- MAGNET_EDAG-513 [Ugyldig kombinasjon av inntekt og forskuddstrekk på Svalbard](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-kombinasjon-av-inntekt-og-forskuddstrekk-pa-svalbard-513/)
 - MAGNET_EDAG-516 [Eier av enkeltpersonforetak kan ikke levere a-melding med opplysninger om seg selv](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/eier-av-enkeltpersonforetak-kan-ikke-levere-a-melding-med-opplysninger-om-seg-selv-516/)
 - MAGNET_EDAG-515 [Inaktivt d-nummer](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/inaktivt-d-nummer-515/)
 - MAGNET-000001 [Innsending inneholder ingen a-melding](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/innsending-inneholder-ingen-a-melding-000001/)
@@ -194,3 +194,4 @@ Innsending og tekniske feil (13)
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e5c085a6d5511e1c57012390bf5c00ccd7a05311ce1506bc4b27fc2a1f6ea21e -->
+<!-- innholds-hash: e53d68594fb730a2eea02b3fa14ae54aacfdcb1b1bcd472e2c85feb86a7c5055 -->
 
 # Skattemelding for selskap
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/skatt/skattemelding-naringsdrivende/selskap/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:39:00Z
+- **Sist oppdatert i arkivet:** 2026-11-22T07:12:16Z
 
 ## Innhold
 
@@ -40,29 +40,13 @@ Skatteetaten sjekker automatisk at den som bruker systemet, er tildelt en rolle 
 
 Skal du levere skattemelding og næringsspesifikasjon på vegne av en bedrift, må du sørge for å ha riktige rettigheter.
 
-I løpet av 2026 erstattes de gamle Altinn II-rollene gradvis av tilgangspakker.
+For å få tilgang til skattemeldingen må du ha en av tilgangspakkene nedenfor, eller ha fått delegert tilgang til skattemeldingen som enkelttjeneste:
 
-Tilgangspakker som støttes i skattemeldingen:
-
-- Skatt næring (ny)
+- Skatt næring
 - Regnskapsfører med signeringsrett
 - Regnskapsførere uten signeringsrett
 - Ansvarlig revisor Revisormedarbeider
 - Revisorattesterer
-
-Disse rollene støttes i skattemeldingen:
-
-- Skatteforhold for privatpersoner (A0282) (ikke for aksjeselskap)
-- Begrenset signeringsrett (SISKD)
-- Regnskapsfører med signeringsrett (A0239)
-- Regnskapsførere uten signeringsrett (A0240)
-- Ansvarlig revisor (A0237)
-- Revisormedarbeider (A0238)
-- Revisorattesterer (A0298)
-
-Altinn-rollene erstattes av tilgangspakkene
-
-I en overgangsperiode støtter skattemeldingen både tilgangspakker og Altinn II-roller. Fra og med 2027 må du ha riktig tilgangspakke for å få tilgang.
 
 [Les mer om tilgangspakkene på Altinns hjelpesider](https://info.altinn.no/hjelp/)
 
@@ -177,3 +161,4 @@ Du finner også informasjon om ny skattemelding på [informasjonssiden for slutt
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-22** Innhold endret (se git-historikk for diff)

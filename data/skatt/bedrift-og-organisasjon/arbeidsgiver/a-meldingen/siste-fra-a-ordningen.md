@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4046378ce52edf67c20967cfc9c187f4b325d5bb55b1250d5a7ebc6c1f1e0796 -->
+<!-- innholds-hash: cc2be0106c55903ac430a78c2131439f9b3f98b2b4aa59dc2cc8908a109fae26 -->
 
 # Siste fra a-ordningen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:25:24Z
+- **Sist oppdatert i arkivet:** 2026-11-22T06:58:29Z
 
 ## Innhold
 
@@ -20,12 +20,13 @@ Alle endringer som er gjort i veiledningen til a-meldingen, finner du i [endring
 
 Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvordan du abonnerer på oppdateringer fra skatteetaten.no](https://www.skatteetaten.no/rss/)
 
-48 treff
+49 treff
 
 **Liste over Siste fra a-ordningen**
 
 |  | Type | Dato |
 | --- | --- | --- |
+| [Endring i tilgang til brev om utleggstrekk fra 1. desember](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/endring-i-tilgang-til-brev-om-utleggstrekk-fra-1.-desember/) | Nyhet | 06.11.2026 |
 | [Nye tilgangspakker for a-meldingen (oppdatert)](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/nye-tilgangspakker-for-a-meldingen/) | Nyhet | 30.09.2026 |
 | [Viktig informasjon: Altinn II stenges 15. juni](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/altinn-ii-stenges-15.-juni/) | Nyhet | 11.06.2026 |
 | [Hvordan oppgi feriepenger i a-meldingen](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/siste-fra-a-ordningen/hvordan-oppgi-feriepenger-i-a-meldingen/) | Nyhet | 08.06.2026 |
@@ -82,3 +83,4 @@ Du kan få varsel fra en RSS-leser når det publiseres noe nytt her. [Les om hvo
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-22** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 48afc1fa82a0560121121ad7b160c737ee3b977e2568fd438b1575704fe8219c -->
+<!-- innholds-hash: 74c076d5906b12341d76997ba9e8613d7da7b07519fcda49964e933eac363ae2 -->
 
 # Veiledning til a-meldingen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:31:20Z
+- **Sist oppdatert i arkivet:** 2026-11-22T07:04:28Z
 
 ## Innhold
 
@@ -22,11 +22,11 @@ Viktig informasjon
 
 #### Endringer i veiledningen
 
+- [Aktivitetspenger for unge](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/aktivitetspenger-for-unge/)
+- [Forholdet mellom stillingsprosent og fastlønn er ulogisk](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/forholdet-mellom-stillingsprosent-og-fastlonn-er-ulogisk-529/)
 - [Forskuddstrekk](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/forskuddstrekk-i-a-meldingen/)
 - [Ungdomsprogramytelse](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/ungdomsprogramytelse/)
 - [For arbeidstidsordning "døgnkontinuerligSkiftOgTurnus355" skal antall timer per uke for full stilling være 35,5](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/for-arbeidstidsordning-dognkontinuerligskiftogturnus355-skal-antall-timer-per-uke-for-full-stilling-vare-355-526c/)
-- [For arbeidstidsordning "helkontinuerligSkiftOgAndreOrdninger336" skal antall timer per uke for full stilling være mellom 28 og 33,6](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/for-arbeidstidsordning-helkontinuerligskiftogandreordninger336-skal-antall-timer-per-uke-for-full-stilling-vare-mellom-28-og-336-526b/)
-- [For arbeidstidsordning "offshore336" skal antall timer per uke for full stilling være mellom 28 og 33,6](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/for-arbeidstidsordning-offshore336-skal-antall-timer-per-uke-for-full-stilling-vare-mellom-28-og-336-526/)
 
 [Se alle oppdateringer](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/endringer-i-veiledningen/)
 
@@ -37,3 +37,4 @@ Viktig informasjon
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-22** Innhold endret (se git-historikk for diff)
