@@ -1,23 +1,19 @@
-<!-- innholds-hash: 3fcf4085a1b59f3d656d18acfbc531804263b567329b87b6f2a0a2d0fbaebc73 -->
+<!-- innholds-hash: 85d8b599ecb96fb526706628639b80f73b266d68cb4994c1143840244db0a84f -->
 
 # Arkiv - Sosialhjelp 1. - 2. tertial 2025 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/sosialhjelp/arkiv-sosialhjelp/arkiv-sosialhjelp-1.3.tertial-2025
-- **Sist oppdatert i arkivet:** 2026-10-12T00:00:12Z
+- **Sist oppdatert i arkivet:** 2026-11-23T00:42:09Z
 
 ## Innhold
 
-Publisert 23.02.2026 | Oppdatert 16.06.2026
+Publisert 23.02.2026 | Oppdatert 20.11.2026
 
 ## Arkiv - Sosialhjelp 1. - 2. tertial 2025
 
 Statistikk per 2. tertial 2025
-
-#### Pressemelding
-
-- [Flere mottar sosialhjelp, men veksten flater ut](https://www.nav.no/no/nav-og-samfunn/statistikk/flere-statistikkomrader/nyheter/flere-mottar-sosialhjelp-men-veksten-flater-ut)
 
 #### Statistikknotat
 
@@ -37,3 +33,4 @@ Tall fra den månedlige manuelle innrapporteringen fra et utvalg Nav-kontor anty
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)
