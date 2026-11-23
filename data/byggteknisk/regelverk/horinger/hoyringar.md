@@ -1,4 +1,4 @@
-<!-- innholds-hash: 3ea622c53df8aa796e5d27071c513cba5197ea5a58d396239675c098698ea861 -->
+<!-- innholds-hash: 259a7d333d11b8100a282fa8e83583b1d29d35a49375f4ccbf73ca76d6d40ef0 -->
 
 # Høringer
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T07:39:44Z
+- **Sist oppdatert i arkivet:** 2026-11-23T11:36:22Z
 
 ## Innhold
 
@@ -17,6 +17,10 @@
 ## Høringer
 
 Direktoratet for byggkvalitet gjennomfører høringer på oppdrag fra Kommunal- og distriktsdepartementet. Ønsker du innsyn i eldre høringer, ta kontakt på post@dibk.no.
+
+### Pågående høringer
+
+- [Høringsfrist 18.02.2027 Status På høring Publisert 18.11.2026 Høringsnotat endringer i TEK17 § 7-4 Unntaksbestemmelse for utbygging i områder med skredfare fra overvåkede fjellpartier](https://www.dibk.no/regelverk/horinger/hoyringar/horingsnotat-endringer-i-tek17-7-4-unntaksbestemmelse-for-utbygging-i-omrader-med-skredfare-fra-overvakede-fjellpartier)
 
 ### Avsluttet
 
@@ -59,3 +63,4 @@ Direktoratet for byggkvalitet gjennomfører høringer på oppdrag fra Kommunal- 
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-07** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

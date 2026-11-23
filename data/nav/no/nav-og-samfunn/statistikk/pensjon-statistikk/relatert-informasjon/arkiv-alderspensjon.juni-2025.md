@@ -1,23 +1,19 @@
-<!-- innholds-hash: 696b96034e72900c2a811a7b93b806a128ac3cd7eac843eb2be8268ba14c683a -->
+<!-- innholds-hash: 5cd66b0bebe2d7b1142e18be7678cce2cfefd0256118ceb6ecf627cfe9dbc6cf -->
 
 # Arkiv - Alderspensjon. Juni 2025. - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-alderspensjon.juni-2025
-- **Sist oppdatert i arkivet:** 2026-10-31T14:11:26Z
+- **Sist oppdatert i arkivet:** 2026-11-23T13:28:42Z
 
 ## Innhold
 
-Publisert 07.11.2025 | Oppdatert 22.04.2026
+Publisert 07.11.2025 | Oppdatert 09.11.2026
 
 ## Arkiv - Alderspensjon. Juni 2025.
 
 Statistikk pr. 30. juni 2025
-
-#### Pressmelding
-
-- [1 av 5 pensjonister er delvis skjermet mot levealdersjusteringen](https://www.nav.no/_/error/404?message=Not+Found.+3to58adlj68ci9am1ffr62p92r)
 
 #### Årsnotat
 
@@ -94,3 +90,4 @@ Rettelse: Tabellen "Minstepensjonister. Kjønn og alder. Juni 2015- 2025" er ret
 
 - **2026-10-12** Første gang hentet
 - **2026-10-31** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

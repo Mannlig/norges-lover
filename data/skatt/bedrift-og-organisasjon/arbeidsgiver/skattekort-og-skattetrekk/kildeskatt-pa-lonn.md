@@ -1,4 +1,4 @@
-<!-- innholds-hash: 207d126ca5948e6ec64f3d942e93d7733008a5c525631e2f71dd19285f706309 -->
+<!-- innholds-hash: fe36e5532b3ff680a6555931c9127ad63b4f57bfa86809bc9cc4d47fb9f3f9c9 -->
 
 # Arbeidsgiver med arbeidstakere i kildeskatt på lønn-ordningen
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/kildeskatt-pa-lonn/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-19T06:28:12Z
+- **Sist oppdatert i arkivet:** 2026-11-23T10:45:56Z
 
 ## Innhold
 
@@ -81,7 +81,7 @@ Hvis du som arbeidsgiver [søker om skattekort for arbeidstakeren](https://www.s
 
 [Veiledning til a-meldingen: Kildeskatt på lønn](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/spesielle-grupper/kildeskatt-pa-lonn/)
 
-[Kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/person/utenlandsk/skattekort/kildeskatt-pa-lonn/)
+[Kildeskatt på lønn for utenlandske arbeidstakere](https://www.skatteetaten.no/Recycle-Bin/utenlandsk/skattekort/kildeskatt-pa-lonn/)
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/kildeskatt-pa-lonn/) av norges-lover-bot.*
@@ -91,3 +91,4 @@ Hvis du som arbeidsgiver [søker om skattekort for arbeidstakeren](https://www.s
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

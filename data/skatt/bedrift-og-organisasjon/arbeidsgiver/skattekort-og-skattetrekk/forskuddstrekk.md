@@ -1,4 +1,4 @@
-<!-- innholds-hash: c79d8275e686c7bbb713cb04ad2059207598baf79250d09347e0220ef342e6e5 -->
+<!-- innholds-hash: 92360deb515cd1f593cbce362207669fd41b258bee51379ec71093290d0ebc5d -->
 
 # Foreta forskuddstrekk
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/skattekort-og-skattetrekk/forskuddstrekk/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:18:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T10:44:52Z
 
 ## Innhold
 
@@ -47,7 +47,7 @@ Når vi vurderer søknadene, ser vi på arbeidsgiverens betalingshistorikk og ev
 
 #### Dette må søknaden inneholde
 
-Hvis dere mener at virksomheten oppfyller vilkårene over, må dere sende oss en søknad som dokumenterer usikkerheten. Søkeren må kunne representere virksomheten søknaden gjelder. Vi vurderer og behandler hver søknad individuelt for hvert enkelt organisasjonsnummer.
+Hvis dere mener at virksomheten oppfyller vilkårene over, må dere sende oss en søknad som begrunner usikkerheten. Søkeren må kunne representere virksomheten søknaden gjelder. Vi vurderer og behandler hver søknad individuelt for hvert enkelt organisasjonsnummer.
 
 Søknaden må inneholde:
 
@@ -55,7 +55,10 @@ Søknaden må inneholde:
 - kontaktinformasjon til den som er ansvarlig for søknaden
 - en konkret begrunnelse for søknaden
 - et anslag på hvor mange ansatte det gjelder, og hvor stor andel av arbeidsstokken de utgjør
-- ansattlister, prosjektkontrakter, arbeidskontrakter eller dokumentasjon fra lønnsrapporteringssystemet som underbygger usikkerheten
+- opplysninger om dato for lønnsutbetaling, og om de ansatte mottar lønn på forskudd eller etterskudd
+- eventuell dokumentasjon som underbygger usikkerheten
+
+Når vi vurderer søknadene, ser vi på arbeidsgiverens betalingshistorikk og eventuelle ubetalte krav.
 
 #### Slik sender dere inn søknaden
 
@@ -68,8 +71,6 @@ Søknaden må inneholde:
 #### Søke via advokat eller rådgiver
 
 Dere kan sende søknaden gjennom en advokat, rådgiver eller annen representant. Hvis fullmektigen ikke er advokat, revisor eller regnskapsfører, må dere legge ved en skriftlig fullmakt fra virksomheten som søker.
-
-Erklæringer eller bekreftelser fra advokat, revisor eller rådgiver kan være støttedokumentasjon, men er ikke nok alene. Dere må dokumentere at det er reell usikkerhet om trekkplikten, slik at vi kan etterprøve opplysningene i erklæringen.
 
 Hver virksomhet må sende inn en egen søknad med sine egne opplysninger.
 
@@ -97,3 +98,4 @@ Skattebetalingsloven (kap. 5 § 5-5, 2. ledd) forplikter arbeidsgiver til å tre
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

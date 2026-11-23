@@ -1,4 +1,4 @@
-<!-- innholds-hash: f63621675dc9cc62692779907867259b094c3605a0293d3d27295d1f3f9fbfe4 -->
+<!-- innholds-hash: b46cc427097e79bd39fedad8b5a30ed97c42ebe47770c41f73688228e2e51700 -->
 
 # Bruk av organisatoriske sikringstiltak for flom, stormflo og skred
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/horinger/hoyringar/bruk-av-organisatoriske-sikringstiltak-for-flom-stormflo-og-skred/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-11-15T09:35:17Z
+- **Sist oppdatert i arkivet:** 2026-11-23T11:37:09Z
 
 ## Innhold
 
@@ -17,7 +17,7 @@
 
 ## Bruk av organisatoriske sikringstiltak for flom, stormflo og skred
 
-- Høring åpnet 06.06.2025 Høringsbrev På oppdrag fra Kommunal- og distriktsdepartementet (KDD) sender Direktoratet for byggkvalitet på høring forslag om endring av byggteknisk forskrift (TEK17) kapittel 7 Sikkerhet mot naturpåkjenninger, når det gjelder bruk av organisatoriske sikringstiltak. Høringsforslaget innebærer at det i særskilte tilfeller åpnes for å oppfylle kravene til sikkerhet mot flom, stormflo og skred ved bruk av organisatoriske tiltak, som et supplement til permanente sikringstiltak. Formålet med endringene er å legge til rette for utvikling av lokalsamfunn og å tilrettelegge for verdiskaping i områder med naturfarer. Høringssvar ønskes mottatt i [direktoratets elektroniske høringsløsning](https://hoering.dibk.no/hoering/3507). Vi ber om at høringsinstansene bare gir innspill til forslagene som er på høring. Alle som ønsker kan sende inn høringsuttalelse selv om de ikke står [oppført i høringslisten.](https://www.dibk.no/regelverk/horinger/hoyringar/bruk-av-organisatoriske-sikringstiltak-for-flom-stormflo-og-skred/_/error/404?message=Not+Found.+4577euc39a8m6r6k9ecg01v6ga) Høringsfrist Høringsfristen er 3. oktober 2025. Spørsmål til høringen kan rettes til fagdirektør Marit Langen. Med hilsen Per-Arne Horne direktør Hanne Kofstadmoen enhetsdirektør [Les høringsdokumentene](https://hoering.dibk.no/hoering/3507)
+- Høring åpnet 06.06.2025 Høringsbrev På oppdrag fra Kommunal- og distriktsdepartementet (KDD) sender Direktoratet for byggkvalitet på høring forslag om endring av byggteknisk forskrift (TEK17) kapittel 7 Sikkerhet mot naturpåkjenninger, når det gjelder bruk av organisatoriske sikringstiltak. Høringsforslaget innebærer at det i særskilte tilfeller åpnes for å oppfylle kravene til sikkerhet mot flom, stormflo og skred ved bruk av organisatoriske tiltak, som et supplement til permanente sikringstiltak. Formålet med endringene er å legge til rette for utvikling av lokalsamfunn og å tilrettelegge for verdiskaping i områder med naturfarer. Høringssvar ønskes mottatt i [direktoratets elektroniske høringsløsning](https://hoering.dibk.no/hoering/3507). Vi ber om at høringsinstansene bare gir innspill til forslagene som er på høring. Alle som ønsker kan sende inn høringsuttalelse selv om de ikke står [oppført i høringslisten.](https://www.dibk.no/regelverk/horinger/hoyringar/bruk-av-organisatoriske-sikringstiltak-for-flom-stormflo-og-skred/_/error/404?message=Not+Found.+2s620tmim48k4ohe0r528652ob) Høringsfrist Høringsfristen er 3. oktober 2025. Spørsmål til høringen kan rettes til fagdirektør Marit Langen. Med hilsen Per-Arne Horne direktør Hanne Kofstadmoen enhetsdirektør [Les høringsdokumentene](https://hoering.dibk.no/hoering/3507)
 - Høringsfrist 03.10.2025 Vi har mottatt 36 svar. Høringen er nå avsluttet. Les svarene Lukk svarene Offentlig instans 28 svar Svar med merknader Svar uten merknader Organisasjon/virksomhet 8 svar Svar med merknader
   - 10.11.2025 [Akershus fylkesting](https://hoering.dibk.no/hoering/3507/uttalelse/e47e0f2a-382c-4f1a-883b-26d8cf1c036d)
   - 23.10.2025 [Trondheim kommune](https://hoering.dibk.no/hoering/3507/uttalelse/700af4ed-2400-4a83-af3b-f323a9b2575e)
@@ -69,3 +69,4 @@
 - **2026-10-30** Innhold endret (se git-historikk for diff)
 - **2026-11-07** Innhold endret (se git-historikk for diff)
 - **2026-11-15** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

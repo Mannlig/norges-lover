@@ -1,4 +1,4 @@
-<!-- innholds-hash: e6b7c218e53b1e52f857fbbe4d53c452f52e07225b3744f114e6c588e8721433 -->
+<!-- innholds-hash: 7a869d8c7867b44eb55b3a3d2f4e701952fdfda531f2f6c8f89806ad6ecf7e47 -->
 
 # Lever mva-melding for VOEC
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/utland/e-handel-voec/mva-melding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:57:26Z
+- **Sist oppdatert i arkivet:** 2026-11-23T10:24:00Z
 
 ## Innhold
 
@@ -37,12 +37,6 @@ Du skal alltid levere mva-melding, også om du ikke har solgt noe i løpet av kv
 
 Hvis fristen faller på en lørdag eller søndag, er fristen første påfølgende hverdag.
 
-20
-
-OKT
-
-Mva-melding for VOEC – frist for levering og betaling 3. kvartal
-
 - Den du skal gi tilgang til må først [opprette en VOEC-bruker og logge seg inn](https://voec.skatteetaten.no/web/voec/).
 - Bruk personens VOEC-brukernavn for å gi tilgang til bedriften.
 - Når du har gitt tilgang til en ny person, har de tilgang til å rapportere og gjøre andre endringer på samme nivå som deg.
@@ -54,3 +48,4 @@ Mva-melding for VOEC – frist for levering og betaling 3. kvartal
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

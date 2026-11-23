@@ -1,11 +1,11 @@
-<!-- innholds-hash: b57bb1755cf3e4c8b46eb005b0ffc21197a01699393d60e957e1c15609857f2f -->
+<!-- innholds-hash: 00ca13f967a2ebb8bf9ddb6478cf7b8fef344a519469dde4ec1326e725c39fc5 -->
 
 # Arkiv - Alderspensjon. September 2025. - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-alderspensjon.september-2025
-- **Sist oppdatert i arkivet:** 2026-10-12T00:56:55Z
+- **Sist oppdatert i arkivet:** 2026-11-23T14:58:23Z
 
 ## Innhold
 
@@ -17,7 +17,7 @@ Statistikk per 30. september 2025
 
 #### Pressmelding
 
-- [1 av 20 som mottar alderspensjon fra Nav er bosatt i utlandet](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/nyheter/1-av-20-som-mottar-alderspensjon-fra-nav-er-bosatt-i-utlandet)
+- [1 av 20 som mottar alderspensjon fra Nav er bosatt i utlandet](https://www.nav.no/_/error/404?message=Not+Found.+1d1vi87blh9lsqrs4ekhbkbnl7)
 
 #### Årsnotat
 
@@ -94,3 +94,4 @@ Rettelse: Tabellen "Minstepensjonister. Kjønn og alder. September 2015- 2025" e
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

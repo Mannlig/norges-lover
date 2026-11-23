@@ -1,4 +1,4 @@
-<!-- innholds-hash: 89eef254990ca7c6a1df6d2b13488d1941d1f38463b7ad76da940354a6fe6040 -->
+<!-- innholds-hash: a537f0c3634806112dfb327b65a20edd1c11b7bba6020ddab3c1899cc67b7734 -->
 
 # Kompensasjonsmelding for merverdiavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/kompensasjonsmelding/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T04:56:21Z
+- **Sist oppdatert i arkivet:** 2026-11-23T10:22:56Z
 
 ## Innhold
 
@@ -99,12 +99,6 @@ Hvis revisor finner feil og må avvise kravet ditt, må du legge inn kravet på 
 
 Fristene for å sende inn kompensasjonsmelding er annenhver måned, og delt opp i terminer. Du kan tidligst levere krav om kompensasjon 40 dager før fristen for hver termin.
 
-12
-
-OKT
-
-Merverdiavgift, kompensasjonsmelding – frist for levering 4. termin
-
 10
 
 DES
@@ -138,6 +132,8 @@ Det er virksomhetens ansvar å sørge for at revisor får riktige tilganger. Gi 
 - Ansvarlig revisor
 - Mva-kompensasjon revisorattesterer
 
+[Slik gir du fullmakt til tilgangspakke i Altinn](https://info.altinn.no/hjelp/ny-tilgangsstyring/tilgangspakker/)​
+
 Logg inn:
 
 [Lever kompensasjonsmelding for merverdiavgift](https://skatt.skatteetaten.no/web/mva/)
@@ -154,6 +150,10 @@ Hvis du har en av disse tilgangspakkene kan du fylle ut kompensasjonsmeldingen, 
 - Ansvarlig revisor
 - Regnskapsfører uten signeringsrettighet
 - Revisormedarbeider
+
+Har du ikke tilgang?​
+
+⁠[Slik ber du om fullmakt til tilgangspakke i Altinn](https://info.altinn.no/hjelp/ny-tilgangsstyring/be-om-fullmakt/hvordan-be-om-fullmakt/)​
 
 Frem til 31 desember 2026 kan du:
 
@@ -180,6 +180,10 @@ Du trenger en av disse tilgangspakkene:
 - Ansvarlig revisor
 - Mva-kompensasjon revisorattesterer
 
+Har du ikke tilgang?⁠​
+
+[Slik ber du om fullmakt til tilgangspakke i Altinn](https://info.altinn.no/hjelp/ny-tilgangsstyring/be-om-fullmakt/hvordan-be-om-fullmakt/)​
+
 #### Regelverk
 
 - [Om begrensninger i kompensasjonsretten i merverdiavgiftskompensasjonsloven § 4](https://lovdata.no/lov/2003-12-12-108/%C2%A74)
@@ -194,3 +198,4 @@ Du trenger en av disse tilgangspakkene:
 - **2026-05-20** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)
