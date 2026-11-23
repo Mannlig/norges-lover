@@ -1,4 +1,4 @@
-<!-- innholds-hash: 40bf843cf966dbf40e785beceba502f7155190f5194f00b2ebcd1008e4d88332 -->
+<!-- innholds-hash: b82fa9e13f127734630ad31103790f4741b3259783eafdc3648a415c7e042fe0 -->
 
 # Desse fekk tilskot til bustadtiltak i distrikta i 2024
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/lan-og-tilskudd/boligtiltak/tilskudd-til-boligtiltak-i-distriktene-i-2024/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:54:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T22:02:59Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Husbanken og Distriktssenteret har saman valt ut dei 25 prosjekta som får tilsk
 
 Desse prosjekta fekk tilskot i 2024:
 
-Sist oppdatert: 10.09.2024
+Sist oppdatert: 18.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/lan-og-tilskudd/boligtiltak/tilskudd-til-boligtiltak-i-distriktene-i-2024/) av norges-lover-bot.*
@@ -26,3 +26,4 @@ Sist oppdatert: 10.09.2024
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: c533ecb794e24e2f9a41c751da71bec5d41b41d9f626830e255b6670b37d60c1 -->
+<!-- innholds-hash: ec71a79a4a6d5279a0237d57120962584f23c95afe7974b92f99550b66f5f5c5 -->
 
 # Endringer i integreringsloven mv. (økt arbeidsretting og formell opplæring i introduksjonsprogrammet)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 81 L (2024-2025), Innst. 410 L (2024-2025), Lovvedtak 115 (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Sysselsetting, Innvandrere, Videregående skoler, Lokalforvaltning
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:14:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102924
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,36 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 7,
+      "navn": "Sysselsetting",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 18,
+      "id": 18,
+      "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 32,
+      "id": 158,
+      "navn": "Videregående skoler",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 184,
+      "id": 184,
+      "navn": "Lokalforvaltning",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 81 L (2024-2025), Innst. 410 L (2024-2025), Lovvedtak 115 (2024-2025)",
   "id": 102924,
@@ -60,7 +89,7 @@
     {
       "doedsdato": null,
       "etternavn": "Myrli",
-      "foedselsdato": "/Date(52009200000+0200)/",
+      "foedselsdato": "/Date(52005600000+0200)/",
       "fornavn": "Sverre",
       "id": "SMY",
       "kjoenn": 2,
@@ -89,3 +118,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: fa0d0e8c5f820e7ffe01188426c66ab45366fcdcaeb970e1093ea11c5e56a41a -->
+<!-- innholds-hash: 0efcb0052482d61a111f8e76ab5642455655521450ea7c6c01a1016ffc316cdd -->
 
 # Endringer i forsvarsloven mv. (fjerning av plikten til å fratre ved særaldersgrense og innføring av åremål) og endring i ordningen for militært tilsatte (omlegging av avskjed med redusert lønn til Forsvarets sluttvederlag)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 102 LS (2024-2025), Innst. 509 L (2024-2025), Lovvedtak 86 (2024-2025)
 - **Komité:** Utenriks- og forsvarskomiteen
-- **Emner:** 
+- **Emner:** Statens personalpolitikk, Arbeidsvilkår, Militært personell
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102939
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 155,
+      "id": 44,
+      "navn": "Statens personalpolitikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 5,
+      "id": 94,
+      "navn": "Arbeidsvilkår",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 59,
+      "id": 193,
+      "navn": "Militært personell",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 102 LS (2024-2025), Innst. 509 L (2024-2025), Lovvedtak 86 (2024-2025)",
   "id": 102939,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

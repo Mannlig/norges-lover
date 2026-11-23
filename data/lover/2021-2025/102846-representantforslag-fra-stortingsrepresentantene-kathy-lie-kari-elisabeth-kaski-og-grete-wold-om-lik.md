@@ -1,4 +1,4 @@
-<!-- innholds-hash: cc4fb0485b84673f1a2f35b7a39e38d77f816d24cee892b65fa9416f1bee9329 -->
+<!-- innholds-hash: 1aaf9b7adf4f7b185a5d8e31eea3c4ad428351ad43487586fc09c1ad4b6ddd8d -->
 
 # Representantforslag fra stortingsrepresentantene Kathy Lie, Kari Elisabeth Kaski og Grete Wold om likestilling av fører- og servicehunder i spørsmål om båndtvang
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:160 L (2024-2025), Innst. 309 L (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** 
+- **Emner:** Funksjonshemmede, Husdyr
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102846
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 4,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 24,
+      "id": 49,
+      "navn": "Funksjonshemmede",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 129,
+      "navn": "Husdyr",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [
     {
       "doedsdato": null,
@@ -128,3 +143,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

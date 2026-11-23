@@ -1,4 +1,4 @@
-<!-- innholds-hash: f730f23430e02d9f48b51c210137379e2c2bae39a79ced9cf25edb14e81f0609 -->
+<!-- innholds-hash: 8412bd9d52137a1111165a36fec0b98ab426b66d6b50e4a94d0b694608e6417a -->
 
 # Representantforslag fra stortingsrepresentantene Mona Fagerås og Andreas Sjalg Unneland om å nå salgsmålene for elektriske vare- og lastebiler
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:163 S (2024-2025), Innst. 470 S (2024-2025)
 - **Komité:** Transport- og kommunikasjonskomiteen
-- **Emner:** Forurensning, Vegtrafikk
+- **Emner:** Forurensning, Vegtrafikk, Elektrisitet, Avgifter
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:14:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102849
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,20 @@
       "hovedemne_id": 2,
       "id": 47,
       "navn": "Vegtrafikk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
       "underemne_liste": []
     }
   ],
@@ -124,3 +138,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

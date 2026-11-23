@@ -1,4 +1,4 @@
-<!-- innholds-hash: df39280adcf4995b2e7769b3507b84be63c12ec4cc96953de97f6c2a9512ca8d -->
+<!-- innholds-hash: d244b2bdd7ee9de4c4a3937a083b15c7f2e4a51bc8a8f1a9d0b91489edd47d1d -->
 
 # Endringer i lov om skipssikkerhet og samtykke til godkjennelse av EØS-komiteens beslutning nr. 326/2023 om innlemmelse i EØS-avtalen av forordning (EF) nr. 391/2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte skip
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 100 LS (2024-2025), Innst. 405 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Sjøfart, Sikkerhet til sjøs, Eu/eøs
+- **Emner:** Sikkerhet til sjøs, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102909
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,13 +26,6 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
   "emne_liste": [
-    {
-      "er_hovedemne": false,
-      "hovedemne_id": 2,
-      "id": 143,
-      "navn": "Sjøfart",
-      "underemne_liste": []
-    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 181,
@@ -92,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09219e139cfde1e706c8770cd4298c62769c2abfdc87e4366c8a85925cc9be3e -->
+<!-- innholds-hash: 88a79e22fbe885caa8a0f855e8815dca3ceace0f89b84af957606ba9e171e595 -->
 
 # Representantforslag fra stortingsrepresentantene Seher Aydar og Marie Sneve Martinussen om å gjennomføre en ordentlig tannhelsereform
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:157 S (2024-2025), Innst. 458 L (2024-2025), Lovvedtak 104 (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Helsevesen
+- **Emner:** Helsevesen, Priser og konkurranseforhold, Trygder
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:14:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102830
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,20 @@
       "hovedemne_id": 61,
       "id": 61,
       "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 186,
+      "id": 186,
+      "navn": "Trygder",
       "underemne_liste": []
     }
   ],
@@ -117,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

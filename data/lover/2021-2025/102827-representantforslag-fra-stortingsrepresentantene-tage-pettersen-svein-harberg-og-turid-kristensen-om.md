@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a358952e09ee29d1a0407282c27637b8e769dd6d55a071d0c7c1f471f673081 -->
+<!-- innholds-hash: f675765b831539bd950f76130068d728e93b883e646f423036a5d83cd10f23d2 -->
 
 # Representantforslag fra stortingsrepresentantene Tage Pettersen, Svein Harberg og Turid Kristensen om å innlemme Svalbard i Norsk filminstitutts forskrifter
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:154 S (2024-2025), Innst. 383 S (2024-2025)
 - **Komité:** Familie- og kulturkomiteen
-- **Emner:** Kultur
+- **Emner:** Kunst, Svalbard
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102827
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,17 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
-      "er_hovedemne": true,
+      "er_hovedemne": false,
       "hovedemne_id": 6,
-      "id": 6,
-      "navn": "Kultur",
+      "id": 68,
+      "navn": "Kunst",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 175,
+      "id": 176,
+      "navn": "Svalbard",
       "underemne_liste": []
     }
   ],
@@ -136,3 +143,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

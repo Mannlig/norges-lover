@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7d66b1891f87735912736930753e7376963147cde47f58fb70b464d855a52260 -->
+<!-- innholds-hash: 22cedec04625874e7c0e31c9ff1fc219f278fa119596ea3954bfeb7ef70e6057 -->
 
 # Dyrevelferd
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 8 (2024-2025), Innst. 200 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Naturvern, Husdyr, Reindrift, Veterinærvesen
+- **Emner:** Naturvern, Havbruk, Husdyr, Reindrift, Veterinærvesen
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101263
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 139,
       "id": 23,
       "navn": "Naturvern",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 8,
+      "id": 92,
+      "navn": "Havbruk",
       "underemne_liste": []
     },
     {
@@ -99,3 +106,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e8ed21ef8abadd28908a0e315826e7b232b718a7a703cf84221c2ac5d5d60b93 -->
+<!-- innholds-hash: eb0681f099186a3a58e8cf3b8b1b9f7b81473aac6b05e0320b766ebf07bf44ae -->
 
 # Endringer i lov om medisinsk utstyr (gjennomføring av endringsforordninger (EU) 2023/607 og (EU) 2023/2197 om medisinsk utstyr i norsk rett) og samtykke til godkjenning av EØS-komiteens beslutninger nr. 275/2023 og 23/2024 om innlemmelse i EØS-avlaten av forordningene
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 101 LS (2024-2025), Innst. 498 L (2024-2025), Lovvedtak 103 (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** 
+- **Emner:** Helsevesen, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:14:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102933
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,22 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 61,
+      "id": 61,
+      "navn": "Helsevesen",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 173,
+      "navn": "Eu/eøs",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 101 LS (2024-2025), Innst. 498 L (2024-2025), Lovvedtak 103 (2024-2025)",
   "id": 102933,
@@ -70,3 +85,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

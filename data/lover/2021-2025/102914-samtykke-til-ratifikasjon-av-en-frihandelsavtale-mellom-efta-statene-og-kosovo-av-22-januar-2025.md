@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6563a6874e1294e1b8f8c6a9029bb465a8a00b617fa14606fc783a584136c910 -->
+<!-- innholds-hash: c35c2cddeb46816c1d2db3db92111dd336c573ee0b032206457c77585f598a2e -->
 
 # Samtykke til ratifikasjon av en frihandelsavtale mellom EFTA-statene og Kosovo av 22. januar 2025
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 98 S (2024-2025), Innst. 261 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Utenrikshandel, Traktater
+- **Emner:** Utenrikshandel, Traktater, Økonomisk samarbeid
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102914
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 163,
       "id": 166,
       "navn": "Traktater",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 172,
+      "navn": "Økonomisk samarbeid",
       "underemne_liste": []
     }
   ],
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

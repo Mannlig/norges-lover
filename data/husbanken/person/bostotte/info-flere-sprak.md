@@ -1,4 +1,4 @@
-<!-- innholds-hash: b44c712cf9414004d11d2077c46617ea622e9ee18eb47303b2fecb180f1ed38b -->
+<!-- innholds-hash: 68ebea35639c34ce326a5928b6e51b28231464403d274e63f532dd7e9f05cf81 -->
 
 # Informasjon om bostøtte for ukrainske flyktninger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/person/bostotte/info-flere-sprak/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:43:12Z
+- **Sist oppdatert i arkivet:** 2026-11-23T21:54:33Z
 
 ## Innhold
 
@@ -29,8 +29,6 @@ Her finner du både kort innføring i bostøtte og utfyllende informasjon om reg
 - [Положення про надання житлової субсидії (PDF)](https://nedlasting.husbanken.no/Filer/9e6u.pdf)
 - [Нормативные акты о жилищных пособиях (PDF)](https://nedlasting.husbanken.no/Filer/9e6r.pdf)
 
-[More information about housing allowance in English](https://www.husbanken.no/english/housing-allowance/)
-
 Sist oppdatert: 27.06.2023
 
 ---
@@ -39,3 +37,4 @@ Sist oppdatert: 27.06.2023
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

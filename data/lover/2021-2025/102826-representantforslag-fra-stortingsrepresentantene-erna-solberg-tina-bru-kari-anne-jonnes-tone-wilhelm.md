@@ -1,4 +1,4 @@
-<!-- innholds-hash: f69677a28fb6daf2112efc7c51057a121e626f22f59da1a189a8ab9327d453bf -->
+<!-- innholds-hash: 8644d191aa7a9671cb1e09b263dc5b717fd1c0ec117a63aabd93d23359c2a63e -->
 
 # Representantforslag fra stortingsrepresentantene Erna Solberg, Tina Bru, Kari-Anne Jønnes, Tone Wilhelmsen Trøen og Sveinung Stensland om strategi for livsvitenskapsnæringen i Norge
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:153 S (2024-2025), Innst. 384 S (2024-2025)
 - **Komité:** Helse- og omsorgskomiteen
-- **Emner:** Forskning, Helsevesen, Næringsutvikling
+- **Emner:** Internasjonalt samarbeid, Forskning, Kommuner, Skattefradrag, Helsevesen, Næringsutvikling, Kommunikasjonsteknologi
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102826
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,31 @@
   "dokumentgruppe": 4,
   "emne_liste": [
     {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
       "er_hovedemne": true,
       "hovedemne_id": 45,
       "id": 45,
       "navn": "Forskning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 52,
+      "navn": "Kommuner",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 57,
+      "navn": "Skattefradrag",
       "underemne_liste": []
     },
     {
@@ -45,6 +66,13 @@
       "hovedemne_id": 113,
       "id": 114,
       "navn": "Næringsutvikling",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 2,
+      "id": 179,
+      "navn": "Kommunikasjonsteknologi",
       "underemne_liste": []
     }
   ],
@@ -188,3 +216,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

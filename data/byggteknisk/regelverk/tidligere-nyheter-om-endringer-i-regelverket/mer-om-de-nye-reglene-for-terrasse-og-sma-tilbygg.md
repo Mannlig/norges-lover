@@ -1,4 +1,4 @@
-<!-- innholds-hash: fd6a85d57d4b91737769527386bef567f957810dad0b7ebaf4868b2f42f1f1d4 -->
+<!-- innholds-hash: 8a7d7c88fc388c3095235313a9bce5b5bc3ad8ae9b322db1f344727b55d80dba -->
 
 # Mer om de nye reglene for terrasse og små tilbygg
 
@@ -7,7 +7,7 @@
 - **Kilde:** Direktoratet for byggkvalitet (DiBK) – https://www.dibk.no/regelverk/tidligere-nyheter-om-endringer-i-regelverket/mer-om-de-nye-reglene-for-terrasse-og-sma-tilbygg/
 - **Sist oppdatert (kilde):** Publisert
         20.05.2021
-- **Sist oppdatert i arkivet:** 2026-10-08T02:05:39Z
+- **Sist oppdatert i arkivet:** 2026-11-23T19:35:41Z
 
 ## Innhold
 
@@ -31,6 +31,8 @@ Forskriftsendringene betyr blant annet at terrasser på inntil én meters høyde
 6. mai arrangerte vi webinar om de nye forskriftsendringene om terrasse og tilbygg. Fagdirektør Frode Grindahl i Direktoratet for byggkvalitet gikk igjennom de viktigste endringene.
 
 Under ser du opptaket fra webinaret.
+
+Denne videoen krever samtykke til informasjonskapsler for markedsføring.[Se videoen på YouTube](https://www.youtube.com/watch?v=IFMhg0MfH90)
 
 ### Spørsmål og svar fra webinar om forskriftsendringene
 
@@ -75,3 +77,4 @@ Det er laget nytt skjema for tiltak unntatt søknadsplikt som skal meldes inn ti
 
 - **2026-05-20** Første gang hentet
 - **2026-10-08** Innhold endret (se git-historikk for diff)
+- **2026-11-23** Innhold endret (se git-historikk for diff)

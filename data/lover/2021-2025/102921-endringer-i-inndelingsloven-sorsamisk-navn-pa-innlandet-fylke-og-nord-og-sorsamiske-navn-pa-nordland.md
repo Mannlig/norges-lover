@@ -1,4 +1,4 @@
-<!-- innholds-hash: a18103b0cbe1212019ef0ea31b89cf59edbedbae707f8281704d5403d7e0050f -->
+<!-- innholds-hash: 6a3e28ca0a60948aaa8afedff2a8514343bba0086d645c11aa4502cea8c9b38e -->
 
 # Endringer i inndelingsloven (sørsamisk navn på Innlandet fylke og nord- og sørsamiske navn på Nordland fylke)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 90 L (2024-2025), Innst. 409 L (2024-2025), Lovvedtak 91 (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** 
+- **Emner:** Fylker, Samer, Språk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:14:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102921
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -25,7 +25,29 @@
 {
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
-  "emne_liste": [],
+  "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 184,
+      "id": 37,
+      "navn": "Fylker",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 39,
+      "id": 39,
+      "navn": "Samer",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 6,
+      "id": 124,
+      "navn": "Språk",
+      "underemne_liste": []
+    }
+  ],
   "forslagstiller_liste": [],
   "henvisning": "Prop. 90 L (2024-2025), Innst. 409 L (2024-2025), Lovvedtak 91 (2024-2025)",
   "id": 102921,
@@ -70,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

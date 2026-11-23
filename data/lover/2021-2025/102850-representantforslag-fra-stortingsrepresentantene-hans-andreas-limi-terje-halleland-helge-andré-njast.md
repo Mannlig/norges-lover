@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7fa0b90135600ec501c101b6993bbcf9573775dd31452a2e0f1cdd7e88158561 -->
+<!-- innholds-hash: 0bbbab580035632e7983a04eec2252f2faf3e47f71af7e17dc97e692ea6eb1e9 -->
 
 # Representantforslag fra stortingsrepresentantene Hans Andreas Limi, Terje Halleland, Helge André Njåstad og Marius Arion Nilsen om økt fjernvarmesatsing for bedre energisikkerhet og frigjøring av kraft
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:164 S (2024-2025), Innst. 387 S (2024-2025)
 - **Komité:** Energi- og miljøkomiteen
-- **Emner:** Energi
+- **Emner:** Energi, Forurensning, Elektrisitet, Avgifter, Merverdiavgift
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T09:53:18Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102850
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,34 @@
       "hovedemne_id": 4,
       "id": 4,
       "navn": "Energi",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 139,
+      "id": 21,
+      "navn": "Forurensning",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 4,
+      "id": 71,
+      "navn": "Elektrisitet",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 80,
+      "navn": "Avgifter",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 81,
+      "navn": "Merverdiavgift",
       "underemne_liste": []
     }
   ],
@@ -155,3 +183,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

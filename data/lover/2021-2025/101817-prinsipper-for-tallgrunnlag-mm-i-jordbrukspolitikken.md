@@ -1,4 +1,4 @@
-<!-- innholds-hash: b0aae353309b77569e4424db7b4825b77a00c1fab1f896c5851328a8de417405 -->
+<!-- innholds-hash: c2406718d3e8487c1a9fc38f956be1f1a7803c742b8fd421a2eea54ab1b08459 -->
 
 # Prinsipper for tallgrunnlag m.m. i jordbrukspolitikken
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Meld. St. 10 (2024-2025), Innst. 197 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Lønn og inntekt, Jordbruk
+- **Emner:** Landbruk, Lønn og inntekt, Jordbruk
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101817
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 2,
   "emne_liste": [
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 46,
+      "id": 46,
+      "navn": "Landbruk",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": false,
       "hovedemne_id": 5,
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

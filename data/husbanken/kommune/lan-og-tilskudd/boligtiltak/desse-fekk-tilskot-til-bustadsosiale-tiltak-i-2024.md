@@ -1,4 +1,4 @@
-<!-- innholds-hash: 45f491c35bfd47e6e4b76cfc3db0c59dc2caa0e5232a86d7eabcbaad8ae97026 -->
+<!-- innholds-hash: 926c6343e983da71a1f215f149e6f3161a5fa605434e535dbb8c8fe62fe5e4e1 -->
 
 # Desse fekk tilskot til bustadsosiale tiltak i 2024
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/lan-og-tilskudd/boligtiltak/desse-fekk-tilskot-til-bustadsosiale-tiltak-i-2024/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-07T19:52:39Z
+- **Sist oppdatert i arkivet:** 2026-11-23T22:01:29Z
 
 ## Innhold
 
@@ -18,7 +18,7 @@ Målet er at kunnskapen som blir utvikla i prosjekta, skal bli dokumentert og de
 
 Desse prosjekta fekk tilskot i 2024:
 
-Sist oppdatert: 16.01.2025
+Sist oppdatert: 18.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/lan-og-tilskudd/boligtiltak/desse-fekk-tilskot-til-bustadsosiale-tiltak-i-2024/) av norges-lover-bot.*
@@ -26,3 +26,4 @@ Sist oppdatert: 16.01.2025
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)

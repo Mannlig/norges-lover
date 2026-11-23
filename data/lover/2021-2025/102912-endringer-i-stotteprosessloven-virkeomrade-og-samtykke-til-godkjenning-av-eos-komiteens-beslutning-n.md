@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0801f13f98a56ef5e7142e28622fbf7ec9bc5a1f4194bac717cbb4e54bff6914 -->
+<!-- innholds-hash: c88249e9bfc939f952b9f8ab7d8a260f896a17f392604c532034269c2324540f -->
 
 # Endringer i støtteprosessloven (virkeområde) og samtykke til godkjenning av EØS-komiteens beslutning nr. 219/2024 om innlemmelse i EØS-avtalen av forordning (EU) 2023/2831 om bagatellmessig støtte og EØS-komiteens beslutning nr. 246/2024 om innlemmelse i EØS-avtalen av forordning (EU) 2023/2832 om bagatellmessig støtte til tjenester av allmenn økonomisk betydning
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Prop. 89 LS (2024-2025), Innst. 259 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Næringsliv, Eu/eøs
+- **Emner:** Priser og konkurranseforhold, Næringsliv, Eu/eøs
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-23T17:15:00Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=102912
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -26,6 +26,13 @@
   "behandlet_sesjon_id": "2024-2025",
   "dokumentgruppe": 1,
   "emne_liste": [
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 187,
+      "id": 83,
+      "navn": "Priser og konkurranseforhold",
+      "underemne_liste": []
+    },
     {
       "er_hovedemne": true,
       "hovedemne_id": 113,
@@ -85,3 +92,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-23** Innhold endret (se git-historikk for diff)
