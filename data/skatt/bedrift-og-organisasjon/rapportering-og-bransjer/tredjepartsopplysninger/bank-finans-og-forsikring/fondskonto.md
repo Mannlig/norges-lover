@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2b7bb430d16bab14764375db8b23461d067708e7f42510ff24296fbb7adf65e3 -->
+<!-- innholds-hash: 0eaef178b2efae02120666a59f6f26be1ed2b88fbdf7f987916019b396308e1f -->
 
 # Fondskonto
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/fondskonto/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:12:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:28:10Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tilbydere av kapitalforsikring uten garantert avkastning skal rapportere tredjep
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -79,3 +79,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

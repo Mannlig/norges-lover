@@ -1,4 +1,4 @@
-<!-- innholds-hash: e51413cca971c7a9e96b12deac8aa85deee400d20c3f6564d1e3eb02b7dcc4cd -->
+<!-- innholds-hash: 827b10250a9a455106b24abcc0accc4cb412edf92f775acaf9c4b91bdad0283a -->
 
 # Digital plattforminformasjon (DPI)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/digital-plattforminformasjon-dpi/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:50:00Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:17:16Z
 
 ## Innhold
 
@@ -26,9 +26,21 @@ Det er laget en rettleder om hvem som har opplysningsplikt og hvilke opplysninge
 
 ### Send inn opplysninger
 
-Innrapporteringsløsninger via vedleggsløsning og tasteskjema er under utvikling og detaljer vil publiseres på denne siden når dette er klart. Formatbeskrivelse, tekniske spesifikasjoner og eksempelfiler er tilgjengelig her:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
-[Formater og tekniske spesifikasjoner](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/digital-plattforminformasjon-dpi/formater-og-tekniske-spesifikasjoner/)
+#### Last opp opplysningene som filvedlegg
+
+[Tredjepartsopplysninger med vedlegg](https://www.skatteetaten.no/skjema/tredjepartsopplysninger-som-vedlegg/)
+
+Filen som lastes opp i skjemaet skal være i XML-format og følge Skatteetatens spesifikasjoner. [Formatbeskrivelser og veiledning for innsending finner du her](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/digital-plattforminformasjon-dpi/formater-og-tekniske-spesifikasjoner/).
+
+#### Send inn med datasystem
+
+Rapportering via datasystem (sluttbrukersystem) forutsetter at din dataleverandør har laget støtte for å sende tredjepartsopplysninger.
+
+#### For sluttbrukersystemer:
+
+Leverandører som ønsker å utvikle støtte for innsending av tredjepartsopplysninger finner informasjon om integrasjon mot skatteetatens API-løsninger på [informasjonssiden for sluttbrukersystemer](https://www.skatteetaten.no/samarbeidspartnere/sluttbrukersystemer/).
 
 ### Datoer og frister
 
@@ -66,3 +78,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 - **2026-05-20** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

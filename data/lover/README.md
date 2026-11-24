@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1976
+**Antall dokumenter:** 1979
 
 ## Innhold
 
@@ -1982,6 +1982,9 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Endringar i statsbudsjettet 2026 under Kunnskapsdepartementet](2025-2029/200547-endringar-i-statsbudsjettet-2026-under-kunnskapsdepartementet.md)
 - [Endringer i statsbudsjettet 2026 under  Klima- og miljødepartementet](2025-2029/200548-endringer-i-statsbudsjettet-2026-under-klima-og-miljodepartementet.md)
 - [Endringar i statsbudsjettet 2026 under Utanriksdepartementet](2025-2029/200549-endringar-i-statsbudsjettet-2026-under-utanriksdepartementet.md)
+- [Riksrevisjonens årlige rapport om revisjon av statens eierstyring](2025-2029/200551-riksrevisjonens-arlige-rapport-om-revisjon-av-statens-eierstyring.md)
+- [Representantforslag frå stortingsrepresentantane Trond Helleland, Anne Kristine Linnestad, Erlend Larsen, Erlend Svardal Bøe og Tone Wilhelmsen Trøen om å auke taxfreekvotane](2025-2029/200553-representantforslag-fra-stortingsrepresentantane-trond-helleland-anne-kristine-linnestad-erlend-lars.md)
+- [Representantforslag fra stortingsrepresentant Seher Aydar om bedre kontroll og regulering av kosmetiske klinikker](2025-2029/200554-representantforslag-fra-stortingsrepresentant-seher-aydar-om-bedre-kontroll-og-regulering-av-kosmeti.md)
 - [Grunnlovsforslag fra Ingvild Wetrhus Thorsvik, Guri Melby, Grunde Almeland, Ane Breivik, Abid Raja og Alfred Jens Bjørlo om ny § 103 (om rett til frivillig å avbryte eget svangerskap)](2025-2029/93233-grunnlovsforslag-fra-ingvild-wetrhus-thorsvik-guri-melby-grunde-almeland-ane-breivik-abid-raja-og-al.md)
 - [Grunnlovsforslag fra Michael Tetzschner om § 95 nytt tredje ledd (om at staten ikke skal kunne skatte- og avgiftsbelegge rettslig arbeid som utføres i forbindelse med saker som skal behandles av domstolene)](2025-2029/99311-grunnlovsforslag-fra-michael-tetzschner-om-95-nytt-tredje-ledd-om-at-staten-ikke-skal-kunne-skatte-o.md)
 - [Grunnlovsforslag fra Michael Tetzschner og Morten Wold om endring i § 98 (om forbud mot uforholdsmessig inngrep overfor den enkelte)](2025-2029/99312-grunnlovsforslag-fra-michael-tetzschner-og-morten-wold-om-endring-i-98-om-forbud-mot-uforholdsmessig.md)

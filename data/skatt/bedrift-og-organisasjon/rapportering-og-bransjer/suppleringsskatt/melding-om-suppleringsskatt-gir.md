@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5c447d72cf4092fbe170cb04db9c8ca25a8799d91c079cb1887e4b6aa94a35f3 -->
+<!-- innholds-hash: 18dc98baa032b2121388182d93f254d19f7f3af8e99cfcb1380231be5f6f2e1b -->
 
 # Melding for suppleringsskatt (GIR)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/melding-om-suppleringsskatt-gir/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:42:34Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:09:44Z
 
 ## Innhold
 
@@ -30,7 +30,7 @@ Dette må du gjøre før du sender inn melding for suppleringsskatt (GIR):
 
 Opplysningspliktens omfang avhenger av en rekke faktorer. Vi har derfor laget en egen veiledning som forklarer hvordan du skal fylle ut melding for suppleringsskatt (GIR). Veiledningen fokuserer på de krav som gjelder for norske virksomheter og når melding for suppleringsskatt (GIR) skal sendes inn til oss.
 
-[Se Skatteetatens veiledning til utfylling av melding for suppleringsskatt (GIR)](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/veiledning/)
+[Se vår veiledning til utfylling av melding for suppleringsskatt (GIR)](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/veiledning/)
 
 Du må også sette deg godt inn i XSD-kravene (XML Schema Definition) som stilles til filen.
 
@@ -100,8 +100,6 @@ Skal virksomheten du representerer betale suppleringsskatt, må du i tillegg lev
 
 Fristen for å levere melding for suppleringsskatt (GIR) er 15 måneder etter utløp av regnskapsåret for det øverste morselskapet i konsernet. Første året konsernet omfattes av suppleringsskatteloven er fristen 18 måneder.
 
-Første frist er 30. juni 2026.
-
 Når fristen for å levere er på en lørdag, søndag eller helligdag, er det ikke for sent om du leverer skattemeldingen senest første arbeidsdag.
 
 Du kan ikke søke om utsettelse eller fritak fra levering.
@@ -118,7 +116,7 @@ Skatteetaten vil vurdere forespørselen og gi deg en tilbakemelding.
 
 ### Kontakt oss
 
-Har du spørsmål om innsending av melding for suppleringsskatt (GIR) kan du ta kontakt med oss ved å logge inn på våre nettsider og skrive til oss.
+Har du spørsmål om suppleringsskatt kan du ta kontakt med oss ved å logge inn på våre nettsider og skrive til oss.
 
 [Skriv til oss om suppleringsskatt](https://www.skatteetaten.no/lenker/suppleringsskatt/klage-pa-vedtak/)
 
@@ -136,3 +134,4 @@ Logg inn på våre nettsider, finn bekreftelsen på innsendingen og skriv til os
 - **2026-05-20** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

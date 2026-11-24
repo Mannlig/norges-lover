@@ -1,4 +1,4 @@
-<!-- innholds-hash: 37092463d8996cac727af1fd2bd39db3908af52a55e9a9f74751fee333a939d7 -->
+<!-- innholds-hash: f58d9b76a5742657352ea466ff0f6c6ddfcb28ea83331ac6c5047b271489a4c3 -->
 
 # Aksjesparekonto
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/aksjesparekonto/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:08:19Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:23:51Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tilbyder av aksjesparekonto skal rapportere tredjepartsopplysninger.
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -79,3 +79,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

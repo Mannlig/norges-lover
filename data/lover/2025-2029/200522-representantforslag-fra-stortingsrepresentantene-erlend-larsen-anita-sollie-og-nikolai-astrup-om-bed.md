@@ -1,4 +1,4 @@
-<!-- innholds-hash: ff656882df70d1ebe95c76e66cdcc0c003efc15a16bf6a6f369c0fe01327471c -->
+<!-- innholds-hash: 4ee96c29c3a99af295ef83d42d875f73f72d2f4430a9f84de0c69858f6db3a0a -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T13:15:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200522
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
   "sak_fremmet_id": 200522,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Nilsen",
+      "foedselsdato": "/Date(461282400000+0200)/",
+      "fornavn": "Marius Arion",
+      "id": "MARNIL",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "AA",
+        "navn": "Aust-Agder"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Larsen, Anita Sollie og Nikolai Astrup om bedre offentlige anbudskonkurranser med lett tilgjengelig konkurransegrunnlag",
@@ -109,3 +129,4 @@
 
 - **2026-11-17** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

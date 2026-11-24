@@ -1,4 +1,4 @@
-<!-- innholds-hash: f3439bfbfc10dd731cc2169aa4e2f19e8f6181ed990841b502a11fa29190a59f -->
+<!-- innholds-hash: d448523c5924b7834c785c67c115261765bcfca24e08498a080735ecde6fef6a -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om  å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T13:15:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200530
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
   "sak_fremmet_id": 200530,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Eriksen",
+      "foedselsdato": "/Date(701305200000+0100)/",
+      "fornavn": "Andreas Bjelland",
+      "id": "ANDERI",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om  å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
@@ -109,3 +129,4 @@
 
 - **2026-11-18** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

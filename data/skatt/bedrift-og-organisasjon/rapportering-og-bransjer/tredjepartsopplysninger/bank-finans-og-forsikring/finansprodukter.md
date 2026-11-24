@@ -1,4 +1,4 @@
-<!-- innholds-hash: a5ed41a515dce4f04b6d7133adaab6a64960ab39ecc18bc92c9a8d3cff7a97c7 -->
+<!-- innholds-hash: 913b194c374ec4d0eed75bcaacd112675873ea8c6d1897d79b53ae0ae6c49738 -->
 
 # Finansprodukter (Aksjer i depot, obligasjoner, ETN'er, warrants, mm.)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/finansprodukter/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:11:33Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:27:07Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tilbydere av finansielle produkter for andres regning som ledd i sin forretnings
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -79,3 +79,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: ad8149e4218186e21b01b5092671300eb04cecdcc2850e040908bed74fc76992 -->
+<!-- innholds-hash: c6b9c4086f049e7063c64ad1ee4e4114fa927d68c2c3a2e45f352d9afb8ff4ca -->
 
 # Fagforeningskontingent
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/fagforeningskontingent/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:04:02Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:19:22Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Bare fagforeningskontingent som medlemmer har betalt direkte til fagforeningen, 
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -77,3 +77,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

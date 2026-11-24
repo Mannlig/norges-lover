@@ -1,4 +1,4 @@
-<!-- innholds-hash: d5fbdcdb5ae218d9c2f6a339afa817d2e04c2eec9df9f93e239d93f202dbbaa6 -->
+<!-- innholds-hash: 10c8a41393e3221d35dcf5d14b55a6a77e219060d9f9657dd94c7891dc5fce03 -->
 
 # Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T13:15:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200520
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -133,7 +133,27 @@
   },
   "korttittel": "Representantforslag om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
   "sak_fremmet_id": 200520,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Staahle",
+      "foedselsdato": "/Date(94518000000+0100)/",
+      "fornavn": "Tom",
+      "id": "TSTA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Nikolai Astrup, Mudassar Kapur, Mahmoud Farahmand, Tage Pettersen og Erlend Svardal Bøe om økt boligbygging ved å gi raskere refusjon for merverdiavgift på infrastruktur som overføres til det offentlige",
@@ -147,3 +167,4 @@
 
 - **2026-11-17** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

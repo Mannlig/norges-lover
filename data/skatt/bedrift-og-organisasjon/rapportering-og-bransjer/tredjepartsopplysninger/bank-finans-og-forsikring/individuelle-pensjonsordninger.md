@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8039ff6031fbac9fe743a9504ba7cbfae0c5d47415753adb3634ddda82e57dae -->
+<!-- innholds-hash: d7f4f583390ea7c11af8be756b7e6ef0d12e04cce93d94e4323d49ec3066986f -->
 
 # Individuelle pensjonsordninger
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/individuelle-pensjonsordninger/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:13:43Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:29:13Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tilbydere av individuelle pensjonsordningene skal rapportere tredjepartsopplysni
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -75,3 +75,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

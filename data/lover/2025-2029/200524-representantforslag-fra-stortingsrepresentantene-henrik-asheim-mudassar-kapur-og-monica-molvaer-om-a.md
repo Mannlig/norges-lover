@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6d5d25403a268b65ca61bee0656abd00ed837d31b3e6c012e059660bdccce2c7 -->
+<!-- innholds-hash: 8a667e1986203abbdd489cdfc5be68e3bc4ac6aa3524260de998617dd692c317 -->
 
 # Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T13:15:35Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200524
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
   "sak_fremmet_id": 200524,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Jonsterhaug",
+      "foedselsdato": "/Date(965772000000+0200)/",
+      "fornavn": "Martin Virkesdal",
+      "id": "MARJON",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Henrik Asheim, Mudassar Kapur og Monica Molvær om å legge til rette for donasjon av førproduksjonsbiler til bruk i bilfag i videregående skoler",
@@ -109,3 +129,4 @@
 
 - **2026-11-18** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

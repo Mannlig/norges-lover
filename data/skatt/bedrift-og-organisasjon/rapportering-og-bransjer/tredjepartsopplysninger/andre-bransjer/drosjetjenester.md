@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0a0a00429a95d006b04f77b79ed55adaee5128fa8068dc5de70fc8a56e016a69 -->
+<!-- innholds-hash: 118b5e71aa6184700a63e1e67239dfb0d2184757b65cce472f9ecf004a8f3bba -->
 
 # Drosjetjenester
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/drosjetjenester/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:51:05Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:18:20Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Formidlere av drosjetjenester skal gi opplysninger fra skiftlappen for løyvehav
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -75,3 +75,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

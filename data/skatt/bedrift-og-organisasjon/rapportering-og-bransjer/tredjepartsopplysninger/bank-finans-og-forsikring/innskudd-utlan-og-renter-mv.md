@@ -1,4 +1,4 @@
-<!-- innholds-hash: a33755d777ece97922a9cf119902303b51e374816159d5ef570300087c5cdbb3 -->
+<!-- innholds-hash: 16957bb7b2793ae86e37992a009d5b899790d26d5ec6229189d7e55febadae33 -->
 
 # Innskudd, utlån og renter m.v.
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/innskudd-utlan-og-renter-mv/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:14:45Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:30:19Z
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Betalingsutsettelse fra butikker anses normalt ikke som utlån.
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse tre løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil fylle inn opplysningene selv i et skjema eller laste opp et filvedlegg. Du kan også sende inn tredjepartsopplysninger med et datasystem.
 
 #### Fyll ut skjemaet selv
 
@@ -34,37 +34,28 @@ Logg inn og fyll ut:
 
 [Innskudd, utlån og renter mv.](https://skatt.skatteetaten.no/web/innskuddutlaanrenter/)
 
-For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
+For å kunne sende inn skjemaet må du ha riktige tilganger i Altinn.
+
+[Sjekk din tilgang](https://skatt.skatteetaten.no/web/tpo-filopplasting/tilgang/SALDO_RENTE?redirectUrl=/web/innskuddutlaanrenter/)
+
+Når du skal sende inn tredjepartsopplysninger må du ha tilgang på vegne av virksomheten du skal rapportere for. For å logge inn på Skatteetaten.no må du ha et norsk fødselsnummer eller D-nummer.
+
+For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene, eller tilgang via enkelttjenestedelegering.
 
 - Ansvarlig revisor
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Revisormedarbeider
 - Skattegrunnlag
+- [Enkelttjenestedelegering](https://info.altinn.no/hjelp/tilgang-og-fullmakt/) må gjøres på nytt for de nye skjemaene.
 
 For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
-
-Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember 2026:
-
-- Ansvarlig revisor
-- Begrenset signeringsrett
-- Regnskapsfører med signeringsrett
-- Regnskapsfører uten signeringsrett
-- Regnskapsmedarbeider
-- Revisormedarbeider
-- Utfyller/innsender
-
-I januar 2027 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
-
-NB! Enkelttjenestedelegering må gjøres på nytt for de nye skjemaene.
 
 Hvis tilgangen til Altinn II-skjemaet var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt.
 
 Hvis du ikke har noen av disse rollene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn.
 
 Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
-
-Hvis du lurer på noe, kan du lese [rettledningen for utfylling og innlevering av tredjepartsopplysninger om innskudd, utlån og renter mv.](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/innskudd-utlan-og-renter-mv/rettledning/)
 
 #### Last opp opplysningene som filvedlegg
 
@@ -125,3 +116,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

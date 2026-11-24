@@ -1,4 +1,4 @@
-<!-- innholds-hash: ebcb80ebccd3181719f7fb23dbcef9b4d03dd25a19168d8d4b2338a6015fc2c3 -->
+<!-- innholds-hash: 9c16d4bd25fb91bc49251ddded0e894a47d2474b242d2248925080faa2de6b46 -->
 
 # Notifikasjon for suppleringsskatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/notifikasjon/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:43:36Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:10:48Z
 
 ## Innhold
 
@@ -71,8 +71,6 @@ Når notifikasjonen er sendt inn får du en bekreftelse på at den er mottatt, m
 
 Fristen for å levere notifikasjon for suppleringsskatt er 15 måneder etter utløp av regnskapsåret for det øverste morselskapet i konsernet. Første året konsernet omfattes av suppleringsskatteloven er fristen 18 måneder.
 
-Første frist er 30. juni 2026.
-
 Du kan ikke søke om utsettelse eller fritak fra levering.
 
 ### Endre notifikasjon for suppleringsskatt
@@ -81,7 +79,7 @@ Du kan ikke søke om utsettelse eller fritak fra levering.
 
 ### Kontakt oss
 
-Har du spørsmål om innsending av notifikasjon kan du ta kontakt med oss ved å logge inn på våre nettsider og skrive til oss.
+Har du spørsmål om suppleringsskatt kan du ta kontakt med oss ved å logge inn på våre nettsider og skrive til oss.
 
 [Skriv til oss om suppleringsskatt](https://www.skatteetaten.no/lenker/suppleringsskatt/klage-pa-vedtak/)
 
@@ -99,3 +97,4 @@ Logg inn på våre nettsider, finn bekreftelsen på innsendingen og skriv til os
 - **2026-05-20** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

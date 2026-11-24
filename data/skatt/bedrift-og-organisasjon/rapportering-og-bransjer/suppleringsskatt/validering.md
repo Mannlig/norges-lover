@@ -1,4 +1,4 @@
-<!-- innholds-hash: 12d4c96399fcd888d126a21f5877d4f116ecc7adfb68133ffb4978ecbe15cc18 -->
+<!-- innholds-hash: da34676929cda1d4459a480292674b0cc0034e5587f9c4788d1c911acad1e398 -->
 
 # Validering av melding for suppleringsskatt (GIR)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/validering/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:46:49Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:14:10Z
 
 ## Innhold
 
@@ -26,7 +26,7 @@ Du må også sette deg godt inn i XSD-krav (XML Schema Definition) som stilles t
 
 [Se XSD-krav (XML Schema Definition, OECD)](https://www.oecd.org/en/publications/globe-information-return-pillar-two-xml-schema_c594935a-en/support-materials.html)
 
-For å hjelpe deg i arbeidet med å lage XML-filen for melding for suppleringsskatt (GIR) har vi laget flere eksempelfiler som viser deg hvordan XML-filen skal være strukturert.
+For å hjelpe deg i arbeidet med å lage XML-filen som skal sendes inn, har vi laget flere eksempelfiler som viser deg hvordan XML-filen skal være strukturert.
 
 [Se eksempelfilene våre på Github](https://github.com/Skatteetaten/suppleringsskatt)
 
@@ -79,3 +79,4 @@ Har du spørsmål om suppleringsskatt kan du ta kontakt med oss ved å logge inn
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

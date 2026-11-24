@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2a43ef92deae1d4ac1a6c2e8fcff88e310224a8eb34e576985c12c0e86eccb5e -->
+<!-- innholds-hash: e43d5cf72a2399921e7ef4fc07825b71962d8308d05f7077f6d0c2c4efd56f42 -->
 
 # Skattemelding for suppleringsskatt
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/suppleringsskatt/skattemelding-for-suppleringsskatt/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T05:45:44Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:13:04Z
 
 ## Innhold
 
@@ -151,8 +151,6 @@ Når skattemeldingen er sendt inn vil du få en bekreftelse på at den er mottat
 
 Fristen for å levere skattemelding for suppleringsskatt er 16 måneder etter utløp av regnskapsåret for det øverste morselskapet i konsernet. Første året konsernet omfattes av suppleringsskatteloven er fristen 19 måneder.
 
-Første frist er 31. juli 2026.
-
 Når fristen for å levere er på en lørdag, søndag eller helligdag, er det ikke for sent om du leverer skattemeldingen senest første arbeidsdag.
 
 Du kan ikke søke om utsettelse eller fritak fra levering.
@@ -192,7 +190,7 @@ Har du spørsmål om suppleringsskatt kan du ta kontakt med oss ved å logge inn
 
 [Skriv til oss om suppleringsskatt](https://www.skatteetaten.no/lenker/suppleringsskatt/klage-pa-vedtak/)
 
-#### Har du allerede sendt inn melding om suppleringsskatt?
+#### Har du allerede sendt inn skattemelding om suppleringsskatt?
 
 Logg inn på våre nettsider, finn bekreftelsen på innsendingen og skriv til oss direkte på saken.
 
@@ -205,3 +203,4 @@ Logg inn på våre nettsider, finn bekreftelsen på innsendingen og skriv til os
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

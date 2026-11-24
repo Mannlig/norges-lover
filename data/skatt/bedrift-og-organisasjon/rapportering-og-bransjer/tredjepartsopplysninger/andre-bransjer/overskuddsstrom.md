@@ -1,4 +1,4 @@
-<!-- innholds-hash: dd2d5b0fd8e336fe8e227f73e4bcde88984a3e89f7e667412ffb18b6b85334cc -->
+<!-- innholds-hash: 80a0d0acce778482b7bed07d4b88dcae2d87d701811fb4a4327a8e8160a4009f -->
 
 # Overskuddsstrøm
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/overskuddsstrom/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:06:09Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:21:39Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Kraftleverandører som tilbyr plusskundeavtaler der en kjøper overskuddsstrøm 
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -46,8 +46,8 @@ Her er en steg for steg-oversikt over hvordan rapporteringen fungerer:
 
 For å fylle ut oppgaven trenger du:
 
-- påloggingsopplysninger til Altinn
-- en [Altinn-rolle med innsendings- og signeringsrettigheter](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/eiendom-og-bolig/boligsameie/rettledning/#roller-og-rettigheter-i-altinn)
+- påloggingsopplysninger til Skatteetaten
+- [en rolle med innsendings- og signeringsrettigheter](https://info.altinn.no/hjelp/ny-tilgangsstyring/)
 - strømkundens fødselsnummer eller d-nummer
 - navnet på strømkunden
 - eiendommens veiadresse eller matrikkelnummer, altså kommunenummer, gårdsnummer, bruksnummer og seksjonsnummer
@@ -66,7 +66,7 @@ Opplysningene som skal rapporteres er:
 
 3
 
-Når oppgavene er sendt inn, vil du få en tilbakemelding i innboksen hos altinn.no eller innboks hos skatteetaten.no når Skatteetaten har behandlet opplysningene. Har du oppgitt mobilnummer eller e-post i innsendingen, får du varsel på SMS/e-post når tilbakemeldingen har kommet.
+Når oppgavene er sendt inn, vil du få en tilbakemelding i innboksen når Skatteetaten har behandlet opplysningene. Har du oppgitt mobilnummer eller e-post i innsendingen, får du varsel på SMS/e-post når tilbakemeldingen har kommet.
 
 Det er viktig at du kontrollerer tilbakemeldingen ved mottak, slik at eventuelle feil i de innleverte oppgavene kan rettes opp snarest mulig
 
@@ -127,3 +127,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

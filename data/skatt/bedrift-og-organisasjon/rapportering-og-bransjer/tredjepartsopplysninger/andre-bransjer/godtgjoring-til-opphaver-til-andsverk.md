@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7228c212fd3f5c706eb6fb1adc4f7c2632127c8bca62b371ab322c7c174d759c -->
+<!-- innholds-hash: 22765e4a6df54629e464307481380ddcc99af4613ab5d47bb8fe30a0b501dec8 -->
 
 # Godtgjoring til opphaver til åndsverk
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:05:05Z
+- **Sist oppdatert i arkivet:** 2026-11-24T15:20:33Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Med opphaver menes både den som har opphavsrett til verket som skaper av det, o
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse tre løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil fylle inn opplysningene selv i et skjema eller laste opp et filvedlegg. Du kan også sende inn tredjepartsopplysninger med et datasystem.
 
 #### Fyll ut skjemaet selv
 
@@ -30,37 +30,28 @@ Logg inn og fyll ut:
 
 [Godtgjoring til opphaver til åndsverk](https://skatt.skatteetaten.no/web/innrapportering-aandsverk/)
 
-For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
+For å kunne sende inn skjemaet må du ha riktige tilganger i Altinn.
+
+[Sjekk din tilgang](https://skatt.skatteetaten.no/web/tpo-filopplasting/tilgang/GODTGJOERELSE_OPPHAVSMANN?redirectUrl=/web/innrapportering-aandsverk/)
+
+Når du skal sende inn tredjepartsopplysninger må du ha tilgang på vegne av virksomheten du skal rapportere for. For å logge inn på Skatteetaten.no må du ha et norsk fødselsnummer eller D-nummer.
+
+For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene, eller tilgang via enkelttjenestedelegering.
 
 - Ansvarlig revisor
 - Regnskapsfører med signeringsrett
 - Regnskapsfører uten signeringsrett
 - Revisormedarbeider
 - Skattegrunnlag
+- [Enkelttjenestedelegering](https://info.altinn.no/hjelp/tilgang-og-fullmakt/) må gjøres på nytt for de nye skjemaene.
 
 For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
-
-Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember 2026:
-
-- Ansvarlig revisor
-- Begrenset signeringsrett
-- Regnskapsfører med signeringsrett
-- Regnskapsfører uten signeringsrett
-- Regnskapsmedarbeider
-- Revisormedarbeider
-- Utfyller/innsender
-
-I januar 2027 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
-
-NB! Enkelttjenestedelegering må gjøres på nytt for de nye skjemaene.
 
 Hvis tilgangen til Altinn II-skjemaet var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt.
 
 Hvis du ikke har noen av disse rollene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn.
 
 Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
-
-Er det noe du lurer på, kan du lese [rettledningen for utfylling og innlevering av tredjepartsopplysninger om godtgjøring til opphaver til åndsverk](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/andre-bransjer/godtgjoring-til-opphaver-til-andsverk/rettledning/).
 
 #### Last opp opplysningene som filvedlegg
 
@@ -115,3 +106,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)
