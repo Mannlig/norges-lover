@@ -1,4 +1,4 @@
-<!-- innholds-hash: d2d2c91d2c7d28b7ff7675bb23f8b62247a70499e327f28e3b0ee3dc49806135 -->
+<!-- innholds-hash: e79da8d88cfdfe2ffee4112cc59cbe03e78b1bc7488e2445ed32837038e9ed4e -->
 
 # Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om tiltak mot kjønnslemlestelse
 - **Status:** 2
-- **Henvisning:** Dokument 8:292 S (2025-2026)
+- **Henvisning:** Dokument 8:292 S (2025-2026), Innst. 72 S (2026-2027)
 - **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-25T09:27:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200321
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:292 S (2025-2026)",
+  "henvisning": "Dokument 8:292 S (2025-2026), Innst. 72 S (2026-2027)",
   "id": 200321,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17630,
+  "innstilling_kode": 1,
   "komite": {
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779314400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Marian Hussein, Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen og Kathy Lie om tiltak mot kjønnslemlestelse",
   "type": 2
@@ -159,3 +159,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

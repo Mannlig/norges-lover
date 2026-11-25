@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2e3f84485120fcc3cb72026e71a731743288485fdf645c994503c77d7a61e367 -->
+<!-- innholds-hash: cb3d5bb62662b2ec6c888ba407f5cc709723ab3e237b007dcbae9125d3c52cb4 -->
 
 # Skattepliktig kundeutbytte
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/skattepliktig-kundeutbytte/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:21:16Z
+- **Sist oppdatert i arkivet:** 2026-11-25T11:11:17Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tredjeparter som betaler ut skattepliktig kundeutbytte, skal levere opplysninger
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -75,3 +75,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: e2205d393e0447e1574e5613f43fcfc817da202c0e36452df4d1713282913337 -->
+<!-- innholds-hash: 166816e5f15050eef021a9f110e6eb0734ca51f5f11d4e69340c39f2fedfccbe -->
 
 # Verdipapirfond
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/verdipapirfond/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:23:29Z
+- **Sist oppdatert i arkivet:** 2026-11-25T11:13:27Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Forvaltningsselskap, Verdipapirsentralen og andre som selger fond skal levere op
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -79,3 +79,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

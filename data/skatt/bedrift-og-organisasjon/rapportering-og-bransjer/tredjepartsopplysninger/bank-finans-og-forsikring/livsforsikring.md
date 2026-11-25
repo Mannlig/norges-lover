@@ -1,4 +1,4 @@
-<!-- innholds-hash: 067a5b36c4f647fdc3e68cd98bc9274479ccd09c6c9168f68dd74c9f90cdd3b2 -->
+<!-- innholds-hash: be1383fec7621cd50bb93b6d14278425336b4a89339d4956ab5b96c86bb7114b -->
 
 # Livsforsikring
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/bank-finans-og-forsikring/livsforsikring/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:17:58Z
+- **Sist oppdatert i arkivet:** 2026-11-25T11:08:06Z
 
 ## Innhold
 
@@ -20,7 +20,7 @@ Tilbydere av kapitalforsikringer som ikke omfattes av Fondskontoordningen som ko
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -77,3 +77,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-20** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

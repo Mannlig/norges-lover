@@ -1,4 +1,4 @@
-<!-- innholds-hash: d59834b832f25ac9d928e41c42db7ade63fa185080fbd353c1580a2db815a8e5 -->
+<!-- innholds-hash: 3a0fb95ff00577e208107465e47fac7ef5475102b8df4d902d67466c4cf32a68 -->
 
 # Boligsameie
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/eiendom-og-bolig/boligsameie/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:24:33Z
+- **Sist oppdatert i arkivet:** 2026-11-25T11:14:31Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Det er styret i boligsameiet som har plikt og ansvar til å rapportere opplysnin
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse tre løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil fylle inn opplysningene selv i et skjema eller laste opp et filvedlegg. Du kan også sende inn tredjepartsopplysninger med et datasystem.
 
 #### Fyll ut skjemaet selv
 
@@ -30,7 +30,13 @@ Logg inn og fyll ut:
 
 [Boligsameie](https://skatt.skatteetaten.no/web/boligsameie/)
 
-For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
+For å kunne sende inn skjemaet må du ha riktige tilganger i Altinn.
+
+[Sjekk din tilgang](https://skatt.skatteetaten.no/web/tpo-filopplasting/tilgang/BOLIGSAMEIE?redirectUrl=/web/boligsameie/)
+
+Når du skal sende inn tredjepartsopplysninger må du ha tilgang på vegne av virksomheten du skal rapportere for. For å logge inn på Skatteetaten.no må du ha et norsk fødselsnummer eller D-nummer.
+
+For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene, eller tilgang via enkelttjenestedelegering.
 
 - Ansvarlig revisor
 - Regnskapsfører med signeringsrett
@@ -38,30 +44,15 @@ For å fylle ut og sende inn skjemaet må du ha en av disse tilgangspakkene:
 - Revisormedarbeider
 - Skattegrunnlag
 - Forretningsfører eiendom
+- [Enkelttjenestedelegering](https://info.altinn.no/hjelp/ny-tilgangsstyring/enkelttjenester/) må gjøres på nytt for de nye skjemaene.
 
 For Norskregistrert utenlandsk foretak (NUF) vil det i tillegg være mulig å sende inn skjemaer med enhetsregisterrollen "Kontaktperson NUF”.
-
-Du kan også sende inn skjemaet med en av disse Altinn-rollene frem til desember 2026:
-
-- Ansvarlig revisor
-- Begrenset signeringsrett
-- Regnskapsfører med signeringsrett
-- Regnskapsfører uten signeringsrett
-- Regnskapsmedarbeider
-- Revisormedarbeider
-- Utfyller/innsender
-
-I januar 2027 blir tilgangene for Altinn-roller fjernet. Fra og med da må du ha riktig tilgangspakke for å få tilgang.
-
-NB! Enkelttjenestedelegering må gjøres på nytt for de nye skjemaene.
 
 Hvis tilgangen til Altinn II-skjemaet var gjort med direkte tjenestedelegering, det vil si tilgang uten rolle eller pakke, må tilgangen delegeres på nytt.
 
 Hvis du ikke har noen av disse rollene, må du kontakte en person i virksomheten din som kan administrere tilganger i Altinn.
 
 Kontakt [Altinn brukerservice](https://www.altinn.no/hjelp/) hvis du har problemer med tilganger.
-
-Er det noe du lurer på kan du lese [rettledning for utfyling og innlevering av tredjepartsopplysninger over boligsameie](https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/eiendom-og-bolig/boligsameie/rettledning/).
 
 #### Last opp opplysningene som filvedlegg
 
@@ -181,3 +172,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

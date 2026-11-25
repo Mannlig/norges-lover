@@ -1,4 +1,4 @@
-<!-- innholds-hash: 17fc558f579c2109771f2914c52b8426d4a9ae851a2e7e5d13d3e8d008b5f601 -->
+<!-- innholds-hash: 8f1f27c68ba23961e901eb75878d1756a796d9c466fd3e66e4e54a782805c955 -->
 
 # Tilskudd, erstatning mv. innen primærnæringene
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/jordbruk-skogbruk-og-fiske/tilskudd-erstatning-primaernaeringene/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:31:00Z
+- **Sist oppdatert i arkivet:** 2026-11-25T11:21:01Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Opplysningsplikten gjelder beløp som er utbetalt i inntektsåret og som ikke er
 
 ### Send inn opplysninger
 
-Du kan velge mellom disse to løsningene for å rapportere tredjepartsopplysninger:
+Du kan velge om du vil sende inn opplysningene som et filvedlegg eller via datasystem.
 
 #### Last opp opplysningene som filvedlegg
 
@@ -79,3 +79,4 @@ Vennligst oppgi organisasjonsnummer ved henvendelser til oss.
 
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

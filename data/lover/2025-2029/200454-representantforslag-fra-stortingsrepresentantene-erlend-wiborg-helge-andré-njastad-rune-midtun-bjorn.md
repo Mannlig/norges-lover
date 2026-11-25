@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4dd0ff83c841a95255b14fc0c7e6dc2850f4d82d6369029bcb4779e4d796f577 -->
+<!-- innholds-hash: ea5752d31e967b96a6439475a78d72b89c39142806a8eaa440110fa21c6435b2 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser
 - **Status:** 2
-- **Henvisning:** Dokument 8:14 S (2026–2027)
+- **Henvisning:** Dokument 8:14 S (2026–2027), Innst. 72 S (2026-2027)
 - **Komité:** Justiskomiteen
 - **Emner:** Barn, Ungdommer, Menneskerettigheter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T20:16:31Z
+- **Sist oppdatert i arkivet:** 2026-11-25T09:27:40Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200454
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -145,10 +145,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:14 S (2026–2027)",
+  "henvisning": "Dokument 8:14 S (2026–2027), Innst. 72 S (2026-2027)",
   "id": 200454,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17630,
+  "innstilling_kode": 1,
   "komite": {
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -176,7 +176,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1791842400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
   "type": 2
@@ -191,3 +191,4 @@
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-10-22** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)
