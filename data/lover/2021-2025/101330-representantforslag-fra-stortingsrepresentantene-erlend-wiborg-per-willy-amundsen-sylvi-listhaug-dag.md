@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6cd02b10ae69ca9040c54fec72a92610854c8fa2c89925d15a16d4905738c6e1 -->
+<!-- innholds-hash: cc70faaf0d94100e8fb9ca209d7bbd9ae766581904ca8a3076208b017807bdeb -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Per-Willy Amundsen, Sylvi Listhaug, Dagfinn Henrik Olsen, Tor André Johnsen og Himanshu Gulati om at Norge skal vurdere å tre inn i Storbritannias migrasjonsavtale med Rwanda
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:41 S (2024-2025), Innst. 209 S (2024-2025)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** Innvandrere, Menneskerettigheter
+- **Emner:** Innvandrere, Internasjonalt samarbeid, Menneskerettigheter
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:12:23Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101330
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 18,
       "id": 18,
       "navn": "Innvandrere",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 163,
+      "id": 22,
+      "navn": "Internasjonalt samarbeid",
       "underemne_liste": []
     },
     {
@@ -200,3 +207,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

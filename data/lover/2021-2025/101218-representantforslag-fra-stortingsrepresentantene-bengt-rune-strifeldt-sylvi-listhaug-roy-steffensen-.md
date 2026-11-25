@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0eb85573c79ab49f91446d6c7def914c83e313c3d44cc7fbe3853e5a5ff57616 -->
+<!-- innholds-hash: 0465bf96bb0babb27d1e4277fa8043910b2b87a384c148d5787f37ca7e7f2a10 -->
 
 # Representantforslag fra stortingsrepresentantene Bengt Rune Strifeldt, Sylvi Listhaug, Roy Steffensen, Terje Halleland, Tor André Johnsen, Bård Hoksrud og Frank Edvard Sve om at løsdriftskravet i melke- og storfeproduksjon kun skal gjelde nybygg
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:37 S (2024-2025), Innst. 207 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Landbruk, Husdyr
+- **Emner:** Landbruk, Husdyr, Veterinærvesen
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:12:23Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=101218
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 46,
       "id": 129,
       "navn": "Husdyr",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": false,
+      "hovedemne_id": 46,
+      "id": 133,
+      "navn": "Veterinærvesen",
       "underemne_liste": []
     }
   ],
@@ -219,3 +226,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

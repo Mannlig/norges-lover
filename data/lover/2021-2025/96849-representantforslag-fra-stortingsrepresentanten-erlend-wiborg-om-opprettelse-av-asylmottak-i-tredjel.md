@@ -1,4 +1,4 @@
-<!-- innholds-hash: a7fe29221de6e17850742df2a8f5157dbb17b85d46544e5123aab6d3f30714ef -->
+<!-- innholds-hash: 6edf124b117ef61b6128eb2ad777574fcf2a78a2af8e4eddaf860e4cd296403b -->
 
 # Representantforslag fra stortingsrepresentanten Erlend Wiborg om opprettelse av asylmottak i tredjeland
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:56 S (2023-2024), Innst. 251 S (2023-2024)
 - **Komité:** Kommunal- og forvaltningskomiteen
-- **Emner:** Innvandrere, Internasjonalt samarbeid
+- **Emner:** Innvandrere, Internasjonalt samarbeid, Menneskerettigheter
 - **Behandlet i sesjon:** 2023-2024
 - **Hentet fra sesjon:** 2023-2024 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-07T14:05:14Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:12:36Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=96849
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,13 @@
       "hovedemne_id": 163,
       "id": 22,
       "navn": "Internasjonalt samarbeid",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
       "underemne_liste": []
     }
   ],
@@ -105,3 +112,4 @@
 ## Endringshistorikk
 
 - **2026-10-07** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

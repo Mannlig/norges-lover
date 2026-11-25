@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7f46c7aef927f716a5f4e70991bcefd5b7e24919079d67e0434565177e6bcc36 -->
+<!-- innholds-hash: 876678cbbfdb1f33992304bee83883adec6d84eb8b698ad17e257386b620ea0b -->
 
 # Representantforslag fra stortingsrepresentantene Geir Jørgensen og Marie Sneve Martinussen om norsk tilslutning til FNs erklæring om rettighetene til bønder og andre arbeidsfolk i bygder (UNDROP)
 
@@ -11,10 +11,10 @@
 - **Status:** 1
 - **Henvisning:** Dokument 8:12 S (2024-2025), Innst. 104 S (2024-2025)
 - **Komité:** Næringskomiteen
-- **Emner:** Landbruk, Fn
+- **Emner:** Landbruk, Menneskerettigheter, Fn
 - **Behandlet i sesjon:** 2024-2025
 - **Hentet fra sesjon:** 2024-2025 (stortingsperiode 2021-2025)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:09:06Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:12:23Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100401
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,6 +31,13 @@
       "hovedemne_id": 46,
       "id": 46,
       "navn": "Landbruk",
+      "underemne_liste": []
+    },
+    {
+      "er_hovedemne": true,
+      "hovedemne_id": 167,
+      "id": 167,
+      "navn": "Menneskerettigheter",
       "underemne_liste": []
     },
     {
@@ -124,3 +131,4 @@
 ## Endringshistorikk
 
 - **2026-10-06** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: fe3746fc29b1ed745e00e5e61a230df4957d11b8776fc94b50766cf81da4b81f -->
+<!-- innholds-hash: 880e61148137480c6f6d4d5729ea03eaea2fbb88ce31190f135c7e4493e7a7e1 -->
 
 # Innberetning fra valgkomiteen om endringer i de faste komiteers sammensetning
 
@@ -12,9 +12,9 @@
 - **Henvisning:** Innberetning 3 (2025-2026)
 - **Komité:** Valgkomiteen
 - **Emner:** Stortingsrepresentanter, Stortinget
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2025-2026
 - **Hentet fra sesjon:** 2025-2026 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T06:57:15Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:12:08Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=108673
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2025-2026",
   "dokumentgruppe": 8,
   "emne_liste": [
     {
@@ -87,3 +87,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

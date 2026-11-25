@@ -1,4 +1,4 @@
-<!-- innholds-hash: c52d4320d3546e2e96bed3057f629d696f3ad7ff41c0126310b70e6ac3cde822 -->
+<!-- innholds-hash: f393f2030d61469f46d8ab2ec345fe001f3b419d10dca717db60107d5eb3cbc3 -->
 
 # Initiativdebatt fra utdannings- og forskningskomiteen om situasjonen i grunnskolen
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200480
 - **Type:** 2
 - **Korttittel:** Initiativdebatt fra utdannings- og forskningskomiteen om situasjonen i grunnskolen
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** None
-- **Komité:** 
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-22T10:36:57Z
+- **Sist oppdatert i arkivet:** 2026-11-25T15:11:52Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200480
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 0,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -31,12 +31,15 @@
   "id": 200480,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
+  },
   "korttittel": "Initiativdebatt fra utdannings- og forskningskomiteen om situasjonen i grunnskolen",
   "sak_fremmet_id": 200480,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1792620000000+0200)/",
-  "status": 2,
+  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
+  "status": 1,
   "tittel": "Initiativdebatt fra utdannings- og forskningskomiteen om situasjonen i grunnskolen",
   "type": 2
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-10-22** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

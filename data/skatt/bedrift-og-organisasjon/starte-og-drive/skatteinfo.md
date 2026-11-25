@@ -1,4 +1,4 @@
-<!-- innholds-hash: b79371a13f28e7b461914f41db194078594619b392ce2f84e75e1fd2c3ab6ff6 -->
+<!-- innholds-hash: ddc7279ba4add506c235abd795a348e776f13f8b8d886623b72126c6de6ad606 -->
 
 # Skatteinfo
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/starte-og-drive/skatteinfo/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:50:04Z
+- **Sist oppdatert i arkivet:** 2026-11-25T17:19:32Z
 
 ## Innhold
 
@@ -20,21 +20,24 @@ Vi ønsker å få innspill fra dere lesere - send gjerne tips om aktuelle proble
 
 Last ned:
 
-[Skatteinfo 4/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-4b---2026.pdf)
+[Skatteinfo 5/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-5---2026.pdf)
 
 Innhold i denne utgaven:
 
-- Dette lurer mange på om Altinn 3 – hva må du gjøre for å kunne rapportere til Skatteetaten?
-- Utleggstrekk etter gamle og nye regler
-- Kjøp av brukte båter for videresalg – regler om avansemetoden og "skraphandler-moms"
-- Oppdrags- og arbeidsforholdsregisteret OAR
-- OAR er et av temaene på Skatteetatens årskonferanse
-- Gir du oppdrag til utenlandske selskaper eller personer?
-- Skatteetaten og Innkrevingsmyndigheten i KAR og NETS
-- Aksjonærlån – slik unngår du dobbeltbeskatning ved avvikling av selskap
-- Har selskapet gjennomført kapitalendringen riktig?
-- Eier du aksjer? – sjekk om aksjeopplysningene dine er oppdatert
-- Skatteinfo informerer
+- Skatteinfo lader stemningen på den første av Skatteetatens årskonferanser i 2026!
+- Dette forteller tallene om skattemeldingsperioden
+- Altinn II-rollene avvikles
+- Skaff riktig tilgangspakke for merverdiavgift før 1. januar 2027
+- Dette må du vite om tilganger til skatteområdene
+- Gaver i arbeidsforhold for ansatte og styremedlemmer
+- Skraphandlermoms – utregningsfeil i utgave 4/26
+- CBAM – hvordan påvirker det norske virksomheter?
+- Nye krav til e-faktura fra nyttår
+- Formuesverdi av næringseiendom
+- Har klienten din kjøpt markedsføringstjenester fra Google Ads, Facebook eller lignende?
+- Taxinæringen: Slik rapporterer og bokfører du oppgjør fra plattformselskaper
+- Ambulerende ID-kontroll når ut til flere
+- Webinar for arbeidsgivere, regnskapsførere og lønnsmedarbeidere
 
 ### Abonnere på Skatteinfo: Motta e-post når det kommer ny utgave
 
@@ -46,6 +49,7 @@ Gi oss beskjed på skatteinfo@skatteetaten.no.
 
 Du kan laste ned og lese tidligere utgaver av Skatteinfo.
 
+- [Skatteinfo 4/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-4b---2026.pdf)
 - [Skatteinfo 3/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-3---2026.pdf)
 - [Skatteinfo 2/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-2---2026-29.pdf)
 - [Skatteinfo 1/2026](https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/starte-og-drive/skatteinfo/skatteinfo-nummer-1---2026.pdf)
@@ -189,3 +193,4 @@ Du kan laste ned og lese tidligere utgaver av Skatteinfo.
 - **2026-05-21** Første gang hentet
 - **2026-06-11** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

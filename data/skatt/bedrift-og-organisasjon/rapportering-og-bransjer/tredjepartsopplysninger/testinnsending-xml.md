@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8debe83ce8c49cd645d8eaf50578369564debd665efbf382f4b4c1df21db4a85 -->
+<!-- innholds-hash: 3d4073f7dd551b7b76325db48795aa31082294593e2a511b7182dc8eb9b94f4f -->
 
 # Testinnsending av tredjepartsopplysninger som skal rapporteres som filvedlegg
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/rapportering-og-bransjer/tredjepartsopplysninger/testinnsending-xml/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-19T18:38:18Z
+- **Sist oppdatert i arkivet:** 2026-11-25T17:05:38Z
 
 ## Innhold
 
@@ -63,7 +63,7 @@ Via reetablert løsning for rapportering av tredjepartsopplysninger som vedlegg 
 | Melding om flernasjonale konserns fordeling av inntekt, skatt m.v. (Land-for-land-rapport for skatteformål) |
 | Melding om utleie av fast eiendom fra formidlingsselskaper |
 | Opsjoner i oppstartsselskap |
-| Overskuddstrøm (NY) |
+| Overskuddstrøm |
 | Pass og stell av barn |
 | Primær - Fisk |
 | Primær - Tømmer |
@@ -82,7 +82,7 @@ Nytt skjema for rapportering av tredjepartsopplysninger som vedlegg på skatteet
 
 [Tredjepartsopplysninger som vedlegg (TEST)](https://skatt-test.sits.no/web/tpo-filopplasting/)
 
-Når du sender inn tredjepartsopplysninger vil du motta svar fra Skatteetatens nye [innboks (lenke til innboks i testmiljø)](https://skatt-test.sits.no/web/minside/innboks/). Ønsker du å se tilbakemeldinger i [innboks i Altinn, gå hit](https://info.tt02.altinn.no/).
+Når du sender inn tredjepartsopplysninger vil du motta svar fra Skatteetatens nye [innboks (lenke til innboks i testmiljø)](https://skatt-test.sits.no/web/minside/innboks/).
 
 #### Du må ha en testperson
 
@@ -114,3 +114,4 @@ Dersom du har spørsmål om test av tredjepartsopplysninger, eller vil gi oss ti
 - **2026-05-21** Første gang hentet
 - **2026-10-10** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)

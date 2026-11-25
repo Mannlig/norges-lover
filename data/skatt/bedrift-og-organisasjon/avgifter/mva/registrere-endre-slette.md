@@ -1,4 +1,4 @@
-<!-- innholds-hash: 774a965ec364488e3e1d7b3ae9304718303ee2487550cbeb7e53023797d59f26 -->
+<!-- innholds-hash: 02c565f7926126bfba01aefcda91cfe7ea4df250d677dbcd485a93575babe7c6 -->
 
 # Registrere, endre eller slette i Merverdiavgiftsregisteret (Mva-registeret)
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/avgifter/mva/registrere-endre-slette/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T11:37:24Z
+- **Sist oppdatert i arkivet:** 2026-11-25T17:06:40Z
 
 ## Innhold
 
@@ -158,6 +158,10 @@ Hvis du har en av disse tilgangspakkene kan du fylle ut registreringssøknad, me
 - Regnskapsfører med signeringsrettighet
 - Regnskapsfører uten signeringsrettighet
 
+Har du ikke tilgang?
+
+[Slik ber du om fullmakt til tilgangspakke i Altinn](https://info.altinn.no/hjelp/ny-tilgangsstyring/be-om-fullmakt/hvordan-be-om-fullmakt/).
+
 Frem til 31 desember 2026 kan du:
 
 - fylle ut og sende inn registreringssøknad med en av disse rollene:
@@ -284,3 +288,4 @@ Logg inn:
 - **2026-05-21** Første gang hentet
 - **2026-06-27** Innhold endret (se git-historikk for diff)
 - **2026-10-10** Innhold endret (se git-historikk for diff)
+- **2026-11-25** Innhold endret (se git-historikk for diff)
