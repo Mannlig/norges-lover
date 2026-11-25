@@ -1,4 +1,4 @@
-<!-- innholds-hash: 49b2ac2f2c5fe9bea9d70029d6917c74ee07c906f6e3c4907cdefc8bd7d92876 -->
+<!-- innholds-hash: 2973e103cbbf1a452a7c683ca90856fc5c2a922cfe68ea0c8a4faf06148b994b -->
 
 # Endringar i statsbudsjettet 2026 under  Energidepartementet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200545
 - **Type:** 1
 - **Korttittel:** Endringar i statsbudsjettet 2026 under  Energidepartementet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 16 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200545
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200545,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Endringar i statsbudsjettet 2026 under  Energidepartementet",
   "sak_fremmet_id": 200545,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795171500000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
+  "status": 2,
   "tittel": "Endringar i statsbudsjettet 2026 under  Energidepartementet",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-11-20** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

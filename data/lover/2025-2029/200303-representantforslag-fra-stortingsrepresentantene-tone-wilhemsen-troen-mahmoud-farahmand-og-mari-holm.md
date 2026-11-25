@@ -1,4 +1,4 @@
-<!-- innholds-hash: 13ddb921d4873797ddab79dd639bdb64d54c1fda015fbce20dc9def9e3e82592 -->
+<!-- innholds-hash: 604692f57e4d7d42f1244fc5457c44bc49996f894e59484549ab9f4ddd95dc3a -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å stoppe internettrelaterte overgrep mot barn
 - **Status:** 2
-- **Henvisning:** Dokument 8:286 S (2025-2026)
+- **Henvisning:** Dokument 8:286 S (2025-2026), Innst. 73 S (2026-2027)
 - **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200303
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:286 S (2025-2026)",
+  "henvisning": "Dokument 8:286 S (2025-2026), Innst. 73 S (2026-2027)",
   "id": 200303,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17620,
+  "innstilling_kode": 1,
   "komite": {
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1778536800000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tone Wilhemsen Trøen, Mahmoud Farahmand og Mari Holm Lønseth om å stoppe internettrelaterte overgrep mot barn",
   "type": 2
@@ -151,3 +151,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

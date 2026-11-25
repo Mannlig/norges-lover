@@ -1,4 +1,4 @@
-<!-- innholds-hash: b594cbedf3fb7f3a66ff6067f558aa573f3139487f707f967a7443138569a62a -->
+<!-- innholds-hash: 336aee50b959f12fc8384f1fe66f179e2447894ef8bf28b27eb690d81cf39f3f -->
 
 # Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte
 - **Status:** 2
-- **Henvisning:** Dokument 8:300 S (2025–2026)
+- **Henvisning:** Dokument 8:300 S (2025–2026), Innst. 70 S (2026-2027)
 - **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200343
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -142,10 +142,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:300 S (2025–2026)",
+  "henvisning": "Dokument 8:300 S (2025–2026), Innst. 70 S (2026-2027)",
   "id": 200343,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17627,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -173,7 +173,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Andreas Sjalg Unneland, Kathy Lie, Lars Haltbrekken og Sunniva Holmås Eidsvoll om likebehandling av husholdningsforbruk i kommunale boliger i ordningene for Norgespris og strømstøtte",
   "type": 2
@@ -373,3 +373,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

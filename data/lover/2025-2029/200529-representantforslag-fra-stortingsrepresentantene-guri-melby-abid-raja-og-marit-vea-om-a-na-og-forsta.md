@@ -1,4 +1,4 @@
-<!-- innholds-hash: c294ea04d8628465c8c446ec6063ed6eafa29166f4b9b2327e4a970eb12a6630 -->
+<!-- innholds-hash: 8c92770b278b1cc784916b2da4b84d162a8d8e0b931e9bfd36aaf405888049d3 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200529
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å nå og forstå Norges klimamål",
   "sak_fremmet_id": 200529,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Bjørnsen",
+      "foedselsdato": "/Date(-91155600000+0100)/",
+      "fornavn": "Kari Sofie",
+      "id": "KARBJR",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål",
@@ -109,3 +129,4 @@
 
 - **2026-11-18** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

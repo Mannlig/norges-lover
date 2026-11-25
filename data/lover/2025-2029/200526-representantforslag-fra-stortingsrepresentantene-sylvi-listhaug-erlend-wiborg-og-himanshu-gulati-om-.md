@@ -1,4 +1,4 @@
-<!-- innholds-hash: de71981633107e2b32a372b9dc7412a22a12a163b0894b936632120fe0eb8280 -->
+<!-- innholds-hash: e01933fb0c9e5c2835a60a375dd3f05caee4040849e69ff892cf26ccc9808eb0 -->
 
 # Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Erlend Wiborg og Himanshu Gulati om at Norge skal bli det sjette landet i Europas nye retursamarbeid
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200526
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om at Norge skal bli det sjette landet i Europas nye retursamarbeid",
   "sak_fremmet_id": 200526,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Nygård",
+      "foedselsdato": "/Date(94777200000+0100)/",
+      "fornavn": "Jon-Ivar",
+      "id": "JONN",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Øs",
+        "navn": "Østfold"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Sylvi Listhaug, Erlend Wiborg og Himanshu Gulati om at Norge skal bli det sjette landet i Europas nye retursamarbeid",
@@ -109,3 +129,4 @@
 
 - **2026-11-18** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

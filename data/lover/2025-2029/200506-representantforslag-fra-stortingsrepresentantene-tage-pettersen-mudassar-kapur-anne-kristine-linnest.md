@@ -1,4 +1,4 @@
-<!-- innholds-hash: faeb466ca504cd86906f0d8491cb6760c780c0cd40ddc0cb3655d063f9a734ec -->
+<!-- innholds-hash: 8a227feed70aaace19ad28e21eb0585180a66e96db62e6fd749e5224e5a04f5b -->
 
 # Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -152,7 +152,27 @@
   },
   "korttittel": "Representantforslag om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
   "sak_fremmet_id": 200506,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fredlund",
+      "foedselsdato": "/Date(402098400000+0200)/",
+      "fornavn": "Anne Lise Gjerstad",
+      "id": "ANNFRE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
@@ -166,3 +186,4 @@
 
 - **2026-11-10** Første gang hentet
 - **2026-11-12** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

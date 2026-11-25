@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6911a7227b6a8af5cc0bbdc39ff1925f5ce556de7df3bf2b8ae2dce2d51ebe12 -->
+<!-- innholds-hash: 14ae8572f7de3af9e7cb6c5d6128f716351f441f39a2e5de69d7b641e8357f88 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200325
 - **Type:** 2
 - **Korttittel:** Representantforslag om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:295 S (2025-2026), Innst. 55 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200325
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -155,7 +155,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Helge André Njåstad, Bjørn Larsen og Rune Midtun om en bedre politikk for å eie bolig og få bolig- og byggebransjen i gang",
   "type": 2
 }
@@ -178,3 +178,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 09078828390b8e9fdf8f36a74d79d6332a788334df9a0a1cca216390a1591885 -->
+<!-- innholds-hash: 829282d2529fd94f2d43258e3f273b2185b51a3baea160d9f81cbaf151b9b20f -->
 
 # Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 
@@ -10,11 +10,11 @@
 - **Korttittel:** Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren
 - **Status:** 2
 - **Henvisning:** None
-- **Komité:** Kontroll- og konstitusjonskomiteen
+- **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** Forsvar, Forsvarsmateriell
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-19T11:00:32Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200328
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -47,8 +47,8 @@
   "innstilling_id": -1,
   "innstilling_kode": 0,
   "komite": {
-    "id": "KONTROLL",
-    "navn": "Kontroll- og konstitusjonskomiteen"
+    "id": "KOMMFORV",
+    "navn": "Kommunal- og forvaltningskomiteen"
   },
   "korttittel": "Redegjørelse av forsvarsministeren om styring og kontroll i forsvarssektoren",
   "sak_fremmet_id": 200328,
@@ -234,3 +234,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

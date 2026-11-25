@@ -1,4 +1,4 @@
-<!-- innholds-hash: f09503eeace4ccdc1ff31f1b3c3291652c3a9173ea9cb7047fc3b920e949a07c -->
+<!-- innholds-hash: 46004e33d80783b2756958b367106b2b852bc72c80fe19d42ee85e0137a19bcd -->
 
 # Endringer i vass- og avløpsanleggslova m.m. (overvannsgebyr)
 
@@ -9,12 +9,12 @@
 - **Type:** 3
 - **Korttittel:** Endringer i vass- og avløpsanleggslova m.m. (overvannsgebyr)
 - **Status:** 2
-- **Henvisning:** Prop. 83 L (2025-2026)
+- **Henvisning:** Prop. 83 L (2025-2026), Innst. 63 L (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** Kommuner, Avgifter, Miljøvern, Lokalforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200230
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -56,10 +56,10 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 83 L (2025-2026)",
+  "henvisning": "Prop. 83 L (2025-2026), Innst. 63 L (2026-2027)",
   "id": 200230,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17624,
+  "innstilling_kode": 2,
   "komite": {
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -87,7 +87,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1775685600000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Endringer i vass- og avløpsanleggslova m.m. (overvannsgebyr)",
   "type": 3
@@ -100,3 +100,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-11-20** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

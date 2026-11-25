@@ -1,4 +1,4 @@
-<!-- innholds-hash: 98509809913debdf804094507ef0a2b655dff40e8954a2e65b7b088e40180190 -->
+<!-- innholds-hash: f8391cef29dee6d1bcb056440e390b2d6b6b4c1c9eca42b5635808f6464479a5 -->
 
 # Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund, Ingrid Fiskaa og Sunniva Holmås Eidsvoll om å bekjempe voldelige og ekstremistiske digitale nettverk rettet mot barn og unge
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å bekjempe voldelige og ekstremistiske digitale nettverk rettet mot barn og unge
 - **Status:** 2
-- **Henvisning:** Dokument 8:283 S (2025-2026)
+- **Henvisning:** Dokument 8:283 S (2025-2026), Innst. 74 S (2026-2027)
 - **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200298
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:283 S (2025-2026)",
+  "henvisning": "Dokument 8:283 S (2025-2026), Innst. 74 S (2026-2027)",
   "id": 200298,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17619,
+  "innstilling_kode": 1,
   "komite": {
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1777932000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Anne Lise Gjerstad Fredlund, Ingrid Fiskaa og Sunniva Holmås Eidsvoll om å bekjempe voldelige og ekstremistiske digitale nettverk rettet mot barn og unge",
   "type": 2
@@ -169,3 +169,4 @@
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-05-23** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 32581f998c70ad21084c64fde2ea1a9a63edd73c4388a34ce8d76b79cbbcde05 -->
+<!-- innholds-hash: af8d03d8b9cba3dc3122af48f0d14950c03752287dacf4b01a4057e27cd4acd3 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-12T16:33:39Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -171,7 +171,27 @@
   },
   "korttittel": "Representantforslag om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
   "sak_fremmet_id": 200507,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fredlund",
+      "foedselsdato": "/Date(402098400000+0200)/",
+      "fornavn": "Anne Lise Gjerstad",
+      "id": "ANNFRE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794438000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
@@ -185,3 +205,4 @@
 
 - **2026-11-10** Første gang hentet
 - **2026-11-12** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

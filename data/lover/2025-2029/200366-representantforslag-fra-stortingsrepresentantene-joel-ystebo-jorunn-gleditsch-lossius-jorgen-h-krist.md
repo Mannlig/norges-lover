@@ -1,4 +1,4 @@
-<!-- innholds-hash: ac97a702c3f535527bff9fbf34f3dbddca38bcd7e27c99547395d254307476f0 -->
+<!-- innholds-hash: dcba53c0ff0f730906f2842bfb77b969ef3d48925bbb64368f35a50b3fd05f04 -->
 
 # Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om å styrke ytringsfriheten for lærere
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke ytringsfriheten for lærere
 - **Status:** 2
-- **Henvisning:** Dokument 8:315 S (2025–2026)
+- **Henvisning:** Dokument 8:315 S (2025–2026), Innst. 65 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200366
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -104,10 +104,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:315 S (2025–2026)",
+  "henvisning": "Dokument 8:315 S (2025–2026), Innst. 65 S (2026-2027)",
   "id": 200366,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17622,
+  "innstilling_kode": 1,
   "komite": {
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -135,7 +135,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Joel Ystebø, Jorunn Gleditsch Lossius, Jørgen H. Kristiansen og Hans Edvard Askjer om å styrke ytringsfriheten for lærere",
   "type": 2
@@ -149,3 +149,4 @@
 - **2026-06-19** Første gang hentet
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: fd30f9627e6ae543c8385151c2751c6b823f1d60433054d82ec7a993b86f689b -->
+<!-- innholds-hash: be26a0000220f1082e63d26a4c4f9081c766a2a69c117623e0180d25347074ba -->
 
 # Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200514
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -133,7 +133,27 @@
   },
   "korttittel": "Representantforslag om å senke terskelen for fengsling av farlige ungdommer",
   "sak_fremmet_id": 200514,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Qureshi",
+      "foedselsdato": "/Date(505350000000+0100)/",
+      "fornavn": "Farukh",
+      "id": "FARQUR",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Os",
+        "navn": "Oslo"
+      },
+      "parti": {
+        "id": "A",
+        "navn": "Arbeiderpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer",
@@ -147,3 +167,4 @@
 
 - **2026-11-12** Første gang hentet
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

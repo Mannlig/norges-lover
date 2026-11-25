@@ -1,4 +1,4 @@
-<!-- innholds-hash: a2e193ff4d2f7f85236179e20c4756de5239063154fbb90b2e53a8a5076c0ea8 -->
+<!-- innholds-hash: 4763198db7c13e79091718f50098639f48d217615213315285d134a9c57e9791 -->
 
 # Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)
 
@@ -9,12 +9,12 @@
 - **Type:** 1
 - **Korttittel:** Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)
 - **Status:** 2
-- **Henvisning:** Prop. 110 S (2025–2026)
+- **Henvisning:** Prop. 110 S (2025–2026), Innst. 60 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-16T09:12:42Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200388
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -27,10 +27,10 @@
   "dokumentgruppe": 1,
   "emne_liste": [],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 110 S (2025–2026)",
+  "henvisning": "Prop. 110 S (2025–2026), Innst. 60 S (2026-2027)",
   "id": 200388,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17625,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -58,7 +58,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Endringer i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet  (utvidet bestillingsfullmakt)",
   "type": 1
@@ -71,3 +71,4 @@
 
 - **2026-10-06** Første gang hentet
 - **2026-10-16** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

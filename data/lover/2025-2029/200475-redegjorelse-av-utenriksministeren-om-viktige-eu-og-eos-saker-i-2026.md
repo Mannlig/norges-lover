@@ -1,4 +1,4 @@
-<!-- innholds-hash: 69879b19cbc1e79b1235062a7926148589ac83a70151735f8b2d9414993b1f02 -->
+<!-- innholds-hash: 62ffc7908b20f10260830c63fab5a37cfd5d19a24e4de4afcd45cf3efd72464d -->
 
 # Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026
 
@@ -14,7 +14,7 @@
 - **Emner:** Eu/eøs
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200475
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -43,7 +43,7 @@
   "korttittel": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
   "sak_fremmet_id": 200475,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1793919600000+0100)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
   "type": 2
@@ -58,3 +58,4 @@
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

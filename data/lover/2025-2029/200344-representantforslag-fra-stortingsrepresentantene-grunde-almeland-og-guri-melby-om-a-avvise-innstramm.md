@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6111fdf49a6e150cc8dd32a5f047050a8ac64efec8c6d555dc086acc169e9bc8 -->
+<!-- innholds-hash: 6cc4ffaf8df6e782657b15acdc68ef85230694d67556255760aad9df6d07dce9 -->
 
 # Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å avvise innstramminger i regulering av snus
 - **Status:** 2
-- **Henvisning:** Dokument 8:301 S (2025–2026)
+- **Henvisning:** Dokument 8:301 S (2025–2026), Innst. 68 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200344
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -66,10 +66,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:301 S (2025–2026)",
+  "henvisning": "Dokument 8:301 S (2025–2026), Innst. 68 S (2026-2027)",
   "id": 200344,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17618,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -97,7 +97,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781215200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Grunde Almeland og Guri Melby om å avvise innstramminger i regulering av snus",
   "type": 2
@@ -296,3 +296,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4291ad06eb92f0f58b0d3a66005793702fe9a313b68e47763b5c880d8a6800b5 -->
+<!-- innholds-hash: 224fbf4584aa3bc35eef0b54024b220dd26ebaae49472c4d4ca156d94bfe6859 -->
 
 # Endringar i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200535
 - **Type:** 1
 - **Korttittel:** Endringar i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 22 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200535
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200535,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Endringar i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet",
   "sak_fremmet_id": 200535,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795171500000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
+  "status": 2,
   "tittel": "Endringar i statsbudsjettet 2026 under  Helse- og omsorgsdepartementet",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-11-20** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

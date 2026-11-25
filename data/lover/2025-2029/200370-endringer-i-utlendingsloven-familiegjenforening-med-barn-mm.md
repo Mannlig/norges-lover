@@ -1,4 +1,4 @@
-<!-- innholds-hash: 5d4d32c3d33ea11b129c24c16cf580ce2749d3aa006e4164836ec2d08259674b -->
+<!-- innholds-hash: 90840b461ab64122bc1388ade23723e9145d9071cd130d6c471f035e8b2bceeb -->
 
 # Endringer i utlendingsloven (familiegjenforening med barn m.m.)
 
@@ -9,12 +9,12 @@
 - **Type:** 3
 - **Korttittel:** Endringer i utlendingsloven (familiegjenforening med barn m.m.)
 - **Status:** 2
-- **Henvisning:** Prop. 108 L (2025–2026)
+- **Henvisning:** Prop. 108 L (2025–2026), Innst. 64 L (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** Innvandrere, Familie, Barn
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -49,10 +49,10 @@
     }
   ],
   "forslagstiller_liste": [],
-  "henvisning": "Prop. 108 L (2025–2026)",
+  "henvisning": "Prop. 108 L (2025–2026), Innst. 64 L (2026-2027)",
   "id": 200370,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17623,
+  "innstilling_kode": 2,
   "komite": {
     "id": "KOMMFORV",
     "navn": "Kommunal- og forvaltningskomiteen"
@@ -80,7 +80,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1790719200000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Endringer i utlendingsloven (familiegjenforening med barn m.m.)",
   "type": 3
@@ -95,3 +95,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-20** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

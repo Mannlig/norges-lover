@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6925d0b9527ff620ffe8aa1270b45990ff6560de5683efc0bb028583cc74f059 -->
+<!-- innholds-hash: fedefbe52f25f60dc3f47e3e0a6051716b2765e345b362772a487b08692a00bb -->
 
 # Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om modernisering av regelverket for offentlige søkerlister
 - **Status:** 2
-- **Henvisning:** Dokument 8:305 S (2025–2026)
+- **Henvisning:** Dokument 8:305 S (2025–2026), Innst. 67 S (2026-2027)
 - **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200356
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -123,10 +123,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:305 S (2025–2026)",
+  "henvisning": "Dokument 8:305 S (2025–2026), Innst. 67 S (2026-2027)",
   "id": 200356,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17617,
+  "innstilling_kode": 1,
   "komite": {
     "id": "JUSTIS",
     "navn": "Justiskomiteen"
@@ -154,7 +154,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen, Amalie Gunnufsen og Anna Molberg om modernisering av regelverket for offentlige søkerlister",
   "type": 2
@@ -328,3 +328,4 @@
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

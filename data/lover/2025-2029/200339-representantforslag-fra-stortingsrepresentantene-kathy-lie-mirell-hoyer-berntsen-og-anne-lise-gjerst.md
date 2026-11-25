@@ -1,4 +1,4 @@
-<!-- innholds-hash: c1af61459099550a68339c13f9ec5bce0c43099c7bacc6418244429dabf900e3 -->
+<!-- innholds-hash: f9fe93a7ff59c91b27ee7db07c8fed4307275aa653064a6b6ad35984073c4c0f -->
 
 # Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om innføring av makspris på egenandeler knyttet til praktisk bistand
 - **Status:** 2
-- **Henvisning:** Dokument 8:298 S (2025–2026)
+- **Henvisning:** Dokument 8:298 S (2025–2026), Innst. 69 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200339
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:298 S (2025–2026)",
+  "henvisning": "Dokument 8:298 S (2025–2026), Innst. 69 S (2026-2027)",
   "id": 200339,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17621,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1780956000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kathy Lie, Mirell Høyer-Berntsen og Anne Lise Gjerstad Fredlund om innføring av makspris på egenandeler knyttet til praktisk bistand",
   "type": 2
@@ -163,3 +163,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

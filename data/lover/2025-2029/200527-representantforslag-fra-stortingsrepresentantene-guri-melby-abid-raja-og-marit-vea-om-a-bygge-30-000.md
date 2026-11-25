@@ -1,4 +1,4 @@
-<!-- innholds-hash: 688103aafa416155b703b620243e41a5b4b1e758ad5773173ec6de74bde7df59 -->
+<!-- innholds-hash: 53d6e7250889de7c45c690f3b9de8fb3ff2c3456199f3e01a02b769e048e3228 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200527
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -95,7 +95,27 @@
   },
   "korttittel": "Representantforslag om å bygge 30 000 boliger for førstegangsetablerere",
   "sak_fremmet_id": 200527,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Midtun",
+      "foedselsdato": "/Date(106437600000+0200)/",
+      "fornavn": "Rune",
+      "id": "RUNMID",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ro",
+        "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å bygge 30 000 boliger for førstegangsetablerere",
@@ -109,3 +129,4 @@
 
 - **2026-11-18** Første gang hentet
 - **2026-11-19** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

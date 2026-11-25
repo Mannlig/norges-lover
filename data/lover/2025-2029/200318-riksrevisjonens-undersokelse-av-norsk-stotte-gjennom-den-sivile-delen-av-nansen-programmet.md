@@ -1,4 +1,4 @@
-<!-- innholds-hash: 017780285e418a8c9dfb4363f5f7202535f69f4bca752238eec0ee4995168d55 -->
+<!-- innholds-hash: 275f930eadd12a4d346eaa7a840f7db5884b87b87b0561f7eaaff8f0493b707f -->
 
 # Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200318
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 3:12 (2025-2026), Innst. 49 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200318
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Riksrevisjonens undersøkelse av norsk støtte gjennom den sivile delen av Nansen-programmet",
   "type": 2
 }
@@ -86,3 +86,4 @@
 - **2026-06-03** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

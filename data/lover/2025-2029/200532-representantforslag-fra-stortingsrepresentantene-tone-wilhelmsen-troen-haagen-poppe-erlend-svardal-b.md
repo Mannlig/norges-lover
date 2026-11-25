@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4ced39bddfd4f8996539869f8e76178593c61905817b1da1969cfc5386f5bd56 -->
+<!-- innholds-hash: c340d20f5f7d8483a4036460e3371b2c4c783657a6a79fefe955a13ab0dedb0b -->
 
 # Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Erlend Svardal Bøe, Margret Hagerup, Anita Sollie, Mari Holm Lønseth og Anne Kristine Linnestad om strengere regulering av kosmetiske inngrep og injeksjoner
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200532
 - **Type:** 2
 - **Korttittel:** Representantforslag om strengere regulering av kosmetiske inngrep og injeksjoner
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:57 S (2026–2027)
-- **Komité:** 
+- **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200532
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -146,12 +146,15 @@
   "id": 200532,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om strengere regulering av kosmetiske inngrep og injeksjoner",
   "sak_fremmet_id": 200532,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Erlend Svardal Bøe, Margret Hagerup, Anita Sollie, Mari Holm Lønseth og Anne Kristine Linnestad om strengere regulering av kosmetiske inngrep og injeksjoner",
   "type": 2
 }
@@ -162,3 +165,4 @@
 ## Endringshistorikk
 
 - **2026-11-19** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

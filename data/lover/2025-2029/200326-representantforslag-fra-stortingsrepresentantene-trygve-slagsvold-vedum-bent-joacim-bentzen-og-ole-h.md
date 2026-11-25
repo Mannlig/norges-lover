@@ -1,4 +1,4 @@
-<!-- innholds-hash: 80d58695676ba182c32ba56421165e11e92678d6e13894abdda3f867ffdbfca7 -->
+<!-- innholds-hash: c9476bcc85aceb1569a191257dc5db6ee48f82f8e04cea76430a2dc7e6342d17 -->
 
 # Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å sikre videre drift av gasskraftverket i Hammerfest
 - **Status:** 2
-- **Henvisning:** Dokument 8:296 S (2025-2026)
+- **Henvisning:** Dokument 8:296 S (2025-2026), Innst. 71 S (2026-2027)
 - **Komité:** Energi- og miljøkomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T19:08:37Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200326
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:296 S (2025-2026)",
+  "henvisning": "Dokument 8:296 S (2025-2026), Innst. 71 S (2026-2027)",
   "id": 200326,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17628,
+  "innstilling_kode": 1,
   "komite": {
     "id": "ENERGI",
     "navn": "Energi- og miljøkomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1779746400000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Bent-Joacim Bentzen og Ole Herman Sveian om å sikre videre drift av gasskraftverket i Hammerfest",
   "type": 2
@@ -137,3 +137,4 @@
 - **2026-06-05** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

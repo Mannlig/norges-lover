@@ -1,4 +1,4 @@
-<!-- innholds-hash: 238eb0aae2ee3fa7571bcd56bfb239694c28550ee8f342c0ddc469d51a5270db -->
+<!-- innholds-hash: e49aeab519520b1be1f736b975c73e876a81f86b38f0b0d898ac54022b47e1e5 -->
 
 # Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Haagen Poppe og Anna Molberg om å la kommunene selv regulere konsum av alkohol på offentlig sted
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200531
 - **Type:** 2
 - **Korttittel:** Representantforslag om å la kommunene selv regulere konsum av alkohol på offentlig sted
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:58 S (2026–2027)
-- **Komité:** 
+- **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-19T17:52:52Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200531
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -89,12 +89,15 @@
   "id": 200531,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om å la kommunene selv regulere konsum av alkohol på offentlig sted",
   "sak_fremmet_id": 200531,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795042800000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Haagen Poppe og Anna Molberg om å la kommunene selv regulere konsum av alkohol på offentlig sted",
   "type": 2
 }
@@ -105,3 +108,4 @@
 ## Endringshistorikk
 
 - **2026-11-19** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

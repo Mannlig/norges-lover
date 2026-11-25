@@ -1,15 +1,15 @@
-<!-- innholds-hash: 6d67bbbe387e936aa006b0d7907b72577e496fd6765c5cca74ad6103871dead1 -->
+<!-- innholds-hash: a0b191ac711b5f09c83e04df5c466ef8ae7d896df1e1d60ea5df38d622027ed8 -->
 
 # Arkiv - Supplerende stønad. September 2023 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-supplerende-stonad.september-2023
-- **Sist oppdatert i arkivet:** 2026-10-12T12:48:05Z
+- **Sist oppdatert i arkivet:** 2026-11-24T23:43:42Z
 
 ## Innhold
 
-Publisert 16.02.2024 | Oppdatert 03.05.2024
+Publisert 16.02.2024 | Oppdatert 03.11.2026
 
 ## Arkiv - Supplerende stønad. September 2023
 
@@ -38,7 +38,7 @@ De fleste har redusert ytelse
 
 Supplerende stønad til uføre flyktninger
 
-Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninger. Mottakere av denne ytelsen vil etter planen inngå i annen statistikk, og er ikke med i statistikken som presenteres her (som omhandler supplerende stønad til personer som er 67 år eller eldre). [Mer om ordningen for uføre flyktninger.](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-ufore-flyktninger)
+Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninger. Mottakere av denne ytelsen vil etter planen inngå i annen statistikk, og er ikke med i statistikken som presenteres her (som omhandler supplerende stønad til personer som er 67 år eller eldre). [Mer om ordningen for uføre flyktninger.](https://www.nav.no/supplerende-stonad-flyktninger)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-supplerende-stonad.september-2023) av norges-lover-bot.*
@@ -46,3 +46,4 @@ Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninge
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

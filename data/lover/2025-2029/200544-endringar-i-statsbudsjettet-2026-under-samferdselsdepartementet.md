@@ -1,4 +1,4 @@
-<!-- innholds-hash: dc1af9ece8631e708ed85a147350df57e1ae4a7b38c489899d64d40b4407c779 -->
+<!-- innholds-hash: 6c409bc8ea1646e63608040b3f5f46b1199b9a3b7f499056b91840f0c2016869 -->
 
 # Endringar i statsbudsjettet 2026 under Samferdselsdepartementet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200544
 - **Type:** 1
 - **Korttittel:** Endringar i statsbudsjettet 2026 under Samferdselsdepartementet
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Prop. 19 S (2026–2027)
-- **Komité:** 
+- **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200544
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -31,12 +31,15 @@
   "id": 200544,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "FINANS",
+    "navn": "Finanskomiteen"
+  },
   "korttittel": "Endringar i statsbudsjettet 2026 under Samferdselsdepartementet",
   "sak_fremmet_id": 200544,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795171500000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
+  "status": 2,
   "tittel": "Endringar i statsbudsjettet 2026 under Samferdselsdepartementet",
   "type": 1
 }
@@ -47,3 +50,4 @@
 ## Endringshistorikk
 
 - **2026-11-20** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

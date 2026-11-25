@@ -1,15 +1,15 @@
-<!-- innholds-hash: ee49ec07eb3f8336de6e88c9e0789b40876cb39917535cbc47c58a4fe5d57309 -->
+<!-- innholds-hash: d5af7be67a9d09c2aa30d0e6147110086394479d37768642967a14c80873e9a0 -->
 
 # Arkiv - Supplerende stønad. Desember 2021 - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-supplerende-stonad.desember-2021
-- **Sist oppdatert i arkivet:** 2026-10-12T07:32:35Z
+- **Sist oppdatert i arkivet:** 2026-11-24T22:09:04Z
 
 ## Innhold
 
-Publisert 09.05.2022 | Oppdatert 09.05.2022
+Publisert 09.05.2022 | Oppdatert 03.11.2026
 
 ## Arkiv - Supplerende stønad. Desember 2021
 
@@ -36,7 +36,7 @@ Gjennomsnittlig alder for mottakerne av supplerende stønad var 76,6 år per des
 
 #### Supplerende stønad til uføre flyktninger
 
-Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninger. Mottakere av denne ytelsen vil etter planen inngå i annen statistikk, og er ikke med i statistikken som presenteres her (som omhandler supplerende stønad til personer som er 67 år eller eldre). [Mer om ordningen for uføre flyktninger.](https://www.nav.no/no/person/pensjon/andre-pensjonsordninger/supplerende-stonad-for-ufore-flyktninger)
+Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninger. Mottakere av denne ytelsen vil etter planen inngå i annen statistikk, og er ikke med i statistikken som presenteres her (som omhandler supplerende stønad til personer som er 67 år eller eldre). [Mer om ordningen for uføre flyktninger.](https://www.nav.no/supplerende-stonad-flyktninger)
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/no/nav-og-samfunn/statistikk/pensjon-statistikk/relatert-informasjon/arkiv-supplerende-stonad.desember-2021) av norges-lover-bot.*
@@ -44,3 +44,4 @@ Fra og med januar 2021 er det innført supplerende stønad til uføre flyktninge
 ## Endringshistorikk
 
 - **2026-10-12** Første gang hentet
+- **2026-11-24** Innhold endret (se git-historikk for diff)

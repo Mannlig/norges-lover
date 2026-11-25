@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4668204bbd187cf996cd8c5f1a40cd949cddc0fcc46d07b6ae5dac89da0472df -->
+<!-- innholds-hash: 8fcbf7c6e2333c1f021e4e5fa2721d97fbe10c56a6f7bb441ae98039a5f0d3c9 -->
 
 # Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)
 
@@ -14,7 +14,7 @@
 - **Emner:** Domstoler, Avgifter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T12:13:16Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200518
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -52,7 +52,27 @@
   },
   "korttittel": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
   "sak_fremmet_id": 200518,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Elseth",
+      "foedselsdato": "/Date(112831200000+0200)/",
+      "fornavn": "Anette Carnarius",
+      "id": "AE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ak",
+        "navn": "Akershus"
+      },
+      "parti": {
+        "id": "FrP",
+        "navn": "Fremskrittspartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
@@ -67,3 +87,4 @@
 - **2026-11-13** Første gang hentet
 - **2026-11-17** Innhold endret (se git-historikk for diff)
 - **2026-11-20** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

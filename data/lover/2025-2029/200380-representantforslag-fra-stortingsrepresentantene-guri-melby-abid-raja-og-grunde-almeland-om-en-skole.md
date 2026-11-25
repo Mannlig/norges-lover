@@ -1,4 +1,4 @@
-<!-- innholds-hash: 12bd7abe08c60271727c57bef15bdbcfc17775e5080a0f0ee4eb31aa36930689 -->
+<!-- innholds-hash: 1c8de451d8e7bb72992eee9f39d326e22c5cbc1a45e39e6afdb5a2b70a783174 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200380
 - **Type:** 2
 - **Korttittel:** Representantforslag om en skole å bli nysgjerrig i
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:320 S (2025–2026), Innst. 43 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-18T00:59:19Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:18Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200380
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -117,7 +117,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Grunde Almeland om en skole å bli nysgjerrig i",
   "type": 2
 }
@@ -131,3 +131,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-18** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

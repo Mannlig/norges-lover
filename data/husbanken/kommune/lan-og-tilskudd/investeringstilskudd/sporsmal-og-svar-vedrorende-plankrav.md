@@ -1,4 +1,4 @@
-<!-- innholds-hash: ee264a7ec61cc23515dd53695e945a21a45d855dc523b131087f6ea20aa65ecb -->
+<!-- innholds-hash: fcee37645612e1df8d063976fd8ec4801beea24d57269a262d0672c5ddd258be -->
 
 # Spørsmål og svar vedrørende plankrav
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Husbanken – https://www.husbanken.no/kommune/lan-og-tilskudd/investeringstilskudd/sporsmal-og-svar-vedrorende-plankrav/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-08T14:32:16Z
+- **Sist oppdatert i arkivet:** 2026-11-25T00:52:01Z
 
 ## Innhold
 
@@ -22,7 +22,7 @@ Her har vi lagt inn svar på spørsmål vi ofte får fra dere.
 
 ### Dialogverktøy
 
-Sist oppdatert: 15.01.2025
+Sist oppdatert: 17.11.2026
 
 ---
 *Automatisk hentet fra [Husbanken](https://www.husbanken.no/kommune/lan-og-tilskudd/investeringstilskudd/sporsmal-og-svar-vedrorende-plankrav/) av norges-lover-bot.*
@@ -30,3 +30,4 @@ Sist oppdatert: 15.01.2025
 ## Endringshistorikk
 
 - **2026-10-08** Første gang hentet
+- **2026-11-25** Innhold endret (se git-historikk for diff)

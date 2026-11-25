@@ -1,4 +1,4 @@
-<!-- innholds-hash: 6aa413f6d25cf7ad4a343ee80cd93606326ca29fcad7d2d7ec41b586e20c7313 -->
+<!-- innholds-hash: eedabcc7eedd54e9f73fa3ce9aeaf4e36c9e0faff9cabcd1bdcfed9ece99bf52 -->
 
 # Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus
 
@@ -9,12 +9,12 @@
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke kvinners tilgang på medikamentell abort utenfor sykehus
 - **Status:** 2
-- **Henvisning:** Dokument 8:309 S (2025–2026)
+- **Henvisning:** Dokument 8:309 S (2025–2026), Innst. 66 S (2026-2027)
 - **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200360
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -85,10 +85,10 @@
       "vara_representant": false
     }
   ],
-  "henvisning": "Dokument 8:309 S (2025–2026)",
+  "henvisning": "Dokument 8:309 S (2025–2026), Innst. 66 S (2026-2027)",
   "id": 200360,
-  "innstilling_id": -1,
-  "innstilling_kode": 0,
+  "innstilling_id": 17626,
+  "innstilling_kode": 1,
   "komite": {
     "id": "HELSEOMS",
     "navn": "Helse- og omsorgskomiteen"
@@ -116,7 +116,7 @@
       "vara_representant": false
     }
   ],
-  "sist_oppdatert_dato": "/Date(1781820000000+0200)/",
+  "sist_oppdatert_dato": "/Date(1795474800000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Guri Melby, Grunde Almeland og Ane Breivik om å styrke kvinners tilgang på medikamentell abort utenfor sykehus",
   "type": 2
@@ -289,3 +289,4 @@
 - **2026-08-01** Innhold endret (se git-historikk for diff)
 - **2026-08-02** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

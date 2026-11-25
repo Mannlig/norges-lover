@@ -1,4 +1,4 @@
-<!-- innholds-hash: db94ce89d4a4ccf203566eaf9d02d31b9739e14f25232c64c01cde549be1e83f -->
+<!-- innholds-hash: 3a4f5bb864a890c4af6922c39d8a62f26548038ae92365c176533afbeac4865a -->
 
 # Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov
 
@@ -14,7 +14,7 @@
 - **Emner:** Politi og påtalemyndighet, Statsforvaltning
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-10T20:42:42Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -110,7 +110,27 @@
   },
   "korttittel": "Representantforslag om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
   "sak_fremmet_id": 200496,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Stuestøl",
+      "foedselsdato": "/Date(432338400000+0200)/",
+      "fornavn": "Julie E.",
+      "id": "JULSTU",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ve",
+        "navn": "Vestfold"
+      },
+      "parti": {
+        "id": "MDG",
+        "navn": "Miljøpartiet De Grønne",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794265200000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
@@ -125,3 +145,4 @@
 - **2026-11-03** Første gang hentet
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-10** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)

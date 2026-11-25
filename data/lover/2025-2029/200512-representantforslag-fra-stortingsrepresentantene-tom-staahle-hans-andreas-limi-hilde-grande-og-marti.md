@@ -1,4 +1,4 @@
-<!-- innholds-hash: 61b810dda4dcdfac3a63be8c3a0abad91daf5e4d7008ad620d090f05cc7f36e6 -->
+<!-- innholds-hash: a33cf1c84cb9ccd7c95b45a5693c1db11d1b8e22fa419c9acdbd731931c0ed62 -->
 
 # Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-24T20:14:19Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200512
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -114,7 +114,27 @@
   },
   "korttittel": "Representantforslag om en slankere og mer effektiv stat",
   "sak_fremmet_id": 200512,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Fasteraune",
+      "foedselsdato": "/Date(-176090400000+0200)/",
+      "fornavn": "Bengt",
+      "id": "BFA",
+      "kjoenn": 2,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Op",
+        "navn": "Oppland"
+      },
+      "parti": {
+        "id": "Sp",
+        "navn": "Senterpartiet",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat",
@@ -128,3 +148,4 @@
 
 - **2026-11-12** Første gang hentet
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-24** Innhold endret (se git-historikk for diff)
