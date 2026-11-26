@@ -2,7 +2,7 @@
 
 Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger. **Dette er saksmetadata, ikke lovtekst.**
 
-**Antall dokumenter:** 1982
+**Antall dokumenter:** 1984
 
 ## Innhold
 
@@ -1785,7 +1785,7 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Endringer i Stortingets forretningsorden](2025-2029/200329-endringer-i-stortingets-forretningsorden.md)
 - [Endret kostnadsramme for riksveiprosjektet E134 Røldal-Seljestad i Vestland](2025-2029/200330-endret-kostnadsramme-for-riksveiprosjektet-e134-roldal-seljestad-i-vestland.md)
 - [Endringer i statsbudsjettet 2026 under Landbruks- og matdepartementet (Jordbruksoppgjøret 2026)](2025-2029/200331-endringer-i-statsbudsjettet-2026-under-landbruks-og-matdepartementet-jordbruksoppgjoret-2026.md)
-- [Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn](2025-2029/200332-representantforslag-fra-stortingsrepresentantene-mirell-hoyer-berntsen-sunniva-holmas-eidsvoll-og-in.md)
+- [Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll, Ingrid Fiskaa og Kathy Lie om regulering av prediksjonsmarkeder og styrket tilsyn](2025-2029/200332-representantforslag-fra-stortingsrepresentantene-mirell-hoyer-berntsen-sunniva-holmas-eidsvoll-og-in.md)
 - [Endringar i statsbudsjettet 2026 under Helse- og omsorgsdepartementet (som følgje av endra takstar for legar, psykologar og fysioterapeutar)](2025-2029/200334-endringar-i-statsbudsjettet-2026-under-helse-og-omsorgsdepartementet-som-folgje-av-endra-takstar-for.md)
 - [Regulering av pensjonar i 2026 og inntektstilhøve for pensjonistar](2025-2029/200335-regulering-av-pensjonar-i-2026-og-inntektstilhove-for-pensjonistar.md)
 - [Endringar i statsbudsjettet 2026 under Finansdepartementet og Digitaliserings- og forvaltningsdepartementet (lønsregulering for arbeidstakarar i det statlege tariffområdet 2026 m.m.)](2025-2029/200336-endringar-i-statsbudsjettet-2026-under-finansdepartementet-og-digitaliserings-og-forvaltningsdeparte.md)
@@ -1982,7 +1982,9 @@ Saker fra Stortingets åpne API: tittel, status, komité, emner og henvisninger.
 - [Endringar i statsbudsjettet 2026 under Kunnskapsdepartementet](2025-2029/200547-endringar-i-statsbudsjettet-2026-under-kunnskapsdepartementet.md)
 - [Endringer i statsbudsjettet 2026 under  Klima- og miljødepartementet](2025-2029/200548-endringer-i-statsbudsjettet-2026-under-klima-og-miljodepartementet.md)
 - [Endringar i statsbudsjettet 2026 under Utanriksdepartementet](2025-2029/200549-endringar-i-statsbudsjettet-2026-under-utanriksdepartementet.md)
+- [Riksrevisjonens undersøkelse av økonomistyring og effektiv ressursbruk i spesialisthelsetjenesten](2025-2029/200550-riksrevisjonens-undersokelse-av-okonomistyring-og-effektiv-ressursbruk-i-spesialisthelsetjenesten.md)
 - [Riksrevisjonens årlige rapport om revisjon av statens eierstyring](2025-2029/200551-riksrevisjonens-arlige-rapport-om-revisjon-av-statens-eierstyring.md)
+- [Riksrevisjonens undersøkelse av forventet mangel på helsepersonell fram mot 2040](2025-2029/200552-riksrevisjonens-undersokelse-av-forventet-mangel-pa-helsepersonell-fram-mot-2040.md)
 - [Representantforslag frå stortingsrepresentantane Trond Helleland, Anne Kristine Linnestad, Erlend Larsen, Erlend Svardal Bøe og Tone Wilhelmsen Trøen om å auke taxfreekvotane](2025-2029/200553-representantforslag-fra-stortingsrepresentantane-trond-helleland-anne-kristine-linnestad-erlend-lars.md)
 - [Representantforslag fra stortingsrepresentant Seher Aydar om bedre kontroll og regulering av kosmetiske klinikker](2025-2029/200554-representantforslag-fra-stortingsrepresentant-seher-aydar-om-bedre-kontroll-og-regulering-av-kosmeti.md)
 - [Representantforslag fra stortingsrepresentantene Mari Holm Lønseth, Mahmoud Farahmand, Tone Wilhelmsen Trøen og Margret Hagerup om å beskytte ofrene for vold i nære relasjoner](2025-2029/200555-representantforslag-fra-stortingsrepresentantene-mari-holm-lonseth-mahmoud-farahmand-tone-wilhelmsen.md)

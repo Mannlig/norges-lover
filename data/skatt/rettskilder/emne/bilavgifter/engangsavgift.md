@@ -1,4 +1,4 @@
-<!-- innholds-hash: fb81d33d97238425b9fcbd7423f33098f954a61d356034b49b1cef9cfeb7bdeb -->
+<!-- innholds-hash: 730cf8a63d80c243bc9754c2867140df5f01207edc21b861d80038021273a3dc -->
 
 # Rettskilder om engangsavgift
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/bilavgifter/engangsavgift/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T12:32:46Z
+- **Sist oppdatert i arkivet:** 2026-11-26T17:31:36Z
 
 ## Innhold
 
@@ -31,8 +31,8 @@ Se veiledningsinformasjon om å [omregistrere et kjøretøy](https://www.skattee
 3. [Engangsavgift 2025](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2025/) Publisert 07.01.2025 | Gjelder fra : 31.12.2024 | Avgiftsrundskriv
 4. [Engangsavgift – forslag til endringer i Stortingets avgiftsvedtak om engangsavgift og forskrift om engangsavgift – innføring av egen avgiftsgruppe for personbildrosjer tilpasset for transport av rullestolbrukere](https://www.skatteetaten.no/rettskilder/type/horinger/engangsavgift--forslag-til-endringer-i-stortingets-avgiftsvedtak-om-engangsavgift-og-forskrift-om-engangsavgift--innforing-av-egen-avgiftsgruppe-for-personbildrosjer-tilpasset-for-transport-av-rullestolbrukere/) Publisert 16.03.2022 | Avgitt: 15.03.2022 | Høring
 5. [Engangsavgift 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2022/) Publisert 23.01.2022 | Gjelder fra : 30.06.2022 | Avgiftsrundskriv
-6. [Engangsavgift 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2024/) Publisert 23.01.2022 | Gjelder fra : 30.06.2024 | Avgiftsrundskriv
-7. [Engangsavgift 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2023/) Publisert 23.01.2022 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+6. [Engangsavgift 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2023/) Publisert 23.01.2022 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+7. [Engangsavgift 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2024/) Publisert 23.01.2022 | Gjelder fra : 30.06.2024 | Avgiftsrundskriv
 8. [Engangsavgift – forslag til endringer i forskrift om engangsavgift – ny avgiftsmessig definisjon av campingbil](https://www.skatteetaten.no/rettskilder/type/horinger/engangsavgift-definisjon-campingbil/) Publisert 09.09.2021 | Avgitt: 09.09.2021 | Høring
 9. [Engangsavgift 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2021/) Publisert 20.01.2021 | Gjelder fra : 30.06.2021 | Avgiftsrundskriv
 10. [Engangsavgift 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/engangsavgift-2020/) Publisert 13.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
@@ -49,3 +49,4 @@ Se veiledningsinformasjon om å [omregistrere et kjøretøy](https://www.skattee
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-26** Innhold endret (se git-historikk for diff)

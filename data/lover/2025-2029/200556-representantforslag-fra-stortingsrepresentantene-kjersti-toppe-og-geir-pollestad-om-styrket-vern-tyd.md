@@ -1,4 +1,4 @@
-<!-- innholds-hash: 037f565711dfcd623fe5d584b808d1a36557b87f990ab37425fa9b2a736a89bd -->
+<!-- innholds-hash: ae4b46ac2fa303ae9f91011161af1598f64d34276250e9e91e842792faa4c737 -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe og Geir Pollestad om styrket vern, tydeligere ansvar og én vei inn for pårørende
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200556
 - **Type:** 2
 - **Korttittel:** Representantforslag om styrket vern, tydeligere ansvar og én vei inn for pårørende
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:63 S (2026–2027)
-- **Komité:** 
+- **Komité:** Helse- og omsorgskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-25T15:11:52Z
+- **Sist oppdatert i arkivet:** 2026-11-26T15:18:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200556
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -70,12 +70,15 @@
   "id": 200556,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "HELSEOMS",
+    "navn": "Helse- og omsorgskomiteen"
+  },
   "korttittel": "Representantforslag om styrket vern, tydeligere ansvar og én vei inn for pårørende",
   "sak_fremmet_id": 200556,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795561200000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795647600000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kjersti Toppe og Geir Pollestad om styrket vern, tydeligere ansvar og én vei inn for pårørende",
   "type": 2
 }
@@ -86,3 +89,4 @@
 ## Endringshistorikk
 
 - **2026-11-25** Første gang hentet
+- **2026-11-26** Innhold endret (se git-historikk for diff)

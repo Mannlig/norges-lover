@@ -1,4 +1,4 @@
-<!-- innholds-hash: c81a46b2c2f9600e8525838e73ecfcc79e545b3af4a813618663d6f57f9c9909 -->
+<!-- innholds-hash: 23c13bf7aecbe10f9785dda6417597f2b2ed6f673a1dda424cef2f25f66f38a4 -->
 
 # Representantforslag fra stortingsrepresentantene Mari Holm Lønseth, Mahmoud Farahmand, Tone Wilhelmsen Trøen og Margret Hagerup om å beskytte ofrene for vold i nære relasjoner
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200555
 - **Type:** 2
 - **Korttittel:** Representantforslag om å beskytte ofrene for vold i nære relasjoner
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:61 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-25T15:11:52Z
+- **Sist oppdatert i arkivet:** 2026-11-26T15:18:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200555
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -108,12 +108,15 @@
   "id": 200555,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om å beskytte ofrene for vold i nære relasjoner",
   "sak_fremmet_id": 200555,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795561200000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795647600000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Mari Holm Lønseth, Mahmoud Farahmand, Tone Wilhelmsen Trøen og Margret Hagerup om å beskytte ofrene for vold i nære relasjoner",
   "type": 2
 }
@@ -124,3 +127,4 @@
 ## Endringshistorikk
 
 - **2026-11-25** Første gang hentet
+- **2026-11-26** Innhold endret (se git-historikk for diff)

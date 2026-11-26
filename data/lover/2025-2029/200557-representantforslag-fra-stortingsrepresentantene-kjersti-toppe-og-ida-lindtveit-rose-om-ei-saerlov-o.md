@@ -1,4 +1,4 @@
-<!-- innholds-hash: f48bafc7de49d312e1911e5a1a63e1ef3a3d0cdc284590d3a7896e83a0111c0b -->
+<!-- innholds-hash: 581544c27fb619b1a7031247365f0160a87a239be0ef50171045d71231a968f2 -->
 
 # Representantforslag fra stortingsrepresentantene Kjersti Toppe og Ida Lindtveit Røse om ei særlov om Vanvikansaka
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200557
 - **Type:** 2
 - **Korttittel:** Representantforslag om ei særlov om Vanvikansaka
-- **Status:** 3
+- **Status:** 2
 - **Henvisning:** Dokument 8:62 S (2026–2027)
-- **Komité:** 
+- **Komité:** Justiskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-25T15:11:52Z
+- **Sist oppdatert i arkivet:** 2026-11-26T15:18:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200557
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -70,12 +70,15 @@
   "id": 200557,
   "innstilling_id": -1,
   "innstilling_kode": 0,
-  "komite": null,
+  "komite": {
+    "id": "JUSTIS",
+    "navn": "Justiskomiteen"
+  },
   "korttittel": "Representantforslag om ei særlov om Vanvikansaka",
   "sak_fremmet_id": 200557,
   "saksordfoerer_liste": [],
-  "sist_oppdatert_dato": "/Date(1795561200000+0100)/",
-  "status": 3,
+  "sist_oppdatert_dato": "/Date(1795647600000+0100)/",
+  "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Kjersti Toppe og Ida Lindtveit Røse om ei særlov om Vanvikansaka",
   "type": 2
 }
@@ -86,3 +89,4 @@
 ## Endringshistorikk
 
 - **2026-11-25** Første gang hentet
+- **2026-11-26** Innhold endret (se git-historikk for diff)

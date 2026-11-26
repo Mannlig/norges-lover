@@ -1,6 +1,6 @@
-<!-- innholds-hash: e6f68c6c8f7f163b7e1696372ed6dae95b6796899aba6bb599e902d3d8755e9a -->
+<!-- innholds-hash: d363c9ff379a91d220703497a8d70472ef05d9992cd7860476b5fb859e1652f9 -->
 
-# Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn
+# Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll, Ingrid Fiskaa og Kathy Lie om regulering av prediksjonsmarkeder og styrket tilsyn
 
 ## Metadata
 
@@ -14,7 +14,7 @@
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T15:18:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200332
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -38,6 +38,25 @@
         "historisk_fylke": false,
         "id": "Ro",
         "navn": "Rogaland"
+      },
+      "parti": {
+        "id": "SV",
+        "navn": "Sosialistisk Venstreparti",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    },
+    {
+      "doedsdato": null,
+      "etternavn": "Lie",
+      "foedselsdato": "/Date(-183085200000+0100)/",
+      "fornavn": "Kathy",
+      "id": "KATLIE",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Bu",
+        "navn": "Buskerud"
       },
       "parti": {
         "id": "SV",
@@ -118,7 +137,7 @@
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
   "status": 2,
-  "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll og Ingrid Fiskaa om regulering av prediksjonsmarkeder og styrket tilsyn",
+  "tittel": "Representantforslag fra stortingsrepresentantene Mirell Høyer-Berntsen, Sunniva Holmås Eidsvoll, Ingrid Fiskaa og Kathy Lie om regulering av prediksjonsmarkeder og styrket tilsyn",
   "type": 2
 }
 ```
@@ -158,3 +177,4 @@
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

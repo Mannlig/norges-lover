@@ -1,4 +1,4 @@
-<!-- innholds-hash: 85cf9efc719f6c428c6dac2905e96210a5c279476424b46cdb9356bd793f17dd -->
+<!-- innholds-hash: b83a09074e78a31eba8c2ceb24c7c9d4514574905b5b50f3f70c2ce83b51ff84 -->
 
 # Representantforslag fra stortingsrepresentantene Ingrid Liland, Kirsti Bergstø og Bjørnar Moxnes om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter
 
@@ -14,7 +14,7 @@
 - **Emner:** Likestilling, Utenrikssaker, Menneskerettigheter
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-06T12:40:11Z
+- **Sist oppdatert i arkivet:** 2026-11-26T15:18:29Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200487
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -117,7 +117,27 @@
   },
   "korttittel": "Representantforslag om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
   "sak_fremmet_id": 200487,
-  "saksordfoerer_liste": [],
+  "saksordfoerer_liste": [
+    {
+      "doedsdato": null,
+      "etternavn": "Solberg",
+      "foedselsdato": "/Date(-279334800000+0100)/",
+      "fornavn": "Erna",
+      "id": "ES",
+      "kjoenn": 1,
+      "fylke": {
+        "historisk_fylke": false,
+        "id": "Ho",
+        "navn": "Hordaland"
+      },
+      "parti": {
+        "id": "H",
+        "navn": "Høyre",
+        "representert_parti": true
+      },
+      "vara_representant": false
+    }
+  ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
   "status": 2,
   "tittel": "Representantforslag fra stortingsrepresentantene Ingrid Liland, Kirsti Bergstø og Bjørnar Moxnes om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
@@ -132,3 +152,4 @@
 - **2026-10-22** Første gang hentet
 - **2026-11-03** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)
