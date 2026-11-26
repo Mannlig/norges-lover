@@ -1,4 +1,4 @@
-<!-- innholds-hash: 058cab1e1c2b6bcac0e9114ccf120127cf1dc7aea345a13d02af0a19df03806d -->
+<!-- innholds-hash: bbef5bb6bb104383cb4e01e93d42559061b48376ae22d2479d649d043fae2f66 -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200288
 - **Type:** 2
 - **Korttittel:** Representantforslag om å nedsette en forskjellskommisjon
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:279 S (2025-2026)
 - **Komité:** Finanskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-10-06T02:12:22Z
+- **Sist oppdatert i arkivet:** 2026-11-26T09:29:59Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200288
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -98,7 +98,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1776895200000+0200)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Marthe Hammer og Kirsti Bergstø om å nedsette en forskjellskommisjon",
   "type": 2
 }
@@ -125,3 +125,4 @@
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-05-21** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)
