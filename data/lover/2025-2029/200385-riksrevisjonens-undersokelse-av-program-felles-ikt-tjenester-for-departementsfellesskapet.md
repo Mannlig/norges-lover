@@ -1,4 +1,4 @@
-<!-- innholds-hash: 7316b2373f1a2da1abbac6e5ef4ac8dc5ca6efff04d0ceac2e35ccc1311e38cb -->
+<!-- innholds-hash: ea56f74570e1e24b3a2b43cb9e0c87d6af4d64dfcbe5fe104033c536e4778821 -->
 
 # Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200385
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 3:18 (2025–2026), Innst. 42 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200385
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Riksrevisjonens undersøkelse av Program Felles IKT-tjenester for departementsfellesskapet",
   "type": 2
 }
@@ -73,3 +73,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

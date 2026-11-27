@@ -1,4 +1,4 @@
-<!-- innholds-hash: 31eaad69dc3b4d60144a4d1eea9d129a37b15054710565aa7b96bebed92e14ee -->
+<!-- innholds-hash: a7033ac76055512bdec96dcde457f7ae26723c71220d7543a99b3ae2ec268e96 -->
 
 # Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200322
 - **Type:** 2
 - **Korttittel:** Representantforslag om at Norge må ta sin del av ansvaret for et fritt Palestina
-- **Status:** 2
+- **Status:** 1
 - **Henvisning:** Dokument 8:293 S (2025-2026), Innst. 27 S (2026-2027)
 - **Komité:** Utenriks- og forsvarskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-03T20:34:28Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200322
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -117,7 +117,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1793660400000+0100)/",
-  "status": 2,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Marthe Hammer, Ingrid Fiskaa og Marian Hussein om at Norge må ta sin del av ansvaret for et fritt Palestina",
   "type": 2
 }
@@ -140,3 +140,4 @@
 - **2026-06-04** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-03** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

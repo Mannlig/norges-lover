@@ -1,4 +1,4 @@
-<!-- innholds-hash: f7d3da37882a6283f7b100955d10b892eec5fe49c8bb12dfbe0218b26df3ba2e -->
+<!-- innholds-hash: d9db833744d988cc1afc03a6c4d8126bc055213cf4d9caf59299f4e536755359 -->
 
 # Datatilsynets og Personvernnemndas årsrapportar for 2025
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200389
 - **Type:** 2
 - **Korttittel:** Datatilsynets og Personvernnemndas årsrapportar for 2025
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Meld. St. 13 (2025–2026), Innst. 41 S (2026-2027)
 - **Komité:** Kommunal- og forvaltningskomiteen
 - **Emner:** Personvern, Kommunikasjonsteknologi
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-20T17:54:48Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200389
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 2,
   "emne_liste": [
     {
@@ -56,7 +56,7 @@
     {
       "doedsdato": null,
       "etternavn": "Larsen",
-      "foedselsdato": "/Date(-73875600000+0200)/",
+      "foedselsdato": "/Date(-73879200000+0200)/",
       "fornavn": "Bjørn",
       "id": "BLA",
       "kjoenn": 2,
@@ -74,7 +74,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Datatilsynets og Personvernnemndas årsrapportar for 2025",
   "type": 2
 }
@@ -88,3 +88,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
 - **2026-11-20** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

@@ -1,4 +1,4 @@
-<!-- innholds-hash: 0e426f18b12487d4f9517239529cc0e858ae4f58a54dccafc615eae076192dc0 -->
+<!-- innholds-hash: 9dd99f09df658b207d1d9cb52318b47a198831337a65ca2dfcdb7ce805051d14 -->
 
 # Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200338
 - **Type:** 2
 - **Korttittel:** Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 3:16 (2025-2026), Innst. 54 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200338
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Riksrevisjonen si undersøking av kommunale helse- og omsorgstenester til eldre",
   "type": 2
 }
@@ -106,3 +106,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

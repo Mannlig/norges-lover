@@ -1,4 +1,4 @@
-<!-- innholds-hash: 44d1d79888743ef9b1596658e96f48526ede38250b5090fd73b31bbbbe969944 -->
+<!-- innholds-hash: c3c4c22a652230ea27baba75935db18ae0b489f4a08f3841615c003217a4acac -->
 
 # Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200382
 - **Type:** 2
 - **Korttittel:** Representantforslag om et nasjonalt trafikklyssystem for trygge skoleveier
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:322 S (2025–2026), Innst. 57 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200382
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Oda Indgaard, Siren Julianne Jensen, Marius Langballe Dalin og Frøya Skjold Sjursæther om et nasjonalt trafikklyssystem for trygge skoleveier",
   "type": 2
 }
@@ -150,3 +150,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

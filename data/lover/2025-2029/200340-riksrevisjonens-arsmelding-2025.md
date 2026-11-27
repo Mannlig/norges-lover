@@ -1,4 +1,4 @@
-<!-- innholds-hash: 85ab29c08d655925c6f7e51ad27820bee10452056787c8aa19cf2e779834a1f4 -->
+<!-- innholds-hash: fc1f4dd74b1942c8ec74d56826f2fc2a4799571707ae7537a4515aeded4f83fd -->
 
 # Riksrevisjonens årsmelding 2025
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200340
 - **Type:** 2
 - **Korttittel:** Riksrevisjonens årsmelding 2025
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 2 (2025-2026), Innst. 48 S (2026-2027)
 - **Komité:** Kontroll- og konstitusjonskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200340
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 6,
   "emne_liste": [],
   "forslagstiller_liste": [],
@@ -59,7 +59,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Riksrevisjonens årsmelding 2025",
   "type": 2
 }
@@ -106,3 +106,4 @@
 - **2026-06-19** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

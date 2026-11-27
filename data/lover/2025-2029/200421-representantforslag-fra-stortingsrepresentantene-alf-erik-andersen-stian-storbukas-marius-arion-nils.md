@@ -1,4 +1,4 @@
-<!-- innholds-hash: c603706b4f477f8002637747877c26c3ce31fb842bb925933eb5a84064e34296 -->
+<!-- innholds-hash: fdcb913f07395547c3f08eedc0586921f7a1162c912a6cc7e0bb77d487e1728d -->
 
 # Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200421
 - **Type:** 2
 - **Korttittel:** Representantforslag om å redusere bompengebelastningen på E39 Mandal-Kristiansand
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:3 S (2026–2027), Innst. 38 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** Vegtrafikk, Avgifter
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200421
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [
     {
@@ -265,7 +265,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Alf Erik Andersen, Stian Storbukås, Marius Arion Nilsen, Pål Morten Borgli, Kristoffer Sivertsen, Bård Hoksrud, May Helen Hetland Ervik, Dagfinn Henrik Olsen, Frank Edvard Sve og Liv Gustavsen om å redusere bompengebelastningen på E39 Mandal-Kristiansand",
   "type": 2
 }
@@ -281,3 +281,4 @@
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-10-19** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

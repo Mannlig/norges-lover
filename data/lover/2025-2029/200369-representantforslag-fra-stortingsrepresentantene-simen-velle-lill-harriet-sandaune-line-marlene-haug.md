@@ -1,4 +1,4 @@
-<!-- innholds-hash: c9ac6d845cd7047cb8e4272bc8a1733815e95ba5b03f66956922f7f1390fb25c -->
+<!-- innholds-hash: 5d877455a2abbbd7f9ccaea588dd21ae90bb706e24391da1457e815e47486574 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200369
 - **Type:** 2
 - **Korttittel:** Representantforslag om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften
-- **Status:** 7
+- **Status:** 1
 - **Henvisning:** Dokument 8:318 S (2025–2026), Innst. 44 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-24T20:14:18Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200369
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om å styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
   "type": 2
 }
@@ -151,3 +151,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
 - **2026-11-24** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

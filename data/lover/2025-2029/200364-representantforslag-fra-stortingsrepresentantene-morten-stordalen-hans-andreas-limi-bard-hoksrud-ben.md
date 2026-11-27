@@ -1,4 +1,4 @@
-<!-- innholds-hash: 8c7e186e38f612694ae4faeebe0acf1882f6a50f312d3a185580b5957f4342f8 -->
+<!-- innholds-hash: 75713defbd70388480967dc1606117e6efb7a2f36afaf25da9b02d9cdea6b919 -->
 
 # Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200364
 - **Type:** 2
 - **Korttittel:** Representantforslag om rammebetingelser for entusiastkjøretøy
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:313 S (2025–2026), Innst. 59 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200364
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -250,7 +250,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Morten Stordalen, Hans Andreas Limi, Bård Hoksrud, Bengt Rune Strifeldt, Silje Hjemdal, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen og Erlend Wiborg om rammebetingelser for entusiastkjøretøy",
   "type": 2
 }
@@ -265,3 +265,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

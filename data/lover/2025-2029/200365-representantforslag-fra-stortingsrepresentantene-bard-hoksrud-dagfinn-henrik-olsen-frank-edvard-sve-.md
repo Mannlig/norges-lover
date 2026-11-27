@@ -1,4 +1,4 @@
-<!-- innholds-hash: ebc248e22bf6ae464b44b7763d6245b806e5cc5b670be41019756665a14246e0 -->
+<!-- innholds-hash: e90f23eb5bb6bc0d2e85b82754ecccaaddf8adeb1593b4efa199cdd25c228c04 -->
 
 # Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200365
 - **Type:** 2
 - **Korttittel:** Representantforslag om å øke vektgrensen for førerkortklasse B
-- **Status:** 2
+- **Status:** 7
 - **Henvisning:** Dokument 8:314 S (2025–2026), Innst. 56 S (2026-2027)
 - **Komité:** Samferdselskomiteen
 - **Emner:** 
-- **Behandlet i sesjon:** 
+- **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-17T19:16:07Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200365
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -23,7 +23,7 @@
 
 ```json
 {
-  "behandlet_sesjon_id": null,
+  "behandlet_sesjon_id": "2026-2027",
   "dokumentgruppe": 4,
   "emne_liste": [],
   "forslagstiller_liste": [
@@ -193,7 +193,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 2,
+  "status": 7,
   "tittel": "Representantforslag fra stortingsrepresentantene Bård Hoksrud, Dagfinn Henrik Olsen, Frank Edvard Sve, May Helen Hetland Ervik, Mats Henriksen, Erlend Wiborg og Tor André Johnsen om å øke vektgrensen for førerkortklasse B",
   "type": 2
 }
@@ -207,3 +207,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)

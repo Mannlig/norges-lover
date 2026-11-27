@@ -1,4 +1,4 @@
-<!-- innholds-hash: 1b055569dd8d5fa5ad59e40e819cf48bdcd49f2e65b382081609f442f0c99c5a -->
+<!-- innholds-hash: 82d71726896dd677ed467b15827f9b66983ccfc657288cacf17db6e9901e4d18 -->
 
 # Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart
 
@@ -8,13 +8,13 @@
 - **Sak-ID:** 200357
 - **Type:** 2
 - **Korttittel:** Representantforslag om fleksibel skolestart
-- **Status:** 7
+- **Status:** 1
 - **Henvisning:** Dokument 8:306 S (2025–2026), Innst. 45 S (2026-2027)
 - **Komité:** Utdannings- og forskningskomiteen
 - **Emner:** 
 - **Behandlet i sesjon:** 2026-2027
 - **Hentet fra sesjon:** 2026-2027 (stortingsperiode 2025-2029)
-- **Sist oppdatert i arkivet:** 2026-11-24T20:14:18Z
+- **Sist oppdatert i arkivet:** 2026-11-26T21:46:25Z
 - **Sak-URL:** https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200357
 
 > Dette er saksmetadata fra Stortinget, ikke lovtekst.
@@ -136,7 +136,7 @@
     }
   ],
   "sist_oppdatert_dato": "/Date(1794870000000+0100)/",
-  "status": 7,
+  "status": 1,
   "tittel": "Representantforslag fra stortingsrepresentantene Simen Velle, Lill Harriet Sandaune, Line Marlene Haugen og Joakim Myklebost Tangen om fleksibel skolestart",
   "type": 2
 }
@@ -311,3 +311,4 @@
 - **2026-10-06** Innhold endret (se git-historikk for diff)
 - **2026-11-17** Innhold endret (se git-historikk for diff)
 - **2026-11-24** Innhold endret (se git-historikk for diff)
+- **2026-11-26** Innhold endret (se git-historikk for diff)
