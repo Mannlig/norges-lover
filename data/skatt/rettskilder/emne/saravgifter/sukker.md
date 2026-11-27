@@ -1,4 +1,4 @@
-<!-- innholds-hash: 30afa46ee4eacd8a6d98adf3f0fc5563d5fc605885ee20b1da7cf43c2fdae466 -->
+<!-- innholds-hash: 9dd378c0aefe8fe7eb2678144f1dab71371a79c727d42cedd4a1fc4e4f823b36 -->
 
 # Rettskilder om sukker
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/sukker/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:17:52Z
+- **Sist oppdatert i arkivet:** 2026-11-27T18:15:19Z
 
 ## Innhold
 
@@ -21,19 +21,20 @@ Her finner du rettskilder om sukker. Disse sidene er for deg som er profesjonell
 
 ### Siste publiserte rettskilder om Rettskilder om sukker
 
-1. [Sukker 2026](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2026/) Publisert 02.01.2026 | Gjelder fra : 31.12.2025 | Avgiftsrundskriv
-2. [Sukker 2025](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2025/) Publisert 02.01.2025 | Gjelder fra : 31.12.2024 | Avgiftsrundskriv
-3. [Sukker 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2024/) Publisert 12.01.2024 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
-4. [Sukker 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2023/) Publisert 23.01.2023 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
-5. [Sukker 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2022/) Publisert 30.01.2022 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
-6. [Sukker 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2021/) Publisert 17.01.2021 | Gjelder fra : 31.12.2020 | Avgiftsrundskriv
-7. [Sukker 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
-8. [Sukker 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2019-ii/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
-9. [Sukker 2019](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2019/) Publisert 23.01.2019 | Gjelder fra : 31.12.2018 | Avgiftsrundskriv
-10. [Sukker 2018](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2018/) Publisert 30.01.2018 | Gjelder fra : 31.12.2017 | Avgiftsrundskriv
-11. [Sukker 2017](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2017/) Publisert 02.01.2017 | Avgiftsrundskriv
-12. [Sukker 2016](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2016/) Publisert 14.01.2016 | Avgiftsrundskriv
-13. [Sukker 2006-2015](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2006-2015/) Publisert 01.01.2016 | Avgiftsrundskriv
+1. [Høring - forslag om endringer i avgiftsfritaket for sukker som brukes i ervervsmessig produksjon av andre varer](https://www.skatteetaten.no/rettskilder/type/horinger/horing---forslag-om-endringer-i-avgiftsfritaket-for-sukker-som-brukes-i-ervervsmessig-produksjon-av-andre-varer/) Publisert 20.10.2026 | Avgitt: 20.10.2026 | Høring
+2. [Sukker 2026](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2026/) Publisert 02.01.2026 | Gjelder fra : 31.12.2025 | Avgiftsrundskriv
+3. [Sukker 2025](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2025/) Publisert 02.01.2025 | Gjelder fra : 31.12.2024 | Avgiftsrundskriv
+4. [Sukker 2024](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2024/) Publisert 12.01.2024 | Gjelder fra : 31.12.2023 | Avgiftsrundskriv
+5. [Sukker 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2023/) Publisert 23.01.2023 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+6. [Sukker 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2022/) Publisert 30.01.2022 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
+7. [Sukker 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2021/) Publisert 17.01.2021 | Gjelder fra : 31.12.2020 | Avgiftsrundskriv
+8. [Sukker 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
+9. [Sukker 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2019-ii/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
+10. [Sukker 2019](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2019/) Publisert 23.01.2019 | Gjelder fra : 31.12.2018 | Avgiftsrundskriv
+11. [Sukker 2018](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2018/) Publisert 30.01.2018 | Gjelder fra : 31.12.2017 | Avgiftsrundskriv
+12. [Sukker 2017](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2017/) Publisert 02.01.2017 | Avgiftsrundskriv
+13. [Sukker 2016](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2016/) Publisert 14.01.2016 | Avgiftsrundskriv
+14. [Sukker 2006-2015](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/sukker-2006-2015/) Publisert 01.01.2016 | Avgiftsrundskriv
 
 ---
 *Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/rettskilder/emne/saravgifter/sukker/) av norges-lover-bot.*
@@ -41,3 +42,4 @@ Her finner du rettskilder om sukker. Disse sidene er for deg som er profesjonell
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-27** Innhold endret (se git-historikk for diff)
