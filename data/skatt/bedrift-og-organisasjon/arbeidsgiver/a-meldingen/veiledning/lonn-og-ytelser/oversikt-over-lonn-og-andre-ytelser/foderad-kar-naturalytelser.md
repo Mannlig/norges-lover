@@ -1,0 +1,133 @@
+<!-- innholds-hash: d445585a1952f1c0b190d9a2b9a16e584bff3e8aac93fff71e5c0a0e948a9fc2 -->
+
+# Føderåd (kår) – naturalytelser
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/foderad-kar-naturalytelser/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-27T05:30:42Z
+
+## Innhold
+
+Veiledning til a-meldingen
+
+## Føderåd (kår) – naturalytelser
+
+- Oppdatert: 04.01.2023
+
+Gjelder naturalytelser i føderåd (kår).
+
+### Kort om føderåd (kår)
+
+Oppgi naturalytelser i føderåd (kår) i pensjonsforhold.
+
+Med føderåd (kår) menes at den som selger en slik eiendom betinger seg rett til visse naturalier for resten av sin levetid som deler av betalingen. Føderåd kan bestå av kontanter, fri bolig, kost mv.
+
+Føderåd skal bare oppgis én gang i året.
+
+[Se utdypende informasjon om føderåd i Skatte-ABC](https://www.skatteetaten.no/rettskilder/type/handboker/skatte-abc/gjeldende/f-36-foderad/)
+
+### Hvilken informasjon skal du oppgi
+
+| Beløp | x kroner |
+| --- | --- |
+| Type lønn eller ytelse | naturalytelse, føderåd |
+| Trekkplikt | nei |
+| Grunnlag for arbeidsgiveravgift | nei |
+| Skatte- og avgiftsregel | hvis aktuelt |
+| Tilleggsinformasjon | - |
+
+#### Beløp
+
+Oppgi bruttobeløpet.
+
+#### Type lønn eller ytelse
+
+Oppgi «naturalytelse» og «føderåd».
+
+#### Trekkpliktig
+
+Ytelsen er ikke trekkpliktig.
+
+#### Grunnlag for arbeidsgiveravgift
+
+Du skal ikke beregne arbeidsgiveravgift av ytelsen.
+
+#### Skatte- og avgiftsregel
+
+Hvis inntektsmottakeren oppfyller vilkårene, skal du bruke skatte- og avgiftsregler:
+
+Skatte- og avgiftsregelen gjelder:
+
+- inntektsmottakere som omfattes av Svalbardskatteloven.
+
+Hvis inntektsmottakeren oppfyller vilkårene skal du markere lønn og andre ytelser med «Svalbard».
+
+Du må også markere tilhørende forskuddstrekk med beskrivelsen «Svalbard».
+
+[Se utdypende informasjon om forskuddstrekk i a-meldingen](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/forskuddstrekk-i-a-meldingen/)
+
+Husk også å oppgi riktig beskrivelse av fradraget når det er en egen fradragsbeskrivelse for Svalbard, se [fagforeningskontingent](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/fradrag/fagforeningskontingent/), [premie til pensjonsordninger](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/fradrag/premie-til-pensjonsordninger/), [premie til fond og trygd](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/fradrag/premier-til-fond-og-trygd/) og [brakkeleie](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/fradrag/brakkeleie/).
+
+[Se også utdypende informasjon om Svalbard](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/spesielle-grupper/svalbard/)
+
+#### Tilleggsinformasjon
+
+Ingen tilleggsinformasjon.
+
+#### Opptjeningsperiode (frivillig)
+
+Du kan oppgi opptjeningsperiode for alle typer lønn og andre ytelser i a-meldingen. Både startdato og sluttdato for opptjeningsperioden må være innenfor samme rapporteringsmåned.
+
+[Se også utdypende informasjon om opptjeningsperiode](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/opptjeningsperiode/)
+
+### Når skal du rapportere
+
+Oppgi ytelsen en gang per inntektsår, med frist 5. januar året etter.
+
+### Rette feil
+
+| MAGNET_EDAG-114 [Ugyldig verdi](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-114/) |
+| --- |
+| MAGNET_EDAG-114B [Ugyldig verdi for denne kalendermåneden](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-for-denne-kalendermaneden-114b/) |
+| MAGNET_EDAG-200 [Denne inntekten er rapportert med feil opplysninger og er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/denne-inntekten-er-rapportert-med-feil-opplysninger-og-er-ugyldig-200/) |
+| MAGNET_EDAG-230B [Ugyldig verdi](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-230b/) |
+| MAGNET_EDAG-243 [Opplysninger om opptjeningsperiode er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/opplysninger-om-opptjeningsperiode-er-ugyldig-243/) |
+| MAGNET_EDAG-260 [Start- og sluttdato for etterbetalingsperiode må være innenfor samme år](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/start--og-sluttdato-for-etterbetalingsperiode-ma-vare-innenfor-samme-ar-260/) |
+| MAGNET_EDAG-298 [Denne inntekten er rapportert med feil opplysninger og er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/denne-inntekten-er-rapportert-med-feil-opplysninger-og-er-ugyldig-298/) |
+
+[Se tastet feil beløp](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se gitt feil beskrivelse](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se utbetalt for mye](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se utbetalt for lite/skal etterbetale](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+### Hva bruker vi opplysningene til
+
+NAV bruker opplysningene i kontroller.
+
+Skatteetaten bruker opplysninger om pensjon og trygd til å fastsette inntekt. Beløpet summeres med andre ytelser og overføres til skattemeldingen.
+
+Statistisk sentralbyrå (SSB) bruker opplysningene til statistikkformål.
+
+### Aktuelt regelverk
+
+- [A-opplysningsloven](https://lovdata.no/dokument/NL/lov/2012-06-22-43)
+- [A-opplysningsforskriften](https://lovdata.no/dokument/SF/forskrift/2014-06-24-857)
+- [Skatteforvaltningsloven § 7-2](https://lovdata.no/NL/lov/2016-05-27-14/%C2%A77-2)
+- [Skatteforvaltningsforskriften § 7-2-9](https://lovdata.no/SF/forskrift/2016-11-23-1360/%C2%A77-2-9)
+- [Skattebetalingsloven § 5-7](https://lovdata.no/NL/lov/2005-06-17-67/%C2%A75-7)
+- [Folketrygdloven § 23-2](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A723-2)
+- [Folketrygdloven § 25-10](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A725-10)
+- [Folketrygdloven § 21-4](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A721-4)
+- [Statistikkloven § 10](https://lovdata.no/lov/2019-06-21-32/%C2%A710)
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/foderad-kar-naturalytelser/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-27** Første gang hentet

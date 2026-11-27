@@ -1,0 +1,137 @@
+<!-- innholds-hash: bfa401003d17105112a63c2489f02d7f49f4f68ea79edef4a5c849f3fcdd4f07 -->
+
+# Lønn og andre ytelser fra utenlandsk diplomatisk eller konsulære stasjon som ikke er skattepliktig i Norge
+
+## Kildeinformasjon
+
+- **Kilde:** Skatteetaten – https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/lonn-of-andre-ytelser-fra-utenlandsk-diplomatisk-eller-konsulare-stasjon-som-ikke-er-skattepliktig-i-norge/
+- **Sist oppdatert (kilde):** ukjent
+- **Sist oppdatert i arkivet:** 2026-11-27T06:23:02Z
+
+## Innhold
+
+Veiledning til a-meldingen
+
+## Lønn og andre ytelser fra utenlandsk diplomatisk eller konsulære stasjon som ikke er skattepliktig i Norge
+
+- Oppdatert: 08.12.2021
+
+Gjelder lønn og andre ytelser fra utenlandsk diplomatisk eller konsulær stasjon som ikke er skattepliktig i Norge.
+
+### Kort om lønn og andre ytelser fra utenlandsk diplomatisk eller konsulær stasjon som ikke er skattepliktig i Norge
+
+Oppgi lønn mv. fra utenlandsk diplomatisk eller konsulær stasjon til ansatte som ikke er norske borgere, eller som ikke er fast bosatte i Norge.
+
+Det gjelder [et særskilt skattefritak](https://lovdata.no/SF/forskrift/1999-11-19-1158/%C2%A72-30-1) for personer som tilhører det administrative eller tekniske personale ved fremmed stats diplomatiske stasjon/konsulære stasjon. Det er en forutsetning at personen ikke er norsk borger eller fast bosatt i Norge. Tilsvarende gjelder for medlemmer av familien til disse personene.
+
+### Hvilken informasjon skal du oppgi
+
+| Beløp | x kroner |
+| --- | --- |
+| Type lønn eller ytelse | kontantytelse, lønn mv. som ikke er skattepliktig i Norge fra utenlandsk diplomatisk eller konsulær stasjon |
+| Trekkplikt | nei |
+| Grunnlag for arbeidsgiveravgift | ja/nei |
+| Skatte- og avgiftsregel | - |
+| Tilleggsinformasjon: |  |
+| Skattemessig bosatt | landkode |
+
+#### Beløp
+
+Oppgi bruttobeløpet.
+
+#### Type lønn eller ytelse
+
+Oppgi «kontantytelse» og «lønn mv. som ikke er skattepliktig i Norge fra utenlandsk diplomatisk eller konsulær stasjon».
+
+#### Trekkpliktig
+
+Ytelsen er ikke trekkpliktig.
+
+Det er gitt fritak fra trekkplikt for fremmede staters utsendte konsulære tjenestemenn.
+
+#### Grunnlag for arbeidsgiveravgift
+
+Du skal beregne arbeidsgiveravgift av denne ytelsen.
+
+Unntak: Du kan bare la være å beregne arbeidsgiveravgift når inntektsmottakeren:
+
+- er omfattet av trygdelovgivningen i et annet land i henhold til en sosialkonvensjon eller EØS-avtalen
+- er en utenlandsk arbeidstaker som ikke er medlem av folketrygden og som arbeider på norsk kontinentalsokkel eller i norsk territorialfarvann
+
+Arbeidstaker har i noen tilfeller bekreftelse på at medlemskap opprettholdes hos egen trygdemyndighet (A1 eller annen blankett). NAV Medlemskap og avgift vurderer all dokumentasjon, registrerer et eventuelt unntak fra medlemskap i folketrygden med periode og om unntaket gjelder hele eller deler av folketrygden. Registrert unntak fra medlemskap i norsk folketrygd sendes elektronisk fra NAV til Skatteetaten.
+
+Det er bare registrert unntak hos Skatteetaten som gir arbeidsgiver fritak fra å beregne arbeidsgiveravgift for arbeidstaker.
+
+Skatteetaten kan fastsette arbeidsgiveravgift for arbeidsgiver hvis arbeidstaker ikke er registrert med unntak og rapportert lønn eller ytelse ikke inngår i avgiftspliktig grunnlag.
+
+Arbeidsgiver eller den ansatte kan kontakte NAV ved spørsmål om unntak fra medlemskap i folketrygden er registrert.
+
+Det skal ikke betales arbeidsgiveravgift av lønn eller annen godtgjørelse til personer som etter Wien-konvensjonen om diplomatisk samkvem artikkel 33 og artikkel 37 er unntatt fra trygden i Norge. Hvis den ansatte ikke omfattes av art. 33 og 37 i Wien-konvensjonen, gjelder ordinære regler for arbeidsgiveravgift.
+
+#### Skatte- og avgiftsregel
+
+Du kan ikke bruke særskilte skatte- og avgiftsregler for denne ytelsen.
+
+#### Tilleggsinformasjon
+
+Oppgi landkode for hvor inntektsmottakeren er skattemessig bosatt.
+
+#### Opptjeningsperiode (frivillig)
+
+Du kan oppgi opptjeningsperiode for alle typer lønn og andre ytelser i a-meldingen. Både startdato og sluttdato for opptjeningsperioden må være innenfor samme rapporteringsmåned.
+
+[Se også utdypende informasjon om opptjeningsperiode](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/opptjeningsperiode/)
+
+### Når skal du rapportere
+
+Oppgi ytelsen den kalendermåneden du har utbetalt beløpet.
+
+### Rette feil
+
+| MAGNET_EDAG-114 [Ugyldig verdi](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-114/) |
+| --- |
+| MAGNET_EDAG-114B [Ugyldig verdi for denne kalendermåneden](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-for-denne-kalendermaneden-114b/) |
+| MAGNET_EDAG-200 [Denne inntekten er rapportert med feil opplysninger og er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/denne-inntekten-er-rapportert-med-feil-opplysninger-og-er-ugyldig-200/) |
+| MAGNET_EDAG-230B [Ugyldig verdi](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/ugyldig-verdi-230b/) |
+| MAGNET_EDAG-243 [Opplysninger om opptjeningsperiode er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/opplysninger-om-opptjeningsperiode-er-ugyldig-243/) |
+| MAGNET_EDAG-298 [Denne inntekten er rapportert med feil opplysninger og er ugyldig](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/feilmeldinger-magnetedag-og-tilbakemelding/oversikt-over-feilmeldinger-magnetedag/denne-inntekten-er-rapportert-med-feil-opplysninger-og-er-ugyldig-298/) |
+
+[Se tastet feil beløp](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se gitt feil beskrivelse](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se utbetalt for mye](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+[Se utbetalt for lite/skal etterbetale](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/rette-feil-i-lonn-og-andre-ytelser/)
+
+### Hva bruker vi opplysningene til
+
+NAV har behov for informasjon om ytelser til personer som er medlemmer av norsk trygd.
+
+Ytelsen tas ikke med i skattemeldingen, men inngår i grunnlag for arbeidsgiveravgift.
+
+Statistisk sentralbyrå (SSB) bruker opplysningene til statistikkformål.
+
+### Aktuelt regelverk
+
+- [A-opplysningsloven](https://lovdata.no/dokument/NL/lov/2012-06-22-43)
+- [A-opplysningsforskriften](https://lovdata.no/dokument/SF/forskrift/2014-06-24-857)
+- [Skatteforvaltningsloven § 7-2](https://lovdata.no/NL/lov/2016-05-27-14/%C2%A77-2)
+- [Skatteforvaltningsforskriften § 7-2-1](https://lovdata.no/SF/forskrift/2016-11-23-1360/%C2%A77-2-1)
+- [Skatteforvaltningsforskriften § 7-2-9](https://lovdata.no/SF/forskrift/2016-11-23-1360/%C2%A77-2-9)
+- [Skattebetalingsloven § 5-6](https://lovdata.no/NL/lov/2005-06-17-67/%C2%A75-6)
+- [Skattebetalingsloven § 5-8](https://lovdata.no/NL/lov/2005-06-17-67/%C2%A75-8)
+- [Skattebetalingsforskriften § 5-4-2](https://lovdata.no/SF/forskrift/2007-12-21-1766/%C2%A75-4-2)
+- [Folketrygdloven § 23-2](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A723-2)
+- [Folketrygdloven § 25-10](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A725-10)
+- [Folketrygdloven § 21-4](https://lovdata.no/NL/lov/1997-02-28-19/%C2%A721-4)
+- [Statistikkloven § 10](https://lovdata.no/lov/2019-06-21-32/%C2%A710)
+- [Skatteloven § 2-30](https://lovdata.no/NL/lov/1999-03-26-14/%C2%A72-30)
+- [FSFIN Forskrift til skatteloven § 2-30-1](https://lovdata.no/SF/forskrift/1999-11-19-1158/%C2%A72-30-1)
+
+---
+*Automatisk hentet fra [Skatteetaten](https://www.skatteetaten.no/bedrift-og-organisasjon/arbeidsgiver/a-meldingen/veiledning/lonn-og-ytelser/oversikt-over-lonn-og-andre-ytelser/lonn-of-andre-ytelser-fra-utenlandsk-diplomatisk-eller-konsulare-stasjon-som-ikke-er-skattepliktig-i-norge/) av norges-lover-bot.*
+
+## Endringshistorikk
+
+- **2026-11-27** Første gang hentet
