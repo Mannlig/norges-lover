@@ -1,11 +1,11 @@
-<!-- innholds-hash: ae713a25769bec8a61ecfe68a87140d13829ce5b70df6c19f5bb9aba5f0f3185 -->
+<!-- innholds-hash: 676cf2f894d6338186ced4903fb5b56e2dc7bfbc5126d5f985b4e72073c9e1a7 -->
 
 # Er arbeidsledig eller permittert - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/arbeidsledig-permittert
-- **Sist oppdatert i arkivet:** 2026-10-13T21:29:22Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:32:08Z
 
 ## Innhold
 
@@ -171,7 +171,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -181,7 +181,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -196,3 +196,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

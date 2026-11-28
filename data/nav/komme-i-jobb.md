@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1d58619cb5d3224f687399c6ba982602eeb4f96bb513d8e895bc2f835d8592dc -->
+<!-- innholds-hash: ba4336984d3c63e544c02d3359f67ba50030ab531fbdc7492a97199912b8d8f7 -->
 
 # Trenger hjelp til å komme i jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/komme-i-jobb
-- **Sist oppdatert i arkivet:** 2026-10-13T21:39:42Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:41:25Z
 
 ## Innhold
 
@@ -309,7 +309,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -319,7 +319,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -335,3 +335,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: d889d47a3c25c16147b50ac6d16d9bd0644c18cd6ebfee06785ed144c17bc62a -->
+<!-- innholds-hash: 009094d0f3564f0bbeb81bd07db953677582aa69ddb58547835932458fc93a77 -->
 
 # Hjelpemidler og tilrettelegging - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/hjelpemidler
-- **Sist oppdatert i arkivet:** 2026-10-13T21:36:03Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:37:50Z
 
 ## Innhold
 
@@ -27,6 +27,14 @@
 
 ### Kontakt oss
 
+Chat med chatbot
+
+Navs chatbot kan svare deg på generelle spørsmål.
+
+Chatbot:
+
+Alltid åpen
+
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
 Still oss et spørsmål og få skriftlig svar. Svartid er 3 arbeidsdager. Hvis du vil ha svar raskere, kan du bruke chat.
@@ -35,7 +43,7 @@ Ring oss på 55 55 11 11
 
 Åpent hverdager kl. 9-11.15 og 12.15-14.30.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Finn din hjelpemiddelsentral](https://www.nav.no/no/person/hjelpemidler/hjelpemidler-og-tilrettelegging/kontakt-nav-hjelpemiddelsentral)
 
@@ -56,3 +64,4 @@ Meld deg på nyhetsbrevet fra Nav hjelpemidler og tilrettelegging for å få opp
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

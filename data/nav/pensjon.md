@@ -1,11 +1,11 @@
-<!-- innholds-hash: ff902b1198c59379896ef20eb4781181aaeb15282eb51fdea92370c3c986cc60 -->
+<!-- innholds-hash: 9c6df74c078241098b0bebba762acef5af084c76d33c262075d4dedd1010d217 -->
 
 # Pensjon - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/pensjon
-- **Sist oppdatert i arkivet:** 2026-10-13T21:45:20Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:47:08Z
 
 ## Innhold
 
@@ -33,7 +33,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -43,7 +43,7 @@ Ring oss på 55 55 33 34
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -58,3 +58,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

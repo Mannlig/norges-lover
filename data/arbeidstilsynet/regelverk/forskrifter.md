@@ -1,4 +1,4 @@
-<!-- innholds-hash: 4149ea701617aa12b39878e9bcb587d569a1db3168ccc6bbac981b034a0ec04f -->
+<!-- innholds-hash: b45d4737aab8b8ef260eceaccb6154b9941ee81a9d2c8441fc1b9f2c22dba7fb -->
 
 # Forskrifter
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/regelverk/forskrifter/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-11-13T22:43:03Z
+- **Sist oppdatert i arkivet:** 2026-11-28T08:58:33Z
 
 ## Innhold
 
@@ -37,6 +37,7 @@
 - [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter2/)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei2/)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil2/)
+- [Forskrift om gjenvinning av skip og flyttbare innretninger](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger/)
 - [Forskrift om godkjenning av renholdsvirksomheter m.m.](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-godkjenning-av-renholdsvirksomheter-m.m)
 - [Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfarer/)
 - [Forskrift om helse og sikkerhet ved landboring](https://www.arbeidstilsynet.no/regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring/)
@@ -73,3 +74,4 @@
 
 - **2026-10-13** Første gang hentet
 - **2026-11-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

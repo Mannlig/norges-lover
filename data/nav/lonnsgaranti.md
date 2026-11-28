@@ -1,11 +1,11 @@
-<!-- innholds-hash: 7bcf8cf4a19da4d556fc07ab8ddcbd5062dc2f23a0a3b3c4dc01e84cf186d883 -->
+<!-- innholds-hash: 9d658145033656a23ec420e6a6856fd464822294bc4124b9c1420e50c5f009fb -->
 
 # Lønnsgaranti - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/lonnsgaranti
-- **Sist oppdatert i arkivet:** 2026-11-06T00:14:34Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:42:51Z
 
 ## Innhold
 
@@ -252,8 +252,6 @@ Har du generelle spørsmål om lønnsgarantiordningen eller saksbehandlingen til
 
 Hvis du trenger hjelp i kontakten din med Nav, kan du gi fullmakt til en person som kan hjelpe deg.
 
-Du kan for tiden ikke sende inn kjøreliste digitalt på grunn av oppdateringer vi gjør i våre systemer. Vi beklager ulempene dette medfører.
-
 [Lag fullmakt](https://www.nav.no/start/generell-fullmakt)[Ettersend dokumentasjon](https://www.nav.no/fyllut-ettersending/nav951536?sub=paper)
 
 #### Klagerettigheter
@@ -308,7 +306,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -318,7 +316,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -334,3 +332,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

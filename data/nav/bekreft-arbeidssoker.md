@@ -1,11 +1,11 @@
-<!-- innholds-hash: d0e046c88d90a823935b955a460e5894e7067b56d4ccb04343c59ca0bb05edb7 -->
+<!-- innholds-hash: 391c08146148bed0e95d26db980cadd964bb4d64bf41de0ca1c4a1f52d8b7ff7 -->
 
 # Bekreft at du vil være registrert som arbeidssøker - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/bekreft-arbeidssoker
-- **Sist oppdatert i arkivet:** 2026-11-06T00:04:32Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:32:49Z
 
 ## Innhold
 
@@ -88,7 +88,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -98,7 +98,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -114,3 +114,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

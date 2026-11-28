@@ -1,4 +1,4 @@
-<!-- innholds-hash: 840717c5cd3dd19898edcda6fdc7c0aaefff98f2fbf9c117ee363124218a807b -->
+<!-- innholds-hash: 05dd7089327b21e52bb6a2e00cecf9e26f014c77d0401fb6ffb820e26b7eca6c -->
 
 # Psykososialt arbeidsmiljø
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Arbeidstilsynet – https://www.arbeidstilsynet.no/arbeidsmiljo/psykososialt-arbeidsmiljo/
 - **Kategori:** Arbeidsmiljø og HMS
-- **Sist oppdatert i arkivet:** 2026-11-21T06:54:33Z
+- **Sist oppdatert i arkivet:** 2026-11-28T09:14:50Z
 
 ## Innhold
 
@@ -68,7 +68,7 @@ Eksempler på et godt psykososialt arbeidsmiljø er når
 
 [Tydeligere regelverk fra 1. januar 2026 1. januar ble arbeidsmiljølovens krav til et fullt forsvarlig psykososialt arbeidsmiljø presisert. Endringene skal gjøre det enklere for arbeidsgivere å forstå hva psykososialt arbeidsmiljø kan handle om, og hvordan de kan sikre et godt og trygt arbeidsmiljø for sine ansatte.](https://www.arbeidstilsynet.no/nyheter/snart-blir-reglene-for-psykososialt-arbeidsmiljo-tydeligere/)
 
-[Flere aktuelle nyhetssaker](https://www.arbeidstilsynet.no/nyheter/)
+[Flere nyheter fra Arbeidstilsynet](https://www.arbeidstilsynet.no/nyheter/)
 
 ### Det psykososiale arbeidsmiljøet skal være fullt forsvarlig
 
@@ -104,11 +104,11 @@ Hvordan det forebyggende arbeidsmiljøarbeidet gjøres, må tilpasses den enkelt
 
 ### Kommende kurs og webinar
 
-[Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – fra krav til praksis Østensjøveien 32, Oslo tor. 26. nov. 09.00 - 11.30 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/oslo-tydeligere-regelverk-om-psykososialt-arbeidsmiljo--fra-krav-til-praksis-26nov/)
-
 [Trondheim: Jobb forebyggende med psykososialt arbeidsmiljø – fra krav til praksis Statens hus, Prinsens gate 1A, Trondheim man. 30. nov. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/trondheim30nov-jobb-forebyggende-med-psykososialt-arbeidsmiljo-fra-krav-til-praksis/)
 
 [Oslo: Tydeligere regelverk om psykososialt arbeidsmiljø – fra krav til praksis Østensjøveien 32, Oslo tir. 1. des. 09.00 - 11.30 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/oslo-tydeligere-regelverk-om-psykososialt-arbeidsmiljo--fra-krav-til-praksis-1des/)
+
+[Tromsø: Tydeligere regelverk for psykososialt arbeidsmiljø – fra krav til praksis Kystens hus, Stortorget 1 tor. 3. des. 12.30 - 15.00 Fysiske arrangement](https://www.arbeidstilsynet.no/kurs/tromso-tydeligere-regelverk-for-psykososialt-arbeidsmiljo-3-des/)
 
 [Se alle våre kurs og webinar](https://www.arbeidstilsynet.no/kurs/)
 
@@ -140,3 +140,4 @@ Fann du det du leitte etter?
 - **2026-11-06** Innhold endret (se git-historikk for diff)
 - **2026-11-13** Innhold endret (se git-historikk for diff)
 - **2026-11-21** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

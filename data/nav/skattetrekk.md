@@ -1,11 +1,11 @@
-<!-- innholds-hash: 041b2ac2230c1dd376652e929bce2d1d79f1ad39c4feb76aa3641915babf63e9 -->
+<!-- innholds-hash: dd669e424aec18f87a0106d21c2fde5bcae5efcdaa97aa23841c79996ea7e9c5 -->
 
 # Skattetrekk på utbetalinger fra Nav - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/skattetrekk
-- **Sist oppdatert i arkivet:** 2026-10-13T21:50:43Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:51:21Z
 
 ## Innhold
 
@@ -111,6 +111,11 @@ Hvis du betaler Svalbardskatt eller kildeskatt, er det ordinært skattetrekk i j
 | Skattetrekk i juni | Ordinært skattetrekk |
 | Skattetrekk i desember | Trekkfri |
 
+| Aktivitetspenger |  |
+| --- | --- |
+| Skattetrekk i juni | Trekkfri |
+| Skattetrekk i desember | Halvt skattetrekk |
+
 | Avtalefestet pensjon (AFP) |  |
 | --- | --- |
 | Skattetrekk i juni | Ordinært skattetrekk |
@@ -136,7 +141,7 @@ Hvis du betaler Svalbardskatt eller kildeskatt, er det ordinært skattetrekk i j
 | Skattetrekk i juni | Ordinært skattetrekk |
 | Skattetrekk før jul, vanligvis ved utbetaling i november | Trekkfri periode uke 47/48 eller 48/49 |
 
-| [Introduksjonsstønad](https://arkiv.imdi.no/kvalifisering/regelverk/introduksjonsprogrammet/introduksjonsstonad/) |  |
+| Introduksjonsstønad |  |
 | --- | --- |
 | Skattetrekk i juni | Trekkfri |
 | Skattetrekk i desember | Halvt skattetrekk |
@@ -306,7 +311,7 @@ Hvis du blir trukket 25 prosent kildeskatt av lønnen din, men går over til lø
 
 Hos Skatteetaten kan du lese om hvilket [trekk Nav er pålagt å gjøre i etterbetalinger](https://www.skatteetaten.no/person/skatt/skattekort/om-skattekortet/skatt-pa-etterbetalinger-av-pensjon-og-ytelser-fra-nav/#x209822).
 
-Oppdatert 25.08.2026
+Oppdatert 18.11.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/skattetrekk) av norges-lover-bot.*
@@ -317,3 +322,4 @@ Oppdatert 25.08.2026
 - **2026-06-18** Innhold endret (se git-historikk for diff)
 - **2026-06-26** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

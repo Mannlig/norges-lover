@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9f77e4078d68a643f4cabd5f5df951323588cb58de06ed1ceac83c4009255793 -->
+<!-- innholds-hash: 8064cfa10c7e44988d3b2b6fd2d5b989ecc49cc4708d8bda7e8770d2e8336f48 -->
 
 # Søker jobb - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/soker-jobb
-- **Sist oppdatert i arkivet:** 2026-10-13T21:52:09Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:52:49Z
 
 ## Innhold
 
@@ -175,7 +175,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -185,7 +185,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -204,3 +204,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: 50fd7d4ef25304c49611a8e0ccf0bb3f74ffa5cb7d080aeea9f75c4dddeff319 -->
+<!-- innholds-hash: 32ad6b1f851a5352ef2559795f97697dc13e7e49a745e40012ffff4cbd5ae648 -->
 
 # Fyll ut meldekort – dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort-dagpenger
-- **Sist oppdatert i arkivet:** 2026-10-13T21:50:01Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:50:41Z
 
 ## Innhold
 
@@ -334,7 +334,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/skriv-til-oss)
 
@@ -358,3 +358,4 @@ Hverdager 9-15. Vi kan ringe deg tilbake hvis ventetiden er over 5 minutter.
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

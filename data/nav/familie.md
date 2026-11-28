@@ -1,11 +1,11 @@
-<!-- innholds-hash: 0997c1cec2babf59bb91e00a6dc2dc3be189ebe1c99d5bdd413fcfbfe1f70583 -->
+<!-- innholds-hash: 485547d01dc1e96a7ff7f625fc1fc263ccea2e453d1a83baae27d0d157ba7206 -->
 
 # Familie og barn - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/familie
-- **Sist oppdatert i arkivet:** 2026-10-13T21:33:53Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:35:39Z
 
 ## Innhold
 
@@ -35,7 +35,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -45,7 +45,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -60,3 +60,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-11** Innhold endret (se git-historikk for diff)
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

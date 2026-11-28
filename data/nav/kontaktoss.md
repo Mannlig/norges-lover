@@ -1,11 +1,11 @@
-<!-- innholds-hash: 9a8d43303f5b2047959f9869b253f1b8a39dcce1a2696b5536ba8e65421066e9 -->
+<!-- innholds-hash: 7e85a601c20260711e2d4c9f6578f6d6d35a1097698d3016d12389ec6818a5a6 -->
 
 # Kontakt oss - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/kontaktoss
-- **Sist oppdatert i arkivet:** 2026-11-06T00:13:52Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:42:07Z
 
 ## Innhold
 
@@ -13,10 +13,10 @@
 
 ### Aktuelt
 
+- [Nav sender brev til pensjonister og uføretrygdede de to kommende helgene](https://www.nav.no/brevutsendelse-i-helgen)
+- [EFTA-domstolens uttalelse om uføretrygd og medlemskap](https://www.nav.no/efta-domstolens-uttalelse-om-uforetrygd-og-medlemskap)
 - [Nå kommer etteroppgjøret for uføretrygd](https://www.nav.no/etteroppgjoret)
 - [Unge med uføretrygd vil få SMS fra Nav](https://www.nav.no/sms-unge-ufore)
-- [Stortinget har vedtatt delvis utfasing av stønadene til enslig mor eller far](https://www.nav.no/delvis-utfasing-enslig-mor-far)
-- [Regulering av grunnbeløpet og pengestøtter fra 1. mai 2026](https://www.nav.no/regulering-2026)
 
 [Flere saker](https://www.nav.no/sok?ord=&page=0&f=privatperson&uf=aktuelt&s=1&preferredLanguage=nb)
 
@@ -27,6 +27,8 @@ Du møter først vår døgnåpne chatbot. På hverdager mellom 09.00 og 15.00 ka
 I chatten svarer vi deg på generelle spørsmål om tjenestene våre. Du kan være anonym, og da ser vi ikke informasjon om deg.
 
 [Chat med oss](https://www.nav.no/)
+
+Har du spørsmål om økonomisk sosialhjelp eller sosiale tjenester, må du ringe oss på 55 55 33 33 (tastevalg 1).
 
 ### Ring oss
 
@@ -132,7 +134,7 @@ Hvem du skal kontakte om hjelpemidler, avhenger av hva du trenger hjelp til. I m
 
 Ta kontakt med kommunen din. Du finner kontaktinformasjon på kommunens nettside. Les om [tilrettelegging i bolig](https://www.nav.no/tilrettelegge-bolig)
 
-Kontakt med Nav hjelpemiddelsentral på 55 55 11 11.
+Ta kontakt med Nav hjelpemiddelsentral på 55 55 11 11.
 
 Bedriftshelsetjenesten eller tilretteleggingstjenesten ved utdanningsinstitusjonen kan også hjelpe deg. Les om [tilrettelegging på jobb eller i utdanning](https://www.nav.no/tilrettelegging-jobb).
 
@@ -156,7 +158,7 @@ Du kan [logge inn på nav.no og bestille tolk.](https://tolkebestilling.nav.no/)
 
 Les mer om [tolking for døve, døvblinde og hørselsehemmede](https://www.nav.no/tolking-for-dove-dovblinde-horselshemmede).
 
-Les mer om [talespråktolk](https://www.nav.no/trenger-tolk)
+Les mer om [talespråktolk](https://www.nav.no/trenger-tolk).
 
 #### Finn din tolketjeneste:
 
@@ -214,7 +216,7 @@ Her finner du adressen til Nav hjelpemiddelsentral i regionen din, og informasjo
 
 Har du spørsmål om et vedtak fra Nav, kan du ringe eller [skrive til oss](https://www.nav.no/kontaktoss#skriv-til-oss).
 
-Oppdatert 15.10.2026
+Oppdatert 24.11.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/kontaktoss) av norges-lover-bot.*
@@ -226,3 +228,4 @@ Oppdatert 15.10.2026
 - **2026-07-03** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

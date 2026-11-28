@@ -1,11 +1,11 @@
-<!-- innholds-hash: 93fb3fdaebe643c384060dbff1c0290e78f6c5646e1636ec811631cc6e9afbc9 -->
+<!-- innholds-hash: 42f95e8fd421d6264b82c135e476bea5645906f67aec902b8bc205217af8b05c -->
 
 # Send meldekort - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/send-meldekort
-- **Sist oppdatert i arkivet:** 2026-10-13T21:49:20Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:50:00Z
 
 ## Innhold
 
@@ -92,7 +92,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -102,7 +102,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -119,3 +119,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

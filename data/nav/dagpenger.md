@@ -1,11 +1,11 @@
-<!-- innholds-hash: 1eab8a27dd0619c955b58ae6ebea590153139bf0d4f3af28dd7da590da69211a -->
+<!-- innholds-hash: ca4fc0a9723ad58c537021540bd794e07cef95f445a375bae371446fd06079bd -->
 
 # Dagpenger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/dagpenger
-- **Sist oppdatert i arkivet:** 2026-11-06T00:05:17Z
+- **Sist oppdatert i arkivet:** 2026-11-28T07:33:33Z
 
 ## Innhold
 
@@ -293,7 +293,7 @@ Når du har jobbet i et annet EØS-land, må vi ha informasjon om jobbene du har
 
 Hvis du ikke har fått PD U1-attest fra det EØS-landet du jobbet i, vil Nav be arbeidsmyndighetene i landet om attesten.
 
-Søker du om dagpenger uten PD U1 attest, må du dokumentere:
+For å behandle saken din trenger vi disse opplysningene:
 
 - start- og sluttdato
 - sluttårsak
@@ -317,7 +317,9 @@ For å få norske dagpenger må du være i Norge. Du må [søke om dagpenger og 
 
 Når du har jobbet i et annet EØS-land, må vi ha informasjon om jobber du har hatt der de siste 36 månedene. For å dokumentere jobbene trenger du en PD U1-attest. Denne attesten får du fra arbeidsmyndighetene i landet har jobbet i. Hvis du allerede har PD U1-attesten, legger du den ved søknaden om dagpenger i Norge.
 
-Hvis du ikke har fått PD U1-attest fra det EØS-landet du jobbet i, vil Nav be arbeidsmyndighetene i landet om attesten. Da må du legge ved dokumentasjon på dette når du søker om dagpenger:
+Hvis du ikke har fått PD U1-attest fra det EØS-landet du jobbet i, vil Nav be arbeidsmyndighetene i landet om attesten.
+
+For å behandle søknaden din trenger vi disse opplysningene:
 
 - start- og sluttdato
 - sluttårsak
@@ -343,7 +345,9 @@ For å få norske dagpenger må du være i Norge. Du må [søke om dagpenger og 
 
 Når du har jobbet i et annet nordisk land, må vi ha informasjon om jobbene du har hatt der de siste 36 månedene. For å dokumentere jobbene trenger du en PD U1-attest. Denne attesten får du fra arbeidsmyndighetene i landet har jobbet i. Du må sende PD U1-attesten sammen med søknaden om dagpenger i Norge.
 
-Hvis du ikke har fått PD U1-attest fra det EØS-landet du jobbet i, vil Nav be arbeidsmyndighetene i landet om attesten. Da må legge ved dokumentasjon på dette når du søker om dagpenger:
+Hvis du ikke har fått PD U1-attest fra det EØS-landet du jobbet i, vil Nav be arbeidsmyndighetene i landet om attesten.
+
+For å behandle søknaden din trenger vi disse opplysningene:
 
 - start- og sluttdato
 - sluttårsak
@@ -363,7 +367,7 @@ Hvilke land er en del av Norden?
 
 Når du reiser til et annet EØS-land for å søke jobb, kan du ha rett til å beholde dagpenger fra Norge i opptil 3 måneder. For at dette skal gjelde deg, må du ha vært helt arbeidsledig og registrert som arbeidssøker i minst 4 uker før avreise.
 
-Du trenger ikke å være registrert som arbeidssøker i 4 uker før avreise hvis du er innkalt til jobbintervju, eller hvis du reiser sammen med ektefellen/samboeren din som har fått jobb i et annet EØS-land. Du må dokumentere at ektefellen/samboeren din har fått jobb eller at du skal på jobbintervju. For å ha rett til å ta med deg dagpengene må du være helt arbeidsledig på avreisedatoen
+Du trenger ikke å være registrert som arbeidssøker i 4 uker før avreise hvis du reiser sammen med ektefellen/samboeren din som har fått jobb i et annet EØS-land. Du må dokumentere at ektefellen/samboeren din har fått jobb. For å ha rett til å ta med deg dagpengene må du være helt arbeidsledig på avreisedatoen.
 
 #### Hva må du gjøre før du reiser?
 
@@ -1191,7 +1195,7 @@ Hvis du vil vite om du har rett til andre pengestøtter, kan du ta kontakt med [
 - [Lov om lønnsplikt under permittering, permitteringslønnsloven (lovdata.no)](https://www.nav.no/no/person/arbeid/produktsider/dagpenger/lov-om-lonnsplikt-under-permittering-permitteringslonnsloven)
 - [Hovednr. 45 – Rundskriv til EØS-avtalens bestemmelser om trygd (lovdata.no)](https://lovdata.no/nav/rundskriv/r45-00/kap0#kap0)
 
-Oppdatert 07.10.2026
+Oppdatert 16.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -1205,7 +1209,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -1215,7 +1219,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Stengt nå, åpner kl. 9
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -1233,3 +1237,4 @@ Stengt nå, åpner kl. 9
 - **2026-07-19** Innhold endret (se git-historikk for diff)
 - **2026-10-13** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)
