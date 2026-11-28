@@ -1,11 +1,11 @@
-<!-- innholds-hash: c21831254c9e8797cd0e3d1c07acbdaf3654c04f3dce1a6d1bca502fa96fb4f2 -->
+<!-- innholds-hash: 768fc1f5cd99b84f1e019412bcdf7ad387ebfb61b27b1a8838cc0f72e04c307c -->
 
 # Har vært syk eller skadet lenge - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/syk-lenge
-- **Sist oppdatert i arkivet:** 2026-10-14T08:27:45Z
+- **Sist oppdatert i arkivet:** 2026-11-28T16:00:36Z
 
 ## Innhold
 
@@ -109,7 +109,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -133,3 +133,4 @@ Hverdager 9-15. Vi kan ringe deg tilbake hvis ventetiden er over 5 minutter.
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

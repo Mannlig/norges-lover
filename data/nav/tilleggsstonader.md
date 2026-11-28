@@ -1,11 +1,11 @@
-<!-- innholds-hash: ba9dd060d39a8a1ddb3ecbdb5f2e3abbe4f010c42db4acee820b9e2d4836e3b1 -->
+<!-- innholds-hash: e83020aae536656efea1f1f3f105c2dc664bf25885ce3038bfaf3501de5df110 -->
 
 # Tilleggsstønader - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilleggsstonader
-- **Sist oppdatert i arkivet:** 2026-11-06T09:28:36Z
+- **Sist oppdatert i arkivet:** 2026-11-28T15:44:26Z
 
 ## Innhold
 
@@ -432,7 +432,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -442,7 +442,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -461,3 +461,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

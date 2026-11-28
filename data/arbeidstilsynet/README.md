@@ -2,7 +2,7 @@
 
 Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 
-**Antall dokumenter:** 171
+**Antall dokumenter:** 172
 
 ## Innhold
 
@@ -152,6 +152,7 @@ Arbeidsmiljø, HMS og arbeidsforhold fra Arbeidstilsynet.
 - [Forskrift om delvis allmenngjøring av tariffavtale for renholdsbedrifter](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtale-for-renholdsbedrifter.md)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for godstransport på vei](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-godstransport-pa-vei.md)
 - [Forskrift om delvis allmenngjøring av tariffavtaler for persontransport med turbil](regelverk/forskrifter/forskrift-om-delvis-allmenngjoring-av-tariffavtaler-for-persontransport-med-turbil.md)
+- [Forskrift om gjenvinning av skip og flyttbare innretninger](regelverk/forskrifter/forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md)
 - [Forskrift om godkjenning av renholdsvirksomheter m.m.](regelverk/forskrifter/forskrift-om-godkjenning-av-renholdsvirksomheter-m.m.md)
 - [Forskrift om helse og sikkerhet i eksplosjonsfarlige atmosfærer](regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-i-eksplosjonsfarlige-atmosfarer.md)
 - [Forskrift om helse og sikkerhet ved landboring](regelverk/forskrifter/forskrift-om-helse-og-sikkerhet-ved-landboring.md)

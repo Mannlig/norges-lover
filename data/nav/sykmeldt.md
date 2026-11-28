@@ -1,11 +1,11 @@
-<!-- innholds-hash: 054c41cd83eb4d1ce14d6b4198131cc43488375b1736839f54cd740cec7f6156 -->
+<!-- innholds-hash: 4c5b08be34f05217cf1022cc572cdf925442be6ac9571650f6fa5bbbe5219007 -->
 
 # Har blitt sykmeldt - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykmeldt
-- **Sist oppdatert i arkivet:** 2026-10-14T08:30:03Z
+- **Sist oppdatert i arkivet:** 2026-11-28T16:02:03Z
 
 ## Innhold
 
@@ -121,7 +121,7 @@ Hvis arbeidsgiveren din ikke godtar sykmeldingen, kan du [søke om at Nav betale
 
 #### Arbeidsgiver skal sørge for tilrettelegging på jobb
 
-Når du er sykmeldt, bør du jobbe litt hvis du kan. Å være helt eller delvis i arbeid kan hjelpe deg å bli friskere raskere. Du trenger ikke å klare en full arbeidsdag. Det viktigste er å finne løsninger som fungerer for deg, selv om de er små.
+Når du er sykmeldt, skal du jobbe så mye du kan. Å være helt eller delvis i arbeid kan hjelpe deg å bli friskere raskere. Du trenger ikke å klare en full arbeidsdag. Det viktigste er å finne løsninger som fungerer for deg, selv om de er små.
 
 Arbeidsgiveren din har ansvaret for å tilrettelegge på jobben, så langt det er mulig, så du kan være helt eller delvis i jobb. Tilrettelegging betyr at arbeidsgiveren tilpasser jobben din, for eksempel oppgaver eller arbeidstid.
 
@@ -247,7 +247,7 @@ Følg opp oppfølgingsplanen sammen med arbeidsgiveren din. Se på tiltakene og 
 
 #### Etter 8 uker: Aktivitetskrav
 
-Aktivitetskrav betyr at du må være i aktivitet hvis du kan, for eksempel jobbe noe eller delta i behandling. Behandling kan være for eksempel samtaler, medisiner eller annen hjelp fra helsepersonell.
+Aktivitetskrav betyr at du må være i aktivitet hvis du kan, for eksempel jobbe noe eller delta i arbeidsrettede tiltak i regi av Nav.
 
 Nav følger med på om du er i aktivitet. Du får beskjed hvis Nav trenger mer informasjon fra deg.
 
@@ -341,7 +341,7 @@ Her kan du se timeavtaler hos fastlege, sykehus, helsestasjon og kommunal helse-
 
 Tjenester fra Helsenorge.no
 
-Oppdatert 18.09.2026
+Oppdatert 10.11.2026
 
 ### Finner du ikke svaret her? Ta kontakt med oss
 
@@ -355,7 +355,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -365,7 +365,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -383,3 +383,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: a4faeaaa5ea32b5da9a743f6d760317f0c4e784bf28f7a72a50efeba6355a5fb -->
+<!-- innholds-hash: b16489bd0defb122880f91601571eea2dfa9bf303ff36b0d90b77e43b531d90a -->
 
 # Reisetilskudd - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/reisetilskudd
-- **Sist oppdatert i arkivet:** 2026-11-06T09:42:07Z
+- **Sist oppdatert i arkivet:** 2026-11-28T15:57:48Z
 
 ## Innhold
 
@@ -178,7 +178,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/still-sporsmal)
 
@@ -188,7 +188,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -207,3 +207,4 @@ Ring oss på 55 55 33 33
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

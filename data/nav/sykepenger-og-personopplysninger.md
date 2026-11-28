@@ -1,11 +1,11 @@
-<!-- innholds-hash: 376282e1cfddf6e00c5977de29c1a5bdbab73733c1753304833609a9a0ded982 -->
+<!-- innholds-hash: 90fd952214c579f9ca9291b986dcef6c8a2660855f4b61214b20a5ce5002b565 -->
 
 # Sykepengesøknaden og behandling av personopplysninger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/sykepenger-og-personopplysninger
-- **Sist oppdatert i arkivet:** 2026-10-14T08:29:23Z
+- **Sist oppdatert i arkivet:** 2026-11-28T16:01:18Z
 
 ## Innhold
 
@@ -103,7 +103,7 @@ Alltid åpen
 
 Chat med veileder:
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Skriv til oss](https://www.nav.no/skriv-til-oss)
 
@@ -113,7 +113,7 @@ Ring oss på 55 55 33 33
 
 Åpent hverdager kl. 9–15.
 
-Åpent nå
+Stengt nå, åpner i morgen kl. 9
 
 [Se flere telefonnummer og tastevalg](https://www.nav.no/kontaktoss#ring-oss)
 
@@ -131,3 +131,4 @@ Ring oss på 55 55 33 33
 - **2026-07-12** Innhold endret (se git-historikk for diff)
 - **2026-07-20** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

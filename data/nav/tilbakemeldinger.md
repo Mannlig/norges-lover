@@ -1,11 +1,11 @@
-<!-- innholds-hash: 8070b22ba850a249ee405af30399473a2d4a0627c41e92390cb3fb160700af20 -->
+<!-- innholds-hash: 97b16ccc550a1cba6ce6f6292d558e5527f23cf5669dae7e0e69708310d75fda -->
 
 # Klage og tilbakemeldinger - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tilbakemeldinger
-- **Sist oppdatert i arkivet:** 2026-10-14T08:07:37Z
+- **Sist oppdatert i arkivet:** 2026-11-28T15:43:00Z
 
 ## Innhold
 
@@ -25,7 +25,7 @@ Har du oppdaget en teknisk feil, feil informasjon eller dårlig tilgjengelighet 
 
 Har du hatt en positiv opplevelse med Nav? [Del gjerne opplevelsen med oss](https://www.nav.no/person/kontakt-oss/nb/tilbakemeldinger/ros-til-nav).
 
-Oppdatert 02.09.2025
+Oppdatert 16.11.2026
 
 ---
 *Automatisk hentet fra [NAV](https://www.nav.no/tilbakemeldinger) av norges-lover-bot.*
@@ -34,3 +34,4 @@ Oppdatert 02.09.2025
 
 - **2026-05-15** Første gang hentet
 - **2026-10-14** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

@@ -1,11 +1,11 @@
-<!-- innholds-hash: aa0dcebb65a82f00b144bd4cdec37a984c46b9fa2c0fd542c8861be04e383515 -->
+<!-- innholds-hash: 22a8a53a8df3a8f3f5e38b319c58835fc8ff7afd0bbeaccb4ea7bd17558e4a11 -->
 
 # Pengestøtter og tjenester - nav.no
 
 ## Kildeinformasjon
 
 - **Kilde:** NAV (Arbeids- og velferdsdirektoratet) – https://www.nav.no/tjenester
-- **Sist oppdatert i arkivet:** 2026-11-06T09:29:18Z
+- **Sist oppdatert i arkivet:** 2026-11-28T15:45:10Z
 
 ## Innhold
 
@@ -21,7 +21,7 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 
 #### Velg område
 
-### Viser 228 av 228
+### Viser 227 av 227
 
 - [Aktivitetshjelpemidler for personer over 26 år](https://www.nav.no/aktivitetshjelpemidler-over-26) For å kunne være i fysisk aktivitet.
 - [Aktivitetspenger](https://www.nav.no/aktivitetspenger) For deg som er mellom 18 og 30 år, trenger oppfølging fra Nav for å komme i jobb eller utdanning og har behov for pengestøtte underveis. Dette er et forsøk bare for deg som er bosatt i Trondheim kommune.
@@ -169,7 +169,6 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 - [Reisekostnader ved samvær](https://www.nav.no/fordele-reisekostnader) Hvordan fordele reisekostnader ved samvær med barn.
 - [Reisetilskudd](https://www.nav.no/reisetilskudd) Tilskudd i stedet for sykepenger når det gjør at du kan jobbe helt eller delvis. Du kan også få reisetilskudd sammen med graderte sykepenger.
 - [Reiseutgifter](https://www.nav.no/reiseutgifter) Du kan få dekket reiseutgiftene dine når du skal prøve, tilpasse eller reparere et hjelpemiddel.
-- [Rekrutteringsprogrammet](https://www.nav.no/rekrutteringsprogrammet) Rekrutteringsprogrammet har som mål å bidra til at flere personer kommer i jobb i helse- og omsorgssektoren i kommunene.
 - [Rullestol og scooter](https://www.nav.no/rullestol-scooter) Manuelle og elektriske rullestoler for deg med nedsatt gangfunksjon
 - [Samtale – hjelpemidler](https://www.nav.no/hjelpemidler-for-samtale) Gjør det lettere å delta i samtaler når du har nedsatt hørsel.
 - [Samtykke fra foresatte](https://www.nav.no/samtykke-foresatte) Hvis du er under 18 år og vil registrere deg for å få oppfølging fra Nav, må du ha samtykke fra dine foresatte.
@@ -265,3 +264,4 @@ Ser du etter et spesifikt skjema? Se oversikt over alle [søknader og skjemaer](
 - **2026-07-04** Innhold endret (se git-historikk for diff)
 - **2026-10-14** Innhold endret (se git-historikk for diff)
 - **2026-11-06** Innhold endret (se git-historikk for diff)
+- **2026-11-28** Innhold endret (se git-historikk for diff)

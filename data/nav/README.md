@@ -2,7 +2,7 @@
 
 Stønader, ytelser, satser og grunnbeløp fra NAV.
 
-**Antall dokumenter:** 12149
+**Antall dokumenter:** 12151
 
 ## Innhold
 
@@ -58,6 +58,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Bilstønad - nav.no](bilstonad.md)
 - [Bor ikke sammen med barnet mitt - nav.no](bor-ikke-med-barnet-mitt.md)
 - [Søke pensjon fra Nav når du bor i et annet land enn Norge - nav.no](bosatt-utland-pensjon.md)
+- [Nav sender brev til pensjonister og uføretrygdede de to kommende helgene - nav.no](brevutsendelse-i-helgen.md)
 - [Briller og kontaktlinser for synshemmede - nav.no](briller-kontaktlinser-for-synshemmede.md)
 - [Briller til barn - nav.no](briller-til-barn.md)
 - [Bruk av oversettelsesverktøy i Nav – brudd på personopplysningssikkerheten   - nav.no](bruk-av-oversettelsesverktoy.md)
@@ -72,6 +73,7 @@ Stønader, ytelser, satser og grunnbeløp fra NAV.
 - [Digitalt jobbsøkerkurs - nav.no](digitalt-jobbsokerkurs.md)
 - [Din pensjon - nav.no](dinpensjon-nn.md)
 - [Forside privatperson - nav.no](diverse-dokumentasjon.md)
+- [EFTA-domstolens uttalelse om uføretrygd og medlemskap - nav.no](efta-domstolens-uttalelse-om-uforetrygd-og-medlemskap.md)
 - [Egenmelding - nav.no](egenmelding.md)
 - [Tilskudd til ekspertbistand - nav.no](ekspertbistand.md)
 - [Ektefellebidrag - nav.no](ektefellebidrag.md)

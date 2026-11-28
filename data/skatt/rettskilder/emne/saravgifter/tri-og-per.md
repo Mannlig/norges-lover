@@ -1,4 +1,4 @@
-<!-- innholds-hash: 2d09edba630df6374dc6315ab5df990c0b201e323f732385092d15ab6041ff19 -->
+<!-- innholds-hash: 720caa913ff47dc86289446dfb70b5e4b371b788e1c0d2ec5d3f122f16c557c2 -->
 
 # Rettskilder om TRI og PER
 
@@ -6,7 +6,7 @@
 
 - **Kilde:** Skatteetaten – https://www.skatteetaten.no/rettskilder/emne/saravgifter/tri-og-per/
 - **Sist oppdatert (kilde):** ukjent
-- **Sist oppdatert i arkivet:** 2026-10-10T13:22:08Z
+- **Sist oppdatert i arkivet:** 2026-11-28T14:26:49Z
 
 ## Innhold
 
@@ -21,8 +21,8 @@ Her finner du rettskilder om TRI og PER. Disse sidene er for deg som er profesjo
 
 ### Siste publiserte rettskilder om Rettskilder om TRI og PER
 
-1. [Trikloreten (TRI) og tetrakloreten (PER) 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2022/) Publisert 17.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
-2. [Trikloreten (TRI) og tetrakloreten (PER) 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+1. [Trikloreten (TRI) og tetrakloreten (PER) 2023](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2023/) Publisert 17.01.2021 | Gjelder fra : 31.12.2022 | Avgiftsrundskriv
+2. [Trikloreten (TRI) og tetrakloreten (PER) 2022](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2022/) Publisert 17.01.2021 | Gjelder fra : 31.12.2021 | Avgiftsrundskriv
 3. [Trikloreten (TRI) og tetrakloreten (PER) 2021](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2021/) Publisert 17.01.2021 | Gjelder fra : 31.12.2020 | Avgiftsrundskriv
 4. [TRI og PER 2020](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2020/) Publisert 15.01.2020 | Gjelder fra : 30.06.2020 | Avgiftsrundskriv
 5. [TRI og PER 2019 II](https://www.skatteetaten.no/rettskilder/type/rundskriv-retningslinjer-og-andre-rettskilder/avgiftsrundskriv/tri-og-per-2019-ii/) Publisert 30.06.2019 | Gjelder fra : 30.06.2019 | Avgiftsrundskriv
@@ -38,3 +38,4 @@ Her finner du rettskilder om TRI og PER. Disse sidene er for deg som er profesjo
 ## Endringshistorikk
 
 - **2026-10-10** Første gang hentet
+- **2026-11-28** Innhold endret (se git-historikk for diff)
